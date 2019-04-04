@@ -1,0 +1,339 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.347223913531332,"Akron","Ball State",4,4,0,0,-3,400990264,2018-02-13
+2,1,"19:36",2376,2376,"Tayler Persons made Three Point Jumper. Assisted by Trey Moses.",0,3,-3,0.306698156812272,"Akron","Ball State",4,4,0,0,-3,400990264,2018-02-13
+3,1,"19:21",2361,2361,"Mark Kostelac Turnover.",0,3,-3,0.336590796693121,"Akron","Ball State",4,4,0,0,-3,400990264,2018-02-13
+4,1,"19:21",2361,2361,"Foul on Mark Kostelac.",0,3,-3,0.336590796693121,"Akron","Ball State",4,4,0,0,-3,400990264,2018-02-13
+5,1,"18:49",2329,2329,"Tayler Persons missed Three Point Jumper.",0,3,-3,0.307757712073856,"Akron","Ball State",4,4,0,0,-3,400990264,2018-02-13
+6,1,"18:49",2329,2329,"Akron Defensive Rebound.",0,3,-3,0.307757712073856,"Akron","Ball State",4,4,0,0,-3,400990264,2018-02-13
+7,1,"18:27",2307,2307,"Daniel Utomi missed Three Point Jumper.",0,3,-3,0.29543388184517,"Akron","Ball State",4,4,0,0,-3,400990264,2018-02-13
+8,1,"18:27",2307,2307,"Eric Parrish Offensive Rebound.",0,3,-3,0.29543388184517,"Akron","Ball State",4,4,0,0,-3,400990264,2018-02-13
+9,1,"18:19",2299,2299,"Eric Parrish Turnover.",0,3,-3,0.304079473512993,"Akron","Ball State",4,4,0,0,-3,400990264,2018-02-13
+10,1,"18:08",2288,2288,"Kyle Mallers made Layup. Assisted by Tahjai Teague.",0,5,-5,0.248708800180317,"Akron","Ball State",4,4,0,0,-3,400990264,2018-02-13
+11,1,"17:49",2269,2269,"Jimond Ivey Turnover.",0,5,-5,0.236897263903733,"Akron","Ball State",4,4,0,0,-3,400990264,2018-02-13
+12,1,"17:47",2267,2267,"Tahjai Teague Steal.",0,5,-5,0.236897263903733,"Akron","Ball State",4,4,0,0,-3,400990264,2018-02-13
+13,1,"17:45",2265,2265,"Tahjai Teague made Layup.",0,7,-7,0.19518083836975,"Akron","Ball State",4,4,1,0,-3,400990264,2018-02-13
+14,1,"17:45",2265,2265,"Akron  Timeout",0,7,-7,0.19518083836975,"Akron","Ball State",3,4,1,0,-3,400990264,2018-02-13
+15,1,"17:34",2254,2254,"Malcolm Duvivier made Three Point Jumper. Assisted by Lucas Smith.",3,7,-4,0.290258247428656,"Akron","Ball State",3,4,1,0,-3,400990264,2018-02-13
+16,1,"17:23",2243,2243,"Tayler Persons Turnover.",3,7,-4,0.304086462909407,"Akron","Ball State",3,4,1,0,-3,400990264,2018-02-13
+17,1,"17:10",2230,2230,"Jimond Ivey made Layup.",5,7,-2,0.317569100053105,"Akron","Ball State",3,4,1,0,-3,400990264,2018-02-13
+18,1,"16:53",2213,2213,"Tahjai Teague Turnover.",5,7,-2,0.323918802585917,"Akron","Ball State",3,4,1,0,-3,400990264,2018-02-13
+19,1,"16:48",2208,2208,"Malcolm Duvivier made Three Point Jumper.",8,7,1,0.399157152577719,"Akron","Ball State",3,4,1,0,-3,400990264,2018-02-13
+20,1,"16:22",2182,2182,"Foul on Malcolm Duvivier.",8,7,1,0.395997355674522,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+21,1,"16:22",2182,2182,"Tayler Persons made Free Throw.",8,8,0,0.370353564547766,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+22,1,"16:22",2182,2182,"Tayler Persons made Free Throw.",8,9,-1,0.345420711070307,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+23,1,"16:02",2162,2162,"Daniel Utomi Turnover.",8,9,-1,0.344394229420416,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+24,1,"16:01",2161,2161,"Kyle Mallers Steal.",8,9,-1,0.344394229420416,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+25,1,"15:52",2152,2152,"Trey Moses Turnover.",8,9,-1,0.329702247199581,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+26,1,"15:52",2152,2152,"Official TV Timeout",8,9,-1,0.329702247199581,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+27,1,"15:32",2132,2132,"Mark Kostelac made Layup. Assisted by Jimond Ivey.",10,9,1,0.39286293393493,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+28,1,"15:20",2120,2120,"Kyle Mallers Turnover.",10,9,1,0.388307338715785,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+29,1,"15:04",2104,2104,"Foul on Tahjai Teague.",10,9,1,0.392604039208902,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+30,1,"15:04",2104,2104,"Daniel Utomi missed Layup.",10,9,1,0.392604039208902,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+31,1,"15:04",2104,2104,"Kyle Mallers Block.",10,9,1,0.392604039208902,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+32,1,"15:04",2104,2104,"Daniel Utomi Offensive Rebound.",10,9,1,0.392604039208902,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+33,1,"15:04",2104,2104,"Malcolm Duvivier made Three Point Jumper. Assisted by Daniel Utomi.",13,9,4,0.474987124963938,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+34,1,"15:04",2104,2104,"Tayler Persons made Three Point Jumper.",13,12,1,0.392604039208902,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+35,1,"14:23",2063,2063,"Eric Parrish Turnover.",13,12,1,0.387921916510557,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+36,1,"14:23",2063,2063,"Foul on Eric Parrish.",13,12,1,0.387921916510557,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+37,1,"13:55",2035,2035,"Tayler Persons made Jumper.",13,14,-1,0.343472798887648,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+38,1,"13:37",2017,2017,"Daniel Utomi made Layup.",15,14,1,0.403028072384311,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+39,1,"13:37",2017,2017,"Foul on Kyle Mallers.",15,14,1,0.403028072384311,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+40,1,"13:37",2017,2017,"Daniel Utomi made Free Throw.",16,14,2,0.43112612001904,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+41,1,"13:30",2010,2010,"Ishmael El-Amin Turnover.",16,14,2,0.43112612001904,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+42,1,"13:29",2009,2009,"Jimond Ivey Steal.",16,14,2,0.418424967641325,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+43,1,"13:27",2007,2007,"Jimond Ivey made Layup.",18,14,4,0.472891503542091,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+44,1,"13:12",1992,1992,"Tayler Persons missed Layup.",18,14,4,0.493568254956555,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+45,1,"13:12",1992,1992,"Malcolm Duvivier Defensive Rebound.",18,14,4,0.493568254956555,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+46,1,"13:03",1983,1983,"Eric Parrish made Three Point Jumper. Assisted by Jimond Ivey.",21,14,7,0.580682768316449,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+47,1,"13:01",1981,1981,"Ball State  Timeout",21,14,7,0.580682768316449,"Akron","Ball State",3,3,0,1,-3,400990264,2018-02-13
+48,1,"12:49",1969,1969,"Tahjai Teague Turnover.",21,14,7,0.549157206363013,"Akron","Ball State",3,3,0,1,-3,400990264,2018-02-13
+49,1,"12:47",1967,1967,"Mark Kostelac Steal.",21,14,7,0.549157206363013,"Akron","Ball State",3,3,0,1,-3,400990264,2018-02-13
+50,1,"12:22",1942,1942,"Mark Kostelac missed Layup.",21,14,7,0.586536381761584,"Akron","Ball State",3,3,0,1,-3,400990264,2018-02-13
+51,1,"12:22",1942,1942,"Zach Gunn Block.",21,14,7,0.586536381761584,"Akron","Ball State",3,3,0,1,-3,400990264,2018-02-13
+52,1,"12:19",1939,1939,"Ishmael El-Amin Defensive Rebound.",21,14,7,0.586006971772816,"Akron","Ball State",3,3,0,1,-3,400990264,2018-02-13
+53,1,"12:12",1932,1932,"Tayler Persons Turnover.",21,14,7,0.586006971772816,"Akron","Ball State",3,3,0,1,-3,400990264,2018-02-13
+54,1,"12:12",1932,1932,"Foul on Tayler Persons.",21,14,7,0.586006971772816,"Akron","Ball State",3,3,0,1,-3,400990264,2018-02-13
+55,1,"11:56",1916,1916,"Malcolm Duvivier missed Layup.",21,14,7,0.612978473291822,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+56,1,"11:56",1916,1916,"Lucas Smith Offensive Rebound.",21,14,7,0.612978473291822,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+57,1,"11:53",1913,1913,"Malcolm Duvivier made Three Point Jumper. Assisted by Lucas Smith.",24,14,10,0.699869427708944,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+58,1,"11:33",1893,1893,"Sean Sellers missed Jumper.",24,14,10,0.706606790989544,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+59,1,"11:33",1893,1893,"Lucas Smith Defensive Rebound.",24,14,10,0.706606790989544,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+60,1,"11:23",1883,1883,"Malcolm Duvivier missed Three Point Jumper.",24,14,10,0.658976304153028,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+61,1,"11:23",1883,1883,"Tahjai Teague Defensive Rebound.",24,14,10,0.658976304153028,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+62,1,"11:18",1878,1878,"Foul on Daniel Utomi.",24,14,10,0.671030042074368,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+63,1,"11:18",1878,1878,"Official TV Timeout",24,14,10,0.671030042074368,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+64,1,"11:11",1871,1871,"Trey Moses Turnover.",24,14,10,0.671030042074368,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+65,1,"11:03",1863,1863,"Eric Parrish missed Layup.",24,14,10,0.717036701994763,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+66,1,"11:03",1863,1863,"Sean Sellers Block.",24,14,10,0.717036701994763,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+67,1,"11:01",1861,1861,"Trey Moses Defensive Rebound.",24,14,10,0.717036701994763,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+68,1,"10:56",1856,1856,"Tayler Persons missed Layup.",24,14,10,0.691209008604192,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+69,1,"10:56",1856,1856,"Trey Moses Offensive Rebound.",24,14,10,0.691209008604192,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+70,1,"10:55",1855,1855,"Foul on Lucas Smith.",24,14,10,0.691209008604192,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+71,1,"10:47",1847,1847,"Foul on Mark Kostelac.",24,14,10,0.651633526490611,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+72,1,"10:28",1828,1828,"Sean Sellers missed Three Point Jumper.",24,14,10,0.680459648104003,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+73,1,"10:28",1828,1828,"Jimond Ivey Block.",24,14,10,0.680459648104003,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+74,1,"10:26",1826,1826,"Lucas Smith Defensive Rebound.",24,14,10,0.680459648104003,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+75,1,"10:05",1805,1805,"Jimond Ivey missed Three Point Jumper.",24,14,10,0.677975849059348,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+76,1,"10:05",1805,1805,"Trey Moses Defensive Rebound.",24,14,10,0.677975849059348,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+77,1,"9:49",1789,1789,"Trey Moses made Layup. Assisted by Tayler Persons.",24,16,8,0.634913454270118,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+78,1,"9:24",1764,1764,"Lucas Smith missed Three Point Jumper.",24,16,8,0.624531731816736,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+79,1,"9:24",1764,1764,"Torrey Patton Offensive Rebound.",24,16,8,0.624531731816736,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+80,1,"9:23",1763,1763,"Foul on Josh Thompson.",24,16,8,0.624531731816736,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+81,1,"9:15",1755,1755,"Jimond Ivey missed Jumper.",24,16,8,0.611797764914073,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+82,1,"9:15",1755,1755,"Sean Sellers Defensive Rebound.",24,16,8,0.611797764914073,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+83,1,"9:06",1746,1746,"Tayler Persons missed Layup.",24,16,8,0.645800842010441,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+84,1,"9:06",1746,1746,"Ball State Offensive Rebound.",24,16,8,0.645800842010441,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+85,1,"8:51",1731,1731,"Josh Thompson made Three Point Jumper. Assisted by Ishmael El-Amin.",24,19,5,0.544187261814062,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+86,1,"8:51",1731,1731,"Foul on Torrey Patton.",24,19,5,0.544187261814062,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+87,1,"8:51",1731,1731,"Josh Thompson made Free Throw.",24,20,4,0.510093718348488,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+88,1,"8:37",1717,1717,"Daniel Utomi missed Three Point Jumper.",24,20,4,0.502914399412621,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+89,1,"8:37",1717,1717,"Ishmael El-Amin Defensive Rebound.",24,20,4,0.502914399412621,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+90,1,"8:20",1700,1700,"Trey Moses Turnover.",24,20,4,0.490931905693244,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+91,1,"8:18",1698,1698,"Eric Parrish Steal.",24,20,4,0.535581991987241,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+92,1,"7:56",1676,1676,"Malcolm Duvivier made Three Point Jumper.",27,20,7,0.617881998083583,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+93,1,"7:41",1661,1661,"Foul on Daniel Utomi.",27,20,7,0.599950476578402,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+94,1,"7:41",1661,1661,"Official TV Timeout",27,20,7,0.599950476578402,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+95,1,"7:41",1661,1661,"Ishmael El-Amin made Free Throw.",27,21,6,0.568520795968408,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+96,1,"7:41",1661,1661,"Ishmael El-Amin made Free Throw.",27,22,5,0.536529396009495,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+97,1,"7:24",1644,1644,"Foul on Kyle Mallers.",27,22,5,0.558664355676205,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+98,1,"7:23",1643,1643,"Malcolm Duvivier missed Three Point Jumper.",27,22,5,0.558664355676205,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+99,1,"7:23",1643,1643,"Kyle Mallers Defensive Rebound.",27,22,5,0.558664355676205,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+100,1,"7:09",1629,1629,"Trey Moses Turnover.",27,22,5,0.546623390095992,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+101,1,"7:08",1628,1628,"Virshon Cotton Steal.",27,22,5,0.546623390095992,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+102,1,"7:03",1623,1623,"Malcolm Duvivier missed Three Point Jumper.",27,22,5,0.546623390095992,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+103,1,"7:03",1623,1623,"Lucas Smith Offensive Rebound.",27,22,5,0.546623390095992,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+104,1,"6:49",1609,1609,"Jimond Ivey missed Jumper.",27,22,5,0.52767901179243,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+105,1,"6:49",1609,1609,"Trey Moses Defensive Rebound.",27,22,5,0.52767901179243,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+106,1,"6:28",1588,1588,"Ishmael El-Amin missed Jumper.",27,22,5,0.529714982728028,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+107,1,"6:28",1588,1588,"Ball State Offensive Rebound.",27,22,5,0.529714982728028,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+108,1,"6:28",1588,1588,"Foul on Jimond Ivey.",27,22,5,0.529714982728028,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+109,1,"6:28",1588,1588,"Tahjai Teague made Free Throw.",27,23,4,0.495857543875544,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+110,1,"6:28",1588,1588,"Tahjai Teague made Free Throw.",27,24,3,0.462038053895095,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+111,1,"6:14",1574,1574,"Foul on Ishmael El-Amin.",27,24,3,0.500395341053357,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+112,1,"5:54",1554,1554,"Jimond Ivey made Layup.",29,24,5,0.555138787116881,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+113,1,"5:40",1540,1540,"Josh Thompson missed Layup.",29,24,5,0.553582832529731,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+114,1,"5:40",1540,1540,"Sina Gbadebo Defensive Rebound.",29,24,5,0.553582832529731,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+115,1,"5:39",1539,1539,"Foul on Josh Thompson.",29,24,5,0.555688440899325,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+116,1,"5:39",1539,1539,"Virshon Cotton made Free Throw.",30,24,6,0.589818417448212,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+117,1,"5:39",1539,1539,"Virshon Cotton made Free Throw.",31,24,7,0.623104856797424,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+118,1,"5:30",1530,1530,"Josh Thompson Turnover.",31,24,7,0.623104856797424,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+119,1,"5:13",1513,1513,"Eric Parrish made Jumper. Assisted by Jimond Ivey.",33,24,9,0.727994682908845,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+120,1,"4:56",1496,1496,"Tayler Persons missed Jumper.",33,24,9,0.70733648411,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+121,1,"4:56",1496,1496,"Daniel Utomi Defensive Rebound.",33,24,9,0.70733648411,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+122,1,"4:46",1486,1486,"Daniel Utomi made Layup.",35,24,11,0.757154150626969,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+123,1,"4:31",1471,1471,"Ishmael El-Amin missed Three Point Jumper.",35,24,11,0.758124914779955,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+124,1,"4:31",1471,1471,"Virshon Cotton Defensive Rebound.",35,24,11,0.758124914779955,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+125,1,"4:23",1463,1463,"Jimond Ivey missed Three Point Jumper.",35,24,11,0.766696729256459,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+126,1,"4:23",1463,1463,"Ball State Defensive Rebound.",35,24,11,0.766696729256459,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+127,1,"4:14",1454,1454,"Foul on Sina Gbadebo.",35,24,11,0.749419286334203,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+128,1,"4:14",1454,1454,"Ishmael El-Amin missed Free Throw.",35,24,11,0.749419286334203,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+129,1,"4:14",1454,1454,"Ball State Deadball Team Rebound.",35,24,11,0.749419286334203,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+130,1,"4:14",1454,1454,"Ishmael El-Amin made Free Throw.",35,25,10,0.720729336196787,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+131,1,"3:56",1436,1436,"Tahjai Teague missed Jumper.",35,25,10,0.753488902512863,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+132,1,"3:56",1436,1436,"Ball State Offensive Rebound.",35,25,10,0.753488902512863,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+133,1,"3:56",1436,1436,"Foul on Trey Moses.",35,25,10,0.753488902512863,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+134,1,"3:56",1436,1436,"Official TV Timeout",35,25,10,0.753488902512863,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+135,1,"3:56",1436,1436,"Torrey Patton made Free Throw.",36,25,11,0.780128039045149,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+136,1,"3:56",1436,1436,"Torrey Patton missed Free Throw.",36,25,11,0.780128039045149,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+137,1,"3:56",1436,1436,"Ishmael El-Amin Defensive Rebound.",36,25,11,0.780128039045149,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+138,1,"3:38",1418,1418,"Trey Moses made Layup. Assisted by Ishmael El-Amin.",36,27,9,0.722541124632423,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+139,1,"3:38",1418,1418,"Foul on Lucas Smith.",36,27,9,0.722541124632423,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+140,1,"3:38",1418,1418,"Trey Moses made Free Throw.",36,28,8,0.690407496411376,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+141,1,"3:23",1403,1403,"Malcolm Duvivier missed Layup.",36,28,8,0.697620157422804,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+142,1,"3:23",1403,1403,"Trey Moses Defensive Rebound.",36,28,8,0.697620157422804,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+143,1,"3:13",1393,1393,"Trey Moses made Layup. Assisted by Sean Sellers.",36,30,6,0.592679404697042,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+144,1,"2:52",1372,1372,"Foul on Tayler Persons.",36,30,6,0.585538673703212,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+145,1,"2:52",1372,1372,"Malcolm Duvivier made Free Throw.",37,30,7,0.620084719409689,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+146,1,"2:52",1372,1372,"Malcolm Duvivier made Free Throw.",38,30,8,0.653455476955552,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+147,1,"2:36",1356,1356,"Ishmael El-Amin missed Three Point Jumper.",38,30,8,0.701535299038115,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+148,1,"2:36",1356,1356,"Trey Moses Offensive Rebound.",38,30,8,0.701535299038115,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+149,1,"2:34",1354,1354,"Trey Moses missed Layup.",38,30,8,0.701535299038115,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+150,1,"2:34",1354,1354,"Ball State Offensive Rebound.",38,30,8,0.701535299038115,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+151,1,"2:30",1350,1350,"Sean Sellers made Jumper.",38,32,6,0.633128564947158,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+152,1,"2:06",1326,1326,"Malcolm Duvivier Turnover.",38,32,6,0.622287347961262,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+153,1,"1:53",1313,1313,"Trey Moses made Layup. Assisted by Sean Sellers.",38,34,4,0.570656692798877,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+154,1,"1:22",1282,1282,"Malcolm Duvivier missed Layup.",38,34,4,0.53277802838821,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+155,1,"1:22",1282,1282,"Trey Moses Block.",38,34,4,0.53277802838821,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+156,1,"1:20",1280,1280,"Trey Moses Defensive Rebound.",38,34,4,0.53277802838821,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+157,1,"1:18",1278,1278,"Ishmael El-Amin made Jumper.",38,36,2,0.447344015607091,"Akron","Ball State",3,3,0,0,-3,400990264,2018-02-13
+158,1,"1:15",1275,1275,"Akron  Timeout",38,36,2,0.447344015607091,"Akron","Ball State",2,3,1,0,-3,400990264,2018-02-13
+159,1,"1:00",1260,1260,"Eric Parrish missed Layup.",38,36,2,0.484230743482071,"Akron","Ball State",2,3,1,0,-3,400990264,2018-02-13
+160,1,"1:00",1260,1260,"Trey Moses Defensive Rebound.",38,36,2,0.484230743482071,"Akron","Ball State",2,3,1,0,-3,400990264,2018-02-13
+161,1,"0:53",1253,1253,"Foul on Mark Kostelac.",38,36,2,0.476476577943881,"Akron","Ball State",2,3,1,0,-3,400990264,2018-02-13
+162,1,"0:53",1253,1253,"Tahjai Teague made Free Throw.",38,37,1,0.438886369140078,"Akron","Ball State",2,3,1,0,-3,400990264,2018-02-13
+163,1,"0:53",1253,1253,"Tahjai Teague made Free Throw.",38,38,0,0.40198463301067,"Akron","Ball State",2,3,1,0,-3,400990264,2018-02-13
+164,1,"0:32",1232,1232,"Eric Parrish made Dunk. Assisted by Jimond Ivey.",40,38,2,0.47162425551244,"Akron","Ball State",2,3,1,0,-3,400990264,2018-02-13
+165,1,"0:04",1204,1204,"Ishmael El-Amin made Layup.",40,40,0,0.393886033478169,"Akron","Ball State",2,3,0,0,-3,400990264,2018-02-13
+166,1,"0:01",1201,1201,"Foul on Eric Parrish.",40,40,0,0.393886033478169,"Akron","Ball State",2,3,0,0,-3,400990264,2018-02-13
+167,1,"0:01",1201,1201,"Virshon Cotton Turnover.",40,40,0,0.393886033478169,"Akron","Ball State",2,3,0,0,-3,400990264,2018-02-13
+168,1,"0:01",1201,1201,"Tahjai Teague Steal.",40,40,0,0.393886033478169,"Akron","Ball State",2,3,0,0,-3,400990264,2018-02-13
+169,1,"0:01",1201,1201,"Tahjai Teague missed Free Throw.",40,40,0,0.393886033478169,"Akron","Ball State",2,3,0,0,-3,400990264,2018-02-13
+170,1,"0:01",1201,1201,"Ball State Deadball Team Rebound.",40,40,0,0.393886033478169,"Akron","Ball State",2,3,0,0,-3,400990264,2018-02-13
+171,1,"0:01",1201,1201,"Tahjai Teague made Free Throw.",40,41,-1,0.356575891272202,"Akron","Ball State",2,3,0,0,-3,400990264,2018-02-13
+172,1,"0:00",1200,1200,"End of 1st half",40,40,0,0.393886033478169,"Akron","Ball State",2,3,0,0,-3,400990264,2018-02-13
+173,2,"20:00",1200,1200,"PLAY",40,40,0,0.393886033478169,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+174,2,"19:44",1184,1184,"Daniel Utomi made Three Point Jumper. Assisted by Jimond Ivey.",43,41,2,0.47341025953992,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+175,2,"19:17",1157,1157,"Tayler Persons made Jumper.",43,43,0,0.407861616347973,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+176,2,"18:53",1133,1133,"Foul on Kyle Mallers.",43,43,0,0.400215319825473,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+177,2,"18:48",1128,1128,"Jimond Ivey Turnover.",43,43,0,0.392202183521662,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+178,2,"18:32",1112,1112,"Kyle Mallers missed Jumper.",43,43,0,0.414996882612034,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+179,2,"18:32",1112,1112,"Lucas Smith Defensive Rebound.",43,43,0,0.414996882612034,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+180,2,"18:10",1090,1090,"Daniel Utomi missed Layup.",43,43,0,0.405808182527755,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+181,2,"18:10",1090,1090,"Jimond Ivey Offensive Rebound.",43,43,0,0.405808182527755,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+182,2,"18:05",1085,1085,"Malcolm Duvivier missed Three Point Jumper.",43,43,0,0.387859165529185,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+183,2,"18:05",1085,1085,"Malcolm Duvivier Offensive Rebound.",43,43,0,0.387859165529185,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+184,2,"18:01",1081,1081,"Malcolm Duvivier made Three Point Jumper.",46,43,3,0.518697680804322,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+185,2,"17:45",1065,1065,"Sean Sellers made Layup.",46,45,1,0.472445352393686,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+186,2,"17:22",1042,1042,"Jimond Ivey made Three Point Jumper. Assisted by Eric Parrish.",49,45,4,0.592580482301708,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+187,2,"17:07",1027,1027,"Tayler Persons Turnover.",49,45,4,0.591189361831917,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+188,2,"16:50",1010,1010,"Jimond Ivey missed Three Point Jumper.",49,45,4,0.563424159574757,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+189,2,"16:50",1010,1010,"Tahjai Teague Defensive Rebound.",49,45,4,0.563424159574757,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+190,2,"16:43",1003,1003,"Foul on Lucas Smith.",49,45,4,0.577501749607794,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+191,2,"16:37",997,997,"Tahjai Teague missed Layup.",49,45,4,0.5666620135495,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+192,2,"16:37",997,997,"Jimond Ivey Block.",49,45,4,0.5666620135495,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+193,2,"16:35",995,995,"Eric Parrish Defensive Rebound.",49,45,4,0.5666620135495,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+194,2,"16:23",983,983,"Eric Parrish missed Layup.",49,45,4,0.63079512716566,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+195,2,"16:23",983,983,"Trey Moses Defensive Rebound.",49,45,4,0.63079512716566,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+196,2,"16:22",982,982,"Foul on Mark Kostelac.",49,45,4,0.63079512716566,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+197,2,"16:13",973,973,"Foul on Daniel Utomi.",49,45,4,0.59175693477893,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+198,2,"16:02",962,962,"Trey Moses made Layup. Assisted by Tahjai Teague.",49,47,2,0.499475831716622,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+199,2,"15:36",936,936,"Daniel Utomi missed Layup.",49,47,2,0.504118362679006,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+200,2,"15:36",936,936,"Ball State Defensive Rebound.",49,47,2,0.504118362679006,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+201,2,"15:35",935,935,"Official TV Timeout",49,47,2,0.504118362679006,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+202,2,"15:20",920,920,"Tahjai Teague made Layup.",49,49,0,0.388620240780537,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+203,2,"15:02",902,902,"Malcolm Duvivier missed Three Point Jumper.",49,49,0,0.412383212398409,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+204,2,"15:02",902,902,"Tahjai Teague Defensive Rebound.",49,49,0,0.412383212398409,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+205,2,"14:52",892,892,"Tayler Persons made Three Point Jumper.",49,52,-3,0.290925169928076,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+206,2,"14:26",866,866,"Eric Parrish missed Three Point Jumper.",49,52,-3,0.269185237416603,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+207,2,"14:26",866,866,"Tahjai Teague Defensive Rebound.",49,52,-3,0.269185237416603,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+208,2,"14:14",854,854,"Foul on Daniel Utomi.",49,52,-3,0.290020946152581,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+209,2,"14:11",851,851,"Foul on Malcolm Duvivier.",49,52,-3,0.290020946152581,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+210,2,"14:01",841,841,"Tahjai Teague made Free Throw.",49,53,-4,0.231670536450162,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+211,2,"13:50",830,830,"Tahjai Teague missed Free Throw.",49,53,-4,0.22394016274864,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+212,2,"13:50",830,830,"Eric Parrish Defensive Rebound.",49,53,-4,0.22394016274864,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+213,2,"13:47",827,827,"Torrey Patton made Layup.",51,53,-2,0.31849257217478,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+214,2,"13:30",810,810,"Tahjai Teague made Layup. Assisted by Tayler Persons.",51,55,-4,0.22117374255799,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+215,2,"13:18",798,798,"Malcolm Duvivier missed Layup.",51,55,-4,0.220944034635182,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+216,2,"13:18",798,798,"Zach Gunn Defensive Rebound.",51,55,-4,0.220944034635182,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+217,2,"13:13",793,793,"Foul on Lucas Smith.",51,55,-4,0.220944034635182,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+218,2,"13:13",793,793,"Tayler Persons made Free Throw.",51,56,-5,0.185436637049762,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+219,2,"13:13",793,793,"Tayler Persons missed Free Throw.",51,56,-5,0.185436637049762,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+220,2,"13:13",793,793,"Lucas Smith Defensive Rebound.",51,56,-5,0.185436637049762,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+221,2,"13:02",782,782,"Foul on Sean Sellers.",51,56,-5,0.198409523156703,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+222,2,"12:57",777,777,"Foul on Ishmael El-Amin.",51,56,-5,0.198227690539352,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+223,2,"12:49",769,769,"Jimond Ivey missed Three Point Jumper.",51,56,-5,0.200550498935175,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+224,2,"12:49",769,769,"Zach Gunn Defensive Rebound.",51,56,-5,0.200550498935175,"Akron","Ball State",3,4,0,0,-3,400990264,2018-02-13
+225,2,"12:37",757,757,"Zach Gunn missed Three Point Jumper.",51,56,-5,0.187925717639316,"Akron","Ball State",3,4,1,0,-3,400990264,2018-02-13
+226,2,"12:37",757,757,"Ball State Offensive Rebound.",51,56,-5,0.187925717639316,"Akron","Ball State",3,4,1,0,-3,400990264,2018-02-13
+227,2,"12:37",757,757,"Akron  Timeout",51,56,-5,0.187925717639316,"Akron","Ball State",2,4,1,0,-3,400990264,2018-02-13
+228,2,"12:32",752,752,"Trey Moses Turnover.",51,56,-5,0.187925717639316,"Akron","Ball State",2,4,1,0,-3,400990264,2018-02-13
+229,2,"12:32",752,752,"Foul on Trey Moses.",51,56,-5,0.187925717639316,"Akron","Ball State",2,4,1,0,-3,400990264,2018-02-13
+230,2,"12:05",725,725,"Eric Parrish missed Layup.",51,56,-5,0.209647716620503,"Akron","Ball State",2,4,1,0,-3,400990264,2018-02-13
+231,2,"12:05",725,725,"Akron Offensive Rebound.",51,56,-5,0.209647716620503,"Akron","Ball State",2,4,1,0,-3,400990264,2018-02-13
+232,2,"11:44",704,704,"Malcolm Duvivier made Jumper.",53,56,-3,0.29544521932616,"Akron","Ball State",2,4,1,0,-3,400990264,2018-02-13
+233,2,"11:41",701,701,"Foul on Mark Kostelac.",53,56,-3,0.29544521932616,"Akron","Ball State",2,4,1,0,-3,400990264,2018-02-13
+234,2,"11:41",701,701,"Official TV Timeout",53,56,-3,0.29544521932616,"Akron","Ball State",2,4,1,0,-3,400990264,2018-02-13
+235,2,"11:41",701,701,"Trey Moses made Free Throw.",53,57,-4,0.253170305099845,"Akron","Ball State",2,4,1,0,-3,400990264,2018-02-13
+236,2,"11:41",701,701,"Trey Moses made Free Throw.",53,58,-5,0.21509770341834,"Akron","Ball State",2,4,1,0,-3,400990264,2018-02-13
+237,2,"11:30",690,690,"Jimond Ivey missed Three Point Jumper.",53,58,-5,0.171301179162299,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+238,2,"11:30",690,690,"Eric Parrish Offensive Rebound.",53,58,-5,0.171301179162299,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+239,2,"11:28",688,688,"Eric Parrish made Layup.",55,58,-3,0.260270647139249,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+240,2,"11:14",674,674,"Kyle Mallers missed Layup.",55,58,-3,0.254584116938554,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+241,2,"11:14",674,674,"Trey Moses Offensive Rebound.",55,58,-3,0.254584116938554,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+242,2,"11:11",671,671,"Trey Moses made Layup.",55,60,-5,0.176644980948113,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+243,2,"10:49",649,649,"Malcolm Duvivier missed Layup.",55,60,-5,0.186857124596581,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+244,2,"10:49",649,649,"Eric Parrish Offensive Rebound.",55,60,-5,0.186857124596581,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+245,2,"10:49",649,649,"Foul on Ishmael El-Amin.",55,60,-5,0.186857124596581,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+246,2,"10:49",649,649,"Lucas Smith made Free Throw.",56,60,-4,0.22605485473285,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+247,2,"10:49",649,649,"Lucas Smith made Free Throw.",57,60,-3,0.270737492340109,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+248,2,"10:31",631,631,"Josh Thompson missed Three Point Jumper.",57,60,-3,0.272327872723785,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+249,2,"10:31",631,631,"Kyle Mallers Offensive Rebound.",57,60,-3,0.272327872723785,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+250,2,"10:25",625,625,"Ishmael El-Amin Turnover.",57,60,-3,0.246317467068675,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+251,2,"10:25",625,625,"Foul on Ishmael El-Amin.",57,60,-3,0.246317467068675,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+252,2,"10:07",607,607,"Eric Parrish missed Layup.",57,60,-3,0.260880574067615,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+253,2,"10:07",607,607,"Tahjai Teague Defensive Rebound.",57,60,-3,0.260880574067615,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+254,2,"10:00",600,600,"Tayler Persons made Layup. Assisted by Tahjai Teague.",57,62,-5,0.177903438993678,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+255,2,"9:32",572,572,"Foul on Kyle Mallers.",57,62,-5,0.19062962815856,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+256,2,"9:32",572,572,"Jimond Ivey made Free Throw.",58,62,-4,0.232777982042086,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+257,2,"9:32",572,572,"Jimond Ivey made Free Throw.",59,62,-3,0.281009841355419,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+258,2,"9:16",556,556,"Foul on Malcolm Duvivier.",59,62,-3,0.245667163735511,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+259,2,"9:16",556,556,"Tahjai Teague made Free Throw.",59,63,-4,0.200660922622049,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+260,2,"9:16",556,556,"Tahjai Teague made Free Throw.",59,64,-5,0.162127710057962,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+261,2,"9:03",543,543,"Malcolm Duvivier made Layup. Assisted by Daniel Utomi.",61,64,-3,0.239998866695336,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+262,2,"8:48",528,528,"Sean Sellers made Three Point Jumper. Assisted by Josh Thompson.",61,67,-6,0.142032016996704,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+263,2,"8:24",504,504,"Malcolm Duvivier missed Three Point Jumper.",61,67,-6,0.14284992992313,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+264,2,"8:24",504,504,"Sean Sellers Defensive Rebound.",61,67,-6,0.14284992992313,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+265,2,"8:15",495,495,"Tayler Persons missed Three Point Jumper.",61,67,-6,0.146443621694921,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+266,2,"8:15",495,495,"Trey Moses Offensive Rebound.",61,67,-6,0.146443621694921,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+267,2,"8:06",486,486,"Tayler Persons Turnover.",61,67,-6,0.12970981820487,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+268,2,"8:06",486,486,"Foul on Tayler Persons.",61,67,-6,0.12970981820487,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+269,2,"7:50",470,470,"Jimond Ivey missed Layup.",61,67,-6,0.114440192697931,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+270,2,"7:50",470,470,"Tahjai Teague Defensive Rebound.",61,67,-6,0.114440192697931,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+271,2,"7:38",458,458,"Foul on Daniel Utomi.",61,67,-6,0.102949147938869,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+272,2,"7:38",458,458,"Official TV Timeout",61,67,-6,0.102949147938869,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+273,2,"7:38",458,458,"Tahjai Teague made Free Throw.",61,68,-7,0.0771357931578214,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+274,2,"7:38",458,458,"Tahjai Teague missed Free Throw.",61,68,-7,0.0771357931578214,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+275,2,"7:38",458,458,"Akron Defensive Rebound.",61,68,-7,0.0771357931578214,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+276,2,"7:29",449,449,"Jimond Ivey missed Three Point Jumper.",61,68,-7,0.108115956631854,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+277,2,"7:29",449,449,"Kyle Mallers Defensive Rebound.",61,68,-7,0.108115956631854,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+278,2,"7:21",441,441,"Zach Gunn made Three Point Jumper. Assisted by Kyle Mallers.",61,71,-10,0.0503123563156367,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+279,2,"6:57",417,417,"Foul on Zach Gunn.",61,71,-10,0.0350988034657893,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+280,2,"6:57",417,417,"Malcolm Duvivier missed Free Throw.",61,71,-10,0.0350988034657893,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+281,2,"6:57",417,417,"Akron Deadball Team Rebound.",61,71,-10,0.0350988034657893,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+282,2,"6:57",417,417,"Malcolm Duvivier missed Free Throw.",61,71,-10,0.0350988034657893,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+283,2,"6:57",417,417,"Sean Sellers Defensive Rebound.",61,71,-10,0.0350988034657893,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+284,2,"6:37",397,397,"Zach Gunn missed Three Point Jumper.",61,71,-10,0.0355939999746639,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+285,2,"6:37",397,397,"Sean Sellers Offensive Rebound.",61,71,-10,0.0355939999746639,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+286,2,"6:29",389,389,"Sean Sellers missed Three Point Jumper.",61,71,-10,0.0369783652134487,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+287,2,"6:29",389,389,"Kyle Mallers Offensive Rebound.",61,71,-10,0.0369783652134487,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+288,2,"6:24",384,384,"Foul on Malcolm Duvivier.",61,71,-10,0.0369783652134487,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+289,2,"6:24",384,384,"Kyle Mallers missed Free Throw.",61,71,-10,0.0369783652134487,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+290,2,"6:24",384,384,"Ball State Deadball Team Rebound.",61,71,-10,0.0369783652134487,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+291,2,"6:24",384,384,"Kyle Mallers made Free Throw.",61,72,-11,0.0277281457977935,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+292,2,"6:12",372,372,"Eric Parrish made Layup.",63,72,-9,0.0426625389894581,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+293,2,"5:53",353,353,"Kyle Mallers made Three Point Jumper.",63,75,-12,0.0106841886410135,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+294,2,"5:30",330,330,"Eric Parrish missed Layup.",63,75,-12,0.011848746358457,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+295,2,"5:30",330,330,"Tahjai Teague Defensive Rebound.",63,75,-12,0.011848746358457,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+296,2,"5:22",322,322,"Tahjai Teague made Layup.",63,77,-14,0.00855928789555949,"Akron","Ball State",2,4,0,0,-3,400990264,2018-02-13
+297,2,"5:19",319,319,"Akron  Timeout",63,77,-14,0.00495793530119625,"Akron","Ball State",1,4,1,0,-3,400990264,2018-02-13
+298,2,"5:02",302,302,"Jimond Ivey made Layup.",65,77,-12,0.0142294184414768,"Akron","Ball State",1,4,1,0,-3,400990264,2018-02-13
+299,2,"4:40",280,280,"Trey Moses made Layup.",65,79,-14,0.00532791200916106,"Akron","Ball State",1,4,1,0,-3,400990264,2018-02-13
+300,2,"4:24",264,264,"Virshon Cotton made Three Point Jumper. Assisted by Lucas Smith.",68,79,-11,0.013288489602086,"Akron","Ball State",1,4,1,0,-3,400990264,2018-02-13
+301,2,"3:54",234,234,"Trey Moses Turnover.",68,79,-11,0.0100614317351777,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+302,2,"3:52",232,232,"Lucas Smith Steal.",68,79,-11,0.0100614317351777,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+303,2,"3:50",230,230,"Virshon Cotton missed Layup.",68,79,-11,0.0100614317351777,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+304,2,"3:50",230,230,"Sean Sellers Defensive Rebound.",68,79,-11,0.0100614317351777,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+305,2,"3:36",216,216,"Kyle Mallers made Layup. Assisted by Zach Gunn.",68,81,-13,0.00253463813268314,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+306,2,"3:27",207,207,"Torrey Patton made Layup. Assisted by Malcolm Duvivier.",70,81,-11,0.00575262018114785,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+307,2,"3:27",207,207,"Foul on Zach Gunn.",70,81,-11,0.00575262018114785,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+308,2,"3:27",207,207,"Official TV Timeout",70,81,-11,0.00575262018114785,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+309,2,"3:27",207,207,"Torrey Patton missed Free Throw.",70,81,-11,0.00575262018114785,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+310,2,"3:27",207,207,"Trey Moses Defensive Rebound.",70,81,-11,0.00575262018114785,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+311,2,"3:08",188,188,"Tayler Persons Turnover.",70,81,-11,0.00365863181010371,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+312,2,"2:52",172,172,"Torrey Patton missed Layup.",70,81,-11,0.00411405244637765,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+313,2,"2:52",172,172,"Trey Moses Block.",70,81,-11,0.00411405244637765,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+314,2,"2:50",170,170,"Trey Moses Defensive Rebound.",70,81,-11,0.00411405244637765,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+315,2,"2:43",163,163,"Tahjai Teague made Dunk. Assisted by Tayler Persons.",70,83,-13,0.00101024637921263,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+316,2,"2:22",142,142,"Jimond Ivey missed Three Point Jumper.",70,83,-13,0.000796843530049057,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+317,2,"2:22",142,142,"Tahjai Teague Defensive Rebound.",70,83,-13,0.000796843530049057,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+318,2,"1:59",119,119,"Tayler Persons missed Three Point Jumper.",70,83,-13,0.000384453875952355,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+319,2,"1:59",119,119,"Akron Defensive Rebound.",70,83,-13,0.000384453875952355,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+320,2,"1:52",112,112,"Foul on Josh Thompson.",70,83,-13,0.000384453875952355,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+321,2,"1:52",112,112,"Malcolm Duvivier made Free Throw.",71,83,-12,0.000700885369409651,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+322,2,"1:52",112,112,"Malcolm Duvivier made Free Throw.",72,83,-11,0.0012774285163416,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+323,2,"1:44",104,104,"Foul on Virshon Cotton.",72,85,-13,0.000231083091239001,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+324,2,"1:44",104,104,"Trey Moses made Free Throw.",72,86,-14,0.000124439503721942,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+325,2,"1:44",104,104,"Trey Moses made Layup. Assisted by Kyle Mallers.",72,85,-13,0.000231083091239001,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+326,2,"1:23",83,83,"Trey Moses missed Layup.",72,86,-14,4.30755423112776e-05,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+327,2,"1:23",83,83,"Lucas Smith Defensive Rebound.",72,86,-14,4.30755423112776e-05,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+328,2,"1:01",61,61,"Tayler Persons missed Layup.",72,86,-14,2.49995043837082e-05,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+329,2,"1:01",61,61,"Torrey Patton Defensive Rebound.",72,86,-14,2.49995043837082e-05,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+330,2,"0:54",54,54,"Torrey Patton made Layup. Assisted by Malcolm Duvivier.",74,86,-12,9.08094188544298e-05,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+331,2,"0:48",48,48,"Ishmael El-Amin missed Layup.",74,86,-12,1.00338149490852e-05,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+332,2,"0:48",48,48,"Tahjai Teague Offensive Rebound.",74,86,-12,1.00338149490852e-05,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+333,2,"0:45",45,45,"Tahjai Teague made Layup.",74,88,-14,1.05345750639148e-05,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+334,2,"0:40",40,40,"Malcolm Duvivier missed Three Point Jumper.",74,88,-14,6.49957610955513e-07,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+335,2,"0:40",40,40,"Tahjai Teague Defensive Rebound.",74,88,-14,6.49957610955513e-07,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+336,2,"0:10",10,10,"Trey Moses made Layup.",74,90,-16,1.18530806617325e-11,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+337,2,"0:04",4,4,"Virshon Cotton made Three Point Jumper.",77,90,-13,5.38330530801962e-11,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13
+338,2,"0:00",0,0,"End of Game",79,88,-9,2.42418451470577e-76,"Akron","Ball State",1,4,0,0,-3,400990264,2018-02-13

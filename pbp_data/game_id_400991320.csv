@@ -1,0 +1,352 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.398165870133373,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+2,1,"19:41",2381,2381,"Jamar Akoh missed Layup.",0,0,0,0.402270398586477,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+3,1,"19:41",2381,2381,"Jamar Akoh Offensive Rebound.",0,0,0,0.402270398586477,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+4,1,"19:38",2378,2378,"Jamar Akoh made Layup.",0,2,-2,0.373606474032073,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+5,1,"19:24",2364,2364,"Jordan Davis made Dunk. Assisted by Jalen Sanders.",2,2,0,0.406633107411838,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+6,1,"19:08",2348,2348,"Ahmaad Rorie made Jumper.",2,4,-2,0.365824605081325,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+7,1,"18:45",2325,2325,"Jalen Sanders missed Three Point Jumper.",2,4,-2,0.376553047409226,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+8,1,"18:45",2325,2325,"Northern Colorado Offensive Rebound.",2,4,-2,0.376553047409226,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+9,1,"18:37",2317,2317,"Jordan Davis Turnover.",2,4,-2,0.359688518367462,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+10,1,"18:34",2314,2314,"Bobby Moorehead Steal.",2,4,-2,0.359688518367462,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+11,1,"18:27",2307,2307,"Foul on Jalen Sanders.",2,4,-2,0.360629695788718,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+12,1,"18:27",2307,2307,"Fabijan Krslovic made Free Throw.",2,5,-3,0.338016014106883,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+13,1,"18:27",2307,2307,"Fabijan Krslovic made Free Throw.",2,6,-4,0.316119248888307,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+14,1,"18:03",2283,2283,"Tanner Morgan Turnover.",2,6,-4,0.310078169981082,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+15,1,"18:02",2282,2282,"Fabijan Krslovic Steal.",2,6,-4,0.310078169981082,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+16,1,"17:53",2273,2273,"Jamar Akoh missed Layup.",2,6,-4,0.321683332938017,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+17,1,"17:53",2273,2273,"Jalen Sanders Defensive Rebound.",2,6,-4,0.321683332938017,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+18,1,"17:32",2252,2252,"Foul on Bobby Moorehead.",2,6,-4,0.331497787159043,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+19,1,"17:32",2252,2252,"Andre Spight made Free Throw.",3,6,-3,0.353221469232319,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+20,1,"17:32",2252,2252,"Andre Spight made Free Throw.",4,6,-2,0.375568960923515,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+21,1,"17:32",2252,2252,"Andre Spight made Free Throw.",5,6,-1,0.3984592843909,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+22,1,"17:13",2233,2233,"Foul on Tanner Morgan.",5,6,-1,0.388296158451326,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+23,1,"17:13",2233,2233,"Jamar Akoh made Free Throw.",5,7,-2,0.36206538595886,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+24,1,"17:13",2233,2233,"Jamar Akoh made Free Throw.",5,8,-3,0.336631441996628,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+25,1,"17:00",2220,2220,"Jonah Radebaugh missed Three Point Jumper.",5,8,-3,0.343797463696717,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+26,1,"17:00",2220,2220,"Jalen Sanders Offensive Rebound.",5,8,-3,0.343797463696717,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+27,1,"16:40",2200,2200,"Jalen Sanders missed Layup.",5,8,-3,0.339277295929914,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+28,1,"16:40",2200,2200,"Ahmaad Rorie Block.",5,8,-3,0.339277295929914,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+29,1,"16:38",2198,2198,"Fabijan Krslovic Defensive Rebound.",5,8,-3,0.343447355801582,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+30,1,"16:33",2193,2193,"Ahmaad Rorie Turnover.",5,8,-3,0.343447355801582,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+31,1,"16:20",2180,2180,"Jordan Davis missed Layup.",5,8,-3,0.340596711239641,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+32,1,"16:20",2180,2180,"Jordan Davis Offensive Rebound.",5,8,-3,0.340596711239641,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+33,1,"16:17",2177,2177,"Jordan Davis made Layup.",7,8,-1,0.383409838283279,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+34,1,"16:13",2173,2173,"Sayeed Pridgett Turnover.",7,8,-1,0.383409838283279,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+35,1,"16:01",2161,2161,"Official TV Timeout",7,8,-1,0.389217772813286,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+36,1,"15:50",2150,2150,"Andre Spight missed Jumper.",7,8,-1,0.374682274298128,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+37,1,"15:50",2150,2150,"Sayeed Pridgett Defensive Rebound.",7,8,-1,0.374682274298128,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+38,1,"15:36",2136,2136,"Michael Oguine missed Jumper.",7,8,-1,0.382066547060368,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+39,1,"15:36",2136,2136,"Matej Drgon Defensive Rebound.",7,8,-1,0.382066547060368,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+40,1,"15:27",2127,2127,"Foul on Michael Oguine.",7,8,-1,0.380302278496201,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+41,1,"15:22",2122,2122,"Matej Drgon missed Three Point Jumper.",7,8,-1,0.380302278496201,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+42,1,"15:22",2122,2122,"Fabijan Krslovic Defensive Rebound.",7,8,-1,0.380302278496201,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+43,1,"15:06",2106,2106,"Sayeed Pridgett Turnover.",7,8,-1,0.385011987859817,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+44,1,"15:06",2106,2106,"Foul on Sayeed Pridgett.",7,8,-1,0.385011987859817,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+45,1,"14:57",2097,2097,"Jordan Davis Turnover.",7,8,-1,0.386111423612707,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+46,1,"14:30",2070,2070,"Ahmaad Rorie made Jumper.",7,10,-3,0.329055105250988,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+47,1,"14:07",2047,2047,"Chaz Glotta made Jumper.",9,10,-1,0.375991138618366,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+48,1,"14:07",2047,2047,"Foul on Jamar Akoh.",9,10,-1,0.375991138618366,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+49,1,"14:07",2047,2047,"Chaz Glotta missed Free Throw.",9,10,-1,0.375991138618366,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+50,1,"14:07",2047,2047,"Sayeed Pridgett Defensive Rebound.",9,10,-1,0.375991138618366,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+51,1,"13:50",2030,2030,"Jamar Akoh made Jumper.",9,12,-3,0.338723029612241,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+52,1,"13:50",2030,2030,"Foul on Matej Drgon.",9,12,-3,0.338723029612241,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+53,1,"13:50",2030,2030,"Jamar Akoh missed Free Throw.",9,12,-3,0.338723029612241,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+54,1,"13:50",2030,2030,"Jonah Radebaugh Defensive Rebound.",9,12,-3,0.338723029612241,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+55,1,"13:38",2018,2018,"Matej Drgon missed Jumper.",9,12,-3,0.33962768255142,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+56,1,"13:38",2018,2018,"Jamar Akoh Defensive Rebound.",9,12,-3,0.33962768255142,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+57,1,"13:29",2009,2009,"Michael Oguine missed Layup.",9,12,-3,0.33376186252917,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+58,1,"13:29",2009,2009,"Chaz Glotta Defensive Rebound.",9,12,-3,0.33376186252917,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+59,1,"13:21",2001,2001,"Jordan Davis missed Layup.",9,12,-3,0.33376186252917,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+60,1,"13:21",2001,2001,"Timmy Falls Defensive Rebound.",9,12,-3,0.33376186252917,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+61,1,"13:11",1991,1991,"Ahmaad Rorie made Layup.",9,14,-5,0.26873948692616,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+62,1,"12:51",1971,1971,"Foul on Jamar Akoh.",9,14,-5,0.270367370020535,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+63,1,"12:51",1971,1971,"Jordan Davis made Free Throw.",10,14,-4,0.296186143206394,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+64,1,"12:51",1971,1971,"Jordan Davis missed Free Throw.",10,14,-4,0.296186143206394,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+65,1,"12:51",1971,1971,"Bobby Moorehead Defensive Rebound.",10,14,-4,0.296186143206394,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+66,1,"12:40",1960,1960,"Foul on Tanner Morgan.",10,14,-4,0.314949115730853,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+67,1,"12:31",1951,1951,"Ahmaad Rorie missed Layup.",10,14,-4,0.313189554215273,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+68,1,"12:31",1951,1951,"Karl Nicholas Offensive Rebound.",10,14,-4,0.313189554215273,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+69,1,"12:20",1940,1940,"Karl Nicholas made Layup.",10,16,-6,0.248881752553368,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+70,1,"12:13",1933,1933,"Ibrahim Sylla Turnover.",10,16,-6,0.241135475969057,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+71,1,"11:44",1904,1904,"Karl Nicholas missed Layup.",10,16,-6,0.256526036914865,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+72,1,"11:44",1904,1904,"Ibrahim Sylla Block.",10,16,-6,0.256526036914865,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+73,1,"11:43",1903,1903,"Jordan Davis Defensive Rebound.",10,16,-6,0.256526036914865,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+74,1,"11:41",1901,1901,"Northern Colorado  Turnover.",10,16,-6,0.256526036914865,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+75,1,"11:41",1901,1901,"Official TV Timeout",10,16,-6,0.256526036914865,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+76,1,"11:27",1887,1887,"Ibrahim Sylla Turnover.",10,16,-6,0.244437718426503,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+77,1,"11:05",1865,1865,"Foul on Ibrahim Sylla.",10,16,-6,0.259804288925015,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+78,1,"10:56",1856,1856,"Foul on Ibrahim Sylla.",10,16,-6,0.257092617965892,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+79,1,"10:56",1856,1856,"Karl Nicholas made Free Throw.",10,17,-7,0.233415749434553,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+80,1,"10:56",1856,1856,"Karl Nicholas made Free Throw.",10,18,-8,0.211299208875332,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+81,1,"10:51",1851,1851,"Jonah Radebaugh Turnover.",10,18,-8,0.211299208875332,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+82,1,"10:25",1825,1825,"Timmy Falls missed Jumper.",10,18,-8,0.227392317467864,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+83,1,"10:25",1825,1825,"Andre Spight Block.",10,18,-8,0.227392317467864,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+84,1,"10:23",1823,1823,"Ibrahim Sylla Defensive Rebound.",10,18,-8,0.227392317467864,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+85,1,"10:14",1814,1814,"Andre Spight missed Layup.",10,18,-8,0.194636724333898,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+86,1,"10:14",1814,1814,"Michael Oguine Defensive Rebound.",10,18,-8,0.194636724333898,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+87,1,"10:07",1807,1807,"Bobby Moorehead made Three Point Jumper. Assisted by Timmy Falls.",10,21,-11,0.145497874535256,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+88,1,"9:59",1799,1799,"Northern Colorado  Timeout",10,21,-11,0.144693160138177,"Northern Colorado","Montana",3,4,1,0,-2,400991320,2018-02-01
+89,1,"9:41",1781,1781,"Jordan Davis missed Three Point Jumper.",10,21,-11,0.130104557569434,"Northern Colorado","Montana",3,4,1,0,-2,400991320,2018-02-01
+90,1,"9:41",1781,1781,"Anthony Johnson Offensive Rebound.",10,21,-11,0.130104557569434,"Northern Colorado","Montana",3,4,1,0,-2,400991320,2018-02-01
+91,1,"9:26",1766,1766,"Foul on Fabijan Krslovic.",10,21,-11,0.145714586020252,"Northern Colorado","Montana",3,4,1,0,-2,400991320,2018-02-01
+92,1,"9:15",1755,1755,"Foul on Fabijan Krslovic.",10,21,-11,0.117691773257098,"Northern Colorado","Montana",3,4,1,0,-2,400991320,2018-02-01
+93,1,"9:15",1755,1755,"Matej Drgon missed Free Throw.",10,21,-11,0.117691773257098,"Northern Colorado","Montana",3,4,1,0,-2,400991320,2018-02-01
+94,1,"9:15",1755,1755,"Bobby Moorehead Defensive Rebound.",10,21,-11,0.117691773257098,"Northern Colorado","Montana",3,4,1,0,-2,400991320,2018-02-01
+95,1,"9:00",1740,1740,"Sayeed Pridgett made Jumper. Assisted by Michael Oguine.",10,23,-13,0.132137086983827,"Northern Colorado","Montana",3,4,1,0,-2,400991320,2018-02-01
+96,1,"8:42",1722,1722,"Anthony Johnson missed Three Point Jumper.",10,23,-13,0.121311021723715,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+97,1,"8:42",1722,1722,"Michael Oguine Defensive Rebound.",10,23,-13,0.121311021723715,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+98,1,"8:19",1699,1699,"Fabijan Krslovic made Layup.",10,25,-15,0.0833084154329288,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+99,1,"8:00",1680,1680,"Jordan Davis made Layup.",12,25,-13,0.0967806854824646,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+100,1,"7:47",1667,1667,"Sayeed Pridgett missed Layup.",12,25,-13,0.118598134261894,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+101,1,"7:47",1667,1667,"Jalen Sanders Defensive Rebound.",12,25,-13,0.118598134261894,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+102,1,"7:39",1659,1659,"Jordan Davis Turnover.",12,25,-13,0.119844049662843,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+103,1,"7:39",1659,1659,"Official TV Timeout",12,25,-13,0.119844049662843,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+104,1,"7:21",1641,1641,"Sayeed Pridgett missed Jumper.",12,25,-13,0.109574058167316,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+105,1,"7:21",1641,1641,"Jordan Davis Defensive Rebound.",12,25,-13,0.109574058167316,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+106,1,"7:05",1625,1625,"Matej Drgon made Three Point Jumper. Assisted by Jonah Radebaugh.",15,25,-10,0.147014079456208,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+107,1,"6:49",1609,1609,"Ahmaad Rorie made Jumper.",15,27,-12,0.125545821056263,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+108,1,"6:26",1586,1586,"Jordan Davis made Layup. Assisted by Chaz Glotta.",17,27,-10,0.149779139243142,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+109,1,"6:03",1563,1563,"Sayeed Pridgett Turnover.",17,27,-10,0.143468522473412,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+110,1,"6:03",1563,1563,"Foul on Sayeed Pridgett.",17,27,-10,0.143468522473412,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+111,1,"5:51",1551,1551,"Jordan Davis Turnover.",17,27,-10,0.14620866020098,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+112,1,"5:38",1538,1538,"Ahmaad Rorie made Jumper.",17,29,-12,0.121937154790855,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+113,1,"5:30",1530,1530,"Foul on Timmy Falls.",17,29,-12,0.121937154790855,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+114,1,"5:30",1530,1530,"Andre Spight made Free Throw.",18,29,-11,0.13768177157202,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+115,1,"5:30",1530,1530,"Andre Spight made Free Throw.",19,29,-10,0.15510024538938,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+116,1,"5:20",1520,1520,"Sayeed Pridgett made Layup.",19,31,-12,0.119383222139264,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+117,1,"5:12",1512,1512,"Jalen Sanders made Layup. Assisted by Jonah Radebaugh.",21,31,-10,0.148415006219645,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+118,1,"4:59",1499,1499,"Michael Oguine made Layup.",21,33,-12,0.132221891310634,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+119,1,"4:50",1490,1490,"Andre Spight made Jumper.",23,33,-10,0.16764029555832,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+120,1,"4:37",1477,1477,"Ahmaad Rorie missed Jumper.",23,33,-10,0.132094922311079,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+121,1,"4:37",1477,1477,"Jalen Sanders Defensive Rebound.",23,33,-10,0.132094922311079,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+122,1,"4:26",1466,1466,"Andre Spight made Three Point Jumper.",26,33,-7,0.236857302416681,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+123,1,"4:08",1448,1448,"Sayeed Pridgett missed Layup.",26,33,-7,0.221752631126457,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+124,1,"4:08",1448,1448,"Andre Spight Defensive Rebound.",26,33,-7,0.221752631126457,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+125,1,"4:03",1443,1443,"Foul on Timmy Falls.",26,33,-7,0.221752631126457,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+126,1,"4:03",1443,1443,"Official TV Timeout",26,33,-7,0.221752631126457,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+127,1,"4:03",1443,1443,"Andre Spight made Free Throw.",27,33,-6,0.249119865790268,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+128,1,"4:03",1443,1443,"Andre Spight made Free Throw.",28,33,-5,0.278655258621562,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+129,1,"3:45",1425,1425,"Timmy Falls missed Three Point Jumper.",28,33,-5,0.262750802157381,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+130,1,"3:45",1425,1425,"Andre Spight Defensive Rebound.",28,33,-5,0.262750802157381,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+131,1,"3:28",1408,1408,"Jalen Sanders missed Jumper.",28,33,-5,0.266668262253001,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+132,1,"3:28",1408,1408,"Bobby Moorehead Defensive Rebound.",28,33,-5,0.266668262253001,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+133,1,"3:25",1405,1405,"Bobby Moorehead Turnover.",28,33,-5,0.266668262253001,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+134,1,"3:16",1396,1396,"Andre Spight made Three Point Jumper. Assisted by Jordan Davis.",31,33,-2,0.335833922786112,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+135,1,"2:55",1375,1375,"Jamar Akoh Turnover.",31,33,-2,0.344683875640601,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+136,1,"2:55",1375,1375,"Foul on Jamar Akoh.",31,33,-2,0.344683875640601,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+137,1,"2:42",1362,1362,"Jordan Davis made Layup. Assisted by Andre Spight.",33,33,0,0.43086392035239,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+138,1,"2:25",1345,1345,"Foul on Chaz Glotta.",33,33,0,0.429627557652755,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+139,1,"2:25",1345,1345,"Karl Nicholas missed Free Throw.",33,33,0,0.429627557652755,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+140,1,"2:25",1345,1345,"Bobby Moorehead Offensive Rebound.",33,33,0,0.429627557652755,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+141,1,"2:25",1345,1345,"Ahmaad Rorie missed Jumper.",33,33,0,0.429627557652755,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+142,1,"2:25",1345,1345,"Michael Oguine Offensive Rebound.",33,33,0,0.429627557652755,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+143,1,"2:25",1345,1345,"Ahmaad Rorie missed Jumper.",33,33,0,0.429627557652755,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+144,1,"2:25",1345,1345,"Montana Offensive Rebound.",33,33,0,0.429627557652755,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+145,1,"2:10",1330,1330,"Foul on Jonah Radebaugh.",33,33,0,0.418799186806208,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+146,1,"2:05",1325,1325,"Michael Oguine made Free Throw.",33,34,-1,0.391017703328096,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+147,1,"2:05",1325,1325,"Michael Oguine missed Free Throw.",33,34,-1,0.391017703328096,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+148,1,"2:05",1325,1325,"Jonah Radebaugh Defensive Rebound.",33,34,-1,0.391017703328096,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+149,1,"2:05",1325,1325,"Andre Spight missed Jumper.",33,34,-1,0.391017703328096,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+150,1,"2:05",1325,1325,"Michael Oguine Defensive Rebound.",33,34,-1,0.391017703328096,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+151,1,"1:41",1301,1301,"Foul on Chaz Glotta.",33,34,-1,0.408324058089267,"Northern Colorado","Montana",3,4,0,0,-2,400991320,2018-02-01
+152,1,"1:25",1285,1285,"Montana  Timeout",33,34,-1,0.389099633614394,"Northern Colorado","Montana",3,3,0,1,-2,400991320,2018-02-01
+153,1,"1:25",1285,1285,"Sayeed Pridgett made Free Throw.",33,35,-2,0.354140800385434,"Northern Colorado","Montana",3,3,0,1,-2,400991320,2018-02-01
+154,1,"1:25",1285,1285,"Sayeed Pridgett missed Free Throw.",33,35,-2,0.354140800385434,"Northern Colorado","Montana",3,3,0,1,-2,400991320,2018-02-01
+155,1,"1:25",1285,1285,"Jordan Davis Defensive Rebound.",33,35,-2,0.354140800385434,"Northern Colorado","Montana",3,3,0,1,-2,400991320,2018-02-01
+156,1,"1:25",1285,1285,"Jonah Radebaugh made Layup. Assisted by Jordan Davis.",35,35,0,0.425237290067714,"Northern Colorado","Montana",3,3,0,1,-2,400991320,2018-02-01
+157,1,"1:15",1275,1275,"Ahmaad Rorie missed Jumper.",35,35,0,0.413328163290923,"Northern Colorado","Montana",3,3,0,1,-2,400991320,2018-02-01
+158,1,"1:15",1275,1275,"Ahmaad Rorie Offensive Rebound.",35,35,0,0.413328163290923,"Northern Colorado","Montana",3,3,0,1,-2,400991320,2018-02-01
+159,1,"1:10",1270,1270,"Ahmaad Rorie missed Layup.",35,35,0,0.413328163290923,"Northern Colorado","Montana",3,3,0,1,-2,400991320,2018-02-01
+160,1,"1:10",1270,1270,"Ahmaad Rorie Offensive Rebound.",35,35,0,0.413328163290923,"Northern Colorado","Montana",3,3,0,1,-2,400991320,2018-02-01
+161,1,"1:07",1267,1267,"Bobby Moorehead missed Three Point Jumper.",35,35,0,0.445753588352227,"Northern Colorado","Montana",3,3,0,1,-2,400991320,2018-02-01
+162,1,"1:07",1267,1267,"Fabijan Krslovic Offensive Rebound.",35,35,0,0.445753588352227,"Northern Colorado","Montana",3,3,0,1,-2,400991320,2018-02-01
+163,1,"1:03",1263,1263,"Fabijan Krslovic made Layup.",35,37,-2,0.369531147060359,"Northern Colorado","Montana",3,3,0,1,-2,400991320,2018-02-01
+164,1,"0:41",1241,1241,"Chaz Glotta made Layup.",37,37,0,0.428846606234239,"Northern Colorado","Montana",3,3,0,1,-2,400991320,2018-02-01
+165,1,"0:02",1202,1202,"Michael Oguine missed Three Point Jumper.",37,37,0,0.431677468957536,"Northern Colorado","Montana",3,3,0,0,-2,400991320,2018-02-01
+166,1,"0:02",1202,1202,"Jalen Sanders Defensive Rebound.",37,37,0,0.431677468957536,"Northern Colorado","Montana",3,3,0,0,-2,400991320,2018-02-01
+167,1,"0:00",1200,1200,"End of 1st half",37,37,0,0.431677468957536,"Northern Colorado","Montana",3,3,0,0,-2,400991320,2018-02-01
+168,2,"20:00",1200,1200,"PLAY",37,37,0,0.431677468957536,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+169,2,"19:48",1188,1188,"Foul on Tanner Morgan.",37,37,0,0.430342130566122,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+170,2,"19:35",1175,1175,"Fabijan Krslovic made Jumper.",37,39,-2,0.361366936141347,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+171,2,"19:15",1155,1155,"Tanner Morgan missed Layup.",37,39,-2,0.36570036095339,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+172,2,"19:15",1155,1155,"Jamar Akoh Defensive Rebound.",37,39,-2,0.36570036095339,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+173,2,"18:56",1136,1136,"Bobby Moorehead made Three Point Jumper. Assisted by Jamar Akoh.",37,42,-5,0.25671793999277,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+174,2,"18:41",1121,1121,"Foul on Michael Oguine.",37,42,-5,0.228362359526685,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+175,2,"18:32",1112,1112,"Foul on Ahmaad Rorie.",37,42,-5,0.255872476208654,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+176,2,"18:27",1107,1107,"Tanner Morgan Turnover.",37,42,-5,0.250723116354012,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+177,2,"18:26",1106,1106,"Michael Oguine Steal.",37,42,-5,0.250723116354012,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+178,2,"18:24",1104,1104,"Michael Oguine made Layup.",37,44,-7,0.194302054389271,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+179,2,"18:01",1081,1081,"Jalen Sanders made Dunk. Assisted by Tanner Morgan.",39,44,-5,0.234452436448417,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+180,2,"17:44",1064,1064,"Bobby Moorehead missed Layup.",39,44,-5,0.267318530778248,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+181,2,"17:44",1064,1064,"Bobby Moorehead Offensive Rebound.",39,44,-5,0.267318530778248,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+182,2,"17:41",1061,1061,"Bobby Moorehead missed Layup.",39,44,-5,0.267318530778248,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+183,2,"17:41",1061,1061,"Bobby Moorehead Offensive Rebound.",39,44,-5,0.267318530778248,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+184,2,"17:40",1060,1060,"Northern Colorado Defensive Rebound.",39,44,-5,0.267318530778248,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+185,2,"17:22",1042,1042,"Jalen Sanders missed Layup.",39,44,-5,0.258189506270297,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+186,2,"17:22",1042,1042,"Fabijan Krslovic Block.",39,44,-5,0.258189506270297,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+187,2,"17:17",1037,1037,"Fabijan Krslovic Defensive Rebound.",39,44,-5,0.242398313269722,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+188,2,"17:17",1037,1037,"Bobby Moorehead made Layup.",39,46,-7,0.185026850608993,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+189,2,"17:17",1037,1037,"Foul on Jonah Radebaugh.",39,46,-7,0.185026850608993,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+190,2,"17:11",1031,1031,"Bobby Moorehead missed Free Throw.",39,46,-7,0.185026850608993,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+191,2,"17:11",1031,1031,"Jalen Sanders Defensive Rebound.",39,46,-7,0.185026850608993,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+192,2,"16:50",1010,1010,"Fabijan Krslovic made Jumper.",39,48,-9,0.121445161506119,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+193,2,"16:44",1004,1004,"Jordan Davis missed Three Point Jumper.",39,48,-9,0.122577349560288,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+194,2,"16:44",1004,1004,"Bobby Moorehead Defensive Rebound.",39,48,-9,0.122577349560288,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+195,2,"16:40",1000,1000,"Bobby Moorehead Turnover.",39,48,-9,0.122577349560288,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+196,2,"16:40",1000,1000,"Foul on Bobby Moorehead.",39,48,-9,0.122577349560288,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+197,2,"16:37",997,997,"Foul on Ahmaad Rorie.",39,48,-9,0.129212238324931,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+198,2,"16:37",997,997,"Andre Spight made Free Throw.",40,48,-8,0.150658567298698,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+199,2,"16:37",997,997,"Andre Spight made Free Throw.",41,48,-7,0.174949346649443,"Northern Colorado","Montana",4,4,0,0,-2,400991320,2018-02-01
+200,2,"16:32",992,992,"Montana  Timeout",41,48,-7,0.174949346649443,"Northern Colorado","Montana",4,3,0,1,-2,400991320,2018-02-01
+201,2,"16:13",973,973,"Foul on Matej Drgon.",41,48,-7,0.188022549776864,"Northern Colorado","Montana",4,3,0,1,-2,400991320,2018-02-01
+202,2,"15:57",957,957,"Fabijan Krslovic made Jumper.",41,50,-9,0.114561374411279,"Northern Colorado","Montana",4,3,0,1,-2,400991320,2018-02-01
+203,2,"15:43",943,943,"Matej Drgon missed Three Point Jumper.",41,50,-9,0.130413262754291,"Northern Colorado","Montana",4,3,0,1,-2,400991320,2018-02-01
+204,2,"15:43",943,943,"Fabijan Krslovic Defensive Rebound.",41,50,-9,0.130413262754291,"Northern Colorado","Montana",4,3,0,1,-2,400991320,2018-02-01
+205,2,"15:19",919,919,"Fabijan Krslovic made Layup. Assisted by Jamar Akoh.",41,52,-11,0.0807597234045445,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+206,2,"15:03",903,903,"Andre Spight Turnover.",41,52,-11,0.0890347777508827,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+207,2,"15:02",902,902,"Timmy Falls Steal.",41,52,-11,0.0890347777508827,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+208,2,"14:59",899,899,"Jamar Akoh made Layup. Assisted by Timmy Falls.",41,54,-13,0.0629393365748416,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+209,2,"14:53",893,893,"Official TV Timeout",41,54,-13,0.0629393365748416,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+210,2,"14:42",882,882,"Tanner Morgan made Layup. Assisted by Andre Spight.",43,54,-11,0.103394778087376,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+211,2,"14:24",864,864,"Foul on Tanner Morgan.",43,54,-11,0.0837600372526374,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+212,2,"14:24",864,864,"Fabijan Krslovic made Free Throw.",43,55,-12,0.0701809419244009,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+213,2,"14:24",864,864,"Fabijan Krslovic made Free Throw.",43,56,-13,0.0586623295592997,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+214,2,"14:08",848,848,"Andre Spight missed Three Point Jumper.",43,56,-13,0.0483118698295114,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+215,2,"14:08",848,848,"Fabijan Krslovic Defensive Rebound.",43,56,-13,0.0483118698295114,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+216,2,"13:57",837,837,"Foul on Kai Edwards.",43,56,-13,0.0497384184284106,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+217,2,"13:34",814,814,"Ahmaad Rorie missed Jumper.",43,56,-13,0.0532478253815224,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+218,2,"13:34",814,814,"Ahmaad Rorie Offensive Rebound.",43,56,-13,0.0532478253815224,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+219,2,"13:33",813,813,"Ahmaad Rorie Turnover.",43,56,-13,0.0532478253815224,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+220,2,"13:33",813,813,"Foul on Ahmaad Rorie.",43,56,-13,0.0532478253815224,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+221,2,"13:29",809,809,"Tanner Morgan made Jumper.",45,56,-11,0.0828093702590957,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+222,2,"13:29",809,809,"Foul on Bobby Moorehead.",45,56,-11,0.0828093702590957,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+223,2,"13:29",809,809,"Jordan Davis made Free Throw.",46,56,-10,0.0996141867866597,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+224,2,"13:12",792,792,"Fabijan Krslovic made Jumper.",46,58,-12,0.0528875004292815,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+225,2,"13:01",781,781,"Jordan Davis missed Layup.",46,58,-12,0.0625776374174378,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+226,2,"13:01",781,781,"Fabijan Krslovic Defensive Rebound.",46,58,-12,0.0625776374174378,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+227,2,"12:43",763,763,"Fabijan Krslovic missed Jumper.",46,58,-12,0.0597625392455159,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+228,2,"12:43",763,763,"Timmy Falls Offensive Rebound.",46,58,-12,0.0597625392455159,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+229,2,"12:39",759,759,"Bobby Moorehead made Three Point Jumper. Assisted by Timmy Falls.",46,61,-15,0.0293148016549984,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+230,2,"12:24",744,744,"Foul on Fabijan Krslovic.",46,61,-15,0.026335310462548,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+231,2,"12:24",744,744,"Jonah Radebaugh made Free Throw.",47,61,-14,0.0326980423942782,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+232,2,"12:24",744,744,"Jonah Radebaugh made Free Throw.",48,61,-13,0.0405340426216437,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+233,2,"12:03",723,723,"Ahmaad Rorie made Dunk.",48,63,-15,0.0320904481632132,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+234,2,"11:48",708,708,"Jonah Radebaugh made Three Point Jumper. Assisted by Jordan Davis.",51,63,-12,0.0648149564340732,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+235,2,"11:28",688,688,"Sayeed Pridgett made Jumper. Assisted by Ahmaad Rorie.",51,65,-14,0.0330610521872193,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+236,2,"11:15",675,675,"Andre Spight missed Three Point Jumper.",51,65,-14,0.0292269266666297,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+237,2,"11:15",675,675,"Montana Defensive Rebound.",51,65,-14,0.0292269266666297,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+238,2,"11:13",673,673,"Foul on Karl Nicholas.",51,65,-14,0.0292269266666297,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+239,2,"11:13",673,673,"Official TV Timeout",51,65,-14,0.0292269266666297,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+240,2,"11:13",673,673,"Matej Drgon made Free Throw.",52,65,-13,0.0365959596884238,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+241,2,"11:13",673,673,"Matej Drgon made Free Throw.",53,65,-12,0.0457354258973761,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+242,2,"11:13",673,673,"Foul on Jalen Sanders.",53,65,-12,0.0457354258973761,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+243,2,"11:00",660,660,"Foul on Jalen Sanders.",53,65,-12,0.056854382690903,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+244,2,"11:00",660,660,"Jamar Akoh missed Free Throw.",53,65,-12,0.056854382690903,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+245,2,"11:00",660,660,"Jordan Davis Defensive Rebound.",53,65,-12,0.056854382690903,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+246,2,"11:00",660,660,"Andre Spight missed Jumper.",53,65,-12,0.056854382690903,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+247,2,"11:00",660,660,"Jamar Akoh Defensive Rebound.",53,65,-12,0.056854382690903,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+248,2,"10:58",658,658,"Foul on Jalen Sanders.",53,65,-12,0.048409421206913,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+249,2,"10:40",640,640,"Jamar Akoh made Free Throw.",53,66,-13,0.0365277631563972,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+250,2,"10:40",640,640,"Jamar Akoh missed Free Throw.",53,66,-13,0.0365277631563972,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+251,2,"10:40",640,640,"Jordan Davis Defensive Rebound.",53,66,-13,0.0365277631563972,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+252,2,"10:32",632,632,"Foul on Sayeed Pridgett.",53,66,-13,0.0376798651872909,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+253,2,"10:32",632,632,"Jordan Davis made Free Throw.",54,66,-12,0.0472515863430214,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+254,2,"10:32",632,632,"Jordan Davis missed Free Throw.",54,66,-12,0.0472515863430214,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+255,2,"10:32",632,632,"Ahmaad Rorie Defensive Rebound.",54,66,-12,0.0472515863430214,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+256,2,"10:09",609,609,"Ahmaad Rorie missed Jumper.",54,66,-12,0.0422842225083828,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+257,2,"10:09",609,609,"Andre Spight Defensive Rebound.",54,66,-12,0.0422842225083828,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+258,2,"10:02",602,602,"Jordan Davis missed Layup.",54,66,-12,0.0422842225083828,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+259,2,"10:02",602,602,"Jordan Davis Offensive Rebound.",54,66,-12,0.0422842225083828,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+260,2,"9:51",591,591,"Andre Spight missed Three Point Jumper.",54,66,-12,0.0452063912714139,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+261,2,"9:51",591,591,"Tanner Morgan Offensive Rebound.",54,66,-12,0.0452063912714139,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+262,2,"9:46",586,586,"Chaz Glotta made Three Point Jumper. Assisted by Tanner Morgan.",57,66,-9,0.0862055369529325,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+263,2,"9:15",555,555,"Fabijan Krslovic Turnover.",57,66,-9,0.0713072224855824,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+264,2,"9:14",554,554,"Andre Spight Steal.",57,66,-9,0.0713072224855824,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+265,2,"9:11",551,551,"Foul on Sayeed Pridgett.",57,66,-9,0.0713072224855824,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+266,2,"9:05",545,545,"Jordan Davis made Free Throw.",58,66,-8,0.0845864094694602,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+267,2,"9:05",545,545,"Jordan Davis made Free Throw.",59,66,-7,0.10778331689082,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+268,2,"8:51",531,531,"Bobby Moorehead made Three Point Jumper. Assisted by Timmy Falls.",59,69,-10,0.0529932450625454,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+269,2,"8:34",514,514,"Andre Spight made Layup.",61,69,-8,0.0898333882951429,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+270,2,"8:16",496,496,"Foul on Jonah Radebaugh.",61,69,-8,0.0990595065231699,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+271,2,"8:16",496,496,"Timmy Falls missed Free Throw.",61,69,-8,0.0990595065231699,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+272,2,"8:16",496,496,"Jonah Radebaugh Defensive Rebound.",61,69,-8,0.0990595065231699,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+273,2,"8:15",495,495,"Foul on Fabijan Krslovic.",61,69,-8,0.0990595065231699,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+274,2,"8:15",495,495,"Jonah Radebaugh missed Free Throw.",61,69,-8,0.0990595065231699,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+275,2,"8:15",495,495,"Northern Colorado Deadball Team Rebound.",61,69,-8,0.0990595065231699,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+276,2,"8:15",495,495,"Jonah Radebaugh made Free Throw.",62,69,-7,0.126123183012244,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+277,2,"8:00",480,480,"Foul on Jordan Davis.",62,69,-7,0.112123814360294,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+278,2,"8:00",480,480,"Jamar Akoh made Free Throw.",62,70,-8,0.0876540262236116,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+279,2,"8:00",480,480,"Jamar Akoh made Free Throw.",62,71,-9,0.0681148134037194,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+280,2,"7:36",456,456,"Chaz Glotta missed Three Point Jumper.",62,71,-9,0.0466033178813058,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+281,2,"7:36",456,456,"Ahmaad Rorie Defensive Rebound.",62,71,-9,0.0466033178813058,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+282,2,"7:08",428,428,"Jamar Akoh made Layup. Assisted by Timmy Falls.",62,73,-11,0.03019526260975,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+283,2,"6:53",413,413,"Foul on Timmy Falls.",62,73,-11,0.0291266589565085,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+284,2,"6:53",413,413,"Andre Spight made Free Throw.",63,73,-10,0.0389704222036648,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+285,2,"6:53",413,413,"Andre Spight made Free Throw.",64,73,-9,0.0519629648009632,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+286,2,"6:43",403,403,"Sayeed Pridgett made Layup.",64,75,-11,0.0212971501136568,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+287,2,"6:43",403,403,"Foul on Jalen Sanders.",64,75,-11,0.0212971501136568,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+288,2,"6:43",403,403,"Sayeed Pridgett missed Free Throw.",64,75,-11,0.0212971501136568,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+289,2,"6:43",403,403,"Jordan Davis Defensive Rebound.",64,75,-11,0.0212971501136568,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+290,2,"6:35",395,395,"Foul on Bobby Moorehead.",64,75,-11,0.0288968476609406,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+291,2,"6:35",395,395,"Jordan Davis made Free Throw.",65,75,-10,0.0390695086495948,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+292,2,"6:35",395,395,"Jordan Davis made Free Throw.",66,75,-9,0.0526292082784707,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+293,2,"6:20",380,380,"Foul on Andre Spight.",66,75,-9,0.0546261509499353,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+294,2,"6:20",380,380,"Bobby Moorehead made Free Throw.",66,76,-10,0.041149936449274,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+295,2,"6:20",380,380,"Bobby Moorehead missed Free Throw.",66,76,-10,0.041149936449274,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+296,2,"6:20",380,380,"Jonah Radebaugh Defensive Rebound.",66,76,-10,0.041149936449274,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+297,2,"6:06",366,366,"Andre Spight missed Layup.",66,76,-10,0.0339069278655766,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+298,2,"6:06",366,366,"Ahmaad Rorie Defensive Rebound.",66,76,-10,0.0339069278655766,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+299,2,"5:53",353,353,"Foul on Jamar Akoh.",66,76,-10,0.0232141429269152,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+300,2,"5:44",344,344,"Jordan Davis Turnover.",66,76,-10,0.0257231328624691,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+301,2,"5:43",343,343,"Sayeed Pridgett Steal.",66,76,-10,0.0257231328624691,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+302,2,"5:27",327,327,"Ahmaad Rorie made Jumper.",66,78,-12,0.0177513448698622,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+303,2,"5:05",305,305,"Andre Spight made Three Point Jumper. Assisted by Chaz Glotta.",69,78,-9,0.0415061327367171,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+304,2,"4:47",287,287,"Ahmaad Rorie missed Layup.",69,78,-9,0.0332640616999328,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+305,2,"4:47",287,287,"Jordan Davis Defensive Rebound.",69,78,-9,0.0332640616999328,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+306,2,"4:42",282,282,"Chaz Glotta missed Three Point Jumper.",69,78,-9,0.0332640616999328,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+307,2,"4:42",282,282,"Bobby Moorehead Defensive Rebound.",69,78,-9,0.0332640616999328,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+308,2,"4:38",278,278,"Foul on Tanner Morgan.",69,78,-9,0.0233430706138824,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+309,2,"4:38",278,278,"Bobby Moorehead made Free Throw.",69,79,-10,0.0159495820635562,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+310,2,"4:38",278,278,"Bobby Moorehead made Free Throw.",69,80,-11,0.0108717776145156,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+311,2,"4:19",259,259,"Andre Spight made Jumper.",71,80,-9,0.0211952936023419,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+312,2,"3:59",239,239,"Official TV Timeout",71,80,-9,0.0240658897308781,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+313,2,"3:47",227,227,"Fabijan Krslovic missed Jumper.",71,80,-9,0.0192856442844933,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+314,2,"3:47",227,227,"Fabijan Krslovic Offensive Rebound.",71,80,-9,0.0192856442844933,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+315,2,"3:45",225,225,"Fabijan Krslovic made Layup.",71,82,-11,0.00836044858861963,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+316,2,"3:31",211,211,"Jordan Davis made Layup. Assisted by Chaz Glotta.",73,82,-9,0.0158117493089998,"Northern Colorado","Montana",4,3,0,0,-2,400991320,2018-02-01
+317,2,"3:08",188,188,"Fabijan Krslovic Turnover.",73,82,-9,0.0103758612942728,"Northern Colorado","Montana",4,3,0,1,-2,400991320,2018-02-01
+318,2,"3:08",188,188,"Montana  Timeout",73,82,-9,0.0103758612942728,"Northern Colorado","Montana",4,2,0,1,-2,400991320,2018-02-01
+319,2,"2:57",177,177,"Jonah Radebaugh missed Three Point Jumper.",73,82,-9,0.011739231385039,"Northern Colorado","Montana",4,2,0,1,-2,400991320,2018-02-01
+320,2,"2:57",177,177,"Andre Spight Offensive Rebound.",73,82,-9,0.011739231385039,"Northern Colorado","Montana",4,2,0,1,-2,400991320,2018-02-01
+321,2,"2:53",173,173,"Andre Spight made Three Point Jumper.",76,82,-6,0.0494236613572848,"Northern Colorado","Montana",4,2,0,1,-2,400991320,2018-02-01
+322,2,"2:31",151,151,"Ahmaad Rorie made Three Point Jumper. Assisted by Timmy Falls.",76,85,-9,0.00742985870920784,"Northern Colorado","Montana",4,2,0,1,-2,400991320,2018-02-01
+323,2,"2:11",131,131,"Matej Drgon missed Three Point Jumper.",76,85,-9,0.00810218485981656,"Northern Colorado","Montana",4,2,0,1,-2,400991320,2018-02-01
+324,2,"2:11",131,131,"Timmy Falls Defensive Rebound.",76,85,-9,0.00810218485981656,"Northern Colorado","Montana",4,2,0,1,-2,400991320,2018-02-01
+325,2,"1:52",112,112,"Ahmaad Rorie missed Three Point Jumper.",76,85,-9,0.00451371498543847,"Northern Colorado","Montana",4,2,0,0,-2,400991320,2018-02-01
+326,2,"1:52",112,112,"Jonah Radebaugh Defensive Rebound.",76,85,-9,0.00451371498543847,"Northern Colorado","Montana",4,2,0,0,-2,400991320,2018-02-01
+327,2,"1:36",96,96,"Andre Spight made Three Point Jumper.",79,85,-6,0.0212658676402218,"Northern Colorado","Montana",4,2,0,0,-2,400991320,2018-02-01
+328,2,"1:26",86,86,"Montana  Timeout",79,85,-6,0.0139786100540592,"Northern Colorado","Montana",4,1,0,1,-2,400991320,2018-02-01
+329,2,"1:05",65,65,"Foul on Matej Drgon.",79,85,-6,0.00974333653166022,"Northern Colorado","Montana",4,1,0,1,-2,400991320,2018-02-01
+330,2,"1:05",65,65,"Fabijan Krslovic missed Free Throw.",79,85,-6,0.00974333653166022,"Northern Colorado","Montana",4,1,0,1,-2,400991320,2018-02-01
+331,2,"1:05",65,65,"Montana Deadball Team Rebound.",79,85,-6,0.00974333653166022,"Northern Colorado","Montana",4,1,0,1,-2,400991320,2018-02-01
+332,2,"1:05",65,65,"Fabijan Krslovic made Free Throw.",79,86,-7,0.00466205418214494,"Northern Colorado","Montana",4,1,0,1,-2,400991320,2018-02-01
+333,2,"0:55",55,55,"Andre Spight missed Three Point Jumper.",79,86,-7,0.00431682226745128,"Northern Colorado","Montana",4,1,0,1,-2,400991320,2018-02-01
+334,2,"0:55",55,55,"Jamar Akoh Defensive Rebound.",79,86,-7,0.00431682226745128,"Northern Colorado","Montana",4,1,0,1,-2,400991320,2018-02-01
+335,2,"0:45",45,45,"Ahmaad Rorie Turnover.",79,86,-7,0.00327694494122553,"Northern Colorado","Montana",4,1,1,1,-2,400991320,2018-02-01
+336,2,"0:45",45,45,"Northern Colorado  Timeout",79,86,-7,0.00327694494122553,"Northern Colorado","Montana",3,1,1,1,-2,400991320,2018-02-01
+337,2,"0:30",30,30,"Matej Drgon missed Three Point Jumper.",79,86,-7,0.00111915868786266,"Northern Colorado","Montana",3,1,1,1,-2,400991320,2018-02-01
+338,2,"0:30",30,30,"Timmy Falls Defensive Rebound.",79,86,-7,0.00111915868786266,"Northern Colorado","Montana",3,1,1,1,-2,400991320,2018-02-01
+339,2,"0:22",22,22,"Foul on Andre Spight.",79,86,-7,0.000124737229231109,"Northern Colorado","Montana",3,1,1,0,-2,400991320,2018-02-01
+340,2,"0:22",22,22,"Timmy Falls missed Free Throw.",79,86,-7,0.000124737229231109,"Northern Colorado","Montana",3,1,1,0,-2,400991320,2018-02-01
+341,2,"0:22",22,22,"Montana Deadball Team Rebound.",79,86,-7,0.000124737229231109,"Northern Colorado","Montana",3,1,1,0,-2,400991320,2018-02-01
+342,2,"0:22",22,22,"Timmy Falls made Free Throw.",79,87,-8,3.37753806869705e-05,"Northern Colorado","Montana",3,1,1,0,-2,400991320,2018-02-01
+343,2,"0:13",13,13,"Chaz Glotta missed Three Point Jumper.",79,87,-8,3.82043911579049e-06,"Northern Colorado","Montana",3,1,1,0,-2,400991320,2018-02-01
+344,2,"0:13",13,13,"Bobby Moorehead Defensive Rebound.",79,87,-8,3.82043911579049e-06,"Northern Colorado","Montana",3,1,1,0,-2,400991320,2018-02-01
+345,2,"0:05",5,5,"Foul on Jordan Davis.",79,87,-8,4.82901614161453e-06,"Northern Colorado","Montana",3,1,1,0,-2,400991320,2018-02-01
+346,2,"0:05",5,5,"Bobby Moorehead made Free Throw.",79,88,-9,9.58314143062769e-07,"Northern Colorado","Montana",3,1,1,0,-2,400991320,2018-02-01
+347,2,"0:05",5,5,"Bobby Moorehead missed Free Throw.",79,88,-9,9.58314143062769e-07,"Northern Colorado","Montana",3,1,1,0,-2,400991320,2018-02-01
+348,2,"0:05",5,5,"Andre Spight Defensive Rebound.",79,88,-9,9.58314143062769e-07,"Northern Colorado","Montana",3,1,1,0,-2,400991320,2018-02-01
+349,2,"0:05",5,5,"Andre Spight missed Three Point Jumper.",79,88,-9,9.58314143062769e-07,"Northern Colorado","Montana",3,1,1,0,-2,400991320,2018-02-01
+350,2,"0:05",5,5,"Montana Defensive Rebound.",79,88,-9,9.58314143062769e-07,"Northern Colorado","Montana",3,1,1,0,-2,400991320,2018-02-01
+351,2,"0:00",0,0,"End of Game",79,88,-9,2.41903668758714e-76,"Northern Colorado","Montana",3,1,1,0,-2,400991320,2018-02-01

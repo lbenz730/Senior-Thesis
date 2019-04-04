@@ -1,0 +1,350 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.770231956908983,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+2,1,"20:00",2400,2400,"Jump Ball won by Florida State",0,0,0,0.770231956908983,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+3,1,"19:43",2383,2383,"Foul on J.P. Macura.",0,0,0,0.766540941658563,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+4,1,"19:43",2383,2383,"Christ Koumadje made Free Throw.",0,1,-1,0.760695239715007,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+5,1,"19:43",2383,2383,"Christ Koumadje made Free Throw.",0,2,-2,0.754749995527776,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+6,1,"19:23",2363,2363,"Kerem Kanter Turnover.",0,2,-2,0.739469356980979,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+7,1,"19:23",2363,2363,"Phil Cofer Steal.",0,2,-2,0.739469356980979,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+8,1,"19:15",2355,2355,"Braian Angola made Three Point Jumper. Assisted by CJ Walker.",0,5,-5,0.685727209768038,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+9,1,"18:50",2330,2330,"J.P. Macura made Jumper. Assisted by Naji Marshall.",2,5,-3,0.706112382784445,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+10,1,"18:33",2313,2313,"CJ Walker missed Three Point Jumper.",2,5,-3,0.68628829523577,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+11,1,"18:33",2313,2313,"Braian Angola Offensive Rebound.",2,5,-3,0.68628829523577,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+12,1,"18:23",2303,2303,"Braian Angola made Three Point Jumper.",2,8,-6,0.621194822733428,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+13,1,"18:06",2286,2286,"Foul on Phil Cofer.",2,8,-6,0.618950986733976,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+14,1,"18:06",2286,2286,"Kerem Kanter made Free Throw.",3,8,-5,0.643351015355779,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+15,1,"18:06",2286,2286,"Kerem Kanter missed Free Throw.",3,8,-5,0.643351015355779,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+16,1,"18:06",2286,2286,"Phil Cofer Defensive Rebound.",3,8,-5,0.643351015355779,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+17,1,"17:52",2272,2272,"Phil Cofer missed Three Point Jumper.",3,8,-5,0.653849747431063,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+18,1,"17:52",2272,2272,"Trevon Bluiett Defensive Rebound.",3,8,-5,0.653849747431063,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+19,1,"17:34",2254,2254,"Kerem Kanter made Jumper.",5,8,-3,0.696057091855076,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+20,1,"17:19",2239,2239,"CJ Walker missed Jumper.",5,8,-3,0.689680134547701,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+21,1,"17:19",2239,2239,"Kerem Kanter Defensive Rebound.",5,8,-3,0.689680134547701,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+22,1,"17:15",2235,2235,"Foul on Christ Koumadje.",5,8,-3,0.689680134547701,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+23,1,"16:58",2218,2218,"Trevon Bluiett missed Layup.",5,8,-3,0.675891843653933,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+24,1,"16:58",2218,2218,"Christ Koumadje Block.",5,8,-3,0.675891843653933,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+25,1,"16:58",2218,2218,"Kerem Kanter Offensive Rebound.",5,8,-3,0.675891843653933,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+26,1,"16:48",2208,2208,"Kerem Kanter made Layup.",7,8,-1,0.733211352211476,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+27,1,"16:29",2189,2189,"Braian Angola missed Layup.",7,8,-1,0.733371297708785,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+28,1,"16:29",2189,2189,"Kerem Kanter Defensive Rebound.",7,8,-1,0.733371297708785,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+29,1,"16:21",2181,2181,"J.P. Macura made Three Point Jumper. Assisted by Kerem Kanter.",10,8,2,0.792059228666474,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+30,1,"15:56",2156,2156,"Phil Cofer made Three Point Jumper. Assisted by Braian Angola.",10,11,-1,0.722285444448455,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+31,1,"15:35",2135,2135,"Kerem Kanter made Layup.",12,11,1,0.77275183297162,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+32,1,"15:06",2106,2106,"CJ Walker Turnover.",12,11,1,0.765959076998661,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+33,1,"15:06",2106,2106,"Official TV Timeout",12,11,1,0.765959076998661,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+34,1,"14:48",2088,2088,"J.P. Macura missed Three Point Jumper.",12,11,1,0.768751319596905,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+35,1,"14:48",2088,2088,"Trent Forrest Defensive Rebound.",12,11,1,0.768751319596905,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+36,1,"14:38",2078,2078,"Foul on Trevon Bluiett.",12,11,1,0.768279347046914,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+37,1,"14:24",2064,2064,"Trent Forrest missed Layup.",12,11,1,0.763132031630897,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+38,1,"14:24",2064,2064,"Ike Obiagu Offensive Rebound.",12,11,1,0.763132031630897,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+39,1,"14:24",2064,2064,"Ike Obiagu made Two Point Tip Shot.",12,13,-1,0.716889110208859,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+40,1,"13:55",2035,2035,"Kaiser Gates Turnover.",12,13,-1,0.740571570807049,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+41,1,"13:44",2024,2024,"PJ Savoy Turnover.",12,13,-1,0.717869044519591,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+42,1,"13:44",2024,2024,"Kaiser Gates Steal.",12,13,-1,0.717869044519591,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+43,1,"13:33",2013,2013,"Trevon Bluiett Turnover.",12,13,-1,0.727518040512442,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+44,1,"13:33",2013,2013,"PJ Savoy Steal.",12,13,-1,0.727518040512442,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+45,1,"13:27",2007,2007,"PJ Savoy missed Layup.",12,13,-1,0.719334165909738,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+46,1,"13:27",2007,2007,"Ike Obiagu Offensive Rebound.",12,13,-1,0.719334165909738,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+47,1,"13:20",2000,2000,"PJ Savoy missed Three Point Jumper.",12,13,-1,0.719334165909738,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+48,1,"13:20",2000,2000,"Kaiser Gates Defensive Rebound.",12,13,-1,0.719334165909738,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+49,1,"13:09",1989,1989,"Kerem Kanter made Layup.",14,13,1,0.753846807897092,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+50,1,"12:56",1976,1976,"Foul on Quentin Goodin.",14,13,1,0.774809446743029,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+51,1,"12:51",1971,1971,"M.J. Walker missed Layup.",14,13,1,0.774809446743029,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+52,1,"12:51",1971,1971,"Florida State Offensive Rebound.",14,13,1,0.774809446743029,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+53,1,"12:34",1954,1954,"Terance Mann made Layup.",14,15,-1,0.720249334730313,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+54,1,"12:12",1932,1932,"Paul Scruggs made Three Point Jumper. Assisted by Kaiser Gates.",17,15,2,0.779897917165727,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+55,1,"11:53",1913,1913,"PJ Savoy Turnover.",17,15,2,0.799133561829393,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+56,1,"11:53",1913,1913,"Official TV Timeout",17,15,2,0.799133561829393,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+57,1,"11:31",1891,1891,"Kaiser Gates missed Layup.",17,15,2,0.789501064848203,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+58,1,"11:31",1891,1891,"Mfiondu Kabengele Block.",17,15,2,0.789501064848203,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+59,1,"11:31",1891,1891,"Braian Angola Defensive Rebound.",17,15,2,0.789501064848203,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+60,1,"11:24",1884,1884,"Trent Forrest missed Layup.",17,15,2,0.784231156104213,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+61,1,"11:24",1884,1884,"M.J. Walker Offensive Rebound.",17,15,2,0.784231156104213,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+62,1,"11:08",1868,1868,"Braian Angola missed Three Point Jumper.",17,15,2,0.790938445365463,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+63,1,"11:08",1868,1868,"J.P. Macura Defensive Rebound.",17,15,2,0.790938445365463,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+64,1,"11:00",1860,1860,"Kaiser Gates made Three Point Jumper. Assisted by Trevon Bluiett.",20,15,5,0.849929910019864,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+65,1,"10:33",1833,1833,"M.J. Walker missed Layup.",20,15,5,0.840744354440884,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+66,1,"10:33",1833,1833,"Sean O'Mara Block.",20,15,5,0.840744354440884,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+67,1,"10:33",1833,1833,"Sean O'Mara Defensive Rebound.",20,15,5,0.840744354440884,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+68,1,"10:25",1825,1825,"Paul Scruggs made Layup.",22,15,7,0.87826137049426,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+69,1,"10:20",1820,1820,"Florida State  Timeout",22,15,7,0.87826137049426,"Xavier","Florida State",3,4,1,0,5.5,401025867,2018-03-18
+70,1,"10:06",1806,1806,"Phil Cofer Turnover.",22,15,7,0.872338420143267,"Xavier","Florida State",3,4,1,0,5.5,401025867,2018-03-18
+71,1,"10:06",1806,1806,"Naji Marshall Steal.",22,15,7,0.872338420143267,"Xavier","Florida State",3,4,1,0,5.5,401025867,2018-03-18
+72,1,"10:01",1801,1801,"Naji Marshall Turnover.",22,15,7,0.872338420143267,"Xavier","Florida State",3,4,1,0,5.5,401025867,2018-03-18
+73,1,"9:51",1791,1791,"CJ Walker Turnover.",22,15,7,0.868413234331989,"Xavier","Florida State",3,4,1,0,5.5,401025867,2018-03-18
+74,1,"9:34",1774,1774,"Tyrique Jones made Dunk. Assisted by J.P. Macura.",24,15,9,0.887644346313635,"Xavier","Florida State",3,4,1,0,5.5,401025867,2018-03-18
+75,1,"9:13",1753,1753,"Phil Cofer missed Three Point Jumper.",24,15,9,0.902391175710378,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+76,1,"9:13",1753,1753,"Xavier Defensive Rebound.",24,15,9,0.902391175710378,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+77,1,"8:51",1731,1731,"Paul Scruggs missed Three Point Jumper.",24,15,9,0.904504001688774,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+78,1,"8:51",1731,1731,"Phil Cofer Defensive Rebound.",24,15,9,0.904504001688774,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+79,1,"8:43",1723,1723,"Foul on J.P. Macura.",24,15,9,0.900504383581262,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+80,1,"8:17",1697,1697,"Braian Angola made Jumper.",24,17,7,0.881833784238651,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+81,1,"7:54",1674,1674,"Foul on Trevon Bluiett.",24,17,7,0.87963846431399,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+82,1,"7:54",1674,1674,"Trevon Bluiett Turnover.",24,17,7,0.87963846431399,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+83,1,"7:54",1674,1674,"Official TV Timeout",24,17,7,0.87963846431399,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+84,1,"7:36",1656,1656,"Christ Koumadje missed Jumper.",24,17,7,0.872403913905739,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+85,1,"7:36",1656,1656,"Tyrique Jones Defensive Rebound.",24,17,7,0.872403913905739,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+86,1,"7:27",1647,1647,"Quentin Goodin missed Jumper.",24,17,7,0.880568208757466,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+87,1,"7:27",1647,1647,"Christ Koumadje Defensive Rebound.",24,17,7,0.880568208757466,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+88,1,"7:17",1637,1637,"Trent Forrest made Layup.",24,19,5,0.842626208064939,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+89,1,"7:01",1621,1621,"Trevon Bluiett missed Three Point Jumper.",24,19,5,0.843047535000425,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+90,1,"7:01",1621,1621,"Tyrique Jones Offensive Rebound.",24,19,5,0.843047535000425,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+91,1,"6:54",1614,1614,"Foul on Trent Forrest.",24,19,5,0.832514682902364,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+92,1,"6:54",1614,1614,"Tyrique Jones missed Free Throw.",24,19,5,0.832514682902364,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+93,1,"6:54",1614,1614,"Xavier Deadball Team Rebound.",24,19,5,0.832514682902364,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+94,1,"6:54",1614,1614,"Tyrique Jones made Free Throw.",25,19,6,0.851231976055412,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+95,1,"6:43",1603,1603,"PJ Savoy made Three Point Jumper. Assisted by Braian Angola.",25,22,3,0.798928404749863,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+96,1,"6:12",1572,1572,"Foul on Mfiondu Kabengele.",25,22,3,0.812122281299398,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+97,1,"6:12",1572,1572,"Tyrique Jones made Free Throw.",26,22,4,0.834656626132791,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+98,1,"6:12",1572,1572,"Tyrique Jones missed Free Throw.",26,22,4,0.834656626132791,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+99,1,"6:12",1572,1572,"Phil Cofer Defensive Rebound.",26,22,4,0.834656626132791,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+100,1,"5:49",1549,1549,"Phil Cofer missed Three Point Jumper.",26,22,4,0.825705021700304,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+101,1,"5:49",1549,1549,"J.P. Macura Defensive Rebound.",26,22,4,0.825705021700304,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+102,1,"5:37",1537,1537,"Paul Scruggs missed Layup.",26,22,4,0.825472437806792,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+103,1,"5:37",1537,1537,"Trent Forrest Defensive Rebound.",26,22,4,0.825472437806792,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+104,1,"5:30",1530,1530,"Phil Cofer made Layup.",26,24,2,0.781564541828884,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+105,1,"5:03",1503,1503,"Foul on Mfiondu Kabengele.",26,24,2,0.776171720630023,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+106,1,"5:03",1503,1503,"J.P. Macura made Free Throw.",27,24,3,0.799948444297739,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+107,1,"5:03",1503,1503,"J.P. Macura made Free Throw.",28,24,4,0.821779373721335,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+108,1,"4:50",1490,1490,"Foul on Kerem Kanter.",28,24,4,0.829628217929493,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+109,1,"4:39",1479,1479,"Phil Cofer made Layup.",28,26,2,0.790126040530854,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+110,1,"4:39",1479,1479,"Foul on Kerem Kanter.",28,26,2,0.790126040530854,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+111,1,"4:39",1479,1479,"Phil Cofer made Free Throw.",28,27,1,0.763658269698301,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+112,1,"4:31",1471,1471,"Kaiser Gates missed Three Point Jumper.",28,27,1,0.763658269698301,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+113,1,"4:31",1471,1471,"PJ Savoy Defensive Rebound.",28,27,1,0.763658269698301,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+114,1,"4:21",1461,1461,"Phil Cofer missed Jumper.",28,27,1,0.74258841950409,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+115,1,"4:21",1461,1461,"Naji Marshall Defensive Rebound.",28,27,1,0.74258841950409,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+116,1,"4:17",1457,1457,"Foul on Ike Obiagu.",28,27,1,0.743087531974424,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+117,1,"3:53",1433,1433,"Official TV Timeout",28,27,1,0.749613571938975,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+118,1,"3:43",1423,1423,"Kaiser Gates Turnover.",28,27,1,0.735371503799434,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+119,1,"3:22",1402,1402,"M.J. Walker missed Three Point Jumper.",28,27,1,0.761956901452046,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+120,1,"3:22",1402,1402,"Quentin Goodin Defensive Rebound.",28,27,1,0.761956901452046,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+121,1,"2:57",1377,1377,"Foul on Kaiser Gates.",28,27,1,0.737173130600848,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+122,1,"2:57",1377,1377,"Kaiser Gates Turnover.",28,27,1,0.737173130600848,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+123,1,"2:34",1354,1354,"Trent Forrest made Jumper.",28,29,-1,0.694259199839366,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+124,1,"2:23",1343,1343,"Foul on Braian Angola.",28,29,-1,0.669053071581953,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+125,1,"2:23",1343,1343,"Paul Scruggs made Free Throw.",29,29,0,0.703045423467393,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+126,1,"2:23",1343,1343,"Paul Scruggs missed Free Throw.",29,29,0,0.703045423467393,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+127,1,"2:23",1343,1343,"M.J. Walker Defensive Rebound.",29,29,0,0.703045423467393,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+128,1,"2:07",1327,1327,"Braian Angola made Three Point Jumper. Assisted by Trent Forrest.",29,32,-3,0.607987397295286,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+129,1,"1:39",1299,1299,"Naji Marshall missed Three Point Jumper.",29,32,-3,0.606464772312373,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+130,1,"1:39",1299,1299,"Braian Angola Defensive Rebound.",29,32,-3,0.606464772312373,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+131,1,"1:11",1271,1271,"Braian Angola missed Three Point Jumper.",29,32,-3,0.597928980226453,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+132,1,"1:11",1271,1271,"Naji Marshall Defensive Rebound.",29,32,-3,0.597928980226453,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+133,1,"0:57",1257,1257,"Quentin Goodin missed Jumper.",29,32,-3,0.596829653791382,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+134,1,"0:57",1257,1257,"Trent Forrest Defensive Rebound.",29,32,-3,0.596829653791382,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+135,1,"0:48",1248,1248,"M.J. Walker missed Three Point Jumper.",29,32,-3,0.610010078189635,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+136,1,"0:48",1248,1248,"Quentin Goodin Defensive Rebound.",29,32,-3,0.610010078189635,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+137,1,"0:39",1239,1239,"Paul Scruggs missed Layup.",29,32,-3,0.588008216625254,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+138,1,"0:39",1239,1239,"Trent Forrest Defensive Rebound.",29,32,-3,0.588008216625254,"Xavier","Florida State",3,4,0,0,5.5,401025867,2018-03-18
+139,1,"0:35",1235,1235,"Foul on Trent Forrest.",29,32,-3,0.588008216625254,"Xavier","Florida State",3,4,0,1,5.5,401025867,2018-03-18
+140,1,"0:35",1235,1235,"Trent Forrest Turnover.",29,32,-3,0.588008216625254,"Xavier","Florida State",3,4,0,1,5.5,401025867,2018-03-18
+141,1,"0:35",1235,1235,"Xavier  Timeout",29,32,-3,0.588008216625254,"Xavier","Florida State",3,3,0,1,5.5,401025867,2018-03-18
+142,1,"0:20",1220,1220,"Kerem Kanter missed Jumper.",29,32,-3,0.598177585479998,"Xavier","Florida State",3,3,0,1,5.5,401025867,2018-03-18
+143,1,"0:20",1220,1220,"Christ Koumadje Block.",29,32,-3,0.598177585479998,"Xavier","Florida State",3,3,0,1,5.5,401025867,2018-03-18
+144,1,"0:20",1220,1220,"Xavier Offensive Rebound.",29,32,-3,0.598177585479998,"Xavier","Florida State",3,3,0,1,5.5,401025867,2018-03-18
+145,1,"0:19",1219,1219,"J.P. Macura made Three Point Jumper. Assisted by Quentin Goodin.",32,32,0,0.699087963470626,"Xavier","Florida State",3,3,0,1,5.5,401025867,2018-03-18
+146,1,"0:03",1203,1203,"Braian Angola missed Three Point Jumper.",32,32,0,0.707935571365329,"Xavier","Florida State",3,3,0,1,5.5,401025867,2018-03-18
+147,1,"0:03",1203,1203,"Xavier Deadball Team Rebound.",32,32,0,0.707935571365329,"Xavier","Florida State",3,3,0,1,5.5,401025867,2018-03-18
+148,1,"0:01",1201,1201,"Foul on Christ Koumadje.",32,32,0,0.707935571365329,"Xavier","Florida State",3,3,0,1,5.5,401025867,2018-03-18
+149,1,"0:01",1201,1201,"Trevon Bluiett made Free Throw.",33,32,1,0.73974223180028,"Xavier","Florida State",3,3,0,1,5.5,401025867,2018-03-18
+150,1,"0:01",1201,1201,"Trevon Bluiett made Free Throw.",34,32,2,0.769214259781396,"Xavier","Florida State",3,3,0,1,5.5,401025867,2018-03-18
+151,1,"0:00",1200,1200,"End of 1st half",34,32,2,0.769214259781396,"Xavier","Florida State",3,3,0,1,5.5,401025867,2018-03-18
+152,2,"20:00",1200,1200,"PLAY",34,32,2,0.769214259781396,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+153,2,"20:00",1200,1200,"Jump Ball won by Xavier",34,32,2,0.769214259781396,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+154,2,"19:50",1190,1190,"Trevon Bluiett missed Jumper.",34,32,2,0.797057300974646,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+155,2,"19:50",1190,1190,"Kerem Kanter Offensive Rebound.",34,32,2,0.797057300974646,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+156,2,"19:44",1184,1184,"Foul on Christ Koumadje.",34,32,2,0.771922236594017,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+157,2,"19:44",1184,1184,"Kerem Kanter made Free Throw.",35,32,3,0.79975159484519,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+158,2,"19:44",1184,1184,"Kerem Kanter made Free Throw.",36,32,4,0.82495531339721,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+159,2,"19:35",1175,1175,"Terance Mann missed Layup.",36,32,4,0.81813530905795,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+160,2,"19:35",1175,1175,"CJ Walker Offensive Rebound.",36,32,4,0.81813530905795,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+161,2,"19:30",1170,1170,"CJ Walker missed Layup.",36,32,4,0.81813530905795,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+162,2,"19:30",1170,1170,"Mfiondu Kabengele Offensive Rebound.",36,32,4,0.81813530905795,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+163,2,"19:25",1165,1165,"Mfiondu Kabengele made Layup.",36,34,2,0.762248966020242,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+164,2,"19:03",1143,1143,"Foul on CJ Walker.",36,34,2,0.763575561687509,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+165,2,"19:03",1143,1143,"Quentin Goodin made Free Throw.",37,34,3,0.793244542257082,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+166,2,"19:03",1143,1143,"Quentin Goodin made Free Throw.",38,34,4,0.82006769687423,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+167,2,"18:43",1123,1123,"Braian Angola Turnover.",38,34,4,0.83033490895443,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+168,2,"18:43",1123,1123,"Quentin Goodin Steal.",38,34,4,0.83033490895443,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+169,2,"18:39",1119,1119,"Quentin Goodin made Dunk.",40,34,6,0.867757169264907,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+170,2,"18:20",1100,1100,"Foul on Quentin Goodin.",40,34,6,0.865988479835359,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+171,2,"18:15",1095,1095,"Terance Mann Turnover.",40,34,6,0.873736714659854,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+172,2,"17:56",1076,1076,"J.P. Macura Turnover.",40,34,6,0.865950906676684,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+173,2,"17:42",1062,1062,"Foul on Kaiser Gates.",40,34,6,0.870377949272545,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+174,2,"17:42",1062,1062,"Terance Mann missed Free Throw.",40,34,6,0.870377949272545,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+175,2,"17:42",1062,1062,"Florida State Deadball Team Rebound.",40,34,6,0.870377949272545,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+176,2,"17:42",1062,1062,"Terance Mann made Free Throw.",40,35,5,0.849653345814963,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+177,2,"17:26",1046,1046,"Kerem Kanter missed Jumper.",40,35,5,0.856613538304731,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+178,2,"17:26",1046,1046,"Xavier Offensive Rebound.",40,35,5,0.856613538304731,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+179,2,"17:25",1045,1045,"Quentin Goodin Turnover.",40,35,5,0.856613538304731,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+180,2,"17:25",1045,1045,"Phil Cofer Steal.",40,35,5,0.856613538304731,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+181,2,"17:10",1030,1030,"CJ Walker Turnover.",40,35,5,0.84362283035286,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+182,2,"17:10",1030,1030,"Quentin Goodin Steal.",40,35,5,0.84362283035286,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+183,2,"17:05",1025,1025,"Kaiser Gates missed Three Point Jumper.",40,35,5,0.853004590667198,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+184,2,"17:05",1025,1025,"J.P. Macura Offensive Rebound.",40,35,5,0.853004590667198,"Xavier","Florida State",4,4,0,0,5.5,401025867,2018-03-18
+185,2,"16:58",1018,1018,"Foul on Mfiondu Kabengele.",40,35,5,0.835425948435955,"Xavier","Florida State",4,4,0,1,5.5,401025867,2018-03-18
+186,2,"16:58",1018,1018,"Xavier  Timeout",40,35,5,0.835425948435955,"Xavier","Florida State",4,3,0,1,5.5,401025867,2018-03-18
+187,2,"16:50",1010,1010,"Quentin Goodin made Layup.",42,35,7,0.879731896107387,"Xavier","Florida State",4,3,0,1,5.5,401025867,2018-03-18
+188,2,"16:23",983,983,"Mfiondu Kabengele missed Jumper.",42,35,7,0.902457939687151,"Xavier","Florida State",4,3,0,1,5.5,401025867,2018-03-18
+189,2,"16:23",983,983,"Kerem Kanter Defensive Rebound.",42,35,7,0.902457939687151,"Xavier","Florida State",4,3,0,1,5.5,401025867,2018-03-18
+190,2,"16:14",974,974,"J.P. Macura made Layup. Assisted by Quentin Goodin.",44,35,9,0.923138523339108,"Xavier","Florida State",4,3,0,1,5.5,401025867,2018-03-18
+191,2,"15:44",944,944,"Official TV Timeout",44,35,9,0.932171488262968,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+192,2,"15:43",943,943,"Phil Cofer Turnover.",44,35,9,0.932171488262968,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+193,2,"15:43",943,943,"Trevon Bluiett Steal.",44,35,9,0.932171488262968,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+194,2,"15:27",927,927,"Quentin Goodin Turnover.",44,35,9,0.919127466317067,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+195,2,"15:27",927,927,"Braian Angola Steal.",44,35,9,0.919127466317067,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+196,2,"15:10",910,910,"Foul on Kerem Kanter.",44,35,9,0.930965277720699,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+197,2,"15:04",904,904,"Foul on Ike Obiagu.",44,35,9,0.923547609624768,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+198,2,"15:04",904,904,"Ike Obiagu Turnover.",44,35,9,0.923547609624768,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+199,2,"14:43",883,883,"Trevon Bluiett missed Three Point Jumper.",44,35,9,0.909811407849444,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+200,2,"14:43",883,883,"Sean O'Mara Offensive Rebound.",44,35,9,0.909811407849444,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+201,2,"14:34",874,874,"J.P. Macura made Layup. Assisted by Sean O'Mara.",46,35,11,0.949021957471289,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+202,2,"14:34",874,874,"Foul on Phil Cofer.",46,35,11,0.949021957471289,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+203,2,"14:34",874,874,"J.P. Macura missed Free Throw.",46,35,11,0.949021957471289,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+204,2,"14:34",874,874,"Braian Angola Defensive Rebound.",46,35,11,0.949021957471289,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+205,2,"14:33",873,873,"Braian Angola Turnover.",46,35,11,0.949021957471289,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+206,2,"14:31",871,871,"J.P. Macura Turnover.",46,35,11,0.949021957471289,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+207,2,"14:31",871,871,"Trent Forrest Steal.",46,35,11,0.949021957471289,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+208,2,"14:25",865,865,"Foul on J.P. Macura.",46,35,11,0.9457241275022,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+209,2,"14:25",865,865,"Trent Forrest made Free Throw.",46,36,10,0.935007349057467,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+210,2,"14:25",865,865,"Trent Forrest made Free Throw.",46,37,9,0.922348284627773,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+211,2,"14:15",855,855,"J.P. Macura missed Layup.",46,37,9,0.935262584457086,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+212,2,"14:15",855,855,"Trent Forrest Defensive Rebound.",46,37,9,0.935262584457086,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+213,2,"14:08",848,848,"PJ Savoy made Three Point Jumper. Assisted by Trent Forrest.",46,40,6,0.8827713602947,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+214,2,"13:50",830,830,"Foul on Braian Angola.",46,40,6,0.88877843156293,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+215,2,"13:35",815,815,"Kaiser Gates made Layup. Assisted by Paul Scruggs.",48,40,8,0.910942652434006,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+216,2,"13:19",799,799,"Phil Cofer Turnover.",48,40,8,0.924123492740012,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+217,2,"13:19",799,799,"Trevon Bluiett Steal.",48,40,8,0.924123492740012,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+218,2,"13:10",790,790,"Trevon Bluiett made Three Point Jumper.",51,40,11,0.959263259879608,"Xavier","Florida State",4,3,0,0,5.5,401025867,2018-03-18
+219,2,"12:50",770,770,"Florida State  Timeout",51,40,11,0.955941920412909,"Xavier","Florida State",3,3,1,0,5.5,401025867,2018-03-18
+220,2,"12:41",761,761,"Foul on Quentin Goodin.",51,40,11,0.962309452364163,"Xavier","Florida State",3,3,1,0,5.5,401025867,2018-03-18
+221,2,"12:41",761,761,"Braian Angola made Free Throw.",51,41,10,0.953647581292292,"Xavier","Florida State",3,3,1,0,5.5,401025867,2018-03-18
+222,2,"12:41",761,761,"Braian Angola made Free Throw.",51,42,9,0.943112755090332,"Xavier","Florida State",3,3,1,0,5.5,401025867,2018-03-18
+223,2,"12:33",753,753,"Quentin Goodin missed Layup.",51,42,9,0.938449725294269,"Xavier","Florida State",3,3,1,0,5.5,401025867,2018-03-18
+224,2,"12:33",753,753,"Braian Angola Block.",51,42,9,0.938449725294269,"Xavier","Florida State",3,3,1,0,5.5,401025867,2018-03-18
+225,2,"12:33",753,753,"Mfiondu Kabengele Defensive Rebound.",51,42,9,0.938449725294269,"Xavier","Florida State",3,3,1,0,5.5,401025867,2018-03-18
+226,2,"12:29",749,749,"Jump Ball won by Florida State",51,42,9,0.938456093294007,"Xavier","Florida State",3,3,1,0,5.5,401025867,2018-03-18
+227,2,"12:17",737,737,"Foul on Quentin Goodin.",51,42,9,0.932843254079932,"Xavier","Florida State",3,3,1,0,5.5,401025867,2018-03-18
+228,2,"12:14",734,734,"Foul on Sean O'Mara.",51,42,9,0.932843254079932,"Xavier","Florida State",3,3,1,0,5.5,401025867,2018-03-18
+229,2,"12:14",734,734,"Phil Cofer made Free Throw.",51,43,8,0.91823335992111,"Xavier","Florida State",3,3,1,0,5.5,401025867,2018-03-18
+230,2,"12:14",734,734,"Phil Cofer made Free Throw.",51,44,7,0.900783145711801,"Xavier","Florida State",3,3,1,0,5.5,401025867,2018-03-18
+231,2,"12:05",725,725,"Foul on PJ Savoy.",51,44,7,0.911924466649175,"Xavier","Florida State",3,3,1,0,5.5,401025867,2018-03-18
+232,2,"12:05",725,725,"Paul Scruggs made Free Throw.",52,44,8,0.928071985959933,"Xavier","Florida State",3,3,1,0,5.5,401025867,2018-03-18
+233,2,"12:05",725,725,"Paul Scruggs missed Free Throw.",52,44,8,0.928071985959933,"Xavier","Florida State",3,3,1,0,5.5,401025867,2018-03-18
+234,2,"12:05",725,725,"M.J. Walker Defensive Rebound.",52,44,8,0.928071985959933,"Xavier","Florida State",3,3,1,0,5.5,401025867,2018-03-18
+235,2,"11:50",710,710,"Braian Angola missed Three Point Jumper.",52,44,8,0.919522058651095,"Xavier","Florida State",3,3,1,0,5.5,401025867,2018-03-18
+236,2,"11:50",710,710,"Kaiser Gates Defensive Rebound.",52,44,8,0.919522058651095,"Xavier","Florida State",3,3,1,0,5.5,401025867,2018-03-18
+237,2,"11:40",700,700,"J.P. Macura made Layup.",54,44,10,0.945771174198693,"Xavier","Florida State",3,3,0,0,5.5,401025867,2018-03-18
+238,2,"11:17",677,677,"Phil Cofer missed Three Point Jumper.",54,44,10,0.953985283188167,"Xavier","Florida State",3,3,0,0,5.5,401025867,2018-03-18
+239,2,"11:17",677,677,"J.P. Macura Defensive Rebound.",54,44,10,0.953985283188167,"Xavier","Florida State",3,3,0,0,5.5,401025867,2018-03-18
+240,2,"11:00",660,660,"J.P. Macura Turnover.",54,44,10,0.953325646291466,"Xavier","Florida State",3,3,0,0,5.5,401025867,2018-03-18
+241,2,"11:00",660,660,"Trent Forrest Steal.",54,44,10,0.953325646291466,"Xavier","Florida State",3,3,0,0,5.5,401025867,2018-03-18
+242,2,"10:54",654,654,"M.J. Walker missed Three Point Jumper.",54,44,10,0.957920699434301,"Xavier","Florida State",3,3,0,0,5.5,401025867,2018-03-18
+243,2,"10:54",654,654,"Paul Scruggs Defensive Rebound.",54,44,10,0.957920699434301,"Xavier","Florida State",3,3,0,0,5.5,401025867,2018-03-18
+244,2,"10:44",644,644,"Trevon Bluiett made Layup. Assisted by Paul Scruggs.",56,44,12,0.973204913266141,"Xavier","Florida State",3,3,0,0,5.5,401025867,2018-03-18
+245,2,"10:32",632,632,"Florida State  Timeout",56,44,12,0.969486313846147,"Xavier","Florida State",2,3,1,0,5.5,401025867,2018-03-18
+246,2,"10:32",632,632,"Official TV Timeout",56,44,12,0.969486313846147,"Xavier","Florida State",2,3,1,0,5.5,401025867,2018-03-18
+247,2,"10:10",610,610,"Braian Angola made Jumper.",56,46,10,0.958947086640288,"Xavier","Florida State",2,3,1,0,5.5,401025867,2018-03-18
+248,2,"9:50",590,590,"Paul Scruggs made Layup. Assisted by J.P. Macura.",58,46,12,0.972345383197084,"Xavier","Florida State",2,3,1,0,5.5,401025867,2018-03-18
+249,2,"9:39",579,579,"Trent Forrest made Jumper.",58,48,10,0.964947546741107,"Xavier","Florida State",2,3,1,0,5.5,401025867,2018-03-18
+250,2,"9:07",547,547,"Foul on Trent Forrest.",58,48,10,0.963370916390162,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+251,2,"9:07",547,547,"J.P. Macura made Free Throw.",59,48,11,0.971739211170942,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+252,2,"9:07",547,547,"J.P. Macura missed Free Throw.",59,48,11,0.971739211170942,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+253,2,"9:07",547,547,"J.P. Macura Offensive Rebound.",59,48,11,0.971739211170942,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+254,2,"9:06",546,546,"Foul on M.J. Walker.",59,48,11,0.971739211170942,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+255,2,"9:06",546,546,"J.P. Macura missed Free Throw.",59,48,11,0.971739211170942,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+256,2,"9:06",546,546,"Braian Angola Defensive Rebound.",59,48,11,0.971739211170942,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+257,2,"8:55",535,535,"Foul on J.P. Macura.",59,48,11,0.979583687554576,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+258,2,"8:55",535,535,"Mfiondu Kabengele made Free Throw.",59,49,10,0.973128006711991,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+259,2,"8:55",535,535,"Mfiondu Kabengele made Free Throw.",59,50,9,0.964704576204349,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+260,2,"8:45",525,525,"Trevon Bluiett missed Jumper.",59,50,9,0.956315417835233,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+261,2,"8:45",525,525,"Tyrique Jones Offensive Rebound.",59,50,9,0.956315417835233,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+262,2,"8:45",525,525,"Tyrique Jones made Dunk.",61,50,11,0.974188156571418,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+263,2,"8:27",507,507,"Terance Mann made Three Point Jumper. Assisted by Braian Angola.",61,53,8,0.94704627811007,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+264,2,"7:53",473,473,"Paul Scruggs missed Layup.",61,53,8,0.951751411066032,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+265,2,"7:53",473,473,"Tyrique Jones Offensive Rebound.",61,53,8,0.951751411066032,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+266,2,"7:49",469,469,"Tyrique Jones missed Jumper.",61,53,8,0.947030609303196,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+267,2,"7:49",469,469,"Braian Angola Defensive Rebound.",61,53,8,0.947030609303196,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+268,2,"7:43",463,463,"M.J. Walker missed Three Point Jumper.",61,53,8,0.947030609303196,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+269,2,"7:43",463,463,"Kerem Kanter Defensive Rebound.",61,53,8,0.947030609303196,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+270,2,"7:30",450,450,"Paul Scruggs missed Layup.",61,53,8,0.956789620845157,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+271,2,"7:30",450,450,"Tyrique Jones Offensive Rebound.",61,53,8,0.956789620845157,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+272,2,"7:26",446,446,"Foul on Braian Angola.",61,53,8,0.941454834417767,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+273,2,"7:26",446,446,"Official TV Timeout",61,53,8,0.941454834417767,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+274,2,"7:26",446,446,"Tyrique Jones missed Free Throw.",61,53,8,0.941454834417767,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+275,2,"7:26",446,446,"Xavier Deadball Team Rebound.",61,53,8,0.941454834417767,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+276,2,"7:26",446,446,"Tyrique Jones made Free Throw.",62,53,9,0.954935316344438,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+277,2,"7:09",429,429,"Mfiondu Kabengele missed Jumper.",62,53,9,0.961563888746071,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+278,2,"7:09",429,429,"Terance Mann Offensive Rebound.",62,53,9,0.961563888746071,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+279,2,"7:09",429,429,"Terance Mann made Two Point Tip Shot.",62,55,7,0.932453944681937,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+280,2,"6:41",401,401,"Trevon Bluiett missed Jumper.",62,55,7,0.946052481302512,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+281,2,"6:41",401,401,"Mfiondu Kabengele Defensive Rebound.",62,55,7,0.946052481302512,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+282,2,"6:36",396,396,"Foul on Tyrique Jones.",62,55,7,0.94394319144621,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+283,2,"6:36",396,396,"Mfiondu Kabengele made Free Throw.",62,56,6,0.924948251134493,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+284,2,"6:36",396,396,"Mfiondu Kabengele missed Free Throw.",62,56,6,0.924948251134493,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+285,2,"6:36",396,396,"Kaiser Gates Defensive Rebound.",62,56,6,0.924948251134493,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+286,2,"6:34",394,394,"Foul on Terance Mann.",62,56,6,0.924948251134493,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+287,2,"6:34",394,394,"Kaiser Gates made Free Throw.",63,56,7,0.94394319144621,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+288,2,"6:34",394,394,"Kaiser Gates missed Free Throw.",63,56,7,0.94394319144621,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+289,2,"6:34",394,394,"Kaiser Gates Offensive Rebound.",63,56,7,0.94394319144621,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+290,2,"6:12",372,372,"Kerem Kanter made Jumper.",65,56,9,0.965972971479487,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+291,2,"6:00",360,360,"Foul on Trevon Bluiett.",65,56,9,0.969662653512942,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+292,2,"6:00",360,360,"Trent Forrest missed Free Throw.",65,56,9,0.969662653512942,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+293,2,"6:00",360,360,"Florida State Deadball Team Rebound.",65,56,9,0.969662653512942,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+294,2,"6:00",360,360,"Braian Angola made Free Throw.",65,57,8,0.958581803183042,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+295,2,"5:37",337,337,"Foul on Mfiondu Kabengele.",65,57,8,0.969153747227421,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+296,2,"5:37",337,337,"Trevon Bluiett missed Free Throw.",65,57,8,0.969153747227421,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+297,2,"5:37",337,337,"Xavier Deadball Team Rebound.",65,57,8,0.969153747227421,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+298,2,"5:37",337,337,"Trevon Bluiett made Free Throw.",66,57,9,0.97815947875403,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+299,2,"5:31",331,331,"Terance Mann made Jumper.",66,59,7,0.956599351531844,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+300,2,"5:13",313,313,"Paul Scruggs missed Layup.",66,59,7,0.957198479249116,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+301,2,"5:13",313,313,"Mfiondu Kabengele Defensive Rebound.",66,59,7,0.957198479249116,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+302,2,"5:04",304,304,"Trent Forrest made Layup.",66,61,5,0.901708865293614,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+303,2,"4:27",267,267,"Trevon Bluiett Turnover.",66,61,5,0.917934064212294,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+304,2,"4:27",267,267,"Trent Forrest Steal.",66,61,5,0.917934064212294,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+305,2,"4:21",261,261,"Trent Forrest made Layup.",66,63,3,0.841321950182477,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+306,2,"4:21",261,261,"Foul on Paul Scruggs.",66,63,3,0.841321950182477,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+307,2,"4:21",261,261,"Trent Forrest made Free Throw.",66,64,2,0.784966021589292,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+308,2,"3:58",238,238,"Kerem Kanter made Jumper.",68,64,4,0.893662483684917,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+309,2,"3:49",229,229,"PJ Savoy missed Three Point Jumper.",68,64,4,0.910544523633916,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+310,2,"3:49",229,229,"Quentin Goodin Defensive Rebound.",68,64,4,0.910544523633916,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+311,2,"3:35",215,215,"Quentin Goodin Turnover.",68,64,4,0.90258642770077,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+312,2,"3:34",214,214,"Official TV Timeout",68,64,4,0.90258642770077,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+313,2,"3:16",196,196,"Braian Angola missed Layup.",68,64,4,0.903669184360733,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+314,2,"3:16",196,196,"Mfiondu Kabengele Offensive Rebound.",68,64,4,0.903669184360733,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+315,2,"3:16",196,196,"Mfiondu Kabengele made Two Point Tip Shot.",68,66,2,0.78629945912538,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+316,2,"2:39",159,159,"Kerem Kanter missed Jumper.",68,66,2,0.82256607410475,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+317,2,"2:39",159,159,"Terance Mann Defensive Rebound.",68,66,2,0.82256607410475,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+318,2,"2:26",146,146,"Braian Angola missed Layup.",68,66,2,0.814308786381873,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+319,2,"2:26",146,146,"Kaiser Gates Block.",68,66,2,0.814308786381873,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+320,2,"2:26",146,146,"Mfiondu Kabengele Offensive Rebound.",68,66,2,0.814308786381873,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+321,2,"2:21",141,141,"Mfiondu Kabengele made Layup.",68,68,0,0.608727777979954,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+322,2,"2:06",126,126,"Foul on J.P. Macura.",68,68,0,0.585332206098115,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+323,2,"2:06",126,126,"J.P. Macura Turnover.",68,68,0,0.585332206098115,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+324,2,"2:00",120,120,"Trent Forrest missed Jumper.",68,68,0,0.585332206098115,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+325,2,"2:00",120,120,"Kaiser Gates Defensive Rebound.",68,68,0,0.585332206098115,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+326,2,"1:49",109,109,"Foul on PJ Savoy.",68,68,0,0.571600914730511,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+327,2,"1:49",109,109,"Paul Scruggs made Free Throw.",69,68,1,0.712478105371909,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+328,2,"1:49",109,109,"Paul Scruggs made Free Throw.",70,68,2,0.82149577097794,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+329,2,"1:39",99,99,"Trent Forrest Turnover.",70,68,2,0.828557183015812,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+330,2,"1:39",99,99,"Foul on Trent Forrest.",70,68,2,0.828557183015812,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+331,2,"1:18",78,78,"Trevon Bluiett Turnover.",70,68,2,0.851542988691825,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+332,2,"1:18",78,78,"Trent Forrest Steal.",70,68,2,0.851542988691825,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+333,2,"1:12",72,72,"PJ Savoy made Three Point Jumper. Assisted by Trent Forrest.",70,71,-1,0.387401988546165,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+334,2,"0:49",49,49,"Trevon Bluiett Turnover.",70,71,-1,0.34674452940318,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+335,2,"0:49",49,49,"Braian Angola Steal.",70,71,-1,0.34674452940318,"Xavier","Florida State",2,3,0,0,5.5,401025867,2018-03-18
+336,2,"0:30",30,30,"Florida State  Timeout",70,71,-1,0.269328812305394,"Xavier","Florida State",1,3,1,1,5.5,401025867,2018-03-18
+337,2,"0:30",30,30,"Xavier  Timeout",70,71,-1,0.269328812305394,"Xavier","Florida State",1,2,1,1,5.5,401025867,2018-03-18
+338,2,"0:22",22,22,"Foul on Kaiser Gates.",70,71,-1,0.299801775173908,"Xavier","Florida State",1,2,1,1,5.5,401025867,2018-03-18
+339,2,"0:22",22,22,"PJ Savoy made Free Throw.",70,72,-2,0.103882588537989,"Xavier","Florida State",1,2,1,1,5.5,401025867,2018-03-18
+340,2,"0:22",22,22,"PJ Savoy made Free Throw.",70,73,-3,0.0304313394778126,"Xavier","Florida State",1,2,1,1,5.5,401025867,2018-03-18
+341,2,"0:11",11,11,"Kerem Kanter missed Three Point Jumper.",70,73,-3,0.023155951661,"Xavier","Florida State",1,2,1,1,5.5,401025867,2018-03-18
+342,2,"0:11",11,11,"Florida State Defensive Rebound.",70,73,-3,0.023155951661,"Xavier","Florida State",1,2,1,1,5.5,401025867,2018-03-18
+343,2,"0:07",7,7,"Xavier  Timeout",70,73,-3,0.0133172726320146,"Xavier","Florida State",1,1,1,1,5.5,401025867,2018-03-18
+344,2,"0:06",6,6,"Foul on Tyrique Jones.",70,73,-3,0.0133172726320146,"Xavier","Florida State",1,1,1,1,5.5,401025867,2018-03-18
+345,2,"0:06",6,6,"CJ Walker made Free Throw.",70,74,-4,0.00267130599553247,"Xavier","Florida State",1,1,1,1,5.5,401025867,2018-03-18
+346,2,"0:06",6,6,"CJ Walker made Free Throw.",70,75,-5,0.000531253864460138,"Xavier","Florida State",1,1,1,1,5.5,401025867,2018-03-18
+347,2,"0:05",5,5,"Paul Scruggs Turnover.",70,75,-5,0.000531253864460138,"Xavier","Florida State",1,1,1,1,5.5,401025867,2018-03-18
+348,2,"0:05",5,5,"Terance Mann Steal.",70,75,-5,0.000531253864460138,"Xavier","Florida State",1,1,1,1,5.5,401025867,2018-03-18
+349,2,"0:00",0,0,"End of Game",70,75,-5,1.0200575179246e-42,"Xavier","Florida State",1,1,1,1,5.5,401025867,2018-03-18

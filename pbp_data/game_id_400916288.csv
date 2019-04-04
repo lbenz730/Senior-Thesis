@@ -1,0 +1,534 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.5,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+2,1,"19:52",2392,2392,"Ivan Madunic missed Three Point Jumper.",0,0,0,0.510165246282501,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+3,1,"19:52",2392,2392,"Mario Winfrey Defensive Rebound.",0,0,0,0.510165246282501,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+4,1,"19:23",2363,2363,"Michael Walker missed Jumper.",0,0,0,0.50956003899291,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+5,1,"19:23",2363,2363,"Christian Musoko Defensive Rebound.",0,0,0,0.50956003899291,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+6,1,"19:18",2358,2358,"Christian Musoko Turnover.",0,0,0,0.529703192727122,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+7,1,"19:15",2355,2355,"Foul on James McGee.",0,0,0,0.529703192727122,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+8,1,"19:13",2353,2353,"Alex Smith missed Three Point Jumper.",0,0,0,0.529703192727122,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+9,1,"19:13",2353,2353,"Randy Onwuasor Defensive Rebound.",0,0,0,0.529703192727122,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+10,1,"19:07",2347,2347,"Race Parsons made Layup.",2,0,2,0.556592009956795,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+11,1,"18:55",2335,2335,"Jarrell Tat made Jumper.",2,2,0,0.516919265248255,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+12,1,"18:44",2324,2324,"Randy Onwuasor missed Three Point Jumper.",2,2,0,0.531092628062381,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+13,1,"18:44",2324,2324,"Mario Winfrey Defensive Rebound.",2,2,0,0.531092628062381,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+14,1,"18:30",2310,2310,"Jarrell Tat Turnover.",2,2,0,0.506842615166699,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+15,1,"18:28",2308,2308,"Randy Onwuasor Steal.",2,2,0,0.50903900167792,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+16,1,"18:26",2306,2306,"Race Parsons Turnover.",2,2,0,0.50903900167792,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+17,1,"18:25",2305,2305,"Mario Winfrey Steal.",2,2,0,0.50903900167792,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+18,1,"18:23",2303,2303,"Jarrell Tat made Three Point Jumper. Assisted by Michael Walker.",2,5,-3,0.434776793628867,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+19,1,"18:11",2291,2291,"Foul on Michael Walker.",2,5,-3,0.448107501169458,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+20,1,"18:08",2288,2288,"Ivan Madunic made Three Point Jumper. Assisted by Randy Onwuasor.",5,5,0,0.509383147721221,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+21,1,"17:52",2272,2272,"Cj Johnson missed Three Point Jumper.",5,5,0,0.520810099612655,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+22,1,"17:52",2272,2272,"Ivan Madunic Defensive Rebound.",5,5,0,0.520810099612655,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+23,1,"17:45",2265,2265,"Foul on Alex Smith.",5,5,0,0.519730620930166,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+24,1,"17:37",2257,2257,"Randy Onwuasor Turnover.",5,5,0,0.521357881204018,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+25,1,"17:36",2256,2256,"Mario Winfrey Steal.",5,5,0,0.521357881204018,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+26,1,"17:29",2249,2249,"Jarrell Tat Turnover.",5,5,0,0.528739797881157,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+27,1,"17:28",2248,2248,"Race Parsons Steal.",5,5,0,0.528739797881157,"Southern Utah","Bethesda",6,6,0,0,NA,400916288,2016-11-18
+28,1,"17:25",2245,2245,"Foul on Jarrell Tat.",5,5,0,0.528739797881157,"Southern Utah","Bethesda",6,6,0,1,NA,400916288,2016-11-18
+29,1,"17:25",2245,2245,"Bethesda University  Timeout",5,5,0,0.528739797881157,"Southern Utah","Bethesda",6,5,0,1,NA,400916288,2016-11-18
+30,1,"17:13",2233,2233,"Race Parsons made Three Point Jumper. Assisted by James McGee.",8,5,3,0.600191162945471,"Southern Utah","Bethesda",6,5,0,1,NA,400916288,2016-11-18
+31,1,"16:56",2216,2216,"Mario Winfrey missed Jumper.",8,5,3,0.623200516373448,"Southern Utah","Bethesda",6,5,0,1,NA,400916288,2016-11-18
+32,1,"16:56",2216,2216,"Christian Musoko Defensive Rebound.",8,5,3,0.623200516373448,"Southern Utah","Bethesda",6,5,0,1,NA,400916288,2016-11-18
+33,1,"16:51",2211,2211,"Foul on Cj Johnson.",8,5,3,0.623200516373448,"Southern Utah","Bethesda",6,5,0,1,NA,400916288,2016-11-18
+34,1,"16:46",2206,2206,"Christian Musoko Turnover.",8,5,3,0.603059629211587,"Southern Utah","Bethesda",6,5,0,1,NA,400916288,2016-11-18
+35,1,"16:19",2179,2179,"Alex Smith missed Jumper.",8,5,3,0.590764350796782,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+36,1,"16:19",2179,2179,"Alex Smith Offensive Rebound.",8,5,3,0.590764350796782,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+37,1,"16:16",2176,2176,"Foul on James McGee.",8,5,3,0.590764350796782,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+38,1,"16:12",2172,2172,"Alex Smith made Free Throw.",8,6,2,0.564265706692867,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+39,1,"16:12",2172,2172,"Alex Smith missed Free Throw.",8,6,2,0.564265706692867,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+40,1,"16:12",2172,2172,"Ivan Madunic Defensive Rebound.",8,6,2,0.564265706692867,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+41,1,"16:08",2168,2168,"Ivan Madunic missed Three Point Jumper.",8,6,2,0.570266095748984,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+42,1,"16:08",2168,2168,"Cj Johnson Defensive Rebound.",8,6,2,0.570266095748984,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+43,1,"15:50",2150,2150,"Cj Johnson missed Jumper.",8,6,2,0.563841787059991,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+44,1,"15:50",2150,2150,"Randy Onwuasor Defensive Rebound.",8,6,2,0.563841787059991,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+45,1,"15:38",2138,2138,"John Marshall missed Three Point Jumper.",8,6,2,0.572334284439259,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+46,1,"15:38",2138,2138,"Ivan Madunic Offensive Rebound.",8,6,2,0.572334284439259,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+47,1,"15:35",2135,2135,"Ivan Madunic made Layup.",10,6,4,0.630297985439853,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+48,1,"15:18",2118,2118,"Mario Winfrey missed Jumper.",10,6,4,0.622099551208842,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+49,1,"15:18",2118,2118,"Bethesda University Deadball Team Rebound.",10,6,4,0.622099551208842,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+50,1,"14:59",2099,2099,"Foul on Alex Smith.",10,6,4,0.633457865416939,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+51,1,"14:41",2081,2081,"Randy Onwuasor missed Three Point Jumper.",10,6,4,0.629566825970999,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+52,1,"14:41",2081,2081,"Jarrell Tat Defensive Rebound.",10,6,4,0.629566825970999,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+53,1,"14:27",2067,2067,"Jarrell Tat Turnover.",10,6,4,0.622154614911151,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+54,1,"14:27",2067,2067,"Foul on Jarrell Tat.",10,6,4,0.622154614911151,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+55,1,"14:16",2056,2056,"John Marshall missed Layup.",10,6,4,0.616341626959715,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+56,1,"14:16",2056,2056,"Cj Johnson Block.",10,6,4,0.616341626959715,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+57,1,"14:16",2056,2056,"Southern Utah Offensive Rebound.",10,6,4,0.616341626959715,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+58,1,"14:11",2051,2051,"Foul on Alex Smith.",10,6,4,0.616341626959715,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+59,1,"14:11",2051,2051,"Brayden Holker made Free Throw.",11,6,5,0.643641852675831,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+60,1,"14:11",2051,2051,"Brayden Holker missed Free Throw.",11,6,5,0.643641852675831,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+61,1,"14:11",2051,2051,"Eddie Latorre Defensive Rebound.",11,6,5,0.643641852675831,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+62,1,"13:43",2023,2023,"Jarrell Tat missed Three Point Jumper.",11,6,5,0.664074832107328,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+63,1,"13:43",2023,2023,"Ivan Madunic Defensive Rebound.",11,6,5,0.664074832107328,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+64,1,"13:40",2020,2020,"Foul on Cj Johnson.",11,6,5,0.664074832107328,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+65,1,"13:40",2020,2020,"Brayden Holker made Free Throw.",12,6,6,0.692829572743412,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+66,1,"13:40",2020,2020,"Brayden Holker made Free Throw.",13,6,7,0.720160161653629,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+67,1,"13:12",1992,1992,"Eddie Latorre missed Three Point Jumper.",13,6,7,0.722572264700233,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+68,1,"13:12",1992,1992,"Brayden Holker Defensive Rebound.",13,6,7,0.722572264700233,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+69,1,"12:59",1979,1979,"Randy Onwuasor Turnover.",13,6,7,0.719851204951151,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+70,1,"12:55",1975,1975,"Foul on Decardo Day.",13,6,7,0.719851204951151,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+71,1,"12:40",1960,1960,"Dock Gooch missed Jumper.",13,6,7,0.687165599881389,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+72,1,"12:40",1960,1960,"Randy Onwuasor Defensive Rebound.",13,6,7,0.687165599881389,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+73,1,"12:23",1943,1943,"Brayden Holker made Layup. Assisted by John Marshall.",15,6,9,0.765126756325811,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+74,1,"12:01",1921,1921,"Foul on Brayden Holker.",15,6,9,0.755812531267087,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+75,1,"11:57",1917,1917,"Official TV Timeout",15,6,9,0.784018351176718,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+76,1,"11:57",1917,1917,"Dock Gooch made Free Throw.",15,7,8,0.761386633755514,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+77,1,"11:57",1917,1917,"Dock Gooch made Free Throw.",15,8,7,0.737178417485881,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+78,1,"11:57",1917,1917,"Dock Gooch made Free Throw.",15,9,6,0.711444982684045,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+79,1,"11:46",1906,1906,"Decardo Day missed Three Point Jumper.",15,9,6,0.676481329511715,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+80,1,"11:46",1906,1906,"Eddie Latorre Defensive Rebound.",15,9,6,0.676481329511715,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+81,1,"11:34",1894,1894,"Foul on John Marshall.",15,9,6,0.710025764067515,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+82,1,"11:23",1883,1883,"Foul on Christian Musoko.",15,9,6,0.680425177788195,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+83,1,"11:23",1883,1883,"Buddha Boyd missed Free Throw.",15,9,6,0.680425177788195,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+84,1,"11:23",1883,1883,"Bethesda University Deadball Team Rebound.",15,9,6,0.680425177788195,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+85,1,"11:23",1883,1883,"Buddha Boyd made Free Throw.",15,10,5,0.652946189012538,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+86,1,"11:17",1877,1877,"Christian Musoko Turnover.",15,10,5,0.659806970297697,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+87,1,"11:17",1877,1877,"Foul on Christian Musoko.",15,10,5,0.659806970297697,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+88,1,"11:10",1870,1870,"Buddha Boyd missed Layup.",15,10,5,0.659806970297697,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+89,1,"11:10",1870,1870,"Brayden Holker Defensive Rebound.",15,10,5,0.659806970297697,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+90,1,"11:00",1860,1860,"Foul on Jordan Watson.",15,10,5,0.68919722539078,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+91,1,"11:00",1860,1860,"Race Parsons missed Free Throw.",15,10,5,0.68919722539078,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+92,1,"11:00",1860,1860,"Eddie Latorre Defensive Rebound.",15,10,5,0.68919722539078,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+93,1,"10:51",1851,1851,"Buddha Boyd Turnover.",15,10,5,0.673275139267627,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+94,1,"10:51",1851,1851,"Foul on Buddha Boyd.",15,10,5,0.673275139267627,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+95,1,"10:42",1842,1842,"Race Parsons missed Three Point Jumper.",15,10,5,0.64334669226587,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+96,1,"10:42",1842,1842,"Eddie Latorre Defensive Rebound.",15,10,5,0.64334669226587,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+97,1,"10:30",1830,1830,"Buddha Boyd Turnover.",15,10,5,0.670597715036502,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+98,1,"10:08",1808,1808,"Decardo Day Turnover.",15,10,5,0.661978951438168,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+99,1,"10:06",1806,1806,"Jordan Watson Steal.",15,10,5,0.661978951438168,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+100,1,"9:56",1796,1796,"Dock Gooch missed Three Point Jumper.",15,10,5,0.662419379026163,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+101,1,"9:56",1796,1796,"John Marshall Defensive Rebound.",15,10,5,0.662419379026163,"Southern Utah","Bethesda",6,5,0,0,NA,400916288,2016-11-18
+102,1,"9:50",1790,1790,"Southern Utah  Timeout",15,10,5,0.662419379026163,"Southern Utah","Bethesda",6,4,0,1,NA,400916288,2016-11-18
+103,1,"9:43",1783,1783,"Jacob Calloway missed Three Point Jumper.",15,10,5,0.662614398060552,"Southern Utah","Bethesda",6,4,0,1,NA,400916288,2016-11-18
+104,1,"9:43",1783,1783,"Race Parsons Offensive Rebound.",15,10,5,0.662614398060552,"Southern Utah","Bethesda",6,4,0,1,NA,400916288,2016-11-18
+105,1,"9:31",1771,1771,"Foul on Eddie Latorre.",15,10,5,0.645947326446956,"Southern Utah","Bethesda",6,4,0,1,NA,400916288,2016-11-18
+106,1,"9:30",1770,1770,"Race Parsons missed Free Throw.",15,10,5,0.645947326446956,"Southern Utah","Bethesda",6,4,0,1,NA,400916288,2016-11-18
+107,1,"9:30",1770,1770,"Southern Utah Deadball Team Rebound.",15,10,5,0.645947326446956,"Southern Utah","Bethesda",6,4,0,1,NA,400916288,2016-11-18
+108,1,"9:30",1770,1770,"Race Parsons made Free Throw.",16,10,6,0.67341693028945,"Southern Utah","Bethesda",6,4,0,1,NA,400916288,2016-11-18
+109,1,"9:23",1763,1763,"Ismael Galvez made Three Point Jumper.",16,13,3,0.609226730701928,"Southern Utah","Bethesda",6,4,0,1,NA,400916288,2016-11-18
+110,1,"9:05",1745,1745,"Race Parsons Turnover.",16,13,3,0.62051940092992,"Southern Utah","Bethesda",6,4,0,1,NA,400916288,2016-11-18
+111,1,"8:50",1730,1730,"Foul on James McGee.",16,13,3,0.612950273028973,"Southern Utah","Bethesda",6,4,0,1,NA,400916288,2016-11-18
+112,1,"8:50",1730,1730,"Ismael Galvez made Free Throw.",16,14,2,0.580030753044103,"Southern Utah","Bethesda",6,4,0,1,NA,400916288,2016-11-18
+113,1,"8:50",1730,1730,"Ismael Galvez made Free Throw.",16,15,1,0.546383415399011,"Southern Utah","Bethesda",6,4,0,1,NA,400916288,2016-11-18
+114,1,"8:50",1730,1730,"Ismael Galvez made Free Throw.",16,16,0,0.512306925050862,"Southern Utah","Bethesda",6,4,0,1,NA,400916288,2016-11-18
+115,1,"8:36",1716,1716,"Jacob Calloway missed Jumper.",16,16,0,0.513447663346794,"Southern Utah","Bethesda",6,4,0,0,NA,400916288,2016-11-18
+116,1,"8:36",1716,1716,"Randy Onwuasor Offensive Rebound.",16,16,0,0.513447663346794,"Southern Utah","Bethesda",6,4,0,0,NA,400916288,2016-11-18
+117,1,"8:33",1713,1713,"Randy Onwuasor made Layup.",18,16,2,0.579510222176786,"Southern Utah","Bethesda",6,4,0,0,NA,400916288,2016-11-18
+118,1,"8:33",1713,1713,"Randy Onwuasor made Layup.",18,16,2,0.579510222176786,"Southern Utah","Bethesda",6,4,0,0,NA,400916288,2016-11-18
+119,1,"8:31",1711,1711,"Foul on Jordan Watson.",18,16,2,0.579510222176786,"Southern Utah","Bethesda",6,4,0,0,NA,400916288,2016-11-18
+120,1,"8:30",1710,1710,"Randy Onwuasor made Free Throw.",19,16,3,0.611647542936143,"Southern Utah","Bethesda",6,4,0,1,NA,400916288,2016-11-18
+121,1,"8:30",1710,1710,"Bethesda University  Timeout",19,16,3,0.611647542936143,"Southern Utah","Bethesda",6,3,0,1,NA,400916288,2016-11-18
+122,1,"8:29",1709,1709,"Ismael Galvez Turnover.",19,16,3,0.596077048024427,"Southern Utah","Bethesda",6,3,0,1,NA,400916288,2016-11-18
+123,1,"8:28",1708,1708,"Randy Onwuasor missed Three Point Jumper.",19,16,3,0.596077048024427,"Southern Utah","Bethesda",6,3,0,1,NA,400916288,2016-11-18
+124,1,"8:28",1708,1708,"Jacob Calloway Offensive Rebound.",19,16,3,0.596077048024427,"Southern Utah","Bethesda",6,3,0,1,NA,400916288,2016-11-18
+125,1,"8:25",1705,1705,"Jacob Calloway made Layup.",21,16,5,0.655779373580575,"Southern Utah","Bethesda",6,3,0,1,NA,400916288,2016-11-18
+126,1,"8:15",1695,1695,"Foul on Randy Onwuasor.",21,16,5,0.692236953833057,"Southern Utah","Bethesda",6,3,0,1,NA,400916288,2016-11-18
+127,1,"8:15",1695,1695,"Ismael Galvez made Free Throw.",21,17,4,0.661031835414553,"Southern Utah","Bethesda",6,3,0,1,NA,400916288,2016-11-18
+128,1,"8:15",1695,1695,"Ismael Galvez made Free Throw.",21,18,3,0.628361366011205,"Southern Utah","Bethesda",6,3,0,1,NA,400916288,2016-11-18
+129,1,"8:08",1688,1688,"Jacob Calloway missed Layup.",21,18,3,0.617778039717868,"Southern Utah","Bethesda",6,3,0,1,NA,400916288,2016-11-18
+130,1,"8:06",1686,1686,"Bethesda University Defensive Rebound.",21,18,3,0.617778039717868,"Southern Utah","Bethesda",6,3,0,1,NA,400916288,2016-11-18
+131,1,"7:55",1675,1675,"Buddha Boyd made Jumper.",21,20,1,0.549775335382697,"Southern Utah","Bethesda",6,3,0,1,NA,400916288,2016-11-18
+132,1,"7:36",1656,1656,"Randy Onwuasor made Layup.",23,20,3,0.617956558636721,"Southern Utah","Bethesda",6,3,0,1,NA,400916288,2016-11-18
+133,1,"7:36",1656,1656,"Foul on Eddie Latorre.",23,20,3,0.617956558636721,"Southern Utah","Bethesda",6,3,0,1,NA,400916288,2016-11-18
+134,1,"7:36",1656,1656,"Official TV Timeout",23,20,3,0.617956558636721,"Southern Utah","Bethesda",6,3,0,1,NA,400916288,2016-11-18
+135,1,"7:36",1656,1656,"Randy Onwuasor made Free Throw.",24,20,4,0.648727367666645,"Southern Utah","Bethesda",6,3,0,1,NA,400916288,2016-11-18
+136,1,"7:24",1644,1644,"Buddha Boyd missed Jumper.",24,20,4,0.654299225949546,"Southern Utah","Bethesda",6,3,0,0,NA,400916288,2016-11-18
+137,1,"7:24",1644,1644,"Jacob Calloway Defensive Rebound.",24,20,4,0.654299225949546,"Southern Utah","Bethesda",6,3,0,0,NA,400916288,2016-11-18
+138,1,"7:09",1629,1629,"Jacob Calloway Turnover.",24,20,4,0.643567544989031,"Southern Utah","Bethesda",6,3,0,0,NA,400916288,2016-11-18
+139,1,"7:09",1629,1629,"Foul on Jacob Calloway.",24,20,4,0.643567544989031,"Southern Utah","Bethesda",6,3,0,0,NA,400916288,2016-11-18
+140,1,"7:00",1620,1620,"Ismael Galvez missed Three Point Jumper.",24,20,4,0.643567544989031,"Southern Utah","Bethesda",6,3,0,0,NA,400916288,2016-11-18
+141,1,"7:00",1620,1620,"Randy Onwuasor Defensive Rebound.",24,20,4,0.643567544989031,"Southern Utah","Bethesda",6,3,0,0,NA,400916288,2016-11-18
+142,1,"6:57",1617,1617,"Foul on Ismael Galvez.",24,20,4,0.6351329482417,"Southern Utah","Bethesda",6,3,0,0,NA,400916288,2016-11-18
+143,1,"6:57",1617,1617,"Randy Onwuasor made Free Throw.",25,20,5,0.667087739081372,"Southern Utah","Bethesda",6,3,0,0,NA,400916288,2016-11-18
+144,1,"6:57",1617,1617,"Randy Onwuasor made Free Throw.",26,20,6,0.697576516911496,"Southern Utah","Bethesda",6,3,0,0,NA,400916288,2016-11-18
+145,1,"6:48",1608,1608,"Foul on Jacob Calloway.",26,20,6,0.690232520318502,"Southern Utah","Bethesda",6,3,0,0,NA,400916288,2016-11-18
+146,1,"6:48",1608,1608,"Mario Winfrey made Free Throw.",26,21,5,0.661467115265693,"Southern Utah","Bethesda",6,3,0,0,NA,400916288,2016-11-18
+147,1,"6:48",1608,1608,"Mario Winfrey made Free Throw.",26,22,4,0.63145677612399,"Southern Utah","Bethesda",6,3,0,0,NA,400916288,2016-11-18
+148,1,"6:38",1598,1598,"Randy Onwuasor made Layup.",28,22,6,0.717507215869743,"Southern Utah","Bethesda",6,3,0,0,NA,400916288,2016-11-18
+149,1,"6:17",1577,1577,"Khalfani Williams missed Three Point Jumper.",28,22,6,0.73120174791359,"Southern Utah","Bethesda",6,3,0,0,NA,400916288,2016-11-18
+150,1,"6:17",1577,1577,"Ivan Madunic Defensive Rebound.",28,22,6,0.73120174791359,"Southern Utah","Bethesda",6,3,0,0,NA,400916288,2016-11-18
+151,1,"6:07",1567,1567,"Jacob Calloway made Layup. Assisted by Brayden Holker.",30,22,8,0.756808207970012,"Southern Utah","Bethesda",6,3,0,0,NA,400916288,2016-11-18
+152,1,"5:55",1555,1555,"Ismael Galvez missed Jumper.",30,22,8,0.762803301351131,"Southern Utah","Bethesda",6,3,0,0,NA,400916288,2016-11-18
+153,1,"5:55",1555,1555,"Brayden Holker Defensive Rebound.",30,22,8,0.762803301351131,"Southern Utah","Bethesda",6,3,0,0,NA,400916288,2016-11-18
+154,1,"5:41",1541,1541,"Foul on Lawrence Weatherall.",30,22,8,0.763488157494972,"Southern Utah","Bethesda",6,3,0,1,NA,400916288,2016-11-18
+155,1,"5:41",1541,1541,"Bethesda University  Timeout",30,22,8,0.763488157494972,"Southern Utah","Bethesda",6,2,0,1,NA,400916288,2016-11-18
+156,1,"5:41",1541,1541,"Brayden Holker missed Free Throw.",30,22,8,0.763488157494972,"Southern Utah","Bethesda",6,2,0,1,NA,400916288,2016-11-18
+157,1,"5:41",1541,1541,"Southern Utah Deadball Team Rebound.",30,22,8,0.763488157494972,"Southern Utah","Bethesda",6,2,0,1,NA,400916288,2016-11-18
+158,1,"5:41",1541,1541,"Brayden Holker missed Free Throw.",30,22,8,0.763488157494972,"Southern Utah","Bethesda",6,2,0,1,NA,400916288,2016-11-18
+159,1,"5:41",1541,1541,"Lawrence Weatherall Defensive Rebound.",30,22,8,0.763488157494972,"Southern Utah","Bethesda",6,2,0,1,NA,400916288,2016-11-18
+160,1,"5:34",1534,1534,"Cj Johnson made Jumper.",30,24,6,0.710881740857042,"Southern Utah","Bethesda",6,2,0,1,NA,400916288,2016-11-18
+161,1,"5:29",1529,1529,"John Marshall missed Three Point Jumper.",30,24,6,0.713108480964161,"Southern Utah","Bethesda",6,2,0,1,NA,400916288,2016-11-18
+162,1,"5:29",1529,1529,"Mario Winfrey Defensive Rebound.",30,24,6,0.713108480964161,"Southern Utah","Bethesda",6,2,0,1,NA,400916288,2016-11-18
+163,1,"5:24",1524,1524,"Ismael Galvez missed Layup.",30,24,6,0.713108480964161,"Southern Utah","Bethesda",6,2,0,1,NA,400916288,2016-11-18
+164,1,"5:24",1524,1524,"Randy Onwuasor Defensive Rebound.",30,24,6,0.713108480964161,"Southern Utah","Bethesda",6,2,0,1,NA,400916288,2016-11-18
+165,1,"5:14",1514,1514,"Foul on Khalfani Williams.",30,24,6,0.738133885637671,"Southern Utah","Bethesda",6,2,0,1,NA,400916288,2016-11-18
+166,1,"5:01",1501,1501,"Randy Onwuasor made Free Throw.",31,24,7,0.739663508384231,"Southern Utah","Bethesda",6,2,0,1,NA,400916288,2016-11-18
+167,1,"5:01",1501,1501,"Randy Onwuasor made Free Throw.",32,24,8,0.766149966782779,"Southern Utah","Bethesda",6,2,0,1,NA,400916288,2016-11-18
+168,1,"4:56",1496,1496,"Cj Johnson Turnover.",32,24,8,0.777864935912726,"Southern Utah","Bethesda",6,2,0,1,NA,400916288,2016-11-18
+169,1,"4:55",1495,1495,"Randy Onwuasor Steal.",32,24,8,0.777864935912726,"Southern Utah","Bethesda",6,2,0,1,NA,400916288,2016-11-18
+170,1,"4:51",1491,1491,"Randy Onwuasor Turnover.",32,24,8,0.777864935912726,"Southern Utah","Bethesda",6,2,0,1,NA,400916288,2016-11-18
+171,1,"4:51",1491,1491,"Randy Onwuasor Turnover.",32,24,8,0.777864935912726,"Southern Utah","Bethesda",6,2,0,1,NA,400916288,2016-11-18
+172,1,"4:50",1490,1490,"Lawrence Weatherall Steal.",32,24,8,0.777864935912726,"Southern Utah","Bethesda",6,2,0,1,NA,400916288,2016-11-18
+173,1,"4:48",1488,1488,"Mario Winfrey made Layup. Assisted by Lawrence Weatherall.",32,26,6,0.713324203441252,"Southern Utah","Bethesda",6,2,0,1,NA,400916288,2016-11-18
+174,1,"4:39",1479,1479,"Race Parsons made Layup.",34,26,8,0.777798527522949,"Southern Utah","Bethesda",6,2,0,0,NA,400916288,2016-11-18
+175,1,"4:36",1476,1476,"Foul on Mario Winfrey.",34,26,8,0.777798527522949,"Southern Utah","Bethesda",6,2,0,0,NA,400916288,2016-11-18
+176,1,"4:27",1467,1467,"Race Parsons missed Free Throw.",34,26,8,0.774312482653049,"Southern Utah","Bethesda",6,2,0,0,NA,400916288,2016-11-18
+177,1,"4:27",1467,1467,"Lawrence Weatherall Defensive Rebound.",34,26,8,0.774312482653049,"Southern Utah","Bethesda",6,2,0,0,NA,400916288,2016-11-18
+178,1,"4:08",1448,1448,"Khalfani Williams missed Three Point Jumper.",34,26,8,0.797130582692348,"Southern Utah","Bethesda",6,2,0,0,NA,400916288,2016-11-18
+179,1,"4:08",1448,1448,"Race Parsons Defensive Rebound.",34,26,8,0.797130582692348,"Southern Utah","Bethesda",6,2,0,0,NA,400916288,2016-11-18
+180,1,"4:02",1442,1442,"Foul on Khalfani Williams.",34,26,8,0.797130582692348,"Southern Utah","Bethesda",6,2,0,0,NA,400916288,2016-11-18
+181,1,"4:02",1442,1442,"Race Parsons made Free Throw.",35,26,9,0.820630655736065,"Southern Utah","Bethesda",6,2,0,0,NA,400916288,2016-11-18
+182,1,"4:02",1442,1442,"Race Parsons made Free Throw.",36,26,10,0.841948266154279,"Southern Utah","Bethesda",6,2,0,0,NA,400916288,2016-11-18
+183,1,"3:38",1418,1418,"Lawrence Weatherall missed Three Point Jumper.",36,26,10,0.831088442901583,"Southern Utah","Bethesda",6,2,0,0,NA,400916288,2016-11-18
+184,1,"3:38",1418,1418,"Ivan Madunic Defensive Rebound.",36,26,10,0.831088442901583,"Southern Utah","Bethesda",6,2,0,0,NA,400916288,2016-11-18
+185,1,"3:29",1409,1409,"Race Parsons made Layup. Assisted by John Marshall.",38,26,12,0.877774301073281,"Southern Utah","Bethesda",6,2,0,0,NA,400916288,2016-11-18
+186,1,"3:09",1389,1389,"Cj Johnson missed Layup.",38,26,12,0.868942015388256,"Southern Utah","Bethesda",6,2,0,0,NA,400916288,2016-11-18
+187,1,"3:09",1389,1389,"Ivan Madunic Block.",38,26,12,0.868942015388256,"Southern Utah","Bethesda",6,2,0,0,NA,400916288,2016-11-18
+188,1,"3:09",1389,1389,"Randy Onwuasor Defensive Rebound.",38,26,12,0.868942015388256,"Southern Utah","Bethesda",6,2,0,0,NA,400916288,2016-11-18
+189,1,"3:02",1382,1382,"Brayden Holker made Layup. Assisted by John Marshall.",40,26,14,0.899396137534451,"Southern Utah","Bethesda",6,2,0,0,NA,400916288,2016-11-18
+190,1,"2:56",1376,1376,"Bethesda University  Timeout",40,26,14,0.882275439159173,"Southern Utah","Bethesda",6,1,0,1,NA,400916288,2016-11-18
+191,1,"2:56",1376,1376,"Official TV Timeout",40,26,14,0.882275439159173,"Southern Utah","Bethesda",6,1,0,1,NA,400916288,2016-11-18
+192,1,"2:43",1363,1363,"Foul on Race Parsons.",40,26,14,0.900961303784537,"Southern Utah","Bethesda",6,1,0,1,NA,400916288,2016-11-18
+193,1,"2:42",1362,1362,"Buddha Boyd made Free Throw.",40,27,13,0.886389624095899,"Southern Utah","Bethesda",6,1,0,1,NA,400916288,2016-11-18
+194,1,"2:42",1362,1362,"Buddha Boyd made Free Throw.",40,28,12,0.86998338660004,"Southern Utah","Bethesda",6,1,0,1,NA,400916288,2016-11-18
+195,1,"2:34",1354,1354,"Ivan Madunic Turnover.",40,28,12,0.877332226608876,"Southern Utah","Bethesda",6,1,0,1,NA,400916288,2016-11-18
+196,1,"2:32",1352,1352,"Eddie Latorre Steal.",40,28,12,0.877332226608876,"Southern Utah","Bethesda",6,1,0,1,NA,400916288,2016-11-18
+197,1,"2:20",1340,1340,"Buddha Boyd missed Jumper.",40,28,12,0.873483754166464,"Southern Utah","Bethesda",6,1,0,1,NA,400916288,2016-11-18
+198,1,"2:20",1340,1340,"Ivan Madunic Defensive Rebound.",40,28,12,0.873483754166464,"Southern Utah","Bethesda",6,1,0,1,NA,400916288,2016-11-18
+199,1,"2:02",1322,1322,"Foul on Lawrence Weatherall.",40,28,12,0.874416913525128,"Southern Utah","Bethesda",6,1,0,1,NA,400916288,2016-11-18
+200,1,"2:02",1322,1322,"Randy Onwuasor made Free Throw.",41,28,13,0.890727613836176,"Southern Utah","Bethesda",6,1,0,1,NA,400916288,2016-11-18
+201,1,"2:02",1322,1322,"Randy Onwuasor made Free Throw.",42,28,14,0.905149676109043,"Southern Utah","Bethesda",6,1,0,1,NA,400916288,2016-11-18
+202,1,"1:48",1308,1308,"Foul on Brayden Holker.",42,28,14,0.895139443562767,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+203,1,"1:48",1308,1308,"Cj Johnson made Free Throw.",42,29,13,0.880506128442719,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+204,1,"1:48",1308,1308,"Cj Johnson made Free Throw.",42,30,12,0.864140666820472,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+205,1,"1:32",1292,1292,"Eddie Latorre Turnover.",42,30,12,0.897540481270231,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+206,1,"1:22",1282,1282,"Ivan Madunic Defensive Rebound.",42,30,12,0.863253839004621,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+207,1,"1:22",1282,1282,"Cj Johnson missed Jumper.",42,30,12,0.863253839004621,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+208,1,"1:17",1277,1277,"Foul on Eddie Latorre.",42,30,12,0.85599965206938,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+209,1,"1:16",1276,1276,"Ivan Madunic made Free Throw.",43,30,13,0.873503018509365,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+210,1,"1:16",1276,1276,"Ivan Madunic missed Free Throw.",43,30,13,0.873503018509365,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+211,1,"1:16",1276,1276,"Cj Johnson Defensive Rebound.",43,30,13,0.873503018509365,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+212,1,"1:07",1267,1267,"Eddie Latorre Turnover.",43,30,13,0.897972299777244,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+213,1,"1:07",1267,1267,"Foul on Eddie Latorre.",43,30,13,0.897972299777244,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+214,1,"1:04",1264,1264,"Randy Onwuasor missed Jumper.",43,30,13,0.897972299777244,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+215,1,"1:04",1264,1264,"Will Joyce Offensive Rebound.",43,30,13,0.897972299777244,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+216,1,"0:56",1256,1256,"Ivan Madunic missed Three Point Jumper.",43,30,13,0.883564936021987,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+217,1,"0:51",1251,1251,"Bethesda University Defensive Rebound.",43,30,13,0.883564936021987,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+218,1,"0:50",1250,1250,"Foul on John Marshall.",43,30,13,0.883564936021987,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+219,1,"0:50",1250,1250,"Marcus Eggum missed Free Throw.",43,30,13,0.883564936021987,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+220,1,"0:50",1250,1250,"Bethesda University Deadball Team Rebound.",43,30,13,0.883564936021987,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+221,1,"0:50",1250,1250,"Marcus Eggum missed Free Throw.",43,30,13,0.883564936021987,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+222,1,"0:50",1250,1250,"Will Joyce Defensive Rebound.",43,30,13,0.883564936021987,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+223,1,"0:44",1244,1244,"Will Joyce missed Three Point Jumper.",43,30,13,0.887107254060119,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+224,1,"0:44",1244,1244,"Cj Johnson Defensive Rebound.",43,30,13,0.887107254060119,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+225,1,"0:36",1236,1236,"Jarrell Tat missed Jumper.",43,30,13,0.893082123111333,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+226,1,"0:36",1236,1236,"Cj Johnson Offensive Rebound.",43,30,13,0.893082123111333,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+227,1,"0:33",1233,1233,"Cj Johnson missed Layup.",43,30,13,0.893082123111333,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+228,1,"0:33",1233,1233,"Will Joyce Defensive Rebound.",43,30,13,0.893082123111333,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+229,1,"0:26",1226,1226,"Randy Onwuasor made Layup.",45,30,15,0.931623202910862,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+230,1,"0:14",1214,1214,"Jarrell Tat made Three Point Jumper.",45,33,12,0.882163353519186,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+231,1,"0:03",1203,1203,"Randy Onwuasor missed Three Point Jumper.",45,33,12,0.876585583541995,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+232,1,"0:03",1203,1203,"Jarrell Tat Defensive Rebound.",45,33,12,0.876585583541995,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+233,1,"0:00",1200,1200,"End of 1st half",45,33,12,0.876585583541995,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+234,2,"20:00",1200,1200,"PLAY",45,33,12,0.876585583541995,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+235,2,"19:46",1186,1186,"Alex Smith missed Three Point Jumper.",45,33,12,0.884204685633894,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+236,2,"19:46",1186,1186,"Brayden Holker Defensive Rebound.",45,33,12,0.884204685633894,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+237,2,"19:23",1163,1163,"Ivan Madunic missed Layup.",45,33,12,0.874903191878808,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+238,2,"19:23",1163,1163,"Cj Johnson Block.",45,33,12,0.874903191878808,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+239,2,"19:23",1163,1163,"Khalfani Williams Defensive Rebound.",45,33,12,0.874903191878808,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+240,2,"19:10",1150,1150,"Khalfani Williams Turnover.",45,33,12,0.882545526674956,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+241,2,"19:09",1149,1149,"Ivan Madunic Steal.",45,33,12,0.894424408251295,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+242,2,"19:06",1146,1146,"Foul on Alex Smith.",45,33,12,0.894424408251295,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+243,2,"19:03",1143,1143,"James McGee missed Three Point Jumper.",45,33,12,0.894424408251295,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+244,2,"19:03",1143,1143,"Brayden Holker Offensive Rebound.",45,33,12,0.894424408251295,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+245,2,"18:59",1139,1139,"Brayden Holker made Layup.",47,33,14,0.913185458495494,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+246,2,"18:56",1136,1136,"Foul on Alex Smith.",47,33,14,0.913185458495494,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+247,2,"18:54",1134,1134,"Brayden Holker made Free Throw.",48,33,15,0.925252678731886,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+248,2,"18:53",1133,1133,"Jarrell Tat Turnover.",48,33,15,0.925252678731886,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+249,2,"18:53",1133,1133,"Randy Onwuasor Steal.",48,33,15,0.925252678731886,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+250,2,"18:53",1133,1133,"Foul on Cj Johnson.",48,33,15,0.925252678731886,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+251,2,"18:53",1133,1133,"Randy Onwuasor missed Free Throw.",48,33,15,0.925252678731886,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+252,2,"18:53",1133,1133,"Southern Utah Deadball Team Rebound.",48,33,15,0.925252678731886,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+253,2,"18:53",1133,1133,"Randy Onwuasor made Free Throw.",49,33,16,0.935760550830076,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+254,2,"18:53",1133,1133,"Jarrell Tat missed Jumper.",49,33,16,0.935760550830076,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+255,2,"18:53",1133,1133,"Ivan Madunic Defensive Rebound.",49,33,16,0.935760550830076,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+256,2,"18:48",1128,1128,"James McGee made Three Point Jumper. Assisted by Randy Onwuasor.",52,33,19,0.972575956477996,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+257,2,"18:31",1111,1111,"Cj Johnson made Jumper.",52,35,17,0.953923019875217,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+258,2,"18:13",1093,1093,"James McGee made Three Point Jumper. Assisted by Ivan Madunic.",55,35,20,0.97118440133928,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+259,2,"17:51",1071,1071,"Cj Johnson Turnover.",55,35,20,0.970112672420222,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+260,2,"17:51",1071,1071,"Foul on Cj Johnson.",55,35,20,0.970112672420222,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+261,2,"17:48",1068,1068,"Randy Onwuasor missed Three Point Jumper.",55,35,20,0.9730467177693,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+262,2,"17:48",1068,1068,"Mario Winfrey Defensive Rebound.",55,35,20,0.9730467177693,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+263,2,"17:45",1065,1065,"Jarrell Tat made Layup.",55,37,18,0.962366013970672,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+264,2,"17:25",1045,1045,"Ivan Madunic missed Jumper.",55,37,18,0.96370227724872,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+265,2,"17:25",1045,1045,"Khalfani Williams Defensive Rebound.",55,37,18,0.96370227724872,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+266,2,"17:14",1034,1034,"Khalfani Williams Turnover.",55,37,18,0.957552885565404,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+267,2,"17:10",1030,1030,"Foul on Khalfani Williams.",55,37,18,0.957552885565404,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+268,2,"16:58",1018,1018,"Brayden Holker missed Layup.",55,37,18,0.962509845669825,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+269,2,"16:58",1018,1018,"Jordan Watson Block.",55,37,18,0.962509845669825,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+270,2,"16:58",1018,1018,"Ivan Madunic Offensive Rebound.",55,37,18,0.962509845669825,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+271,2,"16:49",1009,1009,"Ivan Madunic missed Layup.",55,37,18,0.966098015862152,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+272,2,"16:49",1009,1009,"Mario Winfrey Defensive Rebound.",55,37,18,0.966098015862152,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+273,2,"16:45",1005,1005,"Buddha Boyd made Jumper.",55,39,16,0.951542620922992,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+274,2,"16:27",987,987,"Foul on Mario Winfrey.",55,39,16,0.965479443577757,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+275,2,"16:26",986,986,"Jacob Calloway missed Jumper.",55,39,16,0.965479443577757,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+276,2,"16:26",986,986,"Jarrell Tat Defensive Rebound.",55,39,16,0.965479443577757,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+277,2,"16:16",976,976,"Jarrell Tat made Layup.",55,41,14,0.931705373794457,"Southern Utah","Bethesda",6,1,0,0,NA,400916288,2016-11-18
+278,2,"16:01",961,961,"Southern Utah  Timeout",55,41,14,0.932920560525155,"Southern Utah","Bethesda",6,0,0,1,NA,400916288,2016-11-18
+279,2,"16:01",961,961,"Official TV Timeout",55,41,14,0.932920560525155,"Southern Utah","Bethesda",6,0,0,1,NA,400916288,2016-11-18
+280,2,"15:54",954,954,"James McGee Turnover.",55,41,14,0.935320261439209,"Southern Utah","Bethesda",6,0,0,1,NA,400916288,2016-11-18
+281,2,"15:52",952,952,"Jarrell Tat Steal.",55,41,14,0.935320261439209,"Southern Utah","Bethesda",6,0,0,1,NA,400916288,2016-11-18
+282,2,"15:50",950,950,"Jarrell Tat made Layup.",55,43,12,0.907960092419741,"Southern Utah","Bethesda",6,0,0,1,NA,400916288,2016-11-18
+283,2,"15:47",947,947,"Foul on James McGee.",55,43,12,0.918936963457897,"Southern Utah","Bethesda",6,0,0,1,NA,400916288,2016-11-18
+284,2,"15:47",947,947,"Jarrell Tat made Free Throw.",55,44,11,0.903455077321429,"Southern Utah","Bethesda",6,0,0,1,NA,400916288,2016-11-18
+285,2,"15:44",944,944,"Foul on Mario Winfrey.",55,44,11,0.903455077321429,"Southern Utah","Bethesda",6,0,0,1,NA,400916288,2016-11-18
+286,2,"15:44",944,944,"Race Parsons made Free Throw.",56,44,12,0.918936963457897,"Southern Utah","Bethesda",6,0,0,1,NA,400916288,2016-11-18
+287,2,"15:44",944,944,"Race Parsons made Free Throw.",57,44,13,0.93212270823417,"Southern Utah","Bethesda",6,0,0,1,NA,400916288,2016-11-18
+288,2,"15:31",931,931,"Foul on Jacob Calloway.",57,44,13,0.927066113633639,"Southern Utah","Bethesda",6,0,0,1,NA,400916288,2016-11-18
+289,2,"15:24",924,924,"Buddha Boyd missed Layup.",57,44,13,0.922658942244363,"Southern Utah","Bethesda",6,0,0,1,NA,400916288,2016-11-18
+290,2,"15:24",924,924,"Race Parsons Defensive Rebound.",57,44,13,0.922658942244363,"Southern Utah","Bethesda",6,0,0,1,NA,400916288,2016-11-18
+291,2,"15:18",918,918,"Foul on Khalfani Williams.",57,44,13,0.929639725262172,"Southern Utah","Bethesda",6,0,0,1,NA,400916288,2016-11-18
+292,2,"15:18",918,918,"John Marshall missed Free Throw.",57,44,13,0.929639725262172,"Southern Utah","Bethesda",6,0,0,1,NA,400916288,2016-11-18
+293,2,"15:18",918,918,"Khalfani Williams Defensive Rebound.",57,44,13,0.929639725262172,"Southern Utah","Bethesda",6,0,0,1,NA,400916288,2016-11-18
+294,2,"15:14",914,914,"Jordan Watson missed Jumper.",57,44,13,0.929639725262172,"Southern Utah","Bethesda",6,0,0,1,NA,400916288,2016-11-18
+295,2,"15:14",914,914,"Race Parsons Defensive Rebound.",57,44,13,0.929639725262172,"Southern Utah","Bethesda",6,0,0,1,NA,400916288,2016-11-18
+296,2,"15:07",907,907,"Race Parsons Turnover.",57,44,13,0.927117769632092,"Southern Utah","Bethesda",6,0,0,1,NA,400916288,2016-11-18
+297,2,"14:58",898,898,"Khalfani Williams missed Three Point Jumper.",57,44,13,0.932655319514754,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+298,2,"14:58",898,898,"Jacob Calloway Defensive Rebound.",57,44,13,0.932655319514754,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+299,2,"14:46",886,886,"Jacob Calloway missed Three Point Jumper.",57,44,13,0.908086434365372,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+300,2,"14:46",886,886,"Jarrell Tat Defensive Rebound.",57,44,13,0.908086434365372,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+301,2,"14:29",869,869,"Jarrell Tat made Layup. Assisted by Jordan Watson.",57,46,11,0.892079305181443,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+302,2,"14:19",859,859,"Foul on Jarrell Tat.",57,46,11,0.915250271917417,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+303,2,"14:10",850,850,"Race Parsons missed Free Throw.",57,46,11,0.915250271917417,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+304,2,"14:10",850,850,"Cj Johnson Defensive Rebound.",57,46,11,0.915250271917417,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+305,2,"13:54",834,834,"Foul on Jacob Calloway.",57,46,11,0.909729656192406,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+306,2,"13:50",830,830,"Buddha Boyd missed Jumper.",57,46,11,0.909729656192406,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+307,2,"13:50",830,830,"Christian Musoko Defensive Rebound.",57,46,11,0.909729656192406,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+308,2,"13:40",820,820,"Foul on Khalfani Williams.",57,46,11,0.892549898159012,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+309,2,"13:40",820,820,"Decardo Day made Free Throw.",58,46,12,0.909317653125789,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+310,2,"13:40",820,820,"Decardo Day missed Free Throw.",58,46,12,0.909317653125789,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+311,2,"13:40",820,820,"Dock Gooch Defensive Rebound.",58,46,12,0.909317653125789,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+312,2,"13:32",812,812,"Dock Gooch made Dunk.",58,48,10,0.873912701869783,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+313,2,"13:24",804,804,"Foul on Lawrence Weatherall.",58,48,10,0.895564385937614,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+314,2,"13:24",804,804,"Randy Onwuasor made Free Throw.",59,48,11,0.913104074493552,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+315,2,"13:24",804,804,"Randy Onwuasor made Free Throw.",60,48,12,0.92793505856736,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+316,2,"13:00",780,780,"Foul on Ivan Madunic.",60,48,12,0.925394867598208,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+317,2,"13:00",780,780,"Dock Gooch made Free Throw.",60,49,11,0.90985178377332,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+318,2,"13:00",780,780,"Dock Gooch made Free Throw.",60,50,10,0.891450330595058,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+319,2,"13:00",780,780,"Dock Gooch made Free Throw.",60,51,9,0.869830078217946,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+320,2,"12:38",758,758,"Decardo Day missed Three Point Jumper.",60,51,9,0.880396354878733,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+321,2,"12:38",758,758,"Dock Gooch Defensive Rebound.",60,51,9,0.880396354878733,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+322,2,"12:32",752,752,"Dock Gooch Turnover.",60,51,9,0.880396354878733,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+323,2,"12:30",750,750,"Brayden Holker Steal.",60,51,9,0.880396354878733,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+324,2,"12:27",747,747,"Decardo Day missed Jumper.",60,51,9,0.88246173901084,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+325,2,"12:27",747,747,"Dock Gooch Defensive Rebound.",60,51,9,0.88246173901084,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+326,2,"12:16",736,736,"Foul on Randy Onwuasor.",60,51,9,0.882173536298256,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+327,2,"12:14",734,734,"Dock Gooch missed Three Point Jumper.",60,51,9,0.882173536298256,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+328,2,"12:14",734,734,"Randy Onwuasor Defensive Rebound.",60,51,9,0.882173536298256,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+329,2,"12:11",731,731,"Foul on Cj Johnson.",60,51,9,0.882173536298256,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+330,2,"11:56",716,716,"Randy Onwuasor missed Free Throw.",60,51,9,0.872260866885962,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+331,2,"11:56",716,716,"Southern Utah Deadball Team Rebound.",60,51,9,0.872260866885962,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+332,2,"11:56",716,716,"Randy Onwuasor made Free Throw.",61,51,10,0.894736519136072,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+333,2,"11:56",716,716,"Eddie Latorre Turnover.",61,51,10,0.894736519136072,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+334,2,"11:56",716,716,"Decardo Day Steal.",61,51,10,0.894736519136072,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+335,2,"11:54",714,714,"Randy Onwuasor missed Layup.",61,51,10,0.894736519136072,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+336,2,"11:54",714,714,"Decardo Day Offensive Rebound.",61,51,10,0.894736519136072,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+337,2,"11:51",711,711,"Foul on Buddha Boyd.",61,51,10,0.894736519136072,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+338,2,"11:50",710,710,"Decardo Day missed Free Throw.",61,51,10,0.894736519136072,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+339,2,"11:50",710,710,"Southern Utah Deadball Team Rebound.",61,51,10,0.894736519136072,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+340,2,"11:50",710,710,"Official TV Timeout",61,51,10,0.894736519136072,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+341,2,"11:50",710,710,"Decardo Day made Free Throw.",62,51,11,0.913649079356404,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+342,2,"11:49",709,709,"Lawrence Weatherall Turnover.",62,51,11,0.921293991442692,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+343,2,"11:49",709,709,"Randy Onwuasor Steal.",62,51,11,0.921293991442692,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+344,2,"11:42",702,702,"Foul on Dock Gooch.",62,51,11,0.921293991442692,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+345,2,"11:42",702,702,"Ivan Madunic made Free Throw.",63,51,12,0.935399515286854,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+346,2,"11:42",702,702,"Ivan Madunic made Free Throw.",64,51,13,0.947122169903767,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+347,2,"11:35",695,695,"Buddha Boyd made Three Point Jumper. Assisted by Ismael Galvez.",64,54,10,0.918691207162738,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+348,2,"11:27",687,687,"Foul on Buddha Boyd.",64,54,10,0.905116914301257,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+349,2,"11:27",687,687,"Randy Onwuasor made Free Throw.",65,54,11,0.922654368548279,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+350,2,"11:27",687,687,"Randy Onwuasor made Free Throw.",66,54,12,0.937175329095576,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+351,2,"11:09",669,669,"Dock Gooch missed Jumper.",66,54,12,0.945711610607788,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+352,2,"11:09",669,669,"John Marshall Defensive Rebound.",66,54,12,0.945711610607788,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+353,2,"11:00",660,660,"Dock Gooch missed Jumper.",66,54,12,0.945711610607788,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+354,2,"11:00",660,660,"Ismael Galvez Offensive Rebound.",66,54,12,0.945711610607788,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+355,2,"11:00",660,660,"Jordan Watson Block.",66,54,12,0.945711610607788,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+356,2,"10:11",611,611,"Ismael Galvez missed Jumper.",66,54,12,0.953445971055834,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+357,2,"10:10",610,610,"Ivan Madunic Defensive Rebound.",66,54,12,0.953445971055834,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+358,2,"10:01",601,601,"Decardo Day missed Three Point Jumper.",66,54,12,0.952837264918936,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+359,2,"10:01",601,601,"Ivan Madunic Offensive Rebound.",66,54,12,0.952837264918936,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+360,2,"10:01",601,601,"Foul on Jordan Watson.",66,54,12,0.952837264918936,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+361,2,"10:01",601,601,"Decardo Day made Free Throw.",67,54,13,0.962689284248617,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+362,2,"10:01",601,601,"Decardo Day made Free Throw.",68,54,14,0.970546890048691,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+363,2,"10:00",600,600,"Foul on John Marshall.",68,54,14,0.970546890048691,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+364,2,"10:00",600,600,"Jordan Watson made Free Throw.",68,55,13,0.962689284248617,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+365,2,"10:00",600,600,"Jordan Watson made Free Throw.",68,56,12,0.952837264918936,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+366,2,"9:59",599,599,"Jordan Watson Turnover.",68,56,12,0.949876775563333,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+367,2,"9:59",599,599,"Jordan Watson Defensive Rebound.",68,56,12,0.949876775563333,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+368,2,"9:59",599,599,"Race Parsons missed Three Point Jumper.",68,56,12,0.949876775563333,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+369,2,"9:59",599,599,"Race Parsons Turnover.",68,56,12,0.949876775563333,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+370,2,"9:49",589,589,"Jarrell Tat made Jumper. Assisted by Ismael Galvez.",68,58,10,0.921768078435228,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+371,2,"9:40",580,580,"Foul on Jesse Henderson.",68,58,10,0.921768078435228,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+372,2,"9:40",580,580,"Brayden Holker made Free Throw.",69,58,11,0.937534953587102,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+373,2,"9:40",580,580,"Brayden Holker made Free Throw.",70,58,12,0.950295518792879,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+374,2,"9:29",569,569,"Buddha Boyd made Jumper.",70,60,10,0.935554242194593,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+375,2,"9:15",555,555,"James McGee missed Three Point Jumper.",70,60,10,0.9322914090231,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+376,2,"9:15",555,555,"Southern Utah Offensive Rebound.",70,60,10,0.9322914090231,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+377,2,"9:02",542,542,"James McGee missed Three Point Jumper.",70,60,10,0.935470368515301,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+378,2,"9:02",542,542,"Jarrell Tat Defensive Rebound.",70,60,10,0.935470368515301,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+379,2,"8:42",522,522,"Buddha Boyd missed Jumper.",70,60,10,0.945356970698906,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+380,2,"8:42",522,522,"James McGee Block.",70,60,10,0.945356970698906,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+381,2,"8:42",522,522,"James McGee Defensive Rebound.",70,60,10,0.945356970698906,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+382,2,"8:34",514,514,"Randy Onwuasor made Jumper. Assisted by Decardo Day.",72,60,12,0.964592488029629,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+383,2,"8:12",492,492,"Jesse Henderson missed Three Point Jumper.",72,60,12,0.968908730166247,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+384,2,"8:12",492,492,"Christian Musoko Defensive Rebound.",72,60,12,0.968908730166247,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+385,2,"8:03",483,483,"Foul on Buddha Boyd.",72,60,12,0.966080355362281,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+386,2,"8:03",483,483,"Christian Musoko made Free Throw.",73,60,13,0.97398305508832,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+387,2,"8:03",483,483,"Christian Musoko missed Free Throw.",73,60,13,0.97398305508832,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+388,2,"8:03",483,483,"Ivan Madunic Offensive Rebound.",73,60,13,0.97398305508832,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+389,2,"7:49",469,469,"Foul on Jordan Watson.",73,60,13,0.975859479681227,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+390,2,"7:49",469,469,"Official TV Timeout",73,60,13,0.975859479681227,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+391,2,"7:49",469,469,"James McGee missed Free Throw.",73,60,13,0.975859479681227,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+392,2,"7:49",469,469,"Southern Utah Deadball Team Rebound.",73,60,13,0.975859479681227,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+393,2,"7:49",469,469,"James McGee made Free Throw.",74,60,14,0.981680975782677,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+394,2,"7:42",462,462,"Dock Gooch missed Layup.",74,60,14,0.981680975782677,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+395,2,"7:42",462,462,"Decardo Day Defensive Rebound.",74,60,14,0.981680975782677,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+396,2,"7:34",454,454,"Jacob Calloway made Three Point Jumper. Assisted by Randy Onwuasor.",77,60,17,0.995625992007315,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+397,2,"7:21",441,441,"Jarrell Tat made Layup.",77,62,15,0.985704755732414,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+398,2,"7:01",421,421,"Southern Utah Defensive Rebound.",77,62,15,0.988656253638425,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+399,2,"7:01",421,421,"Decardo Day missed Layup.",77,62,15,0.988656253638425,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+400,2,"7:01",421,421,"Ismael Galvez Block.",77,62,15,0.988656253638425,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+401,2,"6:30",390,390,"Ismael Galvez Turnover.",77,62,15,0.991855670429395,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+402,2,"6:30",390,390,"Foul on Jordan Watson.",77,62,15,0.991855670429395,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+403,2,"6:30",390,390,"Christian Musoko made Free Throw.",78,62,16,0.994026293778058,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+404,2,"6:30",390,390,"Christian Musoko missed Free Throw.",78,62,16,0.994026293778058,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+405,2,"6:30",390,390,"Jarrell Tat Defensive Rebound.",78,62,16,0.994026293778058,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+406,2,"6:30",390,390,"Foul on Randy Onwuasor.",78,62,16,0.994026293778058,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+407,2,"6:30",390,390,"Jarrell Tat made Jumper.",78,64,14,0.988905126420315,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+408,2,"6:30",390,390,"Randy Onwuasor missed Jumper.",78,64,14,0.988905126420315,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+409,2,"6:30",390,390,"Mario Winfrey Defensive Rebound.",78,64,14,0.988905126420315,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+410,2,"6:23",383,383,"Michael Walker missed Three Point Jumper.",78,64,14,0.985536109578084,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+411,2,"6:23",383,383,"Jacob Calloway Defensive Rebound.",78,64,14,0.985536109578084,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+412,2,"6:19",379,379,"Randy Onwuasor made Layup. Assisted by John Marshall.",80,64,16,0.992987560524673,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+413,2,"6:09",369,369,"Jarrell Tat Turnover.",80,64,16,0.994697720960633,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+414,2,"5:41",341,341,"Race Parsons made Three Point Jumper. Assisted by John Marshall.",83,64,19,0.998123371707912,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+415,2,"5:29",329,329,"Buddha Boyd made Three Point Jumper. Assisted by Mario Winfrey.",83,67,16,0.993353172706643,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+416,2,"5:13",313,313,"Foul on Buddha Boyd.",83,67,16,0.99741644185849,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+417,2,"5:13",313,313,"John Marshall made Free Throw.",84,67,17,0.998207981965108,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+418,2,"5:13",313,313,"John Marshall made Free Throw.",85,67,18,0.998757315354078,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+419,2,"5:11",311,311,"Jarrell Tat made Layup. Assisted by Michael Walker.",85,69,16,0.99741644185849,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+420,2,"4:52",292,292,"Jacob Calloway missed Three Point Jumper.",85,69,16,0.995943889458061,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+421,2,"4:52",292,292,"Eddie Latorre Defensive Rebound.",85,69,16,0.995943889458061,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+422,2,"4:31",271,271,"Jarrell Tat made Layup. Assisted by Michael Walker.",85,71,14,0.995512698865292,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+423,2,"4:20",260,260,"Official TV Timeout",85,71,14,0.99502135139507,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+424,2,"4:20",260,260,"Foul on Michael Walker.",85,71,14,0.99502135139507,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+425,2,"4:20",260,260,"Christian Musoko made Free Throw.",86,71,15,0.996566919838718,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+426,2,"4:15",255,255,"Christian Musoko made Free Throw.",87,71,16,0.998952236615348,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+427,2,"3:35",215,215,"Jarrell Tat missed Three Point Jumper.",87,71,16,0.99911776845308,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+428,2,"3:35",215,215,"Michael Walker Offensive Rebound.",87,71,16,0.99911776845308,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+429,2,"3:21",201,201,"Michael Walker missed Three Point Jumper.",87,71,16,0.999352872379602,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+430,2,"3:21",201,201,"John Marshall Defensive Rebound.",87,71,16,0.999352872379602,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+431,2,"3:07",187,187,"John Marshall made Free Throw.",88,71,17,0.999734109377748,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+432,2,"3:07",187,187,"John Marshall made Free Throw.",89,71,18,0.999836390142082,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+433,2,"3:07",187,187,"Dock Gooch Turnover.",89,71,18,0.999836390142082,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+434,2,"3:07",187,187,"Jacob Calloway Steal.",89,71,18,0.999836390142082,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+435,2,"3:07",187,187,"Jacob Calloway Turnover.",89,71,18,0.999836390142082,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+436,2,"3:06",186,186,"Foul on James McGee.",89,71,18,0.999836390142082,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+437,2,"3:06",186,186,"Jarrell Tat made Free Throw.",89,72,17,0.999734109377748,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+438,2,"3:06",186,186,"Jarrell Tat made Free Throw.",89,73,16,0.999567915387428,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+439,2,"3:04",184,184,"Jacob Calloway made Layup. Assisted by Christian Musoko.",91,73,18,0.999836390142082,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+440,2,"2:59",179,179,"Jarrell Tat missed Jumper.",91,73,18,0.999877101422719,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+441,2,"2:59",179,179,"Christian Musoko Defensive Rebound.",91,73,18,0.999877101422719,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+442,2,"2:48",168,168,"Foul on Eddie Latorre.",91,73,18,0.999912931556662,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+443,2,"2:48",168,168,"Jacob Calloway made Free Throw.",92,73,19,0.999947912571101,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+444,2,"2:48",168,168,"Jacob Calloway made Free Throw.",93,73,20,0.999968839891789,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+445,2,"2:45",165,165,"Jarrell Tat made Jumper. Assisted by Michael Walker.",93,75,18,0.999912931556662,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+446,2,"2:42",162,162,"Foul on Decardo Day.",93,75,18,0.999912931556662,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+447,2,"2:36",156,156,"Jarrell Tat made Free Throw.",93,76,17,0.999907951535125,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+448,2,"2:36",156,156,"Jacob Calloway missed Three Point Jumper.",93,76,17,0.999907951535125,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+449,2,"2:36",156,156,"Jacob Calloway Offensive Rebound.",93,76,17,0.999907951535125,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+450,2,"2:15",135,135,"Jacob Calloway made Layup. Assisted by John Marshall.",95,76,19,0.999976197134216,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+451,2,"2:15",135,135,"Foul on Bethesda University.",95,76,19,0.999976197134216,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+452,2,"2:15",135,135,"Jacob Calloway made Free Throw.",96,76,20,0.999986236176593,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+453,2,"2:15",135,135,"Foul on Bethesda University.",96,76,20,0.999986236176593,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+454,2,"2:07",127,127,"Ismael Galvez missed Three Point Jumper.",96,76,20,0.99998742542166,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+455,2,"2:07",127,127,"John Marshall Defensive Rebound.",96,76,20,0.99998742542166,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+456,2,"2:07",127,127,"John Marshall Defensive Rebound.",96,76,20,0.99998742542166,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+457,2,"2:04",124,124,"Foul on Ismael Galvez.",96,76,20,0.99998742542166,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+458,2,"1:59",119,119,"Decardo Day missed Free Throw.",96,76,20,0.999994769333304,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+459,2,"1:59",119,119,"Southern Utah Deadball Team Rebound.",96,76,20,0.999994769333304,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+460,2,"1:59",119,119,"Decardo Day made Free Throw.",97,76,21,0.999997131744577,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+461,2,"1:59",119,119,"Jarrell Tat made Layup. Assisted by Ismael Galvez.",97,78,19,0.999990461163037,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+462,2,"1:53",113,113,"Decardo Day made Dunk.",99,78,21,0.999997131744577,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+463,2,"1:53",113,113,"Decardo Day made Dunk.",99,78,21,0.999997131744577,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+464,2,"1:48",108,108,"Ismael Galvez made Three Point Jumper.",99,81,18,0.999983989638379,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+465,2,"1:42",102,102,"Foul on Michael Walker.",99,81,18,0.999983989638379,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+466,2,"1:42",102,102,"Decardo Day missed Free Throw.",99,81,18,0.999983989638379,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+467,2,"1:42",102,102,"Southern Utah Deadball Team Rebound.",99,81,18,0.999983989638379,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+468,2,"1:42",102,102,"Decardo Day made Free Throw.",100,81,19,0.999991379188888,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+469,2,"1:39",99,99,"Jarrell Tat missed Jumper.",100,81,19,0.999993834965992,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+470,2,"1:39",99,99,"Jarrell Tat Offensive Rebound.",100,81,19,0.999993834965992,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+471,2,"1:34",94,94,"Jarrell Tat made Layup.",100,83,17,0.999978315942941,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+472,2,"1:16",76,76,"Adonis Saltes Turnover.",100,83,17,0.999995971723208,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+473,2,"1:14",74,74,"Ismael Galvez Steal.",100,83,17,0.999995971723208,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+474,2,"1:14",74,74,"Ismael Galvez Steal.",100,83,17,0.999995971723208,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+475,2,"1:12",72,72,"Lawrence Weatherall made Three Point Jumper.",100,86,14,0.999963463681269,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+476,2,"1:02",62,62,"Jarrell Tat made Layup.",100,88,12,0.999851769790763,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+477,2,"1:01",61,61,"Foul on Adonis Saltes.",100,88,12,0.999851769790763,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+478,2,"1:01",61,61,"Adonis Saltes Turnover.",100,88,12,0.999851769790763,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+479,2,"1:01",61,61,"Jarrell Tat made Free Throw.",100,89,11,0.999688671379688,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+480,2,"1:01",61,61,"Foul on Ismael Galvez.",100,89,11,0.999688671379688,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+481,2,"1:01",61,61,"Adonis Saltes missed Free Throw.",100,89,11,0.999688671379688,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+482,2,"1:01",61,61,"Southern Utah Deadball Team Rebound.",100,89,11,0.999688671379688,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+483,2,"1:01",61,61,"Adonis Saltes made Free Throw.",101,89,12,0.999851769790763,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+484,2,"0:56",56,56,"Lawrence Weatherall missed Three Point Jumper.",101,89,12,0.999972920678237,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+485,2,"0:56",56,56,"Matthew Johnson Defensive Rebound.",101,89,12,0.999972920678237,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+486,2,"0:51",51,51,"Foul on Michael Walker.",101,89,12,0.999981229645822,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+487,2,"0:51",51,51,"Matthew Johnson missed Free Throw.",101,89,12,0.999981229645822,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+488,2,"0:51",51,51,"Southern Utah Deadball Team Rebound.",101,89,12,0.999981229645822,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+489,2,"0:51",51,51,"Matthew Johnson made Free Throw.",102,89,13,0.999992347008438,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+490,2,"0:48",48,48,"Ismael Galvez missed Three Point Jumper.",102,89,13,0.999996011976599,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+491,2,"0:48",48,48,"Joel Swallow Defensive Rebound.",102,89,13,0.999996011976599,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+492,2,"0:48",48,48,"Joel Swallow Defensive Rebound.",102,89,13,0.999996011976599,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+493,2,"0:44",44,44,"Foul on Marcus Eggum.",102,89,13,0.999976691975454,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+494,2,"0:44",44,44,"Joel Swallow missed Free Throw.",102,89,13,0.999976691975454,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+495,2,"0:44",44,44,"Southern Utah Deadball Team Rebound.",102,89,13,0.999976691975454,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+496,2,"0:44",44,44,"Joel Swallow made Free Throw.",103,89,14,0.999989691600944,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+497,2,"0:44",44,44,"Marcus Eggum missed Three Point Jumper.",103,89,14,0.999989691600944,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+498,2,"0:44",44,44,"Matthew Johnson Defensive Rebound.",103,89,14,0.999989691600944,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+499,2,"0:44",44,44,"Matthew Johnson Defensive Rebound.",103,89,14,0.999989691600944,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+500,2,"0:43",43,43,"Foul on Marcus Eggum.",103,89,14,0.999996480768426,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+501,2,"0:35",35,35,"Neema Namdar missed Free Throw.",103,89,14,0.999990603258255,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+502,2,"0:35",35,35,"Southern Utah Deadball Team Rebound.",103,89,14,0.999990603258255,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+503,2,"0:35",35,35,"Neema Namdar missed Free Throw.",103,89,14,0.999990603258255,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+504,2,"0:35",35,35,"Bethesda University Defensive Rebound.",103,89,14,0.999990603258255,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+505,2,"0:35",35,35,"Foul on Will Joyce.",103,89,14,0.999990603258255,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+506,2,"0:35",35,35,"Marcus Eggum made Free Throw.",103,90,13,0.999978500838741,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+507,2,"0:35",35,35,"Marcus Eggum missed Free Throw.",103,90,13,0.999978500838741,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+508,2,"0:35",35,35,"Matthew Johnson Defensive Rebound.",103,90,13,0.999978500838741,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+509,2,"0:35",35,35,"Matthew Johnson Turnover.",103,90,13,0.999978500838741,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+510,2,"0:30",30,30,"Jarrell Tat missed Three Point Jumper.",103,90,13,0.999996051328469,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+511,2,"0:30",30,30,"Matthew Johnson Defensive Rebound.",103,90,13,0.999996051328469,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+512,2,"0:30",30,30,"Matthew Johnson Defensive Rebound.",103,90,13,0.999996051328469,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+513,2,"0:22",22,22,"Foul on Michael Walker.",103,90,13,0.99999996699165,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+514,2,"0:22",22,22,"Matthew Johnson missed Free Throw.",103,90,13,0.99999996699165,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+515,2,"0:22",22,22,"Southern Utah Deadball Team Rebound.",103,90,13,0.99999996699165,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+516,2,"0:22",22,22,"Matthew Johnson made Free Throw.",104,90,14,0.999999991063068,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+517,2,"0:19",19,19,"Ismael Galvez made Jumper.",104,92,12,0.999999781400699,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+518,2,"0:15",15,15,"Foul on Jesse Henderson.",104,92,12,0.999999962577379,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+519,2,"0:15",15,15,"Technical Foul on Ismael Galvez.",104,92,12,0.999999962577379,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+520,2,"0:15",15,15,"Foul on Ismael Galvez.",104,92,12,0.999999962577379,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+521,2,"0:15",15,15,"Foul on Matthew Johnson.",104,92,12,0.999999962577379,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+522,2,"0:15",15,15,"Technical Foul on Matthew Johnson.",104,92,12,0.999999962577379,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+523,2,"0:15",15,15,"Adonis Saltes made Free Throw.",105,92,13,0.999999991175062,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+524,2,"0:15",15,15,"Adonis Saltes made Free Throw.",106,92,14,0.999999997918919,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+525,2,"0:12",12,12,"Jarrell Tat missed Three Point Jumper.",106,92,14,0.999999992815388,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+526,2,"0:12",12,12,"John Marshall Defensive Rebound.",106,92,14,0.999999992815388,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+527,2,"0:10",10,10,"Foul on Marcus Eggum.",106,92,14,0.999999999923674,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+528,2,"0:10",10,10,"John Marshall made Free Throw.",107,92,15,0.999999999984853,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+529,2,"0:10",10,10,"John Marshall made Free Throw.",108,92,16,0.999999999996994,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+530,2,"0:09",9,9,"Ismael Galvez missed Three Point Jumper.",108,92,16,0.999999999996994,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+531,2,"0:09",9,9,"John Marshall Defensive Rebound.",108,92,16,0.999999999996994,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+532,2,"0:00",0,0,"End of 2nd half",108,92,16,1,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18
+533,2,"0:00",0,0,"End of Game",108,92,16,1,"Southern Utah","Bethesda",6,0,0,0,NA,400916288,2016-11-18

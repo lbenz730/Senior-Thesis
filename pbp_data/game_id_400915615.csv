@@ -1,0 +1,347 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.883562299428759,"Arizona","Colorado",4,4,0,0,11.5,400915615,2017-01-07
+2,1,"20:00",2400,2400,"Jump Ball won by Arizona",0,0,0,0.883562299428759,"Arizona","Colorado",4,4,0,0,11.5,400915615,2017-01-07
+3,1,"19:40",2380,2380,"Dusan Ristic missed Jumper.",0,0,0,0.879405751619915,"Arizona","Colorado",4,4,0,0,11.5,400915615,2017-01-07
+4,1,"19:40",2380,2380,"Xavier Johnson Defensive Rebound.",0,0,0,0.879405751619915,"Arizona","Colorado",4,4,0,0,11.5,400915615,2017-01-07
+5,1,"19:36",2376,2376,"Colorado alternating possession.",0,0,0,0.875620514731639,"Arizona","Colorado",4,4,0,0,11.5,400915615,2017-01-07
+6,1,"19:22",2362,2362,"George King Turnover.",0,0,0,0.865236738169829,"Arizona","Colorado",4,4,0,0,11.5,400915615,2017-01-07
+7,1,"19:04",2344,2344,"Kadeem Allen missed Jumper.",0,0,0,0.867469296948239,"Arizona","Colorado",4,4,0,0,11.5,400915615,2017-01-07
+8,1,"19:04",2344,2344,"Dusan Ristic Offensive Rebound.",0,0,0,0.867469296948239,"Arizona","Colorado",4,4,0,0,11.5,400915615,2017-01-07
+9,1,"18:58",2338,2338,"Foul on Derrick White.",0,0,0,0.872179111913597,"Arizona","Colorado",4,4,0,0,11.5,400915615,2017-01-07
+10,1,"18:58",2338,2338,"Dusan Ristic missed Free Throw.",0,0,0,0.872179111913597,"Arizona","Colorado",4,4,0,0,11.5,400915615,2017-01-07
+11,1,"18:58",2338,2338,"Arizona Deadball Team Rebound.",0,0,0,0.872179111913597,"Arizona","Colorado",4,4,0,0,11.5,400915615,2017-01-07
+12,1,"18:58",2338,2338,"Dusan Ristic made Free Throw.",1,0,1,0.882284319160809,"Arizona","Colorado",4,4,0,0,11.5,400915615,2017-01-07
+13,1,"18:38",2318,2318,"George King missed Three Point Jumper.",1,0,1,0.870977919955035,"Arizona","Colorado",4,4,0,0,11.5,400915615,2017-01-07
+14,1,"18:38",2318,2318,"Xavier Johnson Offensive Rebound.",1,0,1,0.870977919955035,"Arizona","Colorado",4,4,0,0,11.5,400915615,2017-01-07
+15,1,"18:32",2312,2312,"George King made Three Point Jumper. Assisted by Josh Fortune.",1,3,-2,0.834100302641452,"Arizona","Colorado",4,4,0,0,11.5,400915615,2017-01-07
+16,1,"18:14",2294,2294,"Lauri Markkanen missed Three Point Jumper.",1,3,-2,0.848196442402418,"Arizona","Colorado",4,4,0,0,11.5,400915615,2017-01-07
+17,1,"18:14",2294,2294,"Josh Fortune Defensive Rebound.",1,3,-2,0.848196442402418,"Arizona","Colorado",4,4,0,0,11.5,400915615,2017-01-07
+18,1,"17:58",2278,2278,"Xavier Johnson missed Layup.",1,3,-2,0.844795938314743,"Arizona","Colorado",4,4,0,0,11.5,400915615,2017-01-07
+19,1,"17:58",2278,2278,"Wesley Gordon Offensive Rebound.",1,3,-2,0.844795938314743,"Arizona","Colorado",4,4,0,0,11.5,400915615,2017-01-07
+20,1,"17:50",2270,2270,"Wesley Gordon made Layup.",1,5,-4,0.815686660430993,"Arizona","Colorado",4,4,0,0,11.5,400915615,2017-01-07
+21,1,"17:42",2262,2262,"Dusan Ristic missed Layup.",1,5,-4,0.810200113748483,"Arizona","Colorado",4,4,0,0,11.5,400915615,2017-01-07
+22,1,"17:42",2262,2262,"Xavier Johnson Defensive Rebound.",1,5,-4,0.810200113748483,"Arizona","Colorado",4,4,0,0,11.5,400915615,2017-01-07
+23,1,"17:36",2256,2256,"Foul on Kadeem Allen.",1,5,-4,0.810581627960379,"Arizona","Colorado",4,4,0,0,11.5,400915615,2017-01-07
+24,1,"17:27",2247,2247,"Josh Fortune made Dunk. Assisted by Wesley Gordon.",1,7,-6,0.773001072026448,"Arizona","Colorado",4,4,1,0,11.5,400915615,2017-01-07
+25,1,"17:27",2247,2247,"Arizona  Timeout",1,7,-6,0.773001072026448,"Arizona","Colorado",3,4,1,0,11.5,400915615,2017-01-07
+26,1,"17:16",2236,2236,"Rawle Alkins missed Jumper.",1,7,-6,0.769666042501909,"Arizona","Colorado",3,4,1,0,11.5,400915615,2017-01-07
+27,1,"17:16",2236,2236,"Wesley Gordon Defensive Rebound.",1,7,-6,0.769666042501909,"Arizona","Colorado",3,4,1,0,11.5,400915615,2017-01-07
+28,1,"17:02",2222,2222,"George King made Three Point Jumper. Assisted by Wesley Gordon.",1,10,-9,0.725263060662888,"Arizona","Colorado",3,4,1,0,11.5,400915615,2017-01-07
+29,1,"16:30",2190,2190,"Dusan Ristic made Jumper. Assisted by Kobi Simmons.",3,10,-7,0.751998852638685,"Arizona","Colorado",3,4,1,0,11.5,400915615,2017-01-07
+30,1,"16:30",2190,2190,"Foul on Wesley Gordon.",3,10,-7,0.751998852638685,"Arizona","Colorado",3,4,1,0,11.5,400915615,2017-01-07
+31,1,"16:30",2190,2190,"Dusan Ristic made Free Throw.",4,10,-6,0.773073292878878,"Arizona","Colorado",3,4,1,0,11.5,400915615,2017-01-07
+32,1,"16:15",2175,2175,"Xavier Johnson made Three Point Jumper. Assisted by Derrick White.",4,13,-9,0.700098038112011,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+33,1,"15:49",2149,2149,"Kadeem Allen made Three Point Jumper. Assisted by Parker Jackson-Cartwright.",7,13,-6,0.780582072946818,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+34,1,"15:31",2131,2131,"Derrick White Turnover.",7,13,-6,0.752664207702755,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+35,1,"15:31",2131,2131,"Official TV Timeout",7,13,-6,0.752664207702755,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+36,1,"15:10",2110,2110,"Foul on George King.",7,13,-6,0.766540863464752,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+37,1,"14:52",2092,2092,"Lauri Markkanen made Three Point Jumper. Assisted by Kadeem Allen.",10,13,-3,0.80027403068094,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+38,1,"14:21",2061,2061,"Derrick White made Three Point Jumper.",10,16,-6,0.740501954560251,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+39,1,"13:59",2039,2039,"Foul on Xavier Johnson.",10,16,-6,0.776685462456263,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+40,1,"13:55",2035,2035,"Foul on Tory Miller.",10,16,-6,0.776685462456263,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+41,1,"13:47",2027,2027,"Chance Comanche missed Jumper.",10,16,-6,0.731835621419987,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+42,1,"13:47",2027,2027,"George King Defensive Rebound.",10,16,-6,0.731835621419987,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+43,1,"13:37",2017,2017,"George King missed Three Point Jumper.",10,16,-6,0.753402521090299,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+44,1,"13:37",2017,2017,"Wesley Gordon Offensive Rebound.",10,16,-6,0.753402521090299,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+45,1,"13:30",2010,2010,"Wesley Gordon made Layup.",10,18,-8,0.707987681665527,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+46,1,"13:17",1997,1997,"Parker Jackson-Cartwright made Layup.",12,18,-6,0.735876890801857,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+47,1,"13:02",1982,1982,"Tory Miller Turnover.",12,18,-6,0.717197816836599,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+48,1,"13:02",1982,1982,"Rawle Alkins Steal.",12,18,-6,0.717197816836599,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+49,1,"12:53",1973,1973,"Parker Jackson-Cartwright missed Three Point Jumper.",12,18,-6,0.74698925175396,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+50,1,"12:53",1973,1973,"Tory Miller Defensive Rebound.",12,18,-6,0.74698925175396,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+51,1,"12:41",1961,1961,"Tory Miller missed Three Point Jumper.",12,18,-6,0.759852080692611,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+52,1,"12:41",1961,1961,"Chance Comanche Defensive Rebound.",12,18,-6,0.759852080692611,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+53,1,"12:14",1934,1934,"Rawle Alkins missed Three Point Jumper.",12,18,-6,0.716173721635442,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+54,1,"12:14",1934,1934,"George King Defensive Rebound.",12,18,-6,0.716173721635442,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+55,1,"11:50",1910,1910,"Dominique Collier missed Three Point Jumper.",12,18,-6,0.739665138144416,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+56,1,"11:50",1910,1910,"Tory Miller Offensive Rebound.",12,18,-6,0.739665138144416,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+57,1,"11:47",1907,1907,"Foul on Tory Miller.",12,18,-6,0.74552529227231,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+58,1,"11:47",1907,1907,"Tory Miller Turnover.",12,18,-6,0.74552529227231,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+59,1,"11:47",1907,1907,"Official TV Timeout",12,18,-6,0.74552529227231,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+60,1,"11:33",1893,1893,"Lauri Markkanen made Three Point Jumper. Assisted by Kobi Simmons.",15,18,-3,0.789796255660968,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+61,1,"11:15",1875,1875,"Bryce Peters missed Jumper.",15,18,-3,0.794920770968498,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+62,1,"11:15",1875,1875,"Lauri Markkanen Defensive Rebound.",15,18,-3,0.794920770968498,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+63,1,"11:05",1865,1865,"Rawle Alkins missed Three Point Jumper.",15,18,-3,0.788099168750844,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+64,1,"11:05",1865,1865,"Dusan Ristic Offensive Rebound.",15,18,-3,0.788099168750844,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+65,1,"10:56",1856,1856,"Dusan Ristic missed Jumper.",15,18,-3,0.793470392439598,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+66,1,"10:56",1856,1856,"Lucas Siewert Defensive Rebound.",15,18,-3,0.793470392439598,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+67,1,"10:35",1835,1835,"Wesley Gordon missed Jumper.",15,18,-3,0.788098368430439,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+68,1,"10:35",1835,1835,"Lauri Markkanen Defensive Rebound.",15,18,-3,0.788098368430439,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+69,1,"10:22",1822,1822,"Kadeem Allen missed Jumper.",15,18,-3,0.813708292113056,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+70,1,"10:22",1822,1822,"Wesley Gordon Defensive Rebound.",15,18,-3,0.813708292113056,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+71,1,"10:15",1815,1815,"Dominique Collier Turnover.",15,18,-3,0.786494744672443,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+72,1,"10:15",1815,1815,"Kobi Simmons Steal.",15,18,-3,0.786494744672443,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+73,1,"10:05",1805,1805,"Kobi Simmons missed Jumper.",15,18,-3,0.790794571345916,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+74,1,"10:05",1805,1805,"Dusan Ristic Offensive Rebound.",15,18,-3,0.790794571345916,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+75,1,"10:02",1802,1802,"Dusan Ristic made Layup.",17,18,-1,0.83017539282042,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+76,1,"9:58",1798,1798,"Josh Fortune Turnover.",17,18,-1,0.819409864439982,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+77,1,"9:47",1787,1787,"Lauri Markkanen made Dunk. Assisted by Kadeem Allen.",19,18,1,0.846503040581892,"Arizona","Colorado",3,4,0,0,11.5,400915615,2017-01-07
+78,1,"9:45",1785,1785,"Colorado  Timeout",19,18,1,0.846503040581892,"Arizona","Colorado",3,3,0,1,11.5,400915615,2017-01-07
+79,1,"9:30",1770,1770,"Foul on Kobi Simmons.",19,18,1,0.854428234897575,"Arizona","Colorado",3,3,0,1,11.5,400915615,2017-01-07
+80,1,"9:26",1766,1766,"Foul on Lauri Markkanen.",19,18,1,0.871231183074521,"Arizona","Colorado",3,3,0,1,11.5,400915615,2017-01-07
+81,1,"9:19",1759,1759,"Xavier Johnson missed Three Point Jumper.",19,18,1,0.861291003044316,"Arizona","Colorado",3,3,0,1,11.5,400915615,2017-01-07
+82,1,"9:19",1759,1759,"Kobi Simmons Defensive Rebound.",19,18,1,0.861291003044316,"Arizona","Colorado",3,3,0,1,11.5,400915615,2017-01-07
+83,1,"9:09",1749,1749,"Foul on Josh Fortune.",19,18,1,0.856181587468601,"Arizona","Colorado",3,3,0,1,11.5,400915615,2017-01-07
+84,1,"9:09",1749,1749,"Kadeem Allen made Free Throw.",20,18,2,0.871046266708122,"Arizona","Colorado",3,3,0,1,11.5,400915615,2017-01-07
+85,1,"9:09",1749,1749,"Kadeem Allen made Free Throw.",21,18,3,0.884581685288895,"Arizona","Colorado",3,3,0,1,11.5,400915615,2017-01-07
+86,1,"8:54",1734,1734,"Xavier Johnson missed Jumper.",21,18,3,0.891249033563994,"Arizona","Colorado",3,3,0,1,11.5,400915615,2017-01-07
+87,1,"8:53",1733,1733,"Derrick White Offensive Rebound.",21,18,3,0.891249033563994,"Arizona","Colorado",3,3,0,1,11.5,400915615,2017-01-07
+88,1,"8:51",1731,1731,"Derrick White missed Layup.",21,18,3,0.891249033563994,"Arizona","Colorado",3,3,0,1,11.5,400915615,2017-01-07
+89,1,"8:51",1731,1731,"Chance Comanche Defensive Rebound.",21,18,3,0.891249033563994,"Arizona","Colorado",3,3,0,1,11.5,400915615,2017-01-07
+90,1,"8:34",1714,1714,"Kobi Simmons Turnover.",21,18,3,0.89630650588242,"Arizona","Colorado",3,3,0,0,11.5,400915615,2017-01-07
+91,1,"8:34",1714,1714,"Josh Fortune Steal.",21,18,3,0.89630650588242,"Arizona","Colorado",3,3,0,0,11.5,400915615,2017-01-07
+92,1,"8:28",1708,1708,"Derrick White missed Three Point Jumper.",21,18,3,0.883286854387495,"Arizona","Colorado",3,3,0,0,11.5,400915615,2017-01-07
+93,1,"8:28",1708,1708,"George King Offensive Rebound.",21,18,3,0.883286854387495,"Arizona","Colorado",3,3,0,0,11.5,400915615,2017-01-07
+94,1,"8:20",1700,1700,"George King made Jumper.",21,20,1,0.854275391501159,"Arizona","Colorado",3,3,0,0,11.5,400915615,2017-01-07
+95,1,"8:01",1681,1681,"Foul on Wesley Gordon.",21,20,1,0.868437893655343,"Arizona","Colorado",3,3,0,0,11.5,400915615,2017-01-07
+96,1,"8:01",1681,1681,"Chance Comanche made Free Throw.",22,20,2,0.884174894500557,"Arizona","Colorado",3,3,0,0,11.5,400915615,2017-01-07
+97,1,"8:01",1681,1681,"Chance Comanche missed Free Throw.",22,20,2,0.884174894500557,"Arizona","Colorado",3,3,0,0,11.5,400915615,2017-01-07
+98,1,"8:01",1681,1681,"Xavier Johnson Defensive Rebound.",22,20,2,0.884174894500557,"Arizona","Colorado",3,3,0,0,11.5,400915615,2017-01-07
+99,1,"7:34",1654,1654,"Xavier Johnson missed Three Point Jumper.",22,20,2,0.869485311416406,"Arizona","Colorado",3,3,0,0,11.5,400915615,2017-01-07
+100,1,"7:34",1654,1654,"Kadeem Allen Defensive Rebound.",22,20,2,0.869485311416406,"Arizona","Colorado",3,3,0,0,11.5,400915615,2017-01-07
+101,1,"7:18",1638,1638,"Parker Jackson-Cartwright Turnover.",22,20,2,0.872562300592406,"Arizona","Colorado",3,3,0,0,11.5,400915615,2017-01-07
+102,1,"7:18",1638,1638,"Official TV Timeout",22,20,2,0.872562300592406,"Arizona","Colorado",3,3,0,0,11.5,400915615,2017-01-07
+103,1,"6:51",1611,1611,"Xavier Johnson missed Jumper.",22,20,2,0.860120581126336,"Arizona","Colorado",3,3,0,0,11.5,400915615,2017-01-07
+104,1,"6:51",1611,1611,"George King Offensive Rebound.",22,20,2,0.860120581126336,"Arizona","Colorado",3,3,0,0,11.5,400915615,2017-01-07
+105,1,"6:40",1600,1600,"Foul on Chance Comanche.",22,20,2,0.873019977737697,"Arizona","Colorado",3,3,0,0,11.5,400915615,2017-01-07
+106,1,"6:29",1589,1589,"Tory Miller missed Layup.",22,20,2,0.868031571766204,"Arizona","Colorado",3,3,0,0,11.5,400915615,2017-01-07
+107,1,"6:29",1589,1589,"Keanu Pinder Defensive Rebound.",22,20,2,0.868031571766204,"Arizona","Colorado",3,3,0,0,11.5,400915615,2017-01-07
+108,1,"6:04",1564,1564,"Kadeem Allen made Three Point Jumper.",25,20,5,0.907380252152178,"Arizona","Colorado",3,3,0,0,11.5,400915615,2017-01-07
+109,1,"5:47",1547,1547,"Deleon Brown Turnover.",25,20,5,0.913007343453904,"Arizona","Colorado",3,3,0,0,11.5,400915615,2017-01-07
+110,1,"5:47",1547,1547,"Parker Jackson-Cartwright Steal.",25,20,5,0.913007343453904,"Arizona","Colorado",3,3,0,0,11.5,400915615,2017-01-07
+111,1,"5:42",1542,1542,"Rawle Alkins made Layup. Assisted by Parker Jackson-Cartwright.",27,20,7,0.932691590275969,"Arizona","Colorado",3,3,0,0,11.5,400915615,2017-01-07
+112,1,"5:40",1540,1540,"Colorado  Timeout",27,20,7,0.932691590275969,"Arizona","Colorado",3,2,0,1,11.5,400915615,2017-01-07
+113,1,"5:28",1528,1528,"Xavier Johnson missed Jumper.",27,20,7,0.929294451277453,"Arizona","Colorado",3,2,0,1,11.5,400915615,2017-01-07
+114,1,"5:28",1528,1528,"Lauri Markkanen Defensive Rebound.",27,20,7,0.929294451277453,"Arizona","Colorado",3,2,0,1,11.5,400915615,2017-01-07
+115,1,"5:21",1521,1521,"Kobi Simmons missed Jumper.",27,20,7,0.929294451277453,"Arizona","Colorado",3,2,0,1,11.5,400915615,2017-01-07
+116,1,"5:21",1521,1521,"George King Defensive Rebound.",27,20,7,0.929294451277453,"Arizona","Colorado",3,2,0,1,11.5,400915615,2017-01-07
+117,1,"5:13",1513,1513,"Tory Miller missed Jumper.",27,20,7,0.9366599522004,"Arizona","Colorado",3,2,0,1,11.5,400915615,2017-01-07
+118,1,"5:13",1513,1513,"Arizona Deadball Team Rebound.",27,20,7,0.9366599522004,"Arizona","Colorado",3,2,0,1,11.5,400915615,2017-01-07
+119,1,"5:07",1507,1507,"Foul on George King.",27,20,7,0.930412557468843,"Arizona","Colorado",3,2,0,1,11.5,400915615,2017-01-07
+120,1,"5:07",1507,1507,"Rawle Alkins made Free Throw.",28,20,8,0.939090431614955,"Arizona","Colorado",3,2,0,1,11.5,400915615,2017-01-07
+121,1,"5:07",1507,1507,"Rawle Alkins made Free Throw.",29,20,9,0.946748072714781,"Arizona","Colorado",3,2,0,1,11.5,400915615,2017-01-07
+122,1,"4:53",1493,1493,"Foul on Parker Jackson-Cartwright.",29,20,9,0.947894324367732,"Arizona","Colorado",3,2,0,1,11.5,400915615,2017-01-07
+123,1,"4:44",1484,1484,"Xavier Johnson made Layup.",29,22,7,0.931744133786479,"Arizona","Colorado",3,2,0,1,11.5,400915615,2017-01-07
+124,1,"4:24",1464,1464,"Dusan Ristic missed Jumper.",29,22,7,0.921063353487849,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+125,1,"4:24",1464,1464,"Derrick White Defensive Rebound.",29,22,7,0.921063353487849,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+126,1,"4:11",1451,1451,"Foul on Lauri Markkanen.",29,22,7,0.929965990370677,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+127,1,"4:11",1451,1451,"Xavier Johnson missed Free Throw.",29,22,7,0.929965990370677,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+128,1,"4:11",1451,1451,"Colorado Deadball Team Rebound.",29,22,7,0.929965990370677,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+129,1,"4:11",1451,1451,"Xavier Johnson made Free Throw.",29,23,6,0.919733509222829,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+130,1,"3:45",1425,1425,"Parker Jackson-Cartwright missed Layup.",29,23,6,0.912337982698404,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+131,1,"3:45",1425,1425,"Xavier Johnson Defensive Rebound.",29,23,6,0.912337982698404,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+132,1,"3:36",1416,1416,"Foul on Keanu Pinder.",29,23,6,0.916462407427366,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+133,1,"3:36",1416,1416,"Official TV Timeout",29,23,6,0.916462407427366,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+134,1,"3:36",1416,1416,"Xavier Johnson made Free Throw.",29,24,5,0.903797306847849,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+135,1,"3:36",1416,1416,"Xavier Johnson missed Free Throw.",29,24,5,0.903797306847849,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+136,1,"3:36",1416,1416,"Kobi Simmons Defensive Rebound.",29,24,5,0.903797306847849,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+137,1,"3:07",1387,1387,"Foul on Josh Fortune.",29,24,5,0.911755171716835,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+138,1,"3:07",1387,1387,"Kadeem Allen made Free Throw.",30,24,6,0.923062575437456,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+139,1,"3:07",1387,1387,"Kadeem Allen made Free Throw.",31,24,7,0.933027513134284,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+140,1,"3:07",1387,1387,"Kadeem Allen made Free Throw.",32,24,8,0.941783192599714,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+141,1,"2:55",1375,1375,"Class A Unsporting Technical Foul on Colorado (Tad Boyle).",32,24,8,0.9350197594944,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+142,1,"2:55",1375,1375,"Kadeem Allen missed Free Throw.",32,24,8,0.9350197594944,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+143,1,"2:55",1375,1375,"Arizona Deadball Team Rebound.",32,24,8,0.9350197594944,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+144,1,"2:55",1375,1375,"Kadeem Allen made Free Throw.",33,24,9,0.943258777868744,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+145,1,"2:41",1361,1361,"Derrick White missed Three Point Jumper.",33,24,9,0.948431566860474,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+146,1,"2:41",1361,1361,"Dusan Ristic Defensive Rebound.",33,24,9,0.948431566860474,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+147,1,"2:37",1357,1357,"Foul on Tory Miller.",33,24,9,0.9510420802886,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+148,1,"2:37",1357,1357,"Dusan Ristic missed Free Throw.",33,24,9,0.9510420802886,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+149,1,"2:37",1357,1357,"Arizona Deadball Team Rebound.",33,24,9,0.9510420802886,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+150,1,"2:37",1357,1357,"Dusan Ristic made Free Throw.",34,24,10,0.95775378289139,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+151,1,"2:27",1347,1347,"Foul on Rawle Alkins.",34,24,10,0.953371039491285,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+152,1,"2:27",1347,1347,"Dominique Collier missed Free Throw.",34,24,10,0.953371039491285,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+153,1,"2:27",1347,1347,"Chance Comanche Defensive Rebound.",34,24,10,0.953371039491285,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+154,1,"2:07",1327,1327,"Rawle Alkins made Three Point Jumper. Assisted by Chance Comanche.",37,24,13,0.972434594658837,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+155,1,"1:54",1314,1314,"Dominique Collier missed Layup.",37,24,13,0.973192632788183,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+156,1,"1:54",1314,1314,"Dusan Ristic Defensive Rebound.",37,24,13,0.973192632788183,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+157,1,"1:31",1291,1291,"Kobi Simmons missed Three Point Jumper.",37,24,13,0.974720583331557,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+158,1,"1:31",1291,1291,"Dusan Ristic Offensive Rebound.",37,24,13,0.974720583331557,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+159,1,"1:25",1285,1285,"Dusan Ristic made Jumper.",39,24,15,0.97829095957293,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+160,1,"1:01",1261,1261,"Xavier Johnson missed Three Point Jumper.",39,24,15,0.98134436685407,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+161,1,"1:01",1261,1261,"Kadeem Allen Defensive Rebound.",39,24,15,0.98134436685407,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+162,1,"0:33",1233,1233,"Kobi Simmons missed Layup.",39,24,15,0.978531129466938,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+163,1,"0:33",1233,1233,"Lucas Siewert Block.",39,24,15,0.978531129466938,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+164,1,"0:33",1233,1233,"Arizona Offensive Rebound.",39,24,15,0.978531129466938,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+165,1,"0:28",1228,1228,"Dusan Ristic missed Layup.",39,24,15,0.982215969952026,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+166,1,"0:28",1228,1228,"Dominique Collier Defensive Rebound.",39,24,15,0.982215969952026,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+167,1,"0:03",1203,1203,"Xavier Johnson made Three Point Jumper.",39,27,12,0.967092591492031,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+168,1,"0:00",1200,1200,"End of 1st half",39,27,12,0.967092591492031,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+169,2,"20:00",1200,1200,"PLAY",39,27,12,0.967092591492031,"Arizona","Colorado",4,3,0,0,11.5,400915615,2017-01-07
+170,2,"20:00",1200,1200,"Arizona alternating possession.",39,27,12,0.967092591492031,"Arizona","Colorado",4,3,0,0,11.5,400915615,2017-01-07
+171,2,"19:45",1185,1185,"Rawle Alkins missed Three Point Jumper.",39,27,12,0.969615781131987,"Arizona","Colorado",4,3,0,0,11.5,400915615,2017-01-07
+172,2,"19:45",1185,1185,"George King Defensive Rebound.",39,27,12,0.969615781131987,"Arizona","Colorado",4,3,0,0,11.5,400915615,2017-01-07
+173,2,"19:19",1159,1159,"Josh Fortune missed Three Point Jumper.",39,27,12,0.965854034864989,"Arizona","Colorado",4,3,0,0,11.5,400915615,2017-01-07
+174,2,"19:19",1159,1159,"Rawle Alkins Defensive Rebound.",39,27,12,0.965854034864989,"Arizona","Colorado",4,3,0,0,11.5,400915615,2017-01-07
+175,2,"18:47",1127,1127,"Kadeem Allen made Three Point Jumper. Assisted by Rawle Alkins.",42,27,15,0.985304654499285,"Arizona","Colorado",4,3,0,0,11.5,400915615,2017-01-07
+176,2,"18:28",1108,1108,"Josh Fortune missed Three Point Jumper.",42,27,15,0.980611538113198,"Arizona","Colorado",4,3,0,0,11.5,400915615,2017-01-07
+177,2,"18:28",1108,1108,"Kadeem Allen Defensive Rebound.",42,27,15,0.980611538113198,"Arizona","Colorado",4,3,0,0,11.5,400915615,2017-01-07
+178,2,"18:20",1100,1100,"Kobi Simmons missed Layup.",42,27,15,0.980611538113198,"Arizona","Colorado",4,3,0,0,11.5,400915615,2017-01-07
+179,2,"18:20",1100,1100,"Josh Fortune Defensive Rebound.",42,27,15,0.980611538113198,"Arizona","Colorado",4,3,0,0,11.5,400915615,2017-01-07
+180,2,"18:15",1095,1095,"Josh Fortune Turnover.",42,27,15,0.982854017415213,"Arizona","Colorado",4,3,0,0,11.5,400915615,2017-01-07
+181,2,"18:02",1082,1082,"Kadeem Allen missed Layup.",42,27,15,0.98412726965433,"Arizona","Colorado",4,3,0,0,11.5,400915615,2017-01-07
+182,2,"18:02",1082,1082,"Derrick White Block.",42,27,15,0.98412726965433,"Arizona","Colorado",4,3,0,0,11.5,400915615,2017-01-07
+183,2,"18:02",1082,1082,"Arizona Offensive Rebound.",42,27,15,0.98412726965433,"Arizona","Colorado",4,3,0,0,11.5,400915615,2017-01-07
+184,2,"17:59",1079,1079,"Lauri Markkanen missed Jumper.",42,27,15,0.980178636028203,"Arizona","Colorado",4,3,0,0,11.5,400915615,2017-01-07
+185,2,"17:59",1079,1079,"Wesley Gordon Block.",42,27,15,0.980178636028203,"Arizona","Colorado",4,3,0,0,11.5,400915615,2017-01-07
+186,2,"17:59",1079,1079,"Parker Jackson-Cartwright Offensive Rebound.",42,27,15,0.980178636028203,"Arizona","Colorado",4,3,0,0,11.5,400915615,2017-01-07
+187,2,"17:51",1071,1071,"Foul on Xavier Johnson.",42,27,15,0.980178636028203,"Arizona","Colorado",4,3,0,0,11.5,400915615,2017-01-07
+188,2,"17:51",1071,1071,"Parker Jackson-Cartwright made Free Throw.",43,27,16,0.983199284405944,"Arizona","Colorado",4,3,0,0,11.5,400915615,2017-01-07
+189,2,"17:51",1071,1071,"Parker Jackson-Cartwright made Free Throw.",44,27,17,0.985766290065459,"Arizona","Colorado",4,3,0,0,11.5,400915615,2017-01-07
+190,2,"17:38",1058,1058,"Xavier Johnson missed Layup.",44,27,17,0.988758426914309,"Arizona","Colorado",4,3,0,0,11.5,400915615,2017-01-07
+191,2,"17:38",1058,1058,"Lauri Markkanen Defensive Rebound.",44,27,17,0.988758426914309,"Arizona","Colorado",4,3,0,0,11.5,400915615,2017-01-07
+192,2,"17:22",1042,1042,"Dusan Ristic made Jumper. Assisted by Rawle Alkins.",46,27,19,0.991750715821794,"Arizona","Colorado",4,3,0,0,11.5,400915615,2017-01-07
+193,2,"17:15",1035,1035,"Colorado  Timeout",46,27,19,0.990487916642658,"Arizona","Colorado",4,2,0,1,11.5,400915615,2017-01-07
+194,2,"16:55",1015,1015,"Wesley Gordon made Layup.",46,29,17,0.987171597693582,"Arizona","Colorado",4,2,0,1,11.5,400915615,2017-01-07
+195,2,"16:34",994,994,"Lauri Markkanen made Jumper. Assisted by Parker Jackson-Cartwright.",48,29,19,0.991017467505247,"Arizona","Colorado",4,2,0,1,11.5,400915615,2017-01-07
+196,2,"16:34",994,994,"Foul on Josh Fortune.",48,29,19,0.991017467505247,"Arizona","Colorado",4,2,0,1,11.5,400915615,2017-01-07
+197,2,"16:34",994,994,"Lauri Markkanen made Free Throw.",49,29,20,0.992474821676969,"Arizona","Colorado",4,2,0,1,11.5,400915615,2017-01-07
+198,2,"16:21",981,981,"George King missed Three Point Jumper.",49,29,20,0.99506253974044,"Arizona","Colorado",4,2,0,1,11.5,400915615,2017-01-07
+199,2,"16:21",981,981,"Dusan Ristic Defensive Rebound.",49,29,20,0.99506253974044,"Arizona","Colorado",4,2,0,1,11.5,400915615,2017-01-07
+200,2,"16:11",971,971,"Foul on Lauri Markkanen.",49,29,20,0.993329225100215,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+201,2,"16:11",971,971,"Lauri Markkanen Turnover.",49,29,20,0.993329225100215,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+202,2,"15:49",949,949,"Foul on Parker Jackson-Cartwright.",49,29,20,0.994865834447536,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+203,2,"15:49",949,949,"Official TV Timeout",49,29,20,0.994865834447536,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+204,2,"15:32",932,932,"Xavier Johnson made Jumper.",49,31,18,0.991362642372067,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+205,2,"15:13",913,913,"Keanu Pinder Turnover.",49,31,18,0.992799906892293,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+206,2,"15:13",913,913,"Derrick White Steal.",49,31,18,0.992799906892293,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+207,2,"14:59",899,899,"Derrick White made Layup.",49,33,16,0.988157105933829,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+208,2,"14:38",878,878,"Keanu Pinder Turnover.",49,33,16,0.987851098154176,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+209,2,"14:29",869,869,"Dominique Collier missed Three Point Jumper.",49,33,16,0.987093138396698,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+210,2,"14:29",869,869,"Arizona Deadball Team Rebound.",49,33,16,0.987093138396698,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+211,2,"14:28",868,868,"Foul on George King.",49,33,16,0.987093138396698,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+212,2,"14:19",859,859,"Dusan Ristic made Jumper. Assisted by Parker Jackson-Cartwright.",51,33,18,0.993351371197554,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+213,2,"13:47",827,827,"Foul on Chance Comanche.",51,33,18,0.991043730426281,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+214,2,"13:47",827,827,"Xavier Johnson made Free Throw.",51,34,17,0.989208314154354,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+215,2,"13:47",827,827,"Xavier Johnson made Free Throw.",51,35,16,0.987001697677539,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+216,2,"13:40",820,820,"Parker Jackson-Cartwright Turnover.",51,35,16,0.987001697677539,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+217,2,"13:40",820,820,"Derrick White Steal.",51,35,16,0.987001697677539,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+218,2,"13:35",815,815,"Derrick White made Layup. Assisted by Xavier Johnson.",51,37,14,0.982843248952266,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+219,2,"13:21",801,801,"Foul on Derrick White.",51,37,14,0.985377752784945,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+220,2,"13:14",794,794,"Dusan Ristic missed Jumper.",51,37,14,0.986830526452853,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+221,2,"13:14",794,794,"Tory Miller Defensive Rebound.",51,37,14,0.986830526452853,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+222,2,"13:14",794,794,"Foul on Dusan Ristic.",51,37,14,0.986830526452853,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+223,2,"13:00",780,780,"Derrick White Turnover.",51,37,14,0.984320720887644,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+224,2,"12:43",763,763,"Lauri Markkanen made Three Point Jumper. Assisted by Kadeem Allen.",54,37,17,0.993655789899786,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+225,2,"12:30",750,750,"Tory Miller made Dunk. Assisted by Dominique Collier.",54,39,15,0.989404361349089,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+226,2,"12:14",734,734,"Foul on Wesley Gordon.",54,39,15,0.987117313034151,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+227,2,"12:11",731,731,"Lauri Markkanen made Three Point Jumper. Assisted by Parker Jackson-Cartwright.",57,39,18,0.993151008554642,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+228,2,"11:56",716,716,"Derrick White Turnover.",57,39,18,0.99416671219761,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+229,2,"11:56",716,716,"Kadeem Allen Steal.",57,39,18,0.99416671219761,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+230,2,"11:49",709,709,"Lauri Markkanen missed Layup.",57,39,18,0.993224526771121,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+231,2,"11:49",709,709,"Lauri Markkanen Offensive Rebound.",57,39,18,0.993224526771121,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+232,2,"11:35",695,695,"Kobi Simmons made Jumper.",59,39,20,0.997739437452853,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+233,2,"11:20",680,680,"Wesley Gordon made Jumper.",59,41,18,0.994555851491559,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+234,2,"10:55",655,655,"Lauri Markkanen missed Jumper.",59,41,18,0.995790965086768,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+235,2,"10:55",655,655,"Wesley Gordon Defensive Rebound.",59,41,18,0.995790965086768,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+236,2,"10:44",644,644,"Wesley Gordon made Layup.",59,43,16,0.993234788538827,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+237,2,"10:44",644,644,"Foul on Lauri Markkanen.",59,43,16,0.993234788538827,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+238,2,"10:44",644,644,"Official TV Timeout",59,43,16,0.993234788538827,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+239,2,"10:44",644,644,"Wesley Gordon made Free Throw.",59,44,15,0.991416851871645,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+240,2,"10:17",617,617,"Dusan Ristic missed Jumper.",59,44,15,0.992217661768661,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+241,2,"10:17",617,617,"Tory Miller Defensive Rebound.",59,44,15,0.992217661768661,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+242,2,"10:04",604,604,"Bryce Peters missed Three Point Jumper.",59,44,15,0.992287182695173,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+243,2,"10:04",604,604,"Wesley Gordon Offensive Rebound.",59,44,15,0.992287182695173,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+244,2,"9:52",592,592,"Dominique Collier made Three Point Jumper. Assisted by Tory Miller.",59,47,12,0.981869960978482,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+245,2,"9:29",569,569,"Dusan Ristic made Jumper.",61,47,14,0.992391149120156,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+246,2,"9:12",552,552,"Bryce Peters Turnover.",61,47,14,0.991236439907178,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+247,2,"8:58",538,538,"Kobi Simmons Turnover.",61,47,14,0.994179136118224,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+248,2,"8:50",530,530,"Tory Miller made Layup. Assisted by Dominique Collier.",61,49,12,0.989826504882884,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+249,2,"8:37",517,517,"Rawle Alkins made Layup.",63,49,14,0.991534681430708,"Arizona","Colorado",4,2,0,0,11.5,400915615,2017-01-07
+250,2,"8:34",514,514,"Arizona  Timeout",63,49,14,0.991534681430708,"Arizona","Colorado",3,2,1,0,11.5,400915615,2017-01-07
+251,2,"8:23",503,503,"Foul on Dusan Ristic.",63,49,14,0.992617808916499,"Arizona","Colorado",3,2,1,0,11.5,400915615,2017-01-07
+252,2,"8:23",503,503,"Dominique Collier made Free Throw.",63,50,13,0.990343293079542,"Arizona","Colorado",3,2,1,0,11.5,400915615,2017-01-07
+253,2,"8:23",503,503,"Dominique Collier made Free Throw.",63,51,12,0.98737689161032,"Arizona","Colorado",3,2,1,0,11.5,400915615,2017-01-07
+254,2,"7:59",479,479,"Chance Comanche made Layup.",65,51,14,0.99424181531946,"Arizona","Colorado",3,2,1,0,11.5,400915615,2017-01-07
+255,2,"7:34",454,454,"Josh Fortune missed Three Point Jumper.",65,51,14,0.995345958136636,"Arizona","Colorado",3,2,1,0,11.5,400915615,2017-01-07
+256,2,"7:34",454,454,"Dusan Ristic Defensive Rebound.",65,51,14,0.995345958136636,"Arizona","Colorado",3,2,1,0,11.5,400915615,2017-01-07
+257,2,"7:14",434,434,"Rawle Alkins missed Jumper.",65,51,14,0.995516449197741,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+258,2,"7:14",434,434,"Wesley Gordon Defensive Rebound.",65,51,14,0.995516449197741,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+259,2,"7:06",426,426,"Dominique Collier missed Three Point Jumper.",65,51,14,0.993820011635097,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+260,2,"7:06",426,426,"Kadeem Allen Defensive Rebound.",65,51,14,0.993820011635097,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+261,2,"6:47",407,407,"Chance Comanche Turnover.",65,51,14,0.996140246202205,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+262,2,"6:47",407,407,"Dominique Collier Steal.",65,51,14,0.996140246202205,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+263,2,"6:40",400,400,"Josh Fortune Turnover.",65,51,14,0.996140246202205,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+264,2,"6:40",400,400,"Kobi Simmons Steal.",65,51,14,0.996140246202205,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+265,2,"6:34",394,394,"Kobi Simmons made Jumper. Assisted by Kadeem Allen.",67,51,16,0.997515985847497,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+266,2,"6:29",389,389,"Dominique Collier Turnover.",67,51,16,0.997067627905224,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+267,2,"6:29",389,389,"Foul on Dominique Collier.",67,51,16,0.997067627905224,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+268,2,"6:29",389,389,"Official TV Timeout",67,51,16,0.997067627905224,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+269,2,"6:29",389,389,"Contact Dead Ball Technical Foul on Chance Comanche.",67,51,16,0.997067627905224,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+270,2,"6:29",389,389,"Chance Comanche Turnover.",67,52,15,0.996055820352113,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+271,2,"6:29",389,389,"Dominique Collier missed Free Throw.",67,51,16,0.997067627905224,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+272,2,"6:29",389,389,"Colorado Deadball Team Rebound.",67,51,16,0.997067627905224,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+273,2,"6:29",389,389,"Dominique Collier made Free Throw.",67,52,15,0.996055820352113,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+274,2,"6:19",379,379,"Xavier Johnson made Three Point Jumper. Assisted by Derrick White.",67,55,12,0.99068510472787,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+275,2,"6:01",361,361,"Kobi Simmons Turnover.",67,55,12,0.991637552341863,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+276,2,"6:01",361,361,"Bryce Peters Steal.",67,55,12,0.991637552341863,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+277,2,"5:57",357,357,"Bryce Peters missed Layup.",67,55,12,0.993011899500288,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+278,2,"5:57",357,357,"Rawle Alkins Block.",67,55,12,0.993011899500288,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+279,2,"5:57",357,357,"Parker Jackson-Cartwright Defensive Rebound.",67,55,12,0.993011899500288,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+280,2,"5:38",338,338,"Rawle Alkins missed Layup.",67,55,12,0.994578983055193,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+281,2,"5:38",338,338,"Xavier Johnson Block.",67,55,12,0.994578983055193,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+282,2,"5:38",338,338,"George King Defensive Rebound.",67,55,12,0.994578983055193,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+283,2,"5:29",329,329,"George King missed Layup.",67,55,12,0.991516910095343,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+284,2,"5:29",329,329,"George King Offensive Rebound.",67,55,12,0.991516910095343,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+285,2,"5:23",323,323,"George King made Layup.",67,57,10,0.984223541813193,"Arizona","Colorado",3,2,0,0,11.5,400915615,2017-01-07
+286,2,"5:17",317,317,"Arizona  Timeout",67,57,10,0.989254863980149,"Arizona","Colorado",2,2,1,0,11.5,400915615,2017-01-07
+287,2,"5:12",312,312,"Dusan Ristic Turnover.",67,57,10,0.989254863980149,"Arizona","Colorado",2,2,1,0,11.5,400915615,2017-01-07
+288,2,"5:06",306,306,"Derrick White Turnover.",67,57,10,0.985501981143314,"Arizona","Colorado",2,2,1,0,11.5,400915615,2017-01-07
+289,2,"4:42",282,282,"Lauri Markkanen missed Jumper.",67,57,10,0.987962251031582,"Arizona","Colorado",2,2,1,0,11.5,400915615,2017-01-07
+290,2,"4:42",282,282,"Derrick White Defensive Rebound.",67,57,10,0.987962251031582,"Arizona","Colorado",2,2,1,0,11.5,400915615,2017-01-07
+291,2,"4:28",268,268,"Wesley Gordon made Three Point Jumper. Assisted by Derrick White.",67,60,7,0.970515842084767,"Arizona","Colorado",2,2,1,0,11.5,400915615,2017-01-07
+292,2,"4:00",240,240,"Dusan Ristic missed Jumper.",67,60,7,0.974101354190326,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+293,2,"4:00",240,240,"Arizona Offensive Rebound.",67,60,7,0.974101354190326,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+294,2,"3:58",238,238,"Official TV Timeout",67,60,7,0.974067451204193,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+295,2,"3:56",236,236,"Foul on Bryce Peters.",67,60,7,0.974067451204193,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+296,2,"3:56",236,236,"Kadeem Allen made Free Throw.",68,60,8,0.982566660015797,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+297,2,"3:56",236,236,"Kadeem Allen missed Free Throw.",68,60,8,0.982566660015797,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+298,2,"3:56",236,236,"George King Defensive Rebound.",68,60,8,0.982566660015797,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+299,2,"3:34",214,214,"Xavier Johnson missed Three Point Jumper.",68,60,8,0.986731072527734,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+300,2,"3:34",214,214,"Wesley Gordon Offensive Rebound.",68,60,8,0.986731072527734,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+301,2,"3:27",207,207,"Foul on Rawle Alkins.",68,60,8,0.989872490144837,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+302,2,"3:27",207,207,"Wesley Gordon made Free Throw.",68,61,7,0.984176141985554,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+303,2,"3:27",207,207,"Wesley Gordon made Free Throw.",68,62,6,0.975355577742849,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+304,2,"3:18",198,198,"Foul on Derrick White.",68,62,6,0.967835148081926,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+305,2,"3:18",198,198,"Lauri Markkanen made Free Throw.",69,62,7,0.979610680194074,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+306,2,"3:18",198,198,"Lauri Markkanen missed Free Throw.",69,62,7,0.979610680194074,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+307,2,"3:18",198,198,"Xavier Johnson Defensive Rebound.",69,62,7,0.979610680194074,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+308,2,"3:01",181,181,"Derrick White missed Jumper.",69,62,7,0.983421817938355,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+309,2,"3:01",181,181,"George King Offensive Rebound.",69,62,7,0.983421817938355,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+310,2,"2:54",174,174,"George King made Layup.",69,64,5,0.96308657268419,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+311,2,"2:39",159,159,"Foul on Dominique Collier.",69,64,5,0.967660319898977,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+312,2,"2:39",159,159,"Parker Jackson-Cartwright made Free Throw.",70,64,6,0.980905526288698,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+313,2,"2:39",159,159,"Parker Jackson-Cartwright made Free Throw.",71,64,7,0.988788808316503,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+314,2,"2:18",138,138,"Xavier Johnson made Jumper.",71,66,5,0.970186441199855,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+315,2,"1:56",116,116,"Dusan Ristic made Layup. Assisted by Parker Jackson-Cartwright.",73,66,7,0.992834439215731,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+316,2,"1:41",101,101,"Xavier Johnson Turnover.",73,66,7,0.992563628665232,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+317,2,"1:17",77,77,"Parker Jackson-Cartwright made Jumper.",75,66,9,0.999204770895749,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+318,2,"1:06",66,66,"Dominique Collier missed Three Point Jumper.",75,66,9,0.999022246527213,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+319,2,"1:06",66,66,"George King Offensive Rebound.",75,66,9,0.999022246527213,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+320,2,"1:04",64,64,"Colorado alternating possession.",75,66,9,0.999022246527213,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+321,2,"1:01",61,61,"Xavier Johnson missed Three Point Jumper.",75,66,9,0.999022246527213,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+322,2,"1:01",61,61,"Rawle Alkins Defensive Rebound.",75,66,9,0.999022246527213,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+323,2,"0:58",58,58,"Foul on Dominique Collier.",75,66,9,0.9998556229755,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+324,2,"0:58",58,58,"Rawle Alkins made Free Throw.",76,66,10,0.999939344394815,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+325,2,"0:58",58,58,"Rawle Alkins missed Free Throw.",76,66,10,0.999939344394815,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+326,2,"0:58",58,58,"Wesley Gordon Defensive Rebound.",76,66,10,0.999939344394815,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+327,2,"0:48",48,48,"Wesley Gordon missed Layup.",76,66,10,0.999955336251763,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+328,2,"0:48",48,48,"Lauri Markkanen Defensive Rebound.",76,66,10,0.999955336251763,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+329,2,"0:46",46,46,"Foul on Derrick White.",76,66,10,0.999976241785829,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+330,2,"0:46",46,46,"Lauri Markkanen made Free Throw.",77,66,11,0.999991692236843,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+331,2,"0:46",46,46,"Lauri Markkanen made Free Throw.",78,66,12,0.999997094973777,"Arizona","Colorado",2,2,0,0,11.5,400915615,2017-01-07
+332,2,"0:41",41,41,"Xavier Johnson made Jumper.",78,68,10,0.999949879359527,"Arizona","Colorado",2,2,0,1,11.5,400915615,2017-01-07
+333,2,"0:41",41,41,"Colorado  Timeout",78,68,10,0.999949879359527,"Arizona","Colorado",2,1,0,1,11.5,400915615,2017-01-07
+334,2,"0:35",35,35,"Foul on Dominique Collier.",78,68,10,0.999683068325551,"Arizona","Colorado",2,1,0,1,11.5,400915615,2017-01-07
+335,2,"0:35",35,35,"Lauri Markkanen made Free Throw.",79,68,11,0.999861454108183,"Arizona","Colorado",2,1,0,1,11.5,400915615,2017-01-07
+336,2,"0:35",35,35,"Lauri Markkanen made Free Throw.",80,68,12,0.999939441090931,"Arizona","Colorado",2,1,0,1,11.5,400915615,2017-01-07
+337,2,"0:28",28,28,"Xavier Johnson missed Three Point Jumper.",80,68,12,0.999999505504741,"Arizona","Colorado",2,1,0,1,11.5,400915615,2017-01-07
+338,2,"0:28",28,28,"Kadeem Allen Defensive Rebound.",80,68,12,0.999999505504741,"Arizona","Colorado",2,1,0,1,11.5,400915615,2017-01-07
+339,2,"0:25",25,25,"Foul on Wesley Gordon.",80,68,12,0.999999833648966,"Arizona","Colorado",2,1,0,1,11.5,400915615,2017-01-07
+340,2,"0:25",25,25,"Kadeem Allen made Free Throw.",81,68,13,0.999999953850606,"Arizona","Colorado",2,1,0,1,11.5,400915615,2017-01-07
+341,2,"0:25",25,25,"Kadeem Allen made Free Throw.",82,68,14,0.999999987197156,"Arizona","Colorado",2,1,0,1,11.5,400915615,2017-01-07
+342,2,"0:15",15,15,"Xavier Johnson made Jumper.",82,70,12,0.999999947784749,"Arizona","Colorado",2,1,0,1,11.5,400915615,2017-01-07
+343,2,"0:07",7,7,"Lauri Markkanen missed Dunk.",82,70,12,0.999999997669793,"Arizona","Colorado",2,1,0,1,11.5,400915615,2017-01-07
+344,2,"0:07",7,7,"Dominique Collier Defensive Rebound.",82,70,12,0.999999997669793,"Arizona","Colorado",2,1,0,1,11.5,400915615,2017-01-07
+345,2,"0:03",3,3,"Xavier Johnson made Three Point Jumper. Assisted by Dominique Collier.",82,73,9,0.999999904119575,"Arizona","Colorado",2,1,0,1,11.5,400915615,2017-01-07
+346,2,"0:00",0,0,"End of Game",82,73,9,1,"Arizona","Colorado",2,1,0,1,11.5,400915615,2017-01-07

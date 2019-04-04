@@ -1,0 +1,315 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.834331373184416,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+2,1,"19:48",2388,2388,"Foul on Mike Fleming.",0,0,0,0.830110427792434,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+3,1,"19:43",2383,2383,"Mo Jeffers made Layup. Assisted by Connar Tava.",2,0,2,0.839050876034225,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+4,1,"19:18",2358,2358,"Miles Wright made Jumper.",2,2,0,0.832508605971762,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+5,1,"19:01",2341,2341,"A.J. Turner made Jumper. Assisted by Connar Tava.",4,2,2,0.842951764316578,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+6,1,"18:26",2306,2306,"Mike Fleming missed Three Point Jumper.",4,2,2,0.840007848172387,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+7,1,"18:26",2306,2306,"Connar Tava Defensive Rebound.",4,2,2,0.840007848172387,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+8,1,"18:11",2291,2291,"A.J. Turner missed Layup.",4,2,2,0.849726594119128,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+9,1,"18:11",2291,2291,"Ike Ngwundo Block.",4,2,2,0.849726594119128,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+10,1,"18:09",2289,2289,"Boston College Offensive Rebound.",4,2,2,0.845362832151791,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+11,1,"18:07",2287,2287,"Jerome Robinson made Layup. Assisted by A.J. Turner.",6,2,4,0.87083536156064,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+12,1,"17:48",2268,2268,"Ike Ngwundo missed Layup.",6,2,4,0.886327523301859,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+13,1,"17:48",2268,2268,"Connar Tava Block.",6,2,4,0.886327523301859,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+14,1,"17:47",2267,2267,"Ky Bowman Defensive Rebound.",6,2,4,0.886327523301859,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+15,1,"17:42",2262,2262,"Ky Bowman missed Layup.",6,2,4,0.886327523301859,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+16,1,"17:42",2262,2262,"Ike Ngwundo Block.",6,2,4,0.886327523301859,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+17,1,"17:39",2259,2259,"Ky Bowman Offensive Rebound.",6,2,4,0.865729533048696,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+18,1,"17:29",2249,2249,"Jerome Robinson made Jumper.",8,2,6,0.881702738328584,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+19,1,"17:12",2232,2232,"Wesley Dickinson made Layup. Assisted by Miles Wright.",8,4,4,0.875729803886981,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+20,1,"16:49",2209,2209,"Jerome Robinson missed Jumper.",8,4,4,0.874434558963332,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+21,1,"16:49",2209,2209,"Jerome Robinson Offensive Rebound.",8,4,4,0.874434558963332,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+22,1,"16:44",2204,2204,"A.J. Turner made Three Point Jumper. Assisted by Jerome Robinson.",11,4,7,0.907225596314039,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+23,1,"16:14",2174,2174,"Wesley Dickinson missed Layup.",11,4,7,0.901816503651353,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+24,1,"16:14",2174,2174,"Dartmouth Offensive Rebound.",11,4,7,0.901816503651353,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+25,1,"16:09",2169,2169,"Mike Fleming missed Three Point Jumper.",11,4,7,0.903026725785852,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+26,1,"16:09",2169,2169,"Jerome Robinson Defensive Rebound.",11,4,7,0.903026725785852,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+27,1,"16:01",2161,2161,"A.J. Turner missed Jumper.",11,4,7,0.903026725785852,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+28,1,"16:01",2161,2161,"Evan Boudreaux Defensive Rebound.",11,4,7,0.903026725785852,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+29,1,"15:42",2142,2142,"Evan Boudreaux missed Layup.",11,4,7,0.901851889410379,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+30,1,"15:42",2142,2142,"Connar Tava Defensive Rebound.",11,4,7,0.901851889410379,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+31,1,"15:36",2136,2136,"A.J. Turner Turnover.",11,4,7,0.910284061573689,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+32,1,"15:34",2134,2134,"Ian Sistare Steal.",11,4,7,0.910284061573689,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+33,1,"15:19",2119,2119,"Miles Wright made Three Point Jumper. Assisted by Mike Fleming.",11,7,4,0.878823432331469,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+34,1,"14:48",2088,2088,"Jerome Robinson missed Jumper.",11,7,4,0.867555517139966,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+35,1,"14:48",2088,2088,"Miles Wright Defensive Rebound.",11,7,4,0.867555517139966,"Boston College","Dartmouth",6,6,0,0,8,400915279,2016-12-03
+36,1,"14:40",2080,2080,"Foul on Ky Bowman.",11,7,4,0.867555517139966,"Boston College","Dartmouth",6,6,1,0,8,400915279,2016-12-03
+37,1,"14:40",2080,2080,"Dartmouth  Timeout",11,7,4,0.867555517139966,"Boston College","Dartmouth",5,6,1,0,8,400915279,2016-12-03
+38,1,"14:31",2071,2071,"Miles Wright made Three Point Jumper. Assisted by Ian Sistare.",11,10,1,0.827852048160132,"Boston College","Dartmouth",5,6,1,0,8,400915279,2016-12-03
+39,1,"14:12",2052,2052,"Connar Tava missed Three Point Jumper.",11,10,1,0.833145135654593,"Boston College","Dartmouth",5,6,1,0,8,400915279,2016-12-03
+40,1,"14:12",2052,2052,"Evan Boudreaux Defensive Rebound.",11,10,1,0.833145135654593,"Boston College","Dartmouth",5,6,1,0,8,400915279,2016-12-03
+41,1,"13:53",2033,2033,"Wesley Dickinson missed Layup.",11,10,1,0.838392148921027,"Boston College","Dartmouth",5,6,1,0,8,400915279,2016-12-03
+42,1,"13:53",2033,2033,"Johncarlos Reyes Block.",11,10,1,0.838392148921027,"Boston College","Dartmouth",5,6,1,0,8,400915279,2016-12-03
+43,1,"13:52",2032,2032,"Jordan Chatman Defensive Rebound.",11,10,1,0.838392148921027,"Boston College","Dartmouth",5,6,1,0,8,400915279,2016-12-03
+44,1,"13:48",2028,2028,"Foul on Ian Sistare.",11,10,1,0.826505156230597,"Boston College","Dartmouth",5,6,1,0,8,400915279,2016-12-03
+45,1,"13:41",2021,2021,"Jerome Robinson made Layup.",13,10,3,0.861142055914715,"Boston College","Dartmouth",5,6,1,0,8,400915279,2016-12-03
+46,1,"13:41",2021,2021,"Foul on Ian Sistare.",13,10,3,0.861142055914715,"Boston College","Dartmouth",5,6,1,0,8,400915279,2016-12-03
+47,1,"13:41",2021,2021,"Jerome Robinson made Free Throw.",14,10,4,0.876173522321554,"Boston College","Dartmouth",5,6,1,0,8,400915279,2016-12-03
+48,1,"13:29",2009,2009,"Foul on Connar Tava.",14,10,4,0.863774265816763,"Boston College","Dartmouth",5,6,0,0,8,400915279,2016-12-03
+49,1,"13:27",2007,2007,"Evan Boudreaux missed Three Point Jumper.",14,10,4,0.863774265816763,"Boston College","Dartmouth",5,6,0,0,8,400915279,2016-12-03
+50,1,"13:27",2007,2007,"Boston College Defensive Rebound.",14,10,4,0.863774265816763,"Boston College","Dartmouth",5,6,0,0,8,400915279,2016-12-03
+51,1,"13:06",1986,1986,"Jerome Robinson made Three Point Jumper. Assisted by A.J. Turner.",17,10,7,0.900996964892878,"Boston College","Dartmouth",5,6,0,0,8,400915279,2016-12-03
+52,1,"12:45",1965,1965,"Guilien Smith made Three Point Jumper. Assisted by Mike Fleming.",17,13,4,0.864351913779935,"Boston College","Dartmouth",5,6,0,0,8,400915279,2016-12-03
+53,1,"12:30",1950,1950,"Jerome Robinson Turnover.",17,13,4,0.871129612969882,"Boston College","Dartmouth",5,6,0,0,8,400915279,2016-12-03
+54,1,"12:30",1950,1950,"Foul on Jerome Robinson.",17,13,4,0.871129612969882,"Boston College","Dartmouth",5,6,0,0,8,400915279,2016-12-03
+55,1,"12:21",1941,1941,"Dartmouth  Turnover.",17,13,4,0.870648102646596,"Boston College","Dartmouth",5,6,0,0,8,400915279,2016-12-03
+56,1,"12:10",1930,1930,"Jordan Chatman missed Layup.",17,13,4,0.866352973839398,"Boston College","Dartmouth",5,6,0,0,8,400915279,2016-12-03
+57,1,"12:10",1930,1930,"Evan Boudreaux Defensive Rebound.",17,13,4,0.866352973839398,"Boston College","Dartmouth",5,6,0,0,8,400915279,2016-12-03
+58,1,"12:02",1922,1922,"Evan Boudreaux made Layup.",17,15,2,0.843971388059921,"Boston College","Dartmouth",5,6,0,0,8,400915279,2016-12-03
+59,1,"12:01",1921,1921,"Foul on Mo Jeffers.",17,15,2,0.843971388059921,"Boston College","Dartmouth",5,6,0,0,8,400915279,2016-12-03
+60,1,"12:01",1921,1921,"Evan Boudreaux made Free Throw.",17,16,1,0.826660774977655,"Boston College","Dartmouth",5,6,0,0,8,400915279,2016-12-03
+61,1,"11:48",1908,1908,"Jordan Chatman missed Jumper.",17,16,1,0.822649469126178,"Boston College","Dartmouth",5,6,0,0,8,400915279,2016-12-03
+62,1,"11:48",1908,1908,"Miles Wright Defensive Rebound.",17,16,1,0.822649469126178,"Boston College","Dartmouth",5,6,0,0,8,400915279,2016-12-03
+63,1,"11:39",1899,1899,"Ike Ngwundo missed Jumper.",17,16,1,0.821005646245761,"Boston College","Dartmouth",5,6,0,0,8,400915279,2016-12-03
+64,1,"11:39",1899,1899,"Ty Graves Defensive Rebound.",17,16,1,0.821005646245761,"Boston College","Dartmouth",5,6,0,0,8,400915279,2016-12-03
+65,1,"11:29",1889,1889,"Boston College  Timeout",17,16,1,0.821315801743095,"Boston College","Dartmouth",5,5,0,1,8,400915279,2016-12-03
+66,1,"11:28",1888,1888,"Jerome Robinson missed Three Point Jumper.",17,16,1,0.821315801743095,"Boston College","Dartmouth",5,5,0,1,8,400915279,2016-12-03
+67,1,"11:28",1888,1888,"Dartmouth Defensive Rebound.",17,16,1,0.821315801743095,"Boston College","Dartmouth",5,5,0,1,8,400915279,2016-12-03
+68,1,"10:51",1851,1851,"Dartmouth  Turnover.",17,16,1,0.820238225127647,"Boston College","Dartmouth",5,5,0,1,8,400915279,2016-12-03
+69,1,"10:36",1836,1836,"Mo Jeffers Turnover.",17,16,1,0.815693512680512,"Boston College","Dartmouth",5,5,0,1,8,400915279,2016-12-03
+70,1,"10:35",1835,1835,"Foul on Mo Jeffers.",17,16,1,0.815693512680512,"Boston College","Dartmouth",5,5,0,1,8,400915279,2016-12-03
+71,1,"10:13",1813,1813,"Guilien Smith Turnover.",17,16,1,0.820729686666158,"Boston College","Dartmouth",5,5,0,0,8,400915279,2016-12-03
+72,1,"10:00",1800,1800,"Jerome Robinson made Three Point Jumper. Assisted by A.J. Turner.",20,16,4,0.867801362190926,"Boston College","Dartmouth",5,5,0,0,8,400915279,2016-12-03
+73,1,"9:41",1781,1781,"Evan Boudreaux missed Jumper.",20,16,4,0.857537149330481,"Boston College","Dartmouth",5,5,0,0,8,400915279,2016-12-03
+74,1,"9:41",1781,1781,"Ky Bowman Defensive Rebound.",20,16,4,0.857537149330481,"Boston College","Dartmouth",5,5,0,0,8,400915279,2016-12-03
+75,1,"9:17",1757,1757,"Jerome Robinson missed Three Point Jumper.",20,16,4,0.868028438314508,"Boston College","Dartmouth",5,5,0,0,8,400915279,2016-12-03
+76,1,"9:17",1757,1757,"Taylor Johnson Defensive Rebound.",20,16,4,0.868028438314508,"Boston College","Dartmouth",5,5,0,0,8,400915279,2016-12-03
+77,1,"8:53",1733,1733,"Foul on Jerome Robinson.",20,16,4,0.870010562462219,"Boston College","Dartmouth",5,5,0,0,8,400915279,2016-12-03
+78,1,"8:53",1733,1733,"Guilien Smith made Free Throw.",20,17,3,0.853737542677156,"Boston College","Dartmouth",5,5,0,0,8,400915279,2016-12-03
+79,1,"8:53",1733,1733,"Guilien Smith missed Free Throw.",20,17,3,0.853737542677156,"Boston College","Dartmouth",5,5,0,0,8,400915279,2016-12-03
+80,1,"8:53",1733,1733,"Connar Tava Defensive Rebound.",20,17,3,0.853737542677156,"Boston College","Dartmouth",5,5,0,0,8,400915279,2016-12-03
+81,1,"8:44",1724,1724,"Jordan Chatman made Jumper. Assisted by A.J. Turner.",22,17,5,0.87672807185341,"Boston College","Dartmouth",5,5,0,0,8,400915279,2016-12-03
+82,1,"8:19",1699,1699,"Evan Boudreaux Turnover.",22,17,5,0.885210091730177,"Boston College","Dartmouth",5,5,0,0,8,400915279,2016-12-03
+83,1,"8:16",1696,1696,"Jordan Chatman Steal.",22,17,5,0.885210091730177,"Boston College","Dartmouth",5,5,0,0,8,400915279,2016-12-03
+84,1,"8:14",1694,1694,"Foul on Ian Carter.",22,17,5,0.885210091730177,"Boston College","Dartmouth",5,5,1,0,8,400915279,2016-12-03
+85,1,"8:14",1694,1694,"Dartmouth  Timeout",22,17,5,0.885210091730177,"Boston College","Dartmouth",4,5,1,0,8,400915279,2016-12-03
+86,1,"8:04",1684,1684,"Foul on Wesley Dickinson.",22,17,5,0.892655721322715,"Boston College","Dartmouth",4,5,1,0,8,400915279,2016-12-03
+87,1,"7:49",1669,1669,"Connar Tava Turnover.",22,17,5,0.878489555417883,"Boston College","Dartmouth",4,5,1,0,8,400915279,2016-12-03
+88,1,"7:37",1657,1657,"Evan Boudreaux Turnover.",22,17,5,0.878097333810541,"Boston College","Dartmouth",4,5,1,0,8,400915279,2016-12-03
+89,1,"7:23",1643,1643,"Ty Graves made Layup.",24,17,7,0.910994397171977,"Boston College","Dartmouth",4,5,1,0,8,400915279,2016-12-03
+90,1,"6:59",1619,1619,"Cameron Smith Turnover.",24,17,7,0.900372808013617,"Boston College","Dartmouth",4,5,0,0,8,400915279,2016-12-03
+91,1,"6:58",1618,1618,"Mike Sagay Steal.",24,17,7,0.900372808013617,"Boston College","Dartmouth",4,5,0,0,8,400915279,2016-12-03
+92,1,"6:54",1614,1614,"Mike Sagay made Layup.",26,17,9,0.922931215661897,"Boston College","Dartmouth",4,5,0,0,8,400915279,2016-12-03
+93,1,"6:30",1590,1590,"Evan Boudreaux missed Layup.",26,17,9,0.925725991915143,"Boston College","Dartmouth",4,5,0,0,8,400915279,2016-12-03
+94,1,"6:30",1590,1590,"Wesley Dickinson Offensive Rebound.",26,17,9,0.925725991915143,"Boston College","Dartmouth",4,5,0,0,8,400915279,2016-12-03
+95,1,"6:27",1587,1587,"Wesley Dickinson made Layup.",26,19,7,0.902612217975193,"Boston College","Dartmouth",4,5,0,0,8,400915279,2016-12-03
+96,1,"6:09",1569,1569,"Mike Sagay made Three Point Jumper. Assisted by Johncarlos Reyes.",29,19,10,0.935168859442808,"Boston College","Dartmouth",4,5,0,0,8,400915279,2016-12-03
+97,1,"5:54",1554,1554,"Miles Wright Turnover.",29,19,10,0.934950651012702,"Boston College","Dartmouth",4,5,0,0,8,400915279,2016-12-03
+98,1,"5:42",1542,1542,"Ty Graves made Three Point Jumper. Assisted by Ty Graves.",32,19,13,0.958232233328448,"Boston College","Dartmouth",4,5,0,0,8,400915279,2016-12-03
+99,1,"5:29",1529,1529,"Evan Boudreaux made Three Point Jumper. Assisted by Mike Fleming.",32,22,10,0.936331497622142,"Boston College","Dartmouth",4,5,0,0,8,400915279,2016-12-03
+100,1,"5:13",1513,1513,"Mike Sagay Turnover.",32,22,10,0.944826264609818,"Boston College","Dartmouth",4,5,0,0,8,400915279,2016-12-03
+101,1,"5:12",1512,1512,"Evan Boudreaux Steal.",32,22,10,0.944826264609818,"Boston College","Dartmouth",4,5,0,0,8,400915279,2016-12-03
+102,1,"5:07",1507,1507,"Miles Wright missed Three Point Jumper.",32,22,10,0.937070735242749,"Boston College","Dartmouth",4,5,0,0,8,400915279,2016-12-03
+103,1,"5:07",1507,1507,"Evan Boudreaux Offensive Rebound.",32,22,10,0.937070735242749,"Boston College","Dartmouth",4,5,0,0,8,400915279,2016-12-03
+104,1,"4:36",1476,1476,"Mike Fleming missed Three Point Jumper.",32,22,10,0.947504131061606,"Boston College","Dartmouth",4,5,0,0,8,400915279,2016-12-03
+105,1,"4:36",1476,1476,"Connar Tava Defensive Rebound.",32,22,10,0.947504131061606,"Boston College","Dartmouth",4,5,0,0,8,400915279,2016-12-03
+106,1,"4:21",1461,1461,"Jerome Robinson made Layup. Assisted by Connar Tava.",34,22,12,0.946470315929572,"Boston College","Dartmouth",4,5,0,0,8,400915279,2016-12-03
+107,1,"4:02",1442,1442,"Evan Boudreaux made Three Point Jumper. Assisted by Mike Fleming.",34,25,9,0.937395033219037,"Boston College","Dartmouth",4,5,0,0,8,400915279,2016-12-03
+108,1,"3:45",1425,1425,"Mike Sagay missed Layup.",34,25,9,0.922534782110487,"Boston College","Dartmouth",4,5,0,1,8,400915279,2016-12-03
+109,1,"3:45",1425,1425,"Boston College Offensive Rebound.",34,25,9,0.922534782110487,"Boston College","Dartmouth",4,5,0,1,8,400915279,2016-12-03
+110,1,"3:45",1425,1425,"Foul on Cameron Smith.",34,25,9,0.922534782110487,"Boston College","Dartmouth",4,5,0,1,8,400915279,2016-12-03
+111,1,"3:45",1425,1425,"Boston College  Timeout",34,25,9,0.922534782110487,"Boston College","Dartmouth",4,4,0,1,8,400915279,2016-12-03
+112,1,"3:25",1405,1405,"Ty Graves Turnover.",34,25,9,0.937946817542222,"Boston College","Dartmouth",4,4,0,1,8,400915279,2016-12-03
+113,1,"3:24",1404,1404,"Foul on Ty Graves.",34,25,9,0.937946817542222,"Boston College","Dartmouth",4,4,0,1,8,400915279,2016-12-03
+114,1,"3:06",1386,1386,"Evan Boudreaux made Layup.",34,27,7,0.911057585019917,"Boston College","Dartmouth",4,4,0,1,8,400915279,2016-12-03
+115,1,"2:46",1366,1366,"Ty Graves made Three Point Jumper. Assisted by Jordan Chatman.",37,27,10,0.940567456401619,"Boston College","Dartmouth",4,4,0,1,8,400915279,2016-12-03
+116,1,"2:28",1348,1348,"Foul on Johncarlos Reyes.",37,27,10,0.938685148932989,"Boston College","Dartmouth",4,4,0,0,8,400915279,2016-12-03
+117,1,"2:28",1348,1348,"Evan Boudreaux made Free Throw.",37,28,9,0.928940100302154,"Boston College","Dartmouth",4,4,0,0,8,400915279,2016-12-03
+118,1,"2:28",1348,1348,"Evan Boudreaux made Free Throw.",37,29,8,0.917781886098526,"Boston College","Dartmouth",4,4,0,0,8,400915279,2016-12-03
+119,1,"2:18",1338,1338,"Connar Tava missed Layup.",37,29,8,0.916020995863632,"Boston College","Dartmouth",4,4,0,0,8,400915279,2016-12-03
+120,1,"2:18",1338,1338,"Guilien Smith Defensive Rebound.",37,29,8,0.916020995863632,"Boston College","Dartmouth",4,4,0,0,8,400915279,2016-12-03
+121,1,"2:08",1328,1328,"Brendan Barry missed Three Point Jumper.",37,29,8,0.922211452131206,"Boston College","Dartmouth",4,4,0,0,8,400915279,2016-12-03
+122,1,"2:08",1328,1328,"Miles Wright Offensive Rebound.",37,29,8,0.922211452131206,"Boston College","Dartmouth",4,4,0,0,8,400915279,2016-12-03
+123,1,"2:03",1323,1323,"Miles Wright missed Jumper.",37,29,8,0.922211452131206,"Boston College","Dartmouth",4,4,0,0,8,400915279,2016-12-03
+124,1,"2:03",1323,1323,"Jordan Chatman Defensive Rebound.",37,29,8,0.922211452131206,"Boston College","Dartmouth",4,4,0,0,8,400915279,2016-12-03
+125,1,"1:54",1314,1314,"A.J. Turner missed Three Point Jumper.",37,29,8,0.925002627035939,"Boston College","Dartmouth",4,4,0,0,8,400915279,2016-12-03
+126,1,"1:54",1314,1314,"Taylor Johnson Defensive Rebound.",37,29,8,0.925002627035939,"Boston College","Dartmouth",4,4,0,0,8,400915279,2016-12-03
+127,1,"1:46",1306,1306,"Taylor Johnson missed Layup.",37,29,8,0.91157957177089,"Boston College","Dartmouth",4,4,0,0,8,400915279,2016-12-03
+128,1,"1:46",1306,1306,"Miles Wright Offensive Rebound.",37,29,8,0.91157957177089,"Boston College","Dartmouth",4,4,0,0,8,400915279,2016-12-03
+129,1,"1:43",1303,1303,"Miles Wright made Layup.",37,31,6,0.884815433924894,"Boston College","Dartmouth",4,4,0,0,8,400915279,2016-12-03
+130,1,"1:26",1286,1286,"Ty Graves made Jumper.",39,31,8,0.920310894720211,"Boston College","Dartmouth",4,4,0,0,8,400915279,2016-12-03
+131,1,"1:01",1261,1261,"Miles Wright missed Three Point Jumper.",39,31,8,0.927684932575314,"Boston College","Dartmouth",4,4,0,0,8,400915279,2016-12-03
+132,1,"1:01",1261,1261,"A.J. Turner Defensive Rebound.",39,31,8,0.927684932575314,"Boston College","Dartmouth",4,4,0,0,8,400915279,2016-12-03
+133,1,"0:44",1244,1244,"Jordan Chatman missed Three Point Jumper.",39,31,8,0.920650730625772,"Boston College","Dartmouth",4,4,0,0,8,400915279,2016-12-03
+134,1,"0:44",1244,1244,"Taylor Johnson Defensive Rebound.",39,31,8,0.920650730625772,"Boston College","Dartmouth",4,4,0,0,8,400915279,2016-12-03
+135,1,"0:23",1223,1223,"Taylor Johnson made Jumper.",39,33,6,0.90057736238981,"Boston College","Dartmouth",4,4,0,0,8,400915279,2016-12-03
+136,1,"0:15",1215,1215,"Boston College  Timeout",39,33,6,0.8922497418075,"Boston College","Dartmouth",4,3,0,1,8,400915279,2016-12-03
+137,1,"0:08",1208,1208,"Foul on Mike Fleming.",39,33,6,0.893968536001306,"Boston College","Dartmouth",4,3,0,1,8,400915279,2016-12-03
+138,1,"0:08",1208,1208,"Jerome Robinson made Free Throw.",40,33,7,0.908144370888218,"Boston College","Dartmouth",4,3,0,1,8,400915279,2016-12-03
+139,1,"0:08",1208,1208,"Jerome Robinson made Free Throw.",41,33,8,0.920593316992916,"Boston College","Dartmouth",4,3,0,1,8,400915279,2016-12-03
+140,1,"0:04",1204,1204,"Guilien Smith Turnover.",41,33,8,0.920593316992916,"Boston College","Dartmouth",4,3,0,1,8,400915279,2016-12-03
+141,1,"0:00",1200,1200,"Jerome Robinson missed Three Point Jumper.",41,33,8,0.920593316992916,"Boston College","Dartmouth",4,3,0,1,8,400915279,2016-12-03
+142,1,"0:00",1200,1200,"Boston College Deadball Team Rebound.",41,33,8,0.920593316992916,"Boston College","Dartmouth",4,3,0,1,8,400915279,2016-12-03
+143,1,"0:00",1200,1200,"End of 1st half",41,33,8,0.920593316992916,"Boston College","Dartmouth",4,3,0,1,8,400915279,2016-12-03
+144,2,"20:00",1200,1200,"PLAY",41,33,8,0.920593316992916,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+145,2,"19:34",1174,1174,"Miles Wright missed Layup.",41,33,8,0.919409987494445,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+146,2,"19:34",1174,1174,"Miles Wright Offensive Rebound.",41,33,8,0.919409987494445,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+147,2,"19:31",1171,1171,"Miles Wright made Layup.",41,35,6,0.891411309791914,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+148,2,"19:15",1155,1155,"Ky Bowman made Layup.",43,35,8,0.918467007312822,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+149,2,"18:42",1122,1122,"Evan Boudreaux Turnover.",43,35,8,0.931902685915249,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+150,2,"18:24",1104,1104,"Ky Bowman made Layup.",45,35,10,0.943309421646126,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+151,2,"17:58",1078,1078,"Mike Fleming missed Three Point Jumper.",45,35,10,0.942575985558092,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+152,2,"17:58",1078,1078,"Evan Boudreaux Offensive Rebound.",45,35,10,0.942575985558092,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+153,2,"17:54",1074,1074,"Evan Boudreaux made Jumper.",45,37,8,0.921385491391978,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+154,2,"17:35",1055,1055,"Mo Jeffers missed Jumper.",45,37,8,0.929752129398272,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+155,2,"17:35",1055,1055,"Evan Boudreaux Defensive Rebound.",45,37,8,0.929752129398272,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+156,2,"17:22",1042,1042,"Miles Wright missed Layup.",45,37,8,0.929997247036613,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+157,2,"17:22",1042,1042,"A.J. Turner Defensive Rebound.",45,37,8,0.929997247036613,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+158,2,"17:15",1035,1035,"Foul on Ike Ngwundo.",45,37,8,0.922611528455457,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+159,2,"17:09",1029,1029,"Jerome Robinson made Three Point Jumper. Assisted by Ky Bowman.",48,37,11,0.956974373669,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+160,2,"16:44",1004,1004,"Foul on Mo Jeffers.",48,37,11,0.955048791659949,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+161,2,"16:44",1004,1004,"Ike Ngwundo made Free Throw.",48,38,10,0.946342781096097,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+162,2,"16:44",1004,1004,"Ike Ngwundo made Free Throw.",48,39,9,0.936063498280534,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+163,2,"16:35",995,995,"Jerome Robinson made Layup. Assisted by Ky Bowman.",50,39,11,0.952770270059972,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+164,2,"16:24",984,984,"Evan Boudreaux made Three Point Jumper. Assisted by Mike Fleming.",50,42,8,0.93496580775114,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+165,2,"16:10",970,970,"Ky Bowman Turnover.",50,42,8,0.929212814834148,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+166,2,"16:09",969,969,"Evan Boudreaux Steal.",50,42,8,0.922487311748553,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+167,2,"16:06",966,966,"Foul on Connar Tava.",50,42,8,0.922487311748553,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+168,2,"16:06",966,966,"Evan Boudreaux missed Free Throw.",50,42,8,0.922487311748553,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+169,2,"16:06",966,966,"Dartmouth Deadball Team Rebound.",50,42,8,0.922487311748553,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+170,2,"16:06",966,966,"Evan Boudreaux made Free Throw.",50,43,7,0.908137445440816,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+171,2,"15:54",954,954,"Jerome Robinson made Three Point Jumper. Assisted by Ty Graves.",53,43,10,0.953079463051862,"Boston College","Dartmouth",4,3,0,0,8,400915279,2016-12-03
+172,2,"15:33",933,933,"Foul on Mike Sagay.",53,43,10,0.950507927038872,"Boston College","Dartmouth",4,3,1,0,8,400915279,2016-12-03
+173,2,"15:33",933,933,"Dartmouth  Timeout",53,43,10,0.950507927038872,"Boston College","Dartmouth",3,3,1,0,8,400915279,2016-12-03
+174,2,"15:32",932,932,"Evan Boudreaux made Layup. Assisted by Miles Wright.",53,45,8,0.929064919604669,"Boston College","Dartmouth",3,3,1,0,8,400915279,2016-12-03
+175,2,"15:15",915,915,"Johncarlos Reyes made Layup. Assisted by Jerome Robinson.",55,45,10,0.955952002202744,"Boston College","Dartmouth",3,3,1,0,8,400915279,2016-12-03
+176,2,"14:57",897,897,"Evan Boudreaux made Layup. Assisted by Ian Sistare.",55,47,8,0.932097295013831,"Boston College","Dartmouth",3,3,1,0,8,400915279,2016-12-03
+177,2,"14:40",880,880,"Ty Graves made Three Point Jumper. Assisted by Johncarlos Reyes.",58,47,11,0.94826202385838,"Boston College","Dartmouth",3,3,1,0,8,400915279,2016-12-03
+178,2,"14:26",866,866,"Ian Sistare missed Three Point Jumper.",58,47,11,0.9576097376152,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+179,2,"14:26",866,866,"Johncarlos Reyes Defensive Rebound.",58,47,11,0.9576097376152,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+180,2,"14:14",854,854,"Foul on Miles Wright.",58,47,11,0.96527303430912,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+181,2,"14:14",854,854,"Mike Sagay missed Free Throw.",58,47,11,0.96527303430912,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+182,2,"14:14",854,854,"Boston College Deadball Team Rebound.",58,47,11,0.96527303430912,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+183,2,"14:14",854,854,"Mike Sagay missed Free Throw.",58,47,11,0.96527303430912,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+184,2,"14:14",854,854,"Miles Wright Defensive Rebound.",58,47,11,0.96527303430912,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+185,2,"14:00",840,840,"Foul on Jerome Robinson.",58,47,11,0.965199441226278,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+186,2,"14:00",840,840,"Guilien Smith made Free Throw.",58,48,10,0.957316946717477,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+187,2,"14:00",840,840,"Guilien Smith made Free Throw.",58,49,9,0.947745689030272,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+188,2,"14:00",840,840,"Guilien Smith made Free Throw.",58,50,8,0.936171271421975,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+189,2,"13:47",827,827,"Mike Sagay missed Jumper.",58,50,8,0.928321173190309,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+190,2,"13:47",827,827,"Ike Ngwundo Block.",58,50,8,0.928321173190309,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+191,2,"13:42",822,822,"Guilien Smith Defensive Rebound.",58,50,8,0.928321173190309,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+192,2,"13:37",817,817,"Wesley Dickinson Turnover.",58,50,8,0.930686771321313,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+193,2,"13:23",803,803,"Foul on Wesley Dickinson.",58,50,8,0.938957555464169,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+194,2,"13:19",799,799,"Mike Sagay missed Layup.",58,50,8,0.939798779860673,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+195,2,"13:19",799,799,"Johncarlos Reyes Offensive Rebound.",58,50,8,0.939798779860673,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+196,2,"13:14",794,794,"Johncarlos Reyes made Layup.",60,50,10,0.960361321160792,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+197,2,"12:50",770,770,"Evan Boudreaux missed Jumper.",60,50,10,0.957424004185298,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+198,2,"12:50",770,770,"Ty Graves Defensive Rebound.",60,50,10,0.957424004185298,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+199,2,"12:41",761,761,"Foul on Guilien Smith.",60,50,10,0.963817591822308,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+200,2,"12:41",761,761,"Jordan Chatman made Free Throw.",61,50,11,0.970637509010736,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+201,2,"12:41",761,761,"Jordan Chatman made Free Throw.",62,50,12,0.976203697479916,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+202,2,"12:20",740,740,"Taylor Johnson made Three Point Jumper. Assisted by Guilien Smith.",62,53,9,0.951255501092482,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+203,2,"12:00",720,720,"Jordan Chatman made Three Point Jumper. Assisted by Ty Graves.",65,53,12,0.97501190671028,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+204,2,"11:44",704,704,"Taylor Johnson made Three Point Jumper. Assisted by Mike Fleming.",65,56,9,0.945781381868233,"Boston College","Dartmouth",3,3,0,0,8,400915279,2016-12-03
+205,2,"11:30",690,690,"Foul on Wesley Dickinson.",65,56,9,0.961187360878828,"Boston College","Dartmouth",3,3,0,1,8,400915279,2016-12-03
+206,2,"11:30",690,690,"Boston College  Timeout",65,56,9,0.961187360878828,"Boston College","Dartmouth",3,2,0,1,8,400915279,2016-12-03
+207,2,"11:22",682,682,"Mo Jeffers made Layup. Assisted by Ky Bowman.",67,56,11,0.967786288009133,"Boston College","Dartmouth",3,2,0,1,8,400915279,2016-12-03
+208,2,"11:02",662,662,"Brendan Barry missed Layup.",67,56,11,0.969406711803153,"Boston College","Dartmouth",3,2,0,1,8,400915279,2016-12-03
+209,2,"11:02",662,662,"A.J. Turner Defensive Rebound.",67,56,11,0.969406711803153,"Boston College","Dartmouth",3,2,0,1,8,400915279,2016-12-03
+210,2,"10:55",655,655,"Jordan Chatman made Three Point Jumper. Assisted by A.J. Turner.",70,56,14,0.986546451928231,"Boston College","Dartmouth",3,2,0,1,8,400915279,2016-12-03
+211,2,"10:38",638,638,"Foul on Jordan Chatman.",70,56,14,0.984162783610505,"Boston College","Dartmouth",3,2,0,1,8,400915279,2016-12-03
+212,2,"10:16",616,616,"Miles Wright Turnover.",70,56,14,0.987569341086653,"Boston College","Dartmouth",3,2,0,0,8,400915279,2016-12-03
+213,2,"9:47",587,587,"Connar Tava made Layup.",72,56,16,0.991108804312155,"Boston College","Dartmouth",3,2,0,0,8,400915279,2016-12-03
+214,2,"9:31",571,571,"Evan Boudreaux missed Three Point Jumper.",72,56,16,0.993615454025218,"Boston College","Dartmouth",3,2,0,0,8,400915279,2016-12-03
+215,2,"9:31",571,571,"Jerome Robinson Defensive Rebound.",72,56,16,0.993615454025218,"Boston College","Dartmouth",3,2,0,0,8,400915279,2016-12-03
+216,2,"9:21",561,561,"Foul on Evan Boudreaux.",72,56,16,0.994213941896654,"Boston College","Dartmouth",3,2,0,0,8,400915279,2016-12-03
+217,2,"9:21",561,561,"Connar Tava made Free Throw.",73,56,17,0.995523639142825,"Boston College","Dartmouth",3,2,0,0,8,400915279,2016-12-03
+218,2,"9:21",561,561,"Connar Tava made Free Throw.",74,56,18,0.996537913538988,"Boston College","Dartmouth",3,2,0,0,8,400915279,2016-12-03
+219,2,"9:16",556,556,"Mo Jeffers made Layup. Assisted by A.J. Turner.",76,56,20,0.997695176029216,"Boston College","Dartmouth",3,2,0,0,8,400915279,2016-12-03
+220,2,"8:58",538,538,"Foul on Jordan Chatman.",76,56,20,0.998661788769236,"Boston College","Dartmouth",3,2,0,0,8,400915279,2016-12-03
+221,2,"8:39",519,519,"Cameron Smith missed Three Point Jumper.",76,56,20,0.997968890590163,"Boston College","Dartmouth",3,2,0,0,8,400915279,2016-12-03
+222,2,"8:39",519,519,"Johncarlos Reyes Defensive Rebound.",76,56,20,0.997968890590163,"Boston College","Dartmouth",3,2,0,0,8,400915279,2016-12-03
+223,2,"8:32",512,512,"Ky Bowman Turnover.",76,56,20,0.997968890590163,"Boston College","Dartmouth",3,2,0,0,8,400915279,2016-12-03
+224,2,"8:15",495,495,"Cameron Smith Turnover.",76,56,20,0.998224113489433,"Boston College","Dartmouth",3,2,0,0,8,400915279,2016-12-03
+225,2,"8:15",495,495,"Foul on Cameron Smith.",76,56,20,0.998224113489433,"Boston College","Dartmouth",3,2,0,0,8,400915279,2016-12-03
+226,2,"7:52",472,472,"Foul on Ike Ngwundo.",76,56,20,0.998752444559238,"Boston College","Dartmouth",3,2,0,1,8,400915279,2016-12-03
+227,2,"7:52",472,472,"Boston College  Timeout",76,56,20,0.998752444559238,"Boston College","Dartmouth",3,1,0,1,8,400915279,2016-12-03
+228,2,"7:52",472,472,"A.J. Turner made Free Throw.",77,56,21,0.999067184033122,"Boston College","Dartmouth",3,1,0,1,8,400915279,2016-12-03
+229,2,"7:52",472,472,"A.J. Turner made Free Throw.",78,56,22,0.999302574919115,"Boston College","Dartmouth",3,1,0,1,8,400915279,2016-12-03
+230,2,"7:41",461,461,"Guilien Smith Turnover.",78,56,22,0.999121948066273,"Boston College","Dartmouth",3,1,0,1,8,400915279,2016-12-03
+231,2,"7:40",460,460,"Jerome Robinson Steal.",78,56,22,0.999121948066273,"Boston College","Dartmouth",3,1,0,1,8,400915279,2016-12-03
+232,2,"7:39",459,459,"Jerome Robinson Turnover.",78,56,22,0.999555528407592,"Boston College","Dartmouth",3,1,0,1,8,400915279,2016-12-03
+233,2,"7:36",456,456,"Guilien Smith Steal.",78,56,22,0.999555528407592,"Boston College","Dartmouth",3,1,0,1,8,400915279,2016-12-03
+234,2,"7:33",453,453,"Guilien Smith made Jumper.",78,58,20,0.999162377665995,"Boston College","Dartmouth",3,1,0,1,8,400915279,2016-12-03
+235,2,"7:15",435,435,"Jerome Robinson missed Layup.",78,58,20,0.999127990306748,"Boston College","Dartmouth",3,1,0,1,8,400915279,2016-12-03
+236,2,"7:15",435,435,"Mike Fleming Defensive Rebound.",78,58,20,0.999127990306748,"Boston College","Dartmouth",3,1,0,1,8,400915279,2016-12-03
+237,2,"7:09",429,429,"Ike Ngwundo Turnover.",78,58,20,0.998740876473871,"Boston College","Dartmouth",3,1,0,1,8,400915279,2016-12-03
+238,2,"6:56",416,416,"Boston College  Turnover.",78,58,20,0.99893739925379,"Boston College","Dartmouth",3,1,0,1,8,400915279,2016-12-03
+239,2,"6:41",401,401,"Ian Carter Turnover.",78,58,20,0.999352110163756,"Boston College","Dartmouth",3,1,0,0,8,400915279,2016-12-03
+240,2,"6:39",399,399,"Jerome Robinson Steal.",78,58,20,0.999143746042781,"Boston College","Dartmouth",3,1,0,0,8,400915279,2016-12-03
+241,2,"6:30",390,390,"Mike Sagay Turnover.",78,58,20,0.999143746042781,"Boston College","Dartmouth",3,1,0,0,8,400915279,2016-12-03
+242,2,"6:29",389,389,"Taylor Johnson Steal.",78,58,20,0.998898250308827,"Boston College","Dartmouth",3,1,0,0,8,400915279,2016-12-03
+243,2,"6:21",381,381,"Foul on Ty Graves.",78,58,20,0.998898250308827,"Boston College","Dartmouth",3,1,0,0,8,400915279,2016-12-03
+244,2,"6:21",381,381,"Ian Carter missed Free Throw.",78,58,20,0.998898250308827,"Boston College","Dartmouth",3,1,0,0,8,400915279,2016-12-03
+245,2,"6:21",381,381,"Dartmouth Deadball Team Rebound.",78,58,20,0.998898250308827,"Boston College","Dartmouth",3,1,0,0,8,400915279,2016-12-03
+246,2,"6:21",381,381,"Ian Carter made Free Throw.",78,59,19,0.998517154976447,"Boston College","Dartmouth",3,1,0,0,8,400915279,2016-12-03
+247,2,"6:09",369,369,"Mike Sagay missed Three Point Jumper.",78,59,19,0.998955905329355,"Boston College","Dartmouth",3,1,0,0,8,400915279,2016-12-03
+248,2,"6:09",369,369,"Guilien Smith Defensive Rebound.",78,59,19,0.998955905329355,"Boston College","Dartmouth",3,1,0,0,8,400915279,2016-12-03
+249,2,"6:01",361,361,"Foul on Mike Sagay.",78,59,19,0.998955905329355,"Boston College","Dartmouth",3,1,0,0,8,400915279,2016-12-03
+250,2,"6:01",361,361,"Taylor Johnson made Free Throw.",78,60,18,0.998558640818386,"Boston College","Dartmouth",3,1,0,0,8,400915279,2016-12-03
+251,2,"6:01",361,361,"Taylor Johnson made Free Throw.",78,61,17,0.998010523333507,"Boston College","Dartmouth",3,1,0,0,8,400915279,2016-12-03
+252,2,"5:46",346,346,"Mo Jeffers made Jumper. Assisted by Ty Graves.",80,61,19,0.999085467921542,"Boston College","Dartmouth",3,1,0,0,8,400915279,2016-12-03
+253,2,"5:35",335,335,"Taylor Johnson Turnover.",80,61,19,0.999457931951132,"Boston College","Dartmouth",3,1,0,0,8,400915279,2016-12-03
+254,2,"5:35",335,335,"Foul on Taylor Johnson.",80,61,19,0.999457931951132,"Boston College","Dartmouth",3,1,0,0,8,400915279,2016-12-03
+255,2,"5:23",323,323,"Jordan Chatman made Jumper. Assisted by Jerome Robinson.",82,61,21,0.999375486035302,"Boston College","Dartmouth",3,1,0,0,8,400915279,2016-12-03
+256,2,"5:08",308,308,"Guilien Smith missed Three Point Jumper.",82,61,21,0.999585853721941,"Boston College","Dartmouth",3,1,0,0,8,400915279,2016-12-03
+257,2,"5:08",308,308,"Mo Jeffers Defensive Rebound.",82,61,21,0.999585853721941,"Boston College","Dartmouth",3,1,0,0,8,400915279,2016-12-03
+258,2,"5:00",300,300,"Connar Tava made Layup. Assisted by Jerome Robinson.",84,61,23,0.999789573560032,"Boston College","Dartmouth",3,1,0,0,8,400915279,2016-12-03
+259,2,"4:52",292,292,"Dartmouth  Timeout",84,61,23,0.999831085106484,"Boston College","Dartmouth",2,1,1,0,8,400915279,2016-12-03
+260,2,"4:42",282,282,"Mike Fleming Turnover.",84,61,23,0.999851307928003,"Boston College","Dartmouth",2,1,1,0,8,400915279,2016-12-03
+261,2,"4:41",281,281,"Jerome Robinson Steal.",84,61,23,0.999851307928003,"Boston College","Dartmouth",2,1,1,0,8,400915279,2016-12-03
+262,2,"4:33",273,273,"Jerome Robinson Turnover.",84,61,23,0.999932324914934,"Boston College","Dartmouth",2,1,1,0,8,400915279,2016-12-03
+263,2,"4:33",273,273,"Foul on Connar Tava.",84,61,23,0.999932324914934,"Boston College","Dartmouth",2,1,1,0,8,400915279,2016-12-03
+264,2,"4:33",273,273,"Taylor Johnson made Free Throw.",84,62,22,0.999900207282008,"Boston College","Dartmouth",2,1,1,0,8,400915279,2016-12-03
+265,2,"4:33",273,273,"Taylor Johnson made Free Throw.",84,63,21,0.999852849320368,"Boston College","Dartmouth",2,1,1,0,8,400915279,2016-12-03
+266,2,"4:22",262,262,"Ty Graves missed Layup.",84,63,21,0.999806971474692,"Boston College","Dartmouth",2,1,1,0,8,400915279,2016-12-03
+267,2,"4:22",262,262,"Wesley Dickinson Defensive Rebound.",84,63,21,0.999806971474692,"Boston College","Dartmouth",2,1,1,0,8,400915279,2016-12-03
+268,2,"4:09",249,249,"Taylor Johnson made Jumper.",84,65,19,0.99975751894965,"Boston College","Dartmouth",2,1,1,0,8,400915279,2016-12-03
+269,2,"3:57",237,237,"Jerome Robinson made Layup.",86,65,21,0.999895557918246,"Boston College","Dartmouth",2,1,1,0,8,400915279,2016-12-03
+270,2,"3:38",218,218,"Miles Wright Turnover.",86,65,21,0.999947598442313,"Boston College","Dartmouth",2,1,0,0,8,400915279,2016-12-03
+271,2,"3:37",217,217,"Boston College  Timeout",86,65,21,0.999947598442313,"Boston College","Dartmouth",2,0,0,1,8,400915279,2016-12-03
+272,2,"3:28",208,208,"A.J. Turner missed Layup.",86,65,21,0.999965757400151,"Boston College","Dartmouth",2,0,0,1,8,400915279,2016-12-03
+273,2,"3:28",208,208,"Wesley Dickinson Block.",86,65,21,0.999965757400151,"Boston College","Dartmouth",2,0,0,1,8,400915279,2016-12-03
+274,2,"3:26",206,206,"Ian Sistare Defensive Rebound.",86,65,21,0.999965757400151,"Boston College","Dartmouth",2,0,0,1,8,400915279,2016-12-03
+275,2,"3:16",196,196,"Ian Sistare Turnover.",86,65,21,0.999966646751225,"Boston College","Dartmouth",2,0,0,1,8,400915279,2016-12-03
+276,2,"3:16",196,196,"Foul on Ian Sistare.",86,65,21,0.999966646751225,"Boston College","Dartmouth",2,0,0,1,8,400915279,2016-12-03
+277,2,"2:57",177,177,"Ervins Meznieks missed Three Point Jumper.",86,65,21,0.999983303629851,"Boston College","Dartmouth",2,0,0,1,8,400915279,2016-12-03
+278,2,"2:57",177,177,"Ian Sistare Defensive Rebound.",86,65,21,0.999983303629851,"Boston College","Dartmouth",2,0,0,1,8,400915279,2016-12-03
+279,2,"2:47",167,167,"Ian Sistare missed Layup.",86,65,21,0.999991143490733,"Boston College","Dartmouth",2,0,0,1,8,400915279,2016-12-03
+280,2,"2:47",167,167,"Johncarlos Reyes Block.",86,65,21,0.999991143490733,"Boston College","Dartmouth",2,0,0,1,8,400915279,2016-12-03
+281,2,"2:46",166,166,"Ian Sistare Offensive Rebound.",86,65,21,0.999991143490733,"Boston College","Dartmouth",2,0,0,1,8,400915279,2016-12-03
+282,2,"2:35",155,155,"Mike Fleming missed Three Point Jumper.",86,65,21,0.99999337307528,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+283,2,"2:35",155,155,"Johncarlos Reyes Defensive Rebound.",86,65,21,0.99999337307528,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+284,2,"2:26",146,146,"Ervins Meznieks missed Three Point Jumper.",86,65,21,0.999989958143315,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+285,2,"2:26",146,146,"Wesley Dickinson Defensive Rebound.",86,65,21,0.999989958143315,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+286,2,"2:09",129,129,"Ian Sistare missed Three Point Jumper.",86,65,21,0.999995788040929,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+287,2,"2:09",129,129,"Mike Sagay Defensive Rebound.",86,65,21,0.999995788040929,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+288,2,"1:59",119,119,"Ervins Meznieks Turnover.",86,65,21,0.999998191515498,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+289,2,"1:58",118,118,"Ian Sistare Steal.",86,65,21,0.999998191515498,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+290,2,"1:52",112,112,"Ian Carter missed Three Point Jumper.",86,65,21,0.999998191515498,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+291,2,"1:52",112,112,"Will Emery Offensive Rebound.",86,65,21,0.999998191515498,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+292,2,"1:47",107,107,"Foul on Ervins Meznieks.",86,65,21,0.99999852120628,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+293,2,"1:47",107,107,"Will Emery made Free Throw.",86,66,20,0.999997253603303,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+294,2,"1:47",107,107,"Will Emery made Free Throw.",86,67,19,0.999994899432883,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+295,2,"1:30",90,90,"Ky Bowman made Layup.",88,67,21,0.999998780824915,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+296,2,"1:11",71,71,"Ian Carter missed Layup.",88,67,21,0.999999867075251,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+297,2,"1:11",71,71,"Ian Sistare Offensive Rebound.",88,67,21,0.999999867075251,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+298,2,"1:08",68,68,"James Foye missed Three Point Jumper.",88,67,21,0.999999857817653,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+299,2,"1:08",68,68,"Ky Bowman Defensive Rebound.",88,67,21,0.999999857817653,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+300,2,"0:58",58,58,"Ty Graves missed Jumper.",88,67,21,0.999999994997727,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+301,2,"0:58",58,58,"Ian Carter Defensive Rebound.",88,67,21,0.999999994997727,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+302,2,"0:51",51,51,"Foul on Ervins Meznieks.",88,67,21,0.999999996686946,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+303,2,"0:51",51,51,"Will Emery missed Free Throw.",88,67,21,0.999999996686946,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+304,2,"0:51",51,51,"Dartmouth Deadball Team Rebound.",88,67,21,0.999999996686946,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+305,2,"0:51",51,51,"Will Emery made Free Throw.",88,68,20,0.999999991874041,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+306,2,"0:42",42,42,"Gordon Gehan missed Three Point Jumper.",88,68,20,0.999999984859939,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+307,2,"0:42",42,42,"Ian Sistare Defensive Rebound.",88,68,20,0.999999984859939,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+308,2,"0:33",33,33,"Ian Carter Turnover.",88,68,20,0.999999999899226,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+309,2,"0:20",20,20,"Gordon Gehan missed Jumper.",88,68,20,0.999999999999996,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+310,2,"0:20",20,20,"Ian Sistare Defensive Rebound.",88,68,20,0.999999999999996,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+311,2,"0:12",12,12,"Ian Sistare missed Jumper.",88,68,20,0.99999999999744,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+312,2,"0:12",12,12,"Brendan Barry Offensive Rebound.",88,68,20,0.99999999999744,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+313,2,"0:10",10,10,"Brendan Barry made Layup.",88,70,18,0.999999999999863,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03
+314,2,"0:00",0,0,"End of Game",88,70,18,1,"Boston College","Dartmouth",2,0,0,0,8,400915279,2016-12-03

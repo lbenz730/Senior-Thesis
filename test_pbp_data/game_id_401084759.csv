@@ -1,0 +1,330 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","play_length","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2700,"PLAY",0,0,0,25,0.200338400078883,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+2,1,"19:35",2375,2675,"Curran Scott Turnover.",0,0,0,1,0.225608375040711,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+3,1,"19:34",2374,2674,"Tre Scott Steal.",0,0,0,6,0.225608375040711,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+4,1,"19:28",2368,2668,"Foul on Curran Scott.",0,0,0,0,0.21952519933,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+5,1,"19:28",2368,2668,"Tre Scott made Free Throw.",0,1,-1,0,0.213835920880692,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+6,1,"19:28",2368,2668,"Tre Scott made Free Throw.",0,2,-2,15,0.208254744546085,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+7,1,"19:13",2353,2653,"Martins Igbanu Turnover.",0,2,-2,2,0.197943385210241,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+8,1,"19:11",2351,2651,"Nysier Brooks Steal.",0,2,-2,21,0.197943385210241,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+9,1,"18:50",2330,2630,"Keith Williams Turnover.",0,2,-2,25,0.190112851702477,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+10,1,"18:25",2305,2605,"Sterling Taplin missed Jumper.",0,2,-2,0,0.190078573707857,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+11,1,"18:25",2305,2605,"Tre Scott Defensive Rebound.",0,2,-2,20,0.190078573707857,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+12,1,"18:05",2285,2585,"Keith Williams missed Three Point Jumper.",0,2,-2,0,0.184760310054257,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+13,1,"18:05",2285,2585,"Nysier Brooks Offensive Rebound.",0,2,-2,13,0.184760310054257,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+14,1,"17:52",2272,2572,"Tre Scott made Layup.",0,4,-4,11,0.163145188769656,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+15,1,"17:41",2261,2561,"DaQuan Jeffries made Three Point Jumper. Assisted by Sterling Taplin.",3,4,-1,24,0.200457774255331,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+16,1,"17:17",2237,2537,"Jarron Cumberland missed Three Point Jumper.",3,4,-1,0,0.20778686310782,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+17,1,"17:17",2237,2537,"Lawson Korita Defensive Rebound.",3,4,-1,17,0.20778686310782,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+18,1,"17:00",2220,2520,"Lawson Korita missed Jumper.",3,4,-1,0,0.209195547839656,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+19,1,"17:00",2220,2520,"Keith Williams Defensive Rebound.",3,4,-1,13,0.209195547839656,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+20,1,"16:47",2207,2507,"Tre Scott Turnover.",3,4,-1,25,0.212719502436952,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+21,1,"16:22",2182,2482,"Lawson Korita missed Three Point Jumper.",3,4,-1,0,0.211735906240821,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+22,1,"16:22",2182,2482,"Curran Scott Offensive Rebound.",3,4,-1,16,0.211735906240821,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+23,1,"16:06",2166,2466,"Lawson Korita made Jumper.",5,4,1,32,0.251744859679959,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+24,1,"15:34",2134,2434,"Nysier Brooks made Jumper.",5,6,-1,15,0.204888079516338,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+25,1,"15:19",2119,2419,"DaQuan Jeffries Turnover.",5,6,-1,2,0.19289667611571,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+26,1,"15:17",2117,2417,"Trevor Moore Steal.",5,6,-1,5,0.19289667611571,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+27,1,"15:12",2112,2412,"Trevor Moore missed Three Point Jumper.",5,6,-1,0,0.19289667611571,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+28,1,"15:12",2112,2412,"Cincinnati Offensive Rebound.",5,6,-1,2,0.19289667611571,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+29,1,"15:10",2110,2410,"Foul on Martins Igbanu.",5,6,-1,0,0.19289667611571,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+30,1,"15:10",2110,2410,"Official TV Timeout",5,6,-1,11,0.19289667611571,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+31,1,"14:59",2099,2399,"Cane Broome missed Three Point Jumper.",5,6,-1,0,0.214257321995578,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+32,1,"14:59",2099,2399,"Tulsa Defensive Rebound.",5,6,-1,13,0.214257321995578,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+33,1,"14:46",2086,2386,"Elijah Joiner Turnover.",5,6,-1,21,0.224594319795558,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+34,1,"14:25",2065,2365,"Jarron Cumberland missed Jumper.",5,6,-1,0,0.203927830251355,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+35,1,"14:25",2065,2365,"Martins Igbanu Defensive Rebound.",5,6,-1,9,0.203927830251355,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+36,1,"14:16",2056,2356,"Lawson Korita missed Three Point Jumper.",5,6,-1,0,0.18926513766522,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+37,1,"14:16",2056,2356,"Keith Williams Defensive Rebound.",5,6,-1,11,0.18926513766522,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+38,1,"14:05",2045,2345,"Keith Williams made Layup.",5,8,-3,16,0.171285069683277,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+39,1,"13:49",2029,2329,"Sterling Taplin missed Three Point Jumper.",5,8,-3,0,0.161702382891184,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+40,1,"13:49",2029,2329,"Keith Williams Defensive Rebound.",5,8,-3,26,0.161702382891184,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+41,1,"13:23",2003,2303,"Keith Williams made Three Point Jumper. Assisted by Cane Broome.",5,11,-6,15,0.133884471411645,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+42,1,"13:08",1988,2288,"Jeriah Horne Turnover.",5,11,-6,2,0.127175925599758,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+43,1,"13:06",1986,2286,"Eliel Nsoseme Steal.",5,11,-6,6,0.127175925599758,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+44,1,"13:00",1980,2280,"Keith Williams missed Three Point Jumper.",5,11,-6,0,0.127175925599758,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+45,1,"13:00",1980,2280,"Elijah Joiner Defensive Rebound.",5,11,-6,12,0.127175925599758,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+46,1,"12:48",1968,2268,"Jeriah Horne missed Three Point Jumper.",5,11,-6,0,0.136912158889359,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+47,1,"12:48",1968,2268,"Martins Igbanu Offensive Rebound.",5,11,-6,9,0.136912158889359,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+48,1,"12:39",1959,2259,"Foul on Cane Broome.",5,11,-6,0,0.136263488236734,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+49,1,"12:39",1959,2259,"Martins Igbanu missed Free Throw.",5,11,-6,0,0.136263488236734,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+50,1,"12:39",1959,2259,"Tulsa Deadball Team Rebound.",5,11,-6,0,0.136263488236734,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+51,1,"12:39",1959,2259,"Martins Igbanu made Free Throw.",6,11,-5,18,0.151660734009026,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+52,1,"12:21",1941,2241,"Trevor Moore made Three Point Jumper. Assisted by Cane Broome.",6,14,-8,14,0.100331701881519,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+53,1,"12:07",1927,2227,"Foul on Trevor Moore.",6,14,-8,11,0.0900728407189914,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+54,1,"11:56",1916,2216,"Curran Scott made Three Point Jumper. Assisted by Simon Falokun.",9,14,-5,32,0.150863603251847,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+55,1,"11:24",1884,2184,"Nysier Brooks missed Jumper.",9,14,-5,0,0.134690603283149,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+56,1,"11:24",1884,2184,"Simon Falokun Defensive Rebound.",9,14,-5,8,0.134690603283149,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+57,1,"11:16",1876,2176,"Foul on Keith Williams.",9,14,-5,0,0.143280838742126,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+58,1,"11:16",1876,2176,"Official TV Timeout",9,14,-5,6,0.143280838742126,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+59,1,"11:10",1870,2170,"Chris Barnes missed Jumper.",9,14,-5,0,0.143280838742126,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+60,1,"11:10",1870,2170,"Cincinnati Defensive Rebound.",9,14,-5,31,0.143280838742126,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+61,1,"10:39",1839,2139,"Justin Jenifer Turnover.",9,14,-5,12,0.151754751603849,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+62,1,"10:27",1827,2127,"DaQuan Jeffries Turnover.",9,14,-5,1,0.154970036544868,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+63,1,"10:26",1826,2126,"Justin Jenifer Steal.",9,14,-5,3,0.154970036544868,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+64,1,"10:23",1823,2123,"Justin Jenifer missed Layup.",9,14,-5,0,0.154970036544868,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+65,1,"10:23",1823,2123,"Rashawn Fredericks Offensive Rebound.",9,14,-5,3,0.154970036544868,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+66,1,"10:20",1820,2120,"Keith Williams made Jumper.",9,16,-7,28,0.125994632612044,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+67,1,"9:52",1792,2092,"DaQuan Jeffries Turnover.",9,16,-7,16,0.11424896950095,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+68,1,"9:36",1776,2076,"Keith Williams missed Layup.",9,16,-7,0,0.113319409667897,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+69,1,"9:36",1776,2076,"Curran Scott Defensive Rebound.",9,16,-7,7,0.113319409667897,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+70,1,"9:29",1769,2069,"Curran Scott missed Layup.",9,16,-7,0,0.109689471345453,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+71,1,"9:29",1769,2069,"Rashawn Fredericks Defensive Rebound.",9,16,-7,13,0.109689471345453,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+72,1,"9:16",1756,2056,"Jarron Cumberland made Layup.",9,18,-9,0,0.0695541028697372,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+73,1,"9:16",1756,2056,"Foul on DaQuan Jeffries.",9,18,-9,0,0.0695541028697372,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+74,1,"9:16",1756,2056,"Jarron Cumberland made Free Throw.",9,19,-10,25,0.0610146840957513,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+75,1,"8:51",1731,2031,"Foul on Jarron Cumberland.",9,19,-10,0,0.0759655475501186,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+76,1,"8:51",1731,2031,"Technical Foul on DaQuan Jeffries.",9,19,-10,0,0.0759655475501186,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+77,1,"8:51",1731,2031,"Technical Foul on Jarron Cumberland.",9,19,-10,0,0.0759655475501186,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+78,1,"8:51",1731,2031,"Foul on DaQuan Jeffries.",9,19,-10,0,0.0759655475501186,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+79,1,"8:51",1731,2031,"Foul on Jarron Cumberland.",9,19,-10,0,0.0759655475501186,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+80,1,"8:51",1731,2031,"DaQuan Jeffries made Free Throw.",10,19,-9,0,0.0861451218160837,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+81,1,"8:51",1731,2031,"DaQuan Jeffries made Free Throw.",11,19,-8,23,0.097544785952998,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+82,1,"8:28",1708,2008,"Keith Williams made Jumper.",11,21,-10,18,0.0798907196714763,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+83,1,"8:10",1690,1990,"Foul on Tre Scott.",11,21,-10,2,0.0798852906531117,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+84,1,"8:08",1688,1988,"Sterling Taplin missed Three Point Jumper.",11,21,-10,0,0.0673815210578486,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+85,1,"8:08",1688,1988,"Jeriah Horne Offensive Rebound.",11,21,-10,12,0.0673815210578486,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+86,1,"7:56",1676,1976,"Curran Scott Turnover.",11,21,-10,2,0.0764213644635947,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+87,1,"7:54",1674,1974,"Cane Broome Steal.",11,21,-10,13,0.0764213644635947,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+88,1,"7:41",1661,1961,"Trevor Moore missed Three Point Jumper.",11,21,-10,0,0.0825057432933908,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+89,1,"7:41",1661,1961,"Curran Scott Defensive Rebound.",11,21,-10,8,0.0825057432933908,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+90,1,"7:33",1653,1953,"Elijah Joiner Turnover.",11,21,-10,1,0.0868129146787015,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+91,1,"7:32",1652,1952,"Trevor Moore Steal.",11,21,-10,22,0.0868129146787015,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+92,1,"7:10",1630,1930,"Cane Broome missed Three Point Jumper.",11,21,-10,0,0.0886937606803541,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+93,1,"7:10",1630,1930,"Elijah Joiner Defensive Rebound.",11,21,-10,18,0.0886937606803541,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+94,1,"6:52",1612,1912,"Foul on Trevor Moore.",11,21,-10,0,0.0742291803975501,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+95,1,"6:52",1612,1912,"Official TV Timeout",11,21,-10,0,0.0742291803975501,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+96,1,"6:52",1612,1912,"Martins Igbanu missed Free Throw.",11,21,-10,0,0.0742291803975501,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+97,1,"6:52",1612,1912,"Tulsa Deadball Team Rebound.",11,21,-10,0,0.0742291803975501,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+98,1,"6:52",1612,1912,"Martins Igbanu made Free Throw.",12,21,-9,28,0.0844992857560577,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+99,1,"6:24",1584,1884,"Foul on Curran Scott.",12,21,-9,9,0.0836245977980903,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+100,1,"6:15",1575,1875,"Tre Scott Turnover.",12,21,-9,2,0.0788465470468348,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+101,1,"6:13",1573,1873,"Sterling Taplin Steal.",12,21,-9,6,0.0788465470468348,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+102,1,"6:07",1567,1867,"Jeriah Horne made Three Point Jumper. Assisted by Lawson Korita.",15,21,-6,16,0.120582310260719,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+103,1,"5:51",1551,1851,"Rashawn Fredericks missed Layup.",15,21,-6,0,0.126090665017736,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+104,1,"5:51",1551,1851,"Martins Igbanu Block.",15,21,-6,1,0.126090665017736,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+105,1,"5:50",1550,1850,"Elijah Joiner Defensive Rebound.",15,21,-6,12,0.126090665017736,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+106,1,"5:38",1538,1838,"Martins Igbanu missed Layup.",15,21,-6,0,0.128723339254368,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+107,1,"5:38",1538,1838,"Eliel Nsoseme Defensive Rebound.",15,21,-6,22,0.128723339254368,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+108,1,"5:16",1516,1816,"Tre Scott made Jumper. Assisted by Cane Broome.",15,23,-8,17,0.101736731757932,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+109,1,"4:59",1499,1799,"Jeriah Horne made Jumper. Assisted by Elijah Joiner.",17,23,-6,32,0.144070114182331,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+110,1,"4:27",1467,1767,"Cane Broome missed Jumper.",17,23,-6,0,0.154822037961809,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+111,1,"4:27",1467,1767,"Jeriah Horne Defensive Rebound.",17,23,-6,9,0.154822037961809,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+112,1,"4:18",1458,1758,"Foul on Cane Broome.",17,23,-6,0,0.119180673180338,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+113,1,"4:18",1458,1758,"Elijah Joiner made Free Throw.",18,23,-5,0,0.135547220154545,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+114,1,"4:18",1458,1758,"Elijah Joiner made Free Throw.",19,23,-4,0,0.153768946724227,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+115,1,"4:18",1458,1758,"Elijah Joiner made Free Throw.",20,23,-3,22,0.173947328361202,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+116,1,"3:56",1436,1736,"Justin Jenifer missed Jumper.",20,23,-3,0,0.204008485180285,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+117,1,"3:56",1436,1736,"Jeriah Horne Defensive Rebound.",20,23,-3,9,0.204008485180285,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+118,1,"3:47",1427,1727,"Lawson Korita missed Layup.",20,23,-3,0,0.189764504367768,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+119,1,"3:47",1427,1727,"Logan Johnson Block.",20,23,-3,1,0.189764504367768,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+120,1,"3:46",1426,1726,"Tre Scott Defensive Rebound.",20,23,-3,10,0.189764504367768,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+121,1,"3:36",1416,1716,"Foul on Simon Falokun.",20,23,-3,0,0.191081983297442,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+122,1,"3:36",1416,1716,"Official TV Timeout",20,23,-3,20,0.191081983297442,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+123,1,"3:16",1396,1696,"Tre Scott made Layup.",20,25,-5,27,0.125688865507185,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+124,1,"2:49",1369,1669,"Martins Igbanu made Jumper.",22,25,-3,26,0.188665614046601,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+125,1,"2:23",1343,1643,"Logan Johnson missed Three Point Jumper.",22,25,-3,0,0.19115949548822,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+126,1,"2:23",1343,1643,"Jeriah Horne Defensive Rebound.",22,25,-3,14,0.19115949548822,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+127,1,"2:09",1329,1629,"Lawson Korita missed Jumper.",22,25,-3,0,0.186242507999057,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+128,1,"2:09",1329,1629,"Martins Igbanu Offensive Rebound.",22,25,-3,2,0.186242507999057,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+129,1,"2:07",1327,1627,"Foul on Nysier Brooks.",22,25,-3,0,0.186242507999057,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+130,1,"2:07",1327,1627,"Martins Igbanu made Free Throw.",23,25,-2,0,0.211316595986843,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+131,1,"2:07",1327,1627,"Martins Igbanu missed Free Throw.",23,25,-2,0,0.211316595986843,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+132,1,"2:07",1327,1627,"Eliel Nsoseme Defensive Rebound.",23,25,-2,12,0.211316595986843,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+133,1,"1:55",1315,1615,"Justin Jenifer missed Three Point Jumper.",23,25,-2,0,0.23212311505503,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+134,1,"1:55",1315,1615,"Lawson Korita Defensive Rebound.",23,25,-2,20,0.23212311505503,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+135,1,"1:35",1295,1595,"Sterling Taplin missed Layup.",23,25,-2,0,0.246570126567374,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+136,1,"1:35",1295,1595,"Eliel Nsoseme Defensive Rebound.",23,25,-2,22,0.246570126567374,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+137,1,"1:13",1273,1573,"Keith Williams made Three Point Jumper. Assisted by Justin Jenifer.",23,28,-5,31,0.139978220426217,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+138,1,"0:42",1242,1542,"Sterling Taplin made Three Point Jumper. Assisted by Elijah Joiner.",26,28,-2,14,0.211917075244945,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+139,1,"0:28",1228,1528,"Cincinnati  Timeout",26,28,-2,14,0.220738540313351,"Tulsa","Cincinnati",3,4,1,0,-7,"401084759",2019-01-10
+140,1,"0:14",1214,1514,"Trevor Moore missed Three Point Jumper.",26,28,-2,0,0.21734309380767,"Tulsa","Cincinnati",3,4,1,0,-7,"401084759",2019-01-10
+141,1,"0:14",1214,1514,"Elijah Joiner Defensive Rebound.",26,28,-2,9,0.21734309380767,"Tulsa","Cincinnati",3,4,1,0,-7,"401084759",2019-01-10
+142,1,"0:05",1205,1505,"Sterling Taplin Turnover.",26,28,-2,2,0.216207647250903,"Tulsa","Cincinnati",3,4,1,0,-7,"401084759",2019-01-10
+143,1,"0:03",1203,1503,"Keith Williams Steal.",26,28,-2,3,0.216207647250903,"Tulsa","Cincinnati",3,4,1,0,-7,"401084759",2019-01-10
+144,1,"0:00",1200,1500,"Keith Williams missed Jumper.",26,28,-2,0,0.216207647250903,"Tulsa","Cincinnati",3,4,1,0,-7,"401084759",2019-01-10
+145,1,"0:00",1200,1500,"Tulsa Defensive Rebound.",26,28,-2,0,0.216207647250903,"Tulsa","Cincinnati",3,4,1,0,-7,"401084759",2019-01-10
+146,1,"0:00",1200,1500,"End of 1st half",26,28,-2,0,0.216207647250903,"Tulsa","Cincinnati",3,4,1,0,-7,"401084759",2019-01-10
+147,2,"20:00",1200,1500,"PLAY",26,28,-2,14,0.216207647250903,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+148,2,"19:46",1186,1486,"Foul on Sterling Taplin.",26,28,-2,22,0.212347955180966,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+149,2,"19:24",1164,1464,"Cincinnati  Turnover.",26,28,-2,13,0.19437861675873,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+150,2,"19:11",1151,1451,"Sterling Taplin Turnover.",26,28,-2,2,0.231672376178498,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+151,2,"19:09",1149,1449,"Nysier Brooks Steal.",26,28,-2,18,0.231862198582862,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+152,2,"18:51",1131,1431,"Jarron Cumberland missed Jumper.",26,28,-2,0,0.219851437302932,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+153,2,"18:51",1131,1431,"Lawson Korita Defensive Rebound.",26,28,-2,23,0.219851437302932,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+154,2,"18:28",1108,1408,"Curran Scott missed Jumper.",26,28,-2,0,0.214641132688623,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+155,2,"18:28",1108,1408,"Tre Scott Defensive Rebound.",26,28,-2,30,0.214641132688623,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+156,2,"17:58",1078,1378,"Justin Jenifer made Layup.",26,30,-4,17,0.187213399554265,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+157,2,"17:41",1061,1361,"Curran Scott missed Layup.",26,30,-4,0,0.190955570062329,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+158,2,"17:41",1061,1361,"Nysier Brooks Defensive Rebound.",26,30,-4,19,0.190955570062329,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+159,2,"17:22",1042,1342,"Tre Scott made Jumper. Assisted by Jarron Cumberland.",26,32,-6,26,0.131995488092559,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+160,2,"16:56",1016,1316,"Martins Igbanu Turnover.",26,32,-6,2,0.11335579874175,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+161,2,"16:54",1014,1314,"Nysier Brooks Steal.",26,32,-6,15,0.11335579874175,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+162,2,"16:39",999,1299,"Tre Scott missed Layup.",26,32,-6,0,0.117672680607421,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+163,2,"16:39",999,1299,"Sterling Taplin Defensive Rebound.",26,32,-6,6,0.117672680607421,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+164,2,"16:33",993,1293,"Curran Scott made Three Point Jumper. Assisted by Sterling Taplin.",29,32,-3,27,0.185553465240581,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+165,2,"16:06",966,1266,"Jarron Cumberland missed Three Point Jumper.",29,32,-3,0,0.199867207605029,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+166,2,"16:06",966,1266,"Martins Igbanu Defensive Rebound.",29,32,-3,11,0.199867207605029,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+167,2,"15:55",955,1255,"Curran Scott made Three Point Jumper. Assisted by Sterling Taplin.",32,32,0,3,0.268040103638167,"Tulsa","Cincinnati",4,4,0,0,-7,"401084759",2019-01-10
+168,2,"15:52",952,1252,"Cincinnati  Timeout",32,32,0,10,0.268040103638167,"Tulsa","Cincinnati",3,4,1,0,-7,"401084759",2019-01-10
+169,2,"15:42",942,1242,"Cane Broome missed Three Point Jumper.",32,32,0,0,0.308054459264214,"Tulsa","Cincinnati",3,4,1,0,-7,"401084759",2019-01-10
+170,2,"15:42",942,1242,"Sterling Taplin Defensive Rebound.",32,32,0,13,0.308054459264214,"Tulsa","Cincinnati",3,4,1,0,-7,"401084759",2019-01-10
+171,2,"15:29",929,1229,"Jeriah Horne made Jumper. Assisted by Lawson Korita.",34,32,2,23,0.369723937380806,"Tulsa","Cincinnati",3,4,1,0,-7,"401084759",2019-01-10
+172,2,"15:06",906,1206,"Jarron Cumberland Turnover.",34,32,2,0,0.393862112574767,"Tulsa","Cincinnati",3,4,1,0,-7,"401084759",2019-01-10
+173,2,"15:06",906,1206,"Official TV Timeout",34,32,2,24,0.393862112574767,"Tulsa","Cincinnati",3,4,1,0,-7,"401084759",2019-01-10
+174,2,"14:42",882,1182,"Sterling Taplin Turnover.",34,32,2,29,0.378725202475589,"Tulsa","Cincinnati",3,4,0,0,-7,"401084759",2019-01-10
+175,2,"14:13",853,1153,"Foul on Sterling Taplin.",34,32,2,2,0.420349864867397,"Tulsa","Cincinnati",3,4,0,0,-7,"401084759",2019-01-10
+176,2,"14:11",851,1151,"Cane Broome made Free Throw.",34,33,1,0,0.371343241849652,"Tulsa","Cincinnati",3,4,0,0,-7,"401084759",2019-01-10
+177,2,"14:11",851,1151,"Cane Broome made Free Throw.",34,34,0,19,0.324848132449652,"Tulsa","Cincinnati",3,4,0,0,-7,"401084759",2019-01-10
+178,2,"13:52",832,1132,"Jeriah Horne made Three Point Jumper. Assisted by Martins Igbanu.",37,34,3,21,0.422168670045583,"Tulsa","Cincinnati",3,4,0,0,-7,"401084759",2019-01-10
+179,2,"13:31",811,1111,"Rashawn Fredericks missed Three Point Jumper.",37,34,3,0,0.403880848572762,"Tulsa","Cincinnati",3,4,0,0,-7,"401084759",2019-01-10
+180,2,"13:31",811,1111,"Keith Williams Offensive Rebound.",37,34,3,3,0.403880848572762,"Tulsa","Cincinnati",3,4,0,0,-7,"401084759",2019-01-10
+181,2,"13:28",808,1108,"Foul on Jeriah Horne.",37,34,3,21,0.457672215811473,"Tulsa","Cincinnati",3,4,0,0,-7,"401084759",2019-01-10
+182,2,"13:07",787,1087,"Jarron Cumberland made Jumper.",37,36,1,25,0.350326416082964,"Tulsa","Cincinnati",3,4,0,0,-7,"401084759",2019-01-10
+183,2,"12:42",762,1062,"Foul on Eliel Nsoseme.",37,36,1,15,0.362334253193757,"Tulsa","Cincinnati",3,4,0,0,-7,"401084759",2019-01-10
+184,2,"12:27",747,1047,"Foul on Keith Williams.",37,36,1,17,0.347199521253325,"Tulsa","Cincinnati",3,4,0,0,-7,"401084759",2019-01-10
+185,2,"12:10",730,1030,"Curran Scott missed Jumper.",37,36,1,0,0.391466455487418,"Tulsa","Cincinnati",3,4,0,0,-7,"401084759",2019-01-10
+186,2,"12:10",730,1030,"Cane Broome Defensive Rebound.",37,36,1,21,0.391466455487418,"Tulsa","Cincinnati",3,4,0,0,-7,"401084759",2019-01-10
+187,2,"11:49",709,1009,"Tre Scott missed Jumper.",37,36,1,0,0.398402404109112,"Tulsa","Cincinnati",3,4,0,0,-7,"401084759",2019-01-10
+188,2,"11:49",709,1009,"Curran Scott Defensive Rebound.",37,36,1,16,0.398402404109112,"Tulsa","Cincinnati",3,4,0,0,-7,"401084759",2019-01-10
+189,2,"11:33",693,993,"Sterling Taplin Turnover.",37,36,1,1,0.345518038887424,"Tulsa","Cincinnati",3,4,0,0,-7,"401084759",2019-01-10
+190,2,"11:32",692,992,"Keith Williams Steal.",37,36,1,3,0.345518038887424,"Tulsa","Cincinnati",3,4,0,0,-7,"401084759",2019-01-10
+191,2,"11:29",689,989,"Keith Williams made Dunk. Assisted by Cane Broome.",37,38,-1,5,0.261395434192851,"Tulsa","Cincinnati",3,4,0,0,-7,"401084759",2019-01-10
+192,2,"11:24",684,984,"Tulsa  Timeout",37,38,-1,23,0.261395434192851,"Tulsa","Cincinnati",3,3,0,1,-7,"401084759",2019-01-10
+193,2,"11:01",661,961,"Elijah Joiner made Three Point Jumper. Assisted by DaQuan Jeffries.",40,38,2,13,0.462605612071159,"Tulsa","Cincinnati",3,3,0,1,-7,"401084759",2019-01-10
+194,2,"10:48",648,948,"Jarron Cumberland missed Three Point Jumper.",40,38,2,0,0.45144737035325,"Tulsa","Cincinnati",3,3,0,1,-7,"401084759",2019-01-10
+195,2,"10:48",648,948,"Elijah Joiner Defensive Rebound.",40,38,2,12,0.45144737035325,"Tulsa","Cincinnati",3,3,0,1,-7,"401084759",2019-01-10
+196,2,"10:36",636,936,"Chris Barnes missed Layup.",40,38,2,0,0.458208616410518,"Tulsa","Cincinnati",3,3,0,1,-7,"401084759",2019-01-10
+197,2,"10:36",636,936,"Cane Broome Defensive Rebound.",40,38,2,6,0.458208616410518,"Tulsa","Cincinnati",3,3,0,1,-7,"401084759",2019-01-10
+198,2,"10:30",630,930,"Trevor Moore made Three Point Jumper. Assisted by Cane Broome.",40,41,-1,21,0.293877355166368,"Tulsa","Cincinnati",3,3,0,1,-7,"401084759",2019-01-10
+199,2,"10:09",609,909,"Lawson Korita missed Jumper.",40,41,-1,0,0.273719654315492,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+200,2,"10:09",609,909,"Nysier Brooks Block.",40,41,-1,0,0.273719654315492,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+201,2,"10:09",609,909,"Tulsa Offensive Rebound.",40,41,-1,11,0.273719654315492,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+202,2,"9:58",598,898,"Elijah Joiner missed Three Point Jumper.",40,41,-1,0,0.28347611533466,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+203,2,"9:58",598,898,"DaQuan Jeffries Offensive Rebound.",40,41,-1,2,0.28347611533466,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+204,2,"9:56",596,896,"Tulsa  Turnover.",40,41,-1,21,0.28347611533466,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+205,2,"9:35",575,875,"Jarron Cumberland missed Jumper.",40,41,-1,0,0.304340144904636,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+206,2,"9:35",575,875,"Nysier Brooks Offensive Rebound.",40,41,-1,2,0.304340144904636,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+207,2,"9:33",573,873,"Nysier Brooks missed Layup.",40,41,-1,0,0.304340144904636,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+208,2,"9:33",573,873,"DaQuan Jeffries Defensive Rebound.",40,41,-1,8,0.304340144904636,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+209,2,"9:25",565,865,"DaQuan Jeffries made Three Point Jumper. Assisted by Lawson Korita.",43,41,2,33,0.444422522799909,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+210,2,"8:52",532,832,"Cane Broome missed Three Point Jumper.",43,41,2,0,0.496838391069694,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+211,2,"8:52",532,832,"Nysier Brooks Offensive Rebound.",43,41,2,22,0.496838391069694,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+212,2,"8:30",510,810,"Jarron Cumberland made Three Point Jumper. Assisted by Nysier Brooks.",43,44,-1,29,0.295156598259563,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+213,2,"8:01",481,781,"Elijah Joiner made Three Point Jumper. Assisted by Lawson Korita.",46,44,2,30,0.477998482291639,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+214,2,"7:31",451,751,"Jarron Cumberland missed Three Point Jumper.",46,44,2,0,0.508615545424545,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+215,2,"7:31",451,751,"Lawson Korita Defensive Rebound.",46,44,2,11,0.508615545424545,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+216,2,"7:20",440,740,"Elijah Joiner missed Three Point Jumper.",46,44,2,0,0.516688503473409,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+217,2,"7:20",440,740,"Jarron Cumberland Defensive Rebound.",46,44,2,4,0.516688503473409,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+218,2,"7:16",436,736,"Foul on DaQuan Jeffries.",46,44,2,15,0.502171877422244,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+219,2,"7:01",421,721,"Jarron Cumberland Turnover.",46,44,2,0,0.487578550966117,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+220,2,"7:01",421,721,"Foul on Jarron Cumberland.",46,44,2,26,0.487578550966117,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+221,2,"6:35",395,695,"Foul on Keith Williams.",46,44,2,8,0.528056373080702,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+222,2,"6:27",387,687,"Martins Igbanu Turnover.",46,44,2,0,0.4814326890372,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+223,2,"6:27",387,687,"Trevor Moore Steal.",46,44,2,0,0.4814326890372,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+224,2,"6:27",387,687,"Foul on Martins Igbanu.",46,44,2,10,0.4814326890372,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+225,2,"6:17",377,677,"Jarron Cumberland missed Three Point Jumper.",46,44,2,0,0.483605708144514,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+226,2,"6:17",377,677,"Sterling Taplin Defensive Rebound.",46,44,2,21,0.483605708144514,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+227,2,"5:56",356,656,"Curran Scott Turnover.",46,44,2,0,0.465580676386298,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+228,2,"5:56",356,656,"Cane Broome Steal.",46,44,2,4,0.465580676386298,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+229,2,"5:52",352,652,"Cane Broome made Layup.",46,46,0,19,0.306095485246072,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+230,2,"5:33",333,633,"Martins Igbanu Turnover.",46,46,0,2,0.380106751276551,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+231,2,"5:31",331,631,"Keith Williams Steal.",46,46,0,4,0.380106751276551,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+232,2,"5:27",327,627,"Cane Broome Turnover.",46,46,0,0,0.322956474217846,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+233,2,"5:27",327,627,"Curran Scott Steal.",46,46,0,22,0.322956474217846,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+234,2,"5:05",305,605,"Lawson Korita made Three Point Jumper. Assisted by Elijah Joiner.",49,46,3,27,0.635584742889266,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+235,2,"4:38",278,578,"Eliel Nsoseme missed Layup.",49,46,3,0,0.621021630247428,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+236,2,"4:38",278,578,"Tre Scott Offensive Rebound.",49,46,3,4,0.621021630247428,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+237,2,"4:34",274,574,"Keith Williams missed Three Point Jumper.",49,46,3,0,0.621021630247428,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+238,2,"4:34",274,574,"DaQuan Jeffries Defensive Rebound.",49,46,3,10,0.621021630247428,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+239,2,"4:24",264,564,"Lawson Korita made Three Point Jumper. Assisted by DaQuan Jeffries.",52,46,6,10,0.849547117176903,"Tulsa","Cincinnati",3,3,0,0,-7,"401084759",2019-01-10
+240,2,"4:14",254,554,"Cincinnati  Timeout",52,46,6,11,0.895601410124876,"Tulsa","Cincinnati",2,3,1,0,-7,"401084759",2019-01-10
+241,2,"4:03",243,543,"Jarron Cumberland missed Layup.",52,46,6,0,0.872068231661706,"Tulsa","Cincinnati",2,3,1,0,-7,"401084759",2019-01-10
+242,2,"4:03",243,543,"DaQuan Jeffries Block.",52,46,6,1,0.872068231661706,"Tulsa","Cincinnati",2,3,1,0,-7,"401084759",2019-01-10
+243,2,"4:02",242,542,"Trevor Moore Offensive Rebound.",52,46,6,4,0.872068231661706,"Tulsa","Cincinnati",2,3,1,0,-7,"401084759",2019-01-10
+244,2,"3:58",238,538,"Trevor Moore missed Three Point Jumper.",52,46,6,0,0.886127670805058,"Tulsa","Cincinnati",2,3,1,0,-7,"401084759",2019-01-10
+245,2,"3:58",238,538,"DaQuan Jeffries Defensive Rebound.",52,46,6,28,0.886127670805058,"Tulsa","Cincinnati",2,3,1,0,-7,"401084759",2019-01-10
+246,2,"3:30",210,510,"Elijah Joiner missed Layup.",52,46,6,0,0.888106296761839,"Tulsa","Cincinnati",2,3,1,0,-7,"401084759",2019-01-10
+247,2,"3:30",210,510,"Nysier Brooks Block.",52,46,6,1,0.888106296761839,"Tulsa","Cincinnati",2,3,1,0,-7,"401084759",2019-01-10
+248,2,"3:29",209,509,"Jarron Cumberland Defensive Rebound.",52,46,6,13,0.90093190086558,"Tulsa","Cincinnati",2,3,1,0,-7,"401084759",2019-01-10
+249,2,"3:16",196,496,"Foul on Keith Williams.",52,46,6,0,0.920242366354512,"Tulsa","Cincinnati",2,3,1,0,-7,"401084759",2019-01-10
+250,2,"3:16",196,496,"Keith Williams Turnover.",52,46,6,4,0.920242366354512,"Tulsa","Cincinnati",2,3,1,0,-7,"401084759",2019-01-10
+251,2,"3:12",192,492,"Curran Scott missed Layup.",52,46,6,0,0.920242366354512,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+252,2,"3:12",192,492,"Trevor Moore Defensive Rebound.",52,46,6,16,0.920242366354512,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+253,2,"2:56",176,476,"Cane Broome made Layup.",52,48,4,25,0.838112291634331,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+254,2,"2:31",151,451,"Foul on Jarron Cumberland.",52,48,4,0,0.863235488391096,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+255,2,"2:31",151,451,"DaQuan Jeffries missed Free Throw.",52,48,4,0,0.863235488391096,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+256,2,"2:31",151,451,"Tulsa Deadball Team Rebound.",52,48,4,0,0.863235488391096,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+257,2,"2:31",151,451,"DaQuan Jeffries made Free Throw.",53,48,5,8,0.915515407323369,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+258,2,"2:23",143,443,"Cane Broome made Three Point Jumper.",53,51,2,23,0.573091174120861,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+259,2,"2:00",120,420,"Sterling Taplin made Three Point Jumper. Assisted by Jeriah Horne.",56,51,5,13,0.90965957793443,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+260,2,"1:47",107,407,"Rashawn Fredericks missed Three Point Jumper.",56,51,5,0,0.92552651309119,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+261,2,"1:47",107,407,"Sterling Taplin Defensive Rebound.",56,51,5,31,0.92552651309119,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+262,2,"1:16",76,376,"Foul on Rashawn Fredericks.",56,51,5,0,0.959922900469077,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+263,2,"1:16",76,376,"Sterling Taplin missed Free Throw.",56,51,5,0,0.959922900469077,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+264,2,"1:16",76,376,"Tulsa Deadball Team Rebound.",56,51,5,0,0.959922900469077,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+265,2,"1:16",76,376,"Sterling Taplin made Free Throw.",57,51,6,13,0.980373406885018,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+266,2,"1:03",63,363,"Jarron Cumberland missed Jumper.",57,51,6,0,0.984008892668554,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+267,2,"1:03",63,363,"Tre Scott Offensive Rebound.",57,51,6,3,0.984008892668554,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+268,2,"1:00",60,360,"Cane Broome made Three Point Jumper. Assisted by Tre Scott.",57,54,3,6,0.869081887019595,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+269,2,"0:54",54,354,"Tulsa  Timeout",57,54,3,14,0.863843438423126,"Tulsa","Cincinnati",2,2,0,1,-7,"401084759",2019-01-10
+270,2,"0:40",40,340,"Foul on Keith Williams.",57,54,3,0,0.93888568020395,"Tulsa","Cincinnati",2,2,0,1,-7,"401084759",2019-01-10
+271,2,"0:40",40,340,"DaQuan Jeffries missed Free Throw.",57,54,3,0,0.93888568020395,"Tulsa","Cincinnati",2,2,0,1,-7,"401084759",2019-01-10
+272,2,"0:40",40,340,"Tre Scott Defensive Rebound.",57,54,3,16,0.93888568020395,"Tulsa","Cincinnati",2,2,0,1,-7,"401084759",2019-01-10
+273,2,"0:24",24,324,"Cane Broome made Jumper.",57,56,1,2,0.756596083186852,"Tulsa","Cincinnati",2,2,0,1,-7,"401084759",2019-01-10
+274,2,"0:22",22,322,"Cincinnati  Timeout",57,56,1,2,0.78294842052488,"Tulsa","Cincinnati",1,2,1,1,-7,"401084759",2019-01-10
+275,2,"0:20",20,320,"Lawson Korita Turnover.",57,56,1,1,0.751556081689819,"Tulsa","Cincinnati",1,2,1,1,-7,"401084759",2019-01-10
+276,2,"0:19",19,319,"Tre Scott Steal.",57,56,1,4,0.791579672684551,"Tulsa","Cincinnati",1,2,1,1,-7,"401084759",2019-01-10
+277,2,"0:15",15,315,"Cane Broome missed Three Point Jumper.",57,56,1,0,0.809743721851915,"Tulsa","Cincinnati",1,2,1,1,-7,"401084759",2019-01-10
+278,2,"0:15",15,315,"Jeriah Horne Defensive Rebound.",57,56,1,5,0.809743721851915,"Tulsa","Cincinnati",1,2,1,1,-7,"401084759",2019-01-10
+279,2,"0:10",10,310,"Foul on Rashawn Fredericks.",57,56,1,0,0.917152150415007,"Tulsa","Cincinnati",1,2,1,1,-7,"401084759",2019-01-10
+280,2,"0:10",10,310,"Jeriah Horne made Free Throw.",58,56,2,0,0.982389522451425,"Tulsa","Cincinnati",1,2,1,1,-7,"401084759",2019-01-10
+281,2,"0:10",10,310,"Jeriah Horne missed Free Throw.",58,56,2,0,0.982389522451425,"Tulsa","Cincinnati",1,2,1,1,-7,"401084759",2019-01-10
+282,2,"0:10",10,310,"Tre Scott Defensive Rebound.",58,56,2,5,0.982389522451425,"Tulsa","Cincinnati",1,2,1,1,-7,"401084759",2019-01-10
+283,2,"0:05",5,305,"Foul on Elijah Joiner.",58,56,2,4,0.982389522451425,"Tulsa","Cincinnati",1,2,1,1,-7,"401084759",2019-01-10
+284,2,"0:01",1,301,"Cane Broome made Jumper. Assisted by Jarron Cumberland.",58,58,0,0,0.143471681793956,"Tulsa","Cincinnati",1,2,1,1,-7,"401084759",2019-01-10
+285,2,"0:01",1,301,"DaQuan Jeffries Turnover.",58,58,0,0,0.143471681793956,"Tulsa","Cincinnati",1,2,1,1,-7,"401084759",2019-01-10
+286,2,"0:01",1,301,"Jarron Cumberland Turnover.",58,58,0,0,0.143471681793956,"Tulsa","Cincinnati",1,2,1,1,-7,"401084759",2019-01-10
+287,2,"0:01",1,301,"DaQuan Jeffries Steal.",58,58,0,1,0.143471681793956,"Tulsa","Cincinnati",1,2,1,1,-7,"401084759",2019-01-10
+288,2,"0:00",300,300,"End of 2nd half",58,58,0,0,0.387061992991567,"Tulsa","Cincinnati",1,2,0,0,-7,"401084759",2019-01-10
+289,2,"0:00",300,300,"End of Game",58,59,-1,0,0.310384493624724,"Tulsa","Cincinnati",1,2,0,0,-7,"401084759",2019-01-10
+290,3,"5:00",300,300,"PLAY",58,59,-1,25,0.310384493624724,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+291,3,"4:35",275,275,"DaQuan Jeffries made Three Point Jumper. Assisted by Lawson Korita.",61,58,3,25,0.621021630247428,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+292,3,"4:10",250,250,"Jarron Cumberland made Three Point Jumper. Assisted by Cane Broome.",61,61,0,18,0.406379272677955,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+293,3,"3:52",232,232,"DaQuan Jeffries made Jumper. Assisted by Curran Scott.",63,61,2,19,0.605533313861,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+294,3,"3:33",213,213,"Jarron Cumberland Turnover.",63,61,2,1,0.577946538069742,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+295,3,"3:32",212,212,"Sterling Taplin Steal.",63,61,2,24,0.577946538069742,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+296,3,"3:08",188,188,"Curran Scott missed Layup.",63,61,2,0,0.607969108706381,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+297,3,"3:08",188,188,"Trevor Moore Defensive Rebound.",63,61,2,5,0.607969108706381,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+298,3,"3:03",183,183,"Cane Broome Turnover.",63,61,2,22,0.607969108706381,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+299,3,"2:41",161,161,"Lawson Korita missed Layup.",63,61,2,0,0.611826790144772,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+300,3,"2:41",161,161,"Nysier Brooks Block.",63,61,2,2,0.611826790144772,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+301,3,"2:39",159,159,"Tre Scott Defensive Rebound.",63,61,2,2,0.681667353898512,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+302,3,"2:37",157,157,"Jarron Cumberland made Layup.",63,63,0,0,0.420788544231946,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+303,3,"2:37",157,157,"Foul on DaQuan Jeffries.",63,63,0,0,0.420788544231946,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+304,3,"2:37",157,157,"Jarron Cumberland made Free Throw.",63,64,-1,22,0.297333449550916,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+305,3,"2:15",135,135,"DaQuan Jeffries Turnover.",63,64,-1,1,0.337923978821409,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+306,3,"2:14",134,134,"Foul on DaQuan Jeffries.",63,64,-1,9,0.337923978821409,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+307,3,"2:05",125,125,"Trevor Moore made Three Point Jumper. Assisted by Jarron Cumberland.",63,67,-4,24,0.0579158684109486,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+308,3,"1:41",101,101,"Martins Igbanu missed Layup.",63,67,-4,0,0.0451458889105713,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+309,3,"1:41",101,101,"Tre Scott Defensive Rebound.",63,67,-4,29,0.0451458889105713,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+310,3,"1:12",72,72,"Tre Scott made Layup. Assisted by Jarron Cumberland.",63,69,-6,14,0.00732613280062014,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+311,3,"0:58",58,58,"Sterling Taplin Turnover.",63,69,-6,25,0.00492885287000815,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+312,3,"0:33",33,33,"Jarron Cumberland missed Three Point Jumper.",63,69,-6,0,0.000892168580600689,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+313,3,"0:33",33,33,"Sterling Taplin Defensive Rebound.",63,69,-6,8,0.000892168580600689,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+314,3,"0:25",25,25,"Foul on Logan Johnson.",63,69,-6,0,0.000816857204314432,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+315,3,"0:25",25,25,"Elijah Joiner made Free Throw.",64,69,-5,0,0.00293820889944036,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+316,3,"0:25",25,25,"Elijah Joiner missed Free Throw.",64,69,-5,0,0.00293820889944036,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+317,3,"0:25",25,25,"Tulsa Deadball Team Rebound.",64,69,-5,0,0.00293820889944036,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+318,3,"0:25",25,25,"Elijah Joiner made Free Throw.",65,69,-4,8,0.0105106906286335,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+319,3,"0:17",17,17,"Foul on Elijah Joiner.",65,69,-4,0,0.0212894941515512,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+320,3,"0:17",17,17,"Jarron Cumberland missed Free Throw.",65,69,-4,0,0.0212894941515512,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+321,3,"0:17",17,17,"Jeriah Horne Defensive Rebound.",65,69,-4,9,0.0212894941515512,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+322,3,"0:08",8,8,"Lawson Korita missed Three Point Jumper.",65,69,-4,0,0.00339563289309288,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+323,3,"0:08",8,8,"Logan Johnson Defensive Rebound.",65,69,-4,4,0.00339563289309288,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+324,3,"0:04",4,4,"Foul on Curran Scott.",65,69,-4,0,0.000170226284004364,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+325,3,"0:04",4,4,"Logan Johnson missed Free Throw.",65,69,-4,0,0.000170226284004364,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+326,3,"0:04",4,4,"Cincinnati Deadball Team Rebound.",65,69,-4,0,0.000170226284004364,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+327,3,"0:04",4,4,"Logan Johnson made Free Throw.",65,70,-5,4,3.03987953513601e-05,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+328,3,"0:00",0,0,"Sterling Taplin missed Three Point Jumper.",65,70,-5,0,1.04616854333271e-42,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10
+329,3,"0:00",0,0,"Cincinnati Defensive Rebound.",65,70,-5,0,1.04616854333271e-42,"Tulsa","Cincinnati",2,3,0,0,-7,"401084759",2019-01-10

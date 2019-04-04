@@ -1,0 +1,364 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","play_length","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,13,0.928224963237847,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+2,1,"19:47",2387,2387,"Foul on Dontelius Ross.",0,0,0,0,0.924666978582531,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+3,1,"19:47",2387,2387,"Brion Sanchious missed Free Throw.",0,0,0,0,0.924666978582531,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+4,1,"19:47",2387,2387,"Murray State Deadball Team Rebound.",0,0,0,0,0.924666978582531,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+5,1,"19:47",2387,2387,"Brion Sanchious made Free Throw.",1,0,1,31,0.926892155608567,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+6,1,"19:16",2356,2356,"William Brown made Three Point Jumper. Assisted by Dontelius Ross.",1,3,-2,22,0.910189392939525,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+7,1,"18:54",2334,2334,"Shaq Buchanan missed Jumper.",1,3,-2,3,0.902908164405549,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+8,1,"18:51",2331,2331,"Jayveous McKinnis Defensive Rebound.",1,3,-2,10,0.902908164405549,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+9,1,"18:41",2321,2321,"Justin Johnson Turnover.",1,3,-2,0,0.900262948418653,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+10,1,"18:41",2321,2321,"Tevin Brown Steal.",1,3,-2,5,0.900262948418653,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+11,1,"18:36",2316,2316,"Tevin Brown made Dunk.",3,3,0,31,0.908074141794432,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+12,1,"18:05",2285,2285,"Venjie Wallis made Layup.",3,5,-2,21,0.895473432362922,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+13,1,"17:44",2264,2264,"Tevin Brown made Three Point Jumper. Assisted by Mike Davis.",6,5,1,26,0.92887996589506,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+14,1,"17:18",2238,2238,"Dontelius Ross missed Jumper.",6,5,1,3,0.922383805666649,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+15,1,"17:15",2235,2235,"Mike Davis Defensive Rebound.",6,5,1,0,0.922383805666649,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+16,1,"17:15",2235,2235,"Foul on Justin Johnson.",6,5,1,15,0.922383805666649,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+17,1,"17:00",2220,2220,"Ja Morant made Layup. Assisted by Shaq Buchanan.",8,5,3,15,0.936179347696646,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+18,1,"16:45",2205,2205,"Justin Johnson made Jumper.",8,7,1,24,0.920171047979688,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+19,1,"16:21",2181,2181,"Foul on Ja Morant.",8,7,1,0,0.919806760170394,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+20,1,"16:21",2181,2181,"Ja Morant Turnover.",8,7,1,14,0.919806760170394,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+21,1,"16:07",2167,2167,"Chris Howell Turnover.",8,7,1,23,0.917054402097896,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+22,1,"15:44",2144,2144,"Shaq Buchanan missed Jumper.",8,7,1,3,0.921083787032552,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+23,1,"15:41",2141,2141,"Chris Howell Defensive Rebound.",8,7,1,10,0.921083787032552,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+24,1,"15:31",2131,2131,"Dontelius Ross made Jumper.",8,9,-1,20,0.900130422896459,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+25,1,"15:11",2111,2111,"Official TV Timeout",8,9,-1,3,0.907174587291113,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+26,1,"15:08",2108,2108,"Tevin Brown missed Three Point Jumper.",8,9,-1,6,0.895768043154813,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+27,1,"15:02",2102,2102,"Venjie Wallis Defensive Rebound.",8,9,-1,5,0.895768043154813,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+28,1,"14:57",2097,2097,"Venjie Wallis missed Jumper.",8,9,-1,1,0.89041060540926,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+29,1,"14:56",2096,2096,"Murray State Defensive Rebound.",8,9,-1,17,0.89041060540926,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+30,1,"14:39",2079,2079,"Mike Davis missed Layup.",8,9,-1,3,0.901840445750875,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+31,1,"14:36",2076,2076,"Brion Sanchious Offensive Rebound.",8,9,-1,5,0.901840445750875,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+32,1,"14:31",2071,2071,"Mike Davis missed Jumper.",8,9,-1,4,0.901840445750875,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+33,1,"14:27",2067,2067,"Venjie Wallis Defensive Rebound.",8,9,-1,7,0.892983808246054,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+34,1,"14:20",2060,2060,"Venjie Wallis Turnover.",8,9,-1,0,0.892983808246054,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+35,1,"14:20",2060,2060,"Tevin Brown Steal.",8,9,-1,0,0.892983808246054,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+36,1,"14:20",2060,2060,"Foul on Venjie Wallis.",8,9,-1,0,0.892983808246054,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+37,1,"14:20",2060,2060,"Ja Morant missed Free Throw.",8,9,-1,0,0.892983808246054,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+38,1,"14:20",2060,2060,"Murray State Deadball Team Rebound.",8,9,-1,0,0.892983808246054,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+39,1,"14:20",2060,2060,"Ja Morant made Free Throw.",9,9,0,28,0.903959200295913,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+40,1,"13:52",2032,2032,"Dontelius Ross missed Three Point Jumper.",9,9,0,3,0.917168847176728,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+41,1,"13:49",2029,2029,"Brion Sanchious Defensive Rebound.",9,9,0,19,0.906462951177553,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+42,1,"13:30",2010,2010,"Tevin Brown made Three Point Jumper. Assisted by Brion Sanchious.",12,9,3,8,0.93229207900645,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+43,1,"13:22",2002,2002,"Lemmie Howard made Layup. Assisted by Chris Howell.",12,11,1,0,0.911845577172301,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+44,1,"13:22",2002,2002,"Foul on Brion Sanchious.",12,11,1,0,0.911845577172301,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+45,1,"13:22",2002,2002,"Lemmie Howard made Free Throw.",12,12,0,26,0.902562744704846,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+46,1,"12:56",1976,1976,"Foul on Shaq Buchanan.",12,12,0,0,0.911116156467514,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+47,1,"12:56",1976,1976,"Shaq Buchanan Turnover.",12,12,0,8,0.911116156467514,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+48,1,"12:48",1968,1968,"Lemmie Howard missed Three Point Jumper.",12,12,0,5,0.905131206872032,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+49,1,"12:43",1963,1963,"Jackson State Offensive Rebound.",12,12,0,0,0.905131206872032,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+50,1,"12:43",1963,1963,"Foul on Brion Whitley.",12,12,0,0,0.905131206872032,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+51,1,"12:43",1963,1963,"Khalil Spencer made Free Throw.",12,13,-1,0,0.895631862090487,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+52,1,"12:43",1963,1963,"Khalil Spencer made Free Throw.",12,14,-2,15,0.88530186841326,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+53,1,"12:28",1948,1948,"Foul on Khalil Spencer.",12,14,-2,0,0.876644195442818,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+54,1,"12:28",1948,1948,"Khalil Spencer Turnover.",12,14,-2,12,0.876644195442818,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+55,1,"12:16",1936,1936,"KJ Williams made Layup. Assisted by Ja Morant.",14,14,0,17,0.895983072388377,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+56,1,"11:59",1919,1919,"Lemmie Howard missed Jumper.",14,14,0,0,0.906474853663212,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+57,1,"11:59",1919,1919,"KJ Williams Block.",14,14,0,5,0.906474853663212,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+58,1,"11:54",1914,1914,"Khalil Spencer Offensive Rebound.",14,14,0,1,0.906474853663212,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+59,1,"11:53",1913,1913,"Khalil Spencer made Layup.",14,16,-2,20,0.882201869221534,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+60,1,"11:33",1893,1893,"Tevin Brown missed Three Point Jumper.",14,16,-2,5,0.869633668853965,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+61,1,"11:28",1888,1888,"Chris Howell Defensive Rebound.",14,16,-2,1,0.879195385988057,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+62,1,"11:27",1887,1887,"Chris Howell Turnover.",14,16,-2,0,0.879195385988057,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+63,1,"11:27",1887,1887,"Tevin Brown Steal.",14,16,-2,5,0.879195385988057,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+64,1,"11:22",1882,1882,"Foul on Chris Howell.",14,16,-2,0,0.879195385988057,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+65,1,"11:22",1882,1882,"Official TV Timeout",14,16,-2,0,0.879195385988057,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+66,1,"11:22",1882,1882,"KJ Williams made Free Throw.",15,16,-1,0,0.891730863254015,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+67,1,"11:22",1882,1882,"KJ Williams made Free Throw.",16,16,0,14,0.903108927004354,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+68,1,"11:08",1868,1868,"Chris Howell missed Jumper.",16,16,0,2,0.895164947135825,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+69,1,"11:06",1866,1866,"Brion Whitley Defensive Rebound.",16,16,0,17,0.895164947135825,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+70,1,"10:49",1849,1849,"Brion Whitley made Layup. Assisted by Ja Morant.",18,16,2,15,0.917126631589303,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+71,1,"10:34",1834,1834,"Chris Howell made Layup.",18,18,0,7,0.893707454706521,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+72,1,"10:27",1827,1827,"Ja Morant missed Three Point Jumper.",18,18,0,3,0.908319494238237,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+73,1,"10:24",1824,1824,"Dontelius Ross Defensive Rebound.",18,18,0,27,0.908319494238237,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+74,1,"9:57",1797,1797,"Lemmie Howard Turnover.",18,18,0,15,0.888643360444956,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+75,1,"9:42",1782,1782,"Brion Sanchious missed Jumper.",18,18,0,5,0.880251079870437,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+76,1,"9:37",1777,1777,"Jayveous McKinnis Defensive Rebound.",18,18,0,16,0.890170516358623,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+77,1,"9:21",1761,1761,"Jayveous McKinnis made Dunk. Assisted by Dontelius Ross.",18,20,-2,11,0.879328976530883,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+78,1,"9:10",1750,1750,"Foul on Jayveous McKinnis.",18,20,-2,16,0.867319879931458,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+79,1,"8:54",1734,1734,"Ja Morant made Layup.",20,20,0,22,0.894198467733732,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+80,1,"8:32",1712,1712,"Venjie Wallis Turnover.",20,20,0,23,0.901452842289276,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+81,1,"8:09",1689,1689,"Tevin Brown Turnover.",20,20,0,9,0.900037495701916,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+82,1,"8:00",1680,1680,"Hunter Shelton missed Three Point Jumper.",20,20,0,5,0.900037495701916,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+83,1,"7:55",1675,1675,"Venjie Wallis Offensive Rebound.",20,20,0,4,0.893343053856152,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+84,1,"7:51",1671,1671,"Chris Howell missed Jumper.",20,20,0,2,0.893343053856152,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+85,1,"7:49",1669,1669,"Venjie Wallis Offensive Rebound.",20,20,0,2,0.890857984440754,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+86,1,"7:47",1667,1667,"Justin Johnson missed Layup.",20,20,0,2,0.890857984440754,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+87,1,"7:45",1665,1665,"Justin Johnson Offensive Rebound.",20,20,0,2,0.890857984440754,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+88,1,"7:43",1663,1663,"Justin Johnson missed Layup.",20,20,0,0,0.890857984440754,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+89,1,"7:43",1663,1663,"Brion Sanchious Block.",20,20,0,4,0.890857984440754,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+90,1,"7:39",1659,1659,"Shaq Buchanan Defensive Rebound.",20,20,0,17,0.885631536980639,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+91,1,"7:22",1642,1642,"Shaq Buchanan made Three Point Jumper. Assisted by Ja Morant.",23,20,3,35,0.926139151115262,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+92,1,"6:47",1607,1607,"Justin Johnson missed Jumper.",23,20,3,4,0.924340169430323,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+93,1,"6:43",1603,1603,"Tevin Brown Defensive Rebound.",23,20,3,3,0.924340169430323,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+94,1,"6:40",1600,1600,"Foul on Jayveous McKinnis.",23,20,3,0,0.924340169430323,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+95,1,"6:40",1600,1600,"KJ Williams missed Free Throw.",23,20,3,0,0.924340169430323,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+96,1,"6:40",1600,1600,"Murray State Deadball Team Rebound.",23,20,3,0,0.924340169430323,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+97,1,"6:40",1600,1600,"KJ Williams missed Free Throw.",23,20,3,0,0.924340169430323,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+98,1,"6:40",1600,1600,"Justin Johnson Defensive Rebound.",23,20,3,12,0.924340169430323,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+99,1,"6:28",1588,1588,"Chris Howell made Layup.",23,22,1,13,0.898771008801582,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+100,1,"6:15",1575,1575,"Shaq Buchanan missed Jumper.",23,22,1,3,0.902562764689301,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+101,1,"6:12",1572,1572,"Brion Sanchious Offensive Rebound.",23,22,1,1,0.902562764689301,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+102,1,"6:11",1571,1571,"Tevin Brown missed Three Point Jumper.",23,22,1,4,0.902562764689301,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+103,1,"6:07",1567,1567,"Jackson State Defensive Rebound.",23,22,1,8,0.894272419209257,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+104,1,"5:59",1559,1559,"Justin Johnson missed Layup.",23,22,1,0,0.890642714976393,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+105,1,"5:59",1559,1559,"Brion Sanchious Block.",23,22,1,4,0.890642714976393,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+106,1,"5:55",1555,1555,"Brion Sanchious Defensive Rebound.",23,22,1,4,0.890642714976393,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+107,1,"5:51",1551,1551,"Brion Sanchious made Jumper. Assisted by Ja Morant.",25,22,3,0,0.915635468185146,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+108,1,"5:51",1551,1551,"Foul on Chris Howell.",25,22,3,0,0.915635468185146,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+109,1,"5:51",1551,1551,"Brion Sanchious made Free Throw.",26,22,4,6,0.92608466757762,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+110,1,"5:45",1545,1545,"Foul on Mike Davis.",26,22,4,21,0.933416214089772,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+111,1,"5:24",1524,1524,"Chris Howell missed Jumper.",26,22,4,3,0.928108217317101,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+112,1,"5:21",1521,1521,"Chris Howell Offensive Rebound.",26,22,4,1,0.928108217317101,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+113,1,"5:20",1520,1520,"Chris Howell missed Layup.",26,22,4,0,0.928108217317101,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+114,1,"5:20",1520,1520,"Mike Davis Block.",26,22,4,6,0.928108217317101,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+115,1,"5:14",1514,1514,"Ja Morant Defensive Rebound.",26,22,4,12,0.933418911200711,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+116,1,"5:02",1502,1502,"Shaq Buchanan made Jumper. Assisted by Ja Morant.",28,22,6,9,0.946157877267137,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+117,1,"4:53",1493,1493,"Jackson State  Timeout",28,22,6,4,0.947216744078807,"Murray State","Jackson State",3,4,1,0,25.5,"401090151",2018-12-15
+118,1,"4:49",1489,1489,"Chris Howell Turnover.",28,22,6,0,0.946864755930473,"Murray State","Jackson State",3,4,1,0,25.5,"401090151",2018-12-15
+119,1,"4:49",1489,1489,"Ja Morant Steal.",28,22,6,5,0.946864755930473,"Murray State","Jackson State",3,4,1,0,25.5,"401090151",2018-12-15
+120,1,"4:44",1484,1484,"Ja Morant Turnover.",28,22,6,11,0.946864755930473,"Murray State","Jackson State",3,4,1,0,25.5,"401090151",2018-12-15
+121,1,"4:33",1473,1473,"Chris Howell made Layup.",28,24,4,11,0.941290119450361,"Murray State","Jackson State",3,4,1,0,25.5,"401090151",2018-12-15
+122,1,"4:22",1462,1462,"Mike Davis missed Three Point Jumper.",28,24,4,6,0.917182016424331,"Murray State","Jackson State",3,4,1,0,25.5,"401090151",2018-12-15
+123,1,"4:16",1456,1456,"Justin Johnson Defensive Rebound.",28,24,4,24,0.928319601953817,"Murray State","Jackson State",3,4,1,0,25.5,"401090151",2018-12-15
+124,1,"3:52",1432,1432,"Dontelius Ross missed Three Point Jumper.",28,24,4,4,0.925037030332604,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+125,1,"3:48",1428,1428,"Mike Davis Defensive Rebound.",28,24,4,10,0.920008101833667,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+126,1,"3:38",1418,1418,"Brion Sanchious Turnover.",28,24,4,0,0.921785492994322,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+127,1,"3:38",1418,1418,"Official TV Timeout",28,24,4,26,0.921785492994322,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+128,1,"3:12",1392,1392,"Hunter Shelton missed Three Point Jumper.",28,24,4,5,0.935639336364154,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+129,1,"3:07",1387,1387,"Tevin Brown Defensive Rebound.",28,24,4,14,0.92993807770435,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+130,1,"2:53",1373,1373,"Shaq Buchanan missed Three Point Jumper.",28,24,4,5,0.923910075631388,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+131,1,"2:48",1368,1368,"Lemmie Howard Defensive Rebound.",28,24,4,12,0.92684185510093,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+132,1,"2:36",1356,1356,"Chris Howell Turnover.",28,24,4,26,0.930010497187863,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+133,1,"2:10",1330,1330,"Shaq Buchanan made Layup. Assisted by Ja Morant.",30,24,6,0,0.940618024696367,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+134,1,"2:10",1330,1330,"Foul on Chris McIntosh.",30,24,6,0,0.940618024696367,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+135,1,"2:10",1330,1330,"Shaq Buchanan made Free Throw.",31,24,7,18,0.948734904919358,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+136,1,"1:52",1312,1312,"Dontelius Ross missed Three Point Jumper.",31,24,7,6,0.95368129691708,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+137,1,"1:46",1306,1306,"Venjie Wallis Offensive Rebound.",31,24,7,0,0.944124028240769,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+138,1,"1:46",1306,1306,"Venjie Wallis missed Layup.",31,24,7,0,0.944124028240769,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+139,1,"1:46",1306,1306,"Shaq Buchanan Block.",31,24,7,2,0.944124028240769,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+140,1,"1:44",1304,1304,"Jackson State Offensive Rebound.",31,24,7,15,0.944124028240769,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+141,1,"1:29",1289,1289,"Dontelius Ross missed Layup.",31,24,7,2,0.953326486597992,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+142,1,"1:27",1287,1287,"Venjie Wallis Offensive Rebound.",31,24,7,2,0.953326486597992,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+143,1,"1:25",1285,1285,"Dontelius Ross missed Three Point Jumper.",31,24,7,5,0.953326486597992,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+144,1,"1:20",1280,1280,"Justin Johnson Offensive Rebound.",31,24,7,2,0.953326486597992,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+145,1,"1:18",1278,1278,"Justin Johnson missed Layup.",31,24,7,3,0.947389284034922,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+146,1,"1:15",1275,1275,"Shaq Buchanan Defensive Rebound.",31,24,7,5,0.947389284034922,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+147,1,"1:10",1270,1270,"Foul on Darnell Cowart.",31,24,7,0,0.947389284034922,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+148,1,"1:10",1270,1270,"Darnell Cowart Turnover.",31,24,7,13,0.947389284034922,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+149,1,"0:57",1257,1257,"Hunter Shelton missed Three Point Jumper.",31,24,7,4,0.943739166963476,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+150,1,"0:53",1253,1253,"Ja Morant Defensive Rebound.",31,24,7,7,0.943739166963476,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+151,1,"0:46",1246,1246,"Tevin Brown made Three Point Jumper. Assisted by Ja Morant.",34,24,10,7,0.969451463328339,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+152,1,"0:39",1239,1239,"Dontelius Ross Turnover.",34,24,10,29,0.96718441465569,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+153,1,"0:10",1210,1210,"Shaq Buchanan missed Jumper.",34,24,10,0,0.968505970957175,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+154,1,"0:10",1210,1210,"Venjie Wallis Block.",34,24,10,0,0.968505970957175,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+155,1,"0:10",1210,1210,"Venjie Wallis Defensive Rebound.",34,24,10,1,0.968505970957175,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+156,1,"0:09",1209,1209,"Foul on Ja Morant.",34,24,10,0,0.969031560910496,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+157,1,"0:09",1209,1209,"Hunter Shelton missed Free Throw.",34,24,10,0,0.969031560910496,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+158,1,"0:09",1209,1209,"Darnell Cowart Defensive Rebound.",34,24,10,9,0.969031560910496,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+159,1,"0:00",1200,1200,"Ja Morant missed Jumper.",34,24,10,0,0.969031560910496,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+160,1,"0:00",1200,1200,"Dontelius Ross Block.",34,24,10,0,0.969031560910496,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+161,1,"0:00",1200,1200,"Dontelius Ross Defensive Rebound.",34,24,10,0,0.969031560910496,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+162,1,"0:00",1200,1200,"End of 1st half",34,24,10,0,0.969031560910496,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+163,2,"20:00",1200,1200,"PLAY",34,24,10,11,0.969031560910496,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+164,2,"19:49",1189,1189,"Tevin Brown missed Three Point Jumper.",34,24,10,7,0.971134115989717,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+165,2,"19:42",1182,1182,"Venjie Wallis Defensive Rebound.",34,24,10,0,0.971134115989717,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+166,2,"19:42",1182,1182,"Foul on Tevin Brown.",34,24,10,0,0.971134115989717,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+167,2,"19:42",1182,1182,"Venjie Wallis missed Free Throw.",34,24,10,0,0.971134115989717,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+168,2,"19:42",1182,1182,"Jackson State Deadball Team Rebound.",34,24,10,0,0.971134115989717,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+169,2,"19:42",1182,1182,"Venjie Wallis missed Free Throw.",34,24,10,0,0.971134115989717,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+170,2,"19:42",1182,1182,"Mike Davis Defensive Rebound.",34,24,10,10,0.971134115989717,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+171,2,"19:32",1172,1172,"Shaq Buchanan made Layup. Assisted by Ja Morant.",36,24,12,0,0.976423893695846,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+172,2,"19:32",1172,1172,"Foul on William Brown.",36,24,12,0,0.976423893695846,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+173,2,"19:32",1172,1172,"Shaq Buchanan made Free Throw.",37,24,13,19,0.979929359681743,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+174,2,"19:13",1153,1153,"Dontelius Ross missed Jumper.",37,24,13,3,0.979366448147519,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+175,2,"19:10",1150,1150,"Shaq Buchanan Defensive Rebound.",37,24,13,10,0.979366448147519,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+176,2,"19:00",1140,1140,"Foul on Justin Johnson.",37,24,13,2,0.980958059431366,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+177,2,"18:58",1138,1138,"Tevin Brown made Three Point Jumper. Assisted by Ja Morant.",40,24,16,25,0.988719773541822,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+178,2,"18:33",1113,1113,"Foul on Brion Sanchious.",40,24,16,0,0.988808583279019,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+179,2,"18:33",1113,1113,"Justin Johnson made Free Throw.",40,25,15,0,0.986723413996637,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+180,2,"18:33",1113,1113,"Justin Johnson made Free Throw.",40,26,14,14,0.98425592475233,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+181,2,"18:19",1099,1099,"Tevin Brown Turnover.",40,26,14,30,0.98593576348604,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+182,2,"17:49",1069,1069,"Foul on Shaq Buchanan.",40,26,14,0,0.98415515914355,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+183,2,"17:49",1069,1069,"Chris Howell made Free Throw.",40,27,13,0,0.981229497845895,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+184,2,"17:49",1069,1069,"Chris Howell missed Free Throw.",40,27,13,0,0.981229497845895,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+185,2,"17:49",1069,1069,"Chris Howell made Free Throw.",40,28,12,1,0.977775828486392,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+186,2,"17:48",1068,1068,"Jackson State Deadball Team Rebound.",40,28,12,0,0.977775828486392,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+187,2,"17:48",1068,1068,"Foul on Chris Howell.",40,28,12,13,0.977775828486392,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+188,2,"17:35",1055,1055,"Ja Morant missed Layup.",40,28,12,0,0.980755368255444,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+189,2,"17:35",1055,1055,"Jayveous McKinnis Block.",40,28,12,6,0.980755368255444,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+190,2,"17:29",1049,1049,"Dontelius Ross Defensive Rebound.",40,28,12,5,0.980572358282992,"Murray State","Jackson State",4,4,0,0,25.5,"401090151",2018-12-15
+191,2,"17:24",1044,1044,"Jackson State  Timeout",40,28,12,10,0.980572358282992,"Murray State","Jackson State",3,4,1,0,25.5,"401090151",2018-12-15
+192,2,"17:14",1034,1034,"Chris Howell made Layup.",40,30,10,19,0.969714507778412,"Murray State","Jackson State",3,4,1,0,25.5,"401090151",2018-12-15
+193,2,"16:55",1015,1015,"Shaq Buchanan made Three Point Jumper. Assisted by Ja Morant.",43,30,13,22,0.981225030289473,"Murray State","Jackson State",3,4,1,0,25.5,"401090151",2018-12-15
+194,2,"16:33",993,993,"Chris Howell missed Layup.",43,30,13,0,0.981747824944562,"Murray State","Jackson State",3,4,1,0,25.5,"401090151",2018-12-15
+195,2,"16:33",993,993,"Shaq Buchanan Block.",43,30,13,5,0.981747824944562,"Murray State","Jackson State",3,4,1,0,25.5,"401090151",2018-12-15
+196,2,"16:28",988,988,"Shaq Buchanan Defensive Rebound.",43,30,13,10,0.985556042531393,"Murray State","Jackson State",3,4,1,0,25.5,"401090151",2018-12-15
+197,2,"16:18",978,978,"Ja Morant missed Three Point Jumper.",43,30,13,3,0.983640802517416,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+198,2,"16:15",975,975,"Justin Johnson Defensive Rebound.",43,30,13,0,0.983640802517416,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+199,2,"16:15",975,975,"Chris Howell Turnover.",43,30,13,0,0.983640802517416,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+200,2,"16:15",975,975,"Mike Davis Steal.",43,30,13,9,0.983640802517416,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+201,2,"16:06",966,966,"Shaq Buchanan made Three Point Jumper. Assisted by Ja Morant.",46,30,16,20,0.989374108234079,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+202,2,"15:46",946,946,"Justin Johnson missed Layup.",46,30,16,1,0.992230915275574,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+203,2,"15:45",945,945,"Brion Sanchious Defensive Rebound.",46,30,16,1,0.992230915275574,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+204,2,"15:44",944,944,"Foul on William Brown.",46,30,16,0,0.992230915275574,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+205,2,"15:44",944,944,"Official TV Timeout",46,30,16,13,0.992230915275574,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+206,2,"15:31",931,931,"Foul on Ja Morant.",46,30,16,0,0.990933472530793,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+207,2,"15:31",931,931,"Ja Morant Turnover.",46,30,16,17,0.990933472530793,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+208,2,"15:14",914,914,"Jayveous McKinnis made Jumper. Assisted by Dontelius Ross.",46,32,14,9,0.989116687145099,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+209,2,"15:05",905,905,"Brion Whitley missed Layup.",46,32,14,5,0.986242950248401,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+210,2,"15:00",900,900,"Justin Johnson Defensive Rebound.",46,32,14,11,0.986242950248401,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+211,2,"14:49",889,889,"Chris Howell made Three Point Jumper.",46,35,11,18,0.970295670479196,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+212,2,"14:31",871,871,"Tevin Brown made Layup.",48,35,13,30,0.984540890378076,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+213,2,"14:01",841,841,"Dontelius Ross Turnover.",48,35,13,0,0.98671807960267,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+214,2,"14:01",841,841,"Brion Whitley Steal.",48,35,13,6,0.98671807960267,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+215,2,"13:55",835,835,"Brion Whitley Turnover.",48,35,13,0,0.988401256866431,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+216,2,"13:55",835,835,"William Brown Steal.",48,35,13,7,0.988401256866431,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+217,2,"13:48",828,828,"Jayveous McKinnis made Dunk. Assisted by Dontelius Ross.",48,37,11,3,0.976564518506866,"Murray State","Jackson State",3,4,0,0,25.5,"401090151",2018-12-15
+218,2,"13:45",825,825,"Murray State  Timeout",48,37,11,19,0.976564518506866,"Murray State","Jackson State",3,3,0,1,25.5,"401090151",2018-12-15
+219,2,"13:26",806,806,"Foul on Jayveous McKinnis.",48,37,11,0,0.980845914174432,"Murray State","Jackson State",3,3,0,1,25.5,"401090151",2018-12-15
+220,2,"13:26",806,806,"KJ Williams made Free Throw.",49,37,12,0,0.984313665254826,"Murray State","Jackson State",3,3,0,1,25.5,"401090151",2018-12-15
+221,2,"13:26",806,806,"KJ Williams made Free Throw.",50,37,13,22,0.987161814864483,"Murray State","Jackson State",3,3,0,1,25.5,"401090151",2018-12-15
+222,2,"13:04",784,784,"Justin Johnson missed Jumper.",50,37,13,4,0.986047546815156,"Murray State","Jackson State",3,3,0,1,25.5,"401090151",2018-12-15
+223,2,"13:00",780,780,"KJ Williams Defensive Rebound.",50,37,13,4,0.986047546815156,"Murray State","Jackson State",3,3,0,1,25.5,"401090151",2018-12-15
+224,2,"12:56",776,776,"Ja Morant missed Jumper.",50,37,13,6,0.986786345010534,"Murray State","Jackson State",3,3,0,1,25.5,"401090151",2018-12-15
+225,2,"12:50",770,770,"Jayveous McKinnis Defensive Rebound.",50,37,13,19,0.986786345010534,"Murray State","Jackson State",3,3,0,1,25.5,"401090151",2018-12-15
+226,2,"12:31",751,751,"Justin Johnson missed Layup.",50,37,13,0,0.98827591691504,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+227,2,"12:31",751,751,"Tevin Brown Block.",50,37,13,3,0.98827591691504,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+228,2,"12:28",748,748,"Shaq Buchanan Defensive Rebound.",50,37,13,0,0.988279993612952,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+229,2,"12:28",748,748,"Foul on Jayveous McKinnis.",50,37,13,20,0.988279993612952,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+230,2,"12:08",728,728,"Ja Morant made Layup.",52,37,15,12,0.992221689347727,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+231,2,"11:56",716,716,"Lemmie Howard missed Jumper.",52,37,15,5,0.99196651285846,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+232,2,"11:51",711,711,"Tevin Brown Defensive Rebound.",52,37,15,7,0.99196651285846,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+233,2,"11:44",704,704,"Foul on Lemmie Howard.",52,37,15,0,0.990324399154015,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+234,2,"11:44",704,704,"Official TV Timeout",52,37,15,0,0.990324399154015,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+235,2,"11:44",704,704,"KJ Williams made Free Throw.",53,37,16,0,0.992163669014598,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+236,2,"11:44",704,704,"KJ Williams made Free Throw.",54,37,17,21,0.993655545339871,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+237,2,"11:23",683,683,"Venjie Wallis missed Layup.",54,37,17,3,0.995016671188527,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+238,2,"11:20",680,680,"Khalil Spencer Offensive Rebound.",54,37,17,2,0.995016671188527,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+239,2,"11:18",678,678,"Khalil Spencer missed Layup.",54,37,17,3,0.995738712082388,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+240,2,"11:15",675,675,"KJ Williams Defensive Rebound.",54,37,17,6,0.995738712082388,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+241,2,"11:09",669,669,"KJ Williams missed Jumper.",54,37,17,2,0.995065369179022,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+242,2,"11:07",667,667,"Chris Howell Defensive Rebound.",54,37,17,4,0.995065369179022,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+243,2,"11:03",663,663,"Foul on KJ Williams.",54,37,17,0,0.995065369179022,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+244,2,"11:03",663,663,"Khalil Spencer missed Free Throw.",54,37,17,0,0.995065369179022,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+245,2,"11:03",663,663,"Jackson State Deadball Team Rebound.",54,37,17,0,0.995065369179022,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+246,2,"11:03",663,663,"Khalil Spencer missed Free Throw.",54,37,17,0,0.995065369179022,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+247,2,"11:03",663,663,"Ja Morant Defensive Rebound.",54,37,17,10,0.995065369179022,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+248,2,"10:53",653,653,"KJ Williams made Dunk. Assisted by Ja Morant.",56,37,19,8,0.997502343149203,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+249,2,"10:45",645,645,"Lemmie Howard missed Three Point Jumper.",56,37,19,9,0.997512900481183,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+250,2,"10:36",636,636,"Ja Morant Defensive Rebound.",56,37,19,11,0.996890817563303,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+251,2,"10:25",625,625,"Tevin Brown missed Three Point Jumper.",56,37,19,3,0.998277095995587,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+252,2,"10:22",622,622,"Tevin Brown Offensive Rebound.",56,37,19,1,0.998277095995587,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+253,2,"10:21",621,621,"Shaq Buchanan missed Three Point Jumper.",56,37,19,3,0.998277095995587,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+254,2,"10:18",618,618,"Chris Howell Defensive Rebound.",56,37,19,4,0.997850817065445,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+255,2,"10:14",614,614,"Chris Howell Turnover.",56,37,19,0,0.997850817065445,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+256,2,"10:14",614,614,"Shaq Buchanan Steal.",56,37,19,5,0.997850817065445,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+257,2,"10:09",609,609,"Brion Sanchious missed Dunk.",56,37,19,2,0.9978401512354,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+258,2,"10:07",607,607,"Jackson State Defensive Rebound.",56,37,19,17,0.9978401512354,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+259,2,"9:50",590,590,"Foul on KJ Williams.",56,37,19,18,0.99740480000699,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+260,2,"9:32",572,572,"Lemmie Howard missed Three Point Jumper.",56,37,19,3,0.998167688918557,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+261,2,"9:29",569,569,"Brion Sanchious Defensive Rebound.",56,37,19,19,0.99845776668337,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+262,2,"9:10",550,550,"KJ Williams Turnover.",56,37,19,0,0.998195611869356,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+263,2,"9:10",550,550,"Chris Howell Steal.",56,37,19,25,0.998195611869356,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+264,2,"8:45",525,525,"Venjie Wallis missed Layup.",56,37,19,0,0.998334322313317,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+265,2,"8:45",525,525,"Shaq Buchanan Block.",56,37,19,0,0.998334322313317,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+266,2,"8:45",525,525,"Jackson State Offensive Rebound.",56,37,19,6,0.998334322313317,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+267,2,"8:39",519,519,"Lemmie Howard missed Three Point Jumper.",56,37,19,3,0.998277518648572,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+268,2,"8:36",516,516,"Tevin Brown Defensive Rebound.",56,37,19,11,0.998277518648572,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+269,2,"8:25",505,505,"Darnell Cowart missed Layup.",56,37,19,0,0.998515983525852,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+270,2,"8:25",505,505,"Venjie Wallis Block.",56,37,19,5,0.998515983525852,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+271,2,"8:20",500,500,"Darnell Cowart Offensive Rebound.",56,37,19,1,0.998515983525852,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+272,2,"8:19",499,499,"Darnell Cowart missed Layup.",56,37,19,2,0.998481006384951,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+273,2,"8:17",497,497,"Chris Howell Defensive Rebound.",56,37,19,3,0.998481006384951,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+274,2,"8:14",494,494,"Chris Howell missed Jumper.",56,37,19,4,0.998481006384951,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+275,2,"8:10",490,490,"Chris Howell Offensive Rebound.",56,37,19,5,0.998481006384951,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+276,2,"8:05",485,485,"Chris Howell made Layup.",56,39,17,8,0.997426141648434,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+277,2,"7:57",477,477,"Ja Morant missed Layup.",56,39,17,5,0.998168198428834,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+278,2,"7:52",472,472,"Ja Morant made Layup.",58,39,19,0,0.998975697631532,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+279,2,"7:52",472,472,"Ja Morant Offensive Rebound.",58,39,19,5,0.998975697631532,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+280,2,"7:47",467,467,"Dontelius Ross made Three Point Jumper.",58,42,16,20,0.997054446034978,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+281,2,"7:27",447,447,"Jaiveon Eaves missed Three Point Jumper.",58,42,16,4,0.996066515886085,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+282,2,"7:23",443,443,"Chris Howell Defensive Rebound.",58,42,16,14,0.996066515886085,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+283,2,"7:09",429,429,"Lemmie Howard missed Three Point Jumper.",58,42,16,5,0.997319430554466,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+284,2,"7:04",424,424,"Venjie Wallis Offensive Rebound.",58,42,16,8,0.997319430554466,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+285,2,"6:56",416,416,"Lemmie Howard Turnover.",58,42,16,0,0.997785141048942,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+286,2,"6:56",416,416,"Official TV Timeout",58,42,16,12,0.997785141048942,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+287,2,"6:44",404,404,"Foul on Venjie Wallis.",58,42,16,0,0.998439416190743,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+288,2,"6:44",404,404,"Shaq Buchanan made Free Throw.",59,42,17,0,0.998877335798547,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+289,2,"6:44",404,404,"Shaq Buchanan made Free Throw.",60,42,18,13,0.999192469000011,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+290,2,"6:31",391,391,"Chris Howell Turnover.",60,42,18,0,0.998948178603943,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+291,2,"6:31",391,391,"Ja Morant Steal.",60,42,18,22,0.998948178603943,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+292,2,"6:09",369,369,"Darnell Cowart missed Layup.",60,42,18,1,0.99902892622747,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+293,2,"6:08",368,368,"Darnell Cowart Offensive Rebound.",60,42,18,1,0.99902892622747,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+294,2,"6:07",367,367,"Foul on Demetrice Clopton.",60,42,18,0,0.99902892622747,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+295,2,"6:07",367,367,"Darnell Cowart made Free Throw.",61,42,19,0,0.999296662919895,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+296,2,"6:07",367,367,"Darnell Cowart missed Free Throw.",61,42,19,0,0.999296662919895,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+297,2,"6:07",367,367,"Chris Howell Defensive Rebound.",61,42,19,16,0.999296662919895,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+298,2,"5:51",351,351,"Dontelius Ross missed Three Point Jumper.",61,42,19,5,0.999501226313323,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+299,2,"5:46",346,346,"Jaiveon Eaves Defensive Rebound.",61,42,19,0,0.999405334280147,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+300,2,"5:46",346,346,"Foul on Hunter Shelton.",61,42,19,0,0.999405334280147,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+301,2,"5:46",346,346,"Jaiveon Eaves made Free Throw.",62,42,20,0,0.999574371581988,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+302,2,"5:46",346,346,"Jaiveon Eaves made Free Throw.",63,42,21,10,0.999695373661675,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+303,2,"5:36",336,336,"Venjie Wallis missed Jumper.",63,42,21,3,0.999821138068474,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+304,2,"5:33",333,333,"Jayveous McKinnis Offensive Rebound.",63,42,21,0,0.999821138068474,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+305,2,"5:33",333,333,"Foul on Jaiveon Eaves.",63,42,21,0,0.999821138068474,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+306,2,"5:33",333,333,"Jayveous McKinnis missed Free Throw.",63,42,21,0,0.999821138068474,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+307,2,"5:33",333,333,"Jackson State Deadball Team Rebound.",63,42,21,0,0.999821138068474,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+308,2,"5:33",333,333,"Jayveous McKinnis missed Free Throw.",63,42,21,0,0.999821138068474,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+309,2,"5:33",333,333,"Darnell Cowart Defensive Rebound.",63,42,21,25,0.999821138068474,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+310,2,"5:08",308,308,"Ja Morant missed Layup.",63,42,21,3,0.999710256996951,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+311,2,"5:05",305,305,"Darnell Cowart Offensive Rebound.",63,42,21,1,0.999710256996951,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+312,2,"5:04",304,304,"Darnell Cowart made Layup.",65,42,23,17,0.999852791490459,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+313,2,"4:47",287,287,"Jayveous McKinnis missed Jumper.",65,42,23,5,0.999901820931151,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+314,2,"4:42",282,282,"Mike Davis Defensive Rebound.",65,42,23,0,0.999901820931151,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+315,2,"4:42",282,282,"Foul on Jeremiah Bozeman.",65,42,23,0,0.999901820931151,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+316,2,"4:42",282,282,"Ja Morant missed Free Throw.",65,42,23,0,0.999901820931151,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+317,2,"4:42",282,282,"Murray State Deadball Team Rebound.",65,42,23,0,0.999901820931151,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+318,2,"4:42",282,282,"Ja Morant made Free Throw.",66,42,24,10,0.999931005531448,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+319,2,"4:32",272,272,"William Brown missed Layup.",66,42,24,2,0.999969866564808,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+320,2,"4:30",270,270,"Darnell Cowart Defensive Rebound.",66,42,24,8,0.999969866564808,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+321,2,"4:22",262,262,"Darnell Cowart made Layup. Assisted by Ja Morant.",68,42,26,16,0.99997966185739,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+322,2,"4:06",246,246,"Chris Howell missed Three Point Jumper.",68,42,26,3,0.999990031625733,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+323,2,"4:03",243,243,"Jaiveon Eaves Defensive Rebound.",68,42,26,5,0.999990031625733,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+324,2,"3:58",238,238,"Jaiveon Eaves missed Jumper.",68,42,26,4,0.999990059170395,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+325,2,"3:54",234,234,"Mike Davis Offensive Rebound.",68,42,26,11,0.999990059170395,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+326,2,"3:43",223,223,"Ja Morant Turnover.",68,42,26,0,0.999995241972584,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+327,2,"3:43",223,223,"Jayveous McKinnis Steal.",68,42,26,23,0.999995241972584,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+328,2,"3:20",200,200,"Foul on Shaq Buchanan.",68,42,26,0,0.999997620966252,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+329,2,"3:20",200,200,"Official TV Timeout",68,42,26,0,0.999997620966252,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+330,2,"3:20",200,200,"Chris Howell made Free Throw.",68,43,25,0,0.999996261338574,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+331,2,"3:20",200,200,"Chris Howell made Free Throw.",68,44,24,18,0.999994124682589,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+332,2,"3:02",182,182,"Jaiveon Eaves missed Three Point Jumper.",68,44,24,4,0.999996383180036,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+333,2,"2:58",178,178,"Jayveous McKinnis Defensive Rebound.",68,44,24,3,0.999997205332509,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+334,2,"2:55",175,175,"Hunter Shelton missed Three Point Jumper.",68,44,24,4,0.999997205332509,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+335,2,"2:51",171,171,"Chris Howell Offensive Rebound.",68,44,24,1,0.999997205332509,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+336,2,"2:50",170,170,"Jeremiah Bozeman made Three Point Jumper. Assisted by Chris Howell.",68,47,21,18,0.999987767763978,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+337,2,"2:32",152,152,"Jaiveon Eaves Turnover.",68,47,21,0,0.999994995657249,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+338,2,"2:32",152,152,"William Brown Steal.",68,47,21,5,0.999994995657249,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+339,2,"2:27",147,147,"Jeremiah Bozeman made Layup.",68,49,19,5,0.999981594993967,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+340,2,"2:22",142,142,"Darnell Cowart made Layup. Assisted by Ja Morant.",70,49,21,1,0.999993470386745,"Murray State","Jackson State",3,3,0,0,25.5,"401090151",2018-12-15
+341,2,"2:21",141,141,"Murray State  Timeout",70,49,21,17,0.999993470386745,"Murray State","Jackson State",3,2,0,1,25.5,"401090151",2018-12-15
+342,2,"2:04",124,124,"Foul on Jalen Johnson.",70,49,21,0,0.999996927741912,"Murray State","Jackson State",3,2,0,1,25.5,"401090151",2018-12-15
+343,2,"2:04",124,124,"William Brown made Free Throw.",70,50,20,0,0.999994586367396,"Murray State","Jackson State",3,2,0,1,25.5,"401090151",2018-12-15
+344,2,"2:04",124,124,"William Brown made Free Throw.",70,51,19,13,0.999990460643331,"Murray State","Jackson State",3,2,0,1,25.5,"401090151",2018-12-15
+345,2,"1:51",111,111,"Foul on Jesse Love.",70,51,19,0,0.999995436182492,"Murray State","Jackson State",3,2,0,1,25.5,"401090151",2018-12-15
+346,2,"1:51",111,111,"Darnell Cowart made Free Throw.",71,51,20,0,0.999997497414549,"Murray State","Jackson State",3,2,0,1,25.5,"401090151",2018-12-15
+347,2,"1:51",111,111,"Darnell Cowart made Free Throw.",72,51,21,24,0.999998627699705,"Murray State","Jackson State",3,2,0,1,25.5,"401090151",2018-12-15
+348,2,"1:27",87,87,"Jesse Love missed Three Point Jumper.",72,51,21,2,0.999999883950893,"Murray State","Jackson State",3,2,0,1,25.5,"401090151",2018-12-15
+349,2,"1:25",85,85,"Murray State Defensive Rebound.",72,51,21,12,0.999999883950893,"Murray State","Jackson State",3,2,0,1,25.5,"401090151",2018-12-15
+350,2,"1:13",73,73,"DaQuan Smith missed Three Point Jumper.",72,51,21,6,0.999999899742781,"Murray State","Jackson State",3,2,0,0,25.5,"401090151",2018-12-15
+351,2,"1:07",67,67,"Jayveous McKinnis Defensive Rebound.",72,51,21,8,0.999999878983576,"Murray State","Jackson State",3,2,0,0,25.5,"401090151",2018-12-15
+352,2,"0:59",59,59,"William Brown made Jumper.",72,53,19,9,0.999999979324291,"Murray State","Jackson State",3,2,0,0,25.5,"401090151",2018-12-15
+353,2,"0:50",50,50,"Foul on William Brown.",72,53,19,0,0.99999998580788,"Murray State","Jackson State",3,2,0,0,25.5,"401090151",2018-12-15
+354,2,"0:50",50,50,"Darnell Cowart made Free Throw.",73,53,20,0,0.999999994213696,"Murray State","Jackson State",3,2,0,0,25.5,"401090151",2018-12-15
+355,2,"0:50",50,50,"Darnell Cowart made Free Throw.",74,53,21,10,0.999999997640852,"Murray State","Jackson State",3,2,0,0,25.5,"401090151",2018-12-15
+356,2,"0:40",40,40,"Foul on Jalen Johnson.",74,53,21,0,0.999999999191471,"Murray State","Jackson State",3,2,0,0,25.5,"401090151",2018-12-15
+357,2,"0:40",40,40,"Chris McIntosh made Free Throw.",74,54,20,0,0.999999997800337,"Murray State","Jackson State",3,2,0,0,25.5,"401090151",2018-12-15
+358,2,"0:40",40,40,"Chris McIntosh made Free Throw.",74,55,19,17,0.999999994015654,"Murray State","Jackson State",3,2,0,0,25.5,"401090151",2018-12-15
+359,2,"0:23",23,23,"Brion Whitley Turnover.",74,55,19,0,0.999999999945633,"Murray State","Jackson State",3,2,0,0,25.5,"401090151",2018-12-15
+360,2,"0:23",23,23,"William Brown Steal.",74,55,19,4,0.999999999945633,"Murray State","Jackson State",3,2,0,0,25.5,"401090151",2018-12-15
+361,2,"0:19",19,19,"William Brown made Layup.",74,57,17,19,0.999999999675,"Murray State","Jackson State",3,2,0,0,25.5,"401090151",2018-12-15
+362,2,"0:00",0,0,"End of 2nd half",74,57,17,0,1,"Murray State","Jackson State",3,2,0,0,25.5,"401090151",2018-12-15
+363,2,"0:00",0,0,"End of Game",74,57,17,0,1,"Murray State","Jackson State",3,2,0,0,25.5,"401090151",2018-12-15

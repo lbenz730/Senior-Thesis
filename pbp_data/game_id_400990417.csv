@@ -1,0 +1,385 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.492974693732088,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+2,1,"19:44",2384,2384,"Trevond Barnes missed Jumper.",0,0,0,0.495004765457592,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+3,1,"19:44",2384,2384,"Tyrell Johnson Defensive Rebound.",0,0,0,0.495004765457592,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+4,1,"19:23",2363,2363,"Ronshad Shabazz made Three Point Jumper. Assisted by Isaac Johnson.",0,3,-3,0.468694785044073,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+5,1,"19:12",2352,2352,"Jermaine Marrow missed Three Point Jumper.",0,3,-3,0.447752043770357,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+6,1,"19:12",2352,2352,"Isaac Johnson Defensive Rebound.",0,3,-3,0.447752043770357,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+7,1,"18:57",2337,2337,"Griffin Kinney missed Jumper.",0,3,-3,0.430923697641188,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+8,1,"18:57",2337,2337,"Kalin Fisher Defensive Rebound.",0,3,-3,0.430923697641188,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+9,1,"18:37",2317,2317,"Kalin Fisher made Jumper. Assisted by Akim Mitchell.",2,3,-1,0.466891764354075,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+10,1,"18:22",2302,2302,"Justin Forrest missed Three Point Jumper.",2,3,-1,0.468677429638587,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+11,1,"18:22",2302,2302,"Jermaine Marrow Defensive Rebound.",2,3,-1,0.468677429638587,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+12,1,"18:13",2293,2293,"Akim Mitchell missed Layup.",2,3,-1,0.480823403354469,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+13,1,"18:13",2293,2293,"Ronshad Shabazz Defensive Rebound.",2,3,-1,0.480823403354469,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+14,1,"18:07",2287,2287,"Ronshad Shabazz made Layup.",2,5,-3,0.415731595507246,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+15,1,"17:52",2272,2272,"Foul on Isaac Johnson.",2,5,-3,0.427977285771019,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+16,1,"17:52",2272,2272,"Kalin Fisher made Free Throw.",3,5,-2,0.453477967775941,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+17,1,"17:52",2272,2272,"Kalin Fisher made Free Throw.",4,5,-1,0.479225143696138,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+18,1,"17:49",2269,2269,"Justin Forrest Turnover.",4,5,-1,0.472746479805638,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+19,1,"17:49",2269,2269,"Jermaine Marrow Steal.",4,5,-1,0.472746479805638,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+20,1,"17:41",2261,2261,"Greg Heckstall missed Jumper.",4,5,-1,0.472746479805638,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+21,1,"17:41",2261,2261,"Tyrell Johnson Defensive Rebound.",4,5,-1,0.472746479805638,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+22,1,"17:29",2249,2249,"Griffin Kinney missed Jumper.",4,5,-1,0.490752087616198,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+23,1,"17:29",2249,2249,"Trevond Barnes Block.",4,5,-1,0.490752087616198,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+24,1,"17:27",2247,2247,"Kalin Fisher Defensive Rebound.",4,5,-1,0.490752087616198,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+25,1,"17:24",2244,2244,"Jermaine Marrow missed Layup.",4,5,-1,0.490752087616198,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+26,1,"17:24",2244,2244,"Greg Heckstall Offensive Rebound.",4,5,-1,0.490752087616198,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+27,1,"17:18",2238,2238,"Greg Heckstall missed Jumper.",4,5,-1,0.474009755350282,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+28,1,"17:18",2238,2238,"Isaac Johnson Defensive Rebound.",4,5,-1,0.474009755350282,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+29,1,"17:18",2238,2238,"Foul on Akim Mitchell.",4,5,-1,0.474009755350282,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+30,1,"16:57",2217,2217,"Ronshad Shabazz missed Three Point Jumper.",4,5,-1,0.479968020503312,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+31,1,"16:57",2217,2217,"Kalin Fisher Defensive Rebound.",4,5,-1,0.479968020503312,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+32,1,"16:51",2211,2211,"Akim Mitchell Turnover.",4,5,-1,0.479968020503312,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+33,1,"16:37",2197,2197,"Justin Forrest made Layup.",4,7,-3,0.426254108430666,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+34,1,"16:17",2177,2177,"Jermaine Marrow made Three Point Jumper. Assisted by Kalin Fisher.",7,7,0,0.494860316843017,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+35,1,"16:17",2177,2177,"Foul on Tyrell Johnson.",7,7,0,0.494860316843017,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+36,1,"16:17",2177,2177,"Jermaine Marrow made Free Throw.",8,7,1,0.522004275052757,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+37,1,"15:52",2152,2152,"Foul on Jermaine Marrow.",8,7,1,0.518760392346387,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+38,1,"15:52",2152,2152,"Official TV Timeout",8,7,1,0.518760392346387,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+39,1,"15:52",2152,2152,"Isaac Johnson made Free Throw.",8,8,0,0.488901201863852,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+40,1,"15:52",2152,2152,"Isaac Johnson missed Free Throw.",8,8,0,0.488901201863852,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+41,1,"15:52",2152,2152,"O'Showen Williams Offensive Rebound.",8,8,0,0.488901201863852,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+42,1,"15:48",2148,2148,"Ronshad Shabazz missed Three Point Jumper.",8,8,0,0.50784923465781,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+43,1,"15:48",2148,2148,"Jermaine Marrow Defensive Rebound.",8,8,0,0.50784923465781,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+44,1,"15:42",2142,2142,"Greg Heckstall missed Layup.",8,8,0,0.50784923465781,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+45,1,"15:42",2142,2142,"Hunter Seacat Defensive Rebound.",8,8,0,0.50784923465781,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+46,1,"15:33",2133,2133,"Foul on Malique Trent-Street.",8,8,0,0.496821187937119,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+47,1,"15:11",2111,2111,"Craig Hinton made Three Point Jumper. Assisted by Hunter Seacat.",8,11,-3,0.403482366177365,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+48,1,"15:00",2100,2100,"Kalin Fisher missed Three Point Jumper.",8,11,-3,0.412592803897401,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+49,1,"15:00",2100,2100,"Isaac Johnson Defensive Rebound.",8,11,-3,0.412592803897401,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+50,1,"14:48",2088,2088,"Foul on Trevond Barnes.",8,11,-3,0.426034212052602,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+51,1,"14:48",2088,2088,"Isaac Johnson missed Free Throw.",8,11,-3,0.426034212052602,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+52,1,"14:48",2088,2088,"Appalachian State Deadball Team Rebound.",8,11,-3,0.426034212052602,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+53,1,"14:48",2088,2088,"Isaac Johnson made Free Throw.",8,12,-4,0.399395623266761,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+54,1,"14:37",2077,2077,"Malique Trent-Street made Layup.",10,12,-2,0.436942837106422,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+55,1,"14:30",2070,2070,"Ronshad Shabazz missed Layup.",10,12,-2,0.436942837106422,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+56,1,"14:30",2070,2070,"Greg Heckstall Block.",10,12,-2,0.436942837106422,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+57,1,"14:27",2067,2067,"Austin Colbert Defensive Rebound.",10,12,-2,0.429332507930561,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+58,1,"14:13",2053,2053,"Foul on Austin Colbert.",10,12,-2,0.42709417394572,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+59,1,"14:13",2053,2053,"Austin Colbert Turnover.",10,12,-2,0.42709417394572,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+60,1,"13:49",2029,2029,"Isaac Johnson missed Jumper.",10,12,-2,0.424820291411792,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+61,1,"13:49",2029,2029,"Greg Heckstall Defensive Rebound.",10,12,-2,0.424820291411792,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+62,1,"13:39",2019,2019,"Austin Colbert Turnover.",10,12,-2,0.446843339917542,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+63,1,"13:37",2017,2017,"Isaac Johnson Steal.",10,12,-2,0.446843339917542,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+64,1,"13:36",2016,2016,"Foul on Greg Heckstall.",10,12,-2,0.446843339917542,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+65,1,"13:36",2016,2016,"Isaac Johnson missed Free Throw.",10,12,-2,0.446843339917542,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+66,1,"13:36",2016,2016,"Appalachian State Deadball Team Rebound.",10,12,-2,0.446843339917542,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+67,1,"13:36",2016,2016,"Isaac Johnson made Free Throw.",10,13,-3,0.418474474196356,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+68,1,"13:16",1996,1996,"Malique Trent-Street missed Layup.",10,13,-3,0.400996750559674,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+69,1,"13:16",1996,1996,"Justin Forrest Defensive Rebound.",10,13,-3,0.400996750559674,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+70,1,"13:11",1991,1991,"Justin Forrest missed Jumper.",10,13,-3,0.400996750559674,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+71,1,"13:11",1991,1991,"Greg Heckstall Block.",10,13,-3,0.400996750559674,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+72,1,"13:09",1989,1989,"Appalachian State Offensive Rebound.",10,13,-3,0.397414405603513,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+73,1,"12:55",1975,1975,"O'Showen Williams missed Three Point Jumper.",10,13,-3,0.403548902488348,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+74,1,"12:55",1975,1975,"Jermaine Marrow Defensive Rebound.",10,13,-3,0.403548902488348,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+75,1,"12:50",1970,1970,"Austin Colbert made Layup. Assisted by Jermaine Marrow.",12,13,-1,0.465994532993861,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+76,1,"12:42",1962,1962,"Tyrell Johnson made Three Point Jumper. Assisted by O'Showen Williams.",12,16,-4,0.391925288292114,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+77,1,"12:15",1935,1935,"Austin Colbert Turnover.",12,16,-4,0.363284152690145,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+78,1,"11:52",1912,1912,"Tyrell Johnson missed Layup.",12,16,-4,0.390430895234646,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+79,1,"11:52",1912,1912,"Greg Heckstall Block.",12,16,-4,0.390430895234646,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+80,1,"11:52",1912,1912,"Tyrell Johnson Offensive Rebound.",12,16,-4,0.390430895234646,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+81,1,"11:50",1910,1910,"Tyrell Johnson missed Layup.",12,16,-4,0.390430895234646,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+82,1,"11:50",1910,1910,"Jermaine Marrow Block.",12,16,-4,0.390430895234646,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+83,1,"11:49",1909,1909,"Jermaine Marrow Defensive Rebound.",12,16,-4,0.379289113970699,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+84,1,"11:44",1904,1904,"Foul on Tyrell Johnson.",12,16,-4,0.379289113970699,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+85,1,"11:40",1900,1900,"Charles Wilson-Fisher Turnover.",12,16,-4,0.379289113970699,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+86,1,"11:25",1885,1885,"Griffin Kinney missed Layup.",12,16,-4,0.367731412434415,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+87,1,"11:25",1885,1885,"Trevond Barnes Block.",12,16,-4,0.367731412434415,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+88,1,"11:23",1883,1883,"Jermaine Marrow Defensive Rebound.",12,16,-4,0.367731412434415,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+89,1,"11:07",1867,1867,"Jermaine Marrow Turnover.",12,16,-4,0.38481152303432,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+90,1,"10:49",1849,1849,"Ronshad Shabazz made Jumper. Assisted by O'Showen Williams.",12,18,-6,0.303185812314049,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+91,1,"10:28",1828,1828,"Malique Trent-Street missed Three Point Jumper.",12,18,-6,0.342611004255905,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+92,1,"10:28",1828,1828,"Ronshad Shabazz Defensive Rebound.",12,18,-6,0.342611004255905,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+93,1,"10:24",1824,1824,"Ronshad Shabazz Turnover.",12,18,-6,0.342611004255905,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+94,1,"10:23",1823,1823,"Jermaine Marrow Steal.",12,18,-6,0.342611004255905,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+95,1,"10:21",1821,1821,"Jermaine Marrow made Layup.",14,18,-4,0.398678762996534,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+96,1,"10:13",1813,1813,"Ronshad Shabazz missed Jumper.",14,18,-4,0.367629354653314,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+97,1,"10:13",1813,1813,"Malique Trent-Street Defensive Rebound.",14,18,-4,0.367629354653314,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+98,1,"10:10",1810,1810,"Foul on Ronshad Shabazz.",14,18,-4,0.367629354653314,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+99,1,"10:10",1810,1810,"Foul on Ronshad Shabazz.",14,18,-4,0.367629354653314,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+100,1,"9:59",1799,1799,"Greg Heckstall made Dunk. Assisted by Jaekwon Carliyle.",16,18,-2,0.42740912649733,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+101,1,"9:41",1781,1781,"Justin Forrest missed Three Point Jumper.",16,18,-2,0.413869310231885,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+102,1,"9:41",1781,1781,"Malique Trent-Street Defensive Rebound.",16,18,-2,0.413869310231885,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+103,1,"9:31",1771,1771,"Jaekwon Carliyle missed Layup.",16,18,-2,0.422382155357368,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+104,1,"9:31",1771,1771,"Griffin Kinney Defensive Rebound.",16,18,-2,0.422382155357368,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+105,1,"9:28",1768,1768,"Griffin Kinney Turnover.",16,18,-2,0.434129071529609,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+106,1,"9:27",1767,1767,"Greg Heckstall Steal.",16,18,-2,0.434129071529609,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+107,1,"9:26",1766,1766,"Greg Heckstall missed Three Point Jumper.",16,18,-2,0.434129071529609,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+108,1,"9:26",1766,1766,"Jaekwon Carliyle Offensive Rebound.",16,18,-2,0.434129071529609,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+109,1,"9:05",1745,1745,"Kalin Fisher missed Jumper.",16,18,-2,0.451826808826433,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+110,1,"9:05",1745,1745,"Ronshad Shabazz Defensive Rebound.",16,18,-2,0.451826808826433,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+111,1,"8:55",1735,1735,"Foul on Griffin Kinney.",16,18,-2,0.430123459304587,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+112,1,"8:55",1735,1735,"Griffin Kinney Turnover.",16,18,-2,0.430123459304587,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+113,1,"8:41",1721,1721,"Akim Mitchell made Jumper. Assisted by Malique Trent-Street.",18,18,0,0.516745303568119,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+114,1,"8:30",1710,1710,"O'Showen Williams Turnover.",18,18,0,0.498711377586014,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+115,1,"8:28",1708,1708,"Jaekwon Carliyle Steal.",18,18,0,0.487363254997727,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+116,1,"8:27",1707,1707,"Malique Trent-Street made Layup. Assisted by Trevond Barnes.",20,18,2,0.551031208946725,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+117,1,"8:12",1692,1692,"O'Showen Williams missed Three Point Jumper.",20,18,2,0.581449319273536,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+118,1,"8:12",1692,1692,"Justin Forrest Offensive Rebound.",20,18,2,0.581449319273536,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+119,1,"8:05",1685,1685,"Justin Forrest Turnover.",20,18,2,0.568560210202789,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+120,1,"8:02",1682,1682,"Lysander Bracey Steal.",20,18,2,0.568560210202789,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+121,1,"7:46",1666,1666,"Jaekwon Carliyle Turnover.",20,18,2,0.562072108690065,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+122,1,"7:45",1665,1665,"Justin Forrest Steal.",20,18,2,0.562072108690065,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+123,1,"7:33",1653,1653,"Foul on Trevond Barnes.",20,18,2,0.573148777331747,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+124,1,"7:33",1653,1653,"Official TV Timeout",20,18,2,0.573148777331747,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+125,1,"7:28",1648,1648,"Isaac Johnson made Free Throw.",20,19,1,0.541105785784884,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+126,1,"7:28",1648,1648,"Isaac Johnson made Free Throw.",20,20,0,0.506383847157604,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+127,1,"7:10",1630,1630,"Foul on Charles Wilson-Fisher.",20,20,0,0.512360334784189,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+128,1,"7:10",1630,1630,"Charles Wilson-Fisher Turnover.",20,20,0,0.512360334784189,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+129,1,"6:42",1602,1602,"Craig Hinton missed Three Point Jumper.",20,20,0,0.488948982915821,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+130,1,"6:42",1602,1602,"Hampton Defensive Rebound.",20,20,0,0.488948982915821,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+131,1,"6:26",1586,1586,"Lysander Bracey Turnover.",20,20,0,0.483482918937331,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+132,1,"6:24",1584,1584,"Ronshad Shabazz Steal.",20,20,0,0.483482918937331,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+133,1,"6:22",1582,1582,"Hunter Seacat Turnover.",20,20,0,0.483482918937331,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+134,1,"6:20",1580,1580,"Akim Mitchell Steal.",20,20,0,0.483482918937331,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+135,1,"6:07",1567,1567,"Jaekwon Carliyle made Layup.",22,20,2,0.556414231797153,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+136,1,"5:59",1559,1559,"Ronshad Shabazz Turnover.",22,20,2,0.563126813980665,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+137,1,"5:59",1559,1559,"Malique Trent-Street Steal.",22,20,2,0.563126813980665,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+138,1,"5:59",1559,1559,"Malique Trent-Street missed Layup.",22,20,2,0.563126813980665,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+139,1,"5:59",1559,1559,"Craig Hinton Defensive Rebound.",22,20,2,0.563126813980665,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+140,1,"5:05",1505,1505,"Hunter Seacat missed Jumper.",22,20,2,0.56910477722045,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+141,1,"5:05",1505,1505,"Jaekwon Carliyle Defensive Rebound.",22,20,2,0.56910477722045,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+142,1,"4:50",1490,1490,"Foul on Zach Cottrell.",22,20,2,0.59001072567609,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+143,1,"4:41",1481,1481,"Jaekwon Carliyle missed Layup.",22,20,2,0.563968986153117,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+144,1,"4:41",1481,1481,"Craig Hinton Block.",22,20,2,0.563968986153117,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+145,1,"4:40",1480,1480,"Hampton Offensive Rebound.",22,20,2,0.563968986153117,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+146,1,"4:27",1467,1467,"Hampton  Turnover.",22,20,2,0.586400411414711,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+147,1,"4:25",1465,1465,"Ronshad Shabazz Turnover.",22,20,2,0.586400411414711,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+148,1,"4:09",1449,1449,"Jaekwon Carliyle made Layup.",24,20,4,0.669967709714824,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+149,1,"4:05",1445,1445,"Foul on Jaekwon Carliyle.",24,20,4,0.669967709714824,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+150,1,"4:03",1443,1443,"Ronshad Shabazz missed Free Throw.",24,20,4,0.669967709714824,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+151,1,"4:03",1443,1443,"Charles Wilson-Fisher Defensive Rebound.",24,20,4,0.669967709714824,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+152,1,"3:55",1435,1435,"Charles Wilson-Fisher missed Layup.",24,20,4,0.658262397144357,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+153,1,"3:55",1435,1435,"Akim Mitchell Offensive Rebound.",24,20,4,0.658262397144357,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+154,1,"3:53",1433,1433,"Akim Mitchell made Layup.",26,20,6,0.721872970574773,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+155,1,"3:53",1433,1433,"Ronshad Shabazz Turnover.",26,20,6,0.721872970574773,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+156,1,"3:33",1413,1413,"Greg Heckstall missed Three Point Jumper.",26,20,6,0.715817274852863,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+157,1,"3:33",1413,1413,"Akim Mitchell Offensive Rebound.",26,20,6,0.715817274852863,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+158,1,"3:33",1413,1413,"Foul on Bennett Holley.",26,20,6,0.715817274852863,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+159,1,"3:33",1413,1413,"Akim Mitchell made Free Throw.",27,20,7,0.74628274119789,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+160,1,"3:33",1413,1413,"Akim Mitchell made Free Throw.",28,20,8,0.774511018081593,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+161,1,"3:20",1400,1400,"Justin Forrest Turnover.",28,20,8,0.785627644483974,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+162,1,"3:19",1399,1399,"Akim Mitchell Steal.",28,20,8,0.76447163672978,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+163,1,"3:17",1397,1397,"Jermaine Marrow made Layup. Assisted by Akim Mitchell.",30,20,10,0.815509129607239,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+164,1,"3:07",1387,1387,"Craig Hinton Turnover.",30,20,10,0.8236321894823,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+165,1,"2:44",1364,1364,"Jermaine Marrow missed Jumper.",30,20,10,0.823857790887263,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+166,1,"2:44",1364,1364,"Greg Heckstall Offensive Rebound.",30,20,10,0.823857790887263,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+167,1,"2:36",1356,1356,"Akim Mitchell Turnover.",30,20,10,0.833105759384482,"Hampton","Appalachian State",4,4,1,0,-0.3,400990417,2017-12-20
+168,1,"2:36",1356,1356,"Justin Forrest Steal.",30,20,10,0.833105759384482,"Hampton","Appalachian State",4,4,1,0,-0.3,400990417,2017-12-20
+169,1,"2:36",1356,1356,"Appalachian State  Timeout",30,20,10,0.833105759384482,"Hampton","Appalachian State",3,4,1,0,-0.3,400990417,2017-12-20
+170,1,"2:27",1347,1347,"Tyrell Johnson missed Three Point Jumper.",30,20,10,0.827457198252037,"Hampton","Appalachian State",3,4,1,0,-0.3,400990417,2017-12-20
+171,1,"2:27",1347,1347,"Jermaine Marrow Defensive Rebound.",30,20,10,0.827457198252037,"Hampton","Appalachian State",3,4,1,0,-0.3,400990417,2017-12-20
+172,1,"2:19",1339,1339,"Kalin Fisher missed Layup.",30,20,10,0.818668219521239,"Hampton","Appalachian State",3,4,1,0,-0.3,400990417,2017-12-20
+173,1,"2:19",1339,1339,"Charles Wilson-Fisher Offensive Rebound.",30,20,10,0.818668219521239,"Hampton","Appalachian State",3,4,1,0,-0.3,400990417,2017-12-20
+174,1,"2:15",1335,1335,"Charles Wilson-Fisher made Jumper.",32,20,12,0.86038559919129,"Hampton","Appalachian State",3,4,1,0,-0.3,400990417,2017-12-20
+175,1,"2:00",1320,1320,"Tyrell Johnson missed Three Point Jumper.",32,20,12,0.86873929908807,"Hampton","Appalachian State",3,4,1,0,-0.3,400990417,2017-12-20
+176,1,"2:00",1320,1320,"Greg Heckstall Defensive Rebound.",32,20,12,0.86873929908807,"Hampton","Appalachian State",3,4,1,0,-0.3,400990417,2017-12-20
+177,1,"1:42",1302,1302,"Foul on Justin Forrest.",32,20,12,0.858557758489084,"Hampton","Appalachian State",3,4,1,0,-0.3,400990417,2017-12-20
+178,1,"1:37",1297,1297,"Charles Wilson-Fisher missed Free Throw.",32,20,12,0.893277972052867,"Hampton","Appalachian State",3,4,1,0,-0.3,400990417,2017-12-20
+179,1,"1:37",1297,1297,"Hampton Deadball Team Rebound.",32,20,12,0.893277972052867,"Hampton","Appalachian State",3,4,1,0,-0.3,400990417,2017-12-20
+180,1,"1:37",1297,1297,"Charles Wilson-Fisher missed Free Throw.",32,20,12,0.893277972052867,"Hampton","Appalachian State",3,4,1,0,-0.3,400990417,2017-12-20
+181,1,"1:37",1297,1297,"Isaac Johnson Defensive Rebound.",32,20,12,0.893277972052867,"Hampton","Appalachian State",3,4,1,0,-0.3,400990417,2017-12-20
+182,1,"1:21",1281,1281,"Justin Forrest missed Jumper.",32,20,12,0.856937257872821,"Hampton","Appalachian State",3,4,0,0,-0.3,400990417,2017-12-20
+183,1,"1:21",1281,1281,"Kalin Fisher Defensive Rebound.",32,20,12,0.856937257872821,"Hampton","Appalachian State",3,4,0,0,-0.3,400990417,2017-12-20
+184,1,"1:16",1276,1276,"Jermaine Marrow made Layup. Assisted by Kalin Fisher.",34,20,14,0.884056929202103,"Hampton","Appalachian State",3,4,0,0,-0.3,400990417,2017-12-20
+185,1,"1:00",1260,1260,"Foul on Kalin Fisher.",34,20,14,0.907386397981819,"Hampton","Appalachian State",3,4,0,0,-0.3,400990417,2017-12-20
+186,1,"0:59",1259,1259,"Isaac Johnson made Free Throw.",34,21,13,0.878697991213119,"Hampton","Appalachian State",3,4,0,0,-0.3,400990417,2017-12-20
+187,1,"0:59",1259,1259,"Isaac Johnson missed Free Throw.",34,21,13,0.878697991213119,"Hampton","Appalachian State",3,4,0,0,-0.3,400990417,2017-12-20
+188,1,"0:59",1259,1259,"Charles Wilson-Fisher Defensive Rebound.",34,21,13,0.878697991213119,"Hampton","Appalachian State",3,4,0,0,-0.3,400990417,2017-12-20
+189,1,"0:38",1238,1238,"Greg Heckstall made Three Point Jumper. Assisted by Jermaine Marrow.",37,21,16,0.92811127418739,"Hampton","Appalachian State",3,4,0,0,-0.3,400990417,2017-12-20
+190,1,"0:29",1229,1229,"Foul on Malique Trent-Street.",37,21,16,0.938900064270601,"Hampton","Appalachian State",3,4,0,0,-0.3,400990417,2017-12-20
+191,1,"0:29",1229,1229,"O'Showen Williams made Free Throw.",37,22,15,0.928470497143689,"Hampton","Appalachian State",3,4,0,0,-0.3,400990417,2017-12-20
+192,1,"0:29",1229,1229,"O'Showen Williams missed Free Throw.",37,22,15,0.928470497143689,"Hampton","Appalachian State",3,4,0,0,-0.3,400990417,2017-12-20
+193,1,"0:29",1229,1229,"Greg Heckstall Defensive Rebound.",37,22,15,0.928470497143689,"Hampton","Appalachian State",3,4,0,0,-0.3,400990417,2017-12-20
+194,1,"0:03",1203,1203,"Jermaine Marrow missed Layup.",37,22,15,0.915989425225952,"Hampton","Appalachian State",3,4,0,0,-0.3,400990417,2017-12-20
+195,1,"0:03",1203,1203,"Jake Wilson Block.",37,22,15,0.915989425225952,"Hampton","Appalachian State",3,4,0,0,-0.3,400990417,2017-12-20
+196,1,"0:01",1201,1201,"Charles Wilson-Fisher Offensive Rebound.",37,22,15,0.915989425225952,"Hampton","Appalachian State",3,4,0,0,-0.3,400990417,2017-12-20
+197,1,"0:00",1200,1200,"Charles Wilson-Fisher made Layup.",39,22,17,0.93747146325405,"Hampton","Appalachian State",3,4,0,0,-0.3,400990417,2017-12-20
+198,1,"0:00",1200,1200,"End of 1st half",37,22,15,0.915989425225952,"Hampton","Appalachian State",3,4,0,0,-0.3,400990417,2017-12-20
+199,2,"20:00",1200,1200,"PLAY",37,22,15,0.915989425225952,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+200,2,"19:44",1184,1184,"Greg Heckstall missed Jumper.",39,22,17,0.943271050378013,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+201,2,"19:44",1184,1184,"Justin Forrest Defensive Rebound.",39,22,17,0.943271050378013,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+202,2,"19:35",1175,1175,"Ronshad Shabazz missed Three Point Jumper.",39,22,17,0.943471401566845,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+203,2,"19:35",1175,1175,"Tyrell Johnson Offensive Rebound.",39,22,17,0.943471401566845,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+204,2,"19:35",1175,1175,"Justin Forrest missed Three Point Jumper.",39,22,17,0.943471401566845,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+205,2,"19:35",1175,1175,"Jermaine Marrow Defensive Rebound.",39,22,17,0.943471401566845,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+206,2,"19:35",1175,1175,"Jermaine Marrow Turnover.",39,22,17,0.943471401566845,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+207,2,"19:35",1175,1175,"Griffin Kinney Steal.",39,22,17,0.943471401566845,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+208,2,"19:32",1172,1172,"Isaac Johnson made Layup.",39,24,15,0.923133282513586,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+209,2,"18:46",1126,1126,"Foul on Tyrell Johnson.",39,24,15,0.941343901977923,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+210,2,"18:46",1126,1126,"Jermaine Marrow made Free Throw.",40,24,16,0.950822029207151,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+211,2,"18:46",1126,1126,"Jermaine Marrow made Free Throw.",41,24,17,0.958835577801849,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+212,2,"18:25",1105,1105,"Isaac Johnson missed Jumper.",41,24,17,0.941760010787356,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+213,2,"18:25",1105,1105,"Trevond Barnes Block.",41,24,17,0.941760010787356,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+214,2,"18:25",1105,1105,"Isaac Johnson Offensive Rebound.",41,24,17,0.941760010787356,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+215,2,"18:23",1103,1103,"Ronshad Shabazz missed Three Point Jumper.",41,24,17,0.941760010787356,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+216,2,"18:23",1103,1103,"Isaac Johnson Offensive Rebound.",41,24,17,0.941760010787356,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+217,2,"18:18",1098,1098,"Isaac Johnson missed Jumper.",41,24,17,0.950506177953283,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+218,2,"18:18",1098,1098,"Jermaine Marrow Defensive Rebound.",41,24,17,0.950506177953283,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+219,2,"17:46",1066,1066,"Greg Heckstall missed Jumper.",41,24,17,0.953735541471932,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+220,2,"17:46",1066,1066,"Akim Mitchell Offensive Rebound.",41,24,17,0.953735541471932,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+221,2,"17:25",1045,1045,"Foul on Ronshad Shabazz.",41,24,17,0.955109715096983,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+222,2,"17:25",1045,1045,"Jermaine Marrow made Free Throw.",42,24,18,0.962049900048254,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+223,2,"17:21",1041,1041,"Jermaine Marrow made Free Throw.",43,24,19,0.967953111338242,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+224,2,"16:59",1019,1019,"Griffin Kinney Turnover.",43,24,19,0.967193920609645,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+225,2,"16:45",1005,1005,"Trevond Barnes made Layup. Assisted by Jermaine Marrow.",45,24,21,0.97945376324417,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+226,2,"16:15",975,975,"Jake Wilson Turnover.",45,24,21,0.978681234980882,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+227,2,"16:14",974,974,"Jermaine Marrow Turnover.",45,24,21,0.978681234980882,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+228,2,"16:14",974,974,"Isaac Johnson Steal.",45,24,21,0.978681234980882,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+229,2,"16:14",974,974,"Craig Hinton missed Three Point Jumper.",45,24,21,0.978681234980882,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+230,2,"16:14",974,974,"Appalachian State Offensive Rebound.",45,24,21,0.978681234980882,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+231,2,"16:03",963,963,"Foul on Trevond Barnes.",45,24,21,0.979952007966668,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+232,2,"15:44",944,944,"Official TV Timeout",45,24,21,0.983837538975294,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+233,2,"15:41",941,941,"Ronshad Shabazz made Three Point Jumper. Assisted by O'Showen Williams.",45,27,18,0.971624739764857,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+234,2,"15:27",927,927,"Kalin Fisher missed Three Point Jumper.",45,27,18,0.967820978372036,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+235,2,"15:27",927,927,"Appalachian State Defensive Rebound.",45,27,18,0.967820978372036,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+236,2,"15:26",926,926,"Foul on Austin Colbert.",45,27,18,0.967820978372036,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+237,2,"15:05",905,905,"Isaac Johnson missed Layup.",45,27,18,0.969464632482871,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+238,2,"15:05",905,905,"Craig Hinton Offensive Rebound.",45,27,18,0.969464632482871,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+239,2,"15:04",904,904,"Craig Hinton Turnover.",45,27,18,0.969464632482871,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+240,2,"14:46",886,886,"Foul on O'Showen Williams.",45,27,18,0.957613937463794,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+241,2,"14:46",886,886,"Malique Trent-Street made Free Throw.",46,27,19,0.964135347366464,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+242,2,"14:46",886,886,"Malique Trent-Street made Free Throw.",47,27,20,0.969685153259765,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+243,2,"14:36",876,876,"Foul on Malique Trent-Street.",47,27,20,0.979831602147042,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+244,2,"14:25",865,865,"Ronshad Shabazz missed Three Point Jumper.",47,27,20,0.97795992744754,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+245,2,"14:25",865,865,"Kalin Fisher Defensive Rebound.",47,27,20,0.97795992744754,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+246,2,"14:19",859,859,"Malique Trent-Street Turnover.",47,27,20,0.984996176742566,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+247,2,"14:18",858,858,"Justin Forrest Steal.",47,27,20,0.984996176742566,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+248,2,"14:15",855,855,"Ronshad Shabazz missed Three Point Jumper.",47,27,20,0.984996176742566,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+249,2,"14:15",855,855,"Jake Wilson Offensive Rebound.",47,27,20,0.984996176742566,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+250,2,"14:11",851,851,"Foul on Greg Heckstall.",47,27,20,0.984996176742566,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+251,2,"14:11",851,851,"Jake Wilson missed Free Throw.",47,27,20,0.984996176742566,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+252,2,"14:11",851,851,"Appalachian State Deadball Team Rebound.",47,27,20,0.984996176742566,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+253,2,"14:11",851,851,"Jake Wilson made Free Throw.",47,28,19,0.98164290474395,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+254,2,"13:56",836,836,"Greg Heckstall made Jumper. Assisted by Jermaine Marrow.",49,28,21,0.986950044886999,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+255,2,"13:48",828,828,"Foul on Jake Wilson.",49,28,21,0.981216017900001,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+256,2,"13:48",828,828,"Jake Wilson Turnover.",49,28,21,0.981216017900001,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+257,2,"13:32",812,812,"Kalin Fisher Turnover.",49,28,21,0.982831221335565,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+258,2,"13:30",810,810,"Bennett Holley Steal.",49,28,21,0.982831221335565,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+259,2,"13:25",805,805,"Ronshad Shabazz missed Layup.",49,28,21,0.98714972081862,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+260,2,"13:25",805,805,"Greg Heckstall Block.",49,28,21,0.98714972081862,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+261,2,"13:23",803,803,"Kalin Fisher Defensive Rebound.",49,28,21,0.98714972081862,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+262,2,"13:20",800,800,"Kalin Fisher made Layup.",51,28,23,0.991405207884615,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+263,2,"13:10",790,790,"Ronshad Shabazz made Layup. Assisted by Justin Forrest.",51,30,21,0.990066140201958,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+264,2,"12:48",768,768,"Charles Wilson-Fisher Turnover.",51,30,21,0.990180193808313,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+265,2,"12:45",765,765,"O'Showen Williams Steal.",51,30,21,0.990180193808313,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+266,2,"12:43",763,763,"Isaac Johnson made Layup. Assisted by Bennett Holley.",51,32,19,0.984956826566677,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+267,2,"12:22",742,742,"Kalin Fisher missed Jumper.",51,32,19,0.985282293312836,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+268,2,"12:22",742,742,"Hampton Offensive Rebound.",51,32,19,0.985282293312836,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+269,2,"12:03",723,723,"Foul on Bennett Holley.",51,32,19,0.986483339393959,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+270,2,"12:02",722,722,"Greg Heckstall missed Jumper.",51,32,19,0.986483339393959,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+271,2,"12:02",722,722,"Kalin Fisher Offensive Rebound.",51,32,19,0.986483339393959,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+272,2,"11:52",712,712,"Malique Trent-Street made Layup.",53,32,21,0.989072714087865,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+273,2,"11:29",689,689,"O'Showen Williams made Three Point Jumper. Assisted by Isaac Johnson.",53,35,18,0.982076025822251,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+274,2,"11:08",668,668,"Foul on Bennett Holley.",53,35,18,0.984915513372126,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+275,2,"11:08",668,668,"Official TV Timeout",53,35,18,0.984915513372126,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+276,2,"11:08",668,668,"Jermaine Marrow made Free Throw.",54,35,19,0.987932464869476,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+277,2,"11:08",668,668,"Jermaine Marrow made Free Throw.",55,35,20,0.990351926053259,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+278,2,"10:56",656,656,"O'Showen Williams missed Layup.",55,35,20,0.992163483347981,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+279,2,"10:56",656,656,"Charles Wilson-Fisher Block.",55,35,20,0.992163483347981,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+280,2,"10:56",656,656,"Appalachian State Offensive Rebound.",55,35,20,0.992163483347981,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+281,2,"10:54",654,654,"Justin Forrest made Three Point Jumper. Assisted by Hunter Seacat.",55,38,17,0.984130412527674,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+282,2,"10:22",622,622,"Kalin Fisher made Layup. Assisted by Jermaine Marrow.",57,38,19,0.991688869000909,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+283,2,"10:11",611,611,"Isaac Johnson missed Jumper.",57,38,19,0.99132421117279,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+284,2,"10:11",611,611,"Malique Trent-Street Defensive Rebound.",57,38,19,0.99132421117279,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+285,2,"9:50",590,590,"Malique Trent-Street made Jumper.",59,38,21,0.993710422491065,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+286,2,"9:34",574,574,"Ronshad Shabazz Turnover.",59,38,21,0.995737162104923,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+287,2,"9:33",573,573,"Jermaine Marrow Steal.",59,38,21,0.995737162104923,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+288,2,"9:30",570,570,"Malique Trent-Street made Dunk. Assisted by Jermaine Marrow.",61,38,23,0.997426763909066,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+289,2,"9:25",565,565,"Justin Forrest Turnover.",61,38,23,0.997498760388467,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+290,2,"9:14",554,554,"Malique Trent-Street missed Layup.",61,38,23,0.997451322959609,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+291,2,"9:14",554,554,"Isaac Johnson Defensive Rebound.",61,38,23,0.997451322959609,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+292,2,"9:10",550,550,"Foul on Jaekwon Carliyle.",61,38,23,0.997451322959609,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+293,2,"9:01",541,541,"Craig Hinton missed Three Point Jumper.",61,38,23,0.99781312538133,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+294,2,"9:01",541,541,"Malique Trent-Street Defensive Rebound.",61,38,23,0.99781312538133,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+295,2,"8:35",515,515,"Jaekwon Carliyle Turnover.",61,38,23,0.998071280530114,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+296,2,"8:17",497,497,"Justin Forrest missed Three Point Jumper.",61,38,23,0.998341883314866,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+297,2,"8:17",497,497,"Ronshad Shabazz Offensive Rebound.",61,38,23,0.998341883314866,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+298,2,"8:13",493,493,"Ronshad Shabazz missed Three Point Jumper.",61,38,23,0.998341883314866,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+299,2,"8:13",493,493,"Hunter Seacat Offensive Rebound.",61,38,23,0.998341883314866,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+300,2,"8:10",490,490,"Foul on Charles Wilson-Fisher.",61,38,23,0.998341883314866,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+301,2,"8:09",489,489,"Ronshad Shabazz made Jumper.",61,40,21,0.996908007240464,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+302,2,"7:51",471,471,"Foul on Charles Wilson-Fisher.",61,40,21,0.997816254152375,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+303,2,"7:51",471,471,"Charles Wilson-Fisher Turnover.",61,40,21,0.997816254152375,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+304,2,"7:51",471,471,"Official TV Timeout",61,40,21,0.997816254152375,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+305,2,"7:38",458,458,"Justin Forrest missed Layup.",61,40,21,0.998726948142886,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+306,2,"7:38",458,458,"Craig Hinton Offensive Rebound.",61,40,21,0.998726948142886,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+307,2,"7:32",452,452,"Ronshad Shabazz made Three Point Jumper. Assisted by Craig Hinton.",61,43,18,0.996711246497601,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+308,2,"7:25",445,445,"Charles Wilson-Fisher missed Jumper.",61,43,18,0.993524288858219,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+309,2,"7:25",445,445,"Craig Hinton Defensive Rebound.",61,43,18,0.993524288858219,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+310,2,"7:18",438,438,"Justin Forrest made Three Point Jumper.",61,46,15,0.99084853734625,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+311,2,"6:53",413,413,"Malique Trent-Street made Layup.",63,46,17,0.994075641088905,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+312,2,"6:35",395,395,"Justin Forrest Turnover.",63,46,17,0.995485918144255,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+313,2,"6:34",394,394,"Jaekwon Carliyle Steal.",63,46,17,0.995485918144255,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+314,2,"6:32",392,392,"Lysander Bracey made Layup. Assisted by Jaekwon Carliyle.",65,46,19,0.997576968937387,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+315,2,"6:24",384,384,"Foul on Ronshad Shabazz.",65,46,19,0.996576591745321,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+316,2,"6:24",384,384,"Lysander Bracey made Free Throw.",66,46,20,0.997455146193674,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+317,2,"6:10",370,370,"Ronshad Shabazz Turnover.",66,46,20,0.997889488466825,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+318,2,"6:08",368,368,"Akim Mitchell Steal.",66,46,20,0.9984940221996,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+319,2,"5:57",357,357,"Foul on Zach Cottrell.",66,46,20,0.998719961263631,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+320,2,"5:57",357,357,"Jaekwon Carliyle missed Free Throw.",66,46,20,0.998719961263631,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+321,2,"5:57",357,357,"Hampton Deadball Team Rebound.",66,46,20,0.998719961263631,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+322,2,"5:57",357,357,"Jaekwon Carliyle made Free Throw.",67,46,21,0.999088816832028,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+323,2,"5:47",347,347,"Zach Cottrell missed Three Point Jumper.",67,46,21,0.999007405484472,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+324,2,"5:47",347,347,"Jaekwon Carliyle Defensive Rebound.",67,46,21,0.999007405484472,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+325,2,"5:17",317,317,"Hampton  Turnover.",67,46,21,0.999574814890422,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+326,2,"5:11",311,311,"Justin Forrest made Layup.",67,48,19,0.99911525302167,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+327,2,"4:54",294,294,"Lysander Bracey Turnover.",67,48,19,0.998496115013934,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+328,2,"4:48",288,288,"O'Showen Williams missed Three Point Jumper.",67,48,19,0.998743681086962,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+329,2,"4:48",288,288,"Jaekwon Carliyle Defensive Rebound.",67,48,19,0.998743681086962,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+330,2,"4:48",288,288,"Foul on Zach Cottrell.",67,48,19,0.998743681086962,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+331,2,"4:48",288,288,"Jaekwon Carliyle made Free Throw.",68,48,20,0.99911682896638,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+332,2,"4:48",288,288,"Jaekwon Carliyle made Free Throw.",69,48,21,0.999379214529016,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+333,2,"4:41",281,281,"Jake Wilson Turnover.",69,48,21,0.999379214529016,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+334,2,"4:39",279,279,"Jaekwon Carliyle Steal.",69,48,21,0.999693563433358,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+335,2,"4:34",274,274,"Jermaine Marrow missed Jumper.",69,48,21,0.999693563433358,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+336,2,"4:34",274,274,"Akim Mitchell Offensive Rebound.",69,48,21,0.999693563433358,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+337,2,"4:31",271,271,"Akim Mitchell missed Jumper.",69,48,21,0.999693563433358,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+338,2,"4:31",271,271,"Jermaine Marrow Offensive Rebound.",69,48,21,0.999693563433358,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+339,2,"4:29",269,269,"Jermaine Marrow made Jumper.",71,48,23,0.999821163753128,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+340,2,"4:15",255,255,"Foul on Trevond Barnes.",71,48,23,0.999943750915019,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+341,2,"4:15",255,255,"O'Showen Williams missed Free Throw.",71,48,23,0.999943750915019,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+342,2,"4:15",255,255,"Appalachian State Deadball Team Rebound.",71,48,23,0.999943750915019,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+343,2,"4:15",255,255,"O'Showen Williams made Free Throw.",71,49,22,0.999914276031565,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+344,2,"4:14",254,254,"Jaekwon Carliyle Turnover.",71,49,22,0.999914276031565,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+345,2,"4:14",254,254,"Justin Forrest Steal.",71,49,22,0.999914276031565,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+346,2,"4:14",254,254,"Foul on Jaekwon Carliyle.",71,49,22,0.999914276031565,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+347,2,"4:14",254,254,"Justin Forrest missed Free Throw.",71,49,22,0.999914276031565,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+348,2,"4:14",254,254,"Jermaine Marrow Defensive Rebound.",71,49,22,0.999914276031565,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+349,2,"3:55",235,235,"Official TV Timeout",71,49,22,0.999877729577517,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+350,2,"3:42",222,222,"Malique Trent-Street made Three Point Jumper.",74,49,25,0.999976190746556,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+351,2,"3:29",209,209,"Ronshad Shabazz Turnover.",74,49,25,0.999988589663723,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+352,2,"3:29",209,209,"Malique Trent-Street Steal.",74,49,25,0.999988589663723,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+353,2,"3:27",207,207,"Malique Trent-Street made Layup.",76,49,27,0.999995379710986,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+354,2,"3:10",190,190,"Foul on Jermaine Marrow.",76,49,27,0.999996804724744,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+355,2,"3:10",190,190,"Justin Forrest made Free Throw.",76,50,26,0.999994898024273,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+356,2,"3:10",190,190,"Justin Forrest made Free Throw.",76,51,25,0.999991853557326,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+357,2,"2:57",177,177,"Trevond Barnes Turnover.",76,51,25,0.999995987962758,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+358,2,"2:49",169,169,"Justin Forrest missed Three Point Jumper.",76,51,25,0.99999753396331,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+359,2,"2:49",169,169,"Greg Heckstall Defensive Rebound.",76,51,25,0.99999753396331,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+360,2,"2:25",145,145,"Foul on Tyrell Johnson.",76,51,25,0.999997322624136,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+361,2,"2:25",145,145,"Trevond Barnes missed Free Throw.",76,51,25,0.999997322624136,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+362,2,"2:25",145,145,"Hampton Deadball Team Rebound.",76,51,25,0.999997322624136,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+363,2,"2:25",145,145,"Trevond Barnes made Free Throw.",77,51,26,0.999998405285354,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+364,2,"2:12",132,132,"Craig Hinton missed Three Point Jumper.",77,51,26,0.999999476420946,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+365,2,"2:12",132,132,"Eugene Marshall III Defensive Rebound.",77,51,26,0.999999476420946,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+366,2,"2:05",125,125,"Malique Trent-Street made Dunk. Assisted by Eugene Marshall III.",79,51,28,0.999999861568825,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+367,2,"1:53",113,113,"Zach Cottrell missed Jumper.",79,51,28,0.999999956370745,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+368,2,"1:53",113,113,"Tyrell Johnson Offensive Rebound.",79,51,28,0.999999956370745,"Hampton","Appalachian State",4,4,0,0,-0.3,400990417,2017-12-20
+369,2,"1:50",110,110,"Tyrell Johnson made Layup.",79,53,26,0.999999854903059,"Hampton","Appalachian State",4,4,0,1,-0.3,400990417,2017-12-20
+370,2,"1:50",110,110,"Hampton  Timeout",79,53,26,0.999999854903059,"Hampton","Appalachian State",4,3,0,1,-0.3,400990417,2017-12-20
+371,2,"1:39",99,99,"Trevond Barnes made Three Point Jumper. Assisted by Eugene Marshall III.",82,53,29,0.999999988365203,"Hampton","Appalachian State",4,3,0,1,-0.3,400990417,2017-12-20
+372,2,"1:37",97,97,"Hampton  Timeout",82,53,29,0.999999988365203,"Hampton","Appalachian State",4,2,0,1,-0.3,400990417,2017-12-20
+373,2,"1:30",90,90,"Joseph Battle Turnover.",82,53,29,0.999999988365203,"Hampton","Appalachian State",4,2,0,1,-0.3,400990417,2017-12-20
+374,2,"1:29",89,89,"Jaekwon Carliyle Steal.",82,53,29,0.999999999190195,"Hampton","Appalachian State",4,2,0,1,-0.3,400990417,2017-12-20
+375,2,"1:27",87,87,"Foul on Tyrell Johnson.",82,53,29,0.999999999190195,"Hampton","Appalachian State",4,2,0,1,-0.3,400990417,2017-12-20
+376,2,"1:27",87,87,"Eugene Marshall III made Free Throw.",83,53,30,0.99999999960443,"Hampton","Appalachian State",4,2,0,1,-0.3,400990417,2017-12-20
+377,2,"1:27",87,87,"Eugene Marshall III made Free Throw.",84,53,31,0.999999999806774,"Hampton","Appalachian State",4,2,0,1,-0.3,400990417,2017-12-20
+378,2,"1:13",73,73,"Hunter Seacat missed Jumper.",84,53,31,0.999999999860311,"Hampton","Appalachian State",4,2,0,1,-0.3,400990417,2017-12-20
+379,2,"1:13",73,73,"Jaekwon Carliyle Defensive Rebound.",84,53,31,0.999999999860311,"Hampton","Appalachian State",4,2,0,1,-0.3,400990417,2017-12-20
+380,2,"0:46",46,46,"Trey Houston made Jumper. Assisted by Eugene Marshall III.",86,53,33,0.999999999999999,"Hampton","Appalachian State",4,2,0,1,-0.3,400990417,2017-12-20
+381,2,"0:33",33,33,"Ronshad Shabazz Turnover.",86,53,33,1,"Hampton","Appalachian State",4,2,0,0,-0.3,400990417,2017-12-20
+382,2,"0:32",32,32,"Trevond Barnes Steal.",86,53,33,1,"Hampton","Appalachian State",4,2,0,0,-0.3,400990417,2017-12-20
+383,2,"0:01",1,1,"Hampton  Turnover.",86,53,33,1,"Hampton","Appalachian State",4,2,0,0,-0.3,400990417,2017-12-20
+384,2,"0:00",0,0,"End of Game",86,53,33,1,"Hampton","Appalachian State",4,2,0,0,-0.3,400990417,2017-12-20

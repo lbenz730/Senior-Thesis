@@ -1,0 +1,390 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.852225761633161,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+2,1,"19:54",2394,2394,"Johnathan Stove Turnover.",0,0,0,0.852225761633161,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+3,1,"19:53",2393,2393,"Breein Tyree Steal.",0,0,0,0.852225761633161,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+4,1,"19:49",2389,2389,"Foul on Johnathan Stove.",0,0,0,0.84797092826269,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+5,1,"19:43",2383,2383,"Terence Davis missed Jumper.",0,0,0,0.84797092826269,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+6,1,"19:43",2383,2383,"Bryce Washington Defensive Rebound.",0,0,0,0.84797092826269,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+7,1,"19:20",2360,2360,"Foul on Markel Crawford.",0,0,0,0.833106279835543,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+8,1,"19:20",2360,2360,"Frank Bartley IV missed Free Throw.",0,0,0,0.833106279835543,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+9,1,"19:20",2360,2360,"Louisiana Deadball Team Rebound.",0,0,0,0.833106279835543,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+10,1,"19:20",2360,2360,"Frank Bartley IV made Free Throw.",0,1,-1,0.828393314732922,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+11,1,"19:08",2348,2348,"Foul on Frank Bartley IV.",0,1,-1,0.822875740216245,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+12,1,"19:03",2343,2343,"Breein Tyree made Layup.",2,1,1,0.847551266037879,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+13,1,"18:44",2324,2324,"Johnathan Stove missed Layup.",2,1,1,0.856856690414286,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+14,1,"18:44",2324,2324,"Terence Davis Block.",2,1,1,0.856856690414286,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+15,1,"18:40",2320,2320,"Markel Crawford Defensive Rebound.",2,1,1,0.856856690414286,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+16,1,"18:24",2304,2304,"Breein Tyree missed Three Point Jumper.",2,1,1,0.843056541138154,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+17,1,"18:24",2304,2304,"Marcanvis Hymon Offensive Rebound.",2,1,1,0.843056541138154,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+18,1,"18:03",2283,2283,"Markel Crawford missed Three Point Jumper.",2,1,1,0.847956388566351,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+19,1,"18:03",2283,2283,"JaKeenan Gant Defensive Rebound.",2,1,1,0.847956388566351,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+20,1,"17:52",2272,2272,"Johnathan Stove made Layup.",2,3,-1,0.824422018094641,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+21,1,"17:32",2252,2252,"Foul on Marcus Stroman.",2,3,-1,0.817706804398499,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+22,1,"17:29",2249,2249,"Terence Davis missed Three Point Jumper.",2,3,-1,0.812194467642028,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+23,1,"17:29",2249,2249,"Marcanvis Hymon Offensive Rebound.",2,3,-1,0.812194467642028,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+24,1,"17:19",2239,2239,"Marcanvis Hymon made Layup.",4,3,1,0.850706990127495,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+25,1,"17:01",2221,2221,"JaKeenan Gant missed Jumper.",4,3,1,0.851029309175789,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+26,1,"17:01",2221,2221,"Markel Crawford Defensive Rebound.",4,3,1,0.851029309175789,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+27,1,"16:39",2199,2199,"Marcanvis Hymon made Jumper.",6,3,3,0.883261786060843,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+28,1,"16:28",2188,2188,"JaKeenan Gant missed Three Point Jumper.",6,3,3,0.873525964031269,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+29,1,"16:28",2188,2188,"Dominik Olejniczak Defensive Rebound.",6,3,3,0.873525964031269,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+30,1,"16:14",2174,2174,"Foul on JaKeenan Gant.",6,3,3,0.870433768621333,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+31,1,"16:14",2174,2174,"Terence Davis missed Free Throw.",6,3,3,0.870433768621333,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+32,1,"16:14",2174,2174,"Ole Miss Deadball Team Rebound.",6,3,3,0.870433768621333,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+33,1,"16:14",2174,2174,"Terence Davis missed Free Throw.",6,3,3,0.870433768621333,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+34,1,"16:14",2174,2174,"JaKeenan Gant Defensive Rebound.",6,3,3,0.870433768621333,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+35,1,"16:04",2164,2164,"Bryce Washington missed Layup.",6,3,3,0.870910111068035,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+36,1,"16:04",2164,2164,"Bryce Washington Offensive Rebound.",6,3,3,0.870910111068035,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+37,1,"16:00",2160,2160,"Foul on Deandre Burnett.",6,3,3,0.870910111068035,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+38,1,"16:00",2160,2160,"Official TV Timeout",6,3,3,0.870910111068035,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+39,1,"16:00",2160,2160,"Marcus Stroman made Free Throw.",6,4,2,0.85796094637435,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+40,1,"16:00",2160,2160,"Marcus Stroman made Free Throw.",6,5,1,0.843945587438898,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+41,1,"15:36",2136,2136,"Marcanvis Hymon made Jumper. Assisted by Devontae Shuler.",8,5,3,0.875994082369993,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+42,1,"15:17",2117,2117,"P.J. Hardy missed Three Point Jumper.",8,5,3,0.879852421510774,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+43,1,"15:17",2117,2117,"Marcanvis Hymon Defensive Rebound.",8,5,3,0.879852421510774,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+44,1,"15:04",2104,2104,"Foul on Marcanvis Hymon.",8,5,3,0.868508331065537,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+45,1,"15:04",2104,2104,"Marcanvis Hymon Turnover.",8,5,3,0.868508331065537,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+46,1,"14:51",2091,2091,"Bryce Washington missed Jumper.",8,5,3,0.86944552571475,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+47,1,"14:51",2091,2091,"Marcanvis Hymon Defensive Rebound.",8,5,3,0.86944552571475,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+48,1,"14:41",2081,2081,"Devontae Shuler missed Three Point Jumper.",8,5,3,0.868253237367986,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+49,1,"14:41",2081,2081,"JaKeenan Gant Defensive Rebound.",8,5,3,0.868253237367986,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+50,1,"14:29",2069,2069,"Frank Bartley IV missed Jumper.",8,5,3,0.8687535355309,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+51,1,"14:29",2069,2069,"Bruce Stevens Defensive Rebound.",8,5,3,0.8687535355309,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+52,1,"14:16",2056,2056,"Bruce Stevens missed Jumper.",8,5,3,0.877626476828795,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+53,1,"14:16",2056,2056,"Frank Bartley IV Defensive Rebound.",8,5,3,0.877626476828795,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+54,1,"14:08",2048,2048,"JaKeenan Gant made Layup. Assisted by Frank Bartley IV.",8,7,1,0.833153155048963,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+55,1,"13:48",2028,2028,"Foul on Malik Marquetti.",8,7,1,0.843176661658907,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+56,1,"13:48",2028,2028,"Markel Crawford made Free Throw.",9,7,2,0.859836354617847,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+57,1,"13:48",2028,2028,"Markel Crawford missed Free Throw.",9,7,2,0.859836354617847,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+58,1,"13:48",2028,2028,"Justin Miller Defensive Rebound.",9,7,2,0.859836354617847,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+59,1,"13:35",2015,2015,"Cedric Russell missed Three Point Jumper.",9,7,2,0.85842194443548,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+60,1,"13:35",2015,2015,"Bruce Stevens Defensive Rebound.",9,7,2,0.85842194443548,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+61,1,"13:22",2002,2002,"Markel Crawford Turnover.",9,7,2,0.85121903027278,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+62,1,"13:21",2001,2001,"Malik Marquetti Steal.",9,7,2,0.85121903027278,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+63,1,"13:17",1997,1997,"Justin Miller missed Layup.",9,7,2,0.860618310584435,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+64,1,"13:17",1997,1997,"Justas Furmanavicius Block.",9,7,2,0.860618310584435,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+65,1,"13:13",1993,1993,"Justin Miller Offensive Rebound.",9,7,2,0.860618310584435,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+66,1,"13:12",1992,1992,"Justin Miller made Layup.",9,9,0,0.826478476847427,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+67,1,"12:57",1977,1977,"Devontae Shuler Turnover.",9,9,0,0.831774088831874,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+68,1,"12:48",1968,1968,"Justin Miller made Three Point Jumper. Assisted by Cedric Russell.",9,12,-3,0.773640289761412,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+69,1,"12:27",1947,1947,"Foul on Malik Marquetti.",9,12,-3,0.757532051760354,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+70,1,"12:27",1947,1947,"Terence Davis made Free Throw.",10,12,-2,0.779973869136098,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+71,1,"12:27",1947,1947,"Terence Davis made Free Throw.",11,12,-1,0.800884532047817,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+72,1,"12:20",1940,1940,"Foul on Devontae Shuler.",11,12,-1,0.800884532047817,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+73,1,"12:14",1934,1934,"Justin Miller missed Layup.",11,12,-1,0.79221614497988,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+74,1,"12:14",1934,1934,"Terence Davis Defensive Rebound.",11,12,-1,0.79221614497988,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+75,1,"12:10",1930,1930,"Foul on Cedric Russell.",11,12,-1,0.79221614497988,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+76,1,"12:10",1930,1930,"Terence Davis made Free Throw.",12,12,0,0.812678115187492,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+77,1,"12:10",1930,1930,"Terence Davis missed Free Throw.",12,12,0,0.812678115187492,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+78,1,"12:10",1930,1930,"Justin Miller Defensive Rebound.",12,12,0,0.812678115187492,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+79,1,"12:07",1927,1927,"P.J. Hardy made Layup. Assisted by Justin Miller.",12,14,-2,0.78720339828353,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+80,1,"11:47",1907,1907,"Devontae Shuler Turnover.",12,14,-2,0.786212565485489,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+81,1,"11:47",1907,1907,"Official TV Timeout",12,14,-2,0.786212565485489,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+82,1,"11:31",1891,1891,"Bryce Washington missed Layup.",12,14,-2,0.774128668259231,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+83,1,"11:31",1891,1891,"Justas Furmanavicius Block.",12,14,-2,0.774128668259231,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+84,1,"11:30",1890,1890,"P.J. Hardy Offensive Rebound.",12,14,-2,0.774128668259231,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+85,1,"11:26",1886,1886,"P.J. Hardy missed Jumper.",12,14,-2,0.781345272456787,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+86,1,"11:26",1886,1886,"Bryce Washington Offensive Rebound.",12,14,-2,0.781345272456787,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+87,1,"11:11",1871,1871,"Justin Miller missed Three Point Jumper.",12,14,-2,0.776617066798718,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+88,1,"11:11",1871,1871,"Malik Marquetti Offensive Rebound.",12,14,-2,0.776617066798718,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+89,1,"11:04",1864,1864,"Bryce Washington missed Jumper.",12,14,-2,0.773441909075127,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+90,1,"11:04",1864,1864,"Terence Davis Defensive Rebound.",12,14,-2,0.773441909075127,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+91,1,"10:45",1845,1845,"Breein Tyree missed Three Point Jumper.",12,14,-2,0.769917019980551,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+92,1,"10:45",1845,1845,"Bruce Stevens Offensive Rebound.",12,14,-2,0.769917019980551,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+93,1,"10:37",1837,1837,"Bruce Stevens made Layup.",14,14,0,0.813191391345133,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+94,1,"10:33",1833,1833,"Marcus Stroman made Layup.",14,16,-2,0.771503326237085,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+95,1,"10:33",1833,1833,"Foul on Justas Furmanavicius.",14,16,-2,0.771503326237085,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+96,1,"10:33",1833,1833,"Marcus Stroman missed Free Throw.",14,16,-2,0.771503326237085,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+97,1,"10:33",1833,1833,"Marcanvis Hymon Defensive Rebound.",14,16,-2,0.771503326237085,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+98,1,"10:22",1822,1822,"Foul on Justin Miller.",14,16,-2,0.795582409938163,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+99,1,"10:22",1822,1822,"Bruce Stevens missed Free Throw.",14,16,-2,0.795582409938163,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+100,1,"10:22",1822,1822,"Ole Miss Deadball Team Rebound.",14,16,-2,0.795582409938163,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+101,1,"10:22",1822,1822,"Bruce Stevens made Free Throw.",15,16,-1,0.814461232381493,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+102,1,"10:14",1814,1814,"Justin Miller made Layup.",15,18,-3,0.745726436110135,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+103,1,"10:13",1813,1813,"Foul on Bruce Stevens.",15,18,-3,0.745726436110135,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+104,1,"10:13",1813,1813,"Justin Miller made Free Throw.",15,19,-4,0.718385125491002,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+105,1,"10:05",1805,1805,"Terence Davis missed Three Point Jumper.",15,19,-4,0.724746520113812,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+106,1,"10:05",1805,1805,"Dominik Olejniczak Offensive Rebound.",15,19,-4,0.724746520113812,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+107,1,"10:00",1800,1800,"Breein Tyree made Jumper. Assisted by Dominik Olejniczak.",17,19,-2,0.772991188618656,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+108,1,"9:41",1781,1781,"Johnathan Stove missed Jumper.",17,19,-2,0.745249097941036,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+109,1,"9:41",1781,1781,"Breein Tyree Defensive Rebound.",17,19,-2,0.745249097941036,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+110,1,"9:35",1775,1775,"Foul on JaKeenan Gant.",17,19,-2,0.763759182539171,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+111,1,"9:35",1775,1775,"Breein Tyree made Free Throw.",18,19,-1,0.785128778983346,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+112,1,"9:35",1775,1775,"Breein Tyree made Free Throw.",19,19,0,0.805058733365755,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+113,1,"9:19",1759,1759,"Johnathan Stove made Layup.",19,21,-2,0.761843304789451,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+114,1,"9:07",1747,1747,"Foul on Larenz Stalcup.",19,21,-2,0.767013154494539,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+115,1,"9:07",1747,1747,"Dominik Olejniczak missed Free Throw.",19,21,-2,0.767013154494539,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+116,1,"9:07",1747,1747,"Ole Miss Deadball Team Rebound.",19,21,-2,0.767013154494539,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+117,1,"9:07",1747,1747,"Dominik Olejniczak missed Free Throw.",19,21,-2,0.767013154494539,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+118,1,"9:07",1747,1747,"Marcus Stroman Defensive Rebound.",19,21,-2,0.767013154494539,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+119,1,"8:47",1727,1727,"Johnathan Stove missed Three Point Jumper.",19,21,-2,0.752727852796878,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+120,1,"8:47",1727,1727,"Marcanvis Hymon Defensive Rebound.",19,21,-2,0.752727852796878,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+121,1,"8:32",1712,1712,"Breein Tyree missed Three Point Jumper.",19,21,-2,0.778019079260488,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+122,1,"8:32",1712,1712,"Marcus Stroman Defensive Rebound.",19,21,-2,0.778019079260488,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+123,1,"8:25",1705,1705,"Foul on Johnathan Stove.",19,21,-2,0.761246951909739,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+124,1,"8:25",1705,1705,"Johnathan Stove Turnover.",19,21,-2,0.761246951909739,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+125,1,"8:16",1696,1696,"Markel Crawford missed Jumper.",19,21,-2,0.759467159704468,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+126,1,"8:16",1696,1696,"Marcus Stroman Defensive Rebound.",19,21,-2,0.759467159704468,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+127,1,"7:59",1679,1679,"Foul on Deandre Burnett.",19,21,-2,0.766112474114604,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+128,1,"7:59",1679,1679,"Official TV Timeout",19,21,-2,0.766112474114604,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+129,1,"7:59",1679,1679,"Justin Miller made Free Throw.",19,22,-3,0.740375889633548,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+130,1,"7:59",1679,1679,"Justin Miller made Free Throw.",19,23,-4,0.712868704270166,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+131,1,"7:51",1671,1671,"Breein Tyree missed Layup.",19,23,-4,0.712868704270166,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+132,1,"7:51",1671,1671,"Marcanvis Hymon Offensive Rebound.",19,23,-4,0.712868704270166,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+133,1,"7:48",1668,1668,"Marcanvis Hymon missed Layup.",19,23,-4,0.715791668643132,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+134,1,"7:48",1668,1668,"Dominik Olejniczak Offensive Rebound.",19,23,-4,0.715791668643132,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+135,1,"7:44",1664,1664,"Dominik Olejniczak made Jumper.",21,23,-2,0.765408145790784,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+136,1,"7:28",1648,1648,"Larenz Stalcup made Jumper. Assisted by Marcus Stroman.",21,25,-4,0.711609703209674,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+137,1,"7:11",1631,1631,"Markel Crawford made Three Point Jumper. Assisted by Breein Tyree.",24,25,-1,0.788160505604722,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+138,1,"6:47",1607,1607,"Marcus Stroman made Three Point Jumper. Assisted by Cedric Russell.",24,28,-4,0.713287514803148,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+139,1,"6:34",1594,1594,"Breein Tyree Turnover.",24,28,-4,0.704574392157578,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+140,1,"6:32",1592,1592,"Marcus Stroman Steal.",24,28,-4,0.704574392157578,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+141,1,"6:29",1589,1589,"Cedric Russell made Three Point Jumper. Assisted by Marcus Stroman.",24,31,-7,0.608098308768993,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+142,1,"6:25",1585,1585,"Ole Miss  Timeout",24,31,-7,0.608098308768993,"Ole Miss","Louisiana",3,4,1,0,9,400987151,2017-11-10
+143,1,"6:01",1561,1561,"Foul on Larenz Stalcup.",24,31,-7,0.588141979796163,"Ole Miss","Louisiana",3,4,1,0,9,400987151,2017-11-10
+144,1,"6:01",1561,1561,"Markel Crawford made Free Throw.",25,31,-6,0.622141061632625,"Ole Miss","Louisiana",3,4,1,0,9,400987151,2017-11-10
+145,1,"6:01",1561,1561,"Markel Crawford missed Free Throw.",25,31,-6,0.622141061632625,"Ole Miss","Louisiana",3,4,1,0,9,400987151,2017-11-10
+146,1,"6:01",1561,1561,"Bryce Washington Defensive Rebound.",25,31,-6,0.622141061632625,"Ole Miss","Louisiana",3,4,1,0,9,400987151,2017-11-10
+147,1,"5:50",1550,1550,"Justin Miller made Jumper.",25,33,-8,0.546136840246307,"Ole Miss","Louisiana",3,4,1,0,9,400987151,2017-11-10
+148,1,"5:28",1528,1528,"Markel Crawford missed Jumper.",25,33,-8,0.557600773151368,"Ole Miss","Louisiana",3,4,1,0,9,400987151,2017-11-10
+149,1,"5:28",1528,1528,"Justin Miller Defensive Rebound.",25,33,-8,0.557600773151368,"Ole Miss","Louisiana",3,4,1,0,9,400987151,2017-11-10
+150,1,"5:19",1519,1519,"Bryce Washington made Layup. Assisted by Marcus Stroman.",25,35,-10,0.473492130087682,"Ole Miss","Louisiana",3,4,0,0,9,400987151,2017-11-10
+151,1,"4:55",1495,1495,"Terence Davis Turnover.",25,35,-10,0.510485999835976,"Ole Miss","Louisiana",3,4,0,0,9,400987151,2017-11-10
+152,1,"4:53",1493,1493,"Cedric Russell Steal.",25,35,-10,0.510485999835976,"Ole Miss","Louisiana",3,4,0,0,9,400987151,2017-11-10
+153,1,"4:45",1485,1485,"Justin Miller missed Jumper.",25,35,-10,0.46181533971065,"Ole Miss","Louisiana",3,4,0,0,9,400987151,2017-11-10
+154,1,"4:45",1485,1485,"Devontae Shuler Defensive Rebound.",25,35,-10,0.46181533971065,"Ole Miss","Louisiana",3,4,0,0,9,400987151,2017-11-10
+155,1,"4:33",1473,1473,"Bruce Stevens made Jumper. Assisted by Devontae Shuler.",27,35,-8,0.563818010882185,"Ole Miss","Louisiana",3,4,0,0,9,400987151,2017-11-10
+156,1,"4:15",1455,1455,"Malik Marquetti missed Dunk.",27,35,-8,0.539871568559345,"Ole Miss","Louisiana",3,4,0,0,9,400987151,2017-11-10
+157,1,"4:15",1455,1455,"Malik Marquetti Offensive Rebound.",27,35,-8,0.539871568559345,"Ole Miss","Louisiana",3,4,0,0,9,400987151,2017-11-10
+158,1,"4:09",1449,1449,"Malik Marquetti missed Jumper.",27,35,-8,0.555106849542229,"Ole Miss","Louisiana",3,4,0,0,9,400987151,2017-11-10
+159,1,"4:09",1449,1449,"Bruce Stevens Defensive Rebound.",27,35,-8,0.555106849542229,"Ole Miss","Louisiana",3,4,0,0,9,400987151,2017-11-10
+160,1,"4:03",1443,1443,"Devontae Shuler made Three Point Jumper. Assisted by Terence Davis.",30,35,-5,0.663255704132037,"Ole Miss","Louisiana",3,4,0,0,9,400987151,2017-11-10
+161,1,"3:56",1436,1436,"Louisiana  Timeout",30,35,-5,0.643663633168886,"Ole Miss","Louisiana",3,3,0,1,9,400987151,2017-11-10
+162,1,"3:45",1425,1425,"Bryce Washington missed Jumper.",30,35,-5,0.634109522007802,"Ole Miss","Louisiana",3,3,0,1,9,400987151,2017-11-10
+163,1,"3:45",1425,1425,"Louisiana Offensive Rebound.",30,35,-5,0.634109522007802,"Ole Miss","Louisiana",3,3,0,1,9,400987151,2017-11-10
+164,1,"3:37",1417,1417,"Justin Miller missed Three Point Jumper.",30,35,-5,0.620777764753662,"Ole Miss","Louisiana",3,3,0,1,9,400987151,2017-11-10
+165,1,"3:37",1417,1417,"Malik Marquetti Offensive Rebound.",30,35,-5,0.620777764753662,"Ole Miss","Louisiana",3,3,0,1,9,400987151,2017-11-10
+166,1,"3:32",1412,1412,"Malik Marquetti missed Jumper.",30,35,-5,0.620777764753662,"Ole Miss","Louisiana",3,3,0,1,9,400987151,2017-11-10
+167,1,"3:32",1412,1412,"Justas Furmanavicius Block.",30,35,-5,0.620777764753662,"Ole Miss","Louisiana",3,3,0,1,9,400987151,2017-11-10
+168,1,"3:30",1410,1410,"Louisiana Offensive Rebound.",30,35,-5,0.620777764753662,"Ole Miss","Louisiana",3,3,0,1,9,400987151,2017-11-10
+169,1,"3:28",1408,1408,"Foul on Bruce Stevens.",30,35,-5,0.65694860295887,"Ole Miss","Louisiana",3,3,0,1,9,400987151,2017-11-10
+170,1,"3:28",1408,1408,"Bryce Washington missed Free Throw.",30,35,-5,0.65694860295887,"Ole Miss","Louisiana",3,3,0,1,9,400987151,2017-11-10
+171,1,"3:28",1408,1408,"Louisiana Deadball Team Rebound.",30,35,-5,0.65694860295887,"Ole Miss","Louisiana",3,3,0,1,9,400987151,2017-11-10
+172,1,"3:28",1408,1408,"Bryce Washington made Free Throw.",30,36,-6,0.621219716644296,"Ole Miss","Louisiana",3,3,0,1,9,400987151,2017-11-10
+173,1,"3:17",1397,1397,"Dominik Olejniczak Turnover.",30,36,-6,0.615801223566487,"Ole Miss","Louisiana",3,3,0,1,9,400987151,2017-11-10
+174,1,"3:17",1397,1397,"Cedric Russell Steal.",30,36,-6,0.615801223566487,"Ole Miss","Louisiana",3,3,0,1,9,400987151,2017-11-10
+175,1,"3:03",1383,1383,"Larenz Stalcup missed Jumper.",30,36,-6,0.619035082315799,"Ole Miss","Louisiana",3,3,0,1,9,400987151,2017-11-10
+176,1,"3:03",1383,1383,"Terence Davis Defensive Rebound.",30,36,-6,0.619035082315799,"Ole Miss","Louisiana",3,3,0,1,9,400987151,2017-11-10
+177,1,"2:51",1371,1371,"Deandre Burnett made Jumper.",32,36,-4,0.67357150142685,"Ole Miss","Louisiana",3,3,0,0,9,400987151,2017-11-10
+178,1,"2:26",1346,1346,"Malik Marquetti Turnover.",32,36,-4,0.648621317335987,"Ole Miss","Louisiana",3,3,0,0,9,400987151,2017-11-10
+179,1,"2:12",1332,1332,"Terence Davis made Three Point Jumper.",35,36,-1,0.747937049169368,"Ole Miss","Louisiana",3,3,0,0,9,400987151,2017-11-10
+180,1,"1:45",1305,1305,"Marcus Stroman made Jumper.",35,38,-3,0.691455611706061,"Ole Miss","Louisiana",3,3,0,0,9,400987151,2017-11-10
+181,1,"1:36",1296,1296,"Deandre Burnett missed Three Point Jumper.",35,38,-3,0.688174476900725,"Ole Miss","Louisiana",3,3,0,0,9,400987151,2017-11-10
+182,1,"1:36",1296,1296,"Bryce Washington Defensive Rebound.",35,38,-3,0.688174476900725,"Ole Miss","Louisiana",3,3,0,0,9,400987151,2017-11-10
+183,1,"1:05",1265,1265,"Cedric Russell made Three Point Jumper. Assisted by Larenz Stalcup.",35,41,-6,0.607634085588953,"Ole Miss","Louisiana",3,3,0,0,9,400987151,2017-11-10
+184,1,"0:48",1248,1248,"Terence Davis made Three Point Jumper. Assisted by Markel Crawford.",38,41,-3,0.700156012878542,"Ole Miss","Louisiana",3,3,0,0,9,400987151,2017-11-10
+185,1,"0:20",1220,1220,"Foul on Markel Crawford.",38,41,-3,0.685732358050388,"Ole Miss","Louisiana",3,3,0,0,9,400987151,2017-11-10
+186,1,"0:20",1220,1220,"Malik Marquetti made Free Throw.",38,42,-4,0.648276694283737,"Ole Miss","Louisiana",3,3,0,0,9,400987151,2017-11-10
+187,1,"0:20",1220,1220,"Malik Marquetti missed Free Throw.",38,42,-4,0.648276694283737,"Ole Miss","Louisiana",3,3,0,0,9,400987151,2017-11-10
+188,1,"0:20",1220,1220,"Markel Crawford Defensive Rebound.",38,42,-4,0.648276694283737,"Ole Miss","Louisiana",3,3,0,0,9,400987151,2017-11-10
+189,1,"0:07",1207,1207,"Deandre Burnett made Layup.",40,42,-2,0.722087794601961,"Ole Miss","Louisiana",3,3,0,0,9,400987151,2017-11-10
+190,1,"0:00",1200,1200,"End of 1st half",40,42,-2,0.722087794601961,"Ole Miss","Louisiana",3,3,0,0,9,400987151,2017-11-10
+191,2,"20:00",1200,1200,"PLAY",40,42,-2,0.722087794601961,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+192,2,"19:52",1192,1192,"Bruce Stevens missed Layup.",40,42,-2,0.757158325233653,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+193,2,"19:52",1192,1192,"Markel Crawford Offensive Rebound.",40,42,-2,0.757158325233653,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+194,2,"19:48",1188,1188,"Terence Davis made Jumper. Assisted by Markel Crawford.",42,42,0,0.78224592810884,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+195,2,"19:38",1178,1178,"Marcus Stroman Turnover.",42,42,0,0.770045504396593,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+196,2,"19:26",1166,1166,"Terence Davis missed Jumper.",42,42,0,0.775299947495959,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+197,2,"19:26",1166,1166,"JaKeenan Gant Block.",42,42,0,0.775299947495959,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+198,2,"19:24",1164,1164,"Bruce Stevens Offensive Rebound.",42,42,0,0.775299947495959,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+199,2,"19:18",1158,1158,"Breein Tyree Turnover.",42,42,0,0.771732641914655,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+200,2,"19:06",1146,1146,"Frank Bartley IV Turnover.",42,42,0,0.764884996309779,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+201,2,"19:05",1145,1145,"Breein Tyree Steal.",42,42,0,0.764884996309779,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+202,2,"19:03",1143,1143,"Breein Tyree missed Layup.",42,42,0,0.764884996309779,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+203,2,"19:03",1143,1143,"Bryce Washington Defensive Rebound.",42,42,0,0.764884996309779,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+204,2,"18:50",1130,1130,"Cedric Russell missed Layup.",42,42,0,0.78472504888863,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+205,2,"18:50",1130,1130,"Bruce Stevens Block.",42,42,0,0.78472504888863,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+206,2,"18:50",1130,1130,"Louisiana Offensive Rebound.",42,42,0,0.78472504888863,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+207,2,"18:46",1126,1126,"JaKeenan Gant missed Dunk.",42,42,0,0.772148828669307,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+208,2,"18:46",1126,1126,"JaKeenan Gant Offensive Rebound.",42,42,0,0.772148828669307,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+209,2,"18:39",1119,1119,"JaKeenan Gant made Layup.",42,44,-2,0.70000553913116,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+210,2,"18:25",1105,1105,"Terence Davis Turnover.",42,44,-2,0.719783844959558,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+211,2,"18:25",1105,1105,"Johnathan Stove Steal.",42,44,-2,0.719783844959558,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+212,2,"18:16",1096,1096,"Foul on Terence Davis.",42,44,-2,0.719511695298545,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+213,2,"18:16",1096,1096,"Frank Bartley IV made Free Throw.",42,45,-3,0.683646858014671,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+214,2,"18:16",1096,1096,"Frank Bartley IV made Free Throw.",42,46,-4,0.645455861846203,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+215,2,"18:09",1089,1089,"Bruce Stevens missed Layup.",42,46,-4,0.637419099383384,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+216,2,"18:09",1089,1089,"Marcanvis Hymon Offensive Rebound.",42,46,-4,0.637419099383384,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+217,2,"18:06",1086,1086,"Marcanvis Hymon made Layup.",44,46,-2,0.714690876504761,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+218,2,"17:57",1077,1077,"JaKeenan Gant made Three Point Jumper. Assisted by Johnathan Stove.",44,49,-5,0.588583104715415,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+219,2,"17:33",1053,1053,"Foul on Marcus Stroman.",44,49,-5,0.582136040615827,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+220,2,"17:32",1052,1052,"Bruce Stevens missed Jumper.",44,49,-5,0.582136040615827,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+221,2,"17:32",1052,1052,"Frank Bartley IV Defensive Rebound.",44,49,-5,0.582136040615827,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+222,2,"17:28",1048,1048,"Marcus Stroman Turnover.",44,49,-5,0.598759098844645,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+223,2,"17:05",1025,1025,"Dominik Olejniczak missed Jumper.",44,49,-5,0.579711037202388,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+224,2,"17:05",1025,1025,"Frank Bartley IV Defensive Rebound.",44,49,-5,0.579711037202388,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+225,2,"16:44",1004,1004,"Foul on Justas Furmanavicius.",44,49,-5,0.540879417784758,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+226,2,"16:42",1002,1002,"Johnathan Stove Turnover.",44,49,-5,0.540879417784758,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+227,2,"16:41",1001,1001,"Breein Tyree Steal.",44,49,-5,0.540879417784758,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+228,2,"16:39",999,999,"Breein Tyree made Jumper.",46,49,-3,0.644516672716713,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+229,2,"16:16",976,976,"Johnathan Stove missed Three Point Jumper.",46,49,-3,0.6650687281585,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+230,2,"16:16",976,976,"Johnathan Stove Offensive Rebound.",46,49,-3,0.6650687281585,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+231,2,"16:13",973,973,"Johnathan Stove made Layup.",46,51,-5,0.580858307319779,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+232,2,"15:59",959,959,"Breein Tyree made Layup.",48,51,-3,0.650271889783222,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+233,2,"15:41",941,941,"Foul on Dominik Olejniczak.",48,51,-3,0.662767149773728,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+234,2,"15:21",921,921,"Frank Bartley IV missed Three Point Jumper.",48,51,-3,0.609577931764924,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+235,2,"15:21",921,921,"Markel Crawford Defensive Rebound.",48,51,-3,0.609577931764924,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+236,2,"15:06",906,906,"Foul on JaKeenan Gant.",48,51,-3,0.628761465252911,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+237,2,"15:06",906,906,"Deandre Burnett made Free Throw.",49,51,-2,0.67221667364731,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+238,2,"15:06",906,906,"Deandre Burnett made Free Throw.",50,51,-1,0.712907801950114,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+239,2,"14:53",893,893,"Bryce Washington missed Layup.",50,51,-1,0.721819295325231,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+240,2,"14:53",893,893,"Dominik Olejniczak Block.",50,51,-1,0.721819295325231,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+241,2,"14:50",890,890,"Justas Furmanavicius Defensive Rebound.",50,51,-1,0.721819295325231,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+242,2,"14:47",887,887,"Terence Davis made Layup. Assisted by Devontae Shuler.",52,51,1,0.777807683473341,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+243,2,"14:46",886,886,"Foul on Justin Miller.",52,51,1,0.777807683473341,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+244,2,"14:46",886,886,"Terence Davis made Free Throw.",53,51,2,0.806400725688293,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+245,2,"14:32",872,872,"Johnathan Stove made Jumper. Assisted by Marcus Stroman.",53,53,0,0.758528331209187,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+246,2,"14:09",849,849,"Terence Davis missed Jumper.",53,53,0,0.744063300168064,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+247,2,"14:09",849,849,"Louisiana Defensive Rebound.",53,53,0,0.744063300168064,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+248,2,"14:07",847,847,"Foul on Dominik Olejniczak.",53,53,0,0.744063300168064,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+249,2,"13:47",827,827,"Foul on Justas Furmanavicius.",53,53,0,0.757998806325713,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+250,2,"13:47",827,827,"Bryce Washington made Free Throw.",53,54,-1,0.721811126173895,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+251,2,"13:47",827,827,"Bryce Washington missed Free Throw.",53,54,-1,0.721811126173895,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+252,2,"13:47",827,827,"Terence Davis Defensive Rebound.",53,54,-1,0.721811126173895,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+253,2,"13:35",815,815,"Devontae Shuler made Three Point Jumper. Assisted by Deandre Burnett.",56,54,2,0.819234346624007,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+254,2,"13:15",795,795,"Foul on Terence Davis.",56,54,2,0.819362496508997,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+255,2,"13:15",795,795,"Johnathan Stove missed Free Throw.",56,54,2,0.819362496508997,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+256,2,"13:15",795,795,"Louisiana Deadball Team Rebound.",56,54,2,0.819362496508997,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+257,2,"13:15",795,795,"Johnathan Stove made Free Throw.",56,55,1,0.784530958492981,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+258,2,"13:07",787,787,"Deandre Burnett made Layup.",58,55,3,0.846118285160135,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+259,2,"12:58",778,778,"Frank Bartley IV Turnover.",58,55,3,0.84861819333492,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+260,2,"12:46",766,766,"Marcanvis Hymon missed Layup.",58,55,3,0.86494635065943,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+261,2,"12:46",766,766,"Justin Miller Block.",58,55,3,0.86494635065943,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+262,2,"12:43",763,763,"Bryce Washington Defensive Rebound.",58,55,3,0.86494635065943,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+263,2,"12:37",757,757,"Justin Miller missed Jumper.",58,55,3,0.853083223486052,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+264,2,"12:37",757,757,"Johnathan Stove Offensive Rebound.",58,55,3,0.853083223486052,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+265,2,"12:33",753,753,"Johnathan Stove made Layup.",58,57,1,0.789935885950746,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+266,2,"12:15",735,735,"Terence Davis missed Three Point Jumper.",58,57,1,0.771543795721367,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+267,2,"12:15",735,735,"Terence Davis Offensive Rebound.",58,57,1,0.771543795721367,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+268,2,"12:13",733,733,"Terence Davis made Layup.",60,57,3,0.837847665777219,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+269,2,"12:12",732,732,"Foul on P.J. Hardy.",60,57,3,0.837847665777219,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+270,2,"12:12",732,732,"Terence Davis made Free Throw.",61,57,4,0.86470439454446,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+271,2,"11:56",716,716,"P.J. Hardy Turnover.",61,57,4,0.869955019676333,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+272,2,"11:55",715,715,"Terence Davis Steal.",61,57,4,0.869955019676333,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+273,2,"11:52",712,712,"Terence Davis made Layup.",63,57,6,0.912014979065676,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+274,2,"11:35",695,695,"Bryce Washington missed Layup.",63,57,6,0.929844383910733,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+275,2,"11:35",695,695,"Bruce Stevens Defensive Rebound.",63,57,6,0.929844383910733,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+276,2,"11:26",686,686,"Devontae Shuler made Three Point Jumper. Assisted by Deandre Burnett.",66,57,9,0.954128031413568,"Ole Miss","Louisiana",4,4,0,0,9,400987151,2017-11-10
+277,2,"11:15",675,675,"Louisiana  Timeout",66,57,9,0.957656441446385,"Ole Miss","Louisiana",4,3,0,1,9,400987151,2017-11-10
+278,2,"11:13",673,673,"Justin Miller missed Layup.",66,57,9,0.957656441446385,"Ole Miss","Louisiana",4,3,0,1,9,400987151,2017-11-10
+279,2,"11:13",673,673,"Justin Miller Offensive Rebound.",66,57,9,0.957656441446385,"Ole Miss","Louisiana",4,3,0,1,9,400987151,2017-11-10
+280,2,"11:13",673,673,"Justin Miller missed Layup.",66,57,9,0.957656441446385,"Ole Miss","Louisiana",4,3,0,1,9,400987151,2017-11-10
+281,2,"11:13",673,673,"Terence Davis Defensive Rebound.",66,57,9,0.957656441446385,"Ole Miss","Louisiana",4,3,0,1,9,400987151,2017-11-10
+282,2,"11:12",672,672,"Deandre Burnett made Layup. Assisted by Terence Davis.",68,57,11,0.972975296670288,"Ole Miss","Louisiana",4,3,0,1,9,400987151,2017-11-10
+283,2,"10:54",654,654,"Foul on Cedric Russell.",68,57,11,0.974762190213626,"Ole Miss","Louisiana",4,3,0,1,9,400987151,2017-11-10
+284,2,"10:54",654,654,"Deandre Burnett missed Free Throw.",68,57,11,0.974762190213626,"Ole Miss","Louisiana",4,3,0,1,9,400987151,2017-11-10
+285,2,"10:54",654,654,"Justin Miller Defensive Rebound.",68,57,11,0.974762190213626,"Ole Miss","Louisiana",4,3,0,1,9,400987151,2017-11-10
+286,2,"10:44",644,644,"Justin Miller missed Three Point Jumper.",68,57,11,0.974494710426054,"Ole Miss","Louisiana",4,3,0,1,9,400987151,2017-11-10
+287,2,"10:44",644,644,"JaKeenan Gant Offensive Rebound.",68,57,11,0.974494710426054,"Ole Miss","Louisiana",4,3,0,1,9,400987151,2017-11-10
+288,2,"10:36",636,636,"Frank Bartley IV missed Three Point Jumper.",68,57,11,0.970296241673713,"Ole Miss","Louisiana",4,3,0,1,9,400987151,2017-11-10
+289,2,"10:36",636,636,"Bruce Stevens Defensive Rebound.",68,57,11,0.970296241673713,"Ole Miss","Louisiana",4,3,0,1,9,400987151,2017-11-10
+290,2,"10:22",622,622,"Bruce Stevens made Layup. Assisted by Terence Davis.",70,57,13,0.987385406992695,"Ole Miss","Louisiana",4,3,0,1,9,400987151,2017-11-10
+291,2,"10:00",600,600,"Cedric Russell made Three Point Jumper. Assisted by Marcus Stroman.",70,60,10,0.970103329500845,"Ole Miss","Louisiana",4,3,0,0,9,400987151,2017-11-10
+292,2,"9:37",577,577,"Marcanvis Hymon made Layup. Assisted by Deandre Burnett.",72,60,12,0.983783992239628,"Ole Miss","Louisiana",4,3,0,0,9,400987151,2017-11-10
+293,2,"9:19",559,559,"Marcus Stroman Turnover.",72,60,12,0.983053423941802,"Ole Miss","Louisiana",4,3,0,1,9,400987151,2017-11-10
+294,2,"9:19",559,559,"Louisiana  Timeout",72,60,12,0.983053423941802,"Ole Miss","Louisiana",4,2,0,1,9,400987151,2017-11-10
+295,2,"9:18",558,558,"Deandre Burnett missed Three Point Jumper.",72,60,12,0.983053423941802,"Ole Miss","Louisiana",4,2,0,1,9,400987151,2017-11-10
+296,2,"9:18",558,558,"JaKeenan Gant Defensive Rebound.",72,60,12,0.983053423941802,"Ole Miss","Louisiana",4,2,0,1,9,400987151,2017-11-10
+297,2,"8:45",525,525,"Justin Miller missed Jumper.",72,60,12,0.984307317871596,"Ole Miss","Louisiana",4,2,0,1,9,400987151,2017-11-10
+298,2,"8:45",525,525,"Marcanvis Hymon Defensive Rebound.",72,60,12,0.984307317871596,"Ole Miss","Louisiana",4,2,0,1,9,400987151,2017-11-10
+299,2,"8:34",514,514,"Deandre Burnett Turnover.",72,60,12,0.983623810839055,"Ole Miss","Louisiana",4,2,0,1,9,400987151,2017-11-10
+300,2,"8:22",502,502,"Cedric Russell made Three Point Jumper. Assisted by Bryce Washington.",72,63,9,0.968175731754328,"Ole Miss","Louisiana",4,2,0,1,9,400987151,2017-11-10
+301,2,"8:04",484,484,"Terence Davis missed Three Point Jumper.",72,63,9,0.966880874460303,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+302,2,"8:04",484,484,"JaKeenan Gant Defensive Rebound.",72,63,9,0.966880874460303,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+303,2,"7:44",464,464,"Cedric Russell made Three Point Jumper. Assisted by Malik Marquetti.",72,66,6,0.930562695196653,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+304,2,"7:40",460,460,"Technical Foul on Cedric Russell.",72,66,6,0.930562695196653,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+305,2,"7:40",460,460,"Foul on Cedric Russell.",72,66,6,0.930562695196653,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+306,2,"7:40",460,460,"Official TV Timeout",72,66,6,0.930562695196653,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+307,2,"7:40",460,460,"Terence Davis made Free Throw.",73,66,7,0.946711035941347,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+308,2,"7:40",460,460,"Terence Davis made Free Throw.",74,66,8,0.959268298634572,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+309,2,"7:40",460,460,"Cedric Russell Turnover.",74,66,8,0.959268298634572,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+310,2,"7:33",453,453,"Foul on Bruce Stevens.",74,66,8,0.965786074413888,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+311,2,"7:33",453,453,"Bruce Stevens Turnover.",74,66,8,0.965786074413888,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+312,2,"7:23",443,443,"Marcus Stroman missed Jumper.",74,66,8,0.952500635867358,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+313,2,"7:23",443,443,"Marcanvis Hymon Defensive Rebound.",74,66,8,0.952500635867358,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+314,2,"7:07",427,427,"Bruce Stevens made Jumper. Assisted by Terence Davis.",76,66,10,0.977365848951217,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+315,2,"6:37",397,397,"Johnathan Stove missed Jumper.",76,66,10,0.982027977960364,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+316,2,"6:37",397,397,"Johnathan Stove Offensive Rebound.",76,66,10,0.982027977960364,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+317,2,"6:34",394,394,"Foul on Marcanvis Hymon.",76,66,10,0.982027977960364,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+318,2,"6:34",394,394,"Johnathan Stove made Free Throw.",76,67,9,0.975604608323656,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+319,2,"6:34",394,394,"Johnathan Stove missed Free Throw.",76,67,9,0.975604608323656,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+320,2,"6:34",394,394,"Bruce Stevens Defensive Rebound.",76,67,9,0.975604608323656,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+321,2,"6:14",374,374,"Terence Davis Turnover.",76,67,9,0.97356233552222,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+322,2,"6:02",362,362,"JaKeenan Gant missed Jumper.",76,67,9,0.975684856278185,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+323,2,"6:02",362,362,"Terence Davis Defensive Rebound.",76,67,9,0.975684856278185,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+324,2,"5:56",356,356,"Breein Tyree missed Three Point Jumper.",76,67,9,0.978110196487186,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+325,2,"5:56",356,356,"Johnathan Stove Defensive Rebound.",76,67,9,0.978110196487186,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+326,2,"5:46",346,346,"Johnathan Stove made Layup.",76,69,7,0.954473184581879,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+327,2,"5:29",329,329,"Markel Crawford missed Three Point Jumper.",76,69,7,0.954870452413128,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+328,2,"5:29",329,329,"Ole Miss Offensive Rebound.",76,69,7,0.954870452413128,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+329,2,"5:23",323,323,"Foul on Johnathan Stove.",76,69,7,0.954870452413128,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+330,2,"5:23",323,323,"Marcanvis Hymon missed Free Throw.",76,69,7,0.954870452413128,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+331,2,"5:23",323,323,"JaKeenan Gant Defensive Rebound.",76,69,7,0.954870452413128,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+332,2,"5:12",312,312,"JaKeenan Gant missed Three Point Jumper.",76,69,7,0.964999320839123,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+333,2,"5:12",312,312,"Markel Crawford Defensive Rebound.",76,69,7,0.964999320839123,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+334,2,"4:51",291,291,"Bruce Stevens missed Jumper.",76,69,7,0.963243394681895,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+335,2,"4:51",291,291,"Devontae Shuler Offensive Rebound.",76,69,7,0.963243394681895,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+336,2,"4:46",286,286,"Devontae Shuler made Two Point Tip Shot.",78,69,9,0.980810150511115,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+337,2,"4:28",268,268,"Bryce Washington missed Layup.",78,69,9,0.98415086325711,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+338,2,"4:28",268,268,"Marcanvis Hymon Defensive Rebound.",78,69,9,0.98415086325711,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+339,2,"4:15",255,255,"Devontae Shuler made Three Point Jumper. Assisted by Breein Tyree.",81,69,12,0.996894918109284,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+340,2,"3:59",239,239,"Marcus Stroman made Layup. Assisted by JaKeenan Gant.",81,71,10,0.991417206484413,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+341,2,"3:58",238,238,"Foul on Breein Tyree.",81,71,10,0.991417206484413,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+342,2,"3:58",238,238,"Official TV Timeout",81,71,10,0.991417206484413,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+343,2,"3:58",238,238,"Marcus Stroman made Free Throw.",81,72,9,0.987176557107838,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+344,2,"3:44",224,224,"Deandre Burnett made Jumper. Assisted by Dominik Olejniczak.",83,72,11,0.996062880676098,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+345,2,"3:35",215,215,"Marcus Stroman missed Jumper.",83,72,11,0.996000315752725,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+346,2,"3:35",215,215,"Marcanvis Hymon Block.",83,72,11,0.996000315752725,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+347,2,"3:34",214,214,"Louisiana Offensive Rebound.",83,72,11,0.996000315752725,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+348,2,"3:32",212,212,"Bryce Washington Turnover.",83,72,11,0.996000315752725,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+349,2,"3:29",209,209,"Marcanvis Hymon Steal.",83,72,11,0.997041453411989,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+350,2,"3:27",207,207,"Devontae Shuler missed Three Point Jumper.",83,72,11,0.997041453411989,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+351,2,"3:27",207,207,"Markel Crawford Offensive Rebound.",83,72,11,0.997041453411989,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+352,2,"3:08",188,188,"Deandre Burnett missed Jumper.",83,72,11,0.997343132190674,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+353,2,"3:08",188,188,"Dominik Olejniczak Offensive Rebound.",83,72,11,0.997343132190674,"Ole Miss","Louisiana",4,2,0,0,9,400987151,2017-11-10
+354,2,"2:59",179,179,"Ole Miss  Timeout",83,72,11,0.997814612413503,"Ole Miss","Louisiana",3,2,1,0,9,400987151,2017-11-10
+355,2,"2:53",173,173,"Markel Crawford made Jumper. Assisted by Bruce Stevens.",85,72,13,0.999182156744056,"Ole Miss","Louisiana",3,2,1,0,9,400987151,2017-11-10
+356,2,"2:41",161,161,"Bryce Washington Turnover.",85,72,13,0.99949371236161,"Ole Miss","Louisiana",3,2,1,0,9,400987151,2017-11-10
+357,2,"2:41",161,161,"Markel Crawford Steal.",85,72,13,0.99949371236161,"Ole Miss","Louisiana",3,2,1,0,9,400987151,2017-11-10
+358,2,"2:37",157,157,"Markel Crawford missed Layup.",85,72,13,0.999519782683254,"Ole Miss","Louisiana",3,2,1,0,9,400987151,2017-11-10
+359,2,"2:37",157,157,"Bruce Stevens Offensive Rebound.",85,72,13,0.999519782683254,"Ole Miss","Louisiana",3,2,1,0,9,400987151,2017-11-10
+360,2,"2:33",153,153,"Foul on Bruce Stevens.",85,72,13,0.999519782683254,"Ole Miss","Louisiana",3,2,1,0,9,400987151,2017-11-10
+361,2,"2:33",153,153,"Bruce Stevens Turnover.",85,72,13,0.999519782683254,"Ole Miss","Louisiana",3,2,1,0,9,400987151,2017-11-10
+362,2,"2:33",153,153,"Johnathan Stove made Free Throw.",85,73,12,0.999175822764113,"Ole Miss","Louisiana",3,2,1,0,9,400987151,2017-11-10
+363,2,"2:33",153,153,"Johnathan Stove made Free Throw.",85,74,11,0.998585847061566,"Ole Miss","Louisiana",3,2,1,0,9,400987151,2017-11-10
+364,2,"2:25",145,145,"JaKeenan Gant made Layup.",85,76,9,0.995287763200522,"Ole Miss","Louisiana",3,2,1,0,9,400987151,2017-11-10
+365,2,"1:53",113,113,"Deandre Burnett made Layup.",87,76,11,0.99929337964601,"Ole Miss","Louisiana",3,2,0,0,9,400987151,2017-11-10
+366,2,"1:52",112,112,"Foul on P.J. Hardy.",87,76,11,0.99929337964601,"Ole Miss","Louisiana",3,2,0,0,9,400987151,2017-11-10
+367,2,"1:52",112,112,"Deandre Burnett made Free Throw.",88,76,12,0.99961239933139,"Ole Miss","Louisiana",3,2,0,0,9,400987151,2017-11-10
+368,2,"1:46",106,106,"Cedric Russell missed Three Point Jumper.",88,76,12,0.999628591247304,"Ole Miss","Louisiana",3,2,0,0,9,400987151,2017-11-10
+369,2,"1:46",106,106,"Markel Crawford Defensive Rebound.",88,76,12,0.999628591247304,"Ole Miss","Louisiana",3,2,0,0,9,400987151,2017-11-10
+370,2,"1:28",88,88,"Foul on Marcus Stroman.",88,76,12,0.999906903867976,"Ole Miss","Louisiana",3,2,0,0,9,400987151,2017-11-10
+371,2,"1:28",88,88,"Deandre Burnett made Free Throw.",89,76,13,0.999954522647378,"Ole Miss","Louisiana",3,2,0,0,9,400987151,2017-11-10
+372,2,"1:28",88,88,"Deandre Burnett made Free Throw.",90,76,14,0.999977784907084,"Ole Miss","Louisiana",3,2,0,0,9,400987151,2017-11-10
+373,2,"1:25",85,85,"JaKeenan Gant missed Three Point Jumper.",90,76,14,0.999977784907084,"Ole Miss","Louisiana",3,2,0,0,9,400987151,2017-11-10
+374,2,"1:25",85,85,"Marcanvis Hymon Defensive Rebound.",90,76,14,0.999977784907084,"Ole Miss","Louisiana",3,2,0,0,9,400987151,2017-11-10
+375,2,"1:19",79,79,"Foul on Justin Miller.",90,76,14,0.999978100204411,"Ole Miss","Louisiana",3,2,0,0,9,400987151,2017-11-10
+376,2,"1:19",79,79,"Marcanvis Hymon made Free Throw.",91,76,15,0.999989498810931,"Ole Miss","Louisiana",3,2,0,0,9,400987151,2017-11-10
+377,2,"1:19",79,79,"Marcanvis Hymon made Free Throw.",92,76,16,0.999994964596032,"Ole Miss","Louisiana",3,2,0,0,9,400987151,2017-11-10
+378,2,"1:08",68,68,"Cedric Russell missed Three Point Jumper.",92,76,16,0.999994317364276,"Ole Miss","Louisiana",3,2,0,0,9,400987151,2017-11-10
+379,2,"1:08",68,68,"Marcanvis Hymon Defensive Rebound.",92,76,16,0.999994317364276,"Ole Miss","Louisiana",3,2,0,0,9,400987151,2017-11-10
+380,2,"0:40",40,40,"Terence Davis Turnover.",92,76,16,0.999999874750031,"Ole Miss","Louisiana",3,2,0,0,9,400987151,2017-11-10
+381,2,"0:39",39,39,"Justin Miller Steal.",92,76,16,0.999999839457623,"Ole Miss","Louisiana",3,2,0,0,9,400987151,2017-11-10
+382,2,"0:36",36,36,"Marcus Stroman missed Three Point Jumper.",92,76,16,0.999999711704273,"Ole Miss","Louisiana",3,2,0,0,9,400987151,2017-11-10
+383,2,"0:36",36,36,"Markel Crawford Defensive Rebound.",92,76,16,0.999999711704273,"Ole Miss","Louisiana",3,2,0,0,9,400987151,2017-11-10
+384,2,"0:06",6,6,"Markel Crawford missed Jumper.",92,76,16,0.999999999996477,"Ole Miss","Louisiana",3,2,0,0,9,400987151,2017-11-10
+385,2,"0:06",6,6,"Ole Miss Offensive Rebound.",92,76,16,0.999999999996477,"Ole Miss","Louisiana",3,2,0,0,9,400987151,2017-11-10
+386,2,"0:05",5,5,"Foul on JaKeenan Gant.",92,76,16,0.999999999996477,"Ole Miss","Louisiana",3,2,0,0,9,400987151,2017-11-10
+387,2,"0:05",5,5,"Markel Crawford made Free Throw.",93,76,17,0.999999999999301,"Ole Miss","Louisiana",3,2,0,0,9,400987151,2017-11-10
+388,2,"0:05",5,5,"Markel Crawford made Free Throw.",94,76,18,0.999999999999861,"Ole Miss","Louisiana",3,2,0,0,9,400987151,2017-11-10
+389,2,"0:00",0,0,"End of Game",94,76,18,1,"Ole Miss","Louisiana",3,2,0,0,9,400987151,2017-11-10

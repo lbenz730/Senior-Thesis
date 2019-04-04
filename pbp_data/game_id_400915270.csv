@@ -1,0 +1,362 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.834331373184416,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+2,1,"19:45",2385,2385,"Quinton Stephens missed Layup.",0,0,0,0.830110427792434,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+3,1,"19:45",2385,2385,"Melvin Frazier Defensive Rebound.",0,0,0,0.830110427792434,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+4,1,"19:22",2362,2362,"Ryan Smith made Jumper.",0,2,-2,0.804785465090862,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+5,1,"19:03",2343,2343,"Foul on Cameron Reynolds.",0,2,-2,0.789384311723157,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+6,1,"18:54",2334,2334,"Josh Okogie made Layup. Assisted by Ben Lammers.",2,2,0,0.823161177059261,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+7,1,"18:26",2306,2306,"Malik Morgan made Layup. Assisted by Ryan Smith.",2,4,-2,0.779064431709538,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+8,1,"18:18",2298,2298,"Josh Okogie missed Layup.",2,4,-2,0.792896360922683,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+9,1,"18:18",2298,2298,"Melvin Frazier Block.",2,4,-2,0.792896360922683,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+10,1,"18:16",2296,2296,"Malik Morgan Defensive Rebound.",2,4,-2,0.792896360922683,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+11,1,"18:11",2291,2291,"Melvin Frazier missed Three Point Jumper.",2,4,-2,0.792896360922683,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+12,1,"18:11",2291,2291,"Cameron Reynolds Offensive Rebound.",2,4,-2,0.792896360922683,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+13,1,"18:03",2283,2283,"Melvin Frazier Turnover.",2,4,-2,0.782334522215685,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+14,1,"17:40",2260,2260,"Ben Lammers missed Layup.",2,4,-2,0.788013104510038,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+15,1,"17:40",2260,2260,"Ryan Smith Defensive Rebound.",2,4,-2,0.788013104510038,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+16,1,"17:32",2252,2252,"Cameron Reynolds missed Three Point Jumper.",2,4,-2,0.783241462595329,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+17,1,"17:32",2252,2252,"Quinton Stephens Defensive Rebound.",2,4,-2,0.783241462595329,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+18,1,"17:24",2244,2244,"Josh Okogie made Layup. Assisted by Quinton Stephens.",4,4,0,0.809093400205911,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+19,1,"16:54",2214,2214,"Ryan Smith missed Jumper.",4,4,0,0.814829280113553,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+20,1,"16:54",2214,2214,"Josh Okogie Defensive Rebound.",4,4,0,0.814829280113553,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+21,1,"16:44",2204,2204,"Corey Heyward missed Three Point Jumper.",4,4,0,0.815796492524625,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+22,1,"16:44",2204,2204,"Colin Slater Defensive Rebound.",4,4,0,0.815796492524625,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+23,1,"16:38",2198,2198,"Colin Slater made Layup.",4,6,-2,0.788844095725074,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+24,1,"16:30",2190,2190,"Justin Moore made Jumper.",6,6,0,0.825038290577137,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+25,1,"16:16",2176,2176,"Melvin Frazier Turnover.",6,6,0,0.811094672816597,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+26,1,"16:15",2175,2175,"Josh Okogie Steal.",6,6,0,0.811094672816597,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+27,1,"16:02",2162,2162,"Foul on Colin Slater.",6,6,0,0.81111997066201,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+28,1,"16:02",2162,2162,"Justin Moore made Free Throw.",7,6,1,0.827480773270226,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+29,1,"16:02",2162,2162,"Justin Moore missed Free Throw.",7,6,1,0.827480773270226,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+30,1,"16:02",2162,2162,"Justin Moore Offensive Rebound.",7,6,1,0.827480773270226,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+31,1,"16:00",2160,2160,"Justin Moore made Layup.",9,6,3,0.856807537495011,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+32,1,"15:40",2140,2140,"Melvin Frazier made Three Point Jumper. Assisted by Cameron Reynolds.",9,9,0,0.818874227095446,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+33,1,"15:22",2122,2122,"Ben Lammers missed Jumper.",9,9,0,0.809129104018182,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+34,1,"15:22",2122,2122,"Cameron Reynolds Defensive Rebound.",9,9,0,0.809129104018182,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+35,1,"15:10",2110,2110,"Malik Morgan missed Three Point Jumper.",9,9,0,0.819069518705395,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+36,1,"15:10",2110,2110,"Quinton Stephens Defensive Rebound.",9,9,0,0.819069518705395,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+37,1,"14:42",2082,2082,"Justin Moore missed Jumper.",9,9,0,0.808420670714415,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+38,1,"14:42",2082,2082,"Quinton Stephens Offensive Rebound.",9,9,0,0.808420670714415,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+39,1,"14:35",2075,2075,"Justin Moore missed Layup.",9,9,0,0.812044244173828,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+40,1,"14:35",2075,2075,"Malik Morgan Block.",9,9,0,0.812044244173828,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+41,1,"14:35",2075,2075,"Quinton Stephens Offensive Rebound.",9,9,0,0.812044244173828,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+42,1,"14:32",2072,2072,"Foul on Cameron Reynolds.",9,9,0,0.812044244173828,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+43,1,"14:32",2072,2072,"Official TV Timeout",9,9,0,0.812044244173828,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+44,1,"14:32",2072,2072,"Ben Lammers made Free Throw.",10,9,1,0.827852048160132,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+45,1,"14:32",2072,2072,"Ben Lammers missed Free Throw.",10,9,1,0.827852048160132,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+46,1,"14:32",2072,2072,"Ryan Smith Defensive Rebound.",10,9,1,0.827852048160132,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+47,1,"14:04",2044,2044,"Melvin Frazier missed Jumper.",10,9,1,0.816014217592128,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+48,1,"14:04",2044,2044,"Josh Heath Defensive Rebound.",10,9,1,0.816014217592128,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+49,1,"13:54",2034,2034,"Tadric Jackson missed Jumper.",10,9,1,0.838392148921027,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+50,1,"13:54",2034,2034,"Tulane Deadball Team Rebound.",10,9,1,0.838392148921027,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+51,1,"13:52",2032,2032,"Foul on Abdoulaye Gueye.",10,9,1,0.838392148921027,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+52,1,"13:22",2002,2002,"Tulane  Turnover.",10,9,1,0.81994060885226,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+53,1,"13:09",1989,1989,"Tadric Jackson missed Jumper.",10,9,1,0.811554378581093,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+54,1,"13:09",1989,1989,"Sammis Reyes Block.",10,9,1,0.811554378581093,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+55,1,"13:07",1987,1987,"Malik Morgan Defensive Rebound.",10,9,1,0.811554378581093,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+56,1,"13:04",1984,1984,"Malik Morgan Turnover.",10,9,1,0.811554378581093,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+57,1,"12:53",1973,1973,"Foul on Sammis Reyes.",10,9,1,0.832455838865789,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+58,1,"12:45",1965,1965,"Foul on Josh Heath.",10,9,1,0.82258728118546,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+59,1,"12:45",1965,1965,"Josh Heath Turnover.",10,9,1,0.82258728118546,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+60,1,"12:34",1954,1954,"Kain Harris missed Three Point Jumper.",10,9,1,0.822861427017312,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+61,1,"12:34",1954,1954,"Josh Okogie Defensive Rebound.",10,9,1,0.822861427017312,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+62,1,"12:32",1952,1952,"Foul on Sammis Reyes.",10,9,1,0.822861427017312,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+63,1,"12:14",1934,1934,"Josh Heath missed Jumper.",10,9,1,0.814810793307716,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+64,1,"12:14",1934,1934,"Von Julien Defensive Rebound.",10,9,1,0.814810793307716,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+65,1,"11:50",1910,1910,"Sammis Reyes missed Layup.",10,9,1,0.831757247736379,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+66,1,"11:50",1910,1910,"Malik Morgan Offensive Rebound.",10,9,1,0.831757247736379,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+67,1,"11:45",1905,1905,"Malik Morgan made Three Point Jumper.",10,12,-2,0.765563155139445,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+68,1,"11:21",1881,1881,"Abdoulaye Gueye missed Jumper.",10,12,-2,0.760268667555021,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+69,1,"11:21",1881,1881,"Tulane Deadball Team Rebound.",10,12,-2,0.760268667555021,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+70,1,"11:20",1880,1880,"Foul on Sylvester Ogbonda.",10,12,-2,0.760268667555021,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+71,1,"11:20",1880,1880,"Official TV Timeout",10,12,-2,0.760268667555021,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+72,1,"10:58",1858,1858,"Blake Paul Turnover.",10,12,-2,0.756575781071944,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+73,1,"10:42",1842,1842,"Justin Moore Turnover.",10,12,-2,0.748430580495337,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+74,1,"10:41",1841,1841,"Sammis Reyes Steal.",10,12,-2,0.748430580495337,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+75,1,"10:38",1838,1838,"Sammis Reyes made Dunk.",10,14,-4,0.701045673676641,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+76,1,"10:30",1830,1830,"Quinton Stephens Turnover.",10,14,-4,0.701045673676641,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+77,1,"10:18",1818,1818,"Blake Paul made Dunk. Assisted by Von Julien.",10,16,-6,0.632956139582405,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+78,1,"10:04",1804,1804,"Josh Heath made Three Point Jumper. Assisted by Josh Okogie.",13,16,-3,0.727432472262957,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+79,1,"9:41",1781,1781,"Kain Harris missed Layup.",13,16,-3,0.69570580971237,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+80,1,"9:41",1781,1781,"Ben Lammers Block.",13,16,-3,0.69570580971237,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+81,1,"9:41",1781,1781,"Ben Lammers Defensive Rebound.",13,16,-3,0.69570580971237,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+82,1,"9:40",1780,1780,"Foul on Sammis Reyes.",13,16,-3,0.69570580971237,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+83,1,"9:29",1769,1769,"Quinton Stephens made Jumper. Assisted by Josh Heath.",15,16,-1,0.785087115546311,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+84,1,"8:57",1737,1737,"Blake Paul missed Layup.",15,16,-1,0.771517048791204,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+85,1,"8:57",1737,1737,"Ben Lammers Block.",15,16,-1,0.771517048791204,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+86,1,"8:56",1736,1736,"Georgia Tech Deadball Team Rebound.",15,16,-1,0.771517048791204,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+87,1,"8:56",1736,1736,"Foul on Blake Paul.",15,16,-1,0.771517048791204,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+88,1,"8:56",1736,1736,"Quinton Stephens missed Free Throw.",15,16,-1,0.771517048791204,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+89,1,"8:56",1736,1736,"Josh Okogie Offensive Rebound.",15,16,-1,0.771517048791204,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+90,1,"8:55",1735,1735,"Foul on Melvin Frazier.",15,16,-1,0.771517048791204,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+91,1,"8:55",1735,1735,"Josh Okogie missed Free Throw.",15,16,-1,0.771517048791204,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+92,1,"8:55",1735,1735,"Georgia Tech Deadball Team Rebound.",15,16,-1,0.771517048791204,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+93,1,"8:55",1735,1735,"Josh Okogie missed Free Throw.",15,16,-1,0.771517048791204,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+94,1,"8:55",1735,1735,"Georgia Tech Deadball Team Rebound.",15,16,-1,0.771517048791204,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+95,1,"8:55",1735,1735,"Foul on Von Julien.",15,16,-1,0.771517048791204,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+96,1,"8:55",1735,1735,"Quinton Stephens made Free Throw.",16,16,0,0.794738470060328,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+97,1,"8:55",1735,1735,"Quinton Stephens missed Free Throw.",16,16,0,0.794738470060328,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+98,1,"8:55",1735,1735,"Blake Paul Defensive Rebound.",16,16,0,0.794738470060328,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+99,1,"8:41",1721,1721,"Kain Harris missed Three Point Jumper.",16,16,0,0.783136452815452,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+100,1,"8:41",1721,1721,"Blake Paul Offensive Rebound.",16,16,0,0.783136452815452,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+101,1,"8:35",1715,1715,"Kain Harris made Layup. Assisted by Blake Paul.",16,18,-2,0.757306835106775,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+102,1,"8:17",1697,1697,"Quinton Stephens made Jumper.",18,18,0,0.790709876173988,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+103,1,"7:52",1672,1672,"Von Julien Turnover.",18,18,0,0.79454933355453,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+104,1,"7:51",1671,1671,"Quinton Stephens Steal.",18,18,0,0.79454933355453,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+105,1,"7:44",1664,1664,"Quinton Stephens made Three Point Jumper. Assisted by Justin Moore.",21,18,3,0.848041668364983,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+106,1,"7:21",1641,1641,"Malik Morgan made Three Point Jumper. Assisted by Blake Paul.",21,21,0,0.794297850859762,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+107,1,"7:02",1622,1622,"Josh Heath missed Jumper.",21,21,0,0.786503987967081,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+108,1,"7:02",1622,1622,"Ben Lammers Offensive Rebound.",21,21,0,0.786503987967081,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+109,1,"7:00",1620,1620,"Ben Lammers made Dunk.",23,21,2,0.830186989668394,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+110,1,"6:39",1599,1599,"Blake Paul missed Jumper.",23,21,2,0.828850031858913,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+111,1,"6:39",1599,1599,"Quinton Stephens Defensive Rebound.",23,21,2,0.828850031858913,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+112,1,"6:19",1579,1579,"Quinton Stephens made Three Point Jumper. Assisted by Josh Okogie.",26,21,5,0.890654313469509,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+113,1,"6:07",1567,1567,"Tulane  Timeout",26,21,5,0.876225274207032,"Georgia Tech","Tulane",3,4,1,0,8,400915270,2016-11-26
+114,1,"6:07",1567,1567,"Official TV Timeout",26,21,5,0.876225274207032,"Georgia Tech","Tulane",3,4,1,0,8,400915270,2016-11-26
+115,1,"5:49",1549,1549,"Malik Morgan Turnover.",26,21,5,0.883034836752894,"Georgia Tech","Tulane",3,4,1,0,8,400915270,2016-11-26
+116,1,"5:48",1548,1548,"Tadric Jackson Steal.",26,21,5,0.883034836752894,"Georgia Tech","Tulane",3,4,1,0,8,400915270,2016-11-26
+117,1,"5:41",1541,1541,"Ben Lammers made Dunk. Assisted by Corey Heyward.",28,21,7,0.908823829795539,"Georgia Tech","Tulane",3,4,1,0,8,400915270,2016-11-26
+118,1,"5:12",1512,1512,"Ray Ona Embo missed Three Point Jumper.",28,21,7,0.915530347013535,"Georgia Tech","Tulane",3,4,1,0,8,400915270,2016-11-26
+119,1,"5:12",1512,1512,"Quinton Stephens Defensive Rebound.",28,21,7,0.915530347013535,"Georgia Tech","Tulane",3,4,1,0,8,400915270,2016-11-26
+120,1,"5:02",1502,1502,"Tadric Jackson missed Jumper.",28,21,7,0.906642741631069,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+121,1,"5:02",1502,1502,"Corey Heyward Offensive Rebound.",28,21,7,0.906642741631069,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+122,1,"4:55",1495,1495,"Josh Okogie missed Layup.",28,21,7,0.909752473370127,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+123,1,"4:55",1495,1495,"Ben Lammers Offensive Rebound.",28,21,7,0.909752473370127,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+124,1,"4:50",1490,1490,"Tadric Jackson missed Three Point Jumper.",28,21,7,0.909752473370127,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+125,1,"4:50",1490,1490,"Ryan Smith Defensive Rebound.",28,21,7,0.909752473370127,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+126,1,"4:30",1470,1470,"Foul on Tadric Jackson.",28,21,7,0.919425422411885,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+127,1,"4:28",1468,1468,"Cameron Reynolds missed Three Point Jumper.",28,21,7,0.898020031476034,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+128,1,"4:28",1468,1468,"Malik Morgan Offensive Rebound.",28,21,7,0.898020031476034,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+129,1,"4:09",1449,1449,"Ryan Smith made Layup. Assisted by Cameron Reynolds.",28,23,5,0.890667730202742,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+130,1,"3:54",1434,1434,"Josh Okogie Turnover.",28,23,5,0.879222693785755,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+131,1,"3:54",1434,1434,"Kain Harris Steal.",28,23,5,0.879222693785755,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+132,1,"3:51",1431,1431,"Official TV Timeout",28,23,5,0.879222693785755,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+133,1,"3:35",1415,1415,"Cameron Reynolds made Jumper.",28,25,3,0.837046019547005,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+134,1,"3:08",1388,1388,"Josh Heath Turnover.",28,25,3,0.849261959996782,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+135,1,"3:07",1387,1387,"Ryan Smith Steal.",28,25,3,0.849261959996782,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+136,1,"3:04",1384,1384,"Kain Harris made Three Point Jumper. Assisted by Ray Ona Embo.",28,28,0,0.7825314061751,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+137,1,"2:53",1373,1373,"Foul on Ryan Smith.",28,28,0,0.768201104071094,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+138,1,"2:53",1373,1373,"Ben Lammers missed Free Throw.",28,28,0,0.768201104071094,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+139,1,"2:53",1373,1373,"Georgia Tech Deadball Team Rebound.",28,28,0,0.768201104071094,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+140,1,"2:53",1373,1373,"Ben Lammers made Free Throw.",29,28,1,0.792906783272151,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+141,1,"2:34",1354,1354,"Kain Harris missed Three Point Jumper.",29,28,1,0.806719229578517,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+142,1,"2:34",1354,1354,"Malik Morgan Offensive Rebound.",29,28,1,0.806719229578517,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+143,1,"2:30",1350,1350,"Malik Morgan made Jumper.",29,30,-1,0.753965394804963,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+144,1,"2:16",1336,1336,"Josh Okogie missed Layup.",29,30,-1,0.728952858391287,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+145,1,"2:16",1336,1336,"Ben Lammers Offensive Rebound.",29,30,-1,0.728952858391287,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+146,1,"2:13",1333,1333,"Ben Lammers made Layup.",31,30,1,0.785912746508733,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+147,1,"1:56",1316,1316,"Kain Harris missed Layup.",31,30,1,0.803570836952876,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+148,1,"1:56",1316,1316,"Ben Lammers Defensive Rebound.",31,30,1,0.803570836952876,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+149,1,"1:50",1310,1310,"Josh Okogie made Layup. Assisted by Josh Heath.",33,30,3,0.848652598476686,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+150,1,"1:50",1310,1310,"Foul on Malik Morgan.",33,30,3,0.848652598476686,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+151,1,"1:50",1310,1310,"Josh Okogie missed Free Throw.",33,30,3,0.848652598476686,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+152,1,"1:50",1310,1310,"Ben Lammers Offensive Rebound.",33,30,3,0.848652598476686,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+153,1,"1:45",1305,1305,"Josh Okogie missed Three Point Jumper.",33,30,3,0.83166791416747,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+154,1,"1:45",1305,1305,"Quinton Stephens Offensive Rebound.",33,30,3,0.83166791416747,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+155,1,"1:40",1300,1300,"Corey Heyward missed Three Point Jumper.",33,30,3,0.83166791416747,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+156,1,"1:40",1300,1300,"Tulane Deadball Team Rebound.",33,30,3,0.83166791416747,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+157,1,"1:39",1299,1299,"Foul on Josh Okogie.",33,30,3,0.846379250297541,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+158,1,"1:18",1278,1278,"Colin Slater missed Three Point Jumper.",33,30,3,0.83145965581823,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+159,1,"1:18",1278,1278,"Ryan Smith Offensive Rebound.",33,30,3,0.83145965581823,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+160,1,"1:13",1273,1273,"Ryan Smith missed Layup.",33,30,3,0.83145965581823,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+161,1,"1:13",1273,1273,"Quinton Stephens Defensive Rebound.",33,30,3,0.83145965581823,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+162,1,"1:03",1263,1263,"Foul on Quinton Stephens.",33,30,3,0.853296747555106,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+163,1,"1:03",1263,1263,"Quinton Stephens Turnover.",33,30,3,0.853296747555106,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+164,1,"0:44",1244,1244,"Kain Harris missed Three Point Jumper.",33,30,3,0.842507920990332,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+165,1,"0:44",1244,1244,"Ben Lammers Defensive Rebound.",33,30,3,0.842507920990332,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+166,1,"0:29",1229,1229,"Josh Heath missed Jumper.",33,30,3,0.845187970858567,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+167,1,"0:29",1229,1229,"Josh Okogie Offensive Rebound.",33,30,3,0.845187970858567,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+168,1,"0:24",1224,1224,"Josh Okogie made Layup.",35,30,5,0.884411565581689,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+169,1,"0:06",1206,1206,"Colin Slater made Layup.",35,32,3,0.839455592581795,"Georgia Tech","Tulane",3,4,0,1,8,400915270,2016-11-26
+170,1,"0:06",1206,1206,"Georgia Tech  Timeout",35,32,3,0.839455592581795,"Georgia Tech","Tulane",3,3,0,1,8,400915270,2016-11-26
+171,1,"0:01",1201,1201,"Josh Okogie made Jumper. Assisted by Quinton Stephens.",37,32,5,0.877899123117938,"Georgia Tech","Tulane",3,3,0,1,8,400915270,2016-11-26
+172,1,"0:00",1200,1200,"End of 1st half",37,32,5,0.877899123117938,"Georgia Tech","Tulane",3,3,0,1,8,400915270,2016-11-26
+173,2,"20:00",1200,1200,"PLAY",37,32,5,0.877899123117938,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+174,2,"19:31",1171,1171,"Josh Okogie made Three Point Jumper.",40,32,8,0.919409987494445,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+175,2,"19:12",1152,1152,"Foul on Ben Lammers.",40,32,8,0.918467007312822,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+176,2,"19:11",1151,1151,"Cameron Reynolds missed Jumper.",40,32,8,0.918467007312822,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+177,2,"19:11",1151,1151,"Melvin Frazier Offensive Rebound.",40,32,8,0.918467007312822,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+178,2,"19:09",1149,1149,"Foul on Corey Heyward.",40,32,8,0.92197519436155,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+179,2,"18:56",1136,1136,"Colin Slater missed Layup.",40,32,8,0.924084101161684,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+180,2,"18:56",1136,1136,"Ben Lammers Block.",40,32,8,0.924084101161684,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+181,2,"18:56",1136,1136,"Ben Lammers Defensive Rebound.",40,32,8,0.924084101161684,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+182,2,"18:52",1132,1132,"Josh Okogie made Layup. Assisted by Justin Moore.",42,32,10,0.943998929490498,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+183,2,"18:44",1124,1124,"Colin Slater missed Layup.",42,32,10,0.952066437997929,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+184,2,"18:44",1124,1124,"Ben Lammers Block.",42,32,10,0.952066437997929,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+185,2,"18:44",1124,1124,"Ryan Smith Offensive Rebound.",42,32,10,0.952066437997929,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+186,2,"18:37",1117,1117,"Malik Morgan missed Three Point Jumper.",42,32,10,0.944566505646027,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+187,2,"18:37",1117,1117,"Cameron Reynolds Offensive Rebound.",42,32,10,0.944566505646027,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+188,2,"18:36",1116,1116,"Cameron Reynolds missed Layup.",42,32,10,0.944566505646027,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+189,2,"18:36",1116,1116,"Josh Okogie Defensive Rebound.",42,32,10,0.944566505646027,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+190,2,"18:32",1112,1112,"Josh Okogie made Layup.",44,32,12,0.960131124756668,"Georgia Tech","Tulane",4,4,0,0,8,400915270,2016-11-26
+191,2,"18:20",1100,1100,"Tulane  Timeout",44,32,12,0.958485908241413,"Georgia Tech","Tulane",3,4,1,0,8,400915270,2016-11-26
+192,2,"17:58",1078,1078,"Tulane  Turnover.",44,32,12,0.958313021961495,"Georgia Tech","Tulane",3,4,1,0,8,400915270,2016-11-26
+193,2,"17:44",1064,1064,"Foul on Melvin Frazier.",44,32,12,0.960594586682988,"Georgia Tech","Tulane",3,4,1,0,8,400915270,2016-11-26
+194,2,"17:44",1064,1064,"Josh Okogie missed Free Throw.",44,32,12,0.960594586682988,"Georgia Tech","Tulane",3,4,1,0,8,400915270,2016-11-26
+195,2,"17:44",1064,1064,"Georgia Tech Deadball Team Rebound.",44,32,12,0.960594586682988,"Georgia Tech","Tulane",3,4,1,0,8,400915270,2016-11-26
+196,2,"17:44",1064,1064,"Josh Okogie made Free Throw.",45,32,13,0.966627116025497,"Georgia Tech","Tulane",3,4,1,0,8,400915270,2016-11-26
+197,2,"17:27",1047,1047,"Ryan Smith missed Jumper.",45,32,13,0.969604505570606,"Georgia Tech","Tulane",3,4,1,0,8,400915270,2016-11-26
+198,2,"17:27",1047,1047,"Justin Moore Defensive Rebound.",45,32,13,0.969604505570606,"Georgia Tech","Tulane",3,4,1,0,8,400915270,2016-11-26
+199,2,"17:19",1039,1039,"Foul on Malik Morgan.",45,32,13,0.965645616855821,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+200,2,"17:19",1039,1039,"Ben Lammers made Two Point Tip Shot. Assisted by Justin Moore.",47,32,15,0.975377070653425,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+201,2,"17:19",1039,1039,"Ben Lammers made Free Throw.",48,32,16,0.979177634757657,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+202,2,"17:10",1030,1030,"Foul on Cameron Reynolds.",48,32,16,0.979177634757657,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+203,2,"17:10",1030,1030,"Cameron Reynolds Turnover.",48,32,16,0.979177634757657,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+204,2,"16:51",1011,1011,"Justin Moore Turnover.",48,32,16,0.980085936691164,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+205,2,"16:38",998,998,"Ryan Smith made Layup.",48,34,14,0.971800348156099,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+206,2,"16:24",984,984,"Josh Okogie missed Layup.",48,34,14,0.979455979950136,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+207,2,"16:24",984,984,"Ryan Smith Block.",48,34,14,0.979455979950136,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+208,2,"16:24",984,984,"Von Julien Defensive Rebound.",48,34,14,0.979455979950136,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+209,2,"16:20",980,980,"Foul on Corey Heyward.",48,34,14,0.979455979950136,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+210,2,"16:20",980,980,"Colin Slater missed Free Throw.",48,34,14,0.979455979950136,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+211,2,"16:20",980,980,"Tulane Deadball Team Rebound.",48,34,14,0.979455979950136,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+212,2,"16:20",980,980,"Colin Slater made Free Throw.",48,35,13,0.975025840218323,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+213,2,"16:00",960,960,"Quinton Stephens missed Jumper.",48,35,13,0.967838047757474,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+214,2,"16:00",960,960,"Colin Slater Defensive Rebound.",48,35,13,0.967838047757474,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+215,2,"15:40",940,940,"Foul on Corey Heyward.",48,35,13,0.974790127114202,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+216,2,"15:40",940,940,"Official TV Timeout",48,35,13,0.974790127114202,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+217,2,"15:35",935,935,"Malik Morgan Turnover.",48,35,13,0.97151114240819,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+218,2,"15:16",916,916,"Ben Lammers Turnover.",48,35,13,0.975036756249905,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+219,2,"14:46",886,886,"Colin Slater missed Three Point Jumper.",48,35,13,0.962893388503502,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+220,2,"14:46",886,886,"Ben Lammers Defensive Rebound.",48,35,13,0.962893388503502,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+221,2,"14:44",884,884,"Foul on Malik Morgan.",48,35,13,0.962893388503502,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+222,2,"14:27",867,867,"Tadric Jackson Turnover.",48,35,13,0.970707779392301,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+223,2,"14:26",866,866,"Malik Morgan Steal.",48,35,13,0.970707779392301,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+224,2,"14:23",863,863,"Foul on Justin Moore.",48,35,13,0.970707779392301,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+225,2,"14:23",863,863,"Malik Morgan missed Free Throw.",48,35,13,0.970707779392301,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+226,2,"14:23",863,863,"Tulane Deadball Team Rebound.",48,35,13,0.970707779392301,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+227,2,"14:23",863,863,"Malik Morgan made Free Throw.",48,36,12,0.96474010603345,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+228,2,"13:56",836,836,"Corey Heyward missed Jumper.",48,36,12,0.973250413687505,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+229,2,"13:56",836,836,"Quinton Stephens Offensive Rebound.",48,36,12,0.973250413687505,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+230,2,"13:54",834,834,"Foul on Ryan Smith.",48,36,12,0.973250413687505,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+231,2,"13:33",813,813,"Ben Lammers made Layup. Assisted by Josh Heath.",50,36,14,0.977555332669958,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+232,2,"13:20",800,800,"Cameron Reynolds made Three Point Jumper. Assisted by Von Julien.",50,39,11,0.965873771353034,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+233,2,"13:04",784,784,"Josh Heath Turnover.",50,39,11,0.963435645952255,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+234,2,"13:04",784,784,"Von Julien Steal.",50,39,11,0.963435645952255,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+235,2,"13:03",783,783,"Foul on Josh Heath.",50,39,11,0.963435645952255,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+236,2,"12:49",769,769,"Foul on Quinton Stephens.",50,39,11,0.970637509010736,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+237,2,"12:49",769,769,"Cameron Reynolds made Free Throw.",50,40,10,0.963817591822308,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+238,2,"12:49",769,769,"Cameron Reynolds made Free Throw.",50,41,9,0.955486282085168,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+239,2,"12:25",745,745,"Foul on Kain Harris.",50,41,9,0.951255501092482,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+240,2,"12:25",745,745,"Josh Okogie missed Free Throw.",50,41,9,0.951255501092482,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+241,2,"12:25",745,745,"Georgia Tech Deadball Team Rebound.",50,41,9,0.951255501092482,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+242,2,"12:25",745,745,"Josh Okogie made Free Throw.",51,41,10,0.960613581798453,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+243,2,"12:14",734,734,"Von Julien made Layup.",51,43,8,0.933003928877058,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+244,2,"11:57",717,717,"Quinton Stephens missed Layup.",51,43,8,0.936514386243354,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+245,2,"11:57",717,717,"Tulane Defensive Rebound.",51,43,8,0.936514386243354,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+246,2,"11:55",715,715,"Official TV Timeout",51,43,8,0.936514386243354,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+247,2,"11:45",705,705,"Cameron Reynolds missed Jumper.",51,43,8,0.933782265366524,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+248,2,"11:45",705,705,"Quinton Stephens Defensive Rebound.",51,43,8,0.933782265366524,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+249,2,"11:38",698,698,"Foul on Von Julien.",51,43,8,0.951281089223723,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+250,2,"11:38",698,698,"Tadric Jackson made Free Throw.",52,43,9,0.961187360878828,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+251,2,"11:38",698,698,"Tadric Jackson missed Free Throw.",52,43,9,0.961187360878828,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+252,2,"11:38",698,698,"Ryan Smith Defensive Rebound.",52,43,9,0.961187360878828,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+253,2,"11:29",689,689,"Cameron Reynolds Turnover.",52,43,9,0.950523506505023,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+254,2,"11:16",676,676,"Josh Okogie made Layup. Assisted by Josh Heath.",54,43,11,0.970795970549918,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+255,2,"10:52",652,652,"Foul on Tadric Jackson.",54,43,11,0.972912662792189,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+256,2,"10:52",652,652,"Kain Harris made Free Throw.",54,44,10,0.965885235824662,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+257,2,"10:52",652,652,"Kain Harris missed Free Throw.",54,44,10,0.965885235824662,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+258,2,"10:52",652,652,"Abdoulaye Gueye Defensive Rebound.",54,44,10,0.965885235824662,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+259,2,"10:41",641,641,"Josh Okogie missed Jumper.",54,44,10,0.965464766572235,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+260,2,"10:41",641,641,"Abdoulaye Gueye Offensive Rebound.",54,44,10,0.965464766572235,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+261,2,"10:39",639,639,"Abdoulaye Gueye Turnover.",54,44,10,0.960227787776328,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+262,2,"10:24",624,624,"Cameron Reynolds Turnover.",54,44,10,0.9713381284865,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+263,2,"10:22",622,622,"Tadric Jackson Steal.",54,44,10,0.9713381284865,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+264,2,"10:19",619,619,"Tadric Jackson made Dunk. Assisted by Josh Okogie.",56,44,12,0.979633411249333,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+265,2,"10:13",613,613,"Foul on Josh Okogie.",56,44,12,0.979633411249333,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+266,2,"10:13",613,613,"Von Julien missed Free Throw.",56,44,12,0.979633411249333,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+267,2,"10:13",613,613,"Quinton Stephens Defensive Rebound.",56,44,12,0.979633411249333,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+268,2,"10:06",606,606,"Josh Okogie Turnover.",56,44,12,0.980015626250922,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+269,2,"10:05",605,605,"Cameron Reynolds Steal.",56,44,12,0.980015626250922,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+270,2,"10:04",604,604,"Foul on Josh Heath.",56,44,12,0.980015626250922,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+271,2,"10:04",604,604,"Cameron Reynolds made Free Throw.",56,45,11,0.974618060526496,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+272,2,"10:04",604,604,"Cameron Reynolds made Free Throw.",56,46,10,0.967810553493004,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+273,2,"10:00",600,600,"Tadric Jackson Turnover.",56,46,10,0.967810553493004,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+274,2,"9:59",599,599,"Kain Harris Steal.",56,46,10,0.964283660301805,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+275,2,"9:51",591,591,"Kain Harris made Three Point Jumper. Assisted by Malik Morgan.",56,49,7,0.929350536216383,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+276,2,"9:35",575,575,"Josh Okogie made Layup.",58,49,9,0.963555449974847,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+277,2,"9:17",557,557,"Ryan Smith missed Jumper.",58,49,9,0.961097021826454,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+278,2,"9:17",557,557,"Quinton Stephens Defensive Rebound.",58,49,9,0.961097021826454,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+279,2,"9:15",555,555,"Foul on Ryan Smith.",58,49,9,0.961097021826454,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+280,2,"9:15",555,555,"Quinton Stephens made Free Throw.",59,49,10,0.969743400825341,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+281,2,"9:15",555,555,"Quinton Stephens missed Free Throw.",59,49,10,0.969743400825341,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+282,2,"9:15",555,555,"Blake Paul Defensive Rebound.",59,49,10,0.969743400825341,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+283,2,"8:58",538,538,"Foul on Justin Moore.",59,49,10,0.978149912817685,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+284,2,"8:58",538,538,"Cameron Reynolds made Free Throw.",59,50,9,0.971254173292996,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+285,2,"8:58",538,538,"Cameron Reynolds made Free Throw.",59,51,8,0.962266137719824,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+286,2,"8:28",508,508,"Justin Moore missed Jumper.",59,51,8,0.956029382026444,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+287,2,"8:28",508,508,"Blake Paul Block.",59,51,8,0.956029382026444,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+288,2,"8:27",507,507,"Justin Moore Offensive Rebound.",59,51,8,0.956029382026444,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+289,2,"8:27",507,507,"Georgia Tech  Turnover.",59,51,8,0.956029382026444,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+290,2,"8:11",491,491,"Von Julien made Three Point Jumper. Assisted by Blake Paul.",59,54,5,0.904745926057785,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+291,2,"7:40",460,460,"Ben Lammers made Layup.",61,54,7,0.943129910555019,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+292,2,"7:30",450,450,"Kain Harris made Jumper. Assisted by Cameron Reynolds.",61,56,5,0.911213764988948,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+293,2,"7:20",440,440,"Josh Okogie missed Layup.",61,56,5,0.892398913062372,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+294,2,"7:20",440,440,"Blake Paul Block.",61,56,5,0.892398913062372,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+295,2,"7:20",440,440,"Georgia Tech Offensive Rebound.",61,56,5,0.892398913062372,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+296,2,"7:19",439,439,"Official TV Timeout",61,56,5,0.919062331368214,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+297,2,"7:09",429,429,"Ben Lammers made Dunk. Assisted by Justin Moore.",63,56,7,0.943293131769547,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+298,2,"6:41",401,401,"Foul on Justin Moore.",63,56,7,0.954947216089294,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+299,2,"6:41",401,401,"Malik Morgan made Free Throw.",63,57,6,0.938429646300254,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+300,2,"6:41",401,401,"Malik Morgan made Free Throw.",63,58,5,0.916386522451417,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+301,2,"6:13",373,373,"Ben Lammers made Jumper. Assisted by Justin Moore.",65,58,7,0.948915941071219,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+302,2,"5:51",351,351,"Malik Morgan missed Jumper.",65,58,7,0.954861918407101,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+303,2,"5:51",351,351,"Ben Lammers Defensive Rebound.",65,58,7,0.954861918407101,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+304,2,"5:37",337,337,"Foul on Malik Morgan.",65,58,7,0.96322979678946,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+305,2,"5:37",337,337,"Josh Okogie made Free Throw.",66,58,8,0.973918513492136,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+306,2,"5:37",337,337,"Josh Okogie made Free Throw.",67,58,9,0.981559614428687,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+307,2,"5:21",321,321,"Cameron Reynolds missed Jumper.",67,58,9,0.973685031104423,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+308,2,"5:21",321,321,"Quinton Stephens Block.",67,58,9,0.973685031104423,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+309,2,"5:21",321,321,"Blake Paul Offensive Rebound.",67,58,9,0.973685031104423,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+310,2,"5:18",318,318,"Blake Paul missed Layup.",67,58,9,0.981973282743934,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+311,2,"5:18",318,318,"Georgia Tech Deadball Team Rebound.",67,58,9,0.981973282743934,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+312,2,"5:17",317,317,"Foul on Cameron Reynolds.",67,58,9,0.981973282743934,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+313,2,"5:17",317,317,"Quinton Stephens made Free Throw.",68,58,10,0.987436639138481,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+314,2,"5:17",317,317,"Quinton Stephens made Free Throw.",69,58,11,0.991258955288713,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+315,2,"5:07",307,307,"Von Julien missed Jumper.",69,58,11,0.98790079648666,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+316,2,"5:07",307,307,"Ben Lammers Defensive Rebound.",69,58,11,0.98790079648666,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+317,2,"4:50",290,290,"Ben Lammers missed Layup.",69,58,11,0.989753836279202,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+318,2,"4:50",290,290,"Blake Paul Defensive Rebound.",69,58,11,0.989753836279202,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+319,2,"4:41",281,281,"Kain Harris missed Three Point Jumper.",69,58,11,0.989848531577765,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+320,2,"4:41",281,281,"Justin Moore Defensive Rebound.",69,58,11,0.989848531577765,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+321,2,"4:13",253,253,"Josh Okogie missed Three Point Jumper.",69,58,11,0.99504778716329,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+322,2,"4:13",253,253,"Ben Lammers Offensive Rebound.",69,58,11,0.99504778716329,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+323,2,"3:55",235,235,"Foul on Kain Harris.",69,58,11,0.993992690144493,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+324,2,"3:55",235,235,"Official TV Timeout",69,58,11,0.993992690144493,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+325,2,"3:55",235,235,"Josh Okogie made Free Throw.",70,58,12,0.995988437680907,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+326,2,"3:55",235,235,"Josh Okogie made Free Throw.",71,58,13,0.997322943971742,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+327,2,"3:43",223,223,"Kain Harris Turnover.",71,58,13,0.998199944549207,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+328,2,"3:43",223,223,"Josh Heath Steal.",71,58,13,0.998199944549207,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+329,2,"3:40",220,220,"Foul on Malik Morgan.",71,58,13,0.998199944549207,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+330,2,"3:40",220,220,"Josh Okogie made Free Throw.",72,58,14,0.998820635885028,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+331,2,"3:40",220,220,"Josh Okogie made Free Throw.",73,58,15,0.999227467379298,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+332,2,"3:25",205,205,"Cameron Reynolds made Jumper.",73,60,13,0.998727793126955,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+333,2,"3:04",184,184,"Josh Okogie made Dunk. Assisted by Ben Lammers.",75,60,15,0.999599523374261,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+334,2,"2:42",162,162,"Cameron Reynolds made Jumper.",75,62,13,0.999460270218758,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+335,2,"2:29",149,149,"Foul on Justin Moore.",75,62,13,0.999366483674974,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+336,2,"2:29",149,149,"Justin Moore Turnover.",75,62,13,0.999366483674974,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+337,2,"2:20",140,140,"Kain Harris Turnover.",75,62,13,0.999366483674974,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+338,2,"2:03",123,123,"Josh Okogie made Layup. Assisted by Josh Heath.",77,62,15,0.999873926498941,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+339,2,"2:03",123,123,"Foul on Ryan Smith.",77,62,15,0.999873926498941,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+340,2,"2:03",123,123,"Josh Okogie made Free Throw.",78,62,16,0.999928449051572,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+341,2,"1:48",108,108,"Cameron Reynolds made Jumper.",78,64,14,0.999887318440877,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+342,2,"1:19",79,79,"Josh Heath missed Three Point Jumper.",78,64,14,0.999977194387586,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+343,2,"1:19",79,79,"Ray Ona Embo Defensive Rebound.",78,64,14,0.999977194387586,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+344,2,"1:12",72,72,"Cameron Reynolds made Three Point Jumper. Assisted by Ray Ona Embo.",78,67,11,0.99979318529391,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+345,2,"0:56",56,56,"Foul on Von Julien.",78,67,11,0.999964160723256,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+346,2,"0:56",56,56,"Josh Okogie made Free Throw.",79,67,12,0.999985004947286,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+347,2,"0:56",56,56,"Josh Okogie made Free Throw.",80,67,13,0.999993726188128,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+348,2,"0:51",51,51,"Cameron Reynolds missed Three Point Jumper.",80,67,13,0.999995660944902,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+349,2,"0:51",51,51,"Abdoulaye Gueye Defensive Rebound.",80,67,13,0.999995660944902,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+350,2,"0:24",24,24,"Quinton Stephens missed Three Point Jumper.",80,67,13,0.99999439572248,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+351,2,"0:24",24,24,"Tulane Deadball Team Rebound.",80,67,13,0.99999439572248,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+352,2,"0:21",21,21,"Foul on Josh Okogie.",80,67,13,0.999999999567767,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+353,2,"0:21",21,21,"Von Julien missed Free Throw.",80,67,13,0.999999999567767,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+354,2,"0:21",21,21,"Tulane Deadball Team Rebound.",80,67,13,0.999999999567767,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+355,2,"0:21",21,21,"Von Julien made Free Throw.",80,68,12,0.999999997787801,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+356,2,"0:16",16,16,"Foul on Cameron Reynolds.",80,68,12,0.999999998380861,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+357,2,"0:16",16,16,"Josh Okogie made Free Throw.",81,68,13,0.99999999969453,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+358,2,"0:16",16,16,"Josh Okogie made Free Throw.",82,68,14,0.99999999994237,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+359,2,"0:10",10,10,"Von Julien missed Layup.",82,68,14,0.999999999911657,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+360,2,"0:10",10,10,"Christian Matthews Defensive Rebound.",82,68,14,0.999999999911657,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26
+361,2,"0:00",0,0,"End of Game",82,68,14,1,"Georgia Tech","Tulane",3,4,0,0,8,400915270,2016-11-26

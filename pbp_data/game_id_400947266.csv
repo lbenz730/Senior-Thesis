@@ -1,0 +1,381 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2700,"PLAY",0,0,0,0.56693295069293,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+2,1,"20:00",2400,2700,"Jump Ball won by Wisconsin",0,0,0,0.56693295069293,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+3,1,"19:45",2385,2685,"Nigel Hayes missed Jumper.",0,0,0,0.567223976159514,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+4,1,"19:45",2385,2685,"Justin Leon Defensive Rebound.",0,0,0,0.567223976159514,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+5,1,"19:35",2375,2675,"KeVaughn Allen made Jumper.",2,0,2,0.6226891522977,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+6,1,"19:18",2358,2658,"Foul on Kasey Hill.",2,0,2,0.624882191692249,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+7,1,"19:02",2342,2642,"Bronson Koenig Turnover.",2,0,2,0.607825742821392,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+8,1,"18:48",2328,2628,"KeVaughn Allen missed Jumper.",2,0,2,0.63378732579943,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+9,1,"18:48",2328,2628,"Bronson Koenig Defensive Rebound.",2,0,2,0.63378732579943,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+10,1,"18:34",2314,2614,"Vitto Brown made Three Point Jumper. Assisted by Ethan Happ.",2,3,-1,0.53359539917211,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+11,1,"18:06",2286,2586,"Devin Robinson made Jumper.",4,3,1,0.587343068340182,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+12,1,"17:47",2267,2567,"Nigel Hayes missed Jumper.",4,3,1,0.602841675312229,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+13,1,"17:47",2267,2567,"Kasey Hill Defensive Rebound.",4,3,1,0.602841675312229,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+14,1,"17:32",2252,2552,"Devin Robinson missed Jumper.",4,3,1,0.594839354994862,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+15,1,"17:32",2252,2552,"Kevarrius Hayes Offensive Rebound.",4,3,1,0.594839354994862,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+16,1,"17:24",2244,2544,"Kevarrius Hayes Turnover.",4,3,1,0.599173959685407,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+17,1,"17:24",2244,2544,"Ethan Happ Steal.",4,3,1,0.599173959685407,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+18,1,"17:08",2228,2528,"Vitto Brown made Layup. Assisted by Ethan Happ.",4,5,-1,0.545428185342596,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+19,1,"16:45",2205,2505,"Kasey Hill missed Three Point Jumper.",4,5,-1,0.542425044675685,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+20,1,"16:45",2205,2505,"Zak Showalter Defensive Rebound.",4,5,-1,0.542425044675685,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+21,1,"16:30",2190,2490,"Bronson Koenig made Three Point Jumper.",4,8,-4,0.464420030673967,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+22,1,"16:11",2171,2471,"Justin Leon missed Jumper.",4,8,-4,0.453174645293798,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+23,1,"16:11",2171,2471,"Justin Leon Offensive Rebound.",4,8,-4,0.453174645293798,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+24,1,"15:55",2155,2455,"KeVaughn Allen missed Three Point Jumper.",4,8,-4,0.43702866703431,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+25,1,"15:55",2155,2455,"Ethan Happ Defensive Rebound.",4,8,-4,0.43702866703431,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+26,1,"15:30",2130,2430,"Ethan Happ made Layup. Assisted by Bronson Koenig.",4,10,-6,0.384388739368301,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+27,1,"15:30",2130,2430,"Foul on Devin Robinson.",4,10,-6,0.384388739368301,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+28,1,"15:30",2130,2430,"Official TV Timeout",4,10,-6,0.384388739368301,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+29,1,"15:30",2130,2430,"Ethan Happ made Free Throw.",4,11,-7,0.356171893724295,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+30,1,"15:18",2118,2418,"Kevarrius Hayes made Layup. Assisted by KeVaughn Allen.",6,11,-5,0.414173792767303,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+31,1,"14:47",2087,2387,"Nigel Hayes made Three Point Jumper. Assisted by Ethan Happ.",6,14,-8,0.35592901465052,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+32,1,"14:21",2061,2361,"KeVaughn Allen missed Jumper.",6,14,-8,0.322046139979461,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+33,1,"14:21",2061,2361,"Nigel Hayes Defensive Rebound.",6,14,-8,0.322046139979461,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+34,1,"14:00",2040,2340,"Foul on Nigel Hayes.",6,14,-8,0.336070073566919,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+35,1,"14:00",2040,2340,"Nigel Hayes Turnover.",6,14,-8,0.336070073566919,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+36,1,"13:41",2021,2321,"Foul on D'Mitrik Trice.",6,14,-8,0.303920685691832,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+37,1,"13:38",2018,2318,"Canyon Barry missed Layup.",6,14,-8,0.343542660009573,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+38,1,"13:38",2018,2318,"Gorjok Gak Offensive Rebound.",6,14,-8,0.343542660009573,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+39,1,"13:38",2018,2318,"Gorjok Gak missed Two Point Tip Shot.",6,14,-8,0.343542660009573,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+40,1,"13:38",2018,2318,"Khalil Iverson Defensive Rebound.",6,14,-8,0.343542660009573,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+41,1,"13:26",2006,2306,"Khalil Iverson made Dunk. Assisted by Zak Showalter.",6,16,-10,0.295259094983198,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+42,1,"13:25",2005,2305,"Florida  Timeout",6,16,-10,0.295259094983198,"Florida","Wisconsin",3,4,1,0,1,400947266,2017-03-24
+43,1,"13:15",1995,2295,"KeVaughn Allen missed Jumper.",6,16,-10,0.259803696399391,"Florida","Wisconsin",3,4,1,0,1,400947266,2017-03-24
+44,1,"13:15",1995,2295,"Khalil Iverson Defensive Rebound.",6,16,-10,0.259803696399391,"Florida","Wisconsin",3,4,1,0,1,400947266,2017-03-24
+45,1,"12:52",1972,2272,"Bronson Koenig missed Three Point Jumper.",6,16,-10,0.266433791065353,"Florida","Wisconsin",3,4,1,0,1,400947266,2017-03-24
+46,1,"12:52",1972,2272,"Khalil Iverson Offensive Rebound.",6,16,-10,0.266433791065353,"Florida","Wisconsin",3,4,1,0,1,400947266,2017-03-24
+47,1,"12:42",1962,2262,"Ethan Happ missed Layup.",6,16,-10,0.307020435061567,"Florida","Wisconsin",3,4,1,0,1,400947266,2017-03-24
+48,1,"12:42",1962,2262,"Devin Robinson Block.",6,16,-10,0.307020435061567,"Florida","Wisconsin",3,4,1,0,1,400947266,2017-03-24
+49,1,"12:42",1962,2262,"Chris Chiozza Defensive Rebound.",6,16,-10,0.307020435061567,"Florida","Wisconsin",3,4,1,0,1,400947266,2017-03-24
+50,1,"12:29",1949,2249,"KeVaughn Allen missed Three Point Jumper.",6,16,-10,0.264620106409429,"Florida","Wisconsin",3,4,1,0,1,400947266,2017-03-24
+51,1,"12:29",1949,2249,"Bronson Koenig Defensive Rebound.",6,16,-10,0.264620106409429,"Florida","Wisconsin",3,4,1,0,1,400947266,2017-03-24
+52,1,"12:19",1939,2239,"Bronson Koenig missed Jumper.",6,16,-10,0.252836562387872,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+53,1,"12:19",1939,2239,"Chris Chiozza Defensive Rebound.",6,16,-10,0.252836562387872,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+54,1,"11:51",1911,2211,"Kevarrius Hayes made Jumper. Assisted by Chris Chiozza.",8,16,-8,0.329980034288272,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+55,1,"11:51",1911,2211,"Foul on D'Mitrik Trice.",8,16,-8,0.329980034288272,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+56,1,"11:51",1911,2211,"Kevarrius Hayes missed Free Throw.",8,16,-8,0.329980034288272,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+57,1,"11:51",1911,2211,"Zak Showalter Defensive Rebound.",8,16,-8,0.329980034288272,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+58,1,"11:51",1911,2211,"Official TV Timeout",8,16,-8,0.329980034288272,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+59,1,"11:23",1883,2183,"Nigel Hayes made Jumper.",8,18,-10,0.264592212324388,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+60,1,"11:08",1868,2168,"Devin Robinson made Three Point Jumper. Assisted by Kasey Hill.",11,18,-7,0.346596651540389,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+61,1,"10:35",1835,2135,"Nigel Hayes made Jumper. Assisted by Vitto Brown.",11,20,-9,0.292942530751985,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+62,1,"10:24",1824,2124,"Foul on Bronson Koenig.",11,20,-9,0.319245307519979,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+63,1,"10:18",1818,2118,"Keith Stone made Layup. Assisted by Kasey Hill.",13,20,-7,0.328769374017762,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+64,1,"9:42",1782,2082,"Khalil Iverson missed Layup.",13,20,-7,0.309605831482033,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+65,1,"9:42",1782,2082,"Devin Robinson Block.",13,20,-7,0.309605831482033,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+66,1,"9:42",1782,2082,"Devin Robinson Defensive Rebound.",13,20,-7,0.309605831482033,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+67,1,"9:35",1775,2075,"Canyon Barry missed Three Point Jumper.",13,20,-7,0.337000352145149,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+68,1,"9:35",1775,2075,"Zak Showalter Defensive Rebound.",13,20,-7,0.337000352145149,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+69,1,"9:10",1750,2050,"Nigel Hayes made Jumper.",13,22,-9,0.24410938203061,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+70,1,"9:10",1750,2050,"Foul on Keith Stone.",13,22,-9,0.24410938203061,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+71,1,"9:10",1750,2050,"Nigel Hayes missed Free Throw.",13,22,-9,0.24410938203061,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+72,1,"9:10",1750,2050,"Justin Leon Defensive Rebound.",13,22,-9,0.24410938203061,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+73,1,"8:59",1739,2039,"Kasey Hill Turnover.",13,22,-9,0.27032917393335,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+74,1,"8:59",1739,2039,"Zak Showalter Steal.",13,22,-9,0.27032917393335,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+75,1,"8:44",1724,2024,"Foul on Devin Robinson.",13,22,-9,0.282342463120107,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+76,1,"8:44",1724,2024,"Nigel Hayes missed Free Throw.",13,22,-9,0.282342463120107,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+77,1,"8:44",1724,2024,"Wisconsin Deadball Team Rebound.",13,22,-9,0.282342463120107,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+78,1,"8:44",1724,2024,"Nigel Hayes missed Free Throw.",13,22,-9,0.282342463120107,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+79,1,"8:44",1724,2024,"Keith Stone Defensive Rebound.",13,22,-9,0.282342463120107,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+80,1,"8:26",1706,2006,"KeVaughn Allen missed Layup.",13,22,-9,0.277883852476229,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+81,1,"8:26",1706,2006,"Zak Showalter Defensive Rebound.",13,22,-9,0.277883852476229,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+82,1,"8:12",1692,1992,"Ethan Happ made Layup. Assisted by Nigel Hayes.",13,24,-11,0.215201511516593,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+83,1,"7:58",1678,1978,"Kasey Hill missed Layup.",13,24,-11,0.218293594360078,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+84,1,"7:58",1678,1978,"Bronson Koenig Defensive Rebound.",13,24,-11,0.218293594360078,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+85,1,"7:58",1678,1978,"Bronson Koenig Turnover.",13,24,-11,0.218293594360078,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+86,1,"7:58",1678,1978,"Kevarrius Hayes Steal.",13,24,-11,0.218293594360078,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+87,1,"7:51",1671,1971,"Jump Ball won by Florida",13,24,-11,0.218293594360078,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+88,1,"7:49",1669,1969,"Official TV Timeout",13,24,-11,0.233124413585141,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+89,1,"7:35",1655,1955,"Keith Stone made Three Point Jumper. Assisted by Chris Chiozza.",16,24,-8,0.310222668567082,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+90,1,"7:10",1630,1930,"Brevin Pritzl missed Three Point Jumper.",16,24,-8,0.316496546111265,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+91,1,"7:10",1630,1930,"Justin Leon Defensive Rebound.",16,24,-8,0.316496546111265,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+92,1,"7:02",1622,1922,"Chris Chiozza Turnover.",16,24,-8,0.28468034637022,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+93,1,"6:44",1604,1904,"Ethan Happ missed Layup.",16,24,-8,0.299918031214556,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+94,1,"6:44",1604,1904,"Justin Leon Defensive Rebound.",16,24,-8,0.299918031214556,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+95,1,"6:30",1590,1890,"Foul on Keith Stone.",16,24,-8,0.312925651002214,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+96,1,"6:30",1590,1890,"Keith Stone Turnover.",16,24,-8,0.312925651002214,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+97,1,"6:20",1580,1880,"Zak Showalter Turnover.",16,24,-8,0.287481177235379,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+98,1,"6:20",1580,1880,"Chris Chiozza Steal.",16,24,-8,0.287481177235379,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+99,1,"6:14",1574,1874,"KeVaughn Allen made Dunk. Assisted by Chris Chiozza.",18,24,-6,0.336426654125749,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+100,1,"5:48",1548,1848,"Foul on KeVaughn Allen.",18,24,-6,0.35676681419638,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+101,1,"5:42",1542,1842,"Vitto Brown made Three Point Jumper. Assisted by Bronson Koenig.",18,27,-9,0.267718548022184,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+102,1,"5:24",1524,1824,"Justin Leon made Jumper.",20,27,-7,0.317877556365465,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+103,1,"5:04",1504,1804,"Nigel Hayes Turnover.",20,27,-7,0.316021284697795,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+104,1,"5:04",1504,1804,"Justin Leon Steal.",20,27,-7,0.316021284697795,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+105,1,"4:50",1490,1790,"Justin Leon Turnover.",20,27,-7,0.339473494143512,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+106,1,"4:36",1476,1776,"Vitto Brown missed Three Point Jumper.",20,27,-7,0.30024619717806,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+107,1,"4:36",1476,1776,"Khalil Iverson Offensive Rebound.",20,27,-7,0.30024619717806,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+108,1,"4:25",1465,1765,"Foul on Nigel Hayes.",20,27,-7,0.331494652214078,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+109,1,"4:25",1465,1765,"Nigel Hayes Turnover.",20,27,-7,0.331494652214078,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+110,1,"4:20",1460,1760,"KeVaughn Allen missed Three Point Jumper.",20,27,-7,0.331494652214078,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+111,1,"4:20",1460,1760,"Florida Offensive Rebound.",20,27,-7,0.331494652214078,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+112,1,"4:18",1458,1758,"Foul on Vitto Brown.",20,27,-7,0.29872375960105,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+113,1,"4:14",1454,1754,"KeVaughn Allen missed Three Point Jumper.",20,27,-7,0.29872375960105,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+114,1,"4:14",1454,1754,"Vitto Brown Defensive Rebound.",20,27,-7,0.29872375960105,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+115,1,"4:09",1449,1749,"D'Mitrik Trice Turnover.",20,27,-7,0.322555221513154,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+116,1,"3:53",1433,1733,"Official TV Timeout",20,27,-7,0.316236963978381,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+117,1,"3:38",1418,1718,"Kasey Hill missed Three Point Jumper.",20,27,-7,0.29334841452094,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+118,1,"3:38",1418,1718,"Wisconsin Defensive Rebound.",20,27,-7,0.29334841452094,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+119,1,"3:34",1414,1714,"Foul on Zak Showalter.",20,27,-7,0.29334841452094,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+120,1,"3:34",1414,1714,"Zak Showalter Turnover.",20,27,-7,0.29334841452094,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+121,1,"3:18",1398,1698,"Kasey Hill missed Layup.",20,27,-7,0.289925361410001,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+122,1,"3:18",1398,1698,"Bronson Koenig Block.",20,27,-7,0.289925361410001,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+123,1,"3:18",1398,1698,"Gorjok Gak Offensive Rebound.",20,27,-7,0.289925361410001,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+124,1,"3:11",1391,1691,"KeVaughn Allen made Layup.",22,27,-5,0.357349320986718,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+125,1,"3:05",1385,1685,"Foul on Chris Chiozza.",22,27,-5,0.382857657440379,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+126,1,"3:05",1385,1685,"Vitto Brown made Free Throw.",22,28,-6,0.348217275158242,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+127,1,"3:05",1385,1685,"Vitto Brown made Free Throw.",22,29,-7,0.315110785613794,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+128,1,"2:48",1368,1668,"Justin Leon made Three Point Jumper. Assisted by Chris Chiozza.",25,29,-4,0.404481094531815,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+129,1,"2:18",1338,1638,"Foul on Gorjok Gak.",25,29,-4,0.388203973627083,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+130,1,"2:18",1338,1638,"Khalil Iverson missed Free Throw.",25,29,-4,0.388203973627083,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+131,1,"2:18",1338,1638,"Wisconsin Deadball Team Rebound.",25,29,-4,0.388203973627083,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+132,1,"2:18",1338,1638,"Khalil Iverson made Free Throw.",25,30,-5,0.351958620737793,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+133,1,"2:05",1325,1625,"KeVaughn Allen made Three Point Jumper. Assisted by Chris Chiozza.",28,30,-2,0.475723346102658,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+134,1,"1:48",1308,1608,"Ethan Happ missed Jumper.",28,30,-2,0.486492528419526,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+135,1,"1:48",1308,1608,"Ethan Happ Offensive Rebound.",28,30,-2,0.486492528419526,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+136,1,"1:48",1308,1608,"Ethan Happ missed Two Point Tip Shot.",28,30,-2,0.486492528419526,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+137,1,"1:48",1308,1608,"Justin Leon Defensive Rebound.",28,30,-2,0.486492528419526,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+138,1,"1:18",1278,1578,"Foul on Ethan Happ.",28,30,-2,0.463399819765336,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+139,1,"1:18",1278,1578,"KeVaughn Allen made Free Throw.",29,30,-1,0.500793957915164,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+140,1,"1:18",1278,1578,"KeVaughn Allen made Free Throw.",30,30,0,0.53817921648382,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+141,1,"1:18",1278,1578,"KeVaughn Allen made Free Throw.",31,30,1,0.575139955549736,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+142,1,"0:59",1259,1559,"Ethan Happ Turnover.",31,30,1,0.589750353685064,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+143,1,"0:42",1242,1542,"Kasey Hill Turnover.",31,30,1,0.592015566776933,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+144,1,"0:42",1242,1542,"Zak Showalter Steal.",31,30,1,0.592015566776933,"Florida","Wisconsin",3,4,0,0,1,400947266,2017-03-24
+145,1,"0:26",1226,1526,"Wisconsin  Timeout",31,30,1,0.601156621605021,"Florida","Wisconsin",3,3,0,1,1,400947266,2017-03-24
+146,1,"0:18",1218,1518,"Ethan Happ made Layup.",31,32,-1,0.50689552618133,"Florida","Wisconsin",3,3,0,1,1,400947266,2017-03-24
+147,1,"0:01",1201,1501,"Foul on Vitto Brown.",31,32,-1,0.513435618788673,"Florida","Wisconsin",3,3,0,1,1,400947266,2017-03-24
+148,1,"0:01",1201,1501,"KeVaughn Allen made Free Throw.",32,32,0,0.553051063753051,"Florida","Wisconsin",3,3,0,1,1,400947266,2017-03-24
+149,1,"0:01",1201,1501,"KeVaughn Allen made Free Throw.",33,32,1,0.59200412884499,"Florida","Wisconsin",3,3,0,1,1,400947266,2017-03-24
+150,1,"0:01",1201,1501,"KeVaughn Allen made Free Throw.",34,32,2,0.629834556057871,"Florida","Wisconsin",3,3,0,1,1,400947266,2017-03-24
+151,1,"0:00",1200,1500,"End of 1st half",34,32,2,0.629834556057871,"Florida","Wisconsin",3,3,0,1,1,400947266,2017-03-24
+152,2,"20:00",1200,1500,"PLAY",34,32,2,0.629834556057871,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+153,2,"20:00",1200,1500,"Jump Ball won by Wisconsin",34,32,2,0.629834556057871,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+154,2,"19:52",1192,1492,"Nigel Hayes missed Jumper.",34,32,2,0.675600474341072,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+155,2,"19:52",1192,1492,"Nigel Hayes Offensive Rebound.",34,32,2,0.675600474341072,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+156,2,"19:41",1181,1481,"Zak Showalter made Jumper.",34,34,0,0.552554698545019,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+157,2,"19:08",1148,1448,"Devin Robinson made Jumper.",36,34,2,0.637117799459232,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+158,2,"18:33",1113,1413,"Wisconsin  Turnover.",36,34,2,0.641806278056186,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+159,2,"18:10",1090,1390,"KeVaughn Allen made Three Point Jumper. Assisted by Kasey Hill.",39,34,5,0.751307432746,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+160,2,"17:42",1062,1362,"Ethan Happ made Layup.",39,36,3,0.689624000153862,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+161,2,"17:42",1062,1362,"Foul on Kevarrius Hayes.",39,36,3,0.689624000153862,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+162,2,"17:42",1062,1362,"Ethan Happ made Free Throw.",39,37,2,0.651568802412751,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+163,2,"17:20",1040,1340,"Kasey Hill made Jumper.",41,37,4,0.727131443518027,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+164,2,"17:03",1023,1323,"Wisconsin  Turnover.",41,37,4,0.72330536211238,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+165,2,"17:03",1023,1323,"Kasey Hill missed Layup.",41,37,4,0.72330536211238,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+166,2,"16:49",1009,1309,"Gorjok Gak Offensive Rebound.",41,37,4,0.708801511608757,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+167,2,"16:49",1009,1309,"Gorjok Gak missed Two Point Tip Shot.",41,37,4,0.708801511608757,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+168,2,"16:49",1009,1309,"Justin Leon Offensive Rebound.",41,37,4,0.708801511608757,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+169,2,"16:49",1009,1309,"Justin Leon made Two Point Tip Shot.",43,37,6,0.779363723563272,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+170,2,"16:26",986,1286,"Bronson Koenig Turnover.",43,37,6,0.812813643380436,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+171,2,"16:26",986,1286,"KeVaughn Allen Steal.",43,37,6,0.812813643380436,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+172,2,"16:24",984,1284,"Foul on Ethan Happ.",43,37,6,0.812813643380436,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+173,2,"16:24",984,1284,"KeVaughn Allen made Free Throw.",45,37,8,0.866227546525443,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+174,2,"16:24",984,1284,"KeVaughn Allen made Free Throw.",44,37,7,0.84133599147366,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+175,2,"16:24",984,1284,"Foul on Kasey Hill.",45,37,8,0.866227546525443,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+176,2,"16:09",969,1269,"Ethan Happ made Layup.",45,39,6,0.783659927278161,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+177,2,"15:54",954,1254,"Devin Robinson missed Three Point Jumper.",45,39,6,0.786153098823071,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+178,2,"15:54",954,1254,"Gorjok Gak Offensive Rebound.",45,39,6,0.786153098823071,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+179,2,"15:47",947,1247,"Foul on Khalil Iverson.",45,39,6,0.80652268668052,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+180,2,"15:47",947,1247,"Official TV Timeout",45,39,6,0.80652268668052,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+181,2,"15:37",937,1237,"KeVaughn Allen made Layup.",47,39,8,0.849251811979364,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+182,2,"15:21",921,1221,"Ethan Happ made Jumper.",47,41,6,0.780164235582516,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+183,2,"15:09",909,1209,"KeVaughn Allen made Jumper.",49,41,8,0.84892998356837,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+184,2,"15:07",907,1207,"Foul on Ethan Happ.",49,41,8,0.84892998356837,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+185,2,"14:52",892,1192,"Kasey Hill made Jumper.",51,41,10,0.898895587285327,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+186,2,"14:25",865,1165,"Nigel Hayes made Jumper. Assisted by D'Mitrik Trice.",51,43,8,0.84333690381185,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+187,2,"14:09",849,1149,"Foul on D'Mitrik Trice.",51,43,8,0.868163072386161,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+188,2,"13:54",834,1134,"Kasey Hill missed Jumper.",51,43,8,0.8638849562403,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+189,2,"13:54",834,1134,"Nigel Hayes Defensive Rebound.",51,43,8,0.8638849562403,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+190,2,"13:34",814,1114,"Foul on Kasey Hill.",51,43,8,0.845095218323432,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+191,2,"13:29",809,1109,"Vitto Brown missed Three Point Jumper.",51,43,8,0.86831557338657,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+192,2,"13:29",809,1109,"Khalil Iverson Offensive Rebound.",51,43,8,0.86831557338657,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+193,2,"13:27",807,1107,"Foul on Justin Leon.",51,43,8,0.86831557338657,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+194,2,"13:20",800,1100,"Bronson Koenig made Jumper.",51,45,6,0.814517617972284,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+195,2,"12:56",776,1076,"Foul on Vitto Brown.",51,45,6,0.811280474803658,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+196,2,"12:56",776,1076,"Kevarrius Hayes made Free Throw.",52,45,7,0.841375669438821,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+197,2,"12:56",776,1076,"Kevarrius Hayes missed Free Throw.",52,45,7,0.841375669438821,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+198,2,"12:56",776,1076,"Vitto Brown Defensive Rebound.",52,45,7,0.841375669438821,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+199,2,"12:43",763,1063,"Bronson Koenig made Three Point Jumper. Assisted by Vitto Brown.",52,48,4,0.75618123950154,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+200,2,"12:31",751,1051,"Chris Chiozza missed Layup.",52,48,4,0.741257342897296,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+201,2,"12:31",751,1051,"Khalil Iverson Block.",52,48,4,0.741257342897296,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+202,2,"12:31",751,1051,"Khalil Iverson Defensive Rebound.",52,48,4,0.741257342897296,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+203,2,"12:10",730,1030,"Vitto Brown missed Jumper.",52,48,4,0.744778142266525,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+204,2,"12:10",730,1030,"Kevarrius Hayes Defensive Rebound.",52,48,4,0.744778142266525,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+205,2,"11:58",718,1018,"Kevarrius Hayes missed Layup.",52,48,4,0.725083034379321,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+206,2,"11:58",718,1018,"Kevarrius Hayes Offensive Rebound.",52,48,4,0.725083034379321,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+207,2,"11:58",718,1018,"Foul on Khalil Iverson.",52,48,4,0.725083034379321,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+208,2,"11:58",718,1018,"Official TV Timeout",52,48,4,0.725083034379321,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+209,2,"11:48",708,1008,"Foul on Zak Showalter.",52,48,4,0.74853735503731,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+210,2,"11:48",708,1008,"Keith Stone missed Free Throw.",52,48,4,0.74853735503731,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+211,2,"11:48",708,1008,"Nigel Hayes Defensive Rebound.",52,48,4,0.74853735503731,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+212,2,"11:32",692,992,"Bronson Koenig missed Three Point Jumper.",52,48,4,0.758956317781629,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+213,2,"11:32",692,992,"Devin Robinson Defensive Rebound.",52,48,4,0.758956317781629,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+214,2,"11:22",682,982,"Chris Chiozza Turnover.",52,48,4,0.740416247784599,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+215,2,"11:22",682,982,"Vitto Brown Steal.",52,48,4,0.740416247784599,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+216,2,"11:07",667,967,"Nigel Hayes made Layup.",52,50,2,0.671548878326105,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+217,2,"10:39",639,939,"Foul on Kevarrius Hayes.",52,50,2,0.654149501065711,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+218,2,"10:39",639,939,"Kevarrius Hayes Turnover.",52,50,2,0.654149501065711,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+219,2,"10:21",621,921,"Nigel Hayes made Layup. Assisted by Vitto Brown.",52,52,0,0.546349759535468,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+220,2,"10:21",621,921,"Foul on Justin Leon.",52,52,0,0.546349759535468,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+221,2,"10:21",621,921,"Nigel Hayes made Free Throw.",52,53,-1,0.483627056741292,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+222,2,"10:03",603,903,"KeVaughn Allen made Three Point Jumper.",55,53,2,0.665614298714488,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+223,2,"9:34",574,874,"Khalil Iverson Turnover.",55,53,2,0.689474921860663,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+224,2,"9:23",563,863,"KeVaughn Allen Turnover.",55,53,2,0.678230776711151,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+225,2,"9:23",563,863,"Zak Showalter Steal.",55,53,2,0.678230776711151,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+226,2,"9:20",560,860,"Jordan Hill Turnover.",55,53,2,0.678230776711151,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+227,2,"9:18",558,858,"Canyon Barry made Layup. Assisted by Kevarrius Hayes.",57,53,4,0.765514365698425,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+228,2,"9:18",558,858,"Foul on Vitto Brown.",57,53,4,0.765514365698425,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+229,2,"9:18",558,858,"Canyon Barry made Free Throw.",58,53,5,0.808990851947019,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+230,2,"9:06",546,846,"Foul on Ethan Happ.",58,53,5,0.810056068442533,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+231,2,"9:06",546,846,"Ethan Happ Turnover.",58,53,5,0.810056068442533,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+232,2,"8:48",528,828,"Chris Chiozza made Jumper.",60,53,7,0.894073496131524,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+233,2,"8:48",528,828,"Foul on Bronson Koenig.",60,53,7,0.894073496131524,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+234,2,"8:48",528,828,"Chris Chiozza made Free Throw.",61,53,8,0.917236767120507,"Florida","Wisconsin",4,4,0,0,1,400947266,2017-03-24
+235,2,"8:31",511,811,"Foul on Chris Chiozza.",61,53,8,0.911190364288409,"Florida","Wisconsin",4,4,0,1,1,400947266,2017-03-24
+236,2,"8:31",511,811,"Bronson Koenig made Free Throw.",61,54,7,0.886724889705398,"Florida","Wisconsin",4,4,0,1,1,400947266,2017-03-24
+237,2,"8:31",511,811,"Bronson Koenig made Free Throw.",61,55,6,0.856580443772834,"Florida","Wisconsin",4,4,0,1,1,400947266,2017-03-24
+238,2,"8:31",511,811,"Wisconsin  Timeout",61,55,6,0.856580443772834,"Florida","Wisconsin",4,3,0,1,1,400947266,2017-03-24
+239,2,"8:22",502,802,"KeVaughn Allen made Three Point Jumper.",64,55,9,0.937235728565414,"Florida","Wisconsin",4,3,0,1,1,400947266,2017-03-24
+240,2,"8:00",480,780,"Foul on KeVaughn Allen.",64,55,9,0.933513919465843,"Florida","Wisconsin",4,3,0,1,1,400947266,2017-03-24
+241,2,"8:00",480,780,"Zak Showalter made Free Throw.",64,56,8,0.914399002875168,"Florida","Wisconsin",4,3,0,1,1,400947266,2017-03-24
+242,2,"8:00",480,780,"Zak Showalter missed Free Throw.",64,56,8,0.914399002875168,"Florida","Wisconsin",4,3,0,1,1,400947266,2017-03-24
+243,2,"8:00",480,780,"Canyon Barry Defensive Rebound.",64,56,8,0.914399002875168,"Florida","Wisconsin",4,3,0,1,1,400947266,2017-03-24
+244,2,"7:41",461,761,"Kevarrius Hayes missed Layup.",64,56,8,0.917289174679375,"Florida","Wisconsin",4,3,0,1,1,400947266,2017-03-24
+245,2,"7:41",461,761,"Khalil Iverson Defensive Rebound.",64,56,8,0.917289174679375,"Florida","Wisconsin",4,3,0,1,1,400947266,2017-03-24
+246,2,"7:14",434,734,"Bronson Koenig missed Three Point Jumper.",64,56,8,0.935828557281847,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+247,2,"7:14",434,734,"Kevarrius Hayes Defensive Rebound.",64,56,8,0.935828557281847,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+248,2,"7:11",431,731,"Foul on Vitto Brown.",64,56,8,0.935828557281847,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+249,2,"7:11",431,731,"Official TV Timeout",64,56,8,0.935828557281847,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+250,2,"7:11",431,731,"Kevarrius Hayes missed Free Throw.",64,56,8,0.935828557281847,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+251,2,"7:11",431,731,"Florida Deadball Team Rebound.",64,56,8,0.935828557281847,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+252,2,"7:11",431,731,"Kevarrius Hayes made Free Throw.",65,56,9,0.952005521791541,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+253,2,"6:41",401,701,"Bronson Koenig missed Jumper.",65,56,9,0.956312453605941,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+254,2,"6:41",401,701,"Devin Robinson Defensive Rebound.",65,56,9,0.956312453605941,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+255,2,"6:12",372,672,"KeVaughn Allen made Jumper.",67,56,11,0.971094108321062,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+256,2,"5:51",351,651,"Nigel Hayes missed Layup.",67,56,11,0.976902872442438,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+257,2,"5:51",351,651,"Kevarrius Hayes Block.",67,56,11,0.976902872442438,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+258,2,"5:51",351,651,"Kevarrius Hayes Defensive Rebound.",67,56,11,0.976902872442438,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+259,2,"5:24",324,624,"KeVaughn Allen missed Three Point Jumper.",67,56,11,0.97217675832101,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+260,2,"5:24",324,624,"Florida Offensive Rebound.",67,56,11,0.97217675832101,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+261,2,"5:24",324,624,"Foul on Nigel Hayes.",67,56,11,0.97217675832101,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+262,2,"5:24",324,624,"Kevarrius Hayes made Free Throw.",68,56,12,0.979519309860737,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+263,2,"5:24",324,624,"Kevarrius Hayes missed Free Throw.",68,56,12,0.979519309860737,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+264,2,"5:24",324,624,"Zak Showalter Defensive Rebound.",68,56,12,0.979519309860737,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+265,2,"5:04",304,604,"Bronson Koenig missed Jumper.",68,56,12,0.985664575685957,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+266,2,"5:04",304,604,"Kasey Hill Block.",68,56,12,0.985664575685957,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+267,2,"5:04",304,604,"Justin Leon Defensive Rebound.",68,56,12,0.985664575685957,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+268,2,"4:31",271,571,"Kasey Hill missed Jumper.",68,56,12,0.991226453681739,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+269,2,"4:31",271,571,"Khalil Iverson Defensive Rebound.",68,56,12,0.991226453681739,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+270,2,"4:25",265,565,"Zak Showalter made Layup. Assisted by Nigel Hayes.",68,58,10,0.980116232554733,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+271,2,"3:55",235,535,"Devin Robinson missed Three Point Jumper.",68,58,10,0.985816950865394,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+272,2,"3:55",235,535,"Kevarrius Hayes Offensive Rebound.",68,58,10,0.985816950865394,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+273,2,"3:33",213,513,"KeVaughn Allen Turnover.",68,58,10,0.98887628177603,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+274,2,"3:33",213,513,"Zak Showalter Steal.",68,58,10,0.98887628177603,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+275,2,"3:28",208,508,"Zak Showalter missed Layup.",68,58,10,0.991239585236633,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+276,2,"3:28",208,508,"Kevarrius Hayes Block.",68,58,10,0.991239585236633,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+277,2,"3:28",208,508,"Ethan Happ Offensive Rebound.",68,58,10,0.991239585236633,"Florida","Wisconsin",4,3,0,0,1,400947266,2017-03-24
+278,2,"3:17",197,497,"Ethan Happ made Layup.",68,60,8,0.979087084494708,"Florida","Wisconsin",4,3,1,0,1,400947266,2017-03-24
+279,2,"3:17",197,497,"Florida  Timeout",68,60,8,0.979087084494708,"Florida","Wisconsin",3,3,1,0,1,400947266,2017-03-24
+280,2,"3:17",197,497,"Official TV Timeout",68,60,8,0.979087084494708,"Florida","Wisconsin",3,3,1,0,1,400947266,2017-03-24
+281,2,"3:09",189,489,"KeVaughn Allen missed Layup.",68,60,8,0.980966566370707,"Florida","Wisconsin",3,3,1,0,1,400947266,2017-03-24
+282,2,"3:09",189,489,"Zak Showalter Defensive Rebound.",68,60,8,0.980966566370707,"Florida","Wisconsin",3,3,1,0,1,400947266,2017-03-24
+283,2,"2:54",174,474,"Foul on Devin Robinson.",68,60,8,0.98460551766583,"Florida","Wisconsin",3,3,1,0,1,400947266,2017-03-24
+284,2,"2:54",174,474,"Zak Showalter made Free Throw.",68,61,7,0.975061997876113,"Florida","Wisconsin",3,3,1,0,1,400947266,2017-03-24
+285,2,"2:54",174,474,"Zak Showalter made Free Throw.",68,62,6,0.959843446323917,"Florida","Wisconsin",3,3,1,0,1,400947266,2017-03-24
+286,2,"2:37",157,457,"Foul on Bronson Koenig.",68,62,6,0.968194662050332,"Florida","Wisconsin",3,3,1,0,1,400947266,2017-03-24
+287,2,"2:37",157,457,"Kevarrius Hayes missed Free Throw.",68,62,6,0.968194662050332,"Florida","Wisconsin",3,3,1,0,1,400947266,2017-03-24
+288,2,"2:37",157,457,"Florida Deadball Team Rebound.",68,62,6,0.968194662050332,"Florida","Wisconsin",3,3,1,0,1,400947266,2017-03-24
+289,2,"2:37",157,457,"Kevarrius Hayes made Free Throw.",69,62,7,0.981225266639148,"Florida","Wisconsin",3,3,1,0,1,400947266,2017-03-24
+290,2,"2:22",142,442,"Bronson Koenig missed Three Point Jumper.",69,62,7,0.974415281657057,"Florida","Wisconsin",3,3,1,0,1,400947266,2017-03-24
+291,2,"2:22",142,442,"Devin Robinson Defensive Rebound.",69,62,7,0.974415281657057,"Florida","Wisconsin",3,3,1,0,1,400947266,2017-03-24
+292,2,"2:10",130,430,"Foul on Khalil Iverson.",69,62,7,0.984181638459901,"Florida","Wisconsin",3,3,0,0,1,400947266,2017-03-24
+293,2,"2:10",130,430,"Kasey Hill missed Free Throw.",69,62,7,0.984181638459901,"Florida","Wisconsin",3,3,0,0,1,400947266,2017-03-24
+294,2,"2:10",130,430,"Florida Deadball Team Rebound.",69,62,7,0.984181638459901,"Florida","Wisconsin",3,3,0,0,1,400947266,2017-03-24
+295,2,"2:10",130,430,"Kasey Hill made Free Throw.",70,62,8,0.990791812953133,"Florida","Wisconsin",3,3,0,0,1,400947266,2017-03-24
+296,2,"1:54",114,414,"Bronson Koenig missed Three Point Jumper.",70,62,8,0.993424750455241,"Florida","Wisconsin",3,3,0,0,1,400947266,2017-03-24
+297,2,"1:54",114,414,"Zak Showalter Offensive Rebound.",70,62,8,0.993424750455241,"Florida","Wisconsin",3,3,0,0,1,400947266,2017-03-24
+298,2,"1:49",109,409,"Zak Showalter made Layup.",70,64,6,0.975627898050833,"Florida","Wisconsin",3,3,0,0,1,400947266,2017-03-24
+299,2,"1:44",104,404,"Foul on Bronson Koenig.",70,64,6,0.975627898050833,"Florida","Wisconsin",3,3,0,0,1,400947266,2017-03-24
+300,2,"1:44",104,404,"Kasey Hill made Free Throw.",71,64,7,0.986727588876911,"Florida","Wisconsin",3,3,0,0,1,400947266,2017-03-24
+301,2,"1:44",104,404,"Kasey Hill made Free Throw.",72,64,8,0.99280944794009,"Florida","Wisconsin",3,3,0,0,1,400947266,2017-03-24
+302,2,"1:33",93,393,"Bronson Koenig made Three Point Jumper. Assisted by Ethan Happ.",72,67,5,0.962507227342803,"Florida","Wisconsin",3,3,0,0,1,400947266,2017-03-24
+303,2,"1:29",89,389,"Wisconsin  Timeout",72,67,5,0.978692962017293,"Florida","Wisconsin",3,2,0,1,1,400947266,2017-03-24
+304,2,"1:01",61,361,"Kasey Hill missed Layup.",72,67,5,0.974912069146011,"Florida","Wisconsin",3,2,0,1,1,400947266,2017-03-24
+305,2,"1:01",61,361,"Wisconsin Defensive Rebound.",72,67,5,0.974912069146011,"Florida","Wisconsin",3,2,0,1,1,400947266,2017-03-24
+306,2,"0:48",48,348,"Bronson Koenig missed Three Point Jumper.",72,67,5,0.992377447650665,"Florida","Wisconsin",3,2,0,1,1,400947266,2017-03-24
+307,2,"0:48",48,348,"Ethan Happ Offensive Rebound.",72,67,5,0.992377447650665,"Florida","Wisconsin",3,2,0,1,1,400947266,2017-03-24
+308,2,"0:44",44,344,"Ethan Happ made Layup.",72,69,3,0.92703737215516,"Florida","Wisconsin",3,2,0,1,1,400947266,2017-03-24
+309,2,"0:37",37,337,"Florida  Timeout",72,69,3,0.94999356868667,"Florida","Wisconsin",2,2,1,1,1,400947266,2017-03-24
+310,2,"0:18",18,318,"Kevarrius Hayes Turnover.",72,69,3,0.96015319780163,"Florida","Wisconsin",2,2,1,0,1,400947266,2017-03-24
+311,2,"0:18",18,318,"Nigel Hayes Steal.",72,69,3,0.96015319780163,"Florida","Wisconsin",2,2,1,0,1,400947266,2017-03-24
+312,2,"0:06",6,306,"Wisconsin  Timeout",72,69,3,0.995869871464459,"Florida","Wisconsin",2,1,1,1,1,400947266,2017-03-24
+313,2,"0:03",3,303,"Zak Showalter made Three Point Jumper.",72,72,0,0.353587472481875,"Florida","Wisconsin",2,1,1,1,1,400947266,2017-03-24
+314,2,"0:03",3,303,"Florida  Timeout",72,72,0,0.353587472481875,"Florida","Wisconsin",1,1,1,1,1,400947266,2017-03-24
+315,2,"0:01",1,301,"Chris Chiozza Turnover.",72,72,0,0.353587472481875,"Florida","Wisconsin",1,1,1,1,1,400947266,2017-03-24
+316,2,"0:01",1,301,"D'Mitrik Trice Steal.",72,72,0,0.353587472481875,"Florida","Wisconsin",1,1,1,1,1,400947266,2017-03-24
+317,2,"0:01",1,301,"D'Mitrik Trice missed Three Point Jumper.",72,72,0,0.353587472481875,"Florida","Wisconsin",1,1,1,1,1,400947266,2017-03-24
+318,2,"0:01",1,301,"Wisconsin Offensive Rebound.",72,72,0,0.353587472481875,"Florida","Wisconsin",1,1,1,1,1,400947266,2017-03-24
+319,2,"0:00",300,300,"End of 2nd half",72,72,0,0.541618754927208,"Florida","Wisconsin",1,1,0,0,1,400947266,2017-03-24
+320,3,"5:00",300,300,"PLAY",72,72,0,0.541618754927208,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+321,3,"5:00",300,300,"Jump Ball won by Florida",72,72,0,0.541618754927208,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+322,3,"4:59",299,299,"Foul on Zak Showalter.",72,72,0,0.532385302555446,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+323,3,"4:59",299,299,"KeVaughn Allen made Free Throw.",73,72,1,0.61601605791348,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+324,3,"4:59",299,299,"KeVaughn Allen missed Free Throw.",73,72,1,0.61601605791348,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+325,3,"4:59",299,299,"Nigel Hayes Defensive Rebound.",73,72,1,0.61601605791348,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+326,3,"4:45",285,285,"Zak Showalter missed Jumper.",73,72,1,0.612757755826763,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+327,3,"4:45",285,285,"Wisconsin Offensive Rebound.",73,72,1,0.612757755826763,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+328,3,"4:28",268,268,"Ethan Happ missed Jumper.",73,72,1,0.631461776615884,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+329,3,"4:28",268,268,"KeVaughn Allen Block.",73,72,1,0.631461776615884,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+330,3,"4:28",268,268,"Chris Chiozza Defensive Rebound.",73,72,1,0.631461776615884,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+331,3,"4:19",259,259,"Chris Chiozza missed Jumper.",73,72,1,0.650045855313535,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+332,3,"4:19",259,259,"Ethan Happ Defensive Rebound.",73,72,1,0.650045855313535,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+333,3,"4:01",241,241,"Foul on Kasey Hill.",73,72,1,0.629230635515995,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+334,3,"4:01",241,241,"Nigel Hayes made Free Throw.",73,73,0,0.531070712825718,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+335,3,"4:01",241,241,"Nigel Hayes made Free Throw.",73,74,-1,0.430446113925859,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+336,3,"3:41",221,221,"KeVaughn Allen missed Three Point Jumper.",73,74,-1,0.443188770223283,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+337,3,"3:41",221,221,"Ethan Happ Defensive Rebound.",73,74,-1,0.443188770223283,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+338,3,"3:26",206,206,"Foul on Kevarrius Hayes.",73,74,-1,0.439382777774613,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+339,3,"3:26",206,206,"Nigel Hayes missed Free Throw.",73,74,-1,0.439382777774613,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+340,3,"3:26",206,206,"Wisconsin Deadball Team Rebound.",73,74,-1,0.439382777774613,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+341,3,"3:26",206,206,"Nigel Hayes made Free Throw.",73,75,-2,0.332765842575473,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+342,3,"3:12",192,192,"Kevarrius Hayes Turnover.",73,75,-2,0.302945290648791,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+343,3,"2:49",169,169,"Foul on Justin Leon.",73,75,-2,0.305890867228035,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+344,3,"2:49",169,169,"Nigel Hayes missed Free Throw.",73,75,-2,0.305890867228035,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+345,3,"2:49",169,169,"Wisconsin Deadball Team Rebound.",73,75,-2,0.305890867228035,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+346,3,"2:49",169,169,"Nigel Hayes missed Free Throw.",73,75,-2,0.305890867228035,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+347,3,"2:49",169,169,"Wisconsin Offensive Rebound.",73,75,-2,0.305890867228035,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+348,3,"2:26",146,146,"Ethan Happ made Layup. Assisted by Zak Showalter.",73,77,-4,0.113072367949315,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+349,3,"2:11",131,131,"KeVaughn Allen missed Three Point Jumper.",73,77,-4,0.130691675269082,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+350,3,"2:11",131,131,"Kevarrius Hayes Offensive Rebound.",73,77,-4,0.130691675269082,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+351,3,"2:04",124,124,"KeVaughn Allen missed Three Point Jumper.",73,77,-4,0.0965718622307642,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+352,3,"2:04",124,124,"Devin Robinson Offensive Rebound.",73,77,-4,0.0965718622307642,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+353,3,"1:58",118,118,"Chris Chiozza missed Three Point Jumper.",73,77,-4,0.100453142860542,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+354,3,"1:58",118,118,"Nigel Hayes Defensive Rebound.",73,77,-4,0.100453142860542,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+355,3,"1:40",100,100,"Foul on Justin Leon.",73,77,-4,0.0757880274663077,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+356,3,"1:40",100,100,"Nigel Hayes missed Free Throw.",73,77,-4,0.0757880274663077,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+357,3,"1:40",100,100,"Wisconsin Deadball Team Rebound.",73,77,-4,0.0757880274663077,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+358,3,"1:40",100,100,"Nigel Hayes made Free Throw.",73,78,-5,0.0422871211709916,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+359,3,"1:34",94,94,"Canyon Barry made Layup.",75,78,-3,0.143637224017807,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+360,3,"1:09",69,69,"Foul on Chris Chiozza.",75,78,-3,0.0929610740883542,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+361,3,"1:09",69,69,"Zak Showalter made Free Throw.",75,79,-4,0.0465193785199789,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+362,3,"1:09",69,69,"Zak Showalter made Free Throw.",75,80,-5,0.022698513576021,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+363,3,"0:49",49,49,"KeVaughn Allen made Layup.",77,80,-3,0.0603805295844329,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+364,3,"0:41",41,41,"Foul on Canyon Barry.",77,80,-3,0.0393921374481445,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+365,3,"0:41",41,41,"Ethan Happ missed Free Throw.",77,80,-3,0.0393921374481445,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+366,3,"0:41",41,41,"Wisconsin Deadball Team Rebound.",77,80,-3,0.0393921374481445,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+367,3,"0:41",41,41,"Ethan Happ made Free Throw.",77,81,-4,0.0148492868224041,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+368,3,"0:37",37,37,"Foul on Jordan Hill.",77,81,-4,0.0261663678587611,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+369,3,"0:37",37,37,"Canyon Barry made Free Throw.",78,81,-3,0.0641957104045816,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+370,3,"0:37",37,37,"Canyon Barry made Free Throw.",79,81,-2,0.149036958868943,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+371,3,"0:34",34,34,"Khalil Iverson missed Layup.",79,81,-2,0.155589317208533,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+372,3,"0:34",34,34,"Canyon Barry Block.",79,81,-2,0.155589317208533,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+373,3,"0:34",34,34,"Chris Chiozza Defensive Rebound.",79,81,-2,0.155589317208533,"Florida","Wisconsin",2,2,0,0,1,400947266,2017-03-24
+374,3,"0:24",24,24,"Chris Chiozza made Layup.",81,81,0,0.568552881877971,"Florida","Wisconsin",2,2,1,0,1,400947266,2017-03-24
+375,3,"0:24",24,24,"Florida  Timeout",81,81,0,0.568552881877971,"Florida","Wisconsin",1,2,1,0,1,400947266,2017-03-24
+376,3,"0:04",4,4,"Foul on Justin Leon.",81,81,0,0.353587472481875,"Florida","Wisconsin",1,2,1,0,1,400947266,2017-03-24
+377,3,"0:04",4,4,"Nigel Hayes made Free Throw.",81,82,-1,0.088978439144401,"Florida","Wisconsin",1,2,1,0,1,400947266,2017-03-24
+378,3,"0:04",4,4,"Nigel Hayes made Free Throw.",81,83,-2,0.017140232483098,"Florida","Wisconsin",1,2,1,0,1,400947266,2017-03-24
+379,3,"0:01",1,1,"Chris Chiozza made Three Point Jumper.",84,83,1,0.75390681521664,"Florida","Wisconsin",1,2,1,0,1,400947266,2017-03-24
+380,3,"0:00",0,0,"End of Game",84,83,1,0.999999996535651,"Florida","Wisconsin",1,2,1,0,1,400947266,2017-03-24

@@ -1,0 +1,355 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.920641647808302,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+2,1,"19:37",2377,2377,"Foul on Tony Armstrong.",0,0,0,0.912772820908115,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+3,1,"19:37",2377,2377,"Trey Moses missed Free Throw.",0,0,0,0.912772820908115,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+4,1,"19:37",2377,2377,"Ball State Deadball Team Rebound.",0,0,0,0.912772820908115,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+5,1,"19:37",2377,2377,"Trey Moses made Free Throw.",1,0,1,0.920055018985728,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+6,1,"19:19",2359,2359,"Demetrius Houston missed Jumper.",1,0,1,0.922552280338151,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+7,1,"19:19",2359,2359,"Ryan Weber Defensive Rebound.",1,0,1,0.922552280338151,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+8,1,"19:11",2351,2351,"Franko House missed Layup.",1,0,1,0.922552280338151,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+9,1,"19:11",2351,2351,"Tony Armstrong Defensive Rebound.",1,0,1,0.922552280338151,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+10,1,"18:59",2339,2339,"Rodney Simeon missed Three Point Jumper.",1,0,1,0.917605290844787,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+11,1,"18:59",2339,2339,"Tayler Persons Defensive Rebound.",1,0,1,0.917605290844787,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+12,1,"18:51",2331,2331,"Sean Sellers made Layup. Assisted by Tayler Persons.",3,0,3,0.930732796914602,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+13,1,"18:23",2303,2303,"Rodney Simeon Turnover.",3,0,3,0.924930954282876,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+14,1,"18:21",2301,2301,"Tayler Persons Steal.",3,0,3,0.924930954282876,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+15,1,"18:13",2293,2293,"Trey Moses Turnover.",3,0,3,0.930826476196426,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+16,1,"18:01",2281,2281,"Demetrius Houston missed Jumper.",3,0,3,0.929041336792627,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+17,1,"18:01",2281,2281,"Rodney Simeon Offensive Rebound.",3,0,3,0.929041336792627,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+18,1,"17:55",2275,2275,"Tony Armstrong missed Layup.",3,0,3,0.930884639664893,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+19,1,"17:55",2275,2275,"Trey Moses Defensive Rebound.",3,0,3,0.930884639664893,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+20,1,"17:47",2267,2267,"Sean Sellers missed Three Point Jumper.",3,0,3,0.937873686589345,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+21,1,"17:47",2267,2267,"Steve Rogers Defensive Rebound.",3,0,3,0.937873686589345,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+22,1,"17:36",2256,2256,"Rodney Simeon Turnover.",3,0,3,0.92444641962996,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+23,1,"17:21",2241,2241,"Franko House made Layup. Assisted by Trey Moses.",5,0,5,0.932028625224579,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+24,1,"17:03",2223,2223,"Austin Rogers missed Three Point Jumper.",5,0,5,0.942186131365918,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+25,1,"17:03",2223,2223,"Tony Armstrong Offensive Rebound.",5,0,5,0.942186131365918,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+26,1,"16:58",2218,2218,"Steve Rogers missed Three Point Jumper.",5,0,5,0.945939751458543,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+27,1,"16:58",2218,2218,"Alabama St Offensive Rebound.",5,0,5,0.945939751458543,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+28,1,"16:56",2216,2216,"Foul on Ryan Weber.",5,0,5,0.945939751458543,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+29,1,"16:55",2215,2215,"Demetrius Houston made Layup. Assisted by Steve Rogers.",5,2,3,0.930883009613106,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+30,1,"16:39",2199,2199,"Tayler Persons missed Jumper.",5,2,3,0.934658161213586,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+31,1,"16:39",2199,2199,"Tony Armstrong Defensive Rebound.",5,2,3,0.934658161213586,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+32,1,"16:20",2180,2180,"Rodney Simeon made Three Point Jumper. Assisted by Austin Rogers.",5,5,0,0.903240434403543,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+33,1,"16:11",2171,2171,"Ryan Weber made Three Point Jumper. Assisted by Tayler Persons.",8,5,3,0.926405721046015,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+34,1,"15:50",2150,2150,"Foul on Franko House.",8,5,3,0.928032075866445,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+35,1,"15:50",2150,2150,"Official TV Timeout",8,5,3,0.928032075866445,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+36,1,"15:31",2131,2131,"Steve Rogers missed Layup.",8,5,3,0.929888903126885,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+37,1,"15:31",2131,2131,"Tayler Persons Block.",8,5,3,0.929888903126885,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+38,1,"15:28",2128,2128,"Alabama St Offensive Rebound.",8,5,3,0.926600668183086,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+39,1,"15:21",2121,2121,"Tony Armstrong made Jumper. Assisted by Steve Rogers.",8,7,1,0.909404163730898,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+40,1,"14:52",2092,2092,"Tayler Persons made Layup.",10,7,3,0.923974183902327,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+41,1,"14:38",2078,2078,"Demetrius Houston Turnover.",10,7,3,0.927379507360762,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+42,1,"14:36",2076,2076,"Francis Kiapway Steal.",10,7,3,0.927379507360762,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+43,1,"14:34",2074,2074,"Trey Moses Turnover.",10,7,3,0.927379507360762,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+44,1,"14:32",2072,2072,"Tony Armstrong Steal.",10,7,3,0.927379507360762,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+45,1,"14:32",2072,2072,"Foul on Tayler Persons.",10,7,3,0.927379507360762,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+46,1,"14:32",2072,2072,"Steve Rogers missed Free Throw.",10,7,3,0.927379507360762,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+47,1,"14:32",2072,2072,"Alabama St Deadball Team Rebound.",10,7,3,0.927379507360762,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+48,1,"14:32",2072,2072,"Steve Rogers missed Free Throw.",10,7,3,0.927379507360762,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+49,1,"14:32",2072,2072,"Tahjai Teague Defensive Rebound.",10,7,3,0.927379507360762,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+50,1,"14:19",2059,2059,"Tayler Persons missed Jumper.",10,7,3,0.932701836947798,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+51,1,"14:19",2059,2059,"Rodney Simeon Defensive Rebound.",10,7,3,0.932701836947798,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+52,1,"14:09",2049,2049,"Steve Rogers missed Layup.",10,7,3,0.919827281981795,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+53,1,"14:09",2049,2049,"Trey Moses Defensive Rebound.",10,7,3,0.919827281981795,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+54,1,"14:01",2041,2041,"Ball State  Timeout",10,7,3,0.919827281981795,"Ball State","Alabama State",3,4,1,0,19.2,400917092,2016-12-22
+55,1,"13:48",2028,2028,"Jeremie Tyler missed Three Point Jumper.",10,7,3,0.928893924783801,"Ball State","Alabama State",3,4,1,0,19.2,400917092,2016-12-22
+56,1,"13:48",2028,2028,"Demetrius Houston Defensive Rebound.",10,7,3,0.928893924783801,"Ball State","Alabama State",3,4,1,0,19.2,400917092,2016-12-22
+57,1,"13:40",2020,2020,"Demetrius Houston Turnover.",10,7,3,0.928893924783801,"Ball State","Alabama State",3,4,1,0,19.2,400917092,2016-12-22
+58,1,"13:27",2007,2007,"Foul on Rodney Simeon.",10,7,3,0.921475991333079,"Ball State","Alabama State",3,4,1,0,19.2,400917092,2016-12-22
+59,1,"13:27",2007,2007,"Francis Kiapway missed Free Throw.",10,7,3,0.921475991333079,"Ball State","Alabama State",3,4,1,0,19.2,400917092,2016-12-22
+60,1,"13:27",2007,2007,"Ball State Deadball Team Rebound.",10,7,3,0.921475991333079,"Ball State","Alabama State",3,4,1,0,19.2,400917092,2016-12-22
+61,1,"13:27",2007,2007,"Francis Kiapway made Free Throw.",11,7,4,0.929098508303035,"Ball State","Alabama State",3,4,1,0,19.2,400917092,2016-12-22
+62,1,"13:15",1995,1995,"Torloft Thomas Turnover.",11,7,4,0.936878578260883,"Ball State","Alabama State",3,4,1,0,19.2,400917092,2016-12-22
+63,1,"12:54",1974,1974,"Tahjai Teague Turnover.",11,7,4,0.939243056316717,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+64,1,"12:42",1962,1962,"Rodney Simeon missed Three Point Jumper.",11,7,4,0.929835881461362,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+65,1,"12:42",1962,1962,"Ball State Defensive Rebound.",11,7,4,0.929835881461362,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+66,1,"12:29",1949,1949,"Francis Kiapway made Three Point Jumper. Assisted by Jeremie Tyler.",14,7,7,0.952769038680279,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+67,1,"12:00",1920,1920,"Demetrius Houston made Layup. Assisted by Torloft Thomas.",14,9,5,0.944181985964511,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+68,1,"11:48",1908,1908,"Foul on Demetrius Houston.",14,9,5,0.939001575448149,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+69,1,"11:48",1908,1908,"Official TV Timeout",14,9,5,0.939001575448149,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+70,1,"11:47",1907,1907,"Francis Kiapway Turnover.",14,9,5,0.939001575448149,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+71,1,"11:40",1900,1900,"Demetrius Houston Steal.",14,9,5,0.939001575448149,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+72,1,"11:16",1876,1876,"Alabama St  Turnover.",14,9,5,0.937512305530632,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+73,1,"11:05",1865,1865,"Francis Kiapway made Jumper.",16,9,7,0.952523515658163,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+74,1,"10:47",1847,1847,"Foul on Jeremie Tyler.",16,9,7,0.949259553057716,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+75,1,"10:46",1846,1846,"Amir Warnock Turnover.",16,9,7,0.949259553057716,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+76,1,"10:27",1827,1827,"Foul on Amir Warnock.",16,9,7,0.954455155608496,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+77,1,"10:27",1827,1827,"Trey Moses missed Free Throw.",16,9,7,0.954455155608496,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+78,1,"10:27",1827,1827,"Ball State Deadball Team Rebound.",16,9,7,0.954455155608496,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+79,1,"10:27",1827,1827,"Trey Moses missed Free Throw.",16,9,7,0.954455155608496,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+80,1,"10:27",1827,1827,"Amir Warnock Defensive Rebound.",16,9,7,0.954455155608496,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+81,1,"10:17",1817,1817,"Torloft Thomas made Three Point Jumper. Assisted by Amir Warnock.",16,12,4,0.932950955308002,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+82,1,"10:09",1809,1809,"Foul on Demetrius Houston.",16,12,4,0.930225957095163,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+83,1,"10:05",1805,1805,"Tayler Persons missed Jumper.",16,12,4,0.930225957095163,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+84,1,"10:05",1805,1805,"Tony Armstrong Defensive Rebound.",16,12,4,0.930225957095163,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+85,1,"9:56",1796,1796,"Reginald Gee Turnover.",16,12,4,0.924748046406226,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+86,1,"9:29",1769,1769,"Franko House made Layup. Assisted by Tayler Persons.",18,12,6,0.949329493656673,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+87,1,"9:13",1753,1753,"Steve Rogers missed Three Point Jumper.",18,12,6,0.947961815327107,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+88,1,"9:13",1753,1753,"Amir Warnock Offensive Rebound.",18,12,6,0.947961815327107,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+89,1,"9:10",1750,1750,"Foul on Tahjai Teague.",18,12,6,0.947961815327107,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+90,1,"9:10",1750,1750,"Amir Warnock missed Free Throw.",18,12,6,0.947961815327107,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+91,1,"9:10",1750,1750,"Alabama St Deadball Team Rebound.",18,12,6,0.947961815327107,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+92,1,"9:10",1750,1750,"Amir Warnock missed Free Throw.",18,12,6,0.947961815327107,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+93,1,"9:10",1750,1750,"Tahjai Teague Defensive Rebound.",18,12,6,0.947961815327107,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+94,1,"8:51",1731,1731,"Ryan Weber missed Three Point Jumper.",18,12,6,0.94611048041686,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+95,1,"8:51",1731,1731,"Ryan Weber Offensive Rebound.",18,12,6,0.94611048041686,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+96,1,"8:47",1727,1727,"Ryan Weber missed Three Point Jumper.",18,12,6,0.937895205756336,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+97,1,"8:47",1727,1727,"Reginald Gee Defensive Rebound.",18,12,6,0.937895205756336,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+98,1,"8:39",1719,1719,"Torloft Thomas Turnover.",18,12,6,0.948885057424121,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+99,1,"8:29",1709,1709,"Franko House missed Three Point Jumper.",18,12,6,0.940277019210422,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+100,1,"8:29",1709,1709,"Reginald Gee Defensive Rebound.",18,12,6,0.940277019210422,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+101,1,"8:18",1698,1698,"Rodney Simeon missed Three Point Jumper.",18,12,6,0.944685424497753,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+102,1,"8:18",1698,1698,"Amir Warnock Offensive Rebound.",18,12,6,0.944685424497753,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+103,1,"7:57",1677,1677,"Reginald Gee missed Jumper.",18,12,6,0.946227711310398,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+104,1,"7:57",1677,1677,"Sean Sellers Defensive Rebound.",18,12,6,0.946227711310398,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+105,1,"7:34",1654,1654,"Tahjai Teague made Layup.",20,12,8,0.953589866143035,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+106,1,"7:13",1633,1633,"Rodney Simeon missed Three Point Jumper.",20,12,8,0.954615370516409,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+107,1,"7:13",1633,1633,"Rodney Simeon Offensive Rebound.",20,12,8,0.954615370516409,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+108,1,"7:07",1627,1627,"Tony Armstrong missed Jumper.",20,12,8,0.957430256473307,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+109,1,"7:07",1627,1627,"Franko House Defensive Rebound.",20,12,8,0.957430256473307,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+110,1,"6:57",1617,1617,"Franko House made Jumper.",22,12,10,0.963460498517934,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+111,1,"6:56",1616,1616,"Alabama St  Timeout",22,12,10,0.963460498517934,"Ball State","Alabama State",3,3,0,1,19.2,400917092,2016-12-22
+112,1,"6:43",1603,1603,"Amir Warnock made Layup. Assisted by Terrance LeFlore.",22,14,8,0.95560796901757,"Ball State","Alabama State",3,3,0,1,19.2,400917092,2016-12-22
+113,1,"6:16",1576,1576,"Jeremie Tyler missed Three Point Jumper.",22,14,8,0.96178961173285,"Ball State","Alabama State",3,3,0,1,19.2,400917092,2016-12-22
+114,1,"6:16",1576,1576,"Reginald Gee Defensive Rebound.",22,14,8,0.96178961173285,"Ball State","Alabama State",3,3,0,1,19.2,400917092,2016-12-22
+115,1,"5:53",1553,1553,"Terrance LeFlore made Three Point Jumper.",22,17,5,0.930098392038489,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+116,1,"5:34",1534,1534,"Trey Moses missed Layup.",22,17,5,0.936110252376984,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+117,1,"5:34",1534,1534,"Tony Armstrong Block.",22,17,5,0.936110252376984,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+118,1,"5:31",1531,1531,"Tony Armstrong Defensive Rebound.",22,17,5,0.936110252376984,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+119,1,"5:08",1508,1508,"Reginald Gee missed Three Point Jumper.",22,17,5,0.933338965699186,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+120,1,"5:08",1508,1508,"Trey Moses Defensive Rebound.",22,17,5,0.933338965699186,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+121,1,"4:56",1496,1496,"Francis Kiapway Turnover.",22,17,5,0.934949172570167,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+122,1,"4:45",1485,1485,"Tony Armstrong missed Dunk.",22,17,5,0.933718984381604,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+123,1,"4:45",1485,1485,"Trey Moses Defensive Rebound.",22,17,5,0.933718984381604,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+124,1,"4:24",1464,1464,"Foul on Glenn Hollaway.",22,17,5,0.921975054758004,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+125,1,"4:23",1463,1463,"Sean Sellers missed Three Point Jumper.",22,17,5,0.921975054758004,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+126,1,"4:23",1463,1463,"Kyle Mallers Offensive Rebound.",22,17,5,0.921975054758004,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+127,1,"4:20",1460,1460,"Kyle Mallers missed Layup.",22,17,5,0.921975054758004,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+128,1,"4:20",1460,1460,"Ball State Offensive Rebound.",22,17,5,0.921975054758004,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+129,1,"4:07",1447,1447,"Foul on Glenn Hollaway.",22,17,5,0.938506380890192,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+130,1,"4:07",1447,1447,"Trey Moses missed Free Throw.",22,17,5,0.938506380890192,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+131,1,"4:07",1447,1447,"Tony Armstrong Defensive Rebound.",22,17,5,0.938506380890192,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+132,1,"3:56",1436,1436,"Terrance LeFlore Turnover.",22,17,5,0.929823052270146,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+133,1,"3:55",1435,1435,"Jeremie Tyler Steal.",22,17,5,0.929823052270146,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+134,1,"3:42",1422,1422,"Foul on Rodney Simeon.",22,17,5,0.924689946077429,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+135,1,"3:42",1422,1422,"Official TV Timeout",22,17,5,0.924689946077429,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+136,1,"3:42",1422,1422,"Trey Moses missed Free Throw.",22,17,5,0.924689946077429,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+137,1,"3:42",1422,1422,"Ball State Deadball Team Rebound.",22,17,5,0.924689946077429,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+138,1,"3:42",1422,1422,"Trey Moses made Free Throw.",23,17,6,0.93417030803563,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+139,1,"3:35",1415,1415,"Terrance LeFlore Turnover.",23,17,6,0.93698007757257,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+140,1,"3:27",1407,1407,"Kyle Mallers missed Three Point Jumper.",23,17,6,0.947397245722497,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+141,1,"3:27",1407,1407,"Reginald Gee Defensive Rebound.",23,17,6,0.947397245722497,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+142,1,"3:08",1388,1388,"Reginald Gee made Jumper.",23,19,4,0.924438651899168,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+143,1,"2:48",1368,1368,"Trey Moses made Dunk. Assisted by Francis Kiapway.",25,19,6,0.940798661489866,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+144,1,"2:38",1358,1358,"Tony Armstrong missed Layup.",25,19,6,0.943523439231109,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+145,1,"2:38",1358,1358,"Trey Moses Block.",25,19,6,0.943523439231109,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+146,1,"2:36",1356,1356,"Tayler Persons Defensive Rebound.",25,19,6,0.943523439231109,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+147,1,"2:33",1353,1353,"Sean Sellers missed Three Point Jumper.",25,19,6,0.943523439231109,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+148,1,"2:33",1353,1353,"Terrance LeFlore Defensive Rebound.",25,19,6,0.943523439231109,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+149,1,"2:26",1346,1346,"Foul on Tayler Persons.",25,19,6,0.936172239136557,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+150,1,"2:22",1342,1342,"Tony Armstrong Turnover.",25,19,6,0.936172239136557,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+151,1,"2:22",1342,1342,"Tayler Persons Steal.",25,19,6,0.936172239136557,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+152,1,"2:12",1332,1332,"Tayler Persons made Jumper.",27,19,8,0.952341983788631,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+153,1,"2:01",1321,1321,"Foul on Tahjai Teague.",27,19,8,0.956410322065967,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+154,1,"2:01",1321,1321,"Artis Cleveland made Free Throw.",27,20,7,0.949346301500209,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+155,1,"2:01",1321,1321,"Artis Cleveland missed Free Throw.",27,20,7,0.949346301500209,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+156,1,"2:01",1321,1321,"Tahjai Teague Defensive Rebound.",27,20,7,0.949346301500209,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+157,1,"1:40",1300,1300,"Franko House made Layup. Assisted by Tahjai Teague.",29,20,9,0.954674326876465,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+158,1,"1:21",1281,1281,"Torloft Thomas missed Three Point Jumper.",29,20,9,0.962072673745639,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+159,1,"1:21",1281,1281,"Tahjai Teague Defensive Rebound.",29,20,9,0.962072673745639,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+160,1,"1:19",1279,1279,"Foul on Artis Cleveland.",29,20,9,0.957317991449533,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+161,1,"1:18",1278,1278,"Tahjai Teague missed Free Throw.",29,20,9,0.957317991449533,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+162,1,"1:18",1278,1278,"Sean Sellers Offensive Rebound.",29,20,9,0.957317991449533,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+163,1,"1:11",1271,1271,"Tayler Persons Turnover.",29,20,9,0.957317991449533,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+164,1,"0:43",1243,1243,"Torloft Thomas missed Three Point Jumper.",29,20,9,0.961666246208878,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+165,1,"0:43",1243,1243,"Ball State Deadball Team Rebound.",29,20,9,0.961666246208878,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+166,1,"0:30",1230,1230,"Foul on Tony Armstrong.",29,20,9,0.958800989181281,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+167,1,"0:30",1230,1230,"Tayler Persons made Free Throw.",30,20,10,0.964711661052337,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+168,1,"0:30",1230,1230,"Tayler Persons made Free Throw.",31,20,11,0.969801058920588,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+169,1,"0:05",1205,1205,"Terrance LeFlore missed Jumper.",31,20,11,0.97138779667435,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+170,1,"0:05",1205,1205,"Ryan Weber Defensive Rebound.",31,20,11,0.97138779667435,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+171,1,"0:00",1200,1200,"End of 1st half",31,20,11,0.97138779667435,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+172,2,"20:00",1200,1200,"PLAY",31,20,11,0.97138779667435,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+173,2,"19:46",1186,1186,"Rodney Simeon missed Three Point Jumper.",31,20,11,0.973483551088554,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+174,2,"19:46",1186,1186,"Trey Moses Defensive Rebound.",31,20,11,0.973483551088554,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+175,2,"19:37",1177,1177,"Ryan Weber missed Three Point Jumper.",31,20,11,0.970298541169992,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+176,2,"19:37",1177,1177,"Franko House Offensive Rebound.",31,20,11,0.970298541169992,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+177,2,"19:32",1172,1172,"Foul on Steve Rogers.",31,20,11,0.970298541169992,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+178,2,"19:32",1172,1172,"Franko House missed Free Throw.",31,20,11,0.970298541169992,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+179,2,"19:32",1172,1172,"Ball State Deadball Team Rebound.",31,20,11,0.970298541169992,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+180,2,"19:32",1172,1172,"Franko House made Free Throw.",32,20,12,0.974691161988599,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+181,2,"18:54",1134,1134,"Steve Rogers made Three Point Jumper. Assisted by Austin Rogers.",32,23,9,0.962903927037714,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+182,2,"18:48",1128,1128,"Tayler Persons missed Jumper.",32,23,9,0.967176138803854,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+183,2,"18:48",1128,1128,"Tony Armstrong Defensive Rebound.",32,23,9,0.967176138803854,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+184,2,"18:31",1111,1111,"Rodney Simeon missed Three Point Jumper.",32,23,9,0.960855034182975,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+185,2,"18:31",1111,1111,"Trey Moses Defensive Rebound.",32,23,9,0.960855034182975,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+186,2,"18:22",1102,1102,"Sean Sellers missed Layup.",32,23,9,0.962462060798234,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+187,2,"18:22",1102,1102,"Demetrius Houston Block.",32,23,9,0.962462060798234,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+188,2,"18:22",1102,1102,"Ball State Offensive Rebound.",32,23,9,0.962462060798234,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+189,2,"18:05",1085,1085,"Franko House made Dunk. Assisted by Trey Moses.",34,23,11,0.976496937424385,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+190,2,"17:47",1067,1067,"Austin Rogers missed Layup.",34,23,11,0.971904905266114,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+191,2,"17:47",1067,1067,"Tony Armstrong Offensive Rebound.",34,23,11,0.971904905266114,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+192,2,"17:44",1064,1064,"Tony Armstrong made Layup.",34,25,9,0.960789971044911,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+193,2,"17:36",1056,1056,"Tayler Persons missed Three Point Jumper.",34,25,9,0.965055451007052,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+194,2,"17:36",1056,1056,"Steve Rogers Defensive Rebound.",34,25,9,0.965055451007052,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+195,2,"17:25",1045,1045,"Demetrius Houston made Jumper.",34,27,7,0.951314103908258,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+196,2,"17:04",1024,1024,"Tayler Persons made Layup.",36,27,9,0.964147770777086,"Ball State","Alabama State",4,4,0,0,19.2,400917092,2016-12-22
+197,2,"17:02",1022,1022,"Ball State  Timeout",36,27,9,0.964147770777086,"Ball State","Alabama State",3,4,1,0,19.2,400917092,2016-12-22
+198,2,"16:49",1009,1009,"Steve Rogers missed Three Point Jumper.",36,27,9,0.961522671019336,"Ball State","Alabama State",3,4,1,0,19.2,400917092,2016-12-22
+199,2,"16:49",1009,1009,"Franko House Defensive Rebound.",36,27,9,0.961522671019336,"Ball State","Alabama State",3,4,1,0,19.2,400917092,2016-12-22
+200,2,"16:40",1000,1000,"Tayler Persons made Layup. Assisted by Franko House.",38,27,11,0.973164848429567,"Ball State","Alabama State",3,4,1,0,19.2,400917092,2016-12-22
+201,2,"16:20",980,980,"Steve Rogers missed Three Point Jumper.",38,27,11,0.977223926760021,"Ball State","Alabama State",3,4,1,0,19.2,400917092,2016-12-22
+202,2,"16:20",980,980,"Sean Sellers Defensive Rebound.",38,27,11,0.977223926760021,"Ball State","Alabama State",3,4,1,0,19.2,400917092,2016-12-22
+203,2,"16:13",973,973,"Tayler Persons Turnover.",38,27,11,0.975036930239006,"Ball State","Alabama State",3,4,1,0,19.2,400917092,2016-12-22
+204,2,"16:12",972,972,"Demetrius Houston Steal.",38,27,11,0.975036930239006,"Ball State","Alabama State",3,4,1,0,19.2,400917092,2016-12-22
+205,2,"15:58",958,958,"Demetrius Houston Turnover.",38,27,11,0.977847681085541,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+206,2,"15:56",956,956,"Trey Moses Steal.",38,27,11,0.977847681085541,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+207,2,"15:50",950,950,"Foul on Steve Rogers.",38,27,11,0.977847681085541,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+208,2,"15:50",950,950,"Official TV Timeout",38,27,11,0.977847681085541,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+209,2,"15:49",949,949,"Ryan Weber made Three Point Jumper. Assisted by Francis Kiapway.",41,27,14,0.987810249321361,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+210,2,"15:48",948,948,"Foul on Demetrius Houston.",41,27,14,0.987810249321361,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+211,2,"15:48",948,948,"Ryan Weber made Free Throw.",42,27,15,0.98991597534748,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+212,2,"15:43",943,943,"Rodney Simeon missed Layup.",42,27,15,0.98991597534748,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+213,2,"15:43",943,943,"Alabama St Offensive Rebound.",42,27,15,0.98991597534748,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+214,2,"15:22",922,922,"Tony Armstrong made Jumper. Assisted by Steve Rogers.",42,29,13,0.981564485106108,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+215,2,"15:10",910,910,"Trey Moses made Jumper.",44,29,15,0.990346587480414,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+216,2,"14:58",898,898,"Tony Armstrong Turnover.",44,29,15,0.988894011844107,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+217,2,"14:58",898,898,"Foul on Tony Armstrong.",44,29,15,0.988894011844107,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+218,2,"14:43",883,883,"Trey Moses missed Layup.",44,29,15,0.983938806938854,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+219,2,"14:43",883,883,"Tayler Persons Offensive Rebound.",44,29,15,0.983938806938854,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+220,2,"14:37",877,877,"Tahjai Teague Turnover.",44,29,15,0.988696243645751,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+221,2,"14:21",861,861,"Torloft Thomas missed Three Point Jumper.",44,29,15,0.988064265113065,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+222,2,"14:21",861,861,"Trey Moses Defensive Rebound.",44,29,15,0.988064265113065,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+223,2,"14:12",852,852,"Tayler Persons missed Layup.",44,29,15,0.990490935048217,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+224,2,"14:12",852,852,"Amir Warnock Defensive Rebound.",44,29,15,0.990490935048217,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+225,2,"14:02",842,842,"Tony Armstrong made Jumper. Assisted by Austin Rogers.",44,31,13,0.985844688077579,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+226,2,"13:44",824,824,"Foul on Torloft Thomas.",44,31,13,0.982652190304477,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+227,2,"13:44",824,824,"Tayler Persons made Free Throw.",45,31,14,0.985586404530775,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+228,2,"13:44",824,824,"Tayler Persons made Free Throw.",46,31,15,0.988030370127865,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+229,2,"13:33",813,813,"Steve Rogers missed Three Point Jumper.",46,31,15,0.989312595746255,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+230,2,"13:33",813,813,"Amir Warnock Offensive Rebound.",46,31,15,0.989312595746255,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+231,2,"13:27",807,807,"Amir Warnock missed Layup.",46,31,15,0.990811919978671,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+232,2,"13:26",806,806,"Tahjai Teague Block.",46,31,15,0.990811919978671,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+233,2,"13:25",805,805,"Amir Warnock Offensive Rebound.",46,31,15,0.990811919978671,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+234,2,"13:20",800,800,"Amir Warnock made Layup.",46,33,13,0.986266751015057,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+235,2,"13:02",782,782,"Franko House made Jumper.",48,33,15,0.990090161320959,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+236,2,"12:41",761,761,"Terrance LeFlore missed Jumper.",48,33,15,0.992545336494016,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+237,2,"12:41",761,761,"Tahjai Teague Defensive Rebound.",48,33,15,0.992545336494016,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+238,2,"12:17",737,737,"Tahjai Teague made Three Point Jumper. Assisted by Ryan Weber.",51,33,18,0.994520310569807,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+239,2,"12:07",727,727,"Terrance LeFlore missed Three Point Jumper.",51,33,18,0.9957154765905,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+240,2,"12:07",727,727,"Tahjai Teague Defensive Rebound.",51,33,18,0.9957154765905,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+241,2,"12:01",721,721,"Tahjai Teague Turnover.",51,33,18,0.9957154765905,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+242,2,"11:38",698,698,"Rodney Simeon missed Three Point Jumper.",51,33,18,0.99724039415386,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+243,2,"11:38",698,698,"Francis Kiapway Defensive Rebound.",51,33,18,0.99724039415386,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+244,2,"11:26",686,686,"Tahjai Teague missed Layup.",51,33,18,0.995749848225504,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+245,2,"11:26",686,686,"Ryan Weber Offensive Rebound.",51,33,18,0.995749848225504,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+246,2,"11:13",673,673,"Foul on Glenn Hollaway.",51,33,18,0.996397121395079,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+247,2,"11:13",673,673,"Official TV Timeout",51,33,18,0.996397121395079,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+248,2,"11:06",666,666,"Kyle Mallers made Three Point Jumper. Assisted by Franko House.",54,33,21,0.997880642503383,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+249,2,"10:47",647,647,"Glenn Hollaway missed Jumper.",54,33,21,0.998366926070634,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+250,2,"10:47",647,647,"Jeremie Tyler Defensive Rebound.",54,33,21,0.998366926070634,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+251,2,"10:33",633,633,"Jeremie Tyler Turnover.",54,33,21,0.997954595340408,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+252,2,"10:24",624,624,"Demetrius Houston missed Jumper.",54,33,21,0.998885881540862,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+253,2,"10:24",624,624,"Sean Sellers Defensive Rebound.",54,33,21,0.998885881540862,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+254,2,"10:03",603,603,"Franko House missed Jumper.",54,33,21,0.998591252865082,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+255,2,"10:03",603,603,"Torloft Thomas Defensive Rebound.",54,33,21,0.998591252865082,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+256,2,"9:43",583,583,"Foul on Sean Sellers.",54,33,21,0.99824729076274,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+257,2,"9:43",583,583,"Torloft Thomas missed Free Throw.",54,33,21,0.99824729076274,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+258,2,"9:43",583,583,"Alabama St Deadball Team Rebound.",54,33,21,0.99824729076274,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+259,2,"9:43",583,583,"Torloft Thomas made Free Throw.",54,34,20,0.997768410956969,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+260,2,"9:30",570,570,"Francis Kiapway missed Layup.",54,34,20,0.998493960940508,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+261,2,"9:30",570,570,"Ball State Offensive Rebound.",54,34,20,0.998493960940508,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+262,2,"9:26",566,566,"Francis Kiapway missed Three Point Jumper.",54,34,20,0.998729761874171,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+263,2,"9:26",566,566,"Ball State Offensive Rebound.",54,34,20,0.998729761874171,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+264,2,"9:23",563,563,"Foul on Demetrius Houston.",54,34,20,0.998729761874171,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+265,2,"9:23",563,563,"Franko House made Free Throw.",55,34,21,0.999018294635476,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+266,2,"9:23",563,563,"Franko House made Free Throw.",56,34,22,0.999241337381337,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+267,2,"9:19",559,559,"Torloft Thomas missed Layup.",56,34,22,0.999123260261749,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+268,2,"9:19",559,559,"Francis Kiapway Defensive Rebound.",56,34,22,0.999123260261749,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+269,2,"9:10",550,550,"Foul on Austin Rogers.",56,34,22,0.999123260261749,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+270,2,"9:10",550,550,"Jeremie Tyler made Free Throw.",57,34,23,0.99932406392095,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+271,2,"9:10",550,550,"Jeremie Tyler missed Free Throw.",57,34,23,0.99932406392095,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+272,2,"9:10",550,550,"Jeremie Tyler Offensive Rebound.",57,34,23,0.99932406392095,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+273,2,"9:07",547,547,"Jeremie Tyler made Jumper.",59,34,25,0.999637623831583,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+274,2,"8:48",528,528,"Tony Armstrong missed Layup.",59,34,25,0.999658802504122,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+275,2,"8:48",528,528,"Franko House Defensive Rebound.",59,34,25,0.999658802504122,"Ball State","Alabama State",3,4,0,0,19.2,400917092,2016-12-22
+276,2,"8:44",524,524,"Jeremie Tyler made Dunk. Assisted by Franko House.",61,34,27,0.999802067450288,"Ball State","Alabama State",3,4,0,1,19.2,400917092,2016-12-22
+277,2,"8:44",524,524,"Foul on Terrance LeFlore.",61,34,27,0.999802067450288,"Ball State","Alabama State",3,4,0,1,19.2,400917092,2016-12-22
+278,2,"8:44",524,524,"Alabama St  Timeout",61,34,27,0.999802067450288,"Ball State","Alabama State",3,3,0,1,19.2,400917092,2016-12-22
+279,2,"8:44",524,524,"Jeremie Tyler made Free Throw.",62,34,28,0.999849248276103,"Ball State","Alabama State",3,3,0,1,19.2,400917092,2016-12-22
+280,2,"8:33",513,513,"Tony Armstrong made Jumper.",62,36,26,0.999727027984089,"Ball State","Alabama State",3,3,0,1,19.2,400917092,2016-12-22
+281,2,"8:05",485,485,"Kyle Mallers made Three Point Jumper. Assisted by Sean Sellers.",65,36,29,0.999897634582496,"Ball State","Alabama State",3,3,0,1,19.2,400917092,2016-12-22
+282,2,"7:52",472,472,"Terrance LeFlore Turnover.",65,36,29,0.999940942278182,"Ball State","Alabama State",3,3,0,1,19.2,400917092,2016-12-22
+283,2,"7:50",470,470,"Kyle Mallers Steal.",65,36,29,0.999940942278182,"Ball State","Alabama State",3,3,0,1,19.2,400917092,2016-12-22
+284,2,"7:43",463,463,"Francis Kiapway missed Layup.",65,36,29,0.999920049694818,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+285,2,"7:43",463,463,"Glenn Hollaway Block.",65,36,29,0.999920049694818,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+286,2,"7:41",461,461,"Ball State Offensive Rebound.",65,36,29,0.999920049694818,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+287,2,"7:40",460,460,"Official TV Timeout",65,36,29,0.999920049694818,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+288,2,"7:30",450,450,"Doudou Gueye Turnover.",65,36,29,0.99996673222162,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+289,2,"7:26",446,446,"Rodney Simeon Steal.",65,36,29,0.999885749752521,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+290,2,"7:22",442,442,"Rodney Simeon missed Layup.",65,36,29,0.999885749752521,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+291,2,"7:22",442,442,"Ball State Defensive Rebound.",65,36,29,0.999885749752521,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+292,2,"7:06",426,426,"Jeremie Tyler missed Jumper.",65,36,29,0.999940760766755,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+293,2,"7:06",426,426,"Glenn Hollaway Defensive Rebound.",65,36,29,0.999940760766755,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+294,2,"6:49",409,409,"Tony Armstrong made Jumper. Assisted by Reginald Gee.",65,38,27,0.99995630688097,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+295,2,"6:31",391,391,"Doudou Gueye missed Layup.",65,38,27,0.999933433923074,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+296,2,"6:31",391,391,"Austin Rogers Defensive Rebound.",65,38,27,0.999933433923074,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+297,2,"6:13",373,373,"Reginald Gee missed Jumper.",65,38,27,0.999926292567016,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+298,2,"6:13",373,373,"Tahjai Teague Defensive Rebound.",65,38,27,0.999926292567016,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+299,2,"6:01",361,361,"Francis Kiapway missed Three Point Jumper.",65,38,27,0.999944334505658,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+300,2,"6:01",361,361,"Austin Rogers Defensive Rebound.",65,38,27,0.999944334505658,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+301,2,"5:43",343,343,"Austin Rogers missed Three Point Jumper.",65,38,27,0.999956993343772,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+302,2,"5:43",343,343,"Tahjai Teague Defensive Rebound.",65,38,27,0.999956993343772,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+303,2,"5:33",333,333,"Tahjai Teague missed Three Point Jumper.",65,38,27,0.999977671156951,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+304,2,"5:33",333,333,"Glenn Hollaway Defensive Rebound.",65,38,27,0.999977671156951,"Ball State","Alabama State",3,3,0,0,19.2,400917092,2016-12-22
+305,2,"5:24",324,324,"Foul on Jeremie Tyler.",65,38,27,0.999937839092237,"Ball State","Alabama State",3,3,1,0,19.2,400917092,2016-12-22
+306,2,"5:24",324,324,"Ball State  Timeout",65,38,27,0.999937839092237,"Ball State","Alabama State",2,3,1,0,19.2,400917092,2016-12-22
+307,2,"5:04",304,304,"Steve Rogers made Layup.",65,40,25,0.999922071061762,"Ball State","Alabama State",2,3,1,0,19.2,400917092,2016-12-22
+308,2,"5:04",304,304,"Foul on Ryan Weber.",65,40,25,0.999922071061762,"Ball State","Alabama State",2,3,1,0,19.2,400917092,2016-12-22
+309,2,"5:04",304,304,"Steve Rogers made Free Throw.",65,41,24,0.999890665783476,"Ball State","Alabama State",2,3,1,0,19.2,400917092,2016-12-22
+310,2,"4:35",275,275,"Tahjai Teague made Dunk. Assisted by Doudou Gueye.",67,41,26,0.999985454286087,"Ball State","Alabama State",2,3,1,0,19.2,400917092,2016-12-22
+311,2,"4:35",275,275,"Foul on Torloft Thomas.",67,41,26,0.999985454286087,"Ball State","Alabama State",2,3,1,0,19.2,400917092,2016-12-22
+312,2,"4:34",274,274,"Tahjai Teague missed Free Throw.",67,41,26,0.999985454286087,"Ball State","Alabama State",2,3,1,0,19.2,400917092,2016-12-22
+313,2,"4:34",274,274,"Tony Armstrong Defensive Rebound.",67,41,26,0.999985454286087,"Ball State","Alabama State",2,3,1,0,19.2,400917092,2016-12-22
+314,2,"4:20",260,260,"Foul on Doudou Gueye.",67,41,26,0.999978741415117,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+315,2,"4:16",256,256,"Steve Rogers missed Jumper.",67,41,26,0.999993308280875,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+316,2,"4:16",256,256,"Doudou Gueye Defensive Rebound.",67,41,26,0.999993308280875,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+317,2,"4:08",248,248,"Tahjai Teague made Dunk. Assisted by Tayler Persons.",69,41,28,0.999995372613108,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+318,2,"3:59",239,239,"Foul on Jeremie Tyler.",69,41,28,0.999995417395859,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+319,2,"3:59",239,239,"Official TV Timeout",69,41,28,0.999995417395859,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+320,2,"3:59",239,239,"Austin Rogers made Free Throw.",69,42,27,0.999993123792981,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+321,2,"3:59",239,239,"Austin Rogers made Free Throw.",69,43,26,0.99998968224895,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+322,2,"3:41",221,221,"Josh Thompson Turnover.",69,43,26,0.999994998910083,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+323,2,"3:39",219,219,"Austin Rogers Steal.",69,43,26,0.999995821083519,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+324,2,"3:36",216,216,"Austin Rogers made Layup.",69,45,24,0.999989939242337,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+325,2,"3:36",216,216,"Foul on Kyle Mallers.",69,45,24,0.999989939242337,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+326,2,"3:36",216,216,"Austin Rogers made Free Throw.",69,46,23,0.999984389635158,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+327,2,"3:08",188,188,"Kyle Mallers made Three Point Jumper. Assisted by Jeremie Tyler.",72,46,26,0.999998576792654,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+328,2,"2:44",164,164,"Foul on Doudou Gueye.",72,46,26,0.999999542470008,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+329,2,"2:44",164,164,"Tony Armstrong missed Free Throw.",72,46,26,0.999999542470008,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+330,2,"2:44",164,164,"Alabama St Deadball Team Rebound.",72,46,26,0.999999542470008,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+331,2,"2:44",164,164,"Tony Armstrong missed Free Throw.",72,46,26,0.999999542470008,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+332,2,"2:44",164,164,"Doudou Gueye Defensive Rebound.",72,46,26,0.999999542470008,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+333,2,"2:33",153,153,"Josh Thompson Turnover.",72,46,26,0.999999653472616,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+334,2,"2:32",152,152,"Tony Armstrong Steal.",72,46,26,0.999999653472616,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+335,2,"2:21",141,141,"Torloft Thomas Turnover.",72,46,26,0.999999485613998,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+336,2,"2:17",137,137,"Doudou Gueye Steal.",72,46,26,0.999999721494634,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+337,2,"1:58",118,118,"Tahjai Teague Turnover.",72,46,26,0.999999929764538,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+338,2,"1:56",116,116,"Austin Rogers Steal.",72,46,26,0.999999929764538,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+339,2,"1:49",109,109,"Branden Johnson Turnover.",72,46,26,0.999999949307841,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+340,2,"1:21",81,81,"Foul on Austin Rogers.",72,46,26,0.999999996666998,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+341,2,"1:21",81,81,"Doudou Gueye missed Free Throw.",72,46,26,0.999999996666998,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+342,2,"1:21",81,81,"Ball State Deadball Team Rebound.",72,46,26,0.999999996666998,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+343,2,"1:21",81,81,"Doudou Gueye made Free Throw.",73,46,27,0.99999999837191,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+344,2,"1:09",69,69,"Steve Rogers missed Three Point Jumper.",73,46,27,0.999999998565207,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+345,2,"1:09",69,69,"Tahjai Teague Defensive Rebound.",73,46,27,0.999999998565207,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+346,2,"0:46",46,46,"Josh Thompson Turnover.",73,46,27,0.999999999999598,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+347,2,"0:46",46,46,"Foul on Josh Thompson.",73,46,27,0.999999999999598,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+348,2,"0:30",30,30,"Foul on Tahjai Teague.",73,46,27,0.999999999994591,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+349,2,"0:30",30,30,"Torloft Thomas made Free Throw.",73,47,26,0.999999999985852,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+350,2,"0:30",30,30,"Torloft Thomas made Free Throw.",73,48,25,0.999999999962998,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+351,2,"0:01",1,1,"Josh Thompson missed Jumper.",73,48,25,1,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+352,2,"0:01",1,1,"Steve Rogers Block.",73,48,25,1,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+353,2,"0:01",1,1,"Ball State Offensive Rebound.",73,48,25,1,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22
+354,2,"0:00",0,0,"End of Game",73,48,25,1,"Ball State","Alabama State",2,3,0,0,19.2,400917092,2016-12-22

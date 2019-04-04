@@ -1,0 +1,296 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.5,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+2,1,"19:31",2371,2371,"Foul on Tyler Stenglein.",0,0,0,0.524279741327167,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+3,1,"19:13",2353,2353,"Quate McKinzie Turnover.",0,0,0,0.529703192727122,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+4,1,"19:01",2341,2341,"Tyler Stenglein missed Jumper.",0,0,0,0.511940955014241,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+5,1,"19:01",2341,2341,"Nick Perkins Defensive Rebound.",0,0,0,0.511940955014241,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+6,1,"18:43",2323,2323,"Nick Perkins missed Jumper.",0,0,0,0.531092628062381,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+7,1,"18:43",2323,2323,"Brendan Wind Defensive Rebound.",0,0,0,0.531092628062381,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+8,1,"18:31",2311,2311,"Mitch Keniston missed Jumper.",0,0,0,0.506842615166699,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+9,1,"18:31",2311,2311,"Nick Perkins Defensive Rebound.",0,0,0,0.506842615166699,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+10,1,"18:23",2303,2303,"Quate McKinzie made Three Point Jumper. Assisted by Dontay Caruthers.",3,0,3,0.582904419081286,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+11,1,"17:55",2275,2275,"Denzell Jackson missed Jumper.",3,0,3,0.597180402275598,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+12,1,"17:55",2275,2275,"Nick Perkins Block.",3,0,3,0.597180402275598,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+13,1,"17:54",2274,2274,"Dontay Caruthers Defensive Rebound.",3,0,3,0.597180402275598,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+14,1,"17:48",2268,2268,"Willie Conner made Layup. Assisted by Dontay Caruthers.",5,0,5,0.667361591382434,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+15,1,"17:17",2237,2237,"Tyler Stenglein missed Jumper.",5,0,5,0.652517538188361,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+16,1,"17:17",2237,2237,"Quate McKinzie Defensive Rebound.",5,0,5,0.652517538188361,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+17,1,"17:10",2230,2230,"Dontay Caruthers Turnover.",5,0,5,0.652517538188361,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+18,1,"16:59",2219,2219,"Foul on Willie Conner.",5,0,5,0.682417034396562,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+19,1,"16:52",2212,2212,"Brendan Wind missed Three Point Jumper.",5,0,5,0.682417034396562,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+20,1,"16:52",2212,2212,"Josh Gillard Offensive Rebound.",5,0,5,0.682417034396562,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+21,1,"16:36",2196,2196,"Brendan Wind made Layup.",5,2,3,0.614006147872119,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+22,1,"16:09",2169,2169,"Willie Conner missed Layup.",5,2,3,0.597127411314518,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+23,1,"16:09",2169,2169,"Ikenna Smart Offensive Rebound.",5,2,3,0.597127411314518,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+24,1,"15:54",2154,2154,"Nick Perkins missed Layup.",5,2,3,0.592967834322833,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+25,1,"15:54",2154,2154,"Brendan Wind Defensive Rebound.",5,2,3,0.592967834322833,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+26,1,"15:43",2143,2143,"Jake Burgio made Jumper. Assisted by Brendan Wind.",5,4,1,0.548469513384562,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+27,1,"15:31",2131,2131,"Foul on Chris Jones.",5,4,1,0.542478451673532,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+28,1,"15:31",2131,2131,"Official TV Timeout",5,4,1,0.542478451673532,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+29,1,"15:31",2131,2131,"Nick Perkins made Free Throw.",6,4,2,0.572334284439259,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+30,1,"15:31",2131,2131,"Nick Perkins made Free Throw.",7,4,3,0.601672413127025,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+31,1,"15:12",2112,2112,"Tyler Stenglein made Jumper.",7,6,1,0.53618909047836,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+32,1,"15:12",2112,2112,"Foul on Willie Conner.",7,6,1,0.53618909047836,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+33,1,"15:12",2112,2112,"Tyler Stenglein missed Free Throw.",7,6,1,0.53618909047836,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+34,1,"15:12",2112,2112,"Jake Burgio Offensive Rebound.",7,6,1,0.53618909047836,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+35,1,"14:58",2098,2098,"Tyler Stenglein missed Jumper.",7,6,1,0.543626546073584,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+36,1,"14:58",2098,2098,"Chris Jones Offensive Rebound.",7,6,1,0.543626546073584,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+37,1,"14:52",2092,2092,"Chris Jones made Layup.",7,8,-1,0.481724420078486,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+38,1,"14:31",2071,2071,"Foul on Chris Jones.",7,8,-1,0.479107710724022,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+39,1,"14:31",2071,2071,"Dontay Caruthers made Free Throw.",8,8,0,0.505878250067503,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+40,1,"14:31",2071,2071,"Dontay Caruthers made Free Throw.",9,8,1,0.53261512540101,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+41,1,"14:08",2048,2048,"Tyler Stenglein missed Jumper.",9,8,1,0.52766773758448,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+42,1,"14:08",2048,2048,"David Kadiri Defensive Rebound.",9,8,1,0.52766773758448,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+43,1,"13:42",2022,2022,"Davonta Jordan missed Layup.",9,8,1,0.538425796996016,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+44,1,"13:42",2022,2022,"Mitch Keniston Block.",9,8,1,0.538425796996016,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+45,1,"13:40",2020,2020,"Davonta Jordan Offensive Rebound.",9,8,1,0.538425796996016,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+46,1,"13:37",2017,2017,"Buffalo  Turnover.",9,8,1,0.548196026028419,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+47,1,"13:12",1992,1992,"Foul on Davonta Jordan.",9,8,1,0.544523943142662,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+48,1,"13:00",1980,1980,"Tyler Stenglein missed Jumper.",9,8,1,0.534981622577747,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+49,1,"13:00",1980,1980,"Quate McKinzie Defensive Rebound.",9,8,1,0.534981622577747,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+50,1,"12:43",1963,1963,"Blake Hamilton missed Three Point Jumper.",9,8,1,0.537683622922412,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+51,1,"12:43",1963,1963,"Daniel Jacob Defensive Rebound.",9,8,1,0.537683622922412,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+52,1,"12:11",1931,1931,"Brendan Wind Turnover.",9,8,1,0.535719302115517,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+53,1,"11:52",1912,1912,"Nick Perkins made Three Point Jumper. Assisted by Blake Hamilton.",12,8,4,0.655776275171156,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+54,1,"11:19",1879,1879,"Jake Burgio made Layup.",12,10,2,0.571998533435823,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+55,1,"11:03",1863,1863,"Nick Perkins made Three Point Jumper. Assisted by Davonta Jordan.",15,10,5,0.68919722539078,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+56,1,"10:38",1838,1838,"Brendan Wind missed Jumper.",15,10,5,0.670597715036502,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+57,1,"10:38",1838,1838,"Davonta Jordan Defensive Rebound.",15,10,5,0.670597715036502,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+58,1,"10:33",1833,1833,"Blake Hamilton Turnover.",15,10,5,0.670597715036502,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+59,1,"10:33",1833,1833,"Official TV Timeout",15,10,5,0.670597715036502,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+60,1,"10:05",1805,1805,"Josh Gillard made Three Point Jumper. Assisted by Brendan Wind.",15,13,2,0.571114979871391,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+61,1,"9:54",1794,1794,"Willie Conner made Three Point Jumper. Assisted by Blake Hamilton.",18,13,5,0.662419379026163,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+62,1,"9:28",1768,1768,"Josh Gillard missed Three Point Jumper.",18,13,5,0.669022928817916,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+63,1,"9:28",1768,1768,"Blake Hamilton Defensive Rebound.",18,13,5,0.669022928817916,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+64,1,"9:19",1759,1759,"Quate McKinzie made Three Point Jumper. Assisted by Blake Hamilton.",21,13,8,0.740678061362323,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+65,1,"8:47",1727,1727,"Chris Jones missed Jumper.",21,13,8,0.768936786272213,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+66,1,"8:47",1727,1727,"Josh Gillard Offensive Rebound.",21,13,8,0.768936786272213,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+67,1,"8:16",1696,1696,"Brendan Wind Turnover.",21,13,8,0.775338557668823,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+68,1,"8:08",1688,1688,"Willie Conner missed Three Point Jumper.",21,13,8,0.769751799608224,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+69,1,"8:08",1688,1688,"Buffalo Offensive Rebound.",21,13,8,0.769751799608224,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+70,1,"7:52",1672,1672,"Willie Conner missed Layup.",21,13,8,0.763094659591425,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+71,1,"7:52",1672,1672,"Josh Gillard Block.",21,13,8,0.763094659591425,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+72,1,"7:50",1670,1670,"Ikenna Smart Offensive Rebound.",21,13,8,0.763094659591425,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+73,1,"7:46",1666,1666,"Davonta Jordan made Layup.",23,13,10,0.792677022555127,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+74,1,"7:24",1644,1644,"Jake Burgio missed Jumper.",23,13,10,0.813595009830956,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+75,1,"7:24",1644,1644,"Ikenna Smart Defensive Rebound.",23,13,10,0.813595009830956,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+76,1,"7:06",1626,1626,"Blake Hamilton made Three Point Jumper.",26,13,13,0.865793024488893,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+77,1,"6:55",1615,1615,"Brendan Broderick Turnover.",26,13,13,0.860682845519574,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+78,1,"6:54",1614,1614,"Davonta Jordan Steal.",26,13,13,0.860682845519574,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+79,1,"6:50",1610,1610,"Davonta Jordan made Layup.",28,13,15,0.891141628220069,"Buffalo","Nazareth",6,6,0,0,NA,400923421,2016-11-17
+80,1,"6:49",1609,1609,"Nazareth College  Timeout",28,13,15,0.879055307017769,"Buffalo","Nazareth",6,5,0,1,NA,400923421,2016-11-17
+81,1,"6:29",1589,1589,"Josh Gillard made Three Point Jumper. Assisted by Brendan Wind.",28,16,12,0.834371879962335,"Buffalo","Nazareth",6,5,0,1,NA,400923421,2016-11-17
+82,1,"6:03",1563,1563,"Foul on Chris Jones.",28,16,12,0.846145539518184,"Buffalo","Nazareth",6,5,0,1,NA,400923421,2016-11-17
+83,1,"6:03",1563,1563,"Buffalo  Turnover.",28,16,12,0.846145539518184,"Buffalo","Nazareth",6,5,0,1,NA,400923421,2016-11-17
+84,1,"5:40",1540,1540,"Tyler Stenglein missed Three Point Jumper.",28,16,12,0.849110007195621,"Buffalo","Nazareth",6,5,0,0,NA,400923421,2016-11-17
+85,1,"5:40",1540,1540,"David Kadiri Defensive Rebound.",28,16,12,0.849110007195621,"Buffalo","Nazareth",6,5,0,0,NA,400923421,2016-11-17
+86,1,"5:15",1515,1515,"Blake Hamilton missed Layup.",28,16,12,0.875566271686897,"Buffalo","Nazareth",6,5,0,0,NA,400923421,2016-11-17
+87,1,"5:15",1515,1515,"Tyler Stenglein Defensive Rebound.",28,16,12,0.875566271686897,"Buffalo","Nazareth",6,5,0,0,NA,400923421,2016-11-17
+88,1,"5:07",1507,1507,"Brendan Wind missed Jumper.",28,16,12,0.852784330856217,"Buffalo","Nazareth",6,5,0,0,NA,400923421,2016-11-17
+89,1,"5:07",1507,1507,"Josh Gillard Offensive Rebound.",28,16,12,0.852784330856217,"Buffalo","Nazareth",6,5,0,0,NA,400923421,2016-11-17
+90,1,"5:01",1501,1501,"Josh Gillard made Three Point Jumper.",28,19,9,0.790704209408762,"Buffalo","Nazareth",6,5,0,0,NA,400923421,2016-11-17
+91,1,"5:00",1500,1500,"Buffalo  Timeout",28,19,9,0.790704209408762,"Buffalo","Nazareth",6,4,0,1,NA,400923421,2016-11-17
+92,1,"4:47",1487,1487,"Blake Hamilton made Three Point Jumper. Assisted by Davonta Jordan.",31,19,12,0.859653244606624,"Buffalo","Nazareth",6,4,0,1,NA,400923421,2016-11-17
+93,1,"4:20",1460,1460,"Foul on Davonta Jordan.",31,19,12,0.856987829097681,"Buffalo","Nazareth",6,4,0,1,NA,400923421,2016-11-17
+94,1,"4:02",1442,1442,"Tyler Stenglein missed Jumper.",31,19,12,0.878375561317907,"Buffalo","Nazareth",6,4,0,1,NA,400923421,2016-11-17
+95,1,"4:02",1442,1442,"Jake Burgio Offensive Rebound.",31,19,12,0.878375561317907,"Buffalo","Nazareth",6,4,0,1,NA,400923421,2016-11-17
+96,1,"3:58",1438,1438,"Jake Burgio made Layup.",31,21,10,0.831955265119536,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+97,1,"3:41",1421,1421,"Nick Perkins made Layup. Assisted by Blake Hamilton.",33,21,12,0.853255894410232,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+98,1,"3:41",1421,1421,"Foul on Mitch Keniston.",33,21,12,0.853255894410232,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+99,1,"3:41",1421,1421,"Official TV Timeout",33,21,12,0.853255894410232,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+100,1,"3:41",1421,1421,"Nick Perkins made Free Throw.",34,21,13,0.870469025993732,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+101,1,"3:17",1397,1397,"Mitch Keniston missed Layup.",34,21,13,0.881400635717572,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+102,1,"3:17",1397,1397,"Nick Perkins Block.",34,21,13,0.881400635717572,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+103,1,"3:15",1395,1395,"Nick Perkins Defensive Rebound.",34,21,13,0.881400635717572,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+104,1,"3:10",1390,1390,"Nikola Rakicevic made Layup. Assisted by Blake Hamilton.",36,21,15,0.91008066154532,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+105,1,"2:31",1351,1351,"Brendan Wind missed Jumper.",36,21,15,0.91914915269096,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+106,1,"2:31",1351,1351,"David Kadiri Block.",36,21,15,0.91914915269096,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+107,1,"2:30",1350,1350,"David Kadiri Defensive Rebound.",36,21,15,0.91914915269096,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+108,1,"2:16",1336,1336,"Foul on Brendan Wind.",36,21,15,0.911743204117747,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+109,1,"2:16",1336,1336,"Nick Perkins missed Free Throw.",36,21,15,0.911743204117747,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+110,1,"2:16",1336,1336,"Buffalo Deadball Team Rebound.",36,21,15,0.911743204117747,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+111,1,"2:16",1336,1336,"Nick Perkins missed Free Throw.",36,21,15,0.911743204117747,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+112,1,"2:16",1336,1336,"Denzell Jackson Defensive Rebound.",36,21,15,0.911743204117747,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+113,1,"1:52",1312,1312,"Daniel Jacob missed Layup.",36,21,15,0.923871658634782,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+114,1,"1:52",1312,1312,"Nikola Rakicevic Block.",36,21,15,0.923871658634782,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+115,1,"1:52",1312,1312,"Nazareth College Offensive Rebound.",36,21,15,0.923871658634782,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+116,1,"1:51",1311,1311,"Jake Burgio made Jumper. Assisted by Tyler Stenglein.",36,23,13,0.898516055194264,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+117,1,"1:35",1295,1295,"Blake Hamilton Turnover.",36,23,13,0.911945310923585,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+118,1,"1:16",1276,1276,"Foul on Nikola Rakicevic.",36,23,13,0.873503018509365,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+119,1,"1:03",1263,1263,"Daniel Jacob missed Three Point Jumper.",36,23,13,0.897972299777244,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+120,1,"1:03",1263,1263,"Blake Hamilton Defensive Rebound.",36,23,13,0.897972299777244,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+121,1,"0:55",1255,1255,"Nick Perkins made Dunk. Assisted by Ikenna Smart.",38,23,15,0.911304703110554,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+122,1,"0:35",1235,1235,"Daniel Jacob missed Layup.",38,23,15,0.920168035203689,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+123,1,"0:35",1235,1235,"Nick Perkins Block.",38,23,15,0.920168035203689,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+124,1,"0:33",1233,1233,"Nikola Rakicevic Defensive Rebound.",38,23,15,0.920168035203689,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+125,1,"0:29",1229,1229,"Ikenna Smart made Layup. Assisted by Dontay Caruthers.",40,23,17,0.950236737346461,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+126,1,"0:29",1229,1229,"Foul on Brendan Wind.",40,23,17,0.950236737346461,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+127,1,"0:29",1229,1229,"Ikenna Smart made Free Throw.",41,23,18,0.957637417954707,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+128,1,"0:00",1200,1200,"Daniel Jacob made Jumper.",41,25,16,0.930699780881444,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+129,1,"0:00",1200,1200,"End of 1st half",41,25,16,0.930699780881444,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+130,2,"20:00",1200,1200,"PLAY",41,25,16,0.930699780881444,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+131,2,"19:52",1192,1192,"Foul on Tyler Stenglein.",41,25,16,0.935137356395908,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+132,2,"19:50",1190,1190,"Nick Perkins made Dunk. Assisted by Dontay Caruthers.",43,25,18,0.951054396755242,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+133,2,"19:29",1169,1169,"Foul on Willie Conner.",43,25,18,0.949510914098058,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+134,2,"19:14",1154,1154,"Brendan Wind Turnover.",43,25,18,0.951996597371166,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+135,2,"18:55",1135,1135,"Ikenna Smart made Layup. Assisted by Nick Perkins.",45,25,20,0.965440322313512,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+136,2,"18:25",1105,1105,"Brendan Wind Turnover.",45,25,20,0.965229943108482,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+137,2,"18:24",1104,1104,"Willie Conner Steal.",45,25,20,0.965229943108482,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+138,2,"18:21",1101,1101,"Willie Conner missed Layup.",45,25,20,0.965229943108482,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+139,2,"18:21",1101,1101,"Ikenna Smart Offensive Rebound.",45,25,20,0.965229943108482,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+140,2,"18:18",1098,1098,"Ikenna Smart made Layup.",47,25,22,0.979377132676154,"Buffalo","Nazareth",6,4,0,0,NA,400923421,2016-11-17
+141,2,"18:17",1097,1097,"Nazareth College  Timeout",47,25,22,0.979377132676154,"Buffalo","Nazareth",6,3,0,1,NA,400923421,2016-11-17
+142,2,"17:57",1077,1077,"Jake Burgio Turnover.",47,25,22,0.978475614715042,"Buffalo","Nazareth",6,3,0,1,NA,400923421,2016-11-17
+143,2,"17:56",1076,1076,"Nick Perkins Steal.",47,25,22,0.978475614715042,"Buffalo","Nazareth",6,3,0,1,NA,400923421,2016-11-17
+144,2,"17:51",1071,1071,"Nick Perkins made Layup. Assisted by Ikenna Smart.",49,25,24,0.984535777213894,"Buffalo","Nazareth",6,3,0,1,NA,400923421,2016-11-17
+145,2,"17:28",1048,1048,"Tyler Stenglein made Jumper.",49,27,22,0.98165323490408,"Buffalo","Nazareth",6,3,0,1,NA,400923421,2016-11-17
+146,2,"17:07",1027,1027,"Ikenna Smart Turnover.",49,27,22,0.982685712864471,"Buffalo","Nazareth",6,3,0,0,NA,400923421,2016-11-17
+147,2,"17:07",1027,1027,"Foul on Ikenna Smart.",49,27,22,0.982685712864471,"Buffalo","Nazareth",6,3,0,0,NA,400923421,2016-11-17
+148,2,"16:45",1005,1005,"Tyler Stenglein missed Jumper.",49,27,22,0.983610281728882,"Buffalo","Nazareth",6,3,0,0,NA,400923421,2016-11-17
+149,2,"16:45",1005,1005,"David Kadiri Block.",49,27,22,0.983610281728882,"Buffalo","Nazareth",6,3,0,0,NA,400923421,2016-11-17
+150,2,"16:43",1003,1003,"Blake Hamilton Defensive Rebound.",49,27,22,0.983610281728882,"Buffalo","Nazareth",6,3,0,0,NA,400923421,2016-11-17
+151,2,"16:38",998,998,"Blake Hamilton Turnover.",49,27,22,0.980650738312391,"Buffalo","Nazareth",6,3,0,0,NA,400923421,2016-11-17
+152,2,"16:38",998,998,"Brendan Wind Steal.",49,27,22,0.980650738312391,"Buffalo","Nazareth",6,3,0,0,NA,400923421,2016-11-17
+153,2,"16:32",992,992,"Foul on Davonta Jordan.",49,27,22,0.980650738312391,"Buffalo","Nazareth",6,3,0,0,NA,400923421,2016-11-17
+154,2,"16:32",992,992,"Brendan Wind made Free Throw.",49,28,21,0.976956654903534,"Buffalo","Nazareth",6,3,0,0,NA,400923421,2016-11-17
+155,2,"16:32",992,992,"Brendan Wind made Free Throw.",49,29,20,0.972577033825722,"Buffalo","Nazareth",6,3,0,0,NA,400923421,2016-11-17
+156,2,"16:05",965,965,"Nick Perkins missed Three Point Jumper.",49,29,20,0.97692411493742,"Buffalo","Nazareth",6,3,0,0,NA,400923421,2016-11-17
+157,2,"16:05",965,965,"Davonta Jordan Offensive Rebound.",49,29,20,0.97692411493742,"Buffalo","Nazareth",6,3,0,0,NA,400923421,2016-11-17
+158,2,"16:00",960,960,"Davonta Jordan Turnover.",49,29,20,0.97692411493742,"Buffalo","Nazareth",6,3,0,0,NA,400923421,2016-11-17
+159,2,"15:59",959,959,"Jake Burgio Steal.",49,29,20,0.978518120043593,"Buffalo","Nazareth",6,3,0,0,NA,400923421,2016-11-17
+160,2,"15:57",957,957,"Tyler Stenglein missed Layup.",49,29,20,0.978518120043593,"Buffalo","Nazareth",6,3,0,0,NA,400923421,2016-11-17
+161,2,"15:57",957,957,"Nick Perkins Defensive Rebound.",49,29,20,0.978518120043593,"Buffalo","Nazareth",6,3,0,0,NA,400923421,2016-11-17
+162,2,"15:46",946,946,"David Kadiri made Layup. Assisted by Blake Hamilton.",51,29,22,0.987203635534591,"Buffalo","Nazareth",6,3,0,0,NA,400923421,2016-11-17
+163,2,"15:28",928,928,"Tyler Stenglein Turnover.",51,29,22,0.985518668062352,"Buffalo","Nazareth",6,3,0,0,NA,400923421,2016-11-17
+164,2,"15:27",927,927,"Blake Hamilton Steal.",51,29,22,0.985518668062352,"Buffalo","Nazareth",6,3,0,0,NA,400923421,2016-11-17
+165,2,"15:25",925,925,"James Jones made Layup. Assisted by Blake Hamilton.",53,29,24,0.990119448483638,"Buffalo","Nazareth",6,3,0,0,NA,400923421,2016-11-17
+166,2,"14:56",896,896,"Chris Jones missed Layup.",53,29,24,0.99155277687769,"Buffalo","Nazareth",6,3,0,0,NA,400923421,2016-11-17
+167,2,"14:56",896,896,"Nick Perkins Defensive Rebound.",53,29,24,0.99155277687769,"Buffalo","Nazareth",6,3,0,0,NA,400923421,2016-11-17
+168,2,"14:50",890,890,"David Kadiri made Dunk. Assisted by Davonta Jordan.",55,29,26,0.994257036218934,"Buffalo","Nazareth",6,3,0,0,NA,400923421,2016-11-17
+169,2,"14:48",888,888,"Nazareth College  Timeout",55,29,26,0.98954947679221,"Buffalo","Nazareth",6,2,0,1,NA,400923421,2016-11-17
+170,2,"14:31",871,871,"Cody Green missed Three Point Jumper.",55,29,26,0.993830969466847,"Buffalo","Nazareth",6,2,0,1,NA,400923421,2016-11-17
+171,2,"14:31",871,871,"Davonta Jordan Defensive Rebound.",55,29,26,0.993830969466847,"Buffalo","Nazareth",6,2,0,1,NA,400923421,2016-11-17
+172,2,"14:21",861,861,"Ikenna Smart made Layup. Assisted by Blake Hamilton.",57,29,28,0.995363758080202,"Buffalo","Nazareth",6,2,0,1,NA,400923421,2016-11-17
+173,2,"14:21",861,861,"Foul on Jack Mulcahy.",57,29,28,0.995363758080202,"Buffalo","Nazareth",6,2,0,1,NA,400923421,2016-11-17
+174,2,"14:21",861,861,"Ikenna Smart missed Free Throw.",57,29,28,0.995363758080202,"Buffalo","Nazareth",6,2,0,1,NA,400923421,2016-11-17
+175,2,"14:21",861,861,"Daniel Freilicher Defensive Rebound.",57,29,28,0.995363758080202,"Buffalo","Nazareth",6,2,0,1,NA,400923421,2016-11-17
+176,2,"13:57",837,837,"Brendan Wind made Jumper. Assisted by Cody Green.",57,31,26,0.995522095407912,"Buffalo","Nazareth",6,2,0,1,NA,400923421,2016-11-17
+177,2,"13:42",822,822,"Ikenna Smart Turnover.",57,31,26,0.99290464869805,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+178,2,"13:23",803,803,"Brendan Wind missed Layup.",57,31,26,0.995508062041323,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+179,2,"13:23",803,803,"Ikenna Smart Defensive Rebound.",57,31,26,0.995508062041323,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+180,2,"13:11",791,791,"James Jones missed Three Point Jumper.",57,31,26,0.996803801197619,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+181,2,"13:11",791,791,"Mitch Keniston Defensive Rebound.",57,31,26,0.996803801197619,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+182,2,"12:54",774,774,"Jack Mulcahy missed Jumper.",57,31,26,0.996022587926471,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+183,2,"12:54",774,774,"Blake Hamilton Block.",57,31,26,0.996022587926471,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+184,2,"12:52",772,772,"Buffalo Defensive Rebound.",57,31,26,0.996022587926471,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+185,2,"12:37",757,757,"Davonta Jordan Turnover.",57,31,26,0.99662853067658,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+186,2,"12:36",756,756,"Daniel Freilicher Steal.",57,31,26,0.99662853067658,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+187,2,"12:34",754,754,"Daniel Freilicher Turnover.",57,31,26,0.99662853067658,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+188,2,"12:34",754,754,"Davonta Jordan Steal.",57,31,26,0.99662853067658,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+189,2,"12:28",748,748,"Ikenna Smart Turnover.",57,31,26,0.997000440760239,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+190,2,"12:27",747,747,"Brendan Wind Steal.",57,31,26,0.997000440760239,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+191,2,"12:21",741,741,"Brendan Wind made Jumper.",57,33,24,0.995322784648011,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+192,2,"12:03",723,723,"James Jones missed Three Point Jumper.",57,33,24,0.995631081776133,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+193,2,"12:03",723,723,"Nazareth College Deadball Team Rebound.",57,33,24,0.995631081776133,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+194,2,"12:00",720,720,"Foul on Ikenna Smart.",57,33,24,0.995631081776133,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+195,2,"12:00",720,720,"Official TV Timeout",57,33,24,0.995631081776133,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+196,2,"11:43",703,703,"Chris Jones missed Layup.",57,33,24,0.99464873806962,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+197,2,"11:43",703,703,"Daniel Freilicher Offensive Rebound.",57,33,24,0.99464873806962,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+198,2,"11:39",699,699,"Cody Green missed Three Point Jumper.",57,33,24,0.996834365425177,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+199,2,"11:39",699,699,"David Kadiri Defensive Rebound.",57,33,24,0.996834365425177,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+200,2,"11:21",681,681,"Willie Conner missed Three Point Jumper.",57,33,24,0.995436746682203,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+201,2,"11:21",681,681,"David Kadiri Offensive Rebound.",57,33,24,0.995436746682203,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+202,2,"11:18",678,678,"Foul on Chris Jones.",57,33,24,0.996308196868268,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+203,2,"11:05",665,665,"Foul on Chris Jones.",57,33,24,0.996211938008635,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+204,2,"11:05",665,665,"James Jones missed Free Throw.",57,33,24,0.996211938008635,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+205,2,"11:05",665,665,"Buffalo Deadball Team Rebound.",57,33,24,0.996211938008635,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+206,2,"11:05",665,665,"James Jones made Free Throw.",58,33,25,0.996976499703357,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+207,2,"10:45",645,645,"Brendan Wind missed Jumper.",58,33,25,0.997727021907619,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+208,2,"10:45",645,645,"Willie Conner Defensive Rebound.",58,33,25,0.997727021907619,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+209,2,"10:32",632,632,"Willie Conner missed Layup.",58,33,25,0.997432411579891,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+210,2,"10:32",632,632,"Willie Conner Offensive Rebound.",58,33,25,0.997432411579891,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+211,2,"10:29",629,629,"Willie Conner made Layup.",60,33,27,0.998926107300261,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+212,2,"10:29",629,629,"Foul on Cody Green.",60,33,27,0.998926107300261,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+213,2,"10:29",629,629,"Willie Conner made Free Throw.",61,33,28,0.999164662279503,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+214,2,"10:12",612,612,"Foul on James Jones.",61,33,28,0.999119248733984,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+215,2,"10:02",602,602,"Mitch Keniston missed Jumper.",61,33,28,0.999012751736117,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+216,2,"10:02",602,602,"Quate McKinzie Defensive Rebound.",61,33,28,0.999012751736117,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+217,2,"9:56",596,596,"Quate McKinzie made Three Point Jumper. Assisted by Davonta Jordan.",64,33,31,0.999444814113293,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+218,2,"9:26",566,566,"Daniel Jacob missed Jumper.",64,33,31,0.999694244312788,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+219,2,"9:26",566,566,"Blake Hamilton Defensive Rebound.",64,33,31,0.999694244312788,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+220,2,"9:19",559,559,"Davonta Jordan missed Three Point Jumper.",64,33,31,0.999693196921612,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+221,2,"9:19",559,559,"Denzell Jackson Defensive Rebound.",64,33,31,0.999693196921612,"Buffalo","Nazareth",6,2,0,0,NA,400923421,2016-11-17
+222,2,"9:07",547,547,"Nazareth College  Timeout",64,33,31,0.999752107090251,"Buffalo","Nazareth",6,1,0,1,NA,400923421,2016-11-17
+223,2,"9:06",546,546,"Daniel Jacob missed Three Point Jumper.",64,33,31,0.999752107090251,"Buffalo","Nazareth",6,1,0,1,NA,400923421,2016-11-17
+224,2,"9:06",546,546,"Nick Perkins Defensive Rebound.",64,33,31,0.999752107090251,"Buffalo","Nazareth",6,1,0,1,NA,400923421,2016-11-17
+225,2,"8:58",538,538,"Dontay Caruthers made Layup. Assisted by Blake Hamilton.",66,33,33,0.999921460344716,"Buffalo","Nazareth",6,1,0,1,NA,400923421,2016-11-17
+226,2,"8:31",511,511,"Brendan Wind missed Layup.",66,33,33,0.999874884799008,"Buffalo","Nazareth",6,1,0,1,NA,400923421,2016-11-17
+227,2,"8:31",511,511,"Nick Perkins Block.",66,33,33,0.999874884799008,"Buffalo","Nazareth",6,1,0,1,NA,400923421,2016-11-17
+228,2,"8:31",511,511,"Nazareth College Offensive Rebound.",66,33,33,0.999874884799008,"Buffalo","Nazareth",6,1,0,1,NA,400923421,2016-11-17
+229,2,"8:26",506,506,"Jack Mulcahy missed Three Point Jumper.",66,33,33,0.999887767964807,"Buffalo","Nazareth",6,1,0,1,NA,400923421,2016-11-17
+230,2,"8:26",506,506,"Blake Hamilton Block.",66,33,33,0.999887767964807,"Buffalo","Nazareth",6,1,0,1,NA,400923421,2016-11-17
+231,2,"8:23",503,503,"Quate McKinzie Defensive Rebound.",66,33,33,0.999887767964807,"Buffalo","Nazareth",6,1,0,1,NA,400923421,2016-11-17
+232,2,"8:10",490,490,"Nick Perkins made Layup. Assisted by Blake Hamilton.",68,33,35,0.999938482044923,"Buffalo","Nazareth",6,1,0,1,NA,400923421,2016-11-17
+233,2,"7:38",458,458,"Brendan Wind made Layup.",68,35,33,0.999972472253998,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+234,2,"7:25",445,445,"Willie Conner made Three Point Jumper. Assisted by Blake Hamilton.",71,35,36,0.999955841650639,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+235,2,"7:00",420,420,"Official TV Timeout",71,35,36,0.99997769086113,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+236,2,"6:50",410,410,"Nazareth College  Turnover.",71,35,36,0.999981215353376,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+237,2,"6:36",396,396,"Willie Conner missed Three Point Jumper.",71,35,36,0.999988315140359,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+238,2,"6:36",396,396,"Blake Hamilton Offensive Rebound.",71,35,36,0.999988315140359,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+239,2,"6:28",388,388,"Blake Hamilton missed Three Point Jumper.",71,35,36,0.999978880902934,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+240,2,"6:28",388,388,"Nazareth College Defensive Rebound.",71,35,36,0.999978880902934,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+241,2,"6:10",370,370,"Cody Green Turnover.",71,35,36,0.999985572102814,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+242,2,"6:09",369,369,"Blake Hamilton Steal.",71,35,36,0.999991631143257,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+243,2,"6:02",362,362,"Foul on Mitch Keniston.",71,35,36,0.999991631143257,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+244,2,"6:02",362,362,"Willie Conner made Free Throw.",72,35,37,0.999993940147517,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+245,2,"6:02",362,362,"Willie Conner made Free Throw.",73,35,38,0.999995612090176,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+246,2,"5:32",332,332,"Daniel Freilicher missed Jumper.",73,35,38,0.999998742476487,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+247,2,"5:32",332,332,"Quate McKinzie Block.",73,35,38,0.999998742476487,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+248,2,"5:30",330,330,"Buffalo Defensive Rebound.",73,35,38,0.999998742476487,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+249,2,"5:17",317,317,"Nick Perkins made Layup. Assisted by Quate McKinzie.",75,35,40,0.999999609111892,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+250,2,"4:57",297,297,"Brendan Broderick Turnover.",75,35,40,0.999998915351893,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+251,2,"4:57",297,297,"Blake Hamilton Steal.",75,35,40,0.999998915351893,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+252,2,"4:54",294,294,"Blake Hamilton made Dunk.",77,35,42,0.999999453730485,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+253,2,"4:24",264,264,"Brendan Wind missed Jumper.",77,35,42,0.999999855311411,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+254,2,"4:24",264,264,"Nick Perkins Defensive Rebound.",77,35,42,0.999999855311411,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+255,2,"4:13",253,253,"Willie Conner made Layup.",79,35,44,0.999999992116311,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+256,2,"3:57",237,237,"Jack Mulcahy missed Three Point Jumper.",79,35,44,0.999999984154118,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+257,2,"3:57",237,237,"Nick Perkins Defensive Rebound.",79,35,44,0.999999984154118,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+258,2,"3:53",233,233,"Nick Perkins Turnover.",79,35,44,0.999999984154118,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+259,2,"3:53",233,233,"Daniel Freilicher Steal.",79,35,44,0.999999984154118,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+260,2,"3:51",231,231,"Jack Mulcahy made Three Point Jumper. Assisted by Daniel Freilicher.",79,38,41,0.999999946466062,"Buffalo","Nazareth",6,1,0,0,NA,400923421,2016-11-17
+261,2,"3:47",227,227,"Buffalo  Timeout",79,38,41,0.999999973665065,"Buffalo","Nazareth",6,0,0,1,NA,400923421,2016-11-17
+262,2,"3:37",217,217,"Ikenna Smart missed Jumper.",79,38,41,0.999999984991181,"Buffalo","Nazareth",6,0,0,1,NA,400923421,2016-11-17
+263,2,"3:37",217,217,"Brendan Wind Defensive Rebound.",79,38,41,0.999999984991181,"Buffalo","Nazareth",6,0,0,1,NA,400923421,2016-11-17
+264,2,"3:05",185,185,"Daniel Jacob missed Layup.",79,38,41,0.999999997696931,"Buffalo","Nazareth",6,0,0,1,NA,400923421,2016-11-17
+265,2,"3:05",185,185,"Ikenna Smart Block.",79,38,41,0.999999997696931,"Buffalo","Nazareth",6,0,0,1,NA,400923421,2016-11-17
+266,2,"3:05",185,185,"Buffalo Defensive Rebound.",79,38,41,0.999999997696931,"Buffalo","Nazareth",6,0,0,1,NA,400923421,2016-11-17
+267,2,"3:05",185,185,"Dontay Caruthers missed Three Point Jumper.",79,38,41,0.999999997696931,"Buffalo","Nazareth",6,0,0,1,NA,400923421,2016-11-17
+268,2,"3:05",185,185,"Mitch Senecal Defensive Rebound.",79,38,41,0.999999997696931,"Buffalo","Nazareth",6,0,0,1,NA,400923421,2016-11-17
+269,2,"3:05",185,185,"Daniel Freilicher missed Jumper.",79,38,41,0.999999997696931,"Buffalo","Nazareth",6,0,0,1,NA,400923421,2016-11-17
+270,2,"3:05",185,185,"Nazareth College Offensive Rebound.",79,38,41,0.999999997696931,"Buffalo","Nazareth",6,0,0,1,NA,400923421,2016-11-17
+271,2,"2:54",174,174,"Mitch Senecal missed Jumper.",79,38,41,0.999999998507589,"Buffalo","Nazareth",6,0,0,1,NA,400923421,2016-11-17
+272,2,"2:54",174,174,"Ikenna Smart Defensive Rebound.",79,38,41,0.999999998507589,"Buffalo","Nazareth",6,0,0,1,NA,400923421,2016-11-17
+273,2,"2:47",167,167,"Christian Pino missed Three Point Jumper.",79,38,41,0.999999999357892,"Buffalo","Nazareth",6,0,0,1,NA,400923421,2016-11-17
+274,2,"2:47",167,167,"James Jones Offensive Rebound.",79,38,41,0.999999999357892,"Buffalo","Nazareth",6,0,0,1,NA,400923421,2016-11-17
+275,2,"2:40",160,160,"David Kadiri missed Jumper.",79,38,41,0.999999999357892,"Buffalo","Nazareth",6,0,0,0,NA,400923421,2016-11-17
+276,2,"2:40",160,160,"Ikenna Smart Offensive Rebound.",79,38,41,0.999999999357892,"Buffalo","Nazareth",6,0,0,0,NA,400923421,2016-11-17
+277,2,"2:35",155,155,"Christian Pino missed Three Point Jumper.",79,38,41,0.999999999785966,"Buffalo","Nazareth",6,0,0,0,NA,400923421,2016-11-17
+278,2,"2:35",155,155,"David Kadiri Offensive Rebound.",79,38,41,0.999999999785966,"Buffalo","Nazareth",6,0,0,0,NA,400923421,2016-11-17
+279,2,"2:24",144,144,"Christian Pino made Layup.",81,38,43,0.999999999769008,"Buffalo","Nazareth",6,0,0,0,NA,400923421,2016-11-17
+280,2,"2:11",131,131,"Jack Mulcahy missed Three Point Jumper.",81,38,43,0.99999999995353,"Buffalo","Nazareth",6,0,0,0,NA,400923421,2016-11-17
+281,2,"2:11",131,131,"David Kadiri Defensive Rebound.",81,38,43,0.99999999995353,"Buffalo","Nazareth",6,0,0,0,NA,400923421,2016-11-17
+282,2,"1:36",96,96,"David Kadiri made Dunk. Assisted by Dontay Caruthers.",83,38,45,0.999999999999511,"Buffalo","Nazareth",6,0,0,0,NA,400923421,2016-11-17
+283,2,"1:04",64,64,"Daniel Jacob missed Jumper.",83,38,45,0.999999999999997,"Buffalo","Nazareth",6,0,0,0,NA,400923421,2016-11-17
+284,2,"1:04",64,64,"Christian Pino Defensive Rebound.",83,38,45,0.999999999999997,"Buffalo","Nazareth",6,0,0,0,NA,400923421,2016-11-17
+285,2,"0:41",41,41,"Christian Pino missed Jumper.",83,38,45,1,"Buffalo","Nazareth",6,0,0,0,NA,400923421,2016-11-17
+286,2,"0:41",41,41,"Daniel Freilicher Defensive Rebound.",83,38,45,1,"Buffalo","Nazareth",6,0,0,0,NA,400923421,2016-11-17
+287,2,"0:32",32,32,"Jack Mulcahy missed Layup.",83,38,45,1,"Buffalo","Nazareth",6,0,0,0,NA,400923421,2016-11-17
+288,2,"0:32",32,32,"Jack Mulcahy Offensive Rebound.",83,38,45,1,"Buffalo","Nazareth",6,0,0,0,NA,400923421,2016-11-17
+289,2,"0:27",27,27,"Jack Mulcahy missed Jumper.",83,38,45,1,"Buffalo","Nazareth",6,0,0,0,NA,400923421,2016-11-17
+290,2,"0:27",27,27,"Christian Pino Defensive Rebound.",83,38,45,1,"Buffalo","Nazareth",6,0,0,0,NA,400923421,2016-11-17
+291,2,"0:20",20,20,"James Jones made Layup. Assisted by Christian Pino.",85,38,47,1,"Buffalo","Nazareth",6,0,0,0,NA,400923421,2016-11-17
+292,2,"0:15",15,15,"Foul on Dontay Caruthers.",85,38,47,1,"Buffalo","Nazareth",6,0,0,0,NA,400923421,2016-11-17
+293,2,"0:11",11,11,"Jack Mulcahy missed Three Point Jumper.",85,38,47,1,"Buffalo","Nazareth",6,0,0,0,NA,400923421,2016-11-17
+294,2,"0:11",11,11,"Dontay Caruthers Defensive Rebound.",85,38,47,1,"Buffalo","Nazareth",6,0,0,0,NA,400923421,2016-11-17
+295,2,"0:00",0,0,"End of Game",85,38,47,NA,"Buffalo","Nazareth",6,0,0,0,NA,400923421,2016-11-17

@@ -1,0 +1,328 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.770231956908983,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+2,1,"19:36",2376,2376,"Demonte Flannigan Turnover.",0,0,0,0.766512861726686,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+3,1,"19:35",2375,2375,"Tai Odiase Steal.",0,0,0,0.766512861726686,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+4,1,"19:16",2356,2356,"Tai Odiase made Layup. Assisted by K.J. Santos.",0,2,-2,0.739649625940898,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+5,1,"18:52",2332,2332,"Bobby Word missed Three Point Jumper.",0,2,-2,0.725210032565526,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+6,1,"18:52",2332,2332,"K.J. Santos Defensive Rebound.",0,2,-2,0.725210032565526,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+7,1,"18:30",2310,2310,"Tai Odiase missed Layup.",0,2,-2,0.70703857824226,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+8,1,"18:30",2310,2310,"Kasheem Thomas Defensive Rebound.",0,2,-2,0.70703857824226,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+9,1,"18:22",2302,2302,"Foul on Tarkus Ferguson.",0,2,-2,0.709444272875391,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+10,1,"18:22",2302,2302,"Rob Edwards made Free Throw.",1,2,-1,0.729522741225332,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+11,1,"18:22",2302,2302,"Rob Edwards missed Free Throw.",1,2,-1,0.729522741225332,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+12,1,"18:22",2302,2302,"K.J. Santos Defensive Rebound.",1,2,-1,0.729522741225332,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+13,1,"18:01",2281,2281,"Tai Odiase Turnover.",1,2,-1,0.73288309073989,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+14,1,"18:00",2280,2280,"Rob Edwards Steal.",1,2,-1,0.73288309073989,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+15,1,"17:58",2278,2278,"Rob Edwards made Dunk.",3,2,1,0.778490013747685,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+16,1,"17:25",2245,2245,"K.J. Santos missed Three Point Jumper.",3,2,1,0.76762901117656,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+17,1,"17:25",2245,2245,"Cleveland St Defensive Rebound.",3,2,1,0.76762901117656,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+18,1,"17:02",2222,2222,"Anthony Wright Turnover.",3,2,1,0.776709247279373,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+19,1,"16:46",2206,2206,"Tarkus Ferguson missed Jumper.",3,2,1,0.77509204339821,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+20,1,"16:46",2206,2206,"Bobby Word Defensive Rebound.",3,2,1,0.77509204339821,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+21,1,"16:39",2199,2199,"Rob Edwards missed Three Point Jumper.",3,2,1,0.785234384244702,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+22,1,"16:39",2199,2199,"Tai Odiase Defensive Rebound.",3,2,1,0.785234384244702,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+23,1,"16:26",2186,2186,"Tarkus Ferguson missed Three Point Jumper.",3,2,1,0.773617866224409,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+24,1,"16:26",2186,2186,"Tai Odiase Offensive Rebound.",3,2,1,0.773617866224409,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+25,1,"16:11",2171,2171,"Michael Kolawole made Layup.",3,4,-1,0.727668204254811,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+26,1,"15:45",2145,2145,"Bobby Word missed Jumper.",3,4,-1,0.739202413040506,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+27,1,"15:45",2145,2145,"Bobby Word Offensive Rebound.",3,4,-1,0.739202413040506,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+28,1,"15:43",2143,2143,"Bobby Word missed Two Point Tip Shot.",3,4,-1,0.739202413040506,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+29,1,"15:43",2143,2143,"Clint Robinson Defensive Rebound.",3,4,-1,0.739202413040506,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+30,1,"15:25",2125,2125,"K.J. Santos missed Layup.",3,4,-1,0.724159323945769,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+31,1,"15:25",2125,2125,"Clint Robinson Offensive Rebound.",3,4,-1,0.724159323945769,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+32,1,"15:22",2122,2122,"Foul on Kasheem Thomas.",3,4,-1,0.724159323945769,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+33,1,"15:22",2122,2122,"Official TV Timeout",3,4,-1,0.724159323945769,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+34,1,"15:22",2122,2122,"Clint Robinson made Free Throw.",3,5,-2,0.700687693869187,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+35,1,"15:22",2122,2122,"Clint Robinson made Free Throw.",3,6,-3,0.676112115653971,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+36,1,"15:10",2110,2110,"Kasheem Thomas missed Jumper.",3,6,-3,0.684304259084419,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+37,1,"15:10",2110,2110,"K.J. Santos Defensive Rebound.",3,6,-3,0.684304259084419,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+38,1,"15:03",2103,2103,"Michael Kolawole missed Jumper.",3,6,-3,0.676406712675146,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+39,1,"15:03",2103,2103,"Bobby Word Defensive Rebound.",3,6,-3,0.676406712675146,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+40,1,"14:55",2095,2095,"Rob Edwards missed Layup.",3,6,-3,0.664822107399105,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+41,1,"14:55",2095,2095,"Clint Robinson Defensive Rebound.",3,6,-3,0.664822107399105,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+42,1,"14:47",2087,2087,"Tarkus Ferguson missed Jumper.",3,6,-3,0.681687665476586,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+43,1,"14:47",2087,2087,"Clint Robinson Offensive Rebound.",3,6,-3,0.681687665476586,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+44,1,"14:45",2085,2085,"Clint Robinson made Layup.",3,8,-5,0.632201006598828,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+45,1,"14:27",2067,2067,"Demonte Flannigan missed Layup.",3,8,-5,0.610018790052277,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+46,1,"14:27",2067,2067,"Marcus Ottey Defensive Rebound.",3,8,-5,0.610018790052277,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+47,1,"14:09",2049,2049,"Foul on Marcus Ottey.",3,8,-5,0.615937345929462,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+48,1,"14:09",2049,2049,"Marcus Ottey Turnover.",3,8,-5,0.615937345929462,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+49,1,"14:00",2040,2040,"Nelson Maxwell made Layup.",5,8,-3,0.666571646811014,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+50,1,"13:47",2027,2027,"Tarkus Ferguson missed Jumper.",5,8,-3,0.661540337340517,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+51,1,"13:47",2027,2027,"Nelson Maxwell Defensive Rebound.",5,8,-3,0.661540337340517,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+52,1,"13:25",2005,2005,"Nelson Maxwell missed Layup.",5,8,-3,0.672708142253884,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+53,1,"13:25",2005,2005,"Tai Odiase Block.",5,8,-3,0.672708142253884,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+54,1,"13:23",2003,2003,"Kyle Guice Defensive Rebound.",5,8,-3,0.672708142253884,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+55,1,"13:16",1996,1996,"Tarkus Ferguson Turnover.",5,8,-3,0.666455710737102,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+56,1,"13:15",1995,1995,"Bobby Word Steal.",5,8,-3,0.666455710737102,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+57,1,"13:11",1991,1991,"Bobby Word Turnover.",5,8,-3,0.666455710737102,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+58,1,"13:10",1990,1990,"Tai Odiase Steal.",5,8,-3,0.666455710737102,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+59,1,"12:59",1979,1979,"Foul on Nelson Maxwell.",5,8,-3,0.674088462776623,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+60,1,"12:59",1979,1979,"Michael Kolawole missed Free Throw.",5,8,-3,0.674088462776623,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+61,1,"12:59",1979,1979,"UIC Deadball Team Rebound.",5,8,-3,0.674088462776623,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+62,1,"12:59",1979,1979,"Michael Kolawole made Free Throw.",5,9,-4,0.645542286476571,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+63,1,"12:56",1976,1976,"Demonte Flannigan Turnover.",5,9,-4,0.645542286476571,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+64,1,"12:55",1975,1975,"Marcus Ottey Steal.",5,9,-4,0.645542286476571,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+65,1,"12:53",1973,1973,"Dominique Matthews Turnover.",5,9,-4,0.645542286476571,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+66,1,"12:41",1961,1961,"Jibri Blount Turnover.",5,9,-4,0.656312908896697,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+67,1,"12:39",1959,1959,"Tarkus Ferguson Steal.",5,9,-4,0.63889482400383,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+68,1,"12:38",1958,1958,"Tarkus Ferguson missed Layup.",5,9,-4,0.63889482400383,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+69,1,"12:38",1958,1958,"Rob Edwards Defensive Rebound.",5,9,-4,0.63889482400383,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+70,1,"12:31",1951,1951,"Demonte Flannigan missed Layup.",5,9,-4,0.63889482400383,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+71,1,"12:31",1951,1951,"Tai Odiase Block.",5,9,-4,0.63889482400383,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+72,1,"12:29",1949,1949,"Tai Odiase Defensive Rebound.",5,9,-4,0.633118060070383,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+73,1,"12:18",1938,1938,"Kyle Guice missed Three Point Jumper.",5,9,-4,0.620117483733289,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+74,1,"12:18",1938,1938,"Demonte Flannigan Defensive Rebound.",5,9,-4,0.620117483733289,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+75,1,"12:01",1921,1921,"Rob Edwards made Three Point Jumper.",8,9,-1,0.718782584361002,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+76,1,"11:40",1900,1900,"Foul on Tai Odiase.",8,9,-1,0.719819919514907,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+77,1,"11:40",1900,1900,"Tai Odiase Turnover.",8,9,-1,0.719819919514907,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+78,1,"11:40",1900,1900,"Official TV Timeout",8,9,-1,0.719819919514907,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+79,1,"11:28",1888,1888,"Jamarcus Hairston missed Three Point Jumper.",8,9,-1,0.714911986140004,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+80,1,"11:28",1888,1888,"K.J. Santos Defensive Rebound.",8,9,-1,0.714911986140004,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+81,1,"11:18",1878,1878,"Dominique Matthews made Jumper.",8,11,-3,0.65958378677077,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+82,1,"10:58",1858,1858,"Rob Edwards made Layup.",10,11,-1,0.715950698248053,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+83,1,"10:43",1843,1843,"Marcus Ottey Turnover.",10,11,-1,0.702865400248474,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+84,1,"10:42",1842,1842,"Derek Sloan Steal.",10,11,-1,0.702865400248474,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+85,1,"10:33",1833,1833,"Jamarcus Hairston missed Three Point Jumper.",10,11,-1,0.711275978817406,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+86,1,"10:33",1833,1833,"Dominique Matthews Defensive Rebound.",10,11,-1,0.711275978817406,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+87,1,"10:19",1819,1819,"Marcus Ottey Turnover.",10,11,-1,0.711816574314934,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+88,1,"10:18",1818,1818,"Nelson Maxwell Steal.",10,11,-1,0.711816574314934,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+89,1,"10:06",1806,1806,"Nelson Maxwell Turnover.",10,11,-1,0.709549586947666,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+90,1,"9:43",1783,1783,"Clint Robinson made Layup. Assisted by K.J. Santos.",10,13,-3,0.622918445422368,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+91,1,"9:23",1763,1763,"Kenny Carpenter made Jumper.",12,13,-1,0.719403146844161,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+92,1,"9:12",1752,1752,"Foul on K.J. Santos.",12,13,-1,0.694834109223809,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+93,1,"9:12",1752,1752,"K.J. Santos Turnover.",12,13,-1,0.694834109223809,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+94,1,"8:59",1739,1739,"Jamarcus Hairston missed Three Point Jumper.",12,13,-1,0.706820650988878,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+95,1,"8:59",1739,1739,"Derek Sloan Offensive Rebound.",12,13,-1,0.706820650988878,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+96,1,"8:45",1725,1725,"Foul on Kasheem Thomas.",12,13,-1,0.70000261942663,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+97,1,"8:45",1725,1725,"Kasheem Thomas Turnover.",12,13,-1,0.70000261942663,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+98,1,"8:24",1704,1704,"Godwin Boahen missed Three Point Jumper.",12,13,-1,0.698594586969775,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+99,1,"8:24",1704,1704,"K.J. Santos Offensive Rebound.",12,13,-1,0.698594586969775,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+100,1,"8:19",1699,1699,"Dominique Matthews made Three Point Jumper. Assisted by K.J. Santos.",12,16,-4,0.608303225123037,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+101,1,"7:59",1679,1679,"Bobby Word made Layup. Assisted by Kenny Carpenter.",14,16,-2,0.677415906487218,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+102,1,"7:39",1659,1659,"Clint Robinson missed Jumper.",14,16,-2,0.674649077761697,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+103,1,"7:39",1659,1659,"Dominique Matthews Offensive Rebound.",14,16,-2,0.674649077761697,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+104,1,"7:35",1655,1655,"Dominique Matthews missed Jumper.",14,16,-2,0.674649077761697,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+105,1,"7:35",1655,1655,"Derek Sloan Defensive Rebound.",14,16,-2,0.674649077761697,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+106,1,"7:25",1645,1645,"Kenny Carpenter missed Jumper.",14,16,-2,0.677978486062799,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+107,1,"7:25",1645,1645,"K.J. Santos Defensive Rebound.",14,16,-2,0.677978486062799,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+108,1,"7:14",1634,1634,"Dominique Matthews missed Three Point Jumper.",14,16,-2,0.680671457742643,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+109,1,"7:14",1634,1634,"Bobby Word Defensive Rebound.",14,16,-2,0.680671457742643,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+110,1,"6:54",1614,1614,"Kenny Carpenter Turnover.",14,16,-2,0.6498468349025,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+111,1,"6:54",1614,1614,"Dominique Matthews Steal.",14,16,-2,0.6498468349025,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+112,1,"6:54",1614,1614,"Official TV Timeout",14,16,-2,0.6498468349025,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+113,1,"6:40",1600,1600,"K.J. Santos missed Three Point Jumper.",14,16,-2,0.673217266494564,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+114,1,"6:40",1600,1600,"UIC Offensive Rebound.",14,16,-2,0.673217266494564,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+115,1,"6:16",1576,1576,"Tai Odiase made Jumper.",14,18,-4,0.593367589851855,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+116,1,"5:56",1556,1556,"Demonte Flannigan missed Jumper.",14,18,-4,0.584867030849286,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+117,1,"5:56",1556,1556,"Cleveland St Offensive Rebound.",14,18,-4,0.584867030849286,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+118,1,"5:46",1546,1546,"Foul on Nelson Maxwell.",14,18,-4,0.60921452474496,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+119,1,"5:46",1546,1546,"Nelson Maxwell Turnover.",14,18,-4,0.60921452474496,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+120,1,"5:33",1533,1533,"Foul on Dominique Matthews.",14,18,-4,0.607689157876798,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+121,1,"5:33",1533,1533,"Dominique Matthews Turnover.",14,18,-4,0.607689157876798,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+122,1,"5:22",1522,1522,"Rob Edwards Turnover.",14,18,-4,0.594932208582799,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+123,1,"5:21",1521,1521,"Michael Kolawole Steal.",14,18,-4,0.594932208582799,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+124,1,"5:14",1514,1514,"Foul on Demonte Flannigan.",14,18,-4,0.598088705933847,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+125,1,"5:14",1514,1514,"Tai Odiase made Free Throw.",14,19,-5,0.560955316498396,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+126,1,"5:14",1514,1514,"Tai Odiase missed Free Throw.",14,19,-5,0.560955316498396,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+127,1,"5:14",1514,1514,"Terrell Hales Defensive Rebound.",14,19,-5,0.560955316498396,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+128,1,"4:51",1491,1491,"Demonte Flannigan Turnover.",14,19,-5,0.581138228034503,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+129,1,"4:50",1490,1490,"Tai Odiase Steal.",14,19,-5,0.581138228034503,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+130,1,"4:22",1462,1462,"Michael Kolawole missed Jumper.",14,19,-5,0.555510457287217,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+131,1,"4:22",1462,1462,"Demonte Flannigan Defensive Rebound.",14,19,-5,0.555510457287217,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+132,1,"4:02",1442,1442,"Jibri Blount missed Three Point Jumper.",14,19,-5,0.567012083558663,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+133,1,"4:02",1442,1442,"Tarkus Ferguson Defensive Rebound.",14,19,-5,0.567012083558663,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+134,1,"3:49",1429,1429,"Tarkus Ferguson Turnover.",14,19,-5,0.538322505062735,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+135,1,"3:48",1428,1428,"Jibri Blount Steal.",14,19,-5,0.538322505062735,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+136,1,"3:45",1425,1425,"Foul on Michael Kolawole.",14,19,-5,0.538322505062735,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+137,1,"3:45",1425,1425,"Official TV Timeout",14,19,-5,0.538322505062735,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+138,1,"3:29",1409,1409,"Demonte Flannigan Turnover.",14,19,-5,0.558100445229148,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+139,1,"3:28",1408,1408,"Tarkus Ferguson Steal.",14,19,-5,0.558100445229148,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+140,1,"3:25",1405,1405,"Tarkus Ferguson missed Layup.",14,19,-5,0.558100445229148,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+141,1,"3:25",1405,1405,"Rob Edwards Defensive Rebound.",14,19,-5,0.558100445229148,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+142,1,"3:18",1398,1398,"Bobby Word missed Three Point Jumper.",14,19,-5,0.545459713852244,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+143,1,"3:18",1398,1398,"UIC Defensive Rebound.",14,19,-5,0.545459713852244,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+144,1,"3:02",1382,1382,"Foul on Jamarcus Hairston.",14,19,-5,0.556732581691107,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+145,1,"3:02",1382,1382,"Clint Robinson made Free Throw.",14,20,-6,0.519605838712731,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+146,1,"3:02",1382,1382,"Clint Robinson missed Free Throw.",14,20,-6,0.519605838712731,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+147,1,"3:02",1382,1382,"Jamarcus Hairston Defensive Rebound.",14,20,-6,0.519605838712731,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+148,1,"2:43",1363,1363,"Foul on Kyle Guice.",14,20,-6,0.500719269965917,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+149,1,"2:43",1363,1363,"Jibri Blount missed Free Throw.",14,20,-6,0.500719269965917,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+150,1,"2:43",1363,1363,"Cleveland St Deadball Team Rebound.",14,20,-6,0.500719269965917,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+151,1,"2:43",1363,1363,"Jibri Blount missed Free Throw.",14,20,-6,0.500719269965917,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+152,1,"2:43",1363,1363,"Clint Robinson Defensive Rebound.",14,20,-6,0.500719269965917,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+153,1,"2:28",1348,1348,"Marcus Ottey Turnover.",14,20,-6,0.478568285052327,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+154,1,"2:14",1334,1334,"Kenny Carpenter made Three Point Jumper. Assisted by Jamarcus Hairston.",17,20,-3,0.594566635319757,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+155,1,"1:59",1319,1319,"Godwin Boahen Turnover.",17,20,-3,0.619858630906647,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+156,1,"1:58",1318,1318,"Bobby Word Steal.",17,20,-3,0.619858630906647,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+157,1,"1:56",1316,1316,"Jamarcus Hairston made Dunk. Assisted by Bobby Word.",19,20,-1,0.690884316465401,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+158,1,"1:37",1297,1297,"Godwin Boahen Turnover.",19,20,-1,0.682944993377439,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+159,1,"1:36",1296,1296,"Jamarcus Hairston Steal.",19,20,-1,0.682944993377439,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+160,1,"1:25",1285,1285,"Kenny Carpenter made Jumper.",21,20,1,0.747878052764096,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+161,1,"1:23",1283,1283,"UIC  Timeout",21,20,1,0.747878052764096,"Cleveland State","UIC",3,4,1,0,5.5,400918484,2017-01-12
+162,1,"1:11",1271,1271,"Kyle Guice Turnover.",21,20,1,0.730310558548183,"Cleveland State","UIC",3,4,1,0,5.5,400918484,2017-01-12
+163,1,"1:10",1270,1270,"Kenny Carpenter Steal.",21,20,1,0.730310558548183,"Cleveland State","UIC",3,4,1,0,5.5,400918484,2017-01-12
+164,1,"0:52",1252,1252,"Jamarcus Hairston missed Three Point Jumper.",21,20,1,0.730734309012969,"Cleveland State","UIC",3,4,1,0,5.5,400918484,2017-01-12
+165,1,"0:52",1252,1252,"Dominique Matthews Defensive Rebound.",21,20,1,0.730734309012969,"Cleveland State","UIC",3,4,1,0,5.5,400918484,2017-01-12
+166,1,"0:42",1242,1242,"Michael Kolawole missed Jumper.",21,20,1,0.743973690159416,"Cleveland State","UIC",3,4,1,0,5.5,400918484,2017-01-12
+167,1,"0:42",1242,1242,"Jibri Blount Defensive Rebound.",21,20,1,0.743973690159416,"Cleveland State","UIC",3,4,1,0,5.5,400918484,2017-01-12
+168,1,"0:37",1237,1237,"Rob Edwards made Layup.",23,20,3,0.789478022572134,"Cleveland State","UIC",3,4,1,0,5.5,400918484,2017-01-12
+169,1,"0:02",1202,1202,"Michael Kolawole missed Three Point Jumper.",23,20,3,0.796267994296091,"Cleveland State","UIC",3,4,0,0,5.5,400918484,2017-01-12
+170,1,"0:02",1202,1202,"Jamarcus Hairston Defensive Rebound.",23,20,3,0.796267994296091,"Cleveland State","UIC",3,4,0,0,5.5,400918484,2017-01-12
+171,1,"0:00",1200,1200,"End of 1st half",23,20,3,0.796267994296091,"Cleveland State","UIC",3,4,0,0,5.5,400918484,2017-01-12
+172,2,"20:00",1200,1200,"PLAY",23,20,3,0.796267994296091,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+173,2,"19:34",1174,1174,"Foul on K.J. Santos.",23,20,3,0.792359242296022,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+174,2,"19:34",1174,1174,"Derek Sloan missed Free Throw.",23,20,3,0.792359242296022,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+175,2,"19:34",1174,1174,"Cleveland St Deadball Team Rebound.",23,20,3,0.792359242296022,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+176,2,"19:34",1174,1174,"Derek Sloan made Free Throw.",24,20,4,0.81813530905795,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+177,2,"19:05",1145,1145,"Foul on Demonte Flannigan.",24,20,4,0.82006769687423,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+178,2,"18:53",1133,1133,"Godwin Boahen made Three Point Jumper. Assisted by Tarkus Ferguson.",24,23,1,0.744538073226357,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+179,2,"18:34",1114,1114,"Bobby Word made Three Point Jumper.",27,23,4,0.82278631192761,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+180,2,"18:20",1100,1100,"K.J. Santos made Jumper.",27,25,2,0.77045366704722,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+181,2,"18:04",1084,1084,"Kasheem Thomas Turnover.",27,25,2,0.774337180657509,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+182,2,"17:53",1073,1073,"K.J. Santos missed Three Point Jumper.",27,25,2,0.767091190445119,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+183,2,"17:53",1073,1073,"Bobby Word Defensive Rebound.",27,25,2,0.767091190445119,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+184,2,"17:35",1055,1055,"Derek Sloan made Layup. Assisted by Rob Edwards.",29,25,4,0.830826920777646,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+185,2,"17:17",1037,1037,"Foul on Derek Sloan.",29,25,4,0.819637772362394,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+186,2,"17:17",1037,1037,"K.J. Santos missed Free Throw.",29,25,4,0.819637772362394,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+187,2,"17:17",1037,1037,"UIC Deadball Team Rebound.",29,25,4,0.819637772362394,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+188,2,"17:17",1037,1037,"K.J. Santos made Free Throw.",29,26,3,0.792877105688854,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+189,2,"17:05",1025,1025,"Demonte Flannigan missed Jumper.",29,26,3,0.802132821914399,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+190,2,"17:05",1025,1025,"Marcus Ottey Defensive Rebound.",29,26,3,0.802132821914399,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+191,2,"16:48",1008,1008,"Foul on Derek Sloan.",29,26,3,0.78681451111113,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+192,2,"16:27",987,987,"Tai Odiase missed Jumper.",29,26,3,0.806217633115746,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+193,2,"16:27",987,987,"Jamarcus Hairston Defensive Rebound.",29,26,3,0.806217633115746,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+194,2,"16:17",977,977,"Jamarcus Hairston made Three Point Jumper. Assisted by Rob Edwards.",32,26,6,0.875039756025979,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+195,2,"15:52",952,952,"Michael Kolawole made Jumper.",32,28,4,0.8289978493988,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+196,2,"15:38",938,938,"Bobby Word missed Jumper.",32,28,4,0.82520221782112,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+197,2,"15:38",938,938,"Rob Edwards Offensive Rebound.",32,28,4,0.82520221782112,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+198,2,"15:35",935,935,"Foul on K.J. Santos.",32,28,4,0.82520221782112,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+199,2,"15:35",935,935,"Official TV Timeout",32,28,4,0.82520221782112,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+200,2,"15:35",935,935,"Rob Edwards made Free Throw.",33,28,5,0.85111637724683,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+201,2,"15:35",935,935,"Rob Edwards made Free Throw.",34,28,6,0.873776354882248,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+202,2,"15:16",916,916,"Marcus Ottey Turnover.",34,28,6,0.882256002574395,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+203,2,"15:15",915,915,"Kasheem Thomas Steal.",34,28,6,0.882256002574395,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+204,2,"15:06",906,906,"Jamarcus Hairston made Layup. Assisted by Jibri Blount.",36,28,8,0.908896365761023,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+205,2,"14:36",876,876,"Michael Kolawole Turnover.",36,28,8,0.912629225135928,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+206,2,"14:35",875,875,"Rob Edwards Steal.",36,28,8,0.912629225135928,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+207,2,"14:33",873,873,"Rob Edwards Turnover.",36,28,8,0.912629225135928,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+208,2,"14:20",860,860,"Clint Robinson made Layup. Assisted by Tarkus Ferguson.",36,30,6,0.86988207241832,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+209,2,"13:58",838,838,"Rob Edwards missed Three Point Jumper.",36,30,6,0.88877843156293,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+210,2,"13:58",838,838,"Rob Edwards Offensive Rebound.",36,30,6,0.88877843156293,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+211,2,"13:53",833,833,"Bobby Word made Three Point Jumper. Assisted by Rob Edwards.",39,30,9,0.936854025039346,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+212,2,"13:42",822,822,"Tarkus Ferguson missed Layup.",39,30,9,0.923358603200788,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+213,2,"13:42",822,822,"UIC Offensive Rebound.",39,30,9,0.923358603200788,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+214,2,"13:35",815,815,"Foul on Godwin Boahen.",39,30,9,0.925622882914877,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+215,2,"13:35",815,815,"Godwin Boahen Turnover.",39,30,9,0.925622882914877,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+216,2,"13:25",805,805,"Kasheem Thomas missed Three Point Jumper.",39,30,9,0.935869715901141,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+217,2,"13:25",805,805,"Clint Robinson Defensive Rebound.",39,30,9,0.935869715901141,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+218,2,"13:08",788,788,"Godwin Boahen made Layup.",39,32,7,0.900147119761343,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+219,2,"12:52",772,772,"Rob Edwards Turnover.",39,32,7,0.903488208377107,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+220,2,"12:39",759,759,"Clint Robinson made Layup. Assisted by Godwin Boahen.",39,34,5,0.864768218061356,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+221,2,"12:28",748,748,"Foul on Godwin Boahen.",39,34,5,0.862076145597436,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+222,2,"12:07",727,727,"Foul on Godwin Boahen.",39,34,5,0.869574313140558,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+223,2,"11:53",713,713,"Demonte Flannigan missed Layup.",39,34,5,0.855570603250944,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+224,2,"11:53",713,713,"Clint Robinson Defensive Rebound.",39,34,5,0.855570603250944,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+225,2,"11:39",699,699,"Dominique Matthews made Three Point Jumper. Assisted by Kyle Guice.",39,37,2,0.782722528723947,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+226,2,"11:10",670,670,"Kenny Carpenter missed Jumper.",39,37,2,0.763497103403911,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+227,2,"11:10",670,670,"Kyle Guice Defensive Rebound.",39,37,2,0.763497103403911,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+228,2,"10:57",657,657,"Tarkus Ferguson missed Jumper.",39,37,2,0.77239835580684,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+229,2,"10:57",657,657,"Terrell Hales Defensive Rebound.",39,37,2,0.77239835580684,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+230,2,"10:46",646,646,"Foul on K.J. Santos.",39,37,2,0.767452795778611,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+231,2,"10:46",646,646,"Official TV Timeout",39,37,2,0.767452795778611,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+232,2,"10:38",638,638,"Demonte Flannigan made Jumper.",41,37,4,0.827460874740595,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+233,2,"10:22",622,622,"Dominique Matthews missed Layup.",41,37,4,0.853944726001782,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+234,2,"10:22",622,622,"Demonte Flannigan Defensive Rebound.",41,37,4,0.853944726001782,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+235,2,"10:19",619,619,"Nelson Maxwell Turnover.",41,37,4,0.838292743731717,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+236,2,"10:01",601,601,"Godwin Boahen made Jumper.",41,39,2,0.771622078009272,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+237,2,"9:38",578,578,"Demonte Flannigan made Layup. Assisted by Rob Edwards.",43,39,4,0.857640501017492,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+238,2,"9:07",547,547,"Tarkus Ferguson made Layup.",43,41,2,0.755001213600118,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+239,2,"8:38",518,518,"Rob Edwards missed Layup.",43,41,2,0.757564140407495,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+240,2,"8:38",518,518,"Tarkus Ferguson Block.",43,41,2,0.757564140407495,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+241,2,"8:36",516,516,"Tarkus Ferguson Defensive Rebound.",43,41,2,0.757564140407495,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+242,2,"8:17",497,497,"Foul on Tarkus Ferguson.",43,41,2,0.777306870343567,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+243,2,"8:17",497,497,"Tarkus Ferguson Turnover.",43,41,2,0.777306870343567,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+244,2,"7:51",471,471,"Foul on Tai Odiase.",43,41,2,0.774805365208655,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+245,2,"7:51",471,471,"Official TV Timeout",43,41,2,0.774805365208655,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+246,2,"7:51",471,471,"Rob Edwards missed Free Throw.",43,41,2,0.774805365208655,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+247,2,"7:51",471,471,"Cleveland St Deadball Team Rebound.",43,41,2,0.774805365208655,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+248,2,"7:51",471,471,"Rob Edwards made Free Throw.",44,41,3,0.821522268290342,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+249,2,"7:39",459,459,"Godwin Boahen made Three Point Jumper. Assisted by Michael Kolawole.",44,44,0,0.636731187959406,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+250,2,"7:16",436,436,"Nelson Maxwell Turnover.",44,44,0,0.665614575609596,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+251,2,"6:59",419,419,"Tarkus Ferguson Turnover.",44,44,0,0.64940993871995,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+252,2,"6:56",416,416,"Jamarcus Hairston Steal.",44,44,0,0.64940993871995,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+253,2,"6:47",407,407,"Bobby Word made Layup.",46,44,2,0.771238365610839,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+254,2,"6:31",391,391,"Michael Kolawole missed Layup.",46,44,2,0.779541794362106,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+255,2,"6:31",391,391,"Rob Edwards Defensive Rebound.",46,44,2,0.779541794362106,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+256,2,"6:25",385,385,"Kasheem Thomas missed Layup.",46,44,2,0.776991595886649,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+257,2,"6:25",385,385,"Michael Kolawole Defensive Rebound.",46,44,2,0.776991595886649,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+258,2,"6:17",377,377,"Michael Kolawole missed Layup.",46,44,2,0.764646624853352,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+259,2,"6:17",377,377,"Demonte Flannigan Block.",46,44,2,0.764646624853352,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+260,2,"6:16",376,376,"Michael Kolawole Offensive Rebound.",46,44,2,0.764646624853352,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+261,2,"6:10",370,370,"Foul on Demonte Flannigan.",46,44,2,0.764646624853352,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+262,2,"6:10",370,370,"Clint Robinson missed Free Throw.",46,44,2,0.764646624853352,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+263,2,"6:10",370,370,"UIC Deadball Team Rebound.",46,44,2,0.764646624853352,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+264,2,"6:10",370,370,"Clint Robinson missed Free Throw.",46,44,2,0.764646624853352,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+265,2,"6:10",370,370,"Jamarcus Hairston Defensive Rebound.",46,44,2,0.764646624853352,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+266,2,"5:41",341,341,"Kasheem Thomas missed Jumper.",46,44,2,0.754370001802178,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+267,2,"5:41",341,341,"Tai Odiase Defensive Rebound.",46,44,2,0.754370001802178,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+268,2,"5:15",315,315,"Dominique Matthews made Three Point Jumper. Assisted by Tarkus Ferguson.",46,47,-1,0.543511999304488,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+269,2,"4:58",298,298,"Jamarcus Hairston missed Three Point Jumper.",46,47,-1,0.562973453420269,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+270,2,"4:58",298,298,"Michael Kolawole Defensive Rebound.",46,47,-1,0.562973453420269,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+271,2,"4:36",276,276,"Foul on Jamarcus Hairston.",46,47,-1,0.524314137413486,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+272,2,"4:36",276,276,"Michael Kolawole made Free Throw.",46,48,-2,0.427740483800285,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+273,2,"4:36",276,276,"Michael Kolawole missed Free Throw.",46,48,-2,0.427740483800285,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+274,2,"4:36",276,276,"Derek Sloan Defensive Rebound.",46,48,-2,0.427740483800285,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+275,2,"4:27",267,267,"Foul on Tarkus Ferguson.",46,48,-2,0.450619863078618,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+276,2,"4:27",267,267,"Demonte Flannigan missed Free Throw.",46,48,-2,0.450619863078618,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+277,2,"4:27",267,267,"Cleveland St Deadball Team Rebound.",46,48,-2,0.450619863078618,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+278,2,"4:27",267,267,"Demonte Flannigan missed Free Throw.",46,48,-2,0.450619863078618,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+279,2,"4:27",267,267,"Tarkus Ferguson Defensive Rebound.",46,48,-2,0.450619863078618,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+280,2,"4:04",244,244,"Foul on Derek Sloan.",46,48,-2,0.419416967895913,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+281,2,"4:04",244,244,"Tai Odiase missed Free Throw.",46,48,-2,0.419416967895913,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+282,2,"4:04",244,244,"UIC Deadball Team Rebound.",46,48,-2,0.419416967895913,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+283,2,"4:04",244,244,"Tai Odiase made Free Throw.",46,49,-3,0.325273358254172,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+284,2,"3:39",219,219,"Bobby Word Turnover.",46,49,-3,0.299687089023048,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+285,2,"3:38",218,218,"K.J. Santos Steal.",46,49,-3,0.299687089023048,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+286,2,"3:22",202,202,"Tarkus Ferguson made Jumper.",46,51,-5,0.161597711155706,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+287,2,"3:22",202,202,"Foul on Bobby Word.",46,51,-5,0.161597711155706,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+288,2,"3:22",202,202,"Official TV Timeout",46,51,-5,0.161597711155706,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+289,2,"3:22",202,202,"Tarkus Ferguson made Free Throw.",46,52,-6,0.109250226407639,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+290,2,"2:59",179,179,"Rob Edwards missed Three Point Jumper.",46,52,-6,0.081562062456381,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+291,2,"2:59",179,179,"K.J. Santos Defensive Rebound.",46,52,-6,0.081562062456381,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+292,2,"2:29",149,149,"K.J. Santos made Layup.",46,54,-8,0.0240522668140645,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+293,2,"2:18",138,138,"Foul on Godwin Boahen.",46,54,-8,0.020907150410357,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+294,2,"2:18",138,138,"Kasheem Thomas made Free Throw.",47,54,-7,0.0356136538802918,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+295,2,"2:18",138,138,"Kasheem Thomas missed Free Throw.",47,54,-7,0.0356136538802918,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+296,2,"2:18",138,138,"K.J. Santos Defensive Rebound.",47,54,-7,0.0356136538802918,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+297,2,"1:57",117,117,"K.J. Santos missed Layup.",47,54,-7,0.0236712955391998,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+298,2,"1:57",117,117,"Anthony Wright Defensive Rebound.",47,54,-7,0.0236712955391998,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+299,2,"1:45",105,105,"Jibri Blount made Three Point Jumper. Assisted by Kasheem Thomas.",50,54,-4,0.100844935134444,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+300,2,"1:22",82,82,"Godwin Boahen missed Three Point Jumper.",50,54,-4,0.0876702897892416,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+301,2,"1:22",82,82,"Tai Odiase Offensive Rebound.",50,54,-4,0.0876702897892416,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+302,2,"1:17",77,77,"Foul on Jibri Blount.",50,54,-4,0.0651772362535217,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+303,2,"1:17",77,77,"Tai Odiase missed Free Throw.",50,54,-4,0.0651772362535217,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+304,2,"1:17",77,77,"Anthony Wright Defensive Rebound.",50,54,-4,0.0651772362535217,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+305,2,"1:17",77,77,"Foul on Michael Kolawole.",50,54,-4,0.0651772362535217,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+306,2,"1:17",77,77,"Anthony Wright made Free Throw.",51,54,-3,0.126944795673217,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+307,2,"1:16",76,76,"Anthony Wright Turnover.",51,54,-3,0.126944795673217,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+308,2,"1:08",68,68,"Michael Kolawole made Jumper. Assisted by Godwin Boahen.",51,56,-5,0.0265505827563453,"Cleveland State","UIC",4,4,0,0,5.5,400918484,2017-01-12
+309,2,"0:49",49,49,"Cleveland St  Timeout",51,56,-5,0.011655187635824,"Cleveland State","UIC",4,3,0,1,5.5,400918484,2017-01-12
+310,2,"0:43",43,43,"Kasheem Thomas missed Layup.",51,56,-5,0.0101378445057068,"Cleveland State","UIC",4,3,0,1,5.5,400918484,2017-01-12
+311,2,"0:43",43,43,"Tai Odiase Block.",51,56,-5,0.0101378445057068,"Cleveland State","UIC",4,3,0,1,5.5,400918484,2017-01-12
+312,2,"0:41",41,41,"Michael Kolawole Defensive Rebound.",51,56,-5,0.00576195105784915,"Cleveland State","UIC",4,3,0,1,5.5,400918484,2017-01-12
+313,2,"0:34",34,34,"Foul on Jamarcus Hairston.",51,56,-5,0.0137498954757758,"Cleveland State","UIC",4,3,0,1,5.5,400918484,2017-01-12
+314,2,"0:34",34,34,"K.J. Santos made Free Throw.",51,57,-6,0.00605653920875725,"Cleveland State","UIC",4,3,0,1,5.5,400918484,2017-01-12
+315,2,"0:34",34,34,"K.J. Santos made Free Throw.",51,58,-7,0.0026561846888742,"Cleveland State","UIC",4,3,0,1,5.5,400918484,2017-01-12
+316,2,"0:26",26,26,"Jamarcus Hairston made Three Point Jumper. Assisted by Kasheem Thomas.",54,58,-4,0.00819468875060857,"Cleveland State","UIC",4,3,0,1,5.5,400918484,2017-01-12
+317,2,"0:25",25,25,"Cleveland St  Timeout",54,58,-4,0.00800455283961988,"Cleveland State","UIC",4,2,0,1,5.5,400918484,2017-01-12
+318,2,"0:24",24,24,"Godwin Boahen Turnover.",54,58,-4,0.0348709448284626,"Cleveland State","UIC",4,2,0,1,5.5,400918484,2017-01-12
+319,2,"0:15",15,15,"Kasheem Thomas missed Layup.",54,58,-4,0.00200485028373481,"Cleveland State","UIC",4,2,0,1,5.5,400918484,2017-01-12
+320,2,"0:15",15,15,"Tarkus Ferguson Defensive Rebound.",54,58,-4,0.00200485028373481,"Cleveland State","UIC",4,2,0,1,5.5,400918484,2017-01-12
+321,2,"0:11",11,11,"Foul on Kasheem Thomas.",54,58,-4,0.00607608983004947,"Cleveland State","UIC",4,2,0,1,5.5,400918484,2017-01-12
+322,2,"0:11",11,11,"Tarkus Ferguson made Free Throw.",54,59,-5,0.00157405735444631,"Cleveland State","UIC",4,2,0,1,5.5,400918484,2017-01-12
+323,2,"0:11",11,11,"Tarkus Ferguson missed Free Throw.",54,59,-5,0.00157405735444631,"Cleveland State","UIC",4,2,0,1,5.5,400918484,2017-01-12
+324,2,"0:11",11,11,"Rob Edwards Defensive Rebound.",54,59,-5,0.00157405735444631,"Cleveland State","UIC",4,2,0,1,5.5,400918484,2017-01-12
+325,2,"0:05",5,5,"Bobby Word missed Three Point Jumper.",54,59,-5,0.000531253864460138,"Cleveland State","UIC",4,2,0,1,5.5,400918484,2017-01-12
+326,2,"0:05",5,5,"K.J. Santos Defensive Rebound.",54,59,-5,0.000531253864460138,"Cleveland State","UIC",4,2,0,1,5.5,400918484,2017-01-12
+327,2,"0:00",0,0,"End of Game",54,59,-5,1.0200575179246e-42,"Cleveland State","UIC",4,2,0,1,5.5,400918484,2017-01-12

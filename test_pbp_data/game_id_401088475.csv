@@ -1,0 +1,372 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","play_length","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,24,0.852225761633161,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+2,1,"19:36",2376,2376,"Foul on PJ Pipes.",0,0,0,0,0.844924266968732,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+3,1,"19:36",2376,2376,"Algevon Eichelberger made Free Throw.",0,1,-1,0,0.832047683638768,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+4,1,"19:36",2376,2376,"Algevon Eichelberger made Free Throw.",0,2,-2,8,0.818331793230206,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+5,1,"19:28",2368,2368,"Foul on Seth Millner.",0,2,-2,0,0.823575442991296,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+6,1,"19:28",2368,2368,"Shanquan Hemphill missed Free Throw.",0,2,-2,0,0.823575442991296,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+7,1,"19:28",2368,2368,"Green Bay Deadball Team Rebound.",0,2,-2,0,0.823575442991296,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+8,1,"19:28",2368,2368,"Shanquan Hemphill made Free Throw.",1,2,-1,14,0.828393314732922,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+9,1,"19:14",2354,2354,"Tyree Appleby missed Jumper.",1,2,-1,0,0.837969684385029,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+10,1,"19:14",2354,2354,"Cody Schwartz Defensive Rebound.",1,2,-1,5,0.837969684385029,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+11,1,"19:09",2349,2349,"JayQuan McCloud Turnover.",1,2,-1,29,0.822875740216245,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+12,1,"18:40",2320,2320,"Seth Millner missed Jumper.",1,2,-1,0,0.828279801252622,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+13,1,"18:40",2320,2320,"JayQuan McCloud Defensive Rebound.",1,2,-1,12,0.828279801252622,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+14,1,"18:28",2308,2308,"PJ Pipes missed Three Point Jumper.",1,2,-1,0,0.814892053536264,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+15,1,"18:28",2308,2308,"Cleveland State Defensive Rebound.",1,2,-1,7,0.814892053536264,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+16,1,"18:21",2301,2301,"Algevon Eichelberger made Layup. Assisted by Tyree Appleby.",1,4,-3,7,0.782974384369336,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+17,1,"18:14",2294,2294,"Sandy Cohen III made Three Point Jumper.",4,4,0,29,0.840565390302181,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+18,1,"17:45",2265,2265,"Jaalam Hill made Layup. Assisted by Algevon Eichelberger.",4,6,-2,22,0.808507846331524,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+19,1,"17:23",2243,2243,"JayQuan McCloud made Three Point Jumper.",7,6,1,34,0.83922966370723,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+20,1,"16:49",2209,2209,"Kasheem Thomas made Three Point Jumper. Assisted by Tyree Appleby.",7,9,-2,10,0.799473595939386,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+21,1,"16:39",2199,2199,"Sandy Cohen III made Three Point Jumper. Assisted by JayQuan McCloud.",10,9,1,22,0.857024963142265,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+22,1,"16:17",2177,2177,"Tyree Appleby Turnover.",10,9,1,13,0.8438993959546,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+23,1,"16:04",2164,2164,"Cody Schwartz missed Jumper.",10,9,1,0,0.843945587438898,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+24,1,"16:04",2164,2164,"Deante Johnson Defensive Rebound.",10,9,1,10,0.843945587438898,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+25,1,"15:54",2154,2154,"Tyree Appleby made Jumper.",10,11,-1,11,0.809480751762945,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+26,1,"15:43",2143,2143,"PJ Pipes made Jumper.",12,11,1,19,0.849641072934343,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+27,1,"15:24",2124,2124,"Jaalam Hill missed Jumper.",12,11,1,0,0.842952385450599,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+28,1,"15:24",2124,2124,"Deante Johnson Offensive Rebound.",12,11,1,3,0.842952385450599,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+29,1,"15:21",2121,2121,"Deante Johnson made Layup.",12,13,-1,5,0.810173041023445,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+30,1,"15:16",2116,2116,"Sandy Cohen III missed Three Point Jumper.",12,13,-1,0,0.820502280056809,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+31,1,"15:16",2116,2116,"Deante Johnson Defensive Rebound.",12,13,-1,9,0.820502280056809,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+32,1,"15:07",2107,2107,"Tyree Appleby missed Three Point Jumper.",12,13,-1,0,0.80837845444198,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+33,1,"15:07",2107,2107,"PJ Pipes Defensive Rebound.",12,13,-1,14,0.80837845444198,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+34,1,"14:53",2093,2093,"Shanquan Hemphill missed Jumper.",12,13,-1,0,0.802166938626863,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+35,1,"14:53",2093,2093,"Seth Millner Defensive Rebound.",12,13,-1,17,0.802166938626863,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+36,1,"14:36",2076,2076,"Jaalam Hill Turnover.",12,13,-1,2,0.81457767324515,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+37,1,"14:34",2074,2074,"Official TV Timeout",12,13,-1,23,0.81457767324515,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+38,1,"14:11",2051,2051,"Kameron Hankerson missed Jumper.",12,13,-1,0,0.817800158808753,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+39,1,"14:11",2051,2051,"Manny Patterson Offensive Rebound.",12,13,-1,3,0.817800158808753,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+40,1,"14:08",2048,2048,"Manny Patterson missed Layup.",12,13,-1,0,0.800234577192001,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+41,1,"14:08",2048,2048,"Deante Johnson Defensive Rebound.",12,13,-1,9,0.800234577192001,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+42,1,"13:59",2039,2039,"Stefan Kenic made Three Point Jumper. Assisted by Tyree Appleby.",12,16,-4,24,0.771306867800588,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+43,1,"13:35",2015,2015,"Kameron Hankerson made Three Point Jumper. Assisted by Trevian Bell.",15,16,-1,19,0.810832282013781,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+44,1,"13:16",1996,1996,"Tyree Appleby missed Layup.",15,16,-1,0,0.807071228549044,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+45,1,"13:16",1996,1996,"T.J. Parham Defensive Rebound.",15,16,-1,12,0.807071228549044,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+46,1,"13:04",1984,1984,"Kameron Hankerson missed Three Point Jumper.",15,16,-1,0,0.789887919033103,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+47,1,"13:04",1984,1984,"Hunter Crist Offensive Rebound.",15,16,-1,2,0.789887919033103,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+48,1,"13:02",1982,1982,"Hunter Crist made Layup.",17,16,1,12,0.828303764660119,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+49,1,"12:50",1970,1970,"Stefan Kenic missed Layup.",17,16,1,0,0.848834220826012,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+50,1,"12:50",1970,1970,"Manny Patterson Block.",17,16,1,0,0.848834220826012,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+51,1,"12:50",1970,1970,"Cleveland State Offensive Rebound.",17,16,1,4,0.848834220826012,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+52,1,"12:46",1966,1966,"Foul on Kameron Hankerson.",17,16,1,2,0.839282873055588,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+53,1,"12:44",1964,1964,"Foul on Manny Patterson.",17,16,1,10,0.839282873055588,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+54,1,"12:34",1954,1954,"Stefan Kenic Turnover.",17,16,1,11,0.838767820618872,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+55,1,"12:23",1943,1943,"T.J. Parham missed Three Point Jumper.",17,16,1,0,0.83814190773132,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+56,1,"12:23",1943,1943,"Stefan Kenic Defensive Rebound.",17,16,1,10,0.83814190773132,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+57,1,"12:13",1933,1933,"Stefan Kenic missed Three Point Jumper.",17,16,1,0,0.831553499300472,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+58,1,"12:13",1933,1933,"Dontel Highsmith Offensive Rebound.",17,16,1,6,0.831553499300472,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+59,1,"12:07",1927,1927,"Deante Johnson missed Layup.",17,16,1,0,0.843691557365181,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+60,1,"12:07",1927,1927,"Manny Patterson Defensive Rebound.",17,16,1,8,0.843691557365181,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+61,1,"11:59",1919,1919,"T.J. Parham missed Jumper.",17,16,1,0,0.847277031476789,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+62,1,"11:59",1919,1919,"Hunter Crist Offensive Rebound.",17,16,1,4,0.847277031476789,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+63,1,"11:55",1915,1915,"Hunter Crist missed Three Point Jumper.",17,16,1,0,0.847277031476789,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+64,1,"11:55",1915,1915,"Manny Patterson Offensive Rebound.",17,16,1,3,0.847277031476789,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+65,1,"11:52",1912,1912,"Manny Patterson Turnover.",17,16,1,1,0.847277031476789,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+66,1,"11:51",1911,1911,"Stefan Kenic Steal.",17,16,1,20,0.847277031476789,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+67,1,"11:31",1891,1891,"Foul on Hunter Crist.",17,16,1,3,0.836844426897012,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+68,1,"11:28",1888,1888,"Official TV Timeout",17,16,1,5,0.838167743814716,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+69,1,"11:23",1883,1883,"Jaalam Hill made Jumper.",17,18,-1,18,0.801744726151928,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+70,1,"11:05",1865,1865,"JayQuan McCloud Turnover.",17,18,-1,4,0.796139072996589,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+71,1,"11:01",1861,1861,"Rashad Williams missed Three Point Jumper.",17,18,-1,6,0.796139072996589,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+72,1,"10:55",1855,1855,"Sandy Cohen III Defensive Rebound.",17,18,-1,10,0.798085212379544,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+73,1,"10:45",1845,1845,"PJ Pipes missed Three Point Jumper.",17,18,-1,1,0.79112164762189,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+74,1,"10:44",1844,1844,"Manny Patterson Offensive Rebound.",17,18,-1,10,0.79112164762189,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+75,1,"10:34",1834,1834,"Foul on Algevon Eichelberger.",17,18,-1,0,0.793122459331615,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+76,1,"10:34",1834,1834,"JayQuan McCloud missed Free Throw.",17,18,-1,0,0.793122459331615,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+77,1,"10:34",1834,1834,"Green Bay Deadball Team Rebound.",17,18,-1,0,0.793122459331615,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+78,1,"10:34",1834,1834,"JayQuan McCloud made Free Throw.",18,18,0,23,0.813191391345133,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+79,1,"10:11",1811,1811,"Algevon Eichelberger Turnover.",18,18,0,15,0.816737224885061,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+80,1,"9:56",1796,1796,"JayQuan McCloud missed Three Point Jumper.",18,18,0,0,0.805140236880926,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+81,1,"9:56",1796,1796,"Jaalam Hill Defensive Rebound.",18,18,0,6,0.805140236880926,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+82,1,"9:50",1790,1790,"Foul on Sandy Cohen III.",18,18,0,0,0.805140236880926,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+83,1,"9:50",1790,1790,"Algevon Eichelberger missed Free Throw.",18,18,0,0,0.805140236880926,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+84,1,"9:50",1790,1790,"Cleveland State Deadball Team Rebound.",18,18,0,0,0.805140236880926,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+85,1,"9:50",1790,1790,"Algevon Eichelberger made Free Throw.",18,19,-1,23,0.783921786337922,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+86,1,"9:27",1767,1767,"Shanquan Hemphill made Jumper. Assisted by Sandy Cohen III.",20,19,1,13,0.841996495275895,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+87,1,"9:14",1754,1754,"Foul on JayQuan McCloud.",20,19,1,7,0.829655944118593,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+88,1,"9:07",1747,1747,"Rashad Williams missed Jumper.",20,19,1,0,0.827848200761095,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+89,1,"9:07",1747,1747,"Shanquan Hemphill Defensive Rebound.",20,19,1,0,0.827848200761095,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+90,1,"9:07",1747,1747,"Foul on Jaalam Hill.",20,19,1,22,0.827848200761095,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+91,1,"8:45",1725,1725,"Sandy Cohen III missed Jumper.",20,19,1,0,0.820519857673686,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+92,1,"8:45",1725,1725,"Cody Schwartz Offensive Rebound.",20,19,1,9,0.820519857673686,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+93,1,"8:36",1716,1716,"Cody Schwartz missed Three Point Jumper.",20,19,1,0,0.839511632205266,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+94,1,"8:36",1716,1716,"Deante Johnson Defensive Rebound.",20,19,1,14,0.839511632205266,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+95,1,"8:22",1702,1702,"Stefan Kenic missed Three Point Jumper.",20,19,1,0,0.823845533764407,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+96,1,"8:22",1702,1702,"Deante Johnson Offensive Rebound.",20,19,1,3,0.823845533764407,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+97,1,"8:19",1699,1699,"Deante Johnson made Layup.",20,21,-1,29,0.784563752416893,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+98,1,"7:50",1670,1670,"Sandy Cohen III made Three Point Jumper.",23,21,2,13,0.850782381997662,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+99,1,"7:37",1657,1657,"Stefan Kenic missed Jumper.",23,21,2,0,0.843232890810796,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+100,1,"7:37",1657,1657,"Seth Millner Offensive Rebound.",23,21,2,3,0.843232890810796,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+101,1,"7:34",1654,1654,"Seth Millner Turnover.",23,21,2,0,0.843232890810796,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+102,1,"7:34",1654,1654,"Sandy Cohen III Steal.",23,21,2,2,0.843232890810796,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+103,1,"7:32",1652,1652,"Official TV Timeout",23,21,2,11,0.843232890810796,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+104,1,"7:21",1641,1641,"Sandy Cohen III missed Jumper.",23,21,2,0,0.850530088487041,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+105,1,"7:21",1641,1641,"Seth Millner Defensive Rebound.",23,21,2,7,0.850530088487041,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+106,1,"7:14",1634,1634,"Rashad Williams missed Three Point Jumper.",23,21,2,0,0.846655188561573,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+107,1,"7:14",1634,1634,"PJ Pipes Defensive Rebound.",23,21,2,5,0.846655188561573,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+108,1,"7:09",1629,1629,"PJ Pipes Turnover.",23,21,2,0,0.845135114475141,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+109,1,"7:09",1629,1629,"Foul on PJ Pipes.",23,21,2,10,0.845135114475141,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+110,1,"6:59",1619,1619,"Seth Millner missed Dunk.",23,21,2,0,0.832436858386304,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+111,1,"6:59",1619,1619,"Sandy Cohen III Block.",23,21,2,1,0.832436858386304,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+112,1,"6:58",1618,1618,"Deante Johnson Offensive Rebound.",23,21,2,5,0.832436858386304,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+113,1,"6:53",1613,1613,"Deante Johnson missed Jumper.",23,21,2,0,0.832436858386304,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+114,1,"6:53",1613,1613,"Jaalam Hill Offensive Rebound.",23,21,2,6,0.832436858386304,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+115,1,"6:47",1607,1607,"Jaalam Hill Turnover.",23,21,2,1,0.84548378137672,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+116,1,"6:46",1606,1606,"Shanquan Hemphill Steal.",23,21,2,3,0.84548378137672,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+117,1,"6:43",1603,1603,"PJ Pipes made Three Point Jumper. Assisted by Shanquan Hemphill.",26,21,5,29,0.89029056804698,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+118,1,"6:14",1574,1574,"Dontel Highsmith made Layup.",26,23,3,17,0.869304248620497,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+119,1,"5:57",1557,1557,"Shanquan Hemphill missed Jumper.",26,23,3,0,0.853758533754061,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+120,1,"5:57",1557,1557,"Deante Johnson Defensive Rebound.",26,23,3,15,0.853758533754061,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+121,1,"5:42",1542,1542,"Tyree Appleby missed Three Point Jumper.",26,23,3,0,0.864422919162878,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+122,1,"5:42",1542,1542,"Sandy Cohen III Defensive Rebound.",26,23,3,7,0.864422919162878,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+123,1,"5:35",1535,1535,"Kameron Hankerson missed Jumper.",26,23,3,0,0.86383285768785,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+124,1,"5:35",1535,1535,"Dontel Highsmith Defensive Rebound.",26,23,3,30,0.86383285768785,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+125,1,"5:05",1505,1505,"Tyree Appleby missed Three Point Jumper.",26,23,3,0,0.85925303598873,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+126,1,"5:05",1505,1505,"PJ Pipes Defensive Rebound.",26,23,3,4,0.85925303598873,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+127,1,"5:01",1501,1501,"Foul on Tyree Appleby.",26,23,3,11,0.85925303598873,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+128,1,"4:50",1490,1490,"JayQuan McCloud Turnover.",26,23,3,33,0.864773681646208,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+129,1,"4:17",1457,1457,"Kasheem Thomas missed Jumper.",26,23,3,0,0.855896051346096,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+130,1,"4:17",1457,1457,"Algevon Eichelberger Offensive Rebound.",26,23,3,7,0.855896051346096,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+131,1,"4:10",1450,1450,"Dontel Highsmith missed Three Point Jumper.",26,23,3,0,0.855896051346096,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+132,1,"4:10",1450,1450,"Algevon Eichelberger Offensive Rebound.",26,23,3,3,0.855896051346096,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+133,1,"4:07",1447,1447,"Algevon Eichelberger made Layup.",26,25,1,14,0.830736671038348,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+134,1,"3:53",1433,1433,"Foul on Jaalam Hill.",26,25,1,0,0.81546713556452,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+135,1,"3:53",1433,1433,"Official TV Timeout",26,25,1,0,0.81546713556452,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+136,1,"3:53",1433,1433,"Sandy Cohen III made Free Throw.",27,25,2,0,0.83685875522816,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+137,1,"3:53",1433,1433,"Sandy Cohen III made Free Throw.",28,25,3,8,0.856207854842412,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+138,1,"3:45",1425,1425,"Tyree Appleby made Layup.",28,27,1,5,0.805078875663679,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+139,1,"3:40",1420,1420,"Kameron Hankerson made Layup. Assisted by Sandy Cohen III.",30,27,3,24,0.846554762148088,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+140,1,"3:16",1396,1396,"Tyree Appleby Turnover.",30,27,3,1,0.865486815289033,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+141,1,"3:15",1395,1395,"Kameron Hankerson Steal.",30,27,3,9,0.865486815289033,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+142,1,"3:06",1386,1386,"Sandy Cohen III missed Three Point Jumper.",30,27,3,0,0.861819898612482,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+143,1,"3:06",1386,1386,"Seth Millner Defensive Rebound.",30,27,3,31,0.861819898612482,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+144,1,"2:35",1355,1355,"Seth Millner missed Jumper.",30,27,3,0,0.862664865913017,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+145,1,"2:35",1355,1355,"JayQuan McCloud Defensive Rebound.",30,27,3,6,0.862664865913017,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+146,1,"2:29",1349,1349,"JayQuan McCloud made Three Point Jumper. Assisted by Sandy Cohen III.",33,27,6,11,0.899560803229044,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+147,1,"2:18",1338,1338,"Cleveland State  Timeout",33,27,6,0,0.89813301661456,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+148,1,"2:18",1338,1338,"Foul on Kameron Hankerson.",33,27,6,0,0.89813301661456,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+149,1,"2:18",1338,1338,"Tyree Appleby made Free Throw.",33,28,5,0,0.882992368400359,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+150,1,"2:18",1338,1338,"Tyree Appleby made Free Throw.",33,29,4,15,0.8659372520991,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+151,1,"2:03",1323,1323,"Josh McNair missed Jumper.",33,29,4,0,0.874608682046754,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+152,1,"2:03",1323,1323,"Kasheem Thomas Defensive Rebound.",33,29,4,14,0.874608682046754,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+153,1,"1:49",1309,1309,"Seth Millner Turnover.",33,29,4,15,0.862563544638916,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+154,1,"1:34",1294,1294,"JayQuan McCloud missed Jumper.",33,29,4,0,0.876924081694644,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+155,1,"1:34",1294,1294,"Josh McNair Offensive Rebound.",33,29,4,2,0.876924081694644,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+156,1,"1:32",1292,1292,"Josh McNair missed Jumper.",33,29,4,0,0.876924081694644,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+157,1,"1:32",1292,1292,"Josh McNair Offensive Rebound.",33,29,4,3,0.876924081694644,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+158,1,"1:29",1289,1289,"Josh McNair Turnover.",33,29,4,1,0.875543502524021,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+159,1,"1:28",1288,1288,"Tyree Appleby Steal.",33,29,4,2,0.875543502524021,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+160,1,"1:26",1286,1286,"Tyree Appleby missed Layup.",33,29,4,0,0.875543502524021,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+161,1,"1:26",1286,1286,"Sandy Cohen III Block.",33,29,4,2,0.875543502524021,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+162,1,"1:24",1284,1284,"Trevian Bell Defensive Rebound.",33,29,4,4,0.875543502524021,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+163,1,"1:20",1280,1280,"Josh McNair made Layup. Assisted by JayQuan McCloud.",35,29,6,26,0.904690690548582,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+164,1,"0:54",1254,1254,"Stefan Kenic made Three Point Jumper.",35,32,3,12,0.841313191432877,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+165,1,"0:42",1242,1242,"Foul on Deante Johnson.",35,32,3,0,0.855338059501614,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+166,1,"0:42",1242,1242,"Trevian Bell missed Free Throw.",35,32,3,0,0.855338059501614,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+167,1,"0:42",1242,1242,"Green Bay Deadball Team Rebound.",35,32,3,0,0.855338059501614,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+168,1,"0:42",1242,1242,"Trevian Bell made Free Throw.",36,32,4,7,0.87346398490955,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+169,1,"0:35",1235,1235,"Tyree Appleby missed Layup.",36,32,4,0,0.865107938545354,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+170,1,"0:35",1235,1235,"Shanquan Hemphill Defensive Rebound.",36,32,4,3,0.865107938545354,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+171,1,"0:32",1232,1232,"Green Bay  Timeout",36,32,4,27,0.865107938545354,"Green Bay","Cleveland State",3,3,0,1,9,"401088475",2019-01-05
+172,1,"0:05",1205,1205,"Sandy Cohen III made Three Point Jumper.",39,32,7,5,0.915915094367606,"Green Bay","Cleveland State",3,3,0,1,9,"401088475",2019-01-05
+173,1,"0:00",1200,1200,"Kasheem Thomas missed Three Point Jumper.",39,32,7,0,0.915915094367606,"Green Bay","Cleveland State",3,3,0,1,9,"401088475",2019-01-05
+174,1,"0:00",1200,1200,"Green Bay Defensive Rebound.",39,32,7,0,0.915915094367606,"Green Bay","Cleveland State",3,3,0,1,9,"401088475",2019-01-05
+175,1,"0:00",1200,1200,"End of 1st half",39,32,7,0,0.915915094367606,"Green Bay","Cleveland State",3,3,0,1,9,"401088475",2019-01-05
+176,2,"20:00",1200,1200,"PLAY",39,32,7,18,0.915915094367606,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+177,2,"19:42",1182,1182,"Sandy Cohen III made Layup. Assisted by JayQuan McCloud.",41,32,9,0,0.940961432318457,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+178,2,"19:42",1182,1182,"Foul on Kasheem Thomas.",41,32,9,0,0.940961432318457,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+179,2,"19:42",1182,1182,"Sandy Cohen III made Free Throw.",42,32,10,10,0.949514115192877,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+180,2,"19:32",1172,1172,"Foul on Cody Schwartz.",42,32,10,0,0.945533414324201,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+181,2,"19:32",1172,1172,"Algevon Eichelberger missed Free Throw.",42,32,10,0,0.945533414324201,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+182,2,"19:32",1172,1172,"Cleveland State Deadball Team Rebound.",42,32,10,0,0.945533414324201,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+183,2,"19:32",1172,1172,"Algevon Eichelberger made Free Throw.",42,33,9,10,0.936410313572851,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+184,2,"19:22",1162,1162,"Foul on Seth Millner.",42,33,9,0,0.938325729248008,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+185,2,"19:22",1162,1162,"Shanquan Hemphill missed Free Throw.",42,33,9,0,0.938325729248008,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+186,2,"19:22",1162,1162,"Green Bay Deadball Team Rebound.",42,33,9,0,0.938325729248008,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+187,2,"19:22",1162,1162,"Shanquan Hemphill made Free Throw.",43,33,10,16,0.947204600185479,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+188,2,"19:06",1146,1146,"Tyree Appleby missed Three Point Jumper.",43,33,10,0,0.947933598815594,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+189,2,"19:06",1146,1146,"Seth Millner Offensive Rebound.",43,33,10,5,0.947933598815594,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+190,2,"19:01",1141,1141,"Seth Millner missed Layup.",43,33,10,0,0.947933598815594,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+191,2,"19:01",1141,1141,"Sandy Cohen III Block.",43,33,10,2,0.947933598815594,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+192,2,"18:59",1139,1139,"Seth Millner Offensive Rebound.",43,33,10,2,0.948889563619062,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+193,2,"18:57",1137,1137,"Seth Millner missed Layup.",43,33,10,0,0.948889563619062,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+194,2,"18:57",1137,1137,"Cleveland State Offensive Rebound.",43,33,10,4,0.948889563619062,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+195,2,"18:53",1133,1133,"Jaalam Hill made Layup.",43,35,8,14,0.930586033470101,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+196,2,"18:39",1119,1119,"JayQuan McCloud missed Jumper.",43,35,8,0,0.929365494883955,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+197,2,"18:39",1119,1119,"Tyree Appleby Defensive Rebound.",43,35,8,6,0.929365494883955,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+198,2,"18:33",1113,1113,"Tyree Appleby made Layup.",43,37,6,22,0.903003497578661,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+199,2,"18:11",1091,1091,"Cody Schwartz Turnover.",43,37,6,0,0.91000596986312,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+200,2,"18:11",1091,1091,"Foul on Cody Schwartz.",43,37,6,8,0.91000596986312,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+201,2,"18:03",1083,1083,"Deante Johnson Turnover.",43,37,6,0,0.911707608099183,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+202,2,"18:03",1083,1083,"Foul on Deante Johnson.",43,37,6,12,0.911707608099183,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+203,2,"17:51",1071,1071,"Foul on Jaalam Hill.",43,37,6,7,0.901204978853251,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+204,2,"17:44",1064,1064,"PJ Pipes missed Three Point Jumper.",43,37,6,0,0.904129912593821,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+205,2,"17:44",1064,1064,"Deante Johnson Defensive Rebound.",43,37,6,7,0.904129912593821,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+206,2,"17:37",1057,1057,"Kasheem Thomas missed Layup.",43,37,6,0,0.909936174641514,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+207,2,"17:37",1057,1057,"Cody Schwartz Block.",43,37,6,2,0.909936174641514,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+208,2,"17:35",1055,1055,"Sandy Cohen III Defensive Rebound.",43,37,6,4,0.909936174641514,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+209,2,"17:31",1051,1051,"Sandy Cohen III Turnover.",43,37,6,1,0.909936174641514,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+210,2,"17:30",1050,1050,"Tyree Appleby Steal.",43,37,6,5,0.909936174641514,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+211,2,"17:25",1045,1045,"Deante Johnson made Layup. Assisted by Tyree Appleby.",43,39,4,10,0.878361169851664,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+212,2,"17:15",1035,1035,"Sandy Cohen III missed Jumper.",43,39,4,0,0.868171100787946,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+213,2,"17:15",1035,1035,"Dontel Highsmith Defensive Rebound.",43,39,4,26,0.868171100787946,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+214,2,"16:49",1009,1009,"Stefan Kenic Turnover.",43,39,4,1,0.862906959317159,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+215,2,"16:48",1008,1008,"Sandy Cohen III Steal.",43,39,4,9,0.862906959317159,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+216,2,"16:39",999,999,"Trevian Bell missed Three Point Jumper.",43,39,4,0,0.863480066327937,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+217,2,"16:39",999,999,"Tyree Appleby Defensive Rebound.",43,39,4,12,0.863480066327937,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+218,2,"16:27",987,987,"Stefan Kenic missed Jumper.",43,39,4,0,0.875076113660312,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+219,2,"16:27",987,987,"Sandy Cohen III Defensive Rebound.",43,39,4,7,0.875076113660312,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+220,2,"16:20",980,980,"Shanquan Hemphill missed Jumper.",43,39,4,0,0.875076113660312,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+221,2,"16:20",980,980,"Shanquan Hemphill Offensive Rebound.",43,39,4,28,0.875076113660312,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+222,2,"15:52",952,952,"Sandy Cohen III missed Three Point Jumper.",43,39,4,0,0.876408926982611,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+223,2,"15:52",952,952,"Dontel Highsmith Defensive Rebound.",43,39,4,18,0.876408926982611,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+224,2,"15:34",934,934,"Dontel Highsmith made Three Point Jumper. Assisted by Kasheem Thomas.",43,42,1,7,0.788779106057964,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+225,2,"15:27",927,927,"Official TV Timeout",43,42,1,0,0.771964551273372,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+226,2,"15:27",927,927,"Shanquan Hemphill made Layup. Assisted by PJ Pipes.",45,42,3,24,0.832909177623244,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+227,2,"15:03",903,903,"Dontel Highsmith made Layup.",45,44,1,14,0.784517677801926,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+228,2,"14:49",889,889,"PJ Pipes Turnover.",45,44,1,0,0.777807683473341,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+229,2,"14:49",889,889,"Foul on PJ Pipes.",45,44,1,25,0.777807683473341,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+230,2,"14:24",864,864,"Kasheem Thomas missed Layup.",45,44,1,0,0.783819965056701,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+231,2,"14:24",864,864,"Kasheem Thomas Offensive Rebound.",45,44,1,6,0.783819965056701,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+232,2,"14:18",858,858,"Rashad Williams made Three Point Jumper. Assisted by Kasheem Thomas.",45,47,-2,30,0.676912079151669,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+233,2,"13:48",828,828,"Kameron Hankerson missed Three Point Jumper.",45,47,-2,0,0.682478889692802,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+234,2,"13:48",828,828,"Deante Johnson Defensive Rebound.",45,47,-2,10,0.682478889692802,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+235,2,"13:38",818,818,"Kasheem Thomas missed Layup.",45,47,-2,0,0.674078969763679,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+236,2,"13:38",818,818,"Sandy Cohen III Defensive Rebound.",45,47,-2,6,0.674078969763679,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+237,2,"13:32",812,812,"Sandy Cohen III made Layup.",47,47,0,33,0.753790269899241,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+238,2,"12:59",779,779,"Deante Johnson made Layup. Assisted by Dontel Highsmith.",47,49,-2,12,0.662189354544557,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+239,2,"12:47",767,767,"Trevian Bell made Dunk. Assisted by Sandy Cohen III.",49,49,0,0,0.770171054035052,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+240,2,"12:47",767,767,"Official TV Timeout",49,49,0,18,0.770171054035052,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+241,2,"12:29",749,749,"Rashad Williams made Three Point Jumper. Assisted by Tyree Appleby.",49,52,-3,14,0.593343645817953,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+242,2,"12:15",735,735,"JayQuan McCloud made Layup.",51,52,-1,26,0.688217211959856,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+243,2,"11:49",709,709,"Seth Millner made Three Point Jumper.",51,55,-4,20,0.541125772607126,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+244,2,"11:29",689,689,"Foul on Seth Millner.",51,55,-4,0,0.532147710832804,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+245,2,"11:29",689,689,"Official TV Timeout",51,55,-4,0,0.532147710832804,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+246,2,"11:29",689,689,"Sandy Cohen III made Free Throw.",52,55,-3,0,0.587180159904711,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+247,2,"11:29",689,689,"Sandy Cohen III made Free Throw.",53,55,-2,20,0.640117082029616,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+248,2,"11:09",669,669,"Seth Millner missed Three Point Jumper.",53,55,-2,0,0.642474318369034,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+249,2,"11:09",669,669,"Seth Millner Offensive Rebound.",53,55,-2,2,0.642474318369034,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+250,2,"11:07",667,667,"Seth Millner missed Jumper.",53,55,-2,0,0.642474318369034,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+251,2,"11:07",667,667,"Kameron Hankerson Defensive Rebound.",53,55,-2,12,0.642474318369034,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+252,2,"10:55",655,655,"JayQuan McCloud missed Three Point Jumper.",53,55,-2,0,0.636678973543802,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+253,2,"10:55",655,655,"Cleveland State Defensive Rebound.",53,55,-2,13,0.636678973543802,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+254,2,"10:42",642,642,"Kasheem Thomas missed Three Point Jumper.",53,55,-2,0,0.628344943711223,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+255,2,"10:42",642,642,"Cleveland State Offensive Rebound.",53,55,-2,2,0.628344943711223,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+256,2,"10:40",640,640,"Tyree Appleby made Three Point Jumper. Assisted by Deante Johnson.",53,58,-5,13,0.451553820896617,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+257,2,"10:27",627,627,"Manny Patterson made Layup. Assisted by Sandy Cohen III.",55,58,-3,0,0.58347068660239,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+258,2,"10:27",627,627,"Foul on Deante Johnson.",55,58,-3,0,0.58347068660239,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+259,2,"10:27",627,627,"Manny Patterson made Free Throw.",56,58,-2,25,0.643017555521709,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+260,2,"10:02",602,602,"Algevon Eichelberger missed Layup.",56,58,-2,0,0.632820168338219,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+261,2,"10:02",602,602,"Sandy Cohen III Defensive Rebound.",56,58,-2,9,0.632820168338219,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+262,2,"9:53",593,593,"Trevian Bell missed Jumper.",56,58,-2,0,0.620423757703693,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+263,2,"9:53",593,593,"Cleveland State Defensive Rebound.",56,58,-2,18,0.620423757703693,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+264,2,"9:35",575,575,"Rashad Williams made Three Point Jumper. Assisted by Tyree Appleby.",56,61,-5,14,0.450276045540425,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+265,2,"9:21",561,561,"Manny Patterson missed Layup.",56,61,-5,0,0.45234724446109,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+266,2,"9:21",561,561,"Algevon Eichelberger Block.",56,61,-5,1,0.45234724446109,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+267,2,"9:20",560,560,"Seth Millner Defensive Rebound.",56,61,-5,13,0.45234724446109,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+268,2,"9:07",547,547,"Tyree Appleby made Three Point Jumper.",56,64,-8,0,0.217851875423449,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+269,2,"9:07",547,547,"Foul on Sandy Cohen III.",56,64,-8,0,0.217851875423449,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+270,2,"9:07",547,547,"Tyree Appleby made Free Throw.",56,65,-9,17,0.175629267259689,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+271,2,"8:50",530,530,"Sandy Cohen III Turnover.",56,65,-9,1,0.186361188779686,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+272,2,"8:49",529,529,"Algevon Eichelberger Steal.",56,65,-9,10,0.170741640287747,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+273,2,"8:39",519,519,"Foul on Shanquan Hemphill.",56,65,-9,0,0.169953948212551,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+274,2,"8:39",519,519,"Algevon Eichelberger made Free Throw.",56,66,-10,0,0.135112106065889,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+275,2,"8:39",519,519,"Algevon Eichelberger made Free Throw.",56,67,-11,13,0.106496662985899,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+276,2,"8:26",506,506,"PJ Pipes missed Three Point Jumper.",56,67,-11,0,0.118957371599956,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+277,2,"8:26",506,506,"Kasheem Thomas Defensive Rebound.",56,67,-11,17,0.118957371599956,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+278,2,"8:09",489,489,"Foul on Manny Patterson.",56,67,-11,0,0.109691212777242,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+279,2,"8:09",489,489,"Tyree Appleby made Free Throw.",56,68,-12,0,0.0857010698470467,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+280,2,"8:09",489,489,"Tyree Appleby made Free Throw.",56,69,-13,27,0.0665654335230311,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+281,2,"7:42",462,462,"Sandy Cohen III Turnover.",56,69,-13,1,0.0594838197145341,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+282,2,"7:41",461,461,"Dontel Highsmith Steal.",56,69,-13,3,0.0594838197145341,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+283,2,"7:38",458,458,"Seth Millner made Dunk. Assisted by Dontel Highsmith.",56,71,-15,3,0.0188622909005249,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+284,2,"7:35",455,455,"Official TV Timeout",56,71,-15,14,0.0188622909005249,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+285,2,"7:21",441,441,"JayQuan McCloud missed Jumper.",56,71,-15,0,0.0339701111825292,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+286,2,"7:21",441,441,"JayQuan McCloud Offensive Rebound.",56,71,-15,6,0.0339701111825292,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+287,2,"7:15",435,435,"Foul on Algevon Eichelberger.",56,71,-15,0,0.0252124333345185,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+288,2,"7:15",435,435,"Kameron Hankerson made Free Throw.",57,71,-14,0,0.0339846280814184,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+289,2,"7:15",435,435,"Kameron Hankerson made Free Throw.",58,71,-13,9,0.0456659609707173,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+290,2,"7:06",426,426,"Dontel Highsmith Turnover.",58,71,-13,1,0.0442786371905055,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+291,2,"7:05",425,425,"Josh McNair Steal.",58,71,-13,1,0.0442786371905055,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+292,2,"7:04",424,424,"Josh McNair made Layup.",60,71,-11,8,0.0774570332047727,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+293,2,"6:56",416,416,"Tyree Appleby made Layup.",60,73,-13,9,0.0460561927063998,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+294,2,"6:47",407,407,"Foul on Dontel Highsmith.",60,73,-13,0,0.0299172180522815,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+295,2,"6:47",407,407,"Kameron Hankerson made Free Throw.",61,73,-12,0,0.041124651265244,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+296,2,"6:47",407,407,"Kameron Hankerson made Free Throw.",62,73,-11,10,0.0562869478963687,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+297,2,"6:37",397,397,"Tyree Appleby made Layup.",62,75,-13,8,0.0399856904200618,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+298,2,"6:29",389,389,"Dontel Highsmith missed Jumper.",62,75,-13,0,0.0503632734712691,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+299,2,"6:29",389,389,"Dontel Highsmith Offensive Rebound.",62,75,-13,0,0.0503632734712691,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+300,2,"6:29",389,389,"Foul on Seth Millner.",62,75,-13,0,0.0503632734712691,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+301,2,"6:29",389,389,"JayQuan McCloud made Free Throw.",63,75,-12,0,0.0666470456724449,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+302,2,"6:29",389,389,"JayQuan McCloud missed Free Throw.",63,75,-12,0,0.0666470456724449,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+303,2,"6:29",389,389,"Rashad Williams Defensive Rebound.",63,75,-12,21,0.0666470456724449,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+304,2,"6:08",368,368,"Tyree Appleby made Three Point Jumper. Assisted by Kasheem Thomas.",63,78,-15,0,0.0170236918009131,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+305,2,"6:08",368,368,"Foul on Kameron Hankerson.",63,78,-15,0,0.0170236918009131,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+306,2,"6:08",368,368,"Tyree Appleby made Free Throw.",63,79,-16,7,0.0123849233850825,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+307,2,"6:01",361,361,"Sandy Cohen III Turnover.",63,79,-16,2,0.0123849233850825,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+308,2,"5:59",359,359,"Kasheem Thomas Steal.",63,79,-16,15,0.00894946217769386,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+309,2,"5:44",344,344,"Tyree Appleby missed Layup.",63,79,-16,0,0.00944308622236259,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+310,2,"5:44",344,344,"Algevon Eichelberger Offensive Rebound.",63,79,-16,1,0.00944308622236259,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+311,2,"5:43",343,343,"Algevon Eichelberger Turnover.",63,79,-16,0,0.00944308622236259,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+312,2,"5:43",343,343,"Foul on Algevon Eichelberger.",63,79,-16,19,0.00944308622236259,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+313,2,"5:24",324,324,"PJ Pipes made Three Point Jumper. Assisted by Sandy Cohen III.",66,79,-13,14,0.0381904168216756,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+314,2,"5:10",310,310,"Tyree Appleby missed Layup.",66,79,-13,0,0.0177125687661828,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+315,2,"5:10",310,310,"Shanquan Hemphill Block.",66,79,-13,2,0.0177125687661828,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+316,2,"5:08",308,308,"Cleveland State Offensive Rebound.",66,79,-13,8,0.0247553146980772,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+317,2,"5:00",300,300,"Kasheem Thomas made Layup.",66,81,-15,16,0.0127305914963347,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+318,2,"4:44",284,284,"JayQuan McCloud made Layup.",68,81,-13,13,0.0213001213803959,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+319,2,"4:31",271,271,"Rashad Williams Turnover.",68,81,-13,1,0.0131052435564357,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+320,2,"4:30",270,270,"JayQuan McCloud Steal.",68,81,-13,0,0.0131052435564357,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+321,2,"4:30",270,270,"JayQuan McCloud made Layup.",70,81,-11,1,0.0280659051847179,"Green Bay","Cleveland State",4,4,0,0,9,"401088475",2019-01-05
+322,2,"4:29",269,269,"Cleveland State  Timeout",70,81,-11,4,0.0343436703288808,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+323,2,"4:25",265,265,"Kasheem Thomas Turnover.",70,81,-11,11,0.0343436703288808,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+324,2,"4:14",254,254,"JayQuan McCloud made Three Point Jumper. Assisted by Shanquan Hemphill.",73,81,-8,13,0.0656300929969655,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+325,2,"4:01",241,241,"Rashad Williams made Three Point Jumper. Assisted by Rashad Williams.",73,84,-11,14,0.0227963107722691,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+326,2,"3:47",227,227,"JayQuan McCloud missed Jumper.",73,84,-11,0,0.0222515687938045,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+327,2,"3:47",227,227,"JayQuan McCloud Offensive Rebound.",73,84,-11,2,0.0222515687938045,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+328,2,"3:45",225,225,"Foul on Jaalam Hill.",73,84,-11,0,0.0222515687938045,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+329,2,"3:45",225,225,"JayQuan McCloud made Free Throw.",74,84,-10,0,0.0335894662023251,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+330,2,"3:45",225,225,"JayQuan McCloud made Free Throw.",75,84,-9,13,0.0504065635772217,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+331,2,"3:32",212,212,"Jaalam Hill missed Jumper.",75,84,-9,0,0.0366701979380166,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+332,2,"3:32",212,212,"Shanquan Hemphill Defensive Rebound.",75,84,-9,6,0.0366701979380166,"Green Bay","Cleveland State",3,4,1,0,9,"401088475",2019-01-05
+333,2,"3:26",206,206,"JayQuan McCloud missed Three Point Jumper.",75,84,-9,0,0.0383979199251796,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+334,2,"3:26",206,206,"Jaalam Hill Defensive Rebound.",75,84,-9,9,0.0383979199251796,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+335,2,"3:17",197,197,"Foul on PJ Pipes.",75,84,-9,0,0.0243092897433027,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+336,2,"3:17",197,197,"Tyree Appleby made Free Throw.",75,85,-10,0,0.0153640199222236,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+337,2,"3:17",197,197,"Tyree Appleby made Free Throw.",75,86,-11,20,0.00967775789739352,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+338,2,"2:57",177,177,"Foul on Dontel Highsmith.",75,86,-11,0,0.00898701516055627,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+339,2,"2:57",177,177,"Sandy Cohen III made Free Throw.",76,86,-10,0,0.0146173167477542,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+340,2,"2:57",177,177,"Sandy Cohen III made Free Throw.",77,86,-9,0,0.023690639701141,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+341,2,"2:57",177,177,"Sandy Cohen III made Free Throw.",78,86,-8,4,0.0381777861123599,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+342,2,"2:53",173,173,"Kasheem Thomas Turnover.",78,86,-8,6,0.0381777861123599,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+343,2,"2:47",167,167,"JayQuan McCloud made Layup. Assisted by Shanquan Hemphill.",80,86,-6,35,0.102071923252216,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+344,2,"2:12",132,132,"Seth Millner missed Layup.",80,86,-6,0,0.0683160740187026,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+345,2,"2:12",132,132,"Shanquan Hemphill Block.",80,86,-6,0,0.0683160740187026,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+346,2,"2:12",132,132,"Green Bay Defensive Rebound.",80,86,-6,13,0.0683160740187026,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+347,2,"1:59",119,119,"Foul on Rashad Williams.",80,86,-6,0,0.0492697040887818,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+348,2,"1:59",119,119,"JayQuan McCloud made Free Throw.",81,86,-5,0,0.0863464371907942,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+349,2,"1:59",119,119,"JayQuan McCloud made Free Throw.",82,86,-4,2,0.147010052659497,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+350,2,"1:57",117,117,"Foul on JayQuan McCloud.",82,86,-4,0,0.147010052659497,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+351,2,"1:57",117,117,"Tyree Appleby missed Free Throw.",82,86,-4,0,0.147010052659497,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+352,2,"1:57",117,117,"Sandy Cohen III Defensive Rebound.",82,86,-4,7,0.147010052659497,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+353,2,"1:50",110,110,"Sandy Cohen III made Layup.",84,86,-2,13,0.364340879562128,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+354,2,"1:37",97,97,"Tyree Appleby missed Layup.",84,86,-2,0,0.3068287275636,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+355,2,"1:37",97,97,"Cody Schwartz Defensive Rebound.",84,86,-2,8,0.3068287275636,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+356,2,"1:29",89,89,"JayQuan McCloud made Layup. Assisted by PJ Pipes.",86,86,0,4,0.6646743788568,"Green Bay","Cleveland State",3,4,0,0,9,"401088475",2019-01-05
+357,2,"1:25",85,85,"Cleveland State  Timeout",86,86,0,2,0.6646743788568,"Green Bay","Cleveland State",2,4,1,0,9,"401088475",2019-01-05
+358,2,"1:23",83,83,"Kasheem Thomas missed Free Throw.",86,86,0,0,0.6646743788568,"Green Bay","Cleveland State",2,4,1,0,9,"401088475",2019-01-05
+359,2,"1:23",83,83,"Cleveland State Deadball Team Rebound.",86,86,0,0,0.6646743788568,"Green Bay","Cleveland State",2,4,1,0,9,"401088475",2019-01-05
+360,2,"1:23",83,83,"Kasheem Thomas missed Free Throw.",86,86,0,0,0.6646743788568,"Green Bay","Cleveland State",2,4,1,0,9,"401088475",2019-01-05
+361,2,"1:23",83,83,"JayQuan McCloud Defensive Rebound.",86,86,0,19,0.6646743788568,"Green Bay","Cleveland State",2,4,1,0,9,"401088475",2019-01-05
+362,2,"1:04",64,64,"Sandy Cohen III made Jumper.",88,86,2,19,0.843783241381119,"Green Bay","Cleveland State",2,4,1,0,9,"401088475",2019-01-05
+363,2,"0:45",45,45,"Tyree Appleby missed Layup.",88,86,2,0,0.874992321739293,"Green Bay","Cleveland State",2,4,1,0,9,"401088475",2019-01-05
+364,2,"0:45",45,45,"Kameron Hankerson Block.",88,86,2,0,0.874992321739293,"Green Bay","Cleveland State",2,4,1,0,9,"401088475",2019-01-05
+365,2,"0:45",45,45,"Green Bay Defensive Rebound.",88,86,2,27,0.874992321739293,"Green Bay","Cleveland State",2,4,1,0,9,"401088475",2019-01-05
+366,2,"0:18",18,18,"Kameron Hankerson missed Jumper.",88,86,2,0,0.928305692442507,"Green Bay","Cleveland State",2,4,0,0,9,"401088475",2019-01-05
+367,2,"0:18",18,18,"Jaalam Hill Defensive Rebound.",88,86,2,10,0.928305692442507,"Green Bay","Cleveland State",2,4,0,0,9,"401088475",2019-01-05
+368,2,"0:08",8,8,"Rashad Williams made Three Point Jumper. Assisted by Tyree Appleby.",88,89,-1,1,0.245794211962833,"Green Bay","Cleveland State",2,4,0,0,9,"401088475",2019-01-05
+369,2,"0:07",7,7,"Green Bay  Timeout",88,89,-1,7,0.245794211962833,"Green Bay","Cleveland State",2,3,0,1,9,"401088475",2019-01-05
+370,2,"0:00",0,0,"Sandy Cohen III made Jumper.",90,89,1,0,0.99999999648523,"Green Bay","Cleveland State",2,3,0,1,9,"401088475",2019-01-05
+371,2,"0:00",0,0,"End of Game",90,89,1,0,0.99999999648523,"Green Bay","Cleveland State",2,3,0,1,9,"401088475",2019-01-05

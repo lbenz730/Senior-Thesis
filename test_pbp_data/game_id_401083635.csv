@@ -1,0 +1,342 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","play_length","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,30,0.929059287289444,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+2,1,"19:30",2370,2370,"Rickey Holden missed Three Point Jumper.",0,0,0,0,0.921374623701299,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+3,1,"19:30",2370,2370,"Zach Norvell Jr. Defensive Rebound.",0,0,0,10,0.921374623701299,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+4,1,"19:20",2360,2360,"Brandon Clarke missed Jumper.",0,0,0,0,0.913721680350777,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+5,1,"19:20",2360,2360,"Justin Edler-Davis Defensive Rebound.",0,0,0,32,0.913721680350777,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+6,1,"18:48",2328,2328,"Greg Lee missed Jumper.",0,0,0,0,0.918903622470792,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+7,1,"18:48",2328,2328,"Corey Kispert Defensive Rebound.",0,0,0,25,0.918903622470792,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+8,1,"18:23",2303,2303,"Corey Kispert missed Three Point Jumper.",0,0,0,0,0.91070175383594,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+9,1,"18:23",2303,2303,"Rickey Holden Defensive Rebound.",0,0,0,4,0.91070175383594,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+10,1,"18:19",2299,2299,"Rickey Holden Turnover.",0,0,0,1,0.918246694794587,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+11,1,"18:18",2298,2298,"Josh Perkins missed Jumper.",0,0,0,0,0.918246694794587,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+12,1,"18:18",2298,2298,"Greg Lee Defensive Rebound.",0,0,0,21,0.918246694794587,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+13,1,"17:57",2277,2277,"Rickey Holden Turnover.",0,0,0,9,0.916895695252482,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+14,1,"17:48",2268,2268,"Foul on Greg Lee.",0,0,0,0,0.921143020114081,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+15,1,"17:48",2268,2268,"Rui Hachimura made Free Throw.",1,0,1,0,0.929657624790162,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+16,1,"17:48",2268,2268,"Rui Hachimura made Free Throw.",2,0,2,16,0.937315426324842,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+17,1,"17:32",2252,2252,"Rickey Holden missed Three Point Jumper.",2,0,2,0,0.925182330542815,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+18,1,"17:32",2252,2252,"CSU Bakersfield Offensive Rebound.",2,0,2,2,0.925182330542815,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+19,1,"17:30",2250,2250,"Foul on Josh Perkins.",2,0,2,11,0.925182330542815,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+20,1,"17:19",2239,2239,"Foul on Brandon Clarke.",2,0,2,0,0.930769880939839,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+21,1,"17:19",2239,2239,"Rickey Holden made Free Throw.",2,1,1,0,0.923200264671815,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+22,1,"17:19",2239,2239,"Rickey Holden made Free Throw.",2,2,0,0,0.914878678876229,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+23,1,"17:19",2239,2239,"Corey Kispert Turnover.",2,2,0,19,0.914878678876229,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+24,1,"17:00",2220,2220,"Foul on Josh Perkins.",2,2,0,0,0.91608966616809,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+25,1,"17:00",2220,2220,"Greg Lee missed Free Throw.",2,2,0,0,0.91608966616809,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+26,1,"17:00",2220,2220,"CSU Bakersfield Deadball Team Rebound.",2,2,0,0,0.91608966616809,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+27,1,"17:00",2220,2220,"Greg Lee made Free Throw.",2,3,-1,21,0.907884412287277,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+28,1,"16:39",2199,2199,"Zach Norvell Jr. missed Three Point Jumper.",2,3,-1,0,0.909309386478195,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+29,1,"16:39",2199,2199,"Justin Edler-Davis Defensive Rebound.",2,3,-1,29,0.909309386478195,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+30,1,"16:10",2170,2170,"Rickey Holden made Three Point Jumper.",2,6,-4,10,0.867752243412472,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+31,1,"16:00",2160,2160,"Corey Kispert missed Three Point Jumper.",2,6,-4,0,0.865444268733903,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+32,1,"16:00",2160,2160,"James Suber Defensive Rebound.",2,6,-4,26,0.865444268733903,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+33,1,"15:34",2134,2134,"Justin Edler-Davis Turnover.",2,6,-4,1,0.863757028089024,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+34,1,"15:33",2133,2133,"Zach Norvell Jr. Steal.",2,6,-4,2,0.863757028089024,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+35,1,"15:31",2131,2131,"Zach Norvell Jr. made Layup.",4,6,-2,29,0.889826064827987,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+36,1,"15:02",2102,2102,"Greg Lee missed Jumper.",4,6,-2,0,0.885955198048359,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+37,1,"15:02",2102,2102,"Jeremy Jones Defensive Rebound.",4,6,-2,8,0.885955198048359,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+38,1,"14:54",2094,2094,"Foul on Justin Edler-Davis.",4,6,-2,0,0.878866044103746,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+39,1,"14:54",2094,2094,"Official TV Timeout",4,6,-2,0,0.878866044103746,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+40,1,"14:54",2094,2094,"Brandon Clarke made Free Throw.",5,6,-1,0,0.891463547677904,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+41,1,"14:54",2094,2094,"Brandon Clarke made Free Throw.",6,6,0,11,0.902895705460717,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+42,1,"14:43",2083,2083,"Rickey Holden Turnover.",6,6,0,1,0.905331779343981,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+43,1,"14:42",2082,2082,"Rui Hachimura Steal.",6,6,0,1,0.905331779343981,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+44,1,"14:41",2081,2081,"Rui Hachimura made Dunk.",8,6,2,34,0.922570132182233,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+45,1,"14:07",2047,2047,"CSU Bakersfield  Turnover.",8,6,2,11,0.919522370498048,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+46,1,"13:56",2036,2036,"Foul on Jarkel Joiner.",8,6,2,0,0.933286353864367,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+47,1,"13:56",2036,2036,"Zach Norvell Jr. made Free Throw.",9,6,3,0,0.939879881876028,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+48,1,"13:56",2036,2036,"Zach Norvell Jr. made Free Throw.",10,6,4,9,0.945859553079636,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+49,1,"13:47",2027,2027,"Foul on Darrin Person Jr..",10,6,4,0,0.943210243427612,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+50,1,"13:47",2027,2027,"Darrin Person Jr. Turnover.",10,6,4,11,0.943210243427612,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+51,1,"13:36",2016,2016,"Foul on Darrin Person Jr..",10,6,4,0,0.93985876593031,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+52,1,"13:36",2016,2016,"Zach Norvell Jr. missed Free Throw.",10,6,4,0,0.93985876593031,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+53,1,"13:36",2016,2016,"Gonzaga Deadball Team Rebound.",10,6,4,0,0.93985876593031,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+54,1,"13:36",2016,2016,"Zach Norvell Jr. made Free Throw.",11,6,5,5,0.94607051268292,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+55,1,"13:31",2011,2011,"Taze Moore Turnover.",11,6,5,3,0.94607051268292,"Gonzaga","CSU Bakersfield",4,4,0,0,27,"401083635",2018-12-31
+56,1,"13:28",2008,2008,"Zach Norvell Jr. Steal.",11,6,5,0,0.9420641856929,"Gonzaga","CSU Bakersfield",4,4,1,0,27,"401083635",2018-12-31
+57,1,"13:28",2008,2008,"Gonzaga  Timeout",11,6,5,7,0.9420641856929,"Gonzaga","CSU Bakersfield",3,4,1,0,27,"401083635",2018-12-31
+58,1,"13:21",2001,2001,"Filip Petrusev missed Three Point Jumper.",11,6,5,0,0.9420641856929,"Gonzaga","CSU Bakersfield",3,4,1,0,27,"401083635",2018-12-31
+59,1,"13:21",2001,2001,"James Suber Defensive Rebound.",11,6,5,21,0.9420641856929,"Gonzaga","CSU Bakersfield",3,4,1,0,27,"401083635",2018-12-31
+60,1,"13:00",1980,1980,"Damiyne Durham missed Three Point Jumper.",11,6,5,0,0.940442116910056,"Gonzaga","CSU Bakersfield",3,4,1,0,27,"401083635",2018-12-31
+61,1,"13:00",1980,1980,"Gonzaga Defensive Rebound.",11,6,5,20,0.940442116910056,"Gonzaga","CSU Bakersfield",3,4,1,0,27,"401083635",2018-12-31
+62,1,"12:40",1960,1960,"Filip Petrusev Turnover.",11,6,5,12,0.942488246037305,"Gonzaga","CSU Bakersfield",3,4,1,0,27,"401083635",2018-12-31
+63,1,"12:28",1948,1948,"Jarkel Joiner missed Layup.",11,6,5,0,0.945632959002012,"Gonzaga","CSU Bakersfield",3,4,1,0,27,"401083635",2018-12-31
+64,1,"12:28",1948,1948,"Jeremy Jones Block.",11,6,5,1,0.945632959002012,"Gonzaga","CSU Bakersfield",3,4,1,0,27,"401083635",2018-12-31
+65,1,"12:27",1947,1947,"CSU Bakersfield Offensive Rebound.",11,6,5,2,0.945632959002012,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+66,1,"12:25",1945,1945,"Damiyne Durham missed Three Point Jumper.",11,6,5,0,0.945632959002012,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+67,1,"12:25",1945,1945,"CSU Bakersfield Offensive Rebound.",11,6,5,2,0.945632959002012,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+68,1,"12:23",1943,1943,"Foul on Filip Petrusev.",11,6,5,22,0.945632959002012,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+69,1,"12:01",1921,1921,"Jarkel Joiner missed Layup.",11,6,5,0,0.949739852740844,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+70,1,"12:01",1921,1921,"Jeremy Jones Defensive Rebound.",11,6,5,14,0.949739852740844,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+71,1,"11:47",1907,1907,"Official TV Timeout",11,6,5,8,0.944812848742833,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+72,1,"11:39",1899,1899,"Foul on Rui Hachimura.",11,6,5,0,0.945257463348185,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+73,1,"11:39",1899,1899,"Rui Hachimura Turnover.",11,6,5,7,0.945257463348185,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+74,1,"11:32",1892,1892,"Rickey Holden Turnover.",11,6,5,19,0.945257463348185,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+75,1,"11:13",1873,1873,"Corey Kispert missed Three Point Jumper.",11,6,5,0,0.943275576188822,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+76,1,"11:13",1873,1873,"Jeremy Jones Offensive Rebound.",11,6,5,4,0.943275576188822,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+77,1,"11:09",1869,1869,"Jeremy Jones made Two Point Tip Shot.",13,6,7,16,0.956732671008585,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+78,1,"10:53",1853,1853,"Damiyne Durham missed Three Point Jumper.",13,6,7,0,0.955992856275412,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+79,1,"10:53",1853,1853,"Justin Edler-Davis Offensive Rebound.",13,6,7,13,0.955992856275412,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+80,1,"10:40",1840,1840,"Rickey Holden missed Layup.",13,6,7,0,0.954092871993432,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+81,1,"10:40",1840,1840,"Jeremy Jones Defensive Rebound.",13,6,7,12,0.954092871993432,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+82,1,"10:28",1828,1828,"Zach Norvell Jr. missed Three Point Jumper.",13,6,7,0,0.958773572837922,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+83,1,"10:28",1828,1828,"Damiyne Durham Defensive Rebound.",13,6,7,2,0.958773572837922,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+84,1,"10:26",1826,1826,"Foul on Corey Kispert.",13,6,7,14,0.958773572837922,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+85,1,"10:12",1812,1812,"James Suber made Layup. Assisted by Jarkel Joiner.",13,8,5,18,0.94650141582096,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+86,1,"9:54",1794,1794,"Brandon Clarke missed Jumper.",13,8,5,0,0.939206801333511,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+87,1,"9:54",1794,1794,"James Suber Defensive Rebound.",13,8,5,10,0.939206801333511,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+88,1,"9:44",1784,1784,"Damiyne Durham made Jumper.",13,10,3,25,0.918320387675044,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+89,1,"9:19",1759,1759,"Jeremy Jones missed Three Point Jumper.",13,10,3,0,0.93016587040438,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+90,1,"9:19",1759,1759,"Brandon Clarke Offensive Rebound.",13,10,3,5,0.93016587040438,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+91,1,"9:14",1754,1754,"Rui Hachimura made Dunk.",15,10,5,18,0.94631757729321,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+92,1,"8:56",1736,1736,"Taze Moore made Jumper.",15,12,3,17,0.92792726210443,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+93,1,"8:39",1719,1719,"Zach Norvell Jr. Turnover.",15,12,3,1,0.932434797304679,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+94,1,"8:38",1718,1718,"Damiyne Durham Steal.",15,12,3,3,0.932434797304679,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+95,1,"8:35",1715,1715,"Jarkel Joiner missed Layup.",15,12,3,0,0.932434797304679,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+96,1,"8:35",1715,1715,"Jeremy Jones Defensive Rebound.",15,12,3,3,0.932434797304679,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+97,1,"8:32",1712,1712,"Foul on Taze Moore.",15,12,3,13,0.932434797304679,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+98,1,"8:19",1699,1699,"Jeremy Jones made Three Point Jumper. Assisted by Brandon Clarke.",18,12,6,22,0.949434445477416,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+99,1,"7:57",1677,1677,"Damiyne Durham missed Three Point Jumper.",18,12,6,0,0.951063764662722,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+100,1,"7:57",1677,1677,"Filip Petrusev Defensive Rebound.",18,12,6,3,0.951063764662722,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+101,1,"7:54",1674,1674,"Official TV Timeout",18,12,6,20,0.951063764662722,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+102,1,"7:34",1654,1654,"Josh Perkins missed Jumper.",18,12,6,0,0.945426450361306,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+103,1,"7:34",1654,1654,"Taze Moore Defensive Rebound.",18,12,6,11,0.945426450361306,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+104,1,"7:23",1643,1643,"Justin Edler-Davis Turnover.",18,12,6,11,0.950582168666497,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+105,1,"7:12",1632,1632,"Josh Perkins made Layup. Assisted by Zach Norvell Jr..",20,12,8,19,0.958560504992805,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+106,1,"6:53",1613,1613,"Darius Williams missed Layup.",20,12,8,0,0.956264553744435,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+107,1,"6:53",1613,1613,"Filip Petrusev Block.",20,12,8,1,0.956264553744435,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+108,1,"6:52",1612,1612,"Zach Norvell Jr. Defensive Rebound.",20,12,8,12,0.956264553744435,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+109,1,"6:40",1600,1600,"Filip Petrusev missed Layup.",20,12,8,0,0.95969520279009,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+110,1,"6:40",1600,1600,"Rickey Holden Defensive Rebound.",20,12,8,27,0.95969520279009,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+111,1,"6:13",1573,1573,"Justin Edler-Davis missed Three Point Jumper.",20,12,8,0,0.965175410608046,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+112,1,"6:13",1573,1573,"Zach Norvell Jr. Defensive Rebound.",20,12,8,5,0.965175410608046,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+113,1,"6:08",1568,1568,"Jeremy Jones made Layup. Assisted by Zach Norvell Jr..",22,12,10,0,0.968517316136549,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+114,1,"6:08",1568,1568,"Foul on Justin Edler-Davis.",22,12,10,0,0.968517316136549,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+115,1,"6:08",1568,1568,"Jeremy Jones made Free Throw.",23,12,11,4,0.972580139494248,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+116,1,"6:04",1564,1564,"Rickey Holden Turnover.",23,12,11,0,0.972580139494248,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+117,1,"6:04",1564,1564,"Corey Kispert Steal.",23,12,11,13,0.972580139494248,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+118,1,"5:51",1551,1551,"Rui Hachimura missed Jumper.",23,12,11,0,0.971879469706078,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+119,1,"5:51",1551,1551,"Brandon Clarke Offensive Rebound.",23,12,11,3,0.971879469706078,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+120,1,"5:48",1548,1548,"Brandon Clarke made Jumper.",25,12,13,18,0.98017755461848,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+121,1,"5:30",1530,1530,"Rickey Holden Turnover.",25,12,13,0,0.980113489563193,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+122,1,"5:30",1530,1530,"Brandon Clarke Steal.",25,12,13,13,0.980113489563193,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+123,1,"5:17",1517,1517,"Foul on Taze Moore.",25,12,13,0,0.982401456715978,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+124,1,"5:17",1517,1517,"Rui Hachimura made Free Throw.",26,12,14,0,0.984852427580467,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+125,1,"5:17",1517,1517,"Rui Hachimura missed Free Throw.",26,12,14,0,0.984852427580467,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+126,1,"5:17",1517,1517,"Damiyne Durham Defensive Rebound.",26,12,14,14,0.984852427580467,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+127,1,"5:03",1503,1503,"Justin McCall missed Jumper.",26,12,14,0,0.982294102708226,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+128,1,"5:03",1503,1503,"Gonzaga Defensive Rebound.",26,12,14,11,0.982294102708226,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+129,1,"4:52",1492,1492,"Rui Hachimura made Layup.",28,12,16,18,0.986506315536306,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+130,1,"4:34",1474,1474,"James Suber made Layup. Assisted by Taze Moore.",28,14,14,10,0.986793373729523,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+131,1,"4:24",1464,1464,"Josh Perkins Turnover.",28,14,14,1,0.978278240513733,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+132,1,"4:23",1463,1463,"James Suber Steal.",28,14,14,3,0.978278240513733,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+133,1,"4:20",1460,1460,"Jarkel Joiner made Layup. Assisted by Damiyne Durham.",28,16,12,1,0.971491901017297,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+134,1,"4:19",1459,1459,"Gonzaga  Timeout",28,16,12,0,0.977033769277454,"Gonzaga","CSU Bakersfield",2,4,1,0,27,"401083635",2018-12-31
+135,1,"4:19",1459,1459,"Official TV Timeout",28,16,12,11,0.977033769277454,"Gonzaga","CSU Bakersfield",2,4,1,0,27,"401083635",2018-12-31
+136,1,"4:08",1448,1448,"Brandon Clarke made Dunk. Assisted by Rui Hachimura.",30,16,14,23,0.985022142155409,"Gonzaga","CSU Bakersfield",2,4,1,0,27,"401083635",2018-12-31
+137,1,"3:45",1425,1425,"Jarkel Joiner made Jumper.",30,18,12,28,0.973650352645688,"Gonzaga","CSU Bakersfield",2,4,1,0,27,"401083635",2018-12-31
+138,1,"3:17",1397,1397,"Brandon Clarke missed Jumper.",30,18,12,0,0.980591864737784,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+139,1,"3:17",1397,1397,"Jeremy Jones Offensive Rebound.",30,18,12,4,0.980591864737784,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+140,1,"3:13",1393,1393,"Jeremy Jones made Two Point Tip Shot.",32,18,14,12,0.985675037369373,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+141,1,"3:01",1381,1381,"Damiyne Durham missed Jumper.",32,18,14,0,0.983530936486738,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+142,1,"3:01",1381,1381,"Corey Kispert Defensive Rebound.",32,18,14,7,0.983530936486738,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+143,1,"2:54",1374,1374,"Josh Perkins missed Three Point Jumper.",32,18,14,0,0.981106785030526,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+144,1,"2:54",1374,1374,"Gonzaga Offensive Rebound.",32,18,14,3,0.981106785030526,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+145,1,"2:51",1371,1371,"Foul on Darius Williams.",32,18,14,0,0.981106785030526,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+146,1,"2:51",1371,1371,"Rui Hachimura made Free Throw.",33,18,15,0,0.983604769844085,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+147,1,"2:51",1371,1371,"Rui Hachimura made Free Throw.",34,18,16,22,0.985777269012149,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+148,1,"2:29",1349,1349,"Jarkel Joiner made Jumper.",34,20,14,24,0.982615915799318,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+149,1,"2:05",1325,1325,"Corey Kispert made Three Point Jumper. Assisted by Brandon Clarke.",37,20,17,22,0.990011154071586,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+150,1,"1:43",1303,1303,"Justin Edler-Davis missed Jumper.",37,20,17,2,0.986703196283109,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+151,1,"1:41",1301,1301,"Rui Hachimura Defensive Rebound.",37,20,17,4,0.986703196283109,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+152,1,"1:37",1297,1297,"Brandon Clarke made Layup. Assisted by Rui Hachimura.",39,20,19,0,0.993425598430242,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+153,1,"1:37",1297,1297,"Foul on Taze Moore.",39,20,19,0,0.993425598430242,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+154,1,"1:37",1297,1297,"Brandon Clarke missed Free Throw.",39,20,19,0,0.993425598430242,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+155,1,"1:37",1297,1297,"James Suber Defensive Rebound.",39,20,19,15,0.993425598430242,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+156,1,"1:22",1282,1282,"Jarkel Joiner made Jumper.",39,22,17,14,0.98927375755468,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+157,1,"1:08",1268,1268,"Zach Norvell Jr. missed Jumper.",39,22,17,0,0.990838283628964,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+158,1,"1:08",1268,1268,"Rui Hachimura Offensive Rebound.",39,22,17,3,0.990838283628964,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+159,1,"1:05",1265,1265,"Rui Hachimura made Two Point Tip Shot.",41,22,19,14,0.993306507190854,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+160,1,"0:51",1251,1251,"Jarkel Joiner made Jumper.",41,24,17,16,0.987176338611798,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+161,1,"0:35",1235,1235,"Corey Kispert missed Layup.",41,24,17,0,0.989220314327325,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+162,1,"0:35",1235,1235,"James Suber Block.",41,24,17,4,0.989220314327325,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+163,1,"0:31",1231,1231,"Justin Edler-Davis Defensive Rebound.",41,24,17,23,0.989220314327325,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+164,1,"0:08",1208,1208,"Jarkel Joiner missed Three Point Jumper.",41,24,17,0,0.989718617549324,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+165,1,"0:08",1208,1208,"Jeremy Jones Defensive Rebound.",41,24,17,8,0.989718617549324,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+166,1,"0:00",1200,1200,"Brandon Clarke made Jumper. Assisted by Jeremy Jones.",43,24,19,0,0.992501958152929,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+167,1,"0:00",1200,1200,"End of 1st half",43,24,19,0,0.992501958152929,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+168,2,"20:00",1200,1200,"PLAY",43,24,19,13,0.992501958152929,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+169,2,"19:47",1187,1187,"Brandon Clarke made Jumper. Assisted by Zach Norvell Jr..",45,24,21,0,0.995254822985253,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+170,2,"19:47",1187,1187,"Foul on Greg Lee.",45,24,21,0,0.995254822985253,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+171,2,"19:47",1187,1187,"Brandon Clarke missed Free Throw.",45,24,21,0,0.995254822985253,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+172,2,"19:47",1187,1187,"James Suber Defensive Rebound.",45,24,21,10,0.995254822985253,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+173,2,"19:37",1177,1177,"Foul on Greg Lee.",45,24,21,0,0.994584836537244,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+174,2,"19:37",1177,1177,"Greg Lee Turnover.",45,24,21,12,0.994584836537244,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+175,2,"19:25",1165,1165,"Zach Norvell Jr. made Three Point Jumper.",48,24,24,19,0.996995367311805,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+176,2,"19:06",1146,1146,"James Suber missed Layup.",48,24,24,0,0.997112212314079,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+177,2,"19:06",1146,1146,"Rui Hachimura Defensive Rebound.",48,24,24,7,0.997112212314079,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+178,2,"18:59",1139,1139,"Rui Hachimura made Jumper.",50,24,26,31,0.997784846008277,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+179,2,"18:28",1108,1108,"Rickey Holden missed Jumper.",50,24,26,0,0.99779495715296,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+180,2,"18:28",1108,1108,"James Suber Offensive Rebound.",50,24,26,3,0.99779495715296,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+181,2,"18:25",1105,1105,"Foul on Rui Hachimura.",50,24,26,0,0.99779495715296,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+182,2,"18:25",1105,1105,"Justin Edler-Davis missed Three Point Jumper.",50,24,26,0,0.99779495715296,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+183,2,"18:25",1105,1105,"Brandon Clarke Defensive Rebound.",50,24,26,14,0.99779495715296,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+184,2,"18:11",1091,1091,"Josh Perkins missed Three Point Jumper.",50,24,26,0,0.998196568388833,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+185,2,"18:11",1091,1091,"Jarkel Joiner Defensive Rebound.",50,24,26,5,0.998196568388833,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+186,2,"18:06",1086,1086,"Foul on Josh Perkins.",50,24,26,8,0.998453939162318,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+187,2,"17:58",1078,1078,"Greg Lee Turnover.",50,24,26,26,0.997763566083468,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+188,2,"17:32",1052,1052,"Brandon Clarke Turnover.",50,24,26,1,0.998439419397247,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+189,2,"17:31",1051,1051,"Jarkel Joiner Steal.",50,24,26,3,0.998439419397247,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+190,2,"17:28",1048,1048,"Jarkel Joiner made Jumper.",50,26,24,12,0.997605483398606,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+191,2,"17:16",1036,1036,"Brandon Clarke missed Layup.",50,26,24,0,0.997203241503173,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+192,2,"17:16",1036,1036,"Brandon Clarke Offensive Rebound.",50,26,24,3,0.997203241503173,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+193,2,"17:13",1033,1033,"Foul on James Suber.",50,26,24,0,0.997203241503173,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+194,2,"17:13",1033,1033,"Brandon Clarke made Free Throw.",51,26,25,0,0.997643063566407,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+195,2,"17:13",1033,1033,"Brandon Clarke made Free Throw.",52,26,26,13,0.998013856371838,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+196,2,"17:00",1020,1020,"Darius Williams missed Layup.",52,26,26,0,0.998374572129131,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+197,2,"17:00",1020,1020,"Rui Hachimura Block.",52,26,26,1,0.998374572129131,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+198,2,"16:59",1019,1019,"Justin Edler-Davis Offensive Rebound.",52,26,26,2,0.998236917622537,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+199,2,"16:57",1017,1017,"Justin Edler-Davis made Layup.",52,28,24,5,0.997461434547741,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+200,2,"16:52",1012,1012,"Zach Norvell Jr. Turnover.",52,28,24,2,0.997461434547741,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+201,2,"16:50",1010,1010,"Justin Edler-Davis Steal.",52,28,24,14,0.997461434547741,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+202,2,"16:36",996,996,"Foul on Zach Norvell Jr..",52,28,24,14,0.997418608854978,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+203,2,"16:22",982,982,"Justin Edler-Davis made Layup.",52,30,22,7,0.997596994985142,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+204,2,"16:15",975,975,"Foul on Kevin McNeal.",52,30,22,1,0.996741698109885,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+205,2,"16:14",974,974,"Foul on Darius Williams.",52,30,22,12,0.996741698109885,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+206,2,"16:02",962,962,"Zach Norvell Jr. missed Three Point Jumper.",52,30,22,0,0.996510863650991,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+207,2,"16:02",962,962,"Jarkel Joiner Defensive Rebound.",52,30,22,6,0.996510863650991,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+208,2,"15:56",956,956,"Jarkel Joiner made Layup.",52,32,20,13,0.996291731262701,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+209,2,"15:43",943,943,"Zach Norvell Jr. made Three Point Jumper. Assisted by Josh Perkins.",55,32,23,27,0.997975652370098,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+210,2,"15:16",916,916,"Jarkel Joiner made Three Point Jumper.",55,35,20,11,0.996643608515482,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+211,2,"15:05",905,905,"Josh Perkins missed Layup.",55,35,20,0,0.995627168258718,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+212,2,"15:05",905,905,"Justin Edler-Davis Block.",55,35,20,0,0.995627168258718,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+213,2,"15:05",905,905,"Gonzaga Offensive Rebound.",55,35,20,6,0.995627168258718,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+214,2,"14:59",899,899,"Rui Hachimura missed Layup.",55,35,20,0,0.996067799307303,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+215,2,"14:59",899,899,"Brandon Clarke Offensive Rebound.",55,35,20,3,0.996067799307303,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+216,2,"14:56",896,896,"Brandon Clarke made Two Point Tip Shot.",57,35,22,19,0.997330529278233,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+217,2,"14:37",877,877,"Darrin Person Jr. missed Layup.",57,35,22,0,0.99725563807202,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+218,2,"14:37",877,877,"Brandon Clarke Block.",57,35,22,2,0.99725563807202,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+219,2,"14:35",875,875,"Kevin McNeal Offensive Rebound.",57,35,22,2,0.99725563807202,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+220,2,"14:33",873,873,"Kevin McNeal missed Layup.",57,35,22,0,0.99725563807202,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+221,2,"14:33",873,873,"Darrin Person Jr. Offensive Rebound.",57,35,22,2,0.99725563807202,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+222,2,"14:31",871,871,"Darrin Person Jr. missed Layup.",57,35,22,0,0.99725563807202,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+223,2,"14:31",871,871,"Corey Kispert Defensive Rebound.",57,35,22,8,0.99725563807202,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+224,2,"14:23",863,863,"Josh Perkins made Three Point Jumper. Assisted by Zach Norvell Jr..",60,35,25,24,0.998356786839404,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+225,2,"13:59",839,839,"Damiyne Durham Turnover.",60,35,25,1,0.999021801683779,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+226,2,"13:58",838,838,"Brandon Clarke Steal.",60,35,25,3,0.999021801683779,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+227,2,"13:55",835,835,"Josh Perkins made Layup. Assisted by Zach Norvell Jr..",62,35,27,21,0.999352227229636,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+228,2,"13:34",814,814,"Foul on Josh Perkins.",62,35,27,13,0.999054088805585,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+229,2,"13:21",801,801,"Jarkel Joiner made Jumper.",62,37,25,17,0.99887561058484,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+230,2,"13:04",784,784,"Zach Norvell Jr. made Three Point Jumper.",65,37,28,31,0.999363243206349,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+231,2,"12:33",753,753,"Jarkel Joiner missed Jumper.",65,37,28,0,0.999547625979684,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+232,2,"12:33",753,753,"Darrin Person Jr. Offensive Rebound.",65,37,28,4,0.999547625979684,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+233,2,"12:29",749,749,"Darrin Person Jr. Turnover.",65,37,28,1,0.999584956833839,"Gonzaga","CSU Bakersfield",3,4,0,0,27,"401083635",2018-12-31
+234,2,"12:28",748,748,"Zach Norvell Jr. Steal.",65,37,28,0,0.999584956833839,"Gonzaga","CSU Bakersfield",3,4,1,0,27,"401083635",2018-12-31
+235,2,"12:28",748,748,"Gonzaga  Timeout",65,37,28,0,0.999584956833839,"Gonzaga","CSU Bakersfield",2,4,1,0,27,"401083635",2018-12-31
+236,2,"12:28",748,748,"Official TV Timeout",65,37,28,15,0.999584956833839,"Gonzaga","CSU Bakersfield",2,4,1,0,27,"401083635",2018-12-31
+237,2,"12:13",733,733,"Foul on Brandon Clarke.",65,37,28,0,0.999383948185593,"Gonzaga","CSU Bakersfield",2,4,1,0,27,"401083635",2018-12-31
+238,2,"12:13",733,733,"Brandon Clarke Turnover.",65,37,28,24,0.999383948185593,"Gonzaga","CSU Bakersfield",2,4,1,0,27,"401083635",2018-12-31
+239,2,"11:49",709,709,"Damiyne Durham missed Three Point Jumper.",65,37,28,0,0.999389125713833,"Gonzaga","CSU Bakersfield",2,4,1,0,27,"401083635",2018-12-31
+240,2,"11:49",709,709,"CSU Bakersfield Offensive Rebound.",65,37,28,2,0.999389125713833,"Gonzaga","CSU Bakersfield",2,4,1,0,27,"401083635",2018-12-31
+241,2,"11:47",707,707,"Official TV Timeout",65,37,28,18,0.999389125713833,"Gonzaga","CSU Bakersfield",2,4,1,0,27,"401083635",2018-12-31
+242,2,"11:29",689,689,"Jarkel Joiner missed Three Point Jumper.",65,37,28,0,0.999575049079722,"Gonzaga","CSU Bakersfield",2,4,1,0,27,"401083635",2018-12-31
+243,2,"11:29",689,689,"CSU Bakersfield Offensive Rebound.",65,37,28,3,0.999575049079722,"Gonzaga","CSU Bakersfield",2,4,1,0,27,"401083635",2018-12-31
+244,2,"11:26",686,686,"Foul on Zach Norvell Jr..",65,37,28,2,0.999575049079722,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+245,2,"11:24",684,684,"Damiyne Durham made Jumper.",65,39,26,19,0.999335630810441,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+246,2,"11:05",665,665,"Zach Norvell Jr. made Layup.",67,39,28,26,0.999591001159585,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+247,2,"10:39",639,639,"Damiyne Durham missed Jumper.",67,39,28,0,0.999630732567198,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+248,2,"10:39",639,639,"James Suber Offensive Rebound.",67,39,28,3,0.999630732567198,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+249,2,"10:36",636,636,"James Suber made Layup.",67,41,26,0,0.999407701159964,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+250,2,"10:36",636,636,"Foul on Filip Petrusev.",67,41,26,0,0.999407701159964,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+251,2,"10:36",636,636,"James Suber missed Free Throw.",67,41,26,0,0.999407701159964,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+252,2,"10:36",636,636,"Taze Moore Offensive Rebound.",67,41,26,5,0.999407701159964,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+253,2,"10:31",631,631,"Damiyne Durham missed Three Point Jumper.",67,41,26,0,0.999407701159964,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+254,2,"10:31",631,631,"Filip Petrusev Defensive Rebound.",67,41,26,3,0.999407701159964,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+255,2,"10:28",628,628,"Foul on Taze Moore.",67,41,26,8,0.999705472670103,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+256,2,"10:20",620,620,"Zach Norvell Jr. missed Three Point Jumper.",67,41,26,0,0.999705472670103,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+257,2,"10:20",620,620,"Taze Moore Defensive Rebound.",67,41,26,21,0.999705472670103,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+258,2,"9:59",599,599,"Foul on Filip Petrusev.",67,41,26,0,0.999517413516404,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+259,2,"9:59",599,599,"Jarkel Joiner made Free Throw.",67,42,25,0,0.999386792504912,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+260,2,"9:59",599,599,"Jarkel Joiner made Free Throw.",67,43,24,16,0.999220844046499,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+261,2,"9:43",583,583,"Rui Hachimura made Three Point Jumper. Assisted by Brandon Clarke.",70,43,27,31,0.999613571147336,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+262,2,"9:12",552,552,"Damiyne Durham missed Three Point Jumper.",70,43,27,0,0.999776299483773,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+263,2,"9:12",552,552,"Jeremy Jones Defensive Rebound.",70,43,27,10,0.999776299483773,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+264,2,"9:02",542,542,"Foul on Taze Moore.",70,43,27,0,0.999800654976447,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+265,2,"9:02",542,542,"Jeremy Jones made Free Throw.",71,43,28,0,0.99984751476871,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+266,2,"9:02",542,542,"Jeremy Jones missed Free Throw.",71,43,28,0,0.99984751476871,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+267,2,"9:02",542,542,"Damiyne Durham Defensive Rebound.",71,43,28,20,0.99984751476871,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+268,2,"8:42",522,522,"Cartrell Thompson made Jumper. Assisted by Jarkel Joiner.",71,45,26,24,0.999753449974343,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+269,2,"8:18",498,498,"Brandon Clarke missed Three Point Jumper.",71,45,26,0,0.999774772693497,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+270,2,"8:18",498,498,"Jeremy Jones Offensive Rebound.",71,45,26,9,0.999774772693497,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+271,2,"8:09",489,489,"Foul on Cartrell Thompson.",71,45,26,0,0.99978106704121,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+272,2,"8:09",489,489,"Rui Hachimura made Free Throw.",72,45,27,0,0.999833428481611,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+273,2,"8:09",489,489,"Rui Hachimura made Free Throw.",73,45,28,16,0.999873268404387,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+274,2,"7:53",473,473,"Damiyne Durham missed Three Point Jumper.",73,45,28,0,0.999925800236029,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+275,2,"7:53",473,473,"Rui Hachimura Defensive Rebound.",73,45,28,2,0.999925800236029,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+276,2,"7:51",471,471,"Foul on Darrin Person Jr..",73,45,28,0,0.999925800236029,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+277,2,"7:51",471,471,"Official TV Timeout",73,45,28,0,0.999925800236029,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+278,2,"7:51",471,471,"Rui Hachimura missed Free Throw.",73,45,28,0,0.999925800236029,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+279,2,"7:51",471,471,"Gonzaga Offensive Rebound.",73,45,28,19,0.999925800236029,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+280,2,"7:32",452,452,"Brandon Clarke Turnover.",73,45,28,1,0.99995673423327,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+281,2,"7:31",451,451,"Darrin Person Jr. Steal.",73,45,28,7,0.99995673423327,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+282,2,"7:24",444,444,"Foul on Cartrell Thompson.",73,45,28,0,0.999856698119847,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+283,2,"7:24",444,444,"Cartrell Thompson Turnover.",73,45,28,9,0.999856698119847,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+284,2,"7:15",435,435,"Foul on Zach Norvell Jr..",73,45,28,0,0.999953770649319,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+285,2,"7:15",435,435,"Zach Norvell Jr. Turnover.",73,45,28,13,0.999953770649319,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+286,2,"7:02",422,422,"Justin McCall missed Jumper.",73,45,28,0,0.999924562539325,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+287,2,"7:02",422,422,"Jeremy Jones Defensive Rebound.",73,45,28,11,0.999924562539325,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+288,2,"6:51",411,411,"Josh Perkins made Three Point Jumper.",76,45,31,27,0.999975982867447,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+289,2,"6:24",384,384,"Kevin McNeal missed Three Point Jumper.",76,45,31,0,0.999974298308551,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+290,2,"6:24",384,384,"Brandon Clarke Defensive Rebound.",76,45,31,10,0.999974298308551,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+291,2,"6:14",374,374,"Brandon Clarke Turnover.",76,45,31,0,0.999979846907928,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+292,2,"6:14",374,374,"Greg Lee Steal.",76,45,31,24,0.999979846907928,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+293,2,"5:50",350,350,"Jarkel Joiner missed Layup.",76,45,31,0,0.999991642604315,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+294,2,"5:50",350,350,"Brandon Clarke Defensive Rebound.",76,45,31,6,0.999991642604315,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+295,2,"5:44",344,344,"Rui Hachimura made Dunk. Assisted by Brandon Clarke.",78,45,33,31,0.999994534735675,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+296,2,"5:13",313,313,"Jarkel Joiner made Three Point Jumper.",78,48,30,17,0.999994244893446,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+297,2,"4:56",296,296,"Rui Hachimura missed Three Point Jumper.",78,48,30,0,0.999990466651447,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+298,2,"4:56",296,296,"Greg Lee Defensive Rebound.",78,48,30,8,0.999990466651447,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+299,2,"4:48",288,288,"Greg Lee Turnover.",78,48,30,0,0.999991737150609,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+300,2,"4:48",288,288,"Jeremy Jones Steal.",78,48,30,15,0.999991737150609,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+301,2,"4:33",273,273,"Filip Petrusev made Layup. Assisted by Josh Perkins.",80,48,32,5,0.999998659860694,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+302,2,"4:28",268,268,"Darius Williams Turnover.",80,48,32,2,0.999997844829029,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+303,2,"4:26",266,266,"Foul on Darrin Person Jr..",80,48,32,0,0.999997844829029,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+304,2,"4:26",266,266,"Filip Petrusev missed Free Throw.",80,48,32,0,0.999997844829029,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+305,2,"4:26",266,266,"Gonzaga Deadball Team Rebound.",80,48,32,0,0.999997844829029,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+306,2,"4:26",266,266,"Filip Petrusev missed Free Throw.",80,48,32,0,0.999997844829029,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+307,2,"4:26",266,266,"Darrin Person Jr. Defensive Rebound.",80,48,32,25,0.999997844829029,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+308,2,"4:01",241,241,"Jarkel Joiner missed Three Point Jumper.",80,48,32,0,0.999999123862127,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+309,2,"4:01",241,241,"Cartrell Thompson Offensive Rebound.",80,48,32,16,0.999999123862127,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+310,2,"3:45",225,225,"Justin McCall made Layup.",80,50,30,0,0.99999913046075,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+311,2,"3:45",225,225,"Foul on Filip Petrusev.",80,50,30,0,0.99999913046075,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+312,2,"3:45",225,225,"Official TV Timeout",80,50,30,0,0.99999913046075,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+313,2,"3:45",225,225,"Justin McCall made Free Throw.",80,51,29,18,0.999998672003499,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+314,2,"3:27",207,207,"Corey Kispert missed Three Point Jumper.",80,51,29,0,0.99999939032929,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+315,2,"3:27",207,207,"Cartrell Thompson Defensive Rebound.",80,51,29,22,0.99999939032929,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+316,2,"3:05",185,185,"Darius Williams Turnover.",80,51,29,14,0.999999682539632,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+317,2,"2:51",171,171,"Joel Ayayi made Three Point Jumper. Assisted by Jeremy Jones.",83,51,32,23,0.999999945710651,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+318,2,"2:28",148,148,"Justin McCall missed Layup.",83,51,32,0,0.999999978268006,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+319,2,"2:28",148,148,"Corey Kispert Block.",83,51,32,1,0.999999978268006,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+320,2,"2:27",147,147,"Justin McCall Offensive Rebound.",83,51,32,11,0.999999978268006,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+321,2,"2:16",136,136,"Darius Williams missed Jumper.",83,51,32,0,0.999999989906055,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+322,2,"2:16",136,136,"Joel Ayayi Defensive Rebound.",83,51,32,9,0.999999989906055,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+323,2,"2:07",127,127,"Greg Foster Jr. missed Three Point Jumper.",83,51,32,0,0.999999993984433,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+324,2,"2:07",127,127,"Joel Ayayi Offensive Rebound.",83,51,32,5,0.999999993984433,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+325,2,"2:02",122,122,"Foul on Cartrell Thompson.",83,51,32,0,0.999999993984433,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+326,2,"2:02",122,122,"Joel Ayayi made Free Throw.",84,51,33,0,0.99999999658615,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+327,2,"2:02",122,122,"Joel Ayayi missed Free Throw.",84,51,33,0,0.99999999658615,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+328,2,"2:02",122,122,"Kevin McNeal Defensive Rebound.",84,51,33,20,0.99999999658615,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+329,2,"1:42",102,102,"Foul on Jack Beach.",84,51,33,0,0.999999999361128,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+330,2,"1:42",102,102,"Darrin Person Jr. missed Free Throw.",84,51,33,0,0.999999999361128,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+331,2,"1:42",102,102,"CSU Bakersfield Deadball Team Rebound.",84,51,33,0,0.999999999361128,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+332,2,"1:42",102,102,"Darrin Person Jr. made Free Throw.",84,52,32,24,0.999999998813494,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+333,2,"1:18",78,78,"Foul on Cartrell Thompson.",84,52,32,0,0.999999999969224,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+334,2,"1:18",78,78,"Filip Petrusev made Free Throw.",85,52,33,0,0.999999999985243,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+335,2,"1:18",78,78,"Filip Petrusev made Free Throw.",86,52,34,20,0.999999999992924,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+336,2,"0:58",58,58,"Darrin Person Jr. made Layup.",86,54,32,14,0.999999999999739,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+337,2,"0:44",44,44,"Greg Foster Jr. missed Three Point Jumper.",86,54,32,0,0.999999999997031,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+338,2,"0:44",44,44,"Bray Barnes Defensive Rebound.",86,54,32,7,0.999999999997031,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+339,2,"0:37",37,37,"Jeremiah Dickerson Turnover.",86,54,32,12,0.999999999999908,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+340,2,"0:25",25,25,"Matthew Lang made Three Point Jumper. Assisted by Greg Foster Jr..",89,54,35,25,1,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31
+341,2,"0:00",0,0,"End of Game",89,54,35,0,1,"Gonzaga","CSU Bakersfield",2,4,0,0,27,"401083635",2018-12-31

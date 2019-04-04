@@ -1,0 +1,328 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.834331373184416,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+2,1,"19:43",2383,2383,"Ethan Happ missed Layup.",0,0,0,0.830110427792434,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+3,1,"19:43",2383,2383,"Ethan Happ Offensive Rebound.",0,0,0,0.830110427792434,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+4,1,"19:39",2379,2379,"Zak Showalter made Three Point Jumper. Assisted by Ethan Happ.",3,0,3,0.864614380966616,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+5,1,"19:14",2354,2354,"Jordan Murphy missed Jumper.",3,0,3,0.866161941465825,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+6,1,"19:14",2354,2354,"Reggie Lynch Offensive Rebound.",3,0,3,0.866161941465825,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+7,1,"19:04",2344,2344,"Foul on Reggie Lynch.",3,0,3,0.854475252418671,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+8,1,"18:46",2326,2326,"Nigel Hayes made Jumper.",5,0,5,0.890710515133714,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+9,1,"18:30",2310,2310,"Nate Mason made Jumper. Assisted by Amir Coffey.",5,2,3,0.850406044616764,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+10,1,"18:00",2280,2280,"Foul on Jordan Murphy.",5,2,3,0.858577458042892,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+11,1,"17:59",2279,2279,"Nigel Hayes missed Free Throw.",5,2,3,0.86252900132833,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+12,1,"17:59",2279,2279,"Wisconsin Deadball Team Rebound.",5,2,3,0.86252900132833,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+13,1,"17:59",2279,2279,"Nigel Hayes made Free Throw.",6,2,4,0.874345160366572,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+14,1,"17:43",2263,2263,"Jordan Murphy made Dunk. Assisted by Amir Coffey.",6,4,2,0.858979556170862,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+15,1,"17:20",2240,2240,"Ethan Happ missed Layup.",6,4,2,0.836485131595927,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+16,1,"17:20",2240,2240,"Reggie Lynch Defensive Rebound.",6,4,2,0.836485131595927,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+17,1,"17:14",2234,2234,"Nate Mason missed Three Point Jumper.",6,4,2,0.849250831343585,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+18,1,"17:14",2234,2234,"Nate Mason Offensive Rebound.",6,4,2,0.849250831343585,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+19,1,"16:55",2215,2215,"Nate Mason missed Jumper.",6,4,2,0.851124385129473,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+20,1,"16:55",2215,2215,"Nigel Hayes Defensive Rebound.",6,4,2,0.851124385129473,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+21,1,"16:39",2199,2199,"Bronson Koenig missed Three Point Jumper.",6,4,2,0.856159709167306,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+22,1,"16:39",2199,2199,"Reggie Lynch Defensive Rebound.",6,4,2,0.856159709167306,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+23,1,"16:32",2192,2192,"Amir Coffey missed Layup.",6,4,2,0.856159709167306,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+24,1,"16:32",2192,2192,"Amir Coffey Offensive Rebound.",6,4,2,0.856159709167306,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+25,1,"16:31",2191,2191,"Amir Coffey missed Free Throw.",6,4,2,0.856159709167306,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+26,1,"16:31",2191,2191,"Nigel Hayes Defensive Rebound.",6,4,2,0.856159709167306,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+27,1,"16:29",2189,2189,"Amir Coffey made Layup.",6,6,0,0.815381674780749,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+28,1,"16:27",2187,2187,"Foul on Vitto Brown.",6,6,0,0.815381674780749,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+29,1,"16:15",2175,2175,"Nigel Hayes made Layup. Assisted by Ethan Happ.",8,6,2,0.842162331640419,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+30,1,"15:53",2153,2153,"Foul on Bronson Koenig.",8,6,2,0.843232003693525,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+31,1,"15:52",2152,2152,"Official TV Timeout",8,6,2,0.843232003693525,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+32,1,"15:35",2135,2135,"Foul on Khalil Iverson.",8,6,2,0.847072619809279,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+33,1,"15:35",2135,2135,"Jordan Murphy made Free Throw.",8,7,1,0.830723882833081,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+34,1,"15:35",2135,2135,"Jordan Murphy made Free Throw.",8,8,0,0.813013190357393,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+35,1,"15:24",2124,2124,"Khalil Iverson Turnover.",8,8,0,0.809129104018182,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+36,1,"14:59",2099,2099,"Amir Coffey made Layup.",8,10,-2,0.761188919240247,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+37,1,"14:40",2080,2080,"Foul on Bronson Koenig.",8,10,-2,0.772048220574565,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+38,1,"14:40",2080,2080,"Bronson Koenig Turnover.",8,10,-2,0.772048220574565,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+39,1,"14:23",2063,2063,"Foul on Jordan Murphy.",8,10,-2,0.762813095769437,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+40,1,"14:23",2063,2063,"Jordan Murphy Turnover.",8,10,-2,0.762813095769437,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+41,1,"14:09",2049,2049,"Vitto Brown missed Three Point Jumper.",8,10,-2,0.761151540299642,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+42,1,"14:09",2049,2049,"Amir Coffey Defensive Rebound.",8,10,-2,0.761151540299642,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+43,1,"13:55",2035,2035,"Eric Curry missed Layup.",8,10,-2,0.788014432808203,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+44,1,"13:55",2035,2035,"Ethan Happ Defensive Rebound.",8,10,-2,0.788014432808203,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+45,1,"13:35",2015,2015,"Ethan Happ missed Layup.",8,10,-2,0.772341201434458,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+46,1,"13:35",2015,2015,"Reggie Lynch Block.",8,10,-2,0.772341201434458,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+47,1,"13:32",2012,2012,"Nate Mason Defensive Rebound.",8,10,-2,0.772341201434458,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+48,1,"13:21",2001,2001,"Eric Curry made Layup. Assisted by Dupree McBrayer.",8,12,-4,0.723959965156401,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+49,1,"13:21",2001,2001,"Foul on Vitto Brown.",8,12,-4,0.723959965156401,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+50,1,"13:21",2001,2001,"Eric Curry missed Free Throw.",8,12,-4,0.723959965156401,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+51,1,"13:21",2001,2001,"Zak Showalter Defensive Rebound.",8,12,-4,0.723959965156401,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+52,1,"12:54",1974,1974,"Ethan Happ missed Layup.",8,12,-4,0.724514084086896,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+53,1,"12:54",1974,1974,"Reggie Lynch Block.",8,12,-4,0.724514084086896,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+54,1,"12:52",1972,1972,"Reggie Lynch Defensive Rebound.",8,12,-4,0.724514084086896,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+55,1,"12:38",1958,1958,"Nate Mason made Jumper.",8,14,-6,0.659385385328231,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+56,1,"12:35",1955,1955,"Wisconsin  Timeout",8,14,-6,0.659385385328231,"Wisconsin","Minnesota",3,4,1,0,8,400914948,2017-03-05
+57,1,"12:20",1940,1940,"Jordan Hill missed Three Point Jumper.",8,14,-6,0.655549512840254,"Wisconsin","Minnesota",3,4,1,0,8,400914948,2017-03-05
+58,1,"12:20",1940,1940,"Dupree McBrayer Defensive Rebound.",8,14,-6,0.655549512840254,"Wisconsin","Minnesota",3,4,1,0,8,400914948,2017-03-05
+59,1,"12:12",1932,1932,"Nate Mason missed Three Point Jumper.",8,14,-6,0.640464883600733,"Wisconsin","Minnesota",3,4,1,0,8,400914948,2017-03-05
+60,1,"12:12",1932,1932,"Jordan Hill Defensive Rebound.",8,14,-6,0.640464883600733,"Wisconsin","Minnesota",3,4,1,0,8,400914948,2017-03-05
+61,1,"11:43",1903,1903,"Ethan Happ missed Layup.",8,14,-6,0.671605782203656,"Wisconsin","Minnesota",3,4,1,0,8,400914948,2017-03-05
+62,1,"11:43",1903,1903,"Ethan Happ Offensive Rebound.",8,14,-6,0.671605782203656,"Wisconsin","Minnesota",3,4,1,0,8,400914948,2017-03-05
+63,1,"11:37",1897,1897,"Ethan Happ made Two Point Tip Shot.",10,14,-4,0.700827203951182,"Wisconsin","Minnesota",3,4,1,0,8,400914948,2017-03-05
+64,1,"11:23",1883,1883,"Amir Coffey Turnover.",10,14,-4,0.71233053785949,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+65,1,"11:23",1883,1883,"D'Mitrik Trice Steal.",10,14,-4,0.71233053785949,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+66,1,"11:23",1883,1883,"Foul on Amir Coffey.",10,14,-4,0.71233053785949,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+67,1,"11:23",1883,1883,"Official TV Timeout",10,14,-4,0.71233053785949,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+68,1,"11:04",1864,1864,"Foul on Dupree McBrayer.",10,14,-4,0.700601560705196,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+69,1,"11:02",1862,1862,"D'Mitrik Trice missed Jumper.",10,14,-4,0.700601560705196,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+70,1,"11:02",1862,1862,"Reggie Lynch Defensive Rebound.",10,14,-4,0.700601560705196,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+71,1,"10:47",1847,1847,"Reggie Lynch Turnover.",10,14,-4,0.699001055802965,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+72,1,"10:34",1834,1834,"Nigel Hayes missed Jumper.",10,14,-4,0.701045673676641,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+73,1,"10:34",1834,1834,"Ethan Happ Offensive Rebound.",10,14,-4,0.701045673676641,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+74,1,"10:28",1828,1828,"Nigel Hayes missed Jumper.",10,14,-4,0.731410882474912,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+75,1,"10:28",1828,1828,"Amir Coffey Defensive Rebound.",10,14,-4,0.731410882474912,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+76,1,"10:18",1818,1818,"Eric Curry made Layup. Assisted by Amir Coffey.",10,16,-6,0.632956139582405,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+77,1,"9:54",1794,1794,"Nigel Hayes missed Jumper.",10,16,-6,0.628986198503131,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+78,1,"9:54",1794,1794,"Akeem Springs Defensive Rebound.",10,16,-6,0.628986198503131,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+79,1,"9:35",1775,1775,"Akeem Springs Turnover.",10,16,-6,0.638905027582604,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+80,1,"9:33",1773,1773,"D'Mitrik Trice Steal.",10,16,-6,0.638905027582604,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+81,1,"9:20",1760,1760,"Ethan Happ made Layup. Assisted by D'Mitrik Trice.",12,16,-4,0.712181465551572,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+82,1,"9:04",1744,1744,"Akeem Springs missed Three Point Jumper.",12,16,-4,0.697090427597893,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+83,1,"9:04",1744,1744,"Nigel Hayes Defensive Rebound.",12,16,-4,0.697090427597893,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+84,1,"8:44",1724,1724,"Foul on Eric Curry.",12,16,-4,0.677395058988956,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+85,1,"8:43",1723,1723,"Zak Showalter missed Three Point Jumper.",12,16,-4,0.677395058988956,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+86,1,"8:43",1723,1723,"Minnesota Deadball Team Rebound.",12,16,-4,0.677395058988956,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+87,1,"8:41",1721,1721,"Foul on Nigel Hayes.",12,16,-4,0.677395058988956,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+88,1,"8:31",1711,1711,"Foul on Bakary Konate.",12,16,-4,0.704956032583531,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+89,1,"8:31",1711,1711,"Bakary Konate Turnover.",12,16,-4,0.704956032583531,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+90,1,"8:21",1701,1701,"Vitto Brown missed Three Point Jumper.",12,16,-4,0.688383116187017,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+91,1,"8:21",1701,1701,"Dupree McBrayer Defensive Rebound.",12,16,-4,0.688383116187017,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+92,1,"8:07",1687,1687,"Bakary Konate missed Jumper.",12,16,-4,0.692099108293125,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+93,1,"8:07",1687,1687,"Nigel Hayes Defensive Rebound.",12,16,-4,0.692099108293125,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+94,1,"8:04",1684,1684,"Foul on Eric Curry.",12,16,-4,0.692099108293125,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+95,1,"8:04",1684,1684,"Nigel Hayes missed Free Throw.",12,16,-4,0.692099108293125,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+96,1,"8:04",1684,1684,"Eric Curry Defensive Rebound.",12,16,-4,0.692099108293125,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+97,1,"7:44",1664,1664,"Nate Mason made Jumper.",12,18,-6,0.635146955435952,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+98,1,"7:29",1649,1649,"D'Mitrik Trice missed Three Point Jumper.",12,18,-6,0.626090099297372,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+99,1,"7:29",1649,1649,"Vitto Brown Offensive Rebound.",12,18,-6,0.626090099297372,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+100,1,"7:25",1645,1645,"Official TV Timeout",12,18,-6,0.626090099297372,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+101,1,"7:12",1632,1632,"Ethan Happ made Layup. Assisted by D'Mitrik Trice.",14,18,-4,0.692720646430599,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+102,1,"6:49",1609,1609,"Nate Mason made Jumper.",14,20,-6,0.630862904573623,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+103,1,"6:35",1595,1595,"D'Mitrik Trice made Layup.",16,20,-4,0.682920591809419,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+104,1,"6:20",1580,1580,"Nate Mason missed Layup.",16,20,-4,0.675971235112126,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+105,1,"6:20",1580,1580,"Ethan Happ Block.",16,20,-4,0.675971235112126,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+106,1,"6:17",1577,1577,"Ethan Happ Defensive Rebound.",16,20,-4,0.668456890357417,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+107,1,"6:02",1562,1562,"Vitto Brown made Three Point Jumper. Assisted by Ethan Happ.",19,20,-1,0.750826059532703,"Wisconsin","Minnesota",3,4,0,0,8,400914948,2017-03-05
+108,1,"5:50",1550,1550,"Minnesota  Timeout",19,20,-1,0.747633804758095,"Wisconsin","Minnesota",3,3,0,1,8,400914948,2017-03-05
+109,1,"5:31",1531,1531,"Eric Curry missed Layup.",19,20,-1,0.765157033084329,"Wisconsin","Minnesota",3,3,0,1,8,400914948,2017-03-05
+110,1,"5:31",1531,1531,"Reggie Lynch Offensive Rebound.",19,20,-1,0.765157033084329,"Wisconsin","Minnesota",3,3,0,1,8,400914948,2017-03-05
+111,1,"5:25",1525,1525,"Minnesota  Turnover.",19,20,-1,0.75461012518261,"Wisconsin","Minnesota",3,3,0,1,8,400914948,2017-03-05
+112,1,"5:05",1505,1505,"D'Mitrik Trice Turnover.",19,20,-1,0.756483239561905,"Wisconsin","Minnesota",3,3,0,1,8,400914948,2017-03-05
+113,1,"5:04",1504,1504,"Nate Mason Steal.",19,20,-1,0.756483239561905,"Wisconsin","Minnesota",3,3,0,1,8,400914948,2017-03-05
+114,1,"5:01",1501,1501,"Nate Mason made Three Point Jumper. Assisted by Amir Coffey.",19,23,-4,0.669530424948725,"Wisconsin","Minnesota",3,3,0,1,8,400914948,2017-03-05
+115,1,"4:37",1477,1477,"Zak Showalter made Layup.",21,23,-2,0.742494148087423,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+116,1,"4:22",1462,1462,"Foul on Zak Showalter.",21,23,-2,0.715176328160302,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+117,1,"4:22",1462,1462,"Dupree McBrayer missed Free Throw.",21,23,-2,0.715176328160302,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+118,1,"4:22",1462,1462,"Minnesota Deadball Team Rebound.",21,23,-2,0.715176328160302,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+119,1,"4:22",1462,1462,"Dupree McBrayer made Free Throw.",21,24,-3,0.685947596341857,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+120,1,"4:09",1449,1449,"Nigel Hayes made Dunk. Assisted by Vitto Brown.",23,24,-1,0.765766599014289,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+121,1,"3:45",1425,1425,"Amir Coffey missed Three Point Jumper.",23,24,-1,0.736890044749535,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+122,1,"3:45",1425,1425,"Nigel Hayes Defensive Rebound.",23,24,-1,0.736890044749535,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+123,1,"3:24",1404,1404,"Ethan Happ made Layup. Assisted by Nigel Hayes.",25,24,1,0.813926087188174,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+124,1,"3:09",1389,1389,"Foul on Ethan Happ.",25,24,1,0.806890067007956,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+125,1,"3:09",1389,1389,"Official TV Timeout",25,24,1,0.806890067007956,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+126,1,"3:09",1389,1389,"Reggie Lynch made Free Throw.",25,25,0,0.7825314061751,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+127,1,"3:09",1389,1389,"Reggie Lynch made Free Throw.",25,26,-1,0.75602919373902,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+128,1,"2:53",1373,1373,"Ethan Happ missed Layup.",25,26,-1,0.741508942031654,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+129,1,"2:53",1373,1373,"Ethan Happ Offensive Rebound.",25,26,-1,0.741508942031654,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+130,1,"2:39",1359,1359,"Zak Showalter missed Layup.",25,26,-1,0.753965394804963,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+131,1,"2:39",1359,1359,"Eric Curry Defensive Rebound.",25,26,-1,0.753965394804963,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+132,1,"2:24",1344,1344,"Reggie Lynch missed Layup.",25,26,-1,0.729315309007708,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+133,1,"2:24",1344,1344,"Eric Curry Offensive Rebound.",25,26,-1,0.729315309007708,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+134,1,"2:19",1339,1339,"Amir Coffey made Three Point Jumper. Assisted by Eric Curry.",25,29,-4,0.62775496699418,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+135,1,"2:07",1327,1327,"Zak Showalter made Layup. Assisted by Nigel Hayes.",27,29,-2,0.710276593582596,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+136,1,"1:47",1307,1307,"Eric Curry missed Layup.",27,29,-2,0.703060205588566,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+137,1,"1:47",1307,1307,"Reggie Lynch Offensive Rebound.",27,29,-2,0.703060205588566,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+138,1,"1:43",1303,1303,"Reggie Lynch Turnover.",27,29,-2,0.703060205588566,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+139,1,"1:42",1302,1302,"D'Mitrik Trice Steal.",27,29,-2,0.703060205588566,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+140,1,"1:38",1298,1298,"Foul on Nate Mason.",27,29,-2,0.704604847851651,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+141,1,"1:38",1298,1298,"Ethan Happ missed Free Throw.",27,29,-2,0.704604847851651,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+142,1,"1:38",1298,1298,"Wisconsin Deadball Team Rebound.",27,29,-2,0.704604847851651,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+143,1,"1:38",1298,1298,"Ethan Happ missed Free Throw.",27,29,-2,0.704604847851651,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+144,1,"1:38",1298,1298,"Bakary Konate Defensive Rebound.",27,29,-2,0.704604847851651,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+145,1,"1:15",1275,1275,"Amir Coffey missed Jumper.",27,29,-2,0.699898211346365,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+146,1,"1:15",1275,1275,"Ethan Happ Defensive Rebound.",27,29,-2,0.699898211346365,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+147,1,"0:58",1258,1258,"Ethan Happ missed Layup.",27,29,-2,0.693991771997392,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+148,1,"0:58",1258,1258,"Bakary Konate Defensive Rebound.",27,29,-2,0.693991771997392,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+149,1,"0:39",1239,1239,"Nate Mason Turnover.",27,29,-2,0.689656640155912,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+150,1,"0:38",1238,1238,"Vitto Brown Steal.",27,29,-2,0.689656640155912,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+151,1,"0:28",1228,1228,"D'Mitrik Trice missed Jumper.",27,29,-2,0.701300684575249,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+152,1,"0:28",1228,1228,"Nate Mason Defensive Rebound.",27,29,-2,0.701300684575249,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+153,1,"0:01",1201,1201,"Nate Mason missed Three Point Jumper.",27,29,-2,0.702228020959923,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+154,1,"0:01",1201,1201,"Vitto Brown Defensive Rebound.",27,29,-2,0.702228020959923,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+155,1,"0:00",1200,1200,"End of 1st half",27,29,-2,0.702228020959923,"Wisconsin","Minnesota",3,3,0,0,8,400914948,2017-03-05
+156,2,"20:00",1200,1200,"PLAY",27,29,-2,0.702228020959923,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+157,2,"19:50",1190,1190,"Bronson Koenig Turnover.",27,29,-2,0.739953680954855,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+158,2,"19:49",1189,1189,"Nate Mason Steal.",27,29,-2,0.700591941726822,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+159,2,"19:34",1174,1174,"Akeem Springs missed Three Point Jumper.",27,29,-2,0.687565824986411,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+160,2,"19:34",1174,1174,"Ethan Happ Defensive Rebound.",27,29,-2,0.687565824986411,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+161,2,"19:25",1165,1165,"Bronson Koenig made Three Point Jumper.",30,29,1,0.786278640122946,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+162,2,"19:09",1149,1149,"Nate Mason missed Jumper.",30,29,1,0.77971594379837,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+163,2,"19:09",1149,1149,"Wisconsin Defensive Rebound.",30,29,1,0.77971594379837,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+164,2,"18:49",1129,1129,"Bronson Koenig missed Jumper.",30,29,1,0.787921450392658,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+165,2,"18:49",1129,1129,"Jordan Murphy Defensive Rebound.",30,29,1,0.787921450392658,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+166,2,"18:44",1124,1124,"Nate Mason made Layup.",30,31,-1,0.719082166294739,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+167,2,"18:26",1106,1106,"Ethan Happ Turnover.",30,31,-1,0.733086777146257,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+168,2,"18:26",1106,1106,"Jordan Murphy Steal.",30,31,-1,0.733086777146257,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+169,2,"18:00",1080,1080,"Akeem Springs missed Jumper.",30,31,-1,0.730474204919993,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+170,2,"18:00",1080,1080,"Wisconsin Defensive Rebound.",30,31,-1,0.730474204919993,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+171,2,"17:46",1066,1066,"Foul on Jordan Murphy.",30,31,-1,0.721555644462539,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+172,2,"17:34",1054,1054,"Bronson Koenig missed Layup.",30,31,-1,0.723485681577688,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+173,2,"17:34",1054,1054,"Reggie Lynch Block.",30,31,-1,0.723485681577688,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+174,2,"17:33",1053,1053,"Nate Mason Defensive Rebound.",30,31,-1,0.723485681577688,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+175,2,"17:21",1041,1041,"Amir Coffey made Jumper.",30,33,-3,0.65916245329949,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+176,2,"17:01",1021,1021,"Ethan Happ missed Layup.",30,33,-3,0.643636591557251,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+177,2,"17:01",1021,1021,"Reggie Lynch Block.",30,33,-3,0.643636591557251,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+178,2,"17:00",1020,1020,"Wisconsin Offensive Rebound.",30,33,-3,0.643636591557251,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+179,2,"16:58",1018,1018,"Bronson Koenig made Three Point Jumper. Assisted by Ethan Happ.",33,33,0,0.725858909426862,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+180,2,"16:41",1001,1001,"Nate Mason missed Three Point Jumper.",33,33,0,0.732634306607937,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+181,2,"16:41",1001,1001,"Vitto Brown Defensive Rebound.",33,33,0,0.732634306607937,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+182,2,"16:16",976,976,"Ethan Happ Turnover.",33,33,0,0.75694281177252,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+183,2,"15:56",956,956,"Amir Coffey missed Three Point Jumper.",33,33,0,0.75005930822382,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+184,2,"15:56",956,956,"Vitto Brown Block.",33,33,0,0.75005930822382,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+185,2,"15:53",953,953,"Zak Showalter Defensive Rebound.",33,33,0,0.75005930822382,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+186,2,"15:33",933,933,"Nigel Hayes made Three Point Jumper. Assisted by Ethan Happ.",36,33,3,0.834171839597219,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+187,2,"15:09",909,909,"Akeem Springs missed Three Point Jumper.",36,33,3,0.830911242879633,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+188,2,"15:09",909,909,"Vitto Brown Defensive Rebound.",36,33,3,0.830911242879633,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+189,2,"14:50",890,890,"Foul on Akeem Springs.",36,33,3,0.838606553669936,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+190,2,"14:50",890,890,"Official TV Timeout",36,33,3,0.838606553669936,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+191,2,"14:50",890,890,"Ethan Happ made Free Throw.",37,33,4,0.863207446012501,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+192,2,"14:50",890,890,"Ethan Happ missed Free Throw.",37,33,4,0.863207446012501,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+193,2,"14:50",890,890,"Ethan Happ Offensive Rebound.",37,33,4,0.863207446012501,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+194,2,"14:33",873,873,"Bronson Koenig missed Three Point Jumper.",37,33,4,0.8618008314268,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+195,2,"14:33",873,873,"Jordan Murphy Defensive Rebound.",37,33,4,0.8618008314268,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+196,2,"14:18",858,858,"Dupree McBrayer missed Jumper.",37,33,4,0.868646675362366,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+197,2,"14:18",858,858,"Ethan Happ Defensive Rebound.",37,33,4,0.868646675362366,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+198,2,"14:09",849,849,"Zak Showalter made Three Point Jumper. Assisted by Nigel Hayes.",40,33,7,0.922243440648044,"Wisconsin","Minnesota",4,4,0,0,8,400914948,2017-03-05
+199,2,"13:58",838,838,"Minnesota  Timeout",40,33,7,0.928433025578141,"Wisconsin","Minnesota",4,3,0,1,8,400914948,2017-03-05
+200,2,"13:44",824,824,"Nate Mason made Jumper.",40,35,5,0.880413799646116,"Wisconsin","Minnesota",4,3,0,1,8,400914948,2017-03-05
+201,2,"13:24",804,804,"Khalil Iverson Turnover.",40,35,5,0.893160137334204,"Wisconsin","Minnesota",4,3,0,1,8,400914948,2017-03-05
+202,2,"13:22",802,802,"Jordan Murphy Steal.",40,35,5,0.893160137334204,"Wisconsin","Minnesota",4,3,0,1,8,400914948,2017-03-05
+203,2,"13:12",792,792,"Amir Coffey missed Layup.",40,35,5,0.889797723498794,"Wisconsin","Minnesota",4,3,0,1,8,400914948,2017-03-05
+204,2,"12:56",776,776,"Ethan Happ Defensive Rebound.",40,35,5,0.887176325998227,"Wisconsin","Minnesota",4,3,0,0,8,400914948,2017-03-05
+205,2,"12:55",775,775,"Ethan Happ Turnover.",40,35,5,0.887176325998227,"Wisconsin","Minnesota",4,3,0,0,8,400914948,2017-03-05
+206,2,"12:54",774,774,"Nate Mason Steal.",40,35,5,0.887176325998227,"Wisconsin","Minnesota",4,3,0,0,8,400914948,2017-03-05
+207,2,"12:50",770,770,"Foul on Ethan Happ.",40,35,5,0.887176325998227,"Wisconsin","Minnesota",4,3,0,0,8,400914948,2017-03-05
+208,2,"12:50",770,770,"Nate Mason missed Free Throw.",40,35,5,0.887176325998227,"Wisconsin","Minnesota",4,3,0,0,8,400914948,2017-03-05
+209,2,"12:50",770,770,"Minnesota Deadball Team Rebound.",40,35,5,0.887176325998227,"Wisconsin","Minnesota",4,3,0,0,8,400914948,2017-03-05
+210,2,"12:50",770,770,"Nate Mason missed Free Throw.",40,35,5,0.887176325998227,"Wisconsin","Minnesota",4,3,0,0,8,400914948,2017-03-05
+211,2,"12:50",770,770,"Vitto Brown Defensive Rebound.",40,35,5,0.887176325998227,"Wisconsin","Minnesota",4,3,0,0,8,400914948,2017-03-05
+212,2,"12:26",746,746,"D'Mitrik Trice made Three Point Jumper.",43,35,8,0.939813280789385,"Wisconsin","Minnesota",4,3,0,0,8,400914948,2017-03-05
+213,2,"12:26",746,746,"Foul on Jordan Murphy.",43,35,8,0.939813280789385,"Wisconsin","Minnesota",4,3,0,0,8,400914948,2017-03-05
+214,2,"12:24",744,744,"D'Mitrik Trice made Free Throw.",44,35,9,0.951255501092482,"Wisconsin","Minnesota",4,3,0,0,8,400914948,2017-03-05
+215,2,"12:11",731,731,"Nate Mason missed Layup.",44,35,9,0.94513234823099,"Wisconsin","Minnesota",4,3,0,0,8,400914948,2017-03-05
+216,2,"12:11",731,731,"Khalil Iverson Defensive Rebound.",44,35,9,0.94513234823099,"Wisconsin","Minnesota",4,3,0,0,8,400914948,2017-03-05
+217,2,"12:02",722,722,"D'Mitrik Trice made Layup. Assisted by Vitto Brown.",46,35,11,0.969050777597783,"Wisconsin","Minnesota",4,3,0,0,8,400914948,2017-03-05
+218,2,"11:38",698,698,"Dupree McBrayer missed Layup.",46,35,11,0.975512151013925,"Wisconsin","Minnesota",4,3,0,0,8,400914948,2017-03-05
+219,2,"11:38",698,698,"Vitto Brown Defensive Rebound.",46,35,11,0.975512151013925,"Wisconsin","Minnesota",4,3,0,0,8,400914948,2017-03-05
+220,2,"11:32",692,692,"Vitto Brown made Dunk. Assisted by Bronson Koenig.",48,35,13,0.984634529997098,"Wisconsin","Minnesota",4,3,0,0,8,400914948,2017-03-05
+221,2,"11:30",690,690,"Minnesota  Timeout",48,35,13,0.984634529997098,"Wisconsin","Minnesota",4,2,0,1,8,400914948,2017-03-05
+222,2,"11:09",669,669,"Dupree McBrayer made Jumper.",48,37,11,0.969406711803153,"Wisconsin","Minnesota",4,2,0,1,8,400914948,2017-03-05
+223,2,"10:44",644,644,"Nigel Hayes missed Layup.",48,37,11,0.972627672318236,"Wisconsin","Minnesota",4,2,0,1,8,400914948,2017-03-05
+224,2,"10:44",644,644,"Bakary Konate Defensive Rebound.",48,37,11,0.972627672318236,"Wisconsin","Minnesota",4,2,0,1,8,400914948,2017-03-05
+225,2,"10:36",636,636,"Foul on Nigel Hayes.",48,37,11,0.968334772370168,"Wisconsin","Minnesota",4,2,0,1,8,400914948,2017-03-05
+226,2,"10:21",621,621,"Dupree McBrayer missed Layup.",48,37,11,0.977567465308899,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+227,2,"10:21",621,621,"Ethan Happ Block.",48,37,11,0.977567465308899,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+228,2,"10:20",620,620,"Minnesota Offensive Rebound.",48,37,11,0.977567465308899,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+229,2,"10:16",616,616,"Reggie Lynch missed Layup.",48,37,11,0.973976409257647,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+230,2,"10:16",616,616,"Ethan Happ Defensive Rebound.",48,37,11,0.973976409257647,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+231,2,"9:58",598,598,"Khalil Iverson missed Layup.",48,37,11,0.97167980406707,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+232,2,"9:58",598,598,"Reggie Lynch Block.",48,37,11,0.97167980406707,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+233,2,"9:55",595,595,"Khalil Iverson Offensive Rebound.",48,37,11,0.97167980406707,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+234,2,"9:53",593,593,"Foul on Eric Curry.",48,37,11,0.97167980406707,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+235,2,"9:53",593,593,"Khalil Iverson missed Free Throw.",48,37,11,0.97167980406707,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+236,2,"9:53",593,593,"Wisconsin Deadball Team Rebound.",48,37,11,0.97167980406707,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+237,2,"9:53",593,593,"Khalil Iverson missed Free Throw.",48,37,11,0.97167980406707,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+238,2,"9:53",593,593,"Reggie Lynch Defensive Rebound.",48,37,11,0.97167980406707,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+239,2,"9:47",587,587,"Nate Mason missed Layup.",48,37,11,0.970790245103844,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+240,2,"9:47",587,587,"Khalil Iverson Defensive Rebound.",48,37,11,0.970790245103844,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+241,2,"9:40",580,580,"Foul on Reggie Lynch.",48,37,11,0.970790245103844,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+242,2,"9:40",580,580,"Khalil Iverson missed Free Throw.",48,37,11,0.970790245103844,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+243,2,"9:40",580,580,"Wisconsin Deadball Team Rebound.",48,37,11,0.970790245103844,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+244,2,"9:40",580,580,"Khalil Iverson made Free Throw.",49,37,12,0.976924517889416,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+245,2,"9:35",575,575,"Foul on Khalil Iverson.",49,37,12,0.982613766956554,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+246,2,"9:35",575,575,"Amir Coffey missed Free Throw.",49,37,12,0.982613766956554,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+247,2,"9:35",575,575,"Minnesota Deadball Team Rebound.",49,37,12,0.982613766956554,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+248,2,"9:35",575,575,"Amir Coffey made Free Throw.",49,38,11,0.977714998269799,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+249,2,"9:21",561,561,"Ethan Happ Turnover.",49,38,11,0.979300210237308,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+250,2,"9:20",560,560,"Amir Coffey Steal.",49,38,11,0.979300210237308,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+251,2,"9:17",557,557,"Amir Coffey missed Layup.",49,38,11,0.976515037260279,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+252,2,"9:17",557,557,"Bronson Koenig Block.",49,38,11,0.976515037260279,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+253,2,"9:15",555,555,"Dupree McBrayer Offensive Rebound.",49,38,11,0.976515037260279,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+254,2,"9:11",551,551,"Akeem Springs missed Three Point Jumper.",49,38,11,0.976515037260279,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+255,2,"9:11",551,551,"Zak Showalter Block.",49,38,11,0.976515037260279,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+256,2,"9:08",548,548,"Dupree McBrayer Offensive Rebound.",49,38,11,0.976910555080163,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+257,2,"9:04",544,544,"Dupree McBrayer made Layup.",49,40,9,0.961171078737685,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+258,2,"9:04",544,544,"Foul on Vitto Brown.",49,40,9,0.961171078737685,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+259,2,"9:04",544,544,"Dupree McBrayer made Free Throw.",49,41,8,0.949835005176309,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+260,2,"8:39",519,519,"Zak Showalter missed Layup.",49,41,8,0.950293893193286,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+261,2,"8:39",519,519,"Khalil Iverson Offensive Rebound.",49,41,8,0.950293893193286,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+262,2,"8:35",515,515,"Khalil Iverson made Layup.",51,41,10,0.970451436782758,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+263,2,"8:15",495,495,"Akeem Springs missed Jumper.",51,41,10,0.973693920735152,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+264,2,"8:15",495,495,"Minnesota Offensive Rebound.",51,41,10,0.973693920735152,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+265,2,"8:04",484,484,"Reggie Lynch missed Jumper.",51,41,10,0.972892285464944,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+266,2,"8:04",484,484,"Eric Curry Offensive Rebound.",51,41,10,0.972892285464944,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+267,2,"7:47",467,467,"Foul on Vitto Brown.",51,41,10,0.974769141533367,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+268,2,"7:47",467,467,"Official TV Timeout",51,41,10,0.974769141533367,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+269,2,"7:47",467,467,"Dupree McBrayer missed Free Throw.",51,41,10,0.974769141533367,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+270,2,"7:47",467,467,"Minnesota Deadball Team Rebound.",51,41,10,0.974769141533367,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+271,2,"7:47",467,467,"Dupree McBrayer made Free Throw.",51,42,9,0.966825400675895,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+272,2,"7:24",444,444,"Bronson Koenig missed Three Point Jumper.",51,42,9,0.961548599979744,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+273,2,"7:24",444,444,"Zak Showalter Offensive Rebound.",51,42,9,0.961548599979744,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+274,2,"7:18",438,438,"Bronson Koenig missed Jumper.",51,42,9,0.974915925671959,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+275,2,"7:18",438,438,"Akeem Springs Defensive Rebound.",51,42,9,0.974915925671959,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+276,2,"7:09",429,429,"Dupree McBrayer missed Jumper.",51,42,9,0.96789262022011,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+277,2,"7:09",429,429,"Ethan Happ Defensive Rebound.",51,42,9,0.96789262022011,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+278,2,"6:40",400,400,"Nigel Hayes missed Jumper.",51,42,9,0.976186687139146,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+279,2,"6:40",400,400,"Eric Curry Defensive Rebound.",51,42,9,0.976186687139146,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+280,2,"6:20",380,380,"Amir Coffey made Three Point Jumper.",51,45,6,0.933734886364894,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+281,2,"5:52",352,352,"Foul on Reggie Lynch.",51,45,6,0.937705893492853,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+282,2,"5:52",352,352,"D'Mitrik Trice Turnover.",51,45,6,0.937705893492853,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+283,2,"5:51",351,351,"Dupree McBrayer Steal.",51,45,6,0.937705893492853,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+284,2,"5:45",345,345,"Dupree McBrayer Turnover.",51,45,6,0.933786226546098,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+285,2,"5:44",344,344,"Zak Showalter Steal.",51,45,6,0.933786226546098,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+286,2,"5:37",337,337,"Foul on Nate Mason.",51,45,6,0.948392746412158,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+287,2,"5:37",337,337,"Nigel Hayes missed Free Throw.",51,45,6,0.948392746412158,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+288,2,"5:37",337,337,"Eric Curry Defensive Rebound.",51,45,6,0.948392746412158,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+289,2,"5:20",320,320,"Foul on Reggie Lynch.",51,45,6,0.93518512547957,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+290,2,"5:20",320,320,"Reggie Lynch Turnover.",51,45,6,0.93518512547957,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+291,2,"5:06",306,306,"Zak Showalter made Layup.",53,45,8,0.967280342890318,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+292,2,"4:38",278,278,"Dupree McBrayer Turnover.",53,45,8,0.977568149272055,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+293,2,"4:37",277,277,"Bronson Koenig Steal.",53,45,8,0.977568149272055,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+294,2,"4:21",261,261,"Vitto Brown missed Jumper.",53,45,8,0.975877549345151,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+295,2,"4:21",261,261,"Nigel Hayes Offensive Rebound.",53,45,8,0.975877549345151,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+296,2,"4:03",243,243,"Bronson Koenig missed Layup.",53,45,8,0.979670146702339,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+297,2,"4:03",243,243,"Bakary Konate Defensive Rebound.",53,45,8,0.979670146702339,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+298,2,"3:52",232,232,"Nate Mason missed Jumper.",53,45,8,0.979990713996726,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+299,2,"3:52",232,232,"Zak Showalter Defensive Rebound.",53,45,8,0.979990713996726,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+300,2,"3:32",212,212,"Nigel Hayes made Jumper. Assisted by Vitto Brown.",55,45,10,0.99346639810378,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+301,2,"3:31",211,211,"Foul on Bakary Konate.",55,45,10,0.99346639810378,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+302,2,"3:30",210,210,"Official TV Timeout",55,45,10,0.99346639810378,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+303,2,"3:30",210,210,"Nigel Hayes missed Free Throw.",55,45,10,0.99346639810378,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+304,2,"3:30",210,210,"Jordan Murphy Defensive Rebound.",55,45,10,0.99346639810378,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+305,2,"3:22",202,202,"Nate Mason missed Layup.",55,45,10,0.995080542526136,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+306,2,"3:22",202,202,"Zak Showalter Defensive Rebound.",55,45,10,0.995080542526136,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+307,2,"3:05",185,185,"Bronson Koenig made Three Point Jumper.",58,45,13,0.998942774310853,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+308,2,"2:53",173,173,"Nate Mason made Layup.",58,47,11,0.997714917902579,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+309,2,"2:37",157,157,"Bronson Koenig made Three Point Jumper.",61,47,14,0.999708717546844,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+310,2,"2:25",145,145,"Amir Coffey missed Jumper.",61,47,14,0.99962256493053,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+311,2,"2:25",145,145,"Jordan Murphy Offensive Rebound.",61,47,14,0.99962256493053,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+312,2,"2:20",140,140,"Foul on Zak Showalter.",61,47,14,0.99962256493053,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+313,2,"2:20",140,140,"Jordan Murphy made Free Throw.",61,48,13,0.999366483674974,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+314,2,"2:20",140,140,"Jordan Murphy made Free Throw.",61,49,12,0.998936841801849,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+315,2,"1:57",117,117,"Bronson Koenig made Three Point Jumper.",64,49,15,0.999933483684129,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+316,2,"1:38",98,98,"Nate Mason missed Jumper.",64,49,15,0.999946950782416,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+317,2,"1:38",98,98,"D'Mitrik Trice Defensive Rebound.",64,49,15,0.999946950782416,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+318,2,"1:07",67,67,"Bronson Koenig missed Jumper.",64,49,15,0.999987783143253,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+319,2,"1:07",67,67,"Jordan Murphy Defensive Rebound.",64,49,15,0.999987783143253,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+320,2,"0:54",54,54,"Nate Mason Turnover.",64,49,15,0.999993244505898,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+321,2,"0:54",54,54,"Bronson Koenig Steal.",64,49,15,0.999993244505898,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+322,2,"0:29",29,29,"Foul on Eric Curry.",64,49,15,0.999999757482566,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+323,2,"0:28",28,28,"Bronson Koenig made Free Throw.",65,49,16,0.999999994188322,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+324,2,"0:28",28,28,"Bronson Koenig made Free Throw.",66,49,17,0.999999998153648,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+325,2,"0:20",20,20,"Amir Coffey missed Layup.",66,49,17,0.999999999999466,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+326,2,"0:20",20,20,"Alex Illikainen Defensive Rebound.",66,49,17,0.999999999999466,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05
+327,2,"0:00",0,0,"End of Game",66,49,17,1,"Wisconsin","Minnesota",4,2,0,0,8,400914948,2017-03-05

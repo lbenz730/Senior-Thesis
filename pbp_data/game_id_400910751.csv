@@ -1,0 +1,328 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.301635908369574,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+2,1,"19:47",2387,2387,"Foul on Sebastian Saiz.",0,0,0,0.30736277493174,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+3,1,"19:47",2387,2387,"Sebastian Saiz Turnover.",0,0,0,0.30736277493174,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+4,1,"19:47",2387,2387,"Russell Woods made Free Throw.",1,0,1,0.314300235202406,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+5,1,"19:47",2387,2387,"Russell Woods missed Free Throw.",1,0,1,0.314300235202406,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+6,1,"19:47",2387,2387,"Missouri Deadball Team Rebound.",1,0,1,0.314300235202406,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+7,1,"19:32",2372,2372,"Russell Woods Turnover.",1,0,1,0.347608466380832,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+8,1,"19:20",2360,2360,"Marcanvis Hymon missed Jumper.",1,0,1,0.324005610125362,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+9,1,"19:20",2360,2360,"Russell Woods Defensive Rebound.",1,0,1,0.324005610125362,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+10,1,"18:53",2333,2333,"Jordan Barnett made Three Point Jumper.",4,0,4,0.406632324669639,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+11,1,"18:28",2308,2308,"Foul on Russell Woods.",4,0,4,0.410819453502777,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+12,1,"18:28",2308,2308,"Sebastian Saiz made Free Throw.",4,1,3,0.38696333656638,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+13,1,"18:28",2308,2308,"Sebastian Saiz made Free Throw.",4,2,2,0.363637529238941,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+14,1,"18:28",2308,2308,"Jordan Geist made Jumper.",6,2,4,0.410819453502777,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+15,1,"18:28",2308,2308,"Sebastian Saiz made Three Point Jumper. Assisted by Terence Davis.",6,5,1,0.340935811592065,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+16,1,"17:39",2259,2259,"Foul on Justas Furmanavicius.",6,5,1,0.355362285063177,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+17,1,"17:32",2252,2252,"Kevin Puryear missed Layup.",6,5,1,0.355362285063177,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+18,1,"17:32",2252,2252,"Russell Woods Offensive Rebound.",6,5,1,0.355362285063177,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+19,1,"17:30",2250,2250,"Russell Woods missed Layup.",6,5,1,0.355362285063177,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+20,1,"17:30",2250,2250,"Marcanvis Hymon Defensive Rebound.",6,5,1,0.355362285063177,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+21,1,"17:26",2246,2246,"Deandre Burnett made Three Point Jumper.",6,8,-2,0.306748684878174,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+22,1,"17:12",2232,2232,"Jordan Barnett Turnover.",6,8,-2,0.277977909569129,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+23,1,"17:10",2230,2230,"Sebastian Saiz Steal.",6,8,-2,0.277977909569129,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+24,1,"17:06",2226,2226,"Terence Davis made Three Point Jumper. Assisted by Breein Tyree.",6,11,-5,0.224277514011252,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+25,1,"16:39",2199,2199,"K.J. Walton missed Jumper.",6,11,-5,0.219360311759543,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+26,1,"16:39",2199,2199,"Marcanvis Hymon Defensive Rebound.",6,11,-5,0.219360311759543,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+27,1,"16:23",2183,2183,"Foul on Terrence Phillips.",6,11,-5,0.22095259924253,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+28,1,"16:16",2176,2176,"Justas Furmanavicius missed Three Point Jumper.",6,11,-5,0.21539054495834,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+29,1,"16:16",2176,2176,"Jordan Barnett Defensive Rebound.",6,11,-5,0.21539054495834,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+30,1,"16:01",2161,2161,"Jordan Barnett missed Three Point Jumper.",6,11,-5,0.219176050631513,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+31,1,"16:01",2161,2161,"Sebastian Saiz Defensive Rebound.",6,11,-5,0.219176050631513,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+32,1,"15:48",2148,2148,"Sebastian Saiz made Layup.",6,13,-7,0.196760807270412,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+33,1,"15:33",2133,2133,"Kevin Puryear Turnover.",6,13,-7,0.169179612346794,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+34,1,"15:33",2133,2133,"Official TV Timeout",6,13,-7,0.169179612346794,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+35,1,"15:23",2123,2123,"Justas Furmanavicius made Jumper.",6,15,-9,0.143429132436026,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+36,1,"15:08",2108,2108,"Russell Woods made Layup. Assisted by Frankie Hughes.",8,15,-7,0.179973724977018,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+37,1,"14:49",2089,2089,"Deandre Burnett missed Jumper.",8,15,-7,0.192721659068485,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+38,1,"14:49",2089,2089,"Deandre Burnett Offensive Rebound.",8,15,-7,0.192721659068485,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+39,1,"14:46",2086,2086,"Deandre Burnett made Layup.",8,17,-9,0.160799793169711,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+40,1,"14:26",2066,2066,"Foul on Frankie Hughes.",8,17,-9,0.136551990854553,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+41,1,"14:26",2066,2066,"Frankie Hughes Turnover.",8,17,-9,0.136551990854553,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+42,1,"14:10",2050,2050,"Terence Davis made Three Point Jumper. Assisted by Justas Furmanavicius.",8,20,-12,0.0970774597641382,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+43,1,"13:51",2031,2031,"Terrence Phillips missed Three Point Jumper.",8,20,-12,0.112848812801646,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+44,1,"13:51",2031,2031,"Frankie Hughes Offensive Rebound.",8,20,-12,0.112848812801646,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+45,1,"13:43",2023,2023,"Jordan Barnett made Dunk. Assisted by Frankie Hughes.",10,20,-10,0.110813404718207,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+46,1,"13:22",2002,2002,"Deandre Burnett missed Three Point Jumper.",10,20,-10,0.137688364906525,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+47,1,"13:22",2002,2002,"Russell Woods Defensive Rebound.",10,20,-10,0.137688364906525,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+48,1,"13:12",1992,1992,"K.J. Walton missed Layup.",10,20,-10,0.116432261350829,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+49,1,"13:12",1992,1992,"Russell Woods Offensive Rebound.",10,20,-10,0.116432261350829,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+50,1,"13:10",1990,1990,"Russell Woods missed Layup.",10,20,-10,0.116432261350829,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+51,1,"13:10",1990,1990,"Terence Davis Defensive Rebound.",10,20,-10,0.116432261350829,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+52,1,"13:06",1986,1986,"Terence Davis made Dunk.",10,22,-12,0.0981296294125069,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+53,1,"12:45",1965,1965,"Russell Woods made Layup.",12,22,-10,0.14342317577004,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+54,1,"12:45",1965,1965,"Foul on Marcanvis Hymon.",12,22,-10,0.14342317577004,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+55,1,"12:45",1965,1965,"Russell Woods missed Free Throw.",12,22,-10,0.14342317577004,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+56,1,"12:45",1965,1965,"Marcanvis Hymon Defensive Rebound.",12,22,-10,0.14342317577004,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+57,1,"12:22",1942,1942,"Marcanvis Hymon made Jumper.",12,24,-12,0.097112220211319,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+58,1,"12:11",1931,1931,"Russell Woods made Layup. Assisted by Jordan Geist.",14,24,-10,0.116573127623895,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+59,1,"12:11",1931,1931,"Foul on Marcanvis Hymon.",14,24,-10,0.116573127623895,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+60,1,"12:11",1931,1931,"Russell Woods made Free Throw.",15,24,-9,0.130548362592623,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+61,1,"11:55",1915,1915,"Cullen Neal missed Three Point Jumper.",15,24,-9,0.144259177942173,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+62,1,"11:55",1915,1915,"Kevin Puryear Defensive Rebound.",15,24,-9,0.144259177942173,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+63,1,"11:27",1887,1887,"Kevin Puryear made Layup.",17,24,-7,0.16413299945408,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+64,1,"11:09",1869,1869,"Terence Davis missed Three Point Jumper.",17,24,-7,0.178944238535021,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+65,1,"11:09",1869,1869,"Sebastian Saiz Offensive Rebound.",17,24,-7,0.178944238535021,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+66,1,"10:54",1854,1854,"Terence Davis missed Three Point Jumper.",17,24,-7,0.176139906412393,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+67,1,"10:54",1854,1854,"Jordan Geist Defensive Rebound.",17,24,-7,0.176139906412393,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+68,1,"10:38",1838,1838,"Terrence Phillips Turnover.",17,24,-7,0.177850347282374,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+69,1,"10:18",1818,1818,"Foul on Cullen Neal.",17,24,-7,0.163161439464199,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+70,1,"10:18",1818,1818,"Cullen Neal Turnover.",17,24,-7,0.163161439464199,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+71,1,"9:51",1791,1791,"Kevin Puryear made Three Point Jumper. Assisted by Terrence Phillips.",20,24,-4,0.22900809330338,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+72,1,"9:31",1771,1771,"Justas Furmanavicius made Layup.",20,26,-6,0.185410539072289,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+73,1,"9:31",1771,1771,"Foul on Cullen VanLeer.",20,26,-6,0.185410539072289,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+74,1,"9:31",1771,1771,"Justas Furmanavicius made Free Throw.",20,27,-7,0.167629732289608,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+75,1,"9:17",1757,1757,"Frankie Hughes missed Three Point Jumper.",20,27,-7,0.138081950547722,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+76,1,"9:17",1757,1757,"Breein Tyree Defensive Rebound.",20,27,-7,0.138081950547722,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+77,1,"9:10",1750,1750,"Terence Davis Turnover.",20,27,-7,0.138081950547722,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+78,1,"9:08",1748,1748,"Terrence Phillips Steal.",20,27,-7,0.189076873537263,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+79,1,"9:05",1745,1745,"Terrence Phillips made Layup.",22,27,-5,0.230871143306732,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+80,1,"8:52",1732,1732,"Breein Tyree made Three Point Jumper. Assisted by Sebastian Saiz.",22,30,-8,0.145049042353617,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+81,1,"8:32",1712,1712,"Cullen VanLeer missed Three Point Jumper.",22,30,-8,0.145711222022663,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+82,1,"8:32",1712,1712,"Sebastian Saiz Defensive Rebound.",22,30,-8,0.145711222022663,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+83,1,"8:23",1703,1703,"Breein Tyree missed Layup.",22,30,-8,0.149302382306635,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+84,1,"8:23",1703,1703,"Kevin Puryear Defensive Rebound.",22,30,-8,0.149302382306635,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+85,1,"8:15",1695,1695,"Terrence Phillips missed Three Point Jumper.",22,30,-8,0.150245487355346,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+86,1,"8:15",1695,1695,"Kevin Puryear Offensive Rebound.",22,30,-8,0.150245487355346,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+87,1,"8:09",1689,1689,"Kevin Puryear made Layup.",24,30,-6,0.170715834033846,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+88,1,"7:52",1672,1672,"Foul on Reed Nikko.",24,30,-6,0.183707134872429,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+89,1,"7:52",1672,1672,"Official TV Timeout",24,30,-6,0.183707134872429,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+90,1,"7:52",1672,1672,"Sebastian Saiz missed Free Throw.",24,30,-6,0.183707134872429,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+91,1,"7:52",1672,1672,"Ole Miss Deadball Team Rebound.",24,30,-6,0.183707134872429,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+92,1,"7:52",1672,1672,"Sebastian Saiz made Free Throw.",24,31,-7,0.163830929343028,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+93,1,"7:33",1653,1653,"Terrence Phillips Turnover.",24,31,-7,0.177860866013106,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+94,1,"7:32",1652,1652,"Deandre Burnett Steal.",24,31,-7,0.177860866013106,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+95,1,"7:15",1635,1635,"Terence Davis missed Jumper.",24,31,-7,0.181255884233345,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+96,1,"7:15",1635,1635,"Terrence Phillips Defensive Rebound.",24,31,-7,0.181255884233345,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+97,1,"7:09",1629,1629,"Jordan Barnett missed Jumper.",24,31,-7,0.157119078567719,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+98,1,"7:09",1629,1629,"Deandre Burnett Defensive Rebound.",24,31,-7,0.157119078567719,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+99,1,"6:43",1603,1603,"Sebastian Saiz Turnover.",24,31,-7,0.162623185372713,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+100,1,"6:41",1601,1601,"Terrence Phillips Steal.",24,31,-7,0.162623185372713,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+101,1,"6:39",1599,1599,"Terrence Phillips missed Layup.",24,31,-7,0.184583875734192,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+102,1,"6:39",1599,1599,"Terence Davis Defensive Rebound.",24,31,-7,0.184583875734192,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+103,1,"6:31",1591,1591,"Terence Davis made Jumper.",24,33,-9,0.147331524709729,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+104,1,"6:04",1564,1564,"Foul on Sebastian Saiz.",24,33,-9,0.121068649244078,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+105,1,"6:04",1564,1564,"Russell Woods made Free Throw.",25,33,-8,0.137052137419588,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+106,1,"6:04",1564,1564,"Russell Woods missed Free Throw.",25,33,-8,0.137052137419588,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+107,1,"6:04",1564,1564,"Missouri Offensive Rebound.",25,33,-8,0.137052137419588,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+108,1,"5:54",1554,1554,"Jordan Barnett made Jumper.",27,33,-6,0.179790776296047,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+109,1,"5:38",1538,1538,"Breein Tyree missed Jumper.",27,33,-6,0.185813134981339,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+110,1,"5:38",1538,1538,"Kevin Puryear Defensive Rebound.",27,33,-6,0.185813134981339,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+111,1,"5:34",1534,1534,"Terrence Phillips Turnover.",27,33,-6,0.185813134981339,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+112,1,"5:33",1533,1533,"Terence Davis Steal.",27,33,-6,0.185813134981339,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+113,1,"5:31",1531,1531,"Foul on Kevin Puryear.",27,33,-6,0.185813134981339,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+114,1,"5:23",1523,1523,"Deandre Burnett missed Jumper.",27,33,-6,0.186681617278453,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+115,1,"5:23",1523,1523,"Russell Woods Defensive Rebound.",27,33,-6,0.186681617278453,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+116,1,"5:23",1523,1523,"Foul on Marcanvis Hymon.",27,33,-6,0.186681617278453,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+117,1,"5:23",1523,1523,"Russell Woods missed Free Throw.",27,33,-6,0.186681617278453,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+118,1,"5:23",1523,1523,"Terence Davis Defensive Rebound.",27,33,-6,0.186681617278453,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+119,1,"5:08",1508,1508,"Sebastian Saiz missed Jumper.",27,33,-6,0.183256167087459,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+120,1,"5:08",1508,1508,"Jordan Barnett Defensive Rebound.",27,33,-6,0.183256167087459,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+121,1,"4:49",1489,1489,"K.J. Walton missed Layup.",27,33,-6,0.171083654593382,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+122,1,"4:49",1489,1489,"Kevin Puryear Offensive Rebound.",27,33,-6,0.171083654593382,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+123,1,"4:45",1485,1485,"Kevin Puryear missed Layup.",27,33,-6,0.171083654593382,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+124,1,"4:45",1485,1485,"Kevin Puryear Offensive Rebound.",27,33,-6,0.171083654593382,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+125,1,"4:43",1483,1483,"Kevin Puryear made Layup.",29,33,-4,0.217943640011733,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+126,1,"4:36",1476,1476,"Ole Miss  Timeout",29,33,-4,0.209725924658352,"Missouri","Ole Miss",3,4,1,0,-4,400910751,2017-01-21
+127,1,"4:23",1463,1463,"Cullen Neal missed Jumper.",29,33,-4,0.260284418966893,"Missouri","Ole Miss",3,4,1,0,-4,400910751,2017-01-21
+128,1,"4:23",1463,1463,"Terrence Phillips Defensive Rebound.",29,33,-4,0.260284418966893,"Missouri","Ole Miss",3,4,1,0,-4,400910751,2017-01-21
+129,1,"4:00",1440,1440,"Kevin Puryear Turnover.",29,33,-4,0.246054845382074,"Missouri","Ole Miss",3,4,1,0,-4,400910751,2017-01-21
+130,1,"4:00",1440,1440,"Official TV Timeout",29,33,-4,0.246054845382074,"Missouri","Ole Miss",3,4,1,0,-4,400910751,2017-01-21
+131,1,"3:41",1421,1421,"Deandre Burnett made Three Point Jumper.",29,36,-7,0.163464856041244,"Missouri","Ole Miss",3,4,1,0,-4,400910751,2017-01-21
+132,1,"3:19",1399,1399,"Kevin Puryear made Layup. Assisted by Terrence Phillips.",31,36,-5,0.183315514911537,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+133,1,"3:07",1387,1387,"Sebastian Saiz made Jumper.",31,38,-7,0.166845156553091,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+134,1,"2:48",1368,1368,"Frankie Hughes missed Three Point Jumper.",31,38,-7,0.158513465327457,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+135,1,"2:48",1368,1368,"Terence Davis Defensive Rebound.",31,38,-7,0.158513465327457,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+136,1,"2:43",1363,1363,"Foul on Frankie Hughes.",31,38,-7,0.158513465327457,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+137,1,"2:43",1363,1363,"Terence Davis made Free Throw.",31,39,-8,0.139086216520684,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+138,1,"2:43",1363,1363,"Terence Davis missed Free Throw.",31,39,-8,0.139086216520684,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+139,1,"2:43",1363,1363,"Cullen VanLeer Defensive Rebound.",31,39,-8,0.139086216520684,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+140,1,"2:13",1333,1333,"Russell Woods missed Jumper.",31,39,-8,0.132199736684982,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+141,1,"2:13",1333,1333,"Sebastian Saiz Defensive Rebound.",31,39,-8,0.132199736684982,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+142,1,"1:47",1307,1307,"Sebastian Saiz missed Three Point Jumper.",31,39,-8,0.155696391591077,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+143,1,"1:47",1307,1307,"Jordan Geist Defensive Rebound.",31,39,-8,0.155696391591077,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+144,1,"1:36",1296,1296,"Russell Woods missed Layup.",31,39,-8,0.146658259052983,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+145,1,"1:36",1296,1296,"Russell Woods Offensive Rebound.",31,39,-8,0.146658259052983,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+146,1,"1:33",1293,1293,"Russell Woods made Layup.",33,39,-6,0.193692707229491,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+147,1,"1:14",1274,1274,"Deandre Burnett missed Three Point Jumper.",33,39,-6,0.173118669255873,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+148,1,"1:14",1274,1274,"Jordan Geist Defensive Rebound.",33,39,-6,0.173118669255873,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+149,1,"0:52",1252,1252,"Jordan Geist missed Jumper.",33,39,-6,0.190455100898533,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+150,1,"0:52",1252,1252,"Ole Miss Defensive Rebound.",33,39,-6,0.190455100898533,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+151,1,"0:39",1239,1239,"Deandre Burnett missed Layup.",33,39,-6,0.175685815601818,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+152,1,"0:39",1239,1239,"Terrence Phillips Defensive Rebound.",33,39,-6,0.175685815601818,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+153,1,"0:34",1234,1234,"Terrence Phillips missed Layup.",33,39,-6,0.175685815601818,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+154,1,"0:34",1234,1234,"Justas Furmanavicius Block.",33,39,-6,0.175685815601818,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+155,1,"0:32",1232,1232,"Terence Davis Defensive Rebound.",33,39,-6,0.175685815601818,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+156,1,"0:28",1228,1228,"Deandre Burnett missed Three Point Jumper.",33,39,-6,0.174712563888301,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+157,1,"0:28",1228,1228,"Justas Furmanavicius Offensive Rebound.",33,39,-6,0.174712563888301,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+158,1,"0:00",1200,1200,"Deandre Burnett Turnover.",33,39,-6,0.177200637151557,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+159,1,"0:00",1200,1200,"End of 1st half",33,39,-6,0.177200637151557,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+160,2,"20:00",1200,1200,"PLAY",33,39,-6,0.177200637151557,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+161,2,"19:47",1187,1187,"Kevin Puryear made Layup.",35,39,-4,0.222752001706874,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+162,2,"19:33",1173,1173,"Justas Furmanavicius Turnover.",35,39,-4,0.234354774518913,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+163,2,"19:19",1159,1159,"Jordan Barnett Turnover.",35,39,-4,0.238877682996006,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+164,2,"19:07",1147,1147,"Sebastian Saiz missed Three Point Jumper.",35,39,-4,0.233404424649749,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+165,2,"19:07",1147,1147,"Jordan Barnett Defensive Rebound.",35,39,-4,0.233404424649749,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+166,2,"18:54",1134,1134,"Jordan Barnett missed Jumper.",35,39,-4,0.23074905804917,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+167,2,"18:54",1134,1134,"Sebastian Saiz Defensive Rebound.",35,39,-4,0.23074905804917,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+168,2,"18:53",1133,1133,"Foul on Kevin Puryear.",35,39,-4,0.23074905804917,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+169,2,"18:39",1119,1119,"Justas Furmanavicius missed Three Point Jumper.",35,39,-4,0.236950327439947,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+170,2,"18:39",1119,1119,"Russell Woods Defensive Rebound.",35,39,-4,0.236950327439947,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+171,2,"18:16",1096,1096,"Russell Woods Turnover.",35,39,-4,0.229215072417321,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+172,2,"17:50",1070,1070,"Terence Davis missed Jumper.",35,39,-4,0.245675707994664,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+173,2,"17:50",1070,1070,"Sebastian Saiz Offensive Rebound.",35,39,-4,0.245675707994664,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+174,2,"17:47",1067,1067,"Foul on Terrence Phillips.",35,39,-4,0.249213085025251,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+175,2,"17:39",1059,1059,"Sebastian Saiz made Layup.",35,41,-6,0.171703299005872,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+176,2,"17:22",1042,1042,"Terrence Phillips made Three Point Jumper. Assisted by K.J. Walton.",38,41,-3,0.270578284235447,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+177,2,"17:20",1040,1040,"Foul on Justas Furmanavicius.",38,41,-3,0.270578284235447,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+178,2,"17:20",1040,1040,"Terrence Phillips missed Free Throw.",38,41,-3,0.270578284235447,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+179,2,"17:20",1040,1040,"Marcanvis Hymon Defensive Rebound.",38,41,-3,0.270578284235447,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+180,2,"17:02",1022,1022,"Sebastian Saiz missed Jumper.",38,41,-3,0.264362799943099,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+181,2,"17:02",1022,1022,"Ole Miss Offensive Rebound.",38,41,-3,0.264362799943099,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+182,2,"16:56",1016,1016,"Sebastian Saiz missed Jumper.",38,41,-3,0.239069077500504,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+183,2,"16:56",1016,1016,"Terence Davis Offensive Rebound.",38,41,-3,0.239069077500504,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+184,2,"16:52",1012,1012,"Terence Davis made Layup.",38,43,-5,0.179005083921384,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+185,2,"16:34",994,994,"Terrence Phillips made Three Point Jumper. Assisted by K.J. Walton.",41,43,-2,0.280806729367219,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+186,2,"16:13",973,973,"Terence Davis made Jumper.",41,45,-4,0.230599660979074,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+187,2,"15:41",941,941,"Kevin Puryear made Three Point Jumper. Assisted by Terrence Phillips.",44,45,-1,0.344517380845617,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+188,2,"15:23",923,923,"Terence Davis made Jumper. Assisted by Deandre Burnett.",44,47,-3,0.23816312976193,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+189,2,"15:04",904,904,"Foul on Breein Tyree.",44,47,-3,0.258224702037273,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+190,2,"15:04",904,904,"Official TV Timeout",44,47,-3,0.258224702037273,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+191,2,"15:04",904,904,"Terrence Phillips made Free Throw.",45,47,-2,0.296526117557674,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+192,2,"15:04",904,904,"Terrence Phillips made Free Throw.",46,47,-1,0.337920566925278,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+193,2,"15:02",902,902,"Cullen Neal made Three Point Jumper. Assisted by Deandre Burnett.",46,50,-4,0.223300177909397,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+194,2,"14:15",855,855,"Terrence Phillips missed Three Point Jumper.",46,50,-4,0.226999397538823,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+195,2,"14:15",855,855,"Justas Furmanavicius Block.",46,50,-4,0.226999397538823,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+196,2,"14:11",851,851,"Russell Woods Offensive Rebound.",46,50,-4,0.226999397538823,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+197,2,"14:02",842,842,"Missouri  Turnover.",46,50,-4,0.210372450867461,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+198,2,"14:00",840,840,"Foul on Deandre Burnett.",46,50,-4,0.210372450867461,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+199,2,"14:00",840,840,"Deandre Burnett Turnover.",46,50,-4,0.210372450867461,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+200,2,"13:49",829,829,"Cullen VanLeer made Three Point Jumper. Assisted by Terrence Phillips.",49,50,-1,0.330536549289004,"Missouri","Ole Miss",4,4,0,0,-4,400910751,2017-01-21
+201,2,"13:38",818,818,"Ole Miss  Timeout",49,50,-1,0.307954796505579,"Missouri","Ole Miss",3,4,1,0,-4,400910751,2017-01-21
+202,2,"13:33",813,813,"Terence Davis missed Three Point Jumper.",49,50,-1,0.307954796505579,"Missouri","Ole Miss",3,4,1,0,-4,400910751,2017-01-21
+203,2,"13:33",813,813,"Ole Miss Offensive Rebound.",49,50,-1,0.307954796505579,"Missouri","Ole Miss",3,4,1,0,-4,400910751,2017-01-21
+204,2,"13:15",795,795,"Terence Davis missed Three Point Jumper.",49,50,-1,0.325658245534957,"Missouri","Ole Miss",3,4,1,0,-4,400910751,2017-01-21
+205,2,"13:15",795,795,"Kevin Puryear Defensive Rebound.",49,50,-1,0.325658245534957,"Missouri","Ole Miss",3,4,1,0,-4,400910751,2017-01-21
+206,2,"12:59",779,779,"Cullen VanLeer missed Three Point Jumper.",49,50,-1,0.335671758353642,"Missouri","Ole Miss",3,4,1,0,-4,400910751,2017-01-21
+207,2,"12:59",779,779,"Terence Davis Defensive Rebound.",49,50,-1,0.335671758353642,"Missouri","Ole Miss",3,4,1,0,-4,400910751,2017-01-21
+208,2,"12:47",767,767,"Foul on Jordan Geist.",49,50,-1,0.342674307114234,"Missouri","Ole Miss",3,4,1,0,-4,400910751,2017-01-21
+209,2,"12:39",759,759,"Breein Tyree missed Jumper.",49,50,-1,0.326431043288411,"Missouri","Ole Miss",3,4,1,0,-4,400910751,2017-01-21
+210,2,"12:39",759,759,"Cullen VanLeer Defensive Rebound.",49,50,-1,0.326431043288411,"Missouri","Ole Miss",3,4,1,0,-4,400910751,2017-01-21
+211,2,"12:30",750,750,"Terrence Phillips missed Layup.",49,50,-1,0.326431043288411,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+212,2,"12:30",750,750,"Sebastian Saiz Defensive Rebound.",49,50,-1,0.326431043288411,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+213,2,"12:24",744,744,"Terence Davis missed Layup.",49,50,-1,0.321440295631775,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+214,2,"12:24",744,744,"Terence Davis Offensive Rebound.",49,50,-1,0.321440295631775,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+215,2,"12:23",743,743,"Foul on Terrence Phillips.",49,50,-1,0.321440295631775,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+216,2,"12:07",727,727,"Cullen Neal missed Three Point Jumper.",49,50,-1,0.36296796707931,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+217,2,"12:07",727,727,"Jordan Geist Defensive Rebound.",49,50,-1,0.36296796707931,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+218,2,"11:47",707,707,"Foul on Terence Davis.",49,50,-1,0.365255312936719,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+219,2,"11:47",707,707,"Official TV Timeout",49,50,-1,0.365255312936719,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+220,2,"11:47",707,707,"Reed Nikko missed Free Throw.",49,50,-1,0.365255312936719,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+221,2,"11:47",707,707,"Missouri Deadball Team Rebound.",49,50,-1,0.365255312936719,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+222,2,"11:47",707,707,"Reed Nikko missed Free Throw.",49,50,-1,0.365255312936719,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+223,2,"11:47",707,707,"Terence Davis Defensive Rebound.",49,50,-1,0.365255312936719,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+224,2,"11:33",693,693,"Breein Tyree Turnover.",49,50,-1,0.318469493923931,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+225,2,"11:10",670,670,"Russell Woods missed Jumper.",49,50,-1,0.324756324592514,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+226,2,"11:10",670,670,"Terence Davis Defensive Rebound.",49,50,-1,0.324756324592514,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+227,2,"10:56",656,656,"Foul on Jordan Barnett.",49,50,-1,0.35666015045347,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+228,2,"10:54",654,654,"Terence Davis missed Jumper.",49,50,-1,0.35666015045347,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+229,2,"10:54",654,654,"Cullen VanLeer Defensive Rebound.",49,50,-1,0.35666015045347,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+230,2,"10:41",641,641,"Kevin Puryear Turnover.",49,50,-1,0.349164768753737,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+231,2,"10:31",631,631,"Breein Tyree made Three Point Jumper. Assisted by Terence Davis.",49,53,-4,0.210723024660228,"Missouri","Ole Miss",3,4,0,0,-4,400910751,2017-01-21
+232,2,"10:10",610,610,"Missouri  Timeout",49,53,-4,0.186673255959315,"Missouri","Ole Miss",3,3,0,1,-4,400910751,2017-01-21
+233,2,"9:58",598,598,"K.J. Walton missed Layup.",49,53,-4,0.204513039505018,"Missouri","Ole Miss",3,3,0,1,-4,400910751,2017-01-21
+234,2,"9:58",598,598,"Sebastian Saiz Defensive Rebound.",49,53,-4,0.204513039505018,"Missouri","Ole Miss",3,3,0,1,-4,400910751,2017-01-21
+235,2,"9:45",585,585,"Foul on Cullen VanLeer.",49,53,-4,0.203298239859307,"Missouri","Ole Miss",3,3,0,1,-4,400910751,2017-01-21
+236,2,"9:45",585,585,"Terence Davis made Free Throw.",49,54,-5,0.166889084326656,"Missouri","Ole Miss",3,3,0,1,-4,400910751,2017-01-21
+237,2,"9:45",585,585,"Terence Davis missed Free Throw.",49,54,-5,0.166889084326656,"Missouri","Ole Miss",3,3,0,1,-4,400910751,2017-01-21
+238,2,"9:45",585,585,"Kevin Puryear Defensive Rebound.",49,54,-5,0.166889084326656,"Missouri","Ole Miss",3,3,0,1,-4,400910751,2017-01-21
+239,2,"9:29",569,569,"Foul on Terence Davis.",49,54,-5,0.153191031672484,"Missouri","Ole Miss",3,3,0,1,-4,400910751,2017-01-21
+240,2,"9:25",565,565,"Kevin Puryear made Three Point Jumper. Assisted by Terrence Phillips.",52,54,-2,0.281725718723719,"Missouri","Ole Miss",3,3,0,1,-4,400910751,2017-01-21
+241,2,"9:03",543,543,"Foul on Russell Woods.",52,54,-2,0.270755773644237,"Missouri","Ole Miss",3,3,0,0,-4,400910751,2017-01-21
+242,2,"9:03",543,543,"Sebastian Saiz made Free Throw.",52,55,-3,0.221179206235246,"Missouri","Ole Miss",3,3,0,0,-4,400910751,2017-01-21
+243,2,"9:03",543,543,"Sebastian Saiz made Free Throw.",52,56,-4,0.17845885619253,"Missouri","Ole Miss",3,3,0,0,-4,400910751,2017-01-21
+244,2,"8:42",522,522,"Kevin Puryear missed Jumper.",52,56,-4,0.206806493788673,"Missouri","Ole Miss",3,3,0,0,-4,400910751,2017-01-21
+245,2,"8:42",522,522,"Ole Miss Defensive Rebound.",52,56,-4,0.206806493788673,"Missouri","Ole Miss",3,3,0,0,-4,400910751,2017-01-21
+246,2,"8:32",512,512,"Foul on Sebastian Saiz.",52,56,-4,0.193023028453641,"Missouri","Ole Miss",3,3,0,0,-4,400910751,2017-01-21
+247,2,"8:32",512,512,"Sebastian Saiz Turnover.",52,56,-4,0.193023028453641,"Missouri","Ole Miss",3,3,0,0,-4,400910751,2017-01-21
+248,2,"8:10",490,490,"Kevin Puryear made Jumper.",54,56,-2,0.316641176792661,"Missouri","Ole Miss",3,3,0,0,-4,400910751,2017-01-21
+249,2,"7:52",472,472,"Sebastian Saiz missed Jumper.",54,56,-2,0.270945025557069,"Missouri","Ole Miss",3,3,0,0,-4,400910751,2017-01-21
+250,2,"7:52",472,472,"Jordan Barnett Defensive Rebound.",54,56,-2,0.270945025557069,"Missouri","Ole Miss",3,3,0,0,-4,400910751,2017-01-21
+251,2,"7:34",454,454,"Cullen VanLeer made Three Point Jumper. Assisted by Terrence Phillips.",57,56,1,0.490296789254024,"Missouri","Ole Miss",3,3,0,0,-4,400910751,2017-01-21
+252,2,"7:17",437,437,"Breein Tyree missed Jumper.",57,56,1,0.493249795821518,"Missouri","Ole Miss",3,3,0,0,-4,400910751,2017-01-21
+253,2,"7:17",437,437,"Breein Tyree Offensive Rebound.",57,56,1,0.493249795821518,"Missouri","Ole Miss",3,3,0,0,-4,400910751,2017-01-21
+254,2,"7:07",427,427,"Deandre Burnett Turnover.",57,56,1,0.475658676912634,"Missouri","Ole Miss",3,3,0,0,-4,400910751,2017-01-21
+255,2,"7:07",427,427,"Official TV Timeout",57,56,1,0.475658676912634,"Missouri","Ole Miss",3,3,0,0,-4,400910751,2017-01-21
+256,2,"6:48",408,408,"Jordan Barnett missed Three Point Jumper.",57,56,1,0.482833996217145,"Missouri","Ole Miss",3,3,0,0,-4,400910751,2017-01-21
+257,2,"6:48",408,408,"Marcanvis Hymon Defensive Rebound.",57,56,1,0.482833996217145,"Missouri","Ole Miss",3,3,0,0,-4,400910751,2017-01-21
+258,2,"6:23",383,383,"Sebastian Saiz made Layup. Assisted by Deandre Burnett.",57,58,-1,0.334271927570538,"Missouri","Ole Miss",3,3,0,0,-4,400910751,2017-01-21
+259,2,"6:23",383,383,"Foul on Russell Woods.",57,58,-1,0.334271927570538,"Missouri","Ole Miss",3,3,0,0,-4,400910751,2017-01-21
+260,2,"6:23",383,383,"Sebastian Saiz made Free Throw.",57,59,-2,0.271629454653772,"Missouri","Ole Miss",3,3,0,0,-4,400910751,2017-01-21
+261,2,"6:08",368,368,"Terrence Phillips missed Jumper.",57,59,-2,0.279741045134397,"Missouri","Ole Miss",3,3,0,0,-4,400910751,2017-01-21
+262,2,"6:08",368,368,"Terence Davis Defensive Rebound.",57,59,-2,0.279741045134397,"Missouri","Ole Miss",3,3,0,0,-4,400910751,2017-01-21
+263,2,"6:01",361,361,"Deandre Burnett made Three Point Jumper. Assisted by Terence Davis.",57,62,-5,0.128504264355599,"Missouri","Ole Miss",3,3,0,0,-4,400910751,2017-01-21
+264,2,"5:50",350,350,"Missouri  Timeout",57,62,-5,0.0953800900856837,"Missouri","Ole Miss",3,2,0,1,-4,400910751,2017-01-21
+265,2,"5:33",333,333,"Jordan Barnett missed Jumper.",57,62,-5,0.116038629665304,"Missouri","Ole Miss",3,2,0,1,-4,400910751,2017-01-21
+266,2,"5:33",333,333,"Cullen Neal Defensive Rebound.",57,62,-5,0.116038629665304,"Missouri","Ole Miss",3,2,0,1,-4,400910751,2017-01-21
+267,2,"5:29",329,329,"Foul on Russell Woods.",57,62,-5,0.115799825208151,"Missouri","Ole Miss",3,2,0,1,-4,400910751,2017-01-21
+268,2,"5:29",329,329,"Cullen Neal made Free Throw.",57,63,-6,0.0873257264997274,"Missouri","Ole Miss",3,2,0,1,-4,400910751,2017-01-21
+269,2,"5:29",329,329,"Cullen Neal made Free Throw.",57,64,-7,0.0653357838389167,"Missouri","Ole Miss",3,2,0,1,-4,400910751,2017-01-21
+270,2,"5:14",314,314,"Foul on Terence Davis.",57,64,-7,0.0564755293544723,"Missouri","Ole Miss",3,2,0,1,-4,400910751,2017-01-21
+271,2,"5:14",314,314,"Jordan Barnett missed Free Throw.",57,64,-7,0.0564755293544723,"Missouri","Ole Miss",3,2,0,1,-4,400910751,2017-01-21
+272,2,"5:14",314,314,"Missouri Deadball Team Rebound.",57,64,-7,0.0564755293544723,"Missouri","Ole Miss",3,2,0,1,-4,400910751,2017-01-21
+273,2,"5:14",314,314,"Jordan Barnett made Free Throw.",58,64,-6,0.0794973351676209,"Missouri","Ole Miss",3,2,0,1,-4,400910751,2017-01-21
+274,2,"4:58",298,298,"Cullen Neal made Three Point Jumper. Assisted by Sebastian Saiz.",58,67,-9,0.0291157747514643,"Missouri","Ole Miss",3,2,0,1,-4,400910751,2017-01-21
+275,2,"4:35",275,275,"Terrence Phillips Turnover.",58,67,-9,0.0193779102631601,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+276,2,"4:34",274,274,"Marcanvis Hymon Steal.",58,67,-9,0.0193779102631601,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+277,2,"4:28",268,268,"Marcanvis Hymon Turnover.",58,67,-9,0.0254360087807875,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+278,2,"4:18",258,258,"Russell Woods made Layup. Assisted by Terrence Phillips.",60,67,-7,0.0415445115358536,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+279,2,"3:53",233,233,"Deandre Burnett missed Jumper.",60,67,-7,0.0457792087329328,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+280,2,"3:53",233,233,"Terrence Phillips Defensive Rebound.",60,67,-7,0.0457792087329328,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+281,2,"3:44",224,224,"Jordan Barnett made Three Point Jumper. Assisted by Terrence Phillips.",63,67,-4,0.118453834084419,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+282,2,"3:22",202,202,"Sebastian Saiz made Jumper.",63,69,-6,0.0482479457995465,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+283,2,"3:06",186,186,"Terrence Phillips Turnover.",63,69,-6,0.0372295310169985,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+284,2,"3:06",186,186,"Official TV Timeout",63,69,-6,0.0372295310169985,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+285,2,"2:35",155,155,"Foul on Terrence Phillips.",63,69,-6,0.0322862889232159,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+286,2,"2:35",155,155,"Deandre Burnett made Free Throw.",63,70,-7,0.0190625189256183,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+287,2,"2:35",155,155,"Deandre Burnett made Free Throw.",63,71,-8,0.0111922791149848,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+288,2,"2:35",155,155,"Deandre Burnett missed Free Throw.",63,71,-8,0.0111922791149848,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+289,2,"2:35",155,155,"Russell Woods Defensive Rebound.",63,71,-8,0.0111922791149848,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+290,2,"2:09",129,129,"Kevin Puryear made Layup. Assisted by Terrence Phillips.",65,71,-6,0.023205098898955,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+291,2,"1:46",106,106,"Terence Davis missed Three Point Jumper.",65,71,-6,0.016168255967194,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+292,2,"1:46",106,106,"Terrence Phillips Defensive Rebound.",65,71,-6,0.016168255967194,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+293,2,"1:27",87,87,"Cullen VanLeer missed Three Point Jumper.",65,71,-6,0.0123400339157662,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+294,2,"1:27",87,87,"Russell Woods Offensive Rebound.",65,71,-6,0.0123400339157662,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+295,2,"1:24",84,84,"Foul on Sebastian Saiz.",65,71,-6,0.0123400339157662,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+296,2,"1:24",84,84,"Russell Woods missed Free Throw.",65,71,-6,0.0123400339157662,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+297,2,"1:24",84,84,"Missouri Deadball Team Rebound.",65,71,-6,0.0123400339157662,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+298,2,"1:24",84,84,"Russell Woods missed Free Throw.",65,71,-6,0.0123400339157662,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+299,2,"1:24",84,84,"Sebastian Saiz Defensive Rebound.",65,71,-6,0.0123400339157662,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+300,2,"1:00",60,60,"Foul on Kevin Puryear.",65,71,-6,0.0090647358525061,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+301,2,"1:00",60,60,"Deandre Burnett missed Free Throw.",65,71,-6,0.0090647358525061,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+302,2,"1:00",60,60,"Ole Miss Deadball Team Rebound.",65,71,-6,0.0090647358525061,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+303,2,"1:00",60,60,"Deandre Burnett made Free Throw.",65,72,-7,0.00433580343871713,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+304,2,"0:48",48,48,"Kevin Puryear made Three Point Jumper. Assisted by Terrence Phillips.",68,72,-4,0.0190434870639819,"Missouri","Ole Miss",3,2,0,0,-4,400910751,2017-01-21
+305,2,"0:45",45,45,"Missouri  Timeout",68,72,-4,0.0344506750074498,"Missouri","Ole Miss",3,1,0,1,-4,400910751,2017-01-21
+306,2,"0:38",38,38,"Sebastian Saiz Turnover.",68,72,-4,0.0229371952874509,"Missouri","Ole Miss",3,1,0,1,-4,400910751,2017-01-21
+307,2,"0:29",29,29,"Terrence Phillips missed Three Point Jumper.",68,72,-4,0.00966145788995259,"Missouri","Ole Miss",3,1,0,1,-4,400910751,2017-01-21
+308,2,"0:29",29,29,"Jordan Barnett Offensive Rebound.",68,72,-4,0.00966145788995259,"Missouri","Ole Miss",3,1,0,1,-4,400910751,2017-01-21
+309,2,"0:23",23,23,"Terrence Phillips missed Three Point Jumper.",68,72,-4,0.0180189410190917,"Missouri","Ole Miss",3,1,0,1,-4,400910751,2017-01-21
+310,2,"0:23",23,23,"Russell Woods Offensive Rebound.",68,72,-4,0.0180189410190917,"Missouri","Ole Miss",3,1,0,1,-4,400910751,2017-01-21
+311,2,"0:18",18,18,"Jordan Barnett missed Three Point Jumper.",68,72,-4,0.00990066278272255,"Missouri","Ole Miss",3,1,0,1,-4,400910751,2017-01-21
+312,2,"0:18",18,18,"Marcanvis Hymon Defensive Rebound.",68,72,-4,0.00990066278272255,"Missouri","Ole Miss",3,1,0,1,-4,400910751,2017-01-21
+313,2,"0:14",14,14,"Foul on Terrence Phillips.",68,72,-4,0.00306442223968929,"Missouri","Ole Miss",3,1,1,1,-4,400910751,2017-01-21
+314,2,"0:14",14,14,"Marcanvis Hymon missed Free Throw.",68,72,-4,0.00306442223968929,"Missouri","Ole Miss",3,1,1,1,-4,400910751,2017-01-21
+315,2,"0:14",14,14,"Ole Miss Deadball Team Rebound.",68,72,-4,0.00306442223968929,"Missouri","Ole Miss",3,1,1,1,-4,400910751,2017-01-21
+316,2,"0:14",14,14,"Marcanvis Hymon made Free Throw.",68,73,-5,0.000598615294313611,"Missouri","Ole Miss",3,1,1,1,-4,400910751,2017-01-21
+317,2,"0:14",14,14,"Ole Miss  Timeout",68,73,-5,0.000598615294313611,"Missouri","Ole Miss",2,1,1,1,-4,400910751,2017-01-21
+318,2,"0:06",6,6,"Cullen VanLeer made Three Point Jumper.",71,73,-2,0.076002437161689,"Missouri","Ole Miss",2,1,1,1,-4,400910751,2017-01-21
+319,2,"0:06",6,6,"Foul on Cullen Neal.",71,73,-2,0.076002437161689,"Missouri","Ole Miss",2,1,1,1,-4,400910751,2017-01-21
+320,2,"0:06",6,6,"Cullen VanLeer missed Free Throw.",71,73,-2,0.076002437161689,"Missouri","Ole Miss",2,1,1,1,-4,400910751,2017-01-21
+321,2,"0:06",6,6,"Justas Furmanavicius Defensive Rebound.",71,73,-2,0.076002437161689,"Missouri","Ole Miss",2,1,1,1,-4,400910751,2017-01-21
+322,2,"0:05",5,5,"Foul on Kevin Puryear.",71,73,-2,0.076002437161689,"Missouri","Ole Miss",2,1,1,1,-4,400910751,2017-01-21
+323,2,"0:05",5,5,"Justas Furmanavicius made Free Throw.",71,74,-3,0.0160609943798394,"Missouri","Ole Miss",2,1,1,1,-4,400910751,2017-01-21
+324,2,"0:05",5,5,"Justas Furmanavicius made Free Throw.",71,75,-4,0.00322884556824462,"Missouri","Ole Miss",2,1,1,1,-4,400910751,2017-01-21
+325,2,"0:00",0,0,"Jordan Geist missed Three Point Jumper.",71,75,-4,2.66231265266527e-34,"Missouri","Ole Miss",2,1,1,1,-4,400910751,2017-01-21
+326,2,"0:00",0,0,"Sebastian Saiz Defensive Rebound.",71,75,-4,2.66231265266527e-34,"Missouri","Ole Miss",2,1,1,1,-4,400910751,2017-01-21
+327,2,"0:00",0,0,"End of Game",71,75,-4,2.66231265266527e-34,"Missouri","Ole Miss",2,1,1,1,-4,400910751,2017-01-21

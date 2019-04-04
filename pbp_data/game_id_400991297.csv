@@ -1,0 +1,414 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.425256809849944,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+2,1,"19:40",2380,2380,"Ryan Edwards missed Jumper.",0,0,0,0.428802212150198,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+3,1,"19:40",2380,2380,"Bobby Moorehead Defensive Rebound.",0,0,0,0.428802212150198,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+4,1,"19:16",2356,2356,"Michael Oguine made Jumper.",0,2,-2,0.406352431350136,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+5,1,"18:51",2331,2331,"Holland Woods made Three Point Jumper. Assisted by Michael Mayhew.",3,2,1,0.460738077964003,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+6,1,"18:40",2320,2320,"Jamar Akoh made Jumper. Assisted by Ahmaad Rorie.",3,4,-1,0.426913174060422,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+7,1,"18:22",2302,2302,"Ryan Edwards made Jumper. Assisted by Deontae North.",5,4,1,0.456844015897915,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+8,1,"18:06",2286,2286,"Foul on Ryan Edwards.",5,4,1,0.45697957651047,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+9,1,"18:06",2286,2286,"Michael Oguine missed Free Throw.",5,4,1,0.45697957651047,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+10,1,"18:06",2286,2286,"Montana Deadball Team Rebound.",5,4,1,0.45697957651047,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+11,1,"18:06",2286,2286,"Michael Oguine made Free Throw.",5,5,0,0.431103928837278,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+12,1,"17:52",2272,2272,"Holland Woods Turnover.",5,5,0,0.442825996349527,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+13,1,"17:27",2247,2247,"Fabijan Krslovic missed Jumper.",5,5,0,0.456797804122787,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+14,1,"17:27",2247,2247,"Bryce Canda Defensive Rebound.",5,5,0,0.456797804122787,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+15,1,"17:21",2241,2241,"Michael Mayhew missed Three Point Jumper.",5,5,0,0.456797804122787,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+16,1,"17:21",2241,2241,"Michael Oguine Block.",5,5,0,0.456797804122787,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+17,1,"17:19",2239,2239,"Holland Woods Offensive Rebound.",5,5,0,0.440109904211718,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+18,1,"17:15",2235,2235,"Deontae North missed Three Point Jumper.",5,5,0,0.440109904211718,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+19,1,"17:15",2235,2235,"Jamar Akoh Defensive Rebound.",5,5,0,0.440109904211718,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+20,1,"17:12",2232,2232,"Foul on Michael Mayhew.",5,5,0,0.440109904211718,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+21,1,"17:00",2220,2220,"Jamar Akoh missed Jumper.",5,5,0,0.44096847952414,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+22,1,"17:00",2220,2220,"Traylin Farris Block.",5,5,0,0.44096847952414,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+23,1,"16:57",2217,2217,"Deontae North Defensive Rebound.",5,5,0,0.453403190498221,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+24,1,"16:51",2211,2211,"Deontae North missed Jumper.",5,5,0,0.453403190498221,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+25,1,"16:51",2211,2211,"Michael Oguine Defensive Rebound.",5,5,0,0.453403190498221,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+26,1,"16:39",2199,2199,"Bobby Moorehead Turnover.",5,5,0,0.450986406727298,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+27,1,"16:37",2197,2197,"Traylin Farris Steal.",5,5,0,0.450986406727298,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+28,1,"16:25",2185,2185,"Holland Woods missed Jumper.",5,5,0,0.441591779044616,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+29,1,"16:25",2185,2185,"Michael Oguine Defensive Rebound.",5,5,0,0.441591779044616,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+30,1,"16:04",2164,2164,"Foul on Traylin Farris.",5,5,0,0.440050640958258,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+31,1,"16:04",2164,2164,"Jamar Akoh missed Free Throw.",5,5,0,0.440050640958258,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+32,1,"16:04",2164,2164,"Montana Deadball Team Rebound.",5,5,0,0.440050640958258,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+33,1,"16:04",2164,2164,"Jamar Akoh made Free Throw.",5,6,-1,0.413011499169959,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+34,1,"15:55",2155,2155,"Foul on Bobby Moorehead.",5,6,-1,0.398680436455491,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+35,1,"15:55",2155,2155,"Official TV Timeout",5,6,-1,0.398680436455491,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+36,1,"15:43",2143,2143,"Traylin Farris missed Jumper.",5,6,-1,0.421834460649241,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+37,1,"15:43",2143,2143,"Bobby Moorehead Defensive Rebound.",5,6,-1,0.421834460649241,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+38,1,"15:26",2126,2126,"Sayeed Pridgett missed Jumper.",5,6,-1,0.40418590651959,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+39,1,"15:26",2126,2126,"Bryce Canda Defensive Rebound.",5,6,-1,0.40418590651959,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+40,1,"15:17",2117,2117,"Foul on Timmy Falls.",5,6,-1,0.398354263121516,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+41,1,"15:17",2117,2117,"Holland Woods made Free Throw.",6,6,0,0.426900770688392,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+42,1,"15:17",2117,2117,"Holland Woods made Free Throw.",7,6,1,0.455942687714113,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+43,1,"15:09",2109,2109,"Ahmaad Rorie made Layup.",7,8,-1,0.408602008306739,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+44,1,"15:02",2102,2102,"Foul on Michael Oguine.",7,8,-1,0.408602008306739,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+45,1,"14:57",2097,2097,"Braxton Tucker missed Jumper.",7,8,-1,0.409170989788107,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+46,1,"14:57",2097,2097,"Devyn Wilson Offensive Rebound.",7,8,-1,0.409170989788107,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+47,1,"14:43",2083,2083,"Deontae North missed Jumper.",7,8,-1,0.422626526471741,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+48,1,"14:43",2083,2083,"Deontae North Offensive Rebound.",7,8,-1,0.422626526471741,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+49,1,"14:40",2080,2080,"Deontae North made Jumper.",9,8,1,0.47698308692841,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+50,1,"14:31",2071,2071,"Sayeed Pridgett Turnover.",9,8,1,0.454695609015932,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+51,1,"14:29",2069,2069,"Braxton Tucker Steal.",9,8,1,0.458955279301733,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+52,1,"14:19",2059,2059,"Devyn Wilson Turnover.",9,8,1,0.450241935856587,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+53,1,"14:17",2057,2057,"Timmy Falls Steal.",9,8,1,0.450241935856587,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+54,1,"14:15",2055,2055,"Michael Oguine made Layup. Assisted by Timmy Falls.",9,10,-1,0.393169712465633,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+55,1,"14:14",2054,2054,"Foul on Deontae North.",9,10,-1,0.393169712465633,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+56,1,"14:14",2054,2054,"Michael Oguine made Free Throw.",9,11,-2,0.365594141033262,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+57,1,"14:03",2043,2043,"Deontae North made Jumper.",11,11,0,0.4259181960715,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+58,1,"13:31",2011,2011,"Ahmaad Rorie Turnover.",11,11,0,0.445092247349668,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+59,1,"13:31",2011,2011,"Foul on Ahmaad Rorie.",11,11,0,0.445092247349668,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+60,1,"13:19",1999,1999,"Bryce Canda made Jumper. Assisted by Deante Strickland.",13,11,2,0.501572335795884,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+61,1,"13:02",1982,1982,"Timmy Falls Turnover.",13,11,2,0.494624009709492,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+62,1,"13:00",1980,1980,"Michael Mayhew Steal.",13,11,2,0.494624009709492,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+63,1,"12:58",1978,1978,"Deontae North missed Three Point Jumper.",13,11,2,0.499721517579247,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+64,1,"12:58",1978,1978,"Fabijan Krslovic Defensive Rebound.",13,11,2,0.499721517579247,"Portland State","Montana",4,4,0,0,-1.5,400991297,2018-01-13
+65,1,"12:54",1974,1974,"Montana  Timeout",13,11,2,0.499721517579247,"Portland State","Montana",3,4,1,0,-1.5,400991297,2018-01-13
+66,1,"12:50",1970,1970,"Foul on Ryan Edwards.",13,11,2,0.499721517579247,"Portland State","Montana",3,4,1,0,-1.5,400991297,2018-01-13
+67,1,"12:50",1970,1970,"Jamar Akoh made Free Throw.",13,12,1,0.46795706706947,"Portland State","Montana",3,4,1,0,-1.5,400991297,2018-01-13
+68,1,"12:50",1970,1970,"Jamar Akoh made Free Throw.",13,13,0,0.436450222471228,"Portland State","Montana",3,4,1,0,-1.5,400991297,2018-01-13
+69,1,"12:40",1960,1960,"Michael Mayhew missed Three Point Jumper.",13,13,0,0.436597733317088,"Portland State","Montana",3,4,1,0,-1.5,400991297,2018-01-13
+70,1,"12:40",1960,1960,"Jamar Akoh Defensive Rebound.",13,13,0,0.436597733317088,"Portland State","Montana",3,4,1,0,-1.5,400991297,2018-01-13
+71,1,"12:29",1949,1949,"Michael Oguine Turnover.",13,13,0,0.437744711202825,"Portland State","Montana",3,4,1,0,-1.5,400991297,2018-01-13
+72,1,"12:12",1932,1932,"Traylin Farris made Jumper. Assisted by Holland Woods.",15,13,2,0.495480853067463,"Portland State","Montana",3,4,1,0,-1.5,400991297,2018-01-13
+73,1,"11:55",1915,1915,"Foul on Traylin Farris.",15,13,2,0.523943218296769,"Portland State","Montana",3,4,1,0,-1.5,400991297,2018-01-13
+74,1,"11:55",1915,1915,"Official TV Timeout",15,13,2,0.523943218296769,"Portland State","Montana",3,4,1,0,-1.5,400991297,2018-01-13
+75,1,"11:55",1915,1915,"Fabijan Krslovic missed Free Throw.",15,13,2,0.523943218296769,"Portland State","Montana",3,4,1,0,-1.5,400991297,2018-01-13
+76,1,"11:55",1915,1915,"Montana Deadball Team Rebound.",15,13,2,0.523943218296769,"Portland State","Montana",3,4,1,0,-1.5,400991297,2018-01-13
+77,1,"11:55",1915,1915,"Fabijan Krslovic missed Free Throw.",15,13,2,0.523943218296769,"Portland State","Montana",3,4,1,0,-1.5,400991297,2018-01-13
+78,1,"11:55",1915,1915,"Bryce Canda Defensive Rebound.",15,13,2,0.523943218296769,"Portland State","Montana",3,4,1,0,-1.5,400991297,2018-01-13
+79,1,"11:49",1909,1909,"Michael Mayhew missed Jumper.",15,13,2,0.492482044727101,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+80,1,"11:49",1909,1909,"Michael Mayhew Offensive Rebound.",15,13,2,0.492482044727101,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+81,1,"11:25",1885,1885,"Deontae North made Jumper.",17,13,4,0.551605722608667,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+82,1,"10:57",1857,1857,"Ahmaad Rorie missed Jumper.",17,13,4,0.577258345403459,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+83,1,"10:57",1857,1857,"Fabijan Krslovic Offensive Rebound.",17,13,4,0.577258345403459,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+84,1,"10:52",1852,1852,"Bobby Moorehead made Three Point Jumper. Assisted by Fabijan Krslovic.",17,16,1,0.481898755836906,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+85,1,"10:41",1841,1841,"Holland Woods Turnover.",17,16,1,0.449635628817748,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+86,1,"10:40",1840,1840,"Bobby Moorehead Steal.",17,16,1,0.449635628817748,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+87,1,"10:36",1836,1836,"Bobby Moorehead missed Three Point Jumper.",17,16,1,0.481024990934173,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+88,1,"10:36",1836,1836,"Michael Oguine Offensive Rebound.",17,16,1,0.481024990934173,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+89,1,"10:34",1834,1834,"Foul on Braxton Tucker.",17,16,1,0.481024990934173,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+90,1,"10:34",1834,1834,"Michael Oguine missed Free Throw.",17,16,1,0.481024990934173,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+91,1,"10:34",1834,1834,"Bryce Canda Defensive Rebound.",17,16,1,0.481024990934173,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+92,1,"10:23",1823,1823,"Deontae North missed Three Point Jumper.",17,16,1,0.489049096984705,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+93,1,"10:23",1823,1823,"Bryce Canda Offensive Rebound.",17,16,1,0.489049096984705,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+94,1,"10:19",1819,1819,"Bryce Canda made Jumper.",19,16,3,0.551588938335589,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+95,1,"9:46",1786,1786,"Foul on Michael Mayhew.",19,16,3,0.53130877473547,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+96,1,"9:46",1786,1786,"Ahmaad Rorie made Free Throw.",19,17,2,0.496776574872846,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+97,1,"9:46",1786,1786,"Ahmaad Rorie made Free Throw.",19,18,1,0.462275099701994,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+98,1,"9:29",1769,1769,"Bryce Canda missed Jumper.",19,18,1,0.471766830780763,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+99,1,"9:29",1769,1769,"Bryce Canda Offensive Rebound.",19,18,1,0.471766830780763,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+100,1,"9:23",1763,1763,"Deante Strickland missed Three Point Jumper.",19,18,1,0.471766830780763,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+101,1,"9:23",1763,1763,"Montana Defensive Rebound.",19,18,1,0.471766830780763,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+102,1,"9:22",1762,1762,"Foul on Braxton Tucker.",19,18,1,0.471766830780763,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+103,1,"9:22",1762,1762,"Jamar Akoh made Free Throw.",19,19,0,0.439570322939677,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+104,1,"9:22",1762,1762,"Jamar Akoh made Free Throw.",19,20,-1,0.407874473994942,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+105,1,"9:02",1742,1742,"Bryce Canda missed Jumper.",19,20,-1,0.430591390139903,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+106,1,"9:02",1742,1742,"Sayeed Pridgett Defensive Rebound.",19,20,-1,0.430591390139903,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+107,1,"8:56",1736,1736,"Montana  Timeout",19,20,-1,0.408397628797558,"Portland State","Montana",2,4,1,0,-1.5,400991297,2018-01-13
+108,1,"8:35",1715,1715,"Michael Oguine made Three Point Jumper. Assisted by Ahmaad Rorie.",19,23,-4,0.315780197761843,"Portland State","Montana",2,4,1,0,-1.5,400991297,2018-01-13
+109,1,"8:25",1705,1705,"Bryce Canda made Three Point Jumper.",22,23,-1,0.400570563834346,"Portland State","Montana",2,4,1,0,-1.5,400991297,2018-01-13
+110,1,"8:07",1687,1687,"Foul on Devyn Wilson.",22,23,-1,0.402853449508618,"Portland State","Montana",2,4,1,0,-1.5,400991297,2018-01-13
+111,1,"8:07",1687,1687,"Ahmaad Rorie made Free Throw.",22,24,-2,0.368432752755249,"Portland State","Montana",2,4,1,0,-1.5,400991297,2018-01-13
+112,1,"8:07",1687,1687,"Ahmaad Rorie made Free Throw.",22,25,-3,0.335301657141473,"Portland State","Montana",2,4,1,0,-1.5,400991297,2018-01-13
+113,1,"7:54",1674,1674,"Foul on Karl Nicholas.",22,25,-3,0.346456230800805,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+114,1,"7:54",1674,1674,"Official TV Timeout",22,25,-3,0.346456230800805,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+115,1,"7:50",1670,1670,"Foul on Karl Nicholas.",22,25,-3,0.346456230800805,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+116,1,"7:50",1670,1670,"Bryce Canda made Free Throw.",23,25,-2,0.378460554604472,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+117,1,"7:50",1670,1670,"Bryce Canda made Free Throw.",24,25,-1,0.411559543610845,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+118,1,"7:37",1657,1657,"Jamar Akoh Turnover.",24,25,-1,0.421675537378255,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+119,1,"7:36",1656,1656,"Deontae North Steal.",24,25,-1,0.421675537378255,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+120,1,"7:33",1653,1653,"Deontae North missed Layup.",24,25,-1,0.421675537378255,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+121,1,"7:33",1653,1653,"Bryce Canda Offensive Rebound.",24,25,-1,0.421675537378255,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+122,1,"7:29",1649,1649,"Bryce Canda missed Two Point Tip Shot.",24,25,-1,0.417308180443568,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+123,1,"7:29",1649,1649,"Ryan Edwards Offensive Rebound.",24,25,-1,0.417308180443568,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+124,1,"7:29",1649,1649,"Foul on Bobby Moorehead.",24,25,-1,0.417308180443568,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+125,1,"7:29",1649,1649,"Ryan Edwards made Free Throw.",25,25,0,0.451509105994348,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+126,1,"7:29",1649,1649,"Ryan Edwards made Free Throw.",26,25,1,0.486174317953842,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+127,1,"7:22",1642,1642,"Sayeed Pridgett Turnover.",26,25,1,0.486174317953842,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+128,1,"7:22",1642,1642,"Derek Brown Steal.",26,25,1,0.486174317953842,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+129,1,"7:14",1634,1634,"Derek Brown missed Jumper.",26,25,1,0.491714745724437,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+130,1,"7:14",1634,1634,"Ryan Edwards Offensive Rebound.",26,25,1,0.491714745724437,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+131,1,"7:11",1631,1631,"Ryan Edwards missed Jumper.",26,25,1,0.491714745724437,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+132,1,"7:11",1631,1631,"Montana Defensive Rebound.",26,25,1,0.491714745724437,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+133,1,"7:11",1631,1631,"Foul on Ryan Edwards.",26,25,1,0.491714745724437,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+134,1,"7:11",1631,1631,"Fabijan Krslovic made Free Throw.",26,26,0,0.458912548678299,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+135,1,"7:11",1631,1631,"Fabijan Krslovic made Free Throw.",26,27,-1,0.426462607831824,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+136,1,"6:55",1615,1615,"Deontae North missed Three Point Jumper.",26,27,-1,0.397683265067782,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+137,1,"6:55",1615,1615,"Braxton Tucker Offensive Rebound.",26,27,-1,0.397683265067782,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+138,1,"6:47",1607,1607,"Braxton Tucker Turnover.",26,27,-1,0.400638475282611,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+139,1,"6:37",1597,1597,"Fabijan Krslovic made Layup. Assisted by Michael Oguine.",26,29,-3,0.368076848409395,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+140,1,"6:27",1587,1587,"Bryce Canda missed Three Point Jumper.",26,29,-3,0.332713525501866,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+141,1,"6:27",1587,1587,"Ahmaad Rorie Defensive Rebound.",26,29,-3,0.332713525501866,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+142,1,"6:20",1580,1580,"Ahmaad Rorie missed Layup.",26,29,-3,0.332713525501866,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+143,1,"6:20",1580,1580,"Braxton Tucker Defensive Rebound.",26,29,-3,0.332713525501866,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+144,1,"5:57",1557,1557,"Foul on Michael Oguine.",26,29,-3,0.33766318290318,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+145,1,"5:57",1557,1557,"Holland Woods made Free Throw.",27,29,-2,0.370481627509816,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+146,1,"5:57",1557,1557,"Holland Woods made Free Throw.",28,29,-1,0.404541576556422,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+147,1,"5:41",1541,1541,"Ahmaad Rorie Turnover.",28,29,-1,0.412595228035469,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+148,1,"5:40",1540,1540,"Deante Strickland Steal.",28,29,-1,0.412595228035469,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+149,1,"5:37",1537,1537,"Deante Strickland Turnover.",28,29,-1,0.413376604526945,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+150,1,"5:35",1535,1535,"Michael Oguine Steal.",28,29,-1,0.413376604526945,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+151,1,"5:30",1530,1530,"Ahmaad Rorie made Dunk.",28,31,-3,0.347716898656387,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+152,1,"5:17",1517,1517,"Foul on Ahmaad Rorie.",28,31,-3,0.355483187345487,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+153,1,"5:17",1517,1517,"Braxton Tucker made Free Throw.",29,31,-2,0.391132252720319,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+154,1,"5:17",1517,1517,"Braxton Tucker missed Free Throw.",29,31,-2,0.391132252720319,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+155,1,"5:17",1517,1517,"Montana Defensive Rebound.",29,31,-2,0.391132252720319,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+156,1,"4:46",1486,1486,"Ahmaad Rorie Turnover.",29,31,-2,0.364305830216302,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+157,1,"4:46",1486,1486,"Foul on Ahmaad Rorie.",29,31,-2,0.364305830216302,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+158,1,"4:25",1465,1465,"Derek Brown missed Three Point Jumper.",29,31,-2,0.402253368169579,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+159,1,"4:25",1465,1465,"Sayeed Pridgett Defensive Rebound.",29,31,-2,0.402253368169579,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+160,1,"4:08",1448,1448,"Michael Oguine made Layup.",29,33,-4,0.32853908414869,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+161,1,"3:52",1432,1432,"Bryce Canda missed Jumper.",29,33,-4,0.324469989141868,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+162,1,"3:52",1432,1432,"Bryce Canda Offensive Rebound.",29,33,-4,0.324469989141868,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+163,1,"3:46",1426,1426,"Bryce Canda missed Jumper.",29,33,-4,0.308902976836793,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+164,1,"3:46",1426,1426,"Deontae North Offensive Rebound.",29,33,-4,0.308902976836793,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+165,1,"3:44",1424,1424,"Deontae North made Jumper.",31,33,-2,0.373842556367905,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+166,1,"3:41",1421,1421,"Michael Oguine missed Jumper.",31,33,-2,0.373842556367905,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+167,1,"3:41",1421,1421,"Fabijan Krslovic Offensive Rebound.",31,33,-2,0.373842556367905,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+168,1,"3:40",1420,1420,"Fabijan Krslovic made Layup.",31,35,-4,0.308902976836793,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+169,1,"3:40",1420,1420,"Foul on Derek Brown.",31,35,-4,0.308902976836793,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+170,1,"3:40",1420,1420,"Official TV Timeout",31,35,-4,0.308902976836793,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+171,1,"3:40",1420,1420,"Fabijan Krslovic missed Free Throw.",31,35,-4,0.308902976836793,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+172,1,"3:40",1420,1420,"Deontae North Defensive Rebound.",31,35,-4,0.308902976836793,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+173,1,"3:21",1401,1401,"Deontae North missed Layup.",31,35,-4,0.31631623369772,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+174,1,"3:21",1401,1401,"Derek Brown Offensive Rebound.",31,35,-4,0.31631623369772,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+175,1,"3:17",1397,1397,"Derek Brown made Dunk.",33,35,-2,0.35654657624172,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+176,1,"3:13",1393,1393,"Foul on Holland Woods.",33,35,-2,0.35654657624172,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+177,1,"3:13",1393,1393,"Sayeed Pridgett missed Free Throw.",33,35,-2,0.35654657624172,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+178,1,"3:13",1393,1393,"Montana Deadball Team Rebound.",33,35,-2,0.35654657624172,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+179,1,"3:13",1393,1393,"Sayeed Pridgett made Free Throw.",33,36,-3,0.321952288536802,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+180,1,"3:03",1383,1383,"Holland Woods missed Jumper.",33,36,-3,0.352844070604081,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+181,1,"3:03",1383,1383,"Bobby Moorehead Defensive Rebound.",33,36,-3,0.352844070604081,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+182,1,"2:59",1379,1379,"Bobby Moorehead Turnover.",33,36,-3,0.331524310344809,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+183,1,"2:57",1377,1377,"Holland Woods Steal.",33,36,-3,0.331524310344809,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+184,1,"2:57",1377,1377,"Deante Strickland made Layup. Assisted by Holland Woods.",35,36,-1,0.398291644251527,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+185,1,"2:57",1377,1377,"Foul on Bobby Moorehead.",35,36,-1,0.398291644251527,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+186,1,"2:57",1377,1377,"Deante Strickland made Free Throw.",36,36,0,0.433340919722403,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+187,1,"2:57",1377,1377,"Foul on Derek Brown.",36,36,0,0.433340919722403,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+188,1,"2:57",1377,1377,"Michael Oguine made Free Throw.",36,37,-1,0.398291644251527,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+189,1,"2:57",1377,1377,"Michael Oguine made Free Throw.",36,38,-2,0.364254940810264,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+190,1,"2:41",1361,1361,"Michael Mayhew made Three Point Jumper. Assisted by Deante Strickland.",39,38,1,0.489541592265727,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+191,1,"2:26",1346,1346,"Michael Oguine made Layup. Assisted by Fabijan Krslovic.",39,40,-1,0.410391180386629,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+192,1,"2:14",1334,1334,"Holland Woods made Three Point Jumper. Assisted by Deante Strickland.",42,40,2,0.516147540393285,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+193,1,"2:03",1323,1323,"Jamar Akoh made Dunk. Assisted by Timmy Falls.",42,42,0,0.449449833041821,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+194,1,"1:54",1314,1314,"Bryce Canda made Jumper.",44,42,2,0.550754661255518,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+195,1,"1:45",1305,1305,"Timmy Falls Turnover.",44,42,2,0.536563249839943,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+196,1,"1:45",1305,1305,"Foul on Timmy Falls.",44,42,2,0.536563249839943,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+197,1,"1:30",1290,1290,"Foul on Sayeed Pridgett.",44,42,2,0.566986428154133,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+198,1,"1:30",1290,1290,"Michael Mayhew made Free Throw.",45,42,3,0.60754343154221,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+199,1,"1:30",1290,1290,"Michael Mayhew made Free Throw.",46,42,4,0.646669000437485,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+200,1,"1:11",1271,1271,"Sayeed Pridgett Turnover.",46,42,4,0.582156650644455,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+201,1,"1:00",1260,1260,"Holland Woods made Layup.",48,42,6,0.693006850683141,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+202,1,"0:42",1242,1242,"Timmy Falls missed Jumper.",48,42,6,0.673735028643786,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+203,1,"0:42",1242,1242,"Jamar Akoh Offensive Rebound.",48,42,6,0.673735028643786,"Portland State","Montana",2,4,0,0,-1.5,400991297,2018-01-13
+204,1,"0:26",1226,1226,"Lars Espe missed Jumper.",48,42,6,0.700989110075414,"Portland State","Montana",2,4,0,1,-1.5,400991297,2018-01-13
+205,1,"0:26",1226,1226,"Portland State Defensive Rebound.",48,42,6,0.700989110075414,"Portland State","Montana",2,4,0,1,-1.5,400991297,2018-01-13
+206,1,"0:26",1226,1226,"Portland State  Timeout",48,42,6,0.700989110075414,"Portland State","Montana",2,3,0,1,-1.5,400991297,2018-01-13
+207,1,"0:01",1201,1201,"Deante Strickland missed Three Point Jumper.",48,42,6,0.681461995680626,"Portland State","Montana",2,3,0,1,-1.5,400991297,2018-01-13
+208,1,"0:01",1201,1201,"Jamar Akoh Defensive Rebound.",48,42,6,0.681461995680626,"Portland State","Montana",2,3,0,1,-1.5,400991297,2018-01-13
+209,1,"0:00",1200,1200,"End of 1st half",48,42,6,0.681461995680626,"Portland State","Montana",2,3,0,1,-1.5,400991297,2018-01-13
+210,2,"20:00",1200,1200,"PLAY",48,42,6,0.681461995680626,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+211,2,"19:43",1183,1183,"Jamar Akoh missed Jumper.",48,42,6,0.688557906194943,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+212,2,"19:43",1183,1183,"Bryce Canda Defensive Rebound.",48,42,6,0.688557906194943,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+213,2,"19:30",1170,1170,"Holland Woods missed Three Point Jumper.",48,42,6,0.69464052476067,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+214,2,"19:30",1170,1170,"Michael Oguine Defensive Rebound.",48,42,6,0.69464052476067,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+215,2,"19:13",1153,1153,"Michael Oguine made Three Point Jumper. Assisted by Jamar Akoh.",48,45,3,0.582428226778689,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+216,2,"18:56",1136,1136,"Ryan Edwards made Jumper.",50,45,5,0.655769006340248,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+217,2,"18:38",1118,1118,"Michael Oguine missed Three Point Jumper.",50,45,5,0.675738772922835,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+218,2,"18:38",1118,1118,"Fabijan Krslovic Offensive Rebound.",50,45,5,0.675738772922835,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+219,2,"18:14",1094,1094,"Jamar Akoh missed Jumper.",50,45,5,0.66967167347396,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+220,2,"18:14",1094,1094,"Ryan Edwards Block.",50,45,5,0.66967167347396,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+221,2,"18:13",1093,1093,"Jamar Akoh Offensive Rebound.",50,45,5,0.66967167347396,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+222,2,"18:09",1089,1089,"Ahmaad Rorie made Three Point Jumper. Assisted by Jamar Akoh.",50,48,2,0.534233808333365,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+223,2,"17:52",1072,1072,"Ryan Edwards made Jumper.",52,48,4,0.638272555775674,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+224,2,"17:31",1051,1051,"Foul on Ryan Edwards.",52,48,4,0.64241753133549,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+225,2,"17:31",1051,1051,"Michael Oguine missed Free Throw.",52,48,4,0.64241753133549,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+226,2,"17:31",1051,1051,"Montana Deadball Team Rebound.",52,48,4,0.64241753133549,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+227,2,"17:31",1051,1051,"Michael Oguine made Free Throw.",52,49,3,0.600069226560104,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+228,2,"17:23",1043,1043,"Holland Woods Turnover.",52,49,3,0.603802166609714,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+229,2,"17:21",1041,1041,"Fabijan Krslovic Steal.",52,49,3,0.603802166609714,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+230,2,"17:08",1028,1028,"Michael Oguine made Layup.",52,51,1,0.511950157826258,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+231,2,"16:55",1015,1015,"Deontae North missed Jumper.",52,51,1,0.479980957215131,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+232,2,"16:55",1015,1015,"Jamar Akoh Defensive Rebound.",52,51,1,0.479980957215131,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+233,2,"16:43",1003,1003,"Fabijan Krslovic made Jumper. Assisted by Bobby Moorehead.",52,53,-1,0.39963342727457,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+234,2,"16:23",983,983,"Foul on Jamar Akoh.",52,53,-1,0.4333938089707,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+235,2,"16:12",972,972,"Deontae North missed Three Point Jumper.",52,53,-1,0.423104356373305,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+236,2,"16:12",972,972,"Bryce Canda Offensive Rebound.",52,53,-1,0.423104356373305,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+237,2,"16:02",962,962,"Bryce Canda missed Jumper.",52,53,-1,0.411395915585057,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+238,2,"16:02",962,962,"Deontae North Offensive Rebound.",52,53,-1,0.411395915585057,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+239,2,"15:58",958,958,"Deontae North made Jumper.",54,53,1,0.486445732711134,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+240,2,"15:58",958,958,"Foul on Michael Oguine.",54,53,1,0.486445732711134,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+241,2,"15:58",958,958,"Official TV Timeout",54,53,1,0.486445732711134,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+242,2,"15:58",958,958,"Deontae North missed Free Throw.",54,53,1,0.486445732711134,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+243,2,"15:58",958,958,"Michael Oguine Defensive Rebound.",54,53,1,0.486445732711134,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+244,2,"15:42",942,942,"Ahmaad Rorie Turnover.",54,53,1,0.523459926919148,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+245,2,"15:40",940,940,"Michael Mayhew Steal.",54,53,1,0.523459926919148,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+246,2,"15:37",937,937,"Deontae North made Jumper.",56,53,3,0.602172396534075,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+247,2,"15:31",931,931,"Foul on Holland Woods.",56,53,3,0.602172396534075,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+248,2,"15:18",918,918,"Fabijan Krslovic made Jumper.",56,55,1,0.498862943301301,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+249,2,"15:09",909,909,"Michael Mayhew Turnover.",56,55,1,0.509666765117441,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+250,2,"14:46",886,886,"Bobby Moorehead missed Three Point Jumper.",56,55,1,0.498686518469675,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+251,2,"14:46",886,886,"Michael Oguine Offensive Rebound.",56,55,1,0.498686518469675,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+252,2,"14:42",882,882,"Michael Oguine made Two Point Tip Shot.",56,57,-1,0.41266416507161,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+253,2,"14:36",876,876,"Foul on Jamar Akoh.",56,57,-1,0.417585371950236,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+254,2,"14:20",860,860,"Holland Woods missed Jumper.",56,57,-1,0.40010220328978,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+255,2,"14:20",860,860,"Jamar Akoh Defensive Rebound.",56,57,-1,0.40010220328978,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+256,2,"14:08",848,848,"Timmy Falls Turnover.",56,57,-1,0.409595965592116,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+257,2,"13:48",828,828,"Bryce Canda Turnover.",56,57,-1,0.410683411799082,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+258,2,"13:47",827,827,"Ahmaad Rorie Steal.",56,57,-1,0.410683411799082,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+259,2,"13:32",812,812,"Bobby Moorehead missed Three Point Jumper.",56,57,-1,0.389394474008166,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+260,2,"13:32",812,812,"Jamar Akoh Offensive Rebound.",56,57,-1,0.389394474008166,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+261,2,"13:26",806,806,"Foul on Traylin Farris.",56,57,-1,0.425098271524588,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+262,2,"13:26",806,806,"Fabijan Krslovic missed Free Throw.",56,57,-1,0.425098271524588,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+263,2,"13:26",806,806,"Montana Deadball Team Rebound.",56,57,-1,0.425098271524588,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+264,2,"13:26",806,806,"Fabijan Krslovic made Free Throw.",56,58,-2,0.376334896618605,"Portland State","Montana",3,4,0,0,-1.5,400991297,2018-01-13
+265,2,"13:13",793,793,"Deante Strickland Turnover.",56,58,-2,0.349927028553445,"Portland State","Montana",3,4,0,1,-1.5,400991297,2018-01-13
+266,2,"13:13",793,793,"Portland State  Timeout",56,58,-2,0.349927028553445,"Portland State","Montana",3,3,0,1,-1.5,400991297,2018-01-13
+267,2,"12:58",778,778,"Jamar Akoh made Layup. Assisted by Fabijan Krslovic.",56,60,-4,0.271335145124763,"Portland State","Montana",3,3,0,1,-1.5,400991297,2018-01-13
+268,2,"12:37",757,757,"Deante Strickland missed Three Point Jumper.",56,60,-4,0.261009482931545,"Portland State","Montana",3,3,0,1,-1.5,400991297,2018-01-13
+269,2,"12:37",757,757,"Michael Oguine Defensive Rebound.",56,60,-4,0.261009482931545,"Portland State","Montana",3,3,0,1,-1.5,400991297,2018-01-13
+270,2,"12:33",753,753,"Foul on Deontae North.",56,60,-4,0.261009482931545,"Portland State","Montana",3,3,0,1,-1.5,400991297,2018-01-13
+271,2,"12:18",738,738,"Michael Oguine made Layup.",56,62,-6,0.204733167723591,"Portland State","Montana",3,3,0,1,-1.5,400991297,2018-01-13
+272,2,"11:54",714,714,"Holland Woods missed Layup.",56,62,-6,0.171083054835428,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+273,2,"11:54",714,714,"Montana Defensive Rebound.",56,62,-6,0.171083054835428,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+274,2,"11:54",714,714,"Foul on Braxton Tucker.",56,62,-6,0.171083054835428,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+275,2,"11:54",714,714,"Official TV Timeout",56,62,-6,0.171083054835428,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+276,2,"11:47",707,707,"Foul on Derek Brown.",56,62,-6,0.2084102160777,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+277,2,"11:47",707,707,"Michael Oguine made Free Throw.",56,63,-7,0.175487122429757,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+278,2,"11:47",707,707,"Michael Oguine made Free Throw.",56,64,-8,0.1468004577563,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+279,2,"11:36",696,696,"Derek Brown made Layup.",58,64,-6,0.167980792892797,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+280,2,"11:15",675,675,"Ahmaad Rorie missed Three Point Jumper.",58,64,-6,0.171165890913085,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+281,2,"11:15",675,675,"Jamar Akoh Offensive Rebound.",58,64,-6,0.171165890913085,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+282,2,"11:08",668,668,"Fabijan Krslovic made Dunk. Assisted by Michael Oguine.",58,66,-8,0.13641756784469,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+283,2,"10:55",655,655,"Foul on Jamar Akoh.",58,66,-8,0.122729362156964,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+284,2,"10:46",646,646,"Bryce Canda missed Three Point Jumper.",58,66,-8,0.117806401569481,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+285,2,"10:46",646,646,"Traylin Farris Offensive Rebound.",58,66,-8,0.117806401569481,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+286,2,"10:42",642,642,"Traylin Farris missed Jumper.",58,66,-8,0.117806401569481,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+287,2,"10:42",642,642,"Michael Mayhew Offensive Rebound.",58,66,-8,0.117806401569481,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+288,2,"10:33",633,633,"Traylin Farris made Jumper. Assisted by Holland Woods.",60,66,-6,0.177808890034819,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+289,2,"10:26",626,626,"Timmy Falls Turnover.",60,66,-6,0.158268749444088,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+290,2,"10:25",625,625,"Michael Mayhew Steal.",60,66,-6,0.158268749444088,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+291,2,"10:13",613,613,"Foul on Fabijan Krslovic.",60,66,-6,0.15683839013425,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+292,2,"10:07",607,607,"Bryce Canda made Layup.",62,66,-4,0.249683422796077,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+293,2,"9:42",582,582,"Jamar Akoh Turnover.",62,66,-4,0.250813269795482,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+294,2,"9:42",582,582,"Foul on Jamar Akoh.",62,66,-4,0.250813269795482,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+295,2,"9:29",569,569,"Traylin Farris missed Jumper.",62,66,-4,0.242978035304302,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+296,2,"9:29",569,569,"Michael Mayhew Offensive Rebound.",62,66,-4,0.242978035304302,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+297,2,"9:24",564,564,"Michael Mayhew missed Three Point Jumper.",62,66,-4,0.242978035304302,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+298,2,"9:24",564,564,"Portland State Offensive Rebound.",62,66,-4,0.242978035304302,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+299,2,"8:52",532,532,"Bryce Canda made Jumper.",64,66,-2,0.360323689148326,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+300,2,"8:35",515,515,"Ahmaad Rorie made Jumper.",64,68,-4,0.234724996702323,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+301,2,"8:25",505,505,"Bryce Canda Turnover.",64,68,-4,0.251302924127724,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+302,2,"8:25",505,505,"Foul on Bryce Canda.",64,68,-4,0.251302924127724,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+303,2,"8:14",494,494,"Foul on Deante Strickland.",64,68,-4,0.255645473172023,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+304,2,"8:14",494,494,"Michael Oguine made Free Throw.",64,69,-5,0.207384457829715,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+305,2,"8:14",494,494,"Michael Oguine made Free Throw.",64,70,-6,0.166199949425973,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+306,2,"8:00",480,480,"Derek Brown Turnover.",64,70,-6,0.149236276299459,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+307,2,"7:59",479,479,"Ahmaad Rorie Steal.",64,70,-6,0.132936907723629,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+308,2,"7:50",470,470,"Ahmaad Rorie missed Jumper.",64,70,-6,0.132936907723629,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+309,2,"7:50",470,470,"Derek Brown Defensive Rebound.",64,70,-6,0.132936907723629,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+310,2,"7:36",456,456,"Michael Mayhew missed Three Point Jumper.",64,70,-6,0.117411314609659,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+311,2,"7:36",456,456,"Bobby Moorehead Defensive Rebound.",64,70,-6,0.117411314609659,"Portland State","Montana",3,3,0,0,-1.5,400991297,2018-01-13
+312,2,"7:29",449,449,"Montana  Timeout",64,70,-6,0.154474023849474,"Portland State","Montana",2,3,1,0,-1.5,400991297,2018-01-13
+313,2,"7:29",449,449,"Official TV Timeout",64,70,-6,0.154474023849474,"Portland State","Montana",2,3,1,0,-1.5,400991297,2018-01-13
+314,2,"7:29",449,449,"Technical Foul on Traylin Farris.",64,70,-6,0.154474023849474,"Portland State","Montana",2,3,1,0,-1.5,400991297,2018-01-13
+315,2,"7:29",449,449,"Foul on Traylin Farris.",64,70,-6,0.154474023849474,"Portland State","Montana",2,3,1,0,-1.5,400991297,2018-01-13
+316,2,"7:29",449,449,"Foul on Ahmaad Rorie.",64,70,-6,0.154474023849474,"Portland State","Montana",2,3,1,0,-1.5,400991297,2018-01-13
+317,2,"7:29",449,449,"Technical Foul on Ahmaad Rorie.",64,70,-6,0.154474023849474,"Portland State","Montana",2,3,1,0,-1.5,400991297,2018-01-13
+318,2,"7:29",449,449,"Technical Foul on Portland State.",64,70,-6,0.154474023849474,"Portland State","Montana",2,3,1,0,-1.5,400991297,2018-01-13
+319,2,"7:29",449,449,"Technical Foul on Montana.",64,70,-6,0.154474023849474,"Portland State","Montana",2,3,1,0,-1.5,400991297,2018-01-13
+320,2,"7:25",445,445,"Foul on Michael Mayhew.",64,70,-6,0.154474023849474,"Portland State","Montana",2,3,1,0,-1.5,400991297,2018-01-13
+321,2,"7:25",445,445,"Timmy Falls made Free Throw.",64,71,-7,0.121761945668279,"Portland State","Montana",2,3,1,0,-1.5,400991297,2018-01-13
+322,2,"7:25",445,445,"Timmy Falls made Free Throw.",64,72,-8,0.0951971825145939,"Portland State","Montana",2,3,1,0,-1.5,400991297,2018-01-13
+323,2,"7:11",431,431,"Traylin Farris made Jumper. Assisted by Michael Mayhew.",66,72,-6,0.128808121593178,"Portland State","Montana",2,3,1,0,-1.5,400991297,2018-01-13
+324,2,"6:47",407,407,"Michael Oguine made Jumper.",66,74,-8,0.0580759471074867,"Portland State","Montana",2,3,1,0,-1.5,400991297,2018-01-13
+325,2,"6:35",395,395,"Deontae North missed Jumper.",66,74,-8,0.073874256339692,"Portland State","Montana",2,3,1,0,-1.5,400991297,2018-01-13
+326,2,"6:35",395,395,"Fabijan Krslovic Defensive Rebound.",66,74,-8,0.073874256339692,"Portland State","Montana",2,3,1,0,-1.5,400991297,2018-01-13
+327,2,"6:20",380,380,"Sayeed Pridgett made Jumper.",66,76,-10,0.0434606685150673,"Portland State","Montana",2,3,0,0,-1.5,400991297,2018-01-13
+328,2,"6:11",371,371,"Bryce Canda Turnover.",66,76,-10,0.0368901435930451,"Portland State","Montana",2,3,0,0,-1.5,400991297,2018-01-13
+329,2,"6:10",370,370,"Michael Oguine Steal.",66,76,-10,0.0368901435930451,"Portland State","Montana",2,3,0,0,-1.5,400991297,2018-01-13
+330,2,"6:07",367,367,"Timmy Falls Turnover.",66,76,-10,0.0354775915932976,"Portland State","Montana",2,3,0,0,-1.5,400991297,2018-01-13
+331,2,"6:05",365,365,"Deante Strickland Steal.",66,76,-10,0.0354775915932976,"Portland State","Montana",2,3,0,0,-1.5,400991297,2018-01-13
+332,2,"6:03",363,363,"Michael Mayhew missed Three Point Jumper.",66,76,-10,0.0354775915932976,"Portland State","Montana",2,3,0,0,-1.5,400991297,2018-01-13
+333,2,"6:03",363,363,"Fabijan Krslovic Defensive Rebound.",66,76,-10,0.0354775915932976,"Portland State","Montana",2,3,0,0,-1.5,400991297,2018-01-13
+334,2,"5:40",340,340,"Michael Oguine missed Jumper.",66,76,-10,0.027035276122328,"Portland State","Montana",2,3,0,0,-1.5,400991297,2018-01-13
+335,2,"5:40",340,340,"Fabijan Krslovic Offensive Rebound.",66,76,-10,0.027035276122328,"Portland State","Montana",2,3,0,0,-1.5,400991297,2018-01-13
+336,2,"5:34",334,334,"Michael Oguine made Three Point Jumper. Assisted by Timmy Falls.",66,79,-13,0.00958351069491732,"Portland State","Montana",2,3,0,0,-1.5,400991297,2018-01-13
+337,2,"5:25",325,325,"Portland State  Timeout",66,79,-13,0.0137835079098226,"Portland State","Montana",2,2,0,1,-1.5,400991297,2018-01-13
+338,2,"5:20",320,320,"Ryan Edwards made Jumper. Assisted by Holland Woods.",68,79,-11,0.0255166547628498,"Portland State","Montana",2,2,0,1,-1.5,400991297,2018-01-13
+339,2,"5:20",320,320,"Foul on Sayeed Pridgett.",68,79,-11,0.0255166547628498,"Portland State","Montana",2,2,0,1,-1.5,400991297,2018-01-13
+340,2,"5:20",320,320,"Ryan Edwards made Free Throw.",69,79,-10,0.0346008784459472,"Portland State","Montana",2,2,0,1,-1.5,400991297,2018-01-13
+341,2,"5:19",319,319,"Bobby Moorehead Turnover.",69,79,-10,0.0239396357693199,"Portland State","Montana",2,2,0,1,-1.5,400991297,2018-01-13
+342,2,"5:16",316,316,"Ryan Edwards Turnover.",69,79,-10,0.0239396357693199,"Portland State","Montana",2,2,0,1,-1.5,400991297,2018-01-13
+343,2,"5:16",316,316,"Foul on Ryan Edwards.",69,79,-10,0.0239396357693199,"Portland State","Montana",2,2,0,1,-1.5,400991297,2018-01-13
+344,2,"4:58",298,298,"Jamar Akoh missed Jumper.",69,79,-10,0.0270450596780083,"Portland State","Montana",2,2,0,1,-1.5,400991297,2018-01-13
+345,2,"4:58",298,298,"Deontae North Defensive Rebound.",69,79,-10,0.0270450596780083,"Portland State","Montana",2,2,0,1,-1.5,400991297,2018-01-13
+346,2,"4:50",290,290,"Foul on Jamar Akoh.",69,79,-10,0.0270450596780083,"Portland State","Montana",2,2,0,1,-1.5,400991297,2018-01-13
+347,2,"4:50",290,290,"Derek Brown missed Free Throw.",69,79,-10,0.0270450596780083,"Portland State","Montana",2,2,0,1,-1.5,400991297,2018-01-13
+348,2,"4:50",290,290,"Portland State Deadball Team Rebound.",69,79,-10,0.0270450596780083,"Portland State","Montana",2,2,0,1,-1.5,400991297,2018-01-13
+349,2,"4:50",290,290,"Derek Brown made Free Throw.",70,79,-9,0.0376920998885391,"Portland State","Montana",2,2,0,1,-1.5,400991297,2018-01-13
+350,2,"4:34",274,274,"Sayeed Pridgett missed Dunk.",70,79,-9,0.0245084222394553,"Portland State","Montana",2,2,0,1,-1.5,400991297,2018-01-13
+351,2,"4:34",274,274,"Deontae North Defensive Rebound.",70,79,-9,0.0245084222394553,"Portland State","Montana",2,2,0,1,-1.5,400991297,2018-01-13
+352,2,"4:25",265,265,"Bryce Canda missed Jumper.",70,79,-9,0.0314772458664192,"Portland State","Montana",2,2,0,1,-1.5,400991297,2018-01-13
+353,2,"4:25",265,265,"Michael Oguine Defensive Rebound.",70,79,-9,0.0314772458664192,"Portland State","Montana",2,2,0,1,-1.5,400991297,2018-01-13
+354,2,"4:20",260,260,"Michael Oguine Turnover.",70,79,-9,0.0314772458664192,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+355,2,"4:20",260,260,"Holland Woods Steal.",70,79,-9,0.0314772458664192,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+356,2,"4:16",256,256,"Derek Brown made Jumper. Assisted by Bryce Canda.",72,79,-7,0.0496997074886985,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+357,2,"4:15",255,255,"Foul on Michael Oguine.",72,79,-7,0.0496997074886985,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+358,2,"4:15",255,255,"Derek Brown made Free Throw.",73,79,-6,0.0738221937703695,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+359,2,"4:02",242,242,"Foul on Holland Woods.",73,79,-6,0.0744363791821818,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+360,2,"4:02",242,242,"Ahmaad Rorie made Free Throw.",73,80,-7,0.0509347315228103,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+361,2,"4:02",242,242,"Ahmaad Rorie missed Free Throw.",73,80,-7,0.0509347315228103,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+362,2,"4:02",242,242,"Bryce Canda Defensive Rebound.",73,80,-7,0.0509347315228103,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+363,2,"3:56",236,236,"Deontae North made Three Point Jumper. Assisted by Derek Brown.",76,80,-4,0.163110700796774,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+364,2,"3:26",206,206,"Michael Oguine missed Three Point Jumper.",76,80,-4,0.136368239322964,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+365,2,"3:26",206,206,"Sayeed Pridgett Offensive Rebound.",76,80,-4,0.136368239322964,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+366,2,"3:21",201,201,"Sayeed Pridgett made Jumper.",76,82,-6,0.0600947396789052,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+367,2,"3:13",193,193,"Holland Woods Turnover.",76,82,-6,0.05388616646393,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+368,2,"3:13",193,193,"Official TV Timeout",76,82,-6,0.05388616646393,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+369,2,"2:47",167,167,"Ahmaad Rorie missed Jumper.",76,82,-6,0.041325916884584,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+370,2,"2:47",167,167,"Traylin Farris Defensive Rebound.",76,82,-6,0.041325916884584,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+371,2,"2:40",160,160,"Foul on Bobby Moorehead.",76,82,-6,0.041325916884584,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+372,2,"2:40",160,160,"Bryce Canda made Free Throw.",77,82,-5,0.0672164312868226,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+373,2,"2:40",160,160,"Bryce Canda made Free Throw.",78,82,-4,0.107508257451329,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+374,2,"2:16",136,136,"Michael Oguine missed Jumper.",78,82,-4,0.115052786978096,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+375,2,"2:16",136,136,"Derek Brown Defensive Rebound.",78,82,-4,0.115052786978096,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+376,2,"2:08",128,128,"Derek Brown made Layup.",80,82,-2,0.215213942591546,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+377,2,"1:57",117,117,"Michael Oguine made Jumper.",80,84,-4,0.0863386940267659,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+378,2,"1:49",109,109,"Deontae North made Layup.",82,84,-2,0.189557726144498,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+379,2,"1:27",87,87,"Foul on Traylin Farris.",82,84,-2,0.204706057454906,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+380,2,"1:27",87,87,"Sayeed Pridgett missed Free Throw.",82,84,-2,0.204706057454906,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+381,2,"1:27",87,87,"Montana Deadball Team Rebound.",82,84,-2,0.204706057454906,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+382,2,"1:27",87,87,"Sayeed Pridgett missed Free Throw.",82,84,-2,0.204706057454906,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+383,2,"1:27",87,87,"Bryce Canda Defensive Rebound.",82,84,-2,0.204706057454906,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+384,2,"1:12",72,72,"Foul on Fabijan Krslovic.",82,84,-2,0.161774423664235,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+385,2,"1:12",72,72,"Deontae North missed Free Throw.",82,84,-2,0.161774423664235,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+386,2,"1:12",72,72,"Portland State Deadball Team Rebound.",82,84,-2,0.161774423664235,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+387,2,"1:12",72,72,"Deontae North made Free Throw.",83,84,-1,0.286982623222441,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+388,2,"0:45",45,45,"Foul on Deontae North.",83,84,-1,0.308769499229009,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+389,2,"0:45",45,45,"Ahmaad Rorie made Free Throw.",83,85,-2,0.164966420297944,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+390,2,"0:45",45,45,"Ahmaad Rorie made Free Throw.",83,86,-3,0.080351431654864,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+391,2,"0:35",35,35,"Derek Brown missed Three Point Jumper.",83,86,-3,0.0787590934146134,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+392,2,"0:35",35,35,"Fabijan Krslovic Defensive Rebound.",83,86,-3,0.0787590934146134,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+393,2,"0:32",32,32,"Foul on Deontae North.",83,86,-3,0.0317139261586347,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+394,2,"0:32",32,32,"Fabijan Krslovic made Free Throw.",83,87,-4,0.0104278431511161,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+395,2,"0:32",32,32,"Fabijan Krslovic made Free Throw.",83,88,-5,0.00337891907253801,"Portland State","Montana",2,2,0,0,-1.5,400991297,2018-01-13
+396,2,"0:23",23,23,"Derek Brown made Layup. Assisted by Holland Woods.",85,88,-3,0.0551679618531376,"Portland State","Montana",2,2,0,1,-1.5,400991297,2018-01-13
+397,2,"0:23",23,23,"Portland State  Timeout",85,88,-3,0.0551679618531376,"Portland State","Montana",2,1,0,1,-1.5,400991297,2018-01-13
+398,2,"0:19",19,19,"Foul on Derek Brown.",85,88,-3,0.0257965460870367,"Portland State","Montana",2,1,0,1,-1.5,400991297,2018-01-13
+399,2,"0:19",19,19,"Michael Oguine made Free Throw.",85,89,-4,0.00743506681086395,"Portland State","Montana",2,1,0,1,-1.5,400991297,2018-01-13
+400,2,"0:19",19,19,"Michael Oguine made Free Throw.",85,90,-5,0.00211456326356064,"Portland State","Montana",2,1,0,1,-1.5,400991297,2018-01-13
+401,2,"0:14",14,14,"Holland Woods made Layup.",87,90,-3,0.0140753485335347,"Portland State","Montana",2,1,0,1,-1.5,400991297,2018-01-13
+402,2,"0:11",11,11,"Foul on Holland Woods.",87,90,-3,0.0279022441563759,"Portland State","Montana",2,1,0,1,-1.5,400991297,2018-01-13
+403,2,"0:11",11,11,"Michael Oguine missed Free Throw.",87,90,-3,0.0279022441563759,"Portland State","Montana",2,1,0,1,-1.5,400991297,2018-01-13
+404,2,"0:11",11,11,"Montana Deadball Team Rebound.",87,90,-3,0.0279022441563759,"Portland State","Montana",2,1,0,1,-1.5,400991297,2018-01-13
+405,2,"0:11",11,11,"Michael Oguine made Free Throw.",87,91,-4,0.00734784408644768,"Portland State","Montana",2,1,0,1,-1.5,400991297,2018-01-13
+406,2,"0:07",7,7,"Holland Woods missed Three Point Jumper.",87,91,-4,0.00307203503419234,"Portland State","Montana",2,1,0,1,-1.5,400991297,2018-01-13
+407,2,"0:07",7,7,"Sayeed Pridgett Defensive Rebound.",87,91,-4,0.00307203503419234,"Portland State","Montana",2,1,0,1,-1.5,400991297,2018-01-13
+408,2,"0:04",4,4,"Foul on Derek Brown.",87,91,-4,0.000369446119516316,"Portland State","Montana",2,1,0,1,-1.5,400991297,2018-01-13
+409,2,"0:04",4,4,"Sayeed Pridgett missed Free Throw.",87,91,-4,0.000369446119516316,"Portland State","Montana",2,1,0,1,-1.5,400991297,2018-01-13
+410,2,"0:04",4,4,"Montana Deadball Team Rebound.",87,91,-4,0.000369446119516316,"Portland State","Montana",2,1,0,1,-1.5,400991297,2018-01-13
+411,2,"0:04",4,4,"Sayeed Pridgett made Free Throw.",87,92,-5,6.59860226217952e-05,"Portland State","Montana",2,1,0,1,-1.5,400991297,2018-01-13
+412,2,"0:00",0,0,"Holland Woods made Layup.",89,92,-3,6.77553225371739e-26,"Portland State","Montana",2,1,0,1,-1.5,400991297,2018-01-13
+413,2,"0:00",0,0,"End of Game",89,92,-3,6.77553225371739e-26,"Portland State","Montana",2,1,0,1,-1.5,400991297,2018-01-13

@@ -1,0 +1,422 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.5,"Chicago State","Silver Lake College",6,6,0,0,NA,400990590,2017-11-14
+2,1,"19:41",2381,2381,"Rob Shaw made Jumper. Assisted by Patrick Szpir.",2,0,2,0.52796015503186,"Chicago State","Silver Lake College",6,6,0,0,NA,400990590,2017-11-14
+3,1,"19:25",2365,2365,"Taylor Harper Turnover.",2,0,2,0.526297466934491,"Chicago State","Silver Lake College",6,6,0,0,NA,400990590,2017-11-14
+4,1,"19:07",2347,2347,"Foul on David Hughes.",2,0,2,0.556592009956795,"Chicago State","Silver Lake College",6,6,0,0,NA,400990590,2017-11-14
+5,1,"19:05",2345,2345,"Glen Burns made Free Throw.",3,0,3,0.57862387543917,"Chicago State","Silver Lake College",6,6,0,0,NA,400990590,2017-11-14
+6,1,"19:05",2345,2345,"Glen Burns made Free Throw.",4,0,4,0.600347071813066,"Chicago State","Silver Lake College",6,6,0,0,NA,400990590,2017-11-14
+7,1,"18:49",2329,2329,"Corey Lloyd Turnover.",4,0,4,0.635621647630636,"Chicago State","Silver Lake College",6,6,0,0,NA,400990590,2017-11-14
+8,1,"18:45",2325,2325,"Anthony Harris Steal.",4,0,4,0.635621647630636,"Chicago State","Silver Lake College",6,6,0,0,NA,400990590,2017-11-14
+9,1,"18:44",2324,2324,"Anthony Harris made Dunk.",6,0,6,0.684029135342614,"Chicago State","Silver Lake College",6,6,0,0,NA,400990590,2017-11-14
+10,1,"18:38",2318,2318,"Corey Lloyd Turnover.",6,0,6,0.649467128617163,"Chicago State","Silver Lake College",6,6,0,0,NA,400990590,2017-11-14
+11,1,"18:34",2314,2314,"Anthony Harris Steal.",6,0,6,0.649467128617163,"Chicago State","Silver Lake College",6,6,0,0,NA,400990590,2017-11-14
+12,1,"18:32",2312,2312,"Glen Burns made Layup.",8,0,8,0.692778129014206,"Chicago State","Silver Lake College",6,6,0,0,NA,400990590,2017-11-14
+13,1,"18:10",2290,2290,"Foul on Taylor Harper.",8,0,8,0.70352467749274,"Chicago State","Silver Lake College",6,6,0,0,NA,400990590,2017-11-14
+14,1,"18:10",2290,2290,"Taylor Harper Turnover.",8,0,8,0.70352467749274,"Chicago State","Silver Lake College",6,6,0,0,NA,400990590,2017-11-14
+15,1,"17:53",2273,2273,"Fred Sims Jr. missed Layup.",8,0,8,0.713232084716534,"Chicago State","Silver Lake College",6,6,0,0,NA,400990590,2017-11-14
+16,1,"17:53",2273,2273,"Silver Lake Defensive Rebound.",8,0,8,0.713232084716534,"Chicago State","Silver Lake College",6,6,0,0,NA,400990590,2017-11-14
+17,1,"17:37",2257,2257,"Freddy Cook missed Jumper.",8,0,8,0.702151173189483,"Chicago State","Silver Lake College",6,6,0,0,NA,400990590,2017-11-14
+18,1,"17:37",2257,2257,"Glen Burns Defensive Rebound.",8,0,8,0.702151173189483,"Chicago State","Silver Lake College",6,6,0,0,NA,400990590,2017-11-14
+19,1,"17:20",2240,2240,"Anthony Harris made Layup. Assisted by Glen Burns.",10,0,10,0.741917711762681,"Chicago State","Silver Lake College",6,6,0,0,NA,400990590,2017-11-14
+20,1,"17:13",2233,2233,"Silver Lake  Timeout",10,0,10,0.766701566879908,"Chicago State","Silver Lake College",6,5,0,1,NA,400990590,2017-11-14
+21,1,"17:06",2226,2226,"Foul on Patrick Szpir.",10,0,10,0.749946240292988,"Chicago State","Silver Lake College",6,5,0,1,NA,400990590,2017-11-14
+22,1,"17:02",2222,2222,"Corey Lloyd missed Three Point Jumper.",10,0,10,0.749946240292988,"Chicago State","Silver Lake College",6,5,0,1,NA,400990590,2017-11-14
+23,1,"17:02",2222,2222,"Daniel McDermott Defensive Rebound.",10,0,10,0.749946240292988,"Chicago State","Silver Lake College",6,5,0,1,NA,400990590,2017-11-14
+24,1,"16:59",2219,2219,"Foul on Patrick Szpir.",10,0,10,0.80522373834273,"Chicago State","Silver Lake College",6,5,0,1,NA,400990590,2017-11-14
+25,1,"16:55",2215,2215,"Daniel McDermott Turnover.",10,0,10,0.80522373834273,"Chicago State","Silver Lake College",6,5,0,1,NA,400990590,2017-11-14
+26,1,"16:34",2194,2194,"Fred Sims Jr. missed Three Point Jumper.",10,0,10,0.78233075347094,"Chicago State","Silver Lake College",6,5,0,1,NA,400990590,2017-11-14
+27,1,"16:34",2194,2194,"Corey Lloyd Defensive Rebound.",10,0,10,0.78233075347094,"Chicago State","Silver Lake College",6,5,0,1,NA,400990590,2017-11-14
+28,1,"16:13",2173,2173,"Daniel McDermott missed Jumper.",10,0,10,0.755388357527622,"Chicago State","Silver Lake College",6,5,0,1,NA,400990590,2017-11-14
+29,1,"16:13",2173,2173,"Glen Burns Defensive Rebound.",10,0,10,0.755388357527622,"Chicago State","Silver Lake College",6,5,0,1,NA,400990590,2017-11-14
+30,1,"16:12",2172,2172,"Foul on Daniel McDermott.",10,0,10,0.755388357527622,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+31,1,"16:04",2164,2164,"Glen Burns missed Three Point Jumper.",10,0,10,0.762696987904988,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+32,1,"16:04",2164,2164,"Jalen Stephens-Holmes Offensive Rebound.",10,0,10,0.762696987904988,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+33,1,"15:59",2159,2159,"Foul on Daniel McDermott.",10,0,10,0.770759203528342,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+34,1,"15:59",2159,2159,"Official TV Timeout",10,0,10,0.770759203528342,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+35,1,"15:59",2159,2159,"Jalen Stephens-Holmes made Free Throw.",11,0,11,0.791184870277387,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+36,1,"15:59",2159,2159,"Jalen Stephens-Holmes missed Free Throw.",11,0,11,0.791184870277387,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+37,1,"15:59",2159,2159,"Taylor Harper Defensive Rebound.",11,0,11,0.791184870277387,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+38,1,"15:45",2145,2145,"Freddy Cook missed Jumper.",11,0,11,0.769888184388333,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+39,1,"15:45",2145,2145,"Chicago State Defensive Rebound.",11,0,11,0.769888184388333,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+40,1,"15:20",2120,2120,"John Joyce missed Three Point Jumper.",11,0,11,0.784745048284786,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+41,1,"15:20",2120,2120,"Freddy Cook Defensive Rebound.",11,0,11,0.784745048284786,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+42,1,"15:10",2110,2110,"Corey Lloyd Turnover.",11,0,11,0.789714927391342,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+43,1,"14:52",2092,2092,"Foul on Taylor Harper.",11,0,11,0.804613262348109,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+44,1,"14:52",2092,2092,"Fred Sims Jr. missed Three Point Jumper.",11,0,11,0.804613262348109,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+45,1,"14:52",2092,2092,"David Hughes Defensive Rebound.",11,0,11,0.804613262348109,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+46,1,"14:43",2083,2083,"Dreshawn Dorsey made Jumper.",11,2,9,0.746499310637109,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+47,1,"14:05",2045,2045,"Foul on Cameron Bowles.",11,2,9,0.729542847799937,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+48,1,"14:05",2045,2045,"Cameron Bowles Turnover.",11,2,9,0.729542847799937,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+49,1,"13:47",2027,2027,"Dreshawn Dorsey missed Layup.",11,2,9,0.770123021280003,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+50,1,"13:47",2027,2027,"Fred Sims Jr. Defensive Rebound.",11,2,9,0.770123021280003,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+51,1,"13:40",2020,2020,"Foul on Corey Lloyd.",11,2,9,0.770123021280003,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+52,1,"13:40",2020,2020,"Fred Sims Jr. made Free Throw.",12,2,10,0.792634762658139,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+53,1,"13:40",2020,2020,"Fred Sims Jr. missed Free Throw.",12,2,10,0.792634762658139,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+54,1,"13:40",2020,2020,"Freddy Cook Defensive Rebound.",12,2,10,0.792634762658139,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+55,1,"13:33",2013,2013,"Marcellus Duckworth missed Layup.",12,2,10,0.774489361068996,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+56,1,"13:33",2013,2013,"Jalen Stephens-Holmes Defensive Rebound.",12,2,10,0.774489361068996,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+57,1,"13:27",2007,2007,"Fred Sims Jr. made Layup. Assisted by Jalen Stephens-Holmes.",14,2,12,0.795565547129086,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+58,1,"13:11",1991,1991,"Freddy Cook missed Three Point Jumper.",14,2,12,0.83287809505143,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+59,1,"13:11",1991,1991,"Dreshawn Dorsey Defensive Rebound.",14,2,12,0.83287809505143,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+60,1,"13:09",1989,1989,"Dreshawn Dorsey Turnover.",14,2,12,0.819338595019877,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+61,1,"13:09",1989,1989,"Foul on Freddy Cook.",14,2,12,0.819338595019877,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+62,1,"13:08",1988,1988,"Deionte Simmons missed Free Throw.",14,2,12,0.819338595019877,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+63,1,"13:08",1988,1988,"Benjiman Sweet Defensive Rebound.",14,2,12,0.819338595019877,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+64,1,"13:03",1983,1983,"Marcellus Duckworth made Jumper.",14,4,10,0.779450956023264,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+65,1,"12:47",1967,1967,"Jelani Pruitt made Layup.",16,4,12,0.788649103908823,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+66,1,"12:15",1935,1935,"Foul on John Joyce.",16,4,12,0.826926517223293,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+67,1,"12:13",1933,1933,"Diquan Craig made Free Throw.",16,5,11,0.807652583557818,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+68,1,"12:06",1926,1926,"Jelani Pruitt Turnover.",16,5,11,0.799268331764556,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+69,1,"12:04",1924,1924,"Dreshawn Dorsey Steal.",16,5,11,0.799268331764556,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+70,1,"12:00",1920,1920,"Marcellus Duckworth missed Jumper.",16,5,11,0.799268331764556,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+71,1,"12:00",1920,1920,"Cameron Bowles Block.",16,5,11,0.799268331764556,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+72,1,"11:58",1918,1918,"Cameron Bowles Defensive Rebound.",16,5,11,0.824497876504962,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+73,1,"11:53",1913,1913,"Travon Bell missed Three Point Jumper.",16,5,11,0.824497876504962,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+74,1,"11:53",1913,1913,"Benjiman Sweet Defensive Rebound.",16,5,11,0.824497876504962,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+75,1,"11:42",1902,1902,"Foul on Travon Bell.",16,5,11,0.78961543482481,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+76,1,"11:42",1902,1902,"Official TV Timeout",16,5,11,0.78961543482481,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+77,1,"11:29",1889,1889,"Marcellus Duckworth made Three Point Jumper. Assisted by Dreshawn Dorsey.",16,8,8,0.731677365542666,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+78,1,"11:11",1871,1871,"Travon Bell Turnover.",16,8,8,0.737856724625282,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+79,1,"11:02",1862,1862,"Marcellus Duckworth missed Jumper.",16,8,8,0.768494353475387,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+80,1,"11:02",1862,1862,"Chicago State Defensive Rebound.",16,8,8,0.768494353475387,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+81,1,"10:49",1849,1849,"Montana Byrd missed Jumper.",16,8,8,0.723420139546241,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+82,1,"10:49",1849,1849,"Marcellus Duckworth Defensive Rebound.",16,8,8,0.723420139546241,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+83,1,"10:42",1842,1842,"Benjiman Sweet made Jumper. Assisted by Marcellus Duckworth.",16,10,6,0.67123510561303,"Chicago State","Silver Lake College",6,5,0,0,NA,400990590,2017-11-14
+84,1,"10:40",1840,1840,"Chicago State  Timeout",16,10,6,0.67123510561303,"Chicago State","Silver Lake College",6,4,0,1,NA,400990590,2017-11-14
+85,1,"10:29",1829,1829,"Foul on Diquan Craig.",16,10,6,0.700909269685095,"Chicago State","Silver Lake College",6,4,0,1,NA,400990590,2017-11-14
+86,1,"10:29",1829,1829,"Deionte Simmons made Free Throw.",17,10,7,0.725514959547303,"Chicago State","Silver Lake College",6,4,0,1,NA,400990590,2017-11-14
+87,1,"10:29",1829,1829,"Deionte Simmons missed Free Throw.",17,10,7,0.725514959547303,"Chicago State","Silver Lake College",6,4,0,1,NA,400990590,2017-11-14
+88,1,"10:29",1829,1829,"Anthony Harris Offensive Rebound.",17,10,7,0.725514959547303,"Chicago State","Silver Lake College",6,4,0,1,NA,400990590,2017-11-14
+89,1,"10:24",1824,1824,"Foul on Gabriel Kerrihard.",17,10,7,0.725514959547303,"Chicago State","Silver Lake College",6,4,0,1,NA,400990590,2017-11-14
+90,1,"10:24",1824,1824,"Deionte Simmons missed Free Throw.",17,10,7,0.725514959547303,"Chicago State","Silver Lake College",6,4,0,1,NA,400990590,2017-11-14
+91,1,"10:24",1824,1824,"Fred Sims Jr. Offensive Rebound.",17,10,7,0.725514959547303,"Chicago State","Silver Lake College",6,4,0,1,NA,400990590,2017-11-14
+92,1,"10:21",1821,1821,"Fred Sims Jr. made Layup.",19,10,9,0.770774892179954,"Chicago State","Silver Lake College",6,4,0,1,NA,400990590,2017-11-14
+93,1,"10:09",1809,1809,"Gabriel Kerrihard missed Three Point Jumper.",19,10,9,0.766100912585734,"Chicago State","Silver Lake College",6,4,0,1,NA,400990590,2017-11-14
+94,1,"10:09",1809,1809,"Rob Shaw Defensive Rebound.",19,10,9,0.766100912585734,"Chicago State","Silver Lake College",6,4,0,1,NA,400990590,2017-11-14
+95,1,"10:01",1801,1801,"Fred Sims Jr. made Jumper. Assisted by Rob Shaw.",21,10,11,0.809007402557143,"Chicago State","Silver Lake College",6,4,0,1,NA,400990590,2017-11-14
+96,1,"9:38",1778,1778,"Benjiman Sweet Turnover.",21,10,11,0.79178530079047,"Chicago State","Silver Lake College",6,4,0,0,NA,400990590,2017-11-14
+97,1,"9:31",1771,1771,"Foul on Gabriel Kerrihard.",21,10,11,0.79178530079047,"Chicago State","Silver Lake College",6,4,0,0,NA,400990590,2017-11-14
+98,1,"9:31",1771,1771,"Anthony Harris made Free Throw.",22,10,12,0.811246275537623,"Chicago State","Silver Lake College",6,4,0,0,NA,400990590,2017-11-14
+99,1,"9:31",1771,1771,"Anthony Harris made Free Throw.",23,10,13,0.82928049998437,"Chicago State","Silver Lake College",6,4,0,0,NA,400990590,2017-11-14
+100,1,"9:24",1764,1764,"Foul on Deionte Simmons.",23,10,13,0.851016281665439,"Chicago State","Silver Lake College",6,4,0,0,NA,400990590,2017-11-14
+101,1,"9:24",1764,1764,"Freddy Cook made Free Throw.",23,11,12,0.833791605548149,"Chicago State","Silver Lake College",6,4,0,0,NA,400990590,2017-11-14
+102,1,"9:24",1764,1764,"Freddy Cook made Free Throw.",23,12,11,0.815008397255984,"Chicago State","Silver Lake College",6,4,0,0,NA,400990590,2017-11-14
+103,1,"9:17",1757,1757,"Fred Sims Jr. missed Three Point Jumper.",23,12,11,0.813038317791239,"Chicago State","Silver Lake College",6,4,0,0,NA,400990590,2017-11-14
+104,1,"9:17",1757,1757,"Fred Sims Jr. Offensive Rebound.",23,12,11,0.813038317791239,"Chicago State","Silver Lake College",6,4,0,0,NA,400990590,2017-11-14
+105,1,"9:12",1752,1752,"Fred Sims Jr. Offensive Rebound.",23,12,11,0.813038317791239,"Chicago State","Silver Lake College",6,4,0,0,NA,400990590,2017-11-14
+106,1,"9:10",1750,1750,"Fred Sims Jr. missed Layup.",23,12,11,0.813038317791239,"Chicago State","Silver Lake College",6,4,0,0,NA,400990590,2017-11-14
+107,1,"9:10",1750,1750,"Taylor Harper Defensive Rebound.",23,12,11,0.813038317791239,"Chicago State","Silver Lake College",6,4,0,0,NA,400990590,2017-11-14
+108,1,"8:55",1735,1735,"Freddy Cook Turnover.",23,12,11,0.825545238722255,"Chicago State","Silver Lake College",6,4,0,0,NA,400990590,2017-11-14
+109,1,"8:53",1733,1733,"Glen Burns Steal.",23,12,11,0.825545238722255,"Chicago State","Silver Lake College",6,4,0,0,NA,400990590,2017-11-14
+110,1,"8:49",1729,1729,"Rob Shaw Turnover.",23,12,11,0.833269276136432,"Chicago State","Silver Lake College",6,4,0,0,NA,400990590,2017-11-14
+111,1,"8:48",1728,1728,"Freddy Cook Steal.",23,12,11,0.833269276136432,"Chicago State","Silver Lake College",6,4,0,0,NA,400990590,2017-11-14
+112,1,"8:48",1728,1728,"Foul on Fred Sims Jr..",23,12,11,0.833269276136432,"Chicago State","Silver Lake College",6,4,0,0,NA,400990590,2017-11-14
+113,1,"8:48",1728,1728,"Freddy Cook missed Free Throw.",23,12,11,0.833269276136432,"Chicago State","Silver Lake College",6,4,0,0,NA,400990590,2017-11-14
+114,1,"8:48",1728,1728,"Jalen Stephens-Holmes Defensive Rebound.",23,12,11,0.833269276136432,"Chicago State","Silver Lake College",6,4,0,0,NA,400990590,2017-11-14
+115,1,"8:40",1720,1720,"Rob Shaw made Layup.",25,12,13,0.867620659007747,"Chicago State","Silver Lake College",6,4,0,0,NA,400990590,2017-11-14
+116,1,"8:27",1707,1707,"Marcellus Duckworth made Jumper.",25,14,11,0.803880909213495,"Chicago State","Silver Lake College",6,4,0,1,NA,400990590,2017-11-14
+117,1,"8:27",1707,1707,"Foul on Fred Sims Jr..",25,14,11,0.803880909213495,"Chicago State","Silver Lake College",6,4,0,1,NA,400990590,2017-11-14
+118,1,"8:27",1707,1707,"Marcellus Duckworth made Free Throw.",25,15,10,0.782965302795038,"Chicago State","Silver Lake College",6,4,0,1,NA,400990590,2017-11-14
+119,1,"8:27",1707,1707,"Silver Lake  Timeout",25,15,10,0.782965302795038,"Chicago State","Silver Lake College",6,3,0,1,NA,400990590,2017-11-14
+120,1,"8:00",1680,1680,"Anthony Harris missed Three Point Jumper.",25,15,10,0.817219728234581,"Chicago State","Silver Lake College",6,3,0,1,NA,400990590,2017-11-14
+121,1,"8:00",1680,1680,"Marcellus Duckworth Defensive Rebound.",25,15,10,0.817219728234581,"Chicago State","Silver Lake College",6,3,0,1,NA,400990590,2017-11-14
+122,1,"7:45",1665,1665,"Foul on Rob Shaw.",25,15,10,0.792677022555127,"Chicago State","Silver Lake College",6,3,0,1,NA,400990590,2017-11-14
+123,1,"7:45",1665,1665,"Official TV Timeout",25,15,10,0.792677022555127,"Chicago State","Silver Lake College",6,3,0,1,NA,400990590,2017-11-14
+124,1,"7:45",1665,1665,"Marcellus Duckworth made Free Throw.",25,16,9,0.770599219395249,"Chicago State","Silver Lake College",6,3,0,1,NA,400990590,2017-11-14
+125,1,"7:45",1665,1665,"Marcellus Duckworth missed Free Throw.",25,16,9,0.770599219395249,"Chicago State","Silver Lake College",6,3,0,1,NA,400990590,2017-11-14
+126,1,"7:45",1665,1665,"Silver Lake Deadball Team Rebound.",25,16,9,0.770599219395249,"Chicago State","Silver Lake College",6,3,0,1,NA,400990590,2017-11-14
+127,1,"7:45",1665,1665,"Taylor Harper Turnover.",25,16,9,0.770599219395249,"Chicago State","Silver Lake College",6,3,0,1,NA,400990590,2017-11-14
+128,1,"7:45",1665,1665,"Anthony Harris Steal.",25,16,9,0.770599219395249,"Chicago State","Silver Lake College",6,3,0,1,NA,400990590,2017-11-14
+129,1,"7:45",1665,1665,"Anthony Harris missed Layup.",25,16,9,0.770599219395249,"Chicago State","Silver Lake College",6,3,0,1,NA,400990590,2017-11-14
+130,1,"7:45",1665,1665,"David Hughes Offensive Rebound.",25,16,9,0.770599219395249,"Chicago State","Silver Lake College",6,3,0,1,NA,400990590,2017-11-14
+131,1,"7:35",1655,1655,"Foul on Anthony Harris.",25,16,9,0.781815915626119,"Chicago State","Silver Lake College",6,3,0,1,NA,400990590,2017-11-14
+132,1,"7:35",1655,1655,"David Hughes made Free Throw.",25,17,8,0.758360903778364,"Chicago State","Silver Lake College",6,3,0,1,NA,400990590,2017-11-14
+133,1,"7:35",1655,1655,"David Hughes made Free Throw.",25,18,7,0.73324476760442,"Chicago State","Silver Lake College",6,3,0,1,NA,400990590,2017-11-14
+134,1,"7:15",1635,1635,"Foul on Taylor Harper.",25,18,7,0.735832191311413,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+135,1,"7:15",1635,1635,"Glen Burns made Free Throw.",26,18,8,0.760604178068416,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+136,1,"7:15",1635,1635,"Glen Burns made Free Throw.",27,18,9,0.783735931998532,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+137,1,"6:51",1611,1611,"Marcellus Duckworth missed Layup.",27,18,9,0.778682976637734,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+138,1,"6:51",1611,1611,"Freddy Cook Offensive Rebound.",27,18,9,0.778682976637734,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+139,1,"6:47",1607,1607,"Freddy Cook Turnover.",27,18,9,0.767689265990224,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+140,1,"6:32",1592,1592,"Jelani Pruitt missed Layup.",27,18,9,0.792040034609773,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+141,1,"6:32",1592,1592,"Jalen Stephens-Holmes Turnover.",27,18,9,0.792040034609773,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+142,1,"6:28",1588,1588,"Jalen Stephens-Holmes made Dunk.",29,18,11,0.814778486456126,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+143,1,"6:28",1588,1588,"Dreshawn Dorsey Turnover.",29,18,11,0.814778486456126,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+144,1,"6:28",1588,1588,"Jalen Stephens-Holmes missed Three Point Jumper.",29,18,11,0.814778486456126,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+145,1,"6:28",1588,1588,"Freddy Cook Defensive Rebound.",29,18,11,0.814778486456126,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+146,1,"6:24",1584,1584,"Freddy Cook missed Three Point Jumper.",29,18,11,0.814778486456126,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+147,1,"6:24",1584,1584,"Jelani Pruitt Defensive Rebound.",29,18,11,0.814778486456126,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+148,1,"5:47",1547,1547,"Foul on Freddy Cook.",29,18,11,0.830433561638349,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+149,1,"5:47",1547,1547,"Glen Burns made Free Throw.",30,18,12,0.849110007195621,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+150,1,"5:47",1547,1547,"Glen Burns made Free Throw.",31,18,13,0.866061165179666,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+151,1,"5:29",1529,1529,"Corey Lloyd made Layup.",31,20,11,0.83505144420086,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+152,1,"5:08",1508,1508,"Deionte Simmons Turnover.",31,20,11,0.833984062407382,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+153,1,"4:47",1487,1487,"Freddy Cook missed Three Point Jumper.",31,20,11,0.840543128667925,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+154,1,"4:47",1487,1487,"Jelani Pruitt Defensive Rebound.",31,20,11,0.840543128667925,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+155,1,"4:40",1480,1480,"Jelani Pruitt Turnover.",31,20,11,0.840543128667925,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+156,1,"4:39",1479,1479,"Dreshawn Dorsey Steal.",31,20,11,0.847019608650554,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+157,1,"4:35",1475,1475,"Dreshawn Dorsey made Layup.",31,22,9,0.803091059237452,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+158,1,"4:25",1465,1465,"Deionte Simmons made Layup. Assisted by Jelani Pruitt.",33,22,11,0.839036492009368,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+159,1,"3:51",1431,1431,"Freddy Cook Turnover.",33,22,11,0.851782932493946,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+160,1,"3:51",1431,1431,"Official TV Timeout",33,22,11,0.851782932493946,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+161,1,"3:49",1429,1429,"Jelani Pruitt missed Jumper.",33,22,11,0.834191054867613,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+162,1,"3:49",1429,1429,"Freddy Cook Defensive Rebound.",33,22,11,0.834191054867613,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+163,1,"3:26",1406,1406,"Benjiman Sweet made Jumper. Assisted by Dreshawn Dorsey.",33,24,9,0.818546268254406,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+164,1,"3:13",1393,1393,"Jelani Pruitt missed Jumper.",33,24,9,0.800279640371696,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+165,1,"3:13",1393,1393,"Diquan Craig Defensive Rebound.",33,24,9,0.800279640371696,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+166,1,"3:02",1382,1382,"Foul on Travon Bell.",33,24,9,0.808963912842702,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+167,1,"3:02",1382,1382,"Dreshawn Dorsey made Free Throw.",33,25,8,0.784797076047101,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+168,1,"3:02",1382,1382,"Dreshawn Dorsey made Free Throw.",33,26,7,0.758485757260436,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+169,1,"2:42",1362,1362,"Foul on Benjiman Sweet.",33,26,7,0.756385187450649,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+170,1,"2:42",1362,1362,"Deionte Simmons missed Free Throw.",33,26,7,0.756385187450649,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+171,1,"2:42",1362,1362,"Chicago State Deadball Team Rebound.",33,26,7,0.756385187450649,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+172,1,"2:42",1362,1362,"Deionte Simmons missed Free Throw.",33,26,7,0.756385187450649,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+173,1,"2:42",1362,1362,"Silver Lake Defensive Rebound.",33,26,7,0.756385187450649,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+174,1,"2:23",1343,1343,"Foul on John Joyce.",33,26,7,0.7581262486098,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+175,1,"2:23",1343,1343,"Corey Lloyd made Free Throw.",33,27,6,0.727999621226033,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+176,1,"2:23",1343,1343,"Corey Lloyd made Free Throw.",33,28,5,0.695627092915563,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+177,1,"2:15",1335,1335,"Rob Shaw missed Layup.",33,28,5,0.685546173357559,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+178,1,"2:15",1335,1335,"Rob Shaw Offensive Rebound.",33,28,5,0.685546173357559,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+179,1,"2:08",1328,1328,"Rob Shaw Turnover.",33,28,5,0.697907415635051,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+180,1,"2:07",1327,1327,"Dreshawn Dorsey Steal.",33,28,5,0.697907415635051,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+181,1,"2:02",1322,1322,"Foul on Rob Shaw.",33,28,5,0.697907415635051,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+182,1,"2:02",1322,1322,"Dreshawn Dorsey missed Free Throw.",33,28,5,0.697907415635051,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+183,1,"2:02",1322,1322,"Silver Lake Deadball Team Rebound.",33,28,5,0.697907415635051,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+184,1,"2:02",1322,1322,"Dreshawn Dorsey made Free Throw.",33,29,4,0.663682374359162,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+185,1,"1:43",1303,1303,"Foul on Corey Lloyd.",33,29,4,0.662216043280877,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+186,1,"1:43",1303,1303,"Nathan Townsen Jr. made Free Throw.",34,29,5,0.694300360969327,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+187,1,"1:43",1303,1303,"Nathan Townsen Jr. made Free Throw.",35,29,6,0.724604529215469,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+188,1,"1:31",1291,1291,"Freddy Cook Turnover.",35,29,6,0.762349045007628,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+189,1,"1:22",1282,1282,"Montana Byrd made Three Point Jumper. Assisted by Nathan Townsen Jr..",38,29,9,0.801105305747468,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+190,1,"1:00",1260,1260,"Dreshawn Dorsey missed Three Point Jumper.",38,29,9,0.823773217136542,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+191,1,"1:00",1260,1260,"Montana Byrd Defensive Rebound.",38,29,9,0.823773217136542,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+192,1,"0:44",1244,1244,"Anthony Harris missed Layup.",38,29,9,0.808788421727323,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+193,1,"0:44",1244,1244,"Silver Lake Defensive Rebound.",38,29,9,0.808788421727323,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+194,1,"0:44",1244,1244,"Foul on Diquan Craig.",38,29,9,0.808788421727323,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+195,1,"0:44",1244,1244,"Anthony Harris made Free Throw.",39,29,10,0.831598608401606,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+196,1,"0:44",1244,1244,"Anthony Harris made Free Throw.",40,29,11,0.852185011229499,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+197,1,"0:25",1225,1225,"Freddy Cook missed Jumper.",40,29,11,0.874001977910562,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+198,1,"0:25",1225,1225,"Corey Lloyd Offensive Rebound.",40,29,11,0.874001977910562,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+199,1,"0:18",1218,1218,"Corey Lloyd Turnover.",40,29,11,0.863913076295881,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+200,1,"0:16",1216,1216,"Cameron Bowles Steal.",40,29,11,0.863913076295881,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+201,1,"0:12",1212,1212,"Cameron Bowles Turnover.",40,29,11,0.863913076295881,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+202,1,"0:01",1201,1201,"Freddy Cook missed Layup.",40,29,11,0.858299306623491,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+203,1,"0:01",1201,1201,"Montana Byrd Defensive Rebound.",40,29,11,0.858299306623491,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+204,1,"0:00",1200,1200,"End of 1st half",40,29,11,0.858299306623491,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+205,2,"20:00",1200,1200,"PLAY",40,29,11,0.858299306623491,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+206,2,"19:55",1195,1195,"Foul on Daniel McDermott.",40,29,11,0.872397052507209,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+207,2,"19:55",1195,1195,"Patrick Szpir missed Free Throw.",40,29,11,0.872397052507209,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+208,2,"19:55",1195,1195,"Chicago State Deadball Team Rebound.",40,29,11,0.872397052507209,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+209,2,"19:55",1195,1195,"Patrick Szpir missed Free Throw.",40,29,11,0.872397052507209,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+210,2,"19:55",1195,1195,"Freddy Cook Defensive Rebound.",40,29,11,0.872397052507209,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+211,2,"19:11",1151,1151,"Corey Lloyd made Three Point Jumper. Assisted by David Hughes.",40,32,8,0.797338076807169,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+212,2,"18:57",1137,1137,"Fred Sims Jr. missed Three Point Jumper.",40,32,8,0.798417519292523,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+213,2,"18:57",1137,1137,"Taylor Harper Defensive Rebound.",40,32,8,0.798417519292523,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+214,2,"18:49",1129,1129,"Corey Lloyd missed Three Point Jumper.",40,32,8,0.820482894543537,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+215,2,"18:49",1129,1129,"Fred Sims Jr. Defensive Rebound.",40,32,8,0.820482894543537,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+216,2,"18:28",1108,1108,"Glen Burns made Layup. Assisted by Rob Shaw.",42,32,10,0.843688394266419,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+217,2,"18:28",1108,1108,"Foul on Taylor Harper.",42,32,10,0.843688394266419,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+218,2,"18:28",1108,1108,"Glen Burns missed Free Throw.",42,32,10,0.843688394266419,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+219,2,"18:28",1108,1108,"Freddy Cook Defensive Rebound.",42,32,10,0.843688394266419,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+220,2,"18:22",1102,1102,"Foul on Glen Burns.",42,32,10,0.843688394266419,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+221,2,"18:22",1102,1102,"David Hughes missed Free Throw.",42,32,10,0.843688394266419,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+222,2,"18:22",1102,1102,"Silver Lake Deadball Team Rebound.",42,32,10,0.843688394266419,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+223,2,"18:22",1102,1102,"David Hughes made Free Throw.",42,33,9,0.82085690989431,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+224,2,"18:08",1088,1088,"Rob Shaw missed Three Point Jumper.",42,33,9,0.83541016649366,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+225,2,"18:08",1088,1088,"Silver Lake Defensive Rebound.",42,33,9,0.83541016649366,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+226,2,"18:05",1085,1085,"Daniel McDermott Turnover.",42,33,9,0.83541016649366,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+227,2,"18:03",1083,1083,"Fred Sims Jr. Steal.",42,33,9,0.83541016649366,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+228,2,"18:02",1082,1082,"Fred Sims Jr. missed Layup.",42,33,9,0.83541016649366,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+229,2,"18:02",1082,1082,"Chicago State Offensive Rebound.",42,33,9,0.83541016649366,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+230,2,"17:37",1057,1057,"Anthony Harris made Layup. Assisted by Glen Burns.",44,33,11,0.888377277379998,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+231,2,"17:17",1037,1037,"Corey Lloyd Turnover.",44,33,11,0.871618600004571,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+232,2,"17:15",1035,1035,"Anthony Harris Steal.",44,33,11,0.871618600004571,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+233,2,"17:11",1031,1031,"Anthony Harris made Layup. Assisted by Fred Sims Jr..",46,33,13,0.905374798917969,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+234,2,"16:53",1013,1013,"Daniel McDermott made Layup. Assisted by Freddy Cook.",46,35,11,0.877274697099189,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+235,2,"16:41",1001,1001,"Rob Shaw Turnover.",46,35,11,0.885585388720594,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+236,2,"16:40",1000,1000,"Dreshawn Dorsey missed Jumper.",46,35,11,0.885585388720594,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+237,2,"16:40",1000,1000,"Fred Sims Jr. Defensive Rebound.",46,35,11,0.885585388720594,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+238,2,"16:34",994,994,"Fred Sims Jr. made Jumper.",48,35,13,0.910445821822905,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+239,2,"16:12",972,972,"Dreshawn Dorsey Turnover.",48,35,13,0.919335455610387,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+240,2,"16:10",970,970,"Nathan Townsen Jr. Steal.",48,35,13,0.919335455610387,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+241,2,"16:04",964,964,"Foul on Corey Lloyd.",48,35,13,0.920335392421521,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+242,2,"15:58",958,958,"Anthony Harris made Layup. Assisted by Nathan Townsen Jr..",50,35,15,0.945970051846667,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+243,2,"15:58",958,958,"Foul on Dreshawn Dorsey.",50,35,15,0.945970051846667,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+244,2,"15:58",958,958,"Official TV Timeout",50,35,15,0.945970051846667,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+245,2,"15:58",958,958,"Anthony Harris made Free Throw.",51,35,16,0.954950767592065,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+246,2,"15:33",933,933,"Nick Garcia missed Jumper.",51,35,16,0.957573414953744,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+247,2,"15:33",933,933,"Fred Sims Jr. Defensive Rebound.",51,35,16,0.957573414953744,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+248,2,"15:05",905,905,"Fred Sims Jr. missed Jumper.",51,35,16,0.957596600034268,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+249,2,"15:05",905,905,"David Hughes Defensive Rebound.",51,35,16,0.957596600034268,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+250,2,"15:02",902,902,"David Hughes Turnover.",51,35,16,0.957596600034268,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+251,2,"15:00",900,900,"Anthony Harris Steal.",51,35,16,0.957596600034268,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+252,2,"14:58",898,898,"Jalen Stephens-Holmes made Dunk. Assisted by Anthony Harris.",53,35,18,0.973394632839011,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+253,2,"14:47",887,887,"Dreshawn Dorsey Turnover.",53,35,18,0.959291683545909,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+254,2,"14:45",885,885,"Nathan Townsen Jr. Steal.",53,35,18,0.959291683545909,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+255,2,"14:45",885,885,"Foul on Corey Lloyd.",53,35,18,0.959291683545909,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+256,2,"14:45",885,885,"Fred Sims Jr. missed Free Throw.",53,35,18,0.959291683545909,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+257,2,"14:45",885,885,"Chicago State Deadball Team Rebound.",53,35,18,0.959291683545909,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+258,2,"14:45",885,885,"Fred Sims Jr. made Free Throw.",54,35,19,0.965564242253929,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+259,2,"14:31",871,871,"Marcellus Duckworth made Jumper.",54,37,17,0.966053097464607,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+260,2,"14:02",842,842,"Anthony Harris missed Three Point Jumper.",54,37,17,0.974918232994064,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+261,2,"14:02",842,842,"Jalen Stephens-Holmes Offensive Rebound.",54,37,17,0.974918232994064,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+262,2,"13:59",839,839,"Jalen Stephens-Holmes Turnover.",54,37,17,0.972018953524118,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+263,2,"13:44",824,824,"Marcellus Duckworth missed Jumper.",54,37,17,0.962554762730645,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+264,2,"13:44",824,824,"Fred Sims Jr. Defensive Rebound.",54,37,17,0.962554762730645,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+265,2,"13:37",817,817,"Fred Sims Jr. missed Jumper.",54,37,17,0.964730831599747,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+266,2,"13:37",817,817,"Nick Garcia Defensive Rebound.",54,37,17,0.964730831599747,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+267,2,"13:28",808,808,"Dreshawn Dorsey made Jumper.",54,39,15,0.959501934671701,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+268,2,"13:12",792,792,"Travon Bell missed Three Point Jumper.",54,39,15,0.965282301614638,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+269,2,"13:12",792,792,"Silver Lake Defensive Rebound.",54,39,15,0.965282301614638,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+270,2,"12:54",774,774,"Dreshawn Dorsey missed Jumper.",54,39,15,0.961265299232178,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+271,2,"12:54",774,774,"Deionte Simmons Defensive Rebound.",54,39,15,0.961265299232178,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+272,2,"12:39",759,759,"Fred Sims Jr. Turnover.",54,39,15,0.964413177208956,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+273,2,"12:21",741,741,"Nick Garcia missed Layup.",54,39,15,0.966226329524487,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+274,2,"12:21",741,741,"Deionte Simmons Block.",54,39,15,0.966226329524487,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+275,2,"12:18",738,738,"Deionte Simmons Defensive Rebound.",54,39,15,0.964047064465014,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+276,2,"12:15",735,735,"Foul on Gabriel Kerrihard.",54,39,15,0.964047064465014,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+277,2,"12:15",735,735,"Deionte Simmons missed Free Throw.",54,39,15,0.964047064465014,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+278,2,"12:15",735,735,"Chicago State Deadball Team Rebound.",54,39,15,0.964047064465014,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+279,2,"12:15",735,735,"Deionte Simmons missed Free Throw.",54,39,15,0.964047064465014,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+280,2,"12:15",735,735,"Marcellus Duckworth Defensive Rebound.",54,39,15,0.964047064465014,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+281,2,"12:09",729,729,"Foul on Cameron Bowles.",54,39,15,0.969175367310153,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+282,2,"12:03",723,723,"Marcellus Duckworth missed Layup.",54,39,15,0.969175367310153,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+283,2,"12:03",723,723,"Deionte Simmons Block.",54,39,15,0.969175367310153,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+284,2,"12:03",723,723,"Deionte Simmons Defensive Rebound.",54,39,15,0.969175367310153,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+285,2,"12:01",721,721,"Jelani Pruitt made Layup.",56,39,17,0.97993076043932,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+286,2,"12:01",721,721,"Foul on Gabriel Kerrihard.",56,39,17,0.97993076043932,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+287,2,"12:00",720,720,"Foul on Nathan Townsen Jr..",56,39,17,0.97993076043932,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+288,2,"11:57",717,717,"Silver Lake Deadball Team Rebound.",56,39,17,0.975224519298485,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+289,2,"11:57",717,717,"Diquan Craig made Free Throw.",56,40,16,0.969345715412419,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+290,2,"11:50",710,710,"Gabriel Kerrihard missed Jumper.",56,40,16,0.969345715412419,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+291,2,"11:50",710,710,"Cameron Bowles Defensive Rebound.",56,40,16,0.969345715412419,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+292,2,"11:41",701,701,"Nathan Townsen Jr. Turnover.",56,40,16,0.971349634748581,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+293,2,"11:41",701,701,"Official TV Timeout",56,40,16,0.971349634748581,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+294,2,"11:23",683,683,"Freddy Cook Turnover.",56,40,16,0.97331822354563,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+295,2,"11:22",682,682,"Deionte Simmons Steal.",56,40,16,0.97331822354563,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+296,2,"11:14",674,674,"Foul on Nick Garcia.",56,40,16,0.976756311398064,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+297,2,"11:14",674,674,"Deionte Simmons missed Free Throw.",56,40,16,0.976756311398064,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+298,2,"11:14",674,674,"Travon Bell Offensive Rebound.",56,40,16,0.976756311398064,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+299,2,"11:11",671,671,"Travon Bell made Layup.",58,40,18,0.985271575987533,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+300,2,"10:42",642,642,"Taylor Harper missed Layup.",58,40,18,0.987937454378141,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+301,2,"10:42",642,642,"Gabriel Kerrihard Offensive Rebound.",58,40,18,0.987937454378141,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+302,2,"10:41",641,641,"Foul on Travon Bell.",58,40,18,0.987937454378141,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+303,2,"10:31",631,631,"Daniel McDermott made Layup. Assisted by Freddy Cook.",58,42,16,0.978855565757078,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+304,2,"10:24",624,624,"Deionte Simmons missed Jumper.",58,42,16,0.98320047133258,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+305,2,"10:24",624,624,"Freddy Cook Defensive Rebound.",58,42,16,0.98320047133258,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+306,2,"10:10",610,610,"Taylor Harper Turnover.",58,42,16,0.982416691001395,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+307,2,"10:02",602,602,"Foul on Gabriel Kerrihard.",58,42,16,0.981734024680737,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+308,2,"10:02",602,602,"Daniel McDermott Defensive Rebound.",58,42,16,0.981734024680737,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+309,2,"9:53",593,593,"Taylor Harper Turnover.",58,42,16,0.980170260236487,"Chicago State","Silver Lake College",6,3,0,0,NA,400990590,2017-11-14
+310,2,"9:43",583,583,"Foul on Daniel McDermott.",58,42,16,0.980522048141098,"Chicago State","Silver Lake College",6,3,0,1,NA,400990590,2017-11-14
+311,2,"9:43",583,583,"Deionte Simmons made Free Throw.",59,42,17,0.984644893865844,"Chicago State","Silver Lake College",6,3,0,1,NA,400990590,2017-11-14
+312,2,"9:43",583,583,"Deionte Simmons made Free Throw.",60,42,18,0.987905831812475,"Chicago State","Silver Lake College",6,3,0,1,NA,400990590,2017-11-14
+313,2,"9:43",583,583,"Silver Lake  Timeout",60,42,18,0.987905831812475,"Chicago State","Silver Lake College",6,2,0,1,NA,400990590,2017-11-14
+314,2,"9:40",580,580,"Diquan Craig Turnover.",60,42,18,0.987905831812475,"Chicago State","Silver Lake College",6,2,0,1,NA,400990590,2017-11-14
+315,2,"9:38",578,578,"Rob Shaw Steal.",60,42,18,0.991249111631287,"Chicago State","Silver Lake College",6,2,0,1,NA,400990590,2017-11-14
+316,2,"9:33",573,573,"Marcellus Duckworth Turnover.",60,42,18,0.991249111631287,"Chicago State","Silver Lake College",6,2,0,1,NA,400990590,2017-11-14
+317,2,"9:31",571,571,"Deionte Simmons Steal.",60,42,18,0.991249111631287,"Chicago State","Silver Lake College",6,2,0,1,NA,400990590,2017-11-14
+318,2,"9:28",568,568,"Foul on Taylor Harper.",60,42,18,0.991328236866879,"Chicago State","Silver Lake College",6,2,0,1,NA,400990590,2017-11-14
+319,2,"9:28",568,568,"Deionte Simmons made Free Throw.",61,42,19,0.993286714338378,"Chicago State","Silver Lake College",6,2,0,1,NA,400990590,2017-11-14
+320,2,"9:28",568,568,"Deionte Simmons made Free Throw.",62,42,20,0.994805196588185,"Chicago State","Silver Lake College",6,2,0,1,NA,400990590,2017-11-14
+321,2,"9:13",553,553,"Freddy Cook made Three Point Jumper. Assisted by David Hughes.",62,45,17,0.988394706398461,"Chicago State","Silver Lake College",6,2,0,1,NA,400990590,2017-11-14
+322,2,"9:01",541,541,"Rob Shaw missed Three Point Jumper.",62,45,17,0.989543692810245,"Chicago State","Silver Lake College",6,2,0,1,NA,400990590,2017-11-14
+323,2,"9:01",541,541,"Silver Lake Defensive Rebound.",62,45,17,0.989543692810245,"Chicago State","Silver Lake College",6,2,0,1,NA,400990590,2017-11-14
+324,2,"8:54",534,534,"Foul on David Hughes.",62,45,17,0.992966618476664,"Chicago State","Silver Lake College",6,2,0,1,NA,400990590,2017-11-14
+325,2,"8:54",534,534,"David Hughes Turnover.",62,45,17,0.992966618476664,"Chicago State","Silver Lake College",6,2,0,1,NA,400990590,2017-11-14
+326,2,"8:50",530,530,"Foul on Taylor Harper.",62,45,17,0.992966618476664,"Chicago State","Silver Lake College",6,2,0,1,NA,400990590,2017-11-14
+327,2,"8:50",530,530,"Travon Bell made Free Throw.",63,45,18,0.994682349532778,"Chicago State","Silver Lake College",6,2,0,1,NA,400990590,2017-11-14
+328,2,"8:50",530,530,"Deionte Simmons missed Free Throw.",63,45,18,0.994682349532778,"Chicago State","Silver Lake College",6,2,0,1,NA,400990590,2017-11-14
+329,2,"8:50",530,530,"Daniel McDermott Defensive Rebound.",63,45,18,0.994682349532778,"Chicago State","Silver Lake College",6,2,0,1,NA,400990590,2017-11-14
+330,2,"8:44",524,524,"Freddy Cook Turnover.",63,45,18,0.99350014803898,"Chicago State","Silver Lake College",6,2,0,1,NA,400990590,2017-11-14
+331,2,"8:33",513,513,"Rob Shaw Steal.",63,45,18,0.992811297713725,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+332,2,"8:31",511,511,"Rob Shaw made Layup.",65,45,20,0.995802720918748,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+333,2,"8:27",507,507,"Freddy Cook Turnover.",65,45,20,0.996216964825985,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+334,2,"8:26",506,506,"Glen Burns Steal.",65,45,20,0.996216964825985,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+335,2,"8:23",503,503,"Travon Bell missed Layup.",65,45,20,0.996216964825985,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+336,2,"8:23",503,503,"Chicago State Offensive Rebound.",65,45,20,0.996216964825985,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+337,2,"8:21",501,501,"Rob Shaw made Layup. Assisted by Glen Burns.",67,45,22,0.997795815259217,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+338,2,"8:17",497,497,"Foul on Benjiman Sweet.",67,45,22,0.997891408942075,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+339,2,"8:17",497,497,"Fred Sims Jr. made Free Throw.",68,45,23,0.998392814993404,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+340,2,"8:17",497,497,"Fred Sims Jr. made Free Throw.",69,45,24,0.998775137054362,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+341,2,"8:13",493,493,"Foul on Anthony Harris.",69,45,24,0.998775137054362,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+342,2,"7:55",475,475,"Benjiman Sweet Turnover.",69,45,24,0.999118751912258,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+343,2,"7:54",474,474,"Fred Sims Jr. missed Three Point Jumper.",69,45,24,0.999118751912258,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+344,2,"7:54",474,474,"Diquan Craig Defensive Rebound.",69,45,24,0.999118751912258,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+345,2,"7:42",462,462,"Dreshawn Dorsey missed Jumper.",69,45,24,0.998887820496009,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+346,2,"7:42",462,462,"Anthony Harris Block.",69,45,24,0.998887820496009,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+347,2,"7:38",458,458,"Glen Burns Defensive Rebound.",69,45,24,0.999522731030899,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+348,2,"7:36",456,456,"Anthony Harris made Layup. Assisted by Glen Burns.",71,45,26,0.999746787321003,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+349,2,"7:32",452,452,"Freddy Cook missed Jumper.",71,45,26,0.999746787321003,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+350,2,"7:32",452,452,"Fred Sims Jr. Defensive Rebound.",71,45,26,0.999746787321003,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+351,2,"7:20",440,440,"Deionte Simmons made Jumper. Assisted by Glen Burns.",73,45,28,0.999598679726029,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+352,2,"7:00",420,420,"Diquan Craig Turnover.",73,45,28,0.999759434566881,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+353,2,"7:00",420,420,"Official TV Timeout",73,45,28,0.999759434566881,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+354,2,"6:59",419,419,"Nathan Townsen Jr. made Layup.",75,45,30,0.999885453187042,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+355,2,"6:55",415,415,"Foul on Nathan Townsen Jr..",75,45,30,0.999885453187042,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+356,2,"6:48",408,408,"Corey Lloyd made Layup.",75,47,28,0.999903475404957,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+357,2,"6:48",408,408,"Foul on Dreshawn Dorsey.",75,47,28,0.999903475404957,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+358,2,"6:36",396,396,"Foul on Benjiman Sweet.",75,47,28,0.999858076635143,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+359,2,"6:36",396,396,"Fred Sims Jr. made Free Throw.",76,47,29,0.999896125354421,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+360,2,"6:36",396,396,"Fred Sims Jr. made Free Throw.",77,47,30,0.999923974238304,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+361,2,"6:32",392,392,"Dreshawn Dorsey Turnover.",77,47,30,0.999923974238304,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+362,2,"6:30",390,390,"Anthony Harris Steal.",77,47,30,0.999923974238304,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+363,2,"6:29",389,389,"Fred Sims Jr. missed Layup.",77,47,30,0.999874194053927,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+364,2,"6:29",389,389,"Anthony Harris Offensive Rebound.",77,47,30,0.999874194053927,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+365,2,"6:27",387,387,"Foul on Corey Lloyd.",77,47,30,0.999874194053927,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+366,2,"6:27",387,387,"Anthony Harris made Free Throw.",78,47,31,0.999906559172204,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+367,2,"6:27",387,387,"Anthony Harris made Free Throw.",79,47,32,0.999930598545899,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+368,2,"6:10",370,370,"Diquan Craig missed Layup.",79,47,32,0.999950211288867,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+369,2,"6:10",370,370,"Silver Lake Offensive Rebound.",79,47,32,0.999950211288867,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+370,2,"5:58",358,358,"Marcellus Duckworth missed Jumper.",79,47,32,0.999979125148051,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+371,2,"5:58",358,358,"Patrick Szpir Defensive Rebound.",79,47,32,0.999979125148051,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+372,2,"5:52",352,352,"Fred Sims Jr. made Three Point Jumper. Assisted by Anthony Harris.",82,47,35,0.999992478649476,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+373,2,"5:45",345,345,"Diquan Craig Turnover.",82,47,35,0.99999110515491,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+374,2,"5:43",343,343,"Anthony Harris Steal.",82,47,35,0.99999110515491,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+375,2,"5:41",341,341,"Cameron Bowles made Layup. Assisted by Anthony Harris.",84,47,37,0.99999544478583,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+376,2,"5:27",327,327,"Marcellus Duckworth missed Layup.",84,47,37,0.999990826023108,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+377,2,"5:27",327,327,"Marcellus Duckworth Offensive Rebound.",84,47,37,0.999990826023108,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+378,2,"5:06",306,306,"Marcellus Duckworth missed Jumper.",84,47,37,0.999996661609597,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+379,2,"5:06",306,306,"Silver Lake Offensive Rebound.",84,47,37,0.999996661609597,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+380,2,"5:03",303,303,"Aaron Jacobs Turnover.",84,47,37,0.999996661609597,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+381,2,"5:00",300,300,"Montana Byrd missed Three Point Jumper.",84,47,37,0.999996661609597,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+382,2,"5:00",300,300,"Diquan Craig Defensive Rebound.",84,47,37,0.999996661609597,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+383,2,"4:48",288,288,"Marcellus Duckworth missed Layup.",84,47,37,0.999997868984056,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+384,2,"4:48",288,288,"Travon Bell Defensive Rebound.",84,47,37,0.999997868984056,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+385,2,"4:39",279,279,"Travon Bell missed Layup.",84,47,37,0.999999405425381,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+386,2,"4:39",279,279,"Diquan Craig Defensive Rebound.",84,47,37,0.999999405425381,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+387,2,"4:33",273,273,"Diquan Craig Turnover.",84,47,37,0.999999405425381,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+388,2,"4:31",271,271,"Fred Sims Jr. Steal.",84,47,37,0.999999405425381,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+389,2,"4:30",270,270,"Fred Sims Jr. made Dunk.",86,47,39,0.999999726574809,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+390,2,"4:19",259,259,"Marcellus Duckworth Turnover.",86,47,39,0.999999935177243,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+391,2,"4:18",258,258,"Travon Bell Steal.",86,47,39,0.999999935177243,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+392,2,"4:14",254,254,"Patrick Szpir made Layup. Assisted by Nathan Townsen Jr..",88,47,41,0.999999972092027,"Chicago State","Silver Lake College",6,2,0,0,NA,400990590,2017-11-14
+393,2,"4:12",252,252,"Silver Lake  Timeout",88,47,41,0.999999972092027,"Chicago State","Silver Lake College",6,1,0,1,NA,400990590,2017-11-14
+394,2,"4:12",252,252,"Official TV Timeout",88,47,41,0.999999972092027,"Chicago State","Silver Lake College",6,1,0,1,NA,400990590,2017-11-14
+395,2,"3:53",233,233,"Marcellus Duckworth made Jumper. Assisted by Benjiman Sweet.",88,49,39,0.999999879467447,"Chicago State","Silver Lake College",6,1,0,1,NA,400990590,2017-11-14
+396,2,"3:40",220,220,"Patrick Szpir made Jumper. Assisted by Fred Sims Jr..",90,49,41,0.999999973665065,"Chicago State","Silver Lake College",6,1,0,1,NA,400990590,2017-11-14
+397,2,"3:16",196,196,"Benjiman Sweet missed Jumper.",90,49,41,0.999999995524072,"Chicago State","Silver Lake College",6,1,0,1,NA,400990590,2017-11-14
+398,2,"3:16",196,196,"Rob Shaw Defensive Rebound.",90,49,41,0.999999995524072,"Chicago State","Silver Lake College",6,1,0,1,NA,400990590,2017-11-14
+399,2,"3:07",187,187,"Montana Byrd made Layup. Assisted by Rob Shaw.",92,49,43,0.999999999128172,"Chicago State","Silver Lake College",6,1,0,0,NA,400990590,2017-11-14
+400,2,"2:49",169,169,"David Hughes missed Jumper.",92,49,43,0.999999999770215,"Chicago State","Silver Lake College",6,1,0,0,NA,400990590,2017-11-14
+401,2,"2:49",169,169,"Travon Bell Defensive Rebound.",92,49,43,0.999999999770215,"Chicago State","Silver Lake College",6,1,0,0,NA,400990590,2017-11-14
+402,2,"2:43",163,163,"Rob Shaw Turnover.",92,49,43,0.999999999770215,"Chicago State","Silver Lake College",6,1,0,0,NA,400990590,2017-11-14
+403,2,"2:12",132,132,"Diquan Craig Turnover.",92,49,43,0.99999999995353,"Chicago State","Silver Lake College",6,1,0,0,NA,400990590,2017-11-14
+404,2,"1:58",118,118,"Montana Byrd made Three Point Jumper. Assisted by Rob Shaw.",95,49,46,0.999999999999141,"Chicago State","Silver Lake College",6,1,0,0,NA,400990590,2017-11-14
+405,2,"1:38",98,98,"Diquan Craig Turnover.",95,49,46,0.999999999999739,"Chicago State","Silver Lake College",6,1,0,0,NA,400990590,2017-11-14
+406,2,"1:35",95,95,"Montana Byrd Steal.",95,49,46,0.999999999999739,"Chicago State","Silver Lake College",6,1,0,0,NA,400990590,2017-11-14
+407,2,"1:33",93,93,"Jelani Pruitt made Dunk. Assisted by Montana Byrd.",97,49,48,0.999999999999926,"Chicago State","Silver Lake College",6,1,0,0,NA,400990590,2017-11-14
+408,2,"1:18",78,78,"Foul on Alex Dubovitskiy.",97,49,48,0.999999999999999,"Chicago State","Silver Lake College",6,1,0,0,NA,400990590,2017-11-14
+409,2,"1:18",78,78,"Gabriel Kerrihard made Free Throw.",97,50,47,0.999999999999999,"Chicago State","Silver Lake College",6,1,0,0,NA,400990590,2017-11-14
+410,2,"1:18",78,78,"Gabriel Kerrihard made Free Throw.",97,51,46,0.999999999999998,"Chicago State","Silver Lake College",6,1,0,0,NA,400990590,2017-11-14
+411,2,"1:01",61,61,"Jelani Pruitt made Layup. Assisted by Rob Shaw.",99,51,48,1,"Chicago State","Silver Lake College",6,1,0,0,NA,400990590,2017-11-14
+412,2,"0:50",50,50,"Nick Garcia made Jumper. Assisted by Gabriel Kerrihard.",99,53,46,1,"Chicago State","Silver Lake College",6,1,0,0,NA,400990590,2017-11-14
+413,2,"0:26",26,26,"Patrick Szpir missed Dunk.",99,53,46,1,"Chicago State","Silver Lake College",6,1,0,0,NA,400990590,2017-11-14
+414,2,"0:26",26,26,"Benjiman Sweet Defensive Rebound.",99,53,46,1,"Chicago State","Silver Lake College",6,1,0,0,NA,400990590,2017-11-14
+415,2,"0:20",20,20,"Gabriel Kerrihard Turnover.",99,53,46,1,"Chicago State","Silver Lake College",6,1,0,0,NA,400990590,2017-11-14
+416,2,"0:17",17,17,"Patrick Szpir Steal.",99,53,46,1,"Chicago State","Silver Lake College",6,1,0,0,NA,400990590,2017-11-14
+417,2,"0:15",15,15,"Patrick Szpir made Dunk.",101,53,48,1,"Chicago State","Silver Lake College",6,1,0,0,NA,400990590,2017-11-14
+418,2,"0:07",7,7,"Aaron Jacobs missed Jumper.",101,53,48,1,"Chicago State","Silver Lake College",6,1,0,0,NA,400990590,2017-11-14
+419,2,"0:07",7,7,"Jelani Pruitt Defensive Rebound.",101,53,48,1,"Chicago State","Silver Lake College",6,1,0,0,NA,400990590,2017-11-14
+420,2,"0:05",5,5,"Diquan Craig missed Free Throw.",101,53,48,1,"Chicago State","Silver Lake College",6,1,0,0,NA,400990590,2017-11-14
+421,2,"0:00",0,0,"End of Game",101,51,50,NA,"Chicago State","Silver Lake College",6,1,0,0,NA,400990590,2017-11-14

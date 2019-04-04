@@ -1,0 +1,325 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.594491178023225,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+2,1,"19:40",2380,2380,"Foul on Nassir Barrino.",0,0,0,0.594140485047462,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+3,1,"19:40",2380,2380,"Nassir Barrino Turnover.",0,0,0,0.594140485047462,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+4,1,"19:24",2364,2364,"Lamond Murray Jr. made Jumper.",0,2,-2,0.570709066885153,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+5,1,"19:04",2344,2344,"Juwan Gray missed Layup.",0,2,-2,0.545728110753423,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+6,1,"19:04",2344,2344,"San Diego Offensive Rebound.",0,2,-2,0.545728110753423,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+7,1,"18:53",2333,2333,"Cameron Neubauer made Three Point Jumper.",3,2,1,0.617873510199604,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+8,1,"18:23",2303,2303,"Nolan Taylor made Layup. Assisted by Chris Reyes.",3,4,-1,0.561037663472636,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+9,1,"18:07",2287,2287,"Juwan Gray missed Three Point Jumper.",3,4,-1,0.561581315517739,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+10,1,"18:07",2287,2287,"Jonathan Allen Defensive Rebound.",3,4,-1,0.561581315517739,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+11,1,"17:55",2275,2275,"Lamond Murray Jr. made Jumper.",3,6,-3,0.521445779170602,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+12,1,"17:31",2251,2251,"Foul on Nolan Taylor.",3,6,-3,0.524475541557612,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+13,1,"17:31",2251,2251,"Brett Bailey made Free Throw.",4,6,-2,0.548469900707337,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+14,1,"17:31",2251,2251,"Brett Bailey missed Free Throw.",4,6,-2,0.548469900707337,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+15,1,"17:31",2251,2251,"Chris Reyes Defensive Rebound.",4,6,-2,0.548469900707337,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+16,1,"17:12",2232,2232,"Lamond Murray Jr. missed Three Point Jumper.",4,6,-2,0.539366065892579,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+17,1,"17:12",2232,2232,"Cameron Neubauer Defensive Rebound.",4,6,-2,0.539366065892579,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+18,1,"17:01",2221,2221,"Cameron Neubauer missed Three Point Jumper.",4,6,-2,0.545733538792017,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+19,1,"17:01",2221,2221,"Jonathan Allen Defensive Rebound.",4,6,-2,0.545733538792017,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+20,1,"16:51",2211,2211,"Foul on Juwan Gray.",4,6,-2,0.536498241679612,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+21,1,"16:51",2211,2211,"Chris Reyes made Free Throw.",4,7,-3,0.503844861450613,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+22,1,"16:51",2211,2211,"Chris Reyes missed Free Throw.",4,7,-3,0.503844861450613,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+23,1,"16:51",2211,2211,"Brett Bailey Defensive Rebound.",4,7,-3,0.503844861450613,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+24,1,"16:36",2196,2196,"Juwan Gray missed Layup.",4,7,-3,0.519251700695421,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+25,1,"16:36",2196,2196,"Lamond Murray Jr. Defensive Rebound.",4,7,-3,0.519251700695421,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+26,1,"16:30",2190,2190,"Lamond Murray Jr. Turnover.",4,7,-3,0.519251700695421,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+27,1,"16:09",2169,2169,"Foul on Jonathan Allen.",4,7,-3,0.508203644029983,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+28,1,"16:09",2169,2169,"Brett Bailey made Free Throw.",5,7,-2,0.535786399109529,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+29,1,"16:09",2169,2169,"Brett Bailey made Free Throw.",6,7,-1,0.563151943999591,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+30,1,"15:42",2142,2142,"Jeremy Major missed Jumper.",6,7,-1,0.574185427665739,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+31,1,"15:42",2142,2142,"Brett Bailey Block.",6,7,-1,0.574185427665739,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+32,1,"15:40",2140,2140,"Juwan Gray Defensive Rebound.",6,7,-1,0.574185427665739,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+33,1,"15:25",2125,2125,"Juwan Gray missed Jumper.",6,7,-1,0.555867564213328,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+34,1,"15:25",2125,2125,"Jonathan Allen Defensive Rebound.",6,7,-1,0.555867564213328,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+35,1,"15:10",2110,2110,"Chris Reyes made Jumper.",6,9,-3,0.498857038284422,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+36,1,"14:53",2093,2093,"Nassir Barrino missed Jumper.",6,9,-3,0.493259846374303,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+37,1,"14:53",2093,2093,"Jeremy Major Block.",6,9,-3,0.493259846374303,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+38,1,"14:53",2093,2093,"San Diego Offensive Rebound.",6,9,-3,0.493259846374303,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+39,1,"14:53",2093,2093,"Official TV Timeout",6,9,-3,0.493259846374303,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+40,1,"14:46",2086,2086,"Olin Carter III made Three Point Jumper. Assisted by Tyler Williams.",9,9,0,0.594672093651087,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+41,1,"14:26",2066,2066,"Lamond Murray Jr. made Jumper. Assisted by Chris Reyes.",9,11,-2,0.519527771005696,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+42,1,"14:01",2041,2041,"Brett Bailey made Three Point Jumper. Assisted by Frank Ryder.",12,11,1,0.601064571459458,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+43,1,"13:30",2010,2010,"Foul on Nassir Barrino.",12,11,1,0.620502969117397,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+44,1,"13:30",2010,2010,"Lamond Murray Jr. missed Jumper.",12,11,1,0.620502969117397,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+45,1,"13:30",2010,2010,"Tyler Williams Defensive Rebound.",12,11,1,0.620502969117397,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+46,1,"13:30",2010,2010,"Frank Ryder made Jumper.",14,11,3,0.673244237347408,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+47,1,"13:28",2008,2008,"Foul on Mark Carbone.",14,11,3,0.659950988869407,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+48,1,"13:13",1993,1993,"Nate Gehring missed Free Throw.",14,11,3,0.6770378958526,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+49,1,"13:13",1993,1993,"Pepperdine Deadball Team Rebound.",14,11,3,0.6770378958526,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+50,1,"13:13",1993,1993,"Nate Gehring missed Free Throw.",14,11,3,0.6770378958526,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+51,1,"13:13",1993,1993,"Olin Carter III Defensive Rebound.",14,11,3,0.6770378958526,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+52,1,"13:01",1981,1981,"Foul on Frank Ryder.",14,11,3,0.662827580214819,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+53,1,"13:01",1981,1981,"Frank Ryder Turnover.",14,11,3,0.662827580214819,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+54,1,"12:13",1933,1933,"Foul on Nate Gehring.",14,11,3,0.666374215775635,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+55,1,"12:13",1933,1933,"Nate Gehring Turnover.",14,11,3,0.666374215775635,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+56,1,"11:48",1908,1908,"Brett Bailey missed Jumper.",14,11,3,0.665171152124622,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+57,1,"11:48",1908,1908,"Nate Gehring Defensive Rebound.",14,11,3,0.665171152124622,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+58,1,"11:34",1894,1894,"Elijah Lee made Layup.",14,13,1,0.623754057286798,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+59,1,"11:21",1881,1881,"Olin Carter III made Three Point Jumper. Assisted by Mark Carbone.",17,13,4,0.691991448878498,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+60,1,"11:02",1862,1862,"Nate Gehring made Jumper. Assisted by Jonathan Allen.",17,15,2,0.660867593059862,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+61,1,"10:53",1853,1853,"Foul on Brett Bailey.",17,15,2,0.650807132631025,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+62,1,"10:53",1853,1853,"Brett Bailey Turnover.",17,15,2,0.650807132631025,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+63,1,"10:53",1853,1853,"Official TV Timeout",17,15,2,0.650807132631025,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+64,1,"10:38",1838,1838,"Jeremy Major made Three Point Jumper.",17,18,-1,0.556607037817815,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+65,1,"10:26",1826,1826,"Foul on Nate Gehring.",17,18,-1,0.575134705617422,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+66,1,"10:15",1815,1815,"Brett Bailey missed Three Point Jumper.",17,18,-1,0.55408444280381,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+67,1,"10:14",1814,1814,"Chris Reyes Block.",17,18,-1,0.55408444280381,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+68,1,"10:13",1813,1813,"San Diego Offensive Rebound.",17,18,-1,0.55408444280381,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+69,1,"10:03",1803,1803,"Elijah Lee missed Three Point Jumper.",17,18,-1,0.547598079119564,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+70,1,"10:03",1803,1803,"San Diego Defensive Rebound.",17,18,-1,0.547598079119564,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+71,1,"9:34",1774,1774,"Foul on Lamond Murray Jr..",17,18,-1,0.537997686335235,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+72,1,"9:34",1774,1774,"Lamond Murray Jr. Turnover.",17,18,-1,0.537997686335235,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+73,1,"9:16",1756,1756,"Olin Carter III missed Three Point Jumper.",17,18,-1,0.522713958671017,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+74,1,"9:16",1756,1756,"San Diego Deadball Team Rebound.",17,18,-1,0.522713958671017,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+75,1,"9:16",1756,1756,"Foul on Elijah Lee.",17,18,-1,0.522713958671017,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+76,1,"9:08",1748,1748,"Brett Bailey missed Jumper.",17,18,-1,0.562782459462424,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+77,1,"9:08",1748,1748,"Chris Reyes Block.",17,18,-1,0.562782459462424,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+78,1,"9:06",1746,1746,"Nolan Taylor Defensive Rebound.",17,18,-1,0.562782459462424,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+79,1,"8:59",1739,1739,"Jeremy Major made Jumper.",17,20,-3,0.480446168883228,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+80,1,"8:45",1725,1725,"Foul on Frank Ryder.",17,20,-3,0.491056068581283,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+81,1,"8:45",1725,1725,"Frank Ryder Turnover.",17,20,-3,0.491056068581283,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+82,1,"8:31",1711,1711,"Lamond Murray Jr. missed Jumper.",17,20,-3,0.48662364614664,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+83,1,"8:31",1711,1711,"Juwan Gray Defensive Rebound.",17,20,-3,0.48662364614664,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+84,1,"8:15",1695,1695,"Olin Carter III missed Three Point Jumper.",17,20,-3,0.484075359200784,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+85,1,"8:15",1695,1695,"Cameron Neubauer Offensive Rebound.",17,20,-3,0.484075359200784,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+86,1,"8:07",1687,1687,"Cameron Neubauer missed Three Point Jumper.",17,20,-3,0.47509068026877,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+87,1,"8:07",1687,1687,"Nolan Taylor Defensive Rebound.",17,20,-3,0.47509068026877,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+88,1,"7:55",1675,1675,"Lamond Murray Jr. made Three Point Jumper. Assisted by Jeremy Major.",17,23,-6,0.379883820607358,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+89,1,"7:52",1672,1672,"San Diego  Timeout",17,23,-6,0.379883820607358,"San Diego","Pepperdine",3,4,1,0,1.5,400915869,2017-02-11
+90,1,"7:52",1672,1672,"Official TV Timeout",17,23,-6,0.379883820607358,"San Diego","Pepperdine",3,4,1,0,1.5,400915869,2017-02-11
+91,1,"7:40",1660,1660,"Foul on Jeremy Major.",17,23,-6,0.389053556379765,"San Diego","Pepperdine",3,4,1,0,1.5,400915869,2017-02-11
+92,1,"7:40",1660,1660,"Tyler Williams missed Free Throw.",17,23,-6,0.389053556379765,"San Diego","Pepperdine",3,4,1,0,1.5,400915869,2017-02-11
+93,1,"7:40",1660,1660,"San Diego Deadball Team Rebound.",17,23,-6,0.389053556379765,"San Diego","Pepperdine",3,4,1,0,1.5,400915869,2017-02-11
+94,1,"7:40",1660,1660,"Tyler Williams missed Free Throw.",17,23,-6,0.389053556379765,"San Diego","Pepperdine",3,4,1,0,1.5,400915869,2017-02-11
+95,1,"7:40",1660,1660,"Jonathan Allen Defensive Rebound.",17,23,-6,0.389053556379765,"San Diego","Pepperdine",3,4,1,0,1.5,400915869,2017-02-11
+96,1,"7:20",1640,1640,"Nolan Taylor made Layup. Assisted by Lamond Murray Jr..",17,25,-8,0.319172904865881,"San Diego","Pepperdine",3,4,1,0,1.5,400915869,2017-02-11
+97,1,"7:05",1625,1625,"Brett Bailey Turnover.",17,25,-8,0.303755320165044,"San Diego","Pepperdine",3,4,1,0,1.5,400915869,2017-02-11
+98,1,"6:37",1597,1597,"Jonathan Allen missed Jumper.",17,25,-8,0.331521992826836,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+99,1,"6:37",1597,1597,"Pepperdine Offensive Rebound.",17,25,-8,0.331521992826836,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+100,1,"6:33",1593,1593,"Lamond Murray Jr. made Jumper. Assisted by Elijah Lee.",17,27,-10,0.274601490724293,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+101,1,"6:09",1569,1569,"Foul on Jonathan Allen.",17,27,-10,0.239358981230813,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+102,1,"6:09",1569,1569,"Tyler Williams missed Free Throw.",17,27,-10,0.239358981230813,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+103,1,"6:09",1569,1569,"Nolan Taylor Defensive Rebound.",17,27,-10,0.239358981230813,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+104,1,"5:36",1536,1536,"Pepperdine  Turnover.",17,27,-10,0.257329522835602,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+105,1,"5:02",1502,1502,"Foul on Nolan Taylor.",17,27,-10,0.247637139852742,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+106,1,"5:00",1500,1500,"Juwan Gray made Free Throw.",18,27,-9,0.275124404260872,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+107,1,"5:00",1500,1500,"Juwan Gray missed Free Throw.",18,27,-9,0.275124404260872,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+108,1,"5:00",1500,1500,"Pepperdine Defensive Rebound.",18,27,-9,0.275124404260872,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+109,1,"4:59",1499,1499,"Chris Reyes missed Jumper.",18,27,-9,0.297616820240121,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+110,1,"4:59",1499,1499,"Cameron Neubauer Block.",18,27,-9,0.297616820240121,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+111,1,"4:57",1497,1497,"Cameron Neubauer Defensive Rebound.",18,27,-9,0.297616820240121,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+112,1,"4:35",1475,1475,"Brett Bailey missed Jumper.",18,27,-9,0.258085417586118,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+113,1,"4:35",1475,1475,"Cameron Neubauer Offensive Rebound.",18,27,-9,0.258085417586118,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+114,1,"4:16",1456,1456,"Cameron Neubauer made Jumper. Assisted by Juwan Gray.",20,27,-7,0.317612374620821,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+115,1,"3:58",1438,1438,"Chris Reyes made Jumper. Assisted by Elijah Lee.",20,29,-9,0.271292117914542,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+116,1,"3:29",1409,1409,"Brett Bailey Turnover.",20,29,-9,0.264814161375392,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+117,1,"3:28",1408,1408,"Lamond Murray Jr. Steal.",20,29,-9,0.264814161375392,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+118,1,"3:26",1406,1406,"Foul on Mark Carbone.",20,29,-9,0.264814161375392,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+119,1,"3:26",1406,1406,"Official TV Timeout",20,29,-9,0.264814161375392,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+120,1,"3:26",1406,1406,"Elijah Lee made Free Throw.",20,30,-10,0.235755594239181,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+121,1,"3:26",1406,1406,"Elijah Lee made Free Throw.",20,31,-11,0.208979293301388,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+122,1,"3:07",1387,1387,"Juwan Gray missed Jumper.",20,31,-11,0.215988717834755,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+123,1,"3:07",1387,1387,"Chris Reyes Defensive Rebound.",20,31,-11,0.215988717834755,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+124,1,"2:55",1375,1375,"Knox Hellums made Three Point Jumper. Assisted by Elijah Lee.",20,34,-14,0.145993736586149,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+125,1,"2:33",1353,1353,"Olin Carter III missed Three Point Jumper.",20,34,-14,0.142187664884403,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+126,1,"2:33",1353,1353,"Jeremy Major Defensive Rebound.",20,34,-14,0.142187664884403,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+127,1,"2:31",1351,1351,"Foul on Mark Carbone.",20,34,-14,0.142187664884403,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+128,1,"2:31",1351,1351,"Jeremy Major made Free Throw.",20,35,-15,0.124366329316968,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+129,1,"2:31",1351,1351,"Jeremy Major missed Free Throw.",20,35,-15,0.124366329316968,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+130,1,"2:31",1351,1351,"Chris Reyes Offensive Rebound.",20,35,-15,0.124366329316968,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+131,1,"2:05",1325,1325,"Lamond Murray Jr. missed Three Point Jumper.",20,35,-15,0.112792232258714,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+132,1,"2:05",1325,1325,"Brett Bailey Defensive Rebound.",20,35,-15,0.112792232258714,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+133,1,"2:05",1325,1325,"Olin Carter III made Three Point Jumper. Assisted by Cameron Neubauer.",23,35,-12,0.169423864229691,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+134,1,"2:05",1325,1325,"Knox Hellums made Layup.",23,37,-14,0.129551911391792,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+135,1,"2:05",1325,1325,"Cameron Neubauer made Jumper. Assisted by Cameron Neubauer.",25,37,-12,0.169423864229691,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+136,1,"2:05",1325,1325,"Elijah Lee made Three Point Jumper.",25,40,-15,0.112792232258714,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+137,1,"2:05",1325,1325,"Brett Bailey made Jumper. Assisted by Cameron Neubauer.",27,40,-13,0.148385390728308,"San Diego","Pepperdine",3,4,0,0,1.5,400915869,2017-02-11
+138,1,"0:38",1238,1238,"Pepperdine  Timeout",27,40,-13,0.138609368235239,"San Diego","Pepperdine",3,3,0,1,1.5,400915869,2017-02-11
+139,1,"0:23",1223,1223,"Foul on Knox Hellums.",27,40,-13,0.133229801880116,"San Diego","Pepperdine",3,3,0,1,1.5,400915869,2017-02-11
+140,1,"0:23",1223,1223,"Knox Hellums Turnover.",27,40,-13,0.133229801880116,"San Diego","Pepperdine",3,3,0,1,1.5,400915869,2017-02-11
+141,1,"0:00",1200,1200,"Tyler Williams Turnover.",27,40,-13,0.144761412621331,"San Diego","Pepperdine",3,3,0,1,1.5,400915869,2017-02-11
+142,1,"0:00",1200,1200,"Elijah Lee Steal.",27,40,-13,0.144761412621331,"San Diego","Pepperdine",3,3,0,1,1.5,400915869,2017-02-11
+143,1,"0:00",1200,1200,"End of 1st half",27,40,-13,0.144761412621331,"San Diego","Pepperdine",3,3,0,1,1.5,400915869,2017-02-11
+144,2,"20:00",1200,1200,"PLAY",27,40,-13,0.144761412621331,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+145,2,"19:28",1168,1168,"Nassir Barrino made Jumper. Assisted by Cameron Neubauer.",29,40,-11,0.169002393832812,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+146,2,"19:14",1154,1154,"Lamond Murray Jr. missed Three Point Jumper.",29,40,-11,0.186124698941136,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+147,2,"19:14",1154,1154,"Brett Bailey Defensive Rebound.",29,40,-11,0.186124698941136,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+148,2,"18:50",1130,1130,"Cameron Neubauer made Jumper.",31,40,-9,0.240963877896882,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+149,2,"18:50",1130,1130,"Foul on Chris Reyes.",31,40,-9,0.240963877896882,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+150,2,"18:50",1130,1130,"Cameron Neubauer made Free Throw.",32,40,-8,0.271977285830324,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+151,2,"18:38",1118,1118,"Lamond Murray Jr. Turnover.",32,40,-8,0.254746262357775,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+152,2,"18:20",1100,1100,"Brett Bailey missed Jumper.",32,40,-8,0.265486879227246,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+153,2,"18:20",1100,1100,"Chris Reyes Defensive Rebound.",32,40,-8,0.265486879227246,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+154,2,"18:19",1099,1099,"Foul on Brett Bailey.",32,40,-8,0.260338107489906,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+155,2,"18:05",1085,1085,"Jonathan Allen made Three Point Jumper. Assisted by Chris Reyes.",32,43,-11,0.158620471291327,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+156,2,"17:38",1058,1058,"Foul on Lamond Murray Jr..",32,43,-11,0.159657847938254,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+157,2,"17:34",1054,1054,"Foul on Nolan Taylor.",32,43,-11,0.159657847938254,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+158,2,"17:34",1054,1054,"Nassir Barrino made Free Throw.",33,43,-10,0.18532817626499,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+159,2,"17:34",1054,1054,"Nassir Barrino missed Free Throw.",33,43,-10,0.18532817626499,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+160,2,"17:34",1054,1054,"Brett Bailey Offensive Rebound.",33,43,-10,0.18532817626499,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+161,2,"17:18",1038,1038,"Cameron Neubauer missed Three Point Jumper.",33,43,-10,0.189510580330777,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+162,2,"17:18",1038,1038,"Jonathan Allen Defensive Rebound.",33,43,-10,0.189510580330777,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+163,2,"17:01",1021,1021,"Nolan Taylor missed Jumper.",33,43,-10,0.186114609651074,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+164,2,"17:01",1021,1021,"Olin Carter III Defensive Rebound.",33,43,-10,0.186114609651074,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+165,2,"16:51",1011,1011,"Brett Bailey missed Layup.",33,43,-10,0.16131393625909,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+166,2,"16:51",1011,1011,"Jonathan Allen Defensive Rebound.",33,43,-10,0.16131393625909,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+167,2,"16:44",1004,1004,"Jonathan Allen Turnover.",33,43,-10,0.161835567395403,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+168,2,"16:43",1003,1003,"Cameron Neubauer Steal.",33,43,-10,0.161835567395403,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+169,2,"16:41",1001,1001,"Foul on Chris Reyes.",33,43,-10,0.161835567395403,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+170,2,"16:34",994,994,"Nassir Barrino Turnover.",33,43,-10,0.173614079512728,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+171,2,"16:33",993,993,"Nolan Taylor Steal.",33,43,-10,0.173614079512728,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+172,2,"16:07",967,967,"Lamond Murray Jr. missed Jumper.",33,43,-10,0.166231175396185,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+173,2,"16:07",967,967,"Pepperdine Offensive Rebound.",33,43,-10,0.166231175396185,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+174,2,"15:51",951,951,"Official TV Timeout",33,43,-10,0.157300804820152,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+175,2,"15:36",936,936,"Nolan Taylor missed Jumper.",33,43,-10,0.161745898168415,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+176,2,"15:36",936,936,"Juwan Gray Defensive Rebound.",33,43,-10,0.161745898168415,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+177,2,"15:15",915,915,"Brett Bailey made Layup.",35,43,-8,0.214638864490119,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+178,2,"15:15",915,915,"Foul on Lamond Murray Jr..",35,43,-8,0.214638864490119,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+179,2,"15:15",915,915,"Brett Bailey made Free Throw.",36,43,-7,0.249495309603102,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+180,2,"15:01",901,901,"Foul on Brett Bailey.",36,43,-7,0.254554884433156,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+181,2,"14:48",888,888,"Jonathan Allen missed Three Point Jumper.",36,43,-7,0.273466796381011,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+182,2,"14:48",888,888,"Nolan Taylor Offensive Rebound.",36,43,-7,0.273466796381011,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+183,2,"14:45",885,885,"Foul on Nolan Taylor.",36,43,-7,0.273466796381011,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+184,2,"14:45",885,885,"Nolan Taylor Turnover.",36,43,-7,0.273466796381011,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+185,2,"14:30",870,870,"Mark Carbone missed Jumper.",36,43,-7,0.257191520836934,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+186,2,"14:30",870,870,"Nate Gehring Defensive Rebound.",36,43,-7,0.257191520836934,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+187,2,"14:11",851,851,"Nate Gehring missed Jumper.",36,43,-7,0.248320460655378,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+188,2,"14:11",851,851,"Juwan Gray Block.",36,43,-7,0.248320460655378,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+189,2,"14:10",850,850,"Nassir Barrino Defensive Rebound.",36,43,-7,0.248320460655378,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+190,2,"14:04",844,844,"Olin Carter III made Three Point Jumper. Assisted by Nassir Barrino.",39,43,-4,0.355185957911232,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+191,2,"13:41",821,821,"Chris Reyes missed Jumper.",39,43,-4,0.380318276737884,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+192,2,"13:41",821,821,"Juwan Gray Defensive Rebound.",39,43,-4,0.380318276737884,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+193,2,"13:35",815,815,"Nassir Barrino missed Layup.",39,43,-4,0.358677603799287,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+194,2,"13:35",815,815,"Jeremy Major Defensive Rebound.",39,43,-4,0.358677603799287,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+195,2,"13:27",807,807,"Lamond Murray Jr. made Layup. Assisted by Jeremy Major.",39,45,-6,0.291471303578395,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+196,2,"13:04",784,784,"Mark Carbone made Three Point Jumper. Assisted by Nassir Barrino.",42,45,-3,0.40936784762424,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+197,2,"12:45",765,765,"Jeremy Major missed Three Point Jumper.",42,45,-3,0.423691784901172,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+198,2,"12:45",765,765,"Cameron Neubauer Defensive Rebound.",42,45,-3,0.423691784901172,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+199,2,"12:39",759,759,"Nassir Barrino missed Layup.",42,45,-3,0.401903099031783,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+200,2,"12:39",759,759,"Lamond Murray Jr. Block.",42,45,-3,0.401903099031783,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+201,2,"12:36",756,756,"Lamond Murray Jr. Defensive Rebound.",42,45,-3,0.401903099031783,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+202,2,"12:22",742,742,"Jonathan Allen made Three Point Jumper. Assisted by Jeremy Major.",42,48,-6,0.245783438606666,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+203,2,"11:59",719,719,"Olin Carter III missed Three Point Jumper.",42,48,-6,0.240715070779289,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+204,2,"11:59",719,719,"Cameron Neubauer Offensive Rebound.",42,48,-6,0.240715070779289,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+205,2,"11:57",717,717,"Foul on Chris Reyes.",42,48,-6,0.240715070779289,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+206,2,"11:57",717,717,"Official TV Timeout",42,48,-6,0.240715070779289,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+207,2,"11:57",717,717,"Cameron Neubauer made Free Throw.",43,48,-5,0.282965536426326,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+208,2,"11:57",717,717,"Cameron Neubauer made Free Throw.",44,48,-4,0.329414486271237,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+209,2,"11:43",703,703,"Chris Reyes missed Jumper.",44,48,-4,0.365517989278031,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+210,2,"11:43",703,703,"Juwan Gray Defensive Rebound.",44,48,-4,0.365517989278031,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+211,2,"11:21",681,681,"Olin Carter III missed Three Point Jumper.",44,48,-4,0.337617553216493,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+212,2,"11:21",681,681,"Elijah Lee Defensive Rebound.",44,48,-4,0.337617553216493,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+213,2,"11:10",670,670,"Lamond Murray Jr. missed Jumper.",44,48,-4,0.329636171204502,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+214,2,"11:10",670,670,"Juwan Gray Defensive Rebound.",44,48,-4,0.329636171204502,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+215,2,"10:39",639,639,"Juwan Gray missed Jumper.",44,48,-4,0.326138768590022,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+216,2,"10:39",639,639,"Jeremy Major Defensive Rebound.",44,48,-4,0.326138768590022,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+217,2,"10:08",608,608,"Chris Reyes made Jumper.",44,50,-6,0.230629332370944,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+218,2,"9:38",578,578,"Cameron Neubauer missed Layup.",44,50,-6,0.237036555208369,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+219,2,"9:38",578,578,"Tyler Williams Offensive Rebound.",44,50,-6,0.237036555208369,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+220,2,"9:35",575,575,"Cameron Neubauer missed Layup.",44,50,-6,0.237036555208369,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+221,2,"9:35",575,575,"Chris Reyes Defensive Rebound.",44,50,-6,0.237036555208369,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+222,2,"9:29",569,569,"Foul on Cameron Neubauer.",44,50,-6,0.222411682271001,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+223,2,"9:15",555,555,"Elijah Lee missed Three Point Jumper.",44,50,-6,0.204357694211784,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+224,2,"9:15",555,555,"Cameron Neubauer Defensive Rebound.",44,50,-6,0.204357694211784,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+225,2,"9:04",544,544,"Foul on Juwan Gray.",44,50,-6,0.191527926571952,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+226,2,"9:04",544,544,"Juwan Gray Turnover.",44,50,-6,0.191527926571952,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+227,2,"8:52",532,532,"Elijah Lee missed Jumper.",44,50,-6,0.206983698803505,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+228,2,"8:52",532,532,"Cameron Neubauer Defensive Rebound.",44,50,-6,0.206983698803505,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+229,2,"8:33",513,513,"Brett Bailey missed Jumper.",44,50,-6,0.196704106132761,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+230,2,"8:33",513,513,"Nate Gehring Block.",44,50,-6,0.196704106132761,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+231,2,"8:29",509,509,"Lamond Murray Jr. Defensive Rebound.",44,50,-6,0.213280943217374,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+232,2,"8:12",492,492,"Lamond Murray Jr. missed Three Point Jumper.",44,50,-6,0.213814605652766,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+233,2,"8:12",492,492,"Lamond Murray Jr. Offensive Rebound.",44,50,-6,0.213814605652766,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+234,2,"8:08",488,488,"Foul on Cameron Neubauer.",44,50,-6,0.197333324625723,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+235,2,"8:00",480,480,"Chris Reyes missed Free Throw.",44,50,-6,0.197333324625723,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+236,2,"8:00",480,480,"Pepperdine Deadball Team Rebound.",44,50,-6,0.197333324625723,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+237,2,"8:00",480,480,"Chris Reyes made Free Throw.",44,51,-7,0.157567659653215,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+238,2,"8:00",480,480,"Brett Bailey missed Three Point Jumper.",44,51,-7,0.157567659653215,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+239,2,"8:00",480,480,"Elijah Lee Defensive Rebound.",44,51,-7,0.157567659653215,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+240,2,"8:00",480,480,"Chris Reyes missed Jumper.",44,51,-7,0.157567659653215,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+241,2,"8:00",480,480,"Cameron Neubauer Defensive Rebound.",44,51,-7,0.157567659653215,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+242,2,"8:00",480,480,"Cameron Neubauer missed Jumper.",44,51,-7,0.157567659653215,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+243,2,"8:00",480,480,"Jonathan Allen Block.",44,51,-7,0.157567659653215,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+244,2,"8:00",480,480,"Chris Reyes Defensive Rebound.",44,51,-7,0.157567659653215,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+245,2,"8:00",480,480,"Lamond Murray Jr. Turnover.",44,51,-7,0.157567659653215,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+246,2,"8:00",480,480,"Brett Bailey Steal.",44,51,-7,0.157567659653215,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+247,2,"7:57",477,477,"Cameron Neubauer missed Three Point Jumper.",44,51,-7,0.14038005460921,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+248,2,"7:57",477,477,"San Diego Deadball Team Rebound.",44,51,-7,0.14038005460921,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+249,2,"5:55",355,355,"Foul on Jonathan Allen.",44,51,-7,0.0891510935870766,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+250,2,"5:55",355,355,"Official TV Timeout",44,51,-7,0.0891510935870766,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+251,2,"5:55",355,355,"Juwan Gray made Free Throw.",45,51,-6,0.120917157413435,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+252,2,"5:55",355,355,"Juwan Gray missed Free Throw.",45,51,-6,0.120917157413435,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+253,2,"5:55",355,355,"Lamond Murray Jr. Defensive Rebound.",45,51,-6,0.120917157413435,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+254,2,"5:37",337,337,"Jeremy Major missed Jumper.",45,51,-6,0.13395051105715,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+255,2,"5:37",337,337,"Juwan Gray Defensive Rebound.",45,51,-6,0.13395051105715,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+256,2,"5:10",310,310,"Juwan Gray made Jumper. Assisted by Brett Bailey.",47,51,-4,0.223660771068144,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+257,2,"4:41",281,281,"Nolan Taylor made Jumper. Assisted by Jeremy Major.",47,53,-6,0.123378675981487,"San Diego","Pepperdine",4,4,0,0,1.5,400915869,2017-02-11
+258,2,"4:32",272,272,"San Diego  Timeout",47,53,-6,0.0985305200322821,"San Diego","Pepperdine",3,4,1,0,1.5,400915869,2017-02-11
+259,2,"4:31",271,271,"Foul on Juwan Gray.",47,53,-6,0.0985305200322821,"San Diego","Pepperdine",3,4,1,0,1.5,400915869,2017-02-11
+260,2,"4:31",271,271,"Juwan Gray Turnover.",47,53,-6,0.0985305200322821,"San Diego","Pepperdine",3,4,1,0,1.5,400915869,2017-02-11
+261,2,"4:31",271,271,"Jeremy Major Steal.",47,53,-6,0.0985305200322821,"San Diego","Pepperdine",3,4,1,0,1.5,400915869,2017-02-11
+262,2,"4:09",249,249,"Lamond Murray Jr. missed Jumper.",47,53,-6,0.0945642430433911,"San Diego","Pepperdine",3,4,1,0,1.5,400915869,2017-02-11
+263,2,"4:09",249,249,"Brett Bailey Defensive Rebound.",47,53,-6,0.0945642430433911,"San Diego","Pepperdine",3,4,1,0,1.5,400915869,2017-02-11
+264,2,"4:03",243,243,"Foul on Elijah Lee.",47,53,-6,0.0945642430433911,"San Diego","Pepperdine",3,4,1,0,1.5,400915869,2017-02-11
+265,2,"4:03",243,243,"Official TV Timeout",47,53,-6,0.0945642430433911,"San Diego","Pepperdine",3,4,1,0,1.5,400915869,2017-02-11
+266,2,"4:03",243,243,"Brett Bailey missed Free Throw.",47,53,-6,0.0945642430433911,"San Diego","Pepperdine",3,4,1,0,1.5,400915869,2017-02-11
+267,2,"4:03",243,243,"Nolan Taylor Defensive Rebound.",47,53,-6,0.0945642430433911,"San Diego","Pepperdine",3,4,1,0,1.5,400915869,2017-02-11
+268,2,"3:33",213,213,"Jeremy Major made Three Point Jumper.",47,56,-9,0.0215821170983806,"San Diego","Pepperdine",3,4,1,0,1.5,400915869,2017-02-11
+269,2,"3:32",212,212,"Pepperdine  Timeout",47,56,-9,0.0215821170983806,"San Diego","Pepperdine",3,3,1,1,1.5,400915869,2017-02-11
+270,2,"3:12",192,192,"Foul on Chris Reyes.",47,56,-9,0.0166723563879275,"San Diego","Pepperdine",3,3,0,1,1.5,400915869,2017-02-11
+271,2,"3:12",192,192,"Cameron Neubauer missed Free Throw.",47,56,-9,0.0166723563879275,"San Diego","Pepperdine",3,3,0,1,1.5,400915869,2017-02-11
+272,2,"3:12",192,192,"San Diego Deadball Team Rebound.",47,56,-9,0.0166723563879275,"San Diego","Pepperdine",3,3,0,1,1.5,400915869,2017-02-11
+273,2,"3:05",185,185,"Cameron Neubauer made Free Throw.",48,56,-8,0.0221276802160825,"San Diego","Pepperdine",3,3,0,1,1.5,400915869,2017-02-11
+274,2,"2:46",166,166,"Nolan Taylor made Jumper.",48,58,-10,0.00756682769319021,"San Diego","Pepperdine",3,3,0,1,1.5,400915869,2017-02-11
+275,2,"2:30",150,150,"Nassir Barrino Turnover.",48,58,-10,0.00549533983065804,"San Diego","Pepperdine",3,3,0,0,1.5,400915869,2017-02-11
+276,2,"2:25",145,145,"Foul on Nassir Barrino.",48,58,-10,0.00595870214135925,"San Diego","Pepperdine",3,3,0,0,1.5,400915869,2017-02-11
+277,2,"2:25",145,145,"Jonathan Allen missed Free Throw.",48,58,-10,0.00595870214135925,"San Diego","Pepperdine",3,3,0,0,1.5,400915869,2017-02-11
+278,2,"2:25",145,145,"Cameron Neubauer Defensive Rebound.",48,58,-10,0.00595870214135925,"San Diego","Pepperdine",3,3,0,0,1.5,400915869,2017-02-11
+279,2,"2:10",130,130,"Brett Bailey missed Jumper.",48,58,-10,0.00575071065245012,"San Diego","Pepperdine",3,3,0,0,1.5,400915869,2017-02-11
+280,2,"2:10",130,130,"Nolan Taylor Block.",48,58,-10,0.00575071065245012,"San Diego","Pepperdine",3,3,0,0,1.5,400915869,2017-02-11
+281,2,"2:09",129,129,"Jonathan Allen Defensive Rebound.",48,58,-10,0.00369493026942576,"San Diego","Pepperdine",3,3,0,0,1.5,400915869,2017-02-11
+282,2,"2:02",122,122,"Nolan Taylor made Layup. Assisted by Jeremy Major.",48,60,-12,0.00119297487032908,"San Diego","Pepperdine",3,3,0,0,1.5,400915869,2017-02-11
+283,2,"1:58",118,118,"San Diego  Timeout",48,60,-12,0.00094275209460635,"San Diego","Pepperdine",2,3,1,0,1.5,400915869,2017-02-11
+284,2,"1:46",106,106,"Brett Bailey made Jumper. Assisted by Cameron Neubauer.",50,60,-10,0.00207093023762871,"San Diego","Pepperdine",2,3,1,0,1.5,400915869,2017-02-11
+285,2,"1:37",97,97,"Foul on Olin Carter III.",50,60,-10,0.00210512867794079,"San Diego","Pepperdine",2,3,1,0,1.5,400915869,2017-02-11
+286,2,"1:37",97,97,"Elijah Lee missed Free Throw.",50,60,-10,0.00210512867794079,"San Diego","Pepperdine",2,3,1,0,1.5,400915869,2017-02-11
+287,2,"1:37",97,97,"Brett Bailey Defensive Rebound.",50,60,-10,0.00210512867794079,"San Diego","Pepperdine",2,3,1,0,1.5,400915869,2017-02-11
+288,2,"1:17",77,77,"Olin Carter III missed Three Point Jumper.",50,60,-10,0.000661334343956289,"San Diego","Pepperdine",2,3,1,0,1.5,400915869,2017-02-11
+289,2,"1:17",77,77,"Brett Bailey Offensive Rebound.",50,60,-10,0.000661334343956289,"San Diego","Pepperdine",2,3,1,0,1.5,400915869,2017-02-11
+290,2,"0:58",58,58,"Nassir Barrino made Layup. Assisted by Cameron Neubauer.",52,60,-8,0.00157612802492761,"San Diego","Pepperdine",2,3,1,0,1.5,400915869,2017-02-11
+291,2,"0:52",52,52,"Elijah Lee Turnover.",52,60,-8,0.00186833900590995,"San Diego","Pepperdine",2,3,1,0,1.5,400915869,2017-02-11
+292,2,"0:52",52,52,"San Diego  Timeout",52,60,-8,0.00186833900590995,"San Diego","Pepperdine",1,3,1,0,1.5,400915869,2017-02-11
+293,2,"0:44",44,44,"Foul on Cameron Neubauer.",52,60,-8,0.00163324478568459,"San Diego","Pepperdine",1,3,1,0,1.5,400915869,2017-02-11
+294,2,"0:44",44,44,"Cameron Neubauer Turnover.",52,60,-8,0.00163324478568459,"San Diego","Pepperdine",1,3,1,0,1.5,400915869,2017-02-11
+295,2,"0:39",39,39,"Foul on Nassir Barrino.",52,60,-8,0.0005764586143888,"San Diego","Pepperdine",1,3,1,0,1.5,400915869,2017-02-11
+296,2,"0:39",39,39,"Lamond Murray Jr. made Free Throw.",52,61,-9,0.000221477073224718,"San Diego","Pepperdine",1,3,1,0,1.5,400915869,2017-02-11
+297,2,"0:39",39,39,"Lamond Murray Jr. missed Free Throw.",52,61,-9,0.000221477073224718,"San Diego","Pepperdine",1,3,1,0,1.5,400915869,2017-02-11
+298,2,"0:39",39,39,"Brett Bailey Defensive Rebound.",52,61,-9,0.000221477073224718,"San Diego","Pepperdine",1,3,1,0,1.5,400915869,2017-02-11
+299,2,"0:29",29,29,"Nassir Barrino made Layup.",54,61,-7,0.000655279481686388,"San Diego","Pepperdine",1,3,1,0,1.5,400915869,2017-02-11
+300,2,"0:26",26,26,"Foul on Olin Carter III.",54,61,-7,0.000132240758566865,"San Diego","Pepperdine",1,3,1,1,1.5,400915869,2017-02-11
+301,2,"0:26",26,26,"Jeremy Major made Free Throw.",54,62,-8,3.78999727790927e-05,"San Diego","Pepperdine",1,3,1,1,1.5,400915869,2017-02-11
+302,2,"0:26",26,26,"Jeremy Major missed Free Throw.",54,62,-8,3.78999727790927e-05,"San Diego","Pepperdine",1,3,1,1,1.5,400915869,2017-02-11
+303,2,"0:26",26,26,"Brett Bailey Defensive Rebound.",54,62,-8,3.78999727790927e-05,"San Diego","Pepperdine",1,3,1,1,1.5,400915869,2017-02-11
+304,2,"0:26",26,26,"Foul on Chris Reyes.",54,62,-8,3.78999727790927e-05,"San Diego","Pepperdine",1,3,1,1,1.5,400915869,2017-02-11
+305,2,"0:26",26,26,"Pepperdine  Timeout",54,62,-8,3.78999727790927e-05,"San Diego","Pepperdine",1,2,1,1,1.5,400915869,2017-02-11
+306,2,"0:26",26,26,"Brett Bailey made Free Throw.",55,62,-7,0.000132240758566865,"San Diego","Pepperdine",1,2,1,1,1.5,400915869,2017-02-11
+307,2,"0:26",26,26,"Brett Bailey made Free Throw.",56,62,-6,0.000461306725942928,"San Diego","Pepperdine",1,2,1,1,1.5,400915869,2017-02-11
+308,2,"0:26",26,26,"Foul on Brett Bailey.",56,62,-6,0.000461306725942928,"San Diego","Pepperdine",1,2,1,1,1.5,400915869,2017-02-11
+309,2,"0:26",26,26,"Lamond Murray Jr. missed Free Throw.",56,62,-6,0.000461306725942928,"San Diego","Pepperdine",1,2,1,1,1.5,400915869,2017-02-11
+310,2,"0:26",26,26,"Pepperdine Deadball Team Rebound.",56,62,-6,0.000461306725942928,"San Diego","Pepperdine",1,2,1,1,1.5,400915869,2017-02-11
+311,2,"0:26",26,26,"Lamond Murray Jr. made Free Throw.",56,63,-7,0.000132240758566865,"San Diego","Pepperdine",1,2,1,1,1.5,400915869,2017-02-11
+312,2,"0:21",21,21,"Nassir Barrino made Layup.",58,63,-5,0.000254476909607565,"San Diego","Pepperdine",1,2,1,1,1.5,400915869,2017-02-11
+313,2,"0:20",20,20,"Foul on Brett Bailey.",58,63,-5,0.000217496414525794,"San Diego","Pepperdine",1,2,1,1,1.5,400915869,2017-02-11
+314,2,"0:20",20,20,"Lamond Murray Jr. made Free Throw.",58,64,-6,4.15561620969039e-05,"San Diego","Pepperdine",1,2,1,1,1.5,400915869,2017-02-11
+315,2,"0:20",20,20,"Lamond Murray Jr. made Free Throw.",58,65,-7,7.9388380356325e-06,"San Diego","Pepperdine",1,2,1,1,1.5,400915869,2017-02-11
+316,2,"0:13",13,13,"Mark Carbone missed Three Point Jumper.",58,65,-7,3.45699213647679e-05,"San Diego","Pepperdine",1,2,1,1,1.5,400915869,2017-02-11
+317,2,"0:13",13,13,"Cameron Neubauer Offensive Rebound.",58,65,-7,3.45699213647679e-05,"San Diego","Pepperdine",1,2,1,1,1.5,400915869,2017-02-11
+318,2,"0:08",8,8,"Juwan Gray made Layup. Assisted by Cameron Neubauer.",60,65,-5,0.000573599194566487,"San Diego","Pepperdine",1,2,1,1,1.5,400915869,2017-02-11
+319,2,"0:02",2,2,"Foul on Mark Carbone.",60,65,-5,0.000107640511173758,"San Diego","Pepperdine",1,2,1,1,1.5,400915869,2017-02-11
+320,2,"0:02",2,2,"Jonathan Allen missed Free Throw.",60,65,-5,0.000107640511173758,"San Diego","Pepperdine",1,2,1,1,1.5,400915869,2017-02-11
+321,2,"0:02",2,2,"Pepperdine Deadball Team Rebound.",60,65,-5,0.000107640511173758,"San Diego","Pepperdine",1,2,1,1,1.5,400915869,2017-02-11
+322,2,"0:02",2,2,"Jonathan Allen missed Free Throw.",60,65,-5,0.000107640511173758,"San Diego","Pepperdine",1,2,1,1,1.5,400915869,2017-02-11
+323,2,"0:02",2,2,"Cameron Neubauer Defensive Rebound.",60,65,-5,0.000107640511173758,"San Diego","Pepperdine",1,2,1,1,1.5,400915869,2017-02-11
+324,2,"0:00",0,0,"End of Game",60,65,-5,1.02831170523488e-42,"San Diego","Pepperdine",1,2,1,1,1.5,400915869,2017-02-11

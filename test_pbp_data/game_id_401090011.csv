@@ -1,0 +1,360 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","play_length","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,25,0.927127616212769,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+2,1,"19:35",2375,2375,"Noah Baumann made Layup.",0,2,-2,0,0.904122661809067,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+3,1,"19:35",2375,2375,"Foul on Neemias Queta.",0,2,-2,0,0.904122661809067,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+4,1,"19:35",2375,2375,"Noah Baumann made Free Throw.",0,3,-3,11,0.895553934956936,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+5,1,"19:24",2364,2364,"Neemias Queta missed Layup.",0,3,-3,0,0.903159896866965,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+6,1,"19:24",2364,2364,"Brock Miller Offensive Rebound.",0,3,-3,16,0.903159896866965,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+7,1,"19:08",2348,2348,"Quinn Taylor made Jumper. Assisted by Sam Merrill.",2,3,-1,22,0.905973852308972,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+8,1,"18:46",2326,2326,"Craig LeCesne missed Jumper.",2,3,-1,0,0.908315698013813,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+9,1,"18:46",2326,2326,"Craig LeCesne Offensive Rebound.",2,3,-1,4,0.908315698013813,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+10,1,"18:42",2322,2322,"Craig LeCesne made Layup.",2,5,-3,14,0.888677307181711,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+11,1,"18:28",2308,2308,"Abel Porter made Three Point Jumper. Assisted by Brock Miller.",5,5,0,21,0.908553115095782,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+12,1,"18:07",2287,2287,"Craig LeCesne missed Three Point Jumper.",5,5,0,0,0.912338496002853,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+13,1,"18:07",2287,2287,"Neemias Queta Defensive Rebound.",5,5,0,8,0.912338496002853,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+14,1,"17:59",2279,2279,"Brock Miller missed Three Point Jumper.",5,5,0,0,0.914854079386452,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+15,1,"17:59",2279,2279,"Craig LeCesne Defensive Rebound.",5,5,0,8,0.914854079386452,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+16,1,"17:51",2271,2271,"Craig LeCesne Turnover.",5,5,0,0,0.914854079386452,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+17,1,"17:51",2271,2271,"Foul on Craig LeCesne.",5,5,0,10,0.914854079386452,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+18,1,"17:41",2261,2261,"Sam Merrill made Three Point Jumper. Assisted by Neemias Queta.",8,5,3,23,0.942738784624542,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+19,1,"17:18",2238,2238,"Foul on Quinn Taylor.",8,5,3,1,0.93608551294928,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+20,1,"17:17",2237,2237,"Noah Baumann made Jumper. Assisted by Craig LeCesne.",8,7,1,12,0.921311316201364,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+21,1,"17:05",2225,2225,"Brock Miller missed Three Point Jumper.",8,7,1,0,0.921737299485047,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+22,1,"17:05",2225,2225,"Craig LeCesne Defensive Rebound.",8,7,1,20,0.921737299485047,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+23,1,"16:45",2205,2205,"Ashtin Chastain Turnover.",8,7,1,1,0.91908999500849,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+24,1,"16:44",2204,2204,"Abel Porter Steal.",8,7,1,3,0.91908999500849,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+25,1,"16:41",2201,2201,"Brock Miller made Layup. Assisted by Abel Porter.",10,7,3,22,0.934401897530678,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+26,1,"16:19",2179,2179,"Christian Anigwe missed Layup.",10,7,3,0,0.931862438792866,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+27,1,"16:19",2179,2179,"Neemias Queta Block.",10,7,3,0,0.931862438792866,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+28,1,"16:19",2179,2179,"Utah State Defensive Rebound.",10,7,3,24,0.931862438792866,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+29,1,"15:55",2155,2155,"Brock Miller Turnover.",10,7,3,1,0.933412530409268,"Utah State","San José St",4,4,0,0,24,"401090011",2019-01-30
+30,1,"15:54",2154,2154,"Noah Baumann Steal.",10,7,3,0,0.933412530409268,"Utah State","San José St",4,4,0,1,24,"401090011",2019-01-30
+31,1,"15:54",2154,2154,"San José State  Timeout",10,7,3,0,0.933412530409268,"Utah State","San José St",4,3,0,1,24,"401090011",2019-01-30
+32,1,"15:54",2154,2154,"Official TV Timeout",10,7,3,16,0.933412530409268,"Utah State","San José St",4,3,0,1,24,"401090011",2019-01-30
+33,1,"15:38",2138,2138,"Michael Steadman made Layup. Assisted by Craig LeCesne.",10,9,1,18,0.918792061312269,"Utah State","San José St",4,3,0,1,24,"401090011",2019-01-30
+34,1,"15:20",2120,2120,"Neemias Queta missed Jumper.",10,9,1,0,0.915987622485011,"Utah State","San José St",4,3,0,1,24,"401090011",2019-01-30
+35,1,"15:20",2120,2120,"Craig LeCesne Defensive Rebound.",10,9,1,23,0.915987622485011,"Utah State","San José St",4,3,0,1,24,"401090011",2019-01-30
+36,1,"14:57",2097,2097,"Noah Baumann made Three Point Jumper. Assisted by Michael Steadman.",10,12,-2,22,0.876188625898894,"Utah State","San José St",4,3,0,1,24,"401090011",2019-01-30
+37,1,"14:35",2075,2075,"Neemias Queta made Layup. Assisted by Quinn Taylor.",12,12,0,0,0.909704506993642,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+38,1,"14:35",2075,2075,"Foul on Seneca Knight.",12,12,0,0,0.909704506993642,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+39,1,"14:35",2075,2075,"Neemias Queta made Free Throw.",13,12,1,19,0.918126830859699,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+40,1,"14:16",2056,2056,"Noah Baumann missed Layup.",13,12,1,0,0.922843570528279,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+41,1,"14:16",2056,2056,"Ashtin Chastain Offensive Rebound.",13,12,1,4,0.922843570528279,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+42,1,"14:12",2052,2052,"Ashtin Chastain made Layup.",13,14,-1,10,0.904418270127046,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+43,1,"14:02",2042,2042,"Tauriawn Knight made Layup.",15,14,1,0,0.908906873432221,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+44,1,"14:02",2042,2042,"Foul on Noah Baumann.",15,14,1,0,0.908906873432221,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+45,1,"14:02",2042,2042,"Tauriawn Knight made Free Throw.",16,14,2,13,0.917628288639452,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+46,1,"13:49",2029,2029,"Noah Baumann Turnover.",16,14,2,2,0.925555454945908,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+47,1,"13:47",2027,2027,"Neemias Queta Steal.",16,14,2,3,0.925555454945908,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+48,1,"13:44",2024,2024,"Diogo Brito missed Three Point Jumper.",16,14,2,0,0.925555454945908,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+49,1,"13:44",2024,2024,"Seneca Knight Defensive Rebound.",16,14,2,14,0.925555454945908,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+50,1,"13:30",2010,2010,"Michael Steadman missed Jumper.",16,14,2,0,0.923619089651059,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+51,1,"13:30",2010,2010,"Dwayne Brown Jr. Defensive Rebound.",16,14,2,10,0.923619089651059,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+52,1,"13:20",2000,2000,"Neemias Queta missed Jumper.",16,14,2,0,0.919272472604177,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+53,1,"13:20",2000,2000,"Michael Steadman Block.",16,14,2,0,0.919272472604177,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+54,1,"13:20",2000,2000,"Neemias Queta Offensive Rebound.",16,14,2,4,0.919272472604177,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+55,1,"13:16",1996,1996,"Diogo Brito made Three Point Jumper. Assisted by Sam Merrill.",19,14,5,22,0.948280070702727,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+56,1,"12:54",1974,1974,"Craig LeCesne missed Jumper.",19,14,5,0,0.950204006636986,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+57,1,"12:54",1974,1974,"Neemias Queta Defensive Rebound.",19,14,5,7,0.950204006636986,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+58,1,"12:47",1967,1967,"Dwayne Brown Jr. Turnover.",19,14,5,0,0.941095813747381,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+59,1,"12:47",1967,1967,"Foul on Dwayne Brown Jr..",19,14,5,14,0.941095813747381,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+60,1,"12:33",1953,1953,"Craig LeCesne missed Three Point Jumper.",19,14,5,0,0.943231627067548,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+61,1,"12:33",1953,1953,"Neemias Queta Defensive Rebound.",19,14,5,11,0.943231627067548,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+62,1,"12:22",1942,1942,"Tauriawn Knight missed Layup.",19,14,5,0,0.944336945142325,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+63,1,"12:22",1942,1942,"Craig LeCesne Defensive Rebound.",19,14,5,13,0.944336945142325,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+64,1,"12:09",1929,1929,"Michael Steadman made Layup. Assisted by Brae Ivey.",19,16,3,13,0.934664996670465,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+65,1,"11:56",1916,1916,"Neemias Queta Turnover.",19,16,3,0,0.933655597302717,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+66,1,"11:56",1916,1916,"Michael Steadman Steal.",19,16,3,3,0.933655597302717,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+67,1,"11:53",1913,1913,"Foul on Tauriawn Knight.",19,16,3,0,0.933655597302717,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+68,1,"11:53",1913,1913,"Official TV Timeout",19,16,3,0,0.933655597302717,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+69,1,"11:53",1913,1913,"Brae Ivey missed Free Throw.",19,16,3,0,0.933655597302717,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+70,1,"11:53",1913,1913,"San José State Deadball Team Rebound.",19,16,3,0,0.933655597302717,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+71,1,"11:53",1913,1913,"Brae Ivey missed Free Throw.",19,16,3,0,0.933655597302717,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+72,1,"11:53",1913,1913,"Quinn Taylor Defensive Rebound.",19,16,3,25,0.933655597302717,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+73,1,"11:28",1888,1888,"Dwayne Brown Jr. made Layup. Assisted by Tauriawn Knight.",21,16,5,25,0.944611789465485,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+74,1,"11:03",1863,1863,"Brae Ivey missed Three Point Jumper.",21,16,5,0,0.942887997622021,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+75,1,"11:03",1863,1863,"Michael Steadman Offensive Rebound.",21,16,5,3,0.942887997622021,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+76,1,"11:00",1860,1860,"Foul on Dwayne Brown Jr..",21,16,5,0,0.942887997622021,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+77,1,"11:00",1860,1860,"Michael Steadman made Free Throw.",21,17,4,0,0.935199498816627,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+78,1,"11:00",1860,1860,"Michael Steadman made Free Throw.",21,18,3,6,0.926556584446041,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+79,1,"10:54",1854,1854,"Tauriawn Knight missed Three Point Jumper.",21,18,3,0,0.927064031358323,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+80,1,"10:54",1854,1854,"Brock Miller Offensive Rebound.",21,18,3,12,0.927064031358323,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+81,1,"10:42",1842,1842,"Brock Miller missed Three Point Jumper.",21,18,3,0,0.925089620614277,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+82,1,"10:42",1842,1842,"Quinn Taylor Offensive Rebound.",21,18,3,5,0.925089620614277,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+83,1,"10:37",1837,1837,"Quinn Taylor made Two Point Tip Shot.",23,18,5,19,0.939970197290244,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+84,1,"10:18",1818,1818,"Ashtin Chastain missed Layup.",23,18,5,0,0.945270662885494,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+85,1,"10:18",1818,1818,"Quinn Taylor Block.",23,18,5,1,0.945270662885494,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+86,1,"10:17",1817,1817,"San José State Offensive Rebound.",23,18,5,19,0.945270662885494,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+87,1,"9:58",1798,1798,"San José State  Turnover.",23,18,5,13,0.937845644898592,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+88,1,"9:45",1785,1785,"Brock Miller missed Three Point Jumper.",23,18,5,0,0.935427565269614,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+89,1,"9:45",1785,1785,"Seneca Knight Defensive Rebound.",23,18,5,18,0.935427565269614,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+90,1,"9:27",1767,1767,"Ashtin Chastain Turnover.",23,18,5,14,0.946890882064145,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+91,1,"9:13",1753,1753,"Sam Merrill missed Three Point Jumper.",23,18,5,0,0.94500128807636,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+92,1,"9:13",1753,1753,"Quinn Taylor Offensive Rebound.",23,18,5,9,0.94500128807636,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+93,1,"9:04",1744,1744,"Justin Bean made Layup. Assisted by Sam Merrill.",25,18,7,35,0.949968546985744,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+94,1,"8:29",1709,1709,"Seneca Knight Turnover.",25,18,7,17,0.950739714911246,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+95,1,"8:12",1692,1692,"Sam Merrill made Three Point Jumper. Assisted by Neemias Queta.",28,18,10,11,0.970135763602375,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+96,1,"8:01",1681,1681,"Zach Chappell Turnover.",28,18,10,0,0.974349911030876,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+97,1,"8:01",1681,1681,"Foul on Zach Chappell.",28,18,10,15,0.974349911030876,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+98,1,"7:46",1666,1666,"Brock Miller missed Three Point Jumper.",28,18,10,0,0.967092975157017,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+99,1,"7:46",1666,1666,"Michael Steadman Defensive Rebound.",28,18,10,10,0.967092975157017,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+100,1,"7:36",1656,1656,"Michael Steadman missed Three Point Jumper.",28,18,10,0,0.966423842577735,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+101,1,"7:36",1656,1656,"Abel Porter Defensive Rebound.",28,18,10,9,0.966423842577735,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+102,1,"7:27",1647,1647,"Justin Bean made Layup. Assisted by Abel Porter.",30,18,12,23,0.977444998914145,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+103,1,"7:04",1624,1624,"Seneca Knight missed Jumper.",30,18,12,0,0.977111204534618,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+104,1,"7:04",1624,1624,"Neemias Queta Defensive Rebound.",30,18,12,16,0.977111204534618,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+105,1,"6:48",1608,1608,"Brock Miller missed Three Point Jumper.",30,18,12,0,0.975193578400959,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+106,1,"6:48",1608,1608,"Michael Steadman Defensive Rebound.",30,18,12,18,0.975193578400959,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+107,1,"6:30",1590,1590,"Michael Steadman missed Layup.",30,18,12,0,0.974045377823381,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+108,1,"6:30",1590,1590,"Justin Bean Defensive Rebound.",30,18,12,10,0.974045377823381,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+109,1,"6:20",1580,1580,"Foul on Zach Chappell.",30,18,12,0,0.974951041026637,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+110,1,"6:20",1580,1580,"Official TV Timeout",30,18,12,3,0.974951041026637,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+111,1,"6:17",1577,1577,"Justin Bean Turnover.",30,18,12,1,0.980536112636111,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+112,1,"6:16",1576,1576,"Craig LeCesne Steal.",30,18,12,2,0.980536112636111,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+113,1,"6:14",1574,1574,"Craig LeCesne Turnover.",30,18,12,1,0.980536112636111,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+114,1,"6:13",1573,1573,"Abel Porter Steal.",30,18,12,1,0.980536112636111,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+115,1,"6:12",1572,1572,"Abel Porter made Layup.",32,18,14,17,0.985653679392752,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+116,1,"5:55",1555,1555,"Foul on Abel Porter.",32,18,14,7,0.981131785551586,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+117,1,"5:48",1548,1548,"Foul on Justin Bean.",32,18,14,0,0.982304536251691,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+118,1,"5:48",1548,1548,"Noah Baumann missed Free Throw.",32,18,14,0,0.982304536251691,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+119,1,"5:48",1548,1548,"San José State Deadball Team Rebound.",32,18,14,0,0.982304536251691,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+120,1,"5:48",1548,1548,"Noah Baumann made Free Throw.",32,19,13,27,0.979720533007804,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+121,1,"5:21",1521,1521,"Sam Merrill made Three Point Jumper. Assisted by Diogo Brito.",35,19,16,24,0.98597286269227,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+122,1,"4:57",1497,1497,"Noah Baumann missed Jumper.",35,19,16,0,0.986210533444418,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+123,1,"4:57",1497,1497,"Neemias Queta Block.",35,19,16,0,0.986210533444418,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+124,1,"4:57",1497,1497,"San José State Offensive Rebound.",35,19,16,11,0.986210533444418,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+125,1,"4:46",1486,1486,"San José State  Turnover.",35,19,16,15,0.987493415938841,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+126,1,"4:31",1471,1471,"Sam Merrill missed Three Point Jumper.",35,19,16,0,0.98999799704222,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+127,1,"4:31",1471,1471,"Noah Baumann Defensive Rebound.",35,19,16,12,0.98999799704222,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+128,1,"4:19",1459,1459,"Foul on Justin Bean.",35,19,16,0,0.986843301289476,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+129,1,"4:19",1459,1459,"Michael Steadman missed Free Throw.",35,19,16,0,0.986843301289476,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+130,1,"4:19",1459,1459,"Quinn Taylor Defensive Rebound.",35,19,16,12,0.986843301289476,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+131,1,"4:07",1447,1447,"Justin Bean missed Three Point Jumper.",35,19,16,0,0.988667174018368,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+132,1,"4:07",1447,1447,"Tauriawn Knight Offensive Rebound.",35,19,16,3,0.988667174018368,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+133,1,"4:04",1444,1444,"Tauriawn Knight made Layup.",37,19,18,11,0.991615863919306,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+134,1,"3:53",1433,1433,"Michael Steadman made Layup. Assisted by Noah Baumann.",37,21,16,11,0.986485237765475,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+135,1,"3:42",1422,1422,"Tauriawn Knight made Jumper. Assisted by Sam Merrill.",39,21,18,12,0.98853484254174,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+136,1,"3:30",1410,1410,"Foul on Sam Merrill.",39,21,18,0,0.990303209612159,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+137,1,"3:30",1410,1410,"Official TV Timeout",39,21,18,0,0.990303209612159,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+138,1,"3:30",1410,1410,"Noah Baumann made Free Throw.",39,22,17,0,0.988694987663559,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+139,1,"3:30",1410,1410,"Noah Baumann made Free Throw.",39,23,16,10,0.986823589461443,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+140,1,"3:20",1400,1400,"Quinn Taylor Turnover.",39,23,16,0,0.989139739444039,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+141,1,"3:20",1400,1400,"Foul on Quinn Taylor.",39,23,16,18,0.989139739444039,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+142,1,"3:02",1382,1382,"Noah Baumann made Three Point Jumper.",39,26,13,17,0.980516334615967,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+143,1,"2:45",1365,1365,"Diogo Brito missed Three Point Jumper.",39,26,13,0,0.980337179607536,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+144,1,"2:45",1365,1365,"Noah Baumann Defensive Rebound.",39,26,13,14,0.980337179607536,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+145,1,"2:31",1351,1351,"Craig LeCesne Turnover.",39,26,13,2,0.981387124465439,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+146,1,"2:29",1349,1349,"Sam Merrill Steal.",39,26,13,2,0.979291757238998,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+147,1,"2:27",1347,1347,"Diogo Brito made Layup. Assisted by Sam Merrill.",41,26,15,25,0.98481538875012,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+148,1,"2:02",1322,1322,"Christian Anigwe missed Jumper.",41,26,15,0,0.986069998691383,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+149,1,"2:02",1322,1322,"Quinn Taylor Block.",41,26,15,2,0.986069998691383,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+150,1,"2:00",1320,1320,"San José State Offensive Rebound.",41,26,15,4,0.986069998691383,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+151,1,"1:56",1316,1316,"Christian Anigwe missed Layup.",41,26,15,0,0.986270674292025,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+152,1,"1:56",1316,1316,"Neemias Queta Block.",41,26,15,2,0.986270674292025,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+153,1,"1:54",1314,1314,"Craig LeCesne Offensive Rebound.",41,26,15,1,0.986270674292025,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+154,1,"1:53",1313,1313,"Craig LeCesne missed Layup.",41,26,15,1,0.986270674292025,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+155,1,"1:52",1312,1312,"Neemias Queta Defensive Rebound.",41,26,15,7,0.986270674292025,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+156,1,"1:45",1305,1305,"Neemias Queta made Dunk. Assisted by Justin Bean.",43,26,17,17,0.98644251527103,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+157,1,"1:28",1288,1288,"Brae Ivey made Three Point Jumper. Assisted by Michael Steadman.",43,29,14,17,0.982923256020237,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+158,1,"1:11",1271,1271,"Tauriawn Knight Turnover.",43,29,14,10,0.980689403623206,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+159,1,"1:01",1261,1261,"Christian Anigwe made Layup. Assisted by Brae Ivey.",43,31,12,8,0.97958992718669,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+160,1,"0:53",1253,1253,"Foul on Brae Ivey.",43,31,12,14,0.972519051433802,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+161,1,"0:39",1239,1239,"Foul on Craig LeCesne.",43,31,12,0,0.975735511182269,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+162,1,"0:39",1239,1239,"Sam Merrill made Free Throw.",44,31,13,0,0.979269179363254,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+163,1,"0:39",1239,1239,"Sam Merrill made Free Throw.",45,31,14,9,0.982297571415899,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+164,1,"0:30",1230,1230,"Christian Anigwe Turnover.",45,31,14,0,0.982297571415899,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+165,1,"0:30",1230,1230,"Foul on Christian Anigwe.",45,31,14,25,0.982297571415899,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+166,1,"0:05",1205,1205,"Brock Miller made Three Point Jumper. Assisted by Sam Merrill.",48,31,17,3,0.989505840000373,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+167,1,"0:02",1202,1202,"Foul on Diogo Brito.",48,31,17,0,0.989505840000373,"Utah State","San José St",4,3,0,1,24,"401090011",2019-01-30
+168,1,"0:02",1202,1202,"Brae Ivey made Free Throw.",48,32,16,0,0.987716468101705,"Utah State","San José St",4,3,0,1,24,"401090011",2019-01-30
+169,1,"0:02",1202,1202,"Brae Ivey made Free Throw.",48,33,15,0,0.985626420242814,"Utah State","San José St",4,3,0,1,24,"401090011",2019-01-30
+170,1,"0:02",1202,1202,"Utah State  Timeout",48,33,15,2,0.985626420242814,"Utah State","San José St",4,2,0,1,24,"401090011",2019-01-30
+171,1,"0:00",1200,1200,"Sam Merrill made Three Point Jumper. Assisted by Quinn Taylor.",51,33,18,0,0.991036915144808,"Utah State","San José St",4,2,0,1,24,"401090011",2019-01-30
+172,1,"0:00",1200,1200,"End of 1st half",51,33,18,0,0.991036915144808,"Utah State","San José St",4,2,0,1,24,"401090011",2019-01-30
+173,2,"20:00",1200,1200,"PLAY",51,33,18,22,0.991036915144808,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+174,2,"19:38",1178,1178,"Seneca Knight missed Layup.",51,33,18,0,0.99098736923071,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+175,2,"19:38",1178,1178,"Brock Miller Block.",51,33,18,1,0.99098736923071,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+176,2,"19:37",1177,1177,"Brock Miller Defensive Rebound.",51,33,18,5,0.99098736923071,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+177,2,"19:32",1172,1172,"Sam Merrill made Layup. Assisted by Abel Porter.",53,33,20,11,0.993498460436626,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+178,2,"19:21",1161,1161,"Craig LeCesne missed Jumper.",53,33,20,0,0.994080922865167,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+179,2,"19:21",1161,1161,"Neemias Queta Defensive Rebound.",53,33,20,8,0.994080922865167,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+180,2,"19:13",1153,1153,"Sam Merrill made Layup.",55,33,22,0,0.995057183307956,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+181,2,"19:13",1153,1153,"Foul on Noah Baumann.",55,33,22,5,0.995057183307956,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+182,2,"19:08",1148,1148,"Sam Merrill made Free Throw.",56,33,23,14,0.996506659444316,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+183,2,"18:54",1134,1134,"Foul on Sam Merrill.",56,33,23,0,0.996320264674536,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+184,2,"18:54",1134,1134,"Noah Baumann missed Free Throw.",56,33,23,0,0.996320264674536,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+185,2,"18:54",1134,1134,"San José State Deadball Team Rebound.",56,33,23,0,0.996320264674536,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+186,2,"18:54",1134,1134,"Noah Baumann made Free Throw.",56,34,22,12,0.995672547021948,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+187,2,"18:42",1122,1122,"Neemias Queta made Layup. Assisted by Quinn Taylor.",58,34,24,11,0.998056665019484,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+188,2,"18:31",1111,1111,"Michael Steadman made Layup. Assisted by Craig LeCesne.",58,36,22,9,0.995964592477484,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+189,2,"18:22",1102,1102,"Quinn Taylor missed Three Point Jumper.",58,36,22,0,0.995675180200761,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+190,2,"18:22",1102,1102,"Seneca Knight Defensive Rebound.",58,36,22,14,0.995675180200761,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+191,2,"18:08",1088,1088,"Noah Baumann missed Three Point Jumper.",58,36,22,0,0.996799710553642,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+192,2,"18:08",1088,1088,"Quinn Taylor Defensive Rebound.",58,36,22,7,0.996799710553642,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+193,2,"18:01",1081,1081,"Brock Miller made Three Point Jumper. Assisted by Sam Merrill.",61,36,25,19,0.998115966092901,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+194,2,"17:42",1062,1062,"Foul on Abel Porter.",61,36,25,0,0.997564872020459,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+195,2,"17:42",1062,1062,"Ashtin Chastain made Free Throw.",61,37,24,0,0.997107963196916,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+196,2,"17:42",1062,1062,"Ashtin Chastain made Free Throw.",61,38,23,10,0.996565618641189,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+197,2,"17:32",1052,1052,"Neemias Queta missed Layup.",61,38,23,0,0.99727215558121,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+198,2,"17:32",1052,1052,"Noah Baumann Defensive Rebound.",61,38,23,10,0.99727215558121,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+199,2,"17:22",1042,1042,"Foul on Quinn Taylor.",61,38,23,2,0.997092432428507,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+200,2,"17:20",1040,1040,"Noah Baumann missed Jumper.",61,38,23,0,0.997092432428507,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+201,2,"17:20",1040,1040,"Neemias Queta Defensive Rebound.",61,38,23,6,0.997092432428507,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+202,2,"17:14",1034,1034,"Brock Miller missed Three Point Jumper.",61,38,23,0,0.99661550609879,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+203,2,"17:14",1034,1034,"Craig LeCesne Defensive Rebound.",61,38,23,8,0.99661550609879,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+204,2,"17:06",1026,1026,"Foul on Brock Miller.",61,38,23,0,0.997166205686857,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+205,2,"17:06",1026,1026,"Seneca Knight made Free Throw.",61,39,22,0,0.996611447810936,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+206,2,"17:06",1026,1026,"Seneca Knight missed Free Throw.",61,39,22,0,0.996611447810936,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+207,2,"17:06",1026,1026,"Neemias Queta Defensive Rebound.",61,39,22,23,0.996611447810936,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+208,2,"16:43",1003,1003,"Neemias Queta made Dunk. Assisted by Quinn Taylor.",63,39,24,12,0.997695345015815,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+209,2,"16:31",991,991,"Craig LeCesne missed Layup.",63,39,24,0,0.997368847226863,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+210,2,"16:31",991,991,"San José State Offensive Rebound.",63,39,24,7,0.997368847226863,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+211,2,"16:24",984,984,"Foul on Sam Merrill.",63,39,24,13,0.998359485212329,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+212,2,"16:11",971,971,"Foul on Brock Miller.",63,39,24,8,0.997679945496203,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+213,2,"16:03",963,963,"Michael Steadman made Layup. Assisted by Brae Ivey.",63,41,22,19,0.996449186537831,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+214,2,"15:44",944,944,"Brock Miller Turnover.",63,41,22,0,0.997501827527093,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+215,2,"15:44",944,944,"Official TV Timeout",63,41,22,20,0.997501827527093,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+216,2,"15:24",924,924,"Zach Chappell missed Three Point Jumper.",63,41,22,0,0.996900500653588,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+217,2,"15:24",924,924,"Justin Bean Defensive Rebound.",63,41,22,12,0.996900500653588,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+218,2,"15:12",912,912,"Foul on Christian Anigwe.",63,41,22,10,0.997683503623766,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+219,2,"15:02",902,902,"Abel Porter missed Three Point Jumper.",63,41,22,0,0.996960241566675,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+220,2,"15:02",902,902,"Justin Bean Offensive Rebound.",63,41,22,5,0.996960241566675,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+221,2,"14:57",897,897,"Justin Bean missed Layup.",63,41,22,0,0.997283040716543,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+222,2,"14:57",897,897,"Zach Chappell Defensive Rebound.",63,41,22,10,0.997283040716543,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+223,2,"14:47",887,887,"Seneca Knight made Three Point Jumper.",63,44,19,17,0.992363280470199,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+224,2,"14:30",870,870,"Neemias Queta missed Jumper.",63,44,19,0,0.995030628505429,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+225,2,"14:30",870,870,"Justin Bean Offensive Rebound.",63,44,19,4,0.995030628505429,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+226,2,"14:26",866,866,"Foul on Christian Anigwe.",63,44,19,0,0.994735264110572,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+227,2,"14:26",866,866,"Sam Merrill made Free Throw.",64,44,20,0,0.99564920576774,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+228,2,"14:26",866,866,"Sam Merrill made Free Throw.",65,44,21,15,0.996405063398427,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+229,2,"14:11",851,851,"Michael Steadman made Layup. Assisted by Ashtin Chastain.",65,46,19,18,0.996017281476987,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+230,2,"13:53",833,833,"Foul on Ashtin Chastain.",65,46,19,0,0.996569177467137,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+231,2,"13:53",833,833,"Tauriawn Knight made Free Throw.",66,46,20,0,0.997206799486663,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+232,2,"13:53",833,833,"Tauriawn Knight made Free Throw.",67,46,21,11,0.997726189155593,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+233,2,"13:42",822,822,"Seneca Knight made Layup.",67,48,19,0,0.994651231881944,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+234,2,"13:42",822,822,"Foul on Justin Bean.",67,48,19,0,0.994651231881944,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+235,2,"13:42",822,822,"Seneca Knight missed Free Throw.",67,48,19,0,0.994651231881944,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+236,2,"13:42",822,822,"Seneca Knight Offensive Rebound.",67,48,19,0,0.994651231881944,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+237,2,"13:42",822,822,"Seneca Knight Turnover.",67,48,19,0,0.994651231881944,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+238,2,"13:42",822,822,"Diogo Brito Steal.",67,48,19,0,0.994651231881944,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+239,2,"13:42",822,822,"Justin Bean made Layup. Assisted by Quinn Taylor.",69,48,21,16,0.996323378933678,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+240,2,"13:26",806,806,"Foul on Tauriawn Knight.",69,48,21,0,0.997422024951704,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+241,2,"13:26",806,806,"Ashtin Chastain made Free Throw.",69,49,20,0,0.996842821628193,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+242,2,"13:26",806,806,"Ashtin Chastain made Free Throw.",69,50,19,18,0.996133990912492,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+243,2,"13:08",788,788,"Justin Bean missed Three Point Jumper.",69,50,19,0,0.995869419714537,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+244,2,"13:08",788,788,"Diogo Brito Offensive Rebound.",69,50,19,11,0.995869419714537,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+245,2,"12:57",777,777,"Sam Merrill missed Three Point Jumper.",69,50,19,0,0.996182012786813,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+246,2,"12:57",777,777,"San José State Defensive Rebound.",69,50,19,16,0.996182012786813,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+247,2,"12:41",761,761,"Zach Chappell made Three Point Jumper. Assisted by Brae Ivey.",69,53,16,22,0.994324503742669,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+248,2,"12:19",739,739,"Foul on Zach Chappell.",69,53,16,0,0.992035400081946,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+249,2,"12:19",739,739,"Quinn Taylor made Free Throw.",70,53,17,0,0.99355111114516,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+250,2,"12:19",739,739,"Quinn Taylor made Free Throw.",71,53,18,21,0.994779891139154,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+251,2,"11:58",718,718,"Brae Ivey missed Jumper.",71,53,18,0,0.995775821494088,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+252,2,"11:58",718,718,"Michael Steadman Offensive Rebound.",71,53,18,4,0.995775821494088,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+253,2,"11:54",714,714,"Michael Steadman made Layup.",71,55,16,19,0.993469816474559,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+254,2,"11:35",695,695,"Brock Miller made Three Point Jumper. Assisted by Quinn Taylor.",74,55,19,32,0.997949162815991,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+255,2,"11:03",663,663,"Michael Steadman made Layup. Assisted by Ashtin Chastain.",74,57,17,16,0.995023174833654,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+256,2,"10:47",647,647,"Brock Miller missed Three Point Jumper.",74,57,17,0,0.995952950533282,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+257,2,"10:47",647,647,"Quinn Taylor Offensive Rebound.",74,57,17,3,0.995952950533282,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+258,2,"10:44",644,644,"Foul on Michael Steadman.",74,57,17,0,0.995952950533282,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+259,2,"10:44",644,644,"Official TV Timeout",74,57,17,22,0.995952950533282,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+260,2,"10:22",622,622,"Brock Miller missed Three Point Jumper.",74,57,17,0,0.997125896368364,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+261,2,"10:22",622,622,"Quinn Taylor Offensive Rebound.",74,57,17,10,0.997125896368364,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+262,2,"10:12",612,612,"Diogo Brito missed Three Point Jumper.",74,57,17,0,0.996423746278162,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+263,2,"10:12",612,612,"Neemias Queta Offensive Rebound.",74,57,17,5,0.996423746278162,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+264,2,"10:07",607,607,"Neemias Queta missed Layup.",74,57,17,0,0.996449576021719,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+265,2,"10:07",607,607,"Ashtin Chastain Defensive Rebound.",74,57,17,9,0.996449576021719,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+266,2,"9:58",598,598,"Ashtin Chastain missed Layup.",74,57,17,0,0.995779185044568,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+267,2,"9:58",598,598,"Neemias Queta Defensive Rebound.",74,57,17,10,0.995779185044568,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+268,2,"9:48",588,588,"Foul on Ashtin Chastain.",74,57,17,0,0.995606669804772,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+269,2,"9:48",588,588,"Brock Miller made Free Throw.",75,57,18,0,0.996547835650118,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+270,2,"9:48",588,588,"Brock Miller made Free Throw.",76,57,19,0,0.997287928465669,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+271,2,"9:48",588,588,"Brock Miller made Free Throw.",77,57,20,20,0.997869695538076,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+272,2,"9:28",568,568,"Craig LeCesne missed Layup.",77,57,20,0,0.998796544185976,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+273,2,"9:28",568,568,"Abel Porter Defensive Rebound.",77,57,20,11,0.998796544185976,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+274,2,"9:17",557,557,"Neemias Queta made Layup. Assisted by Quinn Taylor.",79,57,22,18,0.999165545179134,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+275,2,"8:59",539,539,"Michael Steadman missed Layup.",79,57,22,0,0.999529182978699,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+276,2,"8:59",539,539,"Quinn Taylor Defensive Rebound.",79,57,22,6,0.999529182978699,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+277,2,"8:53",533,533,"Foul on Brae Ivey.",79,57,22,0,0.999529182978699,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+278,2,"8:53",533,533,"Abel Porter made Free Throw.",80,57,23,0,0.999644607586529,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+279,2,"8:53",533,533,"Abel Porter made Free Throw.",81,57,24,15,0.99973174251099,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+280,2,"8:38",518,518,"Michael Steadman made Layup. Assisted by Brae Ivey.",81,59,22,16,0.999228447398863,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+281,2,"8:22",502,502,"Justin Bean missed Layup.",81,59,22,0,0.99933582278555,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+282,2,"8:22",502,502,"Craig LeCesne Defensive Rebound.",81,59,22,8,0.99933582278555,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+283,2,"8:14",494,494,"Brae Ivey missed Three Point Jumper.",81,59,22,0,0.99932280187845,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+284,2,"8:14",494,494,"Sam Merrill Defensive Rebound.",81,59,22,11,0.99932280187845,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+285,2,"8:03",483,483,"Foul on Brae Ivey.",81,59,22,0,0.99933739169535,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+286,2,"8:03",483,483,"Abel Porter made Free Throw.",82,59,23,0,0.999495811925197,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+287,2,"8:03",483,483,"Abel Porter missed Free Throw.",82,59,23,0,0.999495811925197,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+288,2,"8:03",483,483,"Craig LeCesne Defensive Rebound.",82,59,23,2,0.999495811925197,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+289,2,"8:01",481,481,"Brae Ivey missed Three Point Jumper.",82,59,23,0,0.999495811925197,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+290,2,"8:01",481,481,"Sam Merrill Defensive Rebound.",82,59,23,21,0.999495811925197,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+291,2,"7:40",460,460,"Foul on Christian Anigwe.",82,59,23,0,0.999586110628368,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+292,2,"7:40",460,460,"Official TV Timeout",82,59,23,0,0.999586110628368,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+293,2,"7:40",460,460,"Technical Foul on Christian Anigwe.",82,59,23,0,0.999586110628368,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+294,2,"7:40",460,460,"Sam Merrill made Free Throw.",83,59,24,0,0.999687751002415,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+295,2,"7:40",460,460,"Sam Merrill made Free Throw.",84,59,25,6,0.999764437048588,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+296,2,"7:34",454,454,"Sam Merrill missed Three Point Jumper.",84,59,25,0,0.999886550481556,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+297,2,"7:34",454,454,"Michael Steadman Defensive Rebound.",84,59,25,17,0.999886550481556,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+298,2,"7:17",437,437,"Craig LeCesne Turnover.",84,59,25,1,0.999881983171681,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+299,2,"7:16",436,436,"Sam Merrill Steal.",84,59,25,2,0.999881983171681,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+300,2,"7:14",434,434,"Sam Merrill Turnover.",84,59,25,1,0.999881983171681,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+301,2,"7:13",433,433,"Zach Chappell Steal.",84,59,25,14,0.999881983171681,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+302,2,"6:59",419,419,"Ashtin Chastain made Layup. Assisted by Zach Chappell.",84,61,23,22,0.999728582835634,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+303,2,"6:37",397,397,"Sam Merrill made Three Point Jumper. Assisted by Quinn Taylor.",87,61,26,23,0.999912697778525,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+304,2,"6:14",374,374,"Ashtin Chastain Turnover.",87,61,26,1,0.999903890432795,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+305,2,"6:13",373,373,"Justin Bean Steal.",87,61,26,8,0.999903890432795,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+306,2,"6:05",365,365,"Justin Bean made Layup. Assisted by Sam Merrill.",89,61,28,14,0.999961222067115,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+307,2,"5:51",351,351,"Ashtin Chastain Turnover.",89,61,28,0,0.9999764693988,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+308,2,"5:51",351,351,"Technical Foul on Ashtin Chastain.",89,61,28,0,0.9999764693988,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+309,2,"5:51",351,351,"Foul on Ashtin Chastain.",89,61,28,0,0.9999764693988,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+310,2,"5:51",351,351,"Sam Merrill missed Free Throw.",89,61,28,0,0.9999764693988,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+311,2,"5:51",351,351,"Utah State Deadball Team Rebound.",89,61,28,0,0.9999764693988,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+312,2,"5:51",351,351,"Sam Merrill made Free Throw.",90,61,29,11,0.999983256039941,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+313,2,"5:40",340,340,"Sam Merrill made Layup. Assisted by Quinn Taylor.",92,61,31,16,0.999989186110334,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+314,2,"5:24",324,324,"Noah Baumann Turnover.",92,61,31,1,0.999983102088108,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+315,2,"5:23",323,323,"Quinn Taylor Steal.",92,61,31,8,0.999983102088108,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+316,2,"5:15",315,315,"Brock Miller missed Three Point Jumper.",92,61,31,0,0.999995966482237,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+317,2,"5:15",315,315,"Michael Steadman Defensive Rebound.",92,61,31,22,0.999995966482237,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+318,2,"4:53",293,293,"Christian Anigwe made Layup. Assisted by Noah Baumann.",92,63,29,17,0.999986372338265,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+319,2,"4:36",276,276,"Sam Merrill missed Jumper.",92,63,29,0,0.999995646799929,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+320,2,"4:36",276,276,"Zach Chappell Defensive Rebound.",92,63,29,11,0.999995646799929,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+321,2,"4:25",265,265,"Foul on Quinn Taylor.",92,63,29,0,0.999993317998938,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+322,2,"4:25",265,265,"Zach Chappell made Free Throw.",92,64,28,0,0.999990294747813,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+323,2,"4:25",265,265,"Zach Chappell made Free Throw.",92,65,27,9,0.999985903655163,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+324,2,"4:16",256,256,"Quinn Taylor made Jumper. Assisted by Brock Miller.",94,65,29,12,0.999998169541613,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+325,2,"4:04",244,244,"Michael Steadman missed Jumper.",94,65,29,0,0.999997019020972,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+326,2,"4:04",244,244,"Diogo Brito Defensive Rebound.",94,65,29,11,0.999997019020972,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+327,2,"3:53",233,233,"Brock Miller missed Three Point Jumper.",94,65,29,0,0.999997040991808,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+328,2,"3:53",233,233,"Christian Anigwe Defensive Rebound.",94,65,29,19,0.999997040991808,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+329,2,"3:34",214,214,"Zach Chappell made Layup.",94,67,27,20,0.999997403952856,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+330,2,"3:14",194,194,"Tauriawn Knight missed Layup.",94,67,27,0,0.99999844883956,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+331,2,"3:14",194,194,"Brae Ivey Defensive Rebound.",94,67,27,4,0.99999844883956,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+332,2,"3:10",190,190,"Foul on Tauriawn Knight.",94,67,27,0,0.99999844883956,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+333,2,"3:10",190,190,"Official TV Timeout",94,67,27,0,0.99999844883956,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+334,2,"3:10",190,190,"Brae Ivey made Free Throw.",94,68,26,0,0.999997523220993,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+335,2,"3:10",190,190,"Brae Ivey made Free Throw.",94,69,25,24,0.999996045263465,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+336,2,"2:46",166,166,"Alek Johnson made Three Point Jumper. Assisted by Tauriawn Knight.",97,69,28,15,0.999999843249909,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+337,2,"2:31",151,151,"Michael Steadman Turnover.",97,69,28,0,0.999999885623062,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+338,2,"2:31",151,151,"Foul on Michael Steadman.",97,69,28,25,0.999999885623062,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+339,2,"2:06",126,126,"Alek Johnson missed Three Point Jumper.",97,69,28,0,0.999999941438697,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+340,2,"2:06",126,126,"Ben Fakira Offensive Rebound.",97,69,28,5,0.999999941438697,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+341,2,"2:01",121,121,"Diogo Brito missed Three Point Jumper.",97,69,28,0,0.999999941438697,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+342,2,"2:01",121,121,"Seneca Knight Defensive Rebound.",97,69,28,13,0.999999941438697,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+343,2,"1:48",108,108,"Christian Anigwe made Layup. Assisted by Seneca Knight.",97,71,26,28,0.999999950842043,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+344,2,"1:20",80,80,"Foul on Brae Ivey.",97,71,26,0,0.999999996756897,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+345,2,"1:20",80,80,"Dwayne Brown Jr. made Free Throw.",98,71,27,0,0.999999998415823,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+346,2,"1:20",80,80,"Dwayne Brown Jr. made Free Throw.",99,71,28,9,0.999999999226168,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+347,2,"1:11",71,71,"Brae Ivey made Layup.",99,73,26,7,0.99999999744608,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+348,2,"1:04",64,64,"Tauriawn Knight made Layup.",101,73,28,14,0.999999999327664,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+349,2,"0:50",50,50,"Foul on Ben Fakira.",101,73,28,0,0.999999999995556,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+350,2,"0:50",50,50,"Seneca Knight missed Free Throw.",101,73,28,0,0.999999999995556,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+351,2,"0:50",50,50,"San José State Deadball Team Rebound.",101,73,28,0,0.999999999995556,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+352,2,"0:50",50,50,"Seneca Knight missed Free Throw.",101,73,28,0,0.999999999995556,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+353,2,"0:50",50,50,"Alek Johnson Defensive Rebound.",101,73,28,29,0.999999999995556,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+354,2,"0:21",21,21,"Diogo Brito missed Three Point Jumper.",101,73,28,0,1,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+355,2,"0:21",21,21,"Ben Fakira Offensive Rebound.",101,73,28,6,1,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+356,2,"0:15",15,15,"Ben Fakira made Layup.",103,73,30,12,1,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+357,2,"0:03",3,3,"Michael Steadman missed Three Point Jumper.",103,73,30,0,1,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+358,2,"0:03",3,3,"Seneca Knight Offensive Rebound.",103,73,30,3,1,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30
+359,2,"0:00",0,0,"End of Game",103,73,30,0,1,"Utah State","San José St",4,3,0,0,24,"401090011",2019-01-30

@@ -1,0 +1,452 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,3300,"PLAY",0,0,0,0.711061658003081,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+2,1,"19:45",2385,3285,"DJ Laster missed Jumper.",0,0,0,0.708273352130904,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+3,1,"19:45",2385,3285,"Radwan Bakkali Defensive Rebound.",0,0,0,0.708273352130904,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+4,1,"19:31",2371,3271,"Cody Helgeland missed Three Point Jumper.",0,0,0,0.710974269949403,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+5,1,"19:31",2371,3271,"Liam O'Reilly Defensive Rebound.",0,0,0,0.710974269949403,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+6,1,"19:21",2361,3261,"David Efianayi missed Three Point Jumper.",0,0,0,0.695680333357274,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+7,1,"19:21",2361,3261,"Devin Harris Defensive Rebound.",0,0,0,0.695680333357274,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+8,1,"19:01",2341,3241,"Radwan Bakkali missed Jumper.",0,0,0,0.698583789537794,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+9,1,"19:01",2341,3241,"Liam O'Reilly Defensive Rebound.",0,0,0,0.698583789537794,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+10,1,"18:42",2322,3222,"Liam O'Reilly missed Three Point Jumper.",0,0,0,0.712334554917831,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+11,1,"18:42",2322,3222,"Jace Hogan Defensive Rebound.",0,0,0,0.712334554917831,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+12,1,"18:23",2303,3203,"JD Notae Turnover.",0,0,0,0.692668646661001,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+13,1,"18:04",2284,3184,"Liam O'Reilly missed Layup.",0,0,0,0.696245522289594,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+14,1,"18:04",2284,3184,"JD Notae Defensive Rebound.",0,0,0,0.696245522289594,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+15,1,"17:54",2274,3174,"Cody Helgeland made Three Point Jumper. Assisted by Devin Harris.",0,3,-3,0.636457809628295,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+16,1,"17:40",2260,3160,"DJ Laster missed Three Point Jumper.",0,3,-3,0.626354536878768,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+17,1,"17:40",2260,3160,"Radwan Bakkali Defensive Rebound.",0,3,-3,0.626354536878768,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+18,1,"17:38",2258,3158,"Foul on L'Hassane Niangane.",0,3,-3,0.635424324939096,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+19,1,"17:22",2242,3142,"Cody Helgeland missed Three Point Jumper.",0,3,-3,0.635983531059731,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+20,1,"17:22",2242,3142,"Liam O'Reilly Defensive Rebound.",0,3,-3,0.635983531059731,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+21,1,"17:08",2228,3128,"David Efianayi Turnover.",0,3,-3,0.63524863283472,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+22,1,"16:59",2219,3119,"Radwan Bakkali made Jumper. Assisted by Jace Hogan.",0,5,-5,0.55089810705522,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+23,1,"16:39",2199,3099,"DJ Laster made Jumper.",2,5,-3,0.633909684202784,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+24,1,"16:18",2178,3078,"Foul on Christian Turner.",2,5,-3,0.619605078124163,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+25,1,"16:08",2168,3068,"Radwan Bakkali missed Jumper.",2,5,-3,0.620456715151475,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+26,1,"16:08",2168,3068,"Radwan Bakkali Offensive Rebound.",2,5,-3,0.620456715151475,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+27,1,"16:00",2160,3060,"Jace Hogan missed Jumper.",2,5,-3,0.620456715151475,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+28,1,"16:00",2160,3060,"L'Hassane Niangane Defensive Rebound.",2,5,-3,0.620456715151475,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+29,1,"15:46",2146,3046,"Official TV Timeout",2,5,-3,0.636816105941053,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+30,1,"15:42",2142,3042,"DJ Laster missed Jumper.",2,5,-3,0.636816105941053,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+31,1,"15:42",2142,3042,"Jace Hogan Block.",2,5,-3,0.636816105941053,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+32,1,"15:42",2142,3042,"Gardner-Webb Offensive Rebound.",2,5,-3,0.636816105941053,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+33,1,"15:38",2138,3038,"David Efianayi missed Three Point Jumper.",2,5,-3,0.613278485657634,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+34,1,"15:38",2138,3038,"JD Notae Defensive Rebound.",2,5,-3,0.613278485657634,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+35,1,"15:19",2119,3019,"Jace Hogan made Jumper.",2,7,-5,0.561479506019483,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+36,1,"15:04",2104,3004,"DJ Laster made Layup.",4,7,-3,0.614194739989011,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+37,1,"14:52",2092,2992,"JD Notae made Jumper.",4,9,-5,0.542586931432874,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+38,1,"14:39",2079,2979,"Liam O'Reilly Turnover.",4,9,-5,0.567940447026801,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+39,1,"14:36",2076,2976,"JD Notae Steal.",4,9,-5,0.567940447026801,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+40,1,"14:33",2073,2973,"Devin Harris missed Layup.",4,9,-5,0.567940447026801,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+41,1,"14:33",2073,2973,"Jace Hogan Offensive Rebound.",4,9,-5,0.567940447026801,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+42,1,"14:26",2066,2966,"Jace Hogan Turnover.",4,9,-5,0.543488971182248,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+43,1,"14:25",2065,2965,"DJ Laster Steal.",4,9,-5,0.543488971182248,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+44,1,"14:15",2055,2955,"DJ Laster missed Three Point Jumper.",4,9,-5,0.557285257458264,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+45,1,"14:15",2055,2955,"Jacksonville Defensive Rebound.",4,9,-5,0.557285257458264,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+46,1,"13:47",2027,2927,"Devin Harris missed Jumper.",4,9,-5,0.532571155400187,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+47,1,"13:47",2027,2927,"Liam O'Reilly Defensive Rebound.",4,9,-5,0.532571155400187,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+48,1,"13:34",2014,2914,"Brandon Miller made Layup.",6,9,-3,0.618029207162552,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+49,1,"13:18",1998,2898,"Jace Hogan missed Jumper.",6,9,-3,0.603276054360426,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+50,1,"13:18",1998,2898,"Liam O'Reilly Defensive Rebound.",6,9,-3,0.603276054360426,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+51,1,"13:11",1991,2891,"Liam O'Reilly made Layup.",8,9,-1,0.663447804653335,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+52,1,"12:52",1972,2872,"Radwan Bakkali Turnover.",8,9,-1,0.668667609119994,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+53,1,"12:51",1971,2871,"David Efianayi Steal.",8,9,-1,0.668667609119994,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+54,1,"12:51",1971,2871,"David Efianayi Turnover.",8,9,-1,0.668667609119994,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+55,1,"12:35",1955,2855,"Cody Helgeland missed Jumper.",8,9,-1,0.665401921517331,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+56,1,"12:35",1955,2855,"Liam O'Reilly Defensive Rebound.",8,9,-1,0.665401921517331,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+57,1,"12:23",1943,2843,"Brandon Miller missed Jumper.",8,9,-1,0.658896703463331,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+58,1,"12:23",1943,2843,"Cody Helgeland Defensive Rebound.",8,9,-1,0.658896703463331,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+59,1,"12:14",1934,2834,"Tanner Rubio missed Three Point Jumper.",8,9,-1,0.649095313785607,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+60,1,"12:14",1934,2834,"Jaheam Cornwall Defensive Rebound.",8,9,-1,0.649095313785607,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+61,1,"12:02",1922,2822,"Brandon Miller made Layup.",10,9,1,0.712578034909414,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+62,1,"11:44",1904,2804,"Jace Hogan missed Jumper.",10,9,1,0.712298776777815,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+63,1,"11:44",1904,2804,"Brandon Miller Defensive Rebound.",10,9,1,0.712298776777815,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+64,1,"11:37",1897,2797,"Nate Johnson missed Three Point Jumper.",10,9,1,0.717614466880304,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+65,1,"11:37",1897,2797,"Jace Hogan Defensive Rebound.",10,9,1,0.717614466880304,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+66,1,"11:10",1870,2770,"Cody Helgeland made Three Point Jumper. Assisted by Jace Hogan.",10,12,-2,0.627909037249185,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+67,1,"10:46",1846,2746,"Liam O'Reilly made Jumper. Assisted by Jaheam Cornwall.",12,12,0,0.671875203163434,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+68,1,"10:26",1826,2726,"Devin Harris made Jumper.",12,14,-2,0.651900566420461,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+69,1,"10:11",1811,2711,"Jaheam Cornwall made Three Point Jumper. Assisted by Liam O'Reilly.",15,14,1,0.716352501029295,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+70,1,"9:51",1791,2691,"Tanner Rubio made Three Point Jumper.",15,17,-2,0.614075821517432,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+71,1,"9:36",1776,2676,"Jaheam Cornwall made Layup.",17,17,0,0.669776076305337,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+72,1,"9:26",1766,2666,"Cody Helgeland made Three Point Jumper. Assisted by Devin Harris.",17,20,-3,0.601792023548813,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+73,1,"9:00",1740,2640,"Brandon Miller made Jumper.",19,20,-1,0.658222795820418,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+74,1,"9:00",1740,2640,"Foul on Devin Harris.",19,20,-1,0.658222795820418,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+75,1,"9:00",1740,2640,"Official TV Timeout",19,20,-1,0.658222795820418,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+76,1,"9:00",1740,2640,"Brandon Miller made Free Throw.",20,20,0,0.686045266454377,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+77,1,"8:50",1730,2630,"Cody Helgeland missed Three Point Jumper.",20,20,0,0.681568740269143,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+78,1,"8:50",1730,2630,"Liam O'Reilly Defensive Rebound.",20,20,0,0.681568740269143,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+79,1,"8:31",1711,2611,"Nate Johnson Turnover.",20,20,0,0.688046403023223,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+80,1,"8:28",1708,2608,"Devin Harris Steal.",20,20,0,0.671259567053722,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+81,1,"8:27",1707,2607,"Devin Harris Turnover.",20,20,0,0.671259567053722,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+82,1,"8:26",1706,2606,"Jaheam Cornwall Steal.",20,20,0,0.671259567053722,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+83,1,"8:22",1702,2602,"Jaheam Cornwall Turnover.",20,20,0,0.671259567053722,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+84,1,"8:11",1691,2591,"Jaheam Cornwall made Three Point Jumper.",23,20,3,0.76807288359982,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+85,1,"8:05",1685,2585,"Foul on Jaheam Cornwall.",23,20,3,0.771226301528009,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+86,1,"8:05",1685,2585,"Radwan Bakkali made Free Throw.",23,21,2,0.744576385203693,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+87,1,"8:05",1685,2585,"Radwan Bakkali made Free Throw.",23,22,1,0.715965351388774,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+88,1,"7:48",1668,2568,"DJ Laster made Jumper.",25,22,3,0.756903093700252,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+89,1,"7:34",1654,2554,"Radwan Bakkali Turnover.",25,22,3,0.759727306441397,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+90,1,"7:32",1652,2552,"David Efianayi Steal.",25,22,3,0.759727306441397,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+91,1,"7:25",1645,2545,"Brandon Miller missed Jumper.",25,22,3,0.76704604219034,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+92,1,"7:25",1645,2545,"Radwan Bakkali Defensive Rebound.",25,22,3,0.76704604219034,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+93,1,"7:09",1629,2529,"JD Notae missed Jumper.",25,22,3,0.759010900248523,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+94,1,"7:09",1629,2529,"Brandon Miller Defensive Rebound.",25,22,3,0.759010900248523,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+95,1,"6:55",1615,2515,"DJ Laster made Layup.",27,22,5,0.796302224790097,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+96,1,"6:30",1590,2490,"Foul on Tanner Rubio.",27,22,5,0.809064324106829,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+97,1,"6:30",1590,2490,"Tanner Rubio Turnover.",27,22,5,0.809064324106829,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+98,1,"6:30",1590,2490,"Official TV Timeout",27,22,5,0.809064324106829,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+99,1,"6:03",1563,2463,"Nate Johnson Turnover.",27,22,5,0.800536405742323,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+100,1,"6:02",1562,2462,"Foul on JD Notae.",27,22,5,0.800536405742323,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+101,1,"6:02",1562,2462,"JD Notae Turnover.",27,22,5,0.800536405742323,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+102,1,"5:39",1539,2439,"Jaheam Cornwall Turnover.",27,22,5,0.809481831542042,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+103,1,"5:36",1536,2436,"Devin Harris Steal.",27,22,5,0.809481831542042,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+104,1,"5:31",1531,2431,"Tanner Rubio missed Three Point Jumper.",27,22,5,0.809481831542042,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+105,1,"5:31",1531,2431,"JD Notae Offensive Rebound.",27,22,5,0.809481831542042,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+106,1,"5:27",1527,2427,"JD Notae made Layup.",27,24,3,0.758268771327129,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+107,1,"4:56",1496,2396,"DJ Laster made Three Point Jumper. Assisted by Nate Johnson.",30,24,6,0.835796889542525,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+108,1,"4:34",1474,2374,"Tanner Rubio missed Jumper.",30,24,6,0.842286031107545,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+109,1,"4:34",1474,2374,"Jaheam Cornwall Defensive Rebound.",30,24,6,0.842286031107545,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+110,1,"4:28",1468,2368,"David Efianayi made Layup. Assisted by Liam O'Reilly.",32,24,8,0.860948141656955,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+111,1,"4:16",1456,2356,"Devin Harris made Layup.",32,26,6,0.825970271780864,"Gardner-Webb","Jacksonville",4,4,1,0,3.9,400991878,2017-11-26
+112,1,"4:16",1456,2356,"Jacksonville  Timeout",32,26,6,0.825970271780864,"Gardner-Webb","Jacksonville",3,4,1,0,3.9,400991878,2017-11-26
+113,1,"3:56",1436,2336,"Justin Jenkins Turnover.",32,26,6,0.83483064235165,"Gardner-Webb","Jacksonville",3,4,1,0,3.9,400991878,2017-11-26
+114,1,"3:54",1434,2334,"JD Notae Steal.",32,26,6,0.83483064235165,"Gardner-Webb","Jacksonville",3,4,1,0,3.9,400991878,2017-11-26
+115,1,"3:52",1432,2332,"JD Notae missed Layup.",32,26,6,0.83483064235165,"Gardner-Webb","Jacksonville",3,4,1,0,3.9,400991878,2017-11-26
+116,1,"3:52",1432,2332,"Devin Harris Offensive Rebound.",32,26,6,0.83483064235165,"Gardner-Webb","Jacksonville",3,4,1,0,3.9,400991878,2017-11-26
+117,1,"3:36",1416,2316,"Foul on Christian Turner.",32,26,6,0.830451580796379,"Gardner-Webb","Jacksonville",3,4,1,0,3.9,400991878,2017-11-26
+118,1,"3:36",1416,2316,"Jace Hogan made Free Throw.",32,27,5,0.80748564223235,"Gardner-Webb","Jacksonville",3,4,1,0,3.9,400991878,2017-11-26
+119,1,"3:36",1416,2316,"Jace Hogan made Free Throw.",32,28,4,0.78222465777849,"Gardner-Webb","Jacksonville",3,4,1,0,3.9,400991878,2017-11-26
+120,1,"3:10",1390,2290,"Liam O'Reilly Turnover.",32,28,4,0.789074516560376,"Gardner-Webb","Jacksonville",3,4,0,0,3.9,400991878,2017-11-26
+121,1,"3:10",1390,2290,"Corey Romich Steal.",32,28,4,0.789074516560376,"Gardner-Webb","Jacksonville",3,4,0,0,3.9,400991878,2017-11-26
+122,1,"3:06",1386,2286,"Devin Harris made Layup.",32,30,2,0.739273362880372,"Gardner-Webb","Jacksonville",3,4,0,0,3.9,400991878,2017-11-26
+123,1,"3:06",1386,2286,"Foul on Liam O'Reilly.",32,30,2,0.739273362880372,"Gardner-Webb","Jacksonville",3,4,0,0,3.9,400991878,2017-11-26
+124,1,"3:06",1386,2286,"Devin Harris made Free Throw.",32,31,1,0.709456747358824,"Gardner-Webb","Jacksonville",3,4,0,0,3.9,400991878,2017-11-26
+125,1,"2:48",1368,2268,"Jaheam Cornwall Turnover.",32,31,1,0.700316937742027,"Gardner-Webb","Jacksonville",3,4,0,0,3.9,400991878,2017-11-26
+126,1,"2:35",1355,2255,"Cody Helgeland made Three Point Jumper. Assisted by JD Notae.",32,34,-2,0.607781735150134,"Gardner-Webb","Jacksonville",3,4,0,0,3.9,400991878,2017-11-26
+127,1,"2:17",1337,2237,"Jaheam Cornwall Turnover.",32,34,-2,0.577913448733301,"Gardner-Webb","Jacksonville",3,4,0,0,3.9,400991878,2017-11-26
+128,1,"2:15",1335,2235,"Cody Helgeland Steal.",32,34,-2,0.577913448733301,"Gardner-Webb","Jacksonville",3,4,0,0,3.9,400991878,2017-11-26
+129,1,"2:08",1328,2228,"JD Notae missed Three Point Jumper.",32,34,-2,0.591086170882832,"Gardner-Webb","Jacksonville",3,4,0,0,3.9,400991878,2017-11-26
+130,1,"2:08",1328,2228,"Brandon Miller Defensive Rebound.",32,34,-2,0.591086170882832,"Gardner-Webb","Jacksonville",3,4,0,0,3.9,400991878,2017-11-26
+131,1,"1:47",1307,2207,"Liam O'Reilly missed Three Point Jumper.",32,34,-2,0.592684982584371,"Gardner-Webb","Jacksonville",3,4,0,0,3.9,400991878,2017-11-26
+132,1,"1:47",1307,2207,"Jace Hogan Defensive Rebound.",32,34,-2,0.592684982584371,"Gardner-Webb","Jacksonville",3,4,0,0,3.9,400991878,2017-11-26
+133,1,"1:27",1287,2187,"Cody Helgeland missed Three Point Jumper.",32,34,-2,0.599168843481589,"Gardner-Webb","Jacksonville",3,4,0,0,3.9,400991878,2017-11-26
+134,1,"1:27",1287,2187,"Liam O'Reilly Defensive Rebound.",32,34,-2,0.599168843481589,"Gardner-Webb","Jacksonville",3,4,0,0,3.9,400991878,2017-11-26
+135,1,"1:20",1280,2180,"David Efianayi made Layup.",34,34,0,0.668538021795841,"Gardner-Webb","Jacksonville",3,4,0,0,3.9,400991878,2017-11-26
+136,1,"1:18",1278,2178,"Gardner-Webb  Timeout",34,34,0,0.649866292126203,"Gardner-Webb","Jacksonville",3,3,0,1,3.9,400991878,2017-11-26
+137,1,"0:53",1253,2153,"Jace Hogan made Jumper. Assisted by Devin Harris.",34,36,-2,0.582957239638358,"Gardner-Webb","Jacksonville",3,3,0,1,3.9,400991878,2017-11-26
+138,1,"0:32",1232,2132,"Jaheam Cornwall made Three Point Jumper. Assisted by Brandon Miller.",37,36,1,0.68692917624836,"Gardner-Webb","Jacksonville",3,3,0,1,3.9,400991878,2017-11-26
+139,1,"0:01",1201,2101,"Jace Hogan Turnover.",37,36,1,0.695003102124603,"Gardner-Webb","Jacksonville",3,3,0,0,3.9,400991878,2017-11-26
+140,1,"0:00",1200,2100,"End of 1st half",37,36,1,0.695003102124603,"Gardner-Webb","Jacksonville",3,3,0,0,3.9,400991878,2017-11-26
+141,2,"20:00",1200,2100,"PLAY",37,36,1,0.695003102124603,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+142,2,"19:50",1190,2090,"Jace Hogan missed Jumper.",37,36,1,0.733070605060952,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+143,2,"19:49",1189,2089,"Liam O'Reilly Defensive Rebound.",37,36,1,0.69658337584474,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+144,2,"19:22",1162,2062,"Liam O'Reilly made Jumper.",39,36,3,0.750305237017538,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+145,2,"19:00",1140,2040,"Jace Hogan missed Jumper.",39,36,3,0.758458122290379,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+146,2,"19:00",1140,2040,"Jacksonville Offensive Rebound.",39,36,3,0.758458122290379,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+147,2,"18:43",1123,2023,"Foul on DJ Laster.",39,36,3,0.766143741786921,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+148,2,"18:43",1123,2023,"Jace Hogan made Free Throw.",39,37,2,0.731137024336606,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+149,2,"18:43",1123,2023,"Jace Hogan missed Free Throw.",39,37,2,0.731137024336606,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+150,2,"18:43",1123,2023,"Devin Harris Offensive Rebound.",39,37,2,0.731137024336606,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+151,2,"18:35",1115,2015,"JD Notae made Jumper.",39,39,0,0.655705632120576,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+152,2,"18:02",1082,1982,"David Efianayi made Three Point Jumper.",42,39,3,0.76599667842842,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+153,2,"17:50",1070,1970,"Foul on L'Hassane Niangane.",42,39,3,0.762022419514864,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+154,2,"17:48",1068,1968,"Devin Harris missed Layup.",42,39,3,0.767373600941962,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+155,2,"17:48",1068,1968,"Gardner-Webb Defensive Rebound.",42,39,3,0.767373600941962,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+156,2,"17:33",1053,1953,"Foul on Devin Harris.",42,39,3,0.769529916293742,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+157,2,"17:25",1045,1945,"Brandon Miller made Layup. Assisted by Christian Turner.",44,39,5,0.829155602832736,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+158,2,"17:25",1045,1945,"Foul on JD Notae.",44,39,5,0.829155602832736,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+159,2,"17:25",1045,1945,"Brandon Miller made Free Throw.",45,39,6,0.852562732952158,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+160,2,"17:01",1021,1921,"Jace Hogan made Jumper.",45,41,4,0.798322853858236,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+161,2,"16:50",1010,1910,"David Efianayi made Layup.",47,41,6,0.833129425122349,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+162,2,"16:36",996,1896,"Tanner Rubio missed Jumper.",47,41,6,0.837301360959833,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+163,2,"16:36",996,1896,"David Efianayi Defensive Rebound.",47,41,6,0.837301360959833,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+164,2,"16:25",985,1885,"Liam O'Reilly made Three Point Jumper. Assisted by David Efianayi.",50,41,9,0.919935990155563,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+165,2,"16:00",960,1860,"Jace Hogan missed Jumper.",50,41,9,0.902661276594697,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+166,2,"16:00",960,1860,"DJ Laster Defensive Rebound.",50,41,9,0.902661276594697,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+167,2,"15:51",951,1851,"Liam O'Reilly Turnover.",50,41,9,0.910360331762618,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+168,2,"15:47",947,1847,"Devin Harris made Layup.",50,43,7,0.884317228259685,"Gardner-Webb","Jacksonville",4,4,0,0,3.9,400991878,2017-11-26
+169,2,"15:25",925,1825,"Gardner-Webb  Timeout",50,43,7,0.864338168956038,"Gardner-Webb","Jacksonville",4,3,0,1,3.9,400991878,2017-11-26
+170,2,"15:20",920,1820,"David Efianayi missed Layup.",50,43,7,0.864338168956038,"Gardner-Webb","Jacksonville",4,3,0,1,3.9,400991878,2017-11-26
+171,2,"15:20",920,1820,"Brandon Miller Offensive Rebound.",50,43,7,0.864338168956038,"Gardner-Webb","Jacksonville",4,3,0,1,3.9,400991878,2017-11-26
+172,2,"15:18",918,1818,"Foul on Jace Hogan.",50,43,7,0.880511057194286,"Gardner-Webb","Jacksonville",4,3,0,1,3.9,400991878,2017-11-26
+173,2,"15:18",918,1818,"Official TV Timeout",50,43,7,0.880511057194286,"Gardner-Webb","Jacksonville",4,3,0,1,3.9,400991878,2017-11-26
+174,2,"15:18",918,1818,"Brandon Miller made Free Throw.",51,43,8,0.899633557067729,"Gardner-Webb","Jacksonville",4,3,0,1,3.9,400991878,2017-11-26
+175,2,"15:18",918,1818,"Brandon Miller missed Free Throw.",51,43,8,0.899633557067729,"Gardner-Webb","Jacksonville",4,3,0,1,3.9,400991878,2017-11-26
+176,2,"15:18",918,1818,"Jalyn Hinton Defensive Rebound.",51,43,8,0.899633557067729,"Gardner-Webb","Jacksonville",4,3,0,1,3.9,400991878,2017-11-26
+177,2,"15:17",917,1817,"Official TV Timeout",50,43,7,0.880511057194286,"Gardner-Webb","Jacksonville",4,3,0,1,3.9,400991878,2017-11-26
+178,2,"15:03",903,1803,"Jalyn Hinton missed Layup.",51,43,8,0.892021176917122,"Gardner-Webb","Jacksonville",4,3,0,1,3.9,400991878,2017-11-26
+179,2,"15:03",903,1803,"Jaheam Cornwall Defensive Rebound.",51,43,8,0.892021176917122,"Gardner-Webb","Jacksonville",4,3,0,1,3.9,400991878,2017-11-26
+180,2,"14:55",895,1795,"Foul on Jace Hogan.",51,43,8,0.898618339117587,"Gardner-Webb","Jacksonville",4,3,0,1,3.9,400991878,2017-11-26
+181,2,"14:55",895,1795,"Jaheam Cornwall made Free Throw.",52,43,9,0.914998938120794,"Gardner-Webb","Jacksonville",4,3,0,1,3.9,400991878,2017-11-26
+182,2,"14:55",895,1795,"Jaheam Cornwall made Free Throw.",53,43,10,0.928942149363891,"Gardner-Webb","Jacksonville",4,3,0,1,3.9,400991878,2017-11-26
+183,2,"14:40",880,1780,"Jace Hogan missed Jumper.",53,43,10,0.908529177135328,"Gardner-Webb","Jacksonville",4,3,0,1,3.9,400991878,2017-11-26
+184,2,"14:40",880,1780,"Jace Hogan Offensive Rebound.",53,43,10,0.908529177135328,"Gardner-Webb","Jacksonville",4,3,0,1,3.9,400991878,2017-11-26
+185,2,"14:36",876,1776,"Jace Hogan made Jumper.",53,45,8,0.895929851336182,"Gardner-Webb","Jacksonville",4,3,0,1,3.9,400991878,2017-11-26
+186,2,"14:02",842,1742,"Foul on Jalyn Hinton.",53,45,8,0.905507435156393,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+187,2,"14:02",842,1742,"David Efianayi made Free Throw.",54,45,9,0.922180080451723,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+188,2,"14:02",842,1742,"David Efianayi made Free Throw.",55,45,10,0.936118474238921,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+189,2,"13:31",811,1711,"Jalyn Hinton missed Jumper.",55,45,10,0.924897184505157,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+190,2,"13:31",811,1711,"Jaheam Cornwall Defensive Rebound.",55,45,10,0.924897184505157,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+191,2,"13:23",803,1703,"David Efianayi missed Jumper.",55,45,10,0.936404006898011,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+192,2,"13:23",803,1703,"Brandon Miller Offensive Rebound.",55,45,10,0.936404006898011,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+193,2,"13:18",798,1698,"Jaheam Cornwall missed Jumper.",55,45,10,0.93995679603793,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+194,2,"13:18",798,1698,"Jalyn Hinton Defensive Rebound.",55,45,10,0.93995679603793,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+195,2,"13:13",793,1693,"Tanner Rubio missed Three Point Jumper.",55,45,10,0.93995679603793,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+196,2,"13:13",793,1693,"Brandon Miller Defensive Rebound.",55,45,10,0.93995679603793,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+197,2,"12:58",778,1678,"DJ Laster missed Three Point Jumper.",55,45,10,0.935854261074814,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+198,2,"12:58",778,1678,"Jalyn Hinton Defensive Rebound.",55,45,10,0.935854261074814,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+199,2,"12:45",765,1665,"JD Notae missed Jumper.",55,45,10,0.944163470000447,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+200,2,"12:45",765,1665,"JD Notae Offensive Rebound.",55,45,10,0.944163470000447,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+201,2,"12:42",762,1662,"JD Notae missed Layup.",55,45,10,0.944163470000447,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+202,2,"12:42",762,1662,"JD Notae Offensive Rebound.",55,45,10,0.944163470000447,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+203,2,"12:35",755,1655,"JD Notae made Two Point Tip Shot.",55,47,8,0.910080170456835,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+204,2,"12:25",745,1645,"Brandon Miller Turnover.",55,47,8,0.91004509676168,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+205,2,"12:23",743,1643,"JD Notae Steal.",55,47,8,0.91004509676168,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+206,2,"12:19",739,1639,"Devin Harris made Jumper. Assisted by Jace Hogan.",55,49,6,0.861752356809613,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+207,2,"12:02",722,1622,"Liam O'Reilly missed Jumper.",55,49,6,0.874949759721751,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+208,2,"12:02",722,1622,"Nate Johnson Offensive Rebound.",55,49,6,0.874949759721751,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+209,2,"11:55",715,1615,"DJ Laster missed Three Point Jumper.",55,49,6,0.858627834641734,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+210,2,"11:55",715,1615,"Jalyn Hinton Defensive Rebound.",55,49,6,0.858627834641734,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+211,2,"11:36",696,1596,"Jace Hogan missed Jumper.",55,49,6,0.884097247065736,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+212,2,"11:36",696,1596,"Patrick Zeck Defensive Rebound.",55,49,6,0.884097247065736,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+213,2,"11:18",678,1578,"Official TV Timeout",55,49,6,0.872119757297818,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+214,2,"11:08",668,1568,"Jaheam Cornwall Turnover.",55,49,6,0.875472857119596,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+215,2,"11:07",667,1567,"Devin Harris Steal.",55,49,6,0.875472857119596,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+216,2,"11:04",664,1564,"Foul on L'Hassane Niangane.",55,49,6,0.875472857119596,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+217,2,"11:04",664,1564,"Devin Harris made Free Throw.",55,50,5,0.848647702013425,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+218,2,"11:04",664,1564,"Devin Harris made Free Throw.",55,51,4,0.817250218367757,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+219,2,"10:47",647,1547,"Liam O'Reilly Turnover.",55,51,4,0.818790263443904,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+220,2,"10:47",647,1547,"Jalyn Hinton Steal.",55,51,4,0.818790263443904,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+221,2,"10:35",635,1535,"Foul on L'Hassane Niangane.",55,51,4,0.804913154286888,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+222,2,"10:35",635,1535,"Jace Hogan made Free Throw.",55,52,3,0.76511550213342,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+223,2,"10:35",635,1535,"Jace Hogan missed Free Throw.",55,52,3,0.76511550213342,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+224,2,"10:35",635,1535,"Liam O'Reilly Defensive Rebound.",55,52,3,0.76511550213342,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+225,2,"10:23",623,1523,"Nate Johnson missed Three Point Jumper.",55,52,3,0.790129022185386,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+226,2,"10:23",623,1523,"Devin Harris Defensive Rebound.",55,52,3,0.790129022185386,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+227,2,"10:04",604,1504,"Foul on Patrick Zeck.",55,52,3,0.783840813693122,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+228,2,"9:54",594,1494,"Foul on Brandon Miller.",55,52,3,0.775465337603312,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+229,2,"9:54",594,1494,"Jalyn Hinton made Free Throw.",55,53,2,0.731011246431427,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+230,2,"9:54",594,1494,"Jalyn Hinton made Free Throw.",55,54,1,0.681372265446836,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+231,2,"9:24",564,1464,"Patrick Zeck made Three Point Jumper. Assisted by Liam O'Reilly.",58,54,4,0.836363752132067,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+232,2,"9:07",547,1447,"Jace Hogan made Jumper. Assisted by Cody Helgeland.",58,56,2,0.724714428348966,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+233,2,"8:48",528,1428,"Foul on Cody Helgeland.",58,56,2,0.739906523521396,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+234,2,"8:40",520,1420,"Brandon Miller made Layup. Assisted by Liam O'Reilly.",60,56,4,0.83063878616776,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+235,2,"8:26",506,1406,"Tanner Rubio missed Three Point Jumper.",60,56,4,0.839173668780277,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+236,2,"8:26",506,1406,"Brandon Miller Defensive Rebound.",60,56,4,0.839173668780277,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+237,2,"7:58",478,1378,"Brandon Miller missed Jumper.",60,56,4,0.839924703374979,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+238,2,"7:58",478,1378,"Jace Hogan Defensive Rebound.",60,56,4,0.839924703374979,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+239,2,"7:41",461,1361,"Jace Hogan made Jumper. Assisted by Devin Harris.",60,58,2,0.737931955298318,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+240,2,"7:41",461,1361,"Foul on Brandon Miller.",60,58,2,0.737931955298318,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+241,2,"7:41",461,1361,"Official TV Timeout",60,58,2,0.737931955298318,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+242,2,"7:41",461,1361,"Jace Hogan made Free Throw.",60,59,1,0.679907768735632,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+243,2,"7:21",441,1341,"David Efianayi missed Jumper.",60,59,1,0.672707255884095,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+244,2,"7:21",441,1341,"Jalyn Hinton Defensive Rebound.",60,59,1,0.672707255884095,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+245,2,"6:58",418,1318,"Jace Hogan made Jumper. Assisted by Devin Harris.",60,61,-1,0.540203679327115,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+246,2,"6:43",403,1303,"David Efianayi Turnover.",60,61,-1,0.520490889357389,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+247,2,"6:38",398,1298,"Jace Hogan Steal.",60,61,-1,0.547225230649007,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+248,2,"6:31",391,1291,"Jace Hogan made Jumper. Assisted by JD Notae.",60,63,-3,0.392977091961871,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+249,2,"6:04",364,1264,"Jaheam Cornwall missed Three Point Jumper.",60,63,-3,0.368414077588998,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+250,2,"6:04",364,1264,"JD Notae Defensive Rebound.",60,63,-3,0.368414077588998,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+251,2,"5:42",342,1242,"Jalyn Hinton made Dunk. Assisted by JD Notae.",60,65,-5,0.204026167387556,"Gardner-Webb","Jacksonville",4,3,0,0,3.9,400991878,2017-11-26
+252,2,"5:38",338,1238,"Gardner-Webb  Timeout",60,65,-5,0.215480725647738,"Gardner-Webb","Jacksonville",4,2,0,1,3.9,400991878,2017-11-26
+253,2,"5:29",329,1229,"Liam O'Reilly missed Three Point Jumper.",60,65,-5,0.240858140306637,"Gardner-Webb","Jacksonville",4,2,0,1,3.9,400991878,2017-11-26
+254,2,"5:29",329,1229,"Jalyn Hinton Defensive Rebound.",60,65,-5,0.240858140306637,"Gardner-Webb","Jacksonville",4,2,0,1,3.9,400991878,2017-11-26
+255,2,"5:16",316,1216,"Foul on Liam O'Reilly.",60,65,-5,0.19603995105879,"Gardner-Webb","Jacksonville",4,2,0,1,3.9,400991878,2017-11-26
+256,2,"5:16",316,1216,"JD Notae made Free Throw.",60,66,-6,0.144568870839964,"Gardner-Webb","Jacksonville",4,2,0,1,3.9,400991878,2017-11-26
+257,2,"5:16",316,1216,"JD Notae made Free Throw.",60,67,-7,0.104849295750445,"Gardner-Webb","Jacksonville",4,2,0,1,3.9,400991878,2017-11-26
+258,2,"5:04",304,1204,"Christian Turner Turnover.",60,67,-7,0.122983509361481,"Gardner-Webb","Jacksonville",4,2,0,1,3.9,400991878,2017-11-26
+259,2,"5:02",302,1202,"Jace Hogan Steal.",60,67,-7,0.122983509361481,"Gardner-Webb","Jacksonville",4,2,0,1,3.9,400991878,2017-11-26
+260,2,"4:35",275,1175,"JD Notae Turnover.",60,67,-7,0.0854110401825772,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+261,2,"4:34",274,1174,"Liam O'Reilly Steal.",60,67,-7,0.0854110401825772,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+262,2,"4:31",271,1171,"Liam O'Reilly missed Layup.",60,67,-7,0.0854110401825772,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+263,2,"4:31",271,1171,"Cody Helgeland Defensive Rebound.",60,67,-7,0.0854110401825772,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+264,2,"4:31",271,1171,"Foul on DJ Laster.",60,67,-7,0.0854110401825772,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+265,2,"4:31",271,1171,"Cody Helgeland made Free Throw.",60,68,-8,0.0595574811092514,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+266,2,"4:31",271,1171,"Cody Helgeland made Free Throw.",60,69,-9,0.0411773468882444,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+267,2,"4:04",244,1144,"David Efianayi missed Three Point Jumper.",60,69,-9,0.0364527027821959,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+268,2,"4:04",244,1144,"Jace Hogan Defensive Rebound.",60,69,-9,0.0364527027821959,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+269,2,"3:36",216,1116,"Official TV Timeout",60,69,-9,0.0263980845693584,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+270,2,"3:36",216,1116,"Devin Harris Turnover.",60,69,-9,0.0263980845693584,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+271,2,"3:36",216,1116,"Official TV Timeout",60,69,-9,0.0263980845693584,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+272,2,"3:16",196,1096,"Brandon Miller Turnover.",60,69,-9,0.01923464377641,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+273,2,"2:49",169,1069,"Jace Hogan missed Jumper.",60,69,-9,0.016016659702263,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+274,2,"2:49",169,1069,"Brandon Miller Block.",60,69,-9,0.016016659702263,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+275,2,"2:45",165,1065,"DJ Laster Defensive Rebound.",60,69,-9,0.016016659702263,"Gardner-Webb","Jacksonville",4,2,0,1,3.9,400991878,2017-11-26
+276,2,"2:45",165,1065,"Gardner-Webb  Timeout",60,69,-9,0.016016659702263,"Gardner-Webb","Jacksonville",4,1,0,1,3.9,400991878,2017-11-26
+277,2,"2:34",154,1054,"David Efianayi missed Jumper.",60,69,-9,0.0109478083439878,"Gardner-Webb","Jacksonville",4,1,0,1,3.9,400991878,2017-11-26
+278,2,"2:34",154,1054,"Gardner-Webb Offensive Rebound.",60,69,-9,0.0109478083439878,"Gardner-Webb","Jacksonville",4,1,0,1,3.9,400991878,2017-11-26
+279,2,"2:24",144,1044,"Liam O'Reilly missed Three Point Jumper.",60,69,-9,0.0125875251866815,"Gardner-Webb","Jacksonville",4,1,0,1,3.9,400991878,2017-11-26
+280,2,"2:24",144,1044,"Devin Harris Defensive Rebound.",60,69,-9,0.0125875251866815,"Gardner-Webb","Jacksonville",4,1,0,1,3.9,400991878,2017-11-26
+281,2,"2:20",140,1040,"Foul on Liam O'Reilly.",60,69,-9,0.0125875251866815,"Gardner-Webb","Jacksonville",4,1,0,1,3.9,400991878,2017-11-26
+282,2,"2:20",140,1040,"Devin Harris made Free Throw.",60,70,-10,0.00753580684840843,"Gardner-Webb","Jacksonville",4,1,0,1,3.9,400991878,2017-11-26
+283,2,"2:20",140,1040,"Devin Harris made Free Throw.",60,71,-11,0.00450223716443163,"Gardner-Webb","Jacksonville",4,1,0,1,3.9,400991878,2017-11-26
+284,2,"2:08",128,1028,"David Efianayi made Three Point Jumper. Assisted by Jaheam Cornwall.",63,71,-8,0.0135092510614365,"Gardner-Webb","Jacksonville",4,1,0,1,3.9,400991878,2017-11-26
+285,2,"1:32",92,992,"JD Notae missed Three Point Jumper.",63,71,-8,0.00829103281164893,"Gardner-Webb","Jacksonville",4,1,0,0,3.9,400991878,2017-11-26
+286,2,"1:32",92,992,"Jaheam Cornwall Defensive Rebound.",63,71,-8,0.00829103281164893,"Gardner-Webb","Jacksonville",4,1,0,0,3.9,400991878,2017-11-26
+287,2,"1:20",80,980,"David Efianayi made Three Point Jumper. Assisted by Liam O'Reilly.",66,71,-5,0.0410731515200137,"Gardner-Webb","Jacksonville",4,1,0,0,3.9,400991878,2017-11-26
+288,2,"0:56",56,956,"Devin Harris made Jumper.",66,73,-7,0.00328091491872423,"Gardner-Webb","Jacksonville",4,1,0,0,3.9,400991878,2017-11-26
+289,2,"0:47",47,947,"David Efianayi missed Three Point Jumper.",66,73,-7,0.000677271484273809,"Gardner-Webb","Jacksonville",4,1,0,0,3.9,400991878,2017-11-26
+290,2,"0:47",47,947,"DJ Laster Offensive Rebound.",66,73,-7,0.000677271484273809,"Gardner-Webb","Jacksonville",4,1,0,0,3.9,400991878,2017-11-26
+291,2,"0:42",42,942,"DJ Laster missed Three Point Jumper.",66,73,-7,0.00166967792744359,"Gardner-Webb","Jacksonville",4,1,0,0,3.9,400991878,2017-11-26
+292,2,"0:42",42,942,"Gardner-Webb Offensive Rebound.",66,73,-7,0.00166967792744359,"Gardner-Webb","Jacksonville",4,1,0,0,3.9,400991878,2017-11-26
+293,2,"0:35",35,935,"David Efianayi made Layup.",68,73,-5,0.0141958138723467,"Gardner-Webb","Jacksonville",4,1,0,0,3.9,400991878,2017-11-26
+294,2,"0:32",32,932,"Foul on DJ Laster.",68,73,-5,0.00421563870664342,"Gardner-Webb","Jacksonville",4,1,0,0,3.9,400991878,2017-11-26
+295,2,"0:32",32,932,"Jalyn Hinton missed Free Throw.",68,73,-5,0.00421563870664342,"Gardner-Webb","Jacksonville",4,1,0,0,3.9,400991878,2017-11-26
+296,2,"0:32",32,932,"Jacksonville Deadball Team Rebound.",68,73,-5,0.00421563870664342,"Gardner-Webb","Jacksonville",4,1,0,0,3.9,400991878,2017-11-26
+297,2,"0:32",32,932,"Jalyn Hinton missed Free Throw.",68,73,-5,0.00421563870664342,"Gardner-Webb","Jacksonville",4,1,0,0,3.9,400991878,2017-11-26
+298,2,"0:32",32,932,"DJ Laster Defensive Rebound.",68,73,-5,0.00421563870664342,"Gardner-Webb","Jacksonville",4,1,0,0,3.9,400991878,2017-11-26
+299,2,"0:23",23,923,"Liam O'Reilly made Three Point Jumper. Assisted by David Efianayi.",71,73,-2,0.147073537214717,"Gardner-Webb","Jacksonville",4,1,0,0,3.9,400991878,2017-11-26
+300,2,"0:22",22,922,"Jacksonville  Timeout",71,73,-2,0.0986566650504913,"Gardner-Webb","Jacksonville",3,1,1,0,3.9,400991878,2017-11-26
+301,2,"0:19",19,919,"Foul on Jaheam Cornwall.",71,73,-2,0.0932668678471898,"Gardner-Webb","Jacksonville",3,1,1,0,3.9,400991878,2017-11-26
+302,2,"0:19",19,919,"JD Notae made Free Throw.",71,74,-3,0.028275172099614,"Gardner-Webb","Jacksonville",3,1,1,0,3.9,400991878,2017-11-26
+303,2,"0:19",19,919,"JD Notae made Free Throw.",71,75,-4,0.00816424014781308,"Gardner-Webb","Jacksonville",3,1,1,0,3.9,400991878,2017-11-26
+304,2,"0:13",13,913,"Liam O'Reilly made Three Point Jumper. Assisted by David Efianayi.",74,75,-1,0.230369655159676,"Gardner-Webb","Jacksonville",3,1,1,0,3.9,400991878,2017-11-26
+305,2,"0:12",12,912,"Jacksonville  Timeout",74,75,-1,0.36767500820638,"Gardner-Webb","Jacksonville",2,1,1,0,3.9,400991878,2017-11-26
+306,2,"0:11",11,911,"Foul on David Efianayi.",74,75,-1,0.270421063839725,"Gardner-Webb","Jacksonville",2,1,1,0,3.9,400991878,2017-11-26
+307,2,"0:11",11,911,"Tanner Rubio made Free Throw.",74,76,-2,0.0872478516859352,"Gardner-Webb","Jacksonville",2,1,1,0,3.9,400991878,2017-11-26
+308,2,"0:11",11,911,"Tanner Rubio missed Free Throw.",74,76,-2,0.0872478516859352,"Gardner-Webb","Jacksonville",2,1,1,0,3.9,400991878,2017-11-26
+309,2,"0:11",11,911,"Patrick Zeck Defensive Rebound.",74,76,-2,0.0872478516859352,"Gardner-Webb","Jacksonville",2,1,1,0,3.9,400991878,2017-11-26
+310,2,"0:02",2,902,"David Efianayi missed Jumper.",74,76,-2,0.0266673613786795,"Gardner-Webb","Jacksonville",2,1,1,0,3.9,400991878,2017-11-26
+311,2,"0:01",1,901,"Patrick Zeck Offensive Rebound.",74,76,-2,0.0266673613786795,"Gardner-Webb","Jacksonville",2,1,1,0,3.9,400991878,2017-11-26
+312,2,"0:01",1,901,"Patrick Zeck made Two Point Tip Shot.",76,76,0,0.462183728606987,"Gardner-Webb","Jacksonville",2,1,1,0,3.9,400991878,2017-11-26
+313,2,"0:00",300,900,"End of 2nd half",76,76,0,0.600135225424295,"Gardner-Webb","Jacksonville",2,1,0,1,3.9,400991878,2017-11-26
+314,3,"5:00",300,900,"PLAY",76,76,0,0.600135225424295,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+315,3,"4:33",273,873,"Devin Harris Turnover.",76,76,0,0.586099830454305,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+316,3,"4:31",271,871,"Jaheam Cornwall Steal.",76,76,0,0.586099830454305,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+317,3,"4:28",268,868,"Jaheam Cornwall missed Layup.",76,76,0,0.604060082278438,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+318,3,"4:28",268,868,"JD Notae Block.",76,76,0,0.604060082278438,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+319,3,"4:25",265,865,"JD Notae Defensive Rebound.",76,76,0,0.604060082278438,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+320,3,"4:10",250,850,"JD Notae made Three Point Jumper. Assisted by Devin Harris.",76,79,-3,0.300260220009076,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+321,3,"3:49",229,829,"David Efianayi made Layup.",78,79,-1,0.515305157990874,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+322,3,"3:25",205,805,"JD Notae made Jumper.",78,81,-3,0.294093909193696,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+323,3,"2:57",177,777,"DJ Laster missed Jumper.",78,81,-3,0.259820644973529,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+324,3,"2:57",177,777,"Devin Harris Defensive Rebound.",78,81,-3,0.259820644973529,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+325,3,"2:36",156,756,"JD Notae missed Jumper.",78,81,-3,0.220860024944464,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+326,3,"2:36",156,756,"Brandon Miller Defensive Rebound.",78,81,-3,0.220860024944464,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+327,3,"2:28",148,748,"David Efianayi missed Jumper.",78,81,-3,0.22209122560932,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+328,3,"2:28",148,748,"Cody Helgeland Defensive Rebound.",78,81,-3,0.22209122560932,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+329,3,"2:03",123,723,"Jace Hogan missed Jumper.",78,81,-3,0.188738190265701,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+330,3,"2:03",123,723,"Liam O'Reilly Defensive Rebound.",78,81,-3,0.188738190265701,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+331,3,"1:49",109,709,"Foul on Jace Hogan.",78,81,-3,0.15819293169484,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+332,3,"1:49",109,709,"DJ Laster missed Free Throw.",78,81,-3,0.15819293169484,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+333,3,"1:49",109,709,"Gardner-Webb Deadball Team Rebound.",78,81,-3,0.15819293169484,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+334,3,"1:49",109,709,"DJ Laster missed Free Throw.",78,81,-3,0.15819293169484,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+335,3,"1:49",109,709,"Devin Harris Defensive Rebound.",78,81,-3,0.15819293169484,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+336,3,"1:24",84,684,"Tanner Rubio missed Three Point Jumper.",78,81,-3,0.152189778627696,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+337,3,"1:24",84,684,"DJ Laster Defensive Rebound.",78,81,-3,0.152189778627696,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+338,3,"1:10",70,670,"DJ Laster made Layup.",80,81,-1,0.3657069398641,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+339,3,"0:46",46,646,"Cody Helgeland missed Three Point Jumper.",80,81,-1,0.270469753647634,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+340,3,"0:46",46,646,"Jace Hogan Offensive Rebound.",80,81,-1,0.270469753647634,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+341,3,"0:42",42,642,"Jace Hogan made Jumper.",80,83,-3,0.058374912245369,"Gardner-Webb","Jacksonville",3,2,1,0,3.9,400991878,2017-11-26
+342,3,"0:42",42,642,"Jacksonville  Timeout",80,83,-3,0.058374912245369,"Gardner-Webb","Jacksonville",2,2,1,0,3.9,400991878,2017-11-26
+343,3,"0:32",32,632,"Liam O'Reilly missed Three Point Jumper.",80,83,-3,0.0392906056575528,"Gardner-Webb","Jacksonville",2,2,1,0,3.9,400991878,2017-11-26
+344,3,"0:32",32,632,"Jalyn Hinton Block.",80,83,-3,0.0392906056575528,"Gardner-Webb","Jacksonville",2,2,1,0,3.9,400991878,2017-11-26
+345,3,"0:29",29,629,"DJ Laster Offensive Rebound.",80,83,-3,0.041167910330794,"Gardner-Webb","Jacksonville",2,2,1,0,3.9,400991878,2017-11-26
+346,3,"0:19",19,619,"DJ Laster made Three Point Jumper. Assisted by David Efianayi.",83,83,0,0.562429357758018,"Gardner-Webb","Jacksonville",2,2,1,0,3.9,400991878,2017-11-26
+347,3,"0:18",18,618,"Gardner-Webb  Timeout",83,83,0,0.543863710656587,"Gardner-Webb","Jacksonville",2,1,1,1,3.9,400991878,2017-11-26
+348,3,"0:00",300,600,"End of 1st overtime",83,83,0,0.600135225424295,"Gardner-Webb","Jacksonville",2,1,0,0,3.9,400991878,2017-11-26
+349,4,"5:00",300,600,"PLAY",83,83,0,0.600135225424295,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+350,4,"4:40",280,580,"Cody Helgeland missed Three Point Jumper.",83,83,0,0.594829227197726,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+351,4,"4:40",280,580,"Brandon Miller Defensive Rebound.",83,83,0,0.594829227197726,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+352,4,"4:25",265,565,"DJ Laster missed Jumper.",83,83,0,0.604060082278438,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+353,4,"4:25",265,565,"Cody Helgeland Block.",83,83,0,0.604060082278438,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+354,4,"4:22",262,562,"Cody Helgeland Defensive Rebound.",83,83,0,0.604060082278438,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+355,4,"4:08",248,548,"Foul on Brandon Miller.",83,83,0,0.590410856309129,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+356,4,"4:08",248,548,"Jace Hogan made Free Throw.",83,84,-1,0.490298627971816,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+357,4,"4:08",248,548,"Jace Hogan made Free Throw.",83,85,-2,0.390958543679989,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+358,4,"3:46",226,526,"Jaheam Cornwall missed Three Point Jumper.",83,85,-2,0.410421325293945,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+359,4,"3:46",226,526,"Jalyn Hinton Defensive Rebound.",83,85,-2,0.410421325293945,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+360,4,"3:20",200,500,"Devin Harris Turnover.",83,85,-2,0.395667939100953,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+361,4,"3:17",197,497,"Brandon Miller Steal.",83,85,-2,0.341655709930855,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+362,4,"3:07",187,487,"David Efianayi Turnover.",83,85,-2,0.334095961375654,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+363,4,"3:06",186,486,"Jalyn Hinton Steal.",83,85,-2,0.334095961375654,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+364,4,"3:04",184,484,"Jalyn Hinton made Layup.",83,87,-4,0.159611356059138,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+365,4,"2:48",168,468,"Foul on Cody Helgeland.",83,87,-4,0.17523794019678,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+366,4,"2:48",168,468,"David Efianayi made Free Throw.",84,87,-3,0.262087979408328,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+367,4,"2:48",168,468,"David Efianayi made Free Throw.",85,87,-2,0.372539302934048,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+368,4,"2:26",146,446,"JD Notae missed Jumper.",85,87,-2,0.324015759069837,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+369,4,"2:26",146,446,"JD Notae Offensive Rebound.",85,87,-2,0.324015759069837,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+370,4,"2:20",140,440,"JD Notae missed Two Point Tip Shot.",85,87,-2,0.324015759069837,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+371,4,"2:20",140,440,"Gardner-Webb Defensive Rebound.",85,87,-2,0.324015759069837,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+372,4,"2:07",127,427,"DJ Laster missed Jumper.",85,87,-2,0.29075497394632,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+373,4,"2:07",127,427,"Gardner-Webb Deadball Team Rebound.",85,87,-2,0.29075497394632,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+374,4,"2:04",124,424,"DJ Laster made Two Point Tip Shot.",87,87,0,0.560033872668685,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+375,4,"1:41",101,401,"Cody Helgeland missed Layup.",87,87,0,0.546231941133665,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+376,4,"1:41",101,401,"Christian Turner Defensive Rebound.",87,87,0,0.546231941133665,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+377,4,"1:35",95,395,"Foul on Jace Hogan.",87,87,0,0.561325063651808,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+378,4,"1:32",92,392,"Christian Turner made Free Throw.",88,87,1,0.705866229738305,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+379,4,"1:32",92,392,"Christian Turner missed Free Throw.",88,87,1,0.705866229738305,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+380,4,"1:32",92,392,"Jalyn Hinton Defensive Rebound.",88,87,1,0.705866229738305,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+381,4,"1:17",77,377,"Devin Harris missed Jumper.",88,87,1,0.714903862329203,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+382,4,"1:17",77,377,"Liam O'Reilly Defensive Rebound.",88,87,1,0.714903862329203,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+383,4,"0:50",50,350,"David Efianayi missed Three Point Jumper.",88,87,1,0.789795758223262,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+384,4,"0:50",50,350,"Devin Harris Defensive Rebound.",88,87,1,0.789795758223262,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+385,4,"0:39",39,339,"Foul on Brandon Miller.",88,87,1,0.769578390402036,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+386,4,"0:39",39,339,"Devin Harris made Free Throw.",88,88,0,0.561928507366345,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+387,4,"0:39",39,339,"Devin Harris missed Free Throw.",88,88,0,0.561928507366345,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+388,4,"0:39",39,339,"Brandon Miller Defensive Rebound.",88,88,0,0.561928507366345,"Gardner-Webb","Jacksonville",3,2,0,0,3.9,400991878,2017-11-26
+389,4,"0:23",23,323,"Gardner-Webb  Timeout",88,88,0,0.663385486624222,"Gardner-Webb","Jacksonville",3,1,0,1,3.9,400991878,2017-11-26
+390,4,"0:12",12,312,"David Efianayi Turnover.",88,88,0,0.679324266885738,"Gardner-Webb","Jacksonville",3,1,0,1,3.9,400991878,2017-11-26
+391,4,"0:10",10,310,"Devin Harris Steal.",88,88,0,0.639931699622033,"Gardner-Webb","Jacksonville",3,1,0,1,3.9,400991878,2017-11-26
+392,4,"0:05",5,305,"Foul on Brandon Miller.",88,88,0,0.639931699622033,"Gardner-Webb","Jacksonville",3,1,0,1,3.9,400991878,2017-11-26
+393,4,"0:05",5,305,"Devin Harris missed Free Throw.",88,88,0,0.639931699622033,"Gardner-Webb","Jacksonville",3,1,0,1,3.9,400991878,2017-11-26
+394,4,"0:05",5,305,"Jacksonville Deadball Team Rebound.",88,88,0,0.639931699622033,"Gardner-Webb","Jacksonville",3,1,0,1,3.9,400991878,2017-11-26
+395,4,"0:05",5,305,"Devin Harris missed Free Throw.",88,88,0,0.639931699622033,"Gardner-Webb","Jacksonville",3,1,0,1,3.9,400991878,2017-11-26
+396,4,"0:05",5,305,"Patrick Zeck Defensive Rebound.",88,88,0,0.639931699622033,"Gardner-Webb","Jacksonville",3,1,0,1,3.9,400991878,2017-11-26
+397,4,"0:00",300,300,"End of 2nd overtime",88,88,0,0.600135225424295,"Gardner-Webb","Jacksonville",3,1,0,0,3.9,400991878,2017-11-26
+398,5,"5:00",300,300,"PLAY",88,88,0,0.600135225424295,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+399,5,"4:32",272,272,"Jalyn Hinton made Dunk. Assisted by Devin Harris.",88,90,-2,0.394376335186703,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+400,5,"4:16",256,256,"DJ Laster made Layup. Assisted by Liam O'Reilly.",90,90,0,0.603018328418216,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+401,5,"4:01",241,241,"Cody Helgeland made Three Point Jumper. Assisted by JD Notae.",90,93,-3,0.299903114702846,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+402,5,"3:44",224,224,"David Efianayi missed Three Point Jumper.",90,93,-3,0.313095375247708,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+403,5,"3:44",224,224,"Patrick Zeck Offensive Rebound.",90,93,-3,0.313095375247708,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+404,5,"3:40",220,220,"Patrick Zeck made Two Point Tip Shot.",92,93,-1,0.515305157990874,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+405,5,"3:19",199,199,"JD Notae missed Three Point Jumper.",92,93,-1,0.453145881513651,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+406,5,"3:19",199,199,"Jace Hogan Offensive Rebound.",92,93,-1,0.453145881513651,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+407,5,"3:15",195,195,"Foul on DJ Laster.",92,93,-1,0.453145881513651,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+408,5,"3:15",195,195,"Jace Hogan made Free Throw.",92,94,-2,0.341655709930855,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+409,5,"3:15",195,195,"Jace Hogan made Free Throw.",92,95,-3,0.245292102090322,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+410,5,"2:55",175,175,"David Efianayi made Layup.",94,95,-1,0.484341725829077,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+411,5,"2:34",154,154,"Devin Harris Turnover.",94,95,-1,0.455200586133123,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+412,5,"2:29",149,149,"Liam O'Reilly missed Layup.",94,95,-1,0.445904022773849,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+413,5,"2:29",149,149,"Jalyn Hinton Block.",94,95,-1,0.445904022773849,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+414,5,"2:28",148,148,"Jaheam Cornwall Offensive Rebound.",94,95,-1,0.445904022773849,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+415,5,"2:28",148,148,"Foul on JD Notae.",94,95,-1,0.445904022773849,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+416,5,"2:28",148,148,"Jaheam Cornwall missed Free Throw.",94,95,-1,0.445904022773849,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+417,5,"2:28",148,148,"Gardner-Webb Deadball Team Rebound.",94,95,-1,0.445904022773849,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+418,5,"2:28",148,148,"Jaheam Cornwall made Free Throw.",95,95,0,0.574664774185103,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+419,5,"2:05",125,125,"Jace Hogan made Layup. Assisted by Devin Harris.",95,97,-2,0.29075497394632,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+420,5,"1:44",104,104,"Liam O'Reilly missed Three Point Jumper.",95,97,-2,0.258712496419932,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+421,5,"1:44",104,104,"Jace Hogan Defensive Rebound.",95,97,-2,0.258712496419932,"Gardner-Webb","Jacksonville",4,2,0,0,3.9,400991878,2017-11-26
+422,5,"1:29",89,89,"Devin Harris made Jumper.",95,99,-4,0.0806169196858884,"Gardner-Webb","Jacksonville",4,2,1,0,3.9,400991878,2017-11-26
+423,5,"1:29",89,89,"Foul on Patrick Zeck.",95,99,-4,0.0806169196858884,"Gardner-Webb","Jacksonville",4,2,1,0,3.9,400991878,2017-11-26
+424,5,"1:29",89,89,"Devin Harris made Free Throw.",95,100,-5,0.0410731515200137,"Gardner-Webb","Jacksonville",4,2,1,0,3.9,400991878,2017-11-26
+425,5,"1:29",89,89,"Jacksonville  Timeout",95,100,-5,0.0410731515200137,"Gardner-Webb","Jacksonville",3,2,1,0,3.9,400991878,2017-11-26
+426,5,"1:18",78,78,"David Efianayi missed Layup.",95,100,-5,0.0295785906006102,"Gardner-Webb","Jacksonville",3,2,1,0,3.9,400991878,2017-11-26
+427,5,"1:18",78,78,"Devin Harris Defensive Rebound.",95,100,-5,0.0295785906006102,"Gardner-Webb","Jacksonville",3,2,1,0,3.9,400991878,2017-11-26
+428,5,"0:55",55,55,"Devin Harris missed Jumper.",95,100,-5,0.0290691867770812,"Gardner-Webb","Jacksonville",3,2,1,0,3.9,400991878,2017-11-26
+429,5,"0:55",55,55,"Patrick Zeck Defensive Rebound.",95,100,-5,0.0290691867770812,"Gardner-Webb","Jacksonville",3,2,1,0,3.9,400991878,2017-11-26
+430,5,"0:47",47,47,"David Efianayi missed Three Point Jumper.",95,100,-5,0.00551225441437149,"Gardner-Webb","Jacksonville",3,2,1,0,3.9,400991878,2017-11-26
+431,5,"0:47",47,47,"JD Notae Defensive Rebound.",95,100,-5,0.00551225441437149,"Gardner-Webb","Jacksonville",3,2,1,0,3.9,400991878,2017-11-26
+432,5,"0:38",38,38,"Foul on Liam O'Reilly.",95,100,-5,0.0106056567329894,"Gardner-Webb","Jacksonville",3,2,1,0,3.9,400991878,2017-11-26
+433,5,"0:38",38,38,"Devin Harris made Free Throw.",95,101,-6,0.00410006048556844,"Gardner-Webb","Jacksonville",3,2,1,0,3.9,400991878,2017-11-26
+434,5,"0:38",38,38,"Devin Harris made Free Throw.",95,102,-7,0.0015786825806813,"Gardner-Webb","Jacksonville",3,2,1,0,3.9,400991878,2017-11-26
+435,5,"0:28",28,28,"Liam O'Reilly made Layup.",97,102,-5,0.00465043455383619,"Gardner-Webb","Jacksonville",3,2,0,1,3.9,400991878,2017-11-26
+436,5,"0:28",28,28,"Gardner-Webb  Timeout",97,102,-5,0.00465043455383619,"Gardner-Webb","Jacksonville",3,1,0,1,3.9,400991878,2017-11-26
+437,5,"0:19",19,19,"Foul on Jaheam Cornwall.",97,102,-5,0.0023231644209238,"Gardner-Webb","Jacksonville",3,1,0,1,3.9,400991878,2017-11-26
+438,5,"0:19",19,19,"Devin Harris made Free Throw.",97,103,-6,0.000658291312066283,"Gardner-Webb","Jacksonville",3,1,0,1,3.9,400991878,2017-11-26
+439,5,"0:19",19,19,"Devin Harris missed Free Throw.",97,103,-6,0.000658291312066283,"Gardner-Webb","Jacksonville",3,1,0,1,3.9,400991878,2017-11-26
+440,5,"0:19",19,19,"Patrick Zeck Defensive Rebound.",97,103,-6,0.000658291312066283,"Gardner-Webb","Jacksonville",3,1,0,1,3.9,400991878,2017-11-26
+441,5,"0:12",12,12,"Foul on Jalyn Hinton.",97,103,-6,0.000905094996619106,"Gardner-Webb","Jacksonville",3,1,0,1,3.9,400991878,2017-11-26
+442,5,"0:12",12,12,"David Efianayi made Free Throw.",98,103,-5,0.00328960442046109,"Gardner-Webb","Jacksonville",3,1,0,1,3.9,400991878,2017-11-26
+443,5,"0:12",12,12,"David Efianayi made Free Throw.",99,103,-4,0.0118814923089719,"Gardner-Webb","Jacksonville",3,1,0,1,3.9,400991878,2017-11-26
+444,5,"0:11",11,11,"Foul on Liam O'Reilly.",99,103,-4,0.00631708900094729,"Gardner-Webb","Jacksonville",3,1,0,1,3.9,400991878,2017-11-26
+445,5,"0:11",11,11,"Devin Harris missed Free Throw.",99,103,-4,0.00631708900094729,"Gardner-Webb","Jacksonville",3,1,0,1,3.9,400991878,2017-11-26
+446,5,"0:11",11,11,"Jacksonville Deadball Team Rebound.",99,103,-4,0.00631708900094729,"Gardner-Webb","Jacksonville",3,1,0,1,3.9,400991878,2017-11-26
+447,5,"0:11",11,11,"Devin Harris made Free Throw.",99,104,-5,0.00163678408700299,"Gardner-Webb","Jacksonville",3,1,0,1,3.9,400991878,2017-11-26
+448,5,"0:09",9,9,"Tanner Rubio made Layup. Assisted by Jace Hogan.",99,106,-7,2.15413192113423e-05,"Gardner-Webb","Jacksonville",3,1,0,1,3.9,400991878,2017-11-26
+449,5,"0:04",4,4,"Jaheam Cornwall missed Three Point Jumper.",99,106,-7,4.97235025196121e-06,"Gardner-Webb","Jacksonville",3,1,0,1,3.9,400991878,2017-11-26
+450,5,"0:04",4,4,"JD Notae Defensive Rebound.",99,106,-7,4.97235025196121e-06,"Gardner-Webb","Jacksonville",3,1,0,1,3.9,400991878,2017-11-26
+451,5,"0:00",0,0,"End of Game",99,106,-7,1.56317591328677e-59,"Gardner-Webb","Jacksonville",3,1,0,1,3.9,400991878,2017-11-26

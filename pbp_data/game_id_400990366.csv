@@ -1,0 +1,473 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.5,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+2,1,"19:39",2379,2379,"Jake Allsmiller missed Three Point Jumper.",0,0,0,0.524279741327167,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+3,1,"19:39",2379,2379,"Greg Purnell Defensive Rebound.",0,0,0,0.524279741327167,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+4,1,"19:19",2359,2359,"Chris Melton missed Three Point Jumper.",0,0,0,0.529703192727122,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+5,1,"19:19",2359,2359,"Mike Hughes Defensive Rebound.",0,0,0,0.529703192727122,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+6,1,"19:09",2349,2349,"Mike Hughes missed Three Point Jumper.",0,0,0,0.511940955014241,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+7,1,"19:09",2349,2349,"Greg Purnell Defensive Rebound.",0,0,0,0.511940955014241,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+8,1,"18:59",2339,2339,"Chris Melton made Jumper. Assisted by Korey Williams.",0,2,-2,0.470023074839075,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+9,1,"18:43",2323,2323,"Ike Smith made Three Point Jumper. Assisted by Montae Glenn.",3,2,1,0.557864839876409,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+10,1,"18:21",2301,2301,"Korey Williams missed Jumper.",3,2,1,0.53386704006008,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+11,1,"18:21",2301,2301,"Ike Smith Block.",3,2,1,0.53386704006008,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+12,1,"18:19",2299,2299,"Jake Allsmiller Defensive Rebound.",3,2,1,0.545291759127104,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+13,1,"17:59",2279,2279,"Foul on Chris Melton.",3,2,1,0.546557030718172,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+14,1,"17:59",2279,2279,"Montae Glenn made Free Throw.",4,2,2,0.572057285705041,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+15,1,"17:59",2279,2279,"Montae Glenn made Free Throw.",5,2,3,0.597180402275598,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+16,1,"17:48",2268,2268,"Antonio Watson Turnover.",5,2,3,0.610484912586829,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+17,1,"17:47",2267,2267,"Tookie Brown Steal.",5,2,3,0.610484912586829,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+18,1,"17:47",2267,2267,"Foul on Antonio Watson.",5,2,3,0.610484912586829,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+19,1,"17:37",2257,2257,"Mike Hughes made Three Point Jumper. Assisted by Tookie Brown.",8,2,6,0.660280144353292,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+20,1,"17:25",2245,2245,"Shawn Duhon Turnover.",8,2,6,0.663651722116823,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+21,1,"17:15",2235,2235,"Mike Hughes missed Jumper.",8,2,6,0.677445041187475,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+22,1,"17:15",2235,2235,"Korey Williams Defensive Rebound.",8,2,6,0.677445041187475,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+23,1,"16:59",2219,2219,"Greg Purnell missed Three Point Jumper.",8,2,6,0.710080536369021,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+24,1,"16:59",2219,2219,"Montae Glenn Defensive Rebound.",8,2,6,0.710080536369021,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+25,1,"16:49",2209,2209,"Ike Smith missed Three Point Jumper.",8,2,6,0.680854167134174,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+26,1,"16:49",2209,2209,"Antonio Watson Defensive Rebound.",8,2,6,0.680854167134174,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+27,1,"16:41",2201,2201,"Korey Williams missed Three Point Jumper.",8,2,6,0.680854167134174,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+28,1,"16:41",2201,2201,"Mike Hughes Defensive Rebound.",8,2,6,0.680854167134174,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+29,1,"16:32",2192,2192,"Jake Allsmiller made Three Point Jumper. Assisted by Ike Smith.",11,2,9,0.761851199742773,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+30,1,"16:17",2177,2177,"Foul on Montae Glenn.",11,2,9,0.734763487181839,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+31,1,"16:09",2169,2169,"Korey Williams missed Jumper.",11,2,9,0.742107198583914,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+32,1,"16:09",2169,2169,"Shawn Duhon Offensive Rebound.",11,2,9,0.742107198583914,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+33,1,"15:58",2158,2158,"Shawn Duhon made Dunk.",11,4,7,0.701440145675269,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+34,1,"15:49",2149,2149,"Ike Smith missed Three Point Jumper.",11,4,7,0.690488375473565,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+35,1,"15:49",2149,2149,"Chris Melton Defensive Rebound.",11,4,7,0.690488375473565,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+36,1,"15:38",2138,2138,"Greg Purnell missed Layup.",11,4,7,0.710263963293406,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+37,1,"15:38",2138,2138,"Mike Hughes Block.",11,4,7,0.710263963293406,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+38,1,"15:36",2136,2136,"Jared Hamilton Defensive Rebound.",11,4,7,0.710263963293406,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+39,1,"15:33",2133,2133,"Tookie Brown made Layup.",13,4,9,0.757455647359971,"Georgia Southern","Bluefield State",4,4,0,0,NA,400990366,2017-11-16
+40,1,"15:21",2121,2121,"Foul on Jake Allsmiller.",13,4,9,0.743513185380516,"Georgia Southern","Bluefield State",4,4,0,1,NA,400990366,2017-11-16
+41,1,"15:21",2121,2121,"Bluefield St  Timeout",13,4,9,0.743513185380516,"Georgia Southern","Bluefield State",4,3,0,1,NA,400990366,2017-11-16
+42,1,"15:21",2121,2121,"Greg Purnell made Free Throw.",13,5,8,0.72105403572029,"Georgia Southern","Bluefield State",4,3,0,1,NA,400990366,2017-11-16
+43,1,"15:21",2121,2121,"Greg Purnell made Free Throw.",13,6,7,0.697428575703799,"Georgia Southern","Bluefield State",4,3,0,1,NA,400990366,2017-11-16
+44,1,"15:00",2100,2100,"Foul on Rob Brown.",13,6,7,0.695963673332215,"Georgia Southern","Bluefield State",4,3,0,1,NA,400990366,2017-11-16
+45,1,"14:56",2096,2096,"Tookie Brown missed Jumper.",13,6,7,0.714880896783298,"Georgia Southern","Bluefield State",4,3,0,1,NA,400990366,2017-11-16
+46,1,"14:56",2096,2096,"Shawn O'Connell Offensive Rebound.",13,6,7,0.714880896783298,"Georgia Southern","Bluefield State",4,3,0,1,NA,400990366,2017-11-16
+47,1,"14:51",2091,2091,"Shawn O'Connell made Layup.",15,6,9,0.762655710889127,"Georgia Southern","Bluefield State",4,3,0,1,NA,400990366,2017-11-16
+48,1,"14:34",2074,2074,"Greg Purnell made Jumper. Assisted by Korey Williams.",15,8,7,0.684264041151795,"Georgia Southern","Bluefield State",4,3,0,1,NA,400990366,2017-11-16
+49,1,"14:16",2056,2056,"Tookie Brown missed Layup.",15,8,7,0.695406986627573,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+50,1,"14:16",2056,2056,"Shawn Duhon Defensive Rebound.",15,8,7,0.695406986627573,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+51,1,"13:59",2039,2039,"Joseph Adeyemo made Layup. Assisted by Korey Williams.",15,10,5,0.654326541671165,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+52,1,"13:29",2009,2009,"Tookie Brown made Layup.",17,10,7,0.691480705619467,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+53,1,"13:16",1996,1996,"Rob Brown made Three Point Jumper.",17,13,4,0.638281438301402,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+54,1,"13:09",1989,1989,"Jared Hamilton made Layup. Assisted by Tookie Brown.",19,13,6,0.682148560595759,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+55,1,"12:54",1974,1974,"Joseph Adeyemo made Layup. Assisted by Korey Williams.",19,15,4,0.636920390078671,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+56,1,"12:39",1959,1959,"David-Lee Jones Jr. missed Jumper.",19,15,4,0.644335603869815,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+57,1,"12:39",1959,1959,"Joseph Adeyemo Defensive Rebound.",19,15,4,0.644335603869815,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+58,1,"12:31",1951,1951,"Korey Williams missed Three Point Jumper.",19,15,4,0.644335603869815,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+59,1,"12:31",1951,1951,"Jared Hamilton Defensive Rebound.",19,15,4,0.644335603869815,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+60,1,"12:23",1943,1943,"Jared Hamilton missed Layup.",19,15,4,0.633997911913013,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+61,1,"12:23",1943,1943,"Joseph Adeyemo Block.",19,15,4,0.633997911913013,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+62,1,"12:23",1943,1943,"Bluefield St Defensive Rebound.",19,15,4,0.633997911913013,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+63,1,"12:09",1929,1929,"Greg Purnell missed Three Point Jumper.",19,15,4,0.622501798363161,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+64,1,"12:09",1929,1929,"Bluefield St Offensive Rebound.",19,15,4,0.622501798363161,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+65,1,"11:59",1919,1919,"Loris Lawson missed Jumper.",19,15,4,0.655776275171156,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+66,1,"11:59",1919,1919,"Jake Allsmiller Defensive Rebound.",19,15,4,0.655776275171156,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+67,1,"11:56",1916,1916,"Foul on Greg Purnell.",19,15,4,0.655776275171156,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+68,1,"11:56",1916,1916,"Official TV Timeout",19,15,4,0.655776275171156,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+69,1,"11:44",1904,1904,"Ike Smith Turnover.",19,15,4,0.623319918881978,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+70,1,"11:23",1883,1883,"Joseph Adeyemo Turnover.",19,15,4,0.624408649398098,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+71,1,"11:18",1878,1878,"Jake Allsmiller made Three Point Jumper. Assisted by David-Lee Jones Jr..",22,15,7,0.71314686410788,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+72,1,"11:07",1867,1867,"Greg Purnell Turnover.",22,15,7,0.743710137317274,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+73,1,"11:07",1867,1867,"Foul on Greg Purnell.",22,15,7,0.743710137317274,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+74,1,"10:50",1850,1850,"Ike Smith missed Three Point Jumper.",22,15,7,0.726912234819176,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+75,1,"10:50",1850,1850,"Greg Purnell Defensive Rebound.",22,15,7,0.726912234819176,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+76,1,"10:30",1830,1830,"Korey Williams missed Layup.",22,15,7,0.724112227357525,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+77,1,"10:30",1830,1830,"Montae Glenn Defensive Rebound.",22,15,7,0.724112227357525,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+78,1,"10:22",1822,1822,"Jake Allsmiller made Three Point Jumper. Assisted by Ike Smith.",25,15,10,0.791343915668465,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+79,1,"10:04",1804,1804,"Greg Purnell missed Three Point Jumper.",25,15,10,0.78834842757297,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+80,1,"10:04",1804,1804,"David-Lee Jones Jr. Defensive Rebound.",25,15,10,0.78834842757297,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+81,1,"9:56",1796,1796,"Jake Allsmiller missed Three Point Jumper.",25,15,10,0.789918149463476,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+82,1,"9:56",1796,1796,"Jared Hamilton Offensive Rebound.",25,15,10,0.789918149463476,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+83,1,"9:51",1791,1791,"Jared Hamilton made Jumper.",27,15,12,0.829850366710873,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+84,1,"9:32",1772,1772,"Korey Williams made Three Point Jumper. Assisted by Shawn Duhon.",27,18,9,0.748551993742857,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+85,1,"9:17",1757,1757,"Ike Smith missed Three Point Jumper.",27,18,9,0.766673457852711,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+86,1,"9:17",1757,1757,"Jared Hamilton Offensive Rebound.",27,18,9,0.766673457852711,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+87,1,"9:12",1752,1752,"Jared Hamilton Turnover.",27,18,9,0.766673457852711,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+88,1,"9:11",1751,1751,"Chris Melton Steal.",27,18,9,0.766673457852711,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+89,1,"9:08",1748,1748,"Foul on David-Lee Jones Jr..",27,18,9,0.777233349224972,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+90,1,"9:08",1748,1748,"Antonio Watson missed Free Throw.",27,18,9,0.777233349224972,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+91,1,"9:08",1748,1748,"Bluefield St Deadball Team Rebound.",27,18,9,0.777233349224972,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+92,1,"9:08",1748,1748,"Antonio Watson made Free Throw.",27,19,8,0.75460132105322,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+93,1,"8:58",1738,1738,"Foul on Shawn Duhon.",27,19,8,0.758392328049162,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+94,1,"8:58",1738,1738,"Coye Simmons made Free Throw.",28,19,9,0.782571734740621,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+95,1,"8:58",1738,1738,"Coye Simmons made Free Throw.",29,19,10,0.804953670638575,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+96,1,"8:37",1717,1717,"Rob Brown missed Layup.",29,19,10,0.800368830441376,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+97,1,"8:37",1717,1717,"Mike Hughes Block.",29,19,10,0.800368830441376,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+98,1,"8:35",1715,1715,"Shawn Duhon Offensive Rebound.",29,19,10,0.800368830441376,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+99,1,"8:33",1713,1713,"Shawn Duhon made Layup.",29,21,8,0.754293097560376,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+100,1,"8:20",1700,1700,"Foul on Shawn Duhon.",29,21,8,0.736457198326341,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+101,1,"8:20",1700,1700,"Ike Smith missed Free Throw.",29,21,8,0.736457198326341,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+102,1,"8:20",1700,1700,"Georgia Southern Deadball Team Rebound.",29,21,8,0.736457198326341,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+103,1,"8:20",1700,1700,"Ike Smith missed Free Throw.",29,21,8,0.736457198326341,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+104,1,"8:20",1700,1700,"Joseph Adeyemo Defensive Rebound.",29,21,8,0.736457198326341,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+105,1,"8:13",1693,1693,"Rob Brown Turnover.",29,21,8,0.775338557668823,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+106,1,"8:12",1692,1692,"Coye Simmons Steal.",29,21,8,0.775338557668823,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+107,1,"8:09",1689,1689,"Tookie Brown made Layup.",31,21,10,0.817219728234581,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+108,1,"7:44",1664,1664,"Shawn Duhon made Layup.",31,23,8,0.746920980128817,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+109,1,"7:19",1639,1639,"Foul on Antonio Watson.",31,23,8,0.760604178068416,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+110,1,"7:19",1639,1639,"Official TV Timeout",31,23,8,0.760604178068416,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+111,1,"7:19",1639,1639,"Ike Smith made Free Throw.",32,23,9,0.783735931998532,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+112,1,"7:19",1639,1639,"Ike Smith made Free Throw.",33,23,10,0.80520499381313,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+113,1,"7:12",1632,1632,"Korey Williams made Jumper.",33,25,8,0.760604178068416,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+114,1,"6:54",1614,1614,"Ike Smith missed Layup.",33,25,8,0.753481333117511,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+115,1,"6:54",1614,1614,"Shawn Duhon Defensive Rebound.",33,25,8,0.753481333117511,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+116,1,"6:45",1605,1605,"Antonio Watson Turnover.",33,25,8,0.743443081001564,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+117,1,"6:44",1604,1604,"Ike Smith Steal.",33,25,8,0.743443081001564,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+118,1,"6:39",1599,1599,"Tookie Brown Turnover.",33,25,8,0.76891963371798,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+119,1,"6:38",1598,1598,"Joseph Adeyemo Steal.",33,25,8,0.76891963371798,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+120,1,"6:37",1597,1597,"Bluefield St  Timeout",33,25,8,0.76891963371798,"Georgia Southern","Bluefield State",4,2,0,1,NA,400990366,2017-11-16
+121,1,"6:20",1580,1580,"Korey Williams Turnover.",33,25,8,0.745480723668881,"Georgia Southern","Bluefield State",4,2,0,1,NA,400990366,2017-11-16
+122,1,"6:01",1561,1561,"Foul on Joseph Adeyemo.",33,25,8,0.756808207970012,"Georgia Southern","Bluefield State",4,2,0,1,NA,400990366,2017-11-16
+123,1,"6:01",1561,1561,"Montae Glenn made Free Throw.",34,25,9,0.782043637151575,"Georgia Southern","Bluefield State",4,2,0,1,NA,400990366,2017-11-16
+124,1,"6:01",1561,1561,"Montae Glenn made Free Throw.",35,25,10,0.805334007041702,"Georgia Southern","Bluefield State",4,2,0,1,NA,400990366,2017-11-16
+125,1,"5:51",1551,1551,"Foul on Tookie Brown.",35,25,10,0.810806436388345,"Georgia Southern","Bluefield State",4,2,0,1,NA,400990366,2017-11-16
+126,1,"5:40",1540,1540,"Foul on Jared Hamilton.",35,25,10,0.809962806183653,"Georgia Southern","Bluefield State",4,2,0,1,NA,400990366,2017-11-16
+127,1,"5:22",1522,1522,"Chris Melton missed Jumper.",35,25,10,0.814511193263372,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+128,1,"5:22",1522,1522,"Montae Glenn Block.",35,25,10,0.814511193263372,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+129,1,"5:21",1521,1521,"Montae Glenn Defensive Rebound.",35,25,10,0.814511193263372,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+130,1,"5:16",1516,1516,"Jared Hamilton missed Jumper.",35,25,10,0.838371704562488,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+131,1,"5:16",1516,1516,"Joseph Adeyemo Defensive Rebound.",35,25,10,0.838371704562488,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+132,1,"5:07",1507,1507,"Korey Williams missed Layup.",35,25,10,0.813308498894387,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+133,1,"5:07",1507,1507,"Mike Hughes Defensive Rebound.",35,25,10,0.813308498894387,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+134,1,"5:00",1500,1500,"Jake Allsmiller made Three Point Jumper. Assisted by Tookie Brown.",38,25,13,0.869787994376794,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+135,1,"4:37",1477,1477,"Korey Williams missed Jumper.",38,25,13,0.882580962365991,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+136,1,"4:37",1477,1477,"Mike Hughes Defensive Rebound.",38,25,13,0.882580962365991,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+137,1,"4:21",1461,1461,"Tookie Brown missed Three Point Jumper.",38,25,13,0.873239617133763,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+138,1,"4:21",1461,1461,"Shawn Duhon Defensive Rebound.",38,25,13,0.873239617133763,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+139,1,"4:04",1444,1444,"Foul on Mike Hughes.",38,25,13,0.893719144922001,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+140,1,"4:04",1444,1444,"Joseph Adeyemo made Free Throw.",38,26,12,0.878375561317907,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+141,1,"4:04",1444,1444,"Joseph Adeyemo missed Free Throw.",38,26,12,0.878375561317907,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+142,1,"4:04",1444,1444,"Shawn O'Connell Defensive Rebound.",38,26,12,0.878375561317907,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+143,1,"3:55",1435,1435,"Jake Allsmiller made Three Point Jumper. Assisted by Tookie Brown.",41,26,15,0.912542001273728,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+144,1,"3:39",1419,1419,"Timeyin Amatossero-Keke Turnover.",41,26,15,0.91441259002198,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+145,1,"3:38",1418,1418,"Mike Hughes Steal.",41,26,15,0.91441259002198,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+146,1,"3:37",1417,1417,"Foul on Greg Purnell.",41,26,15,0.91441259002198,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+147,1,"3:37",1417,1417,"Official TV Timeout",41,26,15,0.91441259002198,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+148,1,"3:37",1417,1417,"Tookie Brown made Free Throw.",42,26,16,0.92579492698958,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+149,1,"3:37",1417,1417,"Tookie Brown made Free Throw.",43,26,17,0.935769846528389,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+150,1,"3:13",1393,1393,"Foul on Shawn O'Connell.",43,26,17,0.932357463593697,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+151,1,"3:13",1393,1393,"Greg Purnell made Free Throw.",43,27,16,0.921943407619671,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+152,1,"3:13",1393,1393,"Greg Purnell missed Free Throw.",43,27,16,0.921943407619671,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+153,1,"3:13",1393,1393,"Shawn O'Connell Defensive Rebound.",43,27,16,0.921943407619671,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+154,1,"3:06",1386,1386,"Jake Allsmiller missed Three Point Jumper.",43,27,16,0.923397445277656,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+155,1,"3:06",1386,1386,"Shawn O'Connell Offensive Rebound.",43,27,16,0.923397445277656,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+156,1,"3:05",1385,1385,"Foul on Joseph Adeyemo.",43,27,16,0.923397445277656,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+157,1,"3:05",1385,1385,"Shawn O'Connell missed Free Throw.",43,27,16,0.923397445277656,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+158,1,"3:05",1385,1385,"Georgia Southern Deadball Team Rebound.",43,27,16,0.923397445277656,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+159,1,"3:05",1385,1385,"Shawn O'Connell made Free Throw.",44,27,17,0.933322143644182,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+160,1,"2:48",1368,1368,"Korey Williams missed Jumper.",44,27,17,0.935151898728326,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+161,1,"2:48",1368,1368,"Jake Allsmiller Block.",44,27,17,0.935151898728326,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+162,1,"2:47",1367,1367,"Jake Allsmiller Defensive Rebound.",44,27,17,0.935151898728326,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+163,1,"2:37",1357,1357,"Mike Hughes missed Layup.",44,27,17,0.939334692499543,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+164,1,"2:37",1357,1357,"Mike Hughes Offensive Rebound.",44,27,17,0.939334692499543,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+165,1,"2:34",1354,1354,"Shawn O'Connell made Jumper. Assisted by Mike Hughes.",46,27,19,0.954728848337096,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+166,1,"2:34",1354,1354,"Foul on Loris Lawson.",46,27,19,0.954728848337096,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+167,1,"2:34",1354,1354,"Shawn O'Connell missed Free Throw.",46,27,19,0.954728848337096,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+168,1,"2:34",1354,1354,"Loris Lawson Defensive Rebound.",46,27,19,0.954728848337096,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+169,1,"2:13",1333,1333,"Antonio Watson Turnover.",46,27,19,0.950612037413164,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+170,1,"1:58",1318,1318,"Mike Hughes missed Three Point Jumper.",46,27,19,0.957983562227834,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+171,1,"1:58",1318,1318,"Antonio Watson Defensive Rebound.",46,27,19,0.957983562227834,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+172,1,"1:49",1309,1309,"Korey Williams made Three Point Jumper. Assisted by Antonio Watson.",46,30,16,0.919722353098132,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+173,1,"1:28",1288,1288,"Tookie Brown Turnover.",46,30,16,0.919955048771149,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+174,1,"1:15",1275,1275,"Korey Williams missed Jumper.",46,30,16,0.915429650694228,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+175,1,"1:15",1275,1275,"Mike Hughes Defensive Rebound.",46,30,16,0.915429650694228,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+176,1,"1:13",1273,1273,"Foul on Loris Lawson.",46,30,16,0.915429650694228,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+177,1,"1:13",1273,1273,"Tookie Brown made Free Throw.",47,30,17,0.926330941586803,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+178,1,"1:13",1273,1273,"Tookie Brown made Free Throw.",48,30,18,0.935925389319278,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+179,1,"0:54",1254,1254,"Rob Brown missed Three Point Jumper.",48,30,18,0.941817644103666,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+180,1,"0:54",1254,1254,"Ike Smith Defensive Rebound.",48,30,18,0.941817644103666,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+181,1,"0:47",1247,1247,"Tookie Brown missed Three Point Jumper.",48,30,18,0.944576933788058,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+182,1,"0:47",1247,1247,"Montae Glenn Offensive Rebound.",48,30,18,0.944576933788058,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+183,1,"0:45",1245,1245,"Foul on Wayne Brookman.",48,30,18,0.944576933788058,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+184,1,"0:45",1245,1245,"Montae Glenn made Free Throw.",49,30,19,0.952146925740139,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+185,1,"0:45",1245,1245,"Montae Glenn made Free Throw.",50,30,20,0.95872814286446,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+186,1,"0:33",1233,1233,"Korey Williams missed Jumper.",50,30,20,0.962661228933341,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+187,1,"0:33",1233,1233,"Ike Smith Defensive Rebound.",50,30,20,0.962661228933341,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+188,1,"0:25",1225,1225,"Ike Smith Turnover.",50,30,20,0.96940194812247,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+189,1,"0:25",1225,1225,"Korey Williams Steal.",50,30,20,0.96940194812247,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+190,1,"0:25",1225,1225,"Foul on Ike Smith.",50,30,20,0.96940194812247,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+191,1,"0:25",1225,1225,"Korey Williams missed Free Throw.",50,30,20,0.96940194812247,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+192,1,"0:25",1225,1225,"Timeyin Amatossero-Keke Offensive Rebound.",50,30,20,0.96940194812247,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+193,1,"0:25",1225,1225,"Foul on Ike Smith.",50,30,20,0.96940194812247,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+194,1,"0:25",1225,1225,"Timeyin Amatossero-Keke missed Free Throw.",50,30,20,0.96940194812247,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+195,1,"0:25",1225,1225,"Mike Hughes Defensive Rebound.",50,30,20,0.96940194812247,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+196,1,"0:04",1204,1204,"Tookie Brown missed Layup.",50,30,20,0.96211180083578,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+197,1,"0:04",1204,1204,"Coye Simmons Offensive Rebound.",50,30,20,0.96211180083578,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+198,1,"0:00",1200,1200,"Coye Simmons missed Layup.",50,30,20,0.96211180083578,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+199,1,"0:00",1200,1200,"Wayne Brookman Defensive Rebound.",50,30,20,0.96211180083578,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+200,1,"0:00",1200,1200,"End of 1st half",50,30,20,0.96211180083578,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+201,2,"20:00",1200,1200,"PLAY",50,30,20,0.96211180083578,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+202,2,"19:54",1194,1194,"Antonio Watson Turnover.",50,30,20,0.9632190877151,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+203,2,"19:53",1193,1193,"Tookie Brown Steal.",50,30,20,0.9632190877151,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+204,2,"19:51",1191,1191,"Tookie Brown made Layup.",52,30,22,0.972448014603297,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+205,2,"19:32",1172,1172,"Foul on Jake Allsmiller.",52,30,22,0.975484604753192,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+206,2,"19:32",1172,1172,"Chris Melton made Free Throw.",52,31,21,0.971225629028399,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+207,2,"19:32",1172,1172,"Chris Melton made Free Throw.",52,32,20,0.966252353345451,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+208,2,"19:25",1165,1165,"Ike Smith missed Layup.",52,32,20,0.963169791866717,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+209,2,"19:25",1165,1165,"Montae Glenn Offensive Rebound.",52,32,20,0.963169791866717,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+210,2,"19:21",1161,1161,"Montae Glenn made Layup.",54,32,22,0.973237665102104,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+211,2,"19:08",1148,1148,"Korey Williams missed Jumper.",54,32,22,0.979343796655804,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+212,2,"19:08",1148,1148,"Tookie Brown Defensive Rebound.",54,32,22,0.979343796655804,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+213,2,"19:02",1142,1142,"Foul on Rob Brown.",54,32,22,0.979343796655804,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+214,2,"19:01",1141,1141,"Mike Hughes made Three Point Jumper. Assisted by Tookie Brown.",57,32,25,0.987574501419247,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+215,2,"18:52",1132,1132,"Foul on Tookie Brown.",57,32,25,0.984385841759124,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+216,2,"18:36",1116,1116,"Shawn Duhon missed Layup.",57,32,25,0.988038124884751,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+217,2,"18:36",1116,1116,"Montae Glenn Block.",57,32,25,0.988038124884751,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+218,2,"18:36",1116,1116,"Bluefield St Offensive Rebound.",57,32,25,0.988038124884751,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+219,2,"18:34",1114,1114,"Korey Williams Turnover.",57,32,25,0.988038124884751,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+220,2,"18:33",1113,1113,"Mike Hughes Steal.",57,32,25,0.988038124884751,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+221,2,"18:28",1108,1108,"Ike Smith made Three Point Jumper. Assisted by Mike Hughes.",60,32,28,0.990375309066809,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+222,2,"18:12",1092,1092,"Korey Williams missed Three Point Jumper.",60,32,28,0.992529290655646,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+223,2,"18:12",1092,1092,"Mike Hughes Defensive Rebound.",60,32,28,0.992529290655646,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+224,2,"17:59",1079,1079,"Montae Glenn Turnover.",60,32,28,0.992055542028584,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+225,2,"17:54",1074,1074,"Korey Williams Turnover.",60,32,28,0.992055542028584,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+226,2,"17:43",1063,1063,"Foul on Rob Brown.",60,32,28,0.993075121330538,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+227,2,"17:42",1062,1062,"Ike Smith made Three Point Jumper. Assisted by Tookie Brown.",63,32,31,0.995860141906994,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+228,2,"17:31",1051,1051,"Shawn Duhon missed Layup.",63,32,31,0.996586675523261,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+229,2,"17:31",1051,1051,"Jake Allsmiller Defensive Rebound.",63,32,31,0.996586675523261,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+230,2,"17:29",1049,1049,"Foul on Shawn Duhon.",63,32,31,0.996152547352487,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+231,2,"17:13",1033,1033,"Mike Hughes missed Three Point Jumper.",63,32,31,0.995256068505655,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+232,2,"17:13",1033,1033,"Montae Glenn Offensive Rebound.",63,32,31,0.995256068505655,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+233,2,"17:08",1028,1028,"Montae Glenn Turnover.",63,32,31,0.996504723609038,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+234,2,"16:53",1013,1013,"Korey Williams missed Layup.",63,32,31,0.996388443253592,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+235,2,"16:53",1013,1013,"Montae Glenn Defensive Rebound.",63,32,31,0.996388443253592,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+236,2,"16:45",1005,1005,"Mike Hughes Turnover.",63,32,31,0.996890996344819,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+237,2,"16:30",990,990,"Joseph Adeyemo missed Jumper.",63,32,31,0.996057671439809,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+238,2,"16:30",990,990,"Mike Hughes Defensive Rebound.",63,32,31,0.996057671439809,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+239,2,"16:18",978,978,"Montae Glenn missed Jumper.",63,32,31,0.996565203499343,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+240,2,"16:18",978,978,"Greg Purnell Defensive Rebound.",63,32,31,0.996565203499343,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+241,2,"16:00",960,960,"Greg Purnell Turnover.",63,32,31,0.99694052521809,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+242,2,"15:59",959,959,"Ike Smith Steal.",63,32,31,0.997328326905197,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+243,2,"15:56",956,956,"Ike Smith made Layup.",65,32,33,0.99817589119957,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+244,2,"15:56",956,956,"Foul on Chris Melton.",65,32,33,0.99817589119957,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+245,2,"15:56",956,956,"Official TV Timeout",65,32,33,0.99817589119957,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+246,2,"15:56",956,956,"Ike Smith missed Free Throw.",65,32,33,0.99817589119957,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+247,2,"15:56",956,956,"Joseph Adeyemo Defensive Rebound.",65,32,33,0.99817589119957,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+248,2,"15:41",941,941,"Foul on David-Lee Jones Jr..",65,32,33,0.998430163123052,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+249,2,"15:34",934,934,"Shawn Duhon missed Three Point Jumper.",65,32,33,0.99829106787254,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+250,2,"15:34",934,934,"David-Lee Jones Jr. Defensive Rebound.",65,32,33,0.99829106787254,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+251,2,"15:24",924,924,"Ike Smith made Dunk. Assisted by David-Lee Jones Jr..",67,32,35,0.998813404652339,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+252,2,"15:01",901,901,"Korey Williams missed Jumper.",67,32,35,0.998833164868763,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+253,2,"15:01",901,901,"Joseph Adeyemo Offensive Rebound.",67,32,35,0.998833164868763,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+254,2,"14:57",897,897,"Joseph Adeyemo Turnover.",67,32,35,0.998995897979778,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+255,2,"14:54",894,894,"Montae Glenn Steal.",67,32,35,0.998995897979778,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+256,2,"14:49",889,889,"Ike Smith made Three Point Jumper.",70,32,38,0.998690566175874,"Georgia Southern","Bluefield State",4,3,0,0,NA,400990366,2017-11-16
+257,2,"14:39",879,879,"Bluefield St  Timeout",70,32,38,0.999385138079356,"Georgia Southern","Bluefield State",4,2,0,1,NA,400990366,2017-11-16
+258,2,"14:18",858,858,"Shawn Duhon missed Layup.",70,32,38,0.999635918711593,"Georgia Southern","Bluefield State",4,2,0,1,NA,400990366,2017-11-16
+259,2,"14:18",858,858,"Joseph Adeyemo Offensive Rebound.",70,32,38,0.999635918711593,"Georgia Southern","Bluefield State",4,2,0,1,NA,400990366,2017-11-16
+260,2,"14:13",853,853,"Joseph Adeyemo missed Layup.",70,32,38,0.999635918711593,"Georgia Southern","Bluefield State",4,2,0,1,NA,400990366,2017-11-16
+261,2,"14:13",853,853,"David-Lee Jones Jr. Defensive Rebound.",70,32,38,0.999635918711593,"Georgia Southern","Bluefield State",4,2,0,1,NA,400990366,2017-11-16
+262,2,"14:09",849,849,"David-Lee Jones Jr. Turnover.",70,32,38,0.999702546807251,"Georgia Southern","Bluefield State",4,2,0,1,NA,400990366,2017-11-16
+263,2,"13:49",829,829,"Foul on Ike Smith.",70,32,38,0.999254348267202,"Georgia Southern","Bluefield State",4,2,0,1,NA,400990366,2017-11-16
+264,2,"13:49",829,829,"Chris Melton made Free Throw.",70,33,37,0.999100013184498,"Georgia Southern","Bluefield State",4,2,0,1,NA,400990366,2017-11-16
+265,2,"13:49",829,829,"Chris Melton made Free Throw.",70,34,36,0.998913768533147,"Georgia Southern","Bluefield State",4,2,0,1,NA,400990366,2017-11-16
+266,2,"13:39",819,819,"Foul on Chris Melton.",70,34,36,0.999120347562646,"Georgia Southern","Bluefield State",4,2,0,1,NA,400990366,2017-11-16
+267,2,"13:30",810,810,"Jared Hamilton missed Jumper.",70,34,36,0.999120347562646,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+268,2,"13:30",810,810,"Shawn O'Connell Offensive Rebound.",70,34,36,0.999120347562646,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+269,2,"13:28",808,808,"Foul on Chris Melton.",70,34,36,0.999409247517895,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+270,2,"13:27",807,807,"Foul on Greg Purnell.",70,34,36,0.999409247517895,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+271,2,"13:27",807,807,"Shawn O'Connell missed Free Throw.",70,34,36,0.999409247517895,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+272,2,"13:27",807,807,"Georgia Southern Deadball Team Rebound.",70,34,36,0.999409247517895,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+273,2,"13:27",807,807,"Shawn O'Connell made Free Throw.",71,34,37,0.999517852333518,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+274,2,"13:19",799,799,"Brandon Avant made Layup.",71,36,35,0.999556549763356,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+275,2,"13:09",789,789,"Coye Simmons Turnover.",71,36,35,0.999297567677236,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+276,2,"13:09",789,789,"Foul on Coye Simmons.",71,36,35,0.999297567677236,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+277,2,"12:54",774,774,"Korey Williams missed Jumper.",71,36,35,0.999397889494975,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+278,2,"12:54",774,774,"Jared Hamilton Defensive Rebound.",71,36,35,0.999397889494975,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+279,2,"12:47",767,767,"Shawn O'Connell made Dunk. Assisted by Jared Hamilton.",73,36,37,0.999700059188404,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+280,2,"12:33",753,753,"Foul on Coye Simmons.",73,36,37,0.99968996477027,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+281,2,"12:33",753,753,"Rob Brown made Free Throw.",73,37,36,0.999614771512634,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+282,2,"12:33",753,753,"Rob Brown made Free Throw.",73,38,35,0.999521350265678,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+283,2,"12:15",735,735,"Jared Hamilton missed Jumper.",73,38,35,0.999469648988199,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+284,2,"12:15",735,735,"Shawn O'Connell Offensive Rebound.",73,38,35,0.999469648988199,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+285,2,"12:11",731,731,"Foul on Joseph Adeyemo.",73,38,35,0.999469648988199,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+286,2,"12:11",731,731,"Shawn O'Connell made Free Throw.",74,38,36,0.999571189506049,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+287,2,"12:11",731,731,"Shawn O'Connell missed Free Throw.",74,38,36,0.999571189506049,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+288,2,"12:11",731,731,"Coye Simmons Offensive Rebound.",74,38,36,0.999571189506049,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+289,2,"12:08",728,728,"Coye Simmons missed Jumper.",74,38,36,0.999687262808819,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+290,2,"12:08",728,728,"Shawn O'Connell Offensive Rebound.",74,38,36,0.999687262808819,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+291,2,"12:05",725,725,"Shawn O'Connell made Dunk.",76,38,38,0.999798596098642,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+292,2,"11:58",718,718,"Korey Williams Turnover.",76,38,38,0.999744252653611,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+293,2,"11:58",718,718,"Official TV Timeout",76,38,38,0.999744252653611,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+294,2,"11:49",709,709,"Shawn O'Connell Turnover.",76,38,38,0.999726174842638,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+295,2,"11:40",700,700,"Rob Brown missed Jumper.",76,38,38,0.999726174842638,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+296,2,"11:40",700,700,"Shawn O'Connell Block.",76,38,38,0.999726174842638,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+297,2,"11:37",697,697,"Joseph Adeyemo Offensive Rebound.",76,38,38,0.999886064747264,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+298,2,"11:27",687,687,"Joseph Adeyemo missed Jumper.",76,38,38,0.99979957557428,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+299,2,"11:27",687,687,"Shawn O'Connell Block.",76,38,38,0.99979957557428,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+300,2,"11:25",685,685,"Joseph Adeyemo Offensive Rebound.",76,38,38,0.99979957557428,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+301,2,"11:20",680,680,"Joseph Adeyemo missed Jumper.",76,38,38,0.99979957557428,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+302,2,"11:20",680,680,"David-Lee Jones Jr. Defensive Rebound.",76,38,38,0.99979957557428,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+303,2,"11:16",676,676,"Jake Allsmiller missed Three Point Jumper.",76,38,38,0.999856994337687,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+304,2,"11:16",676,676,"Shawn O'Connell Offensive Rebound.",76,38,38,0.999856994337687,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+305,2,"11:16",676,676,"David-Lee Jones Jr. missed Jumper.",76,38,38,0.999856994337687,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+306,2,"11:16",676,676,"Montae Glenn Offensive Rebound.",76,38,38,0.999856994337687,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+307,2,"11:14",674,674,"Shawn O'Connell missed Layup.",76,38,38,0.999856994337687,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+308,2,"11:14",674,674,"Georgia Southern Offensive Rebound.",76,38,38,0.999856994337687,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+309,2,"11:10",670,670,"Montae Glenn missed Jumper.",76,38,38,0.999856994337687,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+310,2,"11:10",670,670,"Georgia Southern Offensive Rebound.",76,38,38,0.999856994337687,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+311,2,"11:08",668,668,"Foul on Greg Purnell.",76,38,38,0.999839811115503,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+312,2,"11:08",668,668,"Shawn O'Connell made Free Throw.",77,38,39,0.999872236670878,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+313,2,"11:08",668,668,"Shawn O'Connell missed Free Throw.",77,38,39,0.999872236670878,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+314,2,"11:08",668,668,"Rob Brown Defensive Rebound.",77,38,39,0.999872236670878,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+315,2,"10:48",648,648,"Korey Williams missed Jumper.",77,38,39,0.999920695639665,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+316,2,"10:48",648,648,"Tookie Brown Block.",77,38,39,0.999920695639665,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+317,2,"10:48",648,648,"Bluefield St Offensive Rebound.",77,38,39,0.999920695639665,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+318,2,"10:41",641,641,"Korey Williams missed Three Point Jumper.",77,38,39,0.999920695639665,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+319,2,"10:41",641,641,"Georgia Southern Defensive Rebound.",77,38,39,0.999920695639665,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+320,2,"10:25",625,625,"Mike Hughes missed Three Point Jumper.",77,38,39,0.999947401338777,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+321,2,"10:25",625,625,"Joseph Adeyemo Defensive Rebound.",77,38,39,0.999947401338777,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+322,2,"10:15",615,615,"Korey Williams made Three Point Jumper.",77,41,36,0.999881567227772,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+323,2,"10:01",601,601,"Tookie Brown missed Layup.",77,41,36,0.999860384943129,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+324,2,"10:01",601,601,"Joseph Adeyemo Defensive Rebound.",77,41,36,0.999860384943129,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+325,2,"9:55",595,595,"Korey Williams missed Three Point Jumper.",77,41,36,0.999832443405384,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+326,2,"9:55",595,595,"Montae Glenn Defensive Rebound.",77,41,36,0.999832443405384,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+327,2,"9:45",585,585,"Mike Hughes missed Three Point Jumper.",77,41,36,0.999843049371601,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+328,2,"9:45",585,585,"Shawn O'Connell Offensive Rebound.",77,41,36,0.999843049371601,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+329,2,"9:41",581,581,"Jake Allsmiller missed Three Point Jumper.",77,41,36,0.999843049371601,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+330,2,"9:41",581,581,"Montae Glenn Offensive Rebound.",77,41,36,0.999843049371601,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+331,2,"9:38",578,578,"Foul on Wayne Brookman.",77,41,36,0.999907481244783,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+332,2,"9:38",578,578,"Jake Allsmiller made Free Throw.",78,41,37,0.999928177415789,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+333,2,"9:38",578,578,"Jake Allsmiller made Free Throw.",79,41,38,0.999944244172909,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+334,2,"9:38",578,578,"Technical Foul on Korey Williams.",77,41,36,0.999907481244783,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+335,2,"9:38",578,578,"Montae Glenn made Free Throw.",80,41,39,0.999956716941964,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+336,2,"9:38",578,578,"Montae Glenn made Free Throw.",81,41,40,0.999966399603715,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+337,2,"9:26",566,566,"Joseph Adeyemo made Jumper. Assisted by Chris Melton.",81,43,38,0.999949733399202,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+338,2,"9:18",558,558,"Jake Allsmiller missed Three Point Jumper.",81,43,38,0.999950385907043,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+339,2,"9:18",558,558,"Rob Brown Defensive Rebound.",81,43,38,0.999950385907043,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+340,2,"9:05",545,545,"Brandon Avant missed Three Point Jumper.",81,43,38,0.99996201872925,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+341,2,"9:05",545,545,"Mike Hughes Defensive Rebound.",81,43,38,0.99996201872925,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+342,2,"8:53",533,533,"Mike Hughes made Three Point Jumper. Assisted by Tookie Brown.",84,43,41,0.999991728842395,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+343,2,"8:42",522,522,"Rob Brown Turnover.",84,43,41,0.999987543520365,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+344,2,"8:30",510,510,"Jake Allsmiller missed Three Point Jumper.",84,43,41,0.999985631839153,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+345,2,"8:30",510,510,"Bluefield St Defensive Rebound.",84,43,41,0.999985631839153,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+346,2,"8:20",500,500,"Foul on Tookie Brown.",84,43,41,0.999987145965264,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+347,2,"8:20",500,500,"Brandon Avant missed Free Throw.",84,43,41,0.999987145965264,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+348,2,"8:20",500,500,"Ike Smith Defensive Rebound.",84,43,41,0.999987145965264,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+349,2,"8:19",499,499,"Foul on Loris Lawson.",84,43,41,0.9999879730508,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+350,2,"8:19",499,499,"Ike Smith made Free Throw.",85,43,42,0.999990837540474,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+351,2,"8:19",499,499,"Ike Smith made Free Throw.",86,43,43,0.999993019791977,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+352,2,"8:05",485,485,"Wayne Brookman Turnover.",86,43,43,0.999992676691649,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+353,2,"8:04",484,484,"Tookie Brown Steal.",86,43,43,0.999992676691649,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+354,2,"8:02",482,482,"Foul on Chris Melton.",86,43,43,0.999992676691649,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+355,2,"8:02",482,482,"Tookie Brown missed Free Throw.",86,43,43,0.999992676691649,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+356,2,"8:02",482,482,"Georgia Southern Deadball Team Rebound.",86,43,43,0.999992676691649,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+357,2,"8:02",482,482,"Tookie Brown missed Free Throw.",86,43,43,0.999992676691649,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+358,2,"8:02",482,482,"Loris Lawson Defensive Rebound.",86,43,43,0.999992676691649,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+359,2,"7:54",474,474,"James Moreland missed Three Point Jumper.",86,43,43,0.999996501629213,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+360,2,"7:54",474,474,"Tookie Brown Block.",86,43,43,0.999996501629213,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+361,2,"7:53",473,473,"Wayne Brookman Offensive Rebound.",86,43,43,0.999996501629213,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+362,2,"7:53",473,473,"Wayne Brookman Turnover.",86,43,43,0.999996501629213,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+363,2,"7:53",473,473,"Official TV Timeout",86,43,43,0.999996501629213,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+364,2,"7:36",456,456,"Foul on James Moreland.",86,43,43,0.999998844136249,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+365,2,"7:36",456,456,"Jared Hamilton made Free Throw.",87,43,44,0.99999915818001,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+366,2,"7:36",456,456,"Georgia Southern  Turnover.",87,43,44,0.99999915818001,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+367,2,"7:29",449,449,"James Moreland Turnover.",87,43,44,0.999995142682605,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+368,2,"7:28",448,448,"Quan Jackson Steal.",87,43,44,0.999995142682605,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+369,2,"7:28",448,448,"Quan Jackson made Layup.",89,43,46,0.999997202700143,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+370,2,"7:28",448,448,"Foul on Luke Phillips.",89,43,46,0.999997202700143,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+371,2,"7:28",448,448,"Quan Jackson missed Free Throw.",89,43,46,0.999997202700143,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+372,2,"7:28",448,448,"James Moreland Defensive Rebound.",89,43,46,0.999997202700143,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+373,2,"7:17",437,437,"Loris Lawson Turnover.",89,43,46,0.999999355582246,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+374,2,"7:16",436,436,"Quan Jackson Steal.",89,43,46,0.999999355582246,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+375,2,"7:13",433,433,"Jared Hamilton made Dunk. Assisted by Quan Jackson.",91,43,48,0.999999651678549,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+376,2,"7:08",428,428,"Brandon Avant missed Three Point Jumper.",91,43,48,0.999999370168471,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+377,2,"7:08",428,428,"Shawn O'Connell Defensive Rebound.",91,43,48,0.999999370168471,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+378,2,"6:56",416,416,"David-Lee Jones Jr. missed Three Point Jumper.",91,43,48,0.999999494911101,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+379,2,"6:56",416,416,"Coye Simmons Offensive Rebound.",91,43,48,0.999999494911101,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+380,2,"6:51",411,411,"Coye Simmons Turnover.",91,43,48,0.999999494911101,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+381,2,"6:38",398,398,"Brandon Avant made Jumper.",91,45,46,0.99999948474805,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+382,2,"6:23",383,383,"Foul on James Moreland.",91,45,46,0.999998921305247,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+383,2,"6:23",383,383,"Quan Jackson made Free Throw.",92,45,47,0.999999198838375,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+384,2,"6:23",383,383,"Quan Jackson made Free Throw.",93,45,48,0.99999940496614,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+385,2,"6:23",383,383,"Quan Jackson missed Free Throw.",93,45,48,0.99999940496614,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+386,2,"6:23",383,383,"Quan Jackson Offensive Rebound.",93,45,48,0.99999940496614,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+387,2,"6:20",380,380,"Quan Jackson made Dunk.",95,45,50,0.999999671765143,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+388,2,"6:02",362,362,"Brandon Avant Turnover.",95,45,50,0.999999908841211,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+389,2,"6:00",360,360,"Shawn O'Connell Steal.",95,45,50,0.999999908841211,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+390,2,"5:57",357,357,"David-Lee Jones Jr. made Dunk.",97,45,52,0.999999976875272,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+391,2,"5:43",343,343,"Wayne Brookman missed Layup.",97,45,52,0.999999969885565,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+392,2,"5:43",343,343,"Loris Lawson Offensive Rebound.",97,45,52,0.999999969885565,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+393,2,"5:39",339,339,"Loris Lawson missed Layup.",97,45,52,0.999999991207204,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+394,2,"5:39",339,339,"Coye Simmons Defensive Rebound.",97,45,52,0.999999991207204,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+395,2,"5:39",339,339,"Foul on Loris Lawson.",97,45,52,0.999999991207204,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+396,2,"5:39",339,339,"Coye Simmons missed Free Throw.",97,45,52,0.999999991207204,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+397,2,"5:39",339,339,"Georgia Southern Deadball Team Rebound.",97,45,52,0.999999991207204,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+398,2,"5:39",339,339,"Coye Simmons made Free Throw.",98,45,53,0.999999993831627,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+399,2,"5:33",333,333,"Luke Phillips missed Jumper.",98,45,53,0.999999993831627,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+400,2,"5:33",333,333,"Coye Simmons Defensive Rebound.",98,45,53,0.999999993831627,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+401,2,"5:21",321,321,"Quan Jackson made Layup.",100,45,55,0.99999996774439,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+402,2,"5:21",321,321,"Foul on Wayne Brookman.",100,45,55,0.99999996774439,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+403,2,"5:21",321,321,"Quan Jackson made Free Throw.",101,45,56,0.999999976434625,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+404,2,"5:13",313,313,"Brandon Avant missed Jumper.",101,45,56,0.999999998892034,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+405,2,"5:13",313,313,"David-Lee Jones Jr. Defensive Rebound.",101,45,56,0.999999998892034,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+406,2,"5:07",307,307,"Jared Hamilton made Jumper.",103,45,58,0.999999997276998,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+407,2,"5:07",307,307,"Foul on Luke Phillips.",103,45,58,0.999999997276998,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+408,2,"5:07",307,307,"Jared Hamilton made Free Throw.",104,45,59,0.999999998059217,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+409,2,"4:51",291,291,"Tanner Sims Turnover.",104,45,59,0.999999998395244,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+410,2,"4:37",277,277,"Coye Simmons missed Jumper.",104,45,59,0.999999999884347,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+411,2,"4:37",277,277,"Jared Hamilton Offensive Rebound.",104,45,59,0.999999999884347,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+412,2,"4:34",274,274,"Foul on Wayne Brookman.",104,45,59,0.999999999884347,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+413,2,"4:34",274,274,"Jared Hamilton missed Free Throw.",104,45,59,0.999999999884347,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+414,2,"4:34",274,274,"Georgia Southern Deadball Team Rebound.",104,45,59,0.999999999884347,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+415,2,"4:34",274,274,"Jared Hamilton made Free Throw.",105,45,60,0.999999999921571,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+416,2,"4:29",269,269,"Luke Phillips missed Three Point Jumper.",105,45,60,0.999999999825174,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+417,2,"4:29",269,269,"Jared Hamilton Defensive Rebound.",105,45,60,0.999999999825174,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+418,2,"4:22",262,262,"David-Lee Jones Jr. made Layup. Assisted by Jared Hamilton.",107,45,62,0.999999999917129,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+419,2,"4:13",253,253,"Brandon Avant Turnover.",107,45,62,0.999999999995994,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+420,2,"4:12",252,252,"David-Lee Jones Jr. Steal.",107,45,62,0.999999999995994,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+421,2,"4:09",249,249,"Jared Hamilton missed Layup.",107,45,62,0.999999999987614,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+422,2,"4:09",249,249,"Loris Lawson Block.",107,45,62,0.999999999987614,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+423,2,"4:06",246,246,"Brandon Avant Defensive Rebound.",107,45,62,0.999999999987614,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+424,2,"4:03",243,243,"Brandon Avant Turnover.",107,45,62,0.999999999987614,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+425,2,"4:01",241,241,"Quan Jackson Steal.",107,45,62,0.999999999987614,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+426,2,"3:51",231,231,"Shawn O'Connell missed Layup.",107,45,62,0.999999999989343,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+427,2,"3:51",231,231,"Loris Lawson Defensive Rebound.",107,45,62,0.999999999989343,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+428,2,"3:42",222,222,"Luke Phillips missed Jumper.",107,45,62,0.999999999996382,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+429,2,"3:42",222,222,"Coye Simmons Defensive Rebound.",107,45,62,0.999999999996382,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+430,2,"3:26",206,206,"Quan Jackson missed Three Point Jumper.",107,45,62,0.999999999999396,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+431,2,"3:26",206,206,"Coye Simmons Offensive Rebound.",107,45,62,0.999999999999396,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+432,2,"3:19",199,199,"Jared Hamilton missed Jumper.",107,45,62,0.999999999999758,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+433,2,"3:19",199,199,"Coye Simmons Offensive Rebound.",107,45,62,0.999999999999758,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+434,2,"3:16",196,196,"Foul on Loris Lawson.",107,45,62,0.999999999999758,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+435,2,"3:16",196,196,"Official TV Timeout",107,45,62,0.999999999999758,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+436,2,"3:16",196,196,"Coye Simmons made Free Throw.",108,45,63,0.999999999999849,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+437,2,"3:16",196,196,"Coye Simmons made Free Throw.",109,45,64,0.999999999999905,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+438,2,"2:59",179,179,"Timeyin Amatossero-Keke made Layup. Assisted by Tanner Sims.",109,47,62,0.999999999999951,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+439,2,"2:49",169,169,"Quan Jackson Turnover.",109,47,62,0.999999999999987,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+440,2,"2:32",152,152,"Brandon Avant missed Jumper.",109,47,62,0.999999999999997,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+441,2,"2:32",152,152,"Coye Simmons Defensive Rebound.",109,47,62,0.999999999999997,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+442,2,"2:20",140,140,"DeDe Reynolds missed Three Point Jumper.",109,47,62,0.999999999999988,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+443,2,"2:20",140,140,"Brandon Avant Defensive Rebound.",109,47,62,0.999999999999988,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+444,2,"2:17",137,137,"Foul on Coye Simmons.",109,47,62,0.999999999999999,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+445,2,"2:17",137,137,"Brandon Avant missed Free Throw.",109,47,62,0.999999999999999,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+446,2,"2:17",137,137,"Coye Simmons Defensive Rebound.",109,47,62,0.999999999999999,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+447,2,"2:05",125,125,"Shawn O'Connell made Jumper.",111,47,64,1,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+448,2,"1:53",113,113,"Wayne Brookman Turnover.",111,47,64,1,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+449,2,"1:52",112,112,"Quan Jackson Steal.",111,47,64,1,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+450,2,"1:50",110,110,"Quan Jackson made Dunk.",113,47,66,1,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+451,2,"1:36",96,96,"Wayne Brookman missed Jumper.",113,47,66,1,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+452,2,"1:36",96,96,"Shawn O'Connell Defensive Rebound.",113,47,66,1,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+453,2,"1:28",88,88,"David-Lee Jones Jr. made Three Point Jumper.",116,47,69,1,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+454,2,"1:17",77,77,"Foul on Quan Jackson.",116,47,69,1,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+455,2,"1:17",77,77,"Luke Phillips made Free Throw.",116,48,68,1,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+456,2,"1:17",77,77,"Luke Phillips missed Free Throw.",116,48,68,1,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+457,2,"1:17",77,77,"Coye Simmons Defensive Rebound.",116,48,68,1,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+458,2,"1:08",68,68,"DeDe Reynolds missed Jumper.",116,48,68,1,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+459,2,"1:08",68,68,"DeDe Reynolds Offensive Rebound.",116,48,68,1,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+460,2,"0:59",59,59,"Quan Jackson made Layup.",118,48,70,1,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+461,2,"0:55",55,55,"Foul on David-Lee Jones Jr..",118,48,70,1,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+462,2,"0:51",51,51,"Luke Phillips made Free Throw.",118,49,69,1,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+463,2,"0:51",51,51,"Luke Phillips made Free Throw.",118,50,68,1,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+464,2,"0:44",44,44,"Tione Jones missed Three Point Jumper.",118,50,68,1,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+465,2,"0:44",44,44,"DeDe Reynolds Offensive Rebound.",118,50,68,1,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+466,2,"0:40",40,40,"DeDe Reynolds made Layup.",120,50,70,1,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+467,2,"0:25",25,25,"Foul on Tione Jones.",120,50,70,1,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+468,2,"0:25",25,25,"Tanner Sims made Free Throw.",120,51,69,1,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+469,2,"0:25",25,25,"Tanner Sims made Free Throw.",120,52,68,1,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+470,2,"0:00",0,0,"Coye Simmons missed Three Point Jumper.",120,52,68,NA,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+471,2,"0:00",0,0,"Luke Phillips Defensive Rebound.",120,52,68,NA,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16
+472,2,"0:00",0,0,"End of Game",120,52,68,NA,"Georgia Southern","Bluefield State",4,2,0,0,NA,400990366,2017-11-16

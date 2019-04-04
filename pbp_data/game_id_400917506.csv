@@ -1,0 +1,408 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.866754527626063,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+2,1,"19:50",2390,2390,"Foul on Idris Taqqee.",0,0,0,0.866754527626063,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+3,1,"19:50",2390,2390,"Marquis Wright missed Free Throw.",0,0,0,0.866754527626063,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+4,1,"19:50",2390,2390,"Siena Deadball Team Rebound.",0,0,0,0.866754527626063,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+5,1,"19:50",2390,2390,"Marquis Wright missed Free Throw.",0,0,0,0.866754527626063,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+6,1,"19:50",2390,2390,"Matt Mobley Defensive Rebound.",0,0,0,0.866754527626063,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+7,1,"19:34",2374,2374,"Denzel Gregg made Dunk. Assisted by Jaylen Adams.",2,0,2,0.88058728486493,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+8,1,"19:07",2347,2347,"Ahsante Shivers Turnover.",2,0,2,0.871726496102311,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+9,1,"18:54",2334,2334,"Jaylen Adams Turnover.",2,0,2,0.877009915998431,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+10,1,"18:53",2333,2333,"Ahsante Shivers Steal.",2,0,2,0.877009915998431,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+11,1,"18:50",2330,2330,"Ahsante Shivers made Layup.",2,2,0,0.855283950397381,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+12,1,"18:30",2310,2310,"Idris Taqqee missed Jumper.",2,2,0,0.841979389389534,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+13,1,"18:30",2310,2310,"Lavon Long Defensive Rebound.",2,2,0,0.841979389389534,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+14,1,"18:20",2300,2300,"Brett Bisping Turnover.",2,2,0,0.844270197835093,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+15,1,"17:59",2279,2279,"Idris Taqqee missed Three Point Jumper.",2,2,0,0.853246885948338,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+16,1,"17:59",2279,2279,"Javion Ogunyemi Defensive Rebound.",2,2,0,0.853246885948338,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+17,1,"17:42",2262,2262,"Lavon Long made Layup. Assisted by Javion Ogunyemi.",2,4,-2,0.825415958400738,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+18,1,"17:27",2247,2247,"Matt Mobley missed Layup.",2,4,-2,0.81332748762707,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+19,1,"17:27",2247,2247,"Denzel Gregg Offensive Rebound.",2,4,-2,0.81332748762707,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+20,1,"17:23",2243,2243,"Josh Ayeni made Jumper. Assisted by Denzel Gregg.",4,4,0,0.840231665973242,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+21,1,"17:05",2225,2225,"Javion Ogunyemi missed Jumper.",4,4,0,0.852015359061759,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+22,1,"17:05",2225,2225,"Matt Mobley Defensive Rebound.",4,4,0,0.852015359061759,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+23,1,"16:57",2217,2217,"Foul on Brett Bisping.",4,4,0,0.846103735224418,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+24,1,"16:57",2217,2217,"Josh Ayeni made Free Throw.",5,4,1,0.862384368889009,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+25,1,"16:57",2217,2217,"Josh Ayeni made Free Throw.",6,4,2,0.87719266557098,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+26,1,"16:46",2206,2206,"Ahsante Shivers missed Dunk.",6,4,2,0.874714551678808,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+27,1,"16:46",2206,2206,"Denzel Gregg Block.",6,4,2,0.874714551678808,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+28,1,"16:43",2203,2203,"Matt Mobley Defensive Rebound.",6,4,2,0.874714551678808,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+29,1,"16:40",2200,2200,"Matt Mobley missed Layup.",6,4,2,0.874714551678808,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+30,1,"16:40",2200,2200,"Josh Ayeni Offensive Rebound.",6,4,2,0.874714551678808,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+31,1,"16:36",2196,2196,"Josh Ayeni missed Jumper.",6,4,2,0.882564960121602,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+32,1,"16:36",2196,2196,"Javion Ogunyemi Defensive Rebound.",6,4,2,0.882564960121602,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+33,1,"16:18",2178,2178,"Ahsante Shivers Turnover.",6,4,2,0.870381381929029,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+34,1,"15:56",2156,2156,"Matt Mobley made Layup.",8,4,4,0.895944443671156,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+35,1,"15:37",2137,2137,"Sammy Friday Turnover.",8,4,4,0.898858222422435,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+36,1,"15:35",2135,2135,"Jaylen Adams Steal.",8,4,4,0.898858222422435,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+37,1,"15:27",2127,2127,"Foul on Ahsante Shivers.",8,4,4,0.893978374859632,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+38,1,"15:27",2127,2127,"Official TV Timeout",8,4,4,0.893978374859632,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+39,1,"15:27",2127,2127,"Matt Mobley made Free Throw.",9,4,5,0.904361330366719,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+40,1,"15:27",2127,2127,"Matt Mobley made Free Throw.",10,4,6,0.913825474349342,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+41,1,"15:01",2101,2101,"Lavon Long made Layup. Assisted by Brett Bisping.",10,6,4,0.89148472425032,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+42,1,"14:37",2077,2077,"Denzel Gregg missed Jumper.",10,6,4,0.893375134024073,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+43,1,"14:37",2077,2077,"Javion Ogunyemi Defensive Rebound.",10,6,4,0.893375134024073,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+44,1,"14:29",2069,2069,"Marquis Wright made Layup. Assisted by Nico Clareth.",10,8,2,0.867139676845432,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+45,1,"14:20",2060,2060,"Matt Mobley made Three Point Jumper. Assisted by Denzel Gregg.",13,8,5,0.903538100839146,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+46,1,"14:02",2042,2042,"Marquis Wright missed Jumper.",13,8,5,0.896063790778833,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+47,1,"14:02",2042,2042,"Amadi Ikpeze Defensive Rebound.",13,8,5,0.896063790778833,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+48,1,"13:56",2036,2036,"Matt Mobley missed Three Point Jumper.",13,8,5,0.911058123168643,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+49,1,"13:56",2036,2036,"Siena Defensive Rebound.",13,8,5,0.911058123168643,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+50,1,"13:28",2008,2008,"Javion Ogunyemi made Layup. Assisted by Lavon Long.",13,10,3,0.876455350807772,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+51,1,"13:09",1989,1989,"David Andoh missed Jumper.",13,10,3,0.872572363965502,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+52,1,"13:09",1989,1989,"Javion Ogunyemi Defensive Rebound.",13,10,3,0.872572363965502,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+53,1,"13:01",1981,1981,"Lavon Long missed Layup.",13,10,3,0.872572363965502,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+54,1,"13:01",1981,1981,"Denzel Gregg Block.",13,10,3,0.872572363965502,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+55,1,"13:01",1981,1981,"Siena Offensive Rebound.",13,10,3,0.872572363965502,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+56,1,"12:57",1977,1977,"Lavon Long missed Jumper.",13,10,3,0.8897951383338,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+57,1,"12:57",1977,1977,"Sammy Friday Offensive Rebound.",13,10,3,0.8897951383338,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+58,1,"12:53",1973,1973,"Sammy Friday missed Dunk.",13,10,3,0.8897951383338,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+59,1,"12:53",1973,1973,"LaDarien Griffin Defensive Rebound.",13,10,3,0.8897951383338,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+60,1,"12:45",1965,1965,"Jaylen Adams Turnover.",13,10,3,0.877666234718409,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+61,1,"12:44",1964,1964,"Sammy Friday Steal.",13,10,3,0.877666234718409,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+62,1,"12:43",1963,1963,"Foul on LaDarien Griffin.",13,10,3,0.877666234718409,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+63,1,"12:43",1963,1963,"Sammy Friday made Free Throw.",13,11,2,0.86582445626444,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+64,1,"12:43",1963,1963,"Sammy Friday made Free Throw.",13,12,1,0.853028357815915,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+65,1,"12:30",1950,1950,"Matt Mobley Turnover.",13,12,1,0.851912693968236,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+66,1,"12:11",1931,1931,"Marquis Wright Turnover.",13,12,1,0.845394826990007,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+67,1,"12:09",1929,1929,"LaDarien Griffin Steal.",13,12,1,0.857654876646367,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+68,1,"11:59",1919,1919,"LaDarien Griffin missed Three Point Jumper.",13,12,1,0.860061960401186,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+69,1,"11:59",1919,1919,"St. Bonaventure Offensive Rebound.",13,12,1,0.860061960401186,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+70,1,"11:57",1917,1917,"Official TV Timeout",13,12,1,0.860061960401186,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+71,1,"11:56",1916,1916,"Matt Mobley missed Three Point Jumper.",13,12,1,0.860061960401186,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+72,1,"11:56",1916,1916,"Marquis Wright Defensive Rebound.",13,12,1,0.860061960401186,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+73,1,"11:49",1909,1909,"Nico Clareth made Layup. Assisted by Marquis Wright.",13,14,-1,0.821243276421594,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+74,1,"11:46",1906,1906,"Denzel Gregg Turnover.",13,14,-1,0.821243276421594,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+75,1,"11:32",1892,1892,"Marquis Wright Turnover.",13,14,-1,0.81236377879451,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+76,1,"11:31",1891,1891,"Idris Taqqee Steal.",13,14,-1,0.81236377879451,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+77,1,"11:28",1888,1888,"Idris Taqqee Turnover.",13,14,-1,0.818063238977521,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+78,1,"11:27",1887,1887,"Ahsante Shivers Steal.",13,14,-1,0.818063238977521,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+79,1,"11:21",1881,1881,"Marquis Wright missed Jumper.",13,14,-1,0.818063238977521,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+80,1,"11:21",1881,1881,"Brett Bisping Offensive Rebound.",13,14,-1,0.818063238977521,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+81,1,"11:17",1877,1877,"Brett Bisping made Jumper.",13,16,-3,0.772784976000639,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+82,1,"11:01",1861,1861,"Idris Taqqee missed Layup.",13,16,-3,0.766730239086793,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+83,1,"11:01",1861,1861,"Denzel Gregg Offensive Rebound.",13,16,-3,0.766730239086793,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+84,1,"10:59",1859,1859,"Denzel Gregg made Two Point Tip Shot.",15,16,-1,0.813696297594943,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+85,1,"10:55",1855,1855,"Javion Ogunyemi Turnover.",15,16,-1,0.813696297594943,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+86,1,"10:40",1840,1840,"Jaylen Adams made Three Point Jumper.",18,16,2,0.859087163003245,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+87,1,"10:29",1829,1829,"Nico Clareth Turnover.",18,16,2,0.874762364147863,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+88,1,"10:29",1829,1829,"Idris Taqqee Steal.",18,16,2,0.874762364147863,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+89,1,"10:12",1812,1812,"Matt Mobley made Layup.",20,16,4,0.895887318032392,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+90,1,"9:46",1786,1786,"Foul on Idris Taqqee.",20,16,4,0.880725604535843,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+91,1,"9:41",1781,1781,"Foul on Denzel Gregg.",20,16,4,0.880725604535843,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+92,1,"9:37",1777,1777,"Evan Fisher missed Three Point Jumper.",20,16,4,0.881673317969063,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+93,1,"9:37",1777,1777,"Javion Ogunyemi Offensive Rebound.",20,16,4,0.881673317969063,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+94,1,"9:32",1772,1772,"Javion Ogunyemi made Layup.",20,18,2,0.853654493063948,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+95,1,"9:21",1761,1761,"Foul on Nico Clareth.",20,18,2,0.870765358532292,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+96,1,"9:21",1761,1761,"Matt Mobley made Free Throw.",21,18,3,0.884688250158037,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+97,1,"9:21",1761,1761,"Matt Mobley made Free Throw.",22,18,4,0.897288110070155,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+98,1,"9:02",1742,1742,"Marquis Wright made Three Point Jumper. Assisted by Lavon Long.",22,21,1,0.840788428972644,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+99,1,"8:50",1730,1730,"Jaylen Adams missed Jumper.",22,21,1,0.845847234154754,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+100,1,"8:50",1730,1730,"Jaylen Adams Offensive Rebound.",22,21,1,0.845847234154754,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+101,1,"8:45",1725,1725,"Jaylen Adams made Jumper.",24,21,3,0.867618910032446,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+102,1,"8:32",1712,1712,"Marquis Wright missed Layup.",24,21,3,0.883374161001266,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+103,1,"8:32",1712,1712,"David Andoh Block.",24,21,3,0.883374161001266,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+104,1,"8:30",1710,1710,"David Andoh Defensive Rebound.",24,21,3,0.883374161001266,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+105,1,"8:23",1703,1703,"Matt Mobley missed Three Point Jumper.",24,21,3,0.869565895559033,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+106,1,"8:23",1703,1703,"Siena Defensive Rebound.",24,21,3,0.869565895559033,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+107,1,"8:08",1688,1688,"Foul on Evan Fisher.",24,21,3,0.885566850059205,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+108,1,"8:08",1688,1688,"Evan Fisher Turnover.",24,21,3,0.885566850059205,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+109,1,"7:55",1675,1675,"Jaylen Adams missed Jumper.",24,21,3,0.878464676042913,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+110,1,"7:55",1675,1675,"Josh Ayeni Offensive Rebound.",24,21,3,0.878464676042913,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+111,1,"7:48",1668,1668,"Jaylen Adams missed Layup.",24,21,3,0.873014005459669,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+112,1,"7:48",1668,1668,"Lavon Long Block.",24,21,3,0.873014005459669,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+113,1,"7:45",1665,1665,"Lavon Long Defensive Rebound.",24,21,3,0.873014005459669,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+114,1,"7:38",1658,1658,"Khalil Richard missed Three Point Jumper.",24,21,3,0.870895617963804,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+115,1,"7:38",1658,1658,"Denzel Gregg Defensive Rebound.",24,21,3,0.870895617963804,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+116,1,"7:25",1645,1645,"Foul on Lavon Long.",24,21,3,0.878152540503999,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+117,1,"7:25",1645,1645,"Official TV Timeout",24,21,3,0.878152540503999,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+118,1,"7:25",1645,1645,"David Andoh missed Free Throw.",24,21,3,0.878152540503999,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+119,1,"7:25",1645,1645,"St. Bonaventure Deadball Team Rebound.",24,21,3,0.878152540503999,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+120,1,"7:25",1645,1645,"David Andoh made Free Throw.",25,21,4,0.892286148919426,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+121,1,"7:07",1627,1627,"Brett Bisping made Three Point Jumper. Assisted by Marquis Wright.",25,24,1,0.839318978785677,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+122,1,"6:52",1612,1612,"Denzel Gregg missed Jumper.",25,24,1,0.825753942937552,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+123,1,"6:52",1612,1612,"Denzel Gregg Offensive Rebound.",25,24,1,0.825753942937552,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+124,1,"6:47",1607,1607,"David Andoh made Jumper. Assisted by Denzel Gregg.",27,24,3,0.873375671133084,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+125,1,"6:33",1593,1593,"Javion Ogunyemi missed Jumper.",27,24,3,0.870463763295875,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+126,1,"6:33",1593,1593,"Denzel Gregg Block.",27,24,3,0.870463763295875,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+127,1,"6:31",1591,1591,"Tareq Coburn Defensive Rebound.",27,24,3,0.870463763295875,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+128,1,"6:24",1584,1584,"David Andoh made Jumper. Assisted by Matt Mobley.",29,24,5,0.897018725340028,"St. Bonaventure","Siena",4,4,0,0,10,400917506,2016-11-30
+129,1,"6:16",1576,1576,"Siena  Timeout",29,24,5,0.908937425549044,"St. Bonaventure","Siena",3,4,1,0,10,400917506,2016-11-30
+130,1,"6:05",1565,1565,"Nico Clareth missed Jumper.",29,24,5,0.896597644304946,"St. Bonaventure","Siena",3,4,1,0,10,400917506,2016-11-30
+131,1,"6:05",1565,1565,"St. Bonaventure Defensive Rebound.",29,24,5,0.896597644304946,"St. Bonaventure","Siena",3,4,1,0,10,400917506,2016-11-30
+132,1,"5:50",1550,1550,"David Andoh missed Jumper.",29,24,5,0.895105129595805,"St. Bonaventure","Siena",3,4,1,0,10,400917506,2016-11-30
+133,1,"5:50",1550,1550,"Brett Bisping Defensive Rebound.",29,24,5,0.895105129595805,"St. Bonaventure","Siena",3,4,1,0,10,400917506,2016-11-30
+134,1,"5:39",1539,1539,"Marquis Wright missed Three Point Jumper.",29,24,5,0.902268181892368,"St. Bonaventure","Siena",3,4,1,0,10,400917506,2016-11-30
+135,1,"5:39",1539,1539,"Lavon Long Offensive Rebound.",29,24,5,0.902268181892368,"St. Bonaventure","Siena",3,4,1,0,10,400917506,2016-11-30
+136,1,"5:35",1535,1535,"Lavon Long missed Two Point Tip Shot.",29,24,5,0.902268181892368,"St. Bonaventure","Siena",3,4,1,0,10,400917506,2016-11-30
+137,1,"5:35",1535,1535,"Denzel Gregg Defensive Rebound.",29,24,5,0.902268181892368,"St. Bonaventure","Siena",3,4,1,0,10,400917506,2016-11-30
+138,1,"5:25",1525,1525,"Jaylen Adams missed Three Point Jumper.",29,24,5,0.897819406237054,"St. Bonaventure","Siena",3,4,1,0,10,400917506,2016-11-30
+139,1,"5:25",1525,1525,"Denzel Gregg Offensive Rebound.",29,24,5,0.897819406237054,"St. Bonaventure","Siena",3,4,1,0,10,400917506,2016-11-30
+140,1,"5:22",1522,1522,"Foul on Lavon Long.",29,24,5,0.897819406237054,"St. Bonaventure","Siena",3,4,1,0,10,400917506,2016-11-30
+141,1,"5:08",1508,1508,"Jaylen Adams missed Three Point Jumper.",29,24,5,0.899162347479471,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+142,1,"5:08",1508,1508,"David Andoh Offensive Rebound.",29,24,5,0.899162347479471,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+143,1,"4:59",1499,1499,"Matt Mobley missed Three Point Jumper.",29,24,5,0.902556840028224,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+144,1,"4:59",1499,1499,"Marquis Wright Defensive Rebound.",29,24,5,0.902556840028224,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+145,1,"4:54",1494,1494,"Marquis Wright Turnover.",29,24,5,0.902556840028224,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+146,1,"4:49",1489,1489,"Jaylen Adams made Jumper.",31,24,7,0.923678241379186,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+147,1,"4:35",1475,1475,"Ahsante Shivers missed Layup.",31,24,7,0.934089762855774,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+148,1,"4:35",1475,1475,"Brett Bisping Offensive Rebound.",31,24,7,0.934089762855774,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+149,1,"4:31",1471,1471,"Josh Ayeni Block.",31,24,7,0.934089762855774,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+150,1,"4:31",1471,1471,"Brett Bisping missed Layup.",31,24,7,0.934089762855774,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+151,1,"4:31",1471,1471,"Brett Bisping Offensive Rebound.",31,24,7,0.934089762855774,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+152,1,"4:30",1470,1470,"Brett Bisping made Free Throw.",31,25,6,0.924032040210611,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+153,1,"4:30",1470,1470,"Brett Bisping made Layup.",31,27,4,0.899596358709032,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+154,1,"4:30",1470,1470,"Foul on Jaylen Adams.",31,27,4,0.899596358709032,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+155,1,"4:13",1453,1453,"Jaylen Adams Turnover.",31,27,4,0.883220513363305,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+156,1,"4:00",1440,1440,"Nico Clareth missed Jumper.",31,27,4,0.894536826015464,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+157,1,"4:00",1440,1440,"Brett Bisping Offensive Rebound.",31,27,4,0.894536826015464,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+158,1,"3:56",1436,1436,"Siena  Timeout",31,27,4,0.882845639339581,"St. Bonaventure","Siena",2,4,1,0,10,400917506,2016-11-30
+159,1,"3:56",1436,1436,"Official TV Timeout",31,27,4,0.882845639339581,"St. Bonaventure","Siena",2,4,1,0,10,400917506,2016-11-30
+160,1,"3:51",1431,1431,"Foul on Josh Ayeni.",31,27,4,0.882845639339581,"St. Bonaventure","Siena",2,4,1,0,10,400917506,2016-11-30
+161,1,"3:51",1431,1431,"Javion Ogunyemi missed Free Throw.",31,27,4,0.882845639339581,"St. Bonaventure","Siena",2,4,1,0,10,400917506,2016-11-30
+162,1,"3:51",1431,1431,"Siena Deadball Team Rebound.",31,27,4,0.882845639339581,"St. Bonaventure","Siena",2,4,1,0,10,400917506,2016-11-30
+163,1,"3:51",1431,1431,"Javion Ogunyemi missed Free Throw.",31,27,4,0.882845639339581,"St. Bonaventure","Siena",2,4,1,0,10,400917506,2016-11-30
+164,1,"3:51",1431,1431,"Matt Mobley Defensive Rebound.",31,27,4,0.882845639339581,"St. Bonaventure","Siena",2,4,1,0,10,400917506,2016-11-30
+165,1,"3:40",1420,1420,"Foul on Matt Mobley.",31,27,4,0.87440891869543,"St. Bonaventure","Siena",2,4,1,0,10,400917506,2016-11-30
+166,1,"3:40",1420,1420,"Matt Mobley Turnover.",31,27,4,0.87440891869543,"St. Bonaventure","Siena",2,4,1,0,10,400917506,2016-11-30
+167,1,"3:33",1413,1413,"Marquis Wright made Jumper. Assisted by Brett Bisping.",31,29,2,0.840855221304484,"St. Bonaventure","Siena",2,4,1,0,10,400917506,2016-11-30
+168,1,"3:21",1401,1401,"Denzel Gregg made Layup.",33,29,4,0.894454637646893,"St. Bonaventure","Siena",2,4,1,0,10,400917506,2016-11-30
+169,1,"3:11",1391,1391,"Brett Bisping made Three Point Jumper. Assisted by Marquis Wright.",33,32,1,0.839062169473704,"St. Bonaventure","Siena",2,4,1,0,10,400917506,2016-11-30
+170,1,"2:52",1372,1372,"Foul on Javion Ogunyemi.",33,32,1,0.823205190358128,"St. Bonaventure","Siena",2,4,0,0,10,400917506,2016-11-30
+171,1,"2:52",1372,1372,"Denzel Gregg made Free Throw.",34,32,2,0.843244668912701,"St. Bonaventure","Siena",2,4,0,0,10,400917506,2016-11-30
+172,1,"2:52",1372,1372,"Denzel Gregg made Free Throw.",35,32,3,0.861395145846842,"St. Bonaventure","Siena",2,4,0,0,10,400917506,2016-11-30
+173,1,"2:41",1361,1361,"Foul on Josh Ayeni.",35,32,3,0.86718764013499,"St. Bonaventure","Siena",2,4,0,0,10,400917506,2016-11-30
+174,1,"2:41",1361,1361,"Javion Ogunyemi missed Free Throw.",35,32,3,0.86718764013499,"St. Bonaventure","Siena",2,4,0,0,10,400917506,2016-11-30
+175,1,"2:41",1361,1361,"Denzel Gregg Defensive Rebound.",35,32,3,0.86718764013499,"St. Bonaventure","Siena",2,4,0,0,10,400917506,2016-11-30
+176,1,"2:28",1348,1348,"David Andoh Turnover.",35,32,3,0.858575793298833,"St. Bonaventure","Siena",2,4,0,0,10,400917506,2016-11-30
+177,1,"2:16",1336,1336,"Marquis Wright missed Three Point Jumper.",35,32,3,0.857817508576324,"St. Bonaventure","Siena",2,4,0,0,10,400917506,2016-11-30
+178,1,"2:12",1332,1332,"Siena Offensive Rebound.",35,32,3,0.857817508576324,"St. Bonaventure","Siena",2,4,0,0,10,400917506,2016-11-30
+179,1,"2:00",1320,1320,"Foul on Willem Brandwijk.",35,32,3,0.8668684978616,"St. Bonaventure","Siena",2,4,0,0,10,400917506,2016-11-30
+180,1,"2:00",1320,1320,"Willem Brandwijk Turnover.",35,32,3,0.8668684978616,"St. Bonaventure","Siena",2,4,0,0,10,400917506,2016-11-30
+181,1,"1:48",1308,1308,"Jaylen Adams made Jumper.",37,32,5,0.887525949507549,"St. Bonaventure","Siena",2,4,0,0,10,400917506,2016-11-30
+182,1,"1:35",1295,1295,"Brett Bisping Turnover.",37,32,5,0.901210187401224,"St. Bonaventure","Siena",2,4,0,0,10,400917506,2016-11-30
+183,1,"1:10",1270,1270,"Denzel Gregg missed Layup.",37,32,5,0.889377544077365,"St. Bonaventure","Siena",2,4,0,0,10,400917506,2016-11-30
+184,1,"1:10",1270,1270,"David Andoh Offensive Rebound.",37,32,5,0.889377544077365,"St. Bonaventure","Siena",2,4,0,0,10,400917506,2016-11-30
+185,1,"1:08",1268,1268,"David Andoh missed Jumper.",37,32,5,0.906082024393215,"St. Bonaventure","Siena",2,4,0,0,10,400917506,2016-11-30
+186,1,"1:08",1268,1268,"Willem Brandwijk Defensive Rebound.",37,32,5,0.906082024393215,"St. Bonaventure","Siena",2,4,0,0,10,400917506,2016-11-30
+187,1,"1:04",1264,1264,"Foul on Brett Bisping.",37,32,5,0.906082024393215,"St. Bonaventure","Siena",2,4,0,0,10,400917506,2016-11-30
+188,1,"1:04",1264,1264,"Brett Bisping Turnover.",37,32,5,0.906082024393215,"St. Bonaventure","Siena",2,4,0,0,10,400917506,2016-11-30
+189,1,"0:43",1243,1243,"Denzel Gregg missed Jumper.",37,32,5,0.898046006324211,"St. Bonaventure","Siena",2,4,0,0,10,400917506,2016-11-30
+190,1,"0:43",1243,1243,"St. Bonaventure Offensive Rebound.",37,32,5,0.898046006324211,"St. Bonaventure","Siena",2,4,0,0,10,400917506,2016-11-30
+191,1,"0:40",1240,1240,"St. Bonaventure  Timeout",37,32,5,0.898046006324211,"St. Bonaventure","Siena",2,3,0,1,10,400917506,2016-11-30
+192,1,"0:18",1218,1218,"Jaylen Adams made Layup.",39,32,7,0.920989988481184,"St. Bonaventure","Siena",2,3,0,1,10,400917506,2016-11-30
+193,1,"0:03",1203,1203,"Foul on Denzel Gregg.",39,32,7,0.922312543621434,"St. Bonaventure","Siena",2,3,0,1,10,400917506,2016-11-30
+194,1,"0:03",1203,1203,"Nico Clareth made Free Throw.",39,33,6,0.910106809584333,"St. Bonaventure","Siena",2,3,0,1,10,400917506,2016-11-30
+195,1,"0:03",1203,1203,"Nico Clareth made Free Throw.",39,34,5,0.896199216017201,"St. Bonaventure","Siena",2,3,0,1,10,400917506,2016-11-30
+196,1,"0:00",1200,1200,"Jaylen Adams missed Three Point Jumper.",39,34,5,0.896199216017201,"St. Bonaventure","Siena",2,3,0,1,10,400917506,2016-11-30
+197,1,"0:00",1200,1200,"Siena Deadball Team Rebound.",39,34,5,0.896199216017201,"St. Bonaventure","Siena",2,3,0,1,10,400917506,2016-11-30
+198,1,"0:00",1200,1200,"Official TV Timeout",39,34,5,0.896199216017201,"St. Bonaventure","Siena",2,3,0,1,10,400917506,2016-11-30
+199,1,"0:00",1200,1200,"End of 1st half",39,34,5,0.896199216017201,"St. Bonaventure","Siena",2,3,0,1,10,400917506,2016-11-30
+200,2,"20:00",1200,1200,"PLAY",39,34,5,0.896199216017201,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+201,2,"19:40",1180,1180,"Denzel Gregg made Jumper.",41,34,7,0.925829294180584,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+202,2,"19:20",1160,1160,"Foul on Josh Ayeni.",41,34,7,0.922868416629918,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+203,2,"19:20",1160,1160,"Ahsante Shivers missed Free Throw.",41,34,7,0.922868416629918,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+204,2,"19:20",1160,1160,"Siena Deadball Team Rebound.",41,34,7,0.922868416629918,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+205,2,"19:20",1160,1160,"Ahsante Shivers made Free Throw.",41,35,6,0.910284454351298,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+206,2,"19:20",1160,1160,"Denzel Gregg Turnover.",41,35,6,0.910284454351298,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+207,2,"19:09",1149,1149,"Brett Bisping missed Three Point Jumper.",41,35,6,0.908125844284846,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+208,2,"19:09",1149,1149,"Matt Mobley Defensive Rebound.",41,35,6,0.908125844284846,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+209,2,"19:05",1145,1145,"Foul on Lavon Long.",41,35,6,0.908125844284846,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+210,2,"18:43",1123,1123,"Foul on Brett Bisping.",41,35,6,0.918478348380039,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+211,2,"18:41",1121,1121,"Denzel Gregg missed Jumper.",41,35,6,0.918478348380039,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+212,2,"18:41",1121,1121,"Marquis Wright Defensive Rebound.",41,35,6,0.918478348380039,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+213,2,"18:35",1115,1115,"Foul on Denzel Gregg.",41,35,6,0.909592680422501,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+214,2,"18:31",1111,1111,"Javion Ogunyemi missed Jumper.",41,35,6,0.909592680422501,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+215,2,"18:31",1111,1111,"David Andoh Defensive Rebound.",41,35,6,0.909592680422501,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+216,2,"18:23",1103,1103,"David Andoh missed Jumper.",41,35,6,0.912099374109693,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+217,2,"18:23",1103,1103,"Amadi Ikpeze Offensive Rebound.",41,35,6,0.912099374109693,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+218,2,"18:20",1100,1100,"Foul on Javion Ogunyemi.",41,35,6,0.912099374109693,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+219,2,"17:54",1074,1074,"Amadi Ikpeze missed Layup.",41,35,6,0.907816334653199,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+220,2,"17:54",1074,1074,"Ahsante Shivers Defensive Rebound.",41,35,6,0.907816334653199,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+221,2,"17:40",1060,1060,"Foul on Willem Brandwijk.",41,35,6,0.910467520701168,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+222,2,"17:40",1060,1060,"Willem Brandwijk Turnover.",41,35,6,0.910467520701168,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+223,2,"17:29",1049,1049,"David Andoh made Jumper. Assisted by Matt Mobley.",43,35,8,0.940402864001779,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+224,2,"17:15",1035,1035,"Foul on Amadi Ikpeze.",43,35,8,0.9342182821897,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+225,2,"17:07",1027,1027,"Marquis Wright missed Layup.",43,35,8,0.938899419610114,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+226,2,"17:07",1027,1027,"Brett Bisping Offensive Rebound.",43,35,8,0.938899419610114,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+227,2,"17:01",1021,1021,"Foul on David Andoh.",43,35,8,0.938899419610114,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+228,2,"17:01",1021,1021,"Brett Bisping made Free Throw.",43,36,7,0.927764366203956,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+229,2,"17:01",1021,1021,"Brett Bisping made Free Throw.",43,37,6,0.914784224462438,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+230,2,"17:00",1020,1020,"David Andoh Turnover.",43,37,6,0.914784224462438,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+231,2,"16:59",1019,1019,"Brett Bisping Steal.",43,37,6,0.903318078638977,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+232,2,"16:58",1018,1018,"Brett Bisping made Layup.",43,39,4,0.866381387158421,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+233,2,"16:53",1013,1013,"Matt Mobley made Layup.",45,39,6,0.903318078638977,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+234,2,"16:30",990,990,"Marquis Wright missed Jumper.",45,39,6,0.907301038417035,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+235,2,"16:30",990,990,"Idris Taqqee Defensive Rebound.",45,39,6,0.907301038417035,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+236,2,"16:24",984,984,"Idris Taqqee Turnover.",45,39,6,0.918151371402984,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+237,2,"16:24",984,984,"Brett Bisping Steal.",45,39,6,0.918151371402984,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+238,2,"16:20",980,980,"Ahsante Shivers missed Three Point Jumper.",45,39,6,0.918151371402984,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+239,2,"16:20",980,980,"Javion Ogunyemi Offensive Rebound.",45,39,6,0.918151371402984,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+240,2,"16:15",975,975,"Foul on Idris Taqqee.",45,39,6,0.915595573528143,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+241,2,"16:15",975,975,"Javion Ogunyemi missed Free Throw.",45,39,6,0.915595573528143,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+242,2,"16:15",975,975,"Matt Mobley Defensive Rebound.",45,39,6,0.915595573528143,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+243,2,"16:14",974,974,"Javion Ogunyemi made Jumper.",45,41,4,0.883323638246084,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+244,2,"16:01",961,961,"Matt Mobley missed Jumper.",45,41,4,0.868753194772659,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+245,2,"16:01",961,961,"Ahsante Shivers Defensive Rebound.",45,41,4,0.868753194772659,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+246,2,"15:38",938,938,"Marquis Wright missed Three Point Jumper.",45,41,4,0.877302466242465,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+247,2,"15:38",938,938,"Brett Bisping Offensive Rebound.",45,41,4,0.877302466242465,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+248,2,"15:30",930,930,"Nico Clareth made Jumper.",45,43,2,0.829820987313205,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+249,2,"15:14",914,914,"David Andoh made Jumper. Assisted by Jaylen Adams.",47,43,4,0.888761896376462,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+250,2,"14:57",897,897,"Marquis Wright missed Layup.",47,43,4,0.880640327070777,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+251,2,"14:57",897,897,"Matt Mobley Block.",47,43,4,0.880640327070777,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+252,2,"14:54",894,894,"David Andoh Defensive Rebound.",47,43,4,0.880640327070777,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+253,2,"14:44",884,884,"Idris Taqqee made Layup.",49,43,6,0.899887879056557,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+254,2,"14:25",865,865,"Nico Clareth missed Three Point Jumper.",49,43,6,0.910750031606205,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+255,2,"14:25",865,865,"Jaylen Adams Defensive Rebound.",49,43,6,0.910750031606205,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+256,2,"14:11",851,851,"Foul on Nico Clareth.",49,43,6,0.920766776246728,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+257,2,"14:11",851,851,"Official TV Timeout",49,43,6,0.920766776246728,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+258,2,"14:11",851,851,"Jaylen Adams made Free Throw.",50,43,7,0.934498216106829,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+259,2,"14:11",851,851,"Jaylen Adams made Free Throw.",51,43,8,0.945989531227685,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+260,2,"14:11",851,851,"Jaylen Adams made Free Throw.",52,43,9,0.955560734021999,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+261,2,"14:03",843,843,"Foul on Amadi Ikpeze.",52,43,9,0.954785731468134,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+262,2,"14:03",843,843,"Javion Ogunyemi missed Free Throw.",52,43,9,0.954785731468134,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+263,2,"14:03",843,843,"Siena Deadball Team Rebound.",52,43,9,0.954785731468134,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+264,2,"14:03",843,843,"Javion Ogunyemi made Free Throw.",52,44,8,0.944679673321479,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+265,2,"13:44",824,824,"Matt Mobley missed Jumper.",52,44,8,0.938487313705213,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+266,2,"13:44",824,824,"Javion Ogunyemi Defensive Rebound.",52,44,8,0.938487313705213,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+267,2,"13:36",816,816,"Nico Clareth missed Three Point Jumper.",52,44,8,0.940942329870456,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+268,2,"13:36",816,816,"Javion Ogunyemi Offensive Rebound.",52,44,8,0.940942329870456,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+269,2,"13:28",808,808,"Javion Ogunyemi Turnover.",52,44,8,0.947554051247376,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+270,2,"13:28",808,808,"Matt Mobley Steal.",52,44,8,0.947554051247376,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+271,2,"13:15",795,795,"Jaylen Adams missed Layup.",52,44,8,0.948046553443559,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+272,2,"13:15",795,795,"Brett Bisping Defensive Rebound.",52,44,8,0.948046553443559,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+273,2,"13:04",784,784,"Marquis Wright Turnover.",52,44,8,0.943144557226408,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+274,2,"13:02",782,782,"Idris Taqqee Steal.",52,44,8,0.943144557226408,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+275,2,"12:58",778,778,"Matt Mobley made Dunk. Assisted by Idris Taqqee.",54,44,10,0.963299698826165,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+276,2,"12:51",771,771,"Foul on Jaylen Adams.",54,44,10,0.963299698826165,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+277,2,"12:51",771,771,"Marquis Wright made Free Throw.",54,45,9,0.955102304039825,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+278,2,"12:51",771,771,"Marquis Wright made Free Throw.",54,46,8,0.945178137300252,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+279,2,"12:29",749,749,"Idris Taqqee missed Jumper.",54,46,8,0.948011801619663,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+280,2,"12:29",749,749,"Lavon Long Defensive Rebound.",54,46,8,0.948011801619663,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+281,2,"12:20",740,740,"Brett Bisping made Jumper.",54,48,6,0.921102990283087,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+282,2,"12:20",740,740,"Foul on Jaylen Adams.",54,48,6,0.921102990283087,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+283,2,"12:20",740,740,"Brett Bisping made Free Throw.",54,49,5,0.903302302711343,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+284,2,"12:03",723,723,"Idris Taqqee missed Layup.",54,49,5,0.906001489540328,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+285,2,"12:03",723,723,"Javion Ogunyemi Block.",54,49,5,0.906001489540328,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+286,2,"12:01",721,721,"Brett Bisping Defensive Rebound.",54,49,5,0.906001489540328,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+287,2,"11:44",704,704,"Brett Bisping missed Layup.",54,49,5,0.894926184242756,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+288,2,"11:44",704,704,"David Andoh Defensive Rebound.",54,49,5,0.894926184242756,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+289,2,"11:34",694,694,"Jaylen Adams missed Jumper.",54,49,5,0.918693563982596,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+290,2,"11:34",694,694,"Brett Bisping Defensive Rebound.",54,49,5,0.918693563982596,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+291,2,"11:06",666,666,"Foul on Idris Taqqee.",54,49,5,0.903134828142657,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+292,2,"11:06",666,666,"Official TV Timeout",54,49,5,0.903134828142657,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+293,2,"11:06",666,666,"Lavon Long missed Free Throw.",54,49,5,0.903134828142657,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+294,2,"11:06",666,666,"Siena Deadball Team Rebound.",54,49,5,0.903134828142657,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+295,2,"11:06",666,666,"Lavon Long missed Free Throw.",54,49,5,0.903134828142657,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+296,2,"11:06",666,666,"Amadi Ikpeze Defensive Rebound.",54,49,5,0.903134828142657,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+297,2,"10:44",644,644,"Denzel Gregg made Jumper. Assisted by Jaylen Adams.",56,49,7,0.93980826413534,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+298,2,"10:42",642,642,"Foul on Lavon Long.",56,49,7,0.93980826413534,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+299,2,"10:42",642,642,"Denzel Gregg missed Free Throw.",56,49,7,0.93980826413534,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+300,2,"10:42",642,642,"Brett Bisping Defensive Rebound.",56,49,7,0.93980826413534,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+301,2,"10:27",627,627,"Javion Ogunyemi missed Layup.",56,49,7,0.949070245829032,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+302,2,"10:27",627,627,"Brett Bisping Offensive Rebound.",56,49,7,0.949070245829032,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+303,2,"10:22",622,622,"Brett Bisping missed Two Point Tip Shot.",56,49,7,0.949070245829032,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+304,2,"10:22",622,622,"Matt Mobley Defensive Rebound.",56,49,7,0.949070245829032,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+305,2,"10:16",616,616,"Denzel Gregg missed Jumper.",56,49,7,0.940332030558218,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+306,2,"10:16",616,616,"Siena Defensive Rebound.",56,49,7,0.940332030558218,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+307,2,"10:12",612,612,"Foul on Amadi Ikpeze.",56,49,7,0.940332030558218,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+308,2,"10:12",612,612,"Brett Bisping missed Free Throw.",56,49,7,0.940332030558218,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+309,2,"10:12",612,612,"Siena Deadball Team Rebound.",56,49,7,0.940332030558218,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+310,2,"10:12",612,612,"Brett Bisping made Free Throw.",56,50,6,0.924598932623892,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+311,2,"9:57",597,597,"Jaylen Adams made Layup.",58,50,8,0.950345889297443,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+312,2,"9:45",585,585,"Foul on Amadi Ikpeze.",58,50,8,0.94817212413864,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+313,2,"9:45",585,585,"Marquis Wright made Free Throw.",58,51,7,0.934903765057827,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+314,2,"9:45",585,585,"Marquis Wright made Free Throw.",58,52,6,0.918530460835048,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+315,2,"9:22",562,562,"Jaylen Adams made Three Point Jumper.",61,52,9,0.970423641838926,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+316,2,"8:58",538,538,"Nico Clareth missed Jumper.",61,52,9,0.974751400074981,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+317,2,"8:58",538,538,"Jaylen Adams Defensive Rebound.",61,52,9,0.974751400074981,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+318,2,"8:50",530,530,"Foul on Nico Clareth.",61,52,9,0.974751400074981,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+319,2,"8:50",530,530,"Jaylen Adams made Free Throw.",62,52,10,0.980824764597354,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+320,2,"8:50",530,530,"Jaylen Adams made Free Throw.",63,52,11,0.985459019281545,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+321,2,"8:39",519,519,"Nico Clareth made Three Point Jumper. Assisted by Marquis Wright.",63,55,8,0.955590134464617,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+322,2,"8:05",485,485,"Josh Ayeni made Layup. Assisted by Jaylen Adams.",65,55,10,0.976032383860586,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+323,2,"7:50",470,470,"Nico Clareth missed Jumper.",65,55,10,0.980302762856146,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+324,2,"7:50",470,470,"St. Bonaventure Defensive Rebound.",65,55,10,0.980302762856146,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+325,2,"7:46",466,466,"Official TV Timeout",65,55,10,0.977776049904893,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+326,2,"7:18",438,438,"Matt Mobley missed Three Point Jumper.",65,55,10,0.983625135057272,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+327,2,"7:18",438,438,"Lavon Long Defensive Rebound.",65,55,10,0.983625135057272,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+328,2,"7:09",429,429,"Foul on Matt Mobley.",65,55,10,0.978554459661568,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+329,2,"7:09",429,429,"Marquis Wright made Free Throw.",65,56,9,0.971343029754445,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+330,2,"7:09",429,429,"Marquis Wright missed Free Throw.",65,56,9,0.971343029754445,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+331,2,"7:09",429,429,"Marquis Wright Offensive Rebound.",65,56,9,0.971343029754445,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+332,2,"6:55",415,415,"Marquis Wright made Three Point Jumper. Assisted by Javion Ogunyemi.",65,59,6,0.940177283961846,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+333,2,"6:34",394,394,"Jaylen Adams made Three Point Jumper.",68,59,9,0.976844005218883,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+334,2,"6:13",373,373,"Marquis Wright made Three Point Jumper.",68,62,6,0.93905582890535,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+335,2,"5:46",346,346,"Foul on Javion Ogunyemi.",68,62,6,0.940656988015778,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+336,2,"5:46",346,346,"Matt Mobley made Free Throw.",69,62,7,0.956803808472376,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+337,2,"5:46",346,346,"Matt Mobley made Free Throw.",70,62,8,0.968703365709193,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+338,2,"5:37",337,337,"Lavon Long made Layup. Assisted by Brett Bisping.",70,64,6,0.953455822452646,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+339,2,"5:21",321,321,"Jaylen Adams missed Three Point Jumper.",70,64,6,0.942640578844343,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+340,2,"5:21",321,321,"Ahsante Shivers Defensive Rebound.",70,64,6,0.942640578844343,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+341,2,"5:11",311,311,"Marquis Wright missed Jumper.",70,64,6,0.95241995615028,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+342,2,"5:11",311,311,"Siena Offensive Rebound.",70,64,6,0.95241995615028,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+343,2,"5:06",306,306,"Nico Clareth made Jumper. Assisted by Marquis Wright.",70,66,4,0.893681489252166,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+344,2,"4:50",290,290,"Matt Mobley missed Three Point Jumper.",70,66,4,0.908617326750089,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+345,2,"4:50",290,290,"St. Bonaventure Offensive Rebound.",70,66,4,0.908617326750089,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+346,2,"4:20",260,260,"Josh Ayeni missed Jumper.",70,66,4,0.909821247056812,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+347,2,"4:20",260,260,"Jaylen Adams Offensive Rebound.",70,66,4,0.909821247056812,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+348,2,"4:15",255,255,"David Andoh missed Jumper.",70,66,4,0.920020645964314,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+349,2,"4:15",255,255,"Denzel Gregg Offensive Rebound.",70,66,4,0.920020645964314,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+350,2,"4:10",250,250,"Foul on Nico Clareth.",70,66,4,0.920020645964314,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+351,2,"4:10",250,250,"David Andoh made Free Throw.",71,66,5,0.946037852460071,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+352,2,"4:10",250,250,"David Andoh made Free Throw.",72,66,6,0.963923558048144,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+353,2,"3:58",238,238,"Foul on Josh Ayeni.",72,66,6,0.959589302396944,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+354,2,"3:58",238,238,"Official TV Timeout",72,66,6,0.959589302396944,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+355,2,"3:58",238,238,"Lavon Long made Free Throw.",72,67,5,0.940565631633478,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+356,2,"3:58",238,238,"Lavon Long missed Free Throw.",72,67,5,0.940565631633478,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+357,2,"3:58",238,238,"Denzel Gregg Defensive Rebound.",72,67,5,0.940565631633478,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+358,2,"3:45",225,225,"David Andoh Turnover.",72,67,5,0.954687175427443,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+359,2,"3:44",224,224,"Ahsante Shivers Steal.",72,67,5,0.954687175427443,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+360,2,"3:23",203,203,"Marquis Wright missed Three Point Jumper.",72,67,5,0.95929307061811,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+361,2,"3:23",203,203,"Ahsante Shivers Offensive Rebound.",72,67,5,0.95929307061811,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+362,2,"3:18",198,198,"Ahsante Shivers made Two Point Tip Shot.",72,69,3,0.876210825278344,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+363,2,"2:56",176,176,"David Andoh made Jumper. Assisted by Jaylen Adams.",74,69,5,0.96123683177829,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+364,2,"2:31",151,151,"Foul on Javion Ogunyemi.",74,69,5,0.966193633643299,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+365,2,"2:31",151,151,"Javion Ogunyemi Turnover.",74,69,5,0.966193633643299,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+366,2,"2:29",149,149,"Matt Mobley Turnover.",74,69,5,0.965618268151831,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+367,2,"2:28",148,148,"Marquis Wright Steal.",74,69,5,0.965618268151831,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+368,2,"2:26",146,146,"Marquis Wright missed Layup.",74,69,5,0.965618268151831,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+369,2,"2:26",146,146,"Matt Mobley Defensive Rebound.",74,69,5,0.965618268151831,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+370,2,"1:57",117,117,"Foul on Josh Ayeni.",74,69,5,0.975505855298577,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+371,2,"1:57",117,117,"Josh Ayeni Turnover.",74,69,5,0.975505855298577,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+372,2,"1:46",106,106,"Brett Bisping made Layup.",74,71,3,0.91422518718194,"St. Bonaventure","Siena",3,4,0,0,10,400917506,2016-11-30
+373,2,"1:22",82,82,"St. Bonaventure  Timeout",74,71,3,0.946306014042247,"St. Bonaventure","Siena",3,3,0,1,10,400917506,2016-11-30
+374,2,"1:22",82,82,"Official TV Timeout",74,71,3,0.946306014042247,"St. Bonaventure","Siena",3,3,0,1,10,400917506,2016-11-30
+375,2,"1:14",74,74,"Idris Taqqee missed Layup.",74,71,3,0.935837037573287,"St. Bonaventure","Siena",3,3,0,1,10,400917506,2016-11-30
+376,2,"1:14",74,74,"Marquis Wright Defensive Rebound.",74,71,3,0.935837037573287,"St. Bonaventure","Siena",3,3,0,1,10,400917506,2016-11-30
+377,2,"1:07",67,67,"Marquis Wright missed Layup.",74,71,3,0.920522956000889,"St. Bonaventure","Siena",3,3,0,1,10,400917506,2016-11-30
+378,2,"1:07",67,67,"Denzel Gregg Block.",74,71,3,0.920522956000889,"St. Bonaventure","Siena",3,3,0,1,10,400917506,2016-11-30
+379,2,"1:05",65,65,"Brett Bisping Offensive Rebound.",74,71,3,0.920522956000889,"St. Bonaventure","Siena",3,3,0,1,10,400917506,2016-11-30
+380,2,"1:03",63,63,"Brett Bisping made Layup.",74,73,1,0.724118271921277,"St. Bonaventure","Siena",3,3,0,1,10,400917506,2016-11-30
+381,2,"0:41",41,41,"Jaylen Adams made Layup.",76,73,3,0.947237961910632,"St. Bonaventure","Siena",3,3,0,1,10,400917506,2016-11-30
+382,2,"0:41",41,41,"Foul on Javion Ogunyemi.",76,73,3,0.947237961910632,"St. Bonaventure","Siena",3,3,0,1,10,400917506,2016-11-30
+383,2,"0:41",41,41,"Jaylen Adams made Free Throw.",77,73,4,0.979936807085075,"St. Bonaventure","Siena",3,3,0,1,10,400917506,2016-11-30
+384,2,"0:22",22,22,"Marquis Wright Turnover.",77,73,4,0.997004912100559,"St. Bonaventure","Siena",3,3,0,1,10,400917506,2016-11-30
+385,2,"0:19",19,19,"Matt Mobley Steal.",77,73,4,0.995404688352715,"St. Bonaventure","Siena",3,3,1,0,10,400917506,2016-11-30
+386,2,"0:19",19,19,"Matt Mobley made Free Throw.",78,73,5,0.998695744916207,"St. Bonaventure","Siena",3,3,1,0,10,400917506,2016-11-30
+387,2,"0:19",19,19,"Siena  Timeout",78,73,5,0.998695744916207,"St. Bonaventure","Siena",2,3,1,0,10,400917506,2016-11-30
+388,2,"0:19",19,19,"Matt Mobley made Free Throw.",79,73,6,0.999630696882764,"St. Bonaventure","Siena",2,3,1,0,10,400917506,2016-11-30
+389,2,"0:13",13,13,"Foul on Matt Mobley.",79,73,6,0.999940507075182,"St. Bonaventure","Siena",2,3,1,1,10,400917506,2016-11-30
+390,2,"0:13",13,13,"Nico Clareth missed Free Throw.",79,73,6,0.999940507075182,"St. Bonaventure","Siena",2,3,1,1,10,400917506,2016-11-30
+391,2,"0:13",13,13,"Siena Deadball Team Rebound.",79,73,6,0.999940507075182,"St. Bonaventure","Siena",2,3,1,1,10,400917506,2016-11-30
+392,2,"0:13",13,13,"Nico Clareth made Free Throw.",79,74,5,0.999752219740619,"St. Bonaventure","Siena",2,3,1,1,10,400917506,2016-11-30
+393,2,"0:13",13,13,"St. Bonaventure  Timeout",79,74,5,0.999752219740619,"St. Bonaventure","Siena",2,2,1,1,10,400917506,2016-11-30
+394,2,"0:11",11,11,"Foul on Kadeem Smithen.",79,74,5,0.999103187419681,"St. Bonaventure","Siena",2,2,1,1,10,400917506,2016-11-30
+395,2,"0:11",11,11,"Matt Mobley missed Free Throw.",79,74,5,0.999103187419681,"St. Bonaventure","Siena",2,2,1,1,10,400917506,2016-11-30
+396,2,"0:11",11,11,"St. Bonaventure Deadball Team Rebound.",79,74,5,0.999103187419681,"St. Bonaventure","Siena",2,2,1,1,10,400917506,2016-11-30
+397,2,"0:11",11,11,"Matt Mobley made Free Throw.",80,74,6,0.99976856743219,"St. Bonaventure","Siena",2,2,1,1,10,400917506,2016-11-30
+398,2,"0:07",7,7,"Nico Clareth Turnover.",80,74,6,0.999962391503457,"St. Bonaventure","Siena",2,2,1,1,10,400917506,2016-11-30
+399,2,"0:07",7,7,"Nico Clareth missed Three Point Jumper.",80,74,6,0.999962391503457,"St. Bonaventure","Siena",2,2,1,1,10,400917506,2016-11-30
+400,2,"0:07",7,7,"Denzel Gregg Defensive Rebound.",80,74,6,0.999962391503457,"St. Bonaventure","Siena",2,2,1,1,10,400917506,2016-11-30
+401,2,"0:02",2,2,"Foul on Lavon Long.",80,74,6,0.999981194040536,"St. Bonaventure","Siena",2,2,1,1,10,400917506,2016-11-30
+402,2,"0:02",2,2,"Denzel Gregg missed Free Throw.",80,74,6,0.999981194040536,"St. Bonaventure","Siena",2,2,1,1,10,400917506,2016-11-30
+403,2,"0:02",2,2,"St. Bonaventure Deadball Team Rebound.",80,74,6,0.999981194040536,"St. Bonaventure","Siena",2,2,1,1,10,400917506,2016-11-30
+404,2,"0:02",2,2,"Denzel Gregg made Free Throw.",81,74,7,0.99999664207318,"St. Bonaventure","Siena",2,2,1,1,10,400917506,2016-11-30
+405,2,"0:00",0,0,"Marquis Wright missed Three Point Jumper.",81,74,7,1,"St. Bonaventure","Siena",2,2,1,1,10,400917506,2016-11-30
+406,2,"0:00",0,0,"St. Bonaventure Deadball Team Rebound.",81,74,7,1,"St. Bonaventure","Siena",2,2,1,1,10,400917506,2016-11-30
+407,2,"0:00",0,0,"End of Game",81,74,7,1,"St. Bonaventure","Siena",2,2,1,1,10,400917506,2016-11-30

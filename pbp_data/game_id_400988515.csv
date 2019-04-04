@@ -1,0 +1,408 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2700,"PLAY",0,0,0,0.919104732890501,"Providence","Brown",6,6,0,0,18.5,400988515,2017-12-06
+2,1,"19:31",2371,2671,"Rodney Bullock missed Jumper.",0,0,0,0.911210036177067,"Providence","Brown",6,6,0,0,18.5,400988515,2017-12-06
+3,1,"19:31",2371,2671,"Brandon Anderson Defensive Rebound.",0,0,0,0.911210036177067,"Providence","Brown",6,6,0,0,18.5,400988515,2017-12-06
+4,1,"19:25",2365,2665,"Tamenang Choh made Dunk. Assisted by Brandon Anderson.",0,2,-2,0.896840859335349,"Providence","Brown",6,6,0,0,18.5,400988515,2017-12-06
+5,1,"19:10",2350,2650,"Foul on Joshua Howard.",0,2,-2,0.899706555130798,"Providence","Brown",6,6,0,0,18.5,400988515,2017-12-06
+6,1,"19:03",2343,2643,"Makai Ashton-Langford missed Three Point Jumper.",0,2,-2,0.888086538026002,"Providence","Brown",6,6,0,0,18.5,400988515,2017-12-06
+7,1,"19:03",2343,2643,"Zach Hunsaker Defensive Rebound.",0,2,-2,0.888086538026002,"Providence","Brown",6,6,0,0,18.5,400988515,2017-12-06
+8,1,"19:00",2340,2640,"Foul on Jalen Lindsey.",0,2,-2,0.888086538026002,"Providence","Brown",6,6,0,0,18.5,400988515,2017-12-06
+9,1,"18:47",2327,2627,"Zach Hunsaker made Three Point Jumper. Assisted by Tamenang Choh.",0,5,-5,0.853014504255207,"Providence","Brown",6,6,0,0,18.5,400988515,2017-12-06
+10,1,"18:44",2324,2624,"Providence  Timeout",0,5,-5,0.853014504255207,"Providence","Brown",5,6,1,0,18.5,400988515,2017-12-06
+11,1,"18:26",2306,2606,"Maliek White made Jumper. Assisted by Makai Ashton-Langford.",2,5,-3,0.869368358079724,"Providence","Brown",5,6,1,0,18.5,400988515,2017-12-06
+12,1,"18:26",2306,2606,"Foul on Tamenang Choh.",2,5,-3,0.869368358079724,"Providence","Brown",5,6,1,0,18.5,400988515,2017-12-06
+13,1,"18:26",2306,2606,"Maliek White made Free Throw.",3,5,-2,0.880260718746243,"Providence","Brown",5,6,1,0,18.5,400988515,2017-12-06
+14,1,"17:54",2274,2574,"Brandon Anderson Turnover.",3,5,-2,0.887341203005667,"Providence","Brown",5,6,1,0,18.5,400988515,2017-12-06
+15,1,"17:34",2254,2554,"Kalif Young made Layup. Assisted by Makai Ashton-Langford.",5,5,0,0.899925999902566,"Providence","Brown",5,6,0,0,18.5,400988515,2017-12-06
+16,1,"17:15",2235,2535,"Zach Hunsaker made Jumper.",5,7,-2,0.883039291970253,"Providence","Brown",5,6,0,0,18.5,400988515,2017-12-06
+17,1,"16:57",2217,2517,"Makai Ashton-Langford missed Jumper.",5,7,-2,0.873008346230039,"Providence","Brown",5,6,0,0,18.5,400988515,2017-12-06
+18,1,"16:57",2217,2517,"Rodney Bullock Offensive Rebound.",5,7,-2,0.873008346230039,"Providence","Brown",5,6,0,0,18.5,400988515,2017-12-06
+19,1,"16:56",2216,2516,"Rodney Bullock Turnover.",5,7,-2,0.873008346230039,"Providence","Brown",5,6,0,0,18.5,400988515,2017-12-06
+20,1,"16:55",2215,2515,"Brandon Anderson Steal.",5,7,-2,0.873008346230039,"Providence","Brown",5,6,0,0,18.5,400988515,2017-12-06
+21,1,"16:49",2209,2509,"Zach Hunsaker missed Three Point Jumper.",5,7,-2,0.879679708379326,"Providence","Brown",5,6,0,0,18.5,400988515,2017-12-06
+22,1,"16:49",2209,2509,"Alpha Diallo Defensive Rebound.",5,7,-2,0.879679708379326,"Providence","Brown",5,6,0,0,18.5,400988515,2017-12-06
+23,1,"16:38",2198,2498,"Alpha Diallo missed Layup.",5,7,-2,0.886886074828542,"Providence","Brown",5,6,0,0,18.5,400988515,2017-12-06
+24,1,"16:38",2198,2498,"Kalif Young Offensive Rebound.",5,7,-2,0.886886074828542,"Providence","Brown",5,6,0,0,18.5,400988515,2017-12-06
+25,1,"16:37",2197,2497,"Kalif Young missed Layup.",5,7,-2,0.886886074828542,"Providence","Brown",5,6,0,0,18.5,400988515,2017-12-06
+26,1,"16:37",2197,2497,"Zach Hunsaker Defensive Rebound.",5,7,-2,0.886886074828542,"Providence","Brown",5,6,0,0,18.5,400988515,2017-12-06
+27,1,"16:16",2176,2476,"Desmond Cambridge made Three Point Jumper. Assisted by Zach Hunsaker.",5,10,-5,0.838206391425556,"Providence","Brown",5,6,0,0,18.5,400988515,2017-12-06
+28,1,"16:02",2162,2462,"Makai Ashton-Langford missed Three Point Jumper.",5,10,-5,0.835466706852271,"Providence","Brown",5,6,0,0,18.5,400988515,2017-12-06
+29,1,"16:02",2162,2462,"Kalif Young Offensive Rebound.",5,10,-5,0.835466706852271,"Providence","Brown",5,6,0,0,18.5,400988515,2017-12-06
+30,1,"15:59",2159,2459,"Kalif Young made Layup.",7,10,-3,0.860698764311232,"Providence","Brown",5,6,0,0,18.5,400988515,2017-12-06
+31,1,"15:31",2131,2431,"Brandon Anderson Turnover.",7,10,-3,0.862930675013253,"Providence","Brown",5,6,0,0,18.5,400988515,2017-12-06
+32,1,"15:30",2130,2430,"Maliek White Steal.",7,10,-3,0.862930675013253,"Providence","Brown",5,6,0,0,18.5,400988515,2017-12-06
+33,1,"15:26",2126,2426,"Brown  Timeout",7,10,-3,0.861672505624645,"Providence","Brown",5,5,0,1,18.5,400988515,2017-12-06
+34,1,"15:09",2109,2409,"Makai Ashton-Langford Turnover.",7,10,-3,0.859700350574507,"Providence","Brown",5,5,0,1,18.5,400988515,2017-12-06
+35,1,"15:09",2109,2409,"Zach Hunsaker Steal.",7,10,-3,0.859700350574507,"Providence","Brown",5,5,0,1,18.5,400988515,2017-12-06
+36,1,"15:09",2109,2409,"Foul on Makai Ashton-Langford.",7,10,-3,0.859700350574507,"Providence","Brown",5,5,0,1,18.5,400988515,2017-12-06
+37,1,"14:56",2096,2396,"Tamenang Choh Turnover.",7,10,-3,0.850102643141072,"Providence","Brown",5,5,0,1,18.5,400988515,2017-12-06
+38,1,"14:55",2095,2395,"Maliek White Steal.",7,10,-3,0.850102643141072,"Providence","Brown",5,5,0,1,18.5,400988515,2017-12-06
+39,1,"14:51",2091,2391,"Foul on Zach Hunsaker.",7,10,-3,0.850102643141072,"Providence","Brown",5,5,0,1,18.5,400988515,2017-12-06
+40,1,"14:51",2091,2391,"Rodney Bullock made Free Throw.",8,10,-2,0.865232747512339,"Providence","Brown",5,5,0,1,18.5,400988515,2017-12-06
+41,1,"14:51",2091,2391,"Rodney Bullock made Free Throw.",9,10,-1,0.879052950147014,"Providence","Brown",5,5,0,1,18.5,400988515,2017-12-06
+42,1,"14:44",2084,2384,"Brandon Anderson made Layup.",9,12,-3,0.858936786412296,"Providence","Brown",5,5,0,1,18.5,400988515,2017-12-06
+43,1,"14:30",2070,2370,"Maliek White made Jumper.",11,12,-1,0.890858163336508,"Providence","Brown",5,5,0,1,18.5,400988515,2017-12-06
+44,1,"14:10",2050,2350,"Obi Okolie made Jumper.",11,14,-3,0.87060892922486,"Providence","Brown",5,5,0,0,18.5,400988515,2017-12-06
+45,1,"14:10",2050,2350,"Foul on Alpha Diallo.",11,14,-3,0.87060892922486,"Providence","Brown",5,5,0,0,18.5,400988515,2017-12-06
+46,1,"14:10",2050,2350,"Obi Okolie made Free Throw.",11,15,-4,0.856828702654393,"Providence","Brown",5,5,0,0,18.5,400988515,2017-12-06
+47,1,"13:46",2026,2326,"Maliek White missed Jumper.",11,15,-4,0.835906479730025,"Providence","Brown",5,5,0,0,18.5,400988515,2017-12-06
+48,1,"13:46",2026,2326,"Alpha Diallo Offensive Rebound.",11,15,-4,0.835906479730025,"Providence","Brown",5,5,0,0,18.5,400988515,2017-12-06
+49,1,"13:41",2021,2321,"Alpha Diallo missed Jumper.",11,15,-4,0.835906479730025,"Providence","Brown",5,5,0,0,18.5,400988515,2017-12-06
+50,1,"13:41",2021,2321,"Matt DeWolf Defensive Rebound.",11,15,-4,0.835906479730025,"Providence","Brown",5,5,0,0,18.5,400988515,2017-12-06
+51,1,"13:40",2020,2320,"Foul on Nate Watson.",11,15,-4,0.835906479730025,"Providence","Brown",5,5,0,0,18.5,400988515,2017-12-06
+52,1,"13:28",2008,2308,"Brandon Anderson made Layup.",11,17,-6,0.810194278250398,"Providence","Brown",5,5,0,0,18.5,400988515,2017-12-06
+53,1,"13:09",1989,2289,"Rodney Bullock Turnover.",11,17,-6,0.78051663182995,"Providence","Brown",5,5,0,0,18.5,400988515,2017-12-06
+54,1,"13:07",1987,2287,"Desmond Cambridge Steal.",11,17,-6,0.78051663182995,"Providence","Brown",5,5,0,0,18.5,400988515,2017-12-06
+55,1,"13:04",1984,2284,"Desmond Cambridge missed Three Point Jumper.",11,17,-6,0.78051663182995,"Providence","Brown",5,5,0,0,18.5,400988515,2017-12-06
+56,1,"13:04",1984,2284,"Rodney Bullock Defensive Rebound.",11,17,-6,0.78051663182995,"Providence","Brown",5,5,0,0,18.5,400988515,2017-12-06
+57,1,"12:55",1975,2275,"Alpha Diallo missed Layup.",11,17,-6,0.809540933872506,"Providence","Brown",5,5,0,0,18.5,400988515,2017-12-06
+58,1,"12:55",1975,2275,"Matt DeWolf Block.",11,17,-6,0.809540933872506,"Providence","Brown",5,5,0,0,18.5,400988515,2017-12-06
+59,1,"12:53",1973,2273,"Matt DeWolf Defensive Rebound.",11,17,-6,0.809540933872506,"Providence","Brown",5,5,0,0,18.5,400988515,2017-12-06
+60,1,"12:53",1973,2273,"Foul on Alpha Diallo.",11,17,-6,0.809540933872506,"Providence","Brown",5,5,0,0,18.5,400988515,2017-12-06
+61,1,"12:46",1966,2266,"Matt DeWolf made Layup.",11,19,-8,0.784842313659746,"Providence","Brown",5,5,0,0,18.5,400988515,2017-12-06
+62,1,"12:15",1935,2235,"Isaiah Jackson made Jumper.",13,19,-6,0.780463010999143,"Providence","Brown",5,5,0,0,18.5,400988515,2017-12-06
+63,1,"12:01",1921,2221,"Foul on Zach Hunsaker.",13,19,-6,0.805946575738966,"Providence","Brown",5,5,0,0,18.5,400988515,2017-12-06
+64,1,"12:01",1921,2221,"Zach Hunsaker Turnover.",13,19,-6,0.805946575738966,"Providence","Brown",5,5,0,0,18.5,400988515,2017-12-06
+65,1,"11:43",1903,2203,"Nate Watson missed Layup.",13,19,-6,0.806710074746523,"Providence","Brown",5,5,0,0,18.5,400988515,2017-12-06
+66,1,"11:43",1903,2203,"Obi Okolie Defensive Rebound.",13,19,-6,0.806710074746523,"Providence","Brown",5,5,0,0,18.5,400988515,2017-12-06
+67,1,"11:36",1896,2196,"Brandon Anderson made Three Point Jumper.",13,22,-9,0.700615313740025,"Providence","Brown",5,5,0,0,18.5,400988515,2017-12-06
+68,1,"11:17",1877,2177,"Makai Ashton-Langford Turnover.",13,22,-9,0.721634100731529,"Providence","Brown",5,5,0,1,18.5,400988515,2017-12-06
+69,1,"11:17",1877,2177,"Foul on Makai Ashton-Langford.",13,22,-9,0.721634100731529,"Providence","Brown",5,5,0,1,18.5,400988515,2017-12-06
+70,1,"11:17",1877,2177,"Brown  Timeout",13,22,-9,0.721634100731529,"Providence","Brown",5,4,0,1,18.5,400988515,2017-12-06
+71,1,"10:53",1853,2153,"Obi Okolie missed Jumper.",13,22,-9,0.713564750723983,"Providence","Brown",5,4,0,1,18.5,400988515,2017-12-06
+72,1,"10:53",1853,2153,"Jalen Lindsey Defensive Rebound.",13,22,-9,0.713564750723983,"Providence","Brown",5,4,0,1,18.5,400988515,2017-12-06
+73,1,"10:26",1826,2126,"Isaiah Jackson missed Three Point Jumper.",13,22,-9,0.750049558877194,"Providence","Brown",5,4,0,1,18.5,400988515,2017-12-06
+74,1,"10:26",1826,2126,"Obi Okolie Defensive Rebound.",13,22,-9,0.750049558877194,"Providence","Brown",5,4,0,1,18.5,400988515,2017-12-06
+75,1,"10:19",1819,2119,"Obi Okolie missed Layup.",13,22,-9,0.690472776861715,"Providence","Brown",5,4,0,1,18.5,400988515,2017-12-06
+76,1,"10:19",1819,2119,"Isaiah Jackson Block.",13,22,-9,0.690472776861715,"Providence","Brown",5,4,0,1,18.5,400988515,2017-12-06
+77,1,"10:19",1819,2119,"Brown Offensive Rebound.",13,22,-9,0.690472776861715,"Providence","Brown",5,4,0,1,18.5,400988515,2017-12-06
+78,1,"9:55",1795,2095,"Matt DeWolf missed Jumper.",13,22,-9,0.690146787698852,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+79,1,"9:55",1795,2095,"Kalif Young Block.",13,22,-9,0.690146787698852,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+80,1,"9:53",1793,2093,"Rodney Bullock Defensive Rebound.",13,22,-9,0.690146787698852,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+81,1,"9:49",1789,2089,"Jalen Lindsey made Three Point Jumper. Assisted by Rodney Bullock.",16,22,-6,0.74300775170861,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+82,1,"9:27",1767,2067,"Jason Massey made Layup.",16,24,-8,0.749196031375102,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+83,1,"9:10",1750,2050,"Jalen Lindsey missed Three Point Jumper.",16,24,-8,0.715472979876056,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+84,1,"9:10",1750,2050,"Matt DeWolf Defensive Rebound.",16,24,-8,0.715472979876056,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+85,1,"8:54",1734,2034,"Brandon Anderson missed Layup.",16,24,-8,0.71758810294005,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+86,1,"8:54",1734,2034,"Drew Edwards Defensive Rebound.",16,24,-8,0.71758810294005,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+87,1,"8:45",1725,2025,"Rodney Bullock missed Layup.",16,24,-8,0.690325544325334,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+88,1,"8:45",1725,2025,"Jalen Lindsey Offensive Rebound.",16,24,-8,0.690325544325334,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+89,1,"8:43",1723,2023,"Kalif Young made Layup.",18,24,-6,0.745119140861958,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+90,1,"8:13",1693,1993,"Chris Sullivan missed Three Point Jumper.",18,24,-6,0.751958405651302,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+91,1,"8:13",1693,1993,"Matt DeWolf Offensive Rebound.",18,24,-6,0.751958405651302,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+92,1,"8:08",1688,1988,"Brown Deadball Team Rebound.",18,24,-6,0.771146708335763,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+93,1,"8:08",1688,1988,"Foul on Maliek White.",18,24,-6,0.771146708335763,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+94,1,"8:08",1688,1988,"Matt DeWolf missed Free Throw.",18,24,-6,0.771146708335763,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+95,1,"8:08",1688,1988,"Matt DeWolf missed Free Throw.",18,24,-6,0.771146708335763,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+96,1,"8:08",1688,1988,"Drew Edwards Defensive Rebound.",18,24,-6,0.771146708335763,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+97,1,"8:06",1686,1986,"Drew Edwards missed Three Point Jumper.",18,24,-6,0.771146708335763,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+98,1,"8:06",1686,1986,"Kalif Young Offensive Rebound.",18,24,-6,0.771146708335763,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+99,1,"7:37",1657,1957,"Rodney Bullock missed Jumper.",18,24,-6,0.75960879946554,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+100,1,"7:37",1657,1957,"Drew Edwards Offensive Rebound.",18,24,-6,0.75960879946554,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+101,1,"7:36",1656,1956,"Foul on Chris Sullivan.",18,24,-6,0.75960879946554,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+102,1,"7:33",1653,1953,"Rodney Bullock made Jumper. Assisted by Drew Edwards.",20,24,-4,0.80465840942893,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+103,1,"7:20",1640,1940,"Tamenang Choh Turnover.",20,24,-4,0.809948545376568,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+104,1,"7:19",1639,1939,"Kalif Young Steal.",20,24,-4,0.810130327928841,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+105,1,"7:16",1636,1936,"Foul on Tamenang Choh.",20,24,-4,0.810130327928841,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+106,1,"7:16",1636,1936,"Rodney Bullock made Free Throw.",21,24,-3,0.829549016276394,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+107,1,"7:16",1636,1936,"Rodney Bullock missed Free Throw.",21,24,-3,0.829549016276394,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+108,1,"7:16",1636,1936,"Brandon Anderson Defensive Rebound.",21,24,-3,0.829549016276394,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+109,1,"7:03",1623,1923,"Desmond Cambridge missed Three Point Jumper.",21,24,-3,0.823440250820115,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+110,1,"7:03",1623,1923,"Rodney Bullock Defensive Rebound.",21,24,-3,0.823440250820115,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+111,1,"6:51",1611,1911,"Rodney Bullock missed Three Point Jumper.",21,24,-3,0.806323234360561,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+112,1,"6:51",1611,1911,"Kalif Young Offensive Rebound.",21,24,-3,0.806323234360561,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+113,1,"6:50",1610,1910,"Foul on Tamenang Choh.",21,24,-3,0.806323234360561,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+114,1,"6:50",1610,1910,"Kalif Young missed Free Throw.",21,24,-3,0.806323234360561,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+115,1,"6:50",1610,1910,"Chris Sullivan Defensive Rebound.",21,24,-3,0.806323234360561,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+116,1,"6:26",1586,1886,"Travis Fuller missed Jumper.",21,24,-3,0.822819983673843,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+117,1,"6:26",1586,1886,"Maliek White Defensive Rebound.",21,24,-3,0.822819983673843,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+118,1,"6:14",1574,1874,"Maliek White missed Layup.",21,24,-3,0.817965453614317,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+119,1,"6:14",1574,1874,"Joshua Howard Defensive Rebound.",21,24,-3,0.817965453614317,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+120,1,"6:04",1564,1864,"Brandon Anderson missed Jumper.",21,24,-3,0.81200576763248,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+121,1,"6:04",1564,1864,"Kalif Young Defensive Rebound.",21,24,-3,0.81200576763248,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+122,1,"5:52",1552,1852,"Rodney Bullock missed Three Point Jumper.",21,24,-3,0.805901764641691,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+123,1,"5:52",1552,1852,"Joshua Howard Defensive Rebound.",21,24,-3,0.805901764641691,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+124,1,"5:45",1545,1845,"Desmond Cambridge made Jumper.",21,26,-5,0.783456391267222,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+125,1,"5:23",1523,1823,"Kalif Young Turnover.",21,26,-5,0.764638060213061,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+126,1,"5:22",1522,1822,"Chris Sullivan Steal.",21,26,-5,0.764638060213061,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+127,1,"5:16",1516,1816,"Brandon Anderson Turnover.",21,26,-5,0.763161104543652,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+128,1,"5:13",1513,1813,"Maliek White Steal.",21,26,-5,0.763161104543652,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+129,1,"5:05",1505,1805,"Rodney Bullock Turnover.",21,26,-5,0.768188364924227,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+130,1,"5:04",1504,1804,"Joshua Howard Steal.",21,26,-5,0.768188364924227,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+131,1,"5:00",1500,1800,"Desmond Cambridge missed Layup.",21,26,-5,0.768188364924227,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+132,1,"5:00",1500,1800,"Jalen Lindsey Block.",21,26,-5,0.768188364924227,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+133,1,"5:00",1500,1800,"Desmond Cambridge Offensive Rebound.",21,26,-5,0.768188364924227,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+134,1,"5:00",1500,1800,"Foul on Maliek White.",21,26,-5,0.768188364924227,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+135,1,"5:00",1500,1800,"Chris Sullivan made Free Throw.",21,27,-6,0.741854990466257,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+136,1,"5:00",1500,1800,"Chris Sullivan made Free Throw.",21,28,-7,0.713645294703816,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+137,1,"4:45",1485,1785,"Alpha Diallo missed Jumper.",21,28,-7,0.695787431749822,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+138,1,"4:45",1485,1785,"Travis Fuller Defensive Rebound.",21,28,-7,0.695787431749822,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+139,1,"4:33",1473,1773,"Foul on Alpha Diallo.",21,28,-7,0.727843572855259,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+140,1,"4:33",1473,1773,"Desmond Cambridge made Free Throw.",21,29,-8,0.696537896191479,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+141,1,"4:33",1473,1773,"Desmond Cambridge made Free Throw.",21,30,-9,0.663297034699564,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+142,1,"4:31",1471,1771,"Drew Edwards missed Three Point Jumper.",21,30,-9,0.663297034699564,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+143,1,"4:31",1471,1771,"Nate Watson Offensive Rebound.",21,30,-9,0.663297034699564,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+144,1,"4:27",1467,1767,"Nate Watson made Layup.",23,30,-7,0.686146215939713,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+145,1,"4:12",1452,1752,"Brandon Anderson made Three Point Jumper. Assisted by Travis Fuller.",23,33,-10,0.597655746115069,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+146,1,"3:53",1433,1733,"Foul on Brandon Anderson.",23,33,-10,0.582349970435408,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+147,1,"3:53",1433,1733,"Makai Ashton-Langford missed Free Throw.",23,33,-10,0.582349970435408,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+148,1,"3:53",1433,1733,"Providence Deadball Team Rebound.",23,33,-10,0.582349970435408,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+149,1,"3:53",1433,1733,"Makai Ashton-Langford missed Free Throw.",23,33,-10,0.582349970435408,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+150,1,"3:53",1433,1733,"Matt DeWolf Defensive Rebound.",23,33,-10,0.582349970435408,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+151,1,"3:26",1406,1706,"Jason Massey Turnover.",23,33,-10,0.597485568803127,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+152,1,"2:54",1374,1674,"Jalen Lindsey made Three Point Jumper. Assisted by Makai Ashton-Langford.",26,33,-7,0.692062668516096,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+153,1,"2:39",1359,1659,"Obi Okolie made Free Throw.",26,34,-8,0.654241338858444,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+154,1,"2:39",1359,1659,"Foul on Isaiah Jackson.",26,34,-8,0.654241338858444,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+155,1,"2:39",1359,1659,"Obi Okolie made Free Throw.",26,35,-9,0.618516560380469,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+156,1,"2:32",1352,1652,"Isaiah Jackson made Layup.",28,35,-7,0.6883065300197,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+157,1,"2:06",1326,1626,"Desmond Cambridge missed Three Point Jumper.",28,35,-7,0.670159115038962,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+158,1,"2:06",1326,1626,"Jalen Lindsey Defensive Rebound.",28,35,-7,0.670159115038962,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+159,1,"1:59",1319,1619,"Foul on Jason Massey.",28,35,-7,0.673842449673753,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+160,1,"1:59",1319,1619,"Rodney Bullock missed Free Throw.",28,35,-7,0.673842449673753,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+161,1,"1:59",1319,1619,"Desmond Cambridge Defensive Rebound.",28,35,-7,0.673842449673753,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+162,1,"1:49",1309,1609,"Matt DeWolf made Layup.",28,37,-9,0.595133227439694,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+163,1,"1:36",1296,1596,"Maliek White missed Three Point Jumper.",28,37,-9,0.558689625103672,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+164,1,"1:36",1296,1596,"Matt DeWolf Defensive Rebound.",28,37,-9,0.558689625103672,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+165,1,"1:18",1278,1578,"Desmond Cambridge missed Three Point Jumper.",28,37,-9,0.598178657003588,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+166,1,"1:18",1278,1578,"Maliek White Defensive Rebound.",28,37,-9,0.598178657003588,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+167,1,"1:11",1271,1571,"Maliek White Turnover.",28,37,-9,0.598178657003588,"Providence","Brown",5,4,0,0,18.5,400988515,2017-12-06
+168,1,"0:56",1256,1556,"Brown  Timeout",28,37,-9,0.576403738988218,"Providence","Brown",5,3,0,1,18.5,400988515,2017-12-06
+169,1,"0:53",1253,1553,"Obi Okolie made Three Point Jumper. Assisted by Brandon Anderson.",28,40,-12,0.463432527533261,"Providence","Brown",5,3,0,1,18.5,400988515,2017-12-06
+170,1,"0:48",1248,1548,"Isaiah Jackson missed Jumper.",28,40,-12,0.488811709064014,"Providence","Brown",5,3,0,1,18.5,400988515,2017-12-06
+171,1,"0:48",1248,1548,"Jason Massey Defensive Rebound.",28,40,-12,0.488811709064014,"Providence","Brown",5,3,0,1,18.5,400988515,2017-12-06
+172,1,"0:30",1230,1530,"Brandon Anderson missed Three Point Jumper.",28,40,-12,0.438236600841692,"Providence","Brown",5,3,0,1,18.5,400988515,2017-12-06
+173,1,"0:30",1230,1530,"Matt DeWolf Offensive Rebound.",28,40,-12,0.438236600841692,"Providence","Brown",5,3,0,1,18.5,400988515,2017-12-06
+174,1,"0:27",1227,1527,"Matt DeWolf missed Layup.",28,40,-12,0.435167201076985,"Providence","Brown",5,3,0,1,18.5,400988515,2017-12-06
+175,1,"0:27",1227,1527,"Nate Watson Block.",28,40,-12,0.435167201076985,"Providence","Brown",5,3,0,1,18.5,400988515,2017-12-06
+176,1,"0:26",1226,1526,"Matt DeWolf Offensive Rebound.",28,40,-12,0.435167201076985,"Providence","Brown",5,3,0,1,18.5,400988515,2017-12-06
+177,1,"0:24",1224,1524,"Matt DeWolf Turnover.",28,40,-12,0.435167201076985,"Providence","Brown",5,3,0,1,18.5,400988515,2017-12-06
+178,1,"0:00",1200,1500,"Nate Watson Turnover.",28,40,-12,0.461878665090779,"Providence","Brown",5,3,0,1,18.5,400988515,2017-12-06
+179,1,"0:00",1200,1500,"End of 1st half",28,40,-12,0.461878665090779,"Providence","Brown",5,3,0,1,18.5,400988515,2017-12-06
+180,2,"20:00",1200,1500,"PLAY",28,40,-12,0.461878665090779,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+181,2,"19:51",1191,1491,"Makai Ashton-Langford missed Layup.",28,40,-12,0.525588524202695,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+182,2,"19:51",1191,1491,"Joshua Howard Block.",28,40,-12,0.525588524202695,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+183,2,"19:49",1189,1489,"Tamenang Choh Defensive Rebound.",28,40,-12,0.445358062076768,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+184,2,"19:37",1177,1477,"Desmond Cambridge made Three Point Jumper. Assisted by Zach Hunsaker.",28,43,-15,0.308724498464938,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+185,2,"19:24",1164,1464,"Jalen Lindsey missed Three Point Jumper.",28,43,-15,0.325072247257869,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+186,2,"19:24",1164,1464,"Zach Hunsaker Defensive Rebound.",28,43,-15,0.325072247257869,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+187,2,"19:14",1154,1454,"Zach Hunsaker Turnover.",28,43,-15,0.31960481530474,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+188,2,"19:13",1153,1453,"Maliek White Steal.",28,43,-15,0.31960481530474,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+189,2,"19:11",1151,1451,"Maliek White made Dunk.",30,43,-13,0.393630112513104,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+190,2,"18:43",1123,1423,"Zach Hunsaker missed Jumper.",30,43,-13,0.325393012260979,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+191,2,"18:43",1123,1423,"Maliek White Defensive Rebound.",30,43,-13,0.325393012260979,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+192,2,"18:35",1115,1415,"Maliek White missed Jumper.",30,43,-13,0.35020417427947,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+193,2,"18:35",1115,1415,"Brandon Anderson Defensive Rebound.",30,43,-13,0.35020417427947,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+194,2,"18:28",1108,1408,"Zach Hunsaker missed Three Point Jumper.",30,43,-13,0.407660352410892,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+195,2,"18:28",1108,1408,"Makai Ashton-Langford Block.",30,43,-13,0.407660352410892,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+196,2,"18:26",1106,1406,"Maliek White Defensive Rebound.",30,43,-13,0.407660352410892,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+197,2,"18:21",1101,1401,"Makai Ashton-Langford made Layup.",32,43,-11,0.48847448349511,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+198,2,"18:00",1080,1380,"Desmond Cambridge made Jumper. Assisted by Joshua Howard.",32,45,-13,0.368781240782744,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+199,2,"17:30",1050,1350,"Makai Ashton-Langford missed Three Point Jumper.",32,45,-13,0.341172932741598,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+200,2,"17:30",1050,1350,"Desmond Cambridge Defensive Rebound.",32,45,-13,0.341172932741598,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+201,2,"17:19",1039,1339,"Brandon Anderson missed Jumper.",32,45,-13,0.36178642969273,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+202,2,"17:19",1039,1339,"Rodney Bullock Defensive Rebound.",32,45,-13,0.36178642969273,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+203,2,"17:10",1030,1330,"Jalen Lindsey missed Three Point Jumper.",32,45,-13,0.36178642969273,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+204,2,"17:10",1030,1330,"Tamenang Choh Defensive Rebound.",32,45,-13,0.36178642969273,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+205,2,"17:00",1020,1320,"Zach Hunsaker missed Three Point Jumper.",32,45,-13,0.339077536963583,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+206,2,"17:00",1020,1320,"Rodney Bullock Defensive Rebound.",32,45,-13,0.339077536963583,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+207,2,"16:44",1004,1304,"Foul on Tamenang Choh.",32,45,-13,0.290857580851839,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+208,2,"16:32",992,1292,"Makai Ashton-Langford made Layup.",34,45,-11,0.405039051436265,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+209,2,"16:13",973,1273,"Brandon Anderson made Layup.",34,47,-13,0.339685565692583,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+210,2,"15:53",953,1253,"Maliek White made Three Point Jumper. Assisted by Makai Ashton-Langford.",37,47,-10,0.439531118189366,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+211,2,"15:37",937,1237,"Matt DeWolf Turnover.",37,47,-10,0.410222485243027,"Providence","Brown",5,3,0,0,18.5,400988515,2017-12-06
+212,2,"15:33",933,1233,"Providence  Timeout",37,47,-10,0.410222485243027,"Providence","Brown",4,3,1,0,18.5,400988515,2017-12-06
+213,2,"15:28",928,1228,"Maliek White Turnover.",37,47,-10,0.380366837431238,"Providence","Brown",4,3,1,0,18.5,400988515,2017-12-06
+214,2,"15:26",926,1226,"Joshua Howard Steal.",37,47,-10,0.380366837431238,"Providence","Brown",4,3,1,0,18.5,400988515,2017-12-06
+215,2,"15:15",915,1215,"Joshua Howard Turnover.",37,47,-10,0.43030128797266,"Providence","Brown",4,3,1,0,18.5,400988515,2017-12-06
+216,2,"15:14",914,1214,"Rodney Bullock Steal.",37,47,-10,0.43030128797266,"Providence","Brown",4,3,1,0,18.5,400988515,2017-12-06
+217,2,"15:11",911,1211,"Alpha Diallo made Layup. Assisted by Rodney Bullock.",39,47,-8,0.527756410191045,"Providence","Brown",4,3,1,0,18.5,400988515,2017-12-06
+218,2,"14:54",894,1194,"Desmond Cambridge missed Three Point Jumper.",39,47,-8,0.501906921622163,"Providence","Brown",4,3,1,0,18.5,400988515,2017-12-06
+219,2,"14:54",894,1194,"Maliek White Defensive Rebound.",39,47,-8,0.501906921622163,"Providence","Brown",4,3,1,0,18.5,400988515,2017-12-06
+220,2,"14:48",888,1188,"Alpha Diallo missed Jumper.",39,47,-8,0.525909327038312,"Providence","Brown",4,3,1,0,18.5,400988515,2017-12-06
+221,2,"14:48",888,1188,"Obi Okolie Defensive Rebound.",39,47,-8,0.525909327038312,"Providence","Brown",4,3,1,0,18.5,400988515,2017-12-06
+222,2,"14:33",873,1173,"Zach Hunsaker made Jumper. Assisted by Brandon Anderson.",39,49,-10,0.41159841046756,"Providence","Brown",4,3,1,0,18.5,400988515,2017-12-06
+223,2,"14:20",860,1160,"Foul on Brandon Anderson.",39,49,-10,0.404472293531781,"Providence","Brown",4,3,0,0,18.5,400988515,2017-12-06
+224,2,"14:16",856,1156,"Foul on Brandon Anderson.",39,49,-10,0.378813930164661,"Providence","Brown",4,3,0,0,18.5,400988515,2017-12-06
+225,2,"14:16",856,1156,"Makai Ashton-Langford made Free Throw.",40,49,-9,0.428135029337901,"Providence","Brown",4,3,0,0,18.5,400988515,2017-12-06
+226,2,"14:16",856,1156,"Makai Ashton-Langford made Free Throw.",41,49,-8,0.478926742173229,"Providence","Brown",4,3,0,0,18.5,400988515,2017-12-06
+227,2,"13:49",829,1129,"Zach Hunsaker missed Layup.",41,49,-8,0.517404093617885,"Providence","Brown",4,3,0,0,18.5,400988515,2017-12-06
+228,2,"13:49",829,1129,"Alpha Diallo Defensive Rebound.",41,49,-8,0.517404093617885,"Providence","Brown",4,3,0,0,18.5,400988515,2017-12-06
+229,2,"13:35",815,1115,"Jalen Lindsey missed Three Point Jumper.",41,49,-8,0.500816163470893,"Providence","Brown",4,3,0,0,18.5,400988515,2017-12-06
+230,2,"13:35",815,1115,"Joshua Howard Defensive Rebound.",41,49,-8,0.500816163470893,"Providence","Brown",4,3,0,0,18.5,400988515,2017-12-06
+231,2,"13:28",808,1108,"Jason Massey Turnover.",41,49,-8,0.498158649138091,"Providence","Brown",4,3,0,0,18.5,400988515,2017-12-06
+232,2,"13:13",793,1093,"Rodney Bullock missed Layup.",41,49,-8,0.43239856085346,"Providence","Brown",4,3,0,0,18.5,400988515,2017-12-06
+233,2,"13:13",793,1093,"Obi Okolie Defensive Rebound.",41,49,-8,0.43239856085346,"Providence","Brown",4,3,0,0,18.5,400988515,2017-12-06
+234,2,"12:53",773,1073,"Zach Hunsaker Turnover.",41,49,-8,0.455583644627404,"Providence","Brown",4,3,0,0,18.5,400988515,2017-12-06
+235,2,"12:52",772,1072,"Rodney Bullock Steal.",41,49,-8,0.455583644627404,"Providence","Brown",4,3,0,0,18.5,400988515,2017-12-06
+236,2,"12:51",771,1071,"Foul on Jason Massey.",41,49,-8,0.455583644627404,"Providence","Brown",4,3,0,0,18.5,400988515,2017-12-06
+237,2,"12:43",763,1063,"Rodney Bullock made Layup.",43,49,-6,0.585203791569709,"Providence","Brown",4,3,0,0,18.5,400988515,2017-12-06
+238,2,"12:19",739,1039,"Desmond Cambridge made Three Point Jumper. Assisted by Joshua Howard.",43,52,-9,0.365701241497683,"Providence","Brown",4,3,0,0,18.5,400988515,2017-12-06
+239,2,"11:52",712,1012,"Maliek White missed Three Point Jumper.",43,52,-9,0.372769303217995,"Providence","Brown",4,3,0,0,18.5,400988515,2017-12-06
+240,2,"11:52",712,1012,"Rodney Bullock Offensive Rebound.",43,52,-9,0.372769303217995,"Providence","Brown",4,3,0,0,18.5,400988515,2017-12-06
+241,2,"11:48",708,1008,"Rodney Bullock missed Layup.",43,52,-9,0.367276953996543,"Providence","Brown",4,3,0,0,18.5,400988515,2017-12-06
+242,2,"11:48",708,1008,"Rodney Bullock Offensive Rebound.",43,52,-9,0.367276953996543,"Providence","Brown",4,3,0,0,18.5,400988515,2017-12-06
+243,2,"11:46",706,1006,"Rodney Bullock made Layup.",45,52,-7,0.470401557520741,"Providence","Brown",4,3,0,0,18.5,400988515,2017-12-06
+244,2,"11:44",704,1004,"Foul on Joshua Howard.",45,52,-7,0.470401557520741,"Providence","Brown",4,3,1,0,18.5,400988515,2017-12-06
+245,2,"11:44",704,1004,"Providence  Timeout",45,52,-7,0.470401557520741,"Providence","Brown",3,3,1,0,18.5,400988515,2017-12-06
+246,2,"11:44",704,1004,"Rodney Bullock made Free Throw.",46,52,-6,0.523522563907191,"Providence","Brown",3,3,1,0,18.5,400988515,2017-12-06
+247,2,"11:29",689,989,"Desmond Cambridge Turnover.",46,52,-6,0.51975813568938,"Providence","Brown",3,3,1,0,18.5,400988515,2017-12-06
+248,2,"11:27",687,987,"Makai Ashton-Langford Steal.",46,52,-6,0.51975813568938,"Providence","Brown",3,3,1,0,18.5,400988515,2017-12-06
+249,2,"11:06",666,966,"Alpha Diallo made Three Point Jumper. Assisted by Makai Ashton-Langford.",49,52,-3,0.671428975298282,"Providence","Brown",3,3,1,0,18.5,400988515,2017-12-06
+250,2,"10:51",651,951,"Foul on Isaiah Jackson.",49,52,-3,0.665170337477719,"Providence","Brown",3,3,1,0,18.5,400988515,2017-12-06
+251,2,"10:46",646,946,"Matt DeWolf Turnover.",49,52,-3,0.65663854239606,"Providence","Brown",3,3,1,0,18.5,400988515,2017-12-06
+252,2,"10:35",635,935,"Foul on Desmond Cambridge.",49,52,-3,0.624197267628114,"Providence","Brown",3,3,0,0,18.5,400988515,2017-12-06
+253,2,"10:35",635,935,"Rodney Bullock made Free Throw.",50,52,-2,0.677817244083098,"Providence","Brown",3,3,0,0,18.5,400988515,2017-12-06
+254,2,"10:35",635,935,"Rodney Bullock made Free Throw.",51,52,-1,0.72713111492274,"Providence","Brown",3,3,0,0,18.5,400988515,2017-12-06
+255,2,"10:19",619,919,"Foul on Isaiah Jackson.",51,52,-1,0.741231627114353,"Providence","Brown",3,3,0,0,18.5,400988515,2017-12-06
+256,2,"10:19",619,919,"Obi Okolie Turnover.",51,52,-1,0.741231627114353,"Providence","Brown",3,3,0,0,18.5,400988515,2017-12-06
+257,2,"10:08",608,908,"Rodney Bullock Turnover.",51,52,-1,0.763233530607206,"Providence","Brown",3,3,0,0,18.5,400988515,2017-12-06
+258,2,"10:08",608,908,"Foul on Rodney Bullock.",51,52,-1,0.763233530607206,"Providence","Brown",3,3,0,0,18.5,400988515,2017-12-06
+259,2,"9:44",584,884,"Obi Okolie made Layup.",51,54,-3,0.62845056292845,"Providence","Brown",3,3,0,0,18.5,400988515,2017-12-06
+260,2,"9:32",572,872,"Foul on Desmond Cambridge.",51,54,-3,0.659597064668358,"Providence","Brown",3,3,0,0,18.5,400988515,2017-12-06
+261,2,"9:32",572,872,"Alpha Diallo made Free Throw.",52,54,-2,0.713967546827726,"Providence","Brown",3,3,0,0,18.5,400988515,2017-12-06
+262,2,"9:32",572,872,"Alpha Diallo made Free Throw.",53,54,-1,0.762777044964168,"Providence","Brown",3,3,0,0,18.5,400988515,2017-12-06
+263,2,"9:18",558,858,"Desmond Cambridge missed Three Point Jumper.",53,54,-1,0.738860369041905,"Providence","Brown",3,3,0,0,18.5,400988515,2017-12-06
+264,2,"9:18",558,858,"Kyron Cartwright Defensive Rebound.",53,54,-1,0.738860369041905,"Providence","Brown",3,3,0,0,18.5,400988515,2017-12-06
+265,2,"8:47",527,827,"Rodney Bullock Turnover.",53,54,-1,0.709474113629537,"Providence","Brown",3,3,0,0,18.5,400988515,2017-12-06
+266,2,"8:19",499,799,"Brandon Anderson missed Layup.",53,54,-1,0.728807912681076,"Providence","Brown",3,3,0,0,18.5,400988515,2017-12-06
+267,2,"8:19",499,799,"Jalen Lindsey Block.",53,54,-1,0.728807912681076,"Providence","Brown",3,3,0,0,18.5,400988515,2017-12-06
+268,2,"8:17",497,797,"Isaiah Jackson Defensive Rebound.",53,54,-1,0.728807912681076,"Providence","Brown",3,3,0,0,18.5,400988515,2017-12-06
+269,2,"8:14",494,794,"Makai Ashton-Langford made Layup. Assisted by Isaiah Jackson.",55,54,1,0.822395031937726,"Providence","Brown",3,3,0,1,18.5,400988515,2017-12-06
+270,2,"8:14",494,794,"Brown  Timeout",55,54,1,0.822395031937726,"Providence","Brown",3,2,0,1,18.5,400988515,2017-12-06
+271,2,"7:49",469,769,"Brandon Anderson missed Three Point Jumper.",55,54,1,0.822042890684865,"Providence","Brown",3,2,0,1,18.5,400988515,2017-12-06
+272,2,"7:49",469,769,"Makai Ashton-Langford Defensive Rebound.",55,54,1,0.822042890684865,"Providence","Brown",3,2,0,1,18.5,400988515,2017-12-06
+273,2,"7:28",448,748,"Providence  Timeout",55,54,1,0.792957948217182,"Providence","Brown",2,2,1,1,18.5,400988515,2017-12-06
+274,2,"7:21",441,741,"Makai Ashton-Langford missed Layup.",55,54,1,0.792957948217182,"Providence","Brown",2,2,1,1,18.5,400988515,2017-12-06
+275,2,"7:21",441,741,"Obi Okolie Defensive Rebound.",55,54,1,0.792957948217182,"Providence","Brown",2,2,1,1,18.5,400988515,2017-12-06
+276,2,"6:50",410,710,"Obi Okolie missed Layup.",55,54,1,0.821384077300219,"Providence","Brown",2,2,1,0,18.5,400988515,2017-12-06
+277,2,"6:50",410,710,"Alpha Diallo Defensive Rebound.",55,54,1,0.821384077300219,"Providence","Brown",2,2,1,0,18.5,400988515,2017-12-06
+278,2,"6:43",403,703,"Makai Ashton-Langford Turnover.",55,54,1,0.810601761063899,"Providence","Brown",2,2,1,0,18.5,400988515,2017-12-06
+279,2,"6:29",389,689,"Tamenang Choh Turnover.",55,54,1,0.828231471481637,"Providence","Brown",2,2,1,0,18.5,400988515,2017-12-06
+280,2,"6:28",388,688,"Rodney Bullock Steal.",55,54,1,0.828231471481637,"Providence","Brown",2,2,1,0,18.5,400988515,2017-12-06
+281,2,"6:11",371,671,"Alpha Diallo Turnover.",55,54,1,0.810619857402125,"Providence","Brown",2,2,0,0,18.5,400988515,2017-12-06
+282,2,"5:57",357,657,"Brandon Anderson Turnover.",55,54,1,0.804357543608527,"Providence","Brown",2,2,0,0,18.5,400988515,2017-12-06
+283,2,"5:56",356,656,"Kyron Cartwright Steal.",55,54,1,0.804357543608527,"Providence","Brown",2,2,0,0,18.5,400988515,2017-12-06
+284,2,"5:53",353,653,"Rodney Bullock made Dunk. Assisted by Kyron Cartwright.",57,54,3,0.890347636982607,"Providence","Brown",2,2,0,0,18.5,400988515,2017-12-06
+285,2,"5:36",336,636,"Desmond Cambridge made Layup.",57,56,1,0.815149007586308,"Providence","Brown",2,2,0,0,18.5,400988515,2017-12-06
+286,2,"5:13",313,613,"Kyron Cartwright missed Jumper.",57,56,1,0.798776260265903,"Providence","Brown",2,2,0,0,18.5,400988515,2017-12-06
+287,2,"5:13",313,613,"Desmond Cambridge Defensive Rebound.",57,56,1,0.798776260265903,"Providence","Brown",2,2,0,0,18.5,400988515,2017-12-06
+288,2,"4:56",296,596,"Brown  Timeout",57,56,1,0.824144502289017,"Providence","Brown",2,1,0,1,18.5,400988515,2017-12-06
+289,2,"4:50",290,590,"Tamenang Choh made Layup.",57,58,-1,0.702406598052606,"Providence","Brown",2,1,0,1,18.5,400988515,2017-12-06
+290,2,"4:25",265,565,"Alpha Diallo made Layup.",59,58,1,0.805168183301552,"Providence","Brown",2,1,0,1,18.5,400988515,2017-12-06
+291,2,"4:08",248,548,"Tamenang Choh missed Layup.",59,58,1,0.794902563894671,"Providence","Brown",2,1,0,1,18.5,400988515,2017-12-06
+292,2,"4:08",248,548,"Jalen Lindsey Defensive Rebound.",59,58,1,0.794902563894671,"Providence","Brown",2,1,0,1,18.5,400988515,2017-12-06
+293,2,"3:52",232,532,"Foul on Desmond Cambridge.",59,58,1,0.790747938174968,"Providence","Brown",2,1,1,0,18.5,400988515,2017-12-06
+294,2,"3:52",232,532,"Providence  Timeout",59,58,1,0.790747938174968,"Providence","Brown",1,1,1,0,18.5,400988515,2017-12-06
+295,2,"3:52",232,532,"Jalen Lindsey missed Free Throw.",59,58,1,0.790747938174968,"Providence","Brown",1,1,1,0,18.5,400988515,2017-12-06
+296,2,"3:52",232,532,"Providence Deadball Team Rebound.",59,58,1,0.790747938174968,"Providence","Brown",1,1,1,0,18.5,400988515,2017-12-06
+297,2,"3:52",232,532,"Jalen Lindsey made Free Throw.",60,58,2,0.850081670740894,"Providence","Brown",1,1,1,0,18.5,400988515,2017-12-06
+298,2,"3:41",221,521,"Foul on Makai Ashton-Langford.",60,58,2,0.884234769739025,"Providence","Brown",1,1,1,0,18.5,400988515,2017-12-06
+299,2,"3:41",221,521,"Brandon Anderson made Free Throw.",60,59,1,0.83336898974453,"Providence","Brown",1,1,1,0,18.5,400988515,2017-12-06
+300,2,"3:41",221,521,"Brandon Anderson made Free Throw.",60,60,0,0.766066300488481,"Providence","Brown",1,1,1,0,18.5,400988515,2017-12-06
+301,2,"3:23",203,503,"Rodney Bullock missed Jumper.",60,60,0,0.75769455676003,"Providence","Brown",1,1,1,0,18.5,400988515,2017-12-06
+302,2,"3:23",203,503,"Jason Massey Defensive Rebound.",60,60,0,0.75769455676003,"Providence","Brown",1,1,1,0,18.5,400988515,2017-12-06
+303,2,"2:52",172,472,"Jason Massey missed Jumper.",60,60,0,0.717907835169458,"Providence","Brown",1,1,1,0,18.5,400988515,2017-12-06
+304,2,"2:52",172,472,"Brown Offensive Rebound.",60,60,0,0.717907835169458,"Providence","Brown",1,1,1,0,18.5,400988515,2017-12-06
+305,2,"2:51",171,471,"Brown  Turnover.",60,60,0,0.717907835169458,"Providence","Brown",1,1,0,0,18.5,400988515,2017-12-06
+306,2,"2:31",151,451,"Rodney Bullock made Jumper. Assisted by Makai Ashton-Langford.",62,60,2,0.869586683778197,"Providence","Brown",1,1,0,0,18.5,400988515,2017-12-06
+307,2,"2:13",133,433,"Brandon Anderson missed Jumper.",62,60,2,0.8745697290941,"Providence","Brown",1,1,0,0,18.5,400988515,2017-12-06
+308,2,"2:13",133,433,"Rodney Bullock Block.",62,60,2,0.8745697290941,"Providence","Brown",1,1,0,0,18.5,400988515,2017-12-06
+309,2,"2:11",131,431,"Makai Ashton-Langford Defensive Rebound.",62,60,2,0.8745697290941,"Providence","Brown",1,1,0,0,18.5,400988515,2017-12-06
+310,2,"2:08",128,428,"Alpha Diallo missed Layup.",62,60,2,0.86830854449084,"Providence","Brown",1,1,0,0,18.5,400988515,2017-12-06
+311,2,"2:08",128,428,"Desmond Cambridge Block.",62,60,2,0.86830854449084,"Providence","Brown",1,1,0,0,18.5,400988515,2017-12-06
+312,2,"2:06",126,426,"Desmond Cambridge Defensive Rebound.",62,60,2,0.86830854449084,"Providence","Brown",1,1,0,0,18.5,400988515,2017-12-06
+313,2,"2:03",123,423,"Brandon Anderson made Layup. Assisted by Desmond Cambridge.",62,62,0,0.679846332370145,"Providence","Brown",1,1,0,0,18.5,400988515,2017-12-06
+314,2,"1:54",114,414,"Providence  Timeout",62,62,0,0.699211204728616,"Providence","Brown",0,1,1,0,18.5,400988515,2017-12-06
+315,2,"1:34",94,394,"Alpha Diallo made Layup. Assisted by Kyron Cartwright.",64,62,2,0.864900867567806,"Providence","Brown",0,1,1,0,18.5,400988515,2017-12-06
+316,2,"1:17",77,377,"Obi Okolie missed Layup.",64,62,2,0.892044454627355,"Providence","Brown",0,1,1,0,18.5,400988515,2017-12-06
+317,2,"1:17",77,377,"Jalen Lindsey Block.",64,62,2,0.892044454627355,"Providence","Brown",0,1,1,0,18.5,400988515,2017-12-06
+318,2,"1:17",77,377,"Brown Offensive Rebound.",64,62,2,0.892044454627355,"Providence","Brown",0,1,1,0,18.5,400988515,2017-12-06
+319,2,"1:12",72,372,"Foul on Rodney Bullock.",64,62,2,0.892044454627355,"Providence","Brown",0,1,1,0,18.5,400988515,2017-12-06
+320,2,"1:12",72,372,"Brandon Anderson made Free Throw.",64,63,1,0.798475968909443,"Providence","Brown",0,1,1,0,18.5,400988515,2017-12-06
+321,2,"1:12",72,372,"Providence  Timeout",64,63,1,0.798475968909443,"Providence","Brown",-1,1,1,0,18.5,400988515,2017-12-06
+322,2,"1:12",72,372,"Brandon Anderson missed Free Throw.",64,63,1,0.798475968909443,"Providence","Brown",-1,1,1,0,18.5,400988515,2017-12-06
+323,2,"1:12",72,372,"Isaiah Jackson Defensive Rebound.",64,63,1,0.798475968909443,"Providence","Brown",-1,1,1,0,18.5,400988515,2017-12-06
+324,2,"0:47",47,347,"Jalen Lindsey made Three Point Jumper. Assisted by Makai Ashton-Langford.",67,63,4,0.987534619490431,"Providence","Brown",-1,1,1,0,18.5,400988515,2017-12-06
+325,2,"0:35",35,335,"Brandon Anderson Turnover.",67,63,4,0.954707253760153,"Providence","Brown",-1,1,1,0,18.5,400988515,2017-12-06
+326,2,"0:35",35,335,"Foul on Brandon Anderson.",67,63,4,0.954707253760153,"Providence","Brown",-1,1,1,0,18.5,400988515,2017-12-06
+327,2,"0:34",34,334,"Kyron Cartwright Turnover.",67,63,4,0.954707253760153,"Providence","Brown",-1,1,1,0,18.5,400988515,2017-12-06
+328,2,"0:33",33,333,"Tamenang Choh Steal.",67,63,4,0.993465794421411,"Providence","Brown",-1,1,1,0,18.5,400988515,2017-12-06
+329,2,"0:32",32,332,"Foul on Isaiah Jackson.",67,63,4,0.993465794421411,"Providence","Brown",-1,1,1,0,18.5,400988515,2017-12-06
+330,2,"0:32",32,332,"Desmond Cambridge missed Free Throw.",67,63,4,0.993465794421411,"Providence","Brown",-1,1,1,0,18.5,400988515,2017-12-06
+331,2,"0:32",32,332,"Brown Deadball Team Rebound.",67,63,4,0.993465794421411,"Providence","Brown",-1,1,1,0,18.5,400988515,2017-12-06
+332,2,"0:32",32,332,"Desmond Cambridge made Free Throw.",67,64,3,0.9799667903632,"Providence","Brown",-1,1,1,0,18.5,400988515,2017-12-06
+333,2,"0:32",32,332,"Desmond Cambridge made Free Throw.",67,65,2,0.940257255102309,"Providence","Brown",-1,1,1,0,18.5,400988515,2017-12-06
+334,2,"0:27",27,327,"Foul on Zach Hunsaker.",67,65,2,0.972865447323147,"Providence","Brown",-1,1,1,0,18.5,400988515,2017-12-06
+335,2,"0:27",27,327,"Makai Ashton-Langford made Free Throw.",68,65,3,0.991585049086862,"Providence","Brown",-1,1,1,0,18.5,400988515,2017-12-06
+336,2,"0:27",27,327,"Makai Ashton-Langford missed Free Throw.",68,65,3,0.991585049086862,"Providence","Brown",-1,1,1,0,18.5,400988515,2017-12-06
+337,2,"0:27",27,327,"Tamenang Choh Defensive Rebound.",68,65,3,0.991585049086862,"Providence","Brown",-1,1,1,0,18.5,400988515,2017-12-06
+338,2,"0:21",21,321,"Brown  Timeout",68,65,3,0.996048577974046,"Providence","Brown",-1,0,1,1,18.5,400988515,2017-12-06
+339,2,"0:16",16,316,"Tamenang Choh made Layup.",68,67,1,0.886969179253929,"Providence","Brown",-1,0,1,1,18.5,400988515,2017-12-06
+340,2,"0:16",16,316,"Foul on Isaiah Jackson.",68,67,1,0.886969179253929,"Providence","Brown",-1,0,1,1,18.5,400988515,2017-12-06
+341,2,"0:16",16,316,"Providence  Timeout",68,67,1,0.886969179253929,"Providence","Brown",-2,0,1,1,18.5,400988515,2017-12-06
+342,2,"0:16",16,316,"Tamenang Choh made Free Throw.",68,68,0,0.596848237068498,"Providence","Brown",-2,0,1,1,18.5,400988515,2017-12-06
+343,2,"0:01",1,301,"Jalen Lindsey missed Three Point Jumper.",68,68,0,0.719758097411872,"Providence","Brown",-2,0,1,1,18.5,400988515,2017-12-06
+344,2,"0:01",1,301,"Zach Hunsaker Defensive Rebound.",68,68,0,0.719758097411872,"Providence","Brown",-2,0,1,1,18.5,400988515,2017-12-06
+345,2,"0:00",300,300,"Zach Hunsaker missed Three Point Jumper.",68,68,0,0.728227462967381,"Providence","Brown",-2,0,0,0,18.5,400988515,2017-12-06
+346,2,"0:00",300,300,"Brown Deadball Team Rebound.",68,68,0,0.728227462967381,"Providence","Brown",-2,0,0,0,18.5,400988515,2017-12-06
+347,2,"0:00",300,300,"End of 2nd half",68,68,0,0.728227462967381,"Providence","Brown",-2,0,0,0,18.5,400988515,2017-12-06
+348,3,"5:00",300,300,"PLAY",68,68,0,0.728227462967381,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+349,3,"4:43",283,283,"Brandon Anderson made Free Throw.",68,69,-1,0.669188568445099,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+350,3,"4:43",283,283,"Foul on Rodney Bullock.",68,68,0,0.742176771623901,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+351,3,"4:43",283,283,"Brandon Anderson made Free Throw.",68,70,-2,0.587034968729264,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+352,3,"4:28",268,268,"Drew Edwards missed Jumper.",68,70,-2,0.574236255627212,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+353,3,"4:28",268,268,"Tamenang Choh Block.",68,70,-2,0.574236255627212,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+354,3,"4:27",267,267,"Makai Ashton-Langford Offensive Rebound.",68,70,-2,0.574236255627212,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+355,3,"4:21",261,261,"Makai Ashton-Langford Turnover.",68,70,-2,0.574236255627212,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+356,3,"4:04",244,244,"Desmond Cambridge missed Jumper.",68,70,-2,0.535269086323491,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+357,3,"4:04",244,244,"Makai Ashton-Langford Defensive Rebound.",68,70,-2,0.535269086323491,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+358,3,"3:44",224,224,"Kyron Cartwright Turnover.",68,70,-2,0.584021353988587,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+359,3,"3:44",224,224,"Foul on Kyron Cartwright.",68,70,-2,0.584021353988587,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+360,3,"3:31",211,211,"Brandon Anderson missed Three Point Jumper.",68,70,-2,0.519190039126857,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+361,3,"3:31",211,211,"Rodney Bullock Defensive Rebound.",68,70,-2,0.519190039126857,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+362,3,"3:28",208,208,"Foul on Tamenang Choh.",68,70,-2,0.558730658047299,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+363,3,"3:28",208,208,"Rodney Bullock missed Free Throw.",68,70,-2,0.558730658047299,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+364,3,"3:28",208,208,"Providence Deadball Team Rebound.",68,70,-2,0.558730658047299,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+365,3,"3:28",208,208,"Rodney Bullock made Free Throw.",69,70,-1,0.665532257955657,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+366,3,"3:17",197,197,"Brandon Anderson missed Layup.",69,70,-1,0.56018863124139,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+367,3,"3:17",197,197,"Makai Ashton-Langford Defensive Rebound.",69,70,-1,0.56018863124139,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+368,3,"3:11",191,191,"Makai Ashton-Langford missed Layup.",69,70,-1,0.56018863124139,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+369,3,"3:11",191,191,"Kyron Cartwright Offensive Rebound.",69,70,-1,0.56018863124139,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+370,3,"2:56",176,176,"Makai Ashton-Langford made Layup.",71,70,1,0.80631338934874,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+371,3,"2:55",175,175,"Foul on Jason Massey.",71,70,1,0.80631338934874,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+372,3,"2:55",175,175,"Jason Massey Turnover.",71,70,1,0.80631338934874,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+373,3,"2:55",175,175,"Rodney Bullock made Free Throw.",72,70,2,0.871954852668055,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+374,3,"2:55",175,175,"Rodney Bullock made Free Throw.",73,70,3,0.917622853575454,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+375,3,"2:41",161,161,"Desmond Cambridge missed Three Point Jumper.",73,70,3,0.941035269852688,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+376,3,"2:41",161,161,"Zach Hunsaker Offensive Rebound.",73,70,3,0.941035269852688,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+377,3,"2:38",158,158,"Foul on Kyron Cartwright.",73,70,3,0.919664720500002,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+378,3,"2:38",158,158,"Zach Hunsaker made Free Throw.",73,71,2,0.869586683778197,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+379,3,"2:38",158,158,"Zach Hunsaker made Free Throw.",73,72,1,0.795242088687246,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+380,3,"2:19",139,139,"Makai Ashton-Langford Turnover.",73,72,1,0.801263442259415,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+381,3,"1:51",111,111,"Desmond Cambridge Turnover.",73,72,1,0.809132256136852,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+382,3,"1:49",109,109,"Drew Edwards Steal.",73,72,1,0.788172065208809,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+383,3,"1:33",93,93,"Jalen Lindsey missed Three Point Jumper.",73,72,1,0.773425666962969,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+384,3,"1:33",93,93,"Zach Hunsaker Defensive Rebound.",73,72,1,0.773425666962969,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+385,3,"1:30",90,90,"Desmond Cambridge missed Three Point Jumper.",73,72,1,0.773425666962969,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+386,3,"1:30",90,90,"Drew Edwards Defensive Rebound.",73,72,1,0.773425666962969,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+387,3,"1:07",67,67,"Foul on Joshua Howard.",73,72,1,0.742747039360762,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+388,3,"1:07",67,67,"Rodney Bullock made Free Throw.",74,72,2,0.858457999407226,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+389,3,"1:07",67,67,"Rodney Bullock made Free Throw.",75,72,3,0.927222510534532,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+390,3,"0:53",53,53,"Obi Okolie missed Layup.",75,72,3,0.966564106910747,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+391,3,"0:53",53,53,"Jalen Lindsey Defensive Rebound.",75,72,3,0.966564106910747,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+392,3,"0:45",45,45,"Foul on Zach Hunsaker.",75,72,3,0.945942494588314,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+393,3,"0:45",45,45,"Rodney Bullock missed Free Throw.",75,72,3,0.945942494588314,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+394,3,"0:45",45,45,"Providence Deadball Team Rebound.",75,72,3,0.945942494588314,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+395,3,"0:45",45,45,"Rodney Bullock missed Free Throw.",75,72,3,0.945942494588314,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+396,3,"0:45",45,45,"Desmond Cambridge Defensive Rebound.",75,72,3,0.945942494588314,"Providence","Brown",-1,1,0,0,18.5,400988515,2017-12-06
+397,3,"0:26",26,26,"Brown  Timeout",75,72,3,0.989240483682157,"Providence","Brown",-1,0,0,1,18.5,400988515,2017-12-06
+398,3,"0:15",15,15,"Zach Hunsaker missed Three Point Jumper.",75,72,3,0.975824530822663,"Providence","Brown",-1,0,1,1,18.5,400988515,2017-12-06
+399,3,"0:15",15,15,"Rodney Bullock Block.",75,72,3,0.975824530822663,"Providence","Brown",-1,0,1,1,18.5,400988515,2017-12-06
+400,3,"0:15",15,15,"Zach Hunsaker Offensive Rebound.",75,72,3,0.975824530822663,"Providence","Brown",-1,0,1,1,18.5,400988515,2017-12-06
+401,3,"0:15",15,15,"Brown  Turnover.",75,72,3,0.975824530822663,"Providence","Brown",-1,0,1,1,18.5,400988515,2017-12-06
+402,3,"0:15",15,15,"Providence  Timeout",75,72,3,0.975824530822663,"Providence","Brown",-2,0,1,1,18.5,400988515,2017-12-06
+403,3,"0:14",14,14,"Foul on Zach Hunsaker.",75,72,3,0.993677202755176,"Providence","Brown",-2,0,1,1,18.5,400988515,2017-12-06
+404,3,"0:14",14,14,"Kyron Cartwright made Free Throw.",76,72,4,0.998761625137484,"Providence","Brown",-2,0,1,1,18.5,400988515,2017-12-06
+405,3,"0:14",14,14,"Kyron Cartwright made Free Throw.",77,72,5,0.999758447401319,"Providence","Brown",-2,0,1,1,18.5,400988515,2017-12-06
+406,3,"0:09",9,9,"Obi Okolie Turnover.",77,72,5,0.999800455906289,"Providence","Brown",-2,0,1,1,18.5,400988515,2017-12-06
+407,3,"0:00",0,0,"End of Game",77,72,5,1,"Providence","Brown",-2,0,1,1,18.5,400988515,2017-12-06

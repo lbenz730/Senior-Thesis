@@ -1,0 +1,337 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.105240571778714,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+2,1,"20:00",2400,2400,"Jump Ball won by Pennsylvania",0,0,0,0.105240571778714,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+3,1,"19:45",2385,2385,"AJ Brodeur missed Jumper.",0,0,0,0.110766865657491,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+4,1,"19:45",2385,2385,"Kris Jenkins Defensive Rebound.",0,0,0,0.110766865657491,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+5,1,"19:35",2375,2375,"Kris Jenkins made Three Point Jumper.",0,3,-3,0.0975549787277731,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+6,1,"19:24",2364,2364,"Jackson Donahue made Three Point Jumper. Assisted by Matt MacDonald.",3,3,0,0.123266663149034,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+7,1,"18:59",2339,2339,"Donte DiVincenzo made Three Point Jumper. Assisted by Kris Jenkins.",3,6,-3,0.0954758325384507,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+8,1,"18:31",2311,2311,"Matt MacDonald missed Three Point Jumper.",3,6,-3,0.0973926939368844,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+9,1,"18:31",2311,2311,"Darryl Reynolds Defensive Rebound.",3,6,-3,0.0973926939368844,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+10,1,"18:31",2311,2311,"Foul on Darnell Foreman.",3,6,-3,0.0973926939368844,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+11,1,"17:51",2271,2271,"Darryl Reynolds made Jumper.",3,8,-5,0.08086251347805,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+12,1,"17:35",2255,2255,"Matt Howard Turnover.",3,8,-5,0.0891785936437325,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+13,1,"17:35",2255,2255,"Jalen Brunson Steal.",3,8,-5,0.0891785936437325,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+14,1,"17:31",2251,2251,"Jalen Brunson made Layup.",3,10,-7,0.0746939404599882,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+15,1,"17:15",2235,2235,"Jackson Donahue missed Three Point Jumper.",3,10,-7,0.0630851192534967,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+16,1,"17:15",2235,2235,"Matt Howard Offensive Rebound.",3,10,-7,0.0630851192534967,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+17,1,"17:05",2225,2225,"Matt Howard missed Three Point Jumper.",3,10,-7,0.0669231867489547,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+18,1,"17:05",2225,2225,"AJ Brodeur Offensive Rebound.",3,10,-7,0.0669231867489547,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+19,1,"16:55",2215,2215,"Matt Howard missed Layup.",3,10,-7,0.0627896199854418,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+20,1,"16:55",2215,2215,"Pennsylvania Deadball Team Rebound.",3,10,-7,0.0627896199854418,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+21,1,"16:40",2200,2200,"AJ Brodeur made Jumper. Assisted by Darnell Foreman.",5,10,-5,0.0803630000704499,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+22,1,"16:19",2179,2179,"Kris Jenkins made Jumper. Assisted by Mikal Bridges.",5,12,-7,0.0642435518439342,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+23,1,"15:46",2146,2146,"Matt Howard missed Layup.",5,12,-7,0.0707612861445895,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+24,1,"15:46",2146,2146,"Donte DiVincenzo Block.",5,12,-7,0.0707612861445895,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+25,1,"15:46",2146,2146,"Pennsylvania Deadball Team Rebound.",5,12,-7,0.0707612861445895,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+26,1,"15:39",2139,2139,"Official TV Timeout",5,12,-7,0.0593083969442894,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+27,1,"15:35",2135,2135,"Jackson Donahue made Three Point Jumper. Assisted by AJ Brodeur.",8,12,-4,0.0831198326847422,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+28,1,"15:18",2118,2118,"Kris Jenkins made Three Point Jumper. Assisted by Jalen Brunson.",8,15,-7,0.0546984174917707,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+29,1,"14:49",2089,2089,"Matt Howard Turnover.",8,15,-7,0.0726959496564919,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+30,1,"14:35",2075,2075,"Eric Paschall missed Three Point Jumper.",8,15,-7,0.0618626959280368,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+31,1,"14:35",2075,2075,"Kris Jenkins Offensive Rebound.",8,15,-7,0.0618626959280368,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+32,1,"14:33",2073,2073,"Foul on Matt MacDonald.",8,15,-7,0.0618626959280368,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+33,1,"14:17",2057,2057,"Eric Paschall Turnover.",8,15,-7,0.0536334901504095,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+34,1,"14:17",2057,2057,"Matt MacDonald Steal.",8,15,-7,0.0536334901504095,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+35,1,"14:05",2045,2045,"Darnell Foreman made Layup.",10,15,-5,0.0788230812339987,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+36,1,"13:48",2028,2028,"Jalen Brunson made Three Point Jumper. Assisted by Mikal Bridges.",10,18,-8,0.0483344521150285,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+37,1,"13:37",2017,2017,"Matt Howard made Three Point Jumper. Assisted by Darnell Foreman.",13,18,-5,0.0829356949102192,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+38,1,"13:12",1992,1992,"Jalen Brunson missed Three Point Jumper.",13,18,-5,0.0739884830088159,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+39,1,"13:12",1992,1992,"Max Rothschild Defensive Rebound.",13,18,-5,0.0739884830088159,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+40,1,"13:09",1989,1989,"Foul on Eric Paschall.",13,18,-5,0.0805596159073224,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+41,1,"12:44",1964,1964,"Darnell Foreman missed Three Point Jumper.",13,18,-5,0.0832707585290232,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+42,1,"12:44",1964,1964,"Max Rothschild Offensive Rebound.",13,18,-5,0.0832707585290232,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+43,1,"12:44",1964,1964,"Max Rothschild Turnover.",13,18,-5,0.0832707585290232,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+44,1,"12:44",1964,1964,"Mikal Bridges Steal.",13,18,-5,0.0832707585290232,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+45,1,"12:26",1946,1946,"Mikal Bridges made Three Point Jumper. Assisted by Josh Hart.",13,21,-8,0.0549532835691463,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+46,1,"12:10",1930,1930,"Foul on Donte DiVincenzo.",13,21,-8,0.0535708650128948,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+47,1,"12:01",1921,1921,"Tyler Hamilton Turnover.",13,21,-8,0.0472670077917255,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+48,1,"11:49",1909,1909,"Official TV Timeout",13,21,-8,0.0566587595787685,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+49,1,"11:49",1909,1909,"Darryl Reynolds Turnover.",13,21,-8,0.0566587595787685,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+50,1,"11:49",1909,1909,"Max Rothschild Steal.",13,21,-8,0.0566587595787685,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+51,1,"11:21",1881,1881,"Darnell Foreman missed Jumper.",13,21,-8,0.0522903185351121,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+52,1,"11:21",1881,1881,"Darryl Reynolds Defensive Rebound.",13,21,-8,0.0522903185351121,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+53,1,"10:47",1847,1847,"Villanova  Turnover.",13,21,-8,0.0515407773359801,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+54,1,"10:36",1836,1836,"Foul on Jalen Brunson.",13,21,-8,0.0618984954373581,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+55,1,"10:23",1823,1823,"Caleb Wood missed Three Point Jumper.",13,21,-8,0.062580308073976,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+56,1,"10:23",1823,1823,"Darryl Reynolds Defensive Rebound.",13,21,-8,0.062580308073976,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+57,1,"9:59",1799,1799,"Foul on Max Rothschild.",13,21,-8,0.0576268304472191,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+58,1,"9:57",1797,1797,"Jalen Brunson missed Three Point Jumper.",13,21,-8,0.0576268304472191,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+59,1,"9:57",1797,1797,"Caleb Wood Defensive Rebound.",13,21,-8,0.0576268304472191,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+60,1,"9:47",1787,1787,"Max Rothschild missed Layup.",13,21,-8,0.0539517898101046,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+61,1,"9:47",1787,1787,"Darryl Reynolds Block.",13,21,-8,0.0539517898101046,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+62,1,"9:47",1787,1787,"Darryl Reynolds Defensive Rebound.",13,21,-8,0.0539517898101046,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+63,1,"9:47",1787,1787,"Foul on Tyler Hamilton.",13,21,-8,0.0539517898101046,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+64,1,"9:36",1776,1776,"Darryl Reynolds made Jumper. Assisted by Josh Hart.",13,23,-10,0.0449672396714604,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+65,1,"9:16",1756,1756,"Foul on Max Rothschild.",13,23,-10,0.0322076694136879,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+66,1,"9:16",1756,1756,"Max Rothschild Turnover.",13,23,-10,0.0322076694136879,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+67,1,"8:59",1739,1739,"Jalen Brunson missed Jumper.",13,23,-10,0.0421142872268345,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+68,1,"8:59",1739,1739,"Matt MacDonald Defensive Rebound.",13,23,-10,0.0421142872268345,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+69,1,"8:48",1728,1728,"Foul on Caleb Wood.",13,23,-10,0.0546061864578588,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+70,1,"8:48",1728,1728,"Caleb Wood Turnover.",13,23,-10,0.0546061864578588,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+71,1,"8:31",1711,1711,"Foul on Eric Paschall.",13,23,-10,0.0410596936859709,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+72,1,"8:31",1711,1711,"Eric Paschall Turnover.",13,23,-10,0.0410596936859709,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+73,1,"8:03",1683,1683,"Matt Howard missed Three Point Jumper.",13,23,-10,0.0364723856838223,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+74,1,"8:03",1683,1683,"Darryl Reynolds Defensive Rebound.",13,23,-10,0.0364723856838223,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+75,1,"7:54",1674,1674,"Foul on Matt MacDonald.",13,23,-10,0.042632460955225,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+76,1,"7:54",1674,1674,"Official TV Timeout",13,23,-10,0.042632460955225,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+77,1,"7:54",1674,1674,"Josh Hart made Free Throw.",13,24,-11,0.0373219682069011,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+78,1,"7:54",1674,1674,"Josh Hart made Free Throw.",13,25,-12,0.0326504145201091,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+79,1,"7:34",1654,1654,"Jackson Donahue missed Three Point Jumper.",13,25,-12,0.0388755100693179,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+80,1,"7:34",1654,1654,"Darryl Reynolds Defensive Rebound.",13,25,-12,0.0388755100693179,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+81,1,"7:25",1645,1645,"Foul on Jackson Donahue.",13,25,-12,0.0339679856924756,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+82,1,"7:25",1645,1645,"Donte DiVincenzo made Free Throw.",13,26,-13,0.029683332154773,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+83,1,"7:25",1645,1645,"Donte DiVincenzo made Free Throw.",13,27,-14,0.0259246323840989,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+84,1,"7:18",1638,1638,"Darnell Foreman Turnover.",13,27,-14,0.0308012554540805,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+85,1,"7:09",1629,1629,"Jalen Brunson missed Three Point Jumper.",13,27,-14,0.0235239080785746,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+86,1,"7:09",1629,1629,"Mikal Bridges Offensive Rebound.",13,27,-14,0.0235239080785746,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+87,1,"7:00",1620,1620,"Josh Hart made Jumper.",13,29,-16,0.0178295717964286,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+88,1,"7:00",1620,1620,"Foul on Tyler Hamilton.",13,29,-16,0.0178295717964286,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+89,1,"7:00",1620,1620,"Josh Hart made Free Throw.",13,30,-17,0.0155137508885801,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+90,1,"6:44",1604,1604,"Darnell Foreman made Layup.",15,30,-15,0.0224894788753429,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+91,1,"6:13",1573,1573,"Kris Jenkins made Three Point Jumper. Assisted by Josh Hart.",15,33,-18,0.0114872114934243,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+92,1,"5:50",1550,1550,"Darnell Foreman missed Jumper.",15,33,-18,0.0142107385132846,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+93,1,"5:50",1550,1550,"Josh Hart Defensive Rebound.",15,33,-18,0.0142107385132846,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+94,1,"5:43",1543,1543,"Kris Jenkins missed Three Point Jumper.",15,33,-18,0.0148770542370392,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+95,1,"5:43",1543,1543,"Matt Howard Defensive Rebound.",15,33,-18,0.0148770542370392,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+96,1,"5:35",1535,1535,"AJ Brodeur made Layup. Assisted by Darnell Foreman.",17,33,-16,0.0196217678850765,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+97,1,"5:26",1526,1526,"Official TV Timeout",17,33,-16,0.019996277725666,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+98,1,"5:18",1518,1518,"Josh Hart missed Three Point Jumper.",17,33,-16,0.0185084684507184,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+99,1,"4:50",1490,1490,"Matt MacDonald missed Three Point Jumper.",17,33,-16,0.0229511061004684,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+100,1,"4:50",1490,1490,"Matt Howard Offensive Rebound.",17,33,-16,0.0229511061004684,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+101,1,"4:50",1490,1490,"Matt Howard missed Two Point Tip Shot.",17,33,-16,0.0229511061004684,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+102,1,"4:50",1490,1490,"Darryl Reynolds Defensive Rebound.",17,33,-16,0.0229511061004684,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+103,1,"4:21",1461,1461,"Darryl Reynolds made Dunk. Assisted by Josh Hart.",17,35,-18,0.0200473015146336,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+104,1,"4:12",1452,1452,"AJ Brodeur made Dunk. Assisted by Jake Silpe.",19,35,-16,0.0168500847274088,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+105,1,"4:12",1452,1452,"Foul on Donte DiVincenzo.",19,35,-16,0.0168500847274088,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+106,1,"4:12",1452,1452,"AJ Brodeur missed Free Throw.",19,35,-16,0.0168500847274088,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+107,1,"4:12",1452,1452,"Kris Jenkins Defensive Rebound.",19,35,-16,0.0168500847274088,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+108,1,"3:51",1431,1431,"Mikal Bridges missed Three Point Jumper.",19,35,-16,0.0209906483440057,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+109,1,"3:51",1431,1431,"Villanova Offensive Rebound.",19,35,-16,0.0209906483440057,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+110,1,"3:49",1429,1429,"Foul on AJ Brodeur.",19,35,-16,0.0201241784109899,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+111,1,"3:49",1429,1429,"Official TV Timeout",19,35,-16,0.0201241784109899,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+112,1,"3:49",1429,1429,"Eric Paschall missed Free Throw.",19,35,-16,0.0201241784109899,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+113,1,"3:49",1429,1429,"Villanova Deadball Team Rebound.",19,35,-16,0.0201241784109899,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+114,1,"3:49",1429,1429,"Eric Paschall missed Free Throw.",19,35,-16,0.0201241784109899,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+115,1,"3:49",1429,1429,"AJ Brodeur Defensive Rebound.",19,35,-16,0.0201241784109899,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+116,1,"3:18",1398,1398,"Matt MacDonald missed Jumper.",19,35,-16,0.0139678353365761,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+117,1,"3:18",1398,1398,"Kris Jenkins Defensive Rebound.",19,35,-16,0.0139678353365761,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+118,1,"3:05",1385,1385,"Mikal Bridges missed Layup.",19,35,-16,0.0192846052945043,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+119,1,"3:05",1385,1385,"AJ Brodeur Defensive Rebound.",19,35,-16,0.0192846052945043,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+120,1,"2:54",1374,1374,"Jackson Donahue Turnover.",19,35,-16,0.0182694866692403,"Pennsylvania","Villanova",4,4,1,0,-14,400919331,2016-11-29
+121,1,"2:54",1374,1374,"Villanova  Timeout",19,35,-16,0.0182694866692403,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+122,1,"2:38",1358,1358,"Mikal Bridges Turnover.",19,35,-16,0.018628339176346,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+123,1,"2:38",1358,1358,"Tyler Hamilton Steal.",19,35,-16,0.018628339176346,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+124,1,"2:35",1355,1355,"Foul on Josh Hart.",19,35,-16,0.018628339176346,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+125,1,"2:35",1355,1355,"Tyler Hamilton missed Free Throw.",19,35,-16,0.018628339176346,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+126,1,"2:35",1355,1355,"Pennsylvania Deadball Team Rebound.",19,35,-16,0.018628339176346,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+127,1,"2:35",1355,1355,"Tyler Hamilton made Free Throw.",20,35,-15,0.0216727512189702,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+128,1,"2:25",1345,1345,"Josh Hart Turnover.",20,35,-15,0.02040503087172,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+129,1,"2:25",1345,1345,"Max Rothschild Steal.",20,35,-15,0.02040503087172,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+130,1,"2:15",1335,1335,"Tyler Hamilton missed Jumper.",20,35,-15,0.0195625281058329,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+131,1,"2:15",1335,1335,"Mikal Bridges Defensive Rebound.",20,35,-15,0.0195625281058329,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+132,1,"1:51",1311,1311,"Kris Jenkins missed Jumper.",20,35,-15,0.0222456058387406,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+133,1,"1:51",1311,1311,"Mikal Bridges Offensive Rebound.",20,35,-15,0.0222456058387406,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+134,1,"1:45",1305,1305,"Mikal Bridges made Layup.",20,37,-17,0.0198599671453341,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+135,1,"1:20",1280,1280,"Max Rothschild made Jumper.",22,37,-15,0.020497682267807,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+136,1,"1:04",1264,1264,"Josh Hart made Three Point Jumper.",22,40,-18,0.0128042766588476,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+137,1,"0:53",1253,1253,"Pennsylvania  Timeout",22,40,-18,0.015606508880151,"Pennsylvania","Villanova",3,3,0,1,-14,400919331,2016-11-29
+138,1,"0:47",1247,1247,"Caleb Wood made Three Point Jumper. Assisted by Jackson Donahue.",25,40,-15,0.0201383334121517,"Pennsylvania","Villanova",3,3,0,1,-14,400919331,2016-11-29
+139,1,"0:47",1247,1247,"Josh Hart Defensive Rebound.",25,40,-15,0.0201383334121517,"Pennsylvania","Villanova",3,3,0,1,-14,400919331,2016-11-29
+140,1,"0:14",1214,1214,"Jalen Brunson Turnover.",25,40,-15,0.0189281590829465,"Pennsylvania","Villanova",3,3,0,1,-14,400919331,2016-11-29
+141,1,"0:14",1214,1214,"Max Rothschild Steal.",25,40,-15,0.0189281590829465,"Pennsylvania","Villanova",3,3,0,1,-14,400919331,2016-11-29
+142,1,"0:06",1206,1206,"Matt Howard Turnover.",25,40,-15,0.0198626002705318,"Pennsylvania","Villanova",3,3,0,1,-14,400919331,2016-11-29
+143,1,"0:06",1206,1206,"Mikal Bridges Steal.",25,40,-15,0.0198626002705318,"Pennsylvania","Villanova",3,3,0,1,-14,400919331,2016-11-29
+144,1,"0:02",1202,1202,"Josh Hart made Dunk.",25,42,-17,0.0145235276103839,"Pennsylvania","Villanova",3,3,0,1,-14,400919331,2016-11-29
+145,1,"0:02",1202,1202,"Kris Jenkins made Free Throw.",25,44,-19,0.0106040724395497,"Pennsylvania","Villanova",3,3,0,1,-14,400919331,2016-11-29
+146,1,"0:02",1202,1202,"Technical Foul on Pennsylvania.",25,42,-17,0.0145235276103839,"Pennsylvania","Villanova",3,3,0,1,-14,400919331,2016-11-29
+147,1,"0:02",1202,1202,"Kris Jenkins made Free Throw.",25,43,-18,0.0124119505580004,"Pennsylvania","Villanova",3,3,0,1,-14,400919331,2016-11-29
+148,1,"0:01",1201,1201,"AJ Brodeur missed Jumper.",25,44,-19,0.0106040724395497,"Pennsylvania","Villanova",3,3,0,1,-14,400919331,2016-11-29
+149,1,"0:01",1201,1201,"Villanova Deadball Team Rebound.",25,44,-19,0.0106040724395497,"Pennsylvania","Villanova",3,3,0,1,-14,400919331,2016-11-29
+150,1,"0:00",1200,1200,"End of 1st half",25,44,-19,0.0106040724395497,"Pennsylvania","Villanova",3,3,0,1,-14,400919331,2016-11-29
+151,2,"20:00",1200,1200,"PLAY",25,44,-19,0.0106040724395497,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+152,2,"20:00",1200,1200,"Jump Ball won by Villanova",25,44,-19,0.0106040724395497,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+153,2,"19:46",1186,1186,"Foul on Jackson Donahue.",25,44,-19,0.00928891069921354,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+154,2,"19:46",1186,1186,"Darryl Reynolds made Free Throw.",25,45,-20,0.00788288629064392,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+155,2,"19:46",1186,1186,"Darryl Reynolds made Free Throw.",25,46,-21,0.00668824927724401,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+156,2,"19:31",1171,1171,"Jackson Donahue made Three Point Jumper. Assisted by Matt MacDonald.",28,46,-18,0.0126404977187897,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+157,2,"18:58",1138,1138,"Josh Hart missed Three Point Jumper.",28,46,-18,0.0120112972342983,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+158,2,"18:58",1138,1138,"Darnell Foreman Defensive Rebound.",28,46,-18,0.0120112972342983,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+159,2,"18:48",1128,1128,"Jackson Donahue missed Three Point Jumper.",28,46,-18,0.00783793560013282,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+160,2,"18:48",1128,1128,"Darryl Reynolds Defensive Rebound.",28,46,-18,0.00783793560013282,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+161,2,"18:22",1102,1102,"Darryl Reynolds made Layup. Assisted by Josh Hart.",28,48,-20,0.00828360181255927,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+162,2,"18:22",1102,1102,"Foul on AJ Brodeur.",28,48,-20,0.00828360181255927,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+163,2,"18:22",1102,1102,"Darryl Reynolds missed Free Throw.",28,48,-20,0.00828360181255927,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+164,2,"18:22",1102,1102,"Pennsylvania Deadball Team Rebound.",28,48,-20,0.00828360181255927,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+165,2,"18:22",1102,1102,"Foul on Mikal Bridges.",28,48,-20,0.00828360181255927,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+166,2,"18:04",1084,1084,"Jackson Donahue missed Three Point Jumper.",28,48,-20,0.00610942536689074,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+167,2,"18:04",1084,1084,"Mikal Bridges Defensive Rebound.",28,48,-20,0.00610942536689074,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+168,2,"17:56",1076,1076,"Mikal Bridges made Layup.",28,50,-22,0.00682301231255927,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+169,2,"17:45",1065,1065,"Jackson Donahue made Three Point Jumper. Assisted by Darnell Foreman.",31,50,-19,0.0109489410784483,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+170,2,"17:05",1025,1025,"Kris Jenkins missed Jumper.",31,50,-19,0.00859458952980682,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+171,2,"17:05",1025,1025,"Josh Hart Offensive Rebound.",31,50,-19,0.00859458952980682,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+172,2,"16:58",1018,1018,"Foul on Darnell Foreman.",31,50,-19,0.00725391964538639,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+173,2,"16:50",1010,1010,"Donte DiVincenzo made Three Point Jumper. Assisted by Josh Hart.",31,53,-22,0.00420652933143472,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+174,2,"16:24",984,984,"AJ Brodeur missed Layup.",31,53,-22,0.00386220592609038,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+175,2,"16:24",984,984,"Matt Howard Offensive Rebound.",31,53,-22,0.00386220592609038,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+176,2,"16:14",974,974,"Matt MacDonald missed Three Point Jumper.",31,53,-22,0.00496321155898242,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+177,2,"16:14",974,974,"Matt Howard Defensive Rebound.",31,53,-22,0.00496321155898242,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+178,2,"16:14",974,974,"Villanova Deadball Team Rebound.",31,53,-22,0.00496321155898242,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+179,2,"16:05",965,965,"Jalen Brunson made Layup.",31,55,-24,0.00319624459798449,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+180,2,"15:34",934,934,"Darnell Foreman missed Three Point Jumper.",31,55,-24,0.00271973496963444,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+181,2,"15:34",934,934,"Kris Jenkins Defensive Rebound.",31,55,-24,0.00271973496963444,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+182,2,"15:26",926,926,"Foul on Jalen Brunson.",31,55,-24,0.00239261692817854,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+183,2,"15:26",926,926,"Jalen Brunson Turnover.",31,55,-24,0.00239261692817854,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+184,2,"15:26",926,926,"Official TV Timeout",31,55,-24,0.00239261692817854,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+185,2,"14:54",894,894,"AJ Brodeur made Layup. Assisted by Jake Silpe.",33,55,-22,0.00405317732658297,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+186,2,"14:44",884,884,"Eric Paschall Turnover.",33,55,-22,0.00587724385671453,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+187,2,"14:44",884,884,"Jackson Donahue Steal.",33,55,-22,0.00587724385671453,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+188,2,"14:35",875,875,"Foul on Max Rothschild.",33,55,-22,0.00395669871974147,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+189,2,"14:35",875,875,"Max Rothschild Turnover.",33,55,-22,0.00395669871974147,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+190,2,"14:35",875,875,"Darryl Reynolds Turnover.",33,55,-22,0.00395669871974147,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+191,2,"14:35",875,875,"Max Rothschild Steal.",33,55,-22,0.00395669871974147,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+192,2,"14:05",845,845,"Caleb Wood missed Three Point Jumper.",33,55,-22,0.00268212854233943,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+193,2,"14:05",845,845,"Donte DiVincenzo Defensive Rebound.",33,55,-22,0.00268212854233943,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+194,2,"13:50",830,830,"Josh Hart missed Three Point Jumper.",33,55,-22,0.00250452672687786,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+195,2,"13:50",830,830,"Caleb Wood Defensive Rebound.",33,55,-22,0.00250452672687786,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+196,2,"13:42",822,822,"Foul on Donte DiVincenzo.",33,55,-22,0.0041013476688612,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+197,2,"13:42",822,822,"Caleb Wood made Free Throw.",34,55,-21,0.00494680665870393,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+198,2,"13:42",822,822,"Caleb Wood made Free Throw.",35,55,-20,0.00596550606876064,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+199,2,"13:25",805,805,"Kris Jenkins Turnover.",35,55,-20,0.0048690637691901,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+200,2,"13:25",805,805,"Jake Silpe Steal.",35,55,-20,0.0048690637691901,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+201,2,"13:22",802,802,"Foul on Jake Silpe.",35,55,-20,0.0048690637691901,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+202,2,"13:22",802,802,"Jake Silpe Turnover.",35,55,-20,0.0048690637691901,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+203,2,"13:07",787,787,"Eric Paschall missed Jumper.",35,55,-20,0.00446111705971891,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+204,2,"13:07",787,787,"AJ Brodeur Block.",35,55,-20,0.00446111705971891,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+205,2,"13:07",787,787,"Caleb Wood Defensive Rebound.",35,55,-20,0.00446111705971891,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+206,2,"12:58",778,778,"Caleb Wood Turnover.",35,55,-20,0.0042297973472653,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+207,2,"12:58",778,778,"Eric Paschall Steal.",35,55,-20,0.0042297973472653,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+208,2,"12:54",774,774,"Jalen Brunson made Layup. Assisted by Eric Paschall.",35,57,-22,0.00278239289506357,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+209,2,"12:45",765,765,"AJ Brodeur missed Jumper.",35,57,-22,0.00244576639114446,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+210,2,"12:45",765,765,"Donte DiVincenzo Defensive Rebound.",35,57,-22,0.00244576639114446,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+211,2,"12:25",745,745,"Eric Paschall Turnover.",35,57,-22,0.00198970267668434,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+212,2,"12:06",726,726,"Caleb Wood missed Layup.",35,57,-22,0.00271192820436901,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+213,2,"12:06",726,726,"Eric Paschall Block.",35,57,-22,0.00271192820436901,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+214,2,"12:06",726,726,"Mikal Bridges Defensive Rebound.",35,57,-22,0.00271192820436901,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+215,2,"11:50",710,710,"Eric Paschall Turnover.",35,57,-22,0.00195430732178494,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+216,2,"11:50",710,710,"AJ Brodeur Steal.",35,57,-22,0.00195430732178494,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+217,2,"11:45",705,705,"Matt Howard made Layup. Assisted by Darnell Foreman.",37,57,-20,0.00509619854408515,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+218,2,"11:45",705,705,"Foul on Jalen Brunson.",37,57,-20,0.00509619854408515,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+219,2,"11:45",705,705,"Official TV Timeout",37,57,-20,0.00509619854408515,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+220,2,"11:45",705,705,"Matt Howard missed Free Throw.",37,57,-20,0.00509619854408515,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+221,2,"11:39",699,699,"Tyler Hamilton Offensive Rebound.",37,57,-20,0.00219224186875717,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+222,2,"11:39",699,699,"Caleb Wood Turnover.",37,57,-20,0.00219224186875717,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+223,2,"11:39",699,699,"Mikal Bridges Steal.",37,57,-20,0.00219224186875717,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+224,2,"11:39",699,699,"Foul on Caleb Wood.",37,57,-20,0.00219224186875717,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+225,2,"11:06",666,666,"Darryl Reynolds Turnover.",37,57,-20,0.00398203094311526,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+226,2,"11:06",666,666,"Tyler Hamilton Steal.",37,57,-20,0.00398203094311526,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+227,2,"10:59",659,659,"Matt Howard missed Layup.",37,57,-20,0.00299658708213443,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+228,2,"10:59",659,659,"Josh Hart Defensive Rebound.",37,57,-20,0.00299658708213443,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+229,2,"10:52",652,652,"Donte DiVincenzo missed Layup.",37,57,-20,0.00299658708213443,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+230,2,"10:52",652,652,"Josh Hart Offensive Rebound.",37,57,-20,0.00299658708213443,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+231,2,"10:52",652,652,"Josh Hart made Two Point Tip Shot.",37,59,-22,0.00186410836609584,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+232,2,"10:37",637,637,"Darnell Foreman made Jumper.",39,59,-20,0.00321899853089671,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+233,2,"10:37",637,637,"Foul on Donte DiVincenzo.",39,59,-20,0.00321899853089671,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+234,2,"10:37",637,637,"Darnell Foreman made Free Throw.",40,59,-19,0.00407377077687632,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+235,2,"10:22",622,622,"Kris Jenkins made Three Point Jumper. Assisted by Josh Hart.",40,62,-22,0.0010934483573755,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+236,2,"9:59",599,599,"Darnell Foreman made Three Point Jumper. Assisted by AJ Brodeur.",43,62,-19,0.00353603748040015,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+237,2,"9:33",573,573,"Mikal Bridges missed Three Point Jumper.",43,62,-19,0.00307824705926418,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+238,2,"9:33",573,573,"Darnell Foreman Defensive Rebound.",43,62,-19,0.00307824705926418,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+239,2,"9:24",564,564,"Darnell Foreman missed Layup.",43,62,-19,0.00227525095516326,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+240,2,"9:24",564,564,"Eric Paschall Defensive Rebound.",43,62,-19,0.00227525095516326,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+241,2,"9:18",558,558,"Mikal Bridges made Layup. Assisted by Eric Paschall.",43,64,-21,0.00133633754885824,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+242,2,"9:18",558,558,"Foul on Tyler Hamilton.",43,64,-21,0.00133633754885824,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+243,2,"9:18",558,558,"Mikal Bridges made Free Throw.",43,65,-22,0.00103037868552398,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+244,2,"9:00",540,540,"AJ Brodeur Turnover.",43,65,-22,0.000898428045005208,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+245,2,"9:00",540,540,"Josh Hart Steal.",43,65,-22,0.000898428045005208,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+246,2,"8:55",535,535,"Kris Jenkins made Three Point Jumper. Assisted by Josh Hart.",43,68,-25,0.000334239865977373,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+247,2,"8:21",501,501,"Max Rothschild Turnover.",43,68,-25,0.000469821102909146,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+248,2,"8:13",493,493,"Foul on Max Rothschild.",43,68,-25,0.000491670261493009,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+249,2,"8:13",493,493,"Darryl Reynolds made Free Throw.",43,69,-26,0.000374610675775933,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+250,2,"8:13",493,493,"Darryl Reynolds made Free Throw.",43,70,-27,0.000285413327728457,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+251,2,"7:51",471,471,"Jackson Donahue missed Three Point Jumper.",43,70,-27,0.000131057459279874,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+252,2,"7:51",471,471,"Eric Paschall Defensive Rebound.",43,70,-27,0.000131057459279874,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+253,2,"7:32",452,452,"Donte DiVincenzo missed Three Point Jumper.",43,70,-27,7.49955116515481e-05,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+254,2,"7:32",452,452,"Jackson Donahue Defensive Rebound.",43,70,-27,7.49955116515481e-05,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+255,2,"7:22",442,442,"Jackson Donahue missed Three Point Jumper.",43,70,-27,0.000263167274754654,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+256,2,"7:22",442,442,"AJ Brodeur Offensive Rebound.",43,70,-27,0.000263167274754654,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+257,2,"7:01",421,421,"AJ Brodeur missed Jumper.",43,70,-27,0.000121298792610796,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+258,2,"7:01",421,421,"Eric Paschall Defensive Rebound.",43,70,-27,0.000121298792610796,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+259,2,"6:39",399,399,"Kris Jenkins missed Jumper.",43,70,-27,9.37149339218747e-05,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+260,2,"6:39",399,399,"Caleb Wood Defensive Rebound.",43,70,-27,9.37149339218747e-05,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+261,2,"6:28",388,388,"Caleb Wood missed Three Point Jumper.",43,70,-27,0.000113258021150532,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+262,2,"6:28",388,388,"AJ Brodeur Offensive Rebound.",43,70,-27,0.000113258021150532,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+263,2,"6:22",382,382,"Jackson Donahue missed Three Point Jumper.",43,70,-27,0.000113258021150532,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+264,2,"6:22",382,382,"Dylan Painter Defensive Rebound.",43,70,-27,0.000113258021150532,"Pennsylvania","Villanova",4,4,0,0,-14,400919331,2016-11-29
+265,2,"6:00",360,360,"Villanova  Timeout",43,70,-27,7.03485469684395e-05,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+266,2,"5:59",359,359,"Donte DiVincenzo Turnover.",43,70,-27,3.10219621427961e-05,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+267,2,"5:59",359,359,"Jackson Donahue Steal.",43,70,-27,3.10219621427961e-05,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+268,2,"5:59",359,359,"Foul on Kris Jenkins.",43,70,-27,3.10219621427961e-05,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+269,2,"5:59",359,359,"Official TV Timeout",43,70,-27,3.10219621427961e-05,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+270,2,"5:48",348,348,"Foul on Mikal Bridges.",43,70,-27,4.06129113210825e-05,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+271,2,"5:48",348,348,"Caleb Wood made Free Throw.",44,70,-26,5.67509126705477e-05,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+272,2,"5:48",348,348,"Caleb Wood made Free Throw.",45,70,-25,7.93010235062971e-05,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+273,2,"5:31",331,331,"Jump Ball won by Villanova",45,70,-25,6.29974292224966e-05,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+274,2,"5:29",329,329,"Kris Jenkins made Three Point Jumper. Assisted by Josh Hart.",45,73,-28,4.9460170527772e-05,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+275,2,"5:10",310,310,"Tyler Hamilton missed Layup.",45,73,-28,1.64253535487673e-05,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+276,2,"5:10",310,310,"Tyler Hamilton Offensive Rebound.",45,73,-28,1.64253535487673e-05,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+277,2,"5:08",308,308,"Foul on Kris Jenkins.",45,73,-28,3.61354750164879e-05,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+278,2,"5:08",308,308,"Tyler Hamilton made Free Throw.",46,73,-27,5.06988865529109e-05,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+279,2,"5:08",308,308,"Tyler Hamilton made Free Throw.",47,73,-26,7.11312639323806e-05,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+280,2,"5:01",301,301,"Foul on Mikal Bridges.",47,73,-26,7.11312639323806e-05,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+281,2,"5:01",301,301,"Mikal Bridges Turnover.",47,73,-26,7.11312639323806e-05,"Pennsylvania","Villanova",3,4,1,0,-14,400919331,2016-11-29
+282,2,"4:50",290,290,"Tyler Hamilton missed Layup.",47,73,-26,4.6204720292022e-05,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+283,2,"4:50",290,290,"Josh Hart Defensive Rebound.",47,73,-26,4.6204720292022e-05,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+284,2,"4:34",274,274,"Foul on Tyler Hamilton.",47,73,-26,1.50024001243513e-05,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+285,2,"4:34",274,274,"Dylan Painter missed Free Throw.",47,73,-26,1.50024001243513e-05,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+286,2,"4:34",274,274,"Villanova Deadball Team Rebound.",47,73,-26,1.50024001243513e-05,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+287,2,"4:34",274,274,"Dylan Painter missed Free Throw.",47,73,-26,1.50024001243513e-05,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+288,2,"4:34",274,274,"Sam Jones Defensive Rebound.",47,73,-26,1.50024001243513e-05,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+289,2,"4:32",272,272,"Foul on Dylan Painter.",47,73,-26,1.50024001243513e-05,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+290,2,"4:32",272,272,"Sam Jones made Free Throw.",48,73,-25,2.21228789240412e-05,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+291,2,"4:32",272,272,"Sam Jones made Free Throw.",49,73,-24,3.26227879400092e-05,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+292,2,"4:23",263,263,"Darryl Reynolds Turnover.",49,73,-24,5.68749330817709e-05,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+293,2,"4:23",263,263,"Max Rothschild Steal.",49,73,-24,5.68749330817709e-05,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+294,2,"4:18",258,258,"AJ Brodeur made Dunk. Assisted by Jake Silpe.",51,73,-22,4.95286103288909e-05,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+295,2,"3:41",221,221,"Jalen Brunson missed Layup.",51,73,-22,3.62133216859564e-05,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+296,2,"3:41",221,221,"Max Rothschild Defensive Rebound.",51,73,-22,3.62133216859564e-05,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+297,2,"3:27",207,207,"Caleb Wood Turnover.",51,73,-22,2.09078530711065e-05,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+298,2,"3:27",207,207,"Dylan Painter Steal.",51,73,-22,2.09078530711065e-05,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+299,2,"3:02",182,182,"Jalen Brunson made Jumper.",51,75,-24,3.88268536748731e-06,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+300,2,"2:51",171,171,"Caleb Wood missed Three Point Jumper.",51,75,-24,4.18225949842182e-06,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+301,2,"2:51",171,171,"Donte DiVincenzo Defensive Rebound.",51,75,-24,4.18225949842182e-06,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+302,2,"2:32",152,152,"Donte DiVincenzo missed Three Point Jumper.",51,75,-24,1.34854626020549e-06,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+303,2,"2:32",152,152,"Jake Silpe Defensive Rebound.",51,75,-24,1.34854626020549e-06,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+304,2,"2:25",145,145,"Jake Silpe missed Three Point Jumper.",51,75,-24,1.34066794757744e-06,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+305,2,"2:25",145,145,"Eric Paschall Defensive Rebound.",51,75,-24,1.34066794757744e-06,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+306,2,"2:23",143,143,"Foul on Max Rothschild.",51,75,-24,1.34066794757744e-06,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+307,2,"2:23",143,143,"Official TV Timeout",51,75,-24,1.34066794757744e-06,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+308,2,"2:23",143,143,"Eric Paschall missed Free Throw.",51,75,-24,1.34066794757744e-06,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+309,2,"2:23",143,143,"Villanova Deadball Team Rebound.",51,75,-24,1.34066794757744e-06,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+310,2,"2:23",143,143,"Eric Paschall missed Free Throw.",51,75,-24,1.34066794757744e-06,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+311,2,"2:23",143,143,"Collin McManus Defensive Rebound.",51,75,-24,1.34066794757744e-06,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+312,2,"2:10",130,130,"AJ Brodeur missed Layup.",51,75,-24,1.42142741540581e-06,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+313,2,"2:10",130,130,"Eric Paschall Block.",51,75,-24,1.42142741540581e-06,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+314,2,"2:10",130,130,"Eric Paschall Defensive Rebound.",51,75,-24,1.42142741540581e-06,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+315,2,"2:00",120,120,"Eric Paschall missed Three Point Jumper.",51,75,-24,5.73065950492371e-07,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+316,2,"2:00",120,120,"Jake Silpe Defensive Rebound.",51,75,-24,5.73065950492371e-07,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+317,2,"1:54",114,114,"Sam Jones made Three Point Jumper. Assisted by Jake Silpe.",54,75,-21,2.02158456131876e-06,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+318,2,"1:20",80,80,"Donte DiVincenzo made Three Point Jumper. Assisted by Jalen Brunson.",54,78,-24,2.13058565880521e-08,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+319,2,"1:02",62,62,"Collin McManus Turnover.",54,78,-24,1.15452092097785e-08,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+320,2,"1:02",62,62,"Donte DiVincenzo Steal.",54,78,-24,1.15452092097785e-08,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+321,2,"0:59",59,59,"Foul on Caleb Wood.",54,78,-24,6.38383777663393e-10,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+322,2,"0:59",59,59,"Donte DiVincenzo made Free Throw.",54,79,-25,2.68175026481909e-10,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+323,2,"0:59",59,59,"Donte DiVincenzo made Free Throw.",54,80,-26,1.12656128381529e-10,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+324,2,"0:51",51,51,"Foul on Denny Grace.",54,80,-26,3.79251303637121e-11,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+325,2,"0:51",51,51,"Devon Goodman missed Free Throw.",54,80,-26,3.79251303637121e-11,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+326,2,"0:51",51,51,"Pennsylvania Deadball Team Rebound.",54,80,-26,3.79251303637121e-11,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+327,2,"0:51",51,51,"Devon Goodman made Free Throw.",55,80,-25,9.30193163844892e-11,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+328,2,"0:49",49,49,"Foul on Ray Jerome.",55,80,-25,3.0425223721189e-11,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+329,2,"0:49",49,49,"Eric Paschall made Free Throw.",55,81,-26,1.17464013402759e-11,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+330,2,"0:49",49,49,"Eric Paschall made Free Throw.",55,82,-27,4.53498536969384e-12,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+331,2,"0:42",42,42,"Foul on Denny Grace.",55,82,-27,2.25756532094521e-11,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+332,2,"0:42",42,42,"Devon Goodman made Free Throw.",56,82,-26,5.57041778924261e-11,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+333,2,"0:42",42,42,"Devon Goodman made Free Throw.",57,82,-25,1.37446983515013e-10,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+334,2,"0:27",27,27,"Eric Paschall missed Three Point Jumper.",57,82,-25,5.44303791861189e-14,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+335,2,"0:27",27,27,"Matt Kennedy Offensive Rebound.",57,82,-25,5.44303791861189e-14,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29
+336,2,"0:00",0,0,"End of Game",57,82,-25,7.30387634697026e-211,"Pennsylvania","Villanova",3,4,0,0,-14,400919331,2016-11-29

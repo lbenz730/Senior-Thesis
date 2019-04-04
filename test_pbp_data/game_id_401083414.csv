@@ -1,0 +1,304 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","play_length","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0,0.892173575630067,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+2,1,"20:00",2400,2400,"Jump Ball won by Iowa State",0,0,0,22,0.892173575630067,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+3,1,"19:38",2378,2378,"Thomas Dziagwa missed Three Point Jumper.",0,0,0,0,0.884156769638973,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+4,1,"19:38",2378,2378,"Iowa State Defensive Rebound.",0,0,0,4,0.884156769638973,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+5,1,"19:34",2374,2374,"Michael Jacobson missed Layup.",0,0,0,0,0.884156769638973,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+6,1,"19:34",2374,2374,"Yor Anei Defensive Rebound.",0,0,0,0,0.884156769638973,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+7,1,"19:34",2374,2374,"Isaac Likekele made Layup. Assisted by Cameron McGriff.",0,2,-2,0,0.863202674624979,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+8,1,"19:34",2374,2374,"Nick Weiler-Babb made Jumper.",2,2,0,0,0.884156769638973,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+9,1,"19:34",2374,2374,"Yor Anei Turnover.",2,2,0,0,0.884156769638973,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+10,1,"19:34",2374,2374,"Talen Horton-Tucker Steal.",2,2,0,35,0.884156769638973,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+11,1,"18:59",2339,2339,"Foul on Michael Jacobson.",2,2,0,24,0.880911487367534,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+12,1,"18:35",2315,2315,"Michael Jacobson made Layup.",4,2,2,0,0.889494621143283,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+13,1,"18:35",2315,2315,"Michael Jacobson made Free Throw.",5,2,3,0,0.898786210528326,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+14,1,"18:35",2315,2315,"Foul on Thomas Dziagwa.",4,2,2,93,0.889494621143283,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+15,1,"17:02",2222,2222,"Lindy Waters III missed Jumper.",5,2,3,0,0.906984326868591,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+16,1,"17:02",2222,2222,"Yor Anei Offensive Rebound.",5,2,3,0,0.906984326868591,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+17,1,"17:02",2222,2222,"Cameron McGriff Turnover.",5,2,3,0,0.906984326868591,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+18,1,"17:02",2222,2222,"Marial Shayok Turnover.",5,2,3,0,0.906984326868591,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+19,1,"17:02",2222,2222,"Cameron McGriff Steal.",5,2,3,0,0.906984326868591,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+20,1,"17:02",2222,2222,"Cameron McGriff missed Jumper.",5,2,3,0,0.906984326868591,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+21,1,"17:02",2222,2222,"Nick Weiler-Babb Defensive Rebound.",5,2,3,0,0.906984326868591,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+22,1,"17:02",2222,2222,"Nick Weiler-Babb missed Three Point Jumper.",5,2,3,0,0.906984326868591,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+23,1,"17:02",2222,2222,"Oklahoma State Defensive Rebound.",5,2,3,14,0.906984326868591,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+24,1,"16:48",2208,2208,"Lindy Waters III made Layup.",5,4,1,22,0.885470634322493,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+25,1,"16:26",2186,2186,"Foul on Lindy Waters III.",5,4,1,0,0.884850285054031,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+26,1,"16:26",2186,2186,"Marial Shayok missed Free Throw.",5,4,1,0,0.884850285054031,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+27,1,"16:26",2186,2186,"Iowa State Deadball Team Rebound.",5,4,1,0,0.884850285054031,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+28,1,"16:26",2186,2186,"Marial Shayok made Free Throw.",6,4,2,14,0.895455020501622,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+29,1,"16:12",2172,2172,"Isaac Likekele made Jumper.",6,6,0,10,0.870254373832598,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+30,1,"16:02",2162,2162,"Talen Horton-Tucker missed Three Point Jumper.",6,6,0,0,0.869545727674362,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+31,1,"16:02",2162,2162,"Tyrese Haliburton Offensive Rebound.",6,6,0,8,0.869545727674362,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+32,1,"15:54",2154,2154,"Nick Weiler-Babb Turnover.",6,6,0,0,0.869059982843931,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+33,1,"15:54",2154,2154,"Cameron McGriff Steal.",6,6,0,0,0.869059982843931,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+34,1,"15:54",2154,2154,"Cameron McGriff Turnover.",6,6,0,0,0.869059982843931,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+35,1,"15:54",2154,2154,"Talen Horton-Tucker Steal.",6,6,0,1,0.869059982843931,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+36,1,"15:53",2153,2153,"Foul on Duncan Demuth.",6,6,0,1,0.869059982843931,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+37,1,"15:52",2152,2152,"Official TV Timeout",6,6,0,14,0.869059982843931,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+38,1,"15:38",2138,2138,"Tyrese Haliburton missed Jumper.",6,6,0,0,0.871826647861731,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+39,1,"15:38",2138,2138,"Cameron McGriff Defensive Rebound.",6,6,0,31,0.871826647861731,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+40,1,"15:07",2107,2107,"Lindy Waters III missed Three Point Jumper.",6,6,0,0,0.866417025024462,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+41,1,"15:07",2107,2107,"Tyrese Haliburton Defensive Rebound.",6,6,0,15,0.866417025024462,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+42,1,"14:52",2092,2092,"Marial Shayok missed Three Point Jumper.",6,6,0,0,0.86231028123705,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+43,1,"14:52",2092,2092,"Lindy Waters III Defensive Rebound.",6,6,0,22,0.86231028123705,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+44,1,"14:30",2070,2070,"Curtis Jones missed Three Point Jumper.",6,6,0,0,0.871798523616259,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+45,1,"14:30",2070,2070,"Marial Shayok Defensive Rebound.",6,6,0,18,0.871798523616259,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+46,1,"14:12",2052,2052,"Talen Horton-Tucker made Jumper.",8,6,2,27,0.899640500507133,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+47,1,"13:45",2025,2025,"Cameron McGriff Turnover.",8,6,2,22,0.894373322346992,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+48,1,"13:23",2003,2003,"Nick Weiler-Babb made Jumper.",10,6,4,32,0.907116064131925,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+49,1,"12:51",1971,1971,"Lindy Waters III made Jumper.",10,8,2,20,0.898312280270623,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+50,1,"12:31",1951,1951,"Michael Jacobson made Layup. Assisted by Marial Shayok.",12,8,4,31,0.910992544265946,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+51,1,"12:00",1920,1920,"Thomas Dziagwa missed Three Point Jumper.",12,8,4,0,0.916333084360131,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+52,1,"12:00",1920,1920,"Marial Shayok Defensive Rebound.",12,8,4,6,0.916333084360131,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+53,1,"11:54",1914,1914,"Marial Shayok made Layup.",14,8,6,0,0.934937721342701,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+54,1,"11:54",1914,1914,"Foul on Thomas Dziagwa.",14,8,6,0,0.934937721342701,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+55,1,"11:54",1914,1914,"Official TV Timeout",14,8,6,0,0.934937721342701,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+56,1,"11:54",1914,1914,"Marial Shayok made Free Throw.",15,8,7,14,0.942354926487154,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+57,1,"11:40",1900,1900,"Yor Anei made Layup. Assisted by Isaac Likekele.",15,10,5,19,0.919654932600631,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+58,1,"11:21",1881,1881,"Marial Shayok missed Jumper.",15,10,5,0,0.921104447834138,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+59,1,"11:21",1881,1881,"Lindy Waters III Defensive Rebound.",15,10,5,10,0.921104447834138,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+60,1,"11:11",1871,1871,"Cameron McGriff missed Three Point Jumper.",15,10,5,0,0.918446253124641,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+61,1,"11:11",1871,1871,"Lindell Wigginton Defensive Rebound.",15,10,5,15,0.918446253124641,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+62,1,"10:56",1856,1856,"Lindell Wigginton made Three Point Jumper. Assisted by Tyrese Haliburton.",18,10,8,25,0.944043754973698,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+63,1,"10:31",1831,1831,"Luke Major made Layup. Assisted by Yor Anei.",18,12,6,7,0.9260350155593,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+64,1,"10:24",1824,1824,"Lindell Wigginton made Three Point Jumper.",21,12,9,31,0.952250403345033,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+65,1,"9:53",1793,1793,"Cameron McGriff made Layup.",21,14,7,0,0.932353978788481,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+66,1,"9:53",1793,1793,"Foul on George Conditt IV.",21,14,7,0,0.932353978788481,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+67,1,"9:53",1793,1793,"Cameron McGriff made Free Throw.",21,15,6,10,0.923674770696224,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+68,1,"9:43",1783,1783,"Nick Weiler-Babb Turnover.",21,15,6,0,0.92186701387168,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+69,1,"9:43",1783,1783,"Cameron McGriff Steal.",21,15,6,8,0.92186701387168,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+70,1,"9:35",1775,1775,"Isaac Likekele made Layup. Assisted by Cameron McGriff.",21,17,4,20,0.901075862525618,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+71,1,"9:15",1755,1755,"Marial Shayok Turnover.",21,17,4,0,0.910764820014192,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+72,1,"9:15",1755,1755,"Foul on Lindell Wigginton.",21,17,4,22,0.910764820014192,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+73,1,"8:53",1733,1733,"Cameron McGriff missed Jumper.",21,17,4,0,0.909867681872681,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+74,1,"8:53",1733,1733,"Michael Jacobson Defensive Rebound.",21,17,4,14,0.909867681872681,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+75,1,"8:39",1719,1719,"Lindell Wigginton missed Three Point Jumper.",21,17,4,0,0.914080633505138,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+76,1,"8:39",1719,1719,"Isaac Likekele Defensive Rebound.",21,17,4,10,0.914080633505138,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+77,1,"8:29",1709,1709,"Isaac Likekele missed Jumper.",21,17,4,0,0.902283697055095,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+78,1,"8:29",1709,1709,"Yor Anei Offensive Rebound.",21,17,4,9,0.902283697055095,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+79,1,"8:20",1700,1700,"Yor Anei made Layup.",21,19,2,13,0.877338542772739,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+80,1,"8:07",1687,1687,"Michael Jacobson missed Jumper.",21,19,2,0,0.891538292704552,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+81,1,"8:07",1687,1687,"Cameron McGriff Defensive Rebound.",21,19,2,10,0.891538292704552,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+82,1,"7:57",1677,1677,"Cameron McGriff missed Three Point Jumper.",21,19,2,0,0.884580005820849,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+83,1,"7:57",1677,1677,"Curtis Jones Offensive Rebound.",21,19,2,13,0.884580005820849,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+84,1,"7:44",1664,1664,"Curtis Jones missed Three Point Jumper.",21,19,2,0,0.880216309365263,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+85,1,"7:44",1664,1664,"Iowa State Defensive Rebound.",21,19,2,13,0.880216309365263,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+86,1,"7:31",1651,1651,"Official TV Timeout",21,19,2,24,0.876951199204688,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+87,1,"7:07",1627,1627,"Talen Horton-Tucker missed Jumper.",21,19,2,0,0.879733054005459,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+88,1,"7:07",1627,1627,"Iowa State Offensive Rebound.",21,19,2,12,0.879733054005459,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+89,1,"6:55",1615,1615,"Nick Weiler-Babb missed Three Point Jumper.",21,19,2,0,0.868017778791486,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+90,1,"6:55",1615,1615,"Yor Anei Defensive Rebound.",21,19,2,33,0.868017778791486,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+91,1,"6:22",1582,1582,"Duncan Demuth made Three Point Jumper.",21,22,-1,23,0.824573767467169,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+92,1,"5:59",1559,1559,"Nick Weiler-Babb made Three Point Jumper. Assisted by Michael Jacobson.",24,22,2,27,0.86966299317139,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+93,1,"5:32",1532,1532,"Yor Anei Turnover.",24,22,2,21,0.880392865298875,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+94,1,"5:11",1511,1511,"Lindell Wigginton made Layup. Assisted by Talen Horton-Tucker.",26,22,4,21,0.90904074798556,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+95,1,"4:50",1490,1490,"Isaac Likekele missed Three Point Jumper.",26,22,4,3,0.906290394939272,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+96,1,"4:47",1487,1487,"Foul on Cameron McGriff.",26,22,4,15,0.902999711212314,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+97,1,"4:32",1472,1472,"Tyrese Haliburton made Three Point Jumper. Assisted by Lindell Wigginton.",29,22,7,14,0.945576385740009,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+98,1,"4:18",1458,1458,"Lindy Waters III made Three Point Jumper. Assisted by Thomas Dziagwa.",29,25,4,20,0.901285710008765,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+99,1,"3:58",1438,1438,"Official TV Timeout",29,25,4,8,0.899557497456076,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+100,1,"3:50",1430,1430,"Talen Horton-Tucker Turnover.",29,25,4,12,0.899557497456076,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+101,1,"3:38",1418,1418,"Curtis Jones Turnover.",29,25,4,0,0.895391743777712,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+102,1,"3:38",1418,1418,"Tyrese Haliburton Steal.",29,25,4,10,0.895391743777712,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+103,1,"3:28",1408,1408,"Jump Ball won by Iowa State",29,25,4,11,0.910654734920278,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+104,1,"3:17",1397,1397,"Cameron Lard made Layup. Assisted by Tyrese Haliburton.",31,25,6,19,0.932152065105496,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+105,1,"2:58",1378,1378,"Thomas Dziagwa missed Three Point Jumper.",31,25,6,0,0.920116952390291,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+106,1,"2:58",1378,1378,"Talen Horton-Tucker Defensive Rebound.",31,25,6,7,0.920116952390291,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+107,1,"2:51",1371,1371,"Marial Shayok made Three Point Jumper. Assisted by Talen Horton-Tucker.",34,25,9,1,0.946697830175785,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+108,1,"2:50",1370,1370,"Oklahoma State  Timeout",34,25,9,23,0.946697830175785,"Iowa State","Oklahoma State",3,4,1,0,12.5,"401083414",2019-01-19
+109,1,"2:27",1347,1347,"Isaac Likekele missed Layup.",34,25,9,0,0.948870661257772,"Iowa State","Oklahoma State",3,4,1,0,12.5,"401083414",2019-01-19
+110,1,"2:27",1347,1347,"Cameron Lard Block.",34,25,9,0,0.948870661257772,"Iowa State","Oklahoma State",3,4,1,0,12.5,"401083414",2019-01-19
+111,1,"2:27",1347,1347,"Yor Anei Offensive Rebound.",34,25,9,8,0.948870661257772,"Iowa State","Oklahoma State",3,4,1,0,12.5,"401083414",2019-01-19
+112,1,"2:19",1339,1339,"Yor Anei Turnover.",34,25,9,0,0.94810563096133,"Iowa State","Oklahoma State",3,4,1,1,12.5,"401083414",2019-01-19
+113,1,"2:19",1339,1339,"Nick Weiler-Babb Steal.",34,25,9,0,0.94810563096133,"Iowa State","Oklahoma State",3,4,1,1,12.5,"401083414",2019-01-19
+114,1,"2:19",1339,1339,"Iowa State  Timeout",34,25,9,12,0.94810563096133,"Iowa State","Oklahoma State",3,3,1,1,12.5,"401083414",2019-01-19
+115,1,"2:07",1327,1327,"Talen Horton-Tucker missed Layup.",34,25,9,0,0.952422832608857,"Iowa State","Oklahoma State",3,3,1,1,12.5,"401083414",2019-01-19
+116,1,"2:07",1327,1327,"Talen Horton-Tucker Offensive Rebound.",34,25,9,2,0.952422832608857,"Iowa State","Oklahoma State",3,3,1,1,12.5,"401083414",2019-01-19
+117,1,"2:05",1325,1325,"Foul on Lindy Waters III.",34,25,9,0,0.952422832608857,"Iowa State","Oklahoma State",3,3,1,1,12.5,"401083414",2019-01-19
+118,1,"2:05",1325,1325,"Talen Horton-Tucker made Free Throw.",35,25,10,0,0.9590763038191,"Iowa State","Oklahoma State",3,3,1,1,12.5,"401083414",2019-01-19
+119,1,"2:05",1325,1325,"Talen Horton-Tucker made Free Throw.",36,25,11,25,0.964833669859033,"Iowa State","Oklahoma State",3,3,1,1,12.5,"401083414",2019-01-19
+120,1,"1:40",1300,1300,"Isaac Likekele missed Jumper.",36,25,11,0,0.957383714912275,"Iowa State","Oklahoma State",3,3,0,1,12.5,"401083414",2019-01-19
+121,1,"1:40",1300,1300,"Cameron Lard Block.",36,25,11,0,0.957383714912275,"Iowa State","Oklahoma State",3,3,0,1,12.5,"401083414",2019-01-19
+122,1,"1:40",1300,1300,"Oklahoma State Offensive Rebound.",36,25,11,5,0.957383714912275,"Iowa State","Oklahoma State",3,3,0,1,12.5,"401083414",2019-01-19
+123,1,"1:35",1295,1295,"Foul on Talen Horton-Tucker.",36,25,11,4,0.96690042994425,"Iowa State","Oklahoma State",3,3,0,1,12.5,"401083414",2019-01-19
+124,1,"1:31",1291,1291,"Cameron McGriff Turnover.",36,25,11,18,0.96690042994425,"Iowa State","Oklahoma State",3,3,0,1,12.5,"401083414",2019-01-19
+125,1,"1:13",1273,1273,"Talen Horton-Tucker Turnover.",36,25,11,0,0.959333304980581,"Iowa State","Oklahoma State",3,3,0,0,12.5,"401083414",2019-01-19
+126,1,"1:13",1273,1273,"Isaac Likekele Steal.",36,25,11,5,0.959333304980581,"Iowa State","Oklahoma State",3,3,0,0,12.5,"401083414",2019-01-19
+127,1,"1:08",1268,1268,"Isaac Likekele missed Jumper.",36,25,11,0,0.967520290755022,"Iowa State","Oklahoma State",3,3,0,0,12.5,"401083414",2019-01-19
+128,1,"1:08",1268,1268,"Talen Horton-Tucker Block.",36,25,11,0,0.967520290755022,"Iowa State","Oklahoma State",3,3,0,0,12.5,"401083414",2019-01-19
+129,1,"1:08",1268,1268,"Oklahoma State Offensive Rebound.",36,25,11,1,0.967520290755022,"Iowa State","Oklahoma State",3,3,0,0,12.5,"401083414",2019-01-19
+130,1,"1:07",1267,1267,"Foul on Cameron Lard.",36,25,11,0,0.967520290755022,"Iowa State","Oklahoma State",3,3,0,0,12.5,"401083414",2019-01-19
+131,1,"1:07",1267,1267,"Cameron McGriff made Free Throw.",36,26,10,0,0.962164150077875,"Iowa State","Oklahoma State",3,3,0,0,12.5,"401083414",2019-01-19
+132,1,"1:07",1267,1267,"Cameron McGriff made Free Throw.",36,27,9,12,0.955964943175073,"Iowa State","Oklahoma State",3,3,0,0,12.5,"401083414",2019-01-19
+133,1,"0:55",1255,1255,"Talen Horton-Tucker missed Three Point Jumper.",36,27,9,0,0.943804773450199,"Iowa State","Oklahoma State",3,3,0,0,12.5,"401083414",2019-01-19
+134,1,"0:55",1255,1255,"Cameron Lard Offensive Rebound.",36,27,9,13,0.943804773450199,"Iowa State","Oklahoma State",3,3,0,0,12.5,"401083414",2019-01-19
+135,1,"0:42",1242,1242,"Foul on Duncan Demuth.",36,27,9,0,0.951327444286636,"Iowa State","Oklahoma State",3,3,0,0,12.5,"401083414",2019-01-19
+136,1,"0:42",1242,1242,"Talen Horton-Tucker made Free Throw.",37,27,10,0,0.958016394934585,"Iowa State","Oklahoma State",3,3,0,0,12.5,"401083414",2019-01-19
+137,1,"0:42",1242,1242,"Talen Horton-Tucker made Free Throw.",38,27,11,17,0.963821058297898,"Iowa State","Oklahoma State",3,3,0,0,12.5,"401083414",2019-01-19
+138,1,"0:25",1225,1225,"Cameron McGriff made Jumper. Assisted by Isaac Likekele.",38,29,9,22,0.955207056928764,"Iowa State","Oklahoma State",3,3,0,0,12.5,"401083414",2019-01-19
+139,1,"0:03",1203,1203,"Cameron Lard made Dunk. Assisted by Lindell Wigginton.",40,29,11,3,0.963848780888966,"Iowa State","Oklahoma State",3,3,0,0,12.5,"401083414",2019-01-19
+140,1,"0:00",1200,1200,"End of 1st half",40,29,11,0,0.963848780888966,"Iowa State","Oklahoma State",3,3,0,0,12.5,"401083414",2019-01-19
+141,2,"20:00",1200,1200,"PLAY",40,29,11,0,0.963848780888966,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+142,2,"20:00",1200,1200,"Jump Ball won by Oklahoma State",40,29,11,24,0.963848780888966,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+143,2,"19:36",1176,1176,"Yor Anei made Dunk. Assisted by Thomas Dziagwa.",40,31,9,11,0.949364753826518,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+144,2,"19:25",1165,1165,"Talen Horton-Tucker missed Jumper.",40,31,9,0,0.952141406389837,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+145,2,"19:25",1165,1165,"Yor Anei Defensive Rebound.",40,31,9,1,0.952141406389837,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+146,2,"19:24",1164,1164,"Foul on Michael Jacobson.",40,31,9,11,0.952141406389837,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+147,2,"19:13",1153,1153,"Yor Anei missed Jumper.",40,31,9,0,0.948576321718776,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+148,2,"19:13",1153,1153,"Cameron McGriff Offensive Rebound.",40,31,9,10,0.948576321718776,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+149,2,"19:03",1143,1143,"Cameron McGriff made Dunk.",40,33,7,20,0.932082090621143,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+150,2,"18:43",1123,1123,"Michael Jacobson missed Three Point Jumper.",40,33,7,0,0.941338661590807,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+151,2,"18:43",1123,1123,"Michael Jacobson Offensive Rebound.",40,33,7,13,0.941338661590807,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+152,2,"18:30",1110,1110,"Foul on Cameron McGriff.",40,33,7,5,0.933188806385687,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+153,2,"18:25",1105,1105,"Michael Jacobson missed Jumper.",40,33,7,0,0.935545695323529,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+154,2,"18:25",1105,1105,"Isaac Likekele Defensive Rebound.",40,33,7,9,0.935545695323529,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+155,2,"18:16",1096,1096,"Thomas Dziagwa missed Three Point Jumper.",40,33,7,0,0.939204950677364,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+156,2,"18:16",1096,1096,"Iowa State Defensive Rebound.",40,33,7,18,0.939204950677364,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+157,2,"17:58",1078,1078,"Nick Weiler-Babb made Jumper.",42,33,9,25,0.950051079450205,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+158,2,"17:33",1053,1053,"Cameron McGriff Turnover.",42,33,9,25,0.95662285466859,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+159,2,"17:08",1028,1028,"Marial Shayok missed Jumper.",42,33,9,0,0.955624424683139,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+160,2,"17:08",1028,1028,"Cameron McGriff Defensive Rebound.",42,33,9,20,0.955624424683139,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+161,2,"16:48",1008,1008,"Foul on Tyrese Haliburton.",42,33,9,17,0.952660355388708,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+162,2,"16:31",991,991,"Isaac Likekele missed Layup.",42,33,9,0,0.951464611253851,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+163,2,"16:31",991,991,"Talen Horton-Tucker Defensive Rebound.",42,33,9,18,0.951464611253851,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+164,2,"16:13",973,973,"Marial Shayok missed Three Point Jumper.",42,33,9,0,0.956156124605794,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+165,2,"16:13",973,973,"Yor Anei Defensive Rebound.",42,33,9,17,0.956156124605794,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+166,2,"15:56",956,956,"Yor Anei made Jumper.",42,35,7,22,0.941891777841392,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+167,2,"15:34",934,934,"Talen Horton-Tucker missed Jumper.",42,35,7,0,0.936548911594389,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+168,2,"15:34",934,934,"Michael Jacobson Offensive Rebound.",42,35,7,2,0.936548911594389,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+169,2,"15:32",932,932,"Foul on Cameron McGriff.",42,35,7,0,0.936548911594389,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+170,2,"15:32",932,932,"Official TV Timeout",42,35,7,12,0.936548911594389,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+171,2,"15:20",920,920,"Nick Weiler-Babb missed Three Point Jumper.",42,35,7,0,0.931137403322608,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+172,2,"15:20",920,920,"Yor Anei Defensive Rebound.",42,35,7,32,0.931137403322608,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+173,2,"14:48",888,888,"Lindy Waters III made Jumper. Assisted by Cameron McGriff.",42,37,5,11,0.89748011545261,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+174,2,"14:37",877,877,"Marial Shayok missed Three Point Jumper.",42,37,5,0,0.911620381505501,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+175,2,"14:37",877,877,"Isaac Likekele Defensive Rebound.",42,37,5,8,0.911620381505501,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+176,2,"14:29",869,869,"Lindy Waters III missed Jumper.",42,37,5,0,0.907602527644001,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+177,2,"14:29",869,869,"Nick Weiler-Babb Block.",42,37,5,0,0.907602527644001,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+178,2,"14:29",869,869,"Oklahoma State Offensive Rebound.",42,37,5,12,0.907602527644001,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+179,2,"14:17",857,857,"Lindy Waters III missed Three Point Jumper.",42,37,5,0,0.916215737748314,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+180,2,"14:17",857,857,"Tyrese Haliburton Defensive Rebound.",42,37,5,13,0.916215737748314,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+181,2,"14:04",844,844,"Marial Shayok missed Three Point Jumper.",42,37,5,0,0.9124232420382,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+182,2,"14:04",844,844,"Yor Anei Defensive Rebound.",42,37,5,18,0.9124232420382,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+183,2,"13:46",826,826,"Foul on Tyrese Haliburton.",42,37,5,6,0.910047637983137,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+184,2,"13:40",820,820,"Thomas Dziagwa made Three Point Jumper. Assisted by Isaac Likekele.",42,40,2,16,0.851875712323245,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+185,2,"13:24",804,804,"Marial Shayok missed Jumper.",42,40,2,0,0.861263065720532,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+186,2,"13:24",804,804,"Lindy Waters III Defensive Rebound.",42,40,2,10,0.861263065720532,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+187,2,"13:14",794,794,"Thomas Dziagwa missed Three Point Jumper.",42,40,2,0,0.849691728343815,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+188,2,"13:14",794,794,"Nick Weiler-Babb Defensive Rebound.",42,40,2,21,0.849691728343815,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+189,2,"12:53",773,773,"Foul on Yor Anei.",42,40,2,0,0.849636173080447,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+190,2,"12:53",773,773,"Cameron Lard made Free Throw.",43,40,3,0,0.874560509555801,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+191,2,"12:53",773,773,"Cameron Lard made Free Throw.",44,40,4,16,0.895859778213851,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+192,2,"12:37",757,757,"Thomas Dziagwa Turnover.",44,40,4,13,0.900346447440659,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+193,2,"12:24",744,744,"Cameron Lard made Jumper. Assisted by Nick Weiler-Babb.",46,40,6,22,0.931070283452487,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+194,2,"12:02",722,722,"Yor Anei Turnover.",46,40,6,0,0.932111815468511,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+195,2,"12:02",722,722,"Tyrese Haliburton Steal.",46,40,6,8,0.932111815468511,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+196,2,"11:54",714,714,"Terrence Lewis missed Jumper.",46,40,6,0,0.928579238041168,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+197,2,"11:54",714,714,"Cameron Lard Offensive Rebound.",46,40,6,6,0.928579238041168,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+198,2,"11:48",708,708,"Foul on Lindy Waters III.",46,40,6,0,0.922770770260573,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+199,2,"11:48",708,708,"Official TV Timeout",46,40,6,13,0.922770770260573,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+200,2,"11:35",695,695,"Terrence Lewis missed Three Point Jumper.",46,40,6,0,0.943666368908415,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+201,2,"11:35",695,695,"Yor Anei Block.",46,40,6,0,0.943666368908415,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+202,2,"11:35",695,695,"Lindy Waters III Defensive Rebound.",46,40,6,18,0.943666368908415,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+203,2,"11:17",677,677,"Foul on Terrence Lewis.",46,40,6,13,0.933006301008627,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+204,2,"11:04",664,664,"Curtis Jones missed Three Point Jumper.",46,40,6,0,0.929864974461688,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+205,2,"11:04",664,664,"Cameron Lard Defensive Rebound.",46,40,6,10,0.929864974461688,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+206,2,"10:54",654,654,"Lindell Wigginton made Three Point Jumper. Assisted by Tyrese Haliburton.",49,40,9,0,0.96680041098028,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+207,2,"10:54",654,654,"Foul on Lindy Waters III.",49,40,9,0,0.96680041098028,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+208,2,"10:54",654,654,"Lindy Waters III Turnover.",49,40,9,4,0.96680041098028,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+209,2,"10:50",650,650,"Tyrese Haliburton missed Three Point Jumper.",49,40,9,0,0.96680041098028,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+210,2,"10:50",650,650,"Curtis Jones Defensive Rebound.",49,40,9,11,0.96680041098028,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+211,2,"10:39",639,639,"Curtis Jones missed Jumper.",49,40,9,0,0.960430552698507,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+212,2,"10:39",639,639,"Yor Anei Offensive Rebound.",49,40,9,0,0.960430552698507,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+213,2,"10:39",639,639,"Foul on Cameron Lard.",49,40,9,0,0.960430552698507,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+214,2,"10:39",639,639,"Yor Anei missed Free Throw.",49,40,9,0,0.960430552698507,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+215,2,"10:39",639,639,"Oklahoma State Deadball Team Rebound.",49,40,9,0,0.960430552698507,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+216,2,"10:39",639,639,"Yor Anei made Free Throw.",49,41,8,21,0.950403564489945,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+217,2,"10:18",618,618,"Marial Shayok missed Layup.",49,41,8,0,0.958460073061418,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+218,2,"10:18",618,618,"Yor Anei Block.",49,41,8,0,0.958460073061418,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+219,2,"10:18",618,618,"Isaac Likekele Defensive Rebound.",49,41,8,10,0.958460073061418,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+220,2,"10:08",608,608,"Foul on Lindell Wigginton.",49,41,8,10,0.960590794806401,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+221,2,"9:58",598,598,"Isaac Likekele Turnover.",49,41,8,24,0.956015887561561,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+222,2,"9:34",574,574,"Cameron Lard missed Jumper.",49,41,8,0,0.963779541125724,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+223,2,"9:34",574,574,"Isaac Likekele Defensive Rebound.",49,41,8,8,0.963779541125724,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+224,2,"9:26",566,566,"Curtis Jones Turnover.",49,41,8,26,0.966874494065401,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+225,2,"9:00",540,540,"Nick Weiler-Babb missed Layup.",49,41,8,0,0.960606861069771,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+226,2,"9:00",540,540,"Cameron McGriff Defensive Rebound.",49,41,8,9,0.960606861069771,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+227,2,"8:51",531,531,"Foul on Cameron Lard.",49,41,8,0,0.970612877753097,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+228,2,"8:51",531,531,"Isaac Likekele missed Free Throw.",49,41,8,0,0.970612877753097,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+229,2,"8:51",531,531,"Cameron McGriff Offensive Rebound.",49,41,8,8,0.970612877753097,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+230,2,"8:43",523,523,"Curtis Jones made Three Point Jumper. Assisted by Cameron McGriff.",49,44,5,27,0.915995686258055,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+231,2,"8:16",496,496,"Cameron Lard missed Jumper.",49,44,5,0,0.922493373713141,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+232,2,"8:16",496,496,"Yor Anei Block.",49,44,5,0,0.922493373713141,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+233,2,"8:16",496,496,"Lindell Wigginton Offensive Rebound.",49,44,5,8,0.922493373713141,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+234,2,"8:08",488,488,"Marial Shayok made Three Point Jumper. Assisted by Lindell Wigginton.",52,44,8,23,0.963693172319699,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+235,2,"7:45",465,465,"Curtis Jones missed Three Point Jumper.",52,44,8,0,0.965858190882678,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+236,2,"7:45",465,465,"Yor Anei Offensive Rebound.",52,44,8,5,0.965858190882678,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+237,2,"7:40",460,460,"Official TV Timeout",52,44,8,1,0.965858190882678,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+238,2,"7:39",459,459,"Cameron McGriff made Three Point Jumper. Assisted by Thomas Dziagwa.",52,47,5,21,0.927623541577318,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+239,2,"7:18",438,438,"Cameron Lard missed Jumper.",52,47,5,0,0.935688833893258,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+240,2,"7:18",438,438,"Cameron Lard Offensive Rebound.",52,47,5,4,0.935688833893258,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+241,2,"7:14",434,434,"Cameron Lard made Layup.",54,47,7,17,0.964179994453627,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+242,2,"6:57",417,417,"Isaac Likekele missed Layup.",54,47,7,0,0.959915222617812,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+243,2,"6:57",417,417,"Cameron Lard Block.",54,47,7,0,0.959915222617812,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+244,2,"6:57",417,417,"Nick Weiler-Babb Defensive Rebound.",54,47,7,25,0.959915222617812,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+245,2,"6:32",392,392,"Marial Shayok made Jumper. Assisted by Nick Weiler-Babb.",56,47,9,31,0.979139087854821,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+246,2,"6:01",361,361,"Curtis Jones missed Three Point Jumper.",56,47,9,0,0.979028254448809,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+247,2,"6:01",361,361,"Iowa State Defensive Rebound.",56,47,9,29,0.979028254448809,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+248,2,"5:32",332,332,"Marial Shayok made Three Point Jumper. Assisted by Michael Jacobson.",59,47,12,8,0.994773383743869,"Iowa State","Oklahoma State",4,4,0,0,12.5,"401083414",2019-01-19
+249,2,"5:24",324,324,"Oklahoma State  Timeout",59,47,12,26,0.991879129076977,"Iowa State","Oklahoma State",3,4,1,0,12.5,"401083414",2019-01-19
+250,2,"4:58",298,298,"Isaac Likekele missed Three Point Jumper.",59,47,12,0,0.994290013376403,"Iowa State","Oklahoma State",3,4,1,0,12.5,"401083414",2019-01-19
+251,2,"4:58",298,298,"Nick Weiler-Babb Defensive Rebound.",59,47,12,8,0.994290013376403,"Iowa State","Oklahoma State",3,4,1,0,12.5,"401083414",2019-01-19
+252,2,"4:50",290,290,"Lindell Wigginton missed Three Point Jumper.",59,47,12,0,0.994290013376403,"Iowa State","Oklahoma State",3,4,1,0,12.5,"401083414",2019-01-19
+253,2,"4:50",290,290,"Curtis Jones Defensive Rebound.",59,47,12,32,0.994290013376403,"Iowa State","Oklahoma State",3,4,1,0,12.5,"401083414",2019-01-19
+254,2,"4:18",258,258,"Cameron McGriff made Jumper. Assisted by Thomas Dziagwa.",59,49,10,27,0.993661683616672,"Iowa State","Oklahoma State",3,4,0,0,12.5,"401083414",2019-01-19
+255,2,"3:51",231,231,"Marial Shayok made Three Point Jumper. Assisted by Nick Weiler-Babb.",62,49,13,15,0.997740695853063,"Iowa State","Oklahoma State",3,4,0,0,12.5,"401083414",2019-01-19
+256,2,"3:36",216,216,"Foul on Lindell Wigginton.",62,49,13,0,0.998557504843024,"Iowa State","Oklahoma State",3,4,0,0,12.5,"401083414",2019-01-19
+257,2,"3:36",216,216,"Official TV Timeout",62,49,13,0,0.998557504843024,"Iowa State","Oklahoma State",3,4,0,0,12.5,"401083414",2019-01-19
+258,2,"3:36",216,216,"Isaac Likekele missed Free Throw.",62,49,13,0,0.998557504843024,"Iowa State","Oklahoma State",3,4,0,0,12.5,"401083414",2019-01-19
+259,2,"3:36",216,216,"Cameron Lard Defensive Rebound.",62,49,13,25,0.998557504843024,"Iowa State","Oklahoma State",3,4,0,0,12.5,"401083414",2019-01-19
+260,2,"3:11",191,191,"Lindell Wigginton made Three Point Jumper. Assisted by Nick Weiler-Babb.",65,49,16,29,0.999698991582454,"Iowa State","Oklahoma State",3,4,0,0,12.5,"401083414",2019-01-19
+261,2,"2:42",162,162,"Foul on Nick Weiler-Babb.",65,49,16,0,0.999908563473582,"Iowa State","Oklahoma State",3,4,0,0,12.5,"401083414",2019-01-19
+262,2,"2:42",162,162,"Lindy Waters III made Free Throw.",65,50,15,0,0.999847160326446,"Iowa State","Oklahoma State",3,4,0,0,12.5,"401083414",2019-01-19
+263,2,"2:42",162,162,"Lindy Waters III made Free Throw.",65,51,14,10,0.999744533137463,"Iowa State","Oklahoma State",3,4,0,0,12.5,"401083414",2019-01-19
+264,2,"2:32",152,152,"Lindell Wigginton missed Three Point Jumper.",65,51,14,0,0.999748740566798,"Iowa State","Oklahoma State",3,4,0,0,12.5,"401083414",2019-01-19
+265,2,"2:32",152,152,"Zion Griffin Defensive Rebound.",65,51,14,0,0.999748740566798,"Iowa State","Oklahoma State",3,4,0,0,12.5,"401083414",2019-01-19
+266,2,"2:32",152,152,"Isaac Likekele Defensive Rebound.",65,51,14,20,0.999748740566798,"Iowa State","Oklahoma State",3,4,0,0,12.5,"401083414",2019-01-19
+267,2,"2:12",132,132,"Curtis Jones missed Three Point Jumper.",65,51,14,0,0.999782807454493,"Iowa State","Oklahoma State",3,4,0,0,12.5,"401083414",2019-01-19
+268,2,"2:12",132,132,"Cameron McGriff Offensive Rebound.",65,51,14,11,0.999782807454493,"Iowa State","Oklahoma State",3,4,0,0,12.5,"401083414",2019-01-19
+269,2,"2:01",121,121,"Thomas Dziagwa missed Three Point Jumper.",65,51,14,0,0.999811855917525,"Iowa State","Oklahoma State",3,4,0,0,12.5,"401083414",2019-01-19
+270,2,"2:01",121,121,"Yor Anei Offensive Rebound.",65,51,14,6,0.999811855917525,"Iowa State","Oklahoma State",3,4,0,0,12.5,"401083414",2019-01-19
+271,2,"1:55",115,115,"Yor Anei Turnover.",65,51,14,0,0.999895106658778,"Iowa State","Oklahoma State",3,4,0,0,12.5,"401083414",2019-01-19
+272,2,"1:55",115,115,"Lindell Wigginton Steal.",65,51,14,1,0.999895106658778,"Iowa State","Oklahoma State",3,4,0,0,12.5,"401083414",2019-01-19
+273,2,"1:54",114,114,"Foul on Isaac Likekele.",65,51,14,0,0.999895106658778,"Iowa State","Oklahoma State",3,4,0,0,12.5,"401083414",2019-01-19
+274,2,"1:54",114,114,"Cameron Lard made Free Throw.",66,51,15,0,0.999942478759327,"Iowa State","Oklahoma State",3,4,0,0,12.5,"401083414",2019-01-19
+275,2,"1:54",114,114,"Cameron Lard made Free Throw.",67,51,16,10,0.999968457270051,"Iowa State","Oklahoma State",3,4,0,0,12.5,"401083414",2019-01-19
+276,2,"1:44",104,104,"Lindy Waters III made Three Point Jumper. Assisted by Isaac Likekele.",67,54,13,2,0.999822632820562,"Iowa State","Oklahoma State",3,4,0,0,12.5,"401083414",2019-01-19
+277,2,"1:42",102,102,"Oklahoma State  Timeout",67,54,13,5,0.999822632820562,"Iowa State","Oklahoma State",2,4,1,0,12.5,"401083414",2019-01-19
+278,2,"1:37",97,97,"Foul on Thomas Dziagwa.",67,54,13,0,0.999833592751286,"Iowa State","Oklahoma State",2,4,1,0,12.5,"401083414",2019-01-19
+279,2,"1:37",97,97,"Nick Weiler-Babb made Free Throw.",68,54,14,0,0.999911263953723,"Iowa State","Oklahoma State",2,4,1,0,12.5,"401083414",2019-01-19
+280,2,"1:37",97,97,"Nick Weiler-Babb missed Free Throw.",68,54,14,0,0.999911263953723,"Iowa State","Oklahoma State",2,4,1,0,12.5,"401083414",2019-01-19
+281,2,"1:37",97,97,"Cameron McGriff Defensive Rebound.",68,54,14,15,0.999911263953723,"Iowa State","Oklahoma State",2,4,1,0,12.5,"401083414",2019-01-19
+282,2,"1:22",82,82,"Curtis Jones made Jumper.",68,56,12,7,0.999916345962183,"Iowa State","Oklahoma State",2,4,1,0,12.5,"401083414",2019-01-19
+283,2,"1:15",75,75,"Foul on Isaac Likekele.",68,56,12,0,0.999914504725465,"Iowa State","Oklahoma State",2,4,1,0,12.5,"401083414",2019-01-19
+284,2,"1:15",75,75,"Marial Shayok made Free Throw.",69,56,13,0,0.999959002733228,"Iowa State","Oklahoma State",2,4,1,0,12.5,"401083414",2019-01-19
+285,2,"1:15",75,75,"Marial Shayok made Free Throw.",70,56,14,11,0.999980341171337,"Iowa State","Oklahoma State",2,4,1,0,12.5,"401083414",2019-01-19
+286,2,"1:04",64,64,"Cameron McGriff made Three Point Jumper. Assisted by Lindy Waters III.",70,59,11,11,0.999781510747416,"Iowa State","Oklahoma State",2,4,1,0,12.5,"401083414",2019-01-19
+287,2,"0:53",53,53,"Foul on Curtis Jones.",70,59,11,0,0.999935784061856,"Iowa State","Oklahoma State",2,4,1,0,12.5,"401083414",2019-01-19
+288,2,"0:53",53,53,"Tyrese Haliburton made Free Throw.",71,59,12,0,0.999971204095339,"Iowa State","Oklahoma State",2,4,1,0,12.5,"401083414",2019-01-19
+289,2,"0:53",53,53,"Tyrese Haliburton missed Free Throw.",71,59,12,0,0.999971204095339,"Iowa State","Oklahoma State",2,4,1,0,12.5,"401083414",2019-01-19
+290,2,"0:53",53,53,"Cameron McGriff Defensive Rebound.",71,59,12,8,0.999971204095339,"Iowa State","Oklahoma State",2,4,1,0,12.5,"401083414",2019-01-19
+291,2,"0:45",45,45,"Thomas Dziagwa missed Three Point Jumper.",71,59,12,0,0.999961230060986,"Iowa State","Oklahoma State",2,4,1,0,12.5,"401083414",2019-01-19
+292,2,"0:45",45,45,"Lindy Waters III Offensive Rebound.",71,59,12,9,0.999961230060986,"Iowa State","Oklahoma State",2,4,1,0,12.5,"401083414",2019-01-19
+293,2,"0:36",36,36,"Curtis Jones missed Three Point Jumper.",71,59,12,0,0.9999875414139,"Iowa State","Oklahoma State",2,4,0,0,12.5,"401083414",2019-01-19
+294,2,"0:36",36,36,"Talen Horton-Tucker Defensive Rebound.",71,59,12,0,0.9999875414139,"Iowa State","Oklahoma State",2,4,0,0,12.5,"401083414",2019-01-19
+295,2,"0:36",36,36,"Foul on Lindy Waters III.",71,59,12,0,0.9999875414139,"Iowa State","Oklahoma State",2,4,0,0,12.5,"401083414",2019-01-19
+296,2,"0:36",36,36,"Talen Horton-Tucker made Free Throw.",72,59,13,0,0.999995120113228,"Iowa State","Oklahoma State",2,4,0,0,12.5,"401083414",2019-01-19
+297,2,"0:36",36,36,"Talen Horton-Tucker missed Free Throw.",72,59,13,0,0.999995120113228,"Iowa State","Oklahoma State",2,4,0,0,12.5,"401083414",2019-01-19
+298,2,"0:36",36,36,"Lindy Waters III Defensive Rebound.",72,59,13,20,0.999995120113228,"Iowa State","Oklahoma State",2,4,0,0,12.5,"401083414",2019-01-19
+299,2,"0:16",16,16,"Foul on Zion Griffin.",72,59,13,0,0.999999999723719,"Iowa State","Oklahoma State",2,4,0,0,12.5,"401083414",2019-01-19
+300,2,"0:16",16,16,"Curtis Jones missed Free Throw.",72,59,13,0,0.999999999723719,"Iowa State","Oklahoma State",2,4,0,0,12.5,"401083414",2019-01-19
+301,2,"0:16",16,16,"Oklahoma State Deadball Team Rebound.",72,59,13,0,0.999999999723719,"Iowa State","Oklahoma State",2,4,0,0,12.5,"401083414",2019-01-19
+302,2,"0:16",16,16,"Curtis Jones missed Free Throw.",72,59,13,16,0.999999999723719,"Iowa State","Oklahoma State",2,4,0,0,12.5,"401083414",2019-01-19
+303,2,"0:00",0,0,"End of Game",72,59,13,0,1,"Iowa State","Oklahoma State",2,4,0,0,12.5,"401083414",2019-01-19

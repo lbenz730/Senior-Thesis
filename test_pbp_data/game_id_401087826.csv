@@ -1,0 +1,365 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","play_length","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2700,"PLAY",0,0,0,20,0.228392648623969,"Rice","UC Santa Barbara",6,6,0,0,-6,"401087826",2018-12-15
+2,1,"19:40",2380,2680,"Foul on Chris Mullins.",0,0,0,20,0.23477261704583,"Rice","UC Santa Barbara",6,6,0,0,-6,"401087826",2018-12-15
+3,1,"19:20",2360,2660,"JaQuori McLaughlin made Three Point Jumper.",0,3,-3,17,0.228630841820654,"Rice","UC Santa Barbara",6,6,0,0,-6,"401087826",2018-12-15
+4,1,"19:03",2343,2643,"Chris Mullins Turnover.",0,3,-3,2,0.200768185016997,"Rice","UC Santa Barbara",6,6,0,0,-6,"401087826",2018-12-15
+5,1,"19:01",2341,2641,"Jarriesse Blackmon Steal.",0,3,-3,4,0.200768185016997,"Rice","UC Santa Barbara",6,6,0,0,-6,"401087826",2018-12-15
+6,1,"18:57",2337,2637,"Devearl Ramsey made Three Point Jumper. Assisted by JaQuori McLaughlin.",0,6,-6,27,0.158529919087152,"Rice","UC Santa Barbara",6,6,0,0,-6,"401087826",2018-12-15
+7,1,"18:30",2310,2610,"Chris Mullins Turnover.",0,6,-6,19,0.155496164233222,"Rice","UC Santa Barbara",6,6,0,0,-6,"401087826",2018-12-15
+8,1,"18:11",2291,2591,"Ar'Mond Davis made Three Point Jumper. Assisted by Amadou Sow.",0,9,-9,13,0.124178487642799,"Rice","UC Santa Barbara",6,6,0,0,-6,"401087826",2018-12-15
+9,1,"17:58",2278,2578,"Chris Mullins missed Jumper.",0,9,-9,0,0.119229946193487,"Rice","UC Santa Barbara",6,6,0,0,-6,"401087826",2018-12-15
+10,1,"17:58",2278,2578,"Jarriesse Blackmon Defensive Rebound.",0,9,-9,10,0.119229946193487,"Rice","UC Santa Barbara",6,6,0,0,-6,"401087826",2018-12-15
+11,1,"17:48",2268,2568,"JaQuori McLaughlin made Three Point Jumper. Assisted by Jarriesse Blackmon.",0,12,-12,6,0.0701226129973833,"Rice","UC Santa Barbara",6,6,0,0,-6,"401087826",2018-12-15
+12,1,"17:42",2262,2562,"Rice  Timeout",0,12,-12,12,0.0701226129973833,"Rice","UC Santa Barbara",5,6,1,0,-6,"401087826",2018-12-15
+13,1,"17:30",2250,2550,"Quentin Millora-Brown missed Jumper.",0,12,-12,0,0.101196385275021,"Rice","UC Santa Barbara",5,6,1,0,-6,"401087826",2018-12-15
+14,1,"17:30",2250,2550,"Ar'Mond Davis Defensive Rebound.",0,12,-12,10,0.101196385275021,"Rice","UC Santa Barbara",5,6,1,0,-6,"401087826",2018-12-15
+15,1,"17:20",2240,2540,"JaQuori McLaughlin missed Three Point Jumper.",0,12,-12,0,0.111558683520589,"Rice","UC Santa Barbara",5,6,1,0,-6,"401087826",2018-12-15
+16,1,"17:20",2240,2540,"Chris Mullins Defensive Rebound.",0,12,-12,12,0.111558683520589,"Rice","UC Santa Barbara",5,6,1,0,-6,"401087826",2018-12-15
+17,1,"17:08",2228,2528,"Drew Peterson missed Three Point Jumper.",0,12,-12,0,0.0909158651255004,"Rice","UC Santa Barbara",5,6,1,0,-6,"401087826",2018-12-15
+18,1,"17:08",2228,2528,"Rice Offensive Rebound.",0,12,-12,7,0.0909158651255004,"Rice","UC Santa Barbara",5,6,1,0,-6,"401087826",2018-12-15
+19,1,"17:01",2221,2521,"Foul on Max Heidegger.",0,12,-12,0,0.0909158651255004,"Rice","UC Santa Barbara",5,6,1,0,-6,"401087826",2018-12-15
+20,1,"17:01",2221,2521,"Chris Mullins made Free Throw.",1,12,-11,0,0.0997315834372191,"Rice","UC Santa Barbara",5,6,1,0,-6,"401087826",2018-12-15
+21,1,"17:01",2221,2521,"Chris Mullins missed Free Throw.",1,12,-11,0,0.0997315834372191,"Rice","UC Santa Barbara",5,6,1,0,-6,"401087826",2018-12-15
+22,1,"17:01",2221,2521,"Ar'Mond Davis Defensive Rebound.",1,12,-11,16,0.0997315834372191,"Rice","UC Santa Barbara",5,6,1,0,-6,"401087826",2018-12-15
+23,1,"16:45",2205,2505,"Ar'Mond Davis missed Jumper.",1,12,-11,0,0.0918680396049522,"Rice","UC Santa Barbara",5,6,1,0,-6,"401087826",2018-12-15
+24,1,"16:45",2205,2505,"Ako Adams Defensive Rebound.",1,12,-11,10,0.0918680396049522,"Rice","UC Santa Barbara",5,6,1,0,-6,"401087826",2018-12-15
+25,1,"16:35",2195,2495,"Foul on Max Heidegger.",1,12,-11,14,0.0901011845499781,"Rice","UC Santa Barbara",5,6,0,0,-6,"401087826",2018-12-15
+26,1,"16:21",2181,2481,"Chris Mullins Turnover.",1,12,-11,15,0.0953309162141671,"Rice","UC Santa Barbara",5,6,0,0,-6,"401087826",2018-12-15
+27,1,"16:06",2166,2466,"Devearl Ramsey Turnover.",1,12,-11,1,0.0937628438709636,"Rice","UC Santa Barbara",5,6,0,0,-6,"401087826",2018-12-15
+28,1,"16:05",2165,2465,"Chris Mullins Steal.",1,12,-11,3,0.0937628438709636,"Rice","UC Santa Barbara",5,6,0,0,-6,"401087826",2018-12-15
+29,1,"16:02",2162,2462,"Chris Mullins made Layup.",3,12,-9,27,0.114316792188894,"Rice","UC Santa Barbara",5,6,0,0,-6,"401087826",2018-12-15
+30,1,"15:35",2135,2435,"Max Heidegger missed Three Point Jumper.",3,12,-9,0,0.102094822679917,"Rice","UC Santa Barbara",5,6,0,0,-6,"401087826",2018-12-15
+31,1,"15:35",2135,2435,"Drew Peterson Defensive Rebound.",3,12,-9,11,0.102094822679917,"Rice","UC Santa Barbara",5,6,0,0,-6,"401087826",2018-12-15
+32,1,"15:24",2124,2424,"Ako Adams made Three Point Jumper. Assisted by Drew Peterson.",6,12,-6,29,0.144090263128886,"Rice","UC Santa Barbara",5,6,0,0,-6,"401087826",2018-12-15
+33,1,"14:55",2095,2395,"Foul on Jack Williams.",6,12,-6,0,0.144781367810287,"Rice","UC Santa Barbara",5,6,0,0,-6,"401087826",2018-12-15
+34,1,"14:55",2095,2395,"Official TV Timeout",6,12,-6,9,0.144781367810287,"Rice","UC Santa Barbara",5,6,0,0,-6,"401087826",2018-12-15
+35,1,"14:46",2086,2386,"Robinson Idehen missed Jumper.",6,12,-6,0,0.161651557810085,"Rice","UC Santa Barbara",5,6,0,0,-6,"401087826",2018-12-15
+36,1,"14:46",2086,2386,"Robert Martin Defensive Rebound.",6,12,-6,24,0.161651557810085,"Rice","UC Santa Barbara",5,6,0,0,-6,"401087826",2018-12-15
+37,1,"14:22",2062,2362,"Chris Mullins missed Layup.",6,12,-6,0,0.13982608188923,"Rice","UC Santa Barbara",5,6,0,0,-6,"401087826",2018-12-15
+38,1,"14:22",2062,2362,"Robert Martin Offensive Rebound.",6,12,-6,3,0.13982608188923,"Rice","UC Santa Barbara",5,6,0,0,-6,"401087826",2018-12-15
+39,1,"14:19",2059,2359,"Foul on Robinson Idehen.",6,12,-6,1,0.132001021667648,"Rice","UC Santa Barbara",5,6,0,0,-6,"401087826",2018-12-15
+40,1,"14:18",2058,2358,"Chris Mullins missed Three Point Jumper.",6,12,-6,0,0.132001021667648,"Rice","UC Santa Barbara",5,6,0,0,-6,"401087826",2018-12-15
+41,1,"14:18",2058,2358,"JaQuori McLaughlin Defensive Rebound.",6,12,-6,33,0.132001021667648,"Rice","UC Santa Barbara",5,6,0,0,-6,"401087826",2018-12-15
+42,1,"13:45",2025,2325,"Max Heidegger made Jumper.",6,14,-8,13,0.10376308149809,"Rice","UC Santa Barbara",5,6,0,0,-6,"401087826",2018-12-15
+43,1,"13:32",2012,2312,"Quentin Millora-Brown made Layup. Assisted by Drew Peterson.",8,14,-6,18,0.152709500645908,"Rice","UC Santa Barbara",5,6,0,0,-6,"401087826",2018-12-15
+44,1,"13:14",1994,2294,"Christian Terrell missed Jumper.",8,14,-6,0,0.136886643588979,"Rice","UC Santa Barbara",5,6,0,0,-6,"401087826",2018-12-15
+45,1,"13:14",1994,2294,"Robert Martin Defensive Rebound.",8,14,-6,8,0.136886643588979,"Rice","UC Santa Barbara",5,6,0,0,-6,"401087826",2018-12-15
+46,1,"13:06",1986,2286,"Drew Peterson made Jumper.",10,14,-4,10,0.176960563127876,"Rice","UC Santa Barbara",5,6,0,0,-6,"401087826",2018-12-15
+47,1,"12:56",1976,2276,"UC Santa Barbara  Timeout",10,14,-4,11,0.169151074076195,"Rice","UC Santa Barbara",5,5,0,1,-6,"401087826",2018-12-15
+48,1,"12:45",1965,2265,"Jay Nagle missed Three Point Jumper.",10,14,-4,0,0.18499414699709,"Rice","UC Santa Barbara",5,5,0,1,-6,"401087826",2018-12-15
+49,1,"12:45",1965,2265,"Josh Parrish Defensive Rebound.",10,14,-4,33,0.18499414699709,"Rice","UC Santa Barbara",5,5,0,1,-6,"401087826",2018-12-15
+50,1,"12:12",1932,2232,"Payton Moore made Three Point Jumper.",13,14,-1,27,0.234389372476887,"Rice","UC Santa Barbara",5,5,0,1,-6,"401087826",2018-12-15
+51,1,"11:45",1905,2205,"Devearl Ramsey missed Three Point Jumper.",13,14,-1,0,0.234280124568101,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+52,1,"11:45",1905,2205,"Robert Martin Defensive Rebound.",13,14,-1,24,0.234280124568101,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+53,1,"11:21",1881,2181,"Robert Martin made Jumper.",15,14,1,22,0.27469211562183,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+54,1,"10:59",1859,2159,"Amadou Sow Turnover.",15,14,1,0,0.30318421429467,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+55,1,"10:59",1859,2159,"Official TV Timeout",15,14,1,10,0.30318421429467,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+56,1,"10:49",1849,2149,"Robert Martin made Three Point Jumper. Assisted by Trey Murphy III.",18,14,4,26,0.348540018558791,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+57,1,"10:23",1823,2123,"Amadou Sow made Jumper.",18,16,2,9,0.329506770634643,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+58,1,"10:14",1814,2114,"Foul on Devearl Ramsey.",18,16,2,0,0.333264161746627,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+59,1,"10:14",1814,2114,"Payton Moore missed Free Throw.",18,16,2,0,0.333264161746627,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+60,1,"10:14",1814,2114,"Rice Deadball Team Rebound.",18,16,2,0,0.333264161746627,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+61,1,"10:14",1814,2114,"Payton Moore missed Free Throw.",18,16,2,0,0.333264161746627,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+62,1,"10:14",1814,2114,"Payton Moore Offensive Rebound.",18,16,2,4,0.333264161746627,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+63,1,"10:10",1810,2110,"Quentin Millora-Brown missed Layup.",18,16,2,0,0.333264161746627,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+64,1,"10:10",1810,2110,"Jarriesse Blackmon Block.",18,16,2,4,0.333264161746627,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+65,1,"10:06",1806,2106,"Jarriesse Blackmon Defensive Rebound.",18,16,2,18,0.313934685626433,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+66,1,"9:48",1788,2088,"Ar'Mond Davis missed Three Point Jumper.",18,16,2,0,0.322042408054437,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+67,1,"9:48",1788,2088,"Robert Martin Defensive Rebound.",18,16,2,18,0.322042408054437,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+68,1,"9:30",1770,2070,"Trey Murphy III made Three Point Jumper. Assisted by Payton Moore.",21,16,5,27,0.389566373659212,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+69,1,"9:03",1743,2043,"Foul on Josh Parrish.",21,16,5,8,0.441705549324864,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+70,1,"8:55",1735,2035,"Jarriesse Blackmon missed Jumper.",21,16,5,0,0.423612264879217,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+71,1,"8:55",1735,2035,"Jack Williams Defensive Rebound.",21,16,5,1,0.423612264879217,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+72,1,"8:54",1734,2034,"Foul on Ami Lakoju.",21,16,5,22,0.423612264879217,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+73,1,"8:32",1712,2012,"Robert Martin Turnover.",21,16,5,1,0.411593705214352,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+74,1,"8:31",1711,2011,"Ar'Mond Davis Steal.",21,16,5,15,0.411593705214352,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+75,1,"8:16",1696,1996,"Max Heidegger missed Three Point Jumper.",21,16,5,0,0.456860815888627,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+76,1,"8:16",1696,1996,"Trey Murphy III Defensive Rebound.",21,16,5,16,0.456860815888627,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+77,1,"8:00",1680,1980,"Jack Williams Turnover.",21,16,5,0,0.424408152118597,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+78,1,"8:00",1680,1980,"Official TV Timeout",21,16,5,25,0.424408152118597,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+79,1,"7:35",1655,1955,"JaQuori McLaughlin Turnover.",21,16,5,1,0.441594967394371,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+80,1,"7:34",1654,1954,"Chris Mullins Steal.",21,16,5,4,0.441594967394371,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+81,1,"7:30",1650,1950,"Jack Williams made Three Point Jumper. Assisted by Drew Peterson.",24,16,8,19,0.540661680513632,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+82,1,"7:11",1631,1931,"Ar'Mond Davis missed Jumper.",24,16,8,0,0.54226732906795,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+83,1,"7:11",1631,1931,"Ami Lakoju Offensive Rebound.",24,16,8,4,0.54226732906795,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+84,1,"7:07",1627,1927,"Quentin Millora-Brown Block.",24,16,8,0,0.533894886171308,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+85,1,"7:07",1627,1927,"Ami Lakoju missed Jumper.",24,16,8,0,0.533894886171308,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+86,1,"7:07",1627,1927,"Quentin Millora-Brown Defensive Rebound.",24,16,8,22,0.533894886171308,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+87,1,"6:45",1605,1905,"Jack Williams missed Three Point Jumper.",24,16,8,0,0.504322717079321,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+88,1,"6:45",1605,1905,"Chris Mullins Offensive Rebound.",24,16,8,14,0.504322717079321,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+89,1,"6:31",1591,1891,"Ako Adams missed Three Point Jumper.",24,16,8,0,0.563606990680037,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+90,1,"6:31",1591,1891,"Drew Peterson Offensive Rebound.",24,16,8,6,0.563606990680037,"Rice","UC Santa Barbara",5,5,0,0,-6,"401087826",2018-12-15
+91,1,"6:25",1585,1885,"Rice  Timeout",24,16,8,14,0.511711209391879,"Rice","UC Santa Barbara",4,5,1,0,-6,"401087826",2018-12-15
+92,1,"6:11",1571,1871,"Ako Adams made Jumper.",26,16,10,30,0.65065995830477,"Rice","UC Santa Barbara",4,5,1,0,-6,"401087826",2018-12-15
+93,1,"5:41",1541,1841,"Foul on Quentin Millora-Brown.",26,16,10,0,0.607979391385407,"Rice","UC Santa Barbara",4,5,1,0,-6,"401087826",2018-12-15
+94,1,"5:41",1541,1841,"Max Heidegger missed Free Throw.",26,16,10,0,0.607979391385407,"Rice","UC Santa Barbara",4,5,1,0,-6,"401087826",2018-12-15
+95,1,"5:41",1541,1841,"UC Santa Barbara Deadball Team Rebound.",26,16,10,0,0.607979391385407,"Rice","UC Santa Barbara",4,5,1,0,-6,"401087826",2018-12-15
+96,1,"5:41",1541,1841,"Max Heidegger made Free Throw.",26,17,9,28,0.574416110593795,"Rice","UC Santa Barbara",4,5,1,0,-6,"401087826",2018-12-15
+97,1,"5:13",1513,1813,"Ako Adams Turnover.",26,17,9,1,0.631873410740948,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+98,1,"5:12",1512,1812,"Sekou Toure Steal.",26,17,9,2,0.631873410740948,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+99,1,"5:10",1510,1810,"Sekou Toure made Dunk.",26,19,7,13,0.558561734462805,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+100,1,"4:57",1497,1797,"Quentin Millora-Brown made Dunk. Assisted by Drew Peterson.",28,19,9,15,0.607625559085685,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+101,1,"4:42",1482,1782,"Foul on Ako Adams.",28,19,9,9,0.593577154693828,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+102,1,"4:33",1473,1773,"JaQuori McLaughlin missed Three Point Jumper.",28,19,9,0,0.584286441669275,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+103,1,"4:33",1473,1773,"Quentin Millora-Brown Defensive Rebound.",28,19,9,11,0.584286441669275,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+104,1,"4:22",1462,1762,"Chris Mullins made Jumper. Assisted by Quentin Millora-Brown.",30,19,11,1,0.687256713424097,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+105,1,"4:21",1461,1761,"Foul on JaQuori McLaughlin.",30,19,11,0,0.687256713424097,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+106,1,"4:21",1461,1761,"Chris Mullins made Free Throw.",31,19,12,14,0.716413977197908,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+107,1,"4:07",1447,1747,"Devearl Ramsey made Three Point Jumper. Assisted by JaQuori McLaughlin.",31,22,9,26,0.639720834479866,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+108,1,"3:41",1421,1721,"Jack Williams missed Jumper.",31,22,9,0,0.600414047438833,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+109,1,"3:41",1421,1721,"Jay Nagle Block.",31,22,9,3,0.600414047438833,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+110,1,"3:38",1418,1718,"Amadou Sow Defensive Rebound.",31,22,9,2,0.631196119950606,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+111,1,"3:36",1416,1716,"Devearl Ramsey missed Layup.",31,22,9,0,0.631196119950606,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+112,1,"3:36",1416,1716,"Drew Peterson Block.",31,22,9,0,0.631196119950606,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+113,1,"3:36",1416,1716,"UC Santa Barbara Offensive Rebound.",31,22,9,0,0.631196119950606,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+114,1,"3:36",1416,1716,"Official TV Timeout",31,22,9,4,0.631196119950606,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+115,1,"3:32",1412,1712,"Amadou Sow made Layup.",31,24,7,16,0.556556556334285,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+116,1,"3:16",1396,1696,"Robert Martin made Three Point Jumper. Assisted by Trey Murphy III.",34,24,10,22,0.625568126137143,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+117,1,"2:54",1374,1674,"JaQuori McLaughlin made Three Point Jumper. Assisted by Jay Nagle.",34,27,7,30,0.51043300893119,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+118,1,"2:24",1344,1644,"Trey Murphy III missed Three Point Jumper.",34,27,7,0,0.563301367894041,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+119,1,"2:24",1344,1644,"Robert Martin Offensive Rebound.",34,27,7,20,0.563301367894041,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+120,1,"2:04",1324,1624,"Payton Moore made Layup.",36,27,9,0,0.631737743870126,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+121,1,"2:04",1324,1624,"Foul on Amadou Sow.",36,27,9,0,0.631737743870126,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+122,1,"2:04",1324,1624,"Payton Moore made Free Throw.",37,27,10,12,0.667585383778867,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+123,1,"1:52",1312,1612,"Robinson Idehen Turnover.",37,27,10,20,0.692958081175903,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+124,1,"1:32",1292,1592,"Foul on Jarriesse Blackmon.",37,27,10,0,0.731565154171736,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+125,1,"1:32",1292,1592,"Robert Martin missed Free Throw.",37,27,10,0,0.731565154171736,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+126,1,"1:32",1292,1592,"Rice Deadball Team Rebound.",37,27,10,0,0.731565154171736,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+127,1,"1:32",1292,1592,"Robert Martin missed Free Throw.",37,27,10,0,0.731565154171736,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+128,1,"1:32",1292,1592,"Trey Murphy III Offensive Rebound.",37,27,10,2,0.731565154171736,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+129,1,"1:30",1290,1590,"Foul on Ar'Mond Davis.",37,27,10,0,0.731565154171736,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+130,1,"1:30",1290,1590,"Trey Murphy III missed Free Throw.",37,27,10,0,0.731565154171736,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+131,1,"1:30",1290,1590,"JaQuori McLaughlin Defensive Rebound.",37,27,10,16,0.731565154171736,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+132,1,"1:14",1274,1574,"Max Heidegger missed Three Point Jumper.",37,27,10,0,0.635315083607773,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+133,1,"1:14",1274,1574,"Trey Murphy III Defensive Rebound.",37,27,10,22,0.635315083607773,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+134,1,"0:52",1252,1552,"Foul on Ar'Mond Davis.",37,27,10,0,0.673022848990954,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+135,1,"0:52",1252,1552,"Quentin Millora-Brown missed Free Throw.",37,27,10,0,0.673022848990954,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+136,1,"0:52",1252,1552,"Rice Deadball Team Rebound.",37,27,10,0,0.673022848990954,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+137,1,"0:52",1252,1552,"Quentin Millora-Brown missed Free Throw.",37,27,10,0,0.673022848990954,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+138,1,"0:52",1252,1552,"Amadou Sow Defensive Rebound.",37,27,10,15,0.673022848990954,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+139,1,"0:37",1237,1537,"Amadou Sow made Jumper.",37,29,8,31,0.609841388145289,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+140,1,"0:06",1206,1506,"Chris Mullins made Jumper.",39,29,10,5,0.677511079505538,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+141,1,"0:01",1201,1501,"Foul on Trey Murphy III.",39,29,10,0,0.677511079505538,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+142,1,"0:01",1201,1501,"Max Heidegger made Free Throw.",39,30,9,0,0.641781911178868,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+143,1,"0:01",1201,1501,"Max Heidegger made Free Throw.",39,31,8,0,0.604405584466066,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+144,1,"0:01",1201,1501,"Max Heidegger made Free Throw.",39,32,7,1,0.565768066526291,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+145,1,"0:00",1200,1500,"End of 1st half",39,32,7,0,0.565768066526291,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+146,2,"20:00",1200,1500,"PLAY",39,32,7,18,0.565768066526291,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+147,2,"19:42",1182,1482,"Devearl Ramsey missed Layup.",39,32,7,0,0.574240398786605,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+148,2,"19:42",1182,1482,"Ako Adams Defensive Rebound.",39,32,7,16,0.574240398786605,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+149,2,"19:26",1166,1466,"Jack Williams missed Jumper.",39,32,7,0,0.546333115982193,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+150,2,"19:26",1166,1466,"Ar'Mond Davis Defensive Rebound.",39,32,7,18,0.546333115982193,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+151,2,"19:08",1148,1448,"Amadou Sow made Dunk. Assisted by JaQuori McLaughlin.",39,34,5,26,0.528907431693677,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+152,2,"18:42",1122,1422,"Ako Adams missed Jumper.",39,34,5,0,0.521331289485015,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+153,2,"18:42",1122,1422,"Amadou Sow Defensive Rebound.",39,34,5,11,0.521331289485015,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+154,2,"18:31",1111,1411,"Ar'Mond Davis missed Three Point Jumper.",39,34,5,0,0.535837036297317,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+155,2,"18:31",1111,1411,"Rice Defensive Rebound.",39,34,5,16,0.535837036297317,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+156,2,"18:15",1095,1395,"Drew Peterson missed Three Point Jumper.",39,34,5,0,0.516541590217852,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+157,2,"18:15",1095,1395,"JaQuori McLaughlin Defensive Rebound.",39,34,5,11,0.516541590217852,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+158,2,"18:04",1084,1384,"Devearl Ramsey made Three Point Jumper. Assisted by Ar'Mond Davis.",39,37,2,16,0.371134667139683,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+159,2,"17:48",1068,1368,"Drew Peterson missed Three Point Jumper.",39,37,2,0,0.424364372055888,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+160,2,"17:48",1068,1368,"Devearl Ramsey Defensive Rebound.",39,37,2,9,0.424364372055888,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+161,2,"17:39",1059,1359,"Foul on Ako Adams.",39,37,2,0,0.405119907810639,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+162,2,"17:39",1059,1359,"Devearl Ramsey made Free Throw.",39,38,1,0,0.362554114676906,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+163,2,"17:39",1059,1359,"Devearl Ramsey made Free Throw.",39,39,0,15,0.322039565519677,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+164,2,"17:24",1044,1344,"Foul on Jarriesse Blackmon.",39,39,0,0,0.327354614394129,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+165,2,"17:24",1044,1344,"Quentin Millora-Brown missed Free Throw.",39,39,0,0,0.327354614394129,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+166,2,"17:24",1044,1344,"Rice Deadball Team Rebound.",39,39,0,0,0.327354614394129,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+167,2,"17:24",1044,1344,"Quentin Millora-Brown missed Free Throw.",39,39,0,0,0.327354614394129,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+168,2,"17:24",1044,1344,"Jarriesse Blackmon Defensive Rebound.",39,39,0,14,0.327354614394129,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+169,2,"17:10",1030,1330,"Max Heidegger missed Three Point Jumper.",39,39,0,0,0.303253673309964,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+170,2,"17:10",1030,1330,"Jack Williams Defensive Rebound.",39,39,0,3,0.303253673309964,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+171,2,"17:07",1027,1327,"Foul on Jarriesse Blackmon.",39,39,0,9,0.32436170462535,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+172,2,"16:58",1018,1318,"Foul on JaQuori McLaughlin.",39,39,0,1,0.298708870419332,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+173,2,"16:57",1017,1317,"Quentin Millora-Brown made Dunk. Assisted by Ako Adams.",41,39,2,17,0.380331593534815,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+174,2,"16:40",1000,1300,"Foul on Ako Adams.",41,39,2,6,0.39283210566079,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+175,2,"16:34",994,1294,"Max Heidegger made Three Point Jumper. Assisted by JaQuori McLaughlin.",41,42,-1,16,0.266612136568855,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+176,2,"16:18",978,1278,"Payton Moore missed Jumper.",41,42,-1,0,0.285995252477678,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+177,2,"16:18",978,1278,"Rice Offensive Rebound.",41,42,-1,3,0.285995252477678,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+178,2,"16:15",975,1275,"Payton Moore missed Three Point Jumper.",41,42,-1,0,0.285995252477678,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+179,2,"16:15",975,1275,"Robinson Idehen Defensive Rebound.",41,42,-1,9,0.285995252477678,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+180,2,"16:06",966,1266,"Max Heidegger missed Three Point Jumper.",41,42,-1,0,0.286027712414105,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+181,2,"16:06",966,1266,"Drew Peterson Defensive Rebound.",41,42,-1,11,0.286027712414105,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+182,2,"15:55",955,1255,"Drew Peterson Turnover.",41,42,-1,1,0.25371098544747,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+183,2,"15:54",954,1254,"Ar'Mond Davis Steal.",41,42,-1,16,0.25371098544747,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+184,2,"15:38",938,1238,"Max Heidegger made Three Point Jumper. Assisted by Devearl Ramsey.",41,45,-4,11,0.182592764456858,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+185,2,"15:27",927,1227,"Chris Mullins made Layup.",43,45,-2,20,0.230798540261999,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+186,2,"15:07",907,1207,"Max Heidegger missed Three Point Jumper.",43,45,-2,0,0.250756370060059,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+187,2,"15:07",907,1207,"Jack Williams Defensive Rebound.",43,45,-2,3,0.250756370060059,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+188,2,"15:04",904,1204,"Foul on Robinson Idehen.",43,45,-2,0,0.250756370060059,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+189,2,"15:04",904,1204,"Official TV Timeout",43,45,-2,18,0.250756370060059,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+190,2,"14:46",886,1186,"Foul on Jay Nagle.",43,45,-2,11,0.25195863628439,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+191,2,"14:35",875,1175,"Jack Williams Turnover.",43,45,-2,14,0.250017245981864,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+192,2,"14:21",861,1161,"JaQuori McLaughlin missed Layup.",43,45,-2,0,0.234856332973564,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+193,2,"14:21",861,1161,"Chris Mullins Defensive Rebound.",43,45,-2,7,0.234856332973564,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+194,2,"14:14",854,1154,"Chris Mullins missed Layup.",43,45,-2,0,0.260806824501011,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+195,2,"14:14",854,1154,"Robert Martin Offensive Rebound.",43,45,-2,4,0.260806824501011,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+196,2,"14:10",850,1150,"Robert Martin made Layup.",45,45,0,18,0.347162165053412,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+197,2,"13:52",832,1132,"Robinson Idehen made Dunk. Assisted by Ar'Mond Davis.",45,47,-2,14,0.225987310979789,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+198,2,"13:38",818,1118,"Robert Martin missed Three Point Jumper.",45,47,-2,0,0.221243948487125,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+199,2,"13:38",818,1118,"Jack Williams Offensive Rebound.",45,47,-2,5,0.221243948487125,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+200,2,"13:33",813,1113,"Robert Martin missed Three Point Jumper.",45,47,-2,0,0.221243948487125,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+201,2,"13:33",813,1113,"JaQuori McLaughlin Defensive Rebound.",45,47,-2,17,0.221243948487125,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+202,2,"13:16",796,1096,"Foul on Payton Moore.",45,47,-2,0,0.235389909724218,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+203,2,"13:16",796,1096,"Ar'Mond Davis made Free Throw.",45,48,-3,0,0.198151434587759,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+204,2,"13:16",796,1096,"Ar'Mond Davis made Free Throw.",45,49,-4,0,0.165528703696055,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+205,2,"13:16",796,1096,"Ar'Mond Davis made Free Throw.",45,50,-5,23,0.137356799186516,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+206,2,"12:53",773,1073,"Trey Murphy III Turnover.",45,50,-5,2,0.147852034201861,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+207,2,"12:51",771,1071,"Jarriesse Blackmon Steal.",45,50,-5,1,0.147852034201861,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+208,2,"12:50",770,1070,"Jarriesse Blackmon made Dunk.",45,52,-7,2,0.102307605850245,"Rice","UC Santa Barbara",4,5,0,0,-6,"401087826",2018-12-15
+209,2,"12:48",768,1068,"Rice  Timeout",45,52,-7,11,0.100955138453125,"Rice","UC Santa Barbara",3,5,1,0,-6,"401087826",2018-12-15
+210,2,"12:37",757,1057,"Robert Martin made Layup. Assisted by Quentin Millora-Brown.",47,52,-5,0,0.138395953455323,"Rice","UC Santa Barbara",3,5,1,0,-6,"401087826",2018-12-15
+211,2,"12:37",757,1057,"Foul on Amadou Sow.",47,52,-5,0,0.138395953455323,"Rice","UC Santa Barbara",3,5,1,0,-6,"401087826",2018-12-15
+212,2,"12:37",757,1057,"Robert Martin made Free Throw.",48,52,-4,22,0.166387244659229,"Rice","UC Santa Barbara",3,5,1,0,-6,"401087826",2018-12-15
+213,2,"12:15",735,1035,"JaQuori McLaughlin made Three Point Jumper. Assisted by Max Heidegger.",48,55,-7,10,0.113650424197974,"Rice","UC Santa Barbara",3,5,1,0,-6,"401087826",2018-12-15
+214,2,"12:05",725,1025,"Trey Murphy III made Three Point Jumper. Assisted by Robert Martin.",51,55,-4,29,0.19265715988144,"Rice","UC Santa Barbara",3,5,1,0,-6,"401087826",2018-12-15
+215,2,"11:36",696,996,"Jarriesse Blackmon missed Layup.",51,55,-4,0,0.151998428549754,"Rice","UC Santa Barbara",3,5,0,0,-6,"401087826",2018-12-15
+216,2,"11:36",696,996,"Quentin Millora-Brown Block.",51,55,-4,0,0.151998428549754,"Rice","UC Santa Barbara",3,5,0,0,-6,"401087826",2018-12-15
+217,2,"11:36",696,996,"UC Santa Barbara Offensive Rebound.",51,55,-4,0,0.151998428549754,"Rice","UC Santa Barbara",3,5,0,0,-6,"401087826",2018-12-15
+218,2,"11:36",696,996,"Official TV Timeout",51,55,-4,3,0.151998428549754,"Rice","UC Santa Barbara",3,5,0,0,-6,"401087826",2018-12-15
+219,2,"11:33",693,993,"Max Heidegger made Layup.",51,57,-6,29,0.100256801558717,"Rice","UC Santa Barbara",3,5,0,0,-6,"401087826",2018-12-15
+220,2,"11:04",664,964,"Foul on Chris Mullins.",51,57,-6,0,0.13328021751653,"Rice","UC Santa Barbara",3,5,0,0,-6,"401087826",2018-12-15
+221,2,"11:04",664,964,"Chris Mullins Turnover.",51,57,-6,23,0.13328021751653,"Rice","UC Santa Barbara",3,5,0,0,-6,"401087826",2018-12-15
+222,2,"10:41",641,941,"JaQuori McLaughlin made Three Point Jumper. Assisted by Devearl Ramsey.",51,60,-9,17,0.0604399632451794,"Rice","UC Santa Barbara",3,5,0,0,-6,"401087826",2018-12-15
+223,2,"10:24",624,924,"Trey Murphy III missed Three Point Jumper.",51,60,-9,0,0.0481102238930115,"Rice","UC Santa Barbara",3,5,0,0,-6,"401087826",2018-12-15
+224,2,"10:24",624,924,"JaQuori McLaughlin Defensive Rebound.",51,60,-9,15,0.0481102238930115,"Rice","UC Santa Barbara",3,5,0,0,-6,"401087826",2018-12-15
+225,2,"10:09",609,909,"Ar'Mond Davis Turnover.",51,60,-9,0,0.055259366470447,"Rice","UC Santa Barbara",3,5,0,0,-6,"401087826",2018-12-15
+226,2,"10:09",609,909,"Quentin Millora-Brown Steal.",51,60,-9,13,0.055259366470447,"Rice","UC Santa Barbara",3,5,0,0,-6,"401087826",2018-12-15
+227,2,"9:56",596,896,"Ako Adams made Three Point Jumper. Assisted by Quentin Millora-Brown.",54,60,-6,20,0.115324086330035,"Rice","UC Santa Barbara",3,5,0,0,-6,"401087826",2018-12-15
+228,2,"9:36",576,876,"JaQuori McLaughlin made Jumper.",54,62,-8,19,0.075011708987946,"Rice","UC Santa Barbara",3,5,0,0,-6,"401087826",2018-12-15
+229,2,"9:17",557,857,"Foul on JaQuori McLaughlin.",54,62,-8,0,0.0607877338976875,"Rice","UC Santa Barbara",3,5,0,0,-6,"401087826",2018-12-15
+230,2,"9:17",557,857,"Quentin Millora-Brown missed Free Throw.",54,62,-8,0,0.0607877338976875,"Rice","UC Santa Barbara",3,5,0,0,-6,"401087826",2018-12-15
+231,2,"9:17",557,857,"Rice Deadball Team Rebound.",54,62,-8,0,0.0607877338976875,"Rice","UC Santa Barbara",3,5,0,0,-6,"401087826",2018-12-15
+232,2,"9:17",557,857,"Quentin Millora-Brown made Free Throw.",55,62,-7,11,0.0774620156271622,"Rice","UC Santa Barbara",3,5,0,0,-6,"401087826",2018-12-15
+233,2,"9:06",546,846,"Ar'Mond Davis Turnover.",55,62,-7,15,0.0742314729579731,"Rice","UC Santa Barbara",3,5,0,0,-6,"401087826",2018-12-15
+234,2,"8:51",531,831,"Robert Martin missed Jumper.",55,62,-7,0,0.0788530853996959,"Rice","UC Santa Barbara",3,5,0,0,-6,"401087826",2018-12-15
+235,2,"8:51",531,831,"Robert Martin Offensive Rebound.",55,62,-7,5,0.0788530853996959,"Rice","UC Santa Barbara",3,5,0,0,-6,"401087826",2018-12-15
+236,2,"8:46",526,826,"Chris Mullins made Three Point Jumper. Assisted by Robert Martin.",58,62,-4,11,0.181175206685007,"Rice","UC Santa Barbara",3,5,0,0,-6,"401087826",2018-12-15
+237,2,"8:35",515,815,"UC Santa Barbara  Timeout",58,62,-4,21,0.167276552902039,"Rice","UC Santa Barbara",3,4,0,1,-6,"401087826",2018-12-15
+238,2,"8:14",494,794,"Amadou Sow Turnover.",58,62,-4,11,0.1846670873532,"Rice","UC Santa Barbara",3,4,0,1,-6,"401087826",2018-12-15
+239,2,"8:03",483,783,"Foul on Jarriesse Blackmon.",58,62,-4,0,0.161637495591142,"Rice","UC Santa Barbara",3,4,0,1,-6,"401087826",2018-12-15
+240,2,"8:03",483,783,"Robert Martin made Free Throw.",59,62,-3,0,0.202183766152619,"Rice","UC Santa Barbara",3,4,0,1,-6,"401087826",2018-12-15
+241,2,"8:03",483,783,"Robert Martin missed Free Throw.",59,62,-3,0,0.202183766152619,"Rice","UC Santa Barbara",3,4,0,1,-6,"401087826",2018-12-15
+242,2,"8:03",483,783,"Ar'Mond Davis Defensive Rebound.",59,62,-3,27,0.202183766152619,"Rice","UC Santa Barbara",3,4,0,1,-6,"401087826",2018-12-15
+243,2,"7:36",456,756,"Max Heidegger missed Jumper.",59,62,-3,0,0.186019460507236,"Rice","UC Santa Barbara",3,4,0,1,-6,"401087826",2018-12-15
+244,2,"7:36",456,756,"Robert Martin Defensive Rebound.",59,62,-3,10,0.186019460507236,"Rice","UC Santa Barbara",3,4,0,1,-6,"401087826",2018-12-15
+245,2,"7:26",446,746,"Drew Peterson missed Three Point Jumper.",59,62,-3,0,0.223575387247197,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+246,2,"7:26",446,746,"Max Heidegger Defensive Rebound.",59,62,-3,4,0.223575387247197,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+247,2,"7:22",442,742,"Foul on Chris Mullins.",59,62,-3,0,0.223575387247197,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+248,2,"7:22",442,742,"Official TV Timeout",59,62,-3,21,0.223575387247197,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+249,2,"7:01",421,721,"Ar'Mond Davis made Layup.",59,64,-5,21,0.113625775579564,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+250,2,"6:40",400,700,"Ako Adams missed Three Point Jumper.",59,64,-5,0,0.0976666026267783,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+251,2,"6:40",400,700,"Jack Williams Offensive Rebound.",59,64,-5,7,0.0976666026267783,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+252,2,"6:33",393,693,"Foul on Amadou Sow.",59,64,-5,0,0.119343995289971,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+253,2,"6:33",393,693,"Jack Williams made Free Throw.",60,64,-4,0,0.156234489298346,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+254,2,"6:33",393,693,"Jack Williams made Free Throw.",61,64,-3,23,0.201913730413625,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+255,2,"6:10",370,670,"Devearl Ramsey missed Three Point Jumper.",61,64,-3,0,0.177417050044807,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+256,2,"6:10",370,670,"Amadou Sow Offensive Rebound.",61,64,-3,5,0.177417050044807,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+257,2,"6:05",365,665,"Amadou Sow made Layup.",61,66,-5,25,0.111780083851105,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+258,2,"5:40",340,640,"Drew Peterson Turnover.",61,66,-5,1,0.088778966316765,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+259,2,"5:39",339,639,"JaQuori McLaughlin Steal.",61,66,-5,4,0.100577476547471,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+260,2,"5:35",335,635,"Foul on Robert Martin.",61,66,-5,0,0.100577476547471,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+261,2,"5:35",335,635,"JaQuori McLaughlin made Free Throw.",61,67,-6,0,0.0727413670950788,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+262,2,"5:35",335,635,"JaQuori McLaughlin made Free Throw.",61,68,-7,11,0.0521624613218622,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+263,2,"5:24",324,624,"Chris Mullins made Three Point Jumper. Assisted by Quentin Millora-Brown.",64,68,-4,23,0.128860988182088,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+264,2,"5:01",301,601,"Robinson Idehen made Layup. Assisted by Sekou Toure.",64,70,-6,16,0.0810363916911812,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+265,2,"4:45",285,585,"Chris Mullins missed Layup.",64,70,-6,0,0.0650645446438893,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+266,2,"4:45",285,585,"Robinson Idehen Block.",64,70,-6,0,0.0650645446438893,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+267,2,"4:45",285,585,"Rice Offensive Rebound.",64,70,-6,4,0.0650645446438893,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+268,2,"4:41",281,581,"Chris Mullins missed Layup.",64,70,-6,0,0.0650645446438893,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+269,2,"4:41",281,581,"Robert Martin Offensive Rebound.",64,70,-6,4,0.0650645446438893,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+270,2,"4:37",277,577,"Foul on Devearl Ramsey.",64,70,-6,0,0.0508155600721197,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+271,2,"4:37",277,577,"Robert Martin made Free Throw.",65,70,-5,0,0.0731695510431237,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+272,2,"4:37",277,577,"Robert Martin made Free Throw.",66,70,-4,16,0.104276846362033,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+273,2,"4:21",261,561,"Max Heidegger made Layup.",66,72,-6,17,0.0641620113615841,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+274,2,"4:04",244,544,"Quentin Millora-Brown made Layup. Assisted by Ako Adams.",68,72,-4,23,0.112881500672369,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+275,2,"3:41",221,521,"JaQuori McLaughlin made Three Point Jumper. Assisted by Jay Nagle.",68,75,-7,3,0.0307436049101685,"Rice","UC Santa Barbara",3,4,0,0,-6,"401087826",2018-12-15
+276,2,"3:38",218,518,"UC Santa Barbara  Timeout",68,75,-7,24,0.0273078419446155,"Rice","UC Santa Barbara",3,3,0,1,-6,"401087826",2018-12-15
+277,2,"3:14",194,494,"Quentin Millora-Brown made Jumper. Assisted by Ako Adams.",70,75,-5,31,0.065680948999053,"Rice","UC Santa Barbara",3,3,0,1,-6,"401087826",2018-12-15
+278,2,"2:43",163,463,"Max Heidegger missed Three Point Jumper.",70,75,-5,0,0.044664172463325,"Rice","UC Santa Barbara",3,3,0,1,-6,"401087826",2018-12-15
+279,2,"2:43",163,463,"Robinson Idehen Offensive Rebound.",70,75,-5,5,0.044664172463325,"Rice","UC Santa Barbara",3,3,0,1,-6,"401087826",2018-12-15
+280,2,"2:38",158,458,"Robinson Idehen missed Dunk.",70,75,-5,0,0.0486916335846143,"Rice","UC Santa Barbara",3,3,0,1,-6,"401087826",2018-12-15
+281,2,"2:38",158,458,"Chris Mullins Defensive Rebound.",70,75,-5,18,0.0486916335846143,"Rice","UC Santa Barbara",3,3,0,1,-6,"401087826",2018-12-15
+282,2,"2:20",140,440,"Foul on Robinson Idehen.",70,75,-5,0,0.0370969751132155,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+283,2,"2:20",140,440,"Ako Adams made Free Throw.",71,75,-4,0,0.0607523256011378,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+284,2,"2:20",140,440,"Ako Adams made Free Throw.",72,75,-3,18,0.0979572797289341,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+285,2,"2:02",122,422,"Foul on Ako Adams.",72,75,-3,0,0.102771781571639,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+286,2,"2:02",122,422,"Devearl Ramsey made Free Throw.",72,76,-4,0,0.0610362294612415,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+287,2,"2:02",122,422,"Devearl Ramsey made Free Throw.",72,77,-5,13,0.0355773947962084,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+288,2,"1:49",109,409,"Robert Martin made Three Point Jumper. Assisted by Chris Mullins.",75,77,-2,29,0.147041936116377,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+289,2,"1:20",80,380,"JaQuori McLaughlin Turnover.",75,77,-2,11,0.164023423415011,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+290,2,"1:09",69,369,"Ako Adams Turnover.",75,77,-2,2,0.143089891908341,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+291,2,"1:07",67,367,"Max Heidegger Steal.",75,77,-2,21,0.143089891908341,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+292,2,"0:46",46,346,"JaQuori McLaughlin Turnover.",75,77,-2,2,0.100082715003398,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+293,2,"0:44",44,344,"Trey Murphy III Steal.",75,77,-2,3,0.147111148744478,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+294,2,"0:41",41,341,"Rice  Timeout",75,77,-2,9,0.0941241556514235,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+295,2,"0:32",32,332,"Foul on JaQuori McLaughlin.",75,77,-2,0,0.0791423171326623,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+296,2,"0:32",32,332,"Chris Mullins made Free Throw.",76,77,-1,0,0.210812265106284,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+297,2,"0:32",32,332,"Chris Mullins made Free Throw.",77,77,0,5,0.45362995809723,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+298,2,"0:27",27,327,"UC Santa Barbara  Timeout",77,77,0,21,0.403099835638591,"Rice","UC Santa Barbara",2,2,1,1,-6,"401087826",2018-12-15
+299,2,"0:06",6,306,"Max Heidegger missed Jumper.",77,77,0,0,0.683860103606097,"Rice","UC Santa Barbara",2,2,1,1,-6,"401087826",2018-12-15
+300,2,"0:06",6,306,"Jack Williams Defensive Rebound.",77,77,0,6,0.683860103606097,"Rice","UC Santa Barbara",2,2,1,1,-6,"401087826",2018-12-15
+301,2,"0:00",300,300,"Chris Mullins missed Three Point Jumper.",77,77,0,0,0.402156539724719,"Rice","UC Santa Barbara",2,2,0,0,-6,"401087826",2018-12-15
+302,2,"0:00",300,300,"Amadou Sow Defensive Rebound.",77,77,0,0,0.402156539724719,"Rice","UC Santa Barbara",2,2,0,0,-6,"401087826",2018-12-15
+303,2,"0:00",300,300,"End of 2nd half",77,77,0,0,0.402156539724719,"Rice","UC Santa Barbara",2,2,0,0,-6,"401087826",2018-12-15
+304,3,"5:00",300,300,"PLAY",77,77,0,11,0.402156539724719,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+305,3,"4:49",289,289,"Chris Mullins missed Jumper.",77,77,0,0,0.366253724756605,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+306,3,"4:49",289,289,"JaQuori McLaughlin Defensive Rebound.",77,77,0,16,0.366253724756605,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+307,3,"4:33",273,273,"Devearl Ramsey made Three Point Jumper. Assisted by Jarriesse Blackmon.",77,80,-3,20,0.146518421261212,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+308,3,"4:13",253,253,"Foul on JaQuori McLaughlin.",77,80,-3,0,0.170103596461808,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+309,3,"4:13",253,253,"Chris Mullins made Free Throw.",78,80,-2,0,0.238028077644691,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+310,3,"4:13",253,253,"Chris Mullins made Free Throw.",79,80,-1,20,0.322534417380163,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+311,3,"3:53",233,233,"Amadou Sow made Jumper.",79,82,-3,17,0.176055135124635,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+312,3,"3:36",216,216,"Foul on Max Heidegger.",79,82,-3,0,0.139950517002267,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+313,3,"3:36",216,216,"Chris Mullins missed Free Throw.",79,82,-3,0,0.139950517002267,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+314,3,"3:36",216,216,"Rice Deadball Team Rebound.",79,82,-3,0,0.139950517002267,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+315,3,"3:36",216,216,"Chris Mullins made Free Throw.",80,82,-2,22,0.201587341488237,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+316,3,"3:14",194,194,"Devearl Ramsey made Three Point Jumper. Assisted by Ar'Mond Davis.",80,85,-5,22,0.065680948999053,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+317,3,"2:52",172,172,"Ako Adams made Jumper.",82,85,-3,30,0.148603027264848,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+318,3,"2:22",142,142,"Devearl Ramsey made Jumper.",82,87,-5,13,0.0370969751132155,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+319,3,"2:09",129,129,"Foul on Amadou Sow.",82,87,-5,0,0.0355773947962084,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+320,3,"2:09",129,129,"Jack Williams missed Free Throw.",82,87,-5,0,0.0355773947962084,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+321,3,"2:09",129,129,"Rice Deadball Team Rebound.",82,87,-5,0,0.0355773947962084,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+322,3,"2:09",129,129,"Jack Williams missed Free Throw.",82,87,-5,0,0.0355773947962084,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+323,3,"2:09",129,129,"Ar'Mond Davis Defensive Rebound.",82,87,-5,20,0.0355773947962084,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+324,3,"1:49",109,109,"Max Heidegger missed Three Point Jumper.",82,87,-5,0,0.0262066597402017,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+325,3,"1:49",109,109,"Robert Martin Defensive Rebound.",82,87,-5,11,0.0262066597402017,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+326,3,"1:38",98,98,"Ako Adams Turnover.",82,87,-5,1,0.0327492915008174,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+327,3,"1:37",97,97,"Jarriesse Blackmon Steal.",82,87,-5,4,0.0327492915008174,"Rice","UC Santa Barbara",3,3,0,0,-6,"401087826",2018-12-15
+328,3,"1:33",93,93,"Max Heidegger made Layup. Assisted by Devearl Ramsey.",82,89,-7,0,0.00953433642316992,"Rice","UC Santa Barbara",3,3,1,0,-6,"401087826",2018-12-15
+329,3,"1:33",93,93,"Rice  Timeout",82,89,-7,4,0.00953433642316992,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+330,3,"1:29",89,89,"Chris Mullins missed Layup.",82,89,-7,0,0.00542703586939153,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+331,3,"1:29",89,89,"Quentin Millora-Brown Offensive Rebound.",82,89,-7,3,0.00542703586939153,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+332,3,"1:26",86,86,"Quentin Millora-Brown made Layup.",84,89,-5,19,0.0223573572792023,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+333,3,"1:07",67,67,"Foul on Robert Martin.",84,89,-5,0,0.0176953984072112,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+334,3,"1:07",67,67,"Jarriesse Blackmon made Free Throw.",84,90,-6,0,0.00850261598504053,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+335,3,"1:07",67,67,"Jarriesse Blackmon made Free Throw.",84,91,-7,12,0.0040657296284726,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+336,3,"0:55",55,55,"Quentin Millora-Brown Turnover.",84,91,-7,1,0.00335454681606612,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+337,3,"0:54",54,54,"Jarriesse Blackmon Steal.",84,91,-7,1,0.00335454681606612,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+338,3,"0:53",53,53,"Foul on Robert Martin.",84,91,-7,0,0.00219069914598804,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+339,3,"0:53",53,53,"Jarriesse Blackmon made Free Throw.",84,92,-8,0,0.000983513574329939,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+340,3,"0:53",53,53,"Jarriesse Blackmon made Free Throw.",84,93,-9,3,0.000441253881395113,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+341,3,"0:50",50,50,"Trey Murphy III missed Three Point Jumper.",84,93,-9,0,0.000222396649881395,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+342,3,"0:50",50,50,"Max Heidegger Defensive Rebound.",84,93,-9,5,0.000222396649881395,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+343,3,"0:45",45,45,"Foul on Quentin Millora-Brown.",84,93,-9,0,0.000570513699406666,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+344,3,"0:45",45,45,"Max Heidegger made Free Throw.",84,94,-10,0,0.000252397123132306,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+345,3,"0:45",45,45,"Max Heidegger made Free Throw.",84,95,-11,6,0.000111641496897938,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+346,3,"0:39",39,39,"Foul on Sekou Toure.",84,95,-11,0,2.78696584606525e-05,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+347,3,"0:39",39,39,"Robert Martin made Free Throw.",85,95,-10,0,7.25614281603913e-05,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+348,3,"0:39",39,39,"Robert Martin missed Free Throw.",85,95,-10,0,7.25614281603913e-05,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+349,3,"0:39",39,39,"Ar'Mond Davis Defensive Rebound.",85,95,-10,2,7.25614281603913e-05,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+350,3,"0:37",37,37,"Foul on Quentin Millora-Brown.",85,95,-10,0,0.00010405510264136,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+351,3,"0:37",37,37,"Ar'Mond Davis made Free Throw.",85,96,-11,0,4.07594738009747e-05,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+352,3,"0:37",37,37,"Ar'Mond Davis made Free Throw.",85,97,-12,6,1.59652981290416e-05,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+353,3,"0:31",31,31,"Robert Martin made Layup.",87,97,-10,0,6.17748547029497e-05,"Rice","UC Santa Barbara",2,3,1,0,-6,"401087826",2018-12-15
+354,3,"0:31",31,31,"Rice  Timeout",87,97,-10,5,6.17748547029497e-05,"Rice","UC Santa Barbara",1,3,1,0,-6,"401087826",2018-12-15
+355,3,"0:26",26,26,"Foul on Payton Moore.",87,97,-10,0,1.47677884941476e-06,"Rice","UC Santa Barbara",1,3,1,0,-6,"401087826",2018-12-15
+356,3,"0:26",26,26,"Max Heidegger made Free Throw.",87,98,-11,0,4.23202780449056e-07,"Rice","UC Santa Barbara",1,3,1,0,-6,"401087826",2018-12-15
+357,3,"0:26",26,26,"Max Heidegger made Free Throw.",87,99,-12,3,1.21277778883089e-07,"Rice","UC Santa Barbara",1,3,1,0,-6,"401087826",2018-12-15
+358,3,"0:23",23,23,"Robert Martin missed Three Point Jumper.",87,99,-12,0,1.12214060720257e-06,"Rice","UC Santa Barbara",1,3,1,0,-6,"401087826",2018-12-15
+359,3,"0:23",23,23,"Payton Moore Offensive Rebound.",87,99,-12,6,1.12214060720257e-06,"Rice","UC Santa Barbara",1,3,1,0,-6,"401087826",2018-12-15
+360,3,"0:17",17,17,"Chris Mullins missed Three Point Jumper.",87,99,-12,0,2.92600958663422e-06,"Rice","UC Santa Barbara",1,3,1,0,-6,"401087826",2018-12-15
+361,3,"0:17",17,17,"Sekou Toure Block.",87,99,-12,2,2.92600958663422e-06,"Rice","UC Santa Barbara",1,3,1,0,-6,"401087826",2018-12-15
+362,3,"0:15",15,15,"Trey Murphy III Offensive Rebound.",87,99,-12,4,2.88646857949043e-08,"Rice","UC Santa Barbara",1,3,1,0,-6,"401087826",2018-12-15
+363,3,"0:11",11,11,"Robert Martin made Layup.",89,99,-10,11,2.44540324578061e-06,"Rice","UC Santa Barbara",1,3,1,0,-6,"401087826",2018-12-15
+364,3,"0:00",0,0,"End of Game",89,99,-10,0,9.52980109684306e-85,"Rice","UC Santa Barbara",1,3,1,0,-6,"401087826",2018-12-15

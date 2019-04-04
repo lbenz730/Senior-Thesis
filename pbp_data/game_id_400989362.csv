@@ -1,0 +1,321 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.5,"North Dakota State","Jamestown",4,4,0,0,NA,400989362,2017-12-30
+2,1,"19:44",2384,2384,"Leighton Sampson made Jumper.",0,2,-2,0.495602996769325,"North Dakota State","Jamestown",4,4,0,0,NA,400989362,2017-12-30
+3,1,"19:19",2359,2359,"Paul Miller missed Jumper.",0,2,-2,0.485753774023953,"North Dakota State","Jamestown",4,4,0,0,NA,400989362,2017-12-30
+4,1,"19:19",2359,2359,"Jon Purintun Defensive Rebound.",0,2,-2,0.485753774023953,"North Dakota State","Jamestown",4,4,0,0,NA,400989362,2017-12-30
+5,1,"19:06",2346,2346,"Leighton Sampson made Jumper.",0,4,-4,0.422781436075903,"North Dakota State","Jamestown",4,4,0,0,NA,400989362,2017-12-30
+6,1,"18:57",2337,2337,"Paul Miller made Three Point Jumper. Assisted by Cameron Hunter.",3,4,-1,0.493456777384432,"North Dakota State","Jamestown",4,4,0,0,NA,400989362,2017-12-30
+7,1,"18:49",2329,2329,"Jon Purintun Turnover.",3,4,-1,0.504140234128677,"North Dakota State","Jamestown",4,4,0,0,NA,400989362,2017-12-30
+8,1,"18:48",2328,2328,"Tyson Ward Steal.",3,4,-1,0.504140234128677,"North Dakota State","Jamestown",4,4,0,0,NA,400989362,2017-12-30
+9,1,"18:46",2326,2326,"Paul Miller made Layup. Assisted by Cameron Hunter.",5,4,1,0.557864839876409,"North Dakota State","Jamestown",4,4,0,0,NA,400989362,2017-12-30
+10,1,"18:45",2325,2325,"Jamestown  Timeout",5,4,1,0.557864839876409,"North Dakota State","Jamestown",3,4,1,0,NA,400989362,2017-12-30
+11,1,"18:32",2312,2312,"Sam Johnson missed Three Point Jumper.",5,4,1,0.531357067359631,"North Dakota State","Jamestown",3,4,1,0,NA,400989362,2017-12-30
+12,1,"18:32",2312,2312,"A.J. Jacobson Defensive Rebound.",5,4,1,0.531357067359631,"North Dakota State","Jamestown",3,4,1,0,NA,400989362,2017-12-30
+13,1,"18:24",2304,2304,"Spencer Eliason missed Layup.",5,4,1,0.53386704006008,"North Dakota State","Jamestown",3,4,1,0,NA,400989362,2017-12-30
+14,1,"18:24",2304,2304,"Christian Kvilvang Defensive Rebound.",5,4,1,0.53386704006008,"North Dakota State","Jamestown",3,4,1,0,NA,400989362,2017-12-30
+15,1,"18:07",2287,2287,"Jon Purintun Turnover.",5,4,1,0.535534327076653,"North Dakota State","Jamestown",3,4,1,0,NA,400989362,2017-12-30
+16,1,"17:38",2258,2258,"Cameron Hunter missed Jumper.",5,4,1,0.545373191046402,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+17,1,"17:38",2258,2258,"Leighton Sampson Defensive Rebound.",5,4,1,0.545373191046402,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+18,1,"17:20",2240,2240,"Leighton Sampson Turnover.",5,4,1,0.552103519493009,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+19,1,"17:19",2239,2239,"Paul Miller Steal.",5,4,1,0.545473881201166,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+20,1,"17:10",2230,2230,"A.J. Jacobson missed Layup.",5,4,1,0.545473881201166,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+21,1,"17:10",2230,2230,"Leighton Sampson Block.",5,4,1,0.545473881201166,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+22,1,"17:10",2230,2230,"North Dakota State Offensive Rebound.",5,4,1,0.545473881201166,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+23,1,"17:04",2224,2224,"Tyson Ward made Jumper.",7,4,3,0.594422298401908,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+24,1,"16:37",2197,2197,"Christian Kvilvang missed Jumper.",7,4,3,0.614006147872119,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+25,1,"16:37",2197,2197,"Jamestown Offensive Rebound.",7,4,3,0.614006147872119,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+26,1,"16:22",2182,2182,"Leighton Sampson made Layup. Assisted by Jon Purintun.",7,6,1,0.544992909230217,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+27,1,"16:12",2172,2172,"Foul on Paul Miller.",7,6,1,0.537394834362527,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+28,1,"16:12",2172,2172,"Paul Miller Turnover.",7,6,1,0.537394834362527,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+29,1,"15:53",2153,2153,"Leighton Sampson made Layup. Assisted by Sam Johnson.",7,8,-1,0.474604556703262,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+30,1,"15:41",2141,2141,"Tyson Ward made Layup.",9,8,1,0.548469513384562,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+31,1,"15:14",2114,2114,"Jon Purintun missed Jumper.",9,8,1,0.53618909047836,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+32,1,"15:14",2114,2114,"Jon Purintun Offensive Rebound.",9,8,1,0.53618909047836,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+33,1,"15:11",2111,2111,"Jon Purintun made Jumper.",9,10,-1,0.477358079173685,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+34,1,"14:46",2086,2086,"Paul Miller made Three Point Jumper. Assisted by Cameron Hunter.",12,10,2,0.577005167738452,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+35,1,"14:12",2052,2052,"Kevin Oberweiser made Three Point Jumper. Assisted by Jon Purintun.",12,13,-1,0.472094640407477,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+36,1,"13:59",2039,2039,"Tyson Ward missed Three Point Jumper.",12,13,-1,0.492870968576358,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+37,1,"13:59",2039,2039,"Leighton Sampson Defensive Rebound.",12,13,-1,0.492870968576358,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+38,1,"13:50",2030,2030,"Foul on Jon Purintun.",12,13,-1,0.492870968576358,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+39,1,"13:50",2030,2030,"Jon Purintun Turnover.",12,13,-1,0.492870968576358,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+40,1,"13:50",2030,2030,"Official TV Timeout",12,13,-1,0.492870968576358,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+41,1,"13:30",2010,2010,"Cameron Hunter missed Three Point Jumper.",12,13,-1,0.490544369442713,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+42,1,"13:30",2010,2010,"Sam Johnson Defensive Rebound.",12,13,-1,0.490544369442713,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+43,1,"13:22",2002,2002,"Jon Purintun missed Jumper.",12,13,-1,0.481069778074072,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+44,1,"13:22",2002,2002,"Paul Miller Defensive Rebound.",12,13,-1,0.481069778074072,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+45,1,"13:16",1996,1996,"Chris Quayle made Layup. Assisted by Paul Miller.",14,13,1,0.544523943142662,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+46,1,"12:59",1979,1979,"Leighton Sampson missed Jumper.",14,13,1,0.544958604380564,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+47,1,"12:59",1979,1979,"Paul Miller Defensive Rebound.",14,13,1,0.544958604380564,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+48,1,"12:27",1947,1947,"Deng Geu made Layup.",16,13,3,0.604222145359215,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+49,1,"12:14",1934,1934,"Ben Weisbeck made Layup.",16,15,1,0.535719302115517,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+50,1,"11:49",1909,1909,"Foul on Brady Birch.",16,15,1,0.53809779503911,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+51,1,"11:49",1909,1909,"Official TV Timeout",16,15,1,0.53809779503911,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+52,1,"11:49",1909,1909,"Paul Miller made Free Throw.",17,15,2,0.567014173514993,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+53,1,"11:49",1909,1909,"Paul Miller made Free Throw.",18,15,3,0.595481171069104,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+54,1,"11:39",1899,1899,"Kevin Oberweiser missed Three Point Jumper.",18,15,3,0.620659350123136,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+55,1,"11:39",1899,1899,"Dylan Miller Defensive Rebound.",18,15,3,0.620659350123136,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+56,1,"11:29",1889,1889,"Dylan Miller made Jumper. Assisted by Chris Quayle.",20,15,5,0.652946189012538,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+57,1,"11:13",1873,1873,"Kevin Oberweiser Turnover.",20,15,5,0.659806970297697,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+58,1,"11:12",1872,1872,"Dylan Miller Steal.",20,15,5,0.659806970297697,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+59,1,"10:53",1853,1853,"Jared Samuelson made Three Point Jumper. Assisted by Dylan Miller.",23,15,8,0.751569573283598,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+60,1,"10:51",1851,1851,"Jamestown  Timeout",23,15,8,0.751569573283598,"North Dakota State","Jamestown",2,4,1,0,NA,400989362,2017-12-30
+61,1,"10:34",1834,1834,"Leighton Sampson missed Layup.",23,15,8,0.748755044757856,"North Dakota State","Jamestown",2,4,1,0,NA,400989362,2017-12-30
+62,1,"10:34",1834,1834,"Deng Geu Block.",23,15,8,0.748755044757856,"North Dakota State","Jamestown",2,4,1,0,NA,400989362,2017-12-30
+63,1,"10:31",1831,1831,"Chris Quayle Defensive Rebound.",23,15,8,0.748755044757856,"North Dakota State","Jamestown",2,4,1,0,NA,400989362,2017-12-30
+64,1,"10:28",1828,1828,"Jared Samuelson made Three Point Jumper. Assisted by Paul Miller.",26,15,11,0.810520953300888,"North Dakota State","Jamestown",2,4,1,0,NA,400989362,2017-12-30
+65,1,"9:59",1799,1799,"Leighton Sampson Turnover.",26,15,11,0.81068996643348,"North Dakota State","Jamestown",2,4,1,0,NA,400989362,2017-12-30
+66,1,"9:58",1798,1798,"Deng Geu Steal.",26,15,11,0.81068996643348,"North Dakota State","Jamestown",2,4,1,0,NA,400989362,2017-12-30
+67,1,"9:50",1790,1790,"Deng Geu made Layup. Assisted by Paul Miller.",28,15,13,0.847436457716822,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+68,1,"9:40",1780,1780,"Christian Kvilvang missed Three Point Jumper.",28,15,13,0.855858682428798,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+69,1,"9:40",1780,1780,"Dylan Miller Defensive Rebound.",28,15,13,0.855858682428798,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+70,1,"9:20",1760,1760,"Paul Miller made Three Point Jumper. Assisted by Deng Geu.",31,15,16,0.893989284426568,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+71,1,"9:07",1747,1747,"Jon Purintun made Layup.",31,17,14,0.867745207452398,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+72,1,"8:53",1733,1733,"Paul Miller made Three Point Jumper.",34,17,17,0.914929335889145,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+73,1,"8:22",1702,1702,"Sam Johnson made Three Point Jumper. Assisted by Kevin Oberweiser.",34,20,14,0.857395321297613,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+74,1,"8:06",1686,1686,"Jared Samuelson missed Three Point Jumper.",34,20,14,0.888850141940562,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+75,1,"8:06",1686,1686,"Spencer Eliason Offensive Rebound.",34,20,14,0.888850141940562,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+76,1,"8:03",1683,1683,"Spencer Eliason made Two Point Tip Shot.",36,20,16,0.914492274888413,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+77,1,"7:52",1672,1672,"Kevin Oberweiser missed Three Point Jumper.",36,20,16,0.907059230938355,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+78,1,"7:52",1672,1672,"Tyson Ward Defensive Rebound.",36,20,16,0.907059230938355,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+79,1,"7:30",1650,1650,"Spencer Eliason made Layup. Assisted by Tyson Ward.",38,20,18,0.921966789689448,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+80,1,"7:06",1626,1626,"Sam Johnson missed Three Point Jumper.",38,20,18,0.929017635106262,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+81,1,"7:06",1626,1626,"Tyson Ward Defensive Rebound.",38,20,18,0.929017635106262,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+82,1,"6:59",1619,1619,"A.J. Jacobson missed Three Point Jumper.",38,20,18,0.925853942408234,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+83,1,"6:59",1619,1619,"Leighton Sampson Defensive Rebound.",38,20,18,0.925853942408234,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+84,1,"6:46",1606,1606,"Foul on Spencer Eliason.",38,20,18,0.915104492768301,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+85,1,"6:46",1606,1606,"Official TV Timeout",38,20,18,0.915104492768301,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+86,1,"6:46",1606,1606,"Technical Foul on Jamestown.",38,20,18,0.915104492768301,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+87,1,"6:46",1606,1606,"Jared Samuelson made Free Throw.",39,20,19,0.924769280426425,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+88,1,"6:46",1606,1606,"Kevin Oberweiser made Free Throw.",39,21,18,0.915104492768301,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+89,1,"6:46",1606,1606,"Kevin Oberweiser made Free Throw.",39,22,17,0.904326537023082,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+90,1,"6:39",1599,1599,"Foul on Sam Johnson.",39,22,17,0.918161834941202,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+91,1,"6:33",1593,1593,"Cameron Hunter made Layup. Assisted by A.J. Jacobson.",41,22,19,0.936298180499461,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+92,1,"6:18",1578,1578,"Stefan Jevdjenijevic Turnover.",41,22,19,0.953358579708412,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+93,1,"6:17",1577,1577,"Cameron Hunter Steal.",41,22,19,0.953358579708412,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+94,1,"6:14",1574,1574,"Foul on Cameron Hunter.",41,22,19,0.953358579708412,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+95,1,"6:14",1574,1574,"Cameron Hunter Turnover.",41,22,19,0.953358579708412,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+96,1,"5:58",1558,1558,"Sam Johnson missed Layup.",41,22,19,0.939767809597794,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+97,1,"5:58",1558,1558,"Tyson Ward Defensive Rebound.",41,22,19,0.939767809597794,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+98,1,"5:50",1550,1550,"Spencer Eliason missed Layup.",41,22,19,0.939767809597794,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+99,1,"5:50",1550,1550,"Jamestown Defensive Rebound.",41,22,19,0.939767809597794,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+100,1,"5:37",1537,1537,"Jon Purintun made Jumper.",41,24,17,0.91942303634792,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+101,1,"5:16",1516,1516,"Rocky Kreuser made Layup. Assisted by Cameron Hunter.",43,24,19,0.953397196349297,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+102,1,"5:05",1505,1505,"Sam Johnson missed Three Point Jumper.",43,24,19,0.940136086163093,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+103,1,"5:05",1505,1505,"Cameron Hunter Defensive Rebound.",43,24,19,0.940136086163093,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+104,1,"4:41",1481,1481,"Rocky Kreuser missed Jumper.",43,24,19,0.946006200536457,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+105,1,"4:41",1481,1481,"Brock Schrom Block.",43,24,19,0.946006200536457,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+106,1,"4:41",1481,1481,"North Dakota State Offensive Rebound.",43,24,19,0.946006200536457,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+107,1,"4:36",1476,1476,"Paul Miller made Jumper. Assisted by Deng Geu.",45,24,21,0.962306704817257,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+108,1,"4:26",1466,1466,"Christian Kvilvang missed Three Point Jumper.",45,24,21,0.954577060244578,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+109,1,"4:26",1466,1466,"Deng Geu Defensive Rebound.",45,24,21,0.954577060244578,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+110,1,"4:15",1455,1455,"Foul on Leighton Sampson.",45,24,21,0.956719588235866,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+111,1,"4:15",1455,1455,"Deng Geu missed Free Throw.",45,24,21,0.956719588235866,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+112,1,"4:15",1455,1455,"North Dakota State Deadball Team Rebound.",45,24,21,0.956719588235866,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+113,1,"4:15",1455,1455,"Deng Geu missed Free Throw.",45,24,21,0.956719588235866,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+114,1,"4:15",1455,1455,"Ben Weisbeck Defensive Rebound.",45,24,21,0.956719588235866,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+115,1,"3:59",1439,1439,"Leighton Sampson made Jumper.",45,26,19,0.949860073246799,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+116,1,"3:49",1429,1429,"Foul on Leighton Sampson.",45,26,19,0.94123076127711,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+117,1,"3:49",1429,1429,"Official TV Timeout",45,26,19,0.94123076127711,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+118,1,"3:49",1429,1429,"Cameron Hunter made Free Throw.",46,26,20,0.94874431075431,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+119,1,"3:49",1429,1429,"Cameron Hunter made Free Throw.",47,26,21,0.955342841316385,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+120,1,"3:22",1402,1402,"Ben Weisbeck missed Jumper.",47,26,21,0.966640788751903,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+121,1,"3:22",1402,1402,"Tyson Ward Defensive Rebound.",47,26,21,0.966640788751903,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+122,1,"3:08",1388,1388,"Tyson Ward Turnover.",47,26,21,0.962191162888716,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+123,1,"3:05",1385,1385,"Ben Weisbeck Steal.",47,26,21,0.962191162888716,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+124,1,"2:43",1363,1363,"Ben Weisbeck missed Jumper.",47,26,21,0.963838924610897,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+125,1,"2:43",1363,1363,"Tyson Ward Defensive Rebound.",47,26,21,0.963838924610897,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+126,1,"2:33",1353,1353,"Rocky Kreuser made Layup. Assisted by Tyson Ward.",49,26,23,0.975075712675042,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+127,1,"2:11",1331,1331,"Jon Purintun Turnover.",49,26,23,0.972872127130317,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+128,1,"2:10",1330,1330,"Cameron Hunter Steal.",49,26,23,0.972872127130317,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+129,1,"2:08",1328,1328,"Foul on Jon Purintun.",49,26,23,0.975259149912094,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+130,1,"2:08",1328,1328,"Tyson Ward made Free Throw.",50,26,24,0.978790174634051,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+131,1,"2:08",1328,1328,"Tyson Ward made Free Throw.",51,26,25,0.981826640784083,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+132,1,"1:56",1316,1316,"Ben Weisbeck made Jumper.",51,28,23,0.977187877664877,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+133,1,"1:31",1291,1291,"Dylan Miller made Dunk. Assisted by Paul Miller.",53,28,25,0.98721732963855,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+134,1,"1:00",1260,1260,"Leighton Sampson missed Layup.",53,28,25,0.98326224303901,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+135,1,"1:00",1260,1260,"Chris Quayle Defensive Rebound.",53,28,25,0.98326224303901,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+136,1,"0:42",1242,1242,"A.J. Jacobson made Three Point Jumper. Assisted by Jared Samuelson.",56,28,28,0.987680409675328,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+137,1,"0:18",1218,1218,"Jon Purintun missed Three Point Jumper.",56,28,28,0.990542751757945,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+138,1,"0:18",1218,1218,"Jared Samuelson Defensive Rebound.",56,28,28,0.990542751757945,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+139,1,"0:01",1201,1201,"Dylan Miller missed Three Point Jumper.",56,28,28,0.989104989164184,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+140,1,"0:01",1201,1201,"A.J. Jacobson Offensive Rebound.",56,28,28,0.989104989164184,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+141,1,"0:00",1200,1200,"End of 1st half",56,28,28,0.989104989164184,"North Dakota State","Jamestown",2,4,0,0,NA,400989362,2017-12-30
+142,2,"20:00",1200,1200,"PLAY",56,28,28,0.989104989164184,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+143,2,"19:49",1189,1189,"Paul Miller made Three Point Jumper. Assisted by Cameron Hunter.",59,28,31,0.994393612793448,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+144,2,"19:40",1180,1180,"Kevin Oberweiser missed Three Point Jumper.",59,28,31,0.994393612793448,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+145,2,"19:40",1180,1180,"Cameron Hunter Defensive Rebound.",59,28,31,0.994393612793448,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+146,2,"19:32",1172,1172,"Cameron Hunter Turnover.",59,28,31,0.994317511723892,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+147,2,"19:31",1171,1171,"Leighton Sampson Steal.",59,28,31,0.994317511723892,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+148,2,"19:26",1166,1166,"Jon Purintun made Layup.",59,30,29,0.991402576075413,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+149,2,"19:09",1149,1149,"Spencer Eliason missed Layup.",59,30,29,0.993721630439881,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+150,2,"19:09",1149,1149,"Tyson Ward Offensive Rebound.",59,30,29,0.993721630439881,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+151,2,"18:52",1132,1132,"Paul Miller missed Three Point Jumper.",59,30,29,0.991796803850245,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+152,2,"18:52",1132,1132,"Sam Johnson Defensive Rebound.",59,30,29,0.991796803850245,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+153,2,"18:19",1099,1099,"Sam Johnson missed Three Point Jumper.",59,30,29,0.993698993497521,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+154,2,"18:19",1099,1099,"Tyson Ward Defensive Rebound.",59,30,29,0.993698993497521,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+155,2,"18:19",1099,1099,"A.J. Jacobson made Layup.",61,30,31,0.995519998016083,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+156,2,"18:19",1099,1099,"Foul on Leighton Sampson.",61,30,31,0.995519998016083,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+157,2,"18:18",1098,1098,"A.J. Jacobson made Free Throw.",62,30,32,0.996223222077943,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+158,2,"17:56",1076,1076,"Sam Johnson Turnover.",62,30,32,0.995933784063485,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+159,2,"17:55",1075,1075,"Cameron Hunter Steal.",62,30,32,0.995933784063485,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+160,2,"17:54",1074,1074,"Foul on Sam Johnson.",62,30,32,0.995933784063485,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+161,2,"17:34",1054,1054,"Tyson Ward missed Layup.",62,30,32,0.997147685886138,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+162,2,"17:34",1054,1054,"Jon Purintun Defensive Rebound.",62,30,32,0.997147685886138,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+163,2,"17:18",1038,1038,"Jack Talley missed Three Point Jumper.",62,30,32,0.996000877629371,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+164,2,"17:18",1038,1038,"Tyson Ward Defensive Rebound.",62,30,32,0.996000877629371,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+165,2,"17:12",1032,1032,"Foul on Sam Johnson.",62,30,32,0.996000877629371,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+166,2,"17:12",1032,1032,"Tyson Ward made Free Throw.",63,30,33,0.996629145911696,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+167,2,"17:12",1032,1032,"Tyson Ward made Free Throw.",64,30,34,0.99715899381811,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+168,2,"16:56",1016,1016,"Leighton Sampson missed Jumper.",64,30,34,0.997908890663332,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+169,2,"16:56",1016,1016,"Spencer Eliason Block.",64,30,34,0.997908890663332,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+170,2,"16:54",1014,1014,"Cameron Hunter Defensive Rebound.",64,30,34,0.997908890663332,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+171,2,"16:51",1011,1011,"Paul Miller missed Three Point Jumper.",64,30,34,0.997908890663332,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+172,2,"16:51",1011,1011,"Leighton Sampson Defensive Rebound.",64,30,34,0.997908890663332,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+173,2,"16:33",993,993,"Kevin Oberweiser missed Three Point Jumper.",64,30,34,0.997688453105204,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+174,2,"16:33",993,993,"Paul Miller Defensive Rebound.",64,30,34,0.997688453105204,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+175,2,"16:25",985,985,"Paul Miller missed Layup.",64,30,34,0.999020571705193,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+176,2,"16:25",985,985,"Spencer Eliason Offensive Rebound.",64,30,34,0.999020571705193,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+177,2,"16:21",981,981,"Foul on Kevin Oberweiser.",64,30,34,0.999020571705193,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+178,2,"16:21",981,981,"Spencer Eliason made Free Throw.",65,30,35,0.999197813336156,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+179,2,"16:21",981,981,"Spencer Eliason made Free Throw.",66,30,36,0.999343001639336,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+180,2,"16:07",967,967,"Jon Purintun made Jumper.",66,32,34,0.998244136367706,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+181,2,"15:52",952,952,"Rocky Kreuser missed Three Point Jumper.",66,32,34,0.998492914471192,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+182,2,"15:52",952,952,"Kevin Oberweiser Defensive Rebound.",66,32,34,0.998492914471192,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+183,2,"15:41",941,941,"Jack Talley missed Layup.",66,32,34,0.99870375293299,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+184,2,"15:41",941,941,"Paul Miller Defensive Rebound.",66,32,34,0.99870375293299,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+185,2,"15:15",915,915,"Cameron Hunter Turnover.",66,32,34,0.998764037311882,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+186,2,"15:14",914,914,"Jon Purintun Steal.",66,32,34,0.998764037311882,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+187,2,"15:08",908,908,"Jack Talley made Jumper. Assisted by Jon Purintun.",66,34,32,0.997930404546105,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+188,2,"14:50",890,890,"Chris Quayle missed Jumper.",66,34,32,0.998202892530248,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+189,2,"14:50",890,890,"Rocky Kreuser Offensive Rebound.",66,34,32,0.998202892530248,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+190,2,"14:36",876,876,"Chris Quayle made Three Point Jumper. Assisted by Cameron Hunter.",69,34,35,0.998904698487714,"North Dakota State","Jamestown",3,4,0,0,NA,400989362,2017-12-30
+191,2,"14:33",873,873,"North Dakota State  Timeout",69,34,35,0.998904698487714,"North Dakota State","Jamestown",3,3,0,1,NA,400989362,2017-12-30
+192,2,"14:33",873,873,"Official TV Timeout",69,34,35,0.998904698487714,"North Dakota State","Jamestown",3,3,0,1,NA,400989362,2017-12-30
+193,2,"14:23",863,863,"Jon Purintun made Layup.",69,36,33,0.998216083935364,"North Dakota State","Jamestown",3,3,0,1,NA,400989362,2017-12-30
+194,2,"14:23",863,863,"Foul on Jared Samuelson.",69,36,33,0.998216083935364,"North Dakota State","Jamestown",3,3,0,1,NA,400989362,2017-12-30
+195,2,"14:23",863,863,"Official TV Timeout",69,36,33,0.998216083935364,"North Dakota State","Jamestown",3,3,0,1,NA,400989362,2017-12-30
+196,2,"14:23",863,863,"Jon Purintun missed Free Throw.",69,36,33,0.998216083935364,"North Dakota State","Jamestown",3,3,0,1,NA,400989362,2017-12-30
+197,2,"14:23",863,863,"Deng Geu Defensive Rebound.",69,36,33,0.998216083935364,"North Dakota State","Jamestown",3,3,0,1,NA,400989362,2017-12-30
+198,2,"14:03",843,843,"Foul on Jack Talley.",69,36,33,0.999140339027555,"North Dakota State","Jamestown",3,3,0,1,NA,400989362,2017-12-30
+199,2,"14:03",843,843,"Deng Geu made Free Throw.",70,36,34,0.999304706652618,"North Dakota State","Jamestown",3,3,0,1,NA,400989362,2017-12-30
+200,2,"14:03",843,843,"Deng Geu made Free Throw.",71,36,35,0.99943766479009,"North Dakota State","Jamestown",3,3,0,1,NA,400989362,2017-12-30
+201,2,"13:56",836,836,"Jon Purintun missed Jumper.",71,36,35,0.999297650121223,"North Dakota State","Jamestown",3,3,0,1,NA,400989362,2017-12-30
+202,2,"13:56",836,836,"Chris Quayle Defensive Rebound.",71,36,35,0.999297650121223,"North Dakota State","Jamestown",3,3,0,1,NA,400989362,2017-12-30
+203,2,"13:43",823,823,"Rocky Kreuser made Three Point Jumper. Assisted by Chris Quayle.",74,36,38,0.999254348267202,"North Dakota State","Jamestown",3,3,0,1,NA,400989362,2017-12-30
+204,2,"13:34",814,814,"Foul on Jon Purintun.",74,36,38,0.999405587192732,"North Dakota State","Jamestown",3,3,0,1,NA,400989362,2017-12-30
+205,2,"13:34",814,814,"Jon Purintun Turnover.",74,36,38,0.999405587192732,"North Dakota State","Jamestown",3,3,0,1,NA,400989362,2017-12-30
+206,2,"13:21",801,801,"Deng Geu Turnover.",74,36,38,0.999606498939497,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+207,2,"13:20",800,800,"Sam Johnson Steal.",74,36,38,0.999606498939497,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+208,2,"13:11",791,791,"Sam Johnson missed Three Point Jumper.",74,36,38,0.9997705917561,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+209,2,"13:11",791,791,"Tyson Ward Defensive Rebound.",74,36,38,0.9997705917561,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+210,2,"12:42",762,762,"Rocky Kreuser Turnover.",74,36,38,0.999758290307822,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+211,2,"12:40",760,760,"Jon Purintun Steal.",74,36,38,0.999758290307822,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+212,2,"12:37",757,757,"Jon Purintun missed Layup.",74,36,38,0.999750484620126,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+213,2,"12:37",757,757,"Paul Miller Block.",74,36,38,0.999750484620126,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+214,2,"12:37",757,757,"Jamestown Offensive Rebound.",74,36,38,0.999750484620126,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+215,2,"12:33",753,753,"Jon Purintun missed Jumper.",74,36,38,0.999750484620126,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+216,2,"12:33",753,753,"Tyson Ward Defensive Rebound.",74,36,38,0.999750484620126,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+217,2,"12:27",747,747,"Tyson Ward missed Three Point Jumper.",74,36,38,0.999792840835287,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+218,2,"12:27",747,747,"Jamestown Defensive Rebound.",74,36,38,0.999792840835287,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+219,2,"12:08",728,728,"Brady Birch missed Layup.",74,36,38,0.999798596098642,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+220,2,"12:08",728,728,"Brady Birch Offensive Rebound.",74,36,38,0.999798596098642,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+221,2,"12:05",725,725,"Brady Birch made Jumper.",74,38,36,0.999687262808819,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+222,2,"11:32",692,692,"Foul on Brady Birch.",74,38,36,0.999816736838388,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+223,2,"11:32",692,692,"Official TV Timeout",74,38,36,0.999816736838388,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+224,2,"11:32",692,692,"Paul Miller made Free Throw.",75,38,37,0.999855499806705,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+225,2,"11:32",692,692,"Paul Miller made Free Throw.",76,38,38,0.999886064747264,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+226,2,"11:08",668,668,"Sam Johnson missed Three Point Jumper.",76,38,38,0.999839811115503,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+227,2,"11:08",668,668,"Tyson Ward Defensive Rebound.",76,38,38,0.999839811115503,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+228,2,"10:53",653,653,"Cameron Hunter made Three Point Jumper. Assisted by Chris Quayle.",79,38,41,0.999948512575959,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+229,2,"10:24",624,624,"Kevin Oberweiser Turnover.",79,38,41,0.999968188897578,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+230,2,"10:22",622,622,"Cameron Hunter Steal.",79,38,41,0.999968188897578,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+231,2,"10:21",621,621,"Foul on Jon Purintun.",79,38,41,0.999968188897578,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+232,2,"10:21",621,621,"Cameron Hunter made Free Throw.",80,38,42,0.999975261162258,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+233,2,"10:21",621,621,"Cameron Hunter made Free Throw.",81,38,43,0.999980761146771,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+234,2,"10:03",603,603,"Foul on Jared Samuelson.",81,38,43,0.999974802798559,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+235,2,"10:03",603,603,"Sam Johnson missed Free Throw.",81,38,43,0.999974802798559,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+236,2,"10:03",603,603,"Jamestown Deadball Team Rebound.",81,38,43,0.999974802798559,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+237,2,"10:03",603,603,"Sam Johnson made Free Throw.",81,39,42,0.99996782029327,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+238,2,"10:03",603,603,"Sam Johnson made Free Throw.",81,40,41,0.999958902915314,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+239,2,"9:45",585,585,"Chris Quayle made Layup. Assisted by A.J. Jacobson.",83,40,43,0.999971157722122,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+240,2,"9:45",585,585,"Foul on Leighton Sampson.",83,40,43,0.999971157722122,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+241,2,"9:45",585,585,"Chris Quayle made Free Throw.",84,40,44,0.999977357753479,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+242,2,"9:14",554,554,"Stefan Jevdjenijevic made Jumper.",84,42,42,0.999982485020183,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+243,2,"9:00",540,540,"A.J. Jacobson missed Three Point Jumper.",84,42,42,0.999986998649711,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+244,2,"9:00",540,540,"Kevin Oberweiser Defensive Rebound.",84,42,42,0.999986998649711,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+245,2,"8:51",531,531,"Kevin Oberweiser missed Layup.",84,42,42,0.999993757291941,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+246,2,"8:51",531,531,"A.J. Jacobson Defensive Rebound.",84,42,42,0.999993757291941,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+247,2,"8:42",522,522,"A.J. Jacobson made Jumper.",86,42,44,0.99999449734779,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+248,2,"8:17",497,497,"Kevin Oberweiser missed Layup.",86,42,44,0.999994682292612,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+249,2,"8:17",497,497,"Spencer Eliason Block.",86,42,44,0.999994682292612,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+250,2,"8:14",494,494,"A.J. Jacobson Defensive Rebound.",86,42,44,0.999994682292612,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+251,2,"7:56",476,476,"Paul Miller missed Jumper.",86,42,44,0.999997385037294,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+252,2,"7:56",476,476,"Jamestown Deadball Team Rebound.",86,42,44,0.999997385037294,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+253,2,"7:53",473,473,"Foul on Spencer Eliason.",86,42,44,0.999997385037294,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+254,2,"7:53",473,473,"Official TV Timeout",86,42,44,0.999997385037294,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+255,2,"7:41",461,461,"Kevin Oberweiser missed Three Point Jumper.",86,42,44,0.999996036226195,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+256,2,"7:41",461,461,"Paul Miller Defensive Rebound.",86,42,44,0.999996036226195,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+257,2,"7:31",451,451,"Foul on Jon Purintun.",86,42,44,0.99999915818001,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+258,2,"7:31",451,451,"Rocky Kreuser missed Free Throw.",86,42,44,0.99999915818001,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+259,2,"7:31",451,451,"North Dakota State Deadball Team Rebound.",86,42,44,0.99999915818001,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+260,2,"7:31",451,451,"Spencer Eliason missed Free Throw.",86,42,44,0.99999915818001,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+261,2,"7:31",451,451,"Christian Kvilvang Defensive Rebound.",86,42,44,0.99999915818001,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+262,2,"7:12",432,432,"Sam Johnson made Three Point Jumper. Assisted by Kevin Oberweiser.",86,45,41,0.999996999905142,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+263,2,"6:59",419,419,"Jared Samuelson missed Layup.",86,45,41,0.999995836504793,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+264,2,"6:59",419,419,"Sam Johnson Defensive Rebound.",86,45,41,0.999995836504793,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+265,2,"6:45",405,405,"Sam Johnson Turnover.",86,45,41,0.999998673461979,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+266,2,"6:43",403,403,"Deng Geu Steal.",86,45,41,0.999998673461979,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+267,2,"6:41",401,401,"Deng Geu Turnover.",86,45,41,0.999998673461979,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+268,2,"6:38",398,398,"Kevin Oberweiser Steal.",86,45,41,0.999997546290436,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+269,2,"6:36",396,396,"Sam Johnson missed Three Point Jumper.",86,45,41,0.999997546290436,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+270,2,"6:36",396,396,"Leighton Sampson Offensive Rebound.",86,45,41,0.999997546290436,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+271,2,"6:31",391,391,"Leighton Sampson missed Layup.",86,45,41,0.999997546290436,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+272,2,"6:31",391,391,"Deng Geu Defensive Rebound.",86,45,41,0.999997546290436,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+273,2,"6:22",382,382,"Tyson Ward Turnover.",86,45,41,0.999995227019021,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+274,2,"6:20",380,380,"Leighton Sampson Steal.",86,45,41,0.999995227019021,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+275,2,"6:18",378,378,"Kevin Oberweiser Offensive Rebound.",86,45,41,0.999996932539568,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+276,2,"6:18",378,378,"Leighton Sampson missed Layup.",86,45,41,0.999996932539568,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+277,2,"6:11",371,371,"Kevin Oberweiser missed Layup.",86,45,41,0.999996932539568,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+278,2,"6:11",371,371,"Spencer Eliason Defensive Rebound.",86,45,41,0.999996932539568,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+279,2,"5:57",357,357,"Foul on Tyson Ward.",86,45,41,0.999999023590666,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+280,2,"5:57",357,357,"Tyson Ward Turnover.",86,45,41,0.999999023590666,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+281,2,"5:40",340,340,"Jace Allard missed Three Point Jumper.",86,45,41,0.99999880533177,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+282,2,"5:40",340,340,"Tyson Ward Defensive Rebound.",86,45,41,0.99999880533177,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+283,2,"5:29",329,329,"Dylan Miller missed Jumper.",86,45,41,0.999997386413635,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+284,2,"5:29",329,329,"Isaiah Dobson Defensive Rebound.",86,45,41,0.999997386413635,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+285,2,"5:13",313,313,"Christian Kvilvang Turnover.",86,45,41,0.999999729085574,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+286,2,"5:12",312,312,"Tyson Ward Steal.",86,45,41,0.999999729085574,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+287,2,"5:10",310,310,"Tyson Ward made Dunk.",88,45,43,0.999999869865803,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+288,2,"4:57",297,297,"Ben Weisbeck made Jumper.",88,47,41,0.999999230253126,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+289,2,"4:39",279,279,"Deng Geu made Jumper. Assisted by Cameron Hunter.",90,47,43,0.999999942176729,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+290,2,"4:17",257,257,"Ben Weisbeck missed Layup.",90,47,43,0.999999987984853,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+291,2,"4:17",257,257,"Deng Geu Block.",90,47,43,0.999999987984853,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+292,2,"4:15",255,255,"Cameron Hunter Defensive Rebound.",90,47,43,0.999999987984853,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+293,2,"4:11",251,251,"Tyson Ward made Layup. Assisted by Cameron Hunter.",92,47,45,0.99999999482715,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+294,2,"3:54",234,234,"Ben Weisbeck missed Jumper.",92,47,45,0.999999989439638,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+295,2,"3:54",234,234,"Tyson Ward Defensive Rebound.",92,47,45,0.999999989439638,"North Dakota State","Jamestown",3,3,0,0,NA,400989362,2017-12-30
+296,2,"3:47",227,227,"North Dakota State  Timeout",92,47,45,0.999999995159386,"North Dakota State","Jamestown",3,2,0,1,NA,400989362,2017-12-30
+297,2,"3:47",227,227,"Official TV Timeout",92,47,45,0.999999995159386,"North Dakota State","Jamestown",3,2,0,1,NA,400989362,2017-12-30
+298,2,"3:27",207,207,"Nnamdi Van Dulm Turnover.",92,47,45,0.999999998687487,"North Dakota State","Jamestown",3,2,0,1,NA,400989362,2017-12-30
+299,2,"3:14",194,194,"Jack Talley missed Three Point Jumper.",92,47,45,0.999999999311412,"North Dakota State","Jamestown",3,2,0,1,NA,400989362,2017-12-30
+300,2,"3:14",194,194,"Brady Birch Offensive Rebound.",92,47,45,0.999999999311412,"North Dakota State","Jamestown",3,2,0,1,NA,400989362,2017-12-30
+301,2,"3:10",190,190,"Brady Birch missed Layup.",92,47,45,0.999999999311412,"North Dakota State","Jamestown",3,2,0,1,NA,400989362,2017-12-30
+302,2,"3:10",190,190,"Jared Samuelson Defensive Rebound.",92,47,45,0.999999999311412,"North Dakota State","Jamestown",3,2,0,1,NA,400989362,2017-12-30
+303,2,"2:57",177,177,"Dylan Miller Turnover.",92,47,45,0.99999999979156,"North Dakota State","Jamestown",3,2,0,1,NA,400989362,2017-12-30
+304,2,"2:44",164,164,"Jace Allard missed Jumper.",92,47,45,0.999999999917769,"North Dakota State","Jamestown",3,2,0,0,NA,400989362,2017-12-30
+305,2,"2:44",164,164,"Dylan Miller Defensive Rebound.",92,47,45,0.999999999917769,"North Dakota State","Jamestown",3,2,0,0,NA,400989362,2017-12-30
+306,2,"2:25",145,145,"Foul on Jace Allard.",92,47,45,0.999999999918051,"North Dakota State","Jamestown",3,2,0,0,NA,400989362,2017-12-30
+307,2,"2:25",145,145,"Jared Samuelson made Free Throw.",93,47,46,0.999999999951189,"North Dakota State","Jamestown",3,2,0,0,NA,400989362,2017-12-30
+308,2,"2:25",145,145,"Jared Samuelson made Free Throw.",94,47,47,0.999999999970927,"North Dakota State","Jamestown",3,2,0,0,NA,400989362,2017-12-30
+309,2,"2:05",125,125,"Isaiah Dobson made Three Point Jumper. Assisted by Brock Schrom.",94,50,44,0.999999999984342,"North Dakota State","Jamestown",3,2,0,0,NA,400989362,2017-12-30
+310,2,"1:51",111,111,"Dylan Miller made Three Point Jumper.",97,50,47,0.999999999999529,"North Dakota State","Jamestown",3,2,0,0,NA,400989362,2017-12-30
+311,2,"1:26",86,86,"Brock Schrom Turnover.",97,50,47,0.999999999999998,"North Dakota State","Jamestown",3,2,0,0,NA,400989362,2017-12-30
+312,2,"1:04",64,64,"Dylan Miller Turnover.",97,50,47,0.999999999999999,"North Dakota State","Jamestown",3,2,0,0,NA,400989362,2017-12-30
+313,2,"1:00",60,60,"Colton Lund Turnover.",97,50,47,0.999999999999999,"North Dakota State","Jamestown",3,2,0,0,NA,400989362,2017-12-30
+314,2,"1:00",60,60,"Deng Geu Steal.",97,50,47,0.999999999999999,"North Dakota State","Jamestown",3,2,0,0,NA,400989362,2017-12-30
+315,2,"0:50",50,50,"Dylan Miller made Layup. Assisted by Chris Quayle.",99,50,49,1,"North Dakota State","Jamestown",3,2,0,0,NA,400989362,2017-12-30
+316,2,"0:45",45,45,"Isaiah Dobson missed Three Point Jumper.",99,50,49,1,"North Dakota State","Jamestown",3,2,0,0,NA,400989362,2017-12-30
+317,2,"0:45",45,45,"Colton Lund Offensive Rebound.",99,50,49,1,"North Dakota State","Jamestown",3,2,0,0,NA,400989362,2017-12-30
+318,2,"0:14",14,14,"Jack Talley missed Three Point Jumper.",99,50,49,1,"North Dakota State","Jamestown",3,2,0,0,NA,400989362,2017-12-30
+319,2,"0:14",14,14,"Deng Geu Defensive Rebound.",99,50,49,1,"North Dakota State","Jamestown",3,2,0,0,NA,400989362,2017-12-30
+320,2,"0:00",0,0,"End of Game",99,50,49,NA,"North Dakota State","Jamestown",3,2,0,0,NA,400989362,2017-12-30

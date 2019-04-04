@@ -1,0 +1,341 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.923005700859443,"Duke","Georgia Tech",4,4,0,0,20.5,400915356,2017-01-04
+2,1,"20:00",2400,2400,"Jump Ball won by Duke",0,0,0,0.923005700859443,"Duke","Georgia Tech",4,4,0,0,20.5,400915356,2017-01-04
+3,1,"19:52",2392,2392,"Amile Jefferson missed Jumper.",0,0,0,0.923005700859443,"Duke","Georgia Tech",4,4,0,0,20.5,400915356,2017-01-04
+4,1,"19:52",2392,2392,"Harry Giles Offensive Rebound.",0,0,0,0.923005700859443,"Duke","Georgia Tech",4,4,0,0,20.5,400915356,2017-01-04
+5,1,"19:47",2387,2387,"Harry Giles missed Layup.",0,0,0,0.919342728166307,"Duke","Georgia Tech",4,4,0,0,20.5,400915356,2017-01-04
+6,1,"19:47",2387,2387,"Quinton Stephens Defensive Rebound.",0,0,0,0.919342728166307,"Duke","Georgia Tech",4,4,0,0,20.5,400915356,2017-01-04
+7,1,"19:37",2377,2377,"Josh Okogie made Layup.",0,2,-2,0.89919912168596,"Duke","Georgia Tech",4,4,0,0,20.5,400915356,2017-01-04
+8,1,"19:13",2353,2353,"Luke Kennard Turnover.",0,2,-2,0.904176362461074,"Duke","Georgia Tech",4,4,0,0,20.5,400915356,2017-01-04
+9,1,"19:13",2353,2353,"Ben Lammers Steal.",0,2,-2,0.904176362461074,"Duke","Georgia Tech",4,4,0,0,20.5,400915356,2017-01-04
+10,1,"18:54",2334,2334,"Tadric Jackson made Layup. Assisted by Quinton Stephens.",0,4,-4,0.87776836157354,"Duke","Georgia Tech",4,4,0,0,20.5,400915356,2017-01-04
+11,1,"18:26",2306,2306,"Harry Giles made Layup. Assisted by Grayson Allen.",2,4,-2,0.885274492973342,"Duke","Georgia Tech",4,4,0,0,20.5,400915356,2017-01-04
+12,1,"18:07",2287,2287,"Josh Okogie missed Layup.",2,4,-2,0.88875326059208,"Duke","Georgia Tech",4,4,0,0,20.5,400915356,2017-01-04
+13,1,"18:07",2287,2287,"Ben Lammers Offensive Rebound.",2,4,-2,0.88875326059208,"Duke","Georgia Tech",4,4,0,0,20.5,400915356,2017-01-04
+14,1,"17:51",2271,2271,"Georgia Tech  Turnover.",2,4,-2,0.892159167107267,"Duke","Georgia Tech",4,4,0,0,20.5,400915356,2017-01-04
+15,1,"17:36",2256,2256,"Luke Kennard made Jumper.",4,4,0,0.904114778459068,"Duke","Georgia Tech",4,4,0,0,20.5,400915356,2017-01-04
+16,1,"17:25",2245,2245,"Justin Moore missed Layup.",4,4,0,0.898028322522184,"Duke","Georgia Tech",4,4,0,0,20.5,400915356,2017-01-04
+17,1,"17:25",2245,2245,"Tadric Jackson Offensive Rebound.",4,4,0,0.898028322522184,"Duke","Georgia Tech",4,4,0,0,20.5,400915356,2017-01-04
+18,1,"17:21",2241,2241,"Quinton Stephens missed Three Point Jumper.",4,4,0,0.898028322522184,"Duke","Georgia Tech",4,4,0,0,20.5,400915356,2017-01-04
+19,1,"17:21",2241,2241,"Duke Defensive Rebound.",4,4,0,0.898028322522184,"Duke","Georgia Tech",4,4,0,0,20.5,400915356,2017-01-04
+20,1,"17:06",2226,2226,"Jayson Tatum missed Three Point Jumper.",4,4,0,0.909661599507589,"Duke","Georgia Tech",4,4,0,0,20.5,400915356,2017-01-04
+21,1,"17:06",2226,2226,"Grayson Allen Offensive Rebound.",4,4,0,0.909661599507589,"Duke","Georgia Tech",4,4,0,0,20.5,400915356,2017-01-04
+22,1,"17:00",2220,2220,"Amile Jefferson made Layup. Assisted by Jayson Tatum.",6,4,2,0.925124057211095,"Duke","Georgia Tech",4,4,0,0,20.5,400915356,2017-01-04
+23,1,"16:53",2213,2213,"Josh Heath missed Jumper.",6,4,2,0.924001707127235,"Duke","Georgia Tech",4,4,0,0,20.5,400915356,2017-01-04
+24,1,"16:53",2213,2213,"Harry Giles Defensive Rebound.",6,4,2,0.924001707127235,"Duke","Georgia Tech",4,4,0,0,20.5,400915356,2017-01-04
+25,1,"16:45",2205,2205,"Luke Kennard made Three Point Jumper. Assisted by Grayson Allen.",9,4,5,0.944248425844837,"Duke","Georgia Tech",4,4,0,0,20.5,400915356,2017-01-04
+26,1,"16:38",2198,2198,"Georgia Tech  Timeout",9,4,5,0.948987859184469,"Duke","Georgia Tech",3,4,1,0,20.5,400915356,2017-01-04
+27,1,"16:19",2179,2179,"Ben Lammers made Jumper.",9,6,3,0.92839017931673,"Duke","Georgia Tech",3,4,1,0,20.5,400915356,2017-01-04
+28,1,"16:00",2160,2160,"Foul on Ben Lammers.",9,6,3,0.928040940137084,"Duke","Georgia Tech",3,4,1,0,20.5,400915356,2017-01-04
+29,1,"16:00",2160,2160,"Amile Jefferson made Free Throw.",10,6,4,0.935084578123645,"Duke","Georgia Tech",3,4,1,0,20.5,400915356,2017-01-04
+30,1,"16:00",2160,2160,"Amile Jefferson missed Free Throw.",10,6,4,0.935084578123645,"Duke","Georgia Tech",3,4,1,0,20.5,400915356,2017-01-04
+31,1,"16:00",2160,2160,"Josh Okogie Defensive Rebound.",10,6,4,0.935084578123645,"Duke","Georgia Tech",3,4,1,0,20.5,400915356,2017-01-04
+32,1,"15:36",2136,2136,"Josh Heath missed Layup.",10,6,4,0.939095504600982,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+33,1,"15:36",2136,2136,"Amile Jefferson Defensive Rebound.",10,6,4,0.939095504600982,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+34,1,"15:30",2130,2130,"Luke Kennard made Three Point Jumper. Assisted by Grayson Allen.",13,6,7,0.956842442731948,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+35,1,"15:12",2112,2112,"Quinton Stephens made Layup. Assisted by Ben Lammers.",13,8,5,0.948591764678955,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+36,1,"14:45",2085,2085,"Foul on Josh Heath.",13,8,5,0.938882635828516,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+37,1,"14:45",2085,2085,"Official TV Timeout",13,8,5,0.938882635828516,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+38,1,"14:45",2085,2085,"Grayson Allen made Free Throw.",14,8,6,0.944894737152918,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+39,1,"14:45",2085,2085,"Grayson Allen made Free Throw.",15,8,7,0.950346706399887,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+40,1,"14:27",2067,2067,"Quinton Stephens made Three Point Jumper. Assisted by Justin Moore.",15,11,4,0.934424074648346,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+41,1,"14:17",2057,2057,"Luke Kennard made Three Point Jumper.",18,11,7,0.958053369865822,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+42,1,"14:07",2047,2047,"Tadric Jackson missed Three Point Jumper.",18,11,7,0.948312340378492,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+43,1,"14:07",2047,2047,"Amile Jefferson Defensive Rebound.",18,11,7,0.948312340378492,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+44,1,"13:54",2034,2034,"Frank Jackson made Three Point Jumper. Assisted by Amile Jefferson.",21,11,10,0.969100837376357,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+45,1,"13:39",2019,2019,"Justin Moore Turnover.",21,11,10,0.966609402553349,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+46,1,"13:39",2019,2019,"Frank Jackson Steal.",21,11,10,0.966609402553349,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+47,1,"13:35",2015,2015,"Foul on Justin Moore.",21,11,10,0.966609402553349,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+48,1,"13:23",2003,2003,"Frank Jackson made Three Point Jumper.",24,11,13,0.973263422125033,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+49,1,"13:08",1988,1988,"Foul on Matt Jones.",24,11,13,0.975468333209385,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+50,1,"13:08",1988,1988,"Tadric Jackson missed Free Throw.",24,11,13,0.975468333209385,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+51,1,"13:08",1988,1988,"Georgia Tech Deadball Team Rebound.",24,11,13,0.975468333209385,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+52,1,"13:08",1988,1988,"Tadric Jackson missed Free Throw.",24,11,13,0.975468333209385,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+53,1,"13:08",1988,1988,"Harry Giles Defensive Rebound.",24,11,13,0.975468333209385,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+54,1,"12:58",1978,1978,"Matt Jones made Three Point Jumper. Assisted by Amile Jefferson.",27,11,16,0.98654178308547,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+55,1,"12:42",1962,1962,"Quinton Stephens missed Three Point Jumper.",27,11,16,0.979860374073224,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+56,1,"12:42",1962,1962,"Luke Kennard Defensive Rebound.",27,11,16,0.979860374073224,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+57,1,"12:32",1952,1952,"Matt Jones missed Three Point Jumper.",27,11,16,0.984266554718566,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+58,1,"12:32",1952,1952,"Jayson Tatum Offensive Rebound.",27,11,16,0.984266554718566,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+59,1,"12:32",1952,1952,"Luke Kennard made Two Point Tip Shot.",29,11,18,0.987705025051629,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+60,1,"12:26",1946,1946,"Georgia Tech  Timeout",29,11,18,0.988133202328726,"Duke","Georgia Tech",2,4,1,0,20.5,400915356,2017-01-04
+61,1,"12:00",1920,1920,"Josh Okogie made Layup. Assisted by Ben Lammers.",29,13,16,0.985845706834835,"Duke","Georgia Tech",2,4,1,0,20.5,400915356,2017-01-04
+62,1,"11:50",1910,1910,"Grayson Allen missed Three Point Jumper.",29,13,16,0.986209774941698,"Duke","Georgia Tech",2,4,1,0,20.5,400915356,2017-01-04
+63,1,"11:50",1910,1910,"Josh Okogie Defensive Rebound.",29,13,16,0.986209774941698,"Duke","Georgia Tech",2,4,1,0,20.5,400915356,2017-01-04
+64,1,"11:41",1901,1901,"Ben Lammers Turnover.",29,13,16,0.982870008721337,"Duke","Georgia Tech",2,4,1,0,20.5,400915356,2017-01-04
+65,1,"11:41",1901,1901,"Grayson Allen Steal.",29,13,16,0.982870008721337,"Duke","Georgia Tech",2,4,1,0,20.5,400915356,2017-01-04
+66,1,"11:34",1894,1894,"Foul on Matt Jones.",29,13,16,0.985993901685252,"Duke","Georgia Tech",2,4,1,0,20.5,400915356,2017-01-04
+67,1,"11:34",1894,1894,"Matt Jones Turnover.",29,13,16,0.985993901685252,"Duke","Georgia Tech",2,4,1,0,20.5,400915356,2017-01-04
+68,1,"11:14",1874,1874,"Kellen McCormick Turnover.",29,13,16,0.983724109112081,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+69,1,"11:14",1874,1874,"Jayson Tatum Steal.",29,13,16,0.983724109112081,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+70,1,"11:03",1863,1863,"Grayson Allen made Layup.",31,13,18,0.989062387191814,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+71,1,"10:54",1854,1854,"Foul on Frank Jackson.",31,13,18,0.988025692321381,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+72,1,"10:54",1854,1854,"Justin Moore made Free Throw.",31,14,17,0.986412936548676,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+73,1,"10:54",1854,1854,"Justin Moore missed Free Throw.",31,14,17,0.986412936548676,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+74,1,"10:54",1854,1854,"Justin Moore Offensive Rebound.",31,14,17,0.986412936548676,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+75,1,"10:43",1843,1843,"Josh Okogie missed Three Point Jumper.",31,14,17,0.985167523197701,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+76,1,"10:43",1843,1843,"Ben Lammers Offensive Rebound.",31,14,17,0.985167523197701,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+77,1,"10:15",1815,1815,"Kellen McCormick missed Three Point Jumper.",31,14,17,0.988720854781993,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+78,1,"10:15",1815,1815,"Jayson Tatum Defensive Rebound.",31,14,17,0.988720854781993,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+79,1,"10:06",1806,1806,"Amile Jefferson missed Layup.",31,14,17,0.986473568699277,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+80,1,"10:06",1806,1806,"Ben Lammers Defensive Rebound.",31,14,17,0.986473568699277,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+81,1,"9:54",1794,1794,"Justin Moore Turnover.",31,14,17,0.985603895539285,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+82,1,"9:41",1781,1781,"Frank Jackson made Three Point Jumper. Assisted by Grayson Allen.",34,14,20,0.990987800215674,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+83,1,"9:19",1759,1759,"Sylvester Ogbonda missed Jumper.",34,14,20,0.9925579296539,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+84,1,"9:19",1759,1759,"Luke Kennard Defensive Rebound.",34,14,20,0.9925579296539,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+85,1,"9:06",1746,1746,"Foul on Sylvester Ogbonda.",34,14,20,0.989434573570835,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+86,1,"9:06",1746,1746,"Amile Jefferson made Free Throw.",35,14,21,0.990676565425902,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+87,1,"9:06",1746,1746,"Amile Jefferson missed Free Throw.",35,14,21,0.990676565425902,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+88,1,"9:06",1746,1746,"Sylvester Ogbonda Defensive Rebound.",35,14,21,0.990676565425902,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+89,1,"8:46",1726,1726,"Corey Heyward missed Layup.",35,14,21,0.991610814026112,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+90,1,"8:46",1726,1726,"Amile Jefferson Defensive Rebound.",35,14,21,0.991610814026112,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+91,1,"8:29",1709,1709,"Harry Giles missed Jumper.",35,14,21,0.990977158899839,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+92,1,"8:29",1709,1709,"Quinton Stephens Defensive Rebound.",35,14,21,0.990977158899839,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+93,1,"8:22",1702,1702,"Sylvester Ogbonda made Layup. Assisted by Justin Moore.",35,16,19,0.988382261387439,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+94,1,"8:06",1686,1686,"Foul on Tadric Jackson.",35,16,19,0.992568615914138,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+95,1,"8:00",1680,1680,"Jayson Tatum missed Three Point Jumper.",35,16,19,0.992568615914138,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+96,1,"8:00",1680,1680,"Tadric Jackson Defensive Rebound.",35,16,19,0.992568615914138,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+97,1,"7:53",1673,1673,"Justin Moore made Layup. Assisted by Tadric Jackson.",35,18,17,0.988095086308526,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+98,1,"7:27",1647,1647,"Jayson Tatum missed Jumper.",35,18,17,0.988077621898309,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+99,1,"7:27",1647,1647,"Quinton Stephens Defensive Rebound.",35,18,17,0.988077621898309,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+100,1,"7:04",1624,1624,"Justin Moore Turnover.",35,18,17,0.988027702165363,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+101,1,"7:04",1624,1624,"Jayson Tatum Steal.",35,18,17,0.988027702165363,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+102,1,"6:59",1619,1619,"Foul on Corey Heyward.",35,18,17,0.9863843234541,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+103,1,"6:59",1619,1619,"Official TV Timeout",35,18,17,0.9863843234541,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+104,1,"6:59",1619,1619,"Jayson Tatum made Free Throw.",36,18,18,0.988150689781846,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+105,1,"6:59",1619,1619,"Jayson Tatum made Free Throw.",37,18,19,0.989690299899904,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+106,1,"6:47",1607,1607,"Foul on Jayson Tatum.",37,18,19,0.989456270603788,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+107,1,"6:47",1607,1607,"Tadric Jackson made Free Throw.",37,19,18,0.987993841228494,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+108,1,"6:47",1607,1607,"Tadric Jackson missed Free Throw.",37,19,18,0.987993841228494,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+109,1,"6:47",1607,1607,"Ben Lammers Offensive Rebound.",37,19,18,0.987993841228494,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+110,1,"6:44",1604,1604,"Tadric Jackson made Three Point Jumper. Assisted by Josh Heath.",37,22,15,0.98229690432264,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+111,1,"6:26",1586,1586,"Grayson Allen made Three Point Jumper. Assisted by Luke Kennard.",40,22,18,0.988183673648847,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+112,1,"6:19",1579,1579,"Tadric Jackson missed Three Point Jumper.",40,22,18,0.991862587886018,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+113,1,"6:19",1579,1579,"Grayson Allen Defensive Rebound.",40,22,18,0.991862587886018,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+114,1,"6:07",1567,1567,"Grayson Allen made Three Point Jumper. Assisted by Frank Jackson.",43,22,21,0.992769356773904,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+115,1,"6:07",1567,1567,"Foul on Corey Heyward.",43,22,21,0.992769356773904,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+116,1,"6:07",1567,1567,"Grayson Allen made Free Throw.",44,22,22,0.993722751975749,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+117,1,"5:48",1548,1548,"Quinton Stephens missed Jumper.",44,22,22,0.9938202343578,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+118,1,"5:48",1548,1548,"Frank Jackson Defensive Rebound.",44,22,22,0.9938202343578,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+119,1,"5:37",1537,1537,"Frank Jackson missed Three Point Jumper.",44,22,22,0.993835888355834,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+120,1,"5:37",1537,1537,"Ben Lammers Defensive Rebound.",44,22,22,0.993835888355834,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+121,1,"5:20",1520,1520,"Josh Okogie made Layup.",44,24,20,0.991641505224189,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+122,1,"5:20",1520,1520,"Foul on Luke Kennard.",44,24,20,0.991641505224189,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+123,1,"5:20",1520,1520,"Josh Okogie made Free Throw.",44,25,19,0.990375928956334,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+124,1,"4:59",1499,1499,"Frank Jackson missed Three Point Jumper.",44,25,19,0.990465999219534,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+125,1,"4:59",1499,1499,"Harry Giles Offensive Rebound.",44,25,19,0.990465999219534,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+126,1,"4:54",1494,1494,"Harry Giles missed Layup.",44,25,19,0.990465999219534,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+127,1,"4:54",1494,1494,"Harry Giles Offensive Rebound.",44,25,19,0.990465999219534,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+128,1,"4:54",1494,1494,"Harry Giles missed Layup.",44,25,19,0.990465999219534,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+129,1,"4:54",1494,1494,"Josh Okogie Block.",44,25,19,0.990465999219534,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+130,1,"4:54",1494,1494,"Jayson Tatum Offensive Rebound.",44,25,19,0.990465999219534,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+131,1,"4:46",1486,1486,"Jayson Tatum missed Three Point Jumper.",44,25,19,0.991614626032984,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+132,1,"4:46",1486,1486,"Ben Lammers Defensive Rebound.",44,25,19,0.991614626032984,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+133,1,"4:39",1479,1479,"Josh Okogie missed Layup.",44,25,19,0.993327616860592,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+134,1,"4:39",1479,1479,"Jayson Tatum Block.",44,25,19,0.993327616860592,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+135,1,"4:39",1479,1479,"Harry Giles Defensive Rebound.",44,25,19,0.993327616860592,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+136,1,"4:28",1468,1468,"Foul on Jayson Tatum.",44,25,19,0.988385954317667,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+137,1,"4:28",1468,1468,"Jayson Tatum Turnover.",44,25,19,0.988385954317667,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+138,1,"4:09",1449,1449,"Foul on Amile Jefferson.",44,25,19,0.992463396840914,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+139,1,"4:09",1449,1449,"Ben Lammers made Free Throw.",44,26,18,0.991235550450929,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+140,1,"4:09",1449,1449,"Ben Lammers missed Free Throw.",44,26,18,0.991235550450929,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+141,1,"4:09",1449,1449,"Amile Jefferson Defensive Rebound.",44,26,18,0.991235550450929,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+142,1,"3:46",1426,1426,"Foul on Quinton Stephens.",44,26,18,0.988031856156719,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+143,1,"3:46",1426,1426,"Official TV Timeout",44,26,18,0.988031856156719,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+144,1,"3:46",1426,1426,"Amile Jefferson made Free Throw.",45,26,19,0.989627899317497,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+145,1,"3:46",1426,1426,"Amile Jefferson made Free Throw.",46,26,20,0.991013033960049,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+146,1,"3:18",1398,1398,"Jump Ball won by Georgia Tech",46,26,20,0.993852609537721,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+147,1,"3:18",1398,1398,"Josh Okogie Turnover.",46,26,20,0.993852609537721,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+148,1,"3:00",1380,1380,"Matt Jones made Three Point Jumper. Assisted by Amile Jefferson.",49,26,23,0.995359896176535,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+149,1,"2:34",1354,1354,"Ben Lammers missed Jumper.",49,26,23,0.995790094798392,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+150,1,"2:34",1354,1354,"Grayson Allen Defensive Rebound.",49,26,23,0.995790094798392,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+151,1,"2:07",1327,1327,"Foul on Quinton Stephens.",49,26,23,0.995834096165006,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+152,1,"2:07",1327,1327,"Grayson Allen made Free Throw.",50,26,24,0.996439376635082,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+153,1,"2:07",1327,1327,"Grayson Allen made Free Throw.",51,26,25,0.996956982270449,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+154,1,"1:50",1310,1310,"Christian Matthews made Jumper. Assisted by Ben Lammers.",51,28,23,0.995902901648254,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+155,1,"1:47",1307,1307,"Foul on Matt Jones.",51,28,23,0.994114895005693,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+156,1,"1:47",1307,1307,"Matt Jones Turnover.",51,28,23,0.994114895005693,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+157,1,"1:47",1307,1307,"Quinton Stephens made Free Throw.",51,29,22,0.993188525836116,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+158,1,"1:47",1307,1307,"Quinton Stephens made Free Throw.",51,30,21,0.992117493938538,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+159,1,"1:33",1293,1293,"Frank Jackson made Layup.",53,30,23,0.996421304040894,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+160,1,"1:33",1293,1293,"Foul on Justin Moore.",53,30,23,0.996421304040894,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+161,1,"1:33",1293,1293,"Frank Jackson made Free Throw.",54,30,24,0.996971344326922,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+162,1,"1:24",1284,1284,"Ben Lammers missed Jumper.",54,30,24,0.9959512557773,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+163,1,"1:24",1284,1284,"Luke Kennard Defensive Rebound.",54,30,24,0.9959512557773,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+164,1,"1:14",1274,1274,"Luke Kennard made Three Point Jumper. Assisted by Grayson Allen.",57,30,27,0.99707534384462,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+165,1,"1:06",1266,1266,"Justin Moore missed Three Point Jumper.",57,30,27,0.997974533448652,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+166,1,"1:06",1266,1266,"Duke Defensive Rebound.",57,30,27,0.997974533448652,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+167,1,"0:44",1244,1244,"Jayson Tatum made Layup.",59,30,29,0.998244807393806,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+168,1,"0:29",1229,1229,"Ben Lammers missed Jumper.",59,30,29,0.998766384913916,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+169,1,"0:29",1229,1229,"Jayson Tatum Block.",59,30,29,0.998766384913916,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+170,1,"0:29",1229,1229,"Luke Kennard Defensive Rebound.",59,30,29,0.998766384913916,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+171,1,"0:22",1222,1222,"Duke  Timeout",59,30,29,0.998766384913916,"Duke","Georgia Tech",2,3,0,1,20.5,400915356,2017-01-04
+172,1,"0:09",1209,1209,"Amile Jefferson made Layup. Assisted by Jayson Tatum.",61,30,31,0.998810893696992,"Duke","Georgia Tech",2,3,0,1,20.5,400915356,2017-01-04
+173,1,"0:01",1201,1201,"Tadric Jackson missed Three Point Jumper.",61,30,31,0.998810893696992,"Duke","Georgia Tech",2,3,0,1,20.5,400915356,2017-01-04
+174,1,"0:01",1201,1201,"Amile Jefferson Defensive Rebound.",61,30,31,0.998810893696992,"Duke","Georgia Tech",2,3,0,1,20.5,400915356,2017-01-04
+175,1,"0:00",1200,1200,"End of 1st half",61,30,31,0.998810893696992,"Duke","Georgia Tech",2,3,0,1,20.5,400915356,2017-01-04
+176,2,"20:00",1200,1200,"PLAY",61,30,31,0.998810893696992,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+177,2,"20:00",1200,1200,"Jump Ball won by Duke",61,30,31,0.998810893696992,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+178,2,"19:51",1191,1191,"Grayson Allen missed Three Point Jumper.",61,30,31,0.998579194253426,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+179,2,"19:51",1191,1191,"Justin Moore Defensive Rebound.",61,30,31,0.998579194253426,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+180,2,"19:39",1179,1179,"Josh Okogie Turnover.",61,30,31,0.998886960981105,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+181,2,"19:19",1159,1159,"Harry Giles made Dunk. Assisted by Jayson Tatum.",63,30,33,0.999128540039422,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+182,2,"18:55",1135,1135,"Justin Moore made Layup.",63,32,31,0.998953403373271,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+183,2,"18:41",1121,1121,"Jayson Tatum made Layup.",65,32,33,0.999620544361734,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+184,2,"18:33",1113,1113,"Justin Moore missed Jumper.",65,32,33,0.999372340059044,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+185,2,"18:33",1113,1113,"Harry Giles Defensive Rebound.",65,32,33,0.999372340059044,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+186,2,"18:23",1103,1103,"Amile Jefferson missed Jumper.",65,32,33,0.999252483639846,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+187,2,"18:23",1103,1103,"Harry Giles Offensive Rebound.",65,32,33,0.999252483639846,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+188,2,"18:16",1096,1096,"Amile Jefferson Turnover.",65,32,33,0.999421590281968,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+189,2,"18:06",1086,1086,"Ben Lammers made Layup.",65,34,31,0.999319231250718,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+190,2,"17:42",1062,1062,"Harry Giles made Dunk. Assisted by Grayson Allen.",67,34,33,0.999362576833272,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+191,2,"17:22",1042,1042,"Josh Okogie Turnover.",67,34,33,0.99947386903244,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+192,2,"17:08",1028,1028,"Foul on Ben Lammers.",67,34,33,0.999508535459827,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+193,2,"17:08",1028,1028,"Grayson Allen made Free Throw.",68,34,34,0.999589191238033,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+194,2,"17:08",1028,1028,"Grayson Allen made Free Throw.",69,34,35,0.999656614892483,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+195,2,"16:46",1006,1006,"Justin Moore made Jumper.",69,36,33,0.999551059842018,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+196,2,"16:26",986,986,"Marques Bolden missed Jumper.",69,36,33,0.999718230368801,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+197,2,"16:26",986,986,"Ben Lammers Defensive Rebound.",69,36,33,0.999718230368801,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+198,2,"16:12",972,972,"Foul on Marques Bolden.",69,36,33,0.999520878281355,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+199,2,"16:12",972,972,"Tadric Jackson missed Free Throw.",69,36,33,0.999520878281355,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+200,2,"16:12",972,972,"Georgia Tech Deadball Team Rebound.",69,36,33,0.999520878281355,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+201,2,"16:12",972,972,"Tadric Jackson made Free Throw.",69,37,32,0.999426536728663,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+202,2,"16:03",963,963,"Jayson Tatum missed Three Point Jumper.",69,37,32,0.999422478697076,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+203,2,"16:03",963,963,"Amile Jefferson Offensive Rebound.",69,37,32,0.999422478697076,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+204,2,"15:58",958,958,"Amile Jefferson made Layup.",71,37,34,0.999727808192739,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+205,2,"15:27",927,927,"Josh Okogie missed Jumper.",71,37,34,0.999683603507732,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+206,2,"15:27",927,927,"Ben Lammers Offensive Rebound.",71,37,34,0.999683603507732,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+207,2,"15:22",922,922,"Ben Lammers missed Layup.",71,37,34,0.999683603507732,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+208,2,"15:22",922,922,"Josh Okogie Offensive Rebound.",71,37,34,0.999683603507732,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+209,2,"15:22",922,922,"Georgia Tech  Turnover.",71,37,34,0.999683603507732,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+210,2,"15:22",922,922,"Official TV Timeout",71,37,34,0.999683603507732,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+211,2,"15:15",915,915,"Luke Kennard missed Three Point Jumper.",71,37,34,0.999769503675393,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+212,2,"15:15",915,915,"Marques Bolden Offensive Rebound.",71,37,34,0.999769503675393,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+213,2,"15:12",912,912,"Marques Bolden made Dunk.",73,37,36,0.999844203959564,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+214,2,"15:00",900,900,"Christian Matthews missed Jumper.",73,37,36,0.999782938979041,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+215,2,"15:00",900,900,"Quinton Stephens Offensive Rebound.",73,37,36,0.999782938979041,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+216,2,"15:00",900,900,"Quinton Stephens missed Two Point Tip Shot.",73,37,36,0.999782938979041,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+217,2,"15:00",900,900,"Marques Bolden Defensive Rebound.",73,37,36,0.999782938979041,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+218,2,"14:50",890,890,"Grayson Allen Turnover.",73,37,36,0.999813947135121,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+219,2,"14:50",890,890,"Josh Okogie Steal.",73,37,36,0.999813947135121,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+220,2,"14:48",888,888,"Justin Moore made Dunk.",73,39,34,0.999412174636901,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+221,2,"14:22",862,862,"Foul on Jayson Tatum.",73,39,34,0.999689608912869,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+222,2,"14:22",862,862,"Jayson Tatum Turnover.",73,39,34,0.999689608912869,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+223,2,"14:01",841,841,"Quinton Stephens made Jumper. Assisted by Josh Heath.",73,41,32,0.999751026306218,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+224,2,"13:45",825,825,"Amile Jefferson missed Jumper.",73,41,32,0.999517011657368,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+225,2,"13:45",825,825,"Luke Kennard Offensive Rebound.",73,41,32,0.999517011657368,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+226,2,"13:38",818,818,"Frank Jackson missed Three Point Jumper.",73,41,32,0.999623381395761,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+227,2,"13:38",818,818,"Josh Okogie Defensive Rebound.",73,41,32,0.999623381395761,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+228,2,"13:31",811,811,"Josh Okogie missed Layup.",73,41,32,0.999623381395761,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+229,2,"13:31",811,811,"Georgia Tech Offensive Rebound.",73,41,32,0.999623381395761,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+230,2,"13:14",794,794,"Josh Okogie missed Layup.",73,41,32,0.999806738872894,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+231,2,"13:14",794,794,"Marques Bolden Defensive Rebound.",73,41,32,0.999806738872894,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+232,2,"13:06",786,786,"Foul on Ben Lammers.",73,41,32,0.999705336978178,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+233,2,"13:06",786,786,"Amile Jefferson made Free Throw.",74,41,33,0.999760224605517,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+234,2,"13:06",786,786,"Amile Jefferson made Free Throw.",75,41,34,0.999804890170905,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+235,2,"12:57",777,777,"Josh Okogie missed Jumper.",75,41,34,0.999830160321516,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+236,2,"12:57",777,777,"Quinton Stephens Offensive Rebound.",75,41,34,0.999830160321516,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+237,2,"12:41",761,761,"Foul on Frank Jackson.",75,41,34,0.999878377579784,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+238,2,"12:41",761,761,"Ben Lammers made Free Throw.",75,42,33,0.999849072733655,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+239,2,"12:41",761,761,"Ben Lammers made Free Throw.",75,43,32,0.999812708225793,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+240,2,"12:29",749,749,"Matt Jones made Three Point Jumper. Assisted by Jayson Tatum.",78,43,35,0.999908019567734,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+241,2,"12:13",733,733,"Christian Matthews missed Jumper.",78,43,35,0.999854209209847,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+242,2,"12:13",733,733,"Harry Giles Defensive Rebound.",78,43,35,0.999854209209847,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+243,2,"12:02",722,722,"Matt Jones missed Three Point Jumper.",78,43,35,0.99989978274063,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+244,2,"12:02",722,722,"Quinton Stephens Defensive Rebound.",78,43,35,0.99989978274063,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+245,2,"11:51",711,711,"Ben Lammers missed Jumper.",78,43,35,0.999893553144127,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+246,2,"11:51",711,711,"Jayson Tatum Defensive Rebound.",78,43,35,0.999893553144127,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+247,2,"11:47",707,707,"Foul on Quinton Stephens.",78,43,35,0.999855574606494,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+248,2,"11:47",707,707,"Official TV Timeout",78,43,35,0.999855574606494,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+249,2,"11:40",700,700,"Jayson Tatum missed Three Point Jumper.",78,43,35,0.999855574606494,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+250,2,"11:40",700,700,"Harry Giles Offensive Rebound.",78,43,35,0.999855574606494,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+251,2,"11:35",695,695,"Harry Giles made Layup.",80,43,37,0.999970382868259,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+252,2,"11:08",668,668,"Ben Lammers made Jumper.",80,45,35,0.999912043047236,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+253,2,"10:57",657,657,"Jayson Tatum made Dunk. Assisted by Matt Jones.",82,45,37,0.999963990900343,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+254,2,"10:34",634,634,"Ben Lammers missed Jumper.",82,45,37,0.999954044357768,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+255,2,"10:34",634,634,"Georgia Tech Offensive Rebound.",82,45,37,0.999954044357768,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+256,2,"10:21",621,621,"Foul on Harry Giles.",82,45,37,0.999980435583899,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+257,2,"10:21",621,621,"Sylvester Ogbonda made Free Throw.",82,46,36,0.999974842530133,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+258,2,"10:21",621,621,"Sylvester Ogbonda made Free Throw.",82,47,35,0.999967650592029,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+259,2,"10:05",605,605,"Jayson Tatum made Layup. Assisted by Harry Giles.",84,47,37,0.999972350242414,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+260,2,"9:57",597,597,"Foul on Harry Giles.",84,47,37,0.999963767857014,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+261,2,"9:50",590,590,"Josh Okogie Turnover.",84,47,37,0.999963767857014,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+262,2,"9:50",590,590,"Jayson Tatum Steal.",84,47,37,0.999963767857014,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+263,2,"9:39",579,579,"Marques Bolden made Layup.",86,47,39,0.999987936931048,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+264,2,"9:17",557,557,"Sylvester Ogbonda Turnover.",86,47,39,0.999989679064415,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+265,2,"9:17",557,557,"Foul on Sylvester Ogbonda.",86,47,39,0.999989679064415,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+266,2,"9:08",548,548,"Jayson Tatum made Three Point Jumper. Assisted by Grayson Allen.",89,47,42,0.999996256398906,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+267,2,"8:43",523,523,"Sylvester Ogbonda missed Jumper.",89,47,42,0.999996716913163,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+268,2,"8:43",523,523,"Amile Jefferson Defensive Rebound.",89,47,42,0.999996716913163,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+269,2,"8:32",512,512,"Jayson Tatum made Layup.",91,47,44,0.999997935805044,"Duke","Georgia Tech",3,4,0,0,20.5,400915356,2017-01-04
+270,2,"8:26",506,506,"Georgia Tech  Timeout",91,47,44,0.999998234421605,"Duke","Georgia Tech",2,4,1,0,20.5,400915356,2017-01-04
+271,2,"8:23",503,503,"Tadric Jackson missed Three Point Jumper.",91,47,44,0.999998234421605,"Duke","Georgia Tech",2,4,1,0,20.5,400915356,2017-01-04
+272,2,"8:23",503,503,"Jayson Tatum Defensive Rebound.",91,47,44,0.999998234421605,"Duke","Georgia Tech",2,4,1,0,20.5,400915356,2017-01-04
+273,2,"8:14",494,494,"Marques Bolden missed Jumper.",91,47,44,0.999998247877554,"Duke","Georgia Tech",2,4,1,0,20.5,400915356,2017-01-04
+274,2,"8:14",494,494,"Matt Jones Offensive Rebound.",91,47,44,0.999998247877554,"Duke","Georgia Tech",2,4,1,0,20.5,400915356,2017-01-04
+275,2,"8:06",486,486,"Matt Jones missed Layup.",91,47,44,0.999998332114342,"Duke","Georgia Tech",2,4,1,0,20.5,400915356,2017-01-04
+276,2,"8:06",486,486,"Tadric Jackson Defensive Rebound.",91,47,44,0.999998332114342,"Duke","Georgia Tech",2,4,1,0,20.5,400915356,2017-01-04
+277,2,"7:59",479,479,"Tadric Jackson made Layup.",91,49,42,0.99999867957672,"Duke","Georgia Tech",2,4,1,0,20.5,400915356,2017-01-04
+278,2,"7:50",470,470,"Jayson Tatum missed Three Point Jumper.",91,49,42,0.99999867957672,"Duke","Georgia Tech",2,4,1,0,20.5,400915356,2017-01-04
+279,2,"7:50",470,470,"Matt Jones Offensive Rebound.",91,49,42,0.99999867957672,"Duke","Georgia Tech",2,4,1,0,20.5,400915356,2017-01-04
+280,2,"7:35",455,455,"Jayson Tatum made Layup.",93,49,44,0.999999717935424,"Duke","Georgia Tech",2,4,1,0,20.5,400915356,2017-01-04
+281,2,"7:28",448,448,"Tadric Jackson made Jumper.",93,51,42,0.999996878746419,"Duke","Georgia Tech",2,4,1,0,20.5,400915356,2017-01-04
+282,2,"7:09",429,429,"Amile Jefferson made Layup. Assisted by Frank Jackson.",95,51,44,0.999999324659819,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+283,2,"6:35",395,395,"Ben Lammers Turnover.",95,51,44,0.999999674593407,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+284,2,"6:35",395,395,"Jayson Tatum Steal.",95,51,44,0.999999674593407,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+285,2,"6:35",395,395,"Foul on Ben Lammers.",95,51,44,0.999999674593407,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+286,2,"6:35",395,395,"Official TV Timeout",95,51,44,0.999999674593407,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+287,2,"6:28",388,388,"Harry Giles Turnover.",95,51,44,0.999999437358351,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+288,2,"6:28",388,388,"Kellen McCormick Steal.",95,51,44,0.999999437358351,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+289,2,"6:12",372,372,"Kellen McCormick missed Three Point Jumper.",95,51,44,0.999999624636883,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+290,2,"6:12",372,372,"Jayson Tatum Defensive Rebound.",95,51,44,0.999999624636883,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+291,2,"6:00",360,360,"Harry Giles missed Jumper.",95,51,44,0.999999772935078,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+292,2,"6:00",360,360,"Antonio Vrankovic Offensive Rebound.",95,51,44,0.999999772935078,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+293,2,"5:52",352,352,"Jayson Tatum made Layup. Assisted by Antonio Vrankovic.",97,51,46,0.999999946978161,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+294,2,"5:52",352,352,"Foul on Sylvester Ogbonda.",97,51,46,0.999999946978161,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+295,2,"5:52",352,352,"Jayson Tatum missed Free Throw.",97,51,46,0.999999946978161,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+296,2,"5:52",352,352,"Josh Okogie Defensive Rebound.",97,51,46,0.999999946978161,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+297,2,"5:46",346,346,"Josh Okogie made Layup.",97,53,44,0.999999856556964,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+298,2,"5:32",332,332,"Matt Jones missed Three Point Jumper.",97,53,44,0.999999946841606,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+299,2,"5:32",332,332,"Sylvester Ogbonda Defensive Rebound.",97,53,44,0.999999946841606,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+300,2,"5:25",325,325,"Foul on Antonio Vrankovic.",97,53,44,0.999999705779041,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+301,2,"5:03",303,303,"Justin Moore made Jumper. Assisted by Josh Okogie.",97,55,42,0.999999756708349,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+302,2,"4:53",293,293,"Frank Jackson missed Layup.",97,55,42,0.999999837442187,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+303,2,"4:53",293,293,"Harry Giles Offensive Rebound.",97,55,42,0.999999837442187,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+304,2,"4:49",289,289,"Harry Giles missed Jumper.",97,55,42,0.999999875425377,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+305,2,"4:49",289,289,"Harry Giles Offensive Rebound.",97,55,42,0.999999875425377,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+306,2,"4:42",282,282,"Matt Jones made Layup.",99,55,44,0.999999938483023,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+307,2,"4:30",270,270,"Tadric Jackson missed Layup.",99,55,44,0.999999986815198,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+308,2,"4:30",270,270,"Jack White Defensive Rebound.",99,55,44,0.999999986815198,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+309,2,"4:07",247,247,"Harry Giles missed Layup.",99,55,44,0.999999992931676,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+310,2,"4:07",247,247,"Matt Jones Offensive Rebound.",99,55,44,0.999999992931676,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+311,2,"4:01",241,241,"Harry Giles made Layup. Assisted by Matt Jones.",101,55,46,0.999999996852292,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+312,2,"4:00",240,240,"Foul on Jack White.",101,55,46,0.999999996852292,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+313,2,"4:00",240,240,"Josh Okogie missed Free Throw.",101,55,46,0.999999996852292,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+314,2,"4:00",240,240,"Sylvester Ogbonda Offensive Rebound.",101,55,46,0.999999996852292,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+315,2,"3:59",239,239,"Jump Ball won by Georgia Tech",101,55,46,0.999999996952408,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+316,2,"3:59",239,239,"Official TV Timeout",101,55,46,0.999999996952408,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+317,2,"3:44",224,224,"Christian Matthews missed Three Point Jumper.",101,55,46,0.999999998966349,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+318,2,"3:44",224,224,"Matt Jones Defensive Rebound.",101,55,46,0.999999998966349,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+319,2,"3:19",199,199,"Jack White made Three Point Jumper. Assisted by Frank Jackson.",104,55,49,0.999999999946687,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+320,2,"2:56",176,176,"Justin Moore missed Jumper.",104,55,49,0.999999999986997,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+321,2,"2:56",176,176,"Frank Jackson Defensive Rebound.",104,55,49,0.999999999986997,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+322,2,"2:40",160,160,"Matt Jones made Three Point Jumper. Assisted by Frank Jackson.",107,55,52,0.999999999999289,"Duke","Georgia Tech",2,4,0,0,20.5,400915356,2017-01-04
+323,2,"2:34",154,154,"Duke  Timeout",107,55,52,0.999999999999729,"Duke","Georgia Tech",2,3,0,1,20.5,400915356,2017-01-04
+324,2,"2:21",141,141,"Jodan Price missed Three Point Jumper.",107,55,52,0.999999999999285,"Duke","Georgia Tech",2,3,0,1,20.5,400915356,2017-01-04
+325,2,"2:21",141,141,"Antonio Vrankovic Defensive Rebound.",107,55,52,0.999999999999285,"Duke","Georgia Tech",2,3,0,1,20.5,400915356,2017-01-04
+326,2,"2:06",126,126,"Frank Jackson made Three Point Jumper. Assisted by Nick Pagliuca.",110,55,55,0.999999999999986,"Duke","Georgia Tech",2,3,0,1,20.5,400915356,2017-01-04
+327,2,"1:59",119,119,"Duke  Timeout",110,55,55,0.999999999999998,"Duke","Georgia Tech",2,2,0,1,20.5,400915356,2017-01-04
+328,2,"1:36",96,96,"Justin Moore missed Layup.",110,55,55,0.999999999999999,"Duke","Georgia Tech",2,2,0,1,20.5,400915356,2017-01-04
+329,2,"1:36",96,96,"Marques Bolden Defensive Rebound.",110,55,55,0.999999999999999,"Duke","Georgia Tech",2,2,0,1,20.5,400915356,2017-01-04
+330,2,"1:12",72,72,"Antonio Vrankovic Turnover.",110,55,55,1,"Duke","Georgia Tech",2,2,0,1,20.5,400915356,2017-01-04
+331,2,"1:09",69,69,"Justin Moore missed Layup.",110,55,55,1,"Duke","Georgia Tech",2,2,0,1,20.5,400915356,2017-01-04
+332,2,"1:09",69,69,"Sylvester Ogbonda Offensive Rebound.",110,55,55,1,"Duke","Georgia Tech",2,2,0,1,20.5,400915356,2017-01-04
+333,2,"1:09",69,69,"Sylvester Ogbonda missed Layup.",110,55,55,1,"Duke","Georgia Tech",2,2,0,1,20.5,400915356,2017-01-04
+334,2,"1:09",69,69,"Justin Moore Offensive Rebound.",110,55,55,1,"Duke","Georgia Tech",2,2,0,1,20.5,400915356,2017-01-04
+335,2,"1:01",61,61,"Justin Moore made Layup.",110,57,53,1,"Duke","Georgia Tech",2,2,0,1,20.5,400915356,2017-01-04
+336,2,"0:41",41,41,"Antonio Vrankovic Turnover.",110,57,53,1,"Duke","Georgia Tech",2,2,0,0,20.5,400915356,2017-01-04
+337,2,"0:32",32,32,"Justin Moore missed Layup.",110,57,53,1,"Duke","Georgia Tech",2,2,0,0,20.5,400915356,2017-01-04
+338,2,"0:32",32,32,"Marques Bolden Block.",110,57,53,1,"Duke","Georgia Tech",2,2,0,0,20.5,400915356,2017-01-04
+339,2,"0:32",32,32,"Antonio Vrankovic Defensive Rebound.",110,57,53,1,"Duke","Georgia Tech",2,2,0,0,20.5,400915356,2017-01-04
+340,2,"0:00",0,0,"End of Game",110,57,53,NA,"Duke","Georgia Tech",2,2,0,0,20.5,400915356,2017-01-04

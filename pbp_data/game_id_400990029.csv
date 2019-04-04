@@ -1,0 +1,326 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.675663267246502,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+2,1,"19:44",2384,2384,"J.C. Show Turnover.",0,0,0,0.673545549185317,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+3,1,"19:44",2384,2384,"Foul on J.C. Show.",0,0,0,0.673545549185317,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+4,1,"19:25",2365,2365,"Jahad Thomas made Jumper.",0,2,-2,0.647246001680819,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+5,1,"18:59",2339,2339,"J.C. Show made Three Point Jumper.",3,2,1,0.691747602756624,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+6,1,"18:41",2321,2321,"Josh Gantz missed Three Point Jumper.",3,2,1,0.703315395029611,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+7,1,"18:41",2321,2321,"Willie Rodriguez Defensive Rebound.",3,2,1,0.703315395029611,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+8,1,"18:32",2312,2312,"J.C. Show made Three Point Jumper. Assisted by Willie Rodriguez.",6,2,4,0.739432981485154,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+9,1,"18:27",2307,2307,"UMass Lowell  Timeout",6,2,4,0.742732647540581,"Binghamton","UMass Lowell",3,4,1,0,3.1,400990029,2018-01-21
+10,1,"18:13",2293,2293,"Jahad Thomas missed Jumper.",6,2,4,0.752769123657517,"Binghamton","UMass Lowell",3,4,1,0,3.1,400990029,2018-01-21
+11,1,"18:13",2293,2293,"Thomas Bruce Defensive Rebound.",6,2,4,0.752769123657517,"Binghamton","UMass Lowell",3,4,1,0,3.1,400990029,2018-01-21
+12,1,"17:59",2279,2279,"Foul on Jahad Thomas.",6,2,4,0.756178835318564,"Binghamton","UMass Lowell",3,4,1,0,3.1,400990029,2018-01-21
+13,1,"17:43",2263,2263,"Timmy Rose Turnover.",6,2,4,0.772812442655784,"Binghamton","UMass Lowell",3,4,1,0,3.1,400990029,2018-01-21
+14,1,"17:42",2262,2262,"Rinardo Perry Steal.",6,2,4,0.772812442655784,"Binghamton","UMass Lowell",3,4,1,0,3.1,400990029,2018-01-21
+15,1,"17:22",2242,2242,"Rinardo Perry missed Three Point Jumper.",6,2,4,0.745747796215038,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+16,1,"17:22",2242,2242,"J.C. Show Defensive Rebound.",6,2,4,0.745747796215038,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+17,1,"17:00",2220,2220,"J.C. Show missed Jumper.",6,2,4,0.753706324071027,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+18,1,"17:00",2220,2220,"Rinardo Perry Defensive Rebound.",6,2,4,0.753706324071027,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+19,1,"16:42",2202,2202,"Matt Harris missed Three Point Jumper.",6,2,4,0.75975617591947,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+20,1,"16:42",2202,2202,"Bobby Ahearn Defensive Rebound.",6,2,4,0.75975617591947,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+21,1,"16:31",2191,2191,"Foul on Matt Harris.",6,2,4,0.770707235774005,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+22,1,"16:20",2180,2180,"J.C. Show Turnover.",6,2,4,0.755431772382266,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+23,1,"16:05",2165,2165,"Jahad Thomas Turnover.",6,2,4,0.753607798795919,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+24,1,"15:47",2147,2147,"Bobby Ahearn Turnover.",6,2,4,0.754198697545111,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+25,1,"15:47",2147,2147,"Foul on Bobby Ahearn.",6,2,4,0.754198697545111,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+26,1,"15:47",2147,2147,"Official TV Timeout",6,2,4,0.754198697545111,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+27,1,"15:34",2134,2134,"Rinardo Perry missed Layup.",6,2,4,0.761028232366947,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+28,1,"15:34",2134,2134,"Thomas Bruce Defensive Rebound.",6,2,4,0.761028232366947,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+29,1,"15:16",2116,2116,"J.C. Show missed Jumper.",6,2,4,0.759649403113839,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+30,1,"15:16",2116,2116,"Rinardo Perry Block.",6,2,4,0.759649403113839,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+31,1,"15:13",2113,2113,"Rinardo Perry Defensive Rebound.",6,2,4,0.759649403113839,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+32,1,"15:09",2109,2109,"Ryan Jones Turnover.",6,2,4,0.750770889923443,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+33,1,"14:46",2086,2086,"Foul on Rinardo Perry.",6,2,4,0.754698732417844,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+34,1,"14:46",2086,2086,"J.C. Show made Free Throw.",7,2,5,0.774476921218389,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+35,1,"14:46",2086,2086,"J.C. Show made Free Throw.",8,2,6,0.793097615997329,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+36,1,"14:37",2077,2077,"Foul on Everson Davis.",8,2,6,0.785778707572483,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+37,1,"14:37",2077,2077,"Ryan Jones missed Free Throw.",8,2,6,0.785778707572483,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+38,1,"14:37",2077,2077,"UMass Lowell Deadball Team Rebound.",8,2,6,0.785778707572483,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+39,1,"14:37",2077,2077,"Ryan Jones made Free Throw.",8,3,5,0.76719391265118,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+40,1,"14:37",2077,2077,"Ryan Jones missed Free Throw.",8,3,5,0.76719391265118,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+41,1,"14:37",2077,2077,"Willie Rodriguez Defensive Rebound.",8,3,5,0.76719391265118,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+42,1,"14:21",2061,2061,"J.C. Show made Layup.",10,3,7,0.813405157825473,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+43,1,"13:58",2038,2038,"Josh Gantz missed Jumper.",10,3,7,0.817471067938545,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+44,1,"13:58",2038,2038,"Thomas Bruce Defensive Rebound.",10,3,7,0.817471067938545,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+45,1,"13:51",2031,2031,"J.C. Show made Three Point Jumper.",13,3,10,0.862073764932919,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+46,1,"13:18",1998,1998,"Obadiah Noel made Jumper.",13,5,8,0.845470873196724,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+47,1,"12:53",1973,1973,"Willie Rodriguez Turnover.",13,5,8,0.845120194313186,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+48,1,"12:52",1972,1972,"Matt Harris Steal.",13,5,8,0.845120194313186,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+49,1,"12:41",1961,1961,"Josh Gantz made Jumper. Assisted by Jahad Thomas.",13,7,6,0.784022081999838,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+50,1,"12:16",1936,1936,"Fard Muhammad missed Jumper.",13,7,6,0.798627896570885,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+51,1,"12:06",1926,1926,"Fard Muhammad missed Three Point Jumper.",13,10,3,0.732545656480121,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+52,1,"12:06",1926,1926,"Josh Gantz Defensive Rebound.",13,10,3,0.732545656480121,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+53,1,"12:06",1926,1926,"Matt Harris made Three Point Jumper.",13,10,3,0.732545656480121,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+54,1,"12:06",1926,1926,"Foul on Fard Muhammad.",13,10,3,0.732545656480121,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+55,1,"12:06",1926,1926,"Josh Gantz Defensive Rebound.",13,10,3,0.732545656480121,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+56,1,"11:36",1896,1896,"Matt Harris missed Three Point Jumper.",13,10,3,0.743458403048062,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+57,1,"11:36",1896,1896,"Thomas Bruce Defensive Rebound.",13,10,3,0.743458403048062,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+58,1,"11:08",1868,1868,"Official TV Timeout",13,10,3,0.747153115132158,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+59,1,"10:55",1855,1855,"Matt Harris made Three Point Jumper. Assisted by Shawn Jones.",13,13,0,0.658804066347579,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+60,1,"10:29",1829,1829,"Everson Davis made Layup. Assisted by Timmy Rose.",15,13,2,0.724258937149525,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+61,1,"10:08",1808,1808,"Matt Harris made Three Point Jumper. Assisted by Stefan Borovac.",15,16,-1,0.619939000362432,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+62,1,"9:33",1773,1773,"Timmy Rose missed Three Point Jumper.",15,16,-1,0.609601396845925,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+63,1,"9:33",1773,1773,"Obadiah Noel Defensive Rebound.",15,16,-1,0.609601396845925,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+64,1,"9:11",1751,1751,"Obadiah Noel Turnover.",15,16,-1,0.59913024819528,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+65,1,"8:54",1734,1734,"Bobby Ahearn missed Three Point Jumper.",15,16,-1,0.619218188377552,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+66,1,"8:54",1734,1734,"Obadiah Noel Defensive Rebound.",15,16,-1,0.619218188377552,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+67,1,"8:40",1720,1720,"Stefan Borovac missed Three Point Jumper.",15,16,-1,0.621356163038367,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+68,1,"8:40",1720,1720,"Everson Davis Defensive Rebound.",15,16,-1,0.621356163038367,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+69,1,"8:20",1700,1700,"Everson Davis made Layup.",17,16,1,0.669166161293568,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+70,1,"8:04",1684,1684,"Jahad Thomas Turnover.",17,16,1,0.686127971163911,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+71,1,"7:52",1672,1672,"Bobby Ahearn Turnover.",17,16,1,0.683048416567778,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+72,1,"7:50",1670,1670,"Obadiah Noel Steal.",17,16,1,0.683048416567778,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+73,1,"7:49",1669,1669,"Obadiah Noel made Dunk.",17,18,-1,0.618272980326039,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+74,1,"7:27",1647,1647,"Fard Muhammad made Jumper.",19,18,1,0.685443058743611,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+75,1,"7:08",1628,1628,"Matt Harris made Three Point Jumper.",19,21,-2,0.575564938904997,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+76,1,"6:50",1610,1610,"Official TV Timeout",19,21,-2,0.561842896307748,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+77,1,"6:45",1605,1605,"Willie Rodriguez Turnover.",19,21,-2,0.581031413780372,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+78,1,"6:32",1592,1592,"Obadiah Noel missed Three Point Jumper.",19,21,-2,0.592249188234881,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+79,1,"6:32",1592,1592,"Binghamton Defensive Rebound.",19,21,-2,0.592249188234881,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+80,1,"6:08",1568,1568,"Everson Davis made Jumper.",21,21,0,0.633163255124228,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+81,1,"5:50",1550,1550,"Matt Harris made Layup. Assisted by Josh Gantz.",21,23,-2,0.565783405221902,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+82,1,"5:27",1527,1527,"J.C. Show made Three Point Jumper. Assisted by Everson Davis.",24,23,1,0.674998510264077,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+83,1,"5:08",1508,1508,"Stefan Borovac made Layup. Assisted by Obadiah Noel.",24,25,-1,0.609463854319326,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+84,1,"4:45",1485,1485,"Everson Davis missed Jumper.",24,25,-1,0.599266610745667,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+85,1,"4:45",1485,1485,"Stefan Borovac Defensive Rebound.",24,25,-1,0.599266610745667,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+86,1,"4:28",1468,1468,"Stefan Borovac Turnover.",24,25,-1,0.611595923382351,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+87,1,"4:22",1462,1462,"Thomas Bruce missed Dunk.",24,25,-1,0.611595923382351,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+88,1,"4:22",1462,1462,"Stefan Borovac Defensive Rebound.",24,25,-1,0.611595923382351,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+89,1,"4:00",1440,1440,"Stefan Borovac Turnover.",24,25,-1,0.627256899034278,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+90,1,"3:59",1439,1439,"Official TV Timeout",24,25,-1,0.6122851408293,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+91,1,"3:31",1411,1411,"Bobby Ahearn missed Layup.",24,25,-1,0.594829282025558,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+92,1,"3:31",1411,1411,"Bobby Ahearn Offensive Rebound.",24,25,-1,0.594829282025558,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+93,1,"3:29",1409,1409,"Bobby Ahearn missed Layup.",24,25,-1,0.619742380029099,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+94,1,"3:29",1409,1409,"Stefan Borovac Defensive Rebound.",24,25,-1,0.619742380029099,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+95,1,"3:26",1406,1406,"Foul on Bobby Ahearn.",24,25,-1,0.619742380029099,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+96,1,"3:13",1393,1393,"Josh Gantz made Jumper. Assisted by Ryan Jones.",24,27,-3,0.525484838075759,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+97,1,"2:58",1378,1378,"Everson Davis Turnover.",24,27,-3,0.522528900564482,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+98,1,"2:57",1377,1377,"Josh Gantz Steal.",24,27,-3,0.522528900564482,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+99,1,"2:53",1373,1373,"Ryan Jones made Layup. Assisted by Josh Gantz.",24,29,-5,0.450528920507971,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+100,1,"2:29",1349,1349,"Everson Davis missed Three Point Jumper.",24,29,-5,0.434487633027308,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+101,1,"2:29",1349,1349,"Thomas Bruce Offensive Rebound.",24,29,-5,0.434487633027308,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+102,1,"2:25",1345,1345,"J.C. Show missed Three Point Jumper.",24,29,-5,0.434487633027308,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+103,1,"2:25",1345,1345,"UMass Lowell Defensive Rebound.",24,29,-5,0.434487633027308,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+104,1,"1:56",1316,1316,"Matt Harris made Jumper.",24,31,-7,0.382329467274579,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+105,1,"1:23",1283,1283,"Willie Rodriguez made Dunk. Assisted by Timmy Rose.",26,31,-5,0.456466596234619,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+106,1,"1:02",1262,1262,"Josh Gantz made Layup. Assisted by Jahad Thomas.",26,33,-7,0.383363424477834,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+107,1,"0:42",1242,1242,"Willie Rodriguez made Jumper.",28,33,-5,0.446788013864933,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+108,1,"0:20",1220,1220,"Matt Harris missed Three Point Jumper.",28,33,-5,0.431698754931406,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+109,1,"0:20",1220,1220,"Thomas Bruce Defensive Rebound.",28,33,-5,0.431698754931406,"Binghamton","UMass Lowell",3,4,0,0,3.1,400990029,2018-01-21
+110,1,"0:12",1212,1212,"Binghamton  Timeout",28,33,-5,0.422960497212778,"Binghamton","UMass Lowell",3,3,0,1,3.1,400990029,2018-01-21
+111,1,"0:03",1203,1203,"Timmy Rose missed Jumper.",28,33,-5,0.437566245200006,"Binghamton","UMass Lowell",3,3,0,1,3.1,400990029,2018-01-21
+112,1,"0:03",1203,1203,"Willie Rodriguez Offensive Rebound.",28,33,-5,0.437566245200006,"Binghamton","UMass Lowell",3,3,0,1,3.1,400990029,2018-01-21
+113,1,"0:00",1200,1200,"Willie Rodriguez missed Jumper.",28,33,-5,0.437566245200006,"Binghamton","UMass Lowell",3,3,0,1,3.1,400990029,2018-01-21
+114,1,"0:00",1200,1200,"Matt Harris Defensive Rebound.",28,33,-5,0.437566245200006,"Binghamton","UMass Lowell",3,3,0,1,3.1,400990029,2018-01-21
+115,1,"0:00",1200,1200,"End of 1st half",28,33,-5,0.437566245200006,"Binghamton","UMass Lowell",3,3,0,1,3.1,400990029,2018-01-21
+116,2,"20:00",1200,1200,"PLAY",28,33,-5,0.437566245200006,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+117,2,"19:36",1176,1176,"Thomas Bruce missed Jumper.",28,33,-5,0.426636454759582,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+118,2,"19:36",1176,1176,"Willie Rodriguez Offensive Rebound.",28,33,-5,0.426636454759582,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+119,2,"19:31",1171,1171,"J.C. Show missed Jumper.",28,33,-5,0.426636454759582,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+120,2,"19:31",1171,1171,"Matt Harris Defensive Rebound.",28,33,-5,0.426636454759582,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+121,2,"19:22",1162,1162,"Jahad Thomas made Layup.",28,35,-7,0.338006841505579,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+122,2,"19:22",1162,1162,"Foul on J.C. Show.",28,35,-7,0.338006841505579,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+123,2,"19:22",1162,1162,"Jahad Thomas made Free Throw.",28,36,-8,0.302156486687595,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+124,2,"18:53",1133,1133,"Tyler Stewart missed Layup.",28,36,-8,0.324250066034588,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+125,2,"18:53",1133,1133,"Josh Gantz Defensive Rebound.",28,36,-8,0.324250066034588,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+126,2,"18:48",1128,1128,"Josh Gantz made Three Point Jumper. Assisted by Ryan Jones.",28,39,-11,0.17697337320296,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+127,2,"18:18",1098,1098,"Thomas Bruce made Layup. Assisted by Tyler Stewart.",30,39,-9,0.274872797720054,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+128,2,"17:59",1079,1079,"Foul on Yosef Yacob.",30,39,-9,0.276243727856529,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+129,2,"17:54",1074,1074,"Jahad Thomas made Jumper.",30,41,-11,0.214164535175155,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+130,2,"17:29",1049,1049,"Tyler Stewart missed Jumper.",30,41,-11,0.208267347138297,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+131,2,"17:29",1049,1049,"Thomas Bruce Offensive Rebound.",30,41,-11,0.208267347138297,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+132,2,"17:25",1045,1045,"Thomas Bruce made Layup.",32,41,-9,0.271896353136286,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+133,2,"17:14",1034,1034,"Ryan Jones missed Jumper.",32,41,-9,0.260879285583059,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+134,2,"17:14",1034,1034,"Thomas Bruce Defensive Rebound.",32,41,-9,0.260879285583059,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+135,2,"16:59",1019,1019,"Foul on Josh Gantz.",32,41,-9,0.224556783360709,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+136,2,"16:54",1014,1014,"Foul on Jahad Thomas.",32,41,-9,0.224556783360709,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+137,2,"16:48",1008,1008,"Tyler Stewart made Layup.",34,41,-7,0.297145557343266,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+138,2,"16:36",996,996,"Foul on Tyler Stewart.",34,41,-7,0.311658830884106,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+139,2,"16:31",991,991,"Jahad Thomas missed Layup.",34,41,-7,0.311658830884106,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+140,2,"16:31",991,991,"Tyler Stewart Defensive Rebound.",34,41,-7,0.311658830884106,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+141,2,"16:25",985,985,"Yosef Yacob missed Three Point Jumper.",34,41,-7,0.29858399414177,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+142,2,"16:25",985,985,"Josh Gantz Defensive Rebound.",34,41,-7,0.29858399414177,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+143,2,"16:02",962,962,"Josh Gantz Turnover.",34,41,-7,0.300997783605772,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+144,2,"16:01",961,961,"Tyler Stewart Steal.",34,41,-7,0.300997783605772,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+145,2,"15:52",952,952,"Thomas Bruce missed Jumper.",34,41,-7,0.297659763820673,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+146,2,"15:52",952,952,"Thomas Bruce Offensive Rebound.",34,41,-7,0.297659763820673,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+147,2,"15:50",950,950,"Foul on Ryan Jones.",34,41,-7,0.297659763820673,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+148,2,"15:50",950,950,"Official TV Timeout",34,41,-7,0.297659763820673,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+149,2,"15:50",950,950,"Thomas Bruce missed Free Throw.",34,41,-7,0.297659763820673,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+150,2,"15:50",950,950,"Binghamton Deadball Team Rebound.",34,41,-7,0.297659763820673,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+151,2,"15:50",950,950,"Thomas Bruce made Free Throw.",35,41,-6,0.339116149848403,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+152,2,"15:50",950,950,"Foul on Yosef Yacob.",35,41,-6,0.339116149848403,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+153,2,"15:23",923,923,"Ryan Jones made Layup.",35,43,-8,0.23980844623721,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+154,2,"15:23",923,923,"Foul on Tyler Stewart.",35,43,-8,0.23980844623721,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+155,2,"15:23",923,923,"Ryan Jones made Free Throw.",35,44,-9,0.20632773495111,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+156,2,"15:01",901,901,"Tyler Stewart missed Layup.",35,44,-9,0.223980007278908,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+157,2,"15:01",901,901,"Thomas Bruce Offensive Rebound.",35,44,-9,0.223980007278908,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+158,2,"14:58",898,898,"Thomas Bruce made Layup.",37,44,-7,0.302755860759576,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+159,2,"14:50",890,890,"Matt Harris made Jumper.",37,46,-9,0.227444989422715,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+160,2,"14:37",877,877,"J.C. Show made Three Point Jumper. Assisted by Willie Rodriguez.",40,46,-6,0.343401086863095,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+161,2,"14:18",858,858,"Matt Harris missed Three Point Jumper.",40,46,-6,0.333654909681481,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+162,2,"14:18",858,858,"J.C. Show Defensive Rebound.",40,46,-6,0.333654909681481,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+163,2,"14:11",851,851,"J.C. Show missed Three Point Jumper.",40,46,-6,0.333654909681481,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+164,2,"14:11",851,851,"Matt Harris Defensive Rebound.",40,46,-6,0.333654909681481,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+165,2,"13:52",832,832,"Jahad Thomas made Jumper.",40,48,-8,0.243340399893103,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+166,2,"13:27",807,807,"Foul on Josh Gantz.",40,48,-8,0.254669047935911,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+167,2,"13:27",807,807,"Tyler Stewart made Free Throw.",41,48,-7,0.295127774800633,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+168,2,"13:27",807,807,"Tyler Stewart made Free Throw.",42,48,-6,0.339089847152999,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+169,2,"13:12",792,792,"Josh Gantz made Layup. Assisted by Jahad Thomas.",42,50,-8,0.21305018736975,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+170,2,"12:49",769,769,"Fard Muhammad missed Three Point Jumper.",42,50,-8,0.237907060677225,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+171,2,"12:49",769,769,"Everson Davis Offensive Rebound.",42,50,-8,0.237907060677225,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+172,2,"12:31",751,751,"Thomas Bruce made Dunk. Assisted by Everson Davis.",44,50,-6,0.303570905254164,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+173,2,"12:14",734,734,"Obadiah Noel made Dunk. Assisted by Josh Gantz.",44,52,-8,0.22531857694966,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+174,2,"12:14",734,734,"Foul on Everson Davis.",44,52,-8,0.22531857694966,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+175,2,"12:14",734,734,"Obadiah Noel missed Free Throw.",44,52,-8,0.22531857694966,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+176,2,"12:14",734,734,"Thomas Bruce Defensive Rebound.",44,52,-8,0.22531857694966,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+177,2,"11:58",718,718,"Foul on Matt Harris.",44,52,-8,0.203241817024838,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+178,2,"11:58",718,718,"Official TV Timeout",44,52,-8,0.203241817024838,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+179,2,"11:58",718,718,"Fard Muhammad missed Free Throw.",44,52,-8,0.203241817024838,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+180,2,"11:58",718,718,"Binghamton Deadball Team Rebound.",44,52,-8,0.203241817024838,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+181,2,"11:58",718,718,"Fard Muhammad missed Free Throw.",44,52,-8,0.203241817024838,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+182,2,"11:58",718,718,"Ryan Jones Defensive Rebound.",44,52,-8,0.203241817024838,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+183,2,"11:44",704,704,"Josh Gantz missed Three Point Jumper.",44,52,-8,0.228202455783006,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+184,2,"11:44",704,704,"Thomas Bruce Defensive Rebound.",44,52,-8,0.228202455783006,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+185,2,"11:22",682,682,"Thomas Bruce Turnover.",44,52,-8,0.203880057402408,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+186,2,"11:01",661,661,"Matt Harris missed Jumper.",44,52,-8,0.213521773276747,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+187,2,"11:01",661,661,"Willie Rodriguez Block.",44,52,-8,0.213521773276747,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+188,2,"10:59",659,659,"UMass Lowell Offensive Rebound.",44,52,-8,0.195896428481629,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+189,2,"10:57",657,657,"Obadiah Noel missed Layup.",44,52,-8,0.195896428481629,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+190,2,"10:57",657,657,"Willie Rodriguez Block.",44,52,-8,0.195896428481629,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+191,2,"10:56",656,656,"Obadiah Noel Offensive Rebound.",44,52,-8,0.195896428481629,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+192,2,"10:54",654,654,"Obadiah Noel missed Jumper.",44,52,-8,0.195896428481629,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+193,2,"10:54",654,654,"J.C. Show Defensive Rebound.",44,52,-8,0.195896428481629,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+194,2,"10:32",632,632,"J.C. Show missed Layup.",44,52,-8,0.182410293309296,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+195,2,"10:32",632,632,"Ryan Jones Defensive Rebound.",44,52,-8,0.182410293309296,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+196,2,"10:04",604,604,"Ryan Jones missed Layup.",44,52,-8,0.182980689792946,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+197,2,"10:04",604,604,"Willie Rodriguez Block.",44,52,-8,0.182980689792946,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+198,2,"10:02",602,602,"Binghamton Defensive Rebound.",44,52,-8,0.182980689792946,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+199,2,"9:50",590,590,"Timmy Rose Turnover.",44,52,-8,0.184660557235423,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+200,2,"9:49",589,589,"Ryan Jones Steal.",44,52,-8,0.176498662284497,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+201,2,"9:45",585,585,"Ryan Jones missed Layup.",44,52,-8,0.176498662284497,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+202,2,"9:45",585,585,"Ryan Jones Offensive Rebound.",44,52,-8,0.176498662284497,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+203,2,"9:42",582,582,"Josh Gantz made Three Point Jumper. Assisted by Ryan Jones.",44,55,-11,0.0939488798070088,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+204,2,"9:18",558,558,"Willie Rodriguez missed Jumper.",44,55,-11,0.0778099828122449,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+205,2,"9:18",558,558,"Ryan Jones Defensive Rebound.",44,55,-11,0.0778099828122449,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+206,2,"9:06",546,546,"Matt Harris missed Three Point Jumper.",44,55,-11,0.0690641499126404,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+207,2,"9:06",546,546,"Jahad Thomas Offensive Rebound.",44,55,-11,0.0690641499126404,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+208,2,"9:00",540,540,"Jahad Thomas made Jumper.",44,57,-13,0.0415991232562738,"Binghamton","UMass Lowell",4,4,0,0,3.1,400990029,2018-01-21
+209,2,"8:58",538,538,"Binghamton  Timeout",44,57,-13,0.0418980911603716,"Binghamton","UMass Lowell",4,3,0,1,3.1,400990029,2018-01-21
+210,2,"8:41",521,521,"J.C. Show missed Jumper.",44,57,-13,0.0426159297118233,"Binghamton","UMass Lowell",4,3,0,1,3.1,400990029,2018-01-21
+211,2,"8:41",521,521,"J.C. Show Offensive Rebound.",44,57,-13,0.0426159297118233,"Binghamton","UMass Lowell",4,3,0,1,3.1,400990029,2018-01-21
+212,2,"8:38",518,518,"J.C. Show made Jumper.",46,57,-11,0.0693045028519415,"Binghamton","UMass Lowell",4,3,0,1,3.1,400990029,2018-01-21
+213,2,"8:23",503,503,"Josh Gantz made Layup. Assisted by Jahad Thomas.",46,59,-13,0.045966989629466,"Binghamton","UMass Lowell",4,3,0,1,3.1,400990029,2018-01-21
+214,2,"8:12",492,492,"Foul on Josh Gantz.",46,59,-13,0.0453603557677161,"Binghamton","UMass Lowell",4,3,0,1,3.1,400990029,2018-01-21
+215,2,"8:12",492,492,"Timmy Rose missed Free Throw.",46,59,-13,0.0453603557677161,"Binghamton","UMass Lowell",4,3,0,1,3.1,400990029,2018-01-21
+216,2,"8:12",492,492,"Binghamton Deadball Team Rebound.",46,59,-13,0.0453603557677161,"Binghamton","UMass Lowell",4,3,0,1,3.1,400990029,2018-01-21
+217,2,"8:12",492,492,"Timmy Rose missed Free Throw.",46,59,-13,0.0453603557677161,"Binghamton","UMass Lowell",4,3,0,1,3.1,400990029,2018-01-21
+218,2,"8:12",492,492,"Jahad Thomas Defensive Rebound.",46,59,-13,0.0453603557677161,"Binghamton","UMass Lowell",4,3,0,1,3.1,400990029,2018-01-21
+219,2,"7:46",466,466,"Josh Gantz missed Layup.",46,59,-13,0.0363380908560054,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+220,2,"7:46",466,466,"Thomas Bruce Defensive Rebound.",46,59,-13,0.0363380908560054,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+221,2,"7:38",458,458,"Willie Rodriguez made Layup. Assisted by Timmy Rose.",48,59,-11,0.0415228676025645,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+222,2,"7:20",440,440,"Josh Gantz missed Layup.",48,59,-11,0.0654764770702302,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+223,2,"7:20",440,440,"Everson Davis Defensive Rebound.",48,59,-11,0.0654764770702302,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+224,2,"7:16",436,436,"Foul on Josh Gantz.",48,59,-11,0.0505557666149491,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+225,2,"7:16",436,436,"Official TV Timeout",48,59,-11,0.0505557666149491,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+226,2,"7:16",436,436,"Everson Davis made Free Throw.",49,59,-10,0.0675347936751382,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+227,2,"7:16",436,436,"Everson Davis made Free Throw.",50,59,-9,0.0896775805804614,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+228,2,"7:03",423,423,"Ryan Jones missed Three Point Jumper.",50,59,-9,0.0871167540794218,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+229,2,"7:03",423,423,"Stefan Borovac Offensive Rebound.",50,59,-9,0.0871167540794218,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+230,2,"7:02",422,422,"Foul on Thomas Bruce.",50,59,-9,0.0871167540794218,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+231,2,"7:02",422,422,"Stefan Borovac missed Free Throw.",50,59,-9,0.0871167540794218,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+232,2,"7:02",422,422,"Thomas Bruce Defensive Rebound.",50,59,-9,0.0871167540794218,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+233,2,"7:00",420,420,"Foul on Jahad Thomas.",50,59,-9,0.0871167540794218,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+234,2,"7:00",420,420,"Thomas Bruce made Free Throw.",51,59,-8,0.113842173429734,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+235,2,"7:00",420,420,"Thomas Bruce made Free Throw.",52,59,-7,0.147442137122912,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+236,2,"6:50",410,410,"Jahad Thomas made Jumper. Assisted by Ryan Jones.",52,61,-9,0.08846256705048,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+237,2,"6:35",395,395,"Thomas Bruce made Dunk. Assisted by Everson Davis.",54,61,-7,0.147129028831857,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+238,2,"6:09",369,369,"Foul on Tyler Stewart.",54,61,-7,0.130082778744015,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+239,2,"6:09",369,369,"Ryan Jones missed Free Throw.",54,61,-7,0.130082778744015,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+240,2,"6:09",369,369,"UMass Lowell Deadball Team Rebound.",54,61,-7,0.130082778744015,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+241,2,"6:09",369,369,"Ryan Jones missed Free Throw.",54,61,-7,0.130082778744015,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+242,2,"6:09",369,369,"Thomas Bruce Defensive Rebound.",54,61,-7,0.130082778744015,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+243,2,"5:56",356,356,"Foul on Jahad Thomas.",54,61,-7,0.104351945769761,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+244,2,"5:56",356,356,"Everson Davis made Free Throw.",55,61,-6,0.140697681174046,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+245,2,"5:56",356,356,"Everson Davis made Free Throw.",56,61,-5,0.187058708241708,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+246,2,"5:37",337,337,"Matt Harris made Three Point Jumper. Assisted by Rinardo Perry.",56,64,-8,0.0811820774795461,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+247,2,"5:15",315,315,"Everson Davis made Layup.",58,64,-6,0.136798452052029,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+248,2,"5:05",305,305,"Matt Harris made Jumper.",58,66,-8,0.0857821374913208,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+249,2,"4:50",290,290,"J.C. Show missed Jumper.",58,66,-8,0.084446944981811,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+250,2,"4:50",290,290,"Matt Harris Defensive Rebound.",58,66,-8,0.084446944981811,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+251,2,"4:34",274,274,"Foul on Willie Rodriguez.",58,66,-8,0.0555277729148506,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+252,2,"4:34",274,274,"Jahad Thomas made Free Throw.",58,67,-9,0.0383405532237714,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+253,2,"4:34",274,274,"Jahad Thomas missed Free Throw.",58,67,-9,0.0383405532237714,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+254,2,"4:34",274,274,"Everson Davis Defensive Rebound.",58,67,-9,0.0383405532237714,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+255,2,"4:24",264,264,"J.C. Show Turnover.",58,67,-9,0.0472115070625086,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+256,2,"4:23",263,263,"Josh Gantz Steal.",58,67,-9,0.0472115070625086,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+257,2,"4:13",253,253,"Josh Gantz made Layup. Assisted by Jahad Thomas.",58,69,-11,0.0137189232208131,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+258,2,"3:54",234,234,"Everson Davis missed Layup.",58,69,-11,0.0159647366695784,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+259,2,"3:54",234,234,"Josh Gantz Defensive Rebound.",58,69,-11,0.0159647366695784,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+260,2,"3:36",216,216,"Matt Harris missed Three Point Jumper.",58,69,-11,0.0104288776574897,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+261,2,"3:36",216,216,"Willie Rodriguez Defensive Rebound.",58,69,-11,0.0104288776574897,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+262,2,"3:27",207,207,"J.C. Show missed Jumper.",58,69,-11,0.0103158220517172,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+263,2,"3:27",207,207,"UMass Lowell Defensive Rebound.",58,69,-11,0.0103158220517172,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+264,2,"3:25",205,205,"Foul on Matt Harris.",58,69,-11,0.0103158220517172,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+265,2,"3:25",205,205,"Official TV Timeout",58,69,-11,0.0103158220517172,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+266,2,"3:25",205,205,"Tyler Stewart made Free Throw.",59,69,-10,0.0161163643398909,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+267,2,"3:25",205,205,"Tyler Stewart missed Free Throw.",59,69,-10,0.0161163643398909,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+268,2,"3:25",205,205,"Rinardo Perry Defensive Rebound.",59,69,-10,0.0161163643398909,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+269,2,"3:15",195,195,"Foul on Everson Davis.",59,69,-10,0.0115848318241,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+270,2,"3:15",195,195,"Josh Gantz missed Free Throw.",59,69,-10,0.0115848318241,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+271,2,"3:15",195,195,"UMass Lowell Deadball Team Rebound.",59,69,-10,0.0115848318241,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+272,2,"3:15",195,195,"Josh Gantz missed Free Throw.",59,69,-10,0.0115848318241,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+273,2,"3:15",195,195,"Thomas Bruce Defensive Rebound.",59,69,-10,0.0115848318241,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+274,2,"3:02",182,182,"J.C. Show missed Three Point Jumper.",59,69,-10,0.0096153837875377,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+275,2,"3:02",182,182,"Willie Rodriguez Offensive Rebound.",59,69,-10,0.0096153837875377,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+276,2,"2:57",177,177,"Willie Rodriguez made Layup.",61,69,-8,0.027585534607478,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+277,2,"2:43",163,163,"Foul on Willie Rodriguez.",61,69,-8,0.0245338704946098,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+278,2,"2:43",163,163,"Josh Gantz made Free Throw.",61,70,-9,0.0148226293657207,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+279,2,"2:43",163,163,"Josh Gantz missed Free Throw.",61,70,-9,0.0148226293657207,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+280,2,"2:43",163,163,"Thomas Bruce Defensive Rebound.",61,70,-9,0.0148226293657207,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+281,2,"2:28",148,148,"J.C. Show missed Three Point Jumper.",61,70,-9,0.0116765088950221,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+282,2,"2:28",148,148,"Binghamton Offensive Rebound.",61,70,-9,0.0116765088950221,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+283,2,"2:16",136,136,"Tyler Stewart Turnover.",61,70,-9,0.0108205138711935,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+284,2,"2:15",135,135,"Josh Gantz Steal.",61,70,-9,0.0108205138711935,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+285,2,"2:05",125,125,"Ryan Jones missed Layup.",61,70,-9,0.00729650303482823,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+286,2,"2:05",125,125,"Thomas Bruce Defensive Rebound.",61,70,-9,0.00729650303482823,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+287,2,"1:53",113,113,"Everson Davis missed Jumper.",61,70,-9,0.00630286169244095,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+288,2,"1:53",113,113,"Thomas Bruce Offensive Rebound.",61,70,-9,0.00630286169244095,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+289,2,"1:49",109,109,"Everson Davis made Layup.",63,70,-7,0.0147233906562905,"Binghamton","UMass Lowell",4,3,0,0,3.1,400990029,2018-01-21
+290,2,"1:46",106,106,"Binghamton  Timeout",63,70,-7,0.0147233906562905,"Binghamton","UMass Lowell",4,2,0,1,3.1,400990029,2018-01-21
+291,2,"1:46",106,106,"Foul on Tyler Stewart.",63,70,-7,0.0147233906562905,"Binghamton","UMass Lowell",4,2,0,1,3.1,400990029,2018-01-21
+292,2,"1:46",106,106,"Matt Harris missed Free Throw.",63,70,-7,0.0147233906562905,"Binghamton","UMass Lowell",4,2,0,1,3.1,400990029,2018-01-21
+293,2,"1:46",106,106,"UMass Lowell Deadball Team Rebound.",63,70,-7,0.0147233906562905,"Binghamton","UMass Lowell",4,2,0,1,3.1,400990029,2018-01-21
+294,2,"1:46",106,106,"Matt Harris made Free Throw.",63,71,-8,0.00798202316669,"Binghamton","UMass Lowell",4,2,0,1,3.1,400990029,2018-01-21
+295,2,"1:39",99,99,"Foul on Obadiah Noel.",63,71,-8,0.00798131281782464,"Binghamton","UMass Lowell",4,2,0,1,3.1,400990029,2018-01-21
+296,2,"1:39",99,99,"Everson Davis missed Free Throw.",63,71,-8,0.00798131281782464,"Binghamton","UMass Lowell",4,2,0,1,3.1,400990029,2018-01-21
+297,2,"1:39",99,99,"Binghamton Deadball Team Rebound.",63,71,-8,0.00798131281782464,"Binghamton","UMass Lowell",4,2,0,1,3.1,400990029,2018-01-21
+298,2,"1:39",99,99,"Everson Davis made Free Throw.",64,71,-7,0.0148647038596258,"Binghamton","UMass Lowell",4,2,0,1,3.1,400990029,2018-01-21
+299,2,"1:38",98,98,"Foul on J.C. Show.",64,71,-7,0.0148647038596258,"Binghamton","UMass Lowell",4,2,0,1,3.1,400990029,2018-01-21
+300,2,"1:38",98,98,"Obadiah Noel made Free Throw.",64,72,-8,0.00798131281782464,"Binghamton","UMass Lowell",4,2,0,1,3.1,400990029,2018-01-21
+301,2,"1:38",98,98,"Obadiah Noel made Free Throw.",64,73,-9,0.0042715891632542,"Binghamton","UMass Lowell",4,2,0,1,3.1,400990029,2018-01-21
+302,2,"1:25",85,85,"J.C. Show made Three Point Jumper. Assisted by Everson Davis.",67,73,-6,0.0195258379974022,"Binghamton","UMass Lowell",4,2,0,1,3.1,400990029,2018-01-21
+303,2,"1:23",83,83,"Binghamton  Timeout",67,73,-6,0.0195258379974022,"Binghamton","UMass Lowell",4,1,0,1,3.1,400990029,2018-01-21
+304,2,"1:03",63,63,"Ryan Jones made Three Point Jumper.",67,76,-9,0.0012896682171945,"Binghamton","UMass Lowell",4,1,0,1,3.1,400990029,2018-01-21
+305,2,"0:45",45,45,"Foul on Matt Harris.",67,76,-9,0.000761575475546643,"Binghamton","UMass Lowell",4,1,0,1,3.1,400990029,2018-01-21
+306,2,"0:45",45,45,"J.C. Show made Free Throw.",68,76,-8,0.00172034652287559,"Binghamton","UMass Lowell",4,1,0,1,3.1,400990029,2018-01-21
+307,2,"0:45",45,45,"J.C. Show made Free Throw.",69,76,-7,0.00388145566336348,"Binghamton","UMass Lowell",4,1,0,1,3.1,400990029,2018-01-21
+308,2,"0:42",42,42,"Foul on Tyler Stewart.",69,76,-7,0.00166447646347694,"Binghamton","UMass Lowell",4,1,0,1,3.1,400990029,2018-01-21
+309,2,"0:42",42,42,"Obadiah Noel made Free Throw.",69,77,-8,0.000675243381566267,"Binghamton","UMass Lowell",4,1,0,1,3.1,400990029,2018-01-21
+310,2,"0:42",42,42,"Obadiah Noel made Free Throw.",69,78,-9,0.000273770930589618,"Binghamton","UMass Lowell",4,1,0,1,3.1,400990029,2018-01-21
+311,2,"0:38",38,38,"Foul on Matt Harris.",69,78,-9,0.000229349715572553,"Binghamton","UMass Lowell",4,1,0,1,3.1,400990029,2018-01-21
+312,2,"0:38",38,38,"Timmy Rose made Free Throw.",70,78,-8,0.000596941925931598,"Binghamton","UMass Lowell",4,1,0,1,3.1,400990029,2018-01-21
+313,2,"0:38",38,38,"Timmy Rose made Free Throw.",71,78,-7,0.00155278063428722,"Binghamton","UMass Lowell",4,1,0,1,3.1,400990029,2018-01-21
+314,2,"0:38",38,38,"Foul on Albert Odero.",71,78,-7,0.00155278063428722,"Binghamton","UMass Lowell",4,1,0,1,3.1,400990029,2018-01-21
+315,2,"0:38",38,38,"Ryan Jones missed Free Throw.",71,78,-7,0.00155278063428722,"Binghamton","UMass Lowell",4,1,0,1,3.1,400990029,2018-01-21
+316,2,"0:38",38,38,"UMass Lowell Deadball Team Rebound.",71,78,-7,0.00155278063428722,"Binghamton","UMass Lowell",4,1,0,1,3.1,400990029,2018-01-21
+317,2,"0:38",38,38,"Ryan Jones made Free Throw.",71,79,-8,0.000596941925931598,"Binghamton","UMass Lowell",4,1,0,1,3.1,400990029,2018-01-21
+318,2,"0:33",33,33,"J.C. Show missed Three Point Jumper.",71,79,-8,0.000136699647824856,"Binghamton","UMass Lowell",4,1,0,1,3.1,400990029,2018-01-21
+319,2,"0:33",33,33,"Everson Davis Offensive Rebound.",71,79,-8,0.000136699647824856,"Binghamton","UMass Lowell",4,1,0,1,3.1,400990029,2018-01-21
+320,2,"0:29",29,29,"Everson Davis missed Jumper.",71,79,-8,0.000262516463331657,"Binghamton","UMass Lowell",4,1,0,1,3.1,400990029,2018-01-21
+321,2,"0:29",29,29,"Binghamton Offensive Rebound.",71,79,-8,0.000262516463331657,"Binghamton","UMass Lowell",4,1,0,1,3.1,400990029,2018-01-21
+322,2,"0:23",23,23,"J.C. Show missed Three Point Jumper.",71,79,-8,0.000117674511728589,"Binghamton","UMass Lowell",4,1,0,1,3.1,400990029,2018-01-21
+323,2,"0:23",23,23,"Ryan Jones Block.",71,79,-8,0.000117674511728589,"Binghamton","UMass Lowell",4,1,0,1,3.1,400990029,2018-01-21
+324,2,"0:21",21,21,"Ryan Jones Defensive Rebound.",71,79,-8,2.15698819418968e-06,"Binghamton","UMass Lowell",4,1,0,0,3.1,400990029,2018-01-21
+325,2,"0:00",0,0,"End of Game",71,79,-8,6.1199889696237e-68,"Binghamton","UMass Lowell",4,1,0,0,3.1,400990029,2018-01-21

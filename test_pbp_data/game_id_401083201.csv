@@ -1,0 +1,359 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","play_length","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,18,0.859870113896359,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+2,1,"19:42",2382,2382,"Nate Fowler missed Jumper.",0,0,0,5,0.855619502380578,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+3,1,"19:37",2377,2377,"Nate Fowler Offensive Rebound.",0,0,0,1,0.852364721418916,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+4,1,"19:36",2376,2376,"Kamar Baldwin made Jumper.",2,0,2,27,0.874738028393104,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+5,1,"19:09",2349,2349,"Josh LeBlanc made Jumper. Assisted by Greg Malinowski.",2,2,0,15,0.843293870504092,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+6,1,"18:54",2334,2334,"Paul Jorgensen missed Three Point Jumper.",2,2,0,4,0.848415183921064,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+7,1,"18:50",2330,2330,"Josh LeBlanc Defensive Rebound.",2,2,0,8,0.848415183921064,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+8,1,"18:42",2322,2322,"Greg Malinowski Turnover.",2,2,0,0,0.850419696158859,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+9,1,"18:42",2322,2322,"Kamar Baldwin Steal.",2,2,0,14,0.850419696158859,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+10,1,"18:28",2308,2308,"Sean McDermott made Three Point Jumper. Assisted by Aaron Thompson.",5,2,3,21,0.873934884209774,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+11,1,"18:07",2287,2287,"Jamorko Pickett missed Three Point Jumper.",5,2,3,4,0.879264807644988,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+12,1,"18:03",2283,2283,"Sean McDermott Defensive Rebound.",5,2,3,4,0.879264807644988,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+13,1,"17:59",2279,2279,"Paul Jorgensen made Layup. Assisted by Aaron Thompson.",7,2,5,12,0.902409032192057,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+14,1,"17:47",2267,2267,"James Akinjo made Three Point Jumper. Assisted by Greg Malinowski.",7,5,2,19,0.880007198227512,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+15,1,"17:28",2248,2248,"Nate Fowler missed Jumper.",7,5,2,0,0.858017311031115,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+16,1,"17:28",2248,2248,"Josh LeBlanc Block.",7,5,2,6,0.858017311031115,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+17,1,"17:22",2242,2242,"James Akinjo Defensive Rebound.",7,5,2,2,0.858017311031115,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+18,1,"17:20",2240,2240,"Greg Malinowski made Three Point Jumper. Assisted by James Akinjo.",7,8,-1,17,0.820045677981574,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+19,1,"17:03",2223,2223,"Paul Jorgensen missed Jumper.",7,8,-1,3,0.831296932750721,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+20,1,"17:00",2220,2220,"Jessie Govan Defensive Rebound.",7,8,-1,8,0.831296932750721,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+21,1,"16:52",2212,2212,"Josh LeBlanc made Layup. Assisted by James Akinjo.",7,10,-3,25,0.7791939284921,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+22,1,"16:27",2187,2187,"Sean McDermott Turnover.",7,10,-3,0,0.791991519574325,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+23,1,"16:27",2187,2187,"Greg Malinowski Steal.",7,10,-3,6,0.791991519574325,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+24,1,"16:21",2181,2181,"James Akinjo made Three Point Jumper. Assisted by Josh LeBlanc.",7,13,-6,18,0.733290913635122,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+25,1,"16:03",2163,2163,"Nate Fowler missed Layup.",7,13,-6,0,0.724882556186469,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+26,1,"16:03",2163,2163,"Jessie Govan Block.",7,13,-6,3,0.724882556186469,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+27,1,"16:00",2160,2160,"Georgetown Defensive Rebound.",7,13,-6,16,0.724882556186469,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+28,1,"15:44",2144,2144,"Josh LeBlanc made Dunk. Assisted by Jessie Govan.",7,15,-8,16,0.70591943892888,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+29,1,"15:28",2128,2128,"Henry Baddley made Jumper.",9,15,-6,28,0.71781358238252,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+30,1,"15:00",2100,2100,"Greg Malinowski made Layup.",9,17,-8,22,0.670314304145012,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+31,1,"14:38",2078,2078,"Aaron Thompson Turnover.",9,17,-8,0,0.687143003733258,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+32,1,"14:38",2078,2078,"Official TV Timeout",9,17,-8,29,0.687143003733258,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+33,1,"14:09",2049,2049,"Jessie Govan missed Three Point Jumper.",9,17,-8,4,0.661662910024913,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+34,1,"14:05",2045,2045,"Kamar Baldwin Defensive Rebound.",9,17,-8,6,0.661662910024913,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+35,1,"13:59",2039,2039,"Joey Brunk made Layup. Assisted by Kamar Baldwin.",11,17,-6,0,0.740906350453244,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+36,1,"13:59",2039,2039,"Foul on Jessie Govan.",11,17,-6,0,0.740906350453244,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+37,1,"13:59",2039,2039,"Joey Brunk made Free Throw.",12,17,-5,11,0.761657753264137,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+38,1,"13:48",2028,2028,"Jessie Govan missed Three Point Jumper.",12,17,-5,4,0.720350844058976,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+39,1,"13:44",2024,2024,"Kamar Baldwin Defensive Rebound.",12,17,-5,15,0.720350844058976,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+40,1,"13:29",2009,2009,"Sean McDermott missed Three Point Jumper.",12,17,-5,3,0.736083987545123,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+41,1,"13:26",2006,2006,"Jamorko Pickett Defensive Rebound.",12,17,-5,7,0.736083987545123,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+42,1,"13:19",1999,1999,"Greg Malinowski made Three Point Jumper. Assisted by James Akinjo.",12,20,-8,25,0.640477654917591,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+43,1,"12:54",1974,1974,"Joey Brunk missed Jumper.",12,20,-8,6,0.653939064896101,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+44,1,"12:48",1968,1968,"Jamorko Pickett Defensive Rebound.",12,20,-8,1,0.67994693366466,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+45,1,"12:47",1967,1967,"James Akinjo Turnover.",12,20,-8,23,0.67994693366466,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+46,1,"12:24",1944,1944,"Jordan Tucker Turnover.",12,20,-8,0,0.636694031166976,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+47,1,"12:24",1944,1944,"James Akinjo Steal.",12,20,-8,11,0.636694031166976,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+48,1,"12:13",1933,1933,"Greg Malinowski made Jumper.",12,22,-10,25,0.55687617752077,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+49,1,"11:48",1908,1908,"Kamar Baldwin Turnover.",12,22,-10,0,0.603652032325072,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+50,1,"11:48",1908,1908,"Jessie Govan Steal.",12,22,-10,5,0.603652032325072,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+51,1,"11:43",1903,1903,"Greg Malinowski Turnover.",12,22,-10,0,0.603652032325072,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+52,1,"11:43",1903,1903,"Aaron Thompson Steal.",12,22,-10,7,0.603652032325072,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+53,1,"11:36",1896,1896,"Kamar Baldwin made Jumper.",14,22,-8,18,0.616948205373969,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+54,1,"11:18",1878,1878,"Jessie Govan missed Jumper.",14,22,-8,5,0.635033445571037,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+55,1,"11:13",1873,1873,"Kamar Baldwin Defensive Rebound.",14,22,-8,2,0.635033445571037,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+56,1,"11:11",1871,1871,"Kamar Baldwin missed Three Point Jumper.",14,22,-8,5,0.635033445571037,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+57,1,"11:06",1866,1866,"Jagan Mosely Defensive Rebound.",14,22,-8,7,0.615549301815621,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+58,1,"10:59",1859,1859,"Jessie Govan missed Jumper.",14,22,-8,4,0.629460308330408,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+59,1,"10:55",1855,1855,"Jordan Tucker Defensive Rebound.",14,22,-8,5,0.629460308330408,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+60,1,"10:50",1850,1850,"Jordan Tucker missed Layup.",14,22,-8,4,0.629460308330408,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+61,1,"10:46",1846,1846,"Josh LeBlanc Defensive Rebound.",14,22,-8,2,0.626804582763232,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+62,1,"10:44",1844,1844,"James Akinjo missed Jumper.",14,22,-8,5,0.626804582763232,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+63,1,"10:39",1839,1839,"Henry Baddley Defensive Rebound.",14,22,-8,3,0.623682691258656,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+64,1,"10:36",1836,1836,"Henry Baddley Turnover.",14,22,-8,0,0.623682691258656,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+65,1,"10:36",1836,1836,"Jagan Mosely Steal.",14,22,-8,0,0.623682691258656,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+66,1,"10:36",1836,1836,"Official TV Timeout",14,22,-8,10,0.623682691258656,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+67,1,"10:26",1826,1826,"James Akinjo Turnover.",14,22,-8,0,0.665985511633187,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+68,1,"10:26",1826,1826,"Henry Baddley Steal.",14,22,-8,3,0.665985511633187,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+69,1,"10:23",1823,1823,"Foul on Jagan Mosely.",14,22,-8,0,0.665985511633187,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+70,1,"10:23",1823,1823,"Henry Baddley made Free Throw.",15,22,-7,0,0.692202618481469,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+71,1,"10:23",1823,1823,"Henry Baddley made Free Throw.",16,22,-6,27,0.717235623929014,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+72,1,"9:56",1796,1796,"Grayson Carter made Layup. Assisted by Kaleb Johnson.",16,24,-8,27,0.605579295733807,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+73,1,"9:29",1769,1769,"Paul Jorgensen missed Three Point Jumper.",16,24,-8,2,0.636094527041891,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+74,1,"9:27",1767,1767,"Butler Deadball Team Rebound.",16,24,-8,0,0.636094527041891,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+75,1,"9:27",1767,1767,"Foul on Grayson Carter.",16,24,-8,7,0.636094527041891,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+76,1,"9:20",1760,1760,"Henry Baddley made Three Point Jumper. Assisted by Kamar Baldwin.",19,24,-5,23,0.720715282290307,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+77,1,"8:57",1737,1737,"Jamorko Pickett missed Jumper.",19,24,-5,5,0.697011989720655,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+78,1,"8:52",1732,1732,"Paul Jorgensen Defensive Rebound.",19,24,-5,12,0.697011989720655,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+79,1,"8:40",1720,1720,"Kamar Baldwin made Three Point Jumper. Assisted by Henry Baddley.",22,24,-2,3,0.76117371474228,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+80,1,"8:37",1717,1717,"Georgetown  Timeout",22,24,-2,22,0.787069914291353,"Butler","Georgetown",3,4,1,0,9.5,"401083201",2019-01-02
+81,1,"8:15",1695,1695,"Jahvon Blair missed Three Point Jumper.",22,24,-2,4,0.768216689639994,"Butler","Georgetown",3,4,1,0,9.5,"401083201",2019-01-02
+82,1,"8:11",1691,1691,"Kamar Baldwin Defensive Rebound.",22,24,-2,6,0.768216689639994,"Butler","Georgetown",3,4,1,0,9.5,"401083201",2019-01-02
+83,1,"8:05",1685,1685,"Henry Baddley made Jumper.",24,24,0,25,0.826393895904034,"Butler","Georgetown",3,4,1,0,9.5,"401083201",2019-01-02
+84,1,"7:40",1660,1660,"Kaleb Johnson Turnover.",24,24,0,0,0.816378828755483,"Butler","Georgetown",3,4,1,0,9.5,"401083201",2019-01-02
+85,1,"7:40",1660,1660,"Kamar Baldwin Steal.",24,24,0,6,0.816378828755483,"Butler","Georgetown",3,4,1,0,9.5,"401083201",2019-01-02
+86,1,"7:34",1654,1654,"Jordan Tucker missed Three Point Jumper.",24,24,0,4,0.812405410308477,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+87,1,"7:30",1650,1650,"Jahvon Blair Defensive Rebound.",24,24,0,2,0.812405410308477,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+88,1,"7:28",1648,1648,"Foul on Grayson Carter.",24,24,0,0,0.819098332484749,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+89,1,"7:28",1648,1648,"Grayson Carter Turnover.",24,24,0,0,0.819098332484749,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+90,1,"7:28",1648,1648,"Official TV Timeout",24,24,0,29,0.819098332484749,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+91,1,"6:59",1619,1619,"Henry Baddley made Three Point Jumper. Assisted by Aaron Thompson.",27,24,3,22,0.85716747041291,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+92,1,"6:37",1597,1597,"Jahvon Blair made Three Point Jumper.",27,27,0,21,0.810925272638473,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+93,1,"6:16",1576,1576,"Joey Brunk Turnover.",27,27,0,0,0.814375664432157,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+94,1,"6:16",1576,1576,"Josh LeBlanc Steal.",27,27,0,2,0.814375664432157,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+95,1,"6:14",1574,1574,"Josh LeBlanc made Layup.",27,29,-2,0,0.762860017615126,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+96,1,"6:14",1574,1574,"Foul on Sean McDermott.",27,29,-2,0,0.762860017615126,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+97,1,"6:14",1574,1574,"Josh LeBlanc missed Free Throw.",27,29,-2,0,0.762860017615126,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+98,1,"6:14",1574,1574,"Butler Defensive Rebound.",27,29,-2,16,0.762860017615126,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+99,1,"5:58",1558,1558,"Kamar Baldwin Turnover.",27,29,-2,0,0.749164188956667,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+100,1,"5:58",1558,1558,"Jagan Mosely Steal.",27,29,-2,1,0.749164188956667,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+101,1,"5:57",1557,1557,"Foul on Jordan Tucker.",27,29,-2,0,0.749164188956667,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+102,1,"5:57",1557,1557,"Josh LeBlanc missed Free Throw.",27,29,-2,0,0.749164188956667,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+103,1,"5:57",1557,1557,"Georgetown Deadball Team Rebound.",27,29,-2,0,0.749164188956667,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+104,1,"5:57",1557,1557,"Josh LeBlanc missed Free Throw.",27,29,-2,0,0.749164188956667,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+105,1,"5:57",1557,1557,"Jordan Tucker Defensive Rebound.",27,29,-2,17,0.749164188956667,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+106,1,"5:40",1540,1540,"Joey Brunk made Layup.",29,29,0,14,0.81541327638702,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+107,1,"5:26",1526,1526,"Jessie Govan made Jumper.",29,31,-2,14,0.756320729959842,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+108,1,"5:12",1512,1512,"Aaron Thompson missed Layup.",29,31,-2,7,0.761447416892767,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+109,1,"5:05",1505,1505,"Joey Brunk Offensive Rebound.",29,31,-2,0,0.758615014451027,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+110,1,"5:05",1505,1505,"Joey Brunk made Layup.",31,31,0,11,0.80691009960913,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+111,1,"4:54",1494,1494,"Josh LeBlanc missed Jumper.",31,31,0,4,0.815194421012583,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+112,1,"4:50",1490,1490,"Joey Brunk Defensive Rebound.",31,31,0,13,0.815194421012583,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+113,1,"4:37",1477,1477,"Henry Baddley missed Three Point Jumper.",31,31,0,5,0.822293128362261,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+114,1,"4:32",1472,1472,"Josh LeBlanc Defensive Rebound.",31,31,0,7,0.822293128362261,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+115,1,"4:25",1465,1465,"Jessie Govan made Three Point Jumper. Assisted by Jahvon Blair.",31,34,-3,10,0.714407266962274,"Butler","Georgetown",3,4,0,0,9.5,"401083201",2019-01-02
+116,1,"4:15",1455,1455,"Butler  Timeout",31,34,-3,0,0.720222835320976,"Butler","Georgetown",3,3,0,1,9.5,"401083201",2019-01-02
+117,1,"4:15",1455,1455,"Official TV Timeout",31,34,-3,25,0.720222835320976,"Butler","Georgetown",3,3,0,1,9.5,"401083201",2019-01-02
+118,1,"3:50",1430,1430,"Jordan Tucker missed Three Point Jumper.",31,34,-3,5,0.717894578348361,"Butler","Georgetown",3,3,0,1,9.5,"401083201",2019-01-02
+119,1,"3:45",1425,1425,"Nate Fowler Offensive Rebound.",31,34,-3,2,0.707794049511124,"Butler","Georgetown",3,3,0,1,9.5,"401083201",2019-01-02
+120,1,"3:43",1423,1423,"Nate Fowler made Layup.",33,34,-1,6,0.763899770478566,"Butler","Georgetown",3,3,0,1,9.5,"401083201",2019-01-02
+121,1,"3:37",1417,1417,"Josh LeBlanc Turnover.",33,34,-1,0,0.760894372935328,"Butler","Georgetown",3,3,0,1,9.5,"401083201",2019-01-02
+122,1,"3:37",1417,1417,"Sean McDermott Steal.",33,34,-1,6,0.760894372935328,"Butler","Georgetown",3,3,0,1,9.5,"401083201",2019-01-02
+123,1,"3:31",1411,1411,"Aaron Thompson Turnover.",33,34,-1,16,0.760894372935328,"Butler","Georgetown",3,3,0,1,9.5,"401083201",2019-01-02
+124,1,"3:15",1395,1395,"James Akinjo missed Three Point Jumper.",33,34,-1,4,0.784936755152758,"Butler","Georgetown",3,3,0,1,9.5,"401083201",2019-01-02
+125,1,"3:11",1391,1391,"Jordan Tucker Defensive Rebound.",33,34,-1,10,0.784936755152758,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+126,1,"3:01",1381,1381,"Aaron Thompson Turnover.",33,34,-1,23,0.782320287451131,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+127,1,"2:38",1358,1358,"Foul on Jamorko Pickett.",33,34,-1,0,0.779951421741832,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+128,1,"2:38",1358,1358,"Jamorko Pickett Turnover.",33,34,-1,11,0.779951421741832,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+129,1,"2:27",1347,1347,"Sean McDermott made Three Point Jumper. Assisted by Kamar Baldwin.",36,34,2,22,0.83263159890872,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+130,1,"2:05",1325,1325,"Jamorko Pickett missed Jumper.",36,34,2,3,0.841961879463787,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+131,1,"2:02",1322,1322,"Kamar Baldwin Defensive Rebound.",36,34,2,18,0.841961879463787,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+132,1,"1:44",1304,1304,"Kamar Baldwin made Layup.",38,34,4,18,0.867488057426842,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+133,1,"1:26",1286,1286,"Jessie Govan made Three Point Jumper. Assisted by Jamorko Pickett.",38,37,1,14,0.824753483136489,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+134,1,"1:12",1272,1272,"Paul Jorgensen Turnover.",38,37,1,9,0.808766617370954,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+135,1,"1:03",1263,1263,"Greg Malinowski made Layup.",38,39,-1,0,0.781480580215536,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+136,1,"1:03",1263,1263,"Foul on Kamar Baldwin.",38,39,-1,0,0.781480580215536,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+137,1,"1:03",1263,1263,"Greg Malinowski missed Free Throw.",38,39,-1,4,0.781480580215536,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+138,1,"0:59",1259,1259,"Jordan Tucker Defensive Rebound.",38,39,-1,13,0.750986779689731,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+139,1,"0:46",1246,1246,"Kamar Baldwin missed Layup.",38,39,-1,0,0.769155554787629,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+140,1,"0:46",1246,1246,"Jessie Govan Block.",38,39,-1,5,0.769155554787629,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+141,1,"0:41",1241,1241,"James Akinjo Defensive Rebound.",38,39,-1,0,0.769155554787629,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+142,1,"0:41",1241,1241,"James Akinjo Turnover.",38,39,-1,0,0.769155554787629,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+143,1,"0:41",1241,1241,"Sean McDermott Steal.",38,39,-1,8,0.769155554787629,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+144,1,"0:33",1233,1233,"Kamar Baldwin missed Jumper.",38,39,-1,3,0.749565281441454,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+145,1,"0:30",1230,1230,"Jahvon Blair Defensive Rebound.",38,39,-1,24,0.749565281441454,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+146,1,"0:06",1206,1206,"Foul on Jordan Tucker.",38,39,-1,0,0.761052761828873,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+147,1,"0:06",1206,1206,"Jessie Govan made Free Throw.",38,40,-2,0,0.730903099317483,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+148,1,"0:06",1206,1206,"Jessie Govan missed Free Throw.",38,40,-2,2,0.730903099317483,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+149,1,"0:04",1204,1204,"Jessie Govan Offensive Rebound.",38,40,-2,2,0.730903099317483,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+150,1,"0:02",1202,1202,"Jessie Govan Turnover.",38,40,-2,0,0.730903099317483,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+151,1,"0:02",1202,1202,"Paul Jorgensen Steal.",38,40,-2,2,0.730903099317483,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+152,1,"0:00",1200,1200,"End of 1st half",38,40,-2,0,0.730903099317483,"Butler","Georgetown",3,3,0,0,9.5,"401083201",2019-01-02
+153,2,"20:00",1200,1200,"PLAY",38,40,-2,15,0.730903099317483,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+154,2,"19:45",1185,1185,"Henry Baddley missed Jumper.",38,40,-2,0,0.729560222596739,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+155,2,"19:45",1185,1185,"Jamorko Pickett Block.",38,40,-2,6,0.729560222596739,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+156,2,"19:39",1179,1179,"Jamorko Pickett Defensive Rebound.",38,40,-2,2,0.715239114854603,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+157,2,"19:37",1177,1177,"Josh LeBlanc made Layup. Assisted by Greg Malinowski.",38,42,-4,34,0.643789131328153,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+158,2,"19:03",1143,1143,"Aaron Thompson missed Jumper.",38,42,-4,5,0.629722082195089,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+159,2,"18:58",1138,1138,"Jamorko Pickett Defensive Rebound.",38,42,-4,5,0.66518009170306,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+160,2,"18:53",1133,1133,"Foul on Aaron Thompson.",38,42,-4,0,0.66518009170306,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+161,2,"18:53",1133,1133,"James Akinjo made Free Throw.",38,43,-5,0,0.628007024804483,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+162,2,"18:53",1133,1133,"James Akinjo made Free Throw.",38,44,-6,15,0.589255315306472,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+163,2,"18:38",1118,1118,"Kamar Baldwin missed Jumper.",38,44,-6,3,0.548710432942827,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+164,2,"18:35",1115,1115,"Joey Brunk Offensive Rebound.",38,44,-6,0,0.548710432942827,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+165,2,"18:35",1115,1115,"Joey Brunk missed Layup.",38,44,-6,0,0.548710432942827,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+166,2,"18:35",1115,1115,"Jessie Govan Block.",38,44,-6,0,0.548710432942827,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+167,2,"18:35",1115,1115,"Butler Offensive Rebound.",38,44,-6,10,0.548710432942827,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+168,2,"18:25",1105,1105,"Kamar Baldwin missed Jumper.",38,44,-6,4,0.58240235248138,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+169,2,"18:21",1101,1101,"Joey Brunk Offensive Rebound.",38,44,-6,2,0.58240235248138,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+170,2,"18:19",1099,1099,"Joey Brunk Turnover.",38,44,-6,2,0.574340831282799,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+171,2,"18:17",1097,1097,"Foul on Henry Baddley.",38,44,-6,0,0.574340831282799,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+172,2,"18:17",1097,1097,"Jessie Govan made Free Throw.",38,45,-7,0,0.531987668890469,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+173,2,"18:17",1097,1097,"Jessie Govan missed Free Throw.",38,45,-7,4,0.531987668890469,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+174,2,"18:13",1093,1093,"Sean McDermott Defensive Rebound.",38,45,-7,6,0.531987668890469,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+175,2,"18:07",1087,1087,"Sean McDermott Turnover.",38,45,-7,3,0.519499025622137,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+176,2,"18:04",1084,1084,"Foul on Kamar Baldwin.",38,45,-7,0,0.519499025622137,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+177,2,"18:04",1084,1084,"Josh LeBlanc made Free Throw.",38,46,-8,0,0.475266981096404,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+178,2,"18:04",1084,1084,"Josh LeBlanc missed Free Throw.",38,46,-8,0,0.475266981096404,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+179,2,"18:04",1084,1084,"Joey Brunk Defensive Rebound.",38,46,-8,15,0.475266981096404,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+180,2,"17:49",1069,1069,"Henry Baddley missed Jumper.",38,46,-8,4,0.467283473674576,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+181,2,"17:45",1065,1065,"Greg Malinowski Defensive Rebound.",38,46,-8,4,0.467283473674576,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+182,2,"17:41",1061,1061,"Jessie Govan missed Three Point Jumper.",38,46,-8,4,0.467283473674576,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+183,2,"17:37",1057,1057,"Kamar Baldwin Defensive Rebound.",38,46,-8,12,0.45822001890641,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+184,2,"17:25",1045,1045,"Kamar Baldwin missed Three Point Jumper.",38,46,-8,2,0.47912266947746,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+185,2,"17:23",1043,1043,"Georgetown Defensive Rebound.",38,46,-8,12,0.47912266947746,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+186,2,"17:11",1031,1031,"Jamorko Pickett missed Three Point Jumper.",38,46,-8,3,0.467256446085181,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+187,2,"17:08",1028,1028,"Jordan Tucker Defensive Rebound.",38,46,-8,17,0.456199087652376,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+188,2,"16:51",1011,1011,"Foul on Jamorko Pickett.",38,46,-8,11,0.410920730118785,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+189,2,"16:40",1000,1000,"Kamar Baldwin made Jumper.",40,46,-6,21,0.504360334207986,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+190,2,"16:19",979,979,"Jessie Govan made Jumper. Assisted by Jamorko Pickett.",40,48,-8,11,0.457046222161032,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+191,2,"16:08",968,968,"Paul Jorgensen missed Three Point Jumper.",40,48,-8,4,0.408100309336967,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+192,2,"16:04",964,964,"Greg Malinowski Defensive Rebound.",40,48,-8,3,0.408100309336967,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+193,2,"16:01",961,961,"James Akinjo missed Layup.",40,48,-8,0,0.408100309336967,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+194,2,"16:01",961,961,"Kamar Baldwin Block.",40,48,-8,7,0.408100309336967,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+195,2,"15:54",954,954,"Jordan Tucker Defensive Rebound.",40,48,-8,0,0.427409155554756,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+196,2,"15:54",954,954,"Foul on Jamorko Pickett.",40,48,-8,0,0.427409155554756,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+197,2,"15:54",954,954,"Official TV Timeout",40,48,-8,0,0.427409155554756,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+198,2,"15:54",954,954,"Paul Jorgensen made Free Throw.",41,48,-7,0,0.474722014168449,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+199,2,"15:54",954,954,"Paul Jorgensen missed Free Throw.",41,48,-7,3,0.474722014168449,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+200,2,"15:51",951,951,"Kaleb Johnson Defensive Rebound.",41,48,-7,9,0.474722014168449,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+201,2,"15:42",942,942,"Greg Malinowski made Three Point Jumper. Assisted by Jessie Govan.",41,51,-10,29,0.348417916254713,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+202,2,"15:13",913,913,"Jordan Tucker missed Three Point Jumper.",41,51,-10,3,0.330857570682723,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+203,2,"15:10",910,910,"Butler Offensive Rebound.",41,51,-10,1,0.330857570682723,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+204,2,"15:09",909,909,"Jordan Tucker missed Jumper.",41,51,-10,4,0.315514746007469,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+205,2,"15:05",905,905,"Nate Fowler Offensive Rebound.",41,51,-10,2,0.315514746007469,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+206,2,"15:03",903,903,"Jordan Tucker made Three Point Jumper. Assisted by Nate Fowler.",44,51,-7,21,0.450042403155763,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+207,2,"14:42",882,882,"Kaleb Johnson missed Jumper.",44,51,-7,3,0.47505043255581,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+208,2,"14:39",879,879,"Paul Jorgensen Defensive Rebound.",44,51,-7,10,0.458865145629413,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+209,2,"14:29",869,869,"Paul Jorgensen missed Jumper.",44,51,-7,5,0.448909272507759,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+210,2,"14:24",864,864,"Nate Fowler Offensive Rebound.",44,51,-7,6,0.448909272507759,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+211,2,"14:18",858,858,"Jordan Tucker missed Layup.",44,51,-7,3,0.438126456558965,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+212,2,"14:15",855,855,"James Akinjo Defensive Rebound.",44,51,-7,12,0.438126456558965,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+213,2,"14:03",843,843,"James Akinjo missed Layup.",44,51,-7,5,0.405522254534406,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+214,2,"13:58",838,838,"Jordan Tucker Defensive Rebound.",44,51,-7,3,0.452747998086865,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+215,2,"13:55",835,835,"Jordan Tucker Turnover.",44,51,-7,0,0.452747998086865,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+216,2,"13:55",835,835,"Josh LeBlanc Steal.",44,51,-7,7,0.452747998086865,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+217,2,"13:48",828,828,"Greg Malinowski made Three Point Jumper. Assisted by Josh LeBlanc.",44,54,-10,16,0.331524548339638,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+218,2,"13:32",812,812,"Aaron Thompson made Layup. Assisted by Jordan Tucker.",46,54,-8,15,0.399260854252529,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+219,2,"13:17",797,797,"Greg Malinowski missed Three Point Jumper.",46,54,-8,4,0.343489944316057,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+220,2,"13:13",793,793,"Paul Jorgensen Defensive Rebound.",46,54,-8,6,0.343489944316057,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+221,2,"13:07",787,787,"Jordan Tucker missed Three Point Jumper.",46,54,-8,2,0.37150236567084,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+222,2,"13:05",785,785,"Nate Fowler Offensive Rebound.",46,54,-8,0,0.37150236567084,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+223,2,"13:05",785,785,"Foul on Kaleb Johnson.",46,54,-8,7,0.37150236567084,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+224,2,"12:58",778,778,"Joey Brunk made Jumper.",48,54,-6,14,0.467536386248601,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+225,2,"12:44",764,764,"Jahvon Blair made Three Point Jumper.",48,57,-9,26,0.333032661033888,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+226,2,"12:18",738,738,"Jordan Tucker made Three Point Jumper. Assisted by Sean McDermott.",51,57,-6,31,0.440649568320428,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+227,2,"11:47",707,707,"James Akinjo Turnover.",51,57,-6,0,0.443231909356721,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+228,2,"11:47",707,707,"Official TV Timeout",51,57,-6,29,0.443231909356721,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+229,2,"11:18",678,678,"Joey Brunk missed Jumper.",51,57,-6,6,0.417801935556949,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+230,2,"11:12",672,672,"Greg Malinowski Defensive Rebound.",51,57,-6,1,0.417801935556949,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+231,2,"11:11",671,671,"Jagan Mosely Turnover.",51,57,-6,14,0.417801935556949,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+232,2,"10:57",657,657,"Kamar Baldwin made Layup.",53,57,-4,27,0.529565533275118,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+233,2,"10:30",630,630,"Jessie Govan missed Jumper.",53,57,-4,4,0.492795487123052,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+234,2,"10:26",626,626,"Jessie Govan Offensive Rebound.",53,57,-4,5,0.53082988852876,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+235,2,"10:21",621,621,"Greg Malinowski missed Layup.",53,57,-4,0,0.53082988852876,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+236,2,"10:21",621,621,"Georgetown Offensive Rebound.",53,57,-4,12,0.53082988852876,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+237,2,"10:09",609,609,"Foul on Sean McDermott.",53,57,-4,0,0.522491480699455,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+238,2,"10:09",609,609,"Josh LeBlanc missed Free Throw.",53,57,-4,0,0.522491480699455,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+239,2,"10:09",609,609,"Georgetown Deadball Team Rebound.",53,57,-4,0,0.522491480699455,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+240,2,"10:09",609,609,"Josh LeBlanc missed Free Throw.",53,57,-4,2,0.522491480699455,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+241,2,"10:07",607,607,"Sean McDermott Defensive Rebound.",53,57,-4,17,0.522491480699455,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+242,2,"9:50",590,590,"Foul on Kamar Baldwin.",53,57,-4,0,0.51119947166594,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+243,2,"9:50",590,590,"Kamar Baldwin Turnover.",53,57,-4,12,0.51119947166594,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+244,2,"9:38",578,578,"Greg Malinowski made Three Point Jumper. Assisted by Jahvon Blair.",53,60,-7,30,0.337696582112495,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+245,2,"9:08",548,548,"Kamar Baldwin missed Three Point Jumper.",53,60,-7,4,0.273170555028398,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+246,2,"9:04",544,544,"Jordan Tucker Offensive Rebound.",53,60,-7,2,0.273170555028398,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+247,2,"9:02",542,542,"Jordan Tucker missed Layup.",53,60,-7,0,0.273170555028398,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+248,2,"9:02",542,542,"Josh LeBlanc Block.",53,60,-7,4,0.273170555028398,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+249,2,"8:58",538,538,"Jahvon Blair Defensive Rebound.",53,60,-7,3,0.293429878141421,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+250,2,"8:55",535,535,"Greg Malinowski made Jumper.",53,62,-9,3,0.191311838978878,"Butler","Georgetown",4,4,0,0,9.5,"401083201",2019-01-02
+251,2,"8:52",532,532,"Butler  Timeout",53,62,-9,14,0.191311838978878,"Butler","Georgetown",4,3,0,1,9.5,"401083201",2019-01-02
+252,2,"8:38",518,518,"Sean McDermott missed Three Point Jumper.",53,62,-9,4,0.174035660086377,"Butler","Georgetown",4,3,0,1,9.5,"401083201",2019-01-02
+253,2,"8:34",514,514,"Jahvon Blair Defensive Rebound.",53,62,-9,4,0.174035660086377,"Butler","Georgetown",4,3,0,1,9.5,"401083201",2019-01-02
+254,2,"8:30",510,510,"Foul on Joey Brunk.",53,62,-9,0,0.174035660086377,"Butler","Georgetown",4,3,0,1,9.5,"401083201",2019-01-02
+255,2,"8:30",510,510,"Jagan Mosely made Free Throw.",53,63,-10,0,0.138496656732783,"Butler","Georgetown",4,3,0,1,9.5,"401083201",2019-01-02
+256,2,"8:30",510,510,"Jagan Mosely missed Free Throw.",53,63,-10,2,0.138496656732783,"Butler","Georgetown",4,3,0,1,9.5,"401083201",2019-01-02
+257,2,"8:28",508,508,"Sean McDermott Defensive Rebound.",53,63,-10,13,0.154245005520098,"Butler","Georgetown",4,3,0,1,9.5,"401083201",2019-01-02
+258,2,"8:15",495,495,"Kamar Baldwin missed Jumper.",53,63,-10,4,0.149352517517714,"Butler","Georgetown",4,3,0,1,9.5,"401083201",2019-01-02
+259,2,"8:11",491,491,"Kaleb Johnson Defensive Rebound.",53,63,-10,9,0.149352517517714,"Butler","Georgetown",4,3,0,1,9.5,"401083201",2019-01-02
+260,2,"8:02",482,482,"Jessie Govan made Jumper.",53,65,-12,33,0.0881317230983999,"Butler","Georgetown",4,3,0,1,9.5,"401083201",2019-01-02
+261,2,"7:29",449,449,"Aaron Thompson made Jumper.",55,65,-10,16,0.125331298073866,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+262,2,"7:13",433,433,"Jahvon Blair Turnover.",55,65,-10,0,0.1104795841689,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+263,2,"7:13",433,433,"Henry Baddley Steal.",55,65,-10,7,0.1104795841689,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+264,2,"7:06",426,426,"Aaron Thompson made Layup.",57,65,-8,9,0.174055307018152,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+265,2,"6:57",417,417,"Foul on Aaron Thompson.",57,65,-8,0,0.183451009308256,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+266,2,"6:57",417,417,"Official TV Timeout",57,65,-8,0,0.183451009308256,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+267,2,"6:57",417,417,"Jagan Mosely made Free Throw.",57,66,-9,0,0.142524441216594,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+268,2,"6:57",417,417,"Jagan Mosely made Free Throw.",57,67,-10,21,0.109503848323991,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+269,2,"6:36",396,396,"Kamar Baldwin missed Layup.",57,67,-10,0,0.0984576386484443,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+270,2,"6:36",396,396,"Josh LeBlanc Block.",57,67,-10,8,0.0984576386484443,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+271,2,"6:28",388,388,"Jahvon Blair Defensive Rebound.",57,67,-10,3,0.11786058246146,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+272,2,"6:25",385,385,"Jagan Mosely made Layup.",57,69,-12,15,0.0686421440001739,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+273,2,"6:10",370,370,"Joey Brunk made Layup.",59,69,-10,24,0.0955474287870142,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+274,2,"5:46",346,346,"Jagan Mosely missed Three Point Jumper.",59,69,-10,4,0.0680500492310801,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+275,2,"5:42",342,342,"Joey Brunk Defensive Rebound.",59,69,-10,2,0.0680500492310801,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+276,2,"5:40",340,340,"Foul on Jagan Mosely.",59,69,-10,2,0.0680500492310801,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+277,2,"5:38",338,338,"Sean McDermott missed Three Point Jumper.",59,69,-10,3,0.064342444265647,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+278,2,"5:35",335,335,"Greg Malinowski Defensive Rebound.",59,69,-10,5,0.064342444265647,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+279,2,"5:30",330,330,"Kaleb Johnson made Layup. Assisted by Greg Malinowski.",59,71,-12,15,0.032735069184866,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+280,2,"5:15",315,315,"Paul Jorgensen made Three Point Jumper. Assisted by Kamar Baldwin.",62,71,-9,28,0.0741105278552036,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+281,2,"4:47",287,287,"Greg Malinowski made Three Point Jumper.",62,74,-12,17,0.0308463465737978,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+282,2,"4:30",270,270,"Foul on James Akinjo.",62,74,-12,5,0.0197343394859486,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+283,2,"4:25",265,265,"Foul on Kaleb Johnson.",62,74,-12,7,0.0244979349555248,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+284,2,"4:18",258,258,"Kamar Baldwin Turnover.",62,74,-12,3,0.0131294316562657,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+285,2,"4:15",255,255,"Foul on Nate Fowler.",62,74,-12,0,0.0131294316562657,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+286,2,"4:15",255,255,"Kaleb Johnson made Free Throw.",62,75,-13,0,0.00865389115806841,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+287,2,"4:15",255,255,"Kaleb Johnson made Free Throw.",62,76,-14,15,0.00569516181033849,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+288,2,"4:00",240,240,"Jordan Tucker missed Three Point Jumper.",62,76,-14,5,0.00704891235667122,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+289,2,"3:55",235,235,"Greg Malinowski Defensive Rebound.",62,76,-14,8,0.00690473548785064,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+290,2,"3:47",227,227,"James Akinjo missed Jumper.",62,76,-14,3,0.00653013304001016,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+291,2,"3:44",224,224,"Georgetown Offensive Rebound.",62,76,-14,0,0.00653013304001016,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+292,2,"3:44",224,224,"Official TV Timeout",62,76,-14,16,0.00653013304001016,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+293,2,"3:28",208,208,"Jamorko Pickett missed Three Point Jumper.",62,76,-14,3,0.00426084411007972,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+294,2,"3:25",205,205,"Greg Malinowski Offensive Rebound.",62,76,-14,20,0.00426084411007972,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+295,2,"3:05",185,185,"Jessie Govan missed Jumper.",62,76,-14,4,0.00204052539274038,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+296,2,"3:01",181,181,"Kamar Baldwin Defensive Rebound.",62,76,-14,0,0.00204052539274038,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+297,2,"3:01",181,181,"Foul on James Akinjo.",62,76,-14,0,0.00204052539274038,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+298,2,"3:01",181,181,"Kamar Baldwin missed Free Throw.",62,76,-14,2,0.00204052539274038,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+299,2,"2:59",179,179,"Jessie Govan Defensive Rebound.",62,76,-14,13,0.00211022249675782,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+300,2,"2:46",166,166,"Foul on Aaron Thompson.",62,76,-14,0,0.00191607202851072,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+301,2,"2:46",166,166,"James Akinjo made Free Throw.",62,77,-15,0,0.0011471052009367,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+302,2,"2:46",166,166,"James Akinjo made Free Throw.",62,78,-16,4,0.000686531398739388,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+303,2,"2:42",162,162,"Foul on Jamorko Pickett.",62,78,-16,0,0.000686531398739388,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+304,2,"2:42",162,162,"Nate Fowler made Free Throw.",63,78,-15,0,0.0011471052009367,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+305,2,"2:42",162,162,"Nate Fowler made Free Throw.",64,78,-14,10,0.00191607202851072,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+306,2,"2:32",152,152,"Foul on Nate Fowler.",64,78,-14,0,0.000973157992627595,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+307,2,"2:32",152,152,"Josh LeBlanc missed Free Throw.",64,78,-14,0,0.000973157992627595,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+308,2,"2:32",152,152,"Georgetown Deadball Team Rebound.",64,78,-14,0,0.000973157992627595,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+309,2,"2:32",152,152,"Josh LeBlanc made Free Throw.",64,79,-15,10,0.000567058129732777,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+310,2,"2:22",142,142,"Aaron Thompson made Layup.",66,79,-13,0,0.00242869578858308,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+311,2,"2:22",142,142,"Foul on Greg Malinowski.",66,79,-13,1,0.00242869578858308,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+312,2,"2:21",141,141,"Aaron Thompson missed Free Throw.",66,79,-13,0,0.00242869578858308,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+313,2,"2:21",141,141,"Greg Malinowski Defensive Rebound.",66,79,-13,17,0.00242869578858308,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+314,2,"2:04",124,124,"James Akinjo missed Layup.",66,79,-13,0,0.00109308419978399,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+315,2,"2:04",124,124,"Nate Fowler Block.",66,79,-13,5,0.00109308419978399,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+316,2,"1:59",119,119,"Aaron Thompson Defensive Rebound.",66,79,-13,5,0.000786113480642613,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+317,2,"1:54",114,114,"Henry Baddley made Layup. Assisted by Aaron Thompson.",68,79,-11,1,0.00260959114516807,"Butler","Georgetown",4,3,0,0,9.5,"401083201",2019-01-02
+318,2,"1:53",113,113,"Butler  Timeout",68,79,-11,1,0.00260959114516807,"Butler","Georgetown",4,2,0,1,9.5,"401083201",2019-01-02
+319,2,"1:52",112,112,"Georgetown  Timeout",68,79,-11,8,0.00260959114516807,"Butler","Georgetown",3,2,1,1,9.5,"401083201",2019-01-02
+320,2,"1:44",104,104,"James Akinjo Turnover.",68,79,-11,0,0.00179674332889404,"Butler","Georgetown",3,2,1,1,9.5,"401083201",2019-01-02
+321,2,"1:44",104,104,"Henry Baddley Steal.",68,79,-11,7,0.00179674332889404,"Butler","Georgetown",3,2,1,1,9.5,"401083201",2019-01-02
+322,2,"1:37",97,97,"Sean McDermott made Three Point Jumper. Assisted by Aaron Thompson.",71,79,-8,8,0.0102133607185485,"Butler","Georgetown",3,2,1,1,9.5,"401083201",2019-01-02
+323,2,"1:29",89,89,"Foul on Kamar Baldwin.",71,79,-8,0,0.00650183567545712,"Butler","Georgetown",3,2,1,1,9.5,"401083201",2019-01-02
+324,2,"1:29",89,89,"James Akinjo missed Free Throw.",71,79,-8,0,0.00650183567545712,"Butler","Georgetown",3,2,1,1,9.5,"401083201",2019-01-02
+325,2,"1:29",89,89,"Georgetown Deadball Team Rebound.",71,79,-8,0,0.00650183567545712,"Butler","Georgetown",3,2,1,1,9.5,"401083201",2019-01-02
+326,2,"1:29",89,89,"James Akinjo missed Free Throw.",71,79,-8,0,0.00650183567545712,"Butler","Georgetown",3,2,1,1,9.5,"401083201",2019-01-02
+327,2,"1:29",89,89,"Henry Baddley Defensive Rebound.",71,79,-8,7,0.00650183567545712,"Butler","Georgetown",3,2,1,1,9.5,"401083201",2019-01-02
+328,2,"1:22",82,82,"Kamar Baldwin made Layup.",73,79,-6,34,0.0266951338641075,"Butler","Georgetown",3,2,1,1,9.5,"401083201",2019-01-02
+329,2,"0:48",48,48,"James Akinjo Turnover.",73,79,-6,5,0.00517732206580355,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+330,2,"0:43",43,43,"Kamar Baldwin missed Jumper.",73,79,-6,3,0.00418050522643078,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+331,2,"0:40",40,40,"Jessie Govan Defensive Rebound.",73,79,-6,1,0.00218791013924857,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+332,2,"0:39",39,39,"Foul on Henry Baddley.",73,79,-6,0,0.00448825126646377,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+333,2,"0:39",39,39,"Jessie Govan made Free Throw.",73,80,-7,0,0.00172856545901871,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+334,2,"0:39",39,39,"Jessie Govan made Free Throw.",73,81,-8,7,0.000664591643570271,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+335,2,"0:32",32,32,"Aaron Thompson missed Layup.",73,81,-8,2,0.000166899612536095,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+336,2,"0:30",30,30,"Jessie Govan Defensive Rebound.",73,81,-8,0,0.000444654162526853,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+337,2,"0:30",30,30,"Foul on Henry Baddley.",73,81,-8,0,0.000444654162526853,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+338,2,"0:30",30,30,"Jessie Govan missed Free Throw.",73,81,-8,0,0.000444654162526853,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+339,2,"0:30",30,30,"Georgetown Deadball Team Rebound.",73,81,-8,0,0.000444654162526853,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+340,2,"0:30",30,30,"Jessie Govan made Free Throw.",73,82,-9,3,0.000170059163381421,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+341,2,"0:27",27,27,"Foul on James Akinjo.",73,82,-9,0,5.66874462206437e-05,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+342,2,"0:27",27,27,"Aaron Thompson missed Free Throw.",73,82,-9,0,5.66874462206437e-05,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+343,2,"0:27",27,27,"Butler Deadball Team Rebound.",73,82,-9,0,5.66874462206437e-05,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+344,2,"0:27",27,27,"Aaron Thompson made Free Throw.",74,82,-8,5,0.00018628542297299,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+345,2,"0:22",22,22,"Foul on Henry Baddley.",74,82,-8,0,5.10896077857604e-05,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+346,2,"0:22",22,22,"James Akinjo made Free Throw.",74,83,-9,0,1.38329052428282e-05,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+347,2,"0:22",22,22,"James Akinjo made Free Throw.",74,84,-10,6,3.74526399450233e-06,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+348,2,"0:16",16,16,"Sean McDermott missed Three Point Jumper.",74,84,-10,4,7.46644488929104e-08,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+349,2,"0:12",12,12,"Kamar Baldwin Offensive Rebound.",74,84,-10,3,5.71579269443937e-06,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+350,2,"0:09",9,9,"Kamar Baldwin missed Layup.",74,84,-10,4,1.54671299302227e-07,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+351,2,"0:05",5,5,"Nate Fowler Offensive Rebound.",74,84,-10,2,1.54671299302227e-07,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+352,2,"0:03",3,3,"Nate Fowler missed Layup.",74,84,-10,2,5.4433157656921e-08,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+353,2,"0:01",1,1,"Nate Fowler Offensive Rebound.",74,84,-10,1,5.4433157656921e-08,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+354,2,"0:00",0,0,"Nate Fowler missed Layup.",74,84,-10,0,9.25239117296483e-85,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+355,2,"0:00",0,0,"Kamar Baldwin Offensive Rebound.",74,84,-10,0,9.25239117296483e-85,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+356,2,"0:00",0,0,"Kamar Baldwin made Layup.",76,84,-8,0,6.05590150574976e-68,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+357,2,"0:00",0,0,"End of 2nd half",73,84,-11,0,3.61652587652897e-93,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02
+358,2,"0:00",0,0,"End of Game",76,84,-8,0,6.05590150574976e-68,"Butler","Georgetown",3,2,0,0,9.5,"401083201",2019-01-02

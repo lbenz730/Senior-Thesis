@@ -1,0 +1,332 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","play_length","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,16,0.902175955662521,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+2,1,"19:44",2384,2384,"Foul on Marlain Veal.",0,0,0,0,0.898192507063441,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+3,1,"19:44",2384,2384,"Darrell Brown made Free Throw.",1,0,1,0,0.901116056523443,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+4,1,"19:44",2384,2384,"Darrell Brown missed Free Throw.",1,0,1,0,0.901116056523443,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+5,1,"19:44",2384,2384,"Keith Charleston Defensive Rebound.",1,0,1,26,0.901116056523443,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+6,1,"19:18",2358,2358,"Brandon Gonzalez made Three Point Jumper. Assisted by Marlain Veal.",1,3,-2,20,0.880530460419163,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+7,1,"18:58",2338,2338,"Dwayne Lautier-Ogunleye made Three Point Jumper. Assisted by Koch Bar.",4,3,1,22,0.899906588390291,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+8,1,"18:36",2316,2316,"Keith Charleston missed Jumper.",4,3,1,0,0.889420840299108,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+9,1,"18:36",2316,2316,"Marlain Veal Offensive Rebound.",4,3,1,17,0.889420840299108,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+10,1,"18:19",2299,2299,"Marlain Veal missed Three Point Jumper.",4,3,1,0,0.899607013840153,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+11,1,"18:19",2299,2299,"Bradley Defensive Rebound.",4,3,1,19,0.899607013840153,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+12,1,"18:00",2280,2280,"Jayden Hodgson Turnover.",4,3,1,0,0.895766395762167,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+13,1,"18:00",2280,2280,"Foul on Jayden Hodgson.",4,3,1,18,0.895766395762167,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+14,1,"17:42",2262,2262,"Moses Greenwood Turnover.",4,3,1,15,0.904814104185714,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+15,1,"17:27",2247,2247,"Koch Bar Turnover.",4,3,1,0,0.885788055261337,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+16,1,"17:27",2247,2247,"Foul on Koch Bar.",4,3,1,24,0.885788055261337,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+17,1,"17:03",2223,2223,"Brandon Gonzalez made Three Point Jumper. Assisted by Keith Charleston.",4,6,-2,13,0.86589126329265,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+18,1,"16:50",2210,2210,"Darrell Brown made Three Point Jumper.",7,6,1,10,0.894631486177955,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+19,1,"16:40",2200,2200,"Marlain Veal missed Layup.",7,6,1,0,0.89494879386261,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+20,1,"16:40",2200,2200,"Darrell Brown Block.",7,6,1,3,0.89494879386261,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+21,1,"16:37",2197,2197,"Koch Bar Defensive Rebound.",7,6,1,5,0.901905403271217,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+22,1,"16:32",2192,2192,"Foul on Keith Charleston.",7,6,1,10,0.901905403271217,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+23,1,"16:22",2182,2182,"Darrell Brown missed Jumper.",7,6,1,0,0.894400136899365,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+24,1,"16:22",2182,2182,"SE Louisiana Defensive Rebound.",7,6,1,1,0.894400136899365,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+25,1,"16:21",2181,2181,"Foul on Ari Boya.",7,6,1,17,0.894400136899365,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+26,1,"16:04",2164,2164,"Keith Charleston Turnover.",7,6,1,0,0.891252435948785,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+27,1,"16:04",2164,2164,"Foul on Keith Charleston.",7,6,1,11,0.891252435948785,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+28,1,"15:53",2153,2153,"Foul on Keith Charleston.",7,6,1,0,0.891901015452098,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+29,1,"15:53",2153,2153,"Official TV Timeout",7,6,1,12,0.891901015452098,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+30,1,"15:41",2141,2141,"Nate Kennell missed Jumper.",7,6,1,0,0.895993364890699,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+31,1,"15:41",2141,2141,"Marlain Veal Block.",7,6,1,3,0.895993364890699,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+32,1,"15:38",2138,2138,"Bradley Offensive Rebound.",7,6,1,7,0.894358668999447,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+33,1,"15:31",2131,2131,"Darrell Brown missed Three Point Jumper.",7,6,1,0,0.894358668999447,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+34,1,"15:31",2131,2131,"Marlain Veal Defensive Rebound.",7,6,1,7,0.894358668999447,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+35,1,"15:24",2124,2124,"Foul on Darrell Brown.",7,6,1,10,0.890986745931453,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+36,1,"15:14",2114,2114,"Brandon Gonzalez made Three Point Jumper. Assisted by Marlain Veal.",7,9,-2,5,0.863382327594289,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+37,1,"15:09",2109,2109,"Foul on Brandon Gonzalez.",7,9,-2,13,0.850824393472458,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+38,1,"14:56",2096,2096,"Foul on Maxwell Starwood.",7,9,-2,7,0.84289257404842,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+39,1,"14:49",2089,2089,"Ja'Shon Henry Turnover.",7,9,-2,13,0.85041229614088,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+40,1,"14:36",2076,2076,"Moses Greenwood missed Layup.",7,9,-2,0,0.858370312461989,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+41,1,"14:36",2076,2076,"Ari Boya Block.",7,9,-2,4,0.858370312461989,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+42,1,"14:32",2072,2072,"Moses Greenwood Offensive Rebound.",7,9,-2,3,0.858370312461989,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+43,1,"14:29",2069,2069,"Moses Greenwood Turnover.",7,9,-2,0,0.845865694634161,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+44,1,"14:29",2069,2069,"Foul on Moses Greenwood.",7,9,-2,9,0.845865694634161,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+45,1,"14:20",2060,2060,"Nate Kennell made Three Point Jumper.",10,9,1,35,0.887335096694272,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+46,1,"13:45",2025,2025,"Marlain Veal made Three Point Jumper.",10,12,-2,17,0.846262645559125,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+47,1,"13:28",2008,2008,"Darrell Brown missed Jumper.",10,12,-2,0,0.846992262829478,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+48,1,"13:28",2008,2008,"Brandon Gonzalez Defensive Rebound.",10,12,-2,17,0.846992262829478,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+49,1,"13:11",1991,1991,"Foul on Ja'Shon Henry.",10,12,-2,16,0.847623545715481,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+50,1,"12:55",1975,1975,"Moses Greenwood Turnover.",10,12,-2,14,0.854163042047526,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+51,1,"12:41",1961,1961,"Foul on Moses Greenwood.",10,12,-2,0,0.851565894611988,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+52,1,"12:41",1961,1961,"Koch Bar made Free Throw.",11,12,-1,0,0.864469092171735,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+53,1,"12:41",1961,1961,"Koch Bar made Free Throw.",12,12,0,6,0.876413415227865,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+54,1,"12:35",1955,1955,"Von Julien Turnover.",12,12,0,11,0.871725065766331,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+55,1,"12:24",1944,1944,"Nate Kennell missed Three Point Jumper.",12,12,0,0,0.872414692071818,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+56,1,"12:24",1944,1944,"Moses Greenwood Defensive Rebound.",12,12,0,9,0.872414692071818,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+57,1,"12:15",1935,1935,"Von Julien missed Three Point Jumper.",12,12,0,0,0.866020871503896,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+58,1,"12:15",1935,1935,"Pape Diop Offensive Rebound.",12,12,0,28,0.866020871503896,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+59,1,"11:47",1907,1907,"Von Julien missed Jumper.",12,12,0,0,0.875210263808526,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+60,1,"11:47",1907,1907,"Jayden Hodgson Defensive Rebound.",12,12,0,14,0.875210263808526,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+61,1,"11:33",1893,1893,"Ja'Shon Henry Turnover.",12,12,0,0,0.868491991487069,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+62,1,"11:33",1893,1893,"Official TV Timeout",12,12,0,29,0.868491991487069,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+63,1,"11:04",1864,1864,"Marlain Veal made Three Point Jumper.",12,15,-3,26,0.81305020524665,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+64,1,"10:38",1838,1838,"Jayden Hodgson missed Three Point Jumper.",12,15,-3,0,0.813434767931598,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+65,1,"10:38",1838,1838,"Pape Diop Defensive Rebound.",12,15,-3,11,0.813434767931598,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+66,1,"10:27",1827,1827,"Moses Greenwood made Three Point Jumper. Assisted by Marlain Veal.",12,18,-6,17,0.782578024232137,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+67,1,"10:10",1810,1810,"Elijah Childs missed Jumper.",12,18,-6,0,0.740292714223425,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+68,1,"10:10",1810,1810,"Pape Diop Defensive Rebound.",12,18,-6,2,0.740292714223425,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+69,1,"10:08",1808,1808,"Pape Diop Turnover.",12,18,-6,20,0.752053440703902,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+70,1,"9:48",1788,1788,"Nate Kennell missed Jumper.",12,18,-6,0,0.709942136613949,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+71,1,"9:48",1788,1788,"Brandon Gonzalez Defensive Rebound.",12,18,-6,20,0.709942136613949,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+72,1,"9:28",1768,1768,"Marlain Veal Turnover.",12,18,-6,2,0.763609800681299,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+73,1,"9:26",1766,1766,"Antoine Pittman Steal.",12,18,-6,9,0.763609800681299,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+74,1,"9:17",1757,1757,"Elijah Childs missed Jumper.",12,18,-6,0,0.73453684846674,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+75,1,"9:17",1757,1757,"Koch Bar Offensive Rebound.",12,18,-6,2,0.73453684846674,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+76,1,"9:15",1755,1755,"Foul on Moses Greenwood.",12,18,-6,0,0.73453684846674,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+77,1,"9:15",1755,1755,"Koch Bar made Free Throw.",13,18,-5,0,0.76094917478551,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+78,1,"9:15",1755,1755,"Koch Bar made Free Throw.",14,18,-4,18,0.785500997882982,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+79,1,"8:57",1737,1737,"Pape Diop missed Three Point Jumper.",14,18,-4,0,0.787041349501901,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+80,1,"8:57",1737,1737,"Dwayne Lautier-Ogunleye Defensive Rebound.",14,18,-4,12,0.787041349501901,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+81,1,"8:45",1725,1725,"Jayden Hodgson Turnover.",14,18,-4,0,0.766650900400392,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+82,1,"8:45",1725,1725,"Pape Diop Steal.",14,18,-4,24,0.766650900400392,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+83,1,"8:21",1701,1701,"Kajon Brown Turnover.",14,18,-4,17,0.784247601487325,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+84,1,"8:04",1684,1684,"Elijah Childs made Jumper. Assisted by Jayden Hodgson.",16,18,-2,40,0.834503121920001,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+85,1,"7:24",1644,1644,"Kajon Brown made Three Point Jumper. Assisted by Quinton Thomas.",16,21,-5,16,0.758102256128496,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+86,1,"7:08",1628,1628,"Dwayne Lautier-Ogunleye missed Three Point Jumper.",16,21,-5,0,0.747921244917565,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+87,1,"7:08",1628,1628,"Kajon Brown Defensive Rebound.",16,21,-5,27,0.747921244917565,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+88,1,"6:41",1601,1601,"Kajon Brown made Three Point Jumper. Assisted by Von Julien.",16,24,-8,2,0.6849275879772,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+89,1,"6:39",1599,1599,"Bradley  Timeout",16,24,-8,17,0.66422141665034,"Bradley","SE Louisiana",3,4,1,0,14,"401089189",2018-12-22
+90,1,"6:22",1582,1582,"Foul on Quinton Thomas.",16,24,-8,0,0.665365294123202,"Bradley","SE Louisiana",3,4,1,0,14,"401089189",2018-12-22
+91,1,"6:22",1582,1582,"Darrell Brown made Free Throw.",17,24,-7,0,0.694844599091902,"Bradley","SE Louisiana",3,4,1,0,14,"401089189",2018-12-22
+92,1,"6:22",1582,1582,"Darrell Brown made Free Throw.",18,24,-6,13,0.72280884364265,"Bradley","SE Louisiana",3,4,1,0,14,"401089189",2018-12-22
+93,1,"6:09",1569,1569,"Pape Diop missed Jumper.",18,24,-6,0,0.704892658515397,"Bradley","SE Louisiana",3,4,1,0,14,"401089189",2018-12-22
+94,1,"6:09",1569,1569,"Darrell Brown Defensive Rebound.",18,24,-6,12,0.704892658515397,"Bradley","SE Louisiana",3,4,1,0,14,"401089189",2018-12-22
+95,1,"5:57",1557,1557,"Elijah Childs missed Jumper.",18,24,-6,0,0.696925597689508,"Bradley","SE Louisiana",3,4,1,0,14,"401089189",2018-12-22
+96,1,"5:57",1557,1557,"Ari Boya Offensive Rebound.",18,24,-6,7,0.696925597689508,"Bradley","SE Louisiana",3,4,1,0,14,"401089189",2018-12-22
+97,1,"5:50",1550,1550,"Foul on Maxwell Starwood.",18,24,-6,0,0.696925597689508,"Bradley","SE Louisiana",3,4,1,0,14,"401089189",2018-12-22
+98,1,"5:50",1550,1550,"Ari Boya made Free Throw.",19,24,-5,0,0.726368363152722,"Bradley","SE Louisiana",3,4,1,0,14,"401089189",2018-12-22
+99,1,"5:50",1550,1550,"Ari Boya made Free Throw.",20,24,-4,31,0.753960631142725,"Bradley","SE Louisiana",3,4,1,0,14,"401089189",2018-12-22
+100,1,"5:19",1519,1519,"SE Louisiana  Turnover.",20,24,-4,14,0.762143074890686,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+101,1,"5:05",1505,1505,"Elijah Childs missed Three Point Jumper.",20,24,-4,0,0.764569457841923,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+102,1,"5:05",1505,1505,"SE Louisiana Defensive Rebound.",20,24,-4,13,0.764569457841923,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+103,1,"4:52",1492,1492,"Marlain Veal Turnover.",20,24,-4,0,0.774782758350927,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+104,1,"4:52",1492,1492,"Foul on Marlain Veal.",20,24,-4,9,0.774782758350927,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+105,1,"4:43",1483,1483,"Antoine Pittman missed Jumper.",20,24,-4,0,0.753004337012097,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+106,1,"4:43",1483,1483,"Pape Diop Defensive Rebound.",20,24,-4,12,0.753004337012097,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+107,1,"4:31",1471,1471,"Kajon Brown missed Three Point Jumper.",20,24,-4,0,0.779987610313505,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+108,1,"4:31",1471,1471,"Ari Boya Defensive Rebound.",20,24,-4,7,0.779987610313505,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+109,1,"4:24",1464,1464,"Antoine Pittman made Layup. Assisted by Ari Boya.",22,24,-2,24,0.791836233046498,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+110,1,"4:00",1440,1440,"Brandon Gonzalez missed Three Point Jumper.",22,24,-2,0,0.815708794800385,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+111,1,"4:00",1440,1440,"Kajon Brown Offensive Rebound.",22,24,-2,11,0.815708794800385,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+112,1,"3:49",1429,1429,"Foul on Ari Boya.",22,24,-2,0,0.790350404678992,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+113,1,"3:49",1429,1429,"Official TV Timeout",22,24,-2,16,0.790350404678992,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+114,1,"3:33",1413,1413,"Maxwell Starwood missed Three Point Jumper.",22,24,-2,0,0.784870645391691,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+115,1,"3:33",1413,1413,"Ja'Shon Henry Defensive Rebound.",22,24,-2,16,0.784870645391691,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+116,1,"3:17",1397,1397,"Nate Kennell Turnover.",22,24,-2,10,0.813597093546659,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+117,1,"3:07",1387,1387,"Maxwell Starwood missed Jumper.",22,24,-2,0,0.807745051172229,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+118,1,"3:07",1387,1387,"Pape Diop Offensive Rebound.",22,24,-2,3,0.807745051172229,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+119,1,"3:04",1384,1384,"Pape Diop missed Jumper.",22,24,-2,0,0.807745051172229,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+120,1,"3:04",1384,1384,"Koch Bar Block.",22,24,-2,2,0.807745051172229,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+121,1,"3:02",1382,1382,"Pape Diop Offensive Rebound.",22,24,-2,28,0.807745051172229,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+122,1,"2:34",1354,1354,"Foul on Koch Bar.",22,24,-2,1,0.803919138122379,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+123,1,"2:33",1353,1353,"Kajon Brown made Free Throw.",22,25,-3,1,0.778421771657316,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+124,1,"2:32",1352,1352,"Kajon Brown made Free Throw.",22,26,-4,13,0.750637285897731,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+125,1,"2:19",1339,1339,"Nate Kennell missed Layup.",22,26,-4,0,0.723427204623548,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+126,1,"2:19",1339,1339,"Koch Bar Offensive Rebound.",22,26,-4,4,0.723427204623548,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+127,1,"2:15",1335,1335,"Koch Bar missed Jumper.",22,26,-4,0,0.723427204623548,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+128,1,"2:15",1335,1335,"Koch Bar Offensive Rebound.",22,26,-4,2,0.723427204623548,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+129,1,"2:13",1333,1333,"Koch Bar missed Jumper.",22,26,-4,0,0.723427204623548,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+130,1,"2:13",1333,1333,"Maxwell Starwood Block.",22,26,-4,0,0.723427204623548,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+131,1,"2:13",1333,1333,"Bradley Offensive Rebound.",22,26,-4,14,0.723427204623548,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+132,1,"1:59",1319,1319,"Foul on Maxwell Starwood.",22,26,-4,0,0.740843819774989,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+133,1,"1:59",1319,1319,"Koch Bar made Free Throw.",23,26,-3,0,0.769947224239583,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+134,1,"1:59",1319,1319,"Koch Bar made Free Throw.",24,26,-2,23,0.796679274189367,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+135,1,"1:36",1296,1296,"Marlain Veal made Layup.",24,28,-4,14,0.718072845879353,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+136,1,"1:22",1282,1282,"Darrell Brown missed Jumper.",24,28,-4,0,0.752313974209165,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+137,1,"1:22",1282,1282,"Elijah Childs Offensive Rebound.",24,28,-4,10,0.752313974209165,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+138,1,"1:12",1272,1272,"Koch Bar made Jumper.",26,28,-2,0,0.78464288082146,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+139,1,"1:12",1272,1272,"Foul on Maxwell Starwood.",26,28,-2,0,0.78464288082146,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+140,1,"1:12",1272,1272,"Koch Bar made Free Throw.",27,28,-1,28,0.808883220025484,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+141,1,"0:44",1244,1244,"Quinton Thomas missed Three Point Jumper.",27,28,-1,0,0.81823685388843,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+142,1,"0:44",1244,1244,"Elijah Childs Defensive Rebound.",27,28,-1,20,0.81823685388843,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+143,1,"0:24",1224,1224,"Darrell Brown missed Jumper.",27,28,-1,0,0.809790419052712,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+144,1,"0:24",1224,1224,"Quinton Thomas Defensive Rebound.",27,28,-1,15,0.809790419052712,"Bradley","SE Louisiana",3,4,0,0,14,"401089189",2018-12-22
+145,1,"0:09",1209,1209,"SE Louisiana  Timeout",27,28,-1,7,0.80996830327055,"Bradley","SE Louisiana",3,3,0,1,14,"401089189",2018-12-22
+146,1,"0:02",1202,1202,"Brandon Gonzalez missed Three Point Jumper.",27,28,-1,0,0.80996830327055,"Bradley","SE Louisiana",3,3,0,1,14,"401089189",2018-12-22
+147,1,"0:02",1202,1202,"Darrell Brown Defensive Rebound.",27,28,-1,2,0.80996830327055,"Bradley","SE Louisiana",3,3,0,1,14,"401089189",2018-12-22
+148,1,"0:00",1200,1200,"End of 1st half",27,28,-1,0,0.80996830327055,"Bradley","SE Louisiana",3,3,0,1,14,"401089189",2018-12-22
+149,2,"20:00",1200,1200,"PLAY",27,28,-1,15,0.80996830327055,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+150,2,"19:45",1185,1185,"Koch Bar missed Jumper.",27,28,-1,0,0.810203675104759,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+151,2,"19:45",1185,1185,"Koch Bar Offensive Rebound.",27,28,-1,3,0.810203675104759,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+152,2,"19:42",1182,1182,"Foul on Moses Greenwood.",27,28,-1,0,0.810203675104759,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+153,2,"19:42",1182,1182,"Koch Bar made Free Throw.",28,28,0,0,0.834364327547611,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+154,2,"19:42",1182,1182,"Koch Bar missed Free Throw.",28,28,0,0,0.834364327547611,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+155,2,"19:42",1182,1182,"Von Julien Defensive Rebound.",28,28,0,23,0.834364327547611,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+156,2,"19:19",1159,1159,"Marlain Veal missed Three Point Jumper.",28,28,0,0,0.822224624730526,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+157,2,"19:19",1159,1159,"Elijah Childs Defensive Rebound.",28,28,0,21,0.822224624730526,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+158,2,"18:58",1138,1138,"Elijah Childs made Jumper.",30,28,2,14,0.875822704539782,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+159,2,"18:44",1124,1124,"Marlain Veal Turnover.",30,28,2,1,0.872105399464199,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+160,2,"18:43",1123,1123,"Koch Bar Steal.",30,28,2,8,0.872105399464199,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+161,2,"18:35",1115,1115,"Foul on Keith Charleston.",30,28,2,3,0.863168340024837,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+162,2,"18:32",1112,1112,"Elijah Childs Turnover.",30,28,2,0,0.863168340024837,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+163,2,"18:32",1112,1112,"Foul on Elijah Childs.",30,28,2,15,0.863168340024837,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+164,2,"18:17",1097,1097,"Keith Charleston made Jumper. Assisted by Von Julien.",30,30,0,19,0.833851163043066,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+165,2,"17:58",1078,1078,"Dwayne Lautier-Ogunleye missed Layup.",30,30,0,0,0.817392439972781,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+166,2,"17:58",1078,1078,"Keith Charleston Defensive Rebound.",30,30,0,16,0.817392439972781,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+167,2,"17:42",1062,1062,"Foul on Darrell Brown.",30,30,0,1,0.818078995018736,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+168,2,"17:41",1061,1061,"Keith Charleston made Free Throw.",30,31,-1,0,0.791000460764324,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+169,2,"17:41",1061,1061,"Keith Charleston missed Free Throw.",30,31,-1,0,0.791000460764324,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+170,2,"17:41",1061,1061,"Pape Diop Offensive Rebound.",30,31,-1,3,0.791000460764324,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+171,2,"17:38",1058,1058,"Foul on Koch Bar.",30,31,-1,0,0.796491141636385,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+172,2,"17:38",1058,1058,"Pape Diop made Free Throw.",30,33,-3,0,0.731897032351591,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+173,2,"17:38",1058,1058,"Pape Diop made Free Throw.",30,32,-2,22,0.76573578838584,"Bradley","SE Louisiana",4,4,0,0,14,"401089189",2018-12-22
+174,2,"17:16",1036,1036,"SE Louisiana  Timeout",30,33,-3,8,0.732066299136672,"Bradley","SE Louisiana",4,3,0,1,14,"401089189",2018-12-22
+175,2,"17:08",1028,1028,"SE Louisiana  Turnover.",30,33,-3,13,0.728868366860321,"Bradley","SE Louisiana",4,3,0,1,14,"401089189",2018-12-22
+176,2,"16:55",1015,1015,"Ari Boya missed Dunk.",30,33,-3,0,0.693343550282215,"Bradley","SE Louisiana",4,3,0,1,14,"401089189",2018-12-22
+177,2,"16:55",1015,1015,"Keith Charleston Defensive Rebound.",30,33,-3,11,0.693343550282215,"Bradley","SE Louisiana",4,3,0,1,14,"401089189",2018-12-22
+178,2,"16:44",1004,1004,"Keith Charleston missed Layup.",30,33,-3,0,0.697849508296948,"Bradley","SE Louisiana",4,3,0,1,14,"401089189",2018-12-22
+179,2,"16:44",1004,1004,"Ari Boya Block.",30,33,-3,0,0.697849508296948,"Bradley","SE Louisiana",4,3,0,1,14,"401089189",2018-12-22
+180,2,"16:44",1004,1004,"SE Louisiana Offensive Rebound.",30,33,-3,3,0.697849508296948,"Bradley","SE Louisiana",4,3,0,1,14,"401089189",2018-12-22
+181,2,"16:41",1001,1001,"Pape Diop made Jumper. Assisted by Keith Charleston.",30,35,-5,16,0.614125320877778,"Bradley","SE Louisiana",4,3,0,1,14,"401089189",2018-12-22
+182,2,"16:25",985,985,"Foul on Von Julien.",30,35,-5,6,0.604986418020636,"Bradley","SE Louisiana",4,3,0,1,14,"401089189",2018-12-22
+183,2,"16:19",979,979,"Ari Boya made Free Throw.",31,35,-4,0,0.693404234846471,"Bradley","SE Louisiana",4,3,0,1,14,"401089189",2018-12-22
+184,2,"16:19",979,979,"Ari Boya missed Free Throw.",31,35,-4,0,0.693404234846471,"Bradley","SE Louisiana",4,3,0,1,14,"401089189",2018-12-22
+185,2,"16:19",979,979,"Brandon Gonzalez Defensive Rebound.",31,35,-4,14,0.693404234846471,"Bradley","SE Louisiana",4,3,0,1,14,"401089189",2018-12-22
+186,2,"16:05",965,965,"Brandon Gonzalez missed Three Point Jumper.",31,35,-4,0,0.649717462942388,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+187,2,"16:05",965,965,"SE Louisiana Offensive Rebound.",31,35,-4,5,0.649717462942388,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+188,2,"16:00",960,960,"Official TV Timeout",31,35,-4,11,0.649717462942388,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+189,2,"15:49",949,949,"Foul on Pape Diop.",31,35,-4,0,0.688317360990972,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+190,2,"15:49",949,949,"Ari Boya missed Free Throw.",31,35,-4,0,0.688317360990972,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+191,2,"15:49",949,949,"Bradley Deadball Team Rebound.",31,35,-4,0,0.688317360990972,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+192,2,"15:49",949,949,"Ari Boya missed Free Throw.",31,35,-4,0,0.688317360990972,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+193,2,"15:49",949,949,"Elijah Childs Offensive Rebound.",31,35,-4,8,0.688317360990972,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+194,2,"15:41",941,941,"Ari Boya missed Layup.",31,35,-4,0,0.688317360990972,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+195,2,"15:41",941,941,"Ari Boya Offensive Rebound.",31,35,-4,3,0.688317360990972,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+196,2,"15:38",938,938,"Darrell Brown missed Three Point Jumper.",31,35,-4,0,0.658054819599967,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+197,2,"15:38",938,938,"Pape Diop Defensive Rebound.",31,35,-4,17,0.658054819599967,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+198,2,"15:21",921,921,"Keith Charleston missed Jumper.",31,35,-4,0,0.632603783221917,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+199,2,"15:21",921,921,"Elijah Childs Defensive Rebound.",31,35,-4,8,0.632603783221917,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+200,2,"15:13",913,913,"Darrell Brown made Three Point Jumper.",34,35,-1,15,0.792298238548753,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+201,2,"14:58",898,898,"Foul on Ari Boya.",34,35,-1,13,0.775609439027667,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+202,2,"14:45",885,885,"Pape Diop Turnover.",34,35,-1,1,0.767257648041235,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+203,2,"14:44",884,884,"Ja'Shon Henry Steal.",34,35,-1,4,0.767257648041235,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+204,2,"14:40",880,880,"Darrell Brown missed Three Point Jumper.",34,35,-1,0,0.767257648041235,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+205,2,"14:40",880,880,"Von Julien Defensive Rebound.",34,35,-1,7,0.767257648041235,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+206,2,"14:33",873,873,"Brandon Gonzalez missed Three Point Jumper.",34,35,-1,0,0.776559734428897,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+207,2,"14:33",873,873,"Keith Charleston Offensive Rebound.",34,35,-1,20,0.776559734428897,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+208,2,"14:13",853,853,"Von Julien missed Layup.",34,35,-1,0,0.773182089603091,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+209,2,"14:13",853,853,"Nate Kennell Block.",34,35,-1,2,0.773182089603091,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+210,2,"14:11",851,851,"Ja'Shon Henry Defensive Rebound.",34,35,-1,14,0.773182089603091,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+211,2,"13:57",837,837,"Foul on Brandon Gonzalez.",34,35,-1,0,0.790261757022765,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+212,2,"13:57",837,837,"Koch Bar made Free Throw.",35,35,0,0,0.822409120846398,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+213,2,"13:57",837,837,"Koch Bar missed Free Throw.",35,35,0,0,0.822409120846398,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+214,2,"13:57",837,837,"Pape Diop Defensive Rebound.",35,35,0,30,0.822409120846398,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+215,2,"13:27",807,807,"SE Louisiana  Turnover.",35,35,0,8,0.815706546507599,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+216,2,"13:19",799,799,"Nate Kennell missed Layup.",35,35,0,0,0.795569044124577,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+217,2,"13:19",799,799,"Kajon Brown Defensive Rebound.",35,35,0,11,0.795569044124577,"Bradley","SE Louisiana",4,3,0,0,14,"401089189",2018-12-22
+218,2,"13:08",788,788,"SE Louisiana  Timeout",35,35,0,21,0.797667846493797,"Bradley","SE Louisiana",4,2,0,1,14,"401089189",2018-12-22
+219,2,"12:47",767,767,"Keith Charleston made Layup. Assisted by Pape Diop.",35,37,-2,15,0.745624160096996,"Bradley","SE Louisiana",4,2,0,1,14,"401089189",2018-12-22
+220,2,"12:32",752,752,"Koch Bar made Layup. Assisted by Dwayne Lautier-Ogunleye.",37,37,0,14,0.802146718164364,"Bradley","SE Louisiana",4,2,0,1,14,"401089189",2018-12-22
+221,2,"12:18",738,738,"Keith Charleston made Jumper.",37,39,-2,16,0.695801709680152,"Bradley","SE Louisiana",4,2,0,1,14,"401089189",2018-12-22
+222,2,"12:02",722,722,"Elijah Childs made Jumper. Assisted by Dwayne Lautier-Ogunleye.",39,39,0,6,0.795666286963328,"Bradley","SE Louisiana",4,2,0,0,14,"401089189",2018-12-22
+223,2,"11:56",716,716,"Official TV Timeout",39,39,0,19,0.789079482642999,"Bradley","SE Louisiana",4,2,0,0,14,"401089189",2018-12-22
+224,2,"11:37",697,697,"Pape Diop Turnover.",39,39,0,0,0.811958155305757,"Bradley","SE Louisiana",4,2,0,0,14,"401089189",2018-12-22
+225,2,"11:37",697,697,"Jayden Hodgson Steal.",39,39,0,21,0.811958155305757,"Bradley","SE Louisiana",4,2,0,0,14,"401089189",2018-12-22
+226,2,"11:16",676,676,"Jayden Hodgson Turnover.",39,39,0,11,0.786321959107832,"Bradley","SE Louisiana",4,2,0,0,14,"401089189",2018-12-22
+227,2,"11:05",665,665,"Pape Diop made Layup. Assisted by Marlain Veal.",39,41,-2,15,0.696720216645624,"Bradley","SE Louisiana",4,2,0,0,14,"401089189",2018-12-22
+228,2,"10:50",650,650,"Jayden Hodgson missed Three Point Jumper.",39,41,-2,0,0.692652828889674,"Bradley","SE Louisiana",4,2,0,0,14,"401089189",2018-12-22
+229,2,"10:50",650,650,"Quinton Thomas Defensive Rebound.",39,41,-2,29,0.692652828889674,"Bradley","SE Louisiana",4,2,0,0,14,"401089189",2018-12-22
+230,2,"10:21",621,621,"Marlain Veal made Three Point Jumper.",39,44,-5,21,0.530166949064883,"Bradley","SE Louisiana",4,2,0,0,14,"401089189",2018-12-22
+231,2,"10:00",600,600,"Nate Kennell made Jumper. Assisted by Jayden Hodgson.",41,44,-3,19,0.637352200544777,"Bradley","SE Louisiana",4,2,0,0,14,"401089189",2018-12-22
+232,2,"9:41",581,581,"Keith Charleston made Dunk. Assisted by Marlain Veal.",41,46,-5,1,0.484077273083486,"Bradley","SE Louisiana",4,2,0,0,14,"401089189",2018-12-22
+233,2,"9:40",580,580,"Bradley  Timeout",41,46,-5,12,0.484077273083486,"Bradley","SE Louisiana",3,2,1,0,14,"401089189",2018-12-22
+234,2,"9:28",568,568,"Foul on Pape Diop.",41,46,-5,0,0.520961859578868,"Bradley","SE Louisiana",3,2,1,0,14,"401089189",2018-12-22
+235,2,"9:28",568,568,"Darrell Brown made Free Throw.",42,46,-4,0,0.584640788675561,"Bradley","SE Louisiana",3,2,1,0,14,"401089189",2018-12-22
+236,2,"9:28",568,568,"Darrell Brown made Free Throw.",43,46,-3,8,0.645613110622593,"Bradley","SE Louisiana",3,2,1,0,14,"401089189",2018-12-22
+237,2,"9:20",560,560,"Von Julien Turnover.",43,46,-3,8,0.645613110622593,"Bradley","SE Louisiana",3,2,1,0,14,"401089189",2018-12-22
+238,2,"9:12",552,552,"Foul on Pape Diop.",43,46,-3,0,0.600510908065271,"Bradley","SE Louisiana",3,2,1,0,14,"401089189",2018-12-22
+239,2,"9:12",552,552,"Koch Bar made Free Throw.",44,46,-2,0,0.661034337843473,"Bradley","SE Louisiana",3,2,1,0,14,"401089189",2018-12-22
+240,2,"9:12",552,552,"Koch Bar made Free Throw.",45,46,-1,11,0.716713942697446,"Bradley","SE Louisiana",3,2,1,0,14,"401089189",2018-12-22
+241,2,"9:01",541,541,"Foul on Nate Kennell.",45,46,-1,9,0.697857692554689,"Bradley","SE Louisiana",3,2,1,0,14,"401089189",2018-12-22
+242,2,"8:52",532,532,"Moses Greenwood made Jumper. Assisted by Von Julien.",45,48,-3,16,0.612754490621543,"Bradley","SE Louisiana",3,2,1,0,14,"401089189",2018-12-22
+243,2,"8:36",516,516,"Elijah Childs missed Jumper.",45,48,-3,0,0.563202496474555,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+244,2,"8:36",516,516,"Koch Bar Offensive Rebound.",45,48,-3,3,0.563202496474555,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+245,2,"8:33",513,513,"Elijah Childs made Jumper. Assisted by Koch Bar.",47,48,-1,0,0.688957980888758,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+246,2,"8:33",513,513,"Foul on Keith Charleston.",47,48,-1,2,0.688957980888758,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+247,2,"8:31",511,511,"Elijah Childs made Free Throw.",48,48,0,18,0.743796160147031,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+248,2,"8:13",493,493,"Foul on Koch Bar.",48,48,0,0,0.762390374984928,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+249,2,"8:13",493,493,"Kajon Brown made Free Throw.",48,49,-1,0,0.709671988738788,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+250,2,"8:13",493,493,"Kajon Brown missed Free Throw.",48,49,-1,0,0.709671988738788,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+251,2,"8:13",493,493,"Marlain Veal Offensive Rebound.",48,49,-1,9,0.709671988738788,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+252,2,"8:04",484,484,"Moses Greenwood missed Jumper.",48,49,-1,0,0.705118194685614,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+253,2,"8:04",484,484,"Ari Boya Defensive Rebound.",48,49,-1,19,0.705118194685614,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+254,2,"7:45",465,465,"Foul on Brandon Gonzalez.",48,49,-1,0,0.702766087208046,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+255,2,"7:45",465,465,"Official TV Timeout",48,49,-1,0,0.702766087208046,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+256,2,"7:45",465,465,"Darrell Brown missed Free Throw.",48,49,-1,0,0.702766087208046,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+257,2,"7:45",465,465,"SE Louisiana Defensive Rebound.",48,49,-1,25,0.702766087208046,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+258,2,"7:20",440,440,"Marlain Veal made Three Point Jumper. Assisted by Kajon Brown.",48,52,-4,16,0.469634396869977,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+259,2,"7:04",424,424,"Ja'Shon Henry missed Layup.",48,52,-4,0,0.454776633614217,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+260,2,"7:04",424,424,"Dwayne Lautier-Ogunleye Offensive Rebound.",48,52,-4,5,0.454776633614217,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+261,2,"6:59",419,419,"Foul on Marlain Veal.",48,52,-4,0,0.47880057119946,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+262,2,"6:59",419,419,"Elijah Childs made Free Throw.",49,52,-3,0,0.553912431066136,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+263,2,"6:59",419,419,"Elijah Childs missed Free Throw.",49,52,-3,0,0.553912431066136,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+264,2,"6:59",419,419,"Kajon Brown Defensive Rebound.",49,52,-3,10,0.553912431066136,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+265,2,"6:49",409,409,"Foul on Dwayne Lautier-Ogunleye.",49,52,-3,0,0.509401162075913,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+266,2,"6:49",409,409,"Moses Greenwood missed Free Throw.",49,52,-3,0,0.509401162075913,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+267,2,"6:49",409,409,"Dwayne Lautier-Ogunleye Defensive Rebound.",49,52,-3,28,0.509401162075913,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+268,2,"6:21",381,381,"Elijah Childs missed Jumper.",49,52,-3,0,0.568811316390805,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+269,2,"6:21",381,381,"SE Louisiana Defensive Rebound.",49,52,-3,25,0.568811316390805,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+270,2,"5:56",356,356,"Pape Diop made Three Point Jumper. Assisted by Marlain Veal.",49,55,-6,19,0.255097402472455,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+271,2,"5:37",337,337,"Darrell Brown made Jumper.",51,55,-4,21,0.406808012164365,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+272,2,"5:16",316,316,"Marlain Veal missed Jumper.",51,55,-4,0,0.369371865584956,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+273,2,"5:16",316,316,"Elijah Childs Defensive Rebound.",51,55,-4,6,0.369371865584956,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+274,2,"5:10",310,310,"Dwayne Lautier-Ogunleye missed Three Point Jumper.",51,55,-4,0,0.369371865584956,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+275,2,"5:10",310,310,"Marlain Veal Defensive Rebound.",51,55,-4,26,0.369371865584956,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+276,2,"4:44",284,284,"Moses Greenwood missed Jumper.",51,55,-4,0,0.390384812705648,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+277,2,"4:44",284,284,"Elijah Childs Defensive Rebound.",51,55,-4,20,0.390384812705648,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+278,2,"4:24",264,264,"Foul on Marlain Veal.",51,55,-4,0,0.369970810551322,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+279,2,"4:24",264,264,"Darrell Brown made Free Throw.",52,55,-3,0,0.460311343587871,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+280,2,"4:24",264,264,"Darrell Brown made Free Throw.",53,55,-2,28,0.553337143706944,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+281,2,"3:56",236,236,"Official TV Timeout",53,55,-2,6,0.510142040172414,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+282,2,"3:50",230,230,"SE Louisiana  Turnover.",53,55,-2,16,0.510142040172414,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+283,2,"3:34",214,214,"Darrell Brown missed Three Point Jumper.",53,55,-2,0,0.498422712716051,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+284,2,"3:34",214,214,"Dwayne Lautier-Ogunleye Offensive Rebound.",53,55,-2,4,0.498422712716051,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+285,2,"3:30",210,210,"Foul on Pape Diop.",53,55,-2,0,0.498422712716051,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+286,2,"3:30",210,210,"Dwayne Lautier-Ogunleye missed Free Throw.",53,55,-2,0,0.498422712716051,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+287,2,"3:30",210,210,"Bradley Deadball Team Rebound.",53,55,-2,0,0.498422712716051,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+288,2,"3:30",210,210,"Dwayne Lautier-Ogunleye missed Free Throw.",53,55,-2,0,0.498422712716051,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+289,2,"3:30",210,210,"Moses Greenwood Defensive Rebound.",53,55,-2,13,0.498422712716051,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+290,2,"3:17",197,197,"Moses Greenwood made Layup. Assisted by Marlain Veal.",53,57,-4,0,0.22783668920952,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+291,2,"3:17",197,197,"Foul on Koch Bar.",53,57,-4,0,0.22783668920952,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+292,2,"3:17",197,197,"Moses Greenwood made Free Throw.",53,58,-5,12,0.1559701121715,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+293,2,"3:05",185,185,"Elijah Childs Turnover.",53,58,-5,0,0.157630066666862,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+294,2,"3:05",185,185,"Foul on Elijah Childs.",53,58,-5,13,0.157630066666862,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+295,2,"2:52",172,172,"Foul on Elijah Childs.",53,58,-5,0,0.168635513096291,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+296,2,"2:52",172,172,"Moses Greenwood missed Free Throw.",53,58,-5,0,0.168635513096291,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+297,2,"2:52",172,172,"SE Louisiana Deadball Team Rebound.",53,58,-5,0,0.168635513096291,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+298,2,"2:52",172,172,"Moses Greenwood missed Free Throw.",53,58,-5,0,0.168635513096291,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+299,2,"2:52",172,172,"Pape Diop Offensive Rebound.",53,58,-5,2,0.168635513096291,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+300,2,"2:50",170,170,"Pape Diop Turnover.",53,58,-5,13,0.168635513096291,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+301,2,"2:37",157,157,"Foul on Brandon Gonzalez.",53,58,-5,0,0.12474464816053,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+302,2,"2:37",157,157,"Elijah Childs missed Free Throw.",53,58,-5,0,0.12474464816053,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+303,2,"2:37",157,157,"Bradley Deadball Team Rebound.",53,58,-5,0,0.12474464816053,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+304,2,"2:37",157,157,"Elijah Childs made Free Throw.",54,58,-4,0,0.196588266520974,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+305,2,"2:37",157,157,"Foul on Pape Diop.",54,58,-4,0,0.196588266520974,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+306,2,"2:37",157,157,"Foul on Dwayne Lautier-Ogunleye.",54,58,-4,0,0.196588266520974,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+307,2,"2:37",157,157,"Dwayne Lautier-Ogunleye made Free Throw.",55,58,-3,0,0.295823766269609,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+308,2,"2:37",157,157,"Dwayne Lautier-Ogunleye missed Free Throw.",55,58,-3,0,0.295823766269609,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+309,2,"2:37",157,157,"Bradley Deadball Team Rebound.",55,58,-3,0,0.295823766269609,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+310,2,"2:37",157,157,"Kajon Brown made Free Throw.",55,59,-4,0,0.196588266520974,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+311,2,"2:37",157,157,"Kajon Brown made Free Throw.",55,60,-5,24,0.12474464816053,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+312,2,"2:13",133,133,"Moses Greenwood missed Jumper.",55,60,-5,0,0.125040553235307,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+313,2,"2:13",133,133,"Elijah Childs Defensive Rebound.",55,60,-5,14,0.125040553235307,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+314,2,"1:59",119,119,"Elijah Childs made Jumper.",57,60,-3,20,0.265024241436425,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+315,2,"1:39",99,99,"Marlain Veal Turnover.",57,60,-3,0,0.208219067033221,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+316,2,"1:39",99,99,"Foul on Marlain Veal.",57,60,-3,12,0.208219067033221,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+317,2,"1:27",87,87,"Foul on Kajon Brown.",57,60,-3,0,0.209804869216058,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+318,2,"1:27",87,87,"Darrell Brown made Free Throw.",58,60,-2,0,0.352142187836999,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+319,2,"1:27",87,87,"Darrell Brown missed Free Throw.",58,60,-2,0,0.352142187836999,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+320,2,"1:27",87,87,"Brandon Gonzalez Defensive Rebound.",58,60,-2,16,0.352142187836999,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+321,2,"1:11",71,71,"Moses Greenwood missed Layup.",58,60,-2,0,0.290988013518271,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+322,2,"1:11",71,71,"Elijah Childs Block.",58,60,-2,1,0.290988013518271,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+323,2,"1:10",70,70,"Antoine Pittman Defensive Rebound.",58,60,-2,13,0.290988013518271,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+324,2,"0:57",57,57,"Elijah Childs made Jumper.",60,60,0,8,0.706519157658168,"Bradley","SE Louisiana",3,2,0,0,14,"401089189",2018-12-22
+325,2,"0:49",49,49,"SE Louisiana  Timeout",60,60,0,18,0.632322276374548,"Bradley","SE Louisiana",3,1,0,1,14,"401089189",2018-12-22
+326,2,"0:31",31,31,"Quinton Thomas Turnover.",60,60,0,6,0.495132808072559,"Bradley","SE Louisiana",3,1,0,1,14,"401089189",2018-12-22
+327,2,"0:25",25,25,"Bradley  Timeout",60,60,0,19,0.550303295149689,"Bradley","SE Louisiana",2,1,1,1,14,"401089189",2018-12-22
+328,2,"0:06",6,6,"Darrell Brown made Three Point Jumper. Assisted by Dwayne Lautier-Ogunleye.",63,60,3,6,0.99505380081205,"Bradley","SE Louisiana",2,1,1,1,14,"401089189",2018-12-22
+329,2,"0:00",0,0,"Kajon Brown missed Three Point Jumper.",63,60,3,0,1,"Bradley","SE Louisiana",2,1,1,1,14,"401089189",2018-12-22
+330,2,"0:00",0,0,"Bradley Defensive Rebound.",63,60,3,0,1,"Bradley","SE Louisiana",2,1,1,1,14,"401089189",2018-12-22
+331,2,"0:00",0,0,"End of Game",63,60,3,0,1,"Bradley","SE Louisiana",2,1,1,1,14,"401089189",2018-12-22

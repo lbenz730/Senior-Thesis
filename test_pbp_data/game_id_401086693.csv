@@ -1,0 +1,394 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","play_length","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,7,0.834331373184416,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+2,1,"19:53",2393,2393,"JD Notae Turnover.",0,0,0,1,0.834331373184416,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+3,1,"19:52",2392,2392,"Shyquan Gibbs Steal.",0,0,0,6,0.834331373184416,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+4,1,"19:46",2386,2386,"Diandre Wilson missed Three Point Jumper.",0,0,0,0,0.830110427792434,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+5,1,"19:46",2386,2386,"JD Notae Defensive Rebound.",0,0,0,11,0.830110427792434,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+6,1,"19:35",2375,2375,"Foul on Aamahne Santos.",0,0,0,0,0.827610358429079,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+7,1,"19:35",2375,2375,"Aamahne Santos Turnover.",0,0,0,11,0.827610358429079,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+8,1,"19:24",2364,2364,"Abdul Lewis missed Jumper.",0,0,0,0,0.815103488131537,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+9,1,"19:24",2364,2364,"JD Notae Defensive Rebound.",0,0,0,10,0.815103488131537,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+10,1,"19:14",2354,2354,"Foul on San Antonio Brinson.",0,0,0,0,0.832508605971762,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+11,1,"19:14",2354,2354,"Dave Bell made Free Throw.",0,1,-1,0,0.819880046048714,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+12,1,"19:14",2354,2354,"Dave Bell made Free Throw.",0,2,-2,20,0.806520604337945,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+13,1,"18:54",2334,2334,"Shyquan Gibbs missed Jumper.",0,2,-2,0,0.794155575829907,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+14,1,"18:54",2334,2334,"JD Notae Defensive Rebound.",0,2,-2,11,0.794155575829907,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+15,1,"18:43",2323,2323,"Jace Hogan Turnover.",0,2,-2,14,0.79285644156916,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+16,1,"18:29",2309,2309,"San Antonio Brinson made Jumper.",2,2,0,18,0.811418634617474,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+17,1,"18:11",2291,2291,"JD Notae Turnover.",2,2,0,2,0.823096016620231,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+18,1,"18:09",2289,2289,"Zach Cooks Steal.",2,2,0,11,0.815928690088324,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+19,1,"17:58",2278,2278,"Abdul Lewis Turnover.",2,2,0,16,0.821422347608307,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+20,1,"17:42",2262,2262,"Tanner Rubio missed Three Point Jumper.",2,2,0,0,0.826341192385276,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+21,1,"17:42",2262,2262,"San Antonio Brinson Defensive Rebound.",2,2,0,21,0.826341192385276,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+22,1,"17:21",2241,2241,"San Antonio Brinson missed Three Point Jumper.",2,2,0,0,0.809093400205911,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+23,1,"17:21",2241,2241,"Abdul Lewis Offensive Rebound.",2,2,0,7,0.809093400205911,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+24,1,"17:14",2234,2234,"Abdul Lewis made Layup. Assisted by Diandre Wilson.",4,2,2,25,0.849250831343585,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+25,1,"16:49",2209,2209,"Dave Bell missed Layup.",4,2,2,0,0.847410908377173,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+26,1,"16:49",2209,2209,"Abdul Lewis Defensive Rebound.",4,2,2,6,0.847410908377173,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+27,1,"16:43",2203,2203,"Abdul Lewis missed Three Point Jumper.",4,2,2,0,0.847410908377173,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+28,1,"16:43",2203,2203,"Jace Hogan Defensive Rebound.",4,2,2,8,0.847410908377173,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+29,1,"16:35",2195,2195,"DeAnthony McCallum missed Three Point Jumper.",4,2,2,0,0.856159709167306,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+30,1,"16:35",2195,2195,"Abdul Lewis Defensive Rebound.",4,2,2,7,0.856159709167306,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+31,1,"16:28",2188,2188,"Zach Cooks made Layup.",6,2,4,20,0.872080752103689,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+32,1,"16:08",2168,2168,"Foul on Shyquan Gibbs.",6,2,4,0,0.869845902402086,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+33,1,"16:08",2168,2168,"DeAnthony McCallum missed Free Throw.",6,2,4,0,0.869845902402086,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+34,1,"16:08",2168,2168,"Jacksonville Deadball Team Rebound.",6,2,4,0,0.869845902402086,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+35,1,"16:08",2168,2168,"DeAnthony McCallum missed Free Throw.",6,2,4,0,0.869845902402086,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+36,1,"16:08",2168,2168,"Abdul Lewis Defensive Rebound.",6,2,4,11,0.869845902402086,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+37,1,"15:57",2157,2157,"Diandre Wilson Turnover.",6,2,4,1,0.872298230220409,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+38,1,"15:56",2156,2156,"Bryce Workman Steal.",6,2,4,14,0.872298230220409,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+39,1,"15:42",2142,2142,"Aamahne Santos made Jumper.",6,4,2,30,0.847014810394889,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+40,1,"15:12",2112,2112,"Shyquan Gibbs missed Jumper.",6,4,2,0,0.851409079306602,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+41,1,"15:12",2112,2112,"Bryce Workman Defensive Rebound.",6,4,2,14,0.851409079306602,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+42,1,"14:58",2098,2098,"Jalyn Hinton missed Layup.",6,4,2,0,0.839616944993645,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+43,1,"14:58",2098,2098,"DeAnthony McCallum Offensive Rebound.",6,4,2,5,0.839616944993645,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+44,1,"14:53",2093,2093,"Tyreese Davis missed Three Point Jumper.",6,4,2,0,0.839616944993645,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+45,1,"14:53",2093,2093,"Abdul Lewis Defensive Rebound.",6,4,2,13,0.839616944993645,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+46,1,"14:40",2080,2080,"Zach Cooks made Layup. Assisted by Abdul Lewis.",8,4,4,15,0.867555517139966,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+47,1,"14:25",2065,2065,"Aamahne Santos missed Three Point Jumper.",8,4,4,0,0.868835500467865,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+48,1,"14:25",2065,2065,"Shawndale Jones Defensive Rebound.",8,4,4,4,0.868835500467865,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+49,1,"14:21",2061,2061,"Official TV Timeout",8,4,4,19,0.868835500467865,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+50,1,"14:02",2042,2042,"Abdul Lewis made Jumper.",10,4,6,27,0.884986561460027,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+51,1,"13:35",2015,2015,"Bryce Workman made Layup. Assisted by Jalyn Hinton.",10,6,4,28,0.871603682088529,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+52,1,"13:07",1987,1987,"Foul on Bryce Workman.",10,6,4,0,0.862266846412533,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+53,1,"13:07",1987,1987,"Abdul Lewis made Free Throw.",11,6,5,0,0.876419081110134,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+54,1,"13:07",1987,1987,"Abdul Lewis made Free Throw.",12,6,6,12,0.889303839944142,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+55,1,"12:55",1975,1975,"Jace Hogan Turnover.",12,6,6,7,0.90372372022974,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+56,1,"12:48",1968,1968,"Shawndale Jones missed Layup.",12,6,6,0,0.887342241982917,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+57,1,"12:48",1968,1968,"Jace Hogan Block.",12,6,6,2,0.887342241982917,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+58,1,"12:46",1966,1966,"JD Notae Defensive Rebound.",12,6,6,5,0.887342241982917,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+59,1,"12:41",1961,1961,"Tanner Rubio made Layup.",12,8,4,10,0.864351913779935,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+60,1,"12:31",1951,1951,"Zach Cooks missed Jumper.",12,8,4,0,0.871129612969882,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+61,1,"12:31",1951,1951,"Tanner Rubio Defensive Rebound.",12,8,4,15,0.871129612969882,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+62,1,"12:16",1936,1936,"Jace Hogan made Layup.",12,10,2,0,0.833515303195493,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+63,1,"12:16",1936,1936,"Foul on Diego Willis.",12,10,2,0,0.833515303195493,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+64,1,"12:16",1936,1936,"Jace Hogan made Free Throw.",12,11,1,25,0.814810793307716,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+65,1,"11:51",1911,1911,"Shyquan Gibbs missed Jumper.",12,11,1,0,0.831757247736379,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+66,1,"11:51",1911,1911,"JD Notae Defensive Rebound.",12,11,1,9,0.831757247736379,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+67,1,"11:42",1902,1902,"Jace Hogan missed Layup.",12,11,1,0,0.822649469126178,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+68,1,"11:42",1902,1902,"Abdul Lewis Defensive Rebound.",12,11,1,19,0.822649469126178,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+69,1,"11:23",1883,1883,"Foul on Jace Hogan.",12,11,1,0,0.821315801743095,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+70,1,"11:23",1883,1883,"Official TV Timeout",12,11,1,18,0.821315801743095,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+71,1,"11:05",1865,1865,"Zach Cooks missed Jumper.",12,11,1,0,0.820920648857712,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+72,1,"11:05",1865,1865,"Dave Bell Defensive Rebound.",12,11,1,13,0.820920648857712,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+73,1,"10:52",1852,1852,"Jace Hogan missed Jumper.",12,11,1,0,0.820238225127647,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+74,1,"10:52",1852,1852,"Dave Bell Offensive Rebound.",12,11,1,7,0.820238225127647,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+75,1,"10:45",1845,1845,"Dave Bell missed Layup.",12,11,1,0,0.811812479248032,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+76,1,"10:45",1845,1845,"Dave Bell Offensive Rebound.",12,11,1,3,0.811812479248032,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+77,1,"10:42",1842,1842,"Dave Bell missed Layup.",12,11,1,0,0.811812479248032,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+78,1,"10:42",1842,1842,"Jace Hogan Offensive Rebound.",12,11,1,3,0.811812479248032,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+79,1,"10:39",1839,1839,"Foul on San Antonio Brinson.",12,11,1,0,0.815693512680512,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+80,1,"10:39",1839,1839,"Jace Hogan missed Free Throw.",12,11,1,0,0.815693512680512,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+81,1,"10:39",1839,1839,"Jacksonville Deadball Team Rebound.",12,11,1,0,0.815693512680512,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+82,1,"10:39",1839,1839,"Jace Hogan missed Free Throw.",12,11,1,0,0.815693512680512,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+83,1,"10:39",1839,1839,"DeAnthony McCallum Offensive Rebound.",12,11,1,25,0.815693512680512,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+84,1,"10:14",1814,1814,"Dave Bell Turnover.",12,11,1,0,0.820729686666158,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+85,1,"10:14",1814,1814,"Shyquan Gibbs Steal.",12,11,1,0,0.820729686666158,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+86,1,"10:14",1814,1814,"Foul on Dave Bell.",12,11,1,14,0.820729686666158,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+87,1,"10:00",1800,1800,"Diandre Wilson missed Three Point Jumper.",12,11,1,0,0.816967161450858,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+88,1,"10:00",1800,1800,"Dave Bell Defensive Rebound.",12,11,1,16,0.816967161450858,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+89,1,"9:44",1784,1784,"Aamahne Santos missed Three Point Jumper.",12,11,1,0,0.799007718333977,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+90,1,"9:44",1784,1784,"Mohamed Bendary Defensive Rebound.",12,11,1,2,0.799007718333977,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+91,1,"9:42",1782,1782,"Foul on Dave Bell.",12,11,1,25,0.799007718333977,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+92,1,"9:17",1757,1757,"Zach Cooks made Jumper.",14,11,3,13,0.851132574978567,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+93,1,"9:04",1744,1744,"JD Notae missed Three Point Jumper.",14,11,3,0,0.847826363025802,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+94,1,"9:04",1744,1744,"Shyquan Gibbs Defensive Rebound.",14,11,3,15,0.847826363025802,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+95,1,"8:49",1729,1729,"Abdul Lewis made Jumper.",16,11,5,10,0.87672807185341,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+96,1,"8:39",1719,1719,"DeAnthony McCallum missed Layup.",16,11,5,0,0.888184451841653,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+97,1,"8:39",1719,1719,"Mohamed Bendary Block.",16,11,5,1,0.888184451841653,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+98,1,"8:38",1718,1718,"NJIT Defensive Rebound.",16,11,5,13,0.888184451841653,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+99,1,"8:25",1705,1705,"Abdul Lewis Turnover.",16,11,5,15,0.874555487868756,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+100,1,"8:10",1690,1690,"Bryce Workman made Jumper.",16,13,3,0,0.852873281295814,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+101,1,"8:10",1690,1690,"Foul on Abdul Lewis.",16,13,3,0,0.852873281295814,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+102,1,"8:10",1690,1690,"Bryce Workman missed Free Throw.",16,13,3,0,0.852873281295814,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+103,1,"8:10",1690,1690,"Abdul Lewis Defensive Rebound.",16,13,3,11,0.852873281295814,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+104,1,"7:59",1679,1679,"Official TV Timeout",16,13,3,7,0.854241850030916,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+105,1,"7:52",1672,1672,"Zach Cooks missed Layup.",16,13,3,0,0.854241850030916,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+106,1,"7:52",1672,1672,"Tanner Rubio Defensive Rebound.",16,13,3,7,0.854241850030916,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+107,1,"7:45",1665,1665,"Foul on Shyquan Gibbs.",16,13,3,15,0.848041668364983,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+108,1,"7:30",1650,1650,"Tanner Rubio made Three Point Jumper. Assisted by Aamahne Santos.",16,16,0,17,0.787798199297458,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+109,1,"7:13",1633,1633,"Shawndale Jones made Layup.",18,16,2,0,0.832344160731841,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+110,1,"7:13",1633,1633,"Foul on Derrick Flowers.",18,16,2,0,0.832344160731841,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+111,1,"7:13",1633,1633,"Shawndale Jones missed Free Throw.",18,16,2,0,0.832344160731841,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+112,1,"7:13",1633,1633,"Derrick Flowers Defensive Rebound.",18,16,2,10,0.832344160731841,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+113,1,"7:03",1623,1623,"Tanner Rubio missed Three Point Jumper.",18,16,2,0,0.830186989668394,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+114,1,"7:03",1623,1623,"Abdul Lewis Defensive Rebound.",18,16,2,12,0.830186989668394,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+115,1,"6:51",1611,1611,"Diandre Wilson Turnover.",18,16,2,10,0.817226294881072,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+116,1,"6:41",1601,1601,"Derrick Flowers Turnover.",18,16,2,2,0.830173981650897,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+117,1,"6:39",1599,1599,"Diandre Wilson Steal.",18,16,2,3,0.828850031858913,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+118,1,"6:36",1596,1596,"Zach Cooks made Three Point Jumper. Assisted by Shawndale Jones.",21,16,5,18,0.878961818349349,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+119,1,"6:18",1578,1578,"Tyreese Davis missed Layup.",21,16,5,0,0.890654313469509,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+120,1,"6:18",1578,1578,"Diego Willis Defensive Rebound.",21,16,5,6,0.890654313469509,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+121,1,"6:12",1572,1572,"Shawndale Jones made Layup. Assisted by Diego Willis.",23,16,7,24,0.917413719708712,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+122,1,"5:48",1548,1548,"Bryce Workman missed Layup.",23,16,7,0,0.908823829795539,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+123,1,"5:48",1548,1548,"Abdul Lewis Defensive Rebound.",23,16,7,31,0.908823829795539,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+124,1,"5:17",1517,1517,"Foul on Bryce Workman.",23,16,7,0,0.915530347013535,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+125,1,"5:17",1517,1517,"Abdul Lewis made Free Throw.",24,16,8,0,0.926598691330082,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+126,1,"5:17",1517,1517,"Abdul Lewis missed Free Throw.",24,16,8,0,0.926598691330082,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+127,1,"5:17",1517,1517,"JD Notae Defensive Rebound.",24,16,8,16,0.926598691330082,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+128,1,"5:01",1501,1501,"JD Notae made Jumper.",24,18,6,9,0.893864472598543,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+129,1,"4:52",1492,1492,"Foul on Abdul Lewis.",24,18,6,0,0.897625119342268,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+130,1,"4:52",1492,1492,"Abdul Lewis Turnover.",24,18,6,9,0.897625119342268,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+131,1,"4:43",1483,1483,"JD Notae made Jumper.",24,20,4,23,0.863300838261301,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+132,1,"4:20",1460,1460,"Shawndale Jones missed Layup.",24,20,4,0,0.85285406375432,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+133,1,"4:20",1460,1460,"Jace Hogan Block.",24,20,4,2,0.85285406375432,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+134,1,"4:18",1458,1458,"JD Notae Defensive Rebound.",24,20,4,4,0.860922155637328,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+135,1,"4:14",1454,1454,"JD Notae Turnover.",24,20,4,16,0.860922155637328,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+136,1,"3:58",1438,1438,"Mohamed Bendary Turnover.",24,20,4,1,0.862473098021611,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+137,1,"3:57",1437,1437,"JD Notae Steal.",24,20,4,4,0.862473098021611,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+138,1,"3:53",1433,1433,"JD Notae missed Three Point Jumper.",24,20,4,0,0.862473098021611,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+139,1,"3:53",1433,1433,"Zach Cooks Defensive Rebound.",24,20,4,12,0.862473098021611,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+140,1,"3:41",1421,1421,"Zach Cooks made Jumper.",26,20,6,0,0.885245224352268,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+141,1,"3:41",1421,1421,"Official TV Timeout",26,20,6,0,0.885245224352268,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+142,1,"3:41",1421,1421,"Foul on Aamahne Santos.",26,20,6,0,0.885245224352268,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+143,1,"3:41",1421,1421,"Official TV Timeout",26,20,6,0,0.885245224352268,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+144,1,"3:41",1421,1421,"Zach Cooks made Free Throw.",27,20,7,11,0.899149506743029,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+145,1,"3:30",1410,1410,"Jalyn Hinton missed Jumper.",27,20,7,0,0.905228390591425,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+146,1,"3:30",1410,1410,"Mohamed Bendary Block.",27,20,7,3,0.905228390591425,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+147,1,"3:27",1407,1407,"Zach Cooks Defensive Rebound.",27,20,7,10,0.917261493573297,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+148,1,"3:17",1397,1397,"Diandre Wilson Turnover.",27,20,7,3,0.914391664970335,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+149,1,"3:14",1394,1394,"DeAnthony McCallum Steal.",27,20,7,9,0.914391664970335,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+150,1,"3:05",1385,1385,"Tyreese Davis missed Layup.",27,20,7,0,0.911057585019917,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+151,1,"3:05",1385,1385,"Diandre Wilson Defensive Rebound.",27,20,7,5,0.911057585019917,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+152,1,"3:00",1380,1380,"Zach Cooks made Three Point Jumper. Assisted by Diandre Wilson.",30,20,10,6,0.941307700729271,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+153,1,"2:54",1374,1374,"NJIT  Timeout",30,20,10,11,0.933499691303516,"NJIT","Jacksonville",3,4,1,0,8,"401086693",2019-01-19
+154,1,"2:43",1363,1363,"Foul on Donovan Greer.",30,20,10,0,0.940567456401619,"NJIT","Jacksonville",3,4,1,0,8,"401086693",2019-01-19
+155,1,"2:43",1363,1363,"DeAnthony McCallum missed Free Throw.",30,20,10,0,0.940567456401619,"NJIT","Jacksonville",3,4,1,0,8,"401086693",2019-01-19
+156,1,"2:43",1363,1363,"Zach Cooks Defensive Rebound.",30,20,10,28,0.940567456401619,"NJIT","Jacksonville",3,4,1,0,8,"401086693",2019-01-19
+157,1,"2:15",1335,1335,"San Antonio Brinson missed Jumper.",30,20,10,0,0.937063117568107,"NJIT","Jacksonville",3,4,1,0,8,"401086693",2019-01-19
+158,1,"2:15",1335,1335,"Jace Hogan Defensive Rebound.",30,20,10,6,0.937063117568107,"NJIT","Jacksonville",3,4,1,0,8,"401086693",2019-01-19
+159,1,"2:09",1329,1329,"Tyreese Davis Turnover.",30,20,10,1,0.9420234105618,"NJIT","Jacksonville",3,4,1,0,8,"401086693",2019-01-19
+160,1,"2:08",1328,1328,"Zach Cooks Steal.",30,20,10,6,0.9420234105618,"NJIT","Jacksonville",3,4,1,0,8,"401086693",2019-01-19
+161,1,"2:02",1322,1322,"Donovan Greer missed Jumper.",30,20,10,0,0.9420234105618,"NJIT","Jacksonville",3,4,1,0,8,"401086693",2019-01-19
+162,1,"2:02",1322,1322,"DeAnthony McCallum Defensive Rebound.",30,20,10,3,0.9420234105618,"NJIT","Jacksonville",3,4,1,0,8,"401086693",2019-01-19
+163,1,"1:59",1319,1319,"Foul on San Antonio Brinson.",30,20,10,0,0.944151926932265,"NJIT","Jacksonville",3,4,1,0,8,"401086693",2019-01-19
+164,1,"1:59",1319,1319,"DeAnthony McCallum missed Free Throw.",30,20,10,0,0.944151926932265,"NJIT","Jacksonville",3,4,1,0,8,"401086693",2019-01-19
+165,1,"1:59",1319,1319,"Abdul Lewis Defensive Rebound.",30,20,10,28,0.944151926932265,"NJIT","Jacksonville",3,4,1,0,8,"401086693",2019-01-19
+166,1,"1:31",1291,1291,"Abdul Lewis made Layup.",32,20,12,13,0.961334105037068,"NJIT","Jacksonville",3,4,0,0,8,"401086693",2019-01-19
+167,1,"1:18",1278,1278,"JD Notae missed Layup.",32,20,12,0,0.950005633786351,"NJIT","Jacksonville",3,4,0,0,8,"401086693",2019-01-19
+168,1,"1:18",1278,1278,"Mohamed Bendary Defensive Rebound.",32,20,12,11,0.950005633786351,"NJIT","Jacksonville",3,4,0,0,8,"401086693",2019-01-19
+169,1,"1:07",1267,1267,"Diandre Wilson made Three Point Jumper. Assisted by Abdul Lewis.",35,20,15,3,0.974888799812583,"NJIT","Jacksonville",3,4,0,0,8,"401086693",2019-01-19
+170,1,"1:04",1264,1264,"Jacksonville  Timeout",35,20,15,9,0.974888799812583,"NJIT","Jacksonville",3,3,0,1,8,"401086693",2019-01-19
+171,1,"0:55",1255,1255,"Jace Hogan missed Layup.",35,20,15,0,0.967537948854612,"NJIT","Jacksonville",3,3,0,1,8,"401086693",2019-01-19
+172,1,"0:55",1255,1255,"Jace Hogan Offensive Rebound.",35,20,15,8,0.967537948854612,"NJIT","Jacksonville",3,3,0,1,8,"401086693",2019-01-19
+173,1,"0:47",1247,1247,"Foul on Kjell de Graaf.",35,20,15,0,0.971670704873305,"NJIT","Jacksonville",3,3,0,1,8,"401086693",2019-01-19
+174,1,"0:47",1247,1247,"Jace Hogan made Free Throw.",35,21,14,0,0.967082450270116,"NJIT","Jacksonville",3,3,0,1,8,"401086693",2019-01-19
+175,1,"0:47",1247,1247,"Jace Hogan missed Free Throw.",35,21,14,0,0.967082450270116,"NJIT","Jacksonville",3,3,0,1,8,"401086693",2019-01-19
+176,1,"0:47",1247,1247,"Shawndale Jones Defensive Rebound.",35,21,14,17,0.967082450270116,"NJIT","Jacksonville",3,3,0,1,8,"401086693",2019-01-19
+177,1,"0:30",1230,1230,"Donovan Greer Turnover.",35,21,14,0,0.966902279610866,"NJIT","Jacksonville",3,3,0,1,8,"401086693",2019-01-19
+178,1,"0:30",1230,1230,"Jalyn Hinton Steal.",35,21,14,0,0.966902279610866,"NJIT","Jacksonville",3,3,0,1,8,"401086693",2019-01-19
+179,1,"0:30",1230,1230,"Foul on Donovan Greer.",35,21,14,0,0.966902279610866,"NJIT","Jacksonville",3,3,0,1,8,"401086693",2019-01-19
+180,1,"0:30",1230,1230,"Jalyn Hinton missed Free Throw.",35,21,14,0,0.966902279610866,"NJIT","Jacksonville",3,3,0,1,8,"401086693",2019-01-19
+181,1,"0:30",1230,1230,"Jacksonville Deadball Team Rebound.",35,21,14,0,0.966902279610866,"NJIT","Jacksonville",3,3,0,1,8,"401086693",2019-01-19
+182,1,"0:30",1230,1230,"Jalyn Hinton missed Free Throw.",35,21,14,0,0.966902279610866,"NJIT","Jacksonville",3,3,0,1,8,"401086693",2019-01-19
+183,1,"0:30",1230,1230,"Diandre Wilson Defensive Rebound.",35,21,14,23,0.966902279610866,"NJIT","Jacksonville",3,3,0,1,8,"401086693",2019-01-19
+184,1,"0:07",1207,1207,"Foul on JD Notae.",35,21,14,0,0.967889636938361,"NJIT","Jacksonville",3,3,0,1,8,"401086693",2019-01-19
+185,1,"0:07",1207,1207,"Zach Cooks made Free Throw.",36,21,15,0,0.972486778895465,"NJIT","Jacksonville",3,3,0,1,8,"401086693",2019-01-19
+186,1,"0:07",1207,1207,"Zach Cooks made Free Throw.",37,21,16,7,0.976441781608182,"NJIT","Jacksonville",3,3,0,1,8,"401086693",2019-01-19
+187,1,"0:00",1200,1200,"End of 1st half",37,21,16,0,0.976441781608182,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+188,2,"20:00",1200,1200,"PLAY",37,21,16,16,0.976441781608182,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+189,2,"19:44",1184,1184,"Diandre Wilson made Three Point Jumper. Assisted by Shyquan Gibbs.",40,21,19,9,0.986959525519715,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+190,2,"19:35",1175,1175,"Foul on Zach Cooks.",40,21,19,0,0.98586005218708,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+191,2,"19:35",1175,1175,"Aamahne Santos made Free Throw.",40,22,18,0,0.983372843942833,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+192,2,"19:35",1175,1175,"Aamahne Santos made Free Throw.",40,23,17,23,0.980456810023903,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+193,2,"19:12",1152,1152,"Zach Cooks missed Three Point Jumper.",40,23,17,0,0.979717249351638,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+194,2,"19:12",1152,1152,"Dave Bell Defensive Rebound.",40,23,17,13,0.979717249351638,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+195,2,"18:59",1139,1139,"Dave Bell Turnover.",40,23,17,18,0.981371797298202,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+196,2,"18:41",1121,1121,"San Antonio Brinson missed Three Point Jumper.",40,23,17,0,0.986515894777482,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+197,2,"18:41",1121,1121,"Jace Hogan Defensive Rebound.",40,23,17,12,0.986515894777482,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+198,2,"18:29",1109,1109,"JD Notae missed Layup.",40,23,17,0,0.981259701457735,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+199,2,"18:29",1109,1109,"Abdul Lewis Defensive Rebound.",40,23,17,8,0.981259701457735,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+200,2,"18:21",1101,1101,"Foul on JD Notae.",40,23,17,7,0.981259701457735,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+201,2,"18:14",1094,1094,"Abdul Lewis missed Layup.",40,23,17,0,0.983777545205121,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+202,2,"18:14",1094,1094,"Dave Bell Defensive Rebound.",40,23,17,7,0.983777545205121,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+203,2,"18:07",1087,1087,"Tyreese Davis made Layup. Assisted by Aamahne Santos.",40,25,15,0,0.978747660157171,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+204,2,"18:07",1087,1087,"Foul on San Antonio Brinson.",40,25,15,0,0.978747660157171,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+205,2,"18:07",1087,1087,"Tyreese Davis made Free Throw.",40,26,14,6,0.974735312553976,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+206,2,"18:01",1081,1081,"Foul on Jace Hogan.",40,26,14,0,0.974735312553976,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+207,2,"18:01",1081,1081,"Shawndale Jones made Free Throw.",41,26,15,0,0.978747660157171,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+208,2,"18:01",1081,1081,"Shawndale Jones made Free Throw.",42,26,16,13,0.982134476074113,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+209,2,"17:48",1068,1068,"JD Notae missed Three Point Jumper.",42,26,16,0,0.979832883254715,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+210,2,"17:48",1068,1068,"Shawndale Jones Defensive Rebound.",42,26,16,13,0.979832883254715,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+211,2,"17:35",1055,1055,"Abdul Lewis missed Layup.",42,26,16,0,0.982430048946185,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+212,2,"17:35",1055,1055,"Jalyn Hinton Defensive Rebound.",42,26,16,8,0.982430048946185,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+213,2,"17:27",1047,1047,"Jalyn Hinton made Layup.",42,28,14,0,0.974363897611146,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+214,2,"17:27",1047,1047,"Foul on Abdul Lewis.",42,28,14,0,0.974363897611146,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+215,2,"17:27",1047,1047,"Jalyn Hinton made Free Throw.",42,29,13,7,0.969604505570606,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+216,2,"17:20",1040,1040,"Diandre Wilson missed Layup.",42,29,13,0,0.969604505570606,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+217,2,"17:20",1040,1040,"Tyreese Davis Block.",42,29,13,1,0.969604505570606,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+218,2,"17:19",1039,1039,"Aamahne Santos Defensive Rebound.",42,29,13,5,0.965645616855821,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+219,2,"17:14",1034,1034,"Aamahne Santos Turnover.",42,29,13,19,0.965645616855821,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+220,2,"16:55",1015,1015,"Diandre Wilson missed Three Point Jumper.",42,29,13,0,0.966047321672911,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+221,2,"16:55",1015,1015,"Abdul Lewis Offensive Rebound.",42,29,13,4,0.966047321672911,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+222,2,"16:51",1011,1011,"Shyquan Gibbs made Jumper. Assisted by Abdul Lewis.",44,29,15,5,0.976190143302614,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+223,2,"16:46",1006,1006,"Aamahne Santos made Three Point Jumper.",44,32,12,31,0.962398358013799,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+224,2,"16:15",975,975,"Foul on Jace Hogan.",44,32,12,1,0.96422220215281,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+225,2,"16:14",974,974,"Shawndale Jones made Layup. Assisted by Diandre Wilson.",46,32,14,20,0.974757544640216,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+226,2,"15:54",954,954,"Tyreese Davis missed Jumper.",46,32,14,0,0.977602821658474,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+227,2,"15:54",954,954,"Abdul Lewis Defensive Rebound.",46,32,14,21,0.977602821658474,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+228,2,"15:33",933,933,"Abdul Lewis made Jumper.",48,32,16,10,0.983753460587137,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+229,2,"15:23",923,923,"Aamahne Santos missed Three Point Jumper.",48,32,16,0,0.982663575083917,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+230,2,"15:23",923,923,"Abdul Lewis Defensive Rebound.",48,32,16,2,0.982663575083917,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+231,2,"15:21",921,921,"Foul on Tyreese Davis.",48,32,16,0,0.982663575083917,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+232,2,"15:21",921,921,"Official TV Timeout",48,32,16,20,0.982663575083917,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+233,2,"15:01",901,901,"Abdul Lewis missed Three Point Jumper.",48,32,16,0,0.98336169163913,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+234,2,"15:01",901,901,"Tyreese Davis Defensive Rebound.",48,32,16,13,0.98336169163913,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+235,2,"14:48",888,888,"Jalyn Hinton made Dunk. Assisted by Tyreese Davis.",48,34,14,30,0.968629125637379,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+236,2,"14:18",858,858,"Shyquan Gibbs made Three Point Jumper. Assisted by Shawndale Jones.",51,34,17,25,0.989601307982829,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+237,2,"13:53",833,833,"DeAnthony McCallum made Layup.",51,36,15,22,0.985412238230008,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+238,2,"13:31",811,811,"Diandre Wilson made Three Point Jumper. Assisted by Shyquan Gibbs.",54,36,18,25,0.98963065982231,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+239,2,"13:06",786,786,"Dave Bell missed Layup.",54,36,18,0,0.991117276045044,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+240,2,"13:06",786,786,"Abdul Lewis Defensive Rebound.",54,36,18,6,0.991117276045044,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+241,2,"13:00",780,780,"Shawndale Jones missed Layup.",54,36,18,0,0.991117276045044,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+242,2,"13:00",780,780,"Dave Bell Defensive Rebound.",54,36,18,5,0.991117276045044,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+243,2,"12:55",775,775,"Tyreese Davis made Three Point Jumper. Assisted by Jalyn Hinton.",54,39,15,4,0.984688088989652,"NJIT","Jacksonville",4,4,0,0,8,"401086693",2019-01-19
+244,2,"12:51",771,771,"Jacksonville  Timeout",54,39,15,31,0.984688088989652,"NJIT","Jacksonville",4,3,0,1,8,"401086693",2019-01-19
+245,2,"12:20",740,740,"Zach Cooks missed Jumper.",54,39,15,0,0.986730848502892,"NJIT","Jacksonville",4,3,0,1,8,"401086693",2019-01-19
+246,2,"12:20",740,740,"Abdul Lewis Offensive Rebound.",54,39,15,6,0.986730848502892,"NJIT","Jacksonville",4,3,0,1,8,"401086693",2019-01-19
+247,2,"12:14",734,734,"Abdul Lewis missed Layup.",54,39,15,0,0.984049005174232,"NJIT","Jacksonville",4,3,0,1,8,"401086693",2019-01-19
+248,2,"12:14",734,734,"Abdul Lewis Offensive Rebound.",54,39,15,4,0.984049005174232,"NJIT","Jacksonville",4,3,0,1,8,"401086693",2019-01-19
+249,2,"12:10",730,730,"Abdul Lewis made Two Point Tip Shot.",56,39,17,5,0.989516415071179,"NJIT","Jacksonville",4,3,0,1,8,"401086693",2019-01-19
+250,2,"12:05",725,725,"Dave Bell Turnover.",56,39,17,1,0.991544575773447,"NJIT","Jacksonville",4,3,0,1,8,"401086693",2019-01-19
+251,2,"12:04",724,724,"Abdul Lewis Steal.",56,39,17,26,0.991544575773447,"NJIT","Jacksonville",4,3,0,1,8,"401086693",2019-01-19
+252,2,"11:38",698,698,"Diandre Wilson made Three Point Jumper. Assisted by Abdul Lewis.",59,39,20,29,0.997052703588384,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+253,2,"11:09",669,669,"DeAnthony McCallum made Layup.",59,41,18,12,0.99356373120055,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+254,2,"10:57",657,657,"Zach Cooks missed Layup.",59,41,18,0,0.994762294672868,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+255,2,"10:57",657,657,"Dave Bell Block.",59,41,18,1,0.994762294672868,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+256,2,"10:56",656,656,"DeAnthony McCallum Defensive Rebound.",59,41,18,2,0.994762294672868,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+257,2,"10:54",654,654,"Official TV Timeout",59,41,18,11,0.994762294672868,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+258,2,"10:43",643,643,"Foul on Shawndale Jones.",59,41,18,3,0.994776463818405,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+259,2,"10:40",640,640,"Foul on Jalyn Hinton.",59,41,18,0,0.994776463818405,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+260,2,"10:40",640,640,"Jalyn Hinton Turnover.",59,41,18,20,0.994776463818405,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+261,2,"10:20",620,620,"Zach Cooks made Layup. Assisted by Abdul Lewis.",61,41,20,14,0.99761837404817,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+262,2,"10:06",606,606,"Tyreese Davis missed Layup.",61,41,20,0,0.99712693441963,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+263,2,"10:06",606,606,"Diandre Wilson Block.",61,41,20,0,0.99712693441963,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+264,2,"10:06",606,606,"Diandre Wilson Defensive Rebound.",61,41,20,13,0.99712693441963,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+265,2,"9:53",593,593,"Abdul Lewis missed Layup.",61,41,20,0,0.996640226866538,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+266,2,"9:53",593,593,"Jalyn Hinton Defensive Rebound.",61,41,20,8,0.996640226866538,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+267,2,"9:45",585,585,"Jalyn Hinton made Layup.",61,43,18,26,0.994501820082079,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+268,2,"9:19",559,559,"Zach Cooks missed Jumper.",61,43,18,0,0.996126895331104,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+269,2,"9:19",559,559,"JD Notae Defensive Rebound.",61,43,18,9,0.996126895331104,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+270,2,"9:10",550,550,"JD Notae Turnover.",61,43,18,5,0.996126895331104,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+271,2,"9:05",545,545,"Zach Cooks Turnover.",61,43,18,2,0.996392524748831,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+272,2,"9:03",543,543,"JD Notae Steal.",61,43,18,1,0.996392524748831,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+273,2,"9:02",542,542,"JD Notae made Layup.",61,45,16,8,0.993849794995186,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+274,2,"8:54",534,534,"Diego Willis Turnover.",61,45,16,2,0.995887620574303,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+275,2,"8:52",532,532,"Aamahne Santos Steal.",61,45,16,1,0.995887620574303,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+276,2,"8:51",531,531,"Foul on Diego Willis.",61,45,16,0,0.995887620574303,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+277,2,"8:51",531,531,"Jalyn Hinton made Free Throw.",61,46,15,0,0.994558640868882,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+278,2,"8:51",531,531,"Jalyn Hinton made Free Throw.",61,47,14,4,0.99280328420687,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+279,2,"8:47",527,527,"Zach Cooks Turnover.",61,47,14,2,0.990287313134238,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+280,2,"8:45",525,525,"Tyreese Davis Steal.",61,47,14,2,0.990287313134238,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+281,2,"8:43",523,523,"Tyreese Davis made Layup.",61,49,12,2,0.983371742219476,"NJIT","Jacksonville",4,3,0,0,8,"401086693",2019-01-19
+282,2,"8:41",521,521,"NJIT  Timeout",61,49,12,5,0.983371742219476,"NJIT","Jacksonville",3,3,1,0,8,"401086693",2019-01-19
+283,2,"8:36",516,516,"Shawndale Jones Turnover.",61,49,12,1,0.982584213417433,"NJIT","Jacksonville",3,3,1,0,8,"401086693",2019-01-19
+284,2,"8:35",515,515,"Tyreese Davis Steal.",61,49,12,2,0.982584213417433,"NJIT","Jacksonville",3,3,1,0,8,"401086693",2019-01-19
+285,2,"8:33",513,513,"Tyreese Davis made Layup.",61,51,10,31,0.970451436782758,"NJIT","Jacksonville",3,3,1,0,8,"401086693",2019-01-19
+286,2,"8:02",482,482,"Zach Cooks missed Three Point Jumper.",61,51,10,0,0.972892285464944,"NJIT","Jacksonville",3,3,1,0,8,"401086693",2019-01-19
+287,2,"8:02",482,482,"Tyreese Davis Defensive Rebound.",61,51,10,9,0.972892285464944,"NJIT","Jacksonville",3,3,1,0,8,"401086693",2019-01-19
+288,2,"7:53",473,473,"Tyreese Davis made Jumper.",61,53,8,29,0.960560152124184,"NJIT","Jacksonville",3,3,1,0,8,"401086693",2019-01-19
+289,2,"7:24",444,444,"Official TV Timeout",61,53,8,3,0.949942690886953,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+290,2,"7:21",441,441,"Abdul Lewis Turnover.",61,53,8,2,0.949942690886953,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+291,2,"7:19",439,439,"JD Notae Steal.",61,53,8,2,0.966186841883653,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+292,2,"7:17",437,437,"Foul on Shyquan Gibbs.",61,53,8,6,0.966186841883653,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+293,2,"7:11",431,431,"Aamahne Santos missed Jumper.",61,53,8,0,0.966186841883653,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+294,2,"7:11",431,431,"Diandre Wilson Defensive Rebound.",61,53,8,5,0.966186841883653,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+295,2,"7:06",426,426,"Foul on Tyreese Davis.",61,53,8,22,0.957252582266418,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+296,2,"6:44",404,404,"Diandre Wilson missed Layup.",61,53,8,0,0.96718852628173,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+297,2,"6:44",404,404,"Jalyn Hinton Block.",61,53,8,1,0.96718852628173,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+298,2,"6:43",403,403,"NJIT Offensive Rebound.",61,53,8,3,0.96718852628173,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+299,2,"6:40",400,400,"Zach Cooks Turnover.",61,53,8,13,0.96718852628173,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+300,2,"6:27",387,387,"JD Notae Turnover.",61,53,8,15,0.962327272931777,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+301,2,"6:12",372,372,"Foul on Tyreese Davis.",61,53,8,0,0.962003086559528,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+302,2,"6:12",372,372,"Abdul Lewis made Free Throw.",62,53,9,0,0.971836964215193,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+303,2,"6:12",372,372,"Abdul Lewis made Free Throw.",63,53,10,14,0.979180842029267,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+304,2,"5:58",358,358,"Jalyn Hinton Turnover.",63,53,10,2,0.983253098226877,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+305,2,"5:56",356,356,"San Antonio Brinson Steal.",63,53,10,11,0.983253098226877,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+306,2,"5:45",345,345,"Abdul Lewis missed Layup.",63,53,10,0,0.981742738878217,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+307,2,"5:45",345,345,"Abdul Lewis Offensive Rebound.",63,53,10,2,0.981742738878217,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+308,2,"5:43",343,343,"Abdul Lewis Turnover.",63,53,10,2,0.981742738878217,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+309,2,"5:41",341,341,"Tyreese Davis Steal.",63,53,10,4,0.981742738878217,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+310,2,"5:37",337,337,"Aamahne Santos missed Layup.",63,53,10,0,0.986991999471758,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+311,2,"5:37",337,337,"Jacksonville Offensive Rebound.",63,53,10,9,0.986991999471758,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+312,2,"5:28",328,328,"Jalyn Hinton made Layup.",63,55,8,0,0.964327002439225,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+313,2,"5:28",328,328,"Foul on San Antonio Brinson.",63,55,8,0,0.964327002439225,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+314,2,"5:28",328,328,"Jalyn Hinton made Free Throw.",63,56,7,1,0.951805825716111,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+315,2,"5:27",327,327,"Shawndale Jones Turnover.",63,56,7,1,0.951805825716111,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+316,2,"5:26",326,326,"Jace Hogan Steal.",63,56,7,2,0.951805825716111,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+317,2,"5:24",324,324,"Jace Hogan made Layup.",63,58,5,15,0.91335425154814,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+318,2,"5:09",309,309,"Abdul Lewis missed Layup.",63,58,5,0,0.914556351035436,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+319,2,"5:09",309,309,"Jace Hogan Block.",63,58,5,1,0.914556351035436,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+320,2,"5:08",308,308,"Tyreese Davis Defensive Rebound.",63,58,5,0,0.914556351035436,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+321,2,"5:08",308,308,"Foul on Abdul Lewis.",63,58,5,0,0.914556351035436,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+322,2,"5:08",308,308,"Tyreese Davis made Free Throw.",63,59,4,0,0.884109850062099,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+323,2,"5:08",308,308,"Tyreese Davis missed Free Throw.",63,59,4,0,0.884109850062099,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+324,2,"5:08",308,308,"NJIT Deadball Team Rebound.",63,59,4,16,0.884109850062099,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+325,2,"4:52",292,292,"Zach Cooks made Layup.",65,59,6,15,0.945618002268324,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+326,2,"4:37",277,277,"Tyreese Davis made Layup.",65,61,4,30,0.902115043699368,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+327,2,"4:07",247,247,"Donovan Greer missed Three Point Jumper.",65,61,4,0,0.905272162001304,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+328,2,"4:07",247,247,"Jacksonville Defensive Rebound.",65,61,4,10,0.905272162001304,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+329,2,"3:57",237,237,"Aamahne Santos Turnover.",65,61,4,0,0.906203672555586,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+330,2,"3:57",237,237,"Official TV Timeout",65,61,4,17,0.906203672555586,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+331,2,"3:40",220,220,"Zach Cooks missed Layup.",65,61,4,0,0.924628513486468,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+332,2,"3:40",220,220,"Aamahne Santos Defensive Rebound.",65,61,4,5,0.924628513486468,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+333,2,"3:35",215,215,"Tyreese Davis missed Three Point Jumper.",65,61,4,0,0.915942521141632,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+334,2,"3:35",215,215,"Jace Hogan Offensive Rebound.",65,61,4,7,0.915942521141632,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+335,2,"3:28",208,208,"Jace Hogan missed Layup.",65,61,4,0,0.930695217029541,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+336,2,"3:28",208,208,"Jace Hogan Offensive Rebound.",65,61,4,3,0.930695217029541,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+337,2,"3:25",205,205,"Jace Hogan missed Layup.",65,61,4,0,0.930695217029541,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+338,2,"3:25",205,205,"Abdul Lewis Defensive Rebound.",65,61,4,0,0.930695217029541,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+339,2,"3:25",205,205,"Foul on Jace Hogan.",65,61,4,0,0.930695217029541,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+340,2,"3:25",205,205,"Abdul Lewis made Free Throw.",66,61,5,0,0.954758884039164,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+341,2,"3:25",205,205,"Abdul Lewis made Free Throw.",67,61,6,1,0.970730052004715,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+342,2,"3:24",204,204,"Jace Hogan Turnover.",67,61,6,36,0.970730052004715,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+343,2,"2:48",168,168,"Abdul Lewis missed Three Point Jumper.",67,61,6,0,0.98068294846911,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+344,2,"2:48",168,168,"Derrick Flowers Defensive Rebound.",67,61,6,16,0.98068294846911,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+345,2,"2:32",152,152,"Foul on Diandre Wilson.",67,61,6,0,0.978479576468385,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+346,2,"2:32",152,152,"Tyreese Davis made Free Throw.",67,62,5,0,0.963613991079379,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+347,2,"2:32",152,152,"Tyreese Davis made Free Throw.",67,63,4,1,0.9391186774555,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+348,2,"2:31",151,151,"Foul on Aamahne Santos.",67,63,4,0,0.9391186774555,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+349,2,"2:31",151,151,"Shyquan Gibbs made Free Throw.",68,63,5,0,0.963613991079379,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+350,2,"2:31",151,151,"Shyquan Gibbs made Free Throw.",69,63,6,17,0.978479576468385,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+351,2,"2:14",134,134,"Tyreese Davis missed Jumper.",69,63,6,0,0.98065739002705,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+352,2,"2:14",134,134,"Donovan Greer Defensive Rebound.",69,63,6,5,0.98065739002705,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+353,2,"2:09",129,129,"Donovan Greer Turnover.",69,63,6,2,0.979765630892391,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+354,2,"2:07",127,127,"JD Notae Steal.",69,63,6,2,0.979765630892391,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+355,2,"2:05",125,125,"Tyreese Davis missed Layup.",69,63,6,0,0.979765630892391,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+356,2,"2:05",125,125,"Donovan Greer Block.",69,63,6,2,0.979765630892391,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+357,2,"2:03",123,123,"Derrick Flowers Offensive Rebound.",69,63,6,1,0.979765630892391,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+358,2,"2:02",122,122,"JD Notae missed Three Point Jumper.",69,63,6,1,0.979765630892391,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+359,2,"2:01",121,121,"Derrick Flowers Offensive Rebound.",69,63,6,7,0.979765630892391,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+360,2,"1:54",114,114,"Jace Hogan made Layup.",69,65,4,0,0.952969579598939,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+361,2,"1:54",114,114,"Foul on Diandre Wilson.",69,65,4,0,0.952969579598939,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+362,2,"1:54",114,114,"Jace Hogan made Free Throw.",69,66,3,2,0.917431617589999,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+363,2,"1:52",112,112,"Foul on JD Notae.",69,66,3,0,0.917431617589999,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+364,2,"1:52",112,112,"Shyquan Gibbs made Free Throw.",70,66,4,0,0.952969579598939,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+365,2,"1:52",112,112,"Shyquan Gibbs made Free Throw.",71,66,5,11,0.9736510738163,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+366,2,"1:41",101,101,"JD Notae missed Layup.",71,66,5,0,0.971230643150829,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+367,2,"1:41",101,101,"JD Notae Offensive Rebound.",71,66,5,4,0.971230643150829,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+368,2,"1:37",97,97,"Jace Hogan made Layup. Assisted by JD Notae.",71,68,3,3,0.908714784566325,"NJIT","Jacksonville",3,3,0,0,8,"401086693",2019-01-19
+369,2,"1:34",94,94,"Jacksonville  Timeout",71,68,3,24,0.908714784566325,"NJIT","Jacksonville",3,2,0,1,8,"401086693",2019-01-19
+370,2,"1:10",70,70,"Diandre Wilson missed Three Point Jumper.",71,68,3,0,0.931085135225107,"NJIT","Jacksonville",3,2,0,1,8,"401086693",2019-01-19
+371,2,"1:10",70,70,"Abdul Lewis Offensive Rebound.",71,68,3,27,0.931085135225107,"NJIT","Jacksonville",3,2,0,1,8,"401086693",2019-01-19
+372,2,"0:43",43,43,"Diandre Wilson made Three Point Jumper. Assisted by Zach Cooks.",74,68,6,10,0.995327408671278,"NJIT","Jacksonville",3,2,0,1,8,"401086693",2019-01-19
+373,2,"0:33",33,33,"Tyreese Davis made Three Point Jumper. Assisted by JD Notae.",74,71,3,3,0.976791970678973,"NJIT","Jacksonville",3,2,0,0,8,"401086693",2019-01-19
+374,2,"0:30",30,30,"Jacksonville  Timeout",74,71,3,4,0.945554006165463,"NJIT","Jacksonville",3,1,0,1,8,"401086693",2019-01-19
+375,2,"0:26",26,26,"Foul on Aamahne Santos.",74,71,3,0,0.984357653856976,"NJIT","Jacksonville",3,1,0,1,8,"401086693",2019-01-19
+376,2,"0:26",26,26,"Zach Cooks missed Free Throw.",74,71,3,0,0.984357653856976,"NJIT","Jacksonville",3,1,0,1,8,"401086693",2019-01-19
+377,2,"0:26",26,26,"NJIT Deadball Team Rebound.",74,71,3,0,0.984357653856976,"NJIT","Jacksonville",3,1,0,1,8,"401086693",2019-01-19
+378,2,"0:26",26,26,"Zach Cooks made Free Throw.",75,71,4,4,0.995466764039052,"NJIT","Jacksonville",3,1,0,1,8,"401086693",2019-01-19
+379,2,"0:22",22,22,"JD Notae Turnover.",75,71,4,1,0.99685950216976,"NJIT","Jacksonville",3,1,0,1,8,"401086693",2019-01-19
+380,2,"0:21",21,21,"Zach Cooks Steal.",75,71,4,1,0.998959552200939,"NJIT","Jacksonville",3,1,0,1,8,"401086693",2019-01-19
+381,2,"0:20",20,20,"Foul on JD Notae.",75,71,4,0,0.998816861490497,"NJIT","Jacksonville",3,1,0,1,8,"401086693",2019-01-19
+382,2,"0:20",20,20,"Zach Cooks missed Free Throw.",75,71,4,0,0.998816861490497,"NJIT","Jacksonville",3,1,0,1,8,"401086693",2019-01-19
+383,2,"0:20",20,20,"NJIT Deadball Team Rebound.",75,71,4,0,0.998816861490497,"NJIT","Jacksonville",3,1,0,1,8,"401086693",2019-01-19
+384,2,"0:20",20,20,"Zach Cooks made Free Throw.",76,71,5,7,0.999773765740951,"NJIT","Jacksonville",3,1,0,1,8,"401086693",2019-01-19
+385,2,"0:13",13,13,"Jace Hogan made Three Point Jumper. Assisted by Aamahne Santos.",76,74,2,2,0.977524112132811,"NJIT","Jacksonville",3,1,0,1,8,"401086693",2019-01-19
+386,2,"0:11",11,11,"NJIT  Timeout",76,74,2,3,0.951777364940867,"NJIT","Jacksonville",2,1,1,1,8,"401086693",2019-01-19
+387,2,"0:08",8,8,"Foul on JD Notae.",76,74,2,0,0.976866810423004,"NJIT","Jacksonville",2,1,1,1,8,"401086693",2019-01-19
+388,2,"0:08",8,8,"Shyquan Gibbs made Free Throw.",77,74,3,0,0.995322524146465,"NJIT","Jacksonville",2,1,1,1,8,"401086693",2019-01-19
+389,2,"0:08",8,8,"Shyquan Gibbs missed Free Throw.",77,74,3,0,0.995322524146465,"NJIT","Jacksonville",2,1,1,1,8,"401086693",2019-01-19
+390,2,"0:08",8,8,"Jace Hogan Defensive Rebound.",77,74,3,7,0.995322524146465,"NJIT","Jacksonville",2,1,1,1,8,"401086693",2019-01-19
+391,2,"0:01",1,1,"Aamahne Santos missed Three Point Jumper.",77,74,3,0,0.996047932406744,"NJIT","Jacksonville",2,1,1,1,8,"401086693",2019-01-19
+392,2,"0:01",1,1,"Abdul Lewis Defensive Rebound.",77,74,3,1,0.996047932406744,"NJIT","Jacksonville",2,1,1,1,8,"401086693",2019-01-19
+393,2,"0:00",0,0,"End of Game",77,74,3,0,1,"NJIT","Jacksonville",2,1,1,1,8,"401086693",2019-01-19

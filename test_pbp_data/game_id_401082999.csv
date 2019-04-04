@@ -1,0 +1,366 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","play_length","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,5,0.926208718211139,"Arkansas","Montana State",4,4,0,0,23,"401082999",2018-11-21
+2,1,"19:55",2395,2395,"Mason Jones made Three Point Jumper. Assisted by Jalen Harris.",3,0,3,30,0.940685331775339,"Arkansas","Montana State",4,4,0,0,23,"401082999",2018-11-21
+3,1,"19:25",2365,2365,"Devin Kirby missed Jumper.",3,0,3,0,0.918456957083082,"Arkansas","Montana State",4,4,0,0,23,"401082999",2018-11-21
+4,1,"19:25",2365,2365,"Adrio Bailey Block.",3,0,3,1,0.918456957083082,"Arkansas","Montana State",4,4,0,0,23,"401082999",2018-11-21
+5,1,"19:24",2364,2364,"Jalen Harris Defensive Rebound.",3,0,3,3,0.918456957083082,"Arkansas","Montana State",4,4,0,0,23,"401082999",2018-11-21
+6,1,"19:21",2361,2361,"Foul on Keljin Blevins.",3,0,3,0,0.918456957083082,"Arkansas","Montana State",4,4,0,0,23,"401082999",2018-11-21
+7,1,"19:21",2361,2361,"Mason Jones missed Free Throw.",3,0,3,0,0.918456957083082,"Arkansas","Montana State",4,4,0,0,23,"401082999",2018-11-21
+8,1,"19:21",2361,2361,"Arkansas Deadball Team Rebound.",3,0,3,0,0.918456957083082,"Arkansas","Montana State",4,4,0,0,23,"401082999",2018-11-21
+9,1,"19:21",2361,2361,"Mason Jones made Free Throw.",4,0,4,17,0.920932522101599,"Arkansas","Montana State",4,4,0,0,23,"401082999",2018-11-21
+10,1,"19:04",2344,2344,"Foul on Adrio Bailey.",4,0,4,0,0.937138270719119,"Arkansas","Montana State",4,4,0,0,23,"401082999",2018-11-21
+11,1,"19:04",2344,2344,"Keljin Blevins made Free Throw.",4,1,3,0,0.931636818483624,"Arkansas","Montana State",4,4,0,0,23,"401082999",2018-11-21
+12,1,"19:04",2344,2344,"Keljin Blevins missed Free Throw.",4,1,3,0,0.931636818483624,"Arkansas","Montana State",4,4,0,0,23,"401082999",2018-11-21
+13,1,"19:04",2344,2344,"Isaiah Joe Defensive Rebound.",4,1,3,10,0.931636818483624,"Arkansas","Montana State",4,4,0,0,23,"401082999",2018-11-21
+14,1,"18:54",2334,2334,"Mason Jones made Three Point Jumper. Assisted by Jalen Harris.",7,1,6,10,0.950410208478678,"Arkansas","Montana State",4,4,0,0,23,"401082999",2018-11-21
+15,1,"18:44",2324,2324,"Montana State  Timeout",7,1,6,23,0.954206102507336,"Arkansas","Montana State",3,4,1,0,23,"401082999",2018-11-21
+16,1,"18:21",2301,2301,"Harald Frey missed Three Point Jumper.",7,1,6,0,0.946898166214107,"Arkansas","Montana State",3,4,1,0,23,"401082999",2018-11-21
+17,1,"18:21",2301,2301,"Arkansas Defensive Rebound.",7,1,6,14,0.946898166214107,"Arkansas","Montana State",3,4,1,0,23,"401082999",2018-11-21
+18,1,"18:07",2287,2287,"Daniel Gafford made Layup.",9,1,8,12,0.959643012308943,"Arkansas","Montana State",3,4,1,0,23,"401082999",2018-11-21
+19,1,"17:55",2275,2275,"Keljin Blevins Turnover.",9,1,8,4,0.960451057600564,"Arkansas","Montana State",3,4,1,0,23,"401082999",2018-11-21
+20,1,"17:51",2271,2271,"Jalen Harris made Dunk. Assisted by Isaiah Joe.",11,1,10,22,0.967605172356289,"Arkansas","Montana State",3,4,1,0,23,"401082999",2018-11-21
+21,1,"17:29",2249,2249,"Tyler Hall missed Three Point Jumper.",11,1,10,0,0.959110574002827,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+22,1,"17:29",2249,2249,"Ladan Ricketts Offensive Rebound.",11,1,10,4,0.959110574002827,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+23,1,"17:25",2245,2245,"Ladan Ricketts made Jumper.",11,3,8,19,0.951058976814531,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+24,1,"17:06",2226,2226,"Adrio Bailey made Jumper. Assisted by Isaiah Joe.",13,3,10,12,0.96689665669046,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+25,1,"16:54",2214,2214,"Keljin Blevins made Layup.",13,5,8,10,0.96521706064227,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+26,1,"16:44",2204,2204,"Isaiah Joe missed Three Point Jumper.",13,5,8,0,0.961210740409642,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+27,1,"16:44",2204,2204,"Adrio Bailey Offensive Rebound.",13,5,8,4,0.961210740409642,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+28,1,"16:40",2200,2200,"Isaiah Joe missed Three Point Jumper.",13,5,8,0,0.961210740409642,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+29,1,"16:40",2200,2200,"Montana State Defensive Rebound.",13,5,8,16,0.961210740409642,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+30,1,"16:24",2184,2184,"Keljin Blevins missed Layup.",13,5,8,0,0.959791300266479,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+31,1,"16:24",2184,2184,"Devin Kirby Offensive Rebound.",13,5,8,4,0.959791300266479,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+32,1,"16:20",2180,2180,"Ladan Ricketts missed Three Point Jumper.",13,5,8,0,0.959791300266479,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+33,1,"16:20",2180,2180,"Isaiah Joe Defensive Rebound.",13,5,8,7,0.959791300266479,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+34,1,"16:13",2173,2173,"Mason Jones made Three Point Jumper. Assisted by Jalen Harris.",16,5,11,18,0.969897292824079,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+35,1,"15:55",2155,2155,"Tyler Hall missed Three Point Jumper.",16,5,11,0,0.972983836590996,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+36,1,"15:55",2155,2155,"Devin Kirby Offensive Rebound.",16,5,11,5,0.972983836590996,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+37,1,"15:50",2150,2150,"Tyler Hall made Layup. Assisted by Devin Kirby.",16,7,9,22,0.965939851709064,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+38,1,"15:28",2128,2128,"Isaiah Joe missed Three Point Jumper.",16,7,9,0,0.964216635184928,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+39,1,"15:28",2128,2128,"Montana State Deadball Team Rebound.",16,7,9,2,0.964216635184928,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+40,1,"15:26",2126,2126,"Foul on Daniel Gafford.",16,7,9,0,0.964216635184928,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+41,1,"15:26",2126,2126,"Official TV Timeout",16,7,9,0,0.964216635184928,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+42,1,"15:26",2126,2126,"Devin Kirby missed Free Throw.",16,7,9,0,0.964216635184928,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+43,1,"15:26",2126,2126,"Montana State Deadball Team Rebound.",16,7,9,0,0.964216635184928,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+44,1,"15:26",2126,2126,"Devin Kirby missed Free Throw.",16,7,9,0,0.964216635184928,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+45,1,"15:26",2126,2126,"Montana State Deadball Team Rebound.",16,7,9,22,0.964216635184928,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+46,1,"15:04",2104,2104,"Foul on Gabe Osabuohien.",16,7,9,5,0.962512911873241,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+47,1,"14:59",2099,2099,"Harald Frey missed Three Point Jumper.",16,7,9,0,0.964758608773562,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+48,1,"14:59",2099,2099,"Arkansas Defensive Rebound.",16,7,9,15,0.964758608773562,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+49,1,"14:44",2084,2084,"Isaiah Joe Turnover.",16,7,9,1,0.961245049956646,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+50,1,"14:43",2083,2083,"Sam Neumann Turnover.",16,7,9,2,0.961245049956646,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+51,1,"14:41",2081,2081,"Mason Jones Steal.",16,7,9,3,0.961245049956646,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+52,1,"14:38",2078,2078,"Daniel Gafford made Dunk.",18,7,11,24,0.9700008866374,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+53,1,"14:14",2054,2054,"Harald Frey missed Three Point Jumper.",18,7,11,0,0.974430463721071,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+54,1,"14:14",2054,2054,"Sam Neumann Offensive Rebound.",18,7,11,12,0.974430463721071,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+55,1,"14:02",2042,2042,"Harald Frey Turnover.",18,7,11,1,0.967404110782646,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+56,1,"14:01",2041,2041,"Gabe Osabuohien Steal.",18,7,11,5,0.967404110782646,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+57,1,"13:56",2036,2036,"Mason Jones missed Three Point Jumper.",18,7,11,0,0.973379763970543,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+58,1,"13:56",2036,2036,"Montana State Deadball Team Rebound.",18,7,11,3,0.973379763970543,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+59,1,"13:53",2033,2033,"Foul on Gabe Osabuohien.",18,7,11,21,0.973379763970543,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+60,1,"13:32",2012,2012,"Sam Neumann missed Three Point Jumper.",18,7,11,0,0.971285573783695,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+61,1,"13:32",2012,2012,"Mason Jones Defensive Rebound.",18,7,11,15,0.971285573783695,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+62,1,"13:17",1997,1997,"Keyshawn Embery-Simpson made Three Point Jumper. Assisted by Desi Sills.",21,7,14,7,0.983124818276213,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+63,1,"13:10",1990,1990,"Foul on Desi Sills.",21,7,14,2,0.983124818276213,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+64,1,"13:08",1988,1988,"Sam Neumann Turnover.",21,7,14,1,0.979084857849754,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+65,1,"13:07",1987,1987,"Isaiah Joe Steal.",21,7,14,6,0.979084857849754,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+66,1,"13:01",1981,1981,"Gabe Osabuohien missed Three Point Jumper.",21,7,14,0,0.979084857849754,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+67,1,"13:01",1981,1981,"Arkansas Deadball Team Rebound.",21,7,14,2,0.979084857849754,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+68,1,"12:59",1979,1979,"Foul on Sam Neumann.",21,7,14,5,0.983400391373212,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+69,1,"12:54",1974,1974,"Isaiah Joe missed Three Point Jumper.",21,7,14,0,0.983400391373212,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+70,1,"12:54",1974,1974,"Usman Haruna Defensive Rebound.",21,7,14,14,0.983400391373212,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+71,1,"12:40",1960,1960,"Lassi Nikkarinen Turnover.",21,7,14,1,0.976179204182435,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+72,1,"12:39",1959,1959,"Isaiah Joe Steal.",21,7,14,5,0.980629030710843,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+73,1,"12:34",1954,1954,"Isaiah Joe made Layup. Assisted by Desi Sills.",23,7,16,15,0.984850228742757,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+74,1,"12:19",1939,1939,"Keljin Blevins Turnover.",23,7,16,6,0.985148989450199,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+75,1,"12:13",1933,1933,"Isaiah Joe Steal.",23,7,16,1,0.985148989450199,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+76,1,"12:12",1932,1932,"Reggie Chaney made Dunk. Assisted by Isaiah Joe.",25,7,18,8,0.988491185798544,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+77,1,"12:04",1924,1924,"Ladan Ricketts missed Three Point Jumper.",25,7,18,0,0.98941143608361,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+78,1,"12:04",1924,1924,"Reggie Chaney Defensive Rebound.",25,7,18,11,0.98941143608361,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+79,1,"11:53",1913,1913,"Desi Sills missed Three Point Jumper.",25,7,18,0,0.989716523032959,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+80,1,"11:53",1913,1913,"Keljin Blevins Defensive Rebound.",25,7,18,7,0.989716523032959,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+81,1,"11:46",1906,1906,"Foul on Keljin Blevins.",25,7,18,0,0.986925371851322,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+82,1,"11:46",1906,1906,"Keljin Blevins Turnover.",25,7,18,0,0.986925371851322,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+83,1,"11:46",1906,1906,"Official TV Timeout",25,7,18,13,0.986925371851322,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+84,1,"11:33",1893,1893,"Gabe Osabuohien missed Layup.",25,7,18,0,0.989654739705517,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+85,1,"11:33",1893,1893,"Tyler Hall Defensive Rebound.",25,7,18,22,0.989654739705517,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+86,1,"11:11",1871,1871,"Sam Neumann Turnover.",25,7,18,0,0.987738421364286,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+87,1,"11:11",1871,1871,"Desi Sills Steal.",25,7,18,19,0.987738421364286,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+88,1,"10:52",1852,1852,"Keyshawn Embery-Simpson made Three Point Jumper. Assisted by Desi Sills.",28,7,21,33,0.992116111808284,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+89,1,"10:19",1819,1819,"Lassi Nikkarinen missed Three Point Jumper.",28,7,21,0,0.993754085966707,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+90,1,"10:19",1819,1819,"Ladan Ricketts Offensive Rebound.",28,7,21,5,0.993754085966707,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+91,1,"10:14",1814,1814,"Tyler Hall missed Three Point Jumper.",28,7,21,0,0.993754085966707,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+92,1,"10:14",1814,1814,"Gabe Osabuohien Defensive Rebound.",28,7,21,7,0.993754085966707,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+93,1,"10:07",1807,1807,"Reggie Chaney made Dunk. Assisted by Isaiah Joe.",30,7,23,16,0.993939942548016,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+94,1,"9:51",1791,1791,"Tyler Hall missed Three Point Jumper.",30,7,23,0,0.993594411265949,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+95,1,"9:51",1791,1791,"Reggie Chaney Defensive Rebound.",30,7,23,8,0.993594411265949,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+96,1,"9:43",1783,1783,"Desi Sills made Layup. Assisted by Keyshawn Embery-Simpson.",32,7,25,0,0.995628553199586,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+97,1,"9:43",1783,1783,"Foul on Devin Kirby.",32,7,25,0,0.995628553199586,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+98,1,"9:43",1783,1783,"Desi Sills missed Free Throw.",32,7,25,0,0.995628553199586,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+99,1,"9:43",1783,1783,"Devin Kirby Defensive Rebound.",32,7,25,15,0.995628553199586,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+100,1,"9:28",1768,1768,"Ladan Ricketts missed Jumper.",32,7,25,0,0.995790255948425,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+101,1,"9:28",1768,1768,"Devin Kirby Offensive Rebound.",32,7,25,4,0.995790255948425,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+102,1,"9:24",1764,1764,"Devin Kirby made Layup.",32,9,23,14,0.99454866526811,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+103,1,"9:10",1750,1750,"Desi Sills missed Three Point Jumper.",32,9,23,0,0.995293919118322,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+104,1,"9:10",1750,1750,"Sam Neumann Defensive Rebound.",32,9,23,11,0.995293919118322,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+105,1,"8:59",1739,1739,"Lassi Nikkarinen Turnover.",32,9,23,1,0.994814779832246,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+106,1,"8:58",1738,1738,"Keyshawn Embery-Simpson Steal.",32,9,23,4,0.994814779832246,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+107,1,"8:54",1734,1734,"Reggie Chaney Turnover.",32,9,23,0,0.994814779832246,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+108,1,"8:54",1734,1734,"Ladan Ricketts Steal.",32,9,23,6,0.994814779832246,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+109,1,"8:48",1728,1728,"Tyler Hall made Three Point Jumper. Assisted by Sam Neumann.",32,12,20,16,0.990722465459522,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+110,1,"8:32",1712,1712,"Foul on Ethan Henderson.",32,12,20,0,0.992289654276971,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+111,1,"8:32",1712,1712,"Ethan Henderson Turnover.",32,12,20,15,0.992289654276971,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+112,1,"8:17",1697,1697,"Tyler Hall missed Jumper.",32,12,20,0,0.992588076729289,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+113,1,"8:17",1697,1697,"Devin Kirby Offensive Rebound.",32,12,20,9,0.992588076729289,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+114,1,"8:08",1688,1688,"Harald Frey Turnover.",32,12,20,7,0.993813794574727,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+115,1,"8:01",1681,1681,"Isaiah Joe made Three Point Jumper. Assisted by Jalen Harris.",35,12,23,16,0.995991403671744,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+116,1,"7:45",1665,1665,"Tyler Hall made Three Point Jumper. Assisted by Harald Frey.",35,15,20,9,0.99065931263034,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+117,1,"7:36",1656,1656,"Isaiah Joe missed Three Point Jumper.",35,15,20,0,0.990759773474584,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+118,1,"7:36",1656,1656,"Russell Daniels Defensive Rebound.",35,15,20,8,0.990759773474584,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+119,1,"7:28",1648,1648,"Devin Kirby missed Layup.",35,15,20,0,0.992401327042953,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+120,1,"7:28",1648,1648,"Jordan Phillips Defensive Rebound.",35,15,20,11,0.992401327042953,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+121,1,"7:17",1637,1637,"Jordan Phillips missed Jumper.",35,15,20,0,0.990868234445376,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+122,1,"7:17",1637,1637,"Russell Daniels Defensive Rebound.",35,15,20,12,0.990868234445376,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+123,1,"7:05",1625,1625,"Tyler Hall made Three Point Jumper. Assisted by Russell Daniels.",35,18,17,14,0.988460945990441,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+124,1,"6:51",1611,1611,"Jalen Harris made Three Point Jumper. Assisted by Adrio Bailey.",38,18,20,18,0.99134361844797,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+125,1,"6:33",1593,1593,"Tyler Hall made Three Point Jumper.",38,21,17,7,0.986482533540286,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+126,1,"6:26",1586,1586,"Arkansas  Timeout",38,21,17,5,0.986982522993521,"Arkansas","Montana State",3,3,0,1,23,"401082999",2018-11-21
+127,1,"6:21",1581,1581,"Foul on Russell Daniels.",38,21,17,13,0.986982522993521,"Arkansas","Montana State",3,3,0,1,23,"401082999",2018-11-21
+128,1,"6:08",1568,1568,"Isaiah Joe made Dunk. Assisted by Adrio Bailey.",40,21,19,18,0.990750356302966,"Arkansas","Montana State",3,3,0,1,23,"401082999",2018-11-21
+129,1,"5:50",1550,1550,"Russell Daniels missed Jumper.",40,21,19,0,0.990610372712094,"Arkansas","Montana State",3,3,0,1,23,"401082999",2018-11-21
+130,1,"5:50",1550,1550,"Harald Frey Offensive Rebound.",40,21,19,18,0.990610372712094,"Arkansas","Montana State",3,3,0,1,23,"401082999",2018-11-21
+131,1,"5:32",1532,1532,"Tyler Hall made Three Point Jumper. Assisted by Russell Daniels.",40,24,16,16,0.986377541803033,"Arkansas","Montana State",3,3,0,1,23,"401082999",2018-11-21
+132,1,"5:16",1516,1516,"Daniel Gafford Turnover.",40,24,16,2,0.988426560984091,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+133,1,"5:14",1514,1514,"Devin Kirby Steal.",40,24,16,4,0.988426560984091,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+134,1,"5:10",1510,1510,"Russell Daniels missed Jumper.",40,24,16,0,0.988426560984091,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+135,1,"5:10",1510,1510,"Daniel Gafford Defensive Rebound.",40,24,16,7,0.988426560984091,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+136,1,"5:03",1503,1503,"Foul on Isaiah Joe.",40,24,16,0,0.986181425381377,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+137,1,"5:03",1503,1503,"Isaiah Joe Turnover.",40,24,16,12,0.986181425381377,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+138,1,"4:51",1491,1491,"Russell Daniels Turnover.",40,24,16,1,0.986070176124732,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+139,1,"4:50",1490,1490,"Desi Sills Steal.",40,24,16,3,0.986070176124732,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+140,1,"4:47",1487,1487,"Desi Sills Turnover.",40,24,16,8,0.987362221912465,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+141,1,"4:39",1479,1479,"Foul on Adrio Bailey.",40,24,16,0,0.989883973658942,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+142,1,"4:39",1479,1479,"Devin Kirby missed Free Throw.",40,24,16,0,0.989883973658942,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+143,1,"4:39",1479,1479,"Montana State Deadball Team Rebound.",40,24,16,0,0.989883973658942,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+144,1,"4:39",1479,1479,"Devin Kirby made Free Throw.",40,25,15,12,0.98823304208746,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+145,1,"4:27",1467,1467,"Mason Jones missed Three Point Jumper.",40,25,15,0,0.980501742503799,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+146,1,"4:27",1467,1467,"Adrio Bailey Offensive Rebound.",40,25,15,4,0.980501742503799,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+147,1,"4:23",1463,1463,"Adrio Bailey made Layup.",42,25,17,22,0.985176020783568,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+148,1,"4:01",1441,1441,"Keljin Blevins missed Jumper.",42,25,17,0,0.990152595656217,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+149,1,"4:01",1441,1441,"Keljin Blevins Offensive Rebound.",42,25,17,3,0.990152595656217,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+150,1,"3:58",1438,1438,"Foul on Desi Sills.",42,25,17,0,0.988223072998609,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+151,1,"3:58",1438,1438,"Official TV Timeout",42,25,17,0,0.988223072998609,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+152,1,"3:58",1438,1438,"Keljin Blevins made Free Throw.",42,26,16,0,0.986355236870059,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+153,1,"3:58",1438,1438,"Keljin Blevins made Free Throw.",42,27,15,12,0.984195897094363,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+154,1,"3:46",1426,1426,"Jalen Harris Turnover.",42,27,15,13,0.982238571755755,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+155,1,"3:33",1413,1413,"Tyler Hall missed Three Point Jumper.",42,27,15,0,0.984500137678033,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+156,1,"3:33",1413,1413,"Daniel Gafford Defensive Rebound.",42,27,15,26,0.984500137678033,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+157,1,"3:07",1387,1387,"Mason Jones made Three Point Jumper. Assisted by Desi Sills.",45,27,18,29,0.990581347138926,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+158,1,"2:38",1358,1358,"Lassi Nikkarinen Turnover.",45,27,18,1,0.991229463141469,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+159,1,"2:37",1357,1357,"Mason Jones Steal.",45,27,18,5,0.991229463141469,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+160,1,"2:32",1352,1352,"Adrio Bailey made Layup. Assisted by Mason Jones.",47,27,20,20,0.993545520857013,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+161,1,"2:12",1332,1332,"Tyler Hall made Three Point Jumper. Assisted by Sam Neumann.",47,30,17,0,0.988480999312174,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+162,1,"2:12",1332,1332,"Foul on Desi Sills.",47,30,17,0,0.988480999312174,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+163,1,"2:12",1332,1332,"Tyler Hall missed Free Throw.",47,30,17,0,0.988480999312174,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+164,1,"2:12",1332,1332,"Daniel Gafford Defensive Rebound.",47,30,17,20,0.988480999312174,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+165,1,"1:52",1312,1312,"Jalen Harris missed Jumper.",47,30,17,0,0.989850176136155,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+166,1,"1:52",1312,1312,"Harald Frey Defensive Rebound.",47,30,17,9,0.989850176136155,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+167,1,"1:43",1303,1303,"Ladan Ricketts made Three Point Jumper. Assisted by Tyler Hall.",47,33,14,21,0.978889004062496,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+168,1,"1:22",1282,1282,"Foul on Sam Neumann.",47,33,14,10,0.982749108276542,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+169,1,"1:12",1272,1272,"Daniel Gafford made Dunk. Assisted by Mason Jones.",49,33,16,16,0.985475799295211,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+170,1,"0:56",1256,1256,"Tyler Hall made Three Point Jumper. Assisted by Harald Frey.",49,36,13,12,0.976078798466298,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+171,1,"0:44",1244,1244,"Mason Jones made Three Point Jumper. Assisted by Jalen Harris.",52,36,16,4,0.987437584316741,"Arkansas","Montana State",3,3,0,0,23,"401082999",2018-11-21
+172,1,"0:40",1240,1240,"Montana State  Timeout",52,36,16,15,0.987437584316741,"Arkansas","Montana State",2,3,1,0,23,"401082999",2018-11-21
+173,1,"0:25",1225,1225,"Harald Frey missed Three Point Jumper.",52,36,16,0,0.989386457944002,"Arkansas","Montana State",2,3,1,0,23,"401082999",2018-11-21
+174,1,"0:25",1225,1225,"Harald Frey Offensive Rebound.",52,36,16,20,0.989386457944002,"Arkansas","Montana State",2,3,1,0,23,"401082999",2018-11-21
+175,1,"0:05",1205,1205,"Foul on Daniel Gafford.",52,36,16,0,0.987598594360319,"Arkansas","Montana State",2,3,1,0,23,"401082999",2018-11-21
+176,1,"0:05",1205,1205,"Sam Neumann made Free Throw.",52,37,15,0,0.985488784897482,"Arkansas","Montana State",2,3,1,0,23,"401082999",2018-11-21
+177,1,"0:05",1205,1205,"Sam Neumann made Free Throw.",52,38,14,4,0.98302620962944,"Arkansas","Montana State",2,3,1,0,23,"401082999",2018-11-21
+178,1,"0:01",1201,1201,"Foul on Harald Frey.",52,38,14,0,0.98302620962944,"Arkansas","Montana State",2,3,1,0,23,"401082999",2018-11-21
+179,1,"0:01",1201,1201,"Jalen Harris made Free Throw.",53,38,15,0,0.985488784897482,"Arkansas","Montana State",2,3,1,0,23,"401082999",2018-11-21
+180,1,"0:01",1201,1201,"Jalen Harris made Free Throw.",54,38,16,1,0.987598594360319,"Arkansas","Montana State",2,3,1,0,23,"401082999",2018-11-21
+181,1,"0:00",1200,1200,"End of 1st half",54,38,16,0,0.987598594360319,"Arkansas","Montana State",2,3,1,0,23,"401082999",2018-11-21
+182,2,"20:00",1200,1200,"PLAY",54,38,16,7,0.987598594360319,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+183,2,"19:53",1193,1193,"Reggie Chaney made Layup. Assisted by Jalen Harris.",56,38,18,22,0.990493739201656,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+184,2,"19:31",1171,1171,"Foul on Jalen Harris.",56,38,18,3,0.990906193447445,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+185,2,"19:28",1168,1168,"Keljin Blevins Turnover.",56,38,18,22,0.991705785459451,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+186,2,"19:06",1146,1146,"Foul on Ladan Ricketts.",56,38,18,9,0.991703371721338,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+187,2,"18:57",1137,1137,"Mason Jones Turnover.",56,38,18,8,0.991654490796536,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+188,2,"18:49",1129,1129,"Keljin Blevins missed Layup.",56,38,18,0,0.99402637535514,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+189,2,"18:49",1129,1129,"Daniel Gafford Block.",56,38,18,1,0.99402637535514,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+190,2,"18:48",1128,1128,"Daniel Gafford Defensive Rebound.",56,38,18,4,0.99402637535514,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+191,2,"18:44",1124,1124,"Mason Jones made Layup. Assisted by Reggie Chaney.",58,38,20,10,0.995876570579953,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+192,2,"18:34",1114,1114,"Foul on Devin Kirby.",58,38,20,0,0.99425666101268,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+193,2,"18:34",1114,1114,"Devin Kirby Turnover.",58,38,20,21,0.99425666101268,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+194,2,"18:13",1093,1093,"Isaiah Joe missed Three Point Jumper.",58,38,20,0,0.994820316052278,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+195,2,"18:13",1093,1093,"Tyler Hall Defensive Rebound.",58,38,20,9,0.994820316052278,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+196,2,"18:04",1084,1084,"Foul on Reggie Chaney.",58,38,20,8,0.995401443524369,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+197,2,"17:56",1076,1076,"Ladan Ricketts Turnover.",58,38,20,2,0.993714021104772,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+198,2,"17:54",1074,1074,"Isaiah Joe Steal.",58,38,20,2,0.993714021104772,"Arkansas","Montana State",3,4,0,0,23,"401082999",2018-11-21
+199,2,"17:52",1072,1072,"Jalen Harris made Dunk.",60,38,22,0,0.995503545979558,"Arkansas","Montana State",3,4,1,0,23,"401082999",2018-11-21
+200,2,"17:52",1072,1072,"Montana State  Timeout",60,38,22,13,0.995503545979558,"Arkansas","Montana State",2,4,1,0,23,"401082999",2018-11-21
+201,2,"17:39",1059,1059,"Foul on Mason Jones.",60,38,22,16,0.996706129117717,"Arkansas","Montana State",2,4,1,0,23,"401082999",2018-11-21
+202,2,"17:23",1043,1043,"Foul on Harald Frey.",60,38,22,0,0.996506133314303,"Arkansas","Montana State",2,4,1,0,23,"401082999",2018-11-21
+203,2,"17:23",1043,1043,"Harald Frey Turnover.",60,38,22,7,0.996506133314303,"Arkansas","Montana State",2,4,1,0,23,"401082999",2018-11-21
+204,2,"17:16",1036,1036,"Isaiah Joe missed Three Point Jumper.",60,38,22,0,0.995947557067224,"Arkansas","Montana State",2,4,1,0,23,"401082999",2018-11-21
+205,2,"17:16",1036,1036,"Daniel Gafford Offensive Rebound.",60,38,22,7,0.995947557067224,"Arkansas","Montana State",2,4,1,0,23,"401082999",2018-11-21
+206,2,"17:09",1029,1029,"Daniel Gafford Turnover.",60,38,22,0,0.996581295405945,"Arkansas","Montana State",2,4,1,0,23,"401082999",2018-11-21
+207,2,"17:09",1029,1029,"Harald Frey Steal.",60,38,22,4,0.996581295405945,"Arkansas","Montana State",2,4,1,0,23,"401082999",2018-11-21
+208,2,"17:05",1025,1025,"Ladan Ricketts made Three Point Jumper. Assisted by Tyler Hall.",60,41,19,16,0.994159266207836,"Arkansas","Montana State",2,4,1,0,23,"401082999",2018-11-21
+209,2,"16:49",1009,1009,"Daniel Gafford made Dunk. Assisted by Jalen Harris.",62,41,21,9,0.995943075621637,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+210,2,"16:40",1000,1000,"Keljin Blevins Turnover.",62,41,21,1,0.995943075621637,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+211,2,"16:39",999,999,"Isaiah Joe Steal.",62,41,21,2,0.995473480496623,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+212,2,"16:37",997,997,"Reggie Chaney made Layup. Assisted by Isaiah Joe.",64,41,23,5,0.996828135624168,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+213,2,"16:32",992,992,"Foul on Jalen Harris.",64,41,23,21,0.996828135624168,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+214,2,"16:11",971,971,"Keljin Blevins made Layup.",64,43,21,16,0.995991866209954,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+215,2,"15:55",955,955,"Official TV Timeout",64,43,21,9,0.996842891005761,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+216,2,"15:46",946,946,"Reggie Chaney Turnover.",64,43,21,0,0.996948419668922,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+217,2,"15:46",946,946,"Tyler Hall Steal.",64,43,21,4,0.996948419668922,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+218,2,"15:42",942,942,"Harald Frey missed Layup.",64,43,21,0,0.996948419668922,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+219,2,"15:42",942,942,"Russell Daniels Offensive Rebound.",64,43,21,2,0.996948419668922,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+220,2,"15:40",940,940,"Russell Daniels missed Jumper.",64,43,21,0,0.996948419668922,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+221,2,"15:40",940,940,"Russell Daniels Offensive Rebound.",64,43,21,4,0.996948419668922,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+222,2,"15:36",936,936,"Tyler Hall missed Three Point Jumper.",64,43,21,0,0.996432351437139,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+223,2,"15:36",936,936,"Mason Jones Defensive Rebound.",64,43,21,17,0.996432351437139,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+224,2,"15:19",919,919,"Mason Jones Turnover.",64,43,21,13,0.997157426860889,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+225,2,"15:06",906,906,"Russell Daniels Turnover.",64,43,21,0,0.996291295785774,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+226,2,"15:06",906,906,"Daniel Gafford Steal.",64,43,21,6,0.996291295785774,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+227,2,"15:00",900,900,"Keyshawn Embery-Simpson missed Three Point Jumper.",64,43,21,0,0.996291295785774,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+228,2,"15:00",900,900,"Daniel Gafford Offensive Rebound.",64,43,21,4,0.996291295785774,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+229,2,"14:56",896,896,"Daniel Gafford made Layup.",66,43,23,21,0.997743214855026,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+230,2,"14:35",875,875,"Russell Daniels Turnover.",66,43,23,20,0.997674543273022,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+231,2,"14:15",855,855,"Jalen Harris missed Three Point Jumper.",66,43,23,0,0.998228531117778,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+232,2,"14:15",855,855,"Sam Neumann Defensive Rebound.",66,43,23,8,0.998228531117778,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+233,2,"14:07",847,847,"Tyler Hall made Layup.",66,45,21,20,0.997500525130759,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+234,2,"13:47",827,827,"Foul on Maximilian Schuecker.",66,45,21,9,0.996291530017284,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+235,2,"13:38",818,818,"Daniel Gafford made Layup.",68,45,23,0,0.997870101787728,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+236,2,"13:38",818,818,"Foul on Maximilian Schuecker.",68,45,23,0,0.997870101787728,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+237,2,"13:38",818,818,"Daniel Gafford missed Free Throw.",68,45,23,0,0.997870101787728,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+238,2,"13:38",818,818,"Maximilian Schuecker Defensive Rebound.",68,45,23,13,0.997870101787728,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+239,2,"13:25",805,805,"Tyler Hall missed Three Point Jumper.",68,45,23,0,0.998267020766744,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+240,2,"13:25",805,805,"Sam Neumann Offensive Rebound.",68,45,23,4,0.998267020766744,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+241,2,"13:21",801,801,"Tyler Hall missed Three Point Jumper.",68,45,23,4,0.998267020766744,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+242,2,"13:17",797,797,"Arkansas Defensive Rebound.",68,45,23,10,0.998643395020097,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+243,2,"13:07",787,787,"Adrio Bailey made Jumper. Assisted by Desi Sills.",70,45,25,26,0.998787760138585,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+244,2,"12:41",761,761,"Foul on Adrio Bailey.",70,45,25,9,0.999175968959013,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+245,2,"12:32",752,752,"Foul on Russell Daniels.",70,45,25,0,0.999109125255444,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+246,2,"12:32",752,752,"Russell Daniels Turnover.",70,45,25,12,0.999109125255444,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+247,2,"12:20",740,740,"Adrio Bailey made Dunk. Assisted by Mason Jones.",72,45,27,25,0.99946782745403,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+248,2,"11:55",715,715,"Harald Frey missed Layup.",72,45,27,0,0.999404128043749,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+249,2,"11:55",715,715,"Keljin Blevins Offensive Rebound.",72,45,27,2,0.999404128043749,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+250,2,"11:53",713,713,"Foul on Keyshawn Embery-Simpson.",72,45,27,0,0.999404128043749,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+251,2,"11:53",713,713,"Official TV Timeout",72,45,27,6,0.999404128043749,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+252,2,"11:47",707,707,"Ladan Ricketts missed Three Point Jumper.",72,45,27,0,0.999227497727682,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+253,2,"11:47",707,707,"Montana State Offensive Rebound.",72,45,27,14,0.999227497727682,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+254,2,"11:33",693,693,"Harald Frey made Jumper.",72,47,25,13,0.999502177040827,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+255,2,"11:20",680,680,"Desi Sills missed Three Point Jumper.",72,47,25,0,0.999148420482871,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+256,2,"11:20",680,680,"Montana State Defensive Rebound.",72,47,25,32,0.999148420482871,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+257,2,"10:48",648,648,"Foul on Mason Jones.",72,47,25,0,0.999399522936246,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+258,2,"10:48",648,648,"Devin Kirby missed Free Throw.",72,47,25,0,0.999399522936246,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+259,2,"10:48",648,648,"Mason Jones Defensive Rebound.",72,47,25,11,0.999399522936246,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+260,2,"10:37",637,637,"Keyshawn Embery-Simpson missed Three Point Jumper.",72,47,25,0,0.999234241403174,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+261,2,"10:37",637,637,"Gabe Osabuohien Offensive Rebound.",72,47,25,4,0.999234241403174,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+262,2,"10:33",633,633,"Desi Sills made Three Point Jumper. Assisted by Gabe Osabuohien.",75,47,28,21,0.999623022310116,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+263,2,"10:12",612,612,"Harald Frey missed Three Point Jumper.",75,47,28,0,0.999771197014377,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+264,2,"10:12",612,612,"Harald Frey Offensive Rebound.",75,47,28,6,0.999771197014377,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+265,2,"10:06",606,606,"Ladan Ricketts made Three Point Jumper. Assisted by Harald Frey.",75,50,25,21,0.999492954798338,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+266,2,"9:45",585,585,"Mason Jones Turnover.",75,50,25,16,0.999359545493575,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+267,2,"9:29",569,569,"Ladan Ricketts Turnover.",75,50,25,0,0.999665726535834,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+268,2,"9:29",569,569,"Gabe Osabuohien Steal.",75,50,25,8,0.999665726535834,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+269,2,"9:21",561,561,"Foul on Devin Kirby.",75,50,25,0,0.999665726535834,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+270,2,"9:21",561,561,"Gabe Osabuohien made Free Throw.",76,50,26,0,0.999741711254719,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+271,2,"9:21",561,561,"Gabe Osabuohien made Free Throw.",77,50,27,11,0.999800427104047,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+272,2,"9:10",550,550,"Foul on Jordan Phillips.",77,50,27,0,0.999771149074569,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+273,2,"9:10",550,550,"Keljin Blevins made Free Throw.",77,51,26,0,0.99970312374621,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+274,2,"9:10",550,550,"Keljin Blevins missed Free Throw.",77,51,26,0,0.99970312374621,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+275,2,"9:10",550,550,"Adrio Bailey Defensive Rebound.",77,51,26,16,0.99970312374621,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+276,2,"8:54",534,534,"Gabe Osabuohien made Layup. Assisted by Jalen Harris.",79,51,28,31,0.999912317496403,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+277,2,"8:23",503,503,"Foul on Adrio Bailey.",79,51,28,0,0.999868328016179,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+278,2,"8:23",503,503,"Ladan Ricketts made Free Throw.",79,52,27,0,0.999827370244742,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+279,2,"8:23",503,503,"Ladan Ricketts made Free Throw.",79,53,26,18,0.999773675068782,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+280,2,"8:05",485,485,"Gabe Osabuohien made Layup.",81,53,28,18,0.999870583766361,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+281,2,"7:47",467,467,"Devin Kirby made Dunk. Assisted by Harald Frey.",81,55,26,9,0.999821068482734,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+282,2,"7:38",458,458,"Gabe Osabuohien missed Three Point Jumper.",81,55,26,0,0.999916870240563,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+283,2,"7:38",458,458,"Ladan Ricketts Defensive Rebound.",81,55,26,9,0.999916870240563,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+284,2,"7:29",449,449,"Harald Frey missed Three Point Jumper.",81,55,26,0,0.99974685641727,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+285,2,"7:29",449,449,"Ladan Ricketts Offensive Rebound.",81,55,26,1,0.99974685641727,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+286,2,"7:28",448,448,"Ladan Ricketts made Two Point Tip Shot.",81,57,24,12,0.999560514732258,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+287,2,"7:16",436,436,"Isaiah Joe missed Layup.",81,57,24,0,0.999838396538583,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+288,2,"7:16",436,436,"Sam Neumann Defensive Rebound.",81,57,24,15,0.999838396538583,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+289,2,"7:01",421,421,"Devin Kirby Turnover.",81,57,24,0,0.99974742946709,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+290,2,"7:01",421,421,"Official TV Timeout",81,57,24,11,0.99974742946709,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+291,2,"6:50",410,410,"Isaiah Joe made Three Point Jumper. Assisted by Jalen Harris.",84,57,27,17,0.999918122669683,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+292,2,"6:33",393,393,"Foul on Reggie Chaney.",84,57,27,0,0.999935719437833,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+293,2,"6:33",393,393,"Sam Neumann made Free Throw.",84,58,26,0,0.999912172542655,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+294,2,"6:33",393,393,"Sam Neumann made Free Throw.",84,59,25,8,0.999880001115964,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+295,2,"6:25",385,385,"Daniel Gafford made Dunk. Assisted by Jalen Harris.",86,59,27,18,0.99991369145237,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+296,2,"6:07",367,367,"Keljin Blevins missed Three Point Jumper.",86,59,27,0,0.99994614259317,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+297,2,"6:07",367,367,"Daniel Gafford Defensive Rebound.",86,59,27,3,0.99994614259317,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+298,2,"6:04",364,364,"Foul on Keljin Blevins.",86,59,27,0,0.99994614259317,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+299,2,"6:04",364,364,"Daniel Gafford missed Free Throw.",86,59,27,0,0.99994614259317,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+300,2,"6:04",364,364,"Montana State Deadball Team Rebound.",86,59,27,0,0.99994614259317,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+301,2,"6:04",364,364,"Foul on Reggie Chaney.",86,59,27,0,0.99994614259317,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+302,2,"6:04",364,364,"Keljin Blevins missed Free Throw.",86,59,27,0,0.99994614259317,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+303,2,"6:04",364,364,"Montana State Deadball Team Rebound.",86,59,27,0,0.99994614259317,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+304,2,"6:04",364,364,"Keljin Blevins missed Free Throw.",86,59,27,0,0.99994614259317,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+305,2,"6:04",364,364,"Montana State Deadball Team Rebound.",86,59,27,13,0.99994614259317,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+306,2,"5:51",351,351,"Tyler Hall missed Jumper.",86,59,27,0,0.999966709570449,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+307,2,"5:51",351,351,"Reggie Chaney Defensive Rebound.",86,59,27,25,0.999966709570449,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+308,2,"5:26",326,326,"Jordan Phillips missed Three Point Jumper.",86,59,27,0,0.999940279364917,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+309,2,"5:26",326,326,"Reggie Chaney Offensive Rebound.",86,59,27,10,0.999940279364917,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+310,2,"5:16",316,316,"Isaiah Joe missed Three Point Jumper.",86,59,27,0,0.999982427829529,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+311,2,"5:16",316,316,"Tyler Hall Defensive Rebound.",86,59,27,11,0.999982427829529,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+312,2,"5:05",305,305,"Harald Frey missed Three Point Jumper.",86,59,27,0,0.999961575077501,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+313,2,"5:05",305,305,"Jalen Harris Defensive Rebound.",86,59,27,9,0.999961575077501,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+314,2,"4:56",296,296,"Daniel Gafford made Layup. Assisted by Jalen Harris.",88,59,29,12,0.999986280611936,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+315,2,"4:44",284,284,"Foul on Jordan Phillips.",88,59,29,0,0.99998801979358,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+316,2,"4:44",284,284,"Tyler Hall made Free Throw.",88,60,28,0,0.999982951765485,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+317,2,"4:44",284,284,"Tyler Hall made Free Throw.",88,61,27,19,0.999975739843976,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+318,2,"4:25",265,265,"Jalen Harris made Jumper.",90,61,29,15,0.999993281083073,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+319,2,"4:10",250,250,"Russell Daniels missed Three Point Jumper.",90,61,29,0,0.999998160886559,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+320,2,"4:10",250,250,"Ethan Henderson Defensive Rebound.",90,61,29,8,0.999998160886559,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+321,2,"4:02",242,242,"Reggie Chaney missed Layup.",90,61,29,0,0.999997003576047,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+322,2,"4:02",242,242,"Keljin Blevins Defensive Rebound.",90,61,29,13,0.999997003576047,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+323,2,"3:49",229,229,"Tyler Hall made Jumper.",90,63,27,14,0.999996841575077,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+324,2,"3:35",215,215,"Jalen Harris missed Three Point Jumper.",90,63,27,0,0.999997389929578,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+325,2,"3:35",215,215,"Arkansas Offensive Rebound.",90,63,27,2,0.999997389929578,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+326,2,"3:33",213,213,"Official TV Timeout",90,63,27,13,0.999997389929578,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+327,2,"3:20",200,200,"Jordan Phillips missed Jumper.",90,63,27,0,0.999998466514359,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+328,2,"3:20",200,200,"Isaiah Joe Offensive Rebound.",90,63,27,6,0.999998466514359,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+329,2,"3:14",194,194,"Keyshawn Embery-Simpson missed Three Point Jumper.",90,63,27,0,0.999998442933548,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+330,2,"3:14",194,194,"Reggie Chaney Offensive Rebound.",90,63,27,7,0.999998442933548,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+331,2,"3:07",187,187,"Jordan Phillips Turnover.",90,63,27,0,0.999999148589534,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+332,2,"3:07",187,187,"Ladan Ricketts Steal.",90,63,27,19,0.999999148589534,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+333,2,"2:48",168,168,"Ladan Ricketts missed Three Point Jumper.",90,63,27,0,0.99999973629157,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+334,2,"2:48",168,168,"Arkansas Defensive Rebound.",90,63,27,13,0.99999973629157,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+335,2,"2:35",155,155,"Jordan Phillips missed Three Point Jumper.",90,63,27,0,0.999999802839689,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+336,2,"2:35",155,155,"Ethan Henderson Offensive Rebound.",90,63,27,4,0.999999802839689,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+337,2,"2:31",151,151,"Ethan Henderson Turnover.",90,63,27,10,0.999999802839689,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+338,2,"2:21",141,141,"Foul on Jonathan Holmes.",90,63,27,0,0.999999704436178,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+339,2,"2:21",141,141,"Maximilian Schuecker made Free Throw.",90,64,26,0,0.999999503775711,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+340,2,"2:21",141,141,"Maximilian Schuecker made Free Throw.",90,65,25,10,0.999999166885482,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+341,2,"2:11",131,131,"Jordan Phillips missed Jumper.",90,65,25,0,0.999999527916793,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+342,2,"2:11",131,131,"Quentin Guliford Defensive Rebound.",90,65,25,16,0.999999527916793,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+343,2,"1:55",115,115,"Zeke Quinlan Turnover.",90,65,25,13,0.999999874834054,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+344,2,"1:42",102,102,"Jonathan Holmes missed Three Point Jumper.",90,65,25,0,0.999999908292308,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+345,2,"1:42",102,102,"Quentin Guliford Defensive Rebound.",90,65,25,22,0.999999908292308,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+346,2,"1:20",80,80,"Quentin Guliford Turnover.",90,65,25,14,0.999999993334113,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+347,2,"1:06",66,66,"Reggie Chaney missed Jumper.",90,65,25,0,0.999999993753318,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+348,2,"1:06",66,66,"Arkansas Deadball Team Rebound.",90,65,25,2,0.999999993753318,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+349,2,"1:04",64,64,"Foul on Zeke Quinlan.",90,65,25,0,0.999999993753318,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+350,2,"1:04",64,64,"Ethan Henderson missed Free Throw.",90,65,25,0,0.999999993753318,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+351,2,"1:04",64,64,"Montana State Defensive Rebound.",90,65,25,20,0.999999993753318,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+352,2,"0:44",44,44,"Zeke Quinlan missed Jumper.",90,65,25,0,0.999999999097296,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+353,2,"0:44",44,44,"Ethan Henderson Block.",90,65,25,1,0.999999999097296,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+354,2,"0:43",43,43,"Zeke Quinlan Offensive Rebound.",90,65,25,2,0.999999999837276,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+355,2,"0:41",41,41,"Zeke Quinlan missed Jumper.",90,65,25,0,0.99999999998522,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+356,2,"0:41",41,41,"Reggie Chaney Block.",90,65,25,2,0.99999999998522,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+357,2,"0:39",39,39,"Desi Sills Defensive Rebound.",90,65,25,0,0.999999999972981,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+358,2,"0:39",39,39,"Foul on Reggie Chaney.",90,65,25,0,0.999999999972981,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+359,2,"0:39",39,39,"Foul on Maximilian Schuecker.",90,65,25,7,0.999999999972981,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+360,2,"0:32",32,32,"Jonathan Holmes missed Three Point Jumper.",90,65,25,0,0.999999999999707,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+361,2,"0:32",32,32,"Russell Daniels Defensive Rebound.",90,65,25,11,0.999999999999707,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+362,2,"0:21",21,21,"Quentin Guliford made Three Point Jumper. Assisted by Russell Daniels.",90,68,22,11,1,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+363,2,"0:10",10,10,"Jonathan Holmes missed Layup.",90,68,22,0,1,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+364,2,"0:10",10,10,"Zeke Quinlan Defensive Rebound.",90,68,22,10,1,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21
+365,2,"0:00",0,0,"End of Game",90,68,22,0,1,"Arkansas","Montana State",2,4,0,0,23,"401082999",2018-11-21

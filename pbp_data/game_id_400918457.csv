@@ -1,0 +1,372 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.843741299182046,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+2,1,"20:00",2400,2400,"Jump Ball won by Princeton",0,0,0,0.843741299182046,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+3,1,"19:32",2372,2372,"Pete Miller missed Jumper.",0,0,0,0.836697873473448,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+4,1,"19:32",2372,2372,"Markell Lodge Block.",0,0,0,0.836697873473448,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+5,1,"19:32",2372,2372,"Lamarr Kimble Defensive Rebound.",0,0,0,0.836697873473448,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+6,1,"19:21",2361,2361,"Charlie Brown made Three Point Jumper. Assisted by Lamarr Kimble.",0,3,-3,0.809515888213598,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+7,1,"19:05",2345,2345,"Steven Cook missed Jumper.",0,3,-3,0.785108381063824,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+8,1,"19:05",2345,2345,"Princeton Offensive Rebound.",0,3,-3,0.785108381063824,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+9,1,"18:58",2338,2338,"Devin Cannady missed Three Point Jumper.",0,3,-3,0.78939728923086,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+10,1,"18:58",2338,2338,"Markell Lodge Defensive Rebound.",0,3,-3,0.78939728923086,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+11,1,"18:40",2320,2320,"Charlie Brown missed Three Point Jumper.",0,3,-3,0.785440529810133,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+12,1,"18:40",2320,2320,"Markell Lodge Offensive Rebound.",0,3,-3,0.785440529810133,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+13,1,"18:17",2297,2297,"Markell Lodge missed Layup.",0,3,-3,0.787386588450959,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+14,1,"18:17",2297,2297,"Pete Miller Defensive Rebound.",0,3,-3,0.787386588450959,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+15,1,"18:05",2285,2285,"Steven Cook missed Three Point Jumper.",0,3,-3,0.775332191922017,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+16,1,"18:05",2285,2285,"Saint Joseph's Defensive Rebound.",0,3,-3,0.775332191922017,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+17,1,"17:38",2258,2258,"Foul on Steven Cook.",0,3,-3,0.777249992313236,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+18,1,"17:38",2258,2258,"Shavar Newkirk made Free Throw.",0,4,-4,0.760095298032382,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+19,1,"17:38",2258,2258,"Shavar Newkirk made Free Throw.",0,5,-5,0.742057905149726,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+20,1,"17:38",2258,2258,"Shavar Newkirk made Free Throw.",0,6,-6,0.723158296783865,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+21,1,"17:26",2246,2246,"Devin Cannady made Three Point Jumper. Assisted by Pete Miller.",3,6,-3,0.772176187388907,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+22,1,"17:01",2221,2221,"Markell Lodge made Layup.",3,8,-5,0.744357910604938,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+23,1,"16:44",2204,2204,"Foul on Nick Robinson.",3,8,-5,0.728032789154969,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+24,1,"16:42",2202,2202,"Spencer Weisz missed Three Point Jumper.",3,8,-5,0.728032789154969,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+25,1,"16:42",2202,2202,"Nick Robinson Defensive Rebound.",3,8,-5,0.728032789154969,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+26,1,"16:28",2188,2188,"Lamarr Kimble made Jumper.",3,10,-7,0.687437172663265,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+27,1,"16:04",2164,2164,"Foul on Markell Lodge.",3,10,-7,0.678088848779363,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+28,1,"16:04",2164,2164,"Myles Stephens made Free Throw.",4,10,-6,0.7017355267543,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+29,1,"16:04",2164,2164,"Myles Stephens made Free Throw.",5,10,-5,0.724351299006711,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+30,1,"15:53",2153,2153,"Markell Lodge made Dunk. Assisted by Lamarr Kimble.",5,12,-7,0.661549789082627,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+31,1,"15:38",2138,2138,"Steven Cook made Layup. Assisted by Spencer Weisz.",7,12,-5,0.716514649346366,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+32,1,"15:25",2125,2125,"Markell Lodge made Jumper. Assisted by Lamarr Kimble.",7,14,-7,0.669182556918431,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+33,1,"15:10",2110,2110,"Will Gladson made Jumper.",9,14,-5,0.728402297781209,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+34,1,"14:41",2081,2081,"Foul on Will Gladson.",9,14,-5,0.721069533916694,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+35,1,"14:41",2081,2081,"Official TV Timeout",9,14,-5,0.721069533916694,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+36,1,"14:41",2081,2081,"Saint Joseph's  Turnover.",9,14,-5,0.721069533916694,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+37,1,"14:32",2072,2072,"Foul on Nick Robinson.",9,14,-5,0.729356492719531,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+38,1,"14:32",2072,2072,"Devin Cannady made Three Point Jumper. Assisted by Spencer Weisz.",12,14,-2,0.787973956924119,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+39,1,"14:02",2042,2042,"Lamarr Kimble made Jumper.",12,16,-4,0.730978974434485,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+40,1,"13:49",2029,2029,"Will Gladson missed Jumper.",12,16,-4,0.723903105268185,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+41,1,"13:49",2029,2029,"Brendan Casper Defensive Rebound.",12,16,-4,0.723903105268185,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+42,1,"13:30",2010,2010,"Brendan Casper made Layup. Assisted by Lamarr Kimble.",12,18,-6,0.694227905551331,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+43,1,"13:12",1992,1992,"Spencer Weisz missed Three Point Jumper.",12,18,-6,0.673492007075229,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+44,1,"13:12",1992,1992,"Markell Lodge Defensive Rebound.",12,18,-6,0.673492007075229,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+45,1,"12:49",1969,1969,"Lamarr Kimble missed Jumper.",12,18,-6,0.701252976332883,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+46,1,"12:48",1968,1968,"Lamarr Kimble Offensive Rebound.",12,18,-6,0.701252976332883,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+47,1,"12:47",1967,1967,"Lamarr Kimble missed Two Point Tip Shot.",12,18,-6,0.701252976332883,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+48,1,"12:45",1965,1965,"Spencer Weisz Defensive Rebound.",12,18,-6,0.701252976332883,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+49,1,"12:41",1961,1961,"Steven Cook made Layup. Assisted by Spencer Weisz.",14,18,-4,0.743689062767465,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+50,1,"12:21",1941,1941,"Charlie Brown made Jumper.",14,20,-6,0.668973278262032,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+51,1,"12:10",1930,1930,"Devin Cannady made Three Point Jumper. Assisted by Spencer Weisz.",17,20,-3,0.735767208636162,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+52,1,"11:43",1903,1903,"Shavar Newkirk missed Layup.",17,20,-3,0.755383656066112,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+53,1,"11:43",1903,1903,"Devin Cannady Block.",17,20,-3,0.755383656066112,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+54,1,"11:43",1903,1903,"Saint Joseph's Offensive Rebound.",17,20,-3,0.755383656066112,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+55,1,"11:43",1903,1903,"Official TV Timeout",17,20,-3,0.755383656066112,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+56,1,"11:41",1901,1901,"Shavar Newkirk missed Layup.",17,20,-3,0.755383656066112,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+57,1,"11:41",1901,1901,"Brendan Casper Offensive Rebound.",17,20,-3,0.755383656066112,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+58,1,"11:33",1893,1893,"Brendan Casper missed Layup.",17,20,-3,0.739447222126829,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+59,1,"11:33",1893,1893,"Brendan Casper Offensive Rebound.",17,20,-3,0.739447222126829,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+60,1,"11:32",1892,1892,"Brendan Casper missed Layup.",17,20,-3,0.739447222126829,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+61,1,"11:32",1892,1892,"Princeton Defensive Rebound.",17,20,-3,0.739447222126829,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+62,1,"11:23",1883,1883,"Devin Cannady missed Three Point Jumper.",17,20,-3,0.748725434195847,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+63,1,"11:23",1883,1883,"Charlie Brown Defensive Rebound.",17,20,-3,0.748725434195847,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+64,1,"11:06",1866,1866,"Foul on Will Gladson.",17,20,-3,0.738956965581509,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+65,1,"11:06",1866,1866,"Javon Baumann missed Free Throw.",17,20,-3,0.738956965581509,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+66,1,"11:06",1866,1866,"Saint Joseph's Deadball Team Rebound.",17,20,-3,0.738956965581509,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+67,1,"11:06",1866,1866,"Javon Baumann missed Free Throw.",17,20,-3,0.738956965581509,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+68,1,"11:06",1866,1866,"Pete Miller Defensive Rebound.",17,20,-3,0.738956965581509,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+69,1,"10:53",1853,1853,"Amir Bell missed Three Point Jumper.",17,20,-3,0.743416200456479,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+70,1,"10:53",1853,1853,"Pete Miller Offensive Rebound.",17,20,-3,0.743416200456479,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+71,1,"10:43",1843,1843,"Devin Cannady missed Three Point Jumper.",17,20,-3,0.736308279209524,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+72,1,"10:43",1843,1843,"Brendan Casper Defensive Rebound.",17,20,-3,0.736308279209524,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+73,1,"10:29",1829,1829,"Charlie Brown missed Layup.",17,20,-3,0.765308736895453,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+74,1,"10:29",1829,1829,"Javon Baumann Offensive Rebound.",17,20,-3,0.765308736895453,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+75,1,"10:29",1829,1829,"Javon Baumann made Two Point Tip Shot.",17,22,-5,0.719362488538726,"Princeton","Saint Joseph's",4,4,0,0,8.5,400918457,2016-12-14
+76,1,"10:25",1825,1825,"Princeton  Timeout",17,22,-5,0.719362488538726,"Princeton","Saint Joseph's",3,4,1,0,8.5,400918457,2016-12-14
+77,1,"10:15",1815,1815,"Aaron Young missed Layup.",17,22,-5,0.677497598879182,"Princeton","Saint Joseph's",3,4,1,0,8.5,400918457,2016-12-14
+78,1,"10:15",1815,1815,"Shavar Newkirk Defensive Rebound.",17,22,-5,0.677497598879182,"Princeton","Saint Joseph's",3,4,1,0,8.5,400918457,2016-12-14
+79,1,"10:06",1806,1806,"Shavar Newkirk missed Three Point Jumper.",17,22,-5,0.686468070319482,"Princeton","Saint Joseph's",3,4,1,0,8.5,400918457,2016-12-14
+80,1,"10:06",1806,1806,"Javon Baumann Offensive Rebound.",17,22,-5,0.686468070319482,"Princeton","Saint Joseph's",3,4,1,0,8.5,400918457,2016-12-14
+81,1,"10:02",1802,1802,"Foul on Aaron Young.",17,22,-5,0.686468070319482,"Princeton","Saint Joseph's",3,4,1,0,8.5,400918457,2016-12-14
+82,1,"9:51",1791,1791,"Foul on Amir Bell.",17,22,-5,0.671447863087228,"Princeton","Saint Joseph's",3,4,1,0,8.5,400918457,2016-12-14
+83,1,"9:51",1791,1791,"Brendan Casper made Free Throw.",17,23,-6,0.642142024622402,"Princeton","Saint Joseph's",3,4,1,0,8.5,400918457,2016-12-14
+84,1,"9:51",1791,1791,"Brendan Casper made Free Throw.",17,24,-7,0.611733741622146,"Princeton","Saint Joseph's",3,4,1,0,8.5,400918457,2016-12-14
+85,1,"9:44",1784,1784,"Myles Stephens missed Three Point Jumper.",17,24,-7,0.581614356272542,"Princeton","Saint Joseph's",3,4,1,0,8.5,400918457,2016-12-14
+86,1,"9:44",1784,1784,"Saint Joseph's Defensive Rebound.",17,24,-7,0.581614356272542,"Princeton","Saint Joseph's",3,4,1,0,8.5,400918457,2016-12-14
+87,1,"9:17",1757,1757,"Shavar Newkirk made Three Point Jumper. Assisted by Brendan Casper.",17,27,-10,0.49588601566064,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+88,1,"9:03",1743,1743,"Alec Brennan made Three Point Jumper. Assisted by Spencer Weisz.",20,27,-7,0.624515907971704,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+89,1,"8:27",1707,1707,"Lamarr Kimble missed Three Point Jumper.",20,27,-7,0.614637039477534,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+90,1,"8:27",1707,1707,"Myles Stephens Defensive Rebound.",20,27,-7,0.614637039477534,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+91,1,"8:15",1695,1695,"Foul on Javon Baumann.",20,27,-7,0.595025339037085,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+92,1,"8:15",1695,1695,"Spencer Weisz made Free Throw.",21,27,-6,0.628895600621847,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+93,1,"8:15",1695,1695,"Spencer Weisz made Free Throw.",22,27,-5,0.661544402269944,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+94,1,"8:09",1689,1689,"Brendan Casper Turnover.",22,27,-5,0.673525740662254,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+95,1,"8:09",1689,1689,"Steven Cook Steal.",22,27,-5,0.673525740662254,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+96,1,"8:03",1683,1683,"Foul on Brendan Casper.",22,27,-5,0.673525740662254,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+97,1,"8:03",1683,1683,"Steven Cook made Free Throw.",23,27,-4,0.704648226600273,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+98,1,"8:03",1683,1683,"Steven Cook missed Free Throw.",23,27,-4,0.704648226600273,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+99,1,"8:03",1683,1683,"Brendan Casper Defensive Rebound.",23,27,-4,0.704648226600273,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+100,1,"7:49",1669,1669,"Foul on Amir Bell.",23,27,-4,0.704752824715711,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+101,1,"7:49",1669,1669,"Official TV Timeout",23,27,-4,0.704752824715711,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+102,1,"7:49",1669,1669,"Shavar Newkirk made Free Throw.",23,28,-5,0.677125747944007,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+103,1,"7:49",1669,1669,"Shavar Newkirk made Free Throw.",23,29,-6,0.648203972084677,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+104,1,"7:35",1655,1655,"Myles Stephens missed Jumper.",23,29,-6,0.638909634634598,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+105,1,"7:35",1655,1655,"Spencer Weisz Offensive Rebound.",23,29,-6,0.638909634634598,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+106,1,"7:20",1640,1640,"Foul on Chris Clover.",23,29,-6,0.639142391469614,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+107,1,"7:13",1633,1633,"Steven Cook missed Layup.",23,29,-6,0.646654096881925,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+108,1,"7:13",1633,1633,"Charlie Brown Block.",23,29,-6,0.646654096881925,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+109,1,"7:13",1633,1633,"Charlie Brown Defensive Rebound.",23,29,-6,0.646654096881925,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+110,1,"7:02",1622,1622,"Brendan Casper Turnover.",23,29,-6,0.625186288137987,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+111,1,"6:50",1610,1610,"Spencer Weisz missed Three Point Jumper.",23,29,-6,0.604894526944243,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+112,1,"6:50",1610,1610,"Lamarr Kimble Defensive Rebound.",23,29,-6,0.604894526944243,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+113,1,"6:43",1603,1603,"Lamarr Kimble made Jumper.",23,31,-8,0.582042860600679,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+114,1,"6:20",1580,1580,"Foul on Charlie Brown.",23,31,-8,0.562169687418782,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+115,1,"6:20",1580,1580,"Steven Cook made Free Throw.",24,31,-7,0.595209232435733,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+116,1,"6:20",1580,1580,"Steven Cook missed Free Throw.",24,31,-7,0.595209232435733,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+117,1,"6:20",1580,1580,"Markell Lodge Defensive Rebound.",24,31,-7,0.595209232435733,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+118,1,"6:03",1563,1563,"Chris Clover made Jumper.",24,33,-9,0.504850945293977,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+119,1,"5:41",1541,1541,"Foul on Markell Lodge.",24,33,-9,0.533053211298667,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+120,1,"5:41",1541,1541,"Myles Stephens missed Free Throw.",24,33,-9,0.533053211298667,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+121,1,"5:41",1541,1541,"Princeton Deadball Team Rebound.",24,33,-9,0.533053211298667,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+122,1,"5:41",1541,1541,"Myles Stephens made Free Throw.",25,33,-8,0.567421975220638,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+123,1,"5:36",1536,1536,"Chris Clover missed Jumper.",25,33,-8,0.564654330621106,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+124,1,"5:36",1536,1536,"Amir Bell Defensive Rebound.",25,33,-8,0.564654330621106,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+125,1,"5:20",1520,1520,"Steven Cook missed Layup.",25,33,-8,0.545112084108582,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+126,1,"5:20",1520,1520,"Steven Cook Offensive Rebound.",25,33,-8,0.545112084108582,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+127,1,"5:14",1514,1514,"Steven Cook missed Layup.",25,33,-8,0.537159574984183,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+128,1,"5:14",1514,1514,"Saint Joseph's Defensive Rebound.",25,33,-8,0.537159574984183,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+129,1,"5:00",1500,1500,"Jai Williams made Layup. Assisted by Lamarr Kimble.",25,35,-10,0.476404827641887,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+130,1,"4:57",1497,1497,"Princeton  Timeout",25,35,-10,0.497988568923263,"Princeton","Saint Joseph's",2,4,1,0,8.5,400918457,2016-12-14
+131,1,"4:39",1479,1479,"Foul on Chris Clover.",25,35,-10,0.473833356904452,"Princeton","Saint Joseph's",2,4,1,0,8.5,400918457,2016-12-14
+132,1,"4:39",1479,1479,"Steven Cook missed Free Throw.",25,35,-10,0.473833356904452,"Princeton","Saint Joseph's",2,4,1,0,8.5,400918457,2016-12-14
+133,1,"4:39",1479,1479,"Jai Williams Defensive Rebound.",25,35,-10,0.473833356904452,"Princeton","Saint Joseph's",2,4,1,0,8.5,400918457,2016-12-14
+134,1,"4:25",1465,1465,"Charlie Brown missed Three Point Jumper.",25,35,-10,0.463357603146413,"Princeton","Saint Joseph's",2,4,1,0,8.5,400918457,2016-12-14
+135,1,"4:25",1465,1465,"Amir Bell Defensive Rebound.",25,35,-10,0.463357603146413,"Princeton","Saint Joseph's",2,4,1,0,8.5,400918457,2016-12-14
+136,1,"4:02",1442,1442,"Amir Bell made Layup.",27,35,-8,0.542844486048564,"Princeton","Saint Joseph's",2,4,1,0,8.5,400918457,2016-12-14
+137,1,"3:35",1415,1415,"Foul on Chris Clover.",27,35,-8,0.495119392495613,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+138,1,"3:35",1415,1415,"Chris Clover Turnover.",27,35,-8,0.495119392495613,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+139,1,"3:35",1415,1415,"Official TV Timeout",27,35,-8,0.495119392495613,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+140,1,"3:29",1409,1409,"Devin Cannady Turnover.",27,35,-8,0.533505731807355,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+141,1,"3:29",1409,1409,"Shavar Newkirk Steal.",27,35,-8,0.533505731807355,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+142,1,"3:21",1401,1401,"Charlie Brown made Layup. Assisted by Lamarr Kimble.",27,37,-10,0.456170313934954,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+143,1,"3:05",1385,1385,"Foul on Charlie Brown.",27,37,-10,0.459657194493314,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+144,1,"3:05",1385,1385,"Spencer Weisz missed Free Throw.",27,37,-10,0.459657194493314,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+145,1,"3:05",1385,1385,"Princeton Deadball Team Rebound.",27,37,-10,0.459657194493314,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+146,1,"3:05",1385,1385,"Spencer Weisz made Free Throw.",28,37,-9,0.496931391707239,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+147,1,"2:47",1367,1367,"Foul on Jai Williams.",28,37,-9,0.473889460949081,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+148,1,"2:47",1367,1367,"Jai Williams Turnover.",28,37,-9,0.473889460949081,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+149,1,"2:38",1358,1358,"Devin Cannady made Three Point Jumper. Assisted by Spencer Weisz.",31,37,-6,0.598401228590635,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+150,1,"2:25",1345,1345,"Nick Robinson missed Jumper.",31,37,-6,0.56233658358295,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+151,1,"2:25",1345,1345,"Spencer Weisz Defensive Rebound.",31,37,-6,0.56233658358295,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+152,1,"2:14",1334,1334,"Aaron Young missed Three Point Jumper.",31,37,-6,0.565131183152754,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+153,1,"2:14",1334,1334,"Shavar Newkirk Defensive Rebound.",31,37,-6,0.565131183152754,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+154,1,"1:56",1316,1316,"Lamarr Kimble made Layup.",31,39,-8,0.509846916972168,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+155,1,"1:51",1311,1311,"Devin Cannady Turnover.",31,39,-8,0.509846916972168,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+156,1,"1:51",1311,1311,"Shavar Newkirk Steal.",31,39,-8,0.509846916972168,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+157,1,"1:46",1306,1306,"Foul on Spencer Weisz.",31,39,-8,0.506648474745715,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+158,1,"1:46",1306,1306,"Shavar Newkirk made Free Throw.",31,40,-9,0.46990621616144,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+159,1,"1:46",1306,1306,"Shavar Newkirk made Free Throw.",31,41,-10,0.433487280126451,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+160,1,"1:31",1291,1291,"Myles Stephens made Jumper. Assisted by Steven Cook.",33,41,-8,0.477730963707958,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+161,1,"1:10",1270,1270,"Lamarr Kimble missed Three Point Jumper.",33,41,-8,0.499792445131604,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+162,1,"1:10",1270,1270,"Myles Stephens Defensive Rebound.",33,41,-8,0.499792445131604,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+163,1,"1:01",1261,1261,"Spencer Weisz made Three Point Jumper. Assisted by Myles Stephens.",36,41,-5,0.63339088956626,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+164,1,"0:53",1253,1253,"Saint Joseph's  Timeout",36,41,-5,0.601420031647238,"Princeton","Saint Joseph's",2,3,0,1,8.5,400918457,2016-12-14
+165,1,"0:39",1239,1239,"Brendan Casper made Jumper. Assisted by Lamarr Kimble.",36,43,-7,0.510429359462163,"Princeton","Saint Joseph's",2,3,0,1,8.5,400918457,2016-12-14
+166,1,"0:07",1207,1207,"Myles Stephens made Layup.",38,43,-5,0.605876981078416,"Princeton","Saint Joseph's",2,3,0,1,8.5,400918457,2016-12-14
+167,1,"0:00",1200,1200,"End of 1st half",38,43,-5,0.605876981078416,"Princeton","Saint Joseph's",2,3,0,1,8.5,400918457,2016-12-14
+168,2,"20:00",1200,1200,"PLAY",38,43,-5,0.605876981078416,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+169,2,"20:00",1200,1200,"Jump Ball won by Saint Joseph's",38,43,-5,0.605876981078416,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+170,2,"19:43",1183,1183,"Shavar Newkirk missed Jumper.",38,43,-5,0.5995687444936,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+171,2,"19:43",1183,1183,"Markell Lodge Offensive Rebound.",38,43,-5,0.5995687444936,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+172,2,"19:25",1165,1165,"Lamarr Kimble made Three Point Jumper. Assisted by Nick Robinson.",38,46,-8,0.467714553529411,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+173,2,"19:10",1150,1150,"Devin Cannady missed Three Point Jumper.",38,46,-8,0.470070174785309,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+174,2,"19:10",1150,1150,"Charlie Brown Defensive Rebound.",38,46,-8,0.470070174785309,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+175,2,"19:00",1140,1140,"Charlie Brown made Three Point Jumper. Assisted by Lamarr Kimble.",38,49,-11,0.319222115292237,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+176,2,"18:42",1122,1122,"Myles Stephens made Three Point Jumper. Assisted by Pete Miller.",41,49,-8,0.421787629439168,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+177,2,"18:23",1103,1103,"Lamarr Kimble made Jumper.",41,51,-10,0.398005417473692,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+178,2,"18:01",1081,1081,"Devin Cannady missed Jumper.",41,51,-10,0.366825458393621,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+179,2,"18:01",1081,1081,"Nick Robinson Block.",41,51,-10,0.366825458393621,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+180,2,"18:01",1081,1081,"Charlie Brown Defensive Rebound.",41,51,-10,0.366825458393621,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+181,2,"17:54",1074,1074,"Charlie Brown Turnover.",41,51,-10,0.37148801236248,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+182,2,"17:54",1074,1074,"Spencer Weisz Steal.",41,51,-10,0.37148801236248,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+183,2,"17:50",1070,1070,"Spencer Weisz missed Layup.",41,51,-10,0.37148801236248,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+184,2,"17:50",1070,1070,"Lamarr Kimble Defensive Rebound.",41,51,-10,0.37148801236248,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+185,2,"17:41",1061,1061,"Shavar Newkirk missed Jumper.",41,51,-10,0.364483936010833,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+186,2,"17:41",1061,1061,"Shavar Newkirk Offensive Rebound.",41,51,-10,0.364483936010833,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+187,2,"17:16",1036,1036,"Lamarr Kimble missed Three Point Jumper.",41,51,-10,0.363158057828397,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+188,2,"17:16",1036,1036,"Pete Miller Defensive Rebound.",41,51,-10,0.363158057828397,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+189,2,"16:59",1019,1019,"Myles Stephens missed Jumper.",41,51,-10,0.308334143793946,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+190,2,"16:59",1019,1019,"Saint Joseph's Defensive Rebound.",41,51,-10,0.308334143793946,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+191,2,"16:37",997,997,"Nick Robinson Turnover.",41,51,-10,0.332257289816702,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+192,2,"16:37",997,997,"Spencer Weisz Steal.",41,51,-10,0.332257289816702,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+193,2,"16:32",992,992,"Devin Cannady made Layup. Assisted by Spencer Weisz.",43,51,-8,0.415566675301316,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+194,2,"16:05",965,965,"Markell Lodge missed Layup.",43,51,-8,0.389477873500312,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+195,2,"16:05",965,965,"Will Gladson Block.",43,51,-8,0.389477873500312,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+196,2,"16:05",965,965,"Princeton Defensive Rebound.",43,51,-8,0.389477873500312,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+197,2,"15:49",949,949,"Myles Stephens missed Layup.",43,51,-8,0.419103067874533,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+198,2,"15:49",949,949,"Markell Lodge Block.",43,51,-8,0.419103067874533,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+199,2,"15:49",949,949,"Charlie Brown Defensive Rebound.",43,51,-8,0.419103067874533,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+200,2,"15:39",939,939,"Foul on Devin Cannady.",43,51,-8,0.390286168292036,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+201,2,"15:38",938,938,"Official TV Timeout",43,51,-8,0.390286168292036,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+202,2,"15:24",924,924,"Charlie Brown missed Jumper.",43,51,-8,0.362925469276979,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+203,2,"15:24",924,924,"Markell Lodge Offensive Rebound.",43,51,-8,0.362925469276979,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+204,2,"15:16",916,916,"Shavar Newkirk missed Three Point Jumper.",43,51,-8,0.401192773228866,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+205,2,"15:16",916,916,"Lamarr Kimble Offensive Rebound.",43,51,-8,0.401192773228866,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+206,2,"15:09",909,909,"Nick Robinson missed Three Point Jumper.",43,51,-8,0.384643443922223,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+207,2,"15:09",909,909,"Spencer Weisz Defensive Rebound.",43,51,-8,0.384643443922223,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+208,2,"14:55",895,895,"Will Gladson made Jumper.",45,51,-6,0.485461100790723,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+209,2,"14:32",872,872,"Charlie Brown missed Jumper.",45,51,-6,0.486928925215173,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+210,2,"14:32",872,872,"Myles Stephens Defensive Rebound.",45,51,-6,0.486928925215173,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+211,2,"14:19",859,859,"Spencer Weisz missed Three Point Jumper.",45,51,-6,0.469946242984692,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+212,2,"14:19",859,859,"Saint Joseph's Defensive Rebound.",45,51,-6,0.469946242984692,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+213,2,"14:06",846,846,"Foul on Steven Cook.",45,51,-6,0.438772536445498,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+214,2,"14:06",846,846,"Lamarr Kimble made Free Throw.",45,52,-7,0.387338428305412,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+215,2,"14:06",846,846,"Lamarr Kimble missed Free Throw.",45,52,-7,0.387338428305412,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+216,2,"14:06",846,846,"Spencer Weisz Defensive Rebound.",45,52,-7,0.387338428305412,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+217,2,"13:55",835,835,"Foul on Markell Lodge.",45,52,-7,0.431187585451274,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+218,2,"13:47",827,827,"Foul on Nick Robinson.",45,52,-7,0.445631023435813,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+219,2,"13:47",827,827,"Spencer Weisz missed Free Throw.",45,52,-7,0.445631023435813,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+220,2,"13:47",827,827,"Princeton Deadball Team Rebound.",45,52,-7,0.445631023435813,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+221,2,"13:47",827,827,"Spencer Weisz missed Free Throw.",45,52,-7,0.445631023435813,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+222,2,"13:47",827,827,"Javon Baumann Defensive Rebound.",45,52,-7,0.445631023435813,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+223,2,"13:37",817,817,"Javon Baumann missed Jumper.",45,52,-7,0.426067999032135,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+224,2,"13:37",817,817,"Spencer Weisz Defensive Rebound.",45,52,-7,0.426067999032135,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+225,2,"13:21",801,801,"Myles Stephens made Layup.",47,52,-5,0.533623460307464,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+226,2,"13:01",781,781,"Shavar Newkirk made Jumper.",47,54,-7,0.401923426358476,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+227,2,"12:46",766,766,"Steven Cook missed Three Point Jumper.",47,54,-7,0.414875896953798,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+228,2,"12:46",766,766,"Brendan Casper Defensive Rebound.",47,54,-7,0.414875896953798,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+229,2,"12:31",751,751,"Foul on Will Gladson.",47,54,-7,0.388344096968027,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+230,2,"12:26",746,746,"Foul on Amir Bell.",47,54,-7,0.364950528546758,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+231,2,"12:26",746,746,"Shavar Newkirk made Free Throw.",47,55,-8,0.314987972640928,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+232,2,"12:26",746,746,"Shavar Newkirk missed Free Throw.",47,55,-8,0.314987972640928,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+233,2,"12:26",746,746,"Amir Bell Defensive Rebound.",47,55,-8,0.314987972640928,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+234,2,"12:17",737,737,"Will Gladson Turnover.",47,55,-8,0.324890338013078,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+235,2,"12:17",737,737,"Shavar Newkirk Steal.",47,55,-8,0.324890338013078,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+236,2,"12:11",731,731,"Shavar Newkirk made Layup.",47,57,-10,0.239278605969052,"Princeton","Saint Joseph's",3,4,0,0,8.5,400918457,2016-12-14
+237,2,"11:58",718,718,"Princeton  Timeout",47,57,-10,0.23036307115981,"Princeton","Saint Joseph's",2,4,1,0,8.5,400918457,2016-12-14
+238,2,"11:58",718,718,"Official TV Timeout",47,57,-10,0.23036307115981,"Princeton","Saint Joseph's",2,4,1,0,8.5,400918457,2016-12-14
+239,2,"11:48",708,708,"Foul on Javon Baumann.",47,57,-10,0.241273373168155,"Princeton","Saint Joseph's",2,4,1,0,8.5,400918457,2016-12-14
+240,2,"11:48",708,708,"Official TV Timeout",47,57,-10,0.241273373168155,"Princeton","Saint Joseph's",2,4,1,0,8.5,400918457,2016-12-14
+241,2,"11:48",708,708,"Steven Cook made Free Throw.",48,57,-9,0.282312667171403,"Princeton","Saint Joseph's",2,4,1,0,8.5,400918457,2016-12-14
+242,2,"11:48",708,708,"Steven Cook made Free Throw.",49,57,-8,0.327321049794576,"Princeton","Saint Joseph's",2,4,1,0,8.5,400918457,2016-12-14
+243,2,"11:30",690,690,"Lamarr Kimble missed Jumper.",49,57,-8,0.313040523238968,"Princeton","Saint Joseph's",2,4,1,0,8.5,400918457,2016-12-14
+244,2,"11:30",690,690,"Saint Joseph's Offensive Rebound.",49,57,-8,0.313040523238968,"Princeton","Saint Joseph's",2,4,1,0,8.5,400918457,2016-12-14
+245,2,"11:17",677,677,"Chris Clover missed Three Point Jumper.",49,57,-8,0.294831372340976,"Princeton","Saint Joseph's",2,4,1,0,8.5,400918457,2016-12-14
+246,2,"11:17",677,677,"Brendan Casper Offensive Rebound.",49,57,-8,0.294831372340976,"Princeton","Saint Joseph's",2,4,1,0,8.5,400918457,2016-12-14
+247,2,"10:56",656,656,"Lamarr Kimble missed Jumper.",49,57,-8,0.288685333329667,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+248,2,"10:56",656,656,"Javon Baumann Offensive Rebound.",49,57,-8,0.288685333329667,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+249,2,"10:56",656,656,"Javon Baumann missed Two Point Tip Shot.",49,57,-8,0.288685333329667,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+250,2,"10:56",656,656,"Javon Baumann Offensive Rebound.",49,57,-8,0.288685333329667,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+251,2,"10:51",651,651,"Foul on Steven Cook.",49,57,-8,0.288685333329667,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+252,2,"10:45",645,645,"Foul on Amir Bell.",49,57,-8,0.279053506120135,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+253,2,"10:43",643,643,"Chris Clover made Layup. Assisted by Lamarr Kimble.",49,59,-10,0.193279512196981,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+254,2,"10:30",630,630,"Steven Cook made Jumper.",51,59,-8,0.261827054498552,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+255,2,"10:30",630,630,"Foul on Javon Baumann.",51,59,-8,0.261827054498552,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+256,2,"10:30",630,630,"Steven Cook made Free Throw.",52,59,-7,0.309996150642727,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+257,2,"10:24",624,624,"Lamarr Kimble Turnover.",52,59,-7,0.329829980630454,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+258,2,"10:24",624,624,"Steven Cook Steal.",52,59,-7,0.329829980630454,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+259,2,"10:21",621,621,"Steven Cook made Dunk. Assisted by Devin Cannady.",54,59,-5,0.448666995816663,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+260,2,"10:03",603,603,"Brendan Casper Turnover.",54,59,-5,0.443606260685174,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+261,2,"10:03",603,603,"Steven Cook Steal.",54,59,-5,0.443606260685174,"Princeton","Saint Joseph's",2,4,0,0,8.5,400918457,2016-12-14
+262,2,"10:02",602,602,"Saint Joseph's  Timeout",54,59,-5,0.443606260685174,"Princeton","Saint Joseph's",2,3,0,1,8.5,400918457,2016-12-14
+263,2,"9:55",595,595,"Alec Brennan made Jumper. Assisted by Devin Cannady.",56,59,-3,0.554004767556304,"Princeton","Saint Joseph's",2,3,0,1,8.5,400918457,2016-12-14
+264,2,"9:27",567,567,"Shavar Newkirk missed Jumper.",56,59,-3,0.57105297268763,"Princeton","Saint Joseph's",2,3,0,1,8.5,400918457,2016-12-14
+265,2,"9:27",567,567,"Myles Stephens Block.",56,59,-3,0.57105297268763,"Princeton","Saint Joseph's",2,3,0,1,8.5,400918457,2016-12-14
+266,2,"9:27",567,567,"Alec Brennan Defensive Rebound.",56,59,-3,0.57105297268763,"Princeton","Saint Joseph's",2,3,0,1,8.5,400918457,2016-12-14
+267,2,"9:10",550,550,"Myles Stephens missed Jumper.",56,59,-3,0.53011725201105,"Princeton","Saint Joseph's",2,3,0,1,8.5,400918457,2016-12-14
+268,2,"9:10",550,550,"Shavar Newkirk Defensive Rebound.",56,59,-3,0.53011725201105,"Princeton","Saint Joseph's",2,3,0,1,8.5,400918457,2016-12-14
+269,2,"8:49",529,529,"Lamarr Kimble missed Layup.",56,59,-3,0.506265473743621,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+270,2,"8:49",529,529,"Spencer Weisz Defensive Rebound.",56,59,-3,0.506265473743621,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+271,2,"8:42",522,522,"Devin Cannady made Three Point Jumper. Assisted by Spencer Weisz.",59,59,0,0.698903297550745,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+272,2,"8:22",502,502,"Foul on Spencer Weisz.",59,59,0,0.720250300591101,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+273,2,"8:22",502,502,"Brendan Casper missed Free Throw.",59,59,0,0.720250300591101,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+274,2,"8:22",502,502,"Myles Stephens Defensive Rebound.",59,59,0,0.720250300591101,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+275,2,"8:16",496,496,"Devin Cannady missed Three Point Jumper.",59,59,0,0.715568342560259,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+276,2,"8:16",496,496,"Chris Clover Defensive Rebound.",59,59,0,0.715568342560259,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+277,2,"7:52",472,472,"Foul on Devin Cannady.",59,59,0,0.711041400213299,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+278,2,"7:52",472,472,"Official TV Timeout",59,59,0,0.711041400213299,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+279,2,"7:52",472,472,"Brendan Casper made Free Throw.",59,60,-1,0.647803651057335,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+280,2,"7:52",472,472,"Brendan Casper made Free Throw.",59,61,-2,0.578922178180759,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+281,2,"7:45",465,465,"Devin Cannady missed Three Point Jumper.",59,61,-2,0.576087970259509,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+282,2,"7:45",465,465,"Javon Baumann Defensive Rebound.",59,61,-2,0.576087970259509,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+283,2,"7:31",451,451,"Shavar Newkirk missed Three Point Jumper.",59,61,-2,0.53506094008459,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+284,2,"7:31",451,451,"Spencer Weisz Defensive Rebound.",59,61,-2,0.53506094008459,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+285,2,"7:18",438,438,"Alec Brennan missed Three Point Jumper.",59,61,-2,0.577176204519225,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+286,2,"7:18",438,438,"Javon Baumann Defensive Rebound.",59,61,-2,0.577176204519225,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+287,2,"7:02",422,422,"Chris Clover missed Jumper.",59,61,-2,0.54188152929458,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+288,2,"7:02",422,422,"Nick Robinson Offensive Rebound.",59,61,-2,0.54188152929458,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+289,2,"6:55",415,415,"Charlie Brown missed Jumper.",59,61,-2,0.562473462999903,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+290,2,"6:55",415,415,"Myles Stephens Defensive Rebound.",59,61,-2,0.562473462999903,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+291,2,"6:37",397,397,"Spencer Weisz made Three Point Jumper. Assisted by Myles Stephens.",62,61,1,0.761756749209158,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+292,2,"6:14",374,374,"Shavar Newkirk missed Three Point Jumper.",62,61,1,0.749750170773344,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+293,2,"6:14",374,374,"Steven Cook Defensive Rebound.",62,61,1,0.749750170773344,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+294,2,"5:53",353,353,"Foul on Shavar Newkirk.",62,61,1,0.739771523748613,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+295,2,"5:35",335,335,"Foul on Lamarr Kimble.",62,61,1,0.762817217906903,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+296,2,"5:31",331,331,"Myles Stephens missed Layup.",62,61,1,0.762817217906903,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+297,2,"5:31",331,331,"Shavar Newkirk Defensive Rebound.",62,61,1,0.762817217906903,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+298,2,"5:14",314,314,"Lamarr Kimble missed Jumper.",62,61,1,0.748692242134046,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+299,2,"5:14",314,314,"Devin Cannady Defensive Rebound.",62,61,1,0.748692242134046,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+300,2,"4:52",292,292,"Devin Cannady missed Three Point Jumper.",62,61,1,0.764161507533719,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+301,2,"4:52",292,292,"Charlie Brown Defensive Rebound.",62,61,1,0.764161507533719,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+302,2,"4:40",280,280,"Shavar Newkirk missed Jumper.",62,61,1,0.74699548140525,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+303,2,"4:40",280,280,"Amir Bell Defensive Rebound.",62,61,1,0.74699548140525,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+304,2,"4:33",273,273,"Aaron Young missed Three Point Jumper.",62,61,1,0.747780677417407,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+305,2,"4:33",273,273,"Shavar Newkirk Defensive Rebound.",62,61,1,0.747780677417407,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+306,2,"4:26",266,266,"Lamarr Kimble missed Layup.",62,61,1,0.753212527169354,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+307,2,"4:26",266,266,"Spencer Weisz Defensive Rebound.",62,61,1,0.753212527169354,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+308,2,"3:58",238,238,"Foul on Charlie Brown.",62,61,1,0.74547182361894,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+309,2,"3:58",238,238,"Official TV Timeout",62,61,1,0.74547182361894,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+310,2,"3:58",238,238,"Amir Bell made Free Throw.",63,61,2,0.81463417726997,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+311,2,"3:58",238,238,"Amir Bell made Free Throw.",64,61,3,0.868322783703164,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+312,2,"3:49",229,229,"Charlie Brown missed Three Point Jumper.",64,61,3,0.892396788401122,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+313,2,"3:49",229,229,"Lamarr Kimble Offensive Rebound.",64,61,3,0.892396788401122,"Princeton","Saint Joseph's",2,3,0,0,8.5,400918457,2016-12-14
+314,2,"3:43",223,223,"Saint Joseph's  Timeout",64,61,3,0.892396788401122,"Princeton","Saint Joseph's",2,2,0,1,8.5,400918457,2016-12-14
+315,2,"3:39",219,219,"Shavar Newkirk made Layup.",64,63,1,0.749945755435497,"Princeton","Saint Joseph's",2,2,0,1,8.5,400918457,2016-12-14
+316,2,"3:19",199,199,"Myles Stephens missed Three Point Jumper.",64,63,1,0.724875675490107,"Princeton","Saint Joseph's",2,2,0,1,8.5,400918457,2016-12-14
+317,2,"3:19",199,199,"Charlie Brown Defensive Rebound.",64,63,1,0.724875675490107,"Princeton","Saint Joseph's",2,2,0,1,8.5,400918457,2016-12-14
+318,2,"3:01",181,181,"Charlie Brown made Jumper.",64,65,-1,0.5190036759818,"Princeton","Saint Joseph's",2,2,0,1,8.5,400918457,2016-12-14
+319,2,"2:44",164,164,"Amir Bell missed Jumper.",64,65,-1,0.589894594952752,"Princeton","Saint Joseph's",2,2,0,1,8.5,400918457,2016-12-14
+320,2,"2:44",164,164,"Markell Lodge Defensive Rebound.",64,65,-1,0.589894594952752,"Princeton","Saint Joseph's",2,2,0,1,8.5,400918457,2016-12-14
+321,2,"2:21",141,141,"Shavar Newkirk missed Jumper.",64,65,-1,0.535288637568277,"Princeton","Saint Joseph's",2,2,0,0,8.5,400918457,2016-12-14
+322,2,"2:21",141,141,"Myles Stephens Defensive Rebound.",64,65,-1,0.535288637568277,"Princeton","Saint Joseph's",2,2,0,0,8.5,400918457,2016-12-14
+323,2,"2:07",127,127,"Steven Cook missed Layup.",64,65,-1,0.484424425377405,"Princeton","Saint Joseph's",2,2,0,0,8.5,400918457,2016-12-14
+324,2,"2:07",127,127,"Markell Lodge Block.",64,65,-1,0.484424425377405,"Princeton","Saint Joseph's",2,2,0,0,8.5,400918457,2016-12-14
+325,2,"2:07",127,127,"Princeton Offensive Rebound.",64,65,-1,0.484424425377405,"Princeton","Saint Joseph's",2,2,0,0,8.5,400918457,2016-12-14
+326,2,"2:02",122,122,"Devin Cannady missed Jumper.",64,65,-1,0.484424425377405,"Princeton","Saint Joseph's",2,2,0,0,8.5,400918457,2016-12-14
+327,2,"2:02",122,122,"Markell Lodge Defensive Rebound.",64,65,-1,0.484424425377405,"Princeton","Saint Joseph's",2,2,0,0,8.5,400918457,2016-12-14
+328,2,"1:36",96,96,"Nick Robinson missed Jumper.",64,65,-1,0.449843659886143,"Princeton","Saint Joseph's",2,2,0,0,8.5,400918457,2016-12-14
+329,2,"1:36",96,96,"Steven Cook Block.",64,65,-1,0.449843659886143,"Princeton","Saint Joseph's",2,2,0,0,8.5,400918457,2016-12-14
+330,2,"1:36",96,96,"Shavar Newkirk Offensive Rebound.",64,65,-1,0.449843659886143,"Princeton","Saint Joseph's",2,2,0,0,8.5,400918457,2016-12-14
+331,2,"1:29",89,89,"Shavar Newkirk missed Three Point Jumper.",64,65,-1,0.487058842252146,"Princeton","Saint Joseph's",2,2,0,0,8.5,400918457,2016-12-14
+332,2,"1:29",89,89,"Markell Lodge Offensive Rebound.",64,65,-1,0.487058842252146,"Princeton","Saint Joseph's",2,2,0,0,8.5,400918457,2016-12-14
+333,2,"1:25",85,85,"Markell Lodge made Layup.",64,67,-3,0.184717387093322,"Princeton","Saint Joseph's",2,2,0,0,8.5,400918457,2016-12-14
+334,2,"1:18",78,78,"Princeton  Timeout",64,67,-3,0.143603156050842,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+335,2,"1:16",76,76,"Aaron Young missed Three Point Jumper.",64,67,-3,0.143603156050842,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+336,2,"1:16",76,76,"Shavar Newkirk Defensive Rebound.",64,67,-3,0.143603156050842,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+337,2,"1:09",69,69,"Shavar Newkirk Turnover.",64,67,-3,0.115492192808494,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+338,2,"0:59",59,59,"Foul on Brendan Casper.",64,67,-3,0.157293591621615,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+339,2,"0:59",59,59,"Steven Cook missed Free Throw.",64,67,-3,0.157293591621615,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+340,2,"0:59",59,59,"Nick Robinson Defensive Rebound.",64,67,-3,0.157293591621615,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+341,2,"0:57",57,57,"Foul on Steven Cook.",64,67,-3,0.126059198550711,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+342,2,"0:57",57,57,"Nick Robinson made Free Throw.",64,68,-4,0.0569145464779531,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+343,2,"0:57",57,57,"Nick Robinson made Free Throw.",64,69,-5,0.0246276172390338,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+344,2,"0:53",53,53,"Devin Cannady Turnover.",64,69,-5,0.0338600863850428,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+345,2,"0:53",53,53,"Charlie Brown Steal.",64,69,-5,0.0338600863850428,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+346,2,"0:49",49,49,"Nick Robinson made Layup.",64,71,-7,0.00194939095431705,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+347,2,"0:40",40,40,"Amir Bell missed Layup.",64,71,-7,0.000800415414942244,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+348,2,"0:40",40,40,"Nick Robinson Block.",64,71,-7,0.000800415414942244,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+349,2,"0:40",40,40,"Lamarr Kimble Defensive Rebound.",64,71,-7,0.000800415414942244,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+350,2,"0:38",38,38,"Foul on Steven Cook.",64,71,-7,0.00170676189662068,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+351,2,"0:38",38,38,"Lamarr Kimble made Free Throw.",64,72,-8,0.000656199878911705,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+352,2,"0:38",38,38,"Lamarr Kimble missed Free Throw.",64,72,-8,0.000656199878911705,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+353,2,"0:38",38,38,"Spencer Weisz Defensive Rebound.",64,72,-8,0.000656199878911705,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+354,2,"0:33",33,33,"Foul on Brendan Casper.",64,72,-8,0.000163002372534145,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+355,2,"0:33",33,33,"Spencer Weisz made Free Throw.",65,72,-7,0.000506458677455974,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+356,2,"0:33",33,33,"Spencer Weisz missed Free Throw.",65,72,-7,0.000506458677455974,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+357,2,"0:33",33,33,"Lamarr Kimble Defensive Rebound.",65,72,-7,0.000506458677455974,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+358,2,"0:32",32,32,"Foul on Spencer Weisz.",65,72,-7,0.000506458677455974,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+359,2,"0:32",32,32,"Lamarr Kimble made Free Throw.",65,73,-8,0.000163002372534145,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+360,2,"0:32",32,32,"Lamarr Kimble made Free Throw.",65,74,-9,5.24496556591424e-05,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+361,2,"0:31",31,31,"Devin Cannady missed Three Point Jumper.",65,74,-9,0.000169691392286631,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+362,2,"0:31",31,31,"Spencer Weisz Offensive Rebound.",65,74,-9,0.000169691392286631,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+363,2,"0:22",22,22,"Spencer Weisz missed Layup.",65,74,-9,1.35080929294364e-05,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+364,2,"0:22",22,22,"Alec Brennan Offensive Rebound.",65,74,-9,1.35080929294364e-05,"Princeton","Saint Joseph's",1,2,1,0,8.5,400918457,2016-12-14
+365,2,"0:15",15,15,"Devin Cannady Turnover.",65,74,-9,1.35242938540204e-06,"Princeton","Saint Joseph's",1,2,0,0,8.5,400918457,2016-12-14
+366,2,"0:15",15,15,"Shavar Newkirk Steal.",65,74,-9,1.35242938540204e-06,"Princeton","Saint Joseph's",1,2,0,0,8.5,400918457,2016-12-14
+367,2,"0:15",15,15,"Foul on Devin Cannady.",65,74,-9,1.35242938540204e-06,"Princeton","Saint Joseph's",1,2,0,0,8.5,400918457,2016-12-14
+368,2,"0:15",15,15,"Shavar Newkirk made Free Throw.",65,75,-10,3.18927867809635e-07,"Princeton","Saint Joseph's",1,2,0,0,8.5,400918457,2016-12-14
+369,2,"0:15",15,15,"Shavar Newkirk made Free Throw.",65,76,-11,7.52090317104273e-08,"Princeton","Saint Joseph's",1,2,0,0,8.5,400918457,2016-12-14
+370,2,"0:13",13,13,"Alec Brennan made Three Point Jumper. Assisted by Aaron Young.",68,76,-8,2.95852950451875e-05,"Princeton","Saint Joseph's",1,2,0,0,8.5,400918457,2016-12-14
+371,2,"0:00",0,0,"End of Game",68,76,-8,6.0634525983561e-68,"Princeton","Saint Joseph's",1,2,0,0,8.5,400918457,2016-12-14

@@ -1,0 +1,321 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","play_length","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,15,0.859870113896359,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+2,1,"19:45",2385,2385,"Daejon Davis Turnover.",0,0,0,0,0.855619502380578,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+3,1,"19:45",2385,2385,"Matisse Thybulle Steal.",0,0,0,22,0.855619502380578,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+4,1,"19:23",2363,2363,"Foul on Daejon Davis.",0,0,0,5,0.840868473353129,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+5,1,"19:18",2358,2358,"Hameir Wright missed Three Point Jumper.",0,0,0,4,0.856880908624195,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+6,1,"19:14",2354,2354,"Josh Sharma Defensive Rebound.",0,0,0,26,0.856880908624195,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+7,1,"18:48",2328,2328,"Bryce Wills made Jumper.",0,2,-2,15,0.820826451809968,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+8,1,"18:33",2313,2313,"David Crisp missed Three Point Jumper.",0,2,-2,4,0.805991199338749,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+9,1,"18:29",2309,2309,"Stanford Defensive Rebound.",0,2,-2,11,0.808242024277569,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+10,1,"18:18",2298,2298,"Foul on Noah Dickerson.",0,2,-2,7,0.821224303339776,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+11,1,"18:11",2291,2291,"KZ Okpala missed Three Point Jumper.",0,2,-2,3,0.821224303339776,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+12,1,"18:08",2288,2288,"KZ Okpala Offensive Rebound.",0,2,-2,4,0.811729097693644,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+13,1,"18:04",2284,2284,"Josh Sharma missed Jumper.",0,2,-2,4,0.811729097693644,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+14,1,"18:00",2280,2280,"David Crisp Defensive Rebound.",0,2,-2,3,0.811729097693644,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+15,1,"17:57",2277,2277,"Matisse Thybulle made Dunk. Assisted by David Crisp.",2,2,0,27,0.84643113384583,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+16,1,"17:30",2250,2250,"Oscar da Silva made Layup.",2,4,-2,28,0.811408447627263,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+17,1,"17:02",2222,2222,"Hameir Wright Turnover.",2,4,-2,22,0.816461349537644,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+18,1,"16:40",2200,2200,"Oscar da Silva Turnover.",2,4,-2,12,0.80822132445331,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+19,1,"16:28",2188,2188,"Jaylen Nowell made Layup.",4,4,0,25,0.840581308355888,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+20,1,"16:03",2163,2163,"Bryce Wills missed Jumper.",4,4,0,3,0.836477787051428,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+21,1,"16:00",2160,2160,"Josh Sharma Offensive Rebound.",4,4,0,2,0.836477787051428,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+22,1,"15:58",2158,2158,"Foul on Dominic Green.",4,4,0,0,0.835105041940101,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+23,1,"15:58",2158,2158,"Official TV Timeout",4,4,0,7,0.835105041940101,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+24,1,"15:51",2151,2151,"Josh Sharma missed Jumper.",4,4,0,0,0.835105041940101,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+25,1,"15:51",2151,2151,"Dominic Green Block.",4,4,0,5,0.835105041940101,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+26,1,"15:46",2146,2146,"Josh Sharma Offensive Rebound.",4,4,0,1,0.843723806867221,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+27,1,"15:45",2145,2145,"Josh Sharma made Layup.",4,6,-2,9,0.815110005938747,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+28,1,"15:36",2136,2136,"Noah Dickerson missed Dunk.",4,6,-2,3,0.80308170627998,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+29,1,"15:33",2133,2133,"KZ Okpala Defensive Rebound.",4,6,-2,14,0.80308170627998,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+30,1,"15:19",2119,2119,"Oscar da Silva missed Three Point Jumper.",4,6,-2,3,0.811580777823987,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+31,1,"15:16",2116,2116,"Noah Dickerson Defensive Rebound.",4,6,-2,8,0.811580777823987,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+32,1,"15:08",2108,2108,"Jaylen Nowell missed Jumper.",4,6,-2,4,0.799327326010625,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+33,1,"15:04",2104,2104,"Oscar da Silva Defensive Rebound.",4,6,-2,24,0.799327326010625,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+34,1,"14:40",2080,2080,"Bryce Wills Turnover.",4,6,-2,0,0.800440322942085,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+35,1,"14:40",2080,2080,"Matisse Thybulle Steal.",4,6,-2,5,0.800440322942085,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+36,1,"14:35",2075,2075,"David Crisp missed Jumper.",4,6,-2,0,0.806837080246414,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+37,1,"14:35",2075,2075,"KZ Okpala Block.",4,6,-2,0,0.806837080246414,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+38,1,"14:35",2075,2075,"Washington Offensive Rebound.",4,6,-2,6,0.806837080246414,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+39,1,"14:29",2069,2069,"David Crisp missed Jumper.",4,6,-2,2,0.792928853597783,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+40,1,"14:27",2067,2067,"David Crisp Offensive Rebound.",4,6,-2,2,0.792928853597783,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+41,1,"14:25",2065,2065,"Dominic Green made Three Point Jumper. Assisted by Matisse Thybulle.",7,6,1,28,0.846048562206332,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+42,1,"13:57",2037,2037,"Oscar da Silva made Jumper. Assisted by Daejon Davis.",7,8,-1,26,0.832884483884698,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+43,1,"13:31",2011,2011,"David Crisp made Jumper.",9,8,1,26,0.850785187530865,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+44,1,"13:05",1985,1985,"Daejon Davis Turnover.",9,8,1,13,0.835568839001598,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+45,1,"12:52",1972,1972,"Dominic Green made Three Point Jumper. Assisted by David Crisp.",12,8,4,20,0.896896185605837,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+46,1,"12:32",1952,1952,"Isaac White Turnover.",12,8,4,12,0.888554163058514,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+47,1,"12:20",1940,1940,"Matisse Thybulle Turnover.",12,8,4,0,0.888633391910084,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+48,1,"12:20",1940,1940,"Isaac White Steal.",12,8,4,0,0.888633391910084,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+49,1,"12:20",1940,1940,"Foul on Matisse Thybulle.",12,8,4,14,0.888633391910084,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+50,1,"12:06",1926,1926,"Daejon Davis Turnover.",12,8,4,0,0.892874501784293,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+51,1,"12:06",1926,1926,"Sam Timmins Steal.",12,8,4,18,0.892874501784293,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+52,1,"11:48",1908,1908,"Sam Timmins made Jumper.",14,8,6,16,0.908260672036332,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+53,1,"11:32",1892,1892,"Foul on Sam Timmins.",14,8,6,0,0.9135707596377,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+54,1,"11:32",1892,1892,"Official TV Timeout",14,8,6,3,0.9135707596377,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+55,1,"11:29",1889,1889,"Foul on Nahziah Carter.",14,8,6,15,0.910345897231874,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+56,1,"11:14",1874,1874,"Bryce Wills missed Jumper.",14,8,6,2,0.908199985029955,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+57,1,"11:12",1872,1872,"Jamal Bey Defensive Rebound.",14,8,6,12,0.908199985029955,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+58,1,"11:00",1860,1860,"Foul on Jaiden Delaire.",14,8,6,4,0.913213047091592,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+59,1,"10:56",1856,1856,"Jaylen Nowell made Jumper.",16,8,8,24,0.929413649944191,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+60,1,"10:32",1832,1832,"KZ Okpala missed Jumper.",16,8,8,3,0.9267434755478,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+61,1,"10:29",1829,1829,"Stanford Offensive Rebound.",16,8,8,8,0.931867659564814,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+62,1,"10:21",1821,1821,"Daejon Davis Turnover.",16,8,8,29,0.931867659564814,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+63,1,"9:52",1792,1792,"Jaylen Nowell missed Three Point Jumper.",16,8,8,3,0.924829307320008,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+64,1,"9:49",1789,1789,"Washington Offensive Rebound.",16,8,8,7,0.924554549415654,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+65,1,"9:42",1782,1782,"Nahziah Carter made Jumper.",18,8,10,17,0.941722153991844,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+66,1,"9:25",1765,1765,"KZ Okpala made Layup.",18,10,8,20,0.933149275408279,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+67,1,"9:05",1745,1745,"Dominic Green made Jumper.",20,10,10,1,0.940223794555298,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+68,1,"9:04",1744,1744,"Foul on Lukas Kisunas.",20,10,10,3,0.940223794555298,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+69,1,"9:01",1741,1741,"Hameir Wright missed Layup.",20,10,10,4,0.940223794555298,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+70,1,"8:57",1737,1737,"Stanford Defensive Rebound.",20,10,10,0,0.947128699607876,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+71,1,"8:57",1737,1737,"Foul on Noah Dickerson.",20,10,10,11,0.947128699607876,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+72,1,"8:46",1726,1726,"Oscar da Silva missed Three Point Jumper.",20,10,10,4,0.941901589266873,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+73,1,"8:42",1722,1722,"Jaylen Nowell Defensive Rebound.",20,10,10,6,0.941901589266873,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+74,1,"8:36",1716,1716,"David Crisp missed Jumper.",20,10,10,3,0.948294954938896,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+75,1,"8:33",1713,1713,"Josh Sharma Defensive Rebound.",20,10,10,7,0.948294954938896,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+76,1,"8:26",1706,1706,"Bryce Wills missed Jumper.",20,10,10,0,0.939515537619596,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+77,1,"8:26",1706,1706,"Sam Timmins Block.",20,10,10,4,0.939515537619596,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+78,1,"8:22",1702,1702,"Josh Sharma Offensive Rebound.",20,10,10,4,0.939515537619596,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+79,1,"8:18",1698,1698,"Josh Sharma made Dunk.",20,12,8,21,0.932471724916368,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+80,1,"7:57",1677,1677,"Hameir Wright made Jumper.",22,12,10,14,0.94785215072372,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+81,1,"7:43",1663,1663,"KZ Okpala missed Jumper.",22,12,10,0,0.941936771137743,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+82,1,"7:43",1663,1663,"Nahziah Carter Block.",22,12,10,5,0.941936771137743,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+83,1,"7:38",1658,1658,"David Crisp Defensive Rebound.",22,12,10,2,0.942208063367928,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+84,1,"7:36",1656,1656,"Jaylen Nowell made Three Point Jumper.",25,12,13,2,0.960421075209882,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+85,1,"7:34",1654,1654,"Stanford  Timeout",25,12,13,0,0.960421075209882,"Washington","Stanford",3,4,1,0,9.5,"401087141",2019-01-17
+86,1,"7:34",1654,1654,"Official TV Timeout",25,12,13,14,0.960421075209882,"Washington","Stanford",3,4,1,0,9.5,"401087141",2019-01-17
+87,1,"7:20",1640,1640,"KZ Okpala missed Jumper.",25,12,13,2,0.965129077257218,"Washington","Stanford",3,4,1,0,9.5,"401087141",2019-01-17
+88,1,"7:18",1638,1638,"Stanford Offensive Rebound.",25,12,13,9,0.961007274538655,"Washington","Stanford",3,4,1,0,9.5,"401087141",2019-01-17
+89,1,"7:09",1629,1629,"Oscar da Silva Turnover.",25,12,13,22,0.964553920881279,"Washington","Stanford",3,4,1,0,9.5,"401087141",2019-01-17
+90,1,"6:47",1607,1607,"Matisse Thybulle Turnover.",25,12,13,14,0.960693729873378,"Washington","Stanford",3,4,1,0,9.5,"401087141",2019-01-17
+91,1,"6:33",1593,1593,"Oscar da Silva missed Jumper.",25,12,13,3,0.961269390400329,"Washington","Stanford",3,4,0,0,9.5,"401087141",2019-01-17
+92,1,"6:30",1590,1590,"Stanford Offensive Rebound.",25,12,13,0,0.961269390400329,"Washington","Stanford",3,4,0,0,9.5,"401087141",2019-01-17
+93,1,"6:30",1590,1590,"Foul on Hameir Wright.",25,12,13,0,0.961269390400329,"Washington","Stanford",3,4,0,0,9.5,"401087141",2019-01-17
+94,1,"6:30",1590,1590,"Josh Sharma made Free Throw.",25,13,12,0,0.955916247349094,"Washington","Stanford",3,4,0,0,9.5,"401087141",2019-01-17
+95,1,"6:30",1590,1590,"Josh Sharma made Free Throw.",25,14,11,15,0.949861811834153,"Washington","Stanford",3,4,0,0,9.5,"401087141",2019-01-17
+96,1,"6:15",1575,1575,"KZ Okpala missed Jumper.",25,14,11,6,0.960273426438955,"Washington","Stanford",3,4,0,0,9.5,"401087141",2019-01-17
+97,1,"6:09",1569,1569,"Josh Sharma Offensive Rebound.",25,14,11,0,0.951101453885085,"Washington","Stanford",3,4,0,0,9.5,"401087141",2019-01-17
+98,1,"6:09",1569,1569,"Josh Sharma made Layup.",25,16,9,24,0.936025650344343,"Washington","Stanford",3,4,0,0,9.5,"401087141",2019-01-17
+99,1,"5:45",1545,1545,"Jaylen Nowell made Three Point Jumper.",28,16,12,4,0.959018545765983,"Washington","Stanford",3,4,0,0,9.5,"401087141",2019-01-17
+100,1,"5:41",1541,1541,"Washington  Timeout",28,16,12,12,0.959018545765983,"Washington","Stanford",3,3,0,1,9.5,"401087141",2019-01-17
+101,1,"5:29",1529,1529,"Daejon Davis missed Jumper.",28,16,12,0,0.957885553119272,"Washington","Stanford",3,3,0,1,9.5,"401087141",2019-01-17
+102,1,"5:29",1529,1529,"Sam Timmins Block.",28,16,12,0,0.957885553119272,"Washington","Stanford",3,3,0,1,9.5,"401087141",2019-01-17
+103,1,"5:29",1529,1529,"Stanford Offensive Rebound.",28,16,12,17,0.957885553119272,"Washington","Stanford",3,3,0,1,9.5,"401087141",2019-01-17
+104,1,"5:12",1512,1512,"Daejon Davis missed Three Point Jumper.",28,16,12,3,0.964263017095177,"Washington","Stanford",3,3,0,1,9.5,"401087141",2019-01-17
+105,1,"5:09",1509,1509,"Stanford Offensive Rebound.",28,16,12,4,0.958504400100363,"Washington","Stanford",3,3,0,1,9.5,"401087141",2019-01-17
+106,1,"5:05",1505,1505,"Isaac White missed Three Point Jumper.",28,16,12,3,0.958504400100363,"Washington","Stanford",3,3,0,1,9.5,"401087141",2019-01-17
+107,1,"5:02",1502,1502,"Jaylen Nowell Defensive Rebound.",28,16,12,3,0.958504400100363,"Washington","Stanford",3,3,0,1,9.5,"401087141",2019-01-17
+108,1,"4:59",1499,1499,"David Crisp missed Three Point Jumper.",28,16,12,6,0.959230022763816,"Washington","Stanford",3,3,0,1,9.5,"401087141",2019-01-17
+109,1,"4:53",1493,1493,"David Crisp Offensive Rebound.",28,16,12,15,0.959230022763816,"Washington","Stanford",3,3,0,1,9.5,"401087141",2019-01-17
+110,1,"4:38",1478,1478,"Foul on Josh Sharma.",28,16,12,0,0.966627654940996,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+111,1,"4:38",1478,1478,"Sam Timmins missed Free Throw.",28,16,12,0,0.966627654940996,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+112,1,"4:38",1478,1478,"Washington Offensive Rebound.",28,16,12,0,0.966627654940996,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+113,1,"4:38",1478,1478,"Sam Timmins missed Free Throw.",28,16,12,2,0.966627654940996,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+114,1,"4:36",1476,1476,"Stanford Defensive Rebound.",28,16,12,17,0.966627654940996,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+115,1,"4:19",1459,1459,"Foul on Sam Timmins.",28,16,12,0,0.959187448592802,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+116,1,"4:19",1459,1459,"Oscar da Silva missed Free Throw.",28,16,12,0,0.959187448592802,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+117,1,"4:19",1459,1459,"Stanford Offensive Rebound.",28,16,12,0,0.959187448592802,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+118,1,"4:19",1459,1459,"Oscar da Silva made Free Throw.",28,17,11,19,0.953008699457823,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+119,1,"4:00",1440,1440,"Jaylen Nowell made Jumper.",30,17,13,16,0.969633447647192,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+120,1,"3:44",1424,1424,"Foul on Matisse Thybulle.",30,17,13,0,0.960856147057017,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+121,1,"3:44",1424,1424,"Official TV Timeout",30,17,13,0,0.960856147057017,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+122,1,"3:44",1424,1424,"KZ Okpala made Free Throw.",30,18,12,0,0.95503391746752,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+123,1,"3:44",1424,1424,"KZ Okpala made Free Throw.",30,19,11,13,0.94839220622783,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+124,1,"3:31",1411,1411,"Dominic Green missed Three Point Jumper.",30,19,11,2,0.953403272406765,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+125,1,"3:29",1409,1409,"Washington Offensive Rebound.",30,19,11,0,0.959970355797718,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+126,1,"3:29",1409,1409,"Foul on KZ Okpala.",30,19,11,0,0.959970355797718,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+127,1,"3:29",1409,1409,"Technical Foul on KZ Okpala.",30,19,11,0,0.959970355797718,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+128,1,"3:29",1409,1409,"Jaylen Nowell made Free Throw.",31,19,12,0,0.965519724771081,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+129,1,"3:29",1409,1409,"Jaylen Nowell made Free Throw.",32,19,13,10,0.970323559096659,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+130,1,"3:19",1399,1399,"Jaylen Nowell missed Jumper.",32,19,13,3,0.969429859965512,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+131,1,"3:16",1396,1396,"Bryce Wills Defensive Rebound.",32,19,13,2,0.969429859965512,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+132,1,"3:14",1394,1394,"Foul on Bryce Wills.",32,19,13,0,0.969429859965512,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+133,1,"3:14",1394,1394,"Bryce Wills Turnover.",32,19,13,12,0.969429859965512,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+134,1,"3:02",1382,1382,"Foul on Daejon Davis.",32,19,13,0,0.96680232362618,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+135,1,"3:02",1382,1382,"David Crisp made Free Throw.",33,19,14,0,0.97127836295593,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+136,1,"3:02",1382,1382,"David Crisp made Free Throw.",34,19,15,26,0.975166400156741,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+137,1,"2:36",1356,1356,"Bryce Wills Turnover.",34,19,15,28,0.976729957720969,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+138,1,"2:08",1328,1328,"David Crisp missed Jumper.",34,19,15,4,0.976380201541852,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+139,1,"2:04",1324,1324,"Hameir Wright Offensive Rebound.",34,19,15,6,0.976380201541852,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+140,1,"1:58",1318,1318,"David Crisp missed Jumper.",34,19,15,0,0.977163693276055,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+141,1,"1:58",1318,1318,"Oscar da Silva Block.",34,19,15,4,0.977163693276055,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+142,1,"1:54",1314,1314,"Bryce Wills Defensive Rebound.",34,19,15,15,0.977163693276055,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+143,1,"1:39",1299,1299,"Jaiden Delaire made Jumper.",34,21,13,17,0.971015240560073,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+144,1,"1:22",1282,1282,"Jaylen Nowell missed Jumper.",34,21,13,2,0.965985205634659,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+145,1,"1:20",1280,1280,"Isaac White Defensive Rebound.",34,21,13,5,0.965985205634659,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+146,1,"1:15",1275,1275,"Josh Sharma made Jumper. Assisted by Isaac White.",34,23,11,0,0.94980802173242,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+147,1,"1:15",1275,1275,"Foul on Hameir Wright.",34,23,11,0,0.94980802173242,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+148,1,"1:15",1275,1275,"Josh Sharma made Free Throw.",34,24,10,18,0.942163882313303,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+149,1,"0:57",1257,1257,"Hameir Wright made Three Point Jumper. Assisted by Nahziah Carter.",37,24,13,29,0.961770109364485,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+150,1,"0:28",1228,1228,"Jaiden Delaire missed Jumper.",37,24,13,0,0.97137087739187,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+151,1,"0:28",1228,1228,"Nahziah Carter Block.",37,24,13,2,0.97137087739187,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+152,1,"0:26",1226,1226,"Washington Defensive Rebound.",37,24,13,0,0.97137087739187,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+153,1,"0:26",1226,1226,"Foul on Jaiden Delaire.",37,24,13,0,0.97137087739187,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+154,1,"0:26",1226,1226,"Hameir Wright missed Free Throw.",37,24,13,3,0.97137087739187,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+155,1,"0:23",1223,1223,"Oscar da Silva Defensive Rebound.",37,24,13,19,0.97137087739187,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+156,1,"0:04",1204,1204,"Isaac White missed Three Point Jumper.",37,24,13,4,0.9673263787278,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+157,1,"0:00",1200,1200,"Dominic Green Defensive Rebound.",37,24,13,0,0.9673263787278,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+158,1,"0:00",1200,1200,"End of 1st half",37,24,13,0,0.9673263787278,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+159,2,"20:00",1200,1200,"PLAY",37,24,13,14,0.9673263787278,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+160,2,"19:46",1186,1186,"KZ Okpala made Layup.",37,26,11,17,0.958690759605897,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+161,2,"19:29",1169,1169,"Foul on Josh Sharma.",37,26,11,0,0.956812528966389,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+162,2,"19:29",1169,1169,"Noah Dickerson made Free Throw.",38,26,12,0,0.963134531257691,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+163,2,"19:29",1169,1169,"Noah Dickerson missed Free Throw.",38,26,12,2,0.963134531257691,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+164,2,"19:27",1167,1167,"Matisse Thybulle Offensive Rebound.",38,26,12,9,0.963134531257691,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+165,2,"19:18",1158,1158,"Noah Dickerson Turnover.",38,26,12,14,0.960856699259571,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+166,2,"19:04",1144,1144,"Foul on KZ Okpala.",38,26,12,0,0.963959533858361,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+167,2,"19:04",1144,1144,"KZ Okpala Turnover.",38,26,12,13,0.963959533858361,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+168,2,"18:51",1131,1131,"Jaylen Nowell made Jumper.",40,26,14,30,0.973830954093267,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+169,2,"18:21",1101,1101,"Daejon Davis Turnover.",40,26,14,0,0.973609320209209,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+170,2,"18:21",1101,1101,"Matisse Thybulle Steal.",40,26,14,4,0.973609320209209,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+171,2,"18:17",1097,1097,"David Crisp made Layup. Assisted by Jaylen Nowell.",42,26,16,0,0.983236874496732,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+172,2,"18:17",1097,1097,"Foul on Bryce Wills.",42,26,16,0,0.983236874496732,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+173,2,"18:17",1097,1097,"David Crisp missed Free Throw.",42,26,16,2,0.983236874496732,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+174,2,"18:15",1095,1095,"Bryce Wills Defensive Rebound.",42,26,16,14,0.983236874496732,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+175,2,"18:01",1081,1081,"Foul on Jaylen Nowell.",42,26,16,11,0.984482575899362,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+176,2,"17:50",1070,1070,"Oscar da Silva Turnover.",42,26,16,0,0.980815954025552,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+177,2,"17:50",1070,1070,"Jaylen Nowell Steal.",42,26,16,5,0.980815954025552,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+178,2,"17:45",1065,1065,"Jaylen Nowell Turnover.",42,26,16,5,0.982137415200245,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+179,2,"17:40",1060,1060,"KZ Okpala made Layup.",42,28,14,19,0.974966379603475,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+180,2,"17:21",1041,1041,"Noah Dickerson made Jumper.",44,28,16,28,0.984030666269693,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+181,2,"16:53",1013,1013,"Foul on Hameir Wright.",44,28,16,3,0.982425776704625,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+182,2,"16:50",1010,1010,"Kodye Pugh Turnover.",44,28,16,4,0.982425776704625,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+183,2,"16:46",1006,1006,"Jaylen Nowell missed Dunk.",44,28,16,3,0.983916588354857,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+184,2,"16:43",1003,1003,"Kodye Pugh Defensive Rebound.",44,28,16,4,0.983916588354857,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+185,2,"16:39",999,999,"Josh Sharma made Layup. Assisted by KZ Okpala.",44,30,14,24,0.975168610282945,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+186,2,"16:15",975,975,"Jaylen Nowell missed Dunk.",44,30,14,3,0.977775823689621,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+187,2,"16:12",972,972,"Noah Dickerson Offensive Rebound.",44,30,14,2,0.977775823689621,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+188,2,"16:10",970,970,"David Crisp made Layup.",46,30,16,20,0.984384720715256,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+189,2,"15:50",950,950,"Foul on Noah Dickerson.",46,30,16,0,0.986575049129627,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+190,2,"15:50",950,950,"Official TV Timeout",46,30,16,17,0.986575049129627,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+191,2,"15:33",933,933,"Josh Sharma made Dunk. Assisted by Jaiden Delaire.",46,32,14,17,0.979049971811883,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+192,2,"15:16",916,916,"Foul on Josh Sharma.",46,32,14,17,0.981957784534042,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+193,2,"14:59",899,899,"David Crisp missed Layup.",46,32,14,3,0.980272100735492,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+194,2,"14:56",896,896,"Josh Sharma Defensive Rebound.",46,32,14,1,0.980272100735492,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+195,2,"14:55",895,895,"Josh Sharma Turnover.",46,32,14,0,0.980272100735492,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+196,2,"14:55",895,895,"Matisse Thybulle Steal.",46,32,14,1,0.980272100735492,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+197,2,"14:54",894,894,"Foul on Josh Sharma.",46,32,14,8,0.980272100735492,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+198,2,"14:46",886,886,"Nahziah Carter made Jumper.",48,32,16,19,0.980135746011472,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+199,2,"14:27",867,867,"Foul on Matisse Thybulle.",48,32,16,0,0.985247970269072,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+200,2,"14:27",867,867,"KZ Okpala made Free Throw.",48,33,15,0,0.982188199401791,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+201,2,"14:27",867,867,"KZ Okpala missed Free Throw.",48,33,15,1,0.982188199401791,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+202,2,"14:26",866,866,"Jaylen Nowell Defensive Rebound.",48,33,15,21,0.982188199401791,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+203,2,"14:05",845,845,"Foul on Isaac White.",48,33,15,3,0.986475090877208,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+204,2,"14:02",842,842,"David Crisp missed Three Point Jumper.",48,33,15,3,0.986475090877208,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+205,2,"13:59",839,839,"Isaac White Defensive Rebound.",48,33,15,3,0.987231973487875,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+206,2,"13:56",836,836,"Kodye Pugh made Dunk. Assisted by Isaac White.",48,35,13,21,0.980837616902955,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+207,2,"13:35",815,815,"Nahziah Carter made Jumper.",50,35,15,21,0.983732654489801,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+208,2,"13:14",794,794,"Isaac White made Three Point Jumper. Assisted by Kodye Pugh.",50,38,12,17,0.976967120153797,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+209,2,"12:57",777,777,"Jaylen Nowell made Jumper. Assisted by Dominic Green.",52,38,14,25,0.983257412215162,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+210,2,"12:32",752,752,"KZ Okpala made Jumper.",52,40,12,21,0.97708260020586,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+211,2,"12:11",731,731,"Jaylen Nowell missed Jumper.",52,40,12,3,0.973109779083732,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+212,2,"12:08",728,728,"KZ Okpala Defensive Rebound.",52,40,12,3,0.977552866507725,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+213,2,"12:05",725,725,"Foul on Nahziah Carter.",52,40,12,0,0.977552866507725,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+214,2,"12:05",725,725,"Daejon Davis made Free Throw.",52,41,11,0,0.972180610260069,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+215,2,"12:05",725,725,"Daejon Davis made Free Throw.",52,42,10,17,0.965567903035613,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+216,2,"11:48",708,708,"Nahziah Carter missed Three Point Jumper.",52,42,10,5,0.959883270190067,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+217,2,"11:43",703,703,"Dominic Green Offensive Rebound.",52,42,10,28,0.959883270190067,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+218,2,"11:15",675,675,"Jaylen Nowell missed Jumper.",52,42,10,2,0.967317055888861,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+219,2,"11:13",673,673,"Lukas Kisunas Defensive Rebound.",52,42,10,20,0.967317055888861,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+220,2,"10:53",653,653,"Daejon Davis missed Three Point Jumper.",52,42,10,3,0.969206825649514,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+221,2,"10:50",650,650,"David Crisp Defensive Rebound.",52,42,10,17,0.969206825649514,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+222,2,"10:33",633,633,"Foul on Lukas Kisunas.",52,42,10,0,0.963742334047223,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+223,2,"10:33",633,633,"Official TV Timeout",52,42,10,0,0.963742334047223,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+224,2,"10:33",633,633,"Nahziah Carter made Free Throw.",53,42,11,0,0.971154450265655,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+225,2,"10:33",633,633,"Nahziah Carter missed Free Throw.",53,42,11,2,0.971154450265655,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+226,2,"10:31",631,631,"Lukas Kisunas Defensive Rebound.",53,42,11,15,0.971154450265655,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+227,2,"10:16",616,616,"KZ Okpala made Jumper.",53,44,9,0,0.961860648880466,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+228,2,"10:16",616,616,"Foul on Hameir Wright.",53,44,9,0,0.961860648880466,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+229,2,"10:16",616,616,"KZ Okpala missed Free Throw.",53,44,9,1,0.961860648880466,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+230,2,"10:15",615,615,"Jaylen Nowell Defensive Rebound.",53,44,9,26,0.961860648880466,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+231,2,"9:49",589,589,"Jaylen Nowell missed Jumper.",53,44,9,3,0.957678024222669,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+232,2,"9:46",586,586,"Lukas Kisunas Defensive Rebound.",53,44,9,19,0.957678024222669,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+233,2,"9:27",567,567,"KZ Okpala missed Three Point Jumper.",53,44,9,3,0.969426366910723,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+234,2,"9:24",564,564,"Jaylen Nowell Defensive Rebound.",53,44,9,4,0.969426366910723,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+235,2,"9:20",560,560,"Dominic Green made Three Point Jumper. Assisted by Jaylen Nowell.",56,44,12,34,0.985662541081667,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+236,2,"8:46",526,526,"Daejon Davis missed Jumper.",56,44,12,0,0.984718169377887,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+237,2,"8:46",526,526,"Matisse Thybulle Block.",56,44,12,1,0.984718169377887,"Washington","Stanford",4,4,0,0,9.5,"401087141",2019-01-17
+238,2,"8:45",525,525,"Washington Defensive Rebound.",56,44,12,0,0.984718169377887,"Washington","Stanford",4,4,1,0,9.5,"401087141",2019-01-17
+239,2,"8:45",525,525,"Stanford  Timeout",56,44,12,17,0.984718169377887,"Washington","Stanford",3,4,1,0,9.5,"401087141",2019-01-17
+240,2,"8:28",508,508,"Hameir Wright missed Jumper.",56,44,12,0,0.986041232433872,"Washington","Stanford",3,4,1,0,9.5,"401087141",2019-01-17
+241,2,"8:28",508,508,"Lukas Kisunas Block.",56,44,12,1,0.986041232433872,"Washington","Stanford",3,4,1,0,9.5,"401087141",2019-01-17
+242,2,"8:27",507,507,"Oscar da Silva Defensive Rebound.",56,44,12,3,0.986041232433872,"Washington","Stanford",3,4,1,0,9.5,"401087141",2019-01-17
+243,2,"8:24",504,504,"Foul on Matisse Thybulle.",56,44,12,0,0.986041232433872,"Washington","Stanford",3,4,1,0,9.5,"401087141",2019-01-17
+244,2,"8:24",504,504,"Oscar da Silva missed Free Throw.",56,44,12,2,0.986041232433872,"Washington","Stanford",3,4,1,0,9.5,"401087141",2019-01-17
+245,2,"8:22",502,502,"Sam Timmins Defensive Rebound.",56,44,12,20,0.986041232433872,"Washington","Stanford",3,4,1,0,9.5,"401087141",2019-01-17
+246,2,"8:02",482,482,"Nahziah Carter made Dunk.",58,44,14,14,0.991603925674334,"Washington","Stanford",3,4,1,0,9.5,"401087141",2019-01-17
+247,2,"7:48",468,468,"Foul on David Crisp.",58,44,14,0,0.992475758911638,"Washington","Stanford",3,4,1,0,9.5,"401087141",2019-01-17
+248,2,"7:48",468,468,"Official TV Timeout",58,44,14,0,0.992475758911638,"Washington","Stanford",3,4,1,0,9.5,"401087141",2019-01-17
+249,2,"7:48",468,468,"Daejon Davis made Free Throw.",58,45,13,0,0.990049904251137,"Washington","Stanford",3,4,1,0,9.5,"401087141",2019-01-17
+250,2,"7:48",468,468,"Daejon Davis made Free Throw.",58,46,12,29,0.986852302247027,"Washington","Stanford",3,4,1,0,9.5,"401087141",2019-01-17
+251,2,"7:19",439,439,"Nahziah Carter made Layup.",60,46,14,16,0.995017403638313,"Washington","Stanford",3,4,0,0,9.5,"401087141",2019-01-17
+252,2,"7:03",423,423,"Foul on Jaylen Nowell.",60,46,14,0,0.993192731451792,"Washington","Stanford",3,4,0,0,9.5,"401087141",2019-01-17
+253,2,"7:03",423,423,"Lukas Kisunas missed Free Throw.",60,46,14,2,0.993192731451792,"Washington","Stanford",3,4,0,0,9.5,"401087141",2019-01-17
+254,2,"7:01",421,421,"Nahziah Carter Defensive Rebound.",60,46,14,18,0.993192731451792,"Washington","Stanford",3,4,0,0,9.5,"401087141",2019-01-17
+255,2,"6:43",403,403,"Nahziah Carter made Jumper. Assisted by Dominic Green.",62,46,16,17,0.997793123910224,"Washington","Stanford",3,4,0,0,9.5,"401087141",2019-01-17
+256,2,"6:26",386,386,"KZ Okpala made Jumper.",62,48,14,16,0.99409376348019,"Washington","Stanford",3,4,0,0,9.5,"401087141",2019-01-17
+257,2,"6:10",370,370,"David Crisp made Jumper.",64,48,16,11,0.996992346505245,"Washington","Stanford",3,4,0,0,9.5,"401087141",2019-01-17
+258,2,"5:59",359,359,"KZ Okpala made Layup.",64,50,14,22,0.996056480176894,"Washington","Stanford",3,4,0,0,9.5,"401087141",2019-01-17
+259,2,"5:37",337,337,"Jaylen Nowell missed Jumper.",64,50,14,3,0.997073201955722,"Washington","Stanford",3,4,0,0,9.5,"401087141",2019-01-17
+260,2,"5:34",334,334,"KZ Okpala Defensive Rebound.",64,50,14,4,0.997073201955722,"Washington","Stanford",3,4,0,0,9.5,"401087141",2019-01-17
+261,2,"5:30",330,330,"Daejon Davis made Three Point Jumper. Assisted by KZ Okpala.",64,53,11,18,0.991569408630663,"Washington","Stanford",3,4,0,0,9.5,"401087141",2019-01-17
+262,2,"5:12",312,312,"Jaylen Nowell made Layup.",66,53,13,2,0.996090423882216,"Washington","Stanford",3,4,0,0,9.5,"401087141",2019-01-17
+263,2,"5:10",310,310,"Washington  Timeout",66,53,13,13,0.996090423882216,"Washington","Stanford",3,3,0,1,9.5,"401087141",2019-01-17
+264,2,"4:57",297,297,"Isaac White missed Three Point Jumper.",66,53,13,0,0.995295244891,"Washington","Stanford",3,3,0,1,9.5,"401087141",2019-01-17
+265,2,"4:57",297,297,"Dominic Green Block.",66,53,13,1,0.995295244891,"Washington","Stanford",3,3,0,1,9.5,"401087141",2019-01-17
+266,2,"4:56",296,296,"Josh Sharma Offensive Rebound.",66,53,13,0,0.995295244891,"Washington","Stanford",3,3,0,1,9.5,"401087141",2019-01-17
+267,2,"4:56",296,296,"Josh Sharma Turnover.",66,53,13,12,0.995295244891,"Washington","Stanford",3,3,0,1,9.5,"401087141",2019-01-17
+268,2,"4:44",284,284,"Nahziah Carter Turnover.",66,53,13,0,0.995378908525706,"Washington","Stanford",3,3,0,1,9.5,"401087141",2019-01-17
+269,2,"4:44",284,284,"Josh Sharma Steal.",66,53,13,4,0.995378908525706,"Washington","Stanford",3,3,0,1,9.5,"401087141",2019-01-17
+270,2,"4:40",280,280,"Josh Sharma made Dunk.",66,55,11,25,0.990686200877487,"Washington","Stanford",3,3,0,1,9.5,"401087141",2019-01-17
+271,2,"4:15",255,255,"Jaylen Nowell made Jumper.",68,55,13,10,0.998004019119221,"Washington","Stanford",3,3,0,1,9.5,"401087141",2019-01-17
+272,2,"4:05",245,245,"Foul on Nahziah Carter.",68,55,13,0,0.997459883815967,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+273,2,"4:05",245,245,"Daejon Davis missed Free Throw.",68,55,13,0,0.997459883815967,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+274,2,"4:05",245,245,"Stanford Offensive Rebound.",68,55,13,0,0.997459883815967,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+275,2,"4:05",245,245,"Daejon Davis made Free Throw.",68,56,12,11,0.996198412324804,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+276,2,"3:54",234,234,"Foul on KZ Okpala.",68,56,12,0,0.996249970491178,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+277,2,"3:54",234,234,"Official TV Timeout",68,56,12,0,0.996249970491178,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+278,2,"3:54",234,234,"Jaylen Nowell missed Free Throw.",68,56,12,2,0.996249970491178,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+279,2,"3:52",232,232,"KZ Okpala Defensive Rebound.",68,56,12,14,0.996249970491178,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+280,2,"3:38",218,218,"Kodye Pugh Turnover.",68,56,12,0,0.997481446873363,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+281,2,"3:38",218,218,"Matisse Thybulle Steal.",68,56,12,13,0.997481446873363,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+282,2,"3:25",205,205,"Matisse Thybulle made Dunk.",70,56,14,25,0.999256167276718,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+283,2,"3:00",180,180,"Foul on Sam Timmins.",70,56,14,0,0.999393481702446,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+284,2,"3:00",180,180,"KZ Okpala made Free Throw.",70,57,13,0,0.999014589449598,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+285,2,"3:00",180,180,"KZ Okpala missed Free Throw.",70,57,13,2,0.999014589449598,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+286,2,"2:58",178,178,"Stanford Offensive Rebound.",70,57,13,12,0.99919871332721,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+287,2,"2:46",166,166,"KZ Okpala missed Jumper.",70,57,13,4,0.99950832374977,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+288,2,"2:42",162,162,"Sam Timmins Defensive Rebound.",70,57,13,6,0.99950832374977,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+289,2,"2:36",156,156,"Foul on Kodye Pugh.",70,57,13,0,0.999528569610773,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+290,2,"2:36",156,156,"Sam Timmins made Free Throw.",71,57,14,0,0.999725355571129,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+291,2,"2:36",156,156,"Sam Timmins made Free Throw.",72,57,15,8,0.999840011663209,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+292,2,"2:28",148,148,"KZ Okpala made Jumper.",72,59,13,31,0.999421075781708,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+293,2,"1:57",117,117,"Matisse Thybulle missed Jumper.",72,59,13,3,0.999791245401057,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+294,2,"1:54",114,114,"Sam Timmins Offensive Rebound.",72,59,13,18,0.999791245401057,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+295,2,"1:36",96,96,"Dominic Green missed Jumper.",72,59,13,4,0.999821732760473,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+296,2,"1:32",92,92,"Daejon Davis Defensive Rebound.",72,59,13,6,0.999821732760473,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+297,2,"1:26",86,86,"Isaac White made Three Point Jumper. Assisted by Daejon Davis.",72,62,10,13,0.999617055229167,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+298,2,"1:13",73,73,"Matisse Thybulle missed Three Point Jumper.",72,62,10,1,0.999593518699892,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+299,2,"1:12",72,72,"Sam Timmins Offensive Rebound.",72,62,10,0,0.999593518699892,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+300,2,"1:12",72,72,"Foul on Isaac White.",72,62,10,0,0.999593518699892,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+301,2,"1:12",72,72,"Sam Timmins made Free Throw.",73,62,11,0,0.999805048791741,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+302,2,"1:12",72,72,"Sam Timmins made Free Throw.",74,62,12,5,0.999906510364195,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+303,2,"1:07",67,67,"Daejon Davis missed Three Point Jumper.",74,62,12,2,0.999890525723977,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+304,2,"1:05",65,65,"Matisse Thybulle Defensive Rebound.",74,62,12,1,0.999890525723977,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+305,2,"1:04",64,64,"Foul on Isaac White.",74,62,12,0,0.999890525723977,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+306,2,"1:04",64,64,"Matisse Thybulle made Free Throw.",75,62,13,0,0.999947882470713,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+307,2,"1:04",64,64,"Matisse Thybulle made Free Throw.",76,62,14,6,0.999975189100802,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+308,2,"0:58",58,58,"Josh Sharma Turnover.",76,62,14,0,0.999997971833248,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+309,2,"0:58",58,58,"Sam Timmins Steal.",76,62,14,4,0.999997971833248,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+310,2,"0:54",54,54,"Foul on Isaac White.",76,62,14,0,0.999986433875571,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+311,2,"0:54",54,54,"Matisse Thybulle made Free Throw.",77,62,15,0,0.999993651826514,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+312,2,"0:54",54,54,"Matisse Thybulle made Free Throw.",78,62,16,8,0.999997029427818,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+313,2,"0:46",46,46,"KZ Okpala made Jumper.",78,64,14,9,0.999999639292286,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+314,2,"0:37",37,37,"Elijah Hardy made Layup.",80,64,16,8,0.999999710860213,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+315,2,"0:29",29,29,"Daejon Davis missed Three Point Jumper.",80,64,16,4,0.999999916303795,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+316,2,"0:25",25,25,"Isaac White Offensive Rebound.",80,64,16,1,0.999999999036591,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+317,2,"0:24",24,24,"KZ Okpala missed Three Point Jumper.",80,64,16,4,0.999999632107705,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+318,2,"0:20",20,20,"Jason Crandall Defensive Rebound.",80,64,16,20,0.999999999997322,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+319,2,"0:00",0,0,"End of 2nd half",80,64,16,0,1,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17
+320,2,"0:00",0,0,"End of Game",80,64,16,0,1,"Washington","Stanford",3,3,0,0,9.5,"401087141",2019-01-17

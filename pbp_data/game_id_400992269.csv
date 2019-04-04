@@ -1,0 +1,345 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.5,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+2,1,"19:34",2374,2374,"Cory Gensler made Layup. Assisted by Andrew Eudy.",2,0,2,0.571370003569405,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+3,1,"19:05",2345,2345,"Kajuan Madden-McAfee missed Three Point Jumper.",2,0,2,0.556592009956795,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+4,1,"19:05",2345,2345,"Campbell Defensive Rebound.",2,0,2,0.556592009956795,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+5,1,"18:52",2332,2332,"Andrew Eudy Turnover.",2,0,2,0.563519318410407,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+6,1,"18:51",2331,2331,"Alcyone Moore Steal.",2,0,2,0.563519318410407,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+7,1,"18:46",2326,2326,"Alcyone Moore made Three Point Jumper. Assisted by Majerle Poole.",2,3,-1,0.504140234128677,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+8,1,"18:31",2311,2311,"Johnson & Wales (NC)  Timeout",2,3,-1,0.482295215574986,"Campbell","Johnson & Wales (NC)",4,3,0,1,NA,400992269,2017-11-20
+9,1,"18:25",2305,2305,"Marcus Burk made Three Point Jumper. Assisted by Cory Gensler.",5,3,2,0.558528421227611,"Campbell","Johnson & Wales (NC)",4,3,0,1,NA,400992269,2017-11-20
+10,1,"18:03",2283,2283,"Robert Hobson made Layup. Assisted by Christian Creswell.",5,5,0,0.509383147721221,"Campbell","Johnson & Wales (NC)",4,3,0,1,NA,400992269,2017-11-20
+11,1,"17:42",2262,2262,"Cory Gensler missed Three Point Jumper.",5,5,0,0.519730620930166,"Campbell","Johnson & Wales (NC)",4,3,0,1,NA,400992269,2017-11-20
+12,1,"17:42",2262,2262,"Christian Creswell Defensive Rebound.",5,5,0,0.519730620930166,"Campbell","Johnson & Wales (NC)",4,3,0,1,NA,400992269,2017-11-20
+13,1,"17:23",2243,2243,"Christian Creswell missed Layup.",5,5,0,0.528739797881157,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+14,1,"17:23",2243,2243,"Andrew Eudy Block.",5,5,0,0.528739797881157,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+15,1,"17:22",2242,2242,"Johnson & Wales (NC) Offensive Rebound.",5,5,0,0.528739797881157,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+16,1,"17:08",2228,2228,"Christian Creswell missed Three Point Jumper.",5,5,0,0.518841022984371,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+17,1,"17:08",2228,2228,"Damontez Oliver Defensive Rebound.",5,5,0,0.518841022984371,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+18,1,"16:58",2218,2218,"Shane Whitfield Turnover.",5,5,0,0.527605668391657,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+19,1,"16:39",2199,2199,"Majerle Poole missed Jumper.",5,5,0,0.528680348203592,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+20,1,"16:39",2199,2199,"Shane Whitfield Defensive Rebound.",5,5,0,0.528680348203592,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+21,1,"16:33",2193,2193,"Foul on Majerle Poole.",5,5,0,0.528680348203592,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+22,1,"16:17",2177,2177,"Marcus Burk made Three Point Jumper. Assisted by Andrew Eudy.",8,5,3,0.590764350796782,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+23,1,"16:05",2165,2165,"Kajuan Madden-McAfee made Layup.",8,7,1,0.542984542474778,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+24,1,"15:49",2149,2149,"Damontez Oliver made Three Point Jumper. Assisted by Marcus Burk.",11,7,4,0.622094100100333,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+25,1,"15:19",2119,2119,"Alcyone Moore made Layup. Assisted by Kajuan Madden-McAfee.",11,9,2,0.565331775116154,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+26,1,"15:10",2110,2110,"Foul on Alcyone Moore.",11,9,2,0.565331775116154,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+27,1,"15:10",2110,2110,"Official TV Timeout",11,9,2,0.565331775116154,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+28,1,"15:07",2107,2107,"Marcus Burk made Three Point Jumper. Assisted by Andrew Eudy.",14,9,5,0.646568040258863,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+29,1,"14:44",2084,2084,"Christian Creswell Turnover.",14,9,5,0.654819642079063,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+30,1,"14:24",2064,2064,"Marcus Burk missed Three Point Jumper.",14,9,5,0.650019833306725,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+31,1,"14:24",2064,2064,"Majerle Poole Defensive Rebound.",14,9,5,0.650019833306725,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+32,1,"14:12",2052,2052,"Alcyone Moore Turnover.",14,9,5,0.643641852675831,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+33,1,"14:11",2051,2051,"Ja'Cor Nelson Steal.",14,9,5,0.643641852675831,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+34,1,"14:08",2048,2048,"Marcus Burk made Layup. Assisted by Shane Whitfield.",16,9,7,0.683937020722561,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+35,1,"13:45",2025,2025,"Robert Hobson missed Three Point Jumper.",16,9,7,0.720160161653629,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+36,1,"13:45",2025,2025,"Cory Gensler Defensive Rebound.",16,9,7,0.720160161653629,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+37,1,"13:35",2015,2015,"Ja'Cor Nelson missed Three Point Jumper.",16,9,7,0.708274664660254,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+38,1,"13:35",2015,2015,"Campbell Offensive Rebound.",16,9,7,0.708274664660254,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+39,1,"13:31",2011,2011,"Marcus Burk made Three Point Jumper. Assisted by Cory Gensler.",19,9,10,0.774489361068996,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+40,1,"13:05",1985,1985,"Alcyone Moore missed Jumper.",19,9,10,0.779450956023264,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+41,1,"13:05",1985,1985,"Campbell Defensive Rebound.",19,9,10,0.779450956023264,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+42,1,"12:46",1966,1966,"Foul on Malik Bullock.",19,9,10,0.75116616950942,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+43,1,"12:22",1942,1942,"Cory Gensler missed Three Point Jumper.",19,9,10,0.787063229331319,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+44,1,"12:22",1942,1942,"Malik Bullock Defensive Rebound.",19,9,10,0.787063229331319,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+45,1,"12:21",1941,1941,"Foul on Andrew Eudy.",19,9,10,0.787063229331319,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+46,1,"12:01",1921,1921,"Alcyone Moore made Three Point Jumper. Assisted by Robert Hobson.",19,12,7,0.706404813319821,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+47,1,"11:38",1898,1898,"Marcus Burk missed Three Point Jumper.",19,12,7,0.736895794184246,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+48,1,"11:38",1898,1898,"Andrew Eudy Offensive Rebound.",19,12,7,0.736895794184246,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+49,1,"11:30",1890,1890,"Andrew Eudy Turnover.",19,12,7,0.736895794184246,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+50,1,"11:30",1890,1890,"Official TV Timeout",19,12,7,0.736895794184246,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+51,1,"11:02",1862,1862,"Alcyone Moore missed Layup.",19,12,7,0.743710137317274,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+52,1,"11:02",1862,1862,"Mogga Lado Defensive Rebound.",19,12,7,0.743710137317274,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+53,1,"11:00",1860,1860,"Foul on Alcyone Moore.",19,12,7,0.743710137317274,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+54,1,"10:34",1834,1834,"Foul on Robert Hobson.",19,12,7,0.724112227357525,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+55,1,"10:34",1834,1834,"Ja'Cor Nelson missed Free Throw.",19,12,7,0.724112227357525,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+56,1,"10:34",1834,1834,"Campbell Deadball Team Rebound.",19,12,7,0.724112227357525,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+57,1,"10:34",1834,1834,"Ja'Cor Nelson made Free Throw.",20,12,8,0.748755044757856,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+58,1,"10:10",1810,1810,"Caleb Coleman Turnover.",20,12,8,0.766476145864922,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+59,1,"10:08",1808,1808,"Marcus Burk Steal.",20,12,8,0.742279366511525,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+60,1,"10:05",1805,1805,"Mogga Lado Turnover.",20,12,8,0.742279366511525,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+61,1,"9:50",1790,1790,"Kajuan Madden-McAfee Turnover.",20,12,8,0.743510863731494,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+62,1,"9:49",1789,1789,"Andrew Eudy Steal.",20,12,8,0.748352694522586,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+63,1,"9:31",1771,1771,"Andrew Eudy made Three Point Jumper. Assisted by Mogga Lado.",23,12,11,0.79178530079047,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+64,1,"9:07",1747,1747,"James Veal made Jumper.",23,14,9,0.777233349224972,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+65,1,"8:53",1733,1733,"Mogga Lado missed Layup.",23,14,9,0.782571734740621,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+66,1,"8:53",1733,1733,"Majerle Poole Block.",23,14,9,0.782571734740621,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+67,1,"8:49",1729,1729,"Christian Creswell Defensive Rebound.",23,14,9,0.792139535918437,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+68,1,"8:43",1723,1723,"Christian Creswell Turnover.",23,14,9,0.792139535918437,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+69,1,"8:22",1702,1702,"Cory Gensler made Layup. Assisted by Damontez Oliver.",25,14,11,0.803880909213495,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+70,1,"8:05",1685,1685,"Alcyone Moore Turnover.",25,14,11,0.837939988490122,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+71,1,"8:05",1685,1685,"Foul on Alcyone Moore.",25,14,11,0.837939988490122,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+72,1,"7:40",1660,1660,"Damontez Oliver made Three Point Jumper. Assisted by Mogga Lado.",28,14,14,0.865168536134516,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+73,1,"7:26",1646,1646,"Foul on Damontez Oliver.",28,14,14,0.883969991917189,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+74,1,"7:26",1646,1646,"Official TV Timeout",28,14,14,0.883969991917189,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+75,1,"7:26",1646,1646,"Majerle Poole made Free Throw.",28,15,13,0.868905502758883,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+76,1,"7:26",1646,1646,"Majerle Poole missed Free Throw.",28,15,13,0.868905502758883,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+77,1,"7:26",1646,1646,"Cory Gensler Defensive Rebound.",28,15,13,0.868905502758883,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+78,1,"7:10",1630,1630,"Ja'Cor Nelson missed Jumper.",28,15,13,0.859830241719131,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+79,1,"7:10",1630,1630,"Kajuan Madden-McAfee Block.",28,15,13,0.859830241719131,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+80,1,"7:08",1628,1628,"Majerle Poole Defensive Rebound.",28,15,13,0.865793024488893,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+81,1,"7:00",1620,1620,"Foul on Shane Whitfield.",28,15,13,0.865793024488893,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+82,1,"6:54",1614,1614,"Christian Creswell missed Layup.",28,15,13,0.860682845519574,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+83,1,"6:54",1614,1614,"Ja'Cor Nelson Block.",28,15,13,0.860682845519574,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+84,1,"6:52",1612,1612,"Christian Creswell Offensive Rebound.",28,15,13,0.860682845519574,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+85,1,"6:51",1611,1611,"Christian Creswell missed Layup.",28,15,13,0.860682845519574,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+86,1,"6:51",1611,1611,"Caleb Coleman Offensive Rebound.",28,15,13,0.860682845519574,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+87,1,"6:47",1607,1607,"Messiah Baptiste made Three Point Jumper. Assisted by Caleb Coleman.",28,18,10,0.790290398266238,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+88,1,"6:28",1588,1588,"Mogga Lado made Dunk.",30,18,12,0.834371879962335,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+89,1,"6:14",1574,1574,"Caleb Coleman Turnover.",30,18,12,0.873420548413121,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+90,1,"6:14",1574,1574,"Foul on Caleb Coleman.",30,18,12,0.873420548413121,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+91,1,"6:07",1567,1567,"Cory Gensler made Three Point Jumper. Assisted by Mogga Lado.",33,18,15,0.893951302054905,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+92,1,"5:51",1551,1551,"Robert Hobson missed Three Point Jumper.",33,18,15,0.897810434393091,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+93,1,"5:51",1551,1551,"Messiah Baptiste Offensive Rebound.",33,18,15,0.897810434393091,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+94,1,"5:47",1547,1547,"Messiah Baptiste missed Jumper.",33,18,15,0.895148210813365,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+95,1,"5:47",1547,1547,"Nick Parker Defensive Rebound.",33,18,15,0.895148210813365,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+96,1,"5:40",1540,1540,"Nick Parker missed Three Point Jumper.",33,18,15,0.895148210813365,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+97,1,"5:40",1540,1540,"Mogga Lado Offensive Rebound.",33,18,15,0.895148210813365,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+98,1,"5:28",1528,1528,"Ja'Cor Nelson Turnover.",33,18,15,0.89943151066175,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+99,1,"5:10",1510,1510,"Robert Hobson made Layup. Assisted by Messiah Baptiste.",33,20,13,0.891249213885733,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+100,1,"5:06",1506,1506,"Foul on Robert Hobson.",33,20,13,0.869787994376794,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+101,1,"5:06",1506,1506,"Shane Whitfield made Free Throw.",34,20,14,0.885092336473078,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+102,1,"5:06",1506,1506,"Shane Whitfield made Free Throw.",35,20,15,0.898807171217153,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+103,1,"4:39",1479,1479,"Caleb Coleman Turnover.",35,20,15,0.910746897788519,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+104,1,"4:26",1466,1466,"Marcus Burk missed Three Point Jumper.",35,20,15,0.901032191734682,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+105,1,"4:26",1466,1466,"Majerle Poole Defensive Rebound.",35,20,15,0.901032191734682,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+106,1,"4:17",1457,1457,"Majerle Poole missed Layup.",35,20,15,0.901250627260212,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+107,1,"4:17",1457,1457,"Cory Gensler Block.",35,20,15,0.901250627260212,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+108,1,"4:16",1456,1456,"Majerle Poole Offensive Rebound.",35,20,15,0.901250627260212,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+109,1,"4:12",1452,1452,"Caleb Coleman made Layup.",35,22,13,0.87172836618465,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+110,1,"3:49",1429,1429,"Marcus Burk Turnover.",35,22,13,0.870469025993732,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+111,1,"3:48",1428,1428,"Majerle Poole Steal.",35,22,13,0.870469025993732,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+112,1,"3:41",1421,1421,"Christian Creswell missed Layup.",35,22,13,0.870469025993732,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+113,1,"3:41",1421,1421,"Mogga Lado Block.",35,22,13,0.870469025993732,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+114,1,"3:40",1420,1420,"Cory Gensler Defensive Rebound.",35,22,13,0.870469025993732,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+115,1,"3:34",1414,1414,"Cory Gensler made Layup.",37,22,15,0.91441259002198,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+116,1,"3:15",1395,1395,"Messiah Baptiste missed Jumper.",37,22,15,0.91008066154532,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+117,1,"3:15",1395,1395,"Shane Whitfield Defensive Rebound.",37,22,15,0.91008066154532,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+118,1,"3:09",1389,1389,"Foul on Caleb Coleman.",37,22,15,0.912134572218692,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+119,1,"3:09",1389,1389,"Official TV Timeout",37,22,15,0.912134572218692,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+120,1,"3:09",1389,1389,"Shane Whitfield made Free Throw.",38,22,16,0.923397445277656,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+121,1,"3:09",1389,1389,"Shane Whitfield made Free Throw.",39,22,17,0.933322143644182,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+122,1,"2:54",1374,1374,"James Veal Turnover.",39,22,17,0.920358094930383,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+123,1,"2:54",1374,1374,"Foul on James Veal.",39,22,17,0.920358094930383,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+124,1,"2:38",1358,1358,"Brooks Cluxton Turnover.",39,22,17,0.939334692499543,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+125,1,"2:37",1357,1357,"Messiah Baptiste Steal.",39,22,17,0.939334692499543,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+126,1,"2:32",1352,1352,"Foul on Cory Gensler.",39,22,17,0.939334692499543,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+127,1,"2:19",1339,1339,"Messiah Baptiste missed Jumper.",39,22,17,0.933779700601578,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+128,1,"2:19",1339,1339,"Andrew Eudy Block.",39,22,17,0.933779700601578,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+129,1,"2:16",1336,1336,"Cory Gensler Defensive Rebound.",39,22,17,0.933779700601578,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+130,1,"2:07",1327,1327,"Andrew Eudy made Layup. Assisted by Marcus Burk.",41,22,19,0.954515248591607,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+131,1,"2:07",1327,1327,"Foul on James Veal.",41,22,19,0.954515248591607,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+132,1,"2:07",1327,1327,"Andrew Eudy made Free Throw.",42,22,20,0.960888120493195,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+133,1,"1:51",1311,1311,"Majerle Poole Turnover.",42,22,20,0.963890579384781,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+134,1,"1:36",1296,1296,"Cory Gensler made Three Point Jumper. Assisted by Shane Whitfield.",45,22,23,0.982223418457374,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+135,1,"1:19",1279,1279,"Robert Hobson missed Three Point Jumper.",45,22,23,0.968649784637401,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+136,1,"1:19",1279,1279,"Marcus Burk Defensive Rebound.",45,22,23,0.968649784637401,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+137,1,"1:10",1270,1270,"Marcus Burk made Layup.",47,22,25,0.97657756284391,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+138,1,"0:55",1255,1255,"Christian Creswell missed Jumper.",47,22,25,0.979058680819454,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+139,1,"0:55",1255,1255,"Shane Whitfield Defensive Rebound.",47,22,25,0.979058680819454,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+140,1,"0:48",1248,1248,"Shane Whitfield made Layup.",49,22,27,0.985646808313686,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+141,1,"0:34",1234,1234,"Foul on Andrew Eudy.",49,22,27,0.987589462389762,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+142,1,"0:34",1234,1234,"Majerle Poole made Free Throw.",49,23,26,0.985452958669195,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+143,1,"0:34",1234,1234,"Majerle Poole made Free Throw.",49,24,25,0.982954998730823,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+144,1,"0:15",1215,1215,"Marcus Burk made Dunk. Assisted by Andrew Eudy.",51,24,27,0.988866183042514,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+145,1,"0:02",1202,1202,"Majerle Poole missed Three Point Jumper.",51,24,27,0.987248148532182,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+146,1,"0:02",1202,1202,"Shane Whitfield Defensive Rebound.",51,24,27,0.987248148532182,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+147,1,"0:00",1200,1200,"End of 1st half",51,24,27,0.987248148532182,"Campbell","Johnson & Wales (NC)",4,3,0,0,NA,400992269,2017-11-20
+148,2,"20:00",1200,1200,"PLAY",51,24,27,0.987248148532182,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+149,2,"19:41",1181,1181,"Kajuan Madden-McAfee missed Jumper.",51,24,27,0.989186046067244,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+150,2,"19:41",1181,1181,"Marcus Burk Defensive Rebound.",51,24,27,0.989186046067244,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+151,2,"19:32",1172,1172,"Marcus Burk made Layup.",53,24,29,0.992120253885696,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+152,2,"19:06",1146,1146,"Kajuan Madden-McAfee Turnover.",53,24,29,0.993721630439881,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+153,2,"18:40",1120,1120,"Marcus Burk missed Three Point Jumper.",53,24,29,0.995641109878852,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+154,2,"18:40",1120,1120,"Majerle Poole Defensive Rebound.",53,24,29,0.995641109878852,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+155,2,"18:32",1112,1112,"Robert Hobson missed Three Point Jumper.",53,24,29,0.993975394193005,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+156,2,"18:32",1112,1112,"Marcus Burk Defensive Rebound.",53,24,29,0.993975394193005,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+157,2,"18:25",1105,1105,"Andrew Eudy made Layup. Assisted by Marcus Burk.",55,24,31,0.994089257925879,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+158,2,"18:01",1081,1081,"Majerle Poole missed Layup.",55,24,31,0.996008285458147,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+159,2,"18:01",1081,1081,"Andrew Eudy Defensive Rebound.",55,24,31,0.996008285458147,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+160,2,"17:51",1071,1071,"Marcus Burk made Layup. Assisted by Cory Gensler.",57,24,33,0.996561871040146,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+161,2,"17:29",1049,1049,"Alcyone Moore missed Jumper.",57,24,33,0.997286686926313,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+162,2,"17:29",1049,1049,"Damontez Oliver Defensive Rebound.",57,24,33,0.997286686926313,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+163,2,"17:25",1045,1045,"Foul on Alcyone Moore.",57,24,33,0.997286686926313,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+164,2,"17:14",1034,1034,"Andrew Eudy missed Jumper.",57,24,33,0.996629145911696,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+165,2,"17:14",1034,1034,"Johnson & Wales (NC) Defensive Rebound.",57,24,33,0.996629145911696,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+166,2,"16:57",1017,1017,"Foul on Damontez Oliver.",57,24,33,0.997490880068626,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+167,2,"16:57",1017,1017,"Malik Bullock missed Free Throw.",57,24,33,0.997490880068626,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+168,2,"16:57",1017,1017,"Johnson & Wales (NC) Deadball Team Rebound.",57,24,33,0.997490880068626,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+169,2,"16:57",1017,1017,"Malik Bullock made Free Throw.",57,25,32,0.996989561667166,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+170,2,"16:48",1008,1008,"Cory Gensler missed Three Point Jumper.",57,25,32,0.997417818252031,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+171,2,"16:48",1008,1008,"Majerle Poole Defensive Rebound.",57,25,32,0.997417818252031,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+172,2,"16:34",994,994,"Malik Bullock made Jumper.",57,27,30,0.995290893075993,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+173,2,"16:16",976,976,"Foul on Messiah Baptiste.",57,27,30,0.995891266622823,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+174,2,"16:04",964,964,"Marcus Burk Turnover.",57,27,30,0.996319128695138,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+175,2,"16:03",963,963,"Messiah Baptiste Steal.",57,27,30,0.996319128695138,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+176,2,"15:57",957,957,"Foul on Marcus Burk.",57,27,30,0.996767119764843,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+177,2,"15:57",957,957,"Official TV Timeout",57,27,30,0.996767119764843,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+178,2,"15:57",957,957,"Messiah Baptiste made Free Throw.",57,28,29,0.996088488748475,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+179,2,"15:57",957,957,"Messiah Baptiste missed Free Throw.",57,28,29,0.996088488748475,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+180,2,"15:57",957,957,"Mogga Lado Defensive Rebound.",57,28,29,0.996088488748475,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+181,2,"15:46",946,946,"Damontez Oliver missed Three Point Jumper.",57,28,29,0.996625482086143,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+182,2,"15:46",946,946,"Caleb Coleman Defensive Rebound.",57,28,29,0.996625482086143,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+183,2,"15:26",926,926,"Majerle Poole Turnover.",57,28,29,0.996221457222322,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+184,2,"15:26",926,926,"Foul on Majerle Poole.",57,28,29,0.996221457222322,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+185,2,"15:16",916,916,"Mogga Lado Turnover.",57,28,29,0.99671554144017,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+186,2,"15:01",901,901,"Majerle Poole missed Three Point Jumper.",57,28,29,0.996331759126183,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+187,2,"15:01",901,901,"Caleb Coleman Offensive Rebound.",57,28,29,0.996331759126183,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+188,2,"14:54",894,894,"Malik Bullock missed Three Point Jumper.",57,28,29,0.996785613643149,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+189,2,"14:54",894,894,"Majerle Poole Offensive Rebound.",57,28,29,0.996785613643149,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+190,2,"14:52",892,892,"Foul on Cory Gensler.",57,28,29,0.996785613643149,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+191,2,"14:40",880,880,"Messiah Baptiste Turnover.",57,28,29,0.993770194192504,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+192,2,"14:39",879,879,"Cory Gensler Steal.",57,28,29,0.99652920069289,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+193,2,"14:38",878,878,"Cory Gensler Turnover.",57,28,29,0.99652920069289,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+194,2,"14:37",877,877,"Christian Creswell Steal.",57,28,29,0.99652920069289,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+195,2,"14:37",877,877,"Foul on Ja'Cor Nelson.",57,28,29,0.99652920069289,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+196,2,"14:37",877,877,"Christian Creswell missed Free Throw.",57,28,29,0.99652920069289,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+197,2,"14:37",877,877,"Johnson & Wales (NC) Deadball Team Rebound.",57,28,29,0.99652920069289,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+198,2,"14:37",877,877,"Christian Creswell made Free Throw.",57,29,28,0.995795015544687,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+199,2,"14:20",860,860,"Cory Gensler Turnover.",57,29,28,0.995363758080202,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+200,2,"13:58",838,838,"Robert Hobson made Jumper.",57,31,26,0.995522095407912,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+201,2,"13:48",828,828,"Foul on Messiah Baptiste.",57,31,26,0.99290464869805,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+202,2,"13:40",820,820,"Foul on Messiah Baptiste.",57,31,26,0.99290464869805,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+203,2,"13:36",816,816,"Marcus Burk made Three Point Jumper. Assisted by Cory Gensler.",60,31,29,0.996537409456208,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+204,2,"13:17",797,797,"Malik Bullock made Jumper. Assisted by Christian Creswell.",60,33,27,0.997432770003775,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+205,2,"12:44",764,764,"Shane Whitfield Turnover.",60,33,27,0.997407573578576,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+206,2,"12:43",763,763,"Caleb Coleman Steal.",60,33,27,0.997407573578576,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+207,2,"12:39",759,759,"Foul on Cory Gensler.",60,33,27,0.997285029095524,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+208,2,"12:39",759,759,"Malik Bullock missed Free Throw.",60,33,27,0.997285029095524,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+209,2,"12:39",759,759,"Johnson & Wales (NC) Deadball Team Rebound.",60,33,27,0.997285029095524,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+210,2,"12:39",759,759,"Malik Bullock missed Free Throw.",60,33,27,0.997285029095524,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+211,2,"12:39",759,759,"Ja'Cor Nelson Defensive Rebound.",60,33,27,0.997285029095524,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+212,2,"12:27",747,747,"Marcus Burk made Three Point Jumper. Assisted by Jon Ander Cuadra.",63,33,30,0.998768302133886,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+213,2,"12:10",730,730,"Foul on Mogga Lado.",63,33,30,0.998465956639665,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+214,2,"12:10",730,730,"Caleb Coleman missed Free Throw.",63,33,30,0.998465956639665,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+215,2,"12:10",730,730,"Johnson & Wales (NC) Deadball Team Rebound.",63,33,30,0.998465956639665,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+216,2,"12:10",730,730,"Caleb Coleman missed Free Throw.",63,33,30,0.998465956639665,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+217,2,"12:10",730,730,"Jon Ander Cuadra Defensive Rebound.",63,33,30,0.998465956639665,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+218,2,"11:52",712,712,"Foul on Christian Creswell.",63,33,30,0.998527543859891,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+219,2,"11:52",712,712,"Official TV Timeout",63,33,30,0.998527543859891,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+220,2,"11:44",704,704,"Jon Ander Cuadra made Layup. Assisted by Marcus Burk.",65,33,32,0.999019624647877,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+221,2,"11:34",694,694,"Malik Bullock Turnover.",65,33,32,0.999525929236621,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+222,2,"11:26",686,686,"Mogga Lado missed Layup.",65,33,32,0.999233999355205,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+223,2,"11:26",686,686,"Malik Bullock Defensive Rebound.",65,33,32,0.999233999355205,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+224,2,"11:20",680,680,"Majerle Poole missed Three Point Jumper.",65,33,32,0.999233999355205,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+225,2,"11:20",680,680,"Caleb Coleman Offensive Rebound.",65,33,32,0.999233999355205,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+226,2,"11:15",675,675,"Malik Bullock missed Layup.",65,33,32,0.999423339338472,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+227,2,"11:15",675,675,"Mogga Lado Defensive Rebound.",65,33,32,0.999423339338472,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+228,2,"11:05",665,665,"Shane Whitfield Turnover.",65,33,32,0.99937788147249,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+229,2,"11:04",664,664,"Malik Bullock Steal.",65,33,32,0.99937788147249,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+230,2,"10:58",658,658,"Caleb Coleman missed Three Point Jumper.",65,33,32,0.999562021532521,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+231,2,"10:58",658,658,"Shane Whitfield Defensive Rebound.",65,33,32,0.999562021532521,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+232,2,"10:51",651,651,"Marcus Burk Turnover.",65,33,32,0.999562021532521,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+233,2,"10:51",651,651,"Foul on Marcus Burk.",65,33,32,0.999562021532521,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+234,2,"10:25",625,625,"Caleb Coleman Turnover.",65,33,32,0.99969430928372,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+235,2,"10:06",606,606,"Mogga Lado made Layup.",67,33,34,0.99977230179379,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+236,2,"9:56",596,596,"Malik Bullock missed Jumper.",67,33,34,0.999729420498385,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+237,2,"9:56",596,596,"Mogga Lado Defensive Rebound.",67,33,34,0.999729420498385,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+238,2,"9:46",586,586,"Foul on Malik Bullock.",67,33,34,0.999745348587795,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+239,2,"9:46",586,586,"Ja'Cor Nelson missed Free Throw.",67,33,34,0.999745348587795,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+240,2,"9:46",586,586,"Campbell Deadball Team Rebound.",67,33,34,0.999745348587795,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+241,2,"9:46",586,586,"Ja'Cor Nelson missed Free Throw.",67,33,34,0.999745348587795,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+242,2,"9:46",586,586,"Johnson & Wales (NC) Defensive Rebound.",67,33,34,0.999745348587795,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+243,2,"9:46",586,586,"Foul on Jon Ander Cuadra.",67,33,34,0.999745348587795,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+244,2,"9:46",586,586,"Robert Hobson made Free Throw.",67,34,33,0.99967563906727,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+245,2,"9:46",586,586,"Robert Hobson made Free Throw.",67,35,32,0.999586854808249,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+246,2,"9:35",575,575,"Marcus Burk made Three Point Jumper. Assisted by Mogga Lado.",70,35,35,0.999880822040734,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+247,2,"9:10",550,550,"Robert Hobson made Jumper.",70,37,33,0.999817690577582,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+248,2,"9:02",542,542,"Jon Ander Cuadra missed Jumper.",70,37,33,0.999854951634718,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+249,2,"9:02",542,542,"Mogga Lado Offensive Rebound.",70,37,33,0.999854951634718,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+250,2,"9:00",540,540,"Foul on Messiah Baptiste.",70,37,33,0.999854951634718,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+251,2,"9:00",540,540,"Mogga Lado made Free Throw.",71,37,34,0.999889049393946,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+252,2,"9:00",540,540,"Mogga Lado made Free Throw.",72,37,35,0.999915132181784,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+253,2,"8:45",525,525,"James Veal Turnover.",72,37,35,0.999936169893955,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+254,2,"8:33",513,513,"Foul on James Veal.",72,37,35,0.999927164427922,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+255,2,"8:33",513,513,"Mogga Lado made Free Throw.",73,37,36,0.999944427951125,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+256,2,"8:33",513,513,"Mogga Lado made Free Throw.",74,37,37,0.999957599839053,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+257,2,"8:07",487,487,"Malik Bullock missed Jumper.",74,37,37,0.999962234696557,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+258,2,"8:07",487,487,"Mogga Lado Defensive Rebound.",74,37,37,0.999962234696557,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+259,2,"7:50",470,470,"Foul on James Veal.",74,37,37,0.99997994313833,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+260,2,"7:50",470,470,"Official TV Timeout",74,37,37,0.99997994313833,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+261,2,"7:50",470,470,"Mogga Lado missed Free Throw.",74,37,37,0.99997994313833,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+262,2,"7:50",470,470,"Campbell Deadball Team Rebound.",74,37,37,0.99997994313833,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+263,2,"7:50",470,470,"Mogga Lado made Free Throw.",75,37,38,0.99998500783143,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+264,2,"7:38",458,458,"Malik Bullock missed Three Point Jumper.",75,37,38,0.99999435917759,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+265,2,"7:38",458,458,"Brooks Cluxton Defensive Rebound.",75,37,38,0.99999435917759,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+266,2,"7:30",450,450,"Foul on Robert Hobson.",75,37,38,0.99999435917759,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+267,2,"7:30",450,450,"Ja'Cor Nelson made Free Throw.",76,37,39,0.999995891762462,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+268,2,"7:30",450,450,"Ja'Cor Nelson made Free Throw.",77,37,40,0.999997007952491,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+269,2,"7:18",438,438,"Foul on Jon Ander Cuadra.",77,37,40,0.999995919360587,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+270,2,"7:18",438,438,"Alcyone Moore made Free Throw.",77,38,39,0.999994449638321,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+271,2,"7:18",438,438,"Alcyone Moore made Free Throw.",77,39,38,0.999992450570769,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+272,2,"6:58",418,418,"Jon Ander Cuadra made Jumper.",79,39,40,0.999994372342021,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+273,2,"6:46",406,406,"Robert Hobson made Three Point Jumper.",79,42,37,0.999995038319677,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+274,2,"6:30",390,390,"Foul on Majerle Poole.",79,42,37,0.999991448072903,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+275,2,"6:30",390,390,"Ja'Cor Nelson made Free Throw.",80,42,38,0.999993741012055,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+276,2,"6:30",390,390,"Ja'Cor Nelson missed Free Throw.",80,42,38,0.999993741012055,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+277,2,"6:30",390,390,"Brooks Cluxton Offensive Rebound.",80,42,38,0.999993741012055,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+278,2,"6:18",378,378,"Foul on Christian Creswell.",80,42,38,0.999992233339338,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+279,2,"6:18",378,378,"Brooks Cluxton missed Free Throw.",80,42,38,0.999992233339338,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+280,2,"6:18",378,378,"Campbell Deadball Team Rebound.",80,42,38,0.999992233339338,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+281,2,"6:18",378,378,"Brooks Cluxton missed Free Throw.",80,42,38,0.999992233339338,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+282,2,"6:18",378,378,"Robert Hobson Defensive Rebound.",80,42,38,0.999992233339338,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+283,2,"6:09",369,369,"Robert Hobson missed Three Point Jumper.",80,42,38,0.999995612090176,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+284,2,"6:09",369,369,"Ja'Cor Nelson Defensive Rebound.",80,42,38,0.999995612090176,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+285,2,"5:52",352,352,"Brooks Cluxton made Layup.",82,42,40,0.999998627824875,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+286,2,"5:28",328,328,"Foul on Nick Parker.",82,42,40,0.999996422601291,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+287,2,"5:28",328,328,"Caleb Coleman made Free Throw.",82,43,39,0.999995103365571,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+288,2,"5:28",328,328,"Caleb Coleman missed Free Throw.",82,43,39,0.999995103365571,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+289,2,"5:28",328,328,"Nick Parker Defensive Rebound.",82,43,39,0.999995103365571,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+290,2,"5:08",308,308,"Ja'Cor Nelson missed Layup.",82,43,39,0.999998304117028,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+291,2,"5:08",308,308,"Ja'Cor Nelson Offensive Rebound.",82,43,39,0.999998304117028,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+292,2,"5:04",304,304,"Nick Greely missed Jumper.",82,43,39,0.999998304117028,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+293,2,"5:04",304,304,"Brooks Cluxton Offensive Rebound.",82,43,39,0.999998304117028,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+294,2,"5:01",301,301,"Brooks Cluxton missed Layup.",82,43,39,0.999998304117028,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+295,2,"5:01",301,301,"James Veal Defensive Rebound.",82,43,39,0.999998304117028,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+296,2,"4:55",295,295,"Majerle Poole missed Jumper.",82,43,39,0.999998471625666,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+297,2,"4:55",295,295,"Messiah Baptiste Offensive Rebound.",82,43,39,0.999998471625666,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+298,2,"4:47",287,287,"Messiah Baptiste missed Three Point Jumper.",82,43,39,0.99999894766856,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+299,2,"4:47",287,287,"Brooks Cluxton Defensive Rebound.",82,43,39,0.99999894766856,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+300,2,"4:36",276,276,"Brooks Cluxton made Dunk. Assisted by Nick Parker.",84,43,41,0.999999874260825,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+301,2,"4:22",262,262,"Foul on Nick Parker.",84,43,41,0.999999789846876,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+302,2,"4:22",262,262,"Caleb Coleman made Free Throw.",84,44,40,0.999999694762838,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+303,2,"4:22",262,262,"Caleb Coleman missed Free Throw.",84,44,40,0.999999694762838,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+304,2,"4:22",262,262,"Jon Ander Cuadra Defensive Rebound.",84,44,40,0.999999694762838,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+305,2,"4:15",255,255,"Foul on Alcyone Moore.",84,44,40,0.999999957466816,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+306,2,"4:15",255,255,"Nick Greely made Free Throw.",85,44,41,0.999999972092027,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+307,2,"4:15",255,255,"Nick Greely made Free Throw.",86,44,42,0.999999981688299,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+308,2,"3:59",239,239,"Majerle Poole missed Layup.",86,44,42,0.999999964322731,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+309,2,"3:59",239,239,"Ja'Cor Nelson Defensive Rebound.",86,44,42,0.999999964322731,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+310,2,"3:53",233,233,"Official TV Timeout",86,44,42,0.999999964322731,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+311,2,"3:39",219,219,"Jon Ander Cuadra made Layup. Assisted by Nick Parker.",88,44,44,0.999999995982164,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+312,2,"3:26",206,206,"Caleb Coleman missed Jumper.",88,44,44,0.999999997937378,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+313,2,"3:26",206,206,"Jon Ander Cuadra Block.",88,44,44,0.999999997937378,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+314,2,"3:25",205,205,"Johnson & Wales (NC) Offensive Rebound.",88,44,44,0.999999997937378,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+315,2,"3:19",199,199,"Malik Bullock made Layup.",88,46,42,0.999999997196812,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+316,2,"3:01",181,181,"Nick Parker missed Three Point Jumper.",88,46,42,0.999999998583003,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+317,2,"3:01",181,181,"Nick Greely Offensive Rebound.",88,46,42,0.999999998583003,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+318,2,"2:57",177,177,"Nick Greely made Jumper.",90,46,44,0.999999999659036,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+319,2,"2:45",165,165,"Majerle Poole made Three Point Jumper. Assisted by Robert Hobson.",90,49,41,0.999999999357892,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+320,2,"2:20",140,140,"Jon Ander Cuadra Turnover.",90,49,41,0.999999999348896,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+321,2,"2:20",140,140,"Foul on Jon Ander Cuadra.",90,49,41,0.999999999348896,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+322,2,"2:15",135,135,"Robert Hobson missed Three Point Jumper.",90,49,41,0.999999999861018,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+323,2,"2:15",135,135,"Nick Parker Defensive Rebound.",90,49,41,0.999999999861018,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+324,2,"2:05",125,125,"Nick Greely made Layup. Assisted by Wyatt Self.",92,49,43,0.999999999972409,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+325,2,"1:58",118,118,"Messiah Baptiste made Layup.",92,51,41,0.999999999982669,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+326,2,"1:38",98,98,"Jon Ander Cuadra made Layup. Assisted by Wyatt Self.",94,51,43,0.99999999999828,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+327,2,"1:30",90,90,"Majerle Poole missed Layup.",94,51,43,0.99999999999828,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+328,2,"1:30",90,90,"Majerle Poole Offensive Rebound.",94,51,43,0.99999999999828,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+329,2,"1:26",86,86,"Majerle Poole missed Jumper.",94,51,43,0.999999999999965,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+330,2,"1:26",86,86,"Johnson & Wales (NC) Offensive Rebound.",94,51,43,0.999999999999965,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+331,2,"1:13",73,73,"Malik Bullock missed Layup.",94,51,43,0.99999999999998,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+332,2,"1:13",73,73,"Majerle Poole Offensive Rebound.",94,51,43,0.99999999999998,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+333,2,"1:07",67,67,"Majerle Poole missed Layup.",94,51,43,0.999999999999985,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+334,2,"1:07",67,67,"Nick Parker Defensive Rebound.",94,51,43,0.999999999999985,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+335,2,"1:03",63,63,"Jon Ander Cuadra made Layup. Assisted by Nick Greely.",96,51,45,0.999999999999997,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+336,2,"0:54",54,54,"Robert Hobson missed Three Point Jumper.",96,51,45,0.999999999999999,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+337,2,"0:54",54,54,"Jon Ander Cuadra Defensive Rebound.",96,51,45,0.999999999999999,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+338,2,"0:29",29,29,"Nick Parker missed Jumper.",96,51,45,1,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+339,2,"0:29",29,29,"Nick Greely Offensive Rebound.",96,51,45,1,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+340,2,"0:21",21,21,"Nick Greely missed Jumper.",96,51,45,1,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+341,2,"0:21",21,21,"Jon Ander Cuadra Offensive Rebound.",96,51,45,1,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+342,2,"0:19",19,19,"Jon Ander Cuadra made Jumper.",98,51,47,1,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+343,2,"0:15",15,15,"Malik Bullock made Layup.",98,53,45,1,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20
+344,2,"0:00",0,0,"End of Game",98,53,45,NA,"Campbell","Johnson & Wales (NC)",4,4,0,0,NA,400992269,2017-11-20

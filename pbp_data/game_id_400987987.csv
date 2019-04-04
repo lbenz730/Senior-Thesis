@@ -1,0 +1,388 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,3000,"PLAY",0,0,0,0.621153323918773,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+2,1,"19:35",2375,2975,"Jimario Rivers missed Jumper.",0,0,0,0.627362652633521,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+3,1,"19:35",2375,2975,"Jimario Rivers Offensive Rebound.",0,0,0,0.627362652633521,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+4,1,"19:29",2369,2969,"Jimario Rivers made Jumper.",2,0,2,0.627482888966446,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+5,1,"19:02",2342,2942,"Demetre Rivers missed Three Point Jumper.",2,0,2,0.656044734898308,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+6,1,"19:02",2342,2942,"Jeremiah Martin Defensive Rebound.",2,0,2,0.656044734898308,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+7,1,"18:38",2318,2918,"Mike Parks Jr. missed Jumper.",2,0,2,0.652820587910026,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+8,1,"18:38",2318,2918,"Kareem Brewton Jr. Offensive Rebound.",2,0,2,0.652820587910026,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+9,1,"18:35",2315,2915,"Kyvon Davenport missed Three Point Jumper.",2,0,2,0.652820587910026,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+10,1,"18:35",2315,2915,"Mike Parks Jr. Offensive Rebound.",2,0,2,0.652820587910026,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+11,1,"18:15",2295,2895,"Kareem Brewton Jr. Turnover.",2,0,2,0.667659398558535,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+12,1,"17:50",2270,2870,"Ethan Stair Turnover.",2,0,2,0.669441992267361,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+13,1,"17:50",2270,2870,"Kareem Brewton Jr. Steal.",2,0,2,0.669441992267361,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+14,1,"17:47",2267,2867,"Kareem Brewton Jr. made Layup.",4,0,4,0.73090771130412,"Memphis","Mercer",4,4,1,0,2,400987987,2017-12-02
+15,1,"17:47",2267,2867,"Mercer  Timeout",4,0,4,0.73090771130412,"Memphis","Mercer",3,4,1,0,2,400987987,2017-12-02
+16,1,"17:26",2246,2846,"Ethan Stair missed Three Point Jumper.",4,0,4,0.705601259850933,"Memphis","Mercer",3,4,1,0,2,400987987,2017-12-02
+17,1,"17:26",2246,2846,"Kyvon Davenport Defensive Rebound.",4,0,4,0.705601259850933,"Memphis","Mercer",3,4,1,0,2,400987987,2017-12-02
+18,1,"16:58",2218,2818,"Kyvon Davenport missed Jumper.",4,0,4,0.736690238431865,"Memphis","Mercer",3,4,1,0,2,400987987,2017-12-02
+19,1,"16:58",2218,2818,"Mike Parks Jr. Offensive Rebound.",4,0,4,0.736690238431865,"Memphis","Mercer",3,4,1,0,2,400987987,2017-12-02
+20,1,"16:37",2197,2797,"Mike Parks Jr. made Two Point Tip Shot.",6,0,6,0.773293072678402,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+21,1,"16:28",2188,2788,"Ethan Stair made Three Point Jumper. Assisted by Jordan Strawberry.",6,3,3,0.690935656075475,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+22,1,"16:19",2179,2779,"Mike Parks Jr. made Layup. Assisted by Jeremiah Martin.",8,3,5,0.729499610345499,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+23,1,"16:19",2179,2779,"Foul on Desmond Ringer.",8,3,5,0.729499610345499,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+24,1,"16:19",2179,2779,"Mike Parks Jr. made Free Throw.",9,3,6,0.750394751711566,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+25,1,"15:58",2158,2758,"Ethan Stair made Jumper. Assisted by Jordan Strawberry.",9,5,4,0.712230025240158,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+26,1,"15:39",2139,2739,"Kareem Brewton Jr. missed Three Point Jumper.",9,5,4,0.71960270085886,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+27,1,"15:39",2139,2739,"Jordan Strawberry Defensive Rebound.",9,5,4,0.71960270085886,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+28,1,"15:31",2131,2731,"Ethan Stair missed Three Point Jumper.",9,5,4,0.71960270085886,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+29,1,"15:31",2131,2731,"Kyvon Davenport Defensive Rebound.",9,5,4,0.71960270085886,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+30,1,"15:24",2124,2724,"Jeremiah Martin missed Three Point Jumper.",9,5,4,0.710473571288549,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+31,1,"15:24",2124,2724,"Kyvon Davenport Offensive Rebound.",9,5,4,0.710473571288549,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+32,1,"15:05",2105,2705,"Foul on Ryan Johnson.",9,5,4,0.709247733578519,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+33,1,"15:05",2105,2705,"Official TV Timeout",9,5,4,0.709247733578519,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+34,1,"15:05",2105,2705,"Jeremiah Martin missed Free Throw.",9,5,4,0.709247733578519,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+35,1,"15:05",2105,2705,"Memphis Deadball Team Rebound.",9,5,4,0.709247733578519,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+36,1,"15:05",2105,2705,"Jeremiah Martin made Free Throw.",10,5,5,0.731807934059014,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+37,1,"14:58",2098,2698,"Foul on Jamal Johnson.",10,5,5,0.74301061264297,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+38,1,"14:53",2093,2693,"Demetre Rivers missed Layup.",10,5,5,0.74301061264297,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+39,1,"14:53",2093,2693,"Jimario Rivers Block.",10,5,5,0.74301061264297,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+40,1,"14:53",2093,2693,"Kyvon Davenport Defensive Rebound.",10,5,5,0.74301061264297,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+41,1,"14:25",2065,2665,"Jamal Johnson missed Three Point Jumper.",10,5,5,0.73495949346072,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+42,1,"14:25",2065,2665,"Desmond Ringer Defensive Rebound.",10,5,5,0.73495949346072,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+43,1,"14:09",2049,2649,"Cory Kilby made Three Point Jumper. Assisted by Demetre Rivers.",10,8,2,0.649758352325558,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+44,1,"13:33",2013,2613,"Jimario Rivers missed Jumper.",10,8,2,0.669274496153058,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+45,1,"13:33",2013,2613,"Ryan Johnson Defensive Rebound.",10,8,2,0.669274496153058,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+46,1,"13:07",1987,2587,"Foul on Raynere Thornton.",10,8,2,0.655866739389196,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+47,1,"13:04",1984,2584,"Desmond Ringer made Layup. Assisted by Marcus Cohen.",10,10,0,0.597612140761214,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+48,1,"12:44",1964,2564,"Raynere Thornton Turnover.",10,10,0,0.609031574056285,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+49,1,"12:43",1963,2563,"Ethan Stair Steal.",10,10,0,0.609031574056285,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+50,1,"12:24",1944,2544,"Ryan Johnson missed Jumper.",10,10,0,0.607054939230037,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+51,1,"12:24",1944,2544,"Cory Kilby Offensive Rebound.",10,10,0,0.607054939230037,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+52,1,"12:17",1937,2537,"Desmond Ringer missed Layup.",10,10,0,0.598529113303764,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+53,1,"12:17",1937,2537,"Memphis Deadball Team Rebound.",10,10,0,0.598529113303764,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+54,1,"12:13",1933,2533,"Foul on Desmond Ringer.",10,10,0,0.598529113303764,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+55,1,"11:51",1911,2511,"Raynere Thornton missed Three Point Jumper.",10,10,0,0.625911709273619,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+56,1,"11:51",1911,2511,"Jaylen Stowe Defensive Rebound.",10,10,0,0.625911709273619,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+57,1,"11:35",1895,2495,"Marcus Cohen Turnover.",10,10,0,0.613817742152596,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+58,1,"11:35",1895,2495,"Official TV Timeout",10,10,0,0.613817742152596,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+59,1,"11:11",1871,2471,"David Nickelberry Turnover.",10,10,0,0.605125399066182,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+60,1,"11:10",1870,2470,"Ethan Stair Steal.",10,10,0,0.605125399066182,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+61,1,"11:09",1869,2469,"Jordan Strawberry Turnover.",10,10,0,0.619620349185417,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+62,1,"11:09",1869,2469,"Jamal Johnson Steal.",10,10,0,0.619620349185417,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+63,1,"11:00",1860,2460,"Jeremiah Martin missed Layup.",10,10,0,0.619620349185417,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+64,1,"11:00",1860,2460,"Cory Kilby Block.",10,10,0,0.619620349185417,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+65,1,"11:00",1860,2460,"Cory Kilby Defensive Rebound.",10,10,0,0.619620349185417,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+66,1,"10:43",1843,2443,"Stephon Jelks Turnover.",10,10,0,0.590090784277377,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+67,1,"10:15",1815,2415,"Mike Parks Jr. missed Layup.",10,10,0,0.610546822217381,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+68,1,"10:15",1815,2415,"Cory Kilby Defensive Rebound.",10,10,0,0.610546822217381,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+69,1,"10:01",1801,2401,"Ethan Stair Turnover.",10,10,0,0.602176315509642,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+70,1,"9:49",1789,2389,"Jamal Johnson made Three Point Jumper.",13,10,3,0.681504226754596,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+71,1,"9:28",1768,2368,"Stephon Jelks made Three Point Jumper. Assisted by Marcus Cohen.",13,13,0,0.610458131704728,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+72,1,"9:03",1743,2343,"Jamal Johnson missed Three Point Jumper.",13,13,0,0.614389902342962,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+73,1,"9:03",1743,2343,"Jordan Strawberry Defensive Rebound.",13,13,0,0.614389902342962,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+74,1,"8:55",1735,2335,"Stephon Jelks made Three Point Jumper. Assisted by Jordan Strawberry.",13,16,-3,0.503588547319459,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+75,1,"8:25",1705,2305,"David Nickelberry missed Three Point Jumper.",13,16,-3,0.499125190997693,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+76,1,"8:25",1705,2305,"Stephon Jelks Defensive Rebound.",13,16,-3,0.499125190997693,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+77,1,"8:13",1693,2293,"Demetre Rivers missed Three Point Jumper.",13,16,-3,0.505937718375818,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+78,1,"8:13",1693,2293,"David Nickelberry Defensive Rebound.",13,16,-3,0.505937718375818,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+79,1,"8:00",1680,2280,"Kyvon Davenport made Jumper.",15,16,-1,0.571174175991311,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+80,1,"7:38",1658,2258,"Jordan Strawberry missed Jumper.",15,16,-1,0.575506623188342,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+81,1,"7:38",1658,2258,"Demetre Rivers Offensive Rebound.",15,16,-1,0.575506623188342,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+82,1,"7:31",1651,2251,"Demetre Rivers missed Layup.",15,16,-1,0.575506623188342,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+83,1,"7:31",1651,2251,"Stephon Jelks Offensive Rebound.",15,16,-1,0.575506623188342,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+84,1,"7:27",1647,2247,"Stephon Jelks missed Two Point Tip Shot.",15,16,-1,0.576250236330415,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+85,1,"7:27",1647,2247,"Demetre Rivers Offensive Rebound.",15,16,-1,0.576250236330415,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+86,1,"7:23",1643,2243,"Demetre Rivers Turnover.",15,16,-1,0.576250236330415,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+87,1,"7:22",1642,2242,"Jamal Johnson Steal.",15,16,-1,0.576250236330415,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+88,1,"7:14",1634,2234,"Malik Rhodes missed Three Point Jumper.",15,16,-1,0.581183000525309,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+89,1,"7:14",1634,2234,"Jaylen Stowe Defensive Rebound.",15,16,-1,0.581183000525309,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+90,1,"6:46",1606,2206,"Foul on David Nickelberry.",15,16,-1,0.564428238492476,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+91,1,"6:46",1606,2206,"Official TV Timeout",15,16,-1,0.564428238492476,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+92,1,"6:30",1590,2190,"Jordan Strawberry made Three Point Jumper.",15,19,-4,0.48076905396612,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+93,1,"6:05",1565,2165,"Kareem Brewton Jr. Turnover.",15,19,-4,0.446853568080627,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+94,1,"6:05",1565,2165,"Ethan Stair Steal.",15,19,-4,0.446853568080627,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+95,1,"6:05",1565,2165,"Foul on Kareem Brewton Jr..",15,19,-4,0.446853568080627,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+96,1,"5:46",1546,2146,"Ethan Stair made Jumper.",15,21,-6,0.39926109091357,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+97,1,"5:25",1525,2125,"Kareem Brewton Jr. missed Three Point Jumper.",15,21,-6,0.389684376946466,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+98,1,"5:25",1525,2125,"Kyvon Davenport Offensive Rebound.",15,21,-6,0.389684376946466,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+99,1,"5:20",1520,2120,"Kyvon Davenport missed Jumper.",15,21,-6,0.389684376946466,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+100,1,"5:20",1520,2120,"Kareem Brewton Jr. Offensive Rebound.",15,21,-6,0.389684376946466,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+101,1,"5:15",1515,2115,"Jamal Johnson missed Three Point Jumper.",15,21,-6,0.389498032090833,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+102,1,"5:15",1515,2115,"Jeremiah Martin Offensive Rebound.",15,21,-6,0.389498032090833,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+103,1,"5:07",1507,2107,"Kyvon Davenport missed Jumper.",15,21,-6,0.388389486667492,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+104,1,"5:07",1507,2107,"Ryan Johnson Defensive Rebound.",15,21,-6,0.388389486667492,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+105,1,"4:36",1476,2076,"Jordan Strawberry missed Three Point Jumper.",15,21,-6,0.376913312078394,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+106,1,"4:36",1476,2076,"Jamal Johnson Block.",15,21,-6,0.376913312078394,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+107,1,"4:36",1476,2076,"Jimario Rivers Defensive Rebound.",15,21,-6,0.376913312078394,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+108,1,"4:20",1460,2060,"Kareem Brewton Jr. missed Jumper.",15,21,-6,0.399518713483265,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+109,1,"4:20",1460,2060,"Jordan Strawberry Defensive Rebound.",15,21,-6,0.399518713483265,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+110,1,"4:05",1445,2045,"Foul on Kareem Brewton Jr..",15,21,-6,0.396387923927602,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+111,1,"4:02",1442,2042,"Stephon Jelks made Three Point Jumper. Assisted by Ethan Stair.",15,24,-9,0.293789746775318,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+112,1,"3:27",1407,2007,"Foul on Jaylen Stowe.",15,24,-9,0.281860359633681,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+113,1,"3:27",1407,2007,"Official TV Timeout",15,24,-9,0.281860359633681,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+114,1,"3:24",1404,2004,"Jeremiah Martin missed Three Point Jumper.",15,24,-9,0.281860359633681,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+115,1,"3:24",1404,2004,"Jimario Rivers Offensive Rebound.",15,24,-9,0.281860359633681,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+116,1,"3:20",1400,2000,"Jimario Rivers missed Jumper.",15,24,-9,0.281860359633681,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+117,1,"3:20",1400,2000,"Jaylen Stowe Defensive Rebound.",15,24,-9,0.281860359633681,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+118,1,"3:16",1396,1996,"Jaylen Stowe Turnover.",15,24,-9,0.264938818675312,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+119,1,"3:15",1395,1995,"Raynere Thornton Steal.",15,24,-9,0.264938818675312,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+120,1,"3:00",1380,1980,"Kyvon Davenport missed Layup.",15,24,-9,0.287742928754141,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+121,1,"3:00",1380,1980,"Jaylen Stowe Defensive Rebound.",15,24,-9,0.287742928754141,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+122,1,"2:57",1377,1977,"Foul on Kyvon Davenport.",15,24,-9,0.277068031476897,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+123,1,"2:49",1369,1969,"Marcus Cohen missed Layup.",15,24,-9,0.271335871922045,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+124,1,"2:49",1369,1969,"Jeremiah Martin Block.",15,24,-9,0.271335871922045,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+125,1,"2:49",1369,1969,"Jaylen Stowe Offensive Rebound.",15,24,-9,0.271335871922045,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+126,1,"2:46",1366,1966,"Jaylen Stowe missed Two Point Tip Shot.",15,24,-9,0.271335871922045,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+127,1,"2:46",1366,1966,"Cory Kilby Offensive Rebound.",15,24,-9,0.271335871922045,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+128,1,"2:46",1366,1966,"Cory Kilby made Layup.",15,26,-11,0.215008513249715,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+129,1,"2:46",1366,1966,"Foul on Kyvon Davenport.",15,26,-11,0.215008513249715,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+130,1,"2:46",1366,1966,"Cory Kilby missed Free Throw.",15,26,-11,0.215008513249715,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+131,1,"2:46",1366,1966,"Stephon Jelks Offensive Rebound.",15,26,-11,0.215008513249715,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+132,1,"2:43",1363,1963,"Stephon Jelks missed Layup.",15,26,-11,0.215008513249715,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+133,1,"2:43",1363,1963,"David Nickelberry Defensive Rebound.",15,26,-11,0.215008513249715,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+134,1,"2:36",1356,1956,"Jeremiah Martin made Layup.",17,26,-9,0.280407170788512,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+135,1,"2:17",1337,1937,"Jaylen Stowe missed Layup.",17,26,-9,0.255512784140702,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+136,1,"2:17",1337,1937,"Kyvon Davenport Defensive Rebound.",17,26,-9,0.255512784140702,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+137,1,"2:07",1327,1927,"David Nickelberry made Three Point Jumper. Assisted by Jeremiah Martin.",20,26,-6,0.363189553562048,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+138,1,"1:44",1304,1904,"Stephon Jelks Turnover.",20,26,-6,0.380017147238909,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+139,1,"1:28",1288,1888,"Mike Parks Jr. made Layup. Assisted by Jeremiah Martin.",22,26,-4,0.44828475321358,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+140,1,"1:05",1265,1865,"Cory Kilby missed Three Point Jumper.",22,26,-4,0.455579423837298,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+141,1,"1:05",1265,1865,"Ethan Stair Offensive Rebound.",22,26,-4,0.455579423837298,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+142,1,"1:01",1261,1861,"Ethan Stair made Two Point Tip Shot.",22,28,-6,0.378825196766416,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+143,1,"0:51",1251,1851,"Jeremiah Martin Turnover.",22,28,-6,0.366888703639756,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+144,1,"0:34",1234,1834,"Foul on Mason Green.",22,28,-6,0.349239744326141,"Memphis","Mercer",3,4,0,1,2,400987987,2017-12-02
+145,1,"0:34",1234,1834,"Mason Green Turnover.",22,28,-6,0.349239744326141,"Memphis","Mercer",3,4,0,1,2,400987987,2017-12-02
+146,1,"0:34",1234,1834,"Memphis  Timeout",22,28,-6,0.349239744326141,"Memphis","Mercer",3,3,0,1,2,400987987,2017-12-02
+147,1,"0:11",1211,1811,"Jamal Johnson missed Three Point Jumper.",22,28,-6,0.344976956353413,"Memphis","Mercer",3,3,0,1,2,400987987,2017-12-02
+148,1,"0:11",1211,1811,"Cory Kilby Defensive Rebound.",22,28,-6,0.344976956353413,"Memphis","Mercer",3,3,0,1,2,400987987,2017-12-02
+149,1,"0:03",1203,1803,"Ryan Johnson made Three Point Jumper. Assisted by Ethan Stair.",22,31,-9,0.257446004201642,"Memphis","Mercer",3,3,0,1,2,400987987,2017-12-02
+150,1,"0:00",1200,1800,"End of 1st half",22,31,-9,0.257446004201642,"Memphis","Mercer",3,3,0,1,2,400987987,2017-12-02
+151,2,"20:00",1200,1800,"PLAY",22,31,-9,0.257446004201642,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+152,2,"19:48",1188,1788,"Jeremiah Martin missed Three Point Jumper.",22,31,-9,0.246602918562983,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+153,2,"19:48",1188,1788,"Kyvon Davenport Offensive Rebound.",22,31,-9,0.246602918562983,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+154,2,"19:45",1185,1785,"Kyvon Davenport made Layup.",24,31,-7,0.313087923291064,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+155,2,"19:19",1159,1759,"Desmond Ringer missed Layup.",24,31,-7,0.320018101279069,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+156,2,"19:19",1159,1759,"Mike Parks Jr. Defensive Rebound.",24,31,-7,0.320018101279069,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+157,2,"19:14",1154,1754,"Mike Parks Jr. Turnover.",24,31,-7,0.320018101279069,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+158,2,"19:14",1154,1754,"Ethan Stair Steal.",24,31,-7,0.320018101279069,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+159,2,"19:11",1151,1751,"Ethan Stair made Layup.",24,33,-9,0.254036519151203,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+160,2,"18:49",1129,1729,"Kyvon Davenport made Three Point Jumper. Assisted by Mike Parks Jr..",27,33,-6,0.31598067511088,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+161,2,"18:04",1084,1684,"Mercer  Turnover.",27,33,-6,0.331338559625028,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+162,2,"17:47",1067,1667,"Kyvon Davenport missed Three Point Jumper.",27,33,-6,0.351491862044955,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+163,2,"17:47",1067,1667,"Jordan Strawberry Defensive Rebound.",27,33,-6,0.351491862044955,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+164,2,"17:26",1046,1646,"Jordan Strawberry Turnover.",27,33,-6,0.349680179679422,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+165,2,"17:25",1045,1645,"Jeremiah Martin Steal.",27,33,-6,0.349680179679422,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+166,2,"17:23",1043,1643,"Foul on Stephon Jelks.",27,33,-6,0.349680179679422,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+167,2,"17:23",1043,1643,"Jimario Rivers made Free Throw.",28,33,-5,0.390489297805552,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+168,2,"17:23",1043,1643,"Jimario Rivers made Free Throw.",29,33,-4,0.432890749397523,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+169,2,"17:03",1023,1623,"Stephon Jelks made Three Point Jumper. Assisted by Jordan Strawberry.",29,36,-7,0.296529205552316,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+170,2,"16:50",1010,1610,"Mike Parks Jr. made Jumper. Assisted by Jimario Rivers.",31,36,-5,0.340050489494759,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+171,2,"16:30",990,1590,"Ethan Stair Turnover.",31,36,-5,0.355774860653217,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+172,2,"16:16",976,1576,"Jimario Rivers missed Jumper.",31,36,-5,0.376586436487703,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+173,2,"16:16",976,1576,"Jimario Rivers Offensive Rebound.",31,36,-5,0.376586436487703,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+174,2,"16:12",972,1572,"Jimario Rivers missed Jumper.",31,36,-5,0.376586436487703,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+175,2,"16:12",972,1572,"Mike Parks Jr. Offensive Rebound.",31,36,-5,0.376586436487703,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+176,2,"16:07",967,1567,"Kareem Brewton Jr. missed Three Point Jumper.",31,36,-5,0.35047278220855,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+177,2,"16:07",967,1567,"Marcus Cohen Defensive Rebound.",31,36,-5,0.35047278220855,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+178,2,"15:59",959,1559,"Official TV Timeout",31,36,-5,0.344373340711729,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+179,2,"15:32",932,1532,"Demetre Rivers missed Jumper.",31,36,-5,0.350166408709107,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+180,2,"15:32",932,1532,"Jeremiah Martin Defensive Rebound.",31,36,-5,0.350166408709107,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+181,2,"15:25",925,1525,"Foul on Stephon Jelks.",31,36,-5,0.326972418692687,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+182,2,"15:25",925,1525,"Kyvon Davenport made Free Throw.",32,36,-4,0.370881807238899,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+183,2,"15:25",925,1525,"Kyvon Davenport made Free Throw.",33,36,-3,0.417034043561924,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+184,2,"15:10",910,1510,"Jaylen Stowe made Layup. Assisted by Marcus Cohen.",33,38,-5,0.346922496063089,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+185,2,"14:56",896,1496,"Foul on Marcus Cohen.",33,38,-5,0.356201253981683,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+186,2,"14:56",896,1496,"Jimario Rivers made Free Throw.",34,38,-4,0.401889747780464,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+187,2,"14:56",896,1496,"Jimario Rivers made Free Throw.",35,38,-3,0.449348257408694,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+188,2,"14:38",878,1478,"Demetre Rivers made Three Point Jumper. Assisted by Ryan Johnson.",35,41,-6,0.31045450838259,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+189,2,"14:19",859,1459,"Jimario Rivers missed Jumper.",35,41,-6,0.302514608576554,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+190,2,"14:19",859,1459,"Desmond Ringer Block.",35,41,-6,0.302514608576554,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+191,2,"14:19",859,1459,"Cory Kilby Defensive Rebound.",35,41,-6,0.302514608576554,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+192,2,"14:04",844,1444,"Cory Kilby made Three Point Jumper. Assisted by Marcus Cohen.",35,44,-9,0.169149769607401,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+193,2,"13:49",829,1429,"Jamal Johnson made Three Point Jumper. Assisted by Jeremiah Martin.",38,44,-6,0.311498985165955,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+194,2,"13:20",800,1400,"Desmond Ringer Turnover.",38,44,-6,0.306208092567961,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+195,2,"12:57",777,1377,"Jeremiah Martin made Jumper.",40,44,-4,0.375868020239139,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+196,2,"12:41",761,1361,"Ryan Johnson Turnover.",40,44,-4,0.388757601445035,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+197,2,"12:31",751,1351,"Jimario Rivers made Jumper. Assisted by Kyvon Davenport.",42,44,-2,0.472373258019902,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+198,2,"12:31",751,1351,"Foul on Cory Kilby.",42,44,-2,0.472373258019902,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+199,2,"12:31",751,1351,"Jimario Rivers made Free Throw.",43,44,-1,0.526626358700318,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+200,2,"12:16",736,1336,"Desmond Ringer made Layup. Assisted by Jordan Strawberry.",43,46,-3,0.425944856199169,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+201,2,"12:10",730,1330,"Jamal Johnson missed Three Point Jumper.",43,46,-3,0.425944856199169,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+202,2,"12:10",730,1330,"Jimario Rivers Offensive Rebound.",43,46,-3,0.425944856199169,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+203,2,"11:49",709,1309,"Jamal Johnson Turnover.",43,46,-3,0.430384891513289,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+204,2,"11:49",709,1309,"Official TV Timeout",43,46,-3,0.430384891513289,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+205,2,"11:25",685,1285,"Foul on Jimario Rivers.",43,46,-3,0.404968549744123,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+206,2,"11:20",680,1280,"Foul on Jamal Johnson.",43,46,-3,0.404968549744123,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+207,2,"11:20",680,1280,"Stephon Jelks made Free Throw.",43,47,-4,0.352434127773611,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+208,2,"11:20",680,1280,"Stephon Jelks made Free Throw.",43,48,-5,0.303241631828112,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+209,2,"11:08",668,1268,"Kareem Brewton Jr. made Three Point Jumper. Assisted by Jamal Johnson.",46,48,-2,0.482041315939859,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+210,2,"10:34",634,1234,"Stephon Jelks missed Three Point Jumper.",46,48,-2,0.450530681707491,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+211,2,"10:34",634,1234,"Jamal Johnson Defensive Rebound.",46,48,-2,0.450530681707491,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+212,2,"10:19",619,1219,"Jeremiah Martin missed Three Point Jumper.",46,48,-2,0.438494575281489,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+213,2,"10:19",619,1219,"Stephon Jelks Defensive Rebound.",46,48,-2,0.438494575281489,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+214,2,"9:55",595,1195,"Foul on Jimario Rivers.",46,48,-2,0.456694644149414,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+215,2,"9:50",590,1190,"Demetre Rivers missed Three Point Jumper.",46,48,-2,0.456694644149414,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+216,2,"9:50",590,1190,"Jeremiah Martin Defensive Rebound.",46,48,-2,0.456694644149414,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+217,2,"9:41",581,1181,"Foul on Jimario Rivers.",46,48,-2,0.447974362824418,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+218,2,"9:41",581,1181,"Jimario Rivers Turnover.",46,48,-2,0.447974362824418,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+219,2,"9:27",567,1167,"Ethan Stair made Layup.",46,50,-4,0.338453259052023,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+220,2,"9:27",567,1167,"Foul on Jamal Johnson.",46,50,-4,0.338453259052023,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+221,2,"9:27",567,1167,"Ethan Stair missed Free Throw.",46,50,-4,0.338453259052023,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+222,2,"9:27",567,1167,"Raynere Thornton Defensive Rebound.",46,50,-4,0.338453259052023,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+223,2,"9:26",566,1166,"Foul on Desmond Ringer.",46,50,-4,0.338453259052023,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+224,2,"9:14",554,1154,"Foul on Jaylen Stowe.",46,50,-4,0.314606234401281,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+225,2,"9:02",542,1142,"Kareem Brewton Jr. missed Three Point Jumper.",46,50,-4,0.300048457320919,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+226,2,"9:02",542,1142,"Jaylen Stowe Defensive Rebound.",46,50,-4,0.300048457320919,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+227,2,"8:41",521,1121,"Marcus Cohen made Layup.",46,52,-6,0.212552971226856,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+228,2,"8:31",511,1111,"Kareem Brewton Jr. missed Jumper.",46,52,-6,0.204999092237605,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+229,2,"8:31",511,1111,"Jaylen Stowe Defensive Rebound.",46,52,-6,0.204999092237605,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+230,2,"8:13",493,1093,"Marcus Cohen made Layup.",46,54,-8,0.142421791801045,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+231,2,"7:55",475,1075,"Foul on Jeremiah Martin.",46,54,-8,0.114534325602431,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+232,2,"7:55",475,1075,"Jeremiah Martin Turnover.",46,54,-8,0.114534325602431,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+233,2,"7:55",475,1075,"Official TV Timeout",46,54,-8,0.114534325602431,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+234,2,"7:36",456,1056,"Ethan Stair missed Jumper.",46,54,-8,0.0915247118115013,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+235,2,"7:36",456,1056,"Kyvon Davenport Defensive Rebound.",46,54,-8,0.0915247118115013,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+236,2,"7:21",441,1041,"Kyvon Davenport missed Three Point Jumper.",46,54,-8,0.126969065222835,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+237,2,"7:21",441,1041,"Cory Kilby Defensive Rebound.",46,54,-8,0.126969065222835,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+238,2,"6:57",417,1017,"Foul on Kyvon Davenport.",46,54,-8,0.104285791939485,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+239,2,"6:57",417,1017,"Jaylen Stowe made Free Throw.",46,55,-9,0.0793051064946904,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+240,2,"6:57",417,1017,"Jaylen Stowe made Free Throw.",46,56,-10,0.0599080897352592,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+241,2,"6:47",407,1007,"Jimario Rivers made Jumper. Assisted by Malik Rhodes.",48,56,-8,0.081986753234668,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+242,2,"6:17",377,977,"Stephon Jelks missed Three Point Jumper.",48,56,-8,0.0943787349801136,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+243,2,"6:17",377,977,"Desmond Ringer Offensive Rebound.",48,56,-8,0.0943787349801136,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+244,2,"6:10",370,970,"Ethan Stair missed Jumper.",48,56,-8,0.0943787349801136,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+245,2,"6:10",370,970,"Jimario Rivers Defensive Rebound.",48,56,-8,0.0943787349801136,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+246,2,"5:49",349,949,"Jamal Johnson made Three Point Jumper. Assisted by Kyvon Davenport.",51,56,-5,0.175549973323002,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+247,2,"5:26",326,926,"Jordan Strawberry missed Three Point Jumper.",51,56,-5,0.20513794173099,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+248,2,"5:26",326,926,"Kyvon Davenport Defensive Rebound.",51,56,-5,0.20513794173099,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+249,2,"5:00",300,900,"Foul on Ethan Stair.",51,56,-5,0.191380621406801,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+250,2,"5:00",300,900,"Jeremiah Martin made Free Throw.",52,56,-4,0.249286611846253,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+251,2,"5:00",300,900,"Jeremiah Martin made Free Throw.",53,56,-3,0.317826755413087,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+252,2,"4:42",282,882,"Cory Kilby missed Three Point Jumper.",53,56,-3,0.298766189830076,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+253,2,"4:42",282,882,"Jimario Rivers Defensive Rebound.",53,56,-3,0.298766189830076,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+254,2,"4:30",270,870,"Jeremiah Martin made Layup.",55,56,-1,0.444800148577541,"Memphis","Mercer",4,4,0,0,2,400987987,2017-12-02
+255,2,"4:19",259,859,"Mercer  Timeout",55,56,-1,0.4638184279574,"Memphis","Mercer",3,4,1,0,2,400987987,2017-12-02
+256,2,"4:19",259,859,"Official TV Timeout",55,56,-1,0.4638184279574,"Memphis","Mercer",3,4,1,0,2,400987987,2017-12-02
+257,2,"4:08",248,848,"Foul on Jeremiah Martin.",55,56,-1,0.451649821925551,"Memphis","Mercer",3,4,1,0,2,400987987,2017-12-02
+258,2,"4:08",248,848,"Demetre Rivers made Free Throw.",55,57,-2,0.354691203246048,"Memphis","Mercer",3,4,1,0,2,400987987,2017-12-02
+259,2,"4:08",248,848,"Demetre Rivers missed Free Throw.",55,57,-2,0.354691203246048,"Memphis","Mercer",3,4,1,0,2,400987987,2017-12-02
+260,2,"4:08",248,848,"Memphis Deadball Team Rebound.",55,57,-2,0.354691203246048,"Memphis","Mercer",3,4,1,0,2,400987987,2017-12-02
+261,2,"4:08",248,848,"Foul on Stephon Jelks.",55,57,-2,0.354691203246048,"Memphis","Mercer",3,4,1,0,2,400987987,2017-12-02
+262,2,"4:08",248,848,"Jimario Rivers made Free Throw.",56,57,-1,0.451649821925551,"Memphis","Mercer",3,4,1,0,2,400987987,2017-12-02
+263,2,"4:08",248,848,"Jimario Rivers made Free Throw.",57,57,0,0.552423504266728,"Memphis","Mercer",3,4,1,0,2,400987987,2017-12-02
+264,2,"3:40",220,820,"Demetre Rivers made Jumper.",57,59,-2,0.366221044316941,"Memphis","Mercer",3,4,1,0,2,400987987,2017-12-02
+265,2,"3:10",190,790,"Jeremiah Martin missed Three Point Jumper.",57,59,-2,0.316467906754902,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+266,2,"3:10",190,790,"Jordan Strawberry Defensive Rebound.",57,59,-2,0.316467906754902,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+267,2,"2:51",171,771,"Jordan Strawberry missed Jumper.",57,59,-2,0.334311930670507,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+268,2,"2:51",171,771,"Jeremiah Martin Defensive Rebound.",57,59,-2,0.334311930670507,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+269,2,"2:44",164,764,"Malik Rhodes missed Three Point Jumper.",57,59,-2,0.328912961400213,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+270,2,"2:44",164,764,"Memphis Offensive Rebound.",57,59,-2,0.328912961400213,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+271,2,"2:41",161,761,"Official TV Timeout",57,59,-2,0.328912961400213,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+272,2,"2:24",144,744,"Jeremiah Martin missed Three Point Jumper.",57,59,-2,0.284811920242536,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+273,2,"2:24",144,744,"Demetre Rivers Defensive Rebound.",57,59,-2,0.284811920242536,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+274,2,"2:01",121,721,"Stephon Jelks made Layup. Assisted by Jordan Strawberry.",57,61,-4,0.103344667328945,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+275,2,"2:01",121,721,"Foul on Jimario Rivers.",57,61,-4,0.103344667328945,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+276,2,"2:01",121,721,"Stephon Jelks made Free Throw.",57,62,-5,0.0613923855509673,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+277,2,"1:39",99,699,"Jimario Rivers made Dunk. Assisted by Jeremiah Martin.",59,62,-3,0.150133796714806,"Memphis","Mercer",3,4,0,0,2,400987987,2017-12-02
+278,2,"1:38",98,698,"Memphis  Timeout",59,62,-3,0.150133796714806,"Memphis","Mercer",3,3,0,1,2,400987987,2017-12-02
+279,2,"1:17",77,677,"Foul on Kyvon Davenport.",59,62,-3,0.105069120911486,"Memphis","Mercer",3,3,0,1,2,400987987,2017-12-02
+280,2,"1:17",77,677,"Desmond Ringer missed Free Throw.",59,62,-3,0.105069120911486,"Memphis","Mercer",3,3,0,1,2,400987987,2017-12-02
+281,2,"1:17",77,677,"Mercer Deadball Team Rebound.",59,62,-3,0.105069120911486,"Memphis","Mercer",3,3,0,1,2,400987987,2017-12-02
+282,2,"1:17",77,677,"Desmond Ringer made Free Throw.",59,63,-4,0.0532958452716383,"Memphis","Mercer",3,3,0,1,2,400987987,2017-12-02
+283,2,"1:03",63,663,"Malik Rhodes missed Three Point Jumper.",59,63,-4,0.0482558693292392,"Memphis","Mercer",3,3,0,1,2,400987987,2017-12-02
+284,2,"1:03",63,663,"Kyvon Davenport Offensive Rebound.",59,63,-4,0.0482558693292392,"Memphis","Mercer",3,3,0,1,2,400987987,2017-12-02
+285,2,"1:01",61,661,"Foul on Stephon Jelks.",59,63,-4,0.0482558693292392,"Memphis","Mercer",3,3,0,1,2,400987987,2017-12-02
+286,2,"1:01",61,661,"Kyvon Davenport made Free Throw.",60,63,-3,0.0962561457769079,"Memphis","Mercer",3,3,0,1,2,400987987,2017-12-02
+287,2,"1:01",61,661,"Kyvon Davenport missed Free Throw.",60,63,-3,0.0962561457769079,"Memphis","Mercer",3,3,0,1,2,400987987,2017-12-02
+288,2,"1:01",61,661,"Stephon Jelks Defensive Rebound.",60,63,-3,0.0962561457769079,"Memphis","Mercer",3,3,0,1,2,400987987,2017-12-02
+289,2,"0:35",35,635,"Jordan Strawberry Turnover.",60,63,-3,0.0729214438917017,"Memphis","Mercer",3,3,0,1,2,400987987,2017-12-02
+290,2,"0:35",35,635,"Kyvon Davenport Steal.",60,63,-3,0.0729214438917017,"Memphis","Mercer",3,3,0,1,2,400987987,2017-12-02
+291,2,"0:35",35,635,"Memphis  Timeout",60,63,-3,0.0729214438917017,"Memphis","Mercer",3,2,0,1,2,400987987,2017-12-02
+292,2,"0:27",27,627,"Jamal Johnson made Three Point Jumper. Assisted by Jeremiah Martin.",63,63,0,0.587757115713697,"Memphis","Mercer",3,2,0,1,2,400987987,2017-12-02
+293,2,"0:02",2,602,"Jordan Strawberry missed Three Point Jumper.",63,63,0,0.391216210437927,"Memphis","Mercer",3,2,0,1,2,400987987,2017-12-02
+294,2,"0:02",2,602,"Kyvon Davenport Defensive Rebound.",63,63,0,0.391216210437927,"Memphis","Mercer",3,2,0,1,2,400987987,2017-12-02
+295,2,"0:00",600,600,"End of 2nd half",63,63,0,0.580750346030454,"Memphis","Mercer",3,2,0,0,2,400987987,2017-12-02
+296,3,"5:00",600,600,"PLAY",63,63,0,0.580750346030454,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+297,3,"4:36",276,576,"Jimario Rivers made Jumper. Assisted by Jamal Johnson.",65,63,2,0.719811072752409,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+298,3,"4:04",244,544,"Jordan Strawberry made Three Point Jumper.",65,66,-1,0.451649821925551,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+299,3,"3:36",216,516,"Foul on Ethan Stair.",65,66,-1,0.436565447115984,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+300,3,"3:36",216,516,"Kareem Brewton Jr. made Free Throw.",66,66,0,0.545916590640451,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+301,3,"3:36",216,516,"Kareem Brewton Jr. made Free Throw.",67,66,1,0.651010395994064,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+302,3,"3:25",205,505,"Jordan Strawberry made Three Point Jumper. Assisted by Demetre Rivers.",67,69,-2,0.354653420019247,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+303,3,"3:10",190,490,"Jamal Johnson missed Three Point Jumper.",67,69,-2,0.316467906754902,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+304,3,"3:10",190,490,"Jimario Rivers Offensive Rebound.",67,69,-2,0.316467906754902,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+305,3,"3:05",185,485,"Foul on Stephon Jelks.",67,69,-2,0.302703468876027,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+306,3,"3:05",185,485,"Jimario Rivers missed Free Throw.",67,69,-2,0.302703468876027,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+307,3,"3:05",185,485,"Memphis Deadball Team Rebound.",67,69,-2,0.302703468876027,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+308,3,"3:05",185,485,"Jimario Rivers made Free Throw.",68,69,-1,0.413684501136474,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+309,3,"2:52",172,472,"Foul on Kyvon Davenport.",68,69,-1,0.45100199963582,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+310,3,"2:52",172,472,"Desmond Ringer made Free Throw.",68,70,-2,0.334311930670507,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+311,3,"2:52",172,472,"Desmond Ringer made Free Throw.",68,71,-3,0.234895731302179,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+312,3,"2:37",157,457,"Kareem Brewton Jr. missed Three Point Jumper.",68,71,-3,0.20075369803548,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+313,3,"2:37",157,457,"Cory Kilby Defensive Rebound.",68,71,-3,0.20075369803548,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+314,3,"2:05",125,425,"Jordan Strawberry missed Jumper.",68,71,-3,0.168808958162387,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+315,3,"2:05",125,425,"Mercer Deadball Team Rebound.",68,71,-3,0.168808958162387,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+316,3,"1:41",101,401,"Foul on Kareem Brewton Jr..",68,71,-3,0.14100415794578,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+317,3,"1:41",101,401,"Demetre Rivers made Free Throw.",68,72,-4,0.081208520047543,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+318,3,"1:41",101,401,"Demetre Rivers made Free Throw.",68,73,-5,0.0454293469687655,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+319,3,"1:29",89,389,"Foul on Ryan Johnson.",68,73,-5,0.0365872090977485,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+320,3,"1:29",89,389,"Kareem Brewton Jr. made Free Throw.",69,73,-4,0.0721369689108008,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+321,3,"1:29",89,389,"Kareem Brewton Jr. missed Free Throw.",69,73,-4,0.0721369689108008,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+322,3,"1:29",89,389,"Cory Kilby Defensive Rebound.",69,73,-4,0.0721369689108008,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+323,3,"1:03",63,363,"Jordan Strawberry missed Three Point Jumper.",69,73,-4,0.0482558693292392,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+324,3,"1:03",63,363,"Jeremiah Martin Defensive Rebound.",69,73,-4,0.0482558693292392,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+325,3,"0:59",59,359,"Jeremiah Martin made Layup.",71,73,-2,0.229705446227567,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+326,3,"0:59",59,359,"Foul on Demetre Rivers.",71,73,-2,0.229705446227567,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+327,3,"0:59",59,359,"Jeremiah Martin made Free Throw.",72,73,-1,0.415159743115211,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+328,3,"0:35",35,335,"Foul on Ryan Johnson.",72,73,-1,0.291661229112893,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+329,3,"0:35",35,335,"Ryan Johnson Turnover.",72,73,-1,0.291661229112893,"Memphis","Mercer",4,3,0,0,2,400987987,2017-12-02
+330,3,"0:12",12,312,"Memphis  Timeout",72,73,-1,0.356813533226101,"Memphis","Mercer",4,2,1,1,2,400987987,2017-12-02
+331,3,"0:12",12,312,"Mercer  Timeout",72,73,-1,0.356813533226101,"Memphis","Mercer",3,2,1,1,2,400987987,2017-12-02
+332,3,"0:06",6,306,"Foul on Jordan Strawberry.",72,73,-1,0.268061271732107,"Memphis","Mercer",3,2,1,1,2,400987987,2017-12-02
+333,3,"0:06",6,306,"Jeremiah Martin made Free Throw.",73,73,0,0.648566726824931,"Memphis","Mercer",3,2,1,1,2,400987987,2017-12-02
+334,3,"0:06",6,306,"Jeremiah Martin made Free Throw.",74,73,1,0.902908842486838,"Memphis","Mercer",3,2,1,1,2,400987987,2017-12-02
+335,3,"0:06",6,306,"Jeremiah Martin made Free Throw.",75,73,2,0.979106402574224,"Memphis","Mercer",3,2,1,1,2,400987987,2017-12-02
+336,3,"0:02",2,302,"Foul on Raynere Thornton.",75,73,2,0.952733264180476,"Memphis","Mercer",3,2,1,1,2,400987987,2017-12-02
+337,3,"0:02",2,302,"Jordan Strawberry made Free Throw.",75,74,1,0.782562559895735,"Memphis","Mercer",3,2,1,1,2,400987987,2017-12-02
+338,3,"0:02",2,302,"Jordan Strawberry made Free Throw.",75,75,0,0.391216210437927,"Memphis","Mercer",3,2,1,1,2,400987987,2017-12-02
+339,3,"0:02",2,302,"Memphis  Timeout",75,75,0,0.391216210437927,"Memphis","Mercer",3,1,1,1,2,400987987,2017-12-02
+340,3,"0:00",300,300,"End of 1st overtime",75,75,0,0.562706385495469,"Memphis","Mercer",3,1,0,0,2,400987987,2017-12-02
+341,4,"5:00",300,300,"PLAY",75,75,0,0.562706385495469,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+342,4,"4:28",268,268,"Foul on Cory Kilby.",75,75,0,0.563887045026949,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+343,4,"4:28",268,268,"Jeremiah Martin made Free Throw.",76,75,1,0.652536034064828,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+344,4,"4:28",268,268,"Jeremiah Martin made Free Throw.",77,75,2,0.731737942741005,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+345,4,"4:06",246,246,"Jordan Strawberry missed Three Point Jumper.",77,75,2,0.734858907496823,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+346,4,"4:06",246,246,"Kareem Brewton Jr. Defensive Rebound.",77,75,2,0.734858907496823,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+347,4,"3:34",214,214,"Jamal Johnson missed Three Point Jumper.",77,75,2,0.743221764729063,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+348,4,"3:34",214,214,"Raynere Thornton Offensive Rebound.",77,75,2,0.743221764729063,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+349,4,"3:29",209,209,"Foul on Demetre Rivers.",77,75,2,0.770209026484337,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+350,4,"3:29",209,209,"Raynere Thornton made Free Throw.",78,75,3,0.840442802898884,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+351,4,"3:29",209,209,"Raynere Thornton made Free Throw.",79,75,4,0.892214268050234,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+352,4,"3:19",199,199,"Foul on Raynere Thornton.",79,75,4,0.884697576843673,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+353,4,"3:19",199,199,"Desmond Ringer made Free Throw.",79,76,3,0.827745241088618,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+354,4,"3:19",199,199,"Desmond Ringer made Free Throw.",79,77,2,0.750592419026039,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+355,4,"2:58",178,178,"Jamal Johnson missed Three Point Jumper.",79,77,2,0.782406884516561,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+356,4,"2:58",178,178,"Mercer Defensive Rebound.",79,77,2,0.782406884516561,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+357,4,"2:35",155,155,"Desmond Ringer missed Layup.",79,77,2,0.789325551680257,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+358,4,"2:35",155,155,"Demetre Rivers Offensive Rebound.",79,77,2,0.789325551680257,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+359,4,"2:32",152,152,"Foul on Jeremiah Martin.",79,77,2,0.789325551680257,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+360,4,"2:32",152,152,"Demetre Rivers made Free Throw.",79,78,1,0.685760663723746,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+361,4,"2:32",152,152,"Demetre Rivers missed Free Throw.",79,78,1,0.685760663723746,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+362,4,"2:32",152,152,"Jamal Johnson Defensive Rebound.",79,78,1,0.685760663723746,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+363,4,"2:08",128,128,"Jamal Johnson missed Jumper.",79,78,1,0.661939070418675,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+364,4,"2:08",128,128,"Ethan Stair Defensive Rebound.",79,78,1,0.661939070418675,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+365,4,"1:43",103,103,"Cory Kilby missed Three Point Jumper.",79,78,1,0.661342503759564,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+366,4,"1:43",103,103,"Jeremiah Martin Defensive Rebound.",79,78,1,0.661342503759564,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+367,4,"1:18",78,78,"Jeremiah Martin missed Jumper.",79,78,1,0.689519261737777,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+368,4,"1:18",78,78,"Mercer Defensive Rebound.",79,78,1,0.689519261737777,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+369,4,"0:55",55,55,"Jordan Strawberry missed Jumper.",79,78,1,0.715060622949451,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+370,4,"0:55",55,55,"Ryan Johnson Offensive Rebound.",79,78,1,0.715060622949451,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+371,4,"0:55",55,55,"Foul on Jamal Johnson.",79,78,1,0.715060622949451,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+372,4,"0:55",55,55,"Ryan Johnson missed Free Throw.",79,78,1,0.715060622949451,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+373,4,"0:55",55,55,"Mercer Deadball Team Rebound.",79,78,1,0.715060622949451,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+374,4,"0:55",55,55,"Ryan Johnson made Free Throw.",79,79,0,0.540082544638974,"Memphis","Mercer",4,2,0,0,2,400987987,2017-12-02
+375,4,"0:27",27,27,"Foul on Ryan Johnson.",79,79,0,0.587757115713697,"Memphis","Mercer",4,2,1,0,2,400987987,2017-12-02
+376,4,"0:27",27,27,"Mercer  Timeout",79,79,0,0.587757115713697,"Memphis","Mercer",3,2,1,0,2,400987987,2017-12-02
+377,4,"0:27",27,27,"Kareem Brewton Jr. made Free Throw.",80,79,1,0.824126341532635,"Memphis","Mercer",3,2,1,0,2,400987987,2017-12-02
+378,4,"0:27",27,27,"Kareem Brewton Jr. made Free Throw.",81,79,2,0.939027099180098,"Memphis","Mercer",3,2,1,0,2,400987987,2017-12-02
+379,4,"0:13",13,13,"Desmond Ringer made Layup. Assisted by Ethan Stair.",81,81,0,0.456288231659596,"Memphis","Mercer",3,2,1,0,2,400987987,2017-12-02
+380,4,"0:06",6,6,"Memphis  Timeout",81,81,0,0.648566726824931,"Memphis","Mercer",3,1,1,1,2,400987987,2017-12-02
+381,4,"0:03",3,3,"Foul on Ryan Johnson.",81,81,0,0.391216210437927,"Memphis","Mercer",3,1,1,1,2,400987987,2017-12-02
+382,4,"0:03",3,3,"Jeremiah Martin made Free Throw.",82,81,1,0.782562559895735,"Memphis","Mercer",3,1,1,1,2,400987987,2017-12-02
+383,4,"0:03",3,3,"Jeremiah Martin made Free Throw.",83,81,2,0.952733264180476,"Memphis","Mercer",3,1,1,1,2,400987987,2017-12-02
+384,4,"0:03",3,3,"Mercer  Timeout",83,81,2,0.952733264180476,"Memphis","Mercer",2,1,1,1,2,400987987,2017-12-02
+385,4,"0:02",2,2,"Mercer  Timeout",83,81,2,0.952733264180476,"Memphis","Mercer",1,1,1,1,2,400987987,2017-12-02
+386,4,"0:00",0,0,"End of 2nd overtime",83,81,2,1,"Memphis","Mercer",1,1,1,1,2,400987987,2017-12-02
+387,4,"0:00",0,0,"End of Game",83,81,2,1,"Memphis","Mercer",1,1,1,1,2,400987987,2017-12-02

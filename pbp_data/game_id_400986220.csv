@@ -1,0 +1,355 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.150219768484353,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+2,1,"20:00",2400,2400,"Jump Ball won by Duke",0,0,0,0.150219768484353,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+3,1,"19:47",2387,2387,"Wendell Carter Jr made Layup.",0,2,-2,0.14807525109431,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+4,1,"19:17",2357,2357,"Doral Moore made Jumper. Assisted by Chaundee Brown.",2,2,0,0.174838536093772,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+5,1,"19:01",2341,2341,"Trevon Duval missed Three Point Jumper.",2,2,0,0.16975037601941,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+6,1,"19:01",2341,2341,"Mitchell Wilbekin Defensive Rebound.",2,2,0,0.16975037601941,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+7,1,"18:49",2329,2329,"Bryant Crawford Turnover.",2,2,0,0.184096773362192,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+8,1,"18:49",2329,2329,"Marvin Bagley III Steal.",2,2,0,0.184096773362192,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+9,1,"18:44",2324,2324,"Foul on Mitchell Wilbekin.",2,2,0,0.184096773362192,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+10,1,"18:40",2320,2320,"Trevon Duval missed Jumper.",2,2,0,0.184096773362192,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+11,1,"18:40",2320,2320,"Marvin Bagley III Offensive Rebound.",2,2,0,0.184096773362192,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+12,1,"18:35",2315,2315,"Foul on Terrence Thompson.",2,2,0,0.172806407963434,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+13,1,"18:31",2311,2311,"Grayson Allen made Jumper. Assisted by Trevon Duval.",2,4,-2,0.146501430339121,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+14,1,"17:59",2279,2279,"Chaundee Brown Turnover.",2,4,-2,0.148392620596934,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+15,1,"17:43",2263,2263,"Wendell Carter Jr made Jumper.",2,6,-4,0.110908329113769,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+16,1,"17:29",2249,2249,"Bryant Crawford Turnover.",2,6,-4,0.147176281943861,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+17,1,"17:19",2239,2239,"Marvin Bagley III missed Jumper.",2,6,-4,0.120099797479204,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+18,1,"17:19",2239,2239,"Terrence Thompson Defensive Rebound.",2,6,-4,0.120099797479204,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+19,1,"17:11",2231,2231,"Bryant Crawford Turnover.",2,6,-4,0.120099797479204,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+20,1,"17:11",2231,2231,"Grayson Allen Steal.",2,6,-4,0.120099797479204,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+21,1,"17:06",2226,2226,"Marvin Bagley III made Dunk. Assisted by Gary Trent Jr.",2,8,-6,0.103391611829572,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+22,1,"16:46",2206,2206,"Foul on Terrence Thompson.",2,8,-6,0.100994131225016,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+23,1,"16:46",2206,2206,"Terrence Thompson Turnover.",2,8,-6,0.100994131225016,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+24,1,"16:29",2189,2189,"Marvin Bagley III missed Three Point Jumper.",2,8,-6,0.102488593853711,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+25,1,"16:29",2189,2189,"Bryant Crawford Defensive Rebound.",2,8,-6,0.102488593853711,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+26,1,"16:23",2183,2183,"Mitchell Wilbekin made Three Point Jumper. Assisted by Bryant Crawford.",5,8,-3,0.1365451257054,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+27,1,"16:10",2170,2170,"Trevon Duval missed Three Point Jumper.",5,8,-3,0.132608153011596,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+28,1,"16:10",2170,2170,"Doral Moore Defensive Rebound.",5,8,-3,0.132608153011596,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+29,1,"15:54",2154,2154,"Doral Moore Turnover.",5,8,-3,0.125092283485711,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+30,1,"15:54",2154,2154,"Gary Trent Jr Steal.",5,8,-3,0.125092283485711,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+31,1,"15:44",2144,2144,"Foul on Olivier Sarr.",5,8,-3,0.141386906895212,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+32,1,"15:44",2144,2144,"Official TV Timeout",5,8,-3,0.141386906895212,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+33,1,"15:44",2144,2144,"Grayson Allen made Free Throw.",5,9,-4,0.129528130015937,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+34,1,"15:44",2144,2144,"Grayson Allen made Free Throw.",5,10,-5,0.118526697933127,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+35,1,"15:34",2134,2134,"Foul on Marvin Bagley III.",5,10,-5,0.103908500054504,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+36,1,"15:34",2134,2134,"Bryant Crawford made Free Throw.",6,10,-4,0.115732838036315,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+37,1,"15:34",2134,2134,"Bryant Crawford made Free Throw.",7,10,-3,0.128709466205253,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+38,1,"15:24",2124,2124,"Foul on Grayson Allen.",7,10,-3,0.130155880055403,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+39,1,"15:24",2124,2124,"Grayson Allen Turnover.",7,10,-3,0.130155880055403,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+40,1,"14:57",2097,2097,"Chaundee Brown made Jumper.",9,10,-1,0.168042605754893,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+41,1,"14:48",2088,2088,"Gary Trent Jr made Jumper.",9,12,-3,0.147107398895779,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+42,1,"14:26",2066,2066,"Olivier Sarr missed Jumper.",9,12,-3,0.128895415300879,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+43,1,"14:26",2066,2066,"Doral Moore Offensive Rebound.",9,12,-3,0.128895415300879,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+44,1,"14:21",2061,2061,"Doral Moore made Jumper.",11,12,-1,0.15843550563554,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+45,1,"13:58",2038,2038,"Marvin Bagley III missed Layup.",11,12,-1,0.159326769575576,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+46,1,"13:58",2038,2038,"Wake Forest Defensive Rebound.",11,12,-1,0.159326769575576,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+47,1,"13:39",2019,2019,"Foul on Chaundee Brown.",11,12,-1,0.170058148937542,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+48,1,"13:39",2019,2019,"Chaundee Brown Turnover.",11,12,-1,0.170058148937542,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+49,1,"13:27",2007,2007,"Foul on Doral Moore.",11,12,-1,0.165393691385247,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+50,1,"13:27",2007,2007,"Wendell Carter Jr missed Free Throw.",11,12,-1,0.165393691385247,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+51,1,"13:27",2007,2007,"Duke Deadball Team Rebound.",11,12,-1,0.165393691385247,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+52,1,"13:27",2007,2007,"Wendell Carter Jr made Free Throw.",11,13,-2,0.15071777771936,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+53,1,"13:05",1985,1985,"Chaundee Brown made Layup.",13,13,0,0.186940886136299,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+54,1,"12:45",1965,1965,"Wendell Carter Jr Turnover.",13,13,0,0.180748141942938,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+55,1,"12:33",1953,1953,"Olivier Sarr Turnover.",13,13,0,0.199765043987575,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+56,1,"12:33",1953,1953,"Alex O'Connell Steal.",13,13,0,0.199765043987575,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+57,1,"12:25",1945,1945,"Gary Trent Jr missed Jumper.",13,13,0,0.18492721236553,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+58,1,"12:20",1940,1940,"Grayson Allen Offensive Rebound.",13,13,0,0.18492721236553,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+59,1,"12:14",1934,1934,"Grayson Allen made Three Point Jumper.",13,16,-3,0.1324103166956,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+60,1,"12:01",1921,1921,"Mitchell Wilbekin missed Layup.",13,16,-3,0.11903182974348,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+61,1,"12:01",1921,1921,"Marvin Bagley III Defensive Rebound.",13,16,-3,0.11903182974348,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+62,1,"11:56",1916,1916,"Marvin Bagley III Turnover.",13,16,-3,0.145973006033002,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+63,1,"11:56",1916,1916,"Official TV Timeout",13,16,-3,0.145973006033002,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+64,1,"11:55",1915,1915,"Foul on Bryant Crawford.",13,16,-3,0.145973006033002,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+65,1,"11:55",1915,1915,"Bryant Crawford Turnover.",13,16,-3,0.145973006033002,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+66,1,"11:43",1903,1903,"Foul on Bryant Crawford.",13,16,-3,0.13351698335592,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+67,1,"11:43",1903,1903,"Gary Trent Jr missed Free Throw.",13,16,-3,0.13351698335592,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+68,1,"11:43",1903,1903,"Duke Deadball Team Rebound.",13,16,-3,0.13351698335592,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+69,1,"11:43",1903,1903,"Gary Trent Jr made Free Throw.",13,17,-4,0.120552767664117,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+70,1,"11:22",1882,1882,"Donovan Mitchell made Layup. Assisted by Chaundee Brown.",15,17,-2,0.142325832177077,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+71,1,"11:10",1870,1870,"Gary Trent Jr made Jumper. Assisted by Grayson Allen.",15,19,-4,0.123454557522562,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+72,1,"10:49",1849,1849,"Chaundee Brown missed Three Point Jumper.",15,19,-4,0.11269064011437,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+73,1,"10:49",1849,1849,"Doral Moore Offensive Rebound.",15,19,-4,0.11269064011437,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+74,1,"10:45",1845,1845,"Doral Moore made Dunk.",17,19,-2,0.139934590589465,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+75,1,"10:33",1833,1833,"Gary Trent Jr Turnover.",17,19,-2,0.164646360041216,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+76,1,"10:33",1833,1833,"Mitchell Wilbekin Steal.",17,19,-2,0.164646360041216,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+77,1,"10:29",1829,1829,"Chaundee Brown missed Layup.",17,19,-2,0.163201647731012,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+78,1,"10:29",1829,1829,"Brandon Childress Offensive Rebound.",17,19,-2,0.163201647731012,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+79,1,"10:25",1825,1825,"Foul on Javin DeLaurier.",17,19,-2,0.163201647731012,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+80,1,"10:16",1816,1816,"Chaundee Brown missed Jumper.",17,19,-2,0.157149971953332,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+81,1,"10:16",1816,1816,"Brandon Childress Offensive Rebound.",17,19,-2,0.157149971953332,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+82,1,"10:08",1808,1808,"Donovan Mitchell missed Three Point Jumper.",17,19,-2,0.150108095454549,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+83,1,"10:08",1808,1808,"Wendell Carter Jr Defensive Rebound.",17,19,-2,0.150108095454549,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+84,1,"9:59",1799,1799,"Foul on Trevon Duval.",17,19,-2,0.156840226405773,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+85,1,"9:59",1799,1799,"Trevon Duval Turnover.",17,19,-2,0.156840226405773,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+86,1,"9:34",1774,1774,"Brandon Childress missed Layup.",17,19,-2,0.149774228810777,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+87,1,"9:34",1774,1774,"Wendell Carter Jr Block.",17,19,-2,0.149774228810777,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+88,1,"9:34",1774,1774,"Donovan Mitchell Offensive Rebound.",17,19,-2,0.149774228810777,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+89,1,"9:34",1774,1774,"Wake Forest  Turnover.",17,19,-2,0.149774228810777,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+90,1,"9:19",1759,1759,"Grayson Allen made Three Point Jumper. Assisted by Wendell Carter Jr.",17,22,-5,0.0877332466585816,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+91,1,"9:03",1743,1743,"Foul on Wendell Carter Jr.",17,22,-5,0.130299431869377,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+92,1,"9:03",1743,1743,"Donovan Mitchell Turnover.",17,22,-5,0.130299431869377,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+93,1,"9:03",1743,1743,"Grayson Allen Steal.",17,22,-5,0.130299431869377,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+94,1,"8:56",1736,1736,"Foul on Donovan Mitchell.",17,22,-5,0.108811004346097,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+95,1,"8:56",1736,1736,"Marvin Bagley III missed Free Throw.",17,22,-5,0.108811004346097,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+96,1,"8:56",1736,1736,"Doral Moore Defensive Rebound.",17,22,-5,0.108811004346097,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+97,1,"8:48",1728,1728,"Mitchell Wilbekin missed Three Point Jumper.",17,22,-5,0.133286002025295,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+98,1,"8:48",1728,1728,"Doral Moore Offensive Rebound.",17,22,-5,0.133286002025295,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+99,1,"8:42",1722,1722,"Doral Moore made Jumper.",19,22,-3,0.167827146782736,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+100,1,"8:19",1699,1699,"Foul on Mitchell Wilbekin.",19,22,-3,0.152179542062284,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+101,1,"8:19",1699,1699,"Gary Trent Jr made Free Throw.",19,23,-4,0.13466689746914,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+102,1,"8:19",1699,1699,"Gary Trent Jr made Free Throw.",19,24,-5,0.118886984084253,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+103,1,"8:10",1690,1690,"Brandon Childress missed Layup.",19,24,-5,0.118886984084253,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+104,1,"8:10",1690,1690,"Wendell Carter Jr Defensive Rebound.",19,24,-5,0.118886984084253,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+105,1,"8:04",1684,1684,"Grayson Allen missed Three Point Jumper.",19,24,-5,0.0998449433032177,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+106,1,"8:04",1684,1684,"Brandon Childress Defensive Rebound.",19,24,-5,0.0998449433032177,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+107,1,"7:54",1674,1674,"Bryant Crawford Turnover.",19,24,-5,0.110573824101098,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+108,1,"7:54",1674,1674,"Official TV Timeout",19,24,-5,0.110573824101098,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+109,1,"7:40",1660,1660,"Grayson Allen missed Jumper.",19,24,-5,0.114484310975191,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+110,1,"7:40",1660,1660,"Javin DeLaurier Offensive Rebound.",19,24,-5,0.114484310975191,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+111,1,"7:32",1652,1652,"Trevon Duval missed Jumper.",19,24,-5,0.123231829142126,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+112,1,"7:32",1652,1652,"Javin DeLaurier Offensive Rebound.",19,24,-5,0.123231829142126,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+113,1,"7:29",1649,1649,"Javin DeLaurier missed Dunk.",19,24,-5,0.114596506868635,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+114,1,"7:29",1649,1649,"Grayson Allen Offensive Rebound.",19,24,-5,0.114596506868635,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+115,1,"7:25",1645,1645,"Foul on Brandon Childress.",19,24,-5,0.114596506868635,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+116,1,"7:25",1645,1645,"Wendell Carter Jr made Free Throw.",19,25,-6,0.101207034325214,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+117,1,"7:25",1645,1645,"Wendell Carter Jr made Free Throw.",19,26,-7,0.0892243383638545,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+118,1,"7:13",1633,1633,"Bryant Crawford Turnover.",19,26,-7,0.0989996489100386,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+119,1,"7:13",1633,1633,"Alex O'Connell Steal.",19,26,-7,0.0989996489100386,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+120,1,"7:09",1629,1629,"Alex O'Connell made Dunk.",19,28,-9,0.0636949831723274,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+121,1,"7:04",1624,1624,"Wake Forest  Timeout",19,28,-9,0.0636949831723274,"Wake Forest","Duke",3,4,1,0,-9.5,400986220,2018-01-23
+122,1,"6:46",1606,1606,"Bryant Crawford missed Three Point Jumper.",19,28,-9,0.0663103075879599,"Wake Forest","Duke",3,4,1,0,-9.5,400986220,2018-01-23
+123,1,"6:46",1606,1606,"Javin DeLaurier Defensive Rebound.",19,28,-9,0.0663103075879599,"Wake Forest","Duke",3,4,1,0,-9.5,400986220,2018-01-23
+124,1,"6:36",1596,1596,"Alex O'Connell made Three Point Jumper. Assisted by Grayson Allen.",19,31,-12,0.0555738654273176,"Wake Forest","Duke",3,4,1,0,-9.5,400986220,2018-01-23
+125,1,"6:11",1571,1571,"Brandon Childress missed Jumper.",19,31,-12,0.0391463496893846,"Wake Forest","Duke",3,4,1,0,-9.5,400986220,2018-01-23
+126,1,"6:11",1571,1571,"Olivier Sarr Offensive Rebound.",19,31,-12,0.0391463496893846,"Wake Forest","Duke",3,4,1,0,-9.5,400986220,2018-01-23
+127,1,"6:11",1571,1571,"Olivier Sarr missed Jumper.",19,31,-12,0.0391463496893846,"Wake Forest","Duke",3,4,1,0,-9.5,400986220,2018-01-23
+128,1,"6:06",1566,1566,"Doral Moore Offensive Rebound.",19,31,-12,0.0423948097443151,"Wake Forest","Duke",3,4,1,0,-9.5,400986220,2018-01-23
+129,1,"6:05",1565,1565,"Doral Moore made Dunk.",21,31,-10,0.0555826422843844,"Wake Forest","Duke",3,4,1,0,-9.5,400986220,2018-01-23
+130,1,"5:38",1538,1538,"Wendell Carter Jr Turnover.",21,31,-10,0.0601533754161945,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+131,1,"5:24",1524,1524,"Brandon Childress missed Three Point Jumper.",21,31,-10,0.06145997964212,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+132,1,"5:24",1524,1524,"Doral Moore Offensive Rebound.",21,31,-10,0.06145997964212,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+133,1,"5:20",1520,1520,"Doral Moore made Dunk.",23,31,-8,0.0800692025798853,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+134,1,"5:08",1508,1508,"Marvin Bagley III made Jumper.",23,33,-10,0.0594641365243968,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+135,1,"4:53",1493,1493,"Bryant Crawford missed Three Point Jumper.",23,33,-10,0.0688350471053778,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+136,1,"4:53",1493,1493,"Wendell Carter Jr Defensive Rebound.",23,33,-10,0.0688350471053778,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+137,1,"4:43",1483,1483,"Foul on Chaundee Brown.",23,33,-10,0.0533171304324516,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+138,1,"4:43",1483,1483,"Trevon Duval missed Free Throw.",23,33,-10,0.0533171304324516,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+139,1,"4:43",1483,1483,"Duke Deadball Team Rebound.",23,33,-10,0.0533171304324516,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+140,1,"4:43",1483,1483,"Trevon Duval missed Free Throw.",23,33,-10,0.0533171304324516,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+141,1,"4:43",1483,1483,"Olivier Sarr Defensive Rebound.",23,33,-10,0.0533171304324516,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+142,1,"4:33",1473,1473,"Foul on Javin DeLaurier.",23,33,-10,0.0474199369441352,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+143,1,"4:33",1473,1473,"Bryant Crawford made Free Throw.",24,33,-9,0.054821687936321,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+144,1,"4:33",1473,1473,"Bryant Crawford missed Free Throw.",24,33,-9,0.054821687936321,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+145,1,"4:33",1473,1473,"Marvin Bagley III Defensive Rebound.",24,33,-9,0.054821687936321,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+146,1,"4:24",1464,1464,"Foul on Marvin Bagley III.",24,33,-9,0.0866749439393165,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+147,1,"4:24",1464,1464,"Marvin Bagley III Turnover.",24,33,-9,0.0866749439393165,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+148,1,"4:08",1448,1448,"Olivier Sarr missed Layup.",24,33,-9,0.0722449492094136,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+149,1,"4:08",1448,1448,"Donovan Mitchell Offensive Rebound.",24,33,-9,0.0722449492094136,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+150,1,"4:05",1445,1445,"Donovan Mitchell Turnover.",24,33,-9,0.0722449492094136,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+151,1,"3:41",1421,1421,"Gary Trent Jr made Three Point Jumper. Assisted by Wendell Carter Jr.",24,36,-12,0.0470240505820996,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+152,1,"3:24",1404,1404,"Donovan Mitchell missed Three Point Jumper.",24,36,-12,0.0427307313089783,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+153,1,"3:24",1404,1404,"Wendell Carter Jr Defensive Rebound.",24,36,-12,0.0427307313089783,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+154,1,"3:12",1392,1392,"Official TV Timeout",24,36,-12,0.0353693265782289,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+155,1,"3:12",1392,1392,"Official TV Timeout",24,36,-12,0.0353693265782289,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+156,1,"3:01",1381,1381,"Wendell Carter Jr missed Jumper.",24,36,-12,0.0462848858205473,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+157,1,"3:01",1381,1381,"Grayson Allen Offensive Rebound.",24,36,-12,0.0462848858205473,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+158,1,"2:52",1372,1372,"Grayson Allen missed Jumper.",24,36,-12,0.0433080790535148,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+159,1,"2:52",1372,1372,"Olivier Sarr Defensive Rebound.",24,36,-12,0.0433080790535148,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+160,1,"2:28",1348,1348,"Brandon Childress Turnover.",24,36,-12,0.0426961208827684,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+161,1,"2:09",1329,1329,"Grayson Allen made Jumper.",24,38,-14,0.0303097202849694,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+162,1,"2:09",1329,1329,"Foul on Chaundee Brown.",24,38,-14,0.0303097202849694,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+163,1,"2:09",1329,1329,"Grayson Allen made Free Throw.",24,39,-15,0.0260050969861354,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+164,1,"1:50",1310,1310,"Bryant Crawford missed Three Point Jumper.",24,39,-15,0.0294941328076045,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+165,1,"1:50",1310,1310,"Grayson Allen Defensive Rebound.",24,39,-15,0.0294941328076045,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+166,1,"1:43",1303,1303,"Javin DeLaurier made Dunk. Assisted by Grayson Allen.",24,41,-17,0.026033315218164,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+167,1,"1:23",1283,1283,"Chaundee Brown missed Three Point Jumper.",24,41,-17,0.0207291709314797,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+168,1,"1:23",1283,1283,"Chaundee Brown Offensive Rebound.",24,41,-17,0.0207291709314797,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+169,1,"1:19",1279,1279,"Foul on Javin DeLaurier.",24,41,-17,0.0204189275812612,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+170,1,"1:19",1279,1279,"Chaundee Brown made Free Throw.",25,41,-16,0.0236415546489974,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+171,1,"1:19",1279,1279,"Chaundee Brown made Free Throw.",26,41,-15,0.0273585894084016,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+172,1,"1:00",1260,1260,"Trevon Duval missed Jumper.",26,41,-15,0.0274214736434256,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+173,1,"1:00",1260,1260,"Olivier Sarr Defensive Rebound.",26,41,-15,0.0274214736434256,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+174,1,"0:54",1254,1254,"Brandon Childress made Jumper.",28,41,-13,0.0426391448873077,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+175,1,"0:45",1245,1245,"Duke  Timeout",28,41,-13,0.0364668742425833,"Wake Forest","Duke",3,3,0,1,-9.5,400986220,2018-01-23
+176,1,"0:27",1227,1227,"Wendell Carter Jr missed Three Point Jumper.",28,41,-13,0.0334531890792258,"Wake Forest","Duke",3,3,0,1,-9.5,400986220,2018-01-23
+177,1,"0:27",1227,1227,"Brandon Childress Defensive Rebound.",28,41,-13,0.0334531890792258,"Wake Forest","Duke",3,3,0,1,-9.5,400986220,2018-01-23
+178,1,"0:01",1201,1201,"Doral Moore made Dunk. Assisted by Brandon Childress.",30,41,-11,0.0487761665961216,"Wake Forest","Duke",3,3,0,1,-9.5,400986220,2018-01-23
+179,1,"0:00",1200,1200,"End of 1st half",30,41,-11,0.0487761665961216,"Wake Forest","Duke",3,3,0,1,-9.5,400986220,2018-01-23
+180,2,"20:00",1200,1200,"PLAY",30,41,-11,0.0487761665961216,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+181,2,"20:00",1200,1200,"Jump Ball won by Wake Forest",30,41,-11,0.0487761665961216,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+182,2,"19:32",1172,1172,"Mitchell Wilbekin missed Three Point Jumper.",30,41,-11,0.0505181009326123,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+183,2,"19:32",1172,1172,"Chaundee Brown Offensive Rebound.",30,41,-11,0.0505181009326123,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+184,2,"19:29",1169,1169,"Chaundee Brown missed Jumper.",30,41,-11,0.0405173351235072,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+185,2,"19:29",1169,1169,"Marvin Bagley III Defensive Rebound.",30,41,-11,0.0405173351235072,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+186,2,"19:20",1160,1160,"Trevon Duval missed Layup.",30,41,-11,0.0405173351235072,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+187,2,"19:20",1160,1160,"Doral Moore Defensive Rebound.",30,41,-11,0.0405173351235072,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+188,2,"18:57",1137,1137,"Bryant Crawford Turnover.",30,41,-11,0.04833548187292,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+189,2,"18:57",1137,1137,"Marvin Bagley III Steal.",30,41,-11,0.04833548187292,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+190,2,"18:41",1121,1121,"Foul on Olivier Sarr.",30,41,-11,0.0371996476225446,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+191,2,"18:41",1121,1121,"Marvin Bagley III made Free Throw.",30,42,-12,0.0310741766438573,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+192,2,"18:41",1121,1121,"Marvin Bagley III missed Free Throw.",30,42,-12,0.0310741766438573,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+193,2,"18:41",1121,1121,"Doral Moore Defensive Rebound.",30,42,-12,0.0310741766438573,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+194,2,"18:22",1102,1102,"Foul on Marvin Bagley III.",30,42,-12,0.039773963586613,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+195,2,"18:22",1102,1102,"Donovan Mitchell missed Free Throw.",30,42,-12,0.039773963586613,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+196,2,"18:22",1102,1102,"Wake Forest Deadball Team Rebound.",30,42,-12,0.039773963586613,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+197,2,"18:22",1102,1102,"Donovan Mitchell made Free Throw.",31,42,-11,0.0465221171991339,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+198,2,"18:13",1093,1093,"Marvin Bagley III missed Three Point Jumper.",31,42,-11,0.0457596472867526,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+199,2,"18:13",1093,1093,"Wendell Carter Jr Offensive Rebound.",31,42,-11,0.0457596472867526,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+200,2,"18:08",1088,1088,"Foul on Doral Moore.",31,42,-11,0.0390585598975609,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+201,2,"18:08",1088,1088,"Wendell Carter Jr made Free Throw.",31,43,-12,0.0329295798145434,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+202,2,"18:08",1088,1088,"Wendell Carter Jr made Free Throw.",31,44,-13,0.0277345875029751,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+203,2,"17:58",1078,1078,"Brandon Childress missed Jumper.",31,44,-13,0.0389503894867388,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+204,2,"17:58",1078,1078,"Bryant Crawford Offensive Rebound.",31,44,-13,0.0389503894867388,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+205,2,"17:54",1074,1074,"Bryant Crawford missed Jumper.",31,44,-13,0.0389503894867388,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+206,2,"17:54",1074,1074,"Wendell Carter Jr Defensive Rebound.",31,44,-13,0.0389503894867388,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+207,2,"17:39",1059,1059,"Wendell Carter Jr made Jumper.",31,46,-15,0.0221115587537939,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+208,2,"17:25",1045,1045,"Brandon Childress Turnover.",31,46,-15,0.0242554439415264,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+209,2,"17:14",1034,1034,"Gary Trent Jr made Three Point Jumper. Assisted by Trevon Duval.",31,49,-18,0.0137613418565612,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+210,2,"16:54",1014,1014,"Donovan Mitchell missed Jumper.",31,49,-18,0.0112775425366014,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+211,2,"16:54",1014,1014,"Wendell Carter Jr Defensive Rebound.",31,49,-18,0.0112775425366014,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+212,2,"16:46",1006,1006,"Marvin Bagley III made Dunk.",31,51,-20,0.00767557199045075,"Wake Forest","Duke",4,4,0,0,-9.5,400986220,2018-01-23
+213,2,"16:43",1003,1003,"Wake Forest  Timeout",31,51,-20,0.00767557199045075,"Wake Forest","Duke",3,4,1,0,-9.5,400986220,2018-01-23
+214,2,"16:35",995,995,"Doral Moore made Dunk. Assisted by Bryant Crawford.",33,51,-18,0.0122824471270401,"Wake Forest","Duke",3,4,1,0,-9.5,400986220,2018-01-23
+215,2,"16:09",969,969,"Grayson Allen missed Three Point Jumper.",33,51,-18,0.0123472694854023,"Wake Forest","Duke",3,4,1,0,-9.5,400986220,2018-01-23
+216,2,"16:09",969,969,"Donovan Mitchell Defensive Rebound.",33,51,-18,0.0123472694854023,"Wake Forest","Duke",3,4,1,0,-9.5,400986220,2018-01-23
+217,2,"15:59",959,959,"Foul on Grayson Allen.",33,51,-18,0.00909237665871996,"Wake Forest","Duke",3,4,1,0,-9.5,400986220,2018-01-23
+218,2,"15:59",959,959,"Official TV Timeout",33,51,-18,0.00909237665871996,"Wake Forest","Duke",3,4,1,0,-9.5,400986220,2018-01-23
+219,2,"15:57",957,957,"Brandon Childress made Layup.",35,51,-16,0.0132722058984548,"Wake Forest","Duke",3,4,1,0,-9.5,400986220,2018-01-23
+220,2,"15:43",943,943,"Gary Trent Jr missed Jumper.",35,51,-16,0.0161963198478783,"Wake Forest","Duke",3,4,1,0,-9.5,400986220,2018-01-23
+221,2,"15:43",943,943,"Marvin Bagley III Offensive Rebound.",35,51,-16,0.0161963198478783,"Wake Forest","Duke",3,4,1,0,-9.5,400986220,2018-01-23
+222,2,"15:38",938,938,"Grayson Allen missed Three Point Jumper.",35,51,-16,0.0160118275619844,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+223,2,"15:38",938,938,"Wendell Carter Jr Offensive Rebound.",35,51,-16,0.0160118275619844,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+224,2,"15:25",925,925,"Foul on Donovan Mitchell.",35,51,-16,0.0143106437009616,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+225,2,"15:19",919,919,"Wendell Carter Jr made Layup. Assisted by Marvin Bagley III.",35,53,-18,0.00891622771080723,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+226,2,"15:19",919,919,"Foul on Doral Moore.",35,53,-18,0.00891622771080723,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+227,2,"15:19",919,919,"Wendell Carter Jr made Free Throw.",35,54,-19,0.00734176564182697,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+228,2,"14:59",899,899,"Chaundee Brown missed Jumper.",35,54,-19,0.00926269169401954,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+229,2,"14:59",899,899,"Olivier Sarr Offensive Rebound.",35,54,-19,0.00926269169401954,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+230,2,"14:55",895,895,"Olivier Sarr missed Layup.",35,54,-19,0.00926269169401954,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+231,2,"14:55",895,895,"Marvin Bagley III Defensive Rebound.",35,54,-19,0.00926269169401954,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+232,2,"14:36",876,876,"Marvin Bagley III missed Three Point Jumper.",35,54,-19,0.00905262024497938,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+233,2,"14:36",876,876,"Terrence Thompson Defensive Rebound.",35,54,-19,0.00905262024497938,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+234,2,"14:26",866,866,"Bryant Crawford missed Three Point Jumper.",35,54,-19,0.00843437861012722,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+235,2,"14:26",866,866,"Wendell Carter Jr Defensive Rebound.",35,54,-19,0.00843437861012722,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+236,2,"14:05",845,845,"Grayson Allen missed Three Point Jumper.",35,54,-19,0.00643727044727379,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+237,2,"14:05",845,845,"Chaundee Brown Defensive Rebound.",35,54,-19,0.00643727044727379,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+238,2,"13:58",838,838,"Bryant Crawford made Layup. Assisted by Chaundee Brown.",37,54,-17,0.00921813419038539,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+239,2,"13:35",815,815,"Foul on Terrence Thompson.",37,54,-17,0.0105106126906191,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+240,2,"13:28",808,808,"Foul on Olivier Sarr.",37,54,-17,0.0114975913676043,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+241,2,"13:28",808,808,"Marvin Bagley III made Free Throw.",37,55,-18,0.00940272187626108,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+242,2,"13:28",808,808,"Marvin Bagley III made Free Throw.",37,56,-19,0.00768657113955939,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+243,2,"13:19",799,799,"Foul on Trevon Duval.",37,56,-19,0.00533290220588849,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+244,2,"13:19",799,799,"Bryant Crawford made Free Throw.",38,56,-18,0.00663495063660651,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+245,2,"13:19",799,799,"Bryant Crawford made Free Throw.",39,56,-17,0.00825226170186757,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+246,2,"13:03",783,783,"Grayson Allen Turnover.",39,56,-17,0.0105476373322369,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+247,2,"12:49",769,769,"Bryant Crawford Turnover.",39,56,-17,0.00925905856871712,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+248,2,"12:49",769,769,"Javin DeLaurier Steal.",39,56,-17,0.00925905856871712,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+249,2,"12:40",760,760,"Foul on Grayson Allen.",39,56,-17,0.00925905856871712,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+250,2,"12:40",760,760,"Grayson Allen Turnover.",39,56,-17,0.00925905856871712,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+251,2,"12:15",735,735,"Chaundee Brown made Jumper.",41,56,-15,0.01750653209931,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+252,2,"11:58",718,718,"Gary Trent Jr missed Three Point Jumper.",41,56,-15,0.0115748755685629,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+253,2,"11:58",718,718,"Doral Moore Defensive Rebound.",41,56,-15,0.0115748755685629,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+254,2,"11:48",708,708,"Brandon Childress made Layup.",43,56,-13,0.0273262267681251,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+255,2,"11:48",708,708,"Foul on Javin DeLaurier.",43,56,-13,0.0273262267681251,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+256,2,"11:48",708,708,"Official TV Timeout",43,56,-13,0.0273262267681251,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+257,2,"11:48",708,708,"Brandon Childress made Free Throw.",44,56,-12,0.0335851334184834,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+258,2,"11:31",691,691,"Trevon Duval missed Layup.",44,56,-12,0.0188009147474627,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+259,2,"11:31",691,691,"Doral Moore Block.",44,56,-12,0.0188009147474627,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+260,2,"11:31",691,691,"Chaundee Brown Defensive Rebound.",44,56,-12,0.0188009147474627,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+261,2,"11:21",681,681,"Chaundee Brown missed Layup.",44,56,-12,0.024076106190118,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+262,2,"11:21",681,681,"Wendell Carter Jr Block.",44,56,-12,0.024076106190118,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+263,2,"11:21",681,681,"Wake Forest Offensive Rebound.",44,56,-12,0.024076106190118,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+264,2,"11:15",675,675,"Brandon Childress made Three Point Jumper. Assisted by Chaundee Brown.",47,56,-9,0.0423809548634943,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+265,2,"10:52",652,652,"Trevon Duval missed Jumper.",47,56,-9,0.0487111055112538,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+266,2,"10:52",652,652,"Mitchell Wilbekin Defensive Rebound.",47,56,-9,0.0487111055112538,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+267,2,"10:45",645,645,"Olivier Sarr missed Dunk.",47,56,-9,0.0465411041421657,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+268,2,"10:45",645,645,"Wendell Carter Jr Defensive Rebound.",47,56,-9,0.0465411041421657,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+269,2,"10:38",638,638,"Foul on Brandon Childress.",47,56,-9,0.0503442708745648,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+270,2,"10:38",638,638,"Grayson Allen made Free Throw.",47,57,-10,0.0401724823055033,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+271,2,"10:38",638,638,"Grayson Allen made Free Throw.",47,58,-11,0.0319866263602175,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+272,2,"10:27",627,627,"Brandon Childress made Three Point Jumper. Assisted by Chaundee Brown.",50,58,-8,0.0452924005895652,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+273,2,"10:10",610,610,"Wendell Carter Jr made Jumper.",50,60,-10,0.0304377498220264,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+274,2,"9:59",599,599,"Chaundee Brown made Layup. Assisted by Brandon Childress.",52,60,-8,0.0579012683688437,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+275,2,"9:37",577,577,"Marvin Bagley III made Dunk. Assisted by Grayson Allen.",52,62,-10,0.0359796953371481,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+276,2,"9:25",565,565,"Mitchell Wilbekin missed Three Point Jumper.",52,62,-10,0.0286637548681079,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+277,2,"9:25",565,565,"Marvin Bagley III Defensive Rebound.",52,62,-10,0.0286637548681079,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+278,2,"9:04",544,544,"Wendell Carter Jr missed Layup.",52,62,-10,0.0268530644640829,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+279,2,"9:04",544,544,"Marvin Bagley III Offensive Rebound.",52,62,-10,0.0268530644640829,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+280,2,"8:56",536,536,"Foul on Brandon Childress.",52,62,-10,0.0273677327669578,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+281,2,"8:56",536,536,"Marvin Bagley III made Free Throw.",52,63,-11,0.0207955013786357,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+282,2,"8:56",536,536,"Marvin Bagley III made Free Throw.",52,64,-12,0.0157759605779269,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+283,2,"8:44",524,524,"Brandon Childress Turnover.",52,64,-12,0.0196276405437443,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+284,2,"8:44",524,524,"Grayson Allen Steal.",52,64,-12,0.0196276405437443,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+285,2,"8:39",519,519,"Gary Trent Jr made Dunk. Assisted by Grayson Allen.",52,66,-14,0.0104713099689696,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+286,2,"8:21",501,501,"Brandon Childress Turnover.",52,66,-14,0.0111234218823197,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+287,2,"8:21",501,501,"Wendell Carter Jr Steal.",52,66,-14,0.0111234218823197,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+288,2,"8:13",493,493,"Gary Trent Jr missed Three Point Jumper.",52,66,-14,0.0116624002343149,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+289,2,"8:13",493,493,"Doral Moore Defensive Rebound.",52,66,-14,0.0116624002343149,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+290,2,"8:07",487,487,"Chaundee Brown made Layup.",54,66,-12,0.0165008650020888,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+291,2,"7:39",459,459,"Foul on Doral Moore.",54,66,-12,0.0103526062413951,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+292,2,"7:39",459,459,"Official TV Timeout",54,66,-12,0.0103526062413951,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+293,2,"7:39",459,459,"Marvin Bagley III missed Free Throw.",54,66,-12,0.0103526062413951,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+294,2,"7:39",459,459,"Duke Deadball Team Rebound.",54,66,-12,0.0103526062413951,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+295,2,"7:39",459,459,"Marvin Bagley III made Free Throw.",54,67,-13,0.00756110797224744,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+296,2,"7:22",442,442,"Brandon Childress made Jumper.",56,67,-11,0.0250376971485538,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+297,2,"6:52",412,412,"Foul on Terrence Thompson.",56,67,-11,0.0153089674153257,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+298,2,"6:52",412,412,"Wendell Carter Jr missed Free Throw.",56,67,-11,0.0153089674153257,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+299,2,"6:52",412,412,"Duke Deadball Team Rebound.",56,67,-11,0.0153089674153257,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+300,2,"6:52",412,412,"Wendell Carter Jr made Free Throw.",56,68,-12,0.0113712676504553,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+301,2,"6:42",402,402,"Terrence Thompson missed Jumper.",56,68,-12,0.00839226137239237,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+302,2,"6:42",402,402,"Marvin Bagley III Defensive Rebound.",56,68,-12,0.00839226137239237,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+303,2,"6:23",383,383,"Gary Trent Jr missed Three Point Jumper.",56,68,-12,0.0119344340711152,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+304,2,"6:23",383,383,"Alex O'Connell Offensive Rebound.",56,68,-12,0.0119344340711152,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+305,2,"6:23",383,383,"Alex O'Connell made Two Point Tip Shot.",56,70,-14,0.00661873409747457,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+306,2,"6:04",364,364,"Foul on Alex O'Connell.",56,70,-14,0.00551741634605423,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+307,2,"5:57",357,357,"Brandon Childress missed Three Point Jumper.",56,70,-14,0.00315633810719513,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+308,2,"5:57",357,357,"Marvin Bagley III Defensive Rebound.",56,70,-14,0.00315633810719513,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+309,2,"5:36",336,336,"Foul on Gary Trent Jr.",56,70,-14,0.00368419674794197,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+310,2,"5:36",336,336,"Gary Trent Jr Turnover.",56,70,-14,0.00368419674794197,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+311,2,"5:14",314,314,"Chaundee Brown made Jumper.",58,70,-12,0.00673566650880189,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+312,2,"4:46",286,286,"Wendell Carter Jr made Three Point Jumper. Assisted by Grayson Allen.",58,73,-15,0.00231238336676686,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+313,2,"4:22",262,262,"Brandon Childress Turnover.",58,73,-15,0.00192803343455167,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+314,2,"4:22",262,262,"Marvin Bagley III Steal.",58,73,-15,0.00192803343455167,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+315,2,"4:19",259,259,"Foul on Donovan Mitchell.",58,73,-15,0.00108924891668154,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+316,2,"4:19",259,259,"Marvin Bagley III made Free Throw.",58,74,-16,0.000714973955000985,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+317,2,"4:19",259,259,"Marvin Bagley III made Free Throw.",58,75,-17,0.000469242562014345,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+318,2,"4:11",251,251,"Brandon Childress made Three Point Jumper. Assisted by Bryant Crawford.",61,75,-14,0.0016591242448538,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+319,2,"3:47",227,227,"Foul on Brandon Childress.",61,75,-14,0.00129042869046323,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+320,2,"3:47",227,227,"Official TV Timeout",61,75,-14,0.00129042869046323,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+321,2,"3:47",227,227,"Grayson Allen made Free Throw.",61,76,-15,0.000845316968523321,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+322,2,"3:47",227,227,"Grayson Allen made Free Throw.",61,77,-16,0.000553653951154866,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+323,2,"3:31",211,211,"Bryant Crawford missed Jumper.",61,77,-16,0.000438401602109954,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+324,2,"3:31",211,211,"Marvin Bagley III Defensive Rebound.",61,77,-16,0.000438401602109954,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+325,2,"3:07",187,187,"Foul on Marvin Bagley III.",61,77,-16,0.000218578815944788,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+326,2,"3:07",187,187,"Marvin Bagley III Turnover.",61,77,-16,0.000218578815944788,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+327,2,"2:56",176,176,"Mitchell Wilbekin missed Three Point Jumper.",61,77,-16,0.000245183697012308,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+328,2,"2:56",176,176,"Doral Moore Offensive Rebound.",61,77,-16,0.000245183697012308,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+329,2,"2:53",173,173,"Doral Moore made Jumper.",63,77,-14,0.000655792414812015,"Wake Forest","Duke",3,4,0,0,-9.5,400986220,2018-01-23
+330,2,"2:27",147,147,"Duke  Timeout",63,77,-14,0.000287223701338018,"Wake Forest","Duke",3,3,0,1,-9.5,400986220,2018-01-23
+331,2,"2:18",138,138,"Foul on Doral Moore.",63,77,-14,0.000377189654108637,"Wake Forest","Duke",3,3,0,1,-9.5,400986220,2018-01-23
+332,2,"2:18",138,138,"Wendell Carter Jr missed Free Throw.",63,77,-14,0.000377189654108637,"Wake Forest","Duke",3,3,0,1,-9.5,400986220,2018-01-23
+333,2,"2:18",138,138,"Duke Deadball Team Rebound.",63,77,-14,0.000377189654108637,"Wake Forest","Duke",3,3,0,1,-9.5,400986220,2018-01-23
+334,2,"2:18",138,138,"Wendell Carter Jr made Free Throw.",63,78,-15,0.000218139519072995,"Wake Forest","Duke",3,3,0,1,-9.5,400986220,2018-01-23
+335,2,"2:09",129,129,"Brandon Childress missed Three Point Jumper.",63,78,-15,0.000107558348404754,"Wake Forest","Duke",3,3,0,1,-9.5,400986220,2018-01-23
+336,2,"2:09",129,129,"Wendell Carter Jr Defensive Rebound.",63,78,-15,0.000107558348404754,"Wake Forest","Duke",3,3,0,1,-9.5,400986220,2018-01-23
+337,2,"1:44",104,104,"Gary Trent Jr made Layup.",63,80,-17,1.34620982926628e-05,"Wake Forest","Duke",3,3,0,1,-9.5,400986220,2018-01-23
+338,2,"1:38",98,98,"Mitchell Wilbekin missed Jumper.",63,80,-17,1.58788067574473e-05,"Wake Forest","Duke",3,3,0,1,-9.5,400986220,2018-01-23
+339,2,"1:38",98,98,"Wendell Carter Jr Defensive Rebound.",63,80,-17,1.58788067574473e-05,"Wake Forest","Duke",3,3,0,1,-9.5,400986220,2018-01-23
+340,2,"1:32",92,92,"Foul on Donovan Mitchell.",63,80,-17,1.58788067574473e-05,"Wake Forest","Duke",3,3,0,1,-9.5,400986220,2018-01-23
+341,2,"1:32",92,92,"Wendell Carter Jr made Free Throw.",63,81,-18,8.46671965981058e-06,"Wake Forest","Duke",3,3,0,1,-9.5,400986220,2018-01-23
+342,2,"1:32",92,92,"Wendell Carter Jr made Free Throw.",63,82,-19,4.51451389678424e-06,"Wake Forest","Duke",3,3,0,1,-9.5,400986220,2018-01-23
+343,2,"1:21",81,81,"Chaundee Brown made Jumper.",65,82,-17,3.62263031803973e-06,"Wake Forest","Duke",3,3,0,0,-9.5,400986220,2018-01-23
+344,2,"0:53",53,53,"Gary Trent Jr missed Jumper.",65,82,-17,5.86616478401209e-07,"Wake Forest","Duke",3,3,0,0,-9.5,400986220,2018-01-23
+345,2,"0:53",53,53,"Brandon Childress Defensive Rebound.",65,82,-17,5.86616478401209e-07,"Wake Forest","Duke",3,3,0,0,-9.5,400986220,2018-01-23
+346,2,"0:47",47,47,"Bryant Crawford made Three Point Jumper. Assisted by Brandon Childress.",68,82,-14,3.58026102414688e-07,"Wake Forest","Duke",3,3,0,0,-9.5,400986220,2018-01-23
+347,2,"0:43",43,43,"Wake Forest  Timeout",68,82,-14,2.8587393120349e-06,"Wake Forest","Duke",2,3,1,0,-9.5,400986220,2018-01-23
+348,2,"0:18",18,18,"Foul on Donovan Mitchell.",68,82,-14,1.81310719039284e-07,"Wake Forest","Duke",2,3,1,0,-9.5,400986220,2018-01-23
+349,2,"0:18",18,18,"Gary Trent Jr made Free Throw.",68,83,-15,6.2500432050439e-08,"Wake Forest","Duke",2,3,1,0,-9.5,400986220,2018-01-23
+350,2,"0:18",18,18,"Gary Trent Jr made Free Throw.",68,84,-16,2.15448028835029e-08,"Wake Forest","Duke",2,3,1,0,-9.5,400986220,2018-01-23
+351,2,"0:03",3,3,"Foul on Javin DeLaurier.",68,84,-16,1.39297691841366e-13,"Wake Forest","Duke",2,3,1,0,-9.5,400986220,2018-01-23
+352,2,"0:03",3,3,"Olivier Sarr made Free Throw.",69,84,-15,7.80144224476192e-13,"Wake Forest","Duke",2,3,1,0,-9.5,400986220,2018-01-23
+353,2,"0:03",3,3,"Olivier Sarr made Free Throw.",70,84,-14,4.36923974070491e-12,"Wake Forest","Duke",2,3,1,0,-9.5,400986220,2018-01-23
+354,2,"0:00",0,0,"End of Game",70,84,-14,2.23571103691922e-118,"Wake Forest","Duke",2,3,1,0,-9.5,400986220,2018-01-23

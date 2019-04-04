@@ -1,0 +1,330 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.927603036110929,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+2,1,"19:31",2371,2371,"Kevin Scott Turnover.",0,0,0,0.919881159928683,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+3,1,"19:30",2370,2370,"Elijah Thomas Steal.",0,0,0,0.919881159928683,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+4,1,"19:00",2340,2340,"Clemson  Turnover.",0,0,0,0.91386204845524,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+5,1,"18:40",2320,2320,"Derrick Bruce missed Three Point Jumper.",0,0,0,0.917407379866253,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+6,1,"18:40",2320,2320,"Marcquise Reed Defensive Rebound.",0,0,0,0.917407379866253,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+7,1,"18:31",2311,2311,"Shelton Mitchell missed Three Point Jumper.",0,0,0,0.907374523209328,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+8,1,"18:31",2311,2311,"Donte Clark Defensive Rebound.",0,0,0,0.907374523209328,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+9,1,"18:03",2283,2283,"Kevin Scott made Layup.",0,2,-2,0.894669182054784,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+10,1,"18:03",2283,2283,"Foul on Marcquise Reed.",0,2,-2,0.894669182054784,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+11,1,"18:03",2283,2283,"Kevin Scott made Free Throw.",0,3,-3,0.884372817137563,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+12,1,"17:45",2265,2265,"Elijah Thomas made Jumper.",2,3,-1,0.910025653641361,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+13,1,"17:31",2251,2251,"Kevin Scott missed Layup.",2,3,-1,0.900793370549898,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+14,1,"17:31",2251,2251,"Elijah Thomas Block.",2,3,-1,0.900793370549898,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+15,1,"17:31",2251,2251,"Texas Southern Offensive Rebound.",2,3,-1,0.900793370549898,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+16,1,"17:21",2241,2241,"Donte Clark missed Three Point Jumper.",2,3,-1,0.894497696673741,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+17,1,"17:21",2241,2241,"Trayvon Reed Offensive Rebound.",2,3,-1,0.894497696673741,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+18,1,"17:16",2236,2236,"Foul on Marcquise Reed.",2,3,-1,0.904032917090361,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+19,1,"17:10",2230,2230,"Donte Clark made Layup.",2,5,-3,0.882777400461999,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+20,1,"16:54",2214,2214,"Donte Grantham Turnover.",2,5,-3,0.870064025836142,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+21,1,"16:53",2213,2213,"Demontrae Jefferson Steal.",2,5,-3,0.870064025836142,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+22,1,"16:37",2197,2197,"Kevin Scott missed Layup.",2,5,-3,0.886189515369771,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+23,1,"16:37",2197,2197,"Elijah Thomas Block.",2,5,-3,0.886189515369771,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+24,1,"16:36",2196,2196,"Donte Grantham Defensive Rebound.",2,5,-3,0.886189515369771,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+25,1,"16:32",2192,2192,"Donte Grantham Turnover.",2,5,-3,0.886189515369771,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+26,1,"16:15",2175,2175,"Trayvon Reed made Layup. Assisted by Demontrae Jefferson.",2,7,-5,0.852322007242034,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+27,1,"16:14",2174,2174,"Foul on Gabe DeVoe.",2,7,-5,0.852322007242034,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+28,1,"16:14",2174,2174,"Trayvon Reed made Free Throw.",2,8,-6,0.838118752532169,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+29,1,"15:56",2156,2156,"Shelton Mitchell made Jumper.",4,8,-4,0.859405474461156,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+30,1,"15:27",2127,2127,"Donte Clark missed Layup.",4,8,-4,0.860841188145363,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+31,1,"15:27",2127,2127,"Clyde Trapp Defensive Rebound.",4,8,-4,0.860841188145363,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+32,1,"15:18",2118,2118,"Shelton Mitchell missed Three Point Jumper.",4,8,-4,0.871848948370808,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+33,1,"15:18",2118,2118,"Kevin Scott Defensive Rebound.",4,8,-4,0.871848948370808,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+34,1,"14:49",2089,2089,"Donte Clark missed Three Point Jumper.",4,8,-4,0.858081904167303,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+35,1,"14:49",2089,2089,"Elijah Thomas Defensive Rebound.",4,8,-4,0.858081904167303,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+36,1,"14:43",2083,2083,"Shelton Mitchell made Layup.",6,8,-2,0.882810381072679,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+37,1,"14:43",2083,2083,"Foul on Derrick Bruce.",6,8,-2,0.882810381072679,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+38,1,"14:43",2083,2083,"Official TV Timeout",6,8,-2,0.882810381072679,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+39,1,"14:43",2083,2083,"Shelton Mitchell made Free Throw.",7,8,-1,0.893713880126222,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+40,1,"14:19",2059,2059,"Trayvon Reed Turnover.",7,8,-1,0.904991838252579,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+41,1,"13:57",2037,2037,"Elijah Thomas missed Layup.",7,8,-1,0.907611359561886,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+42,1,"13:57",2037,2037,"Derrick Bruce Defensive Rebound.",7,8,-1,0.907611359561886,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+43,1,"13:48",2028,2028,"Demontrae Jefferson missed Three Point Jumper.",7,8,-1,0.893881460531563,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+44,1,"13:48",2028,2028,"Clyde Trapp Defensive Rebound.",7,8,-1,0.893881460531563,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+45,1,"13:36",2016,2016,"Foul on Trayvon Reed.",7,8,-1,0.895846901692392,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+46,1,"13:25",2005,2005,"Elijah Thomas made Dunk. Assisted by Donte Grantham.",9,8,1,0.911193222343799,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+47,1,"13:08",1988,1988,"Derrick Bruce made Jumper.",9,10,-1,0.88004525783778,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+48,1,"12:47",1967,1967,"Shelton Mitchell Turnover.",9,10,-1,0.894866721187515,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+49,1,"12:34",1954,1954,"Foul on Anthony Oliver II.",9,10,-1,0.887551713047716,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+50,1,"12:33",1953,1953,"Trayvon Reed missed Three Point Jumper.",9,10,-1,0.887551713047716,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+51,1,"12:33",1953,1953,"Elijah Thomas Defensive Rebound.",9,10,-1,0.887551713047716,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+52,1,"12:20",1940,1940,"Elijah Thomas made Jumper. Assisted by Donte Grantham.",11,10,1,0.91149071469609,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+53,1,"12:01",1921,1921,"Derrick Bruce made Three Point Jumper. Assisted by Donte Clark.",11,13,-2,0.884671505523317,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+54,1,"11:45",1905,1905,"Elijah Thomas made Layup. Assisted by Shelton Mitchell.",13,13,0,0.903445251065088,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+55,1,"11:28",1888,1888,"Demontrae Jefferson made Layup.",13,15,-2,0.87832286047432,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+56,1,"11:11",1871,1871,"Clyde Trapp missed Three Point Jumper.",13,15,-2,0.872537768850365,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+57,1,"11:11",1871,1871,"Derrick Bruce Defensive Rebound.",13,15,-2,0.872537768850365,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+58,1,"10:58",1858,1858,"Foul on Anthony Oliver II.",13,15,-2,0.870833829974732,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+59,1,"10:58",1858,1858,"Official TV Timeout",13,15,-2,0.870833829974732,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+60,1,"10:58",1858,1858,"Robert Lewis made Free Throw.",13,16,-3,0.855741687236366,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+61,1,"10:58",1858,1858,"Robert Lewis made Free Throw.",13,17,-4,0.839211726394365,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+62,1,"10:42",1842,1842,"Foul on Marquis Salmon.",13,17,-4,0.839258714595489,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+63,1,"10:42",1842,1842,"Shelton Mitchell missed Free Throw.",13,17,-4,0.839258714595489,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+64,1,"10:42",1842,1842,"Clemson Deadball Team Rebound.",13,17,-4,0.839258714595489,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+65,1,"10:42",1842,1842,"Shelton Mitchell made Free Throw.",14,17,-3,0.855274034301257,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+66,1,"10:20",1820,1820,"Marquis Salmon made Layup. Assisted by Demontrae Jefferson.",14,19,-5,0.843371747885893,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+67,1,"10:05",1805,1805,"Donte Grantham Turnover.",14,19,-5,0.820146736106381,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+68,1,"10:05",1805,1805,"Foul on Donte Grantham.",14,19,-5,0.820146736106381,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+69,1,"9:49",1789,1789,"Derrick Bruce missed Three Point Jumper.",14,19,-5,0.785147697257818,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+70,1,"9:49",1789,1789,"Gabe DeVoe Defensive Rebound.",14,19,-5,0.785147697257818,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+71,1,"9:41",1781,1781,"Mark Donnal made Three Point Jumper. Assisted by Clyde Trapp.",17,19,-2,0.846940039290102,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+72,1,"9:22",1762,1762,"Demontrae Jefferson made Three Point Jumper. Assisted by Derrick Bruce.",17,22,-5,0.830397021475645,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+73,1,"8:55",1735,1735,"Shelton Mitchell missed Three Point Jumper.",17,22,-5,0.808843284200043,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+74,1,"8:55",1735,1735,"Mark Donnal Offensive Rebound.",17,22,-5,0.808843284200043,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+75,1,"8:31",1711,1711,"Shelton Mitchell made Layup.",19,22,-3,0.858764008364364,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+76,1,"8:11",1691,1691,"Robert Lewis missed Three Point Jumper.",19,22,-3,0.836328743640032,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+77,1,"8:11",1691,1691,"Mark Donnal Defensive Rebound.",19,22,-3,0.836328743640032,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+78,1,"8:00",1680,1680,"Gabe DeVoe made Three Point Jumper. Assisted by Shelton Mitchell.",22,22,0,0.899320059618128,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+79,1,"7:37",1657,1657,"Kevin Scott made Three Point Jumper. Assisted by Robert Lewis.",22,25,-3,0.83779731259854,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+80,1,"7:09",1629,1629,"Scott Spencer missed Three Point Jumper.",22,25,-3,0.83717817892572,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+81,1,"7:09",1629,1629,"Robert Lewis Defensive Rebound.",22,25,-3,0.83717817892572,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+82,1,"6:47",1607,1607,"Kevin Scott Turnover.",22,25,-3,0.846432753989001,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+83,1,"6:47",1607,1607,"Foul on Kevin Scott.",22,25,-3,0.846432753989001,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+84,1,"6:47",1607,1607,"Official TV Timeout",22,25,-3,0.846432753989001,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+85,1,"6:35",1595,1595,"Gabe DeVoe made Three Point Jumper.",25,25,0,0.881829713184343,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+86,1,"6:13",1573,1573,"Foul on Clyde Trapp.",25,25,0,0.887305401948784,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+87,1,"6:13",1573,1573,"Demontrae Jefferson made Free Throw.",25,26,-1,0.870836061078818,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+88,1,"6:13",1573,1573,"Demontrae Jefferson made Free Throw.",25,27,-2,0.85236034699592,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+89,1,"5:48",1548,1548,"Elijah Thomas made Jumper.",27,27,0,0.888665362798462,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+90,1,"5:22",1522,1522,"Derrick Bruce Turnover.",27,27,0,0.878871973267822,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+91,1,"5:21",1521,1521,"Donte Grantham Steal.",27,27,0,0.878871973267822,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+92,1,"5:16",1516,1516,"Marcquise Reed missed Layup.",27,27,0,0.883244149074466,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+93,1,"5:16",1516,1516,"Trayvon Reed Defensive Rebound.",27,27,0,0.883244149074466,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+94,1,"4:47",1487,1487,"Derrick Bruce made Jumper.",27,29,-2,0.841834852124488,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+95,1,"4:31",1471,1471,"Gabe DeVoe made Three Point Jumper. Assisted by Shelton Mitchell.",30,29,1,0.909557087684799,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+96,1,"4:08",1448,1448,"Demontrae Jefferson missed Three Point Jumper.",30,29,1,0.899475736982011,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+97,1,"4:08",1448,1448,"Gabe DeVoe Defensive Rebound.",30,29,1,0.899475736982011,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+98,1,"3:55",1435,1435,"Elijah Thomas made Layup. Assisted by Gabe DeVoe.",32,29,3,0.913493846257141,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+99,1,"3:53",1433,1433,"Texas Southern  Timeout",32,29,3,0.913493846257141,"Clemson","Texas Southern",3,4,1,0,24.6,400986314,2017-11-24
+100,1,"3:40",1420,1420,"Derrick Bruce missed Three Point Jumper.",32,29,3,0.908122460693856,"Clemson","Texas Southern",3,4,1,0,24.6,400986314,2017-11-24
+101,1,"3:40",1420,1420,"Shelton Mitchell Defensive Rebound.",32,29,3,0.908122460693856,"Clemson","Texas Southern",3,4,1,0,24.6,400986314,2017-11-24
+102,1,"3:30",1410,1410,"Shelton Mitchell Turnover.",32,29,3,0.909300392372758,"Clemson","Texas Southern",3,4,1,0,24.6,400986314,2017-11-24
+103,1,"3:14",1394,1394,"Derrick Bruce Turnover.",32,29,3,0.925165345686708,"Clemson","Texas Southern",3,4,1,0,24.6,400986314,2017-11-24
+104,1,"3:02",1382,1382,"Gabe DeVoe made Jumper.",34,29,5,0.93867098208648,"Clemson","Texas Southern",3,4,1,0,24.6,400986314,2017-11-24
+105,1,"2:35",1355,1355,"Trayvon Reed made Dunk. Assisted by Derrick Bruce.",34,31,3,0.918753046675445,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+106,1,"2:08",1328,1328,"Donte Grantham missed Jumper.",34,31,3,0.914793932507761,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+107,1,"2:08",1328,1328,"Elijah Thomas Offensive Rebound.",34,31,3,0.914793932507761,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+108,1,"2:07",1327,1327,"Foul on Kevin Scott.",34,31,3,0.914793932507761,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+109,1,"2:07",1327,1327,"Elijah Thomas missed Free Throw.",34,31,3,0.914793932507761,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+110,1,"2:07",1327,1327,"Clemson Deadball Team Rebound.",34,31,3,0.914793932507761,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+111,1,"2:07",1327,1327,"Elijah Thomas made Free Throw.",35,31,4,0.926302463193912,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+112,1,"1:45",1305,1305,"Donte Clark missed Jumper.",35,31,4,0.915247023154188,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+113,1,"1:42",1302,1302,"Elijah Thomas Block.",35,31,4,0.915247023154188,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+114,1,"1:41",1301,1301,"Elijah Thomas Defensive Rebound.",35,31,4,0.915247023154188,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+115,1,"1:33",1293,1293,"Shelton Mitchell Turnover.",35,31,4,0.923580122180316,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+116,1,"1:32",1292,1292,"Derrick Bruce Steal.",35,31,4,0.923580122180316,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+117,1,"1:31",1291,1291,"Foul on Gabe DeVoe.",35,31,4,0.923580122180316,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+118,1,"1:31",1291,1291,"Derrick Bruce made Free Throw.",35,32,3,0.910892649214521,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+119,1,"1:31",1291,1291,"Derrick Bruce made Free Throw.",35,33,2,0.89633519031051,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+120,1,"1:16",1276,1276,"Marcquise Reed missed Jumper.",35,33,2,0.894234125051248,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+121,1,"1:16",1276,1276,"Derrick Bruce Defensive Rebound.",35,33,2,0.894234125051248,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+122,1,"1:10",1270,1270,"Demontrae Jefferson missed Three Point Jumper.",35,33,2,0.894234125051248,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+123,1,"1:10",1270,1270,"Elijah Thomas Defensive Rebound.",35,33,2,0.894234125051248,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+124,1,"1:00",1260,1260,"Gabe DeVoe made Three Point Jumper.",38,33,5,0.940976661750156,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+125,1,"0:37",1237,1237,"Robert Lewis Turnover.",38,33,5,0.929038447932031,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+126,1,"0:37",1237,1237,"Clyde Trapp Steal.",38,33,5,0.929038447932031,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+127,1,"0:33",1233,1233,"Donte Grantham made Dunk. Assisted by Clyde Trapp.",40,33,7,0.94755036538167,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+128,1,"0:28",1228,1228,"Trayvon Reed made Dunk. Assisted by Demontrae Jefferson.",40,35,5,0.9366118993111,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+129,1,"0:28",1228,1228,"Foul on Clyde Trapp.",40,35,5,0.9366118993111,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+130,1,"0:28",1228,1228,"Trayvon Reed made Free Throw.",40,36,4,0.925822607419034,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+131,1,"0:20",1220,1220,"Clemson  Timeout",40,36,4,0.925822607419034,"Clemson","Texas Southern",3,3,0,1,24.6,400986314,2017-11-24
+132,1,"0:02",1202,1202,"Shelton Mitchell Turnover.",40,36,4,0.922811637190511,"Clemson","Texas Southern",3,3,0,1,24.6,400986314,2017-11-24
+133,1,"0:01",1201,1201,"Marquis Salmon Steal.",40,36,4,0.922811637190511,"Clemson","Texas Southern",3,3,0,1,24.6,400986314,2017-11-24
+134,1,"0:00",1200,1200,"End of 1st half",40,36,4,0.922811637190511,"Clemson","Texas Southern",3,3,0,1,24.6,400986314,2017-11-24
+135,2,"20:00",1200,1200,"PLAY",40,36,4,0.922811637190511,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+136,2,"19:40",1180,1180,"Kevin Scott missed Layup.",40,36,4,0.925244576809648,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+137,2,"19:40",1180,1180,"Kevin Scott Offensive Rebound.",40,36,4,0.925244576809648,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+138,2,"19:38",1178,1178,"Kevin Scott made Layup.",40,38,2,0.888136669758692,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+139,2,"19:21",1161,1161,"Gabe DeVoe made Layup.",42,38,4,0.923516299713272,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+140,2,"19:07",1147,1147,"Derrick Bruce missed Three Point Jumper.",42,38,4,0.915750102815988,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+141,2,"19:07",1147,1147,"Elijah Thomas Defensive Rebound.",42,38,4,0.915750102815988,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+142,2,"18:45",1125,1125,"Gabe DeVoe missed Jumper.",42,38,4,0.925603237679323,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+143,2,"18:45",1125,1125,"Trayvon Reed Defensive Rebound.",42,38,4,0.925603237679323,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+144,2,"18:37",1117,1117,"Demontrae Jefferson missed Jumper.",42,38,4,0.916809640334997,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+145,2,"18:37",1117,1117,"Elijah Thomas Defensive Rebound.",42,38,4,0.916809640334997,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+146,2,"18:27",1107,1107,"Donte Grantham missed Three Point Jumper.",42,38,4,0.923880081237442,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+147,2,"18:27",1107,1107,"Derrick Bruce Defensive Rebound.",42,38,4,0.923880081237442,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+148,2,"17:59",1079,1079,"Donte Clark missed Jumper.",42,38,4,0.915410584877271,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+149,2,"17:59",1079,1079,"Donte Clark Offensive Rebound.",42,38,4,0.915410584877271,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+150,2,"17:56",1076,1076,"Donte Clark made Jumper.",42,40,2,0.885414216521519,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+151,2,"17:41",1061,1061,"Foul on Demontrae Jefferson.",42,40,2,0.886359260598985,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+152,2,"17:34",1054,1054,"Marcquise Reed missed Layup.",42,40,2,0.893186727897204,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+153,2,"17:34",1054,1054,"Derrick Bruce Block.",42,40,2,0.893186727897204,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+154,2,"17:34",1054,1054,"Clemson Offensive Rebound.",42,40,2,0.893186727897204,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+155,2,"17:27",1047,1047,"Elijah Thomas Turnover.",42,40,2,0.896904629779285,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+156,2,"17:13",1033,1033,"Donte Clark missed Three Point Jumper.",42,40,2,0.889698009661036,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+157,2,"17:13",1033,1033,"Donte Grantham Defensive Rebound.",42,40,2,0.889698009661036,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+158,2,"17:01",1021,1021,"Marcquise Reed missed Jumper.",42,40,2,0.891072611528139,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+159,2,"17:01",1021,1021,"Elijah Thomas Offensive Rebound.",42,40,2,0.891072611528139,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+160,2,"17:00",1020,1020,"Elijah Thomas made Layup.",44,40,4,0.921320822074147,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+161,2,"16:39",999,999,"Kevin Scott missed Three Point Jumper.",44,40,4,0.914700623864181,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+162,2,"16:39",999,999,"Donte Grantham Defensive Rebound.",44,40,4,0.914700623864181,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+163,2,"16:32",992,992,"Shelton Mitchell made Layup. Assisted by Donte Grantham.",46,40,6,0.938740684395964,"Clemson","Texas Southern",4,4,0,0,24.6,400986314,2017-11-24
+164,2,"16:31",991,991,"Texas Southern  Timeout",46,40,6,0.938740684395964,"Clemson","Texas Southern",3,4,1,0,24.6,400986314,2017-11-24
+165,2,"16:14",974,974,"Donte Clark made Jumper. Assisted by Trayvon Reed.",46,42,4,0.92214321486525,"Clemson","Texas Southern",3,4,1,0,24.6,400986314,2017-11-24
+166,2,"15:42",942,942,"Gabe DeVoe Turnover.",46,42,4,0.927063048478456,"Clemson","Texas Southern",3,4,1,0,24.6,400986314,2017-11-24
+167,2,"15:41",941,941,"Kevin Scott Steal.",46,42,4,0.927063048478456,"Clemson","Texas Southern",3,4,1,0,24.6,400986314,2017-11-24
+168,2,"15:36",936,936,"Kevin Scott missed Jumper.",46,42,4,0.91618551131795,"Clemson","Texas Southern",3,4,1,0,24.6,400986314,2017-11-24
+169,2,"15:36",936,936,"Marcquise Reed Defensive Rebound.",46,42,4,0.91618551131795,"Clemson","Texas Southern",3,4,1,0,24.6,400986314,2017-11-24
+170,2,"15:26",926,926,"Marcquise Reed missed Three Point Jumper.",46,42,4,0.908482410544036,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+171,2,"15:26",926,926,"Elijah Thomas Offensive Rebound.",46,42,4,0.908482410544036,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+172,2,"15:22",922,922,"Foul on Derrick Bruce.",46,42,4,0.908482410544036,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+173,2,"15:22",922,922,"Official TV Timeout",46,42,4,0.908482410544036,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+174,2,"15:02",902,902,"Foul on Derrick Bruce.",46,42,4,0.913209458974777,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+175,2,"15:00",900,900,"Gabe DeVoe made Layup. Assisted by Clyde Trapp.",48,42,6,0.939124037426498,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+176,2,"14:28",868,868,"Donte Clark missed Three Point Jumper.",48,42,6,0.940210073663485,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+177,2,"14:28",868,868,"Marcquise Reed Defensive Rebound.",48,42,6,0.940210073663485,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+178,2,"14:25",865,865,"Elijah Thomas made Dunk. Assisted by Marcquise Reed.",50,42,8,0.958451119890279,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+179,2,"14:14",854,854,"Trayvon Reed Turnover.",50,42,8,0.963374588737101,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+180,2,"14:14",854,854,"Foul on Trayvon Reed.",50,42,8,0.963374588737101,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+181,2,"13:58",838,838,"Gabe DeVoe made Three Point Jumper. Assisted by Marcquise Reed.",53,42,11,0.982473023450384,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+182,2,"13:46",826,826,"Donte Clark made Layup.",53,44,9,0.966015823483857,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+183,2,"13:35",815,815,"Marcquise Reed missed Three Point Jumper.",53,44,9,0.968251265239985,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+184,2,"13:35",815,815,"Trayvon Reed Defensive Rebound.",53,44,9,0.968251265239985,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+185,2,"13:28",808,808,"Foul on Gabe DeVoe.",53,44,9,0.971350266117847,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+186,2,"13:23",803,803,"Foul on Donte Grantham.",53,44,9,0.971350266117847,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+187,2,"13:12",792,792,"Demontrae Jefferson made Three Point Jumper.",53,47,6,0.94674561893404,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+188,2,"12:53",773,773,"Donte Grantham made Jumper.",55,47,8,0.962918371381602,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+189,2,"12:27",747,747,"Cainan McClelland missed Three Point Jumper.",55,47,8,0.964913730641,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+190,2,"12:27",747,747,"Donte Grantham Defensive Rebound.",55,47,8,0.964913730641,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+191,2,"12:24",744,744,"Donte Grantham made Dunk. Assisted by Marcquise Reed.",57,47,10,0.977249403224508,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+192,2,"12:11",731,731,"Foul on Donte Grantham.",57,47,10,0.972151436699615,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+193,2,"12:07",727,727,"Derrick Bruce missed Jumper.",57,47,10,0.976865698085348,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+194,2,"12:07",727,727,"Clyde Trapp Defensive Rebound.",57,47,10,0.976865698085348,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+195,2,"11:57",717,717,"Clyde Trapp Turnover.",57,47,10,0.976233220330877,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+196,2,"11:57",717,717,"Official TV Timeout",57,47,10,0.976233220330877,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+197,2,"11:45",705,705,"Donte Clark missed Jumper.",57,47,10,0.972350303757128,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+198,2,"11:45",705,705,"Trayvon Reed Offensive Rebound.",57,47,10,0.972350303757128,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+199,2,"11:39",699,699,"Foul on Clyde Trapp.",57,47,10,0.982924764008539,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+200,2,"11:34",694,694,"Trayvon Reed Turnover.",57,47,10,0.982924764008539,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+201,2,"11:34",694,694,"Foul on Trayvon Reed.",57,47,10,0.982924764008539,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+202,2,"11:17",677,677,"Foul on Derrick Bruce.",57,47,10,0.978567220431125,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+203,2,"11:04",664,664,"Anthony Oliver II missed Three Point Jumper.",57,47,10,0.976298284033467,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+204,2,"11:04",664,664,"Cainan McClelland Defensive Rebound.",57,47,10,0.976298284033467,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+205,2,"10:57",657,657,"Cainan McClelland Turnover.",57,47,10,0.97903474024654,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+206,2,"10:57",657,657,"Foul on Cainan McClelland.",57,47,10,0.97903474024654,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+207,2,"10:42",642,642,"Scott Spencer made Jumper.",59,47,12,0.986748374566419,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+208,2,"10:19",619,619,"Derrick Bruce missed Three Point Jumper.",59,47,12,0.987619628207961,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+209,2,"10:19",619,619,"Elijah Thomas Defensive Rebound.",59,47,12,0.987619628207961,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+210,2,"10:09",609,609,"Clyde Trapp made Three Point Jumper.",62,47,15,0.99424481803607,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+211,2,"9:47",587,587,"Derrick Bruce made Three Point Jumper. Assisted by Robert Lewis.",62,50,12,0.985466659089913,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+212,2,"9:20",560,560,"Scott Spencer missed Three Point Jumper.",62,50,12,0.990639306743004,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+213,2,"9:20",560,560,"Anthony Oliver II Offensive Rebound.",62,50,12,0.990639306743004,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+214,2,"9:06",546,546,"Marcquise Reed made Layup.",64,50,14,0.993470728422965,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+215,2,"9:06",546,546,"Foul on Derrick Bruce.",64,50,14,0.993470728422965,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+216,2,"9:05",545,545,"Marcquise Reed made Free Throw.",65,50,15,0.994998112218729,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+217,2,"8:57",537,537,"Demontrae Jefferson missed Layup.",65,50,15,0.996647563415786,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+218,2,"8:57",537,537,"Elijah Thomas Defensive Rebound.",65,50,15,0.996647563415786,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+219,2,"8:31",511,511,"Scott Spencer Turnover.",65,50,15,0.994912178593935,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+220,2,"8:31",511,511,"Foul on Scott Spencer.",65,50,15,0.994912178593935,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+221,2,"8:13",493,493,"Divonte Lumpkin missed Layup.",65,50,15,0.995484931666521,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+222,2,"8:13",493,493,"Trayvon Reed Offensive Rebound.",65,50,15,0.995484931666521,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+223,2,"8:09",489,489,"Trayvon Reed missed Layup.",65,50,15,0.995541150715022,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+224,2,"8:09",489,489,"Trayvon Reed Offensive Rebound.",65,50,15,0.995541150715022,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+225,2,"8:05",485,485,"Trayvon Reed missed Layup.",65,50,15,0.995541150715022,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+226,2,"8:05",485,485,"Elijah Thomas Block.",65,50,15,0.995541150715022,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+227,2,"8:03",483,483,"Anthony Oliver II Defensive Rebound.",65,50,15,0.995541150715022,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+228,2,"7:56",476,476,"Marcquise Reed missed Layup.",65,50,15,0.996710449851702,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+229,2,"7:56",476,476,"Trayvon Reed Block.",65,50,15,0.996710449851702,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+230,2,"7:56",476,476,"Donte Clark Defensive Rebound.",65,50,15,0.996710449851702,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+231,2,"7:43",463,463,"Demontrae Jefferson missed Three Point Jumper.",65,50,15,0.996080589177246,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+232,2,"7:43",463,463,"Trayvon Reed Offensive Rebound.",65,50,15,0.996080589177246,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+233,2,"7:41",461,461,"Foul on Scott Spencer.",65,50,15,0.996080589177246,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+234,2,"7:41",461,461,"Official TV Timeout",65,50,15,0.996080589177246,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+235,2,"7:16",436,436,"Donte Clark missed Layup.",65,50,15,0.99745729367839,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+236,2,"7:16",436,436,"Trayvon Reed Offensive Rebound.",65,50,15,0.99745729367839,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+237,2,"7:16",436,436,"Foul on Elijah Thomas.",65,50,15,0.99745729367839,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+238,2,"7:16",436,436,"Trayvon Reed made Free Throw.",65,51,14,0.996544647523997,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+239,2,"7:16",436,436,"Trayvon Reed made Free Throw.",65,52,13,0.995305969510014,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+240,2,"6:57",417,417,"Donte Grantham made Layup.",67,52,15,0.99699473055886,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+241,2,"6:42",402,402,"Demontrae Jefferson made Jumper.",67,54,13,0.995795649076864,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+242,2,"6:12",372,372,"Elijah Thomas made Jumper.",69,54,15,0.997119754800465,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+243,2,"5:43",343,343,"Foul on Marcquise Reed.",69,54,15,0.997726735097065,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+244,2,"5:43",343,343,"Demontrae Jefferson missed Free Throw.",69,54,15,0.997726735097065,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+245,2,"5:43",343,343,"Elijah Thomas Defensive Rebound.",69,54,15,0.997726735097065,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+246,2,"5:21",321,321,"Marcquise Reed missed Three Point Jumper.",69,54,15,0.997450426570571,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+247,2,"5:21",321,321,"Elijah Thomas Offensive Rebound.",69,54,15,0.997450426570571,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+248,2,"5:16",316,316,"Foul on Trayvon Reed.",69,54,15,0.998582858358491,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+249,2,"5:16",316,316,"Elijah Thomas made Free Throw.",70,54,16,0.999017388547332,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+250,2,"5:16",316,316,"Elijah Thomas made Free Throw.",71,54,17,0.99931877207681,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+251,2,"5:01",301,301,"Kevin Scott missed Three Point Jumper.",71,54,17,0.998874193990181,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+252,2,"5:01",301,301,"Elijah Thomas Defensive Rebound.",71,54,17,0.998874193990181,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+253,2,"4:46",286,286,"Marcquise Reed Turnover.",71,54,17,0.999181935676114,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+254,2,"4:37",277,277,"Kevin Scott made Layup.",71,56,15,0.999003250817727,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+255,2,"4:27",267,267,"Foul on Kevin Scott.",71,56,15,0.998762500183952,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+256,2,"4:27",267,267,"Clyde Trapp made Free Throw.",72,56,16,0.999147663680449,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+257,2,"4:27",267,267,"Clyde Trapp made Free Throw.",73,56,17,0.999413018082908,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+258,2,"4:21",261,261,"Demontrae Jefferson made Three Point Jumper.",73,59,14,0.998203597530341,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+259,2,"4:05",245,245,"Elijah Thomas Turnover.",73,59,14,0.998719005015675,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+260,2,"4:04",244,244,"Kevin Scott Steal.",73,59,14,0.998719005015675,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+261,2,"4:02",242,242,"Demontrae Jefferson made Three Point Jumper. Assisted by Kevin Scott.",73,62,11,0.995702491191396,"Clemson","Texas Southern",3,4,0,0,24.6,400986314,2017-11-24
+262,2,"3:58",238,238,"Clemson  Timeout",73,62,11,0.995630093310583,"Clemson","Texas Southern",3,3,0,1,24.6,400986314,2017-11-24
+263,2,"3:51",231,231,"Clemson  Timeout",73,62,11,0.995630093310583,"Clemson","Texas Southern",3,2,0,1,24.6,400986314,2017-11-24
+264,2,"3:45",225,225,"Elijah Thomas Turnover.",73,62,11,0.997266549553289,"Clemson","Texas Southern",3,2,0,1,24.6,400986314,2017-11-24
+265,2,"3:45",225,225,"Foul on Elijah Thomas.",73,62,11,0.997266549553289,"Clemson","Texas Southern",3,2,0,1,24.6,400986314,2017-11-24
+266,2,"3:28",208,208,"Demontrae Jefferson missed Jumper.",73,62,11,0.997901194842423,"Clemson","Texas Southern",3,2,0,1,24.6,400986314,2017-11-24
+267,2,"3:28",208,208,"Elijah Thomas Defensive Rebound.",73,62,11,0.997901194842423,"Clemson","Texas Southern",3,2,0,1,24.6,400986314,2017-11-24
+268,2,"3:25",205,205,"Foul on Marquis Salmon.",73,62,11,0.997901194842423,"Clemson","Texas Southern",3,2,0,1,24.6,400986314,2017-11-24
+269,2,"3:25",205,205,"Elijah Thomas made Free Throw.",74,62,12,0.998663442622464,"Clemson","Texas Southern",3,2,0,1,24.6,400986314,2017-11-24
+270,2,"3:25",205,205,"Elijah Thomas missed Free Throw.",74,62,12,0.998663442622464,"Clemson","Texas Southern",3,2,0,1,24.6,400986314,2017-11-24
+271,2,"3:25",205,205,"Kevin Scott Defensive Rebound.",74,62,12,0.998663442622464,"Clemson","Texas Southern",3,2,0,1,24.6,400986314,2017-11-24
+272,2,"3:06",186,186,"Demontrae Jefferson Turnover.",74,62,12,0.998768347400523,"Clemson","Texas Southern",3,2,0,1,24.6,400986314,2017-11-24
+273,2,"2:58",178,178,"Foul on Marquis Salmon.",74,62,12,0.998972135005755,"Clemson","Texas Southern",3,2,0,1,24.6,400986314,2017-11-24
+274,2,"2:58",178,178,"Elijah Thomas made Free Throw.",75,62,13,0.999371387504137,"Clemson","Texas Southern",3,2,0,1,24.6,400986314,2017-11-24
+275,2,"2:58",178,178,"Elijah Thomas made Free Throw.",76,62,14,0.999615618454056,"Clemson","Texas Southern",3,2,0,1,24.6,400986314,2017-11-24
+276,2,"2:50",170,170,"Foul on Elijah Thomas.",76,62,14,0.999615618454056,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+277,2,"2:50",170,170,"Kevin Scott made Free Throw.",76,63,13,0.999371387504137,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+278,2,"2:50",170,170,"Kevin Scott made Free Throw.",76,64,12,0.998972135005755,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+279,2,"2:47",167,167,"Foul on Demontrae Jefferson.",76,64,12,0.999419506903619,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+280,2,"2:47",167,167,"Marcquise Reed made Free Throw.",77,64,13,0.999652659591539,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+281,2,"2:47",167,167,"Marcquise Reed made Free Throw.",78,64,14,0.999792186923866,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+282,2,"2:38",158,158,"Kevin Scott made Layup.",78,66,12,0.999350080156971,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+283,2,"2:24",144,144,"Foul on Kevin Scott.",78,66,12,0.999305498874132,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+284,2,"2:24",144,144,"Donte Grantham made Free Throw.",79,66,13,0.999586221323053,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+285,2,"2:24",144,144,"Donte Grantham missed Free Throw.",79,66,13,0.999586221323053,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+286,2,"2:24",144,144,"Kevin Scott Defensive Rebound.",79,66,13,0.999586221323053,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+287,2,"2:11",131,131,"Demontrae Jefferson missed Three Point Jumper.",79,66,13,0.999664006233668,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+288,2,"2:11",131,131,"Marquis Salmon Offensive Rebound.",79,66,13,0.999664006233668,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+289,2,"2:08",128,128,"Foul on Elijah Thomas.",79,66,13,0.999713620208568,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+290,2,"2:08",128,128,"Marquis Salmon made Free Throw.",79,67,12,0.999495478482964,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+291,2,"2:08",128,128,"Marquis Salmon made Free Throw.",79,68,11,0.999111321161103,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+292,2,"1:52",112,112,"Marcquise Reed Turnover.",79,68,11,0.999440511786437,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+293,2,"1:51",111,111,"Marquis Salmon Steal.",79,68,11,0.999440511786437,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+294,2,"1:49",109,109,"Foul on Marcquise Reed.",79,68,11,0.999471327514986,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+295,2,"1:49",109,109,"Marquis Salmon made Free Throw.",79,69,10,0.999018599752243,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+296,2,"1:49",109,109,"Marquis Salmon missed Free Throw.",79,69,10,0.999018599752243,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+297,2,"1:49",109,109,"Elijah Thomas Defensive Rebound.",79,69,10,0.999018599752243,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+298,2,"1:37",97,97,"Elijah Thomas made Dunk. Assisted by Gabe DeVoe.",81,69,12,0.999717849760056,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+299,2,"1:30",90,90,"Demontrae Jefferson missed Three Point Jumper.",81,69,12,0.999717849760056,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+300,2,"1:30",90,90,"Gabe DeVoe Defensive Rebound.",81,69,12,0.999717849760056,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+301,2,"1:14",74,74,"Gabe DeVoe Turnover.",81,69,12,0.999924984754417,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+302,2,"1:06",66,66,"Marquis Salmon made Layup. Assisted by Demontrae Jefferson.",81,71,10,0.999574171772987,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+303,2,"0:57",57,57,"Clyde Trapp Turnover.",81,71,10,0.999939650786662,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+304,2,"0:56",56,56,"Divonte Lumpkin Steal.",81,71,10,0.999939650786662,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+305,2,"0:55",55,55,"Donte Clark made Layup. Assisted by Kevin Scott.",81,73,8,0.99897615784215,"Clemson","Texas Southern",3,2,0,0,24.6,400986314,2017-11-24
+306,2,"0:54",54,54,"Clemson  Timeout",81,73,8,0.99897615784215,"Clemson","Texas Southern",3,1,0,1,24.6,400986314,2017-11-24
+307,2,"0:45",45,45,"Foul on Kevin Scott.",81,73,8,0.999051041371064,"Clemson","Texas Southern",3,1,0,1,24.6,400986314,2017-11-24
+308,2,"0:45",45,45,"Donte Grantham missed Free Throw.",81,73,8,0.999051041371064,"Clemson","Texas Southern",3,1,0,1,24.6,400986314,2017-11-24
+309,2,"0:45",45,45,"Clemson Deadball Team Rebound.",81,73,8,0.999051041371064,"Clemson","Texas Southern",3,1,0,1,24.6,400986314,2017-11-24
+310,2,"0:45",45,45,"Donte Grantham made Free Throw.",82,73,9,0.999580088944493,"Clemson","Texas Southern",3,1,0,1,24.6,400986314,2017-11-24
+311,2,"0:39",39,39,"Demontrae Jefferson made Layup.",82,75,7,0.999185098881255,"Clemson","Texas Southern",3,1,0,1,24.6,400986314,2017-11-24
+312,2,"0:38",38,38,"Texas Southern  Timeout",82,75,7,0.999185098881255,"Clemson","Texas Southern",2,1,1,1,24.6,400986314,2017-11-24
+313,2,"0:33",33,33,"Clyde Trapp Turnover.",82,75,7,0.999785808356335,"Clemson","Texas Southern",2,1,1,1,24.6,400986314,2017-11-24
+314,2,"0:24",24,24,"Foul on Marcquise Reed.",82,75,7,0.998750009971099,"Clemson","Texas Southern",2,1,1,1,24.6,400986314,2017-11-24
+315,2,"0:24",24,24,"Demontrae Jefferson made Free Throw.",82,76,6,0.996912921193391,"Clemson","Texas Southern",2,1,1,1,24.6,400986314,2017-11-24
+316,2,"0:24",24,24,"Demontrae Jefferson made Free Throw.",82,77,5,0.992396449542539,"Clemson","Texas Southern",2,1,1,1,24.6,400986314,2017-11-24
+317,2,"0:22",22,22,"Foul on Marquis Salmon.",82,77,5,0.99928342350462,"Clemson","Texas Southern",2,1,1,1,24.6,400986314,2017-11-24
+318,2,"0:22",22,22,"Scott Spencer made Free Throw.",83,77,6,0.999805887180601,"Clemson","Texas Southern",2,1,1,1,24.6,400986314,2017-11-24
+319,2,"0:22",22,22,"Scott Spencer missed Free Throw.",83,77,6,0.999805887180601,"Clemson","Texas Southern",2,1,1,1,24.6,400986314,2017-11-24
+320,2,"0:22",22,22,"Marquis Salmon Defensive Rebound.",83,77,6,0.999805887180601,"Clemson","Texas Southern",2,1,1,1,24.6,400986314,2017-11-24
+321,2,"0:16",16,16,"Demontrae Jefferson missed Three Point Jumper.",83,77,6,0.999970274110639,"Clemson","Texas Southern",2,1,1,1,24.6,400986314,2017-11-24
+322,2,"0:16",16,16,"Clyde Trapp Defensive Rebound.",83,77,6,0.999970274110639,"Clemson","Texas Southern",2,1,1,1,24.6,400986314,2017-11-24
+323,2,"0:13",13,13,"Foul on Donte Clark.",83,77,6,0.999969278478041,"Clemson","Texas Southern",2,1,1,1,24.6,400986314,2017-11-24
+324,2,"0:13",13,13,"Clyde Trapp missed Free Throw.",83,77,6,0.999969278478041,"Clemson","Texas Southern",2,1,1,1,24.6,400986314,2017-11-24
+325,2,"0:13",13,13,"Clemson Deadball Team Rebound.",83,77,6,0.999969278478041,"Clemson","Texas Southern",2,1,1,1,24.6,400986314,2017-11-24
+326,2,"0:13",13,13,"Clyde Trapp made Free Throw.",84,77,7,0.999992624869678,"Clemson","Texas Southern",2,1,1,1,24.6,400986314,2017-11-24
+327,2,"0:07",7,7,"Demontrae Jefferson missed Three Point Jumper.",84,77,7,0.999992051956282,"Clemson","Texas Southern",2,1,1,1,24.6,400986314,2017-11-24
+328,2,"0:07",7,7,"Gabe DeVoe Defensive Rebound.",84,77,7,0.999992051956282,"Clemson","Texas Southern",2,1,1,1,24.6,400986314,2017-11-24
+329,2,"0:00",0,0,"End of Game",84,77,7,1,"Clemson","Texas Southern",2,1,1,1,24.6,400986314,2017-11-24

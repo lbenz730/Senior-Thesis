@@ -1,0 +1,301 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.244477137884305,"Pittsburgh","Georgia Tech",4,4,0,0,-5.5,400986199,2018-01-13
+2,1,"19:28",2368,2368,"Jared Wilson-Frame missed Layup.",0,0,0,0.262354845426661,"Pittsburgh","Georgia Tech",4,4,0,0,-5.5,400986199,2018-01-13
+3,1,"19:28",2368,2368,"Ben Lammers Block.",0,0,0,0.262354845426661,"Pittsburgh","Georgia Tech",4,4,0,0,-5.5,400986199,2018-01-13
+4,1,"19:26",2366,2366,"Jared Wilson-Frame Offensive Rebound.",0,0,0,0.262354845426661,"Pittsburgh","Georgia Tech",4,4,0,0,-5.5,400986199,2018-01-13
+5,1,"19:25",2365,2365,"Jared Wilson-Frame missed Layup.",0,0,0,0.262354845426661,"Pittsburgh","Georgia Tech",4,4,0,0,-5.5,400986199,2018-01-13
+6,1,"19:25",2365,2365,"Abdoulaye Gueye Block.",0,0,0,0.262354845426661,"Pittsburgh","Georgia Tech",4,4,0,0,-5.5,400986199,2018-01-13
+7,1,"19:23",2363,2363,"Ben Lammers Defensive Rebound.",0,0,0,0.262354845426661,"Pittsburgh","Georgia Tech",4,4,0,0,-5.5,400986199,2018-01-13
+8,1,"18:59",2339,2339,"Jose Alvarado made Three Point Jumper. Assisted by Brandon Alston.",0,3,-3,0.213419574207817,"Pittsburgh","Georgia Tech",4,4,0,0,-5.5,400986199,2018-01-13
+9,1,"18:38",2318,2318,"Parker Stewart missed Three Point Jumper.",0,3,-3,0.211250424833524,"Pittsburgh","Georgia Tech",4,4,0,0,-5.5,400986199,2018-01-13
+10,1,"18:38",2318,2318,"Ben Lammers Defensive Rebound.",0,3,-3,0.211250424833524,"Pittsburgh","Georgia Tech",4,4,0,0,-5.5,400986199,2018-01-13
+11,1,"18:22",2302,2302,"Brandon Alston missed Three Point Jumper.",0,3,-3,0.211160152496671,"Pittsburgh","Georgia Tech",4,4,0,0,-5.5,400986199,2018-01-13
+12,1,"18:22",2302,2302,"Brandon Alston Offensive Rebound.",0,3,-3,0.211160152496671,"Pittsburgh","Georgia Tech",4,4,0,0,-5.5,400986199,2018-01-13
+13,1,"18:10",2290,2290,"Jose Alvarado made Three Point Jumper. Assisted by Brandon Alston.",0,6,-6,0.170969798889753,"Pittsburgh","Georgia Tech",4,4,0,0,-5.5,400986199,2018-01-13
+14,1,"17:35",2255,2255,"Shamiel Stevenson missed Jumper.",0,6,-6,0.178548337970445,"Pittsburgh","Georgia Tech",4,4,0,0,-5.5,400986199,2018-01-13
+15,1,"17:35",2255,2255,"Ben Lammers Defensive Rebound.",0,6,-6,0.178548337970445,"Pittsburgh","Georgia Tech",4,4,0,0,-5.5,400986199,2018-01-13
+16,1,"17:29",2249,2249,"Josh Okogie made Layup. Assisted by Jose Alvarado.",0,8,-8,0.164734996396278,"Pittsburgh","Georgia Tech",4,4,0,0,-5.5,400986199,2018-01-13
+17,1,"17:11",2231,2231,"Kene Chukwuka Turnover.",0,8,-8,0.131366616014583,"Pittsburgh","Georgia Tech",4,4,0,0,-5.5,400986199,2018-01-13
+18,1,"17:11",2231,2231,"Foul on Kene Chukwuka.",0,8,-8,0.131366616014583,"Pittsburgh","Georgia Tech",4,4,0,0,-5.5,400986199,2018-01-13
+19,1,"16:55",2215,2215,"Brandon Alston Turnover.",0,8,-8,0.124173028899375,"Pittsburgh","Georgia Tech",4,4,0,0,-5.5,400986199,2018-01-13
+20,1,"16:40",2200,2200,"Marcus Carr Turnover.",0,8,-8,0.133325832955943,"Pittsburgh","Georgia Tech",4,4,0,0,-5.5,400986199,2018-01-13
+21,1,"16:38",2198,2198,"Josh Okogie Steal.",0,8,-8,0.132175666277804,"Pittsburgh","Georgia Tech",4,4,0,0,-5.5,400986199,2018-01-13
+22,1,"16:37",2197,2197,"Josh Okogie made Layup.",0,10,-10,0.107671620253054,"Pittsburgh","Georgia Tech",4,4,0,0,-5.5,400986199,2018-01-13
+23,1,"16:34",2194,2194,"Pittsburgh  Timeout",0,10,-10,0.107671620253054,"Pittsburgh","Georgia Tech",3,4,1,0,-5.5,400986199,2018-01-13
+24,1,"16:24",2184,2184,"Shamiel Stevenson missed Dunk.",0,10,-10,0.112869872523045,"Pittsburgh","Georgia Tech",3,4,1,0,-5.5,400986199,2018-01-13
+25,1,"16:24",2184,2184,"Josh Okogie Block.",0,10,-10,0.112869872523045,"Pittsburgh","Georgia Tech",3,4,1,0,-5.5,400986199,2018-01-13
+26,1,"16:21",2181,2181,"Josh Okogie Defensive Rebound.",0,10,-10,0.112869872523045,"Pittsburgh","Georgia Tech",3,4,1,0,-5.5,400986199,2018-01-13
+27,1,"16:14",2174,2174,"Jose Alvarado made Layup. Assisted by Abdoulaye Gueye.",0,12,-12,0.0900841926368897,"Pittsburgh","Georgia Tech",3,4,1,0,-5.5,400986199,2018-01-13
+28,1,"16:14",2174,2174,"Foul on Parker Stewart.",0,12,-12,0.0900841926368897,"Pittsburgh","Georgia Tech",3,4,1,0,-5.5,400986199,2018-01-13
+29,1,"16:13",2173,2173,"Jose Alvarado made Free Throw.",0,13,-13,0.081567252755078,"Pittsburgh","Georgia Tech",3,4,1,0,-5.5,400986199,2018-01-13
+30,1,"15:55",2155,2155,"Foul on Jose Alvarado.",0,13,-13,0.0695956813327736,"Pittsburgh","Georgia Tech",3,4,1,0,-5.5,400986199,2018-01-13
+31,1,"15:55",2155,2155,"Official TV Timeout",0,13,-13,0.0695956813327736,"Pittsburgh","Georgia Tech",3,4,1,0,-5.5,400986199,2018-01-13
+32,1,"15:44",2144,2144,"Foul on Abdoulaye Gueye.",0,13,-13,0.0933030539361652,"Pittsburgh","Georgia Tech",3,4,1,0,-5.5,400986199,2018-01-13
+33,1,"15:44",2144,2144,"Terrell Brown missed Free Throw.",0,13,-13,0.0933030539361652,"Pittsburgh","Georgia Tech",3,4,1,0,-5.5,400986199,2018-01-13
+34,1,"15:44",2144,2144,"Pittsburgh Deadball Team Rebound.",0,13,-13,0.0933030539361652,"Pittsburgh","Georgia Tech",3,4,1,0,-5.5,400986199,2018-01-13
+35,1,"15:44",2144,2144,"Terrell Brown made Free Throw.",1,13,-12,0.102234811283262,"Pittsburgh","Georgia Tech",3,4,1,0,-5.5,400986199,2018-01-13
+36,1,"15:29",2129,2129,"Abdoulaye Gueye made Dunk. Assisted by Josh Okogie.",1,15,-14,0.0679378170260158,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+37,1,"15:07",2107,2107,"Jonathan Milligan Turnover.",1,15,-14,0.0720558249555092,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+38,1,"15:06",2106,2106,"Jose Alvarado Steal.",1,15,-14,0.0720558249555092,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+39,1,"15:03",2103,2103,"Brandon Alston made Layup. Assisted by Josh Okogie.",1,17,-16,0.0584314303698385,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+40,1,"14:36",2076,2076,"Monty Boykins Turnover.",1,17,-16,0.059604380800214,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+41,1,"14:35",2075,2075,"Josh Okogie Steal.",1,17,-16,0.059604380800214,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+42,1,"14:30",2070,2070,"Josh Okogie missed Layup.",1,17,-16,0.059604380800214,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+43,1,"14:30",2070,2070,"Abdoulaye Gueye Offensive Rebound.",1,17,-16,0.059604380800214,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+44,1,"14:28",2068,2068,"Abdoulaye Gueye made Dunk.",1,19,-18,0.0398069918803196,"Pittsburgh","Georgia Tech",3,4,1,0,-5.5,400986199,2018-01-13
+45,1,"14:28",2068,2068,"Pittsburgh  Timeout",1,19,-18,0.0398069918803196,"Pittsburgh","Georgia Tech",2,4,1,0,-5.5,400986199,2018-01-13
+46,1,"14:17",2057,2057,"Shamiel Stevenson missed Jumper.",1,19,-18,0.0389681452461368,"Pittsburgh","Georgia Tech",2,4,1,0,-5.5,400986199,2018-01-13
+47,1,"14:17",2057,2057,"Jose Alvarado Defensive Rebound.",1,19,-18,0.0389681452461368,"Pittsburgh","Georgia Tech",2,4,1,0,-5.5,400986199,2018-01-13
+48,1,"13:54",2034,2034,"Ben Lammers made Jumper. Assisted by Brandon Alston.",1,21,-20,0.0385319862456822,"Pittsburgh","Georgia Tech",2,4,1,0,-5.5,400986199,2018-01-13
+49,1,"13:41",2021,2021,"Jared Wilson-Frame Turnover.",1,21,-20,0.0251108304191686,"Pittsburgh","Georgia Tech",2,4,1,0,-5.5,400986199,2018-01-13
+50,1,"13:25",2005,2005,"Josh Okogie Turnover.",1,21,-20,0.0395686881237962,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+51,1,"13:23",2003,2003,"Kene Chukwuka Steal.",1,21,-20,0.0395686881237962,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+52,1,"13:09",1989,1989,"Shamiel Stevenson made Layup.",3,21,-18,0.0388562831532378,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+53,1,"12:45",1965,1965,"Josh Okogie made Layup.",3,23,-20,0.0430929720813742,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+54,1,"12:27",1947,1947,"Foul on Josh Okogie.",3,23,-20,0.0296276274697311,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+55,1,"12:27",1947,1947,"Shamiel Stevenson made Free Throw.",4,23,-19,0.0334832013656743,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+56,1,"12:27",1947,1947,"Shamiel Stevenson made Free Throw.",5,23,-18,0.0378209623167777,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+57,1,"12:10",1930,1930,"Tadric Jackson made Jumper.",5,25,-20,0.0275921197484543,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+58,1,"11:50",1910,1910,"Foul on Ben Lammers.",5,25,-20,0.0309384051215962,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+59,1,"11:50",1910,1910,"Official TV Timeout",5,25,-20,0.0309384051215962,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+60,1,"11:50",1910,1910,"Kene Chukwuka missed Free Throw.",5,25,-20,0.0309384051215962,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+61,1,"11:50",1910,1910,"Pittsburgh Deadball Team Rebound.",5,25,-20,0.0309384051215962,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+62,1,"11:50",1910,1910,"Kene Chukwuka made Free Throw.",6,25,-19,0.0350470581554362,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+63,1,"11:31",1891,1891,"Tadric Jackson missed Layup.",6,25,-19,0.031427829309397,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+64,1,"11:31",1891,1891,"Shamiel Stevenson Defensive Rebound.",6,25,-19,0.031427829309397,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+65,1,"11:23",1883,1883,"Jared Wilson-Frame made Three Point Jumper. Assisted by Marcus Carr.",9,25,-16,0.0476275994156618,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+66,1,"11:04",1864,1864,"Georgia Tech  Turnover.",9,25,-16,0.0490074595194342,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+67,1,"10:57",1857,1857,"Jared Wilson-Frame missed Three Point Jumper.",9,25,-16,0.050494361348908,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+68,1,"10:57",1857,1857,"Shamiel Stevenson Offensive Rebound.",9,25,-16,0.050494361348908,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+69,1,"10:39",1839,1839,"Marcus Carr Turnover.",9,25,-16,0.0516783705907556,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+70,1,"10:33",1833,1833,"Josh Okogie Turnover.",9,25,-16,0.0516783705907556,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+71,1,"10:10",1810,1810,"Shamiel Stevenson made Layup.",11,25,-14,0.0546219254667595,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+72,1,"9:40",1780,1780,"Ben Lammers made Jumper.",11,27,-16,0.0406008202349769,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+73,1,"9:26",1766,1766,"Foul on Josh Okogie.",11,27,-16,0.0456512198491279,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+74,1,"9:12",1752,1752,"Jared Wilson-Frame made Three Point Jumper. Assisted by Marcus Carr.",14,27,-13,0.0508052703669945,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+75,1,"9:04",1744,1744,"Curtis Haywood II Turnover.",14,27,-13,0.0802831803823919,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+76,1,"8:48",1728,1728,"Marcus Carr missed Three Point Jumper.",14,27,-13,0.0752109522870432,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+77,1,"8:48",1728,1728,"Ben Lammers Defensive Rebound.",14,27,-13,0.0752109522870432,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+78,1,"8:29",1709,1709,"Tadric Jackson Turnover.",14,27,-13,0.0680979290458526,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+79,1,"8:25",1705,1705,"Shamiel Stevenson made Layup.",16,27,-11,0.0862044455000287,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+80,1,"7:58",1678,1678,"Ben Lammers missed Layup.",16,27,-11,0.0815944430900495,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+81,1,"7:58",1678,1678,"Georgia Tech Offensive Rebound.",16,27,-11,0.0815944430900495,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+82,1,"7:54",1674,1674,"Official TV Timeout",16,27,-11,0.0815944430900495,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+83,1,"7:51",1671,1671,"Ben Lammers missed Jumper.",16,27,-11,0.0815944430900495,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+84,1,"7:51",1671,1671,"Georgia Tech Deadball Team Rebound.",16,27,-11,0.0815944430900495,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+85,1,"7:44",1664,1664,"Georgia Tech  Turnover.",16,27,-11,0.0886936351614836,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+86,1,"7:15",1635,1635,"Jared Wilson-Frame Turnover.",16,27,-11,0.0944383208634993,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+87,1,"7:02",1622,1622,"Jose Alvarado missed Three Point Jumper.",16,27,-11,0.0772629393584972,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+88,1,"7:02",1622,1622,"Parker Stewart Defensive Rebound.",16,27,-11,0.0772629393584972,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+89,1,"6:52",1612,1612,"Foul on Curtis Haywood II.",16,27,-11,0.0783246363401535,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+90,1,"6:52",1612,1612,"Jared Wilson-Frame made Free Throw.",17,27,-10,0.0891068361595181,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+91,1,"6:52",1612,1612,"Jared Wilson-Frame made Free Throw.",18,27,-9,0.101210326942311,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+92,1,"6:52",1612,1612,"Jared Wilson-Frame made Free Throw.",19,27,-8,0.114750741025512,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+93,1,"6:35",1595,1595,"Tadric Jackson made Jumper.",19,29,-10,0.108325425604574,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+94,1,"6:15",1575,1575,"Marcus Carr made Jumper.",21,29,-8,0.10912378823778,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+95,1,"5:52",1552,1552,"Tadric Jackson missed Jumper.",21,29,-8,0.116434100497485,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+96,1,"5:52",1552,1552,"Tadric Jackson Offensive Rebound.",21,29,-8,0.116434100497485,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+97,1,"5:49",1549,1549,"Tadric Jackson missed Layup.",21,29,-8,0.120216492738204,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+98,1,"5:49",1549,1549,"Kene Chukwuka Defensive Rebound.",21,29,-8,0.120216492738204,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+99,1,"5:36",1536,1536,"Jared Wilson-Frame missed Layup.",21,29,-8,0.120568140877701,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+100,1,"5:36",1536,1536,"Abdoulaye Gueye Defensive Rebound.",21,29,-8,0.120568140877701,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+101,1,"5:23",1523,1523,"Jose Alvarado missed Three Point Jumper.",21,29,-8,0.121562133596392,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+102,1,"5:23",1523,1523,"Josh Okogie Offensive Rebound.",21,29,-8,0.121562133596392,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+103,1,"5:17",1517,1517,"Josh Okogie missed Three Point Jumper.",21,29,-8,0.12087748283993,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+104,1,"5:17",1517,1517,"Shamiel Stevenson Defensive Rebound.",21,29,-8,0.12087748283993,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+105,1,"5:14",1514,1514,"Foul on Jose Alvarado.",21,29,-8,0.12087748283993,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+106,1,"5:14",1514,1514,"Shamiel Stevenson made Free Throw.",22,29,-7,0.138038359118683,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+107,1,"5:14",1514,1514,"Shamiel Stevenson missed Free Throw.",22,29,-7,0.138038359118683,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+108,1,"5:14",1514,1514,"Ben Lammers Defensive Rebound.",22,29,-7,0.138038359118683,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+109,1,"4:53",1493,1493,"Abdoulaye Gueye made Jumper.",22,31,-9,0.118567114955025,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+110,1,"4:27",1467,1467,"Terrell Brown missed Jumper.",22,31,-9,0.12566582952626,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+111,1,"4:27",1467,1467,"Abdoulaye Gueye Defensive Rebound.",22,31,-9,0.12566582952626,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+112,1,"4:21",1461,1461,"Foul on Marcus Carr.",22,31,-9,0.12566582952626,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+113,1,"4:21",1461,1461,"Jose Alvarado made Free Throw.",22,32,-10,0.111129647831928,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+114,1,"4:21",1461,1461,"Jose Alvarado missed Free Throw.",22,32,-10,0.111129647831928,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+115,1,"4:21",1461,1461,"Jared Wilson-Frame Defensive Rebound.",22,32,-10,0.111129647831928,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+116,1,"3:54",1434,1434,"Parker Stewart made Three Point Jumper. Assisted by Jonathan Milligan.",25,32,-7,0.145021302425456,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+117,1,"3:39",1419,1419,"Abdoulaye Gueye Turnover.",25,32,-7,0.13238294649358,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+118,1,"3:39",1419,1419,"Jared Wilson-Frame Steal.",25,32,-7,0.13238294649358,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+119,1,"3:39",1419,1419,"Official TV Timeout",25,32,-7,0.13238294649358,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+120,1,"3:19",1399,1399,"Jared Wilson-Frame missed Three Point Jumper.",25,32,-7,0.115154106010478,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+121,1,"3:19",1399,1399,"Curtis Haywood II Defensive Rebound.",25,32,-7,0.115154106010478,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+122,1,"3:00",1380,1380,"Curtis Haywood II missed Three Point Jumper.",25,32,-7,0.138862056374818,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+123,1,"3:00",1380,1380,"Khameron Davis Defensive Rebound.",25,32,-7,0.138862056374818,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+124,1,"2:48",1368,1368,"Khameron Davis Turnover.",25,32,-7,0.132005777497445,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+125,1,"2:47",1367,1367,"Tadric Jackson Steal.",25,32,-7,0.132005777497445,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+126,1,"2:47",1367,1367,"Foul on Marcus Carr.",25,32,-7,0.132005777497445,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+127,1,"2:29",1349,1349,"Foul on Parker Stewart.",25,32,-7,0.130828819494229,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+128,1,"2:27",1347,1347,"Josh Okogie made Free Throw.",25,33,-8,0.113892091650095,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+129,1,"2:27",1347,1347,"Josh Okogie made Free Throw.",25,34,-9,0.0988984622033664,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+130,1,"2:12",1332,1332,"Jared Wilson-Frame Turnover.",25,34,-9,0.0956325058249005,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+131,1,"2:06",1326,1326,"Foul on Parker Stewart.",25,34,-9,0.0969598572705665,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+132,1,"1:50",1310,1310,"Tadric Jackson missed Jumper.",25,34,-9,0.107347773743441,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+133,1,"1:50",1310,1310,"Kene Chukwuka Block.",25,34,-9,0.107347773743441,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+134,1,"1:45",1305,1305,"Abdoulaye Gueye Offensive Rebound.",25,34,-9,0.115675059027172,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+135,1,"1:45",1305,1305,"Abdoulaye Gueye made Layup.",25,36,-11,0.0888083900000878,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+136,1,"1:44",1304,1304,"Technical Foul on Pittsburgh.",25,36,-11,0.0888083900000878,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+137,1,"1:42",1302,1302,"Foul on Pittsburgh.",25,36,-11,0.0888083900000878,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+138,1,"1:42",1302,1302,"Josh Okogie made Free Throw.",25,37,-12,0.0776016600242179,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+139,1,"1:42",1302,1302,"Josh Okogie made Free Throw.",25,38,-13,0.0677040299756302,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+140,1,"1:29",1289,1289,"Jared Wilson-Frame missed Three Point Jumper.",25,38,-13,0.0576194794341451,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+141,1,"1:29",1289,1289,"Abdoulaye Gueye Defensive Rebound.",25,38,-13,0.0576194794341451,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+142,1,"1:06",1266,1266,"Curtis Haywood II missed Three Point Jumper.",25,38,-13,0.0570942141263765,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+143,1,"1:06",1266,1266,"Marcus Carr Defensive Rebound.",25,38,-13,0.0570942141263765,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+144,1,"0:46",1246,1246,"Khameron Davis made Jumper. Assisted by Shamiel Stevenson.",27,38,-11,0.0746053543880667,"Pittsburgh","Georgia Tech",2,4,0,0,-5.5,400986199,2018-01-13
+145,1,"0:45",1245,1245,"Georgia Tech  Timeout",27,38,-11,0.0746053543880667,"Pittsburgh","Georgia Tech",2,3,0,1,-5.5,400986199,2018-01-13
+146,1,"0:37",1237,1237,"Abdoulaye Gueye made Dunk. Assisted by Curtis Haywood II.",27,40,-13,0.0535139688409741,"Pittsburgh","Georgia Tech",2,3,0,1,-5.5,400986199,2018-01-13
+147,1,"0:05",1205,1205,"Marcus Carr made Jumper.",29,40,-11,0.0732248746860148,"Pittsburgh","Georgia Tech",2,3,0,1,-5.5,400986199,2018-01-13
+148,1,"0:00",1200,1200,"End of 1st half",29,40,-11,0.0732248746860148,"Pittsburgh","Georgia Tech",2,3,0,1,-5.5,400986199,2018-01-13
+149,2,"20:00",1200,1200,"PLAY",29,40,-11,0.0732248746860148,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+150,2,"19:41",1181,1181,"Abdoulaye Gueye made Layup. Assisted by Brandon Alston.",29,42,-13,0.0498521334678348,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+151,2,"19:17",1157,1157,"Shamiel Stevenson Turnover.",29,42,-13,0.0569261652209842,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+152,2,"19:05",1145,1145,"Josh Okogie Turnover.",29,42,-13,0.0508698432304066,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+153,2,"18:57",1137,1137,"Shamiel Stevenson Turnover.",29,42,-13,0.0534080641747732,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+154,2,"18:29",1109,1109,"Josh Okogie missed Jumper.",29,42,-13,0.051377380055276,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+155,2,"18:29",1109,1109,"Ben Lammers Offensive Rebound.",29,42,-13,0.051377380055276,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+156,2,"18:01",1081,1081,"Brandon Alston missed Three Point Jumper.",29,42,-13,0.042352948005409,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+157,2,"18:01",1081,1081,"Ben Lammers Offensive Rebound.",29,42,-13,0.042352948005409,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+158,2,"17:46",1066,1066,"Ben Lammers made Jumper.",29,44,-15,0.0399167856683463,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+159,2,"17:25",1045,1045,"Jared Wilson-Frame Turnover.",29,44,-15,0.0359817182372867,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+160,2,"16:59",1019,1019,"Foul on Parker Stewart.",29,44,-15,0.0283094837263699,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+161,2,"16:44",1004,1004,"Abdoulaye Gueye made Layup. Assisted by Brandon Alston.",29,46,-17,0.019530695479754,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+162,2,"16:21",981,981,"Kene Chukwuka Turnover.",29,46,-17,0.0188074998691766,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+163,2,"15:58",958,958,"Abdoulaye Gueye Turnover.",29,46,-17,0.0166894599534582,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+164,2,"15:58",958,958,"Official TV Timeout",29,46,-17,0.0166894599534582,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+165,2,"15:39",939,939,"Foul on Brandon Alston.",29,46,-17,0.0192448417925018,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+166,2,"15:27",927,927,"Khameron Davis missed Jumper.",29,46,-17,0.0171135400121166,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+167,2,"15:27",927,927,"Khameron Davis Offensive Rebound.",29,46,-17,0.0171135400121166,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+168,2,"15:24",924,924,"Marcus Carr missed Layup.",29,46,-17,0.0171135400121166,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+169,2,"15:24",924,924,"Shamiel Stevenson Offensive Rebound.",29,46,-17,0.0171135400121166,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+170,2,"15:20",920,920,"Shamiel Stevenson missed Dunk.",29,46,-17,0.0171135400121166,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+171,2,"15:20",920,920,"Ben Lammers Defensive Rebound.",29,46,-17,0.0171135400121166,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+172,2,"15:14",914,914,"Tadric Jackson made Layup.",29,48,-19,0.0110852774816149,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+173,2,"14:47",887,887,"Kene Chukwuka made Layup. Assisted by Shamiel Stevenson.",31,48,-17,0.0255458887187611,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+174,2,"14:47",887,887,"Foul on Ben Lammers.",31,48,-17,0.0255458887187611,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+175,2,"14:47",887,887,"Kene Chukwuka missed Free Throw.",31,48,-17,0.0255458887187611,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+176,2,"14:47",887,887,"Jose Alvarado Defensive Rebound.",31,48,-17,0.0255458887187611,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+177,2,"14:31",871,871,"Foul on Samson George.",31,48,-17,0.0192255503910009,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+178,2,"14:16",856,856,"Jose Alvarado missed Three Point Jumper.",31,48,-17,0.0168711351977439,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+179,2,"14:16",856,856,"Ben Lammers Offensive Rebound.",31,48,-17,0.0168711351977439,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+180,2,"14:11",851,851,"Brandon Alston missed Layup.",31,48,-17,0.0168711351977439,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+181,2,"14:11",851,851,"Ben Lammers Offensive Rebound.",31,48,-17,0.0168711351977439,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+182,2,"14:09",849,849,"Foul on Khameron Davis.",31,48,-17,0.013992963548335,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+183,2,"14:09",849,849,"Ben Lammers missed Free Throw.",31,48,-17,0.013992963548335,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+184,2,"14:09",849,849,"Georgia Tech Deadball Team Rebound.",31,48,-17,0.013992963548335,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+185,2,"14:09",849,849,"Ben Lammers made Free Throw.",31,49,-18,0.0113460170720108,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+186,2,"13:48",828,828,"Monty Boykins missed Jumper.",31,49,-18,0.0164422441156863,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+187,2,"13:48",828,828,"Samson George Offensive Rebound.",31,49,-18,0.0164422441156863,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+188,2,"13:46",826,826,"Foul on Josh Okogie.",31,49,-18,0.0164422441156863,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+189,2,"13:40",820,820,"Monty Boykins made Three Point Jumper. Assisted by Khameron Davis.",34,49,-15,0.0285677051818413,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+190,2,"13:12",792,792,"Brandon Alston missed Jumper.",34,49,-15,0.0183299149658493,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+191,2,"13:12",792,792,"Peace Ilegomah Block.",34,49,-15,0.0183299149658493,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+192,2,"13:09",789,789,"Marcus Carr Defensive Rebound.",34,49,-15,0.0227373266428642,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+193,2,"13:05",785,785,"Monty Boykins made Three Point Jumper. Assisted by Marcus Carr.",37,49,-12,0.0413999796163009,"Pittsburgh","Georgia Tech",3,4,0,0,-5.5,400986199,2018-01-13
+194,2,"13:02",782,782,"Georgia Tech  Timeout",37,49,-12,0.0413999796163009,"Pittsburgh","Georgia Tech",3,3,0,1,-5.5,400986199,2018-01-13
+195,2,"12:43",763,763,"Ben Lammers missed Jumper.",37,49,-12,0.0388050279135161,"Pittsburgh","Georgia Tech",3,3,0,1,-5.5,400986199,2018-01-13
+196,2,"12:43",763,763,"Khameron Davis Defensive Rebound.",37,49,-12,0.0388050279135161,"Pittsburgh","Georgia Tech",3,3,0,1,-5.5,400986199,2018-01-13
+197,2,"12:21",741,741,"Monty Boykins missed Layup.",37,49,-12,0.0330936614367677,"Pittsburgh","Georgia Tech",3,3,0,1,-5.5,400986199,2018-01-13
+198,2,"12:21",741,741,"Ben Lammers Defensive Rebound.",37,49,-12,0.0330936614367677,"Pittsburgh","Georgia Tech",3,3,0,1,-5.5,400986199,2018-01-13
+199,2,"12:06",726,726,"Foul on Peace Ilegomah.",37,49,-12,0.041330800739889,"Pittsburgh","Georgia Tech",3,3,0,1,-5.5,400986199,2018-01-13
+200,2,"12:06",726,726,"Foul on Samson George.",37,49,-12,0.041330800739889,"Pittsburgh","Georgia Tech",3,3,0,1,-5.5,400986199,2018-01-13
+201,2,"11:56",716,716,"Official TV Timeout",37,49,-12,0.031956852625586,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+202,2,"11:45",705,705,"Ben Lammers missed Jumper.",37,49,-12,0.0455085046617979,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+203,2,"11:45",705,705,"Abdoulaye Gueye Offensive Rebound.",37,49,-12,0.0455085046617979,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+204,2,"11:44",704,704,"Foul on Peace Ilegomah.",37,49,-12,0.0455085046617979,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+205,2,"11:22",682,682,"Abdoulaye Gueye Turnover.",37,49,-12,0.033966427679671,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+206,2,"11:22",682,682,"Foul on Abdoulaye Gueye.",37,49,-12,0.033966427679671,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+207,2,"11:09",669,669,"Technical Foul on Abdoulaye Gueye.",37,49,-12,0.0398152179752469,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+208,2,"11:09",669,669,"Foul on Abdoulaye Gueye.",37,49,-12,0.0398152179752469,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+209,2,"11:09",669,669,"Marcus Carr made Free Throw.",38,49,-11,0.0494222123819799,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+210,2,"11:09",669,669,"Marcus Carr made Free Throw.",39,49,-10,0.0611995265673376,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+211,2,"10:49",649,649,"Monty Boykins missed Three Point Jumper.",39,49,-10,0.0504080287430065,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+212,2,"10:49",649,649,"Pittsburgh Offensive Rebound.",39,49,-10,0.0504080287430065,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+213,2,"10:45",645,645,"Monty Boykins missed Three Point Jumper.",39,49,-10,0.0504080287430065,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+214,2,"10:45",645,645,"Curtis Haywood II Defensive Rebound.",39,49,-10,0.0504080287430065,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+215,2,"10:28",628,628,"Foul on Peace Ilegomah.",39,49,-10,0.0398494035902383,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+216,2,"10:28",628,628,"Josh Okogie made Free Throw.",39,50,-11,0.0312668501312794,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+217,2,"10:28",628,628,"Josh Okogie made Free Throw.",39,51,-12,0.0244856222878485,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+218,2,"10:14",614,614,"Marcus Carr made Jumper.",41,51,-10,0.0417418451169029,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+219,2,"9:44",584,584,"Curtis Haywood II missed Three Point Jumper.",41,51,-10,0.0490951203200239,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+220,2,"9:44",584,584,"Pittsburgh Defensive Rebound.",41,51,-10,0.0490951203200239,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+221,2,"9:24",564,564,"Shamiel Stevenson missed Layup.",41,51,-10,0.0403576505957669,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+222,2,"9:24",564,564,"Ben Lammers Defensive Rebound.",41,51,-10,0.0403576505957669,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+223,2,"9:16",556,556,"Tadric Jackson made Jumper. Assisted by Josh Okogie.",41,53,-12,0.0234049209554664,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+224,2,"9:00",540,540,"Marcus Carr missed Layup.",41,53,-12,0.0214971543309674,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+225,2,"9:00",540,540,"Ben Lammers Block.",41,53,-12,0.0214971543309674,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+226,2,"8:58",538,538,"Curtis Haywood II Defensive Rebound.",41,53,-12,0.0214904962821327,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+227,2,"8:54",534,534,"Foul on Monty Boykins.",41,53,-12,0.0214904962821327,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+228,2,"8:54",534,534,"Tadric Jackson missed Free Throw.",41,53,-12,0.0214904962821327,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+229,2,"8:54",534,534,"Georgia Tech Deadball Team Rebound.",41,53,-12,0.0214904962821327,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+230,2,"8:54",534,534,"Tadric Jackson made Free Throw.",41,54,-13,0.0163059937048091,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+231,2,"8:33",513,513,"Kene Chukwuka Turnover.",41,54,-13,0.0180082029801886,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+232,2,"8:26",506,506,"Tadric Jackson missed Layup.",41,54,-13,0.0193317654008929,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+233,2,"8:26",506,506,"Kene Chukwuka Block.",41,54,-13,0.0193317654008929,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+234,2,"8:25",505,505,"Ben Lammers Offensive Rebound.",41,54,-13,0.0193317654008929,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+235,2,"8:25",505,505,"Foul on Khameron Davis.",41,54,-13,0.0193317654008929,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+236,2,"8:25",505,505,"Ben Lammers made Free Throw.",41,55,-14,0.0148124956738936,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+237,2,"8:25",505,505,"Ben Lammers missed Free Throw.",41,55,-14,0.0148124956738936,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+238,2,"8:25",505,505,"Shamiel Stevenson Defensive Rebound.",41,55,-14,0.0148124956738936,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+239,2,"8:02",482,482,"Foul on Tadric Jackson.",41,55,-14,0.0129192811955864,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+240,2,"7:47",467,467,"Jared Wilson-Frame missed Jumper.",41,55,-14,0.0109268393970894,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+241,2,"7:47",467,467,"Curtis Haywood II Defensive Rebound.",41,55,-14,0.0109268393970894,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+242,2,"7:41",461,461,"Tadric Jackson made Jumper. Assisted by Curtis Haywood II.",41,57,-16,0.00624726203754479,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+243,2,"7:21",441,441,"Foul on Josh Okogie.",41,57,-16,0.00819819520209425,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+244,2,"7:21",441,441,"Official TV Timeout",41,57,-16,0.00819819520209425,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+245,2,"7:21",441,441,"Parker Stewart missed Free Throw.",41,57,-16,0.00819819520209425,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+246,2,"7:21",441,441,"Ben Lammers Defensive Rebound.",41,57,-16,0.00819819520209425,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+247,2,"7:20",440,440,"Foul on Peace Ilegomah.",41,57,-16,0.00819819520209425,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+248,2,"7:20",440,440,"Ben Lammers missed Free Throw.",41,57,-16,0.00819819520209425,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+249,2,"7:20",440,440,"Georgia Tech Deadball Team Rebound.",41,57,-16,0.00819819520209425,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+250,2,"7:20",440,440,"Ben Lammers made Free Throw.",41,58,-17,0.00623373638476301,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+251,2,"6:50",410,410,"Marcus Carr missed Jumper.",41,58,-17,0.00343329674056248,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+252,2,"6:50",410,410,"Abdoulaye Gueye Defensive Rebound.",41,58,-17,0.00343329674056248,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+253,2,"6:32",392,392,"Ben Lammers made Jumper. Assisted by Tadric Jackson.",41,60,-19,0.00178048483710711,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+254,2,"6:08",368,368,"Parker Stewart missed Three Point Jumper.",41,60,-19,0.00142096345688296,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+255,2,"6:08",368,368,"Ben Lammers Defensive Rebound.",41,60,-19,0.00142096345688296,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+256,2,"5:50",350,350,"Ben Lammers missed Jumper.",41,60,-19,0.000779043193181467,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+257,2,"5:50",350,350,"Parker Stewart Defensive Rebound.",41,60,-19,0.000779043193181467,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+258,2,"5:26",326,326,"Peace Ilegomah missed Jumper.",41,60,-19,0.00139362680897255,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+259,2,"5:26",326,326,"Jose Alvarado Defensive Rebound.",41,60,-19,0.00139362680897255,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+260,2,"5:07",307,307,"Abdoulaye Gueye missed Jumper.",41,60,-19,0.00111593741977313,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+261,2,"5:07",307,307,"Peace Ilegomah Defensive Rebound.",41,60,-19,0.00111593741977313,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+262,2,"4:52",292,292,"Foul on Abdoulaye Gueye.",41,60,-19,0.000841335320466079,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+263,2,"4:52",292,292,"Samson George missed Free Throw.",41,60,-19,0.000841335320466079,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+264,2,"4:52",292,292,"Ben Lammers Defensive Rebound.",41,60,-19,0.000841335320466079,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+265,2,"4:23",263,263,"Jose Alvarado missed Three Point Jumper.",41,60,-19,0.000554989924177234,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+266,2,"4:23",263,263,"Abdoulaye Gueye Offensive Rebound.",41,60,-19,0.000554989924177234,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+267,2,"4:21",261,261,"Foul on Peace Ilegomah.",41,60,-19,0.000554989924177234,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+268,2,"4:19",259,259,"Abdoulaye Gueye made Free Throw.",41,61,-20,0.00016372956472433,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+269,2,"4:19",259,259,"Abdoulaye Gueye made Free Throw.",41,62,-21,0.000107436524556689,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+270,2,"4:07",247,247,"Foul on Abdoulaye Gueye.",41,62,-21,0.000135873998717229,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+271,2,"4:07",247,247,"Monty Boykins missed Free Throw.",41,62,-21,0.000135873998717229,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+272,2,"4:07",247,247,"Pittsburgh Deadball Team Rebound.",41,62,-21,0.000135873998717229,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+273,2,"4:07",247,247,"Monty Boykins missed Free Throw.",41,62,-21,0.000135873998717229,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+274,2,"4:07",247,247,"Josh Okogie Defensive Rebound.",41,62,-21,0.000135873998717229,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+275,2,"3:50",230,230,"Tadric Jackson made Layup. Assisted by Josh Okogie.",41,64,-23,6.58004341313545e-05,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+276,2,"3:26",206,206,"Foul on Curtis Haywood II.",41,64,-23,2.05825260489966e-05,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+277,2,"3:26",206,206,"Official TV Timeout",41,64,-23,2.05825260489966e-05,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+278,2,"3:26",206,206,"Parker Stewart made Free Throw.",42,64,-22,3.23451887670244e-05,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+279,2,"3:26",206,206,"Parker Stewart made Free Throw.",43,64,-21,5.08297281357066e-05,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+280,2,"2:55",175,175,"Moses Wright missed Jumper.",43,64,-21,2.55607787747766e-05,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+281,2,"2:55",175,175,"Terrell Brown Block.",43,64,-21,2.55607787747766e-05,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+282,2,"2:53",173,173,"Georgia Tech Deadball Team Rebound.",43,64,-21,2.55607787747766e-05,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+283,2,"2:52",172,172,"Georgia Tech  Turnover.",43,64,-21,2.55607787747766e-05,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+284,2,"2:30",150,150,"Jonathan Milligan made Layup.",45,64,-19,2.71891073363787e-05,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+285,2,"2:00",120,120,"Curtis Haywood II missed Three Point Jumper.",45,64,-19,1.36584144708761e-05,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+286,2,"2:00",120,120,"Kene Chukwuka Defensive Rebound.",45,64,-19,1.36584144708761e-05,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+287,2,"1:42",102,102,"Kene Chukwuka made Three Point Jumper. Assisted by Jonathan Milligan.",48,64,-16,3.05775478934897e-05,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+288,2,"1:12",72,72,"Brandon Alston made Three Point Jumper. Assisted by Curtis Haywood II.",48,67,-19,5.6444101033373e-07,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+289,2,"0:55",55,55,"Monty Boykins made Layup.",50,67,-17,1.74250538373494e-06,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+290,2,"0:55",55,55,"Foul on Brandon Alston.",50,67,-17,1.74250538373494e-06,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+291,2,"0:55",55,55,"Monty Boykins made Free Throw.",51,67,-16,3.72377483036966e-06,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+292,2,"0:35",35,35,"Evan Cole missed Three Point Jumper.",51,67,-16,1.98015612104162e-06,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+293,2,"0:35",35,35,"Brandon Alston Offensive Rebound.",51,67,-16,1.98015612104162e-06,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+294,2,"0:31",31,31,"Brandon Alston missed Layup.",51,67,-16,1.93305476037826e-07,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+295,2,"0:31",31,31,"Evan Cole Offensive Rebound.",51,67,-16,1.93305476037826e-07,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+296,2,"0:29",29,29,"Evan Cole made Two Point Tip Shot.",51,69,-18,6.49015423090984e-09,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+297,2,"0:18",18,18,"Jonathan Milligan made Layup.",53,69,-16,2.58198029185467e-08,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+298,2,"0:18",18,18,"Foul on Avi Schafer.",53,69,-16,2.58198029185467e-08,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+299,2,"0:18",18,18,"Jonathan Milligan made Free Throw.",54,69,-15,7.49019999615674e-08,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13
+300,2,"0:00",0,0,"End of Game",54,69,-15,8.68749625529083e-127,"Pittsburgh","Georgia Tech",3,3,0,0,-5.5,400986199,2018-01-13

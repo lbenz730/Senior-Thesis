@@ -1,0 +1,389 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.453134151146085,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+2,1,"19:40",2380,2380,"Austin Williams Turnover.",0,0,0,0.456072304486657,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+3,1,"19:39",2379,2379,"Ramone Snowden Steal.",0,0,0,0.470947828458052,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+4,1,"19:39",2379,2379,"Foul on Alihan Demir.",0,0,0,0.470947828458052,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+5,1,"19:21",2361,2361,"Stuckey Mosley made Jumper.",0,2,-2,0.440652590962629,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+6,1,"19:05",2345,2345,"Austin Williams made Layup. Assisted by Alihan Demir.",2,2,0,0.459323375853015,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+7,1,"18:44",2324,2324,"Develle Phillips made Layup. Assisted by Ramone Snowden.",2,4,-2,0.42569516542445,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+8,1,"18:31",2311,2311,"Troy Harper Turnover.",2,4,-2,0.407453431724077,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+9,1,"18:13",2293,2293,"Foul on Kurk Lee.",2,4,-2,0.420260379155901,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+10,1,"18:13",2293,2293,"Matt Lewis missed Free Throw.",2,4,-2,0.420260379155901,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+11,1,"18:13",2293,2293,"James Madison Deadball Team Rebound.",2,4,-2,0.420260379155901,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+12,1,"18:13",2293,2293,"Matt Lewis missed Free Throw.",2,4,-2,0.420260379155901,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+13,1,"18:13",2293,2293,"Austin Williams Defensive Rebound.",2,4,-2,0.420260379155901,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+14,1,"17:54",2274,2274,"Foul on Stuckey Mosley.",2,4,-2,0.417506105568839,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+15,1,"17:40",2260,2260,"Kurk Lee missed Jumper.",2,4,-2,0.405438462178574,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+16,1,"17:40",2260,2260,"Develle Phillips Defensive Rebound.",2,4,-2,0.405438462178574,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+17,1,"17:39",2259,2259,"Foul on Austin Williams.",2,4,-2,0.423224450711388,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+18,1,"17:19",2239,2239,"Ramone Snowden missed Three Point Jumper.",2,4,-2,0.410588437521184,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+19,1,"17:19",2239,2239,"Austin Williams Defensive Rebound.",2,4,-2,0.410588437521184,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+20,1,"17:00",2220,2220,"Tramaine Isabell Turnover.",2,4,-2,0.416224092196111,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+21,1,"16:58",2218,2218,"Stuckey Mosley Steal.",2,4,-2,0.413340062899719,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+22,1,"16:55",2215,2215,"Darius Banks missed Layup.",2,4,-2,0.413340062899719,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+23,1,"16:55",2215,2215,"Develle Phillips Offensive Rebound.",2,4,-2,0.413340062899719,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+24,1,"16:53",2213,2213,"Develle Phillips made Layup.",2,6,-4,0.351621027172919,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+25,1,"16:27",2187,2187,"Foul on Develle Phillips.",2,6,-4,0.361863943375494,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+26,1,"16:27",2187,2187,"Tramaine Isabell made Free Throw.",3,6,-3,0.387281464429927,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+27,1,"16:27",2187,2187,"Tramaine Isabell made Free Throw.",4,6,-2,0.413327940773833,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+28,1,"16:14",2174,2174,"Foul on Kurk Lee.",4,6,-2,0.405765808176182,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+29,1,"16:14",2174,2174,"Matt Lewis missed Free Throw.",4,6,-2,0.405765808176182,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+30,1,"16:14",2174,2174,"James Madison Deadball Team Rebound.",4,6,-2,0.405765808176182,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+31,1,"16:14",2174,2174,"Matt Lewis made Free Throw.",4,7,-3,0.379862758881349,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+32,1,"15:54",2154,2154,"Alihan Demir missed Three Point Jumper.",4,7,-3,0.366443437410806,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+33,1,"15:54",2154,2154,"Stuckey Mosley Defensive Rebound.",4,7,-3,0.366443437410806,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+34,1,"15:43",2143,2143,"Stuckey Mosley missed Three Point Jumper.",4,7,-3,0.397427870614204,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+35,1,"15:43",2143,2143,"Ramone Snowden Offensive Rebound.",4,7,-3,0.397427870614204,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+36,1,"15:29",2129,2129,"Develle Phillips Turnover.",4,7,-3,0.373817095455426,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+37,1,"15:29",2129,2129,"Official TV Timeout",4,7,-3,0.373817095455426,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+38,1,"15:02",2102,2102,"Tramaine Isabell missed Three Point Jumper.",4,7,-3,0.37891490655426,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+39,1,"15:02",2102,2102,"Drexel Offensive Rebound.",4,7,-3,0.37891490655426,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+40,1,"14:55",2095,2095,"Tramaine Isabell made Jumper.",6,7,-1,0.432918514288171,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+41,1,"14:40",2080,2080,"Foul on Ramone Snowden.",6,7,-1,0.446436379040391,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+42,1,"14:40",2080,2080,"Ramone Snowden Turnover.",6,7,-1,0.446436379040391,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+43,1,"14:23",2063,2063,"Alihan Demir made Jumper.",8,7,1,0.483867878797605,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+44,1,"14:13",2053,2053,"Matt Lewis missed Layup.",8,7,1,0.476772357441689,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+45,1,"14:13",2053,2053,"Tyshawn Myles Block.",8,7,1,0.476772357441689,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+46,1,"14:12",2052,2052,"Dwight Wilson Offensive Rebound.",8,7,1,0.476772357441689,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+47,1,"14:11",2051,2051,"Dwight Wilson made Layup.",8,9,-1,0.418899649330202,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+48,1,"14:02",2042,2042,"Foul on Stuckey Mosley.",8,9,-1,0.423196447289433,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+49,1,"14:01",2041,2041,"Tramaine Isabell missed Layup.",8,9,-1,0.423196447289433,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+50,1,"14:01",2041,2041,"Darius Banks Block.",8,9,-1,0.423196447289433,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+51,1,"13:58",2038,2038,"Darius Banks Defensive Rebound.",8,9,-1,0.440458671839186,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+52,1,"13:54",2034,2034,"Joey McLean missed Layup.",8,9,-1,0.440458671839186,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+53,1,"13:54",2034,2034,"Drexel Defensive Rebound.",8,9,-1,0.440458671839186,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+54,1,"13:33",2013,2013,"Kurk Lee missed Jumper.",8,9,-1,0.440939964548136,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+55,1,"13:33",2013,2013,"Tyshawn Myles Offensive Rebound.",8,9,-1,0.440939964548136,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+56,1,"13:24",2004,2004,"Tramaine Isabell missed Layup.",8,9,-1,0.431754552468354,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+57,1,"13:24",2004,2004,"Matt Lewis Block.",8,9,-1,0.431754552468354,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+58,1,"13:23",2003,2003,"Drexel Offensive Rebound.",8,9,-1,0.431754552468354,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+59,1,"13:15",1995,1995,"Alihan Demir missed Jumper.",8,9,-1,0.429710814862399,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+60,1,"13:15",1995,1995,"Dwight Wilson Defensive Rebound.",8,9,-1,0.429710814862399,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+61,1,"13:12",1992,1992,"Dwight Wilson Turnover.",8,9,-1,0.429710814862399,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+62,1,"13:11",1991,1991,"Kurk Lee Steal.",8,9,-1,0.429710814862399,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+63,1,"13:06",1986,1986,"Kurk Lee missed Three Point Jumper.",8,9,-1,0.425365737992954,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+64,1,"13:06",1986,1986,"Alihan Demir Offensive Rebound.",8,9,-1,0.425365737992954,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+65,1,"13:04",1984,1984,"Alihan Demir made Jumper.",10,9,1,0.487157511195088,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+66,1,"12:42",1962,1962,"Darius Banks made Layup.",10,11,-1,0.434967223217253,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+67,1,"12:28",1948,1948,"Tyshawn Myles Turnover.",10,11,-1,0.430666435973372,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+68,1,"12:26",1946,1946,"Matt Lewis made Three Point Jumper. Assisted by Darius Banks.",10,14,-4,0.341169700961308,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+69,1,"11:59",1919,1919,"Alihan Demir missed Layup.",10,14,-4,0.358584457700247,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+70,1,"11:59",1919,1919,"Joey McLean Defensive Rebound.",10,14,-4,0.358584457700247,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+71,1,"11:56",1916,1916,"Joey McLean missed Layup.",10,14,-4,0.358584457700247,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+72,1,"11:56",1916,1916,"Tyshawn Myles Block.",10,14,-4,0.358584457700247,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+73,1,"11:55",1915,1915,"Dwight Wilson Offensive Rebound.",10,14,-4,0.358584457700247,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+74,1,"11:53",1913,1913,"Dwight Wilson made Layup.",10,16,-6,0.301661641675082,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+75,1,"11:50",1910,1910,"Drexel  Timeout",10,16,-6,0.301661641675082,"Drexel","James Madison",3,4,1,0,-1,401020166,2018-03-03
+76,1,"11:50",1910,1910,"Official TV Timeout",10,16,-6,0.301661641675082,"Drexel","James Madison",3,4,1,0,-1,401020166,2018-03-03
+77,1,"11:34",1894,1894,"Tramaine Isabell missed Three Point Jumper.",10,16,-6,0.287877410026636,"Drexel","James Madison",3,4,1,0,-1,401020166,2018-03-03
+78,1,"11:34",1894,1894,"Joey McLean Defensive Rebound.",10,16,-6,0.287877410026636,"Drexel","James Madison",3,4,1,0,-1,401020166,2018-03-03
+79,1,"11:05",1865,1865,"Foul on Miles Overton.",10,16,-6,0.295999208682846,"Drexel","James Madison",3,4,1,0,-1,401020166,2018-03-03
+80,1,"10:50",1850,1850,"Joey McLean missed Layup.",10,16,-6,0.294324614658608,"Drexel","James Madison",3,4,1,0,-1,401020166,2018-03-03
+81,1,"10:50",1850,1850,"Miles Overton Defensive Rebound.",10,16,-6,0.294324614658608,"Drexel","James Madison",3,4,1,0,-1,401020166,2018-03-03
+82,1,"10:43",1843,1843,"Troy Harper Turnover.",10,16,-6,0.274698131246443,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+83,1,"10:42",1842,1842,"Ramone Snowden Steal.",10,16,-6,0.274698131246443,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+84,1,"10:17",1817,1817,"Matt Lewis missed Three Point Jumper.",10,16,-6,0.278040007532733,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+85,1,"10:17",1817,1817,"Troy Harper Defensive Rebound.",10,16,-6,0.278040007532733,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+86,1,"9:57",1797,1797,"Miles Overton missed Three Point Jumper.",10,16,-6,0.280287015192875,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+87,1,"9:57",1797,1797,"James Madison Defensive Rebound.",10,16,-6,0.280287015192875,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+88,1,"9:37",1777,1777,"Matt Lewis missed Layup.",10,16,-6,0.281678691397545,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+89,1,"9:37",1777,1777,"Austin Williams Block.",10,16,-6,0.281678691397545,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+90,1,"9:36",1776,1776,"Troy Harper Defensive Rebound.",10,16,-6,0.281678691397545,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+91,1,"9:31",1771,1771,"Foul on Troy Harper.",10,16,-6,0.281678691397545,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+92,1,"9:31",1771,1771,"Troy Harper Turnover.",10,16,-6,0.281678691397545,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+93,1,"9:08",1748,1748,"Matt Lewis missed Three Point Jumper.",10,16,-6,0.30514320889842,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+94,1,"9:08",1748,1748,"Greg Jones Offensive Rebound.",10,16,-6,0.30514320889842,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+95,1,"8:45",1725,1725,"Develle Phillips Turnover.",10,16,-6,0.296370865642081,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+96,1,"8:44",1724,1724,"Austin Williams Steal.",10,16,-6,0.296370865642081,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+97,1,"8:36",1716,1716,"Austin Williams made Layup. Assisted by Tramaine Isabell.",12,16,-4,0.337116503530476,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+98,1,"8:36",1716,1716,"Foul on Joey McLean.",12,16,-4,0.337116503530476,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+99,1,"8:36",1716,1716,"Austin Williams missed Free Throw.",12,16,-4,0.337116503530476,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+100,1,"8:36",1716,1716,"Ramone Snowden Defensive Rebound.",12,16,-4,0.337116503530476,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+101,1,"8:12",1692,1692,"Develle Phillips made Dunk. Assisted by Ramone Snowden.",12,18,-6,0.281321686460685,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+102,1,"8:12",1692,1692,"Foul on Alihan Demir.",12,18,-6,0.281321686460685,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+103,1,"8:12",1692,1692,"Develle Phillips missed Free Throw.",12,18,-6,0.281321686460685,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+104,1,"8:12",1692,1692,"Tramaine Isabell Defensive Rebound.",12,18,-6,0.281321686460685,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+105,1,"7:55",1675,1675,"Foul on Develle Phillips.",12,18,-6,0.2773629802357,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+106,1,"7:55",1675,1675,"Official TV Timeout",12,18,-6,0.2773629802357,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+107,1,"7:36",1656,1656,"Austin Williams made Dunk. Assisted by Tramaine Isabell.",14,18,-4,0.348567283911267,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+108,1,"7:12",1632,1632,"Matt Lewis missed Jumper.",14,18,-4,0.353828499286414,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+109,1,"7:12",1632,1632,"Austin Williams Defensive Rebound.",14,18,-4,0.353828499286414,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+110,1,"6:49",1609,1609,"Tramaine Isabell missed Jumper.",14,18,-4,0.331209523297413,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+111,1,"6:49",1609,1609,"James Madison Defensive Rebound.",14,18,-4,0.331209523297413,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+112,1,"6:48",1608,1608,"Foul on Austin Williams.",14,18,-4,0.331209523297413,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+113,1,"6:48",1608,1608,"Zach Jacobs missed Free Throw.",14,18,-4,0.331209523297413,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+114,1,"6:48",1608,1608,"Tramaine Isabell Defensive Rebound.",14,18,-4,0.331209523297413,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+115,1,"6:38",1598,1598,"Alihan Demir missed Three Point Jumper.",14,18,-4,0.356553643056068,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+116,1,"6:38",1598,1598,"Tyshawn Myles Offensive Rebound.",14,18,-4,0.356553643056068,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+117,1,"6:33",1593,1593,"Foul on Tyshawn Myles.",14,18,-4,0.356553643056068,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+118,1,"6:33",1593,1593,"Tyshawn Myles Turnover.",14,18,-4,0.356553643056068,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+119,1,"6:12",1572,1572,"Foul on Darius Banks.",14,18,-4,0.324693287514758,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+120,1,"6:12",1572,1572,"Darius Banks Turnover.",14,18,-4,0.324693287514758,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+121,1,"6:01",1561,1561,"Tramaine Isabell missed Layup.",14,18,-4,0.319896658394302,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+122,1,"6:01",1561,1561,"Zach Jacobs Defensive Rebound.",14,18,-4,0.319896658394302,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+123,1,"5:55",1555,1555,"Darius Banks made Dunk. Assisted by Joey McLean.",14,20,-6,0.265511259840756,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+124,1,"5:38",1538,1538,"Foul on Darius Banks.",14,20,-6,0.277418942354085,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+125,1,"5:38",1538,1538,"Tyshawn Myles made Free Throw.",15,20,-5,0.306237701494859,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+126,1,"5:38",1538,1538,"Tyshawn Myles made Free Throw.",16,20,-4,0.336655398272614,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+127,1,"5:17",1517,1517,"Darius Banks missed Jumper.",16,20,-4,0.340359898947851,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+128,1,"5:17",1517,1517,"Alihan Demir Defensive Rebound.",16,20,-4,0.340359898947851,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+129,1,"5:03",1503,1503,"Sammy Mojica made Three Point Jumper. Assisted by Troy Harper.",19,20,-1,0.431938191851882,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+130,1,"5:03",1503,1503,"Foul on Darius Banks.",19,20,-1,0.431938191851882,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+131,1,"5:03",1503,1503,"Sammy Mojica made Free Throw.",20,20,0,0.467179711040844,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+132,1,"4:52",1492,1492,"Dwight Wilson Turnover.",20,20,0,0.490889987578574,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+133,1,"4:31",1471,1471,"Sammy Mojica made Three Point Jumper. Assisted by Tramaine Isabell.",23,20,3,0.573224182828985,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+134,1,"4:07",1447,1447,"Foul on Tyshawn Myles.",23,20,3,0.607201533368703,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+135,1,"4:07",1447,1447,"Joey McLean made Free Throw.",23,21,2,0.570378110596451,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+136,1,"4:07",1447,1447,"Joey McLean made Free Throw.",23,22,1,0.532758984439474,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+137,1,"3:48",1428,1428,"Miles Overton missed Three Point Jumper.",23,22,1,0.50028959002334,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+138,1,"3:48",1428,1428,"Tramaine Isabell Offensive Rebound.",23,22,1,0.50028959002334,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+139,1,"3:31",1411,1411,"Miles Overton Turnover.",23,22,1,0.50847631841743,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+140,1,"3:30",1410,1410,"Matt Lewis Steal.",23,22,1,0.50847631841743,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+141,1,"3:26",1406,1406,"Foul on Tyshawn Myles.",23,22,1,0.522758347609575,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+142,1,"3:26",1406,1406,"Official TV Timeout",23,22,1,0.522758347609575,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+143,1,"3:26",1406,1406,"Stuckey Mosley made Free Throw.",23,23,0,0.48403027175618,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+144,1,"3:26",1406,1406,"Stuckey Mosley made Free Throw.",23,24,-1,0.445493065572562,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+145,1,"3:11",1391,1391,"Troy Harper made Three Point Jumper. Assisted by Tramaine Isabell.",26,24,2,0.529952459855592,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+146,1,"2:50",1370,1370,"Matt Lewis missed Three Point Jumper.",26,24,2,0.526734990612619,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+147,1,"2:50",1370,1370,"Sammy Mojica Defensive Rebound.",26,24,2,0.526734990612619,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+148,1,"2:41",1361,1361,"Miles Overton missed Three Point Jumper.",26,24,2,0.548753273675874,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+149,1,"2:41",1361,1361,"Matt Lewis Defensive Rebound.",26,24,2,0.548753273675874,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+150,1,"2:28",1348,1348,"Foul on Tadas Kararinas.",26,24,2,0.54769491234773,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+151,1,"2:28",1348,1348,"Dwight Wilson missed Free Throw.",26,24,2,0.54769491234773,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+152,1,"2:28",1348,1348,"James Madison Deadball Team Rebound.",26,24,2,0.54769491234773,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+153,1,"2:28",1348,1348,"Dwight Wilson made Free Throw.",26,25,1,0.508355352569523,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+154,1,"2:04",1324,1324,"Sammy Mojica missed Jumper.",26,25,1,0.509556597303038,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+155,1,"2:04",1324,1324,"Drexel Offensive Rebound.",26,25,1,0.509556597303038,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+156,1,"2:01",1321,1321,"Foul on Sammy Mojica.",26,25,1,0.509556597303038,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+157,1,"2:01",1321,1321,"Sammy Mojica Turnover.",26,25,1,0.509556597303038,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+158,1,"1:45",1305,1305,"Stuckey Mosley missed Three Point Jumper.",26,25,1,0.519082541988095,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+159,1,"1:45",1305,1305,"Miles Overton Defensive Rebound.",26,25,1,0.519082541988095,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+160,1,"1:32",1292,1292,"Troy Harper missed Jumper.",26,25,1,0.544153253697025,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+161,1,"1:32",1292,1292,"Ramone Snowden Defensive Rebound.",26,25,1,0.544153253697025,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+162,1,"1:21",1281,1281,"Joey McLean made Three Point Jumper. Assisted by Matt Lewis.",26,28,-2,0.394355622470914,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+163,1,"1:07",1267,1267,"Tramaine Isabell missed Three Point Jumper.",26,28,-2,0.409159529933054,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+164,1,"1:07",1267,1267,"Troy Harper Offensive Rebound.",26,28,-2,0.409159529933054,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+165,1,"0:58",1258,1258,"Miles Overton missed Layup.",26,28,-2,0.401143437781876,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+166,1,"0:58",1258,1258,"Matt Lewis Defensive Rebound.",26,28,-2,0.401143437781876,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+167,1,"0:51",1251,1251,"Dwight Wilson missed Layup.",26,28,-2,0.401143437781876,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+168,1,"0:51",1251,1251,"Dwight Wilson Offensive Rebound.",26,28,-2,0.401143437781876,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+169,1,"0:47",1247,1247,"Dwight Wilson missed Layup.",26,28,-2,0.394125857373283,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+170,1,"0:47",1247,1247,"Tadas Kararinas Defensive Rebound.",26,28,-2,0.394125857373283,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+171,1,"0:47",1247,1247,"Foul on Dwight Wilson.",26,28,-2,0.394125857373283,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+172,1,"0:47",1247,1247,"Tadas Kararinas made Free Throw.",27,28,-1,0.431640943770078,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+173,1,"0:47",1247,1247,"Tadas Kararinas made Free Throw.",28,28,0,0.469957096505416,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+174,1,"0:29",1229,1229,"Foul on Troy Harper.",28,28,0,0.479807035791423,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+175,1,"0:29",1229,1229,"Matt Lewis made Free Throw.",28,29,-1,0.43792554122987,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+176,1,"0:29",1229,1229,"Matt Lewis made Free Throw.",28,30,-2,0.396910439353284,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+177,1,"0:05",1205,1205,"Foul on Ramone Snowden.",28,30,-2,0.393518064778249,"Drexel","James Madison",3,4,0,1,-1,401020166,2018-03-03
+178,1,"0:05",1205,1205,"Tadas Kararinas made Free Throw.",29,30,-1,0.432097768281443,"Drexel","James Madison",3,4,0,1,-1,401020166,2018-03-03
+179,1,"0:05",1205,1205,"Tadas Kararinas made Free Throw.",30,30,0,0.471519156112234,"Drexel","James Madison",3,4,0,1,-1,401020166,2018-03-03
+180,1,"0:05",1205,1205,"James Madison  Timeout",30,30,0,0.471519156112234,"Drexel","James Madison",3,3,0,1,-1,401020166,2018-03-03
+181,1,"0:01",1201,1201,"Matt Lewis made Three Point Jumper. Assisted by Joey McLean.",30,33,-3,0.35622229283458,"Drexel","James Madison",3,3,0,1,-1,401020166,2018-03-03
+182,1,"0:01",1201,1201,"Foul on Tadas Kararinas.",30,33,-3,0.35622229283458,"Drexel","James Madison",3,3,0,1,-1,401020166,2018-03-03
+183,1,"0:01",1201,1201,"Matt Lewis missed Free Throw.",30,33,-3,0.35622229283458,"Drexel","James Madison",3,3,0,1,-1,401020166,2018-03-03
+184,1,"0:01",1201,1201,"Miles Overton Defensive Rebound.",30,33,-3,0.35622229283458,"Drexel","James Madison",3,3,0,1,-1,401020166,2018-03-03
+185,1,"0:00",1200,1200,"End of 1st half",33,30,3,0.589936983975629,"Drexel","James Madison",3,3,0,1,-1,401020166,2018-03-03
+186,2,"20:00",1200,1200,"PLAY",33,30,3,0.589936983975629,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+187,2,"19:49",1189,1189,"Ramone Snowden made Layup. Assisted by Develle Phillips.",30,35,-5,0.279672834113669,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+188,2,"19:49",1189,1189,"Foul on Sammy Mojica.",30,35,-5,0.279672834113669,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+189,2,"19:49",1189,1189,"Ramone Snowden made Free Throw.",30,36,-6,0.247567054695385,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+190,2,"19:29",1169,1169,"Sammy Mojica made Three Point Jumper. Assisted by Alihan Demir.",33,36,-3,0.332296696023432,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+191,2,"19:16",1156,1156,"Matt Lewis missed Jumper.",33,36,-3,0.363036281431197,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+192,2,"19:16",1156,1156,"Kurk Lee Block.",33,36,-3,0.363036281431197,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+193,2,"19:15",1155,1155,"Kurk Lee Defensive Rebound.",33,36,-3,0.363036281431197,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+194,2,"19:12",1152,1152,"Foul on Tramaine Isabell.",33,36,-3,0.363036281431197,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+195,2,"19:12",1152,1152,"Tramaine Isabell Turnover.",33,36,-3,0.363036281431197,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+196,2,"18:54",1134,1134,"Matt Lewis made Three Point Jumper.",33,39,-6,0.256255282926999,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+197,2,"18:35",1115,1115,"Alihan Demir made Layup.",35,39,-4,0.320941969231273,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+198,2,"18:27",1107,1107,"Matt Lewis Turnover.",35,39,-4,0.316439148484,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+199,2,"17:59",1079,1079,"Sammy Mojica missed Three Point Jumper.",35,39,-4,0.330163248835258,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+200,2,"17:59",1079,1079,"Darius Banks Defensive Rebound.",35,39,-4,0.330163248835258,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+201,2,"17:50",1070,1070,"Darius Banks missed Layup.",35,39,-4,0.330163248835258,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+202,2,"17:50",1070,1070,"Austin Williams Defensive Rebound.",35,39,-4,0.330163248835258,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+203,2,"17:31",1051,1051,"Kurk Lee missed Layup.",35,39,-4,0.314379692963563,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+204,2,"17:31",1051,1051,"Darius Banks Block.",35,39,-4,0.314379692963563,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+205,2,"17:27",1047,1047,"Darius Banks Defensive Rebound.",35,39,-4,0.325440694901796,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+206,2,"17:22",1042,1042,"Stuckey Mosley made Three Point Jumper. Assisted by Matt Lewis.",35,42,-7,0.221931215445716,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+207,2,"17:07",1027,1027,"Tramaine Isabell missed Jumper.",35,42,-7,0.2120674543178,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+208,2,"17:07",1027,1027,"Sammy Mojica Offensive Rebound.",35,42,-7,0.2120674543178,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+209,2,"17:03",1023,1023,"Sammy Mojica missed Jumper.",35,42,-7,0.2120674543178,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+210,2,"17:03",1023,1023,"Develle Phillips Defensive Rebound.",35,42,-7,0.2120674543178,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+211,2,"16:51",1011,1011,"Matt Lewis missed Layup.",35,42,-7,0.187189283652101,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+212,2,"16:51",1011,1011,"Drexel Defensive Rebound.",35,42,-7,0.187189283652101,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+213,2,"16:50",1010,1010,"Foul on Develle Phillips.",35,42,-7,0.187189283652101,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+214,2,"16:33",993,993,"Foul on Ramone Snowden.",35,42,-7,0.197485890751671,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+215,2,"16:33",993,993,"Sammy Mojica missed Free Throw.",35,42,-7,0.197485890751671,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+216,2,"16:33",993,993,"Drexel Deadball Team Rebound.",35,42,-7,0.197485890751671,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+217,2,"16:33",993,993,"Sammy Mojica made Free Throw.",36,42,-6,0.227306091649317,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+218,2,"16:02",962,962,"Stuckey Mosley made Jumper.",36,44,-8,0.169647087365079,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+219,2,"15:46",946,946,"Kurk Lee missed Jumper.",36,44,-8,0.173980477630072,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+220,2,"15:46",946,946,"Develle Phillips Defensive Rebound.",36,44,-8,0.173980477630072,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+221,2,"15:37",937,937,"Develle Phillips made Dunk. Assisted by Matt Lewis.",36,46,-10,0.11893142049054,"Drexel","James Madison",4,4,0,0,-1,401020166,2018-03-03
+222,2,"15:34",934,934,"Drexel  Timeout",36,46,-10,0.11893142049054,"Drexel","James Madison",3,4,1,0,-1,401020166,2018-03-03
+223,2,"15:34",934,934,"Official TV Timeout",36,46,-10,0.11893142049054,"Drexel","James Madison",3,4,1,0,-1,401020166,2018-03-03
+224,2,"15:07",907,907,"Sammy Mojica Turnover.",36,46,-10,0.11954527046291,"Drexel","James Madison",3,4,1,0,-1,401020166,2018-03-03
+225,2,"15:06",906,906,"Matt Lewis Steal.",36,46,-10,0.11954527046291,"Drexel","James Madison",3,4,1,0,-1,401020166,2018-03-03
+226,2,"14:58",898,898,"Dwight Wilson missed Layup.",36,46,-10,0.121296808499349,"Drexel","James Madison",3,4,1,0,-1,401020166,2018-03-03
+227,2,"14:58",898,898,"Austin Williams Defensive Rebound.",36,46,-10,0.121296808499349,"Drexel","James Madison",3,4,1,0,-1,401020166,2018-03-03
+228,2,"14:49",889,889,"Tramaine Isabell made Jumper. Assisted by Kurk Lee.",38,46,-8,0.182340157976204,"Drexel","James Madison",3,4,1,0,-1,401020166,2018-03-03
+229,2,"14:40",880,880,"Foul on Alihan Demir.",38,46,-8,0.182340157976204,"Drexel","James Madison",3,4,1,0,-1,401020166,2018-03-03
+230,2,"14:40",880,880,"Official TV Timeout",38,46,-8,0.182340157976204,"Drexel","James Madison",3,4,1,0,-1,401020166,2018-03-03
+231,2,"14:15",855,855,"Darius Banks Turnover.",38,46,-8,0.160435496063174,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+232,2,"14:13",853,853,"Tramaine Isabell Steal.",38,46,-8,0.160435496063174,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+233,2,"14:10",850,850,"Tramaine Isabell missed Layup.",38,46,-8,0.160435496063174,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+234,2,"14:10",850,850,"Matt Lewis Defensive Rebound.",38,46,-8,0.160435496063174,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+235,2,"14:00",840,840,"Foul on Kurk Lee.",38,46,-8,0.143695885045908,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+236,2,"13:45",825,825,"Matt Lewis missed Jumper.",38,46,-8,0.167062415417158,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+237,2,"13:45",825,825,"Tramaine Isabell Defensive Rebound.",38,46,-8,0.167062415417158,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+238,2,"13:25",805,805,"Kurk Lee missed Jumper.",38,46,-8,0.160638207767886,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+239,2,"13:25",805,805,"Austin Williams Offensive Rebound.",38,46,-8,0.160638207767886,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+240,2,"13:23",803,803,"Austin Williams made Jumper.",40,46,-6,0.223223968775716,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+241,2,"12:51",771,771,"Darius Banks missed Jumper.",40,46,-6,0.207550877417182,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+242,2,"12:51",771,771,"Darius Banks Offensive Rebound.",40,46,-6,0.207550877417182,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+243,2,"12:49",769,769,"Darius Banks made Layup.",40,48,-8,0.148138704085708,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+244,2,"12:42",762,762,"Foul on Stuckey Mosley.",40,48,-8,0.148138704085708,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+245,2,"12:42",762,762,"Tramaine Isabell made Free Throw.",41,48,-7,0.17750134365442,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+246,2,"12:42",762,762,"Tramaine Isabell made Free Throw.",42,48,-6,0.211240752187123,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+247,2,"12:35",755,755,"Matt Lewis Turnover.",42,48,-6,0.197078562441734,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+248,2,"12:35",755,755,"Kurk Lee Steal.",42,48,-6,0.197078562441734,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+249,2,"12:22",742,742,"Sammy Mojica missed Three Point Jumper.",42,48,-6,0.187388198783414,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+250,2,"12:22",742,742,"Austin Williams Offensive Rebound.",42,48,-6,0.187388198783414,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+251,2,"12:12",732,732,"Tramaine Isabell missed Three Point Jumper.",42,48,-6,0.214651294214255,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+252,2,"12:12",732,732,"Develle Phillips Defensive Rebound.",42,48,-6,0.214651294214255,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+253,2,"12:11",731,731,"Foul on Kurk Lee.",42,48,-6,0.214651294214255,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+254,2,"11:51",711,711,"Darius Banks missed Layup.",42,48,-6,0.181397558297819,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+255,2,"11:51",711,711,"Austin Williams Block.",42,48,-6,0.181397558297819,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+256,2,"11:49",709,709,"Tramaine Isabell Defensive Rebound.",42,48,-6,0.218348236129475,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+257,2,"11:40",700,700,"Troy Harper missed Three Point Jumper.",42,48,-6,0.218348236129475,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+258,2,"11:40",700,700,"Matt Lewis Defensive Rebound.",42,48,-6,0.218348236129475,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+259,2,"11:34",694,694,"Stuckey Mosley missed Three Point Jumper.",42,48,-6,0.178497827908034,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+260,2,"11:34",694,694,"Darius Banks Offensive Rebound.",42,48,-6,0.178497827908034,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+261,2,"11:29",689,689,"Darius Banks made Two Point Tip Shot.",42,50,-8,0.129821011530606,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+262,2,"11:29",689,689,"Official TV Timeout",42,50,-8,0.129821011530606,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+263,2,"11:14",674,674,"Sammy Mojica missed Jumper.",42,50,-8,0.121782259441556,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+264,2,"11:14",674,674,"James Madison Defensive Rebound.",42,50,-8,0.121782259441556,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+265,2,"11:04",664,664,"Matt Lewis Turnover.",42,50,-8,0.143546663536609,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+266,2,"11:03",663,663,"Troy Harper Steal.",42,50,-8,0.143546663536609,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+267,2,"11:03",663,663,"Foul on Matt Lewis.",42,50,-8,0.143546663536609,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+268,2,"10:50",650,650,"Austin Williams made Dunk. Assisted by Tramaine Isabell.",44,50,-6,0.193045679867548,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+269,2,"10:20",620,620,"Matt Lewis missed Jumper.",44,50,-6,0.167697495730493,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+270,2,"10:20",620,620,"Drexel Defensive Rebound.",44,50,-6,0.167697495730493,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+271,2,"10:20",620,620,"Foul on Develle Phillips.",44,50,-6,0.167697495730493,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+272,2,"10:07",607,607,"Tramaine Isabell missed Jumper.",44,50,-6,0.178606493247809,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+273,2,"10:07",607,607,"Austin Williams Offensive Rebound.",44,50,-6,0.178606493247809,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+274,2,"9:51",591,591,"Troy Harper made Jumper.",46,50,-4,0.266227539708615,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+275,2,"9:51",591,591,"Foul on Joey McLean.",46,50,-4,0.266227539708615,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+276,2,"9:51",591,591,"Troy Harper missed Free Throw.",46,50,-4,0.266227539708615,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+277,2,"9:51",591,591,"Dwight Wilson Defensive Rebound.",46,50,-4,0.266227539708615,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+278,2,"9:31",571,571,"Foul on Austin Williams.",46,50,-4,0.276697521502305,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+279,2,"9:31",571,571,"Darius Banks made Free Throw.",46,51,-5,0.228970107797093,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+280,2,"9:31",571,571,"Darius Banks made Free Throw.",46,52,-6,0.187342873921141,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+281,2,"9:21",561,561,"Alihan Demir missed Layup.",46,52,-6,0.169947749515132,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+282,2,"9:21",561,561,"Joey McLean Defensive Rebound.",46,52,-6,0.169947749515132,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+283,2,"9:07",547,547,"Darius Banks missed Three Point Jumper.",46,52,-6,0.150476908545968,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+284,2,"9:07",547,547,"Dwight Wilson Offensive Rebound.",46,52,-6,0.150476908545968,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+285,2,"9:03",543,543,"Dwight Wilson missed Layup.",46,52,-6,0.150476908545968,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+286,2,"9:03",543,543,"Alihan Demir Defensive Rebound.",46,52,-6,0.150476908545968,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+287,2,"9:00",540,540,"Tramaine Isabell made Three Point Jumper.",49,52,-3,0.283570964849822,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+288,2,"8:41",521,521,"Stuckey Mosley missed Jumper.",49,52,-3,0.312385939069058,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+289,2,"8:41",521,521,"Sammy Mojica Block.",49,52,-3,0.312385939069058,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+290,2,"8:39",519,519,"Austin Williams Defensive Rebound.",49,52,-3,0.297552644195008,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+291,2,"8:16",496,496,"Alihan Demir missed Jumper.",49,52,-3,0.32185883735324,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+292,2,"8:16",496,496,"Joey McLean Defensive Rebound.",49,52,-3,0.32185883735324,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+293,2,"7:55",475,475,"Dwight Wilson missed Layup.",49,52,-3,0.280202789004896,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+294,2,"7:55",475,475,"Austin Williams Block.",49,52,-3,0.280202789004896,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+295,2,"7:52",472,472,"Tramaine Isabell Defensive Rebound.",49,52,-3,0.280202789004896,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+296,2,"7:47",467,467,"Tramaine Isabell missed Jumper.",49,52,-3,0.283511960222545,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+297,2,"7:47",467,467,"Alihan Demir Offensive Rebound.",49,52,-3,0.283511960222545,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+298,2,"7:44",464,464,"Foul on Dwight Wilson.",49,52,-3,0.283511960222545,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+299,2,"7:44",464,464,"Official TV Timeout",49,52,-3,0.283511960222545,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+300,2,"7:44",464,464,"Alihan Demir made Free Throw.",50,52,-2,0.344070262869378,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+301,2,"7:44",464,464,"Alihan Demir made Free Throw.",51,52,-1,0.410158949665747,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+302,2,"7:23",443,443,"Darius Banks missed Jumper.",51,52,-1,0.431855552097899,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+303,2,"7:23",443,443,"Austin Williams Block.",51,52,-1,0.431855552097899,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+304,2,"7:22",442,442,"James Madison Offensive Rebound.",51,52,-1,0.431855552097899,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+305,2,"7:17",437,437,"Ramone Snowden missed Jumper.",51,52,-1,0.421416360915629,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+306,2,"7:17",437,437,"Austin Williams Defensive Rebound.",51,52,-1,0.421416360915629,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+307,2,"7:07",427,427,"Foul on Zach Jacobs.",51,52,-1,0.40287117270868,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+308,2,"7:07",427,427,"Tramaine Isabell made Free Throw.",52,52,0,0.475958730203551,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+309,2,"7:07",427,427,"Tramaine Isabell missed Free Throw.",52,52,0,0.475958730203551,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+310,2,"7:07",427,427,"Zach Jacobs Defensive Rebound.",52,52,0,0.475958730203551,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+311,2,"6:48",408,408,"Darius Banks missed Layup.",52,52,0,0.476242453889618,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+312,2,"6:48",408,408,"Austin Williams Block.",52,52,0,0.476242453889618,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+313,2,"6:46",406,406,"Darius Banks Offensive Rebound.",52,52,0,0.476242453889618,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+314,2,"6:45",405,405,"Darius Banks missed Layup.",52,52,0,0.476242453889618,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+315,2,"6:45",405,405,"Zach Jacobs Offensive Rebound.",52,52,0,0.476242453889618,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+316,2,"6:43",403,403,"Zach Jacobs missed Layup.",52,52,0,0.476242453889618,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+317,2,"6:43",403,403,"Zach Jacobs Offensive Rebound.",52,52,0,0.476242453889618,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+318,2,"6:33",393,393,"Zach Jacobs missed Three Point Jumper.",52,52,0,0.504675340084334,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+319,2,"6:33",393,393,"Tramaine Isabell Defensive Rebound.",52,52,0,0.504675340084334,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+320,2,"6:17",377,377,"Troy Harper missed Jumper.",52,52,0,0.472209184937389,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+321,2,"6:17",377,377,"Matt Lewis Defensive Rebound.",52,52,0,0.472209184937389,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+322,2,"6:04",364,364,"Foul on Stuckey Mosley.",52,52,0,0.493269638558394,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+323,2,"6:04",364,364,"Stuckey Mosley Turnover.",52,52,0,0.493269638558394,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+324,2,"5:36",336,336,"Foul on Tramaine Isabell.",52,52,0,0.504606002143879,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+325,2,"5:36",336,336,"Tramaine Isabell Turnover.",52,52,0,0.504606002143879,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+326,2,"5:17",317,317,"Stuckey Mosley missed Layup.",52,52,0,0.500468982746068,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+327,2,"5:17",317,317,"Austin Williams Block.",52,52,0,0.500468982746068,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+328,2,"5:16",316,316,"Austin Williams Defensive Rebound.",52,52,0,0.500468982746068,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+329,2,"5:12",312,312,"Foul on Joey McLean.",52,52,0,0.500468982746068,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+330,2,"5:12",312,312,"Troy Harper made Free Throw.",53,52,1,0.591095122845366,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+331,2,"5:12",312,312,"Troy Harper made Free Throw.",54,52,2,0.675926252932461,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+332,2,"4:51",291,291,"Foul on Troy Harper.",54,52,2,0.64307269763366,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+333,2,"4:51",291,291,"Matt Lewis made Free Throw.",54,53,1,0.561136601808952,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+334,2,"4:51",291,291,"Matt Lewis made Free Throw.",54,54,0,0.475725772187396,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+335,2,"4:37",277,277,"Tramaine Isabell Turnover.",54,54,0,0.465620105946409,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+336,2,"4:20",260,260,"Foul on Austin Williams.",54,54,0,0.494723930676437,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+337,2,"4:20",260,260,"Matt Lewis made Free Throw.",54,55,-1,0.402668694882925,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+338,2,"4:20",260,260,"Matt Lewis missed Free Throw.",54,55,-1,0.402668694882925,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+339,2,"4:20",260,260,"Austin Williams Defensive Rebound.",54,55,-1,0.402668694882925,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+340,2,"4:05",245,245,"Kurk Lee missed Three Point Jumper.",54,55,-1,0.388215566504927,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+341,2,"4:05",245,245,"Matt Lewis Defensive Rebound.",54,55,-1,0.388215566504927,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+342,2,"3:50",230,230,"Joey McLean missed Jumper.",54,55,-1,0.406350321353784,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+343,2,"3:50",230,230,"Austin Williams Defensive Rebound.",54,55,-1,0.406350321353784,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+344,2,"3:36",216,216,"Tramaine Isabell made Jumper.",56,55,1,0.587004399798286,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+345,2,"3:06",186,186,"Matt Lewis missed Three Point Jumper.",56,55,1,0.593731174968085,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+346,2,"3:06",186,186,"Austin Williams Defensive Rebound.",56,55,1,0.593731174968085,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+347,2,"2:47",167,167,"Foul on Matt Lewis.",56,55,1,0.623878099144783,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+348,2,"2:47",167,167,"Official TV Timeout",56,55,1,0.623878099144783,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+349,2,"2:47",167,167,"Tramaine Isabell made Free Throw.",57,55,2,0.734942906155064,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+350,2,"2:47",167,167,"Tramaine Isabell made Free Throw.",58,55,3,0.822540226267139,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+351,2,"2:22",142,142,"Stuckey Mosley missed Jumper.",58,55,3,0.795521217258171,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+352,2,"2:22",142,142,"Troy Harper Defensive Rebound.",58,55,3,0.795521217258171,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+353,2,"1:54",114,114,"Tramaine Isabell made Three Point Jumper. Assisted by Kurk Lee.",61,55,6,0.975453231861105,"Drexel","James Madison",3,4,0,0,-1,401020166,2018-03-03
+354,2,"1:47",107,107,"James Madison  Timeout",61,55,6,0.971731485070198,"Drexel","James Madison",3,3,0,1,-1,401020166,2018-03-03
+355,2,"1:32",92,92,"Stuckey Mosley missed Three Point Jumper.",61,55,6,0.977442887607366,"Drexel","James Madison",3,3,0,1,-1,401020166,2018-03-03
+356,2,"1:32",92,92,"Troy Harper Defensive Rebound.",61,55,6,0.977442887607366,"Drexel","James Madison",3,3,0,1,-1,401020166,2018-03-03
+357,2,"1:10",70,70,"Foul on Matt Lewis.",61,55,6,0.986194350315862,"Drexel","James Madison",3,3,0,1,-1,401020166,2018-03-03
+358,2,"1:10",70,70,"Tramaine Isabell made Free Throw.",62,55,7,0.993332203749163,"Drexel","James Madison",3,3,0,1,-1,401020166,2018-03-03
+359,2,"1:10",70,70,"Tramaine Isabell missed Free Throw.",62,55,7,0.993332203749163,"Drexel","James Madison",3,3,0,1,-1,401020166,2018-03-03
+360,2,"1:10",70,70,"Develle Phillips Defensive Rebound.",62,55,7,0.993332203749163,"Drexel","James Madison",3,3,0,1,-1,401020166,2018-03-03
+361,2,"1:01",61,61,"Darius Banks missed Three Point Jumper.",62,55,7,0.9937337038029,"Drexel","James Madison",3,3,0,1,-1,401020166,2018-03-03
+362,2,"1:01",61,61,"Stuckey Mosley Offensive Rebound.",62,55,7,0.9937337038029,"Drexel","James Madison",3,3,0,1,-1,401020166,2018-03-03
+363,2,"0:56",56,56,"Stuckey Mosley made Layup.",62,57,5,0.987023226748853,"Drexel","James Madison",3,3,0,1,-1,401020166,2018-03-03
+364,2,"0:54",54,54,"Foul on Ramone Snowden.",62,57,5,0.976863504880615,"Drexel","James Madison",3,3,0,1,-1,401020166,2018-03-03
+365,2,"0:54",54,54,"Troy Harper made Free Throw.",63,57,6,0.989038581127934,"Drexel","James Madison",3,3,0,1,-1,401020166,2018-03-03
+366,2,"0:54",54,54,"Troy Harper made Free Throw.",64,57,7,0.994840627205061,"Drexel","James Madison",3,3,0,1,-1,401020166,2018-03-03
+367,2,"0:46",46,46,"Ramone Snowden made Three Point Jumper. Assisted by Develle Phillips.",64,60,4,0.98497245686266,"Drexel","James Madison",3,3,0,0,-1,401020166,2018-03-03
+368,2,"0:44",44,44,"James Madison  Timeout",64,60,4,0.964089359237926,"Drexel","James Madison",3,2,0,1,-1,401020166,2018-03-03
+369,2,"0:42",42,42,"Foul on Matt Lewis.",64,60,4,0.971283432889331,"Drexel","James Madison",3,2,0,1,-1,401020166,2018-03-03
+370,2,"0:42",42,42,"Tramaine Isabell made Free Throw.",65,60,5,0.988159604948047,"Drexel","James Madison",3,2,0,1,-1,401020166,2018-03-03
+371,2,"0:42",42,42,"Tramaine Isabell made Free Throw.",66,60,6,0.995167323106888,"Drexel","James Madison",3,2,0,1,-1,401020166,2018-03-03
+372,2,"0:36",36,36,"Stuckey Mosley missed Layup.",66,60,6,0.996913851504595,"Drexel","James Madison",3,2,0,1,-1,401020166,2018-03-03
+373,2,"0:36",36,36,"Austin Williams Block.",66,60,6,0.996913851504595,"Drexel","James Madison",3,2,0,1,-1,401020166,2018-03-03
+374,2,"0:34",34,34,"Austin Williams Defensive Rebound.",66,60,6,0.993157817735329,"Drexel","James Madison",3,2,0,1,-1,401020166,2018-03-03
+375,2,"0:31",31,31,"Foul on Ramone Snowden.",66,60,6,0.996692598401889,"Drexel","James Madison",3,2,0,1,-1,401020166,2018-03-03
+376,2,"0:31",31,31,"Tramaine Isabell made Free Throw.",67,60,7,0.998732834293691,"Drexel","James Madison",3,2,0,1,-1,401020166,2018-03-03
+377,2,"0:31",31,31,"Tramaine Isabell made Free Throw.",68,60,8,0.99951512271791,"Drexel","James Madison",3,2,0,1,-1,401020166,2018-03-03
+378,2,"0:23",23,23,"Matt Lewis missed Jumper.",68,60,8,0.999973689353373,"Drexel","James Madison",3,2,0,1,-1,401020166,2018-03-03
+379,2,"0:23",23,23,"Greg Jones Offensive Rebound.",68,60,8,0.999973689353373,"Drexel","James Madison",3,2,0,1,-1,401020166,2018-03-03
+380,2,"0:18",18,18,"Develle Phillips missed Layup.",68,60,8,0.999768411266081,"Drexel","James Madison",3,2,0,1,-1,401020166,2018-03-03
+381,2,"0:18",18,18,"Stuckey Mosley Offensive Rebound.",68,60,8,0.999768411266081,"Drexel","James Madison",3,2,0,1,-1,401020166,2018-03-03
+382,2,"0:14",14,14,"Stuckey Mosley missed Layup.",68,60,8,0.999998899755266,"Drexel","James Madison",3,2,0,1,-1,401020166,2018-03-03
+383,2,"0:14",14,14,"Drexel Defensive Rebound.",68,60,8,0.999998899755266,"Drexel","James Madison",3,2,0,1,-1,401020166,2018-03-03
+384,2,"0:11",11,11,"Foul on Darius Banks.",68,60,8,0.99998814061358,"Drexel","James Madison",3,2,0,1,-1,401020166,2018-03-03
+385,2,"0:11",11,11,"Kurk Lee made Free Throw.",69,60,9,0.999996941561933,"Drexel","James Madison",3,2,0,1,-1,401020166,2018-03-03
+386,2,"0:11",11,11,"Kurk Lee made Free Throw.",70,60,10,0.999999211259168,"Drexel","James Madison",3,2,0,1,-1,401020166,2018-03-03
+387,2,"0:05",5,5,"Stuckey Mosley made Layup.",70,62,8,0.999998776596879,"Drexel","James Madison",3,2,0,1,-1,401020166,2018-03-03
+388,2,"0:00",0,0,"End of Game",70,62,8,1,"Drexel","James Madison",3,2,0,1,-1,401020166,2018-03-03

@@ -1,0 +1,300 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.878535193324199,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+2,1,"19:43",2383,2383,"Phil Valenti Turnover.",0,0,0,0.874347687975003,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+3,1,"19:42",2382,2382,"Kristinn Palsson Steal.",0,0,0,0.874347687975003,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+4,1,"19:18",2358,2358,"Brian Parker made Layup.",0,2,-2,0.854277404032362,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+5,1,"18:59",2339,2339,"Kiefer Douse missed Three Point Jumper.",0,2,-2,0.843941964173009,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+6,1,"18:59",2339,2339,"Malik Johnson Offensive Rebound.",0,2,-2,0.843941964173009,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+7,1,"18:55",2335,2335,"Kassius Robertson made Three Point Jumper. Assisted by Kiefer Douse.",3,2,1,0.877556071149188,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+8,1,"18:40",2320,2320,"Brian Parker made Layup.",3,4,-1,0.855634715001549,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+9,1,"18:31",2311,2311,"Phil Valenti Turnover.",3,4,-1,0.841588410603731,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+10,1,"18:18",2298,2298,"Foul on Malik Johnson.",3,4,-1,0.854927322596542,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+11,1,"18:18",2298,2298,"Khallid Hart made Free Throw.",3,5,-2,0.842412022347181,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+12,1,"18:18",2298,2298,"Khallid Hart made Free Throw.",3,6,-3,0.829032951135068,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+13,1,"18:02",2282,2282,"Foul on Khallid Hart.",3,6,-3,0.818745989121236,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+14,1,"18:02",2282,2282,"Jermaine Crumpton made Free Throw.",4,6,-2,0.833787960189381,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+15,1,"18:02",2282,2282,"Jermaine Crumpton made Free Throw.",5,6,-1,0.847813655178264,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+16,1,"17:32",2252,2252,"Kristinn Palsson made Three Point Jumper.",5,9,-4,0.803988920477383,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+17,1,"17:09",2229,2229,"Jermaine Crumpton made Layup. Assisted by Kiefer Douse.",7,9,-2,0.837929250958007,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+18,1,"16:48",2208,2208,"Khallid Hart missed Layup.",7,9,-2,0.829986478469311,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+19,1,"16:48",2208,2208,"Tobias Sjoberg Offensive Rebound.",7,9,-2,0.829986478469311,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+20,1,"16:42",2202,2202,"Kristinn Palsson made Layup.",7,11,-4,0.795632592578486,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+21,1,"16:14",2174,2174,"Jermaine Crumpton missed Three Point Jumper.",7,11,-4,0.793774692074903,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+22,1,"16:14",2174,2174,"Tobias Sjoberg Defensive Rebound.",7,11,-4,0.793774692074903,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+23,1,"16:01",2161,2161,"Tobias Sjoberg made Layup. Assisted by Brian Parker.",7,13,-6,0.752949255248069,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+24,1,"15:38",2138,2138,"Phil Valenti made Jumper.",9,13,-4,0.787805314348604,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+25,1,"15:17",2117,2117,"Khallid Hart missed Three Point Jumper.",9,13,-4,0.798891539799469,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+26,1,"15:17",2117,2117,"Kiefer Douse Defensive Rebound.",9,13,-4,0.798891539799469,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+27,1,"15:12",2112,2112,"Kassius Robertson made Three Point Jumper. Assisted by Kiefer Douse.",12,13,-1,0.84977535576924,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+28,1,"14:56",2096,2096,"Brian Parker Turnover.",12,13,-1,0.831290962753832,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+29,1,"14:55",2095,2095,"Malik Johnson Steal.",12,13,-1,0.831290962753832,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+30,1,"14:52",2092,2092,"Phil Valenti made Layup. Assisted by Malik Johnson.",14,13,1,0.863290176619514,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+31,1,"14:31",2071,2071,"Khallid Hart missed Three Point Jumper.",14,13,1,0.870027281057973,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+32,1,"14:31",2071,2071,"Tobias Sjoberg Offensive Rebound.",14,13,1,0.870027281057973,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+33,1,"14:31",2071,2071,"Foul on Phil Valenti.",14,13,1,0.870027281057973,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+34,1,"14:31",2071,2071,"Official TV Timeout",14,13,1,0.870027281057973,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+35,1,"14:15",2055,2055,"Ryan Funk missed Three Point Jumper.",14,13,1,0.8753696336154,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+36,1,"14:15",2055,2055,"Kassius Robertson Defensive Rebound.",14,13,1,0.8753696336154,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+37,1,"14:01",2041,2041,"Isaiah Reese made Layup. Assisted by Kiefer Douse.",16,13,3,0.883567048971671,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+38,1,"13:46",2026,2026,"Kentrall Brooks made Jumper. Assisted by Khallid Hart.",16,15,1,0.868098315528578,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+39,1,"13:27",2007,2007,"Kassius Robertson made Three Point Jumper. Assisted by Isaiah Reese.",19,15,4,0.896776240340851,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+40,1,"13:05",1985,1985,"David Knudsen missed Layup.",19,15,4,0.89448908557614,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+41,1,"13:05",1985,1985,"Kentrall Brooks Offensive Rebound.",19,15,4,0.89448908557614,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+42,1,"13:04",1984,1984,"Kentrall Brooks missed Two Point Tip Shot.",19,15,4,0.89448908557614,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+43,1,"13:04",1984,1984,"Phil Valenti Defensive Rebound.",19,15,4,0.89448908557614,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+44,1,"12:55",1975,1975,"Foul on Isaiah Lamb.",19,15,4,0.909836828504707,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+45,1,"12:55",1975,1975,"Phil Valenti missed Free Throw.",19,15,4,0.909836828504707,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+46,1,"12:55",1975,1975,"Canisius Deadball Team Rebound.",19,15,4,0.909836828504707,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+47,1,"12:55",1975,1975,"Phil Valenti made Free Throw.",20,15,5,0.919744301637617,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+48,1,"12:41",1961,1961,"Isaiah Lamb missed Three Point Jumper.",20,15,5,0.906831858945364,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+49,1,"12:41",1961,1961,"Jermaine Crumpton Defensive Rebound.",20,15,5,0.906831858945364,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+50,1,"12:24",1944,1944,"Kassius Robertson missed Jumper.",20,15,5,0.912518433272756,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+51,1,"12:24",1944,1944,"Isaiah Lamb Defensive Rebound.",20,15,5,0.912518433272756,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+52,1,"12:14",1934,1934,"Foul on Kiefer Douse.",20,15,5,0.909347614879628,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+53,1,"12:14",1934,1934,"Isaiah Lamb made Free Throw.",20,16,4,0.898121497799509,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+54,1,"12:14",1934,1934,"Isaiah Lamb made Free Throw.",20,17,3,0.885679944564198,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+55,1,"12:03",1923,1923,"Jermaine Crumpton missed Layup.",20,17,3,0.895174288684228,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+56,1,"12:03",1923,1923,"Jermaine Crumpton Offensive Rebound.",20,17,3,0.895174288684228,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+57,1,"11:59",1919,1919,"Kiefer Douse missed Three Point Jumper.",20,17,3,0.896961009293788,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+58,1,"11:59",1919,1919,"Kiefer Douse Offensive Rebound.",20,17,3,0.896961009293788,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+59,1,"11:45",1905,1905,"Isaiah Reese missed Three Point Jumper.",20,17,3,0.889511070398985,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+60,1,"11:45",1905,1905,"David Knudsen Defensive Rebound.",20,17,3,0.889511070398985,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+61,1,"11:33",1893,1893,"Brian Parker missed Layup.",20,17,3,0.889972432843778,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+62,1,"11:33",1893,1893,"Spencer Foley Defensive Rebound.",20,17,3,0.889972432843778,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+63,1,"11:27",1887,1887,"Kassius Robertson made Three Point Jumper. Assisted by Isaiah Reese.",23,17,6,0.921484269283665,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+64,1,"10:50",1850,1850,"Brian Parker made Layup.",23,19,4,0.900438730094288,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+65,1,"10:26",1826,1826,"Jermaine Crumpton missed Three Point Jumper.",23,19,4,0.906832151135006,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+66,1,"10:26",1826,1826,"Isaiah Lamb Defensive Rebound.",23,19,4,0.906832151135006,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+67,1,"10:08",1808,1808,"Isaiah Lamb missed Three Point Jumper.",23,19,4,0.899258333725447,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+68,1,"10:08",1808,1808,"Tobias Sjoberg Offensive Rebound.",23,19,4,0.899258333725447,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+69,1,"10:04",1804,1804,"Tobias Sjoberg made Layup.",23,21,2,0.873455327850278,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+70,1,"9:44",1784,1784,"Isaiah Reese missed Layup.",23,21,2,0.859050016572065,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+71,1,"9:44",1784,1784,"Canisius Offensive Rebound.",23,21,2,0.859050016572065,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+72,1,"9:42",1782,1782,"Official TV Timeout",23,21,2,0.859050016572065,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+73,1,"9:23",1763,1763,"Spencer Foley missed Three Point Jumper.",23,21,2,0.880798136052057,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+74,1,"9:23",1763,1763,"Khallid Hart Defensive Rebound.",23,21,2,0.880798136052057,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+75,1,"8:57",1737,1737,"Brian Parker missed Layup.",23,21,2,0.872919490666171,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+76,1,"8:57",1737,1737,"Malik Johnson Defensive Rebound.",23,21,2,0.872919490666171,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+77,1,"8:48",1728,1728,"Phil Valenti missed Three Point Jumper.",23,21,2,0.860925764974054,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+78,1,"8:48",1728,1728,"Tobias Sjoberg Defensive Rebound.",23,21,2,0.860925764974054,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+79,1,"8:33",1713,1713,"Kristinn Palsson missed Three Point Jumper.",23,21,2,0.878919090477652,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+80,1,"8:33",1713,1713,"Marist Offensive Rebound.",23,21,2,0.878919090477652,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+81,1,"8:28",1708,1708,"Khallid Hart made Three Point Jumper.",23,24,-1,0.813611221996888,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+82,1,"8:01",1681,1681,"Isaiah Reese made Three Point Jumper. Assisted by Spencer Foley.",26,24,2,0.879908078940555,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+83,1,"7:44",1664,1664,"Khallid Hart made Three Point Jumper. Assisted by Tobias Sjoberg.",26,27,-1,0.817059321513927,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+84,1,"7:32",1652,1652,"Isaiah Reese missed Jumper.",26,27,-1,0.811734531652578,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+85,1,"7:32",1652,1652,"Ryan Funk Defensive Rebound.",26,27,-1,0.811734531652578,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+86,1,"7:18",1638,1638,"Khallid Hart missed Jumper.",26,27,-1,0.816296709204339,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+87,1,"7:18",1638,1638,"Isaiah Reese Defensive Rebound.",26,27,-1,0.816296709204339,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+88,1,"7:08",1628,1628,"Malik Johnson missed Layup.",26,27,-1,0.81096311958414,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+89,1,"7:08",1628,1628,"Brian Parker Defensive Rebound.",26,27,-1,0.81096311958414,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+90,1,"7:04",1624,1624,"Brian Parker missed Layup.",26,27,-1,0.81096311958414,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+91,1,"7:04",1624,1624,"Phil Valenti Defensive Rebound.",26,27,-1,0.81096311958414,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+92,1,"6:38",1598,1598,"Spencer Foley missed Three Point Jumper.",26,27,-1,0.809177626924543,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+93,1,"6:38",1598,1598,"Khallid Hart Defensive Rebound.",26,27,-1,0.809177626924543,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+94,1,"6:37",1597,1597,"Foul on Spencer Foley.",26,27,-1,0.809177626924543,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+95,1,"6:37",1597,1597,"Official TV Timeout",26,27,-1,0.809177626924543,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+96,1,"6:08",1568,1568,"Kentrall Brooks missed Jumper.",26,27,-1,0.800576644058339,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+97,1,"6:08",1568,1568,"Kassius Robertson Defensive Rebound.",26,27,-1,0.800576644058339,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+98,1,"5:53",1553,1553,"Spencer Foley made Three Point Jumper. Assisted by Kassius Robertson.",29,27,2,0.857502964589241,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+99,1,"5:29",1529,1529,"Ryan Funk missed Jumper.",29,27,2,0.861496792270638,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+100,1,"5:29",1529,1529,"Kassius Robertson Defensive Rebound.",29,27,2,0.861496792270638,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+101,1,"5:10",1510,1510,"Jermaine Crumpton missed Jumper.",29,27,2,0.869336767920887,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+102,1,"5:10",1510,1510,"Marist Defensive Rebound.",29,27,2,0.869336767920887,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+103,1,"5:09",1509,1509,"Foul on Phil Valenti.",29,27,2,0.863331636047646,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+104,1,"4:58",1498,1498,"Brian Parker Turnover.",29,27,2,0.868527245318674,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+105,1,"4:58",1498,1498,"Foul on Brian Parker.",29,27,2,0.868527245318674,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+106,1,"4:43",1483,1483,"Selvedin Planincic missed Layup.",29,27,2,0.861238037331592,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+107,1,"4:43",1483,1483,"Kentrall Brooks Block.",29,27,2,0.861238037331592,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+108,1,"4:43",1483,1483,"Canisius Offensive Rebound.",29,27,2,0.861238037331592,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+109,1,"4:33",1473,1473,"Kassius Robertson made Three Point Jumper.",32,27,5,0.919487926114443,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+110,1,"4:11",1451,1451,"Foul on Malik Johnson.",32,27,5,0.904973148634362,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+111,1,"4:11",1451,1451,"Isaiah Lamb made Free Throw.",32,28,4,0.89151501142527,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+112,1,"4:11",1451,1451,"Isaiah Lamb made Free Throw.",32,29,3,0.876411167050768,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+113,1,"4:02",1442,1442,"Foul on Kristinn Palsson.",32,29,3,0.887511605818093,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+114,1,"4:02",1442,1442,"Jermaine Crumpton made Free Throw.",33,29,4,0.901831439786046,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+115,1,"4:02",1442,1442,"Jermaine Crumpton made Free Throw.",34,29,5,0.914503957426524,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+116,1,"3:52",1432,1432,"Kristinn Palsson Turnover.",34,29,5,0.904208697534753,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+117,1,"3:52",1432,1432,"Official TV Timeout",34,29,5,0.904208697534753,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+118,1,"3:44",1424,1424,"Selvedin Planincic made Dunk. Assisted by Isaiah Reese.",36,29,7,0.920723831342507,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+119,1,"3:28",1408,1408,"Foul on Selvedin Planincic.",36,29,7,0.936042727903312,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+120,1,"3:28",1408,1408,"Khallid Hart made Free Throw.",36,30,6,0.926112284677286,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+121,1,"3:28",1408,1408,"Khallid Hart made Free Throw.",36,31,5,0.914780348491102,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+122,1,"3:05",1385,1385,"Jermaine Crumpton Turnover.",36,31,5,0.908816443935387,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+123,1,"2:54",1374,1374,"Foul on Kiefer Douse.",36,31,5,0.899956148738068,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+124,1,"2:54",1374,1374,"Brian Parker missed Free Throw.",36,31,5,0.899956148738068,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+125,1,"2:54",1374,1374,"Selvedin Planincic Defensive Rebound.",36,31,5,0.899956148738068,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+126,1,"2:34",1354,1354,"Jermaine Crumpton missed Jumper.",36,31,5,0.909976633901108,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+127,1,"2:34",1354,1354,"Tobias Sjoberg Block.",36,31,5,0.909976633901108,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+128,1,"2:34",1354,1354,"Canisius Offensive Rebound.",36,31,5,0.909976633901108,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+129,1,"2:25",1345,1345,"Isaiah Reese Turnover.",36,31,5,0.899731142610408,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+130,1,"2:24",1344,1344,"Brian Parker Steal.",36,31,5,0.899731142610408,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+131,1,"2:19",1339,1339,"Brian Parker Turnover.",36,31,5,0.898928837047864,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+132,1,"2:18",1338,1338,"Isaiah Reese Steal.",36,31,5,0.898928837047864,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+133,1,"2:13",1333,1333,"Spencer Foley missed Three Point Jumper.",36,31,5,0.898928837047864,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+134,1,"2:13",1333,1333,"Marist Defensive Rebound.",36,31,5,0.898928837047864,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+135,1,"2:12",1332,1332,"Foul on Selvedin Planincic.",36,31,5,0.898928837047864,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+136,1,"2:12",1332,1332,"Ryan Funk missed Free Throw.",36,31,5,0.898928837047864,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+137,1,"2:12",1332,1332,"Dantai St. Louis Defensive Rebound.",36,31,5,0.898928837047864,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+138,1,"1:54",1314,1314,"Jermaine Crumpton missed Layup.",36,31,5,0.90859374726483,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+139,1,"1:54",1314,1314,"Tobias Sjoberg Block.",36,31,5,0.90859374726483,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+140,1,"1:52",1312,1312,"Tobias Sjoberg Defensive Rebound.",36,31,5,0.90859374726483,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+141,1,"1:34",1294,1294,"Foul on Dantai St. Louis.",36,31,5,0.907287267995237,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+142,1,"1:34",1294,1294,"Richie Mitchell made Free Throw.",36,32,4,0.892210498280664,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+143,1,"1:34",1294,1294,"Richie Mitchell made Free Throw.",36,33,3,0.875019706046065,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+144,1,"1:21",1281,1281,"Jermaine Crumpton made Layup. Assisted by Kassius Robertson.",38,33,5,0.906664194784764,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+145,1,"0:50",1250,1250,"Khallid Hart Turnover.",38,33,5,0.893224731563651,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+146,1,"0:48",1248,1248,"Dantai St. Louis Steal.",38,33,5,0.904997995025902,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+147,1,"0:31",1231,1231,"Dantai St. Louis missed Jumper.",38,33,5,0.89808845357804,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+148,1,"0:31",1231,1231,"Ryan Funk Defensive Rebound.",38,33,5,0.89808845357804,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+149,1,"0:07",1207,1207,"Richie Mitchell Turnover.",38,33,5,0.903046017614003,"Canisius","Marist",4,4,1,0,11,400917581,2017-01-14
+150,1,"0:07",1207,1207,"Foul on Richie Mitchell.",38,33,5,0.903046017614003,"Canisius","Marist",4,4,1,0,11,400917581,2017-01-14
+151,1,"0:07",1207,1207,"Canisius  Timeout",38,33,5,0.903046017614003,"Canisius","Marist",3,4,1,0,11,400917581,2017-01-14
+152,1,"0:00",1200,1200,"Spencer Foley missed Three Point Jumper.",38,33,5,0.903046017614003,"Canisius","Marist",3,4,1,0,11,400917581,2017-01-14
+153,1,"0:00",1200,1200,"Khallid Hart Defensive Rebound.",38,33,5,0.903046017614003,"Canisius","Marist",3,4,1,0,11,400917581,2017-01-14
+154,1,"0:00",1200,1200,"End of 1st half",38,33,5,0.903046017614003,"Canisius","Marist",3,4,1,0,11,400917581,2017-01-14
+155,2,"20:00",1200,1200,"PLAY",38,33,5,0.903046017614003,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+156,2,"19:48",1188,1188,"Ryan Funk missed Three Point Jumper.",38,33,5,0.906328845125834,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+157,2,"19:48",1188,1188,"Marist Offensive Rebound.",38,33,5,0.906328845125834,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+158,2,"19:42",1182,1182,"Kristinn Palsson made Jumper.",38,35,3,0.874189587285817,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+159,2,"19:16",1156,1156,"Jermaine Crumpton missed Three Point Jumper.",38,35,3,0.864660531998256,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+160,2,"19:16",1156,1156,"Ryan Funk Defensive Rebound.",38,35,3,0.864660531998256,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+161,2,"19:07",1147,1147,"Brian Parker made Layup.",38,37,1,0.817374904427505,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+162,2,"18:46",1126,1126,"Kiefer Douse Turnover.",38,37,1,0.82697504160295,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+163,2,"18:44",1124,1124,"Khallid Hart Steal.",38,37,1,0.82697504160295,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+164,2,"18:19",1099,1099,"Foul on Jermaine Crumpton.",38,37,1,0.834068464145968,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+165,2,"18:19",1099,1099,"Kristinn Palsson made Free Throw.",38,38,0,0.80896234839409,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+166,2,"18:19",1099,1099,"Kristinn Palsson missed Free Throw.",38,38,0,0.80896234839409,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+167,2,"18:19",1099,1099,"Kiefer Douse Defensive Rebound.",38,38,0,0.80896234839409,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+168,2,"17:51",1071,1071,"Malik Johnson missed Jumper.",38,38,0,0.79318383058213,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+169,2,"17:51",1071,1071,"Kristinn Palsson Defensive Rebound.",38,38,0,0.79318383058213,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+170,2,"17:38",1058,1058,"Tobias Sjoberg missed Layup.",38,38,0,0.799452939997502,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+171,2,"17:38",1058,1058,"Malik Johnson Defensive Rebound.",38,38,0,0.799452939997502,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+172,2,"17:23",1043,1043,"Phil Valenti made Layup.",40,38,2,0.855557731053129,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+173,2,"16:52",1012,1012,"Khallid Hart made Jumper. Assisted by Brian Parker.",40,40,0,0.769784505841569,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+174,2,"16:39",999,999,"Phil Valenti made Layup. Assisted by Kiefer Douse.",42,40,2,0.837164083984285,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+175,2,"16:37",997,997,"Foul on Ryan Funk.",42,40,2,0.837164083984285,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+176,2,"16:37",997,997,"Phil Valenti made Free Throw.",43,40,3,0.860058252903519,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+177,2,"16:23",983,983,"Brian Parker made Layup.",43,42,1,0.814762408165861,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+178,2,"16:22",982,982,"Foul on Kiefer Douse.",43,42,1,0.814762408165861,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+179,2,"16:22",982,982,"Brian Parker made Free Throw.",43,43,0,0.78269686581397,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+180,2,"15:51",951,951,"Isaiah Reese missed Three Point Jumper.",43,43,0,0.794566907980101,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+181,2,"15:51",951,951,"Dantai St. Louis Offensive Rebound.",43,43,0,0.794566907980101,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+182,2,"15:50",950,950,"Official TV Timeout",43,43,0,0.794566907980101,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+183,2,"15:41",941,941,"Dantai St. Louis made Dunk. Assisted by Kassius Robertson.",45,43,2,0.8561005256879,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+184,2,"15:25",925,925,"Khallid Hart missed Three Point Jumper.",45,43,2,0.825411380762624,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+185,2,"15:25",925,925,"Kiefer Douse Defensive Rebound.",45,43,2,0.825411380762624,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+186,2,"15:06",906,906,"Isaiah Reese missed Three Point Jumper.",45,43,2,0.835037638470895,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+187,2,"15:06",906,906,"Isaiah Reese Offensive Rebound.",45,43,2,0.835037638470895,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+188,2,"15:04",904,904,"Isaiah Reese made Layup.",47,43,4,0.881258381409701,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+189,2,"14:42",882,882,"Foul on Dantai St. Louis.",47,43,4,0.871385261930224,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+190,2,"14:42",882,882,"Isaiah Lamb made Free Throw.",47,44,3,0.85061190861857,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+191,2,"14:42",882,882,"Isaiah Lamb made Free Throw.",47,45,2,0.827148879696032,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+192,2,"14:26",866,866,"Phil Valenti missed Layup.",47,45,2,0.835363674144291,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+193,2,"14:26",866,866,"Kentrall Brooks Block.",47,45,2,0.835363674144291,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+194,2,"14:24",864,864,"Isaiah Lamb Defensive Rebound.",47,45,2,0.835363674144291,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+195,2,"14:15",855,855,"Ryan Funk missed Three Point Jumper.",47,45,2,0.845005662346081,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+196,2,"14:15",855,855,"Isaiah Reese Defensive Rebound.",47,45,2,0.845005662346081,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+197,2,"14:10",850,850,"Kassius Robertson made Three Point Jumper. Assisted by Isaiah Reese.",50,45,5,0.909810108074618,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+198,2,"13:45",825,825,"Kentrall Brooks made Layup. Assisted by Khallid Hart.",50,47,3,0.864309276157545,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+199,2,"13:24",804,804,"Phil Valenti missed Layup.",50,47,3,0.874846820529766,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+200,2,"13:24",804,804,"Dantai St. Louis Offensive Rebound.",50,47,3,0.874846820529766,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+201,2,"13:22",802,802,"Dantai St. Louis made Layup.",52,47,5,0.913015354956362,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+202,2,"12:47",767,767,"Khallid Hart missed Three Point Jumper.",52,47,5,0.919274487064553,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+203,2,"12:47",767,767,"Kassius Robertson Defensive Rebound.",52,47,5,0.919274487064553,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+204,2,"12:31",751,751,"Isaiah Reese made Layup. Assisted by Phil Valenti.",54,47,7,0.940975721382312,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+205,2,"12:06",726,726,"Khallid Hart missed Jumper.",54,47,7,0.940748962632123,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+206,2,"12:06",726,726,"Canisius Defensive Rebound.",54,47,7,0.940748962632123,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+207,2,"11:46",706,706,"Spencer Foley missed Three Point Jumper.",54,47,7,0.932323538417539,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+208,2,"11:46",706,706,"Phil Valenti Offensive Rebound.",54,47,7,0.932323538417539,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+209,2,"11:43",703,703,"Phil Valenti made Two Point Tip Shot.",56,47,9,0.95471018732074,"Canisius","Marist",4,4,0,0,11,400917581,2017-01-14
+210,2,"11:34",694,694,"Marist  Timeout",56,47,9,0.969059605173937,"Canisius","Marist",4,3,0,1,11,400917581,2017-01-14
+211,2,"11:14",674,674,"Brian Parker Turnover.",56,47,9,0.96274552238144,"Canisius","Marist",4,3,0,1,11,400917581,2017-01-14
+212,2,"10:57",657,657,"Isaiah Reese missed Layup.",56,47,9,0.964407460993771,"Canisius","Marist",4,3,0,1,11,400917581,2017-01-14
+213,2,"10:57",657,657,"Tobias Sjoberg Defensive Rebound.",56,47,9,0.964407460993771,"Canisius","Marist",4,3,0,1,11,400917581,2017-01-14
+214,2,"10:46",646,646,"Ryan Funk made Three Point Jumper. Assisted by Khallid Hart.",56,50,6,0.928581040585236,"Canisius","Marist",4,3,0,1,11,400917581,2017-01-14
+215,2,"10:26",626,626,"Phil Valenti missed Layup.",56,50,6,0.939252355403428,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+216,2,"10:26",626,626,"Brian Parker Defensive Rebound.",56,50,6,0.939252355403428,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+217,2,"10:20",620,620,"Foul on Spencer Foley.",56,50,6,0.939252355403428,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+218,2,"10:20",620,620,"Khallid Hart missed Free Throw.",56,50,6,0.939252355403428,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+219,2,"10:20",620,620,"Marist Deadball Team Rebound.",56,50,6,0.939252355403428,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+220,2,"10:20",620,620,"Khallid Hart made Free Throw.",56,51,5,0.923218898865992,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+221,2,"10:00",600,600,"Isaiah Reese made Layup.",58,51,7,0.94650834558829,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+222,2,"9:37",577,577,"Ryan Funk missed Three Point Jumper.",58,51,7,0.950624638578487,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+223,2,"9:37",577,577,"Phil Valenti Defensive Rebound.",58,51,7,0.950624638578487,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+224,2,"9:18",558,558,"Kassius Robertson missed Layup.",58,51,7,0.946871175227421,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+225,2,"9:18",558,558,"Canisius Offensive Rebound.",58,51,7,0.946871175227421,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+226,2,"9:09",549,549,"Jermaine Crumpton made Three Point Jumper. Assisted by Kassius Robertson.",61,51,10,0.974948837457156,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+227,2,"8:53",533,533,"Khallid Hart made Layup.",61,53,8,0.96854701782491,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+228,2,"8:28",508,508,"Foul on Khallid Hart.",61,53,8,0.962780544518429,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+229,2,"8:28",508,508,"Kassius Robertson made Free Throw.",62,53,9,0.971359369349745,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+230,2,"8:28",508,508,"Kassius Robertson made Free Throw.",63,53,10,0.978006006184636,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+231,2,"8:18",498,498,"Brian Parker Turnover.",63,53,10,0.977594466132408,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+232,2,"8:17",497,497,"Kassius Robertson Steal.",63,53,10,0.977594466132408,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+233,2,"8:13",493,493,"Phil Valenti made Dunk. Assisted by Kassius Robertson.",65,53,12,0.986872909284043,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+234,2,"7:53",473,473,"Tobias Sjoberg Turnover.",65,53,12,0.989485342926175,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+235,2,"7:53",473,473,"Foul on Tobias Sjoberg.",65,53,12,0.989485342926175,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+236,2,"7:53",473,473,"Official TV Timeout",65,53,12,0.989485342926175,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+237,2,"7:45",465,465,"Phil Valenti missed Layup.",65,53,12,0.987892862423996,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+238,2,"7:45",465,465,"Kristinn Palsson Defensive Rebound.",65,53,12,0.987892862423996,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+239,2,"7:22",442,442,"Khallid Hart missed Layup.",65,53,12,0.98514108266248,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+240,2,"7:22",442,442,"Spencer Foley Block.",65,53,12,0.98514108266248,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+241,2,"7:20",440,440,"Jermaine Crumpton Defensive Rebound.",65,53,12,0.98514108266248,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+242,2,"7:04",424,424,"Phil Valenti made Three Point Jumper. Assisted by Malik Johnson.",68,53,15,0.995300261974155,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+243,2,"6:39",399,399,"Isaiah Lamb missed Layup.",68,53,15,0.996536374536684,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+244,2,"6:39",399,399,"Jermaine Crumpton Block.",68,53,15,0.996536374536684,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+245,2,"6:39",399,399,"Marist Offensive Rebound.",68,53,15,0.996536374536684,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+246,2,"6:33",393,393,"Khallid Hart missed Three Point Jumper.",68,53,15,0.996536374536684,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+247,2,"6:33",393,393,"Jermaine Crumpton Defensive Rebound.",68,53,15,0.996536374536684,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+248,2,"6:22",382,382,"Jermaine Crumpton made Layup. Assisted by Kassius Robertson.",70,53,17,0.997766591763281,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+249,2,"6:00",360,360,"Kristinn Palsson Turnover.",70,53,17,0.99829019248462,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+250,2,"5:42",342,342,"Kassius Robertson made Three Point Jumper.",73,53,20,0.99944507028303,"Canisius","Marist",4,3,0,0,11,400917581,2017-01-14
+251,2,"5:36",336,336,"Marist  Timeout",73,53,20,0.999673796532877,"Canisius","Marist",4,2,0,1,11,400917581,2017-01-14
+252,2,"5:36",336,336,"Foul on Malik Johnson.",73,53,20,0.999673796532877,"Canisius","Marist",4,2,0,1,11,400917581,2017-01-14
+253,2,"5:25",325,325,"Isaiah Lamb missed Three Point Jumper.",73,53,20,0.999288962533039,"Canisius","Marist",4,2,0,1,11,400917581,2017-01-14
+254,2,"5:25",325,325,"Jermaine Crumpton Defensive Rebound.",73,53,20,0.999288962533039,"Canisius","Marist",4,2,0,1,11,400917581,2017-01-14
+255,2,"5:21",321,321,"Phil Valenti made Dunk. Assisted by Malik Johnson.",75,53,22,0.999620357635403,"Canisius","Marist",4,2,0,1,11,400917581,2017-01-14
+256,2,"5:08",308,308,"Foul on Kassius Robertson.",75,53,22,0.999742615628161,"Canisius","Marist",4,2,0,1,11,400917581,2017-01-14
+257,2,"4:55",295,295,"Ryan Funk missed Three Point Jumper.",75,53,22,0.999801113815334,"Canisius","Marist",4,2,0,1,11,400917581,2017-01-14
+258,2,"4:55",295,295,"Phil Valenti Defensive Rebound.",75,53,22,0.999801113815334,"Canisius","Marist",4,2,0,1,11,400917581,2017-01-14
+259,2,"4:55",295,295,"Kassius Robertson made Three Point Jumper. Assisted by Malik Johnson.",78,53,25,0.999928905349094,"Canisius","Marist",4,2,0,1,11,400917581,2017-01-14
+260,2,"4:28",268,268,"Ryan Funk missed Three Point Jumper.",78,53,25,0.999962569131332,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+261,2,"4:28",268,268,"Canisius Defensive Rebound.",78,53,25,0.999962569131332,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+262,2,"4:07",247,247,"Selvedin Planincic Turnover.",78,53,25,0.999981347856885,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+263,2,"4:05",245,245,"Ryan Funk Steal.",78,53,25,0.999981347856885,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+264,2,"3:58",238,238,"Official TV Timeout",78,53,25,0.999981798435918,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+265,2,"3:57",237,237,"David Knudsen Turnover.",78,53,25,0.999981798435918,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+266,2,"3:56",236,236,"Kassius Robertson Steal.",78,53,25,0.999981798435918,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+267,2,"3:52",232,232,"Kassius Robertson missed Three Point Jumper.",78,53,25,0.999981798435918,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+268,2,"3:52",232,232,"Selvedin Planincic Offensive Rebound.",78,53,25,0.999981798435918,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+269,2,"3:49",229,229,"Selvedin Planincic made Layup.",80,53,27,0.999995933151901,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+270,2,"3:26",206,206,"Kristinn Palsson missed Jumper.",80,53,27,0.999998055089725,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+271,2,"3:26",206,206,"Selvedin Planincic Defensive Rebound.",80,53,27,0.999998055089725,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+272,2,"3:18",198,198,"Jermaine Crumpton Turnover.",80,53,27,0.999998182037513,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+273,2,"3:18",198,198,"Foul on Jermaine Crumpton.",80,53,27,0.999998182037513,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+274,2,"3:03",183,183,"Richie Mitchell Turnover.",80,53,27,0.999998963754127,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+275,2,"3:00",180,180,"Malik Johnson Steal.",80,53,27,0.999998963754127,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+276,2,"2:57",177,177,"Martin Dixon-Green missed Three Point Jumper.",80,53,27,0.999999226595446,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+277,2,"2:57",177,177,"Kristinn Palsson Defensive Rebound.",80,53,27,0.999999226595446,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+278,2,"2:53",173,173,"David Knudsen missed Three Point Jumper.",80,53,27,0.999999226595446,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+279,2,"2:53",173,173,"Isaiah Lamb Offensive Rebound.",80,53,27,0.999999226595446,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+280,2,"2:44",164,164,"Obi Momah Turnover.",80,53,27,0.999999657886278,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+281,2,"2:25",145,145,"Kassius Robertson made Three Point Jumper.",83,53,30,0.999999919679218,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+282,2,"2:24",144,144,"Foul on David Knudsen.",83,53,30,0.999999919679218,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+283,2,"2:24",144,144,"Kassius Robertson made Free Throw.",84,53,31,0.999999952158905,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+284,2,"2:04",124,124,"Kristinn Palsson Turnover.",84,53,31,0.999999987070859,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+285,2,"1:57",117,117,"Isaiah Reese made Three Point Jumper. Assisted by Selvedin Planincic.",87,53,34,0.999999999340699,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+286,2,"1:35",95,95,"Isaiah Lamb made Layup.",87,55,32,0.999999998889066,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+287,2,"1:35",95,95,"Foul on Selvedin Planincic.",87,55,32,0.999999998889066,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+288,2,"1:35",95,95,"Isaiah Lamb made Free Throw.",87,56,31,0.999999997916496,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+289,2,"1:12",72,72,"Foul on Richie Mitchell.",87,56,31,0.999999999923348,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+290,2,"1:03",63,63,"Isaiah Reese missed Layup.",87,56,31,0.999999999920119,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+291,2,"1:03",63,63,"Selvedin Planincic Offensive Rebound.",87,56,31,0.999999999920119,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+292,2,"1:01",61,61,"Selvedin Planincic made Layup.",89,56,33,0.999999999981897,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+293,2,"0:52",52,52,"Foul on Chris Atkinson.",89,56,33,0.999999999998528,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+294,2,"0:52",52,52,"Richie Mitchell made Free Throw.",89,57,32,0.999999999996717,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+295,2,"0:52",52,52,"Richie Mitchell made Free Throw.",89,58,31,0.999999999992679,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+296,2,"0:29",29,29,"Chris Atkinson made Layup.",91,58,33,0.999999999999997,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+297,2,"0:17",17,17,"Isaiah Lamb missed Three Point Jumper.",91,58,33,1,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+298,2,"0:17",17,17,"Spencer Foley Defensive Rebound.",91,58,33,1,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14
+299,2,"0:00",0,0,"End of Game",91,58,33,1,"Canisius","Marist",4,2,0,0,11,400917581,2017-01-14

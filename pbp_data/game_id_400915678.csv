@@ -1,0 +1,356 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.372091874756716,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+2,1,"19:41",2381,2381,"Charlie Moore missed Layup.",0,0,0,0.376698414258514,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+3,1,"19:41",2381,2381,"Kameron Rooks Offensive Rebound.",0,0,0,0.376698414258514,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+4,1,"19:38",2378,2378,"Kameron Rooks made Layup.",0,2,-2,0.349867763389424,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+5,1,"19:07",2347,2347,"Stanford  Turnover.",0,2,-2,0.342602460926012,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+6,1,"18:58",2338,2338,"Foul on Kameron Rooks.",0,2,-2,0.343862947364649,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+7,1,"18:58",2338,2338,"Kameron Rooks Turnover.",0,2,-2,0.343862947364649,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+8,1,"18:38",2318,2318,"Michael Humphrey missed Three Point Jumper.",0,2,-2,0.337230878955886,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+9,1,"18:38",2318,2318,"Jabari Bird Defensive Rebound.",0,2,-2,0.337230878955886,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+10,1,"18:30",2310,2310,"Charlie Moore Turnover.",0,2,-2,0.337230878955886,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+11,1,"18:28",2308,2308,"Dorian Pickens Steal.",0,2,-2,0.338029526493115,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+12,1,"18:25",2305,2305,"Marcus Allen missed Layup.",0,2,-2,0.338029526493115,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+13,1,"18:25",2305,2305,"Reid Travis Offensive Rebound.",0,2,-2,0.338029526493115,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+14,1,"18:22",2302,2302,"Reid Travis missed Layup.",0,2,-2,0.338029526493115,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+15,1,"18:22",2302,2302,"Dorian Pickens Offensive Rebound.",0,2,-2,0.338029526493115,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+16,1,"18:14",2294,2294,"Dorian Pickens Turnover.",0,2,-2,0.347318579823476,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+17,1,"18:13",2293,2293,"Charlie Moore Steal.",0,2,-2,0.347318579823476,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+18,1,"17:52",2272,2272,"Charlie Moore made Jumper.",0,4,-4,0.300088993484648,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+19,1,"17:21",2241,2241,"Foul on Kingsley Okoroh.",0,4,-4,0.323698652282783,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+20,1,"17:21",2241,2241,"Reid Travis made Free Throw.",1,4,-3,0.344627787648819,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+21,1,"17:21",2241,2241,"Reid Travis made Free Throw.",2,4,-2,0.366177444283085,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+22,1,"17:03",2223,2223,"Kingsley Okoroh made Layup. Assisted by Ivan Rabb.",2,6,-4,0.299554148177928,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+23,1,"16:42",2202,2202,"Reid Travis missed Jumper.",2,6,-4,0.293557328338219,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+24,1,"16:42",2202,2202,"Jabari Bird Defensive Rebound.",2,6,-4,0.293557328338219,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+25,1,"16:26",2186,2186,"Kingsley Okoroh Turnover.",2,6,-4,0.295681878505242,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+26,1,"16:25",2185,2185,"Michael Humphrey Steal.",2,6,-4,0.295681878505242,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+27,1,"16:19",2179,2179,"Foul on Ivan Rabb.",2,6,-4,0.289059933545508,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+28,1,"16:19",2179,2179,"Dorian Pickens made Free Throw.",3,6,-3,0.311885173443029,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+29,1,"16:19",2179,2179,"Dorian Pickens made Free Throw.",4,6,-2,0.335661813479955,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+30,1,"16:03",2163,2163,"Sam Singer missed Jumper.",4,6,-2,0.341031083847645,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+31,1,"16:03",2163,2163,"California Deadball Team Rebound.",4,6,-2,0.341031083847645,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+32,1,"16:00",2160,2160,"Foul on Dorian Pickens.",4,6,-2,0.341031083847645,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+33,1,"15:59",2159,2159,"Grant Mullins Turnover.",4,6,-2,0.324909759272594,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+34,1,"15:59",2159,2159,"Official TV Timeout",4,6,-2,0.324909759272594,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+35,1,"15:32",2132,2132,"Reid Travis missed Jumper.",4,6,-2,0.331565474065222,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+36,1,"15:32",2132,2132,"Ivan Rabb Defensive Rebound.",4,6,-2,0.331565474065222,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+37,1,"15:08",2108,2108,"Ivan Rabb made Jumper.",4,8,-4,0.288718267568963,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+38,1,"14:39",2079,2079,"Michael Humphrey missed Jumper.",4,8,-4,0.284913242769162,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+39,1,"14:39",2079,2079,"Reid Travis Offensive Rebound.",4,8,-4,0.284913242769162,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+40,1,"14:31",2071,2071,"Robert Cartwright made Three Point Jumper. Assisted by Reid Travis.",7,8,-1,0.354612934610835,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+41,1,"14:11",2051,2051,"Grant Mullins made Three Point Jumper. Assisted by Sam Singer.",7,11,-4,0.26997339901124,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+42,1,"13:50",2030,2030,"Michael Humphrey missed Jumper.",7,11,-4,0.292843406041891,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+43,1,"13:50",2030,2030,"Sam Singer Defensive Rebound.",7,11,-4,0.292843406041891,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+44,1,"13:35",2015,2015,"Jabari Bird missed Jumper.",7,11,-4,0.293871468664479,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+45,1,"13:35",2015,2015,"Marcus Allen Block.",7,11,-4,0.293871468664479,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+46,1,"13:34",2014,2014,"Ivan Rabb Offensive Rebound.",7,11,-4,0.293871468664479,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+47,1,"13:29",2009,2009,"Ivan Rabb made Layup.",7,13,-6,0.246366248220897,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+48,1,"13:20",2000,2000,"Robert Cartwright missed Three Point Jumper.",7,13,-6,0.246366248220897,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+49,1,"13:20",2000,2000,"Grant Mullins Defensive Rebound.",7,13,-6,0.246366248220897,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+50,1,"12:59",1979,1979,"Jabari Bird made Three Point Jumper. Assisted by Sam Singer.",7,16,-9,0.167823725483677,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+51,1,"12:57",1977,1977,"Stanford  Timeout",7,16,-9,0.167823725483677,"Stanford","California",3,4,1,0,-2.5,400915678,2017-02-17
+52,1,"12:35",1955,1955,"Marcus Sheffield Turnover.",7,16,-9,0.182054907013837,"Stanford","California",3,4,1,0,-2.5,400915678,2017-02-17
+53,1,"12:17",1937,1937,"Stephen Domingo missed Jumper.",7,16,-9,0.164170764418235,"Stanford","California",3,4,1,0,-2.5,400915678,2017-02-17
+54,1,"12:17",1937,1937,"Jabari Bird Offensive Rebound.",7,16,-9,0.164170764418235,"Stanford","California",3,4,1,0,-2.5,400915678,2017-02-17
+55,1,"12:14",1934,1934,"Jabari Bird missed Dunk.",7,16,-9,0.164170764418235,"Stanford","California",3,4,1,0,-2.5,400915678,2017-02-17
+56,1,"12:14",1934,1934,"Jabari Bird Offensive Rebound.",7,16,-9,0.164170764418235,"Stanford","California",3,4,1,0,-2.5,400915678,2017-02-17
+57,1,"12:12",1932,1932,"Jabari Bird missed Layup.",7,16,-9,0.164170764418235,"Stanford","California",3,4,1,0,-2.5,400915678,2017-02-17
+58,1,"12:12",1932,1932,"Kingsley Okoroh Offensive Rebound.",7,16,-9,0.164170764418235,"Stanford","California",3,4,1,0,-2.5,400915678,2017-02-17
+59,1,"12:08",1928,1928,"Kingsley Okoroh missed Layup.",7,16,-9,0.160817207095046,"Stanford","California",3,4,1,0,-2.5,400915678,2017-02-17
+60,1,"12:08",1928,1928,"Michael Humphrey Defensive Rebound.",7,16,-9,0.160817207095046,"Stanford","California",3,4,1,0,-2.5,400915678,2017-02-17
+61,1,"11:53",1913,1913,"Michael Humphrey missed Three Point Jumper.",7,16,-9,0.180737626433158,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+62,1,"11:53",1913,1913,"Jabari Bird Defensive Rebound.",7,16,-9,0.180737626433158,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+63,1,"11:36",1896,1896,"Jabari Bird made Three Point Jumper. Assisted by Charlie Moore.",7,19,-12,0.120417060898991,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+64,1,"11:04",1864,1864,"Foul on Don Coleman.",7,19,-12,0.125400303163633,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+65,1,"11:04",1864,1864,"Official TV Timeout",7,19,-12,0.125400303163633,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+66,1,"11:04",1864,1864,"Dorian Pickens made Free Throw.",8,19,-11,0.140908030085405,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+67,1,"11:04",1864,1864,"Dorian Pickens made Free Throw.",9,19,-10,0.157987106590942,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+68,1,"10:52",1852,1852,"Foul on Kingsley Okoroh.",9,19,-10,0.159169231108122,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+69,1,"10:52",1852,1852,"Kingsley Okoroh Turnover.",9,19,-10,0.159169231108122,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+70,1,"10:32",1832,1832,"Marcus Sheffield made Jumper.",11,19,-8,0.197783956399228,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+71,1,"10:06",1806,1806,"Grant Mullins made Three Point Jumper. Assisted by Jabari Bird.",11,22,-11,0.134252200634277,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+72,1,"9:51",1791,1791,"Reid Travis made Jumper.",13,22,-9,0.167077783735214,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+73,1,"9:33",1773,1773,"Ivan Rabb missed Jumper.",13,22,-9,0.170332206254971,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+74,1,"9:33",1773,1773,"Christian Sanders Defensive Rebound.",13,22,-9,0.170332206254971,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+75,1,"9:23",1763,1763,"Reid Travis made Layup. Assisted by Christian Sanders.",15,22,-7,0.206687097319658,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+76,1,"9:02",1742,1742,"Charlie Moore missed Three Point Jumper.",15,22,-7,0.229700039931164,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+77,1,"9:02",1742,1742,"Reid Travis Defensive Rebound.",15,22,-7,0.229700039931164,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+78,1,"8:57",1737,1737,"Foul on Ivan Rabb.",15,22,-7,0.201755912094088,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+79,1,"8:57",1737,1737,"Reid Travis made Free Throw.",16,22,-6,0.22469286683595,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+80,1,"8:57",1737,1737,"Reid Travis missed Free Throw.",16,22,-6,0.22469286683595,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+81,1,"8:57",1737,1737,"Kingsley Okoroh Defensive Rebound.",16,22,-6,0.22469286683595,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+82,1,"8:35",1715,1715,"Foul on Charlie Moore.",16,22,-6,0.226087144232088,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+83,1,"8:35",1715,1715,"Don Coleman Turnover.",16,22,-6,0.226087144232088,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+84,1,"8:31",1711,1711,"Foul on Christian Sanders.",16,22,-6,0.226087144232088,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+85,1,"8:31",1711,1711,"Christian Sanders Turnover.",16,22,-6,0.226087144232088,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+86,1,"8:16",1696,1696,"Jabari Bird Turnover.",16,22,-6,0.231473519265276,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+87,1,"8:15",1695,1695,"Marcus Allen Steal.",16,22,-6,0.231473519265276,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+88,1,"8:12",1692,1692,"Marcus Allen made Layup.",18,22,-4,0.286058470038171,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+89,1,"7:53",1673,1673,"Kingsley Okoroh made Dunk. Assisted by Charlie Moore.",18,24,-6,0.22578302773669,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+90,1,"7:32",1652,1652,"Official TV Timeout",18,24,-6,0.240159972630011,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+91,1,"7:30",1650,1650,"Foul on Stephen Domingo.",18,24,-6,0.240159972630011,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+92,1,"7:30",1650,1650,"Christian Sanders made Free Throw.",19,24,-5,0.265176126343942,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+93,1,"7:30",1650,1650,"Christian Sanders made Free Throw.",20,24,-4,0.291797385997806,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+94,1,"7:09",1629,1629,"Foul on Michael Humphrey.",20,24,-4,0.269200490478726,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+95,1,"7:01",1621,1621,"Charlie Moore made Layup.",20,26,-6,0.217268439394808,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+96,1,"6:48",1608,1608,"Michael Humphrey made Jumper.",22,26,-4,0.272570639986487,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+97,1,"6:34",1594,1594,"Charlie Moore missed Layup.",22,26,-4,0.300999746696956,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+98,1,"6:34",1594,1594,"Michael Humphrey Defensive Rebound.",22,26,-4,0.300999746696956,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+99,1,"6:27",1587,1587,"Dorian Pickens made Three Point Jumper. Assisted by Christian Sanders.",25,26,-1,0.352930846400062,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+100,1,"5:53",1553,1553,"Jabari Bird made Dunk. Assisted by Charlie Moore.",25,28,-3,0.300650448464479,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+101,1,"5:38",1538,1538,"Christian Sanders Turnover.",25,28,-3,0.308669149393945,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+102,1,"5:37",1537,1537,"Kingsley Okoroh Steal.",25,28,-3,0.308669149393945,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+103,1,"5:17",1517,1517,"Jabari Bird Turnover.",25,28,-3,0.317933917381783,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+104,1,"5:15",1515,1515,"Reid Travis Steal.",25,28,-3,0.317933917381783,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+105,1,"5:15",1515,1515,"Foul on Charlie Moore.",25,28,-3,0.317933917381783,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+106,1,"5:15",1515,1515,"Reid Travis made Free Throw.",26,28,-2,0.351873221991889,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+107,1,"5:15",1515,1515,"Reid Travis missed Free Throw.",26,28,-2,0.351873221991889,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+108,1,"5:15",1515,1515,"Stephen Domingo Defensive Rebound.",26,28,-2,0.351873221991889,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+109,1,"5:04",1504,1504,"Grant Mullins missed Three Point Jumper.",26,28,-2,0.336735638491268,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+110,1,"5:04",1504,1504,"Reid Travis Defensive Rebound.",26,28,-2,0.336735638491268,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+111,1,"4:50",1490,1490,"Reid Travis made Layup.",28,28,0,0.427750197946949,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+112,1,"4:20",1460,1460,"Sam Singer Turnover.",28,28,0,0.432984881148172,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+113,1,"4:19",1459,1459,"Robert Cartwright Steal.",28,28,0,0.391329451422351,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+114,1,"4:16",1456,1456,"Marcus Allen made Dunk. Assisted by Robert Cartwright.",30,28,2,0.463351657379521,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+115,1,"3:50",1430,1430,"Roger Moute A Bidias missed Layup.",30,28,2,0.500495792015895,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+116,1,"3:50",1430,1430,"California Deadball Team Rebound.",30,28,2,0.500495792015895,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+117,1,"3:49",1429,1429,"Official TV Timeout",30,28,2,0.475277689264981,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+118,1,"3:49",1429,1429,"Foul on Josh Sharma.",30,28,2,0.475277689264981,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+119,1,"3:49",1429,1429,"Roger Moute A Bidias Turnover.",30,28,2,0.475277689264981,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+120,1,"3:23",1403,1403,"Reid Travis missed Jumper.",30,28,2,0.497220257850955,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+121,1,"3:23",1403,1403,"Kameron Rooks Defensive Rebound.",30,28,2,0.497220257850955,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+122,1,"3:06",1386,1386,"Foul on Kameron Rooks.",30,28,2,0.493532561974333,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+123,1,"3:06",1386,1386,"Kameron Rooks Turnover.",30,28,2,0.493532561974333,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+124,1,"2:49",1369,1369,"Reid Travis missed Layup.",30,28,2,0.48679978332214,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+125,1,"2:49",1369,1369,"Kingsley Okoroh Block.",30,28,2,0.48679978332214,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+126,1,"2:46",1366,1366,"Kingsley Okoroh Defensive Rebound.",30,28,2,0.48679978332214,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+127,1,"2:42",1362,1362,"Grant Mullins missed Three Point Jumper.",30,28,2,0.48679978332214,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+128,1,"2:42",1362,1362,"Stanford Defensive Rebound.",30,28,2,0.48679978332214,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+129,1,"2:27",1347,1347,"Marcus Allen missed Layup.",30,28,2,0.488695425461595,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+130,1,"2:27",1347,1347,"Michael Humphrey Offensive Rebound.",30,28,2,0.488695425461595,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+131,1,"2:24",1344,1344,"Michael Humphrey made Layup.",32,28,4,0.567251958217196,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+132,1,"1:59",1319,1319,"Grant Mullins missed Three Point Jumper.",32,28,4,0.589349223168294,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+133,1,"1:59",1319,1319,"Roger Moute A Bidias Offensive Rebound.",32,28,4,0.589349223168294,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+134,1,"1:53",1313,1313,"Jabari Bird made Three Point Jumper. Assisted by Roger Moute A Bidias.",32,31,1,0.472107210478908,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+135,1,"1:47",1307,1307,"Dorian Pickens missed Three Point Jumper.",32,31,1,0.462186352495343,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+136,1,"1:47",1307,1307,"Don Coleman Defensive Rebound.",32,31,1,0.462186352495343,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+137,1,"1:38",1298,1298,"Jabari Bird Turnover.",32,31,1,0.488795051583413,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+138,1,"1:28",1288,1288,"Foul on Jabari Bird.",32,31,1,0.441369518047471,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+139,1,"1:28",1288,1288,"Dorian Pickens made Free Throw.",33,31,2,0.478558837188975,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+140,1,"1:28",1288,1288,"Dorian Pickens made Free Throw.",34,31,3,0.515987354875354,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+141,1,"1:17",1277,1277,"Don Coleman made Layup.",34,33,1,0.430061415490197,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+142,1,"1:11",1271,1271,"Marcus Allen made Layup.",36,33,3,0.504519173672265,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+143,1,"0:55",1255,1255,"Stephen Domingo missed Three Point Jumper.",36,33,3,0.532541029519244,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+144,1,"0:55",1255,1255,"Jabari Bird Offensive Rebound.",36,33,3,0.532541029519244,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+145,1,"0:49",1249,1249,"Foul on Michael Humphrey.",36,33,3,0.524138181138355,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+146,1,"0:49",1249,1249,"Don Coleman missed Free Throw.",36,33,3,0.524138181138355,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+147,1,"0:49",1249,1249,"California Deadball Team Rebound.",36,33,3,0.524138181138355,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+148,1,"0:49",1249,1249,"Don Coleman made Free Throw.",36,34,2,0.485450388514485,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+149,1,"0:26",1226,1226,"Marcus Allen missed Three Point Jumper.",36,34,2,0.50511491786298,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+150,1,"0:26",1226,1226,"Reid Travis Offensive Rebound.",36,34,2,0.50511491786298,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+151,1,"0:20",1220,1220,"Reid Travis missed Layup.",36,34,2,0.50511491786298,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+152,1,"0:20",1220,1220,"Stephen Domingo Block.",36,34,2,0.50511491786298,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+153,1,"0:20",1220,1220,"Stanford Offensive Rebound.",36,34,2,0.50511491786298,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+154,1,"0:14",1214,1214,"Reid Travis made Jumper.",38,34,4,0.575362621888321,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+155,1,"0:02",1202,1202,"Don Coleman missed Three Point Jumper.",38,34,4,0.570338611814651,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+156,1,"0:02",1202,1202,"Jabari Bird Offensive Rebound.",38,34,4,0.570338611814651,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+157,1,"0:00",1200,1200,"End of 1st half",38,34,4,0.570338611814651,"Stanford","California",3,4,0,0,-2.5,400915678,2017-02-17
+158,2,"20:00",1200,1200,"PLAY",38,34,4,0.570338611814651,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+159,2,"19:45",1185,1185,"Ivan Rabb missed Jumper.",38,34,4,0.57503211694348,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+160,2,"19:45",1185,1185,"Ivan Rabb Offensive Rebound.",38,34,4,0.57503211694348,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+161,2,"19:43",1183,1183,"Foul on Michael Humphrey.",38,34,4,0.57503211694348,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+162,2,"19:43",1183,1183,"Ivan Rabb made Free Throw.",38,35,3,0.534163416824101,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+163,2,"19:43",1183,1183,"Ivan Rabb missed Free Throw.",38,35,3,0.534163416824101,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+164,2,"19:43",1183,1183,"Josh Sharma Defensive Rebound.",38,35,3,0.534163416824101,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+165,2,"19:24",1164,1164,"Foul on Kingsley Okoroh.",38,35,3,0.510558200332464,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+166,2,"19:04",1144,1144,"Foul on Christian Sanders.",38,35,3,0.555101460227559,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+167,2,"19:04",1144,1144,"Christian Sanders Turnover.",38,35,3,0.555101460227559,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+168,2,"18:55",1135,1135,"Jabari Bird Turnover.",38,35,3,0.540100303242511,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+169,2,"18:45",1125,1125,"Foul on Grant Mullins.",38,35,3,0.548816256006991,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+170,2,"18:45",1125,1125,"Marcus Allen made Free Throw.",39,35,4,0.594392313956368,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+171,2,"18:45",1125,1125,"Marcus Allen missed Free Throw.",39,35,4,0.594392313956368,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+172,2,"18:45",1125,1125,"Ivan Rabb Defensive Rebound.",39,35,4,0.594392313956368,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+173,2,"18:36",1116,1116,"Jabari Bird missed Three Point Jumper.",39,35,4,0.60304108514461,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+174,2,"18:36",1116,1116,"Reid Travis Defensive Rebound.",39,35,4,0.60304108514461,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+175,2,"18:28",1108,1108,"Marcus Allen made Layup. Assisted by Christian Sanders.",41,35,6,0.652036749760666,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+176,2,"18:10",1090,1090,"Jabari Bird made Three Point Jumper. Assisted by Charlie Moore.",41,38,3,0.551953125703677,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+177,2,"17:59",1079,1079,"Josh Sharma missed Three Point Jumper.",41,38,3,0.56420600006576,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+178,2,"17:59",1079,1079,"Charlie Moore Defensive Rebound.",41,38,3,0.56420600006576,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+179,2,"17:48",1068,1068,"Charlie Moore missed Layup.",41,38,3,0.574963778989067,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+180,2,"17:48",1068,1068,"Ivan Rabb Offensive Rebound.",41,38,3,0.574963778989067,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+181,2,"17:41",1061,1061,"Charlie Moore missed Three Point Jumper.",41,38,3,0.574963778989067,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+182,2,"17:41",1061,1061,"Marcus Allen Defensive Rebound.",41,38,3,0.574963778989067,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+183,2,"17:31",1051,1051,"Reid Travis missed Layup.",41,38,3,0.564138307656987,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+184,2,"17:31",1051,1051,"Stanford Offensive Rebound.",41,38,3,0.564138307656987,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+185,2,"17:26",1046,1046,"Foul on Kameron Rooks.",41,38,3,0.567600748069115,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+186,2,"17:26",1046,1046,"Reid Travis missed Free Throw.",41,38,3,0.567600748069115,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+187,2,"17:26",1046,1046,"Stanford Deadball Team Rebound.",41,38,3,0.567600748069115,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+188,2,"17:26",1046,1046,"Reid Travis made Free Throw.",42,38,4,0.609987165931125,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+189,2,"17:18",1038,1038,"Jabari Bird made Three Point Jumper. Assisted by Grant Mullins.",42,41,1,0.453719791033233,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+190,2,"17:04",1024,1024,"Reid Travis missed Layup.",42,41,1,0.475484489935618,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+191,2,"17:04",1024,1024,"Kameron Rooks Defensive Rebound.",42,41,1,0.475484489935618,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+192,2,"17:04",1024,1024,"Foul on Reid Travis.",42,41,1,0.475484489935618,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+193,2,"16:43",1003,1003,"Ivan Rabb made Layup.",42,43,-1,0.36603885275644,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+194,2,"16:43",1003,1003,"Foul on Josh Sharma.",42,43,-1,0.36603885275644,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+195,2,"16:43",1003,1003,"Ivan Rabb made Free Throw.",42,44,-2,0.324001187273273,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+196,2,"16:30",990,990,"Dorian Pickens made Three Point Jumper. Assisted by Robert Cartwright.",45,44,1,0.45120246717397,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+197,2,"15:59",959,959,"Sam Singer Turnover.",45,44,1,0.447725680092424,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+198,2,"15:58",958,958,"Robert Cartwright Steal.",45,44,1,0.447725680092424,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+199,2,"15:56",956,956,"Robert Cartwright missed Layup.",45,44,1,0.447725680092424,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+200,2,"15:56",956,956,"Ivan Rabb Defensive Rebound.",45,44,1,0.447725680092424,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+201,2,"15:43",943,943,"Jabari Bird missed Jumper.",45,44,1,0.487019557249869,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+202,2,"15:43",943,943,"Josh Sharma Block.",45,44,1,0.487019557249869,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+203,2,"15:42",942,942,"Josh Sharma Defensive Rebound.",45,44,1,0.487019557249869,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+204,2,"15:35",935,935,"Dorian Pickens missed Three Point Jumper.",45,44,1,0.473206878076,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+205,2,"15:35",935,935,"Reid Travis Offensive Rebound.",45,44,1,0.473206878076,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+206,2,"15:10",910,910,"Reid Travis made Dunk. Assisted by Robert Cartwright.",47,44,3,0.558361201052512,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+207,2,"14:49",889,889,"Sam Singer missed Three Point Jumper.",47,44,3,0.551420877411855,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+208,2,"14:49",889,889,"Dorian Pickens Defensive Rebound.",47,44,3,0.551420877411855,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+209,2,"14:25",865,865,"Official TV Timeout",47,44,3,0.554702427782502,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+210,2,"14:21",861,861,"Foul on Michael Humphrey.",47,44,3,0.554702427782502,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+211,2,"14:21",861,861,"Michael Humphrey Turnover.",47,44,3,0.554702427782502,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+212,2,"14:03",843,843,"Foul on Josh Sharma.",47,44,3,0.587072624947561,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+213,2,"14:03",843,843,"Ivan Rabb missed Free Throw.",47,44,3,0.587072624947561,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+214,2,"14:03",843,843,"California Deadball Team Rebound.",47,44,3,0.587072624947561,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+215,2,"14:03",843,843,"Ivan Rabb missed Free Throw.",47,44,3,0.587072624947561,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+216,2,"14:03",843,843,"Josh Sharma Defensive Rebound.",47,44,3,0.587072624947561,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+217,2,"13:52",832,832,"Josh Sharma missed Jumper.",47,44,3,0.568261156903291,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+218,2,"13:52",832,832,"Jabari Bird Defensive Rebound.",47,44,3,0.568261156903291,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+219,2,"13:38",818,818,"Ivan Rabb missed Jumper.",47,44,3,0.546415658817893,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+220,2,"13:38",818,818,"Robert Cartwright Defensive Rebound.",47,44,3,0.546415658817893,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+221,2,"13:16",796,796,"Foul on Ivan Rabb.",47,44,3,0.585176279295126,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+222,2,"13:16",796,796,"Robert Cartwright made Free Throw.",48,44,4,0.637337107383579,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+223,2,"13:16",796,796,"Robert Cartwright made Free Throw.",49,44,5,0.686453435760277,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+224,2,"12:55",775,775,"Foul on Don Coleman.",49,44,5,0.683375234049286,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+225,2,"12:55",775,775,"Don Coleman Turnover.",49,44,5,0.683375234049286,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+226,2,"12:44",764,764,"Marcus Allen missed Layup.",49,44,5,0.699464776706352,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+227,2,"12:44",764,764,"Grant Verhoeven Offensive Rebound.",49,44,5,0.699464776706352,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+228,2,"12:40",760,760,"Grant Verhoeven missed Layup.",49,44,5,0.699464776706352,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+229,2,"12:40",760,760,"Kameron Rooks Block.",49,44,5,0.699464776706352,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+230,2,"12:39",759,759,"Grant Verhoeven Offensive Rebound.",49,44,5,0.684817036639521,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+231,2,"12:39",759,759,"Foul on Kameron Rooks.",49,44,5,0.684817036639521,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+232,2,"12:39",759,759,"Grant Verhoeven made Free Throw.",50,44,6,0.729724313825158,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+233,2,"12:39",759,759,"Grant Verhoeven missed Free Throw.",50,44,6,0.729724313825158,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+234,2,"12:39",759,759,"Kingsley Okoroh Defensive Rebound.",50,44,6,0.729724313825158,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+235,2,"12:11",731,731,"Foul on Grant Verhoeven.",50,44,6,0.745954682548414,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+236,2,"12:11",731,731,"Charlie Moore missed Free Throw.",50,44,6,0.745954682548414,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+237,2,"12:11",731,731,"California Deadball Team Rebound.",50,44,6,0.745954682548414,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+238,2,"12:11",731,731,"Charlie Moore missed Free Throw.",50,44,6,0.745954682548414,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+239,2,"12:11",731,731,"Dorian Pickens Defensive Rebound.",50,44,6,0.745954682548414,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+240,2,"11:53",713,713,"Josh Sharma made Layup. Assisted by Marcus Sheffield.",52,44,8,0.793830186899782,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+241,2,"11:35",695,695,"Ivan Rabb Turnover.",52,44,8,0.829698584685136,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+242,2,"11:35",695,695,"Reid Travis Steal.",52,44,8,0.829698584685136,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+243,2,"11:34",694,694,"Dorian Pickens made Layup. Assisted by Christian Sanders.",54,44,10,0.886839289514865,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+244,2,"11:33",693,693,"Official TV Timeout",54,44,10,0.886839289514865,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+245,2,"11:33",693,693,"Foul on Kingsley Okoroh.",54,44,10,0.886839289514865,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+246,2,"11:33",693,693,"Dorian Pickens made Free Throw.",55,44,11,0.908589732271084,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+247,2,"11:13",673,673,"Ivan Rabb made Jumper.",55,46,9,0.855560214145765,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+248,2,"11:00",660,660,"Reid Travis Turnover.",55,46,9,0.868068635878272,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+249,2,"10:59",659,659,"Jabari Bird Steal.",55,46,9,0.876394042097982,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+250,2,"10:43",643,643,"Jabari Bird missed Three Point Jumper.",55,46,9,0.874902565003557,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+251,2,"10:43",643,643,"Christian Sanders Defensive Rebound.",55,46,9,0.874902565003557,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+252,2,"10:28",628,628,"Marcus Allen missed Three Point Jumper.",55,46,9,0.877071018690578,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+253,2,"10:28",628,628,"Charlie Moore Defensive Rebound.",55,46,9,0.877071018690578,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+254,2,"10:18",618,618,"Grant Mullins made Three Point Jumper.",55,49,6,0.77004421806658,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+255,2,"9:57",597,597,"Foul on Kameron Rooks.",55,49,6,0.769526353869899,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+256,2,"9:57",597,597,"Reid Travis missed Free Throw.",55,49,6,0.769526353869899,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+257,2,"9:57",597,597,"Stephen Domingo Defensive Rebound.",55,49,6,0.769526353869899,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+258,2,"9:30",570,570,"Charlie Moore missed Layup.",55,49,6,0.801567854486902,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+259,2,"9:30",570,570,"Reid Travis Defensive Rebound.",55,49,6,0.801567854486902,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+260,2,"9:27",567,567,"Foul on Charlie Moore.",55,49,6,0.788024312021051,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+261,2,"9:27",567,567,"Reid Travis made Free Throw.",56,49,7,0.827928206083125,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+262,2,"9:27",567,567,"Reid Travis made Free Throw.",57,49,8,0.861639210088511,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+263,2,"9:12",552,552,"Foul on Jabari Bird.",57,49,8,0.858086602172747,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+264,2,"9:12",552,552,"Jabari Bird Turnover.",57,49,8,0.858086602172747,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+265,2,"9:00",540,540,"Dorian Pickens missed Three Point Jumper.",57,49,8,0.864189639325638,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+266,2,"9:00",540,540,"Stephen Domingo Defensive Rebound.",57,49,8,0.864189639325638,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+267,2,"8:40",520,520,"Jabari Bird missed Three Point Jumper.",57,49,8,0.887068978158229,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+268,2,"8:40",520,520,"Stanford Defensive Rebound.",57,49,8,0.887068978158229,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+269,2,"8:20",500,500,"Grant Verhoeven made Layup. Assisted by Robert Cartwright.",59,49,10,0.930476936215818,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+270,2,"8:09",489,489,"Grant Mullins missed Three Point Jumper.",59,49,10,0.925813060907623,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+271,2,"8:09",489,489,"Stanford Defensive Rebound.",59,49,10,0.925813060907623,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+272,2,"7:54",474,474,"Dorian Pickens made Three Point Jumper. Assisted by Josh Sharma.",62,49,13,0.971796305376013,"Stanford","California",4,4,0,0,-2.5,400915678,2017-02-17
+273,2,"7:45",465,465,"Official TV Timeout",62,49,13,0.968109093002424,"Stanford","California",4,4,0,1,-2.5,400915678,2017-02-17
+274,2,"7:45",465,465,"California  Timeout",62,49,13,0.968109093002424,"Stanford","California",4,3,0,1,-2.5,400915678,2017-02-17
+275,2,"7:27",447,447,"Official TV Timeout",62,49,13,0.969295270580607,"Stanford","California",4,3,0,1,-2.5,400915678,2017-02-17
+276,2,"7:15",435,435,"Ivan Rabb made Layup. Assisted by Charlie Moore.",62,51,11,0.961096919776471,"Stanford","California",4,3,0,1,-2.5,400915678,2017-02-17
+277,2,"6:40",400,400,"Foul on Marcus Allen.",62,51,11,0.96696268826948,"Stanford","California",4,3,0,0,-2.5,400915678,2017-02-17
+278,2,"6:40",400,400,"Marcus Allen Turnover.",62,51,11,0.96696268826948,"Stanford","California",4,3,0,0,-2.5,400915678,2017-02-17
+279,2,"6:28",388,388,"Charlie Moore missed Three Point Jumper.",62,51,11,0.954421371636504,"Stanford","California",4,3,0,0,-2.5,400915678,2017-02-17
+280,2,"6:28",388,388,"Reid Travis Defensive Rebound.",62,51,11,0.954421371636504,"Stanford","California",4,3,0,0,-2.5,400915678,2017-02-17
+281,2,"6:04",364,364,"Dorian Pickens missed Three Point Jumper.",62,51,11,0.967191152314223,"Stanford","California",4,3,0,0,-2.5,400915678,2017-02-17
+282,2,"6:04",364,364,"Ivan Rabb Defensive Rebound.",62,51,11,0.967191152314223,"Stanford","California",4,3,0,0,-2.5,400915678,2017-02-17
+283,2,"5:53",353,353,"Don Coleman missed Layup.",62,51,11,0.966155738810838,"Stanford","California",4,3,0,0,-2.5,400915678,2017-02-17
+284,2,"5:53",353,353,"Ivan Rabb Offensive Rebound.",62,51,11,0.966155738810838,"Stanford","California",4,3,0,0,-2.5,400915678,2017-02-17
+285,2,"5:49",349,349,"Ivan Rabb missed Layup.",62,51,11,0.965842897685408,"Stanford","California",4,3,0,0,-2.5,400915678,2017-02-17
+286,2,"5:49",349,349,"Dorian Pickens Defensive Rebound.",62,51,11,0.965842897685408,"Stanford","California",4,3,0,0,-2.5,400915678,2017-02-17
+287,2,"5:31",331,331,"Marcus Allen missed Three Point Jumper.",62,51,11,0.977591724061912,"Stanford","California",4,3,0,0,-2.5,400915678,2017-02-17
+288,2,"5:31",331,331,"Charlie Moore Defensive Rebound.",62,51,11,0.977591724061912,"Stanford","California",4,3,0,0,-2.5,400915678,2017-02-17
+289,2,"5:23",323,323,"Charlie Moore made Layup.",62,53,9,0.925724362048934,"Stanford","California",4,3,0,0,-2.5,400915678,2017-02-17
+290,2,"5:02",302,302,"Robert Cartwright Turnover.",62,53,9,0.948550135456183,"Stanford","California",4,3,0,0,-2.5,400915678,2017-02-17
+291,2,"5:01",301,301,"Grant Mullins Steal.",62,53,9,0.948550135456183,"Stanford","California",4,3,0,0,-2.5,400915678,2017-02-17
+292,2,"4:56",296,296,"Grant Mullins made Three Point Jumper.",62,56,6,0.857443101256866,"Stanford","California",4,3,0,0,-2.5,400915678,2017-02-17
+293,2,"4:31",271,271,"Foul on Charlie Moore.",62,56,6,0.885255711977877,"Stanford","California",4,3,0,0,-2.5,400915678,2017-02-17
+294,2,"4:31",271,271,"Marcus Allen made Free Throw.",63,56,7,0.919203932931293,"Stanford","California",4,3,0,0,-2.5,400915678,2017-02-17
+295,2,"4:31",271,271,"Marcus Allen made Free Throw.",64,56,8,0.943746480230813,"Stanford","California",4,3,0,0,-2.5,400915678,2017-02-17
+296,2,"4:12",252,252,"Ivan Rabb Turnover.",64,56,8,0.964165516983064,"Stanford","California",4,3,0,0,-2.5,400915678,2017-02-17
+297,2,"4:10",250,250,"Dorian Pickens Steal.",64,56,8,0.964165516983064,"Stanford","California",4,3,0,0,-2.5,400915678,2017-02-17
+298,2,"3:53",233,233,"Dorian Pickens made Jumper.",66,56,10,0.981474541299349,"Stanford","California",4,3,0,0,-2.5,400915678,2017-02-17
+299,2,"3:38",218,218,"Don Coleman Turnover.",66,56,10,0.9848086706008,"Stanford","California",4,3,0,0,-2.5,400915678,2017-02-17
+300,2,"3:16",196,196,"Stanford  Timeout",66,56,10,0.989640314454411,"Stanford","California",3,3,1,0,-2.5,400915678,2017-02-17
+301,2,"3:16",196,196,"Official TV Timeout",66,56,10,0.989640314454411,"Stanford","California",3,3,1,0,-2.5,400915678,2017-02-17
+302,2,"3:09",189,189,"Stanford  Turnover.",66,56,10,0.990351446176979,"Stanford","California",3,3,1,0,-2.5,400915678,2017-02-17
+303,2,"2:57",177,177,"Kingsley Okoroh made Jumper.",66,58,8,0.980096551321394,"Stanford","California",3,3,1,0,-2.5,400915678,2017-02-17
+304,2,"2:37",157,157,"Foul on Ivan Rabb.",66,58,8,0.986084781407221,"Stanford","California",3,3,1,0,-2.5,400915678,2017-02-17
+305,2,"2:37",157,157,"Reid Travis made Free Throw.",67,58,9,0.991847544746114,"Stanford","California",3,3,1,0,-2.5,400915678,2017-02-17
+306,2,"2:37",157,157,"Reid Travis made Free Throw.",68,58,10,0.995235284321774,"Stanford","California",3,3,1,0,-2.5,400915678,2017-02-17
+307,2,"2:29",149,149,"Foul on Reid Travis.",68,58,10,0.99209668916022,"Stanford","California",3,3,1,0,-2.5,400915678,2017-02-17
+308,2,"2:29",149,149,"Ivan Rabb missed Free Throw.",68,58,10,0.99209668916022,"Stanford","California",3,3,1,0,-2.5,400915678,2017-02-17
+309,2,"2:29",149,149,"Jabari Bird Offensive Rebound.",68,58,10,0.99209668916022,"Stanford","California",3,3,1,0,-2.5,400915678,2017-02-17
+310,2,"2:14",134,134,"Charlie Moore missed Three Point Jumper.",68,58,10,0.996212086913998,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+311,2,"2:14",134,134,"Dorian Pickens Defensive Rebound.",68,58,10,0.996212086913998,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+312,2,"1:51",111,111,"Reid Travis missed Jumper.",68,58,10,0.99749650711138,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+313,2,"1:51",111,111,"Ivan Rabb Defensive Rebound.",68,58,10,0.99749650711138,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+314,2,"1:43",103,103,"Jabari Bird missed Three Point Jumper.",68,58,10,0.997273339571474,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+315,2,"1:43",103,103,"Ivan Rabb Offensive Rebound.",68,58,10,0.997273339571474,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+316,2,"1:33",93,93,"Jabari Bird made Three Point Jumper. Assisted by Charlie Moore.",68,61,7,0.986881378831146,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+317,2,"1:03",63,63,"Michael Humphrey missed Dunk.",68,61,7,0.993366640854756,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+318,2,"1:03",63,63,"Dorian Pickens Offensive Rebound.",68,61,7,0.993366640854756,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+319,2,"1:02",62,62,"Foul on Kingsley Okoroh.",68,61,7,0.993366640854756,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+320,2,"1:02",62,62,"Dorian Pickens made Free Throw.",69,61,8,0.996831217754432,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+321,2,"1:02",62,62,"Dorian Pickens made Free Throw.",70,61,9,0.998489012465228,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+322,2,"0:53",53,53,"Jabari Bird Turnover.",70,61,9,0.999080072484528,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+323,2,"0:52",52,52,"Foul on Sam Singer.",70,61,9,0.999080072484528,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+324,2,"0:52",52,52,"Marcus Allen missed Free Throw.",70,61,9,0.999080072484528,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+325,2,"0:52",52,52,"Stanford Deadball Team Rebound.",70,61,9,0.999080072484528,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+326,2,"0:52",52,52,"Marcus Allen missed Free Throw.",70,61,9,0.999080072484528,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+327,2,"0:52",52,52,"Ivan Rabb Defensive Rebound.",70,61,9,0.999080072484528,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+328,2,"0:43",43,43,"Stephen Domingo missed Three Point Jumper.",70,61,9,0.999674808829004,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+329,2,"0:43",43,43,"Stephen Domingo Offensive Rebound.",70,61,9,0.999674808829004,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+330,2,"0:38",38,38,"Charlie Moore missed Three Point Jumper.",70,61,9,0.999836718566563,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+331,2,"0:38",38,38,"Michael Humphrey Defensive Rebound.",70,61,9,0.999836718566563,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+332,2,"0:35",35,35,"Foul on Stephen Domingo.",70,61,9,0.999444940429952,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+333,2,"0:35",35,35,"Michael Humphrey missed Free Throw.",70,61,9,0.999444940429952,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+334,2,"0:35",35,35,"Stanford Deadball Team Rebound.",70,61,9,0.999444940429952,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+335,2,"0:35",35,35,"Michael Humphrey made Free Throw.",71,61,10,0.999757324555627,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+336,2,"0:28",28,28,"Jabari Bird missed Three Point Jumper.",71,61,10,0.999988079360546,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+337,2,"0:28",28,28,"Stephen Domingo Offensive Rebound.",71,61,10,0.999988079360546,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+338,2,"0:24",24,24,"Jabari Bird made Three Point Jumper. Assisted by Stephen Domingo.",71,64,7,0.998634087076861,"Stanford","California",3,3,0,0,-2.5,400915678,2017-02-17
+339,2,"0:23",23,23,"California  Timeout",71,64,7,0.999914349022819,"Stanford","California",3,2,0,1,-2.5,400915678,2017-02-17
+340,2,"0:19",19,19,"Foul on Stephen Domingo.",71,64,7,0.999873893001593,"Stanford","California",3,2,0,1,-2.5,400915678,2017-02-17
+341,2,"0:19",19,19,"Robert Cartwright made Free Throw.",72,64,8,0.999964322656009,"Stanford","California",3,2,0,1,-2.5,400915678,2017-02-17
+342,2,"0:19",19,19,"Robert Cartwright missed Free Throw.",72,64,8,0.999964322656009,"Stanford","California",3,2,0,1,-2.5,400915678,2017-02-17
+343,2,"0:19",19,19,"Stephen Domingo Defensive Rebound.",72,64,8,0.999964322656009,"Stanford","California",3,2,0,1,-2.5,400915678,2017-02-17
+344,2,"0:10",10,10,"Grant Mullins missed Layup.",72,64,8,0.999998814062522,"Stanford","California",3,2,0,1,-2.5,400915678,2017-02-17
+345,2,"0:10",10,10,"Ivan Rabb Offensive Rebound.",72,64,8,0.999998814062522,"Stanford","California",3,2,0,1,-2.5,400915678,2017-02-17
+346,2,"0:09",9,9,"Ivan Rabb made Layup.",72,66,6,0.999969886993916,"Stanford","California",3,2,0,1,-2.5,400915678,2017-02-17
+347,2,"0:08",8,8,"California  Timeout",72,66,6,0.999969886993916,"Stanford","California",3,1,0,1,-2.5,400915678,2017-02-17
+348,2,"0:07",7,7,"Foul on Jabari Bird.",72,66,6,0.999969886993916,"Stanford","California",3,1,0,1,-2.5,400915678,2017-02-17
+349,2,"0:07",7,7,"Dorian Pickens missed Free Throw.",72,66,6,0.999969886993916,"Stanford","California",3,1,0,1,-2.5,400915678,2017-02-17
+350,2,"0:07",7,7,"Stanford Deadball Team Rebound.",72,66,6,0.999969886993916,"Stanford","California",3,1,0,1,-2.5,400915678,2017-02-17
+351,2,"0:07",7,7,"Dorian Pickens made Free Throw.",73,66,7,0.99999402397846,"Stanford","California",3,1,0,1,-2.5,400915678,2017-02-17
+352,2,"0:04",4,4,"Charlie Moore missed Layup.",73,66,7,0.999981346924391,"Stanford","California",3,1,0,1,-2.5,400915678,2017-02-17
+353,2,"0:04",4,4,"Ivan Rabb Offensive Rebound.",73,66,7,0.999981346924391,"Stanford","California",3,1,0,1,-2.5,400915678,2017-02-17
+354,2,"0:01",1,1,"Ivan Rabb made Dunk.",73,68,5,0.999415255048755,"Stanford","California",3,1,0,1,-2.5,400915678,2017-02-17
+355,2,"0:00",0,0,"End of Game",73,68,5,1,"Stanford","California",3,1,0,1,-2.5,400915678,2017-02-17

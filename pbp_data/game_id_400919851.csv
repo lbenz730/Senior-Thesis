@@ -1,0 +1,366 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.492974693732088,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+2,1,"19:43",2383,2383,"Jeremy Lieberman Turnover.",0,0,0,0.495004765457592,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+3,1,"19:42",2382,2382,"Nico Carvacho Steal.",0,0,0,0.495004765457592,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+4,1,"19:20",2360,2360,"Gian Clavell made Jumper.",0,2,-2,0.477050195124836,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+5,1,"18:48",2328,2328,"Jeremy Lieberman missed Jumper.",0,2,-2,0.461584053843637,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+6,1,"18:48",2328,2328,"Gian Clavell Defensive Rebound.",0,2,-2,0.461584053843637,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+7,1,"18:23",2303,2303,"Prentiss Nixon made Three Point Jumper. Assisted by Nico Carvacho.",0,5,-5,0.372029883552509,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+8,1,"18:09",2289,2289,"Louis Adams missed Jumper.",0,5,-5,0.365864106910821,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+9,1,"18:09",2289,2289,"Gian Clavell Defensive Rebound.",0,5,-5,0.365864106910821,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+10,1,"17:51",2271,2271,"Nico Carvacho missed Jumper.",0,5,-5,0.378229509417441,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+11,1,"17:51",2271,2271,"Louis Adams Defensive Rebound.",0,5,-5,0.378229509417441,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+12,1,"17:36",2256,2256,"Jason McManamen made Three Point Jumper.",3,5,-2,0.458027416698515,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+13,1,"17:13",2233,2233,"Foul on Jordan Naughton.",3,5,-2,0.446212477681615,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+14,1,"17:13",2233,2233,"Nico Carvacho made Free Throw.",3,6,-3,0.418747558859618,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+15,1,"17:13",2233,2233,"Nico Carvacho made Free Throw.",3,7,-4,0.391777194884433,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+16,1,"16:57",2217,2217,"Jason McManamen made Three Point Jumper. Assisted by Justin James.",6,7,-1,0.479968020503312,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+17,1,"16:32",2192,2192,"J.D. Paige missed Jumper.",6,7,-1,0.483940465256932,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+18,1,"16:32",2192,2192,"Jason McManamen Defensive Rebound.",6,7,-1,0.483940465256932,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+19,1,"16:12",2172,2172,"Justin James missed Jumper.",6,7,-1,0.467746623174126,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+20,1,"16:12",2172,2172,"Colorado State Defensive Rebound.",6,7,-1,0.467746623174126,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+21,1,"15:51",2151,2151,"Gian Clavell made Three Point Jumper.",6,10,-4,0.372309973363711,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+22,1,"15:42",2142,2142,"Wyoming  Timeout",6,10,-4,0.407604549863243,"Wyoming","Colorado State",3,4,1,0,-0.3,400919851,2017-02-14
+23,1,"15:42",2142,2142,"Hayden Dalton Turnover.",6,10,-4,0.407604549863243,"Wyoming","Colorado State",3,4,1,0,-0.3,400919851,2017-02-14
+24,1,"15:41",2141,2141,"J.D. Paige Steal.",6,10,-4,0.407604549863243,"Wyoming","Colorado State",3,4,1,0,-0.3,400919851,2017-02-14
+25,1,"15:39",2139,2139,"J.D. Paige Turnover.",6,10,-4,0.378259243454373,"Wyoming","Colorado State",3,4,1,0,-0.3,400919851,2017-02-14
+26,1,"15:25",2125,2125,"Andrew Moemeka missed Jumper.",6,10,-4,0.380539559658661,"Wyoming","Colorado State",3,4,1,0,-0.3,400919851,2017-02-14
+27,1,"15:25",2125,2125,"J.D. Paige Block.",6,10,-4,0.380539559658661,"Wyoming","Colorado State",3,4,1,0,-0.3,400919851,2017-02-14
+28,1,"15:23",2123,2123,"Andrew Moemeka Offensive Rebound.",6,10,-4,0.380539559658661,"Wyoming","Colorado State",3,4,1,0,-0.3,400919851,2017-02-14
+29,1,"15:21",2121,2121,"Jason McManamen missed Three Point Jumper.",6,10,-4,0.380539559658661,"Wyoming","Colorado State",3,4,1,0,-0.3,400919851,2017-02-14
+30,1,"15:21",2121,2121,"Emmanuel Omogbo Defensive Rebound.",6,10,-4,0.380539559658661,"Wyoming","Colorado State",3,4,1,0,-0.3,400919851,2017-02-14
+31,1,"14:59",2099,2099,"Nico Carvacho made Layup. Assisted by Emmanuel Omogbo.",6,12,-6,0.320268649088208,"Wyoming","Colorado State",3,4,1,0,-0.3,400919851,2017-02-14
+32,1,"14:45",2085,2085,"Justin James made Jumper.",8,12,-4,0.399395623266761,"Wyoming","Colorado State",3,4,1,0,-0.3,400919851,2017-02-14
+33,1,"14:20",2060,2060,"Prentiss Nixon missed Three Point Jumper.",8,12,-4,0.371585574785877,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+34,1,"14:20",2060,2060,"Hayden Dalton Defensive Rebound.",8,12,-4,0.371585574785877,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+35,1,"14:12",2052,2052,"Hayden Dalton Turnover.",8,12,-4,0.370976151464457,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+36,1,"14:11",2051,2051,"Emmanuel Omogbo Steal.",8,12,-4,0.370976151464457,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+37,1,"14:09",2049,2049,"Emmanuel Omogbo made Dunk.",8,14,-6,0.327236352248528,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+38,1,"14:01",2041,2041,"Justin James made Three Point Jumper.",11,14,-3,0.40368329490858,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+39,1,"13:43",2023,2023,"Gian Clavell missed Jumper.",11,14,-3,0.392958969237021,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+40,1,"13:43",2023,2023,"Jeremy Lieberman Defensive Rebound.",11,14,-3,0.392958969237021,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+41,1,"13:34",2014,2014,"Hayden Dalton missed Jumper.",11,14,-3,0.418474474196356,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+42,1,"13:34",2014,2014,"Prentiss Nixon Defensive Rebound.",11,14,-3,0.418474474196356,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+43,1,"13:22",2002,2002,"Nico Carvacho missed Layup.",11,14,-3,0.411859294857404,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+44,1,"13:22",2002,2002,"Jeremy Lieberman Defensive Rebound.",11,14,-3,0.411859294857404,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+45,1,"13:17",1997,1997,"Justin James made Three Point Jumper.",14,14,0,0.497007634248279,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+46,1,"12:51",1971,1971,"Prentiss Nixon made Three Point Jumper. Assisted by Emmanuel Omogbo.",14,17,-3,0.403548902488348,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+47,1,"12:39",1959,1959,"Justin James made Layup.",16,17,-1,0.477904507760904,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+48,1,"12:31",1951,1951,"Nico Carvacho made Layup. Assisted by J.D. Paige.",16,19,-3,0.416167817643053,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+49,1,"12:31",1951,1951,"Foul on Andrew Moemeka.",16,19,-3,0.416167817643053,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+50,1,"12:28",1948,1948,"Nico Carvacho missed Free Throw.",16,19,-3,0.402743894963826,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+51,1,"12:28",1948,1948,"Alan Herndon Defensive Rebound.",16,19,-3,0.402743894963826,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+52,1,"12:11",1931,1931,"Alan Herndon missed Three Point Jumper.",16,19,-3,0.393656637352602,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+53,1,"12:11",1931,1931,"Prentiss Nixon Defensive Rebound.",16,19,-3,0.393656637352602,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+54,1,"11:50",1910,1910,"Nico Carvacho missed Layup.",16,19,-3,0.421514546675472,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+55,1,"11:50",1910,1910,"Alan Herndon Block.",16,19,-3,0.421514546675472,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+56,1,"11:49",1909,1909,"Alan Herndon Defensive Rebound.",16,19,-3,0.40719471941564,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+57,1,"11:42",1902,1902,"Justin James made Jumper.",18,19,-1,0.464661486747219,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+58,1,"11:42",1902,1902,"Foul on Nico Carvacho.",18,19,-1,0.464661486747219,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+59,1,"11:41",1901,1901,"Justin James made Free Throw.",19,19,0,0.493850823059412,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+60,1,"11:25",1885,1885,"Braden Koelliker made Three Point Jumper. Assisted by J.D. Paige.",19,22,-3,0.396935605907526,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+61,1,"10:59",1859,1859,"Andrew Moemeka Turnover.",19,22,-3,0.411468209431506,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+62,1,"10:41",1841,1841,"Braden Koelliker made Three Point Jumper. Assisted by Prentiss Nixon.",19,25,-6,0.303185812314049,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+63,1,"10:29",1829,1829,"Justin James Turnover.",19,25,-6,0.342611004255905,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+64,1,"10:29",1829,1829,"Foul on Justin James.",19,25,-6,0.342611004255905,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+65,1,"10:07",1807,1807,"Braden Koelliker Turnover.",19,25,-6,0.309900318573999,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+66,1,"9:46",1786,1786,"Hayden Dalton made Three Point Jumper.",22,25,-3,0.380768979315165,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+67,1,"9:31",1771,1771,"Prentiss Nixon missed Jumper.",22,25,-3,0.392835207226993,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+68,1,"9:31",1771,1771,"Alan Herndon Defensive Rebound.",22,25,-3,0.392835207226993,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+69,1,"9:16",1756,1756,"Jason McManamen Turnover.",22,25,-3,0.365226550070934,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+70,1,"9:00",1740,1740,"Braden Koelliker missed Three Point Jumper.",22,25,-3,0.420772565832708,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+71,1,"9:00",1740,1740,"Alexander Aka Gorski Defensive Rebound.",22,25,-3,0.420772565832708,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+72,1,"8:47",1727,1727,"Cody Kelley missed Three Point Jumper.",22,25,-3,0.41589375544216,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+73,1,"8:47",1727,1727,"Emmanuel Omogbo Defensive Rebound.",22,25,-3,0.41589375544216,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+74,1,"8:30",1710,1710,"Emmanuel Omogbo made Dunk. Assisted by Prentiss Nixon.",22,27,-5,0.337925359043271,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+75,1,"8:17",1697,1697,"Hayden Dalton Turnover.",22,27,-5,0.338454156519866,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+76,1,"8:16",1696,1696,"Prentiss Nixon Steal.",22,27,-5,0.338454156519866,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+77,1,"8:13",1693,1693,"Prentiss Nixon missed Dunk.",22,27,-5,0.338454156519866,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+78,1,"8:13",1693,1693,"Cody Kelley Defensive Rebound.",22,27,-5,0.338454156519866,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+79,1,"8:08",1688,1688,"Alan Herndon made Three Point Jumper. Assisted by Cody Kelley.",25,27,-2,0.424226520138687,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+80,1,"7:47",1667,1667,"Gian Clavell missed Jumper.",25,27,-2,0.433352762779735,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+81,1,"7:47",1667,1667,"Alan Herndon Defensive Rebound.",25,27,-2,0.433352762779735,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+82,1,"7:37",1657,1657,"Alexander Aka Gorski missed Three Point Jumper.",25,27,-2,0.441382181510276,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+83,1,"7:37",1657,1657,"Braden Koelliker Defensive Rebound.",25,27,-2,0.441382181510276,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+84,1,"7:10",1630,1630,"Anthony Bonner missed Three Point Jumper.",25,27,-2,0.446776655992385,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+85,1,"7:10",1630,1630,"Justin James Defensive Rebound.",25,27,-2,0.446776655992385,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+86,1,"7:03",1623,1623,"Foul on Anthony Bonner.",25,27,-2,0.422175082119328,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+87,1,"6:56",1616,1616,"Jason McManamen missed Jumper.",25,27,-2,0.414936625447065,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+88,1,"6:56",1616,1616,"Nico Carvacho Block.",25,27,-2,0.414936625447065,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+89,1,"6:52",1612,1612,"J.D. Paige Defensive Rebound.",25,27,-2,0.414936625447065,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+90,1,"6:49",1609,1609,"Gian Clavell Turnover.",25,27,-2,0.423860273891529,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+91,1,"6:47",1607,1607,"Andrew Moemeka Steal.",25,27,-2,0.423860273891529,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+92,1,"6:42",1602,1602,"Andrew Moemeka made Layup. Assisted by Cody Kelley.",27,27,0,0.488948982915821,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+93,1,"6:42",1602,1602,"Foul on Braden Koelliker.",27,27,0,0.488948982915821,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+94,1,"6:42",1602,1602,"Andrew Moemeka made Free Throw.",28,27,1,0.521775286107842,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+95,1,"6:24",1584,1584,"J.D. Paige made Jumper.",28,29,-1,0.449754481438653,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+96,1,"6:03",1563,1563,"Jason McManamen missed Three Point Jumper.",28,29,-1,0.45005542728912,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+97,1,"6:03",1563,1563,"Nico Carvacho Defensive Rebound.",28,29,-1,0.45005542728912,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+98,1,"5:38",1538,1538,"Gian Clavell missed Jumper.",28,29,-1,0.467056510997281,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+99,1,"5:38",1538,1538,"Nico Carvacho Offensive Rebound.",28,29,-1,0.467056510997281,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+100,1,"5:28",1528,1528,"Anthony Bonner made Layup.",28,31,-3,0.395892919631403,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+101,1,"5:28",1528,1528,"Foul on Cody Kelley.",28,31,-3,0.395892919631403,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+102,1,"5:28",1528,1528,"Anthony Bonner made Free Throw.",28,32,-4,0.362420518045552,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+103,1,"5:23",1523,1523,"Foul on Anthony Bonner.",28,32,-4,0.362420518045552,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+104,1,"5:17",1517,1517,"Alexander Aka Gorski made Jumper.",30,32,-2,0.441379293012035,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+105,1,"4:57",1497,1497,"Emmanuel Omogbo made Three Point Jumper.",30,35,-5,0.351483009136778,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+106,1,"4:41",1481,1481,"Alexander Aka Gorski missed Three Point Jumper.",30,35,-5,0.311378812570665,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+107,1,"4:41",1481,1481,"Emmanuel Omogbo Defensive Rebound.",30,35,-5,0.311378812570665,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+108,1,"4:19",1459,1459,"Prentiss Nixon made Jumper.",30,37,-7,0.252333300257724,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+109,1,"4:08",1448,1448,"Jason McManamen missed Three Point Jumper.",30,37,-7,0.275712078121681,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+110,1,"4:08",1448,1448,"Cody Kelley Offensive Rebound.",30,37,-7,0.275712078121681,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+111,1,"4:02",1442,1442,"Cody Kelley missed Three Point Jumper.",30,37,-7,0.275712078121681,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+112,1,"4:02",1442,1442,"Justin James Offensive Rebound.",30,37,-7,0.275712078121681,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+113,1,"3:57",1437,1437,"Justin James made Layup.",32,37,-5,0.334837023900831,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+114,1,"3:28",1408,1408,"J.D. Paige missed Jumper.",32,37,-5,0.328232010577702,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+115,1,"3:28",1408,1408,"Emmanuel Omogbo Offensive Rebound.",32,37,-5,0.328232010577702,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+116,1,"3:25",1405,1405,"Emmanuel Omogbo made Layup.",32,39,-7,0.263824139919508,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+117,1,"3:14",1394,1394,"Cody Kelley missed Three Point Jumper.",32,39,-7,0.242487595290458,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+118,1,"3:14",1394,1394,"Alan Herndon Offensive Rebound.",32,39,-7,0.242487595290458,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+119,1,"3:09",1389,1389,"Alan Herndon missed Layup.",32,39,-7,0.269046252163911,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+120,1,"3:09",1389,1389,"Prentiss Nixon Defensive Rebound.",32,39,-7,0.269046252163911,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+121,1,"2:47",1367,1367,"Anthony Bonner missed Three Point Jumper.",32,39,-7,0.255787055559632,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+122,1,"2:47",1367,1367,"Justin James Defensive Rebound.",32,39,-7,0.255787055559632,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+123,1,"2:40",1360,1360,"Alexander Aka Gorski missed Three Point Jumper.",32,39,-7,0.255787055559632,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+124,1,"2:40",1360,1360,"Nico Carvacho Defensive Rebound.",32,39,-7,0.255787055559632,"Wyoming","Colorado State",3,4,0,0,-0.3,400919851,2017-02-14
+125,1,"2:32",1352,1352,"Colorado State  Timeout",32,39,-7,0.26535114789945,"Wyoming","Colorado State",3,3,0,1,-0.3,400919851,2017-02-14
+126,1,"2:14",1334,1334,"Prentiss Nixon missed Three Point Jumper.",32,39,-7,0.2428000809037,"Wyoming","Colorado State",3,3,0,1,-0.3,400919851,2017-02-14
+127,1,"2:14",1334,1334,"Emmanuel Omogbo Offensive Rebound.",32,39,-7,0.2428000809037,"Wyoming","Colorado State",3,3,0,1,-0.3,400919851,2017-02-14
+128,1,"1:57",1317,1317,"Foul on Jeremy Lieberman.",32,39,-7,0.264812322865934,"Wyoming","Colorado State",3,3,0,1,-0.3,400919851,2017-02-14
+129,1,"1:36",1296,1296,"J.D. Paige Turnover.",32,39,-7,0.257973495987865,"Wyoming","Colorado State",3,3,0,1,-0.3,400919851,2017-02-14
+130,1,"1:36",1296,1296,"Louis Adams Steal.",32,39,-7,0.257973495987865,"Wyoming","Colorado State",3,3,0,1,-0.3,400919851,2017-02-14
+131,1,"1:29",1289,1289,"Foul on Emmanuel Omogbo.",32,39,-7,0.258093709356949,"Wyoming","Colorado State",3,3,0,0,-0.3,400919851,2017-02-14
+132,1,"1:29",1289,1289,"Louis Adams missed Free Throw.",32,39,-7,0.258093709356949,"Wyoming","Colorado State",3,3,0,0,-0.3,400919851,2017-02-14
+133,1,"1:29",1289,1289,"Wyoming Deadball Team Rebound.",32,39,-7,0.258093709356949,"Wyoming","Colorado State",3,3,0,0,-0.3,400919851,2017-02-14
+134,1,"1:29",1289,1289,"Louis Adams made Free Throw.",33,39,-6,0.287796161755957,"Wyoming","Colorado State",3,3,0,0,-0.3,400919851,2017-02-14
+135,1,"1:04",1264,1264,"Gian Clavell missed Three Point Jumper.",33,39,-6,0.292820612578167,"Wyoming","Colorado State",3,3,0,0,-0.3,400919851,2017-02-14
+136,1,"1:04",1264,1264,"Andrew Moemeka Defensive Rebound.",33,39,-6,0.292820612578167,"Wyoming","Colorado State",3,3,0,0,-0.3,400919851,2017-02-14
+137,1,"0:49",1249,1249,"Jeremy Lieberman missed Three Point Jumper.",33,39,-6,0.282666606038827,"Wyoming","Colorado State",3,3,0,0,-0.3,400919851,2017-02-14
+138,1,"0:49",1249,1249,"Nico Carvacho Defensive Rebound.",33,39,-6,0.282666606038827,"Wyoming","Colorado State",3,3,0,0,-0.3,400919851,2017-02-14
+139,1,"0:18",1218,1218,"Nico Carvacho made Jumper. Assisted by Gian Clavell.",33,41,-8,0.208748027920438,"Wyoming","Colorado State",3,3,0,0,-0.3,400919851,2017-02-14
+140,1,"0:04",1204,1204,"Jason McManamen missed Layup.",33,41,-8,0.218624367733288,"Wyoming","Colorado State",3,3,0,0,-0.3,400919851,2017-02-14
+141,1,"0:04",1204,1204,"Braden Koelliker Defensive Rebound.",33,41,-8,0.218624367733288,"Wyoming","Colorado State",3,3,0,0,-0.3,400919851,2017-02-14
+142,1,"0:00",1200,1200,"End of 1st half",33,41,-8,0.218624367733288,"Wyoming","Colorado State",3,3,0,0,-0.3,400919851,2017-02-14
+143,2,"20:00",1200,1200,"PLAY",33,41,-8,0.218624367733288,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+144,2,"19:47",1187,1187,"Gian Clavell Turnover.",33,41,-8,0.209562370874538,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+145,2,"19:46",1186,1186,"Jeremy Lieberman Steal.",33,41,-8,0.209562370874538,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+146,2,"19:41",1181,1181,"Jeremy Lieberman made Layup.",35,41,-6,0.269635122263804,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+147,2,"19:22",1162,1162,"Prentiss Nixon missed Jumper.",35,41,-6,0.254724808099127,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+148,2,"19:22",1162,1162,"Louis Adams Defensive Rebound.",35,41,-6,0.254724808099127,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+149,2,"19:14",1154,1154,"Foul on Prentiss Nixon.",35,41,-6,0.280752113988598,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+150,2,"19:12",1152,1152,"Foul on Nico Carvacho.",35,41,-6,0.280752113988598,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+151,2,"19:04",1144,1144,"Jeremy Lieberman made Jumper.",37,41,-4,0.340019537398452,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+152,2,"18:46",1126,1126,"J.D. Paige missed Jumper.",37,41,-4,0.317908205154461,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+153,2,"18:46",1126,1126,"Gian Clavell Offensive Rebound.",37,41,-4,0.317908205154461,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+154,2,"18:44",1124,1124,"Foul on Jordan Naughton.",37,41,-4,0.317908205154461,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+155,2,"18:42",1122,1122,"Gian Clavell made Jumper.",37,43,-6,0.243068431380711,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+156,2,"18:28",1108,1108,"Alan Herndon made Three Point Jumper. Assisted by Jason McManamen.",40,43,-3,0.379380664650465,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+157,2,"18:13",1093,1093,"Gian Clavell missed Jumper.",40,43,-3,0.38366499940915,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+158,2,"18:13",1093,1093,"Louis Adams Defensive Rebound.",40,43,-3,0.38366499940915,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+159,2,"18:06",1086,1086,"Louis Adams missed Jumper.",40,43,-3,0.365865594229415,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+160,2,"18:06",1086,1086,"Emmanuel Omogbo Defensive Rebound.",40,43,-3,0.365865594229415,"Wyoming","Colorado State",4,4,0,0,-0.3,400919851,2017-02-14
+161,2,"17:57",1077,1077,"Colorado State  Timeout",40,43,-3,0.392378496200562,"Wyoming","Colorado State",4,3,0,1,-0.3,400919851,2017-02-14
+162,2,"17:41",1061,1061,"J.D. Paige missed Jumper.",40,43,-3,0.395946295975067,"Wyoming","Colorado State",4,3,0,1,-0.3,400919851,2017-02-14
+163,2,"17:41",1061,1061,"Emmanuel Omogbo Offensive Rebound.",40,43,-3,0.395946295975067,"Wyoming","Colorado State",4,3,0,1,-0.3,400919851,2017-02-14
+164,2,"17:36",1056,1056,"Foul on Louis Adams.",40,43,-3,0.379148107250163,"Wyoming","Colorado State",4,3,0,1,-0.3,400919851,2017-02-14
+165,2,"17:36",1056,1056,"Emmanuel Omogbo missed Free Throw.",40,43,-3,0.379148107250163,"Wyoming","Colorado State",4,3,0,1,-0.3,400919851,2017-02-14
+166,2,"17:36",1056,1056,"Colorado State Deadball Team Rebound.",40,43,-3,0.379148107250163,"Wyoming","Colorado State",4,3,0,1,-0.3,400919851,2017-02-14
+167,2,"17:36",1056,1056,"Emmanuel Omogbo missed Free Throw.",40,43,-3,0.379148107250163,"Wyoming","Colorado State",4,3,0,1,-0.3,400919851,2017-02-14
+168,2,"17:36",1056,1056,"Alan Herndon Defensive Rebound.",40,43,-3,0.379148107250163,"Wyoming","Colorado State",4,3,0,1,-0.3,400919851,2017-02-14
+169,2,"17:27",1047,1047,"Louis Adams missed Three Point Jumper.",40,43,-3,0.39026880491516,"Wyoming","Colorado State",4,3,0,1,-0.3,400919851,2017-02-14
+170,2,"17:27",1047,1047,"J.D. Paige Defensive Rebound.",40,43,-3,0.39026880491516,"Wyoming","Colorado State",4,3,0,1,-0.3,400919851,2017-02-14
+171,2,"17:12",1032,1032,"Emmanuel Omogbo made Jumper.",40,45,-5,0.293943476453771,"Wyoming","Colorado State",4,3,0,1,-0.3,400919851,2017-02-14
+172,2,"17:03",1023,1023,"Foul on Prentiss Nixon.",40,45,-5,0.299705257956359,"Wyoming","Colorado State",4,3,0,1,-0.3,400919851,2017-02-14
+173,2,"17:03",1023,1023,"Louis Adams made Free Throw.",41,45,-4,0.338640361173862,"Wyoming","Colorado State",4,3,0,1,-0.3,400919851,2017-02-14
+174,2,"17:03",1023,1023,"Louis Adams made Free Throw.",42,45,-3,0.379889695783377,"Wyoming","Colorado State",4,3,0,1,-0.3,400919851,2017-02-14
+175,2,"16:50",1010,1010,"Foul on Louis Adams.",42,45,-3,0.346455973282268,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+176,2,"16:50",1010,1010,"Nico Carvacho missed Free Throw.",42,45,-3,0.346455973282268,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+177,2,"16:50",1010,1010,"Colorado State Deadball Team Rebound.",42,45,-3,0.346455973282268,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+178,2,"16:50",1010,1010,"Nico Carvacho missed Free Throw.",42,45,-3,0.346455973282268,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+179,2,"16:50",1010,1010,"Wyoming Defensive Rebound.",42,45,-3,0.346455973282268,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+180,2,"16:38",998,998,"Louis Adams missed Dunk.",42,45,-3,0.358394618685803,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+181,2,"16:38",998,998,"Emmanuel Omogbo Block.",42,45,-3,0.358394618685803,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+182,2,"16:36",996,996,"J.D. Paige Defensive Rebound.",42,45,-3,0.358394618685803,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+183,2,"16:29",989,989,"Emmanuel Omogbo made Layup.",42,47,-5,0.28791161269009,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+184,2,"16:19",979,979,"Alan Herndon made Three Point Jumper. Assisted by Jeremy Lieberman.",45,47,-2,0.423223444508765,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+185,2,"15:57",957,957,"Foul on Andrew Moemeka.",45,47,-2,0.392582919505475,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+186,2,"15:57",957,957,"Official TV Timeout",45,47,-2,0.392582919505475,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+187,2,"15:57",957,957,"Prentiss Nixon made Free Throw.",45,48,-3,0.348032393516914,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+188,2,"15:57",957,957,"Prentiss Nixon missed Free Throw.",45,48,-3,0.348032393516914,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+189,2,"15:57",957,957,"Alan Herndon Defensive Rebound.",45,48,-3,0.348032393516914,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+190,2,"15:51",951,951,"Alan Herndon missed Three Point Jumper.",45,48,-3,0.348032393516914,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+191,2,"15:51",951,951,"Nico Carvacho Defensive Rebound.",45,48,-3,0.348032393516914,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+192,2,"15:38",938,938,"Prentiss Nixon Turnover.",45,48,-3,0.362910135084303,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+193,2,"15:38",938,938,"Foul on Prentiss Nixon.",45,48,-3,0.362910135084303,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+194,2,"15:31",931,931,"Foul on Nico Carvacho.",45,48,-3,0.362910135084303,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+195,2,"15:15",915,915,"Jason McManamen missed Jumper.",45,48,-3,0.354292338702604,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+196,2,"15:15",915,915,"J.D. Paige Block.",45,48,-3,0.354292338702604,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+197,2,"15:14",914,914,"Emmanuel Omogbo Defensive Rebound.",45,48,-3,0.354292338702604,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+198,2,"15:13",913,913,"Foul on Jason McManamen.",45,48,-3,0.354292338702604,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+199,2,"15:07",907,907,"Foul on Jeremy Lieberman.",45,48,-3,0.363575737767388,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+200,2,"15:07",907,907,"J.D. Paige missed Free Throw.",45,48,-3,0.363575737767388,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+201,2,"15:07",907,907,"Colorado State Deadball Team Rebound.",45,48,-3,0.363575737767388,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+202,2,"15:07",907,907,"J.D. Paige made Free Throw.",45,49,-4,0.320560197122543,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+203,2,"14:42",882,882,"Alan Herndon missed Three Point Jumper.",45,49,-4,0.330224250111705,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+204,2,"14:42",882,882,"J.D. Paige Defensive Rebound.",45,49,-4,0.330224250111705,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+205,2,"14:32",872,872,"Emmanuel Omogbo missed Jumper.",45,49,-4,0.323073930869965,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+206,2,"14:32",872,872,"Wyoming Defensive Rebound.",45,49,-4,0.323073930869965,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+207,2,"14:09",849,849,"Justin James missed Three Point Jumper.",45,49,-4,0.301449393287226,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+208,2,"14:09",849,849,"Anthony Bonner Defensive Rebound.",45,49,-4,0.301449393287226,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+209,2,"13:53",833,833,"Gian Clavell missed Three Point Jumper.",45,49,-4,0.303548948347296,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+210,2,"13:53",833,833,"Braden Koelliker Offensive Rebound.",45,49,-4,0.303548948347296,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+211,2,"13:30",810,810,"Foul on Justin James.",45,49,-4,0.298252405703953,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+212,2,"13:30",810,810,"Gian Clavell made Free Throw.",45,50,-5,0.25888865695683,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+213,2,"13:30",810,810,"Gian Clavell made Free Throw.",45,51,-6,0.223068733176112,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+214,2,"13:15",795,795,"Hayden Dalton missed Three Point Jumper.",45,51,-6,0.208854110053372,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+215,2,"13:15",795,795,"Braden Koelliker Defensive Rebound.",45,51,-6,0.208854110053372,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+216,2,"12:47",767,767,"Anthony Bonner made Layup.",45,53,-8,0.16140799120669,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+217,2,"12:38",758,758,"Jeremy Lieberman missed Jumper.",45,53,-8,0.149377611217942,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+218,2,"12:38",758,758,"Emmanuel Omogbo Defensive Rebound.",45,53,-8,0.149377611217942,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+219,2,"12:25",745,745,"J.D. Paige missed Layup.",45,53,-8,0.139906607471246,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+220,2,"12:25",745,745,"Emmanuel Omogbo Offensive Rebound.",45,53,-8,0.139906607471246,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+221,2,"12:18",738,738,"Foul on Hayden Dalton.",45,53,-8,0.162762210728403,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+222,2,"12:18",738,738,"Emmanuel Omogbo made Free Throw.",45,54,-9,0.135820844923947,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+223,2,"12:18",738,738,"Emmanuel Omogbo missed Free Throw.",45,54,-9,0.135820844923947,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+224,2,"12:18",738,738,"Hayden Dalton Defensive Rebound.",45,54,-9,0.135820844923947,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+225,2,"12:13",733,733,"Foul on Gian Clavell.",45,54,-9,0.135820844923947,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+226,2,"12:13",733,733,"Louis Adams made Free Throw.",46,54,-8,0.162762210728403,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+227,2,"12:13",733,733,"Louis Adams missed Free Throw.",46,54,-8,0.162762210728403,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+228,2,"12:13",733,733,"Braden Koelliker Defensive Rebound.",46,54,-8,0.162762210728403,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+229,2,"12:05",725,725,"Foul on Hayden Dalton.",46,54,-8,0.160843367941696,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+230,2,"12:05",725,725,"Gian Clavell made Free Throw.",46,55,-9,0.133304992247479,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+231,2,"12:05",725,725,"Gian Clavell made Free Throw.",46,56,-10,0.109864240828851,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+232,2,"11:57",717,717,"Justin James made Jumper.",48,56,-8,0.136524495540467,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+233,2,"11:32",692,692,"Emmanuel Omogbo missed Jumper.",48,56,-8,0.130314855642993,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+234,2,"11:32",692,692,"Alan Herndon Defensive Rebound.",48,56,-8,0.130314855642993,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+235,2,"11:25",685,685,"Jason McManamen missed Three Point Jumper.",48,56,-8,0.140780707804792,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+236,2,"11:25",685,685,"Anthony Bonner Defensive Rebound.",48,56,-8,0.140780707804792,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+237,2,"11:14",674,674,"Foul on Louis Adams.",48,56,-8,0.132216368462147,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+238,2,"11:14",674,674,"Official TV Timeout",48,56,-8,0.132216368462147,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+239,2,"11:14",674,674,"Gian Clavell made Free Throw.",48,57,-9,0.107746413663992,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+240,2,"11:14",674,674,"Gian Clavell missed Free Throw.",48,57,-9,0.107746413663992,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+241,2,"11:14",674,674,"Alan Herndon Defensive Rebound.",48,57,-9,0.107746413663992,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+242,2,"11:02",662,662,"Justin James made Jumper.",50,57,-7,0.185990887754274,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+243,2,"10:40",640,640,"Gian Clavell missed Jumper.",50,57,-7,0.164202164986006,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+244,2,"10:40",640,640,"Colorado State Offensive Rebound.",50,57,-7,0.164202164986006,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+245,2,"10:37",637,637,"Foul on Hayden Dalton.",50,57,-7,0.163191539797961,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+246,2,"10:37",637,637,"Emmanuel Omogbo made Free Throw.",50,58,-8,0.133422905001354,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+247,2,"10:37",637,637,"Emmanuel Omogbo missed Free Throw.",50,58,-8,0.133422905001354,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+248,2,"10:37",637,637,"Alan Herndon Defensive Rebound.",50,58,-8,0.133422905001354,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+249,2,"10:29",629,629,"Justin James missed Jumper.",50,58,-8,0.118440314034895,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+250,2,"10:29",629,629,"Emmanuel Omogbo Defensive Rebound.",50,58,-8,0.118440314034895,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+251,2,"10:12",612,612,"Gian Clavell made Layup.",50,60,-10,0.073266174869203,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+252,2,"9:59",599,599,"Jason McManamen missed Three Point Jumper.",50,60,-10,0.085697369473289,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+253,2,"9:59",599,599,"Wyoming Offensive Rebound.",50,60,-10,0.085697369473289,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+254,2,"9:57",597,597,"Foul on Prentiss Nixon.",50,60,-10,0.085697369473289,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+255,2,"9:57",597,597,"Justin James made Free Throw.",51,60,-9,0.106436810347437,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+256,2,"9:57",597,597,"Justin James made Free Throw.",52,60,-8,0.131473629000082,"Wyoming","Colorado State",4,3,0,0,-0.3,400919851,2017-02-14
+257,2,"9:51",591,591,"Colorado State  Timeout",52,60,-8,0.131473629000082,"Wyoming","Colorado State",4,2,0,1,-0.3,400919851,2017-02-14
+258,2,"9:46",586,586,"J.D. Paige missed Layup.",52,60,-8,0.127345978484776,"Wyoming","Colorado State",4,2,0,1,-0.3,400919851,2017-02-14
+259,2,"9:46",586,586,"Justin James Defensive Rebound.",52,60,-8,0.127345978484776,"Wyoming","Colorado State",4,2,0,1,-0.3,400919851,2017-02-14
+260,2,"9:39",579,579,"Louis Adams missed Layup.",52,60,-8,0.131220299102527,"Wyoming","Colorado State",4,2,0,1,-0.3,400919851,2017-02-14
+261,2,"9:39",579,579,"Wyoming Offensive Rebound.",52,60,-8,0.131220299102527,"Wyoming","Colorado State",4,2,0,1,-0.3,400919851,2017-02-14
+262,2,"9:30",570,570,"Foul on Anthony Bonner.",52,60,-8,0.131220299102527,"Wyoming","Colorado State",4,2,0,1,-0.3,400919851,2017-02-14
+263,2,"9:30",570,570,"Louis Adams missed Free Throw.",52,60,-8,0.131220299102527,"Wyoming","Colorado State",4,2,0,1,-0.3,400919851,2017-02-14
+264,2,"9:30",570,570,"Wyoming Deadball Team Rebound.",52,60,-8,0.131220299102527,"Wyoming","Colorado State",4,2,0,1,-0.3,400919851,2017-02-14
+265,2,"9:30",570,570,"Louis Adams made Free Throw.",53,60,-7,0.162876564820658,"Wyoming","Colorado State",4,2,0,1,-0.3,400919851,2017-02-14
+266,2,"9:01",541,541,"Emmanuel Omogbo made Jumper.",53,62,-9,0.0791883157807284,"Wyoming","Colorado State",4,2,0,1,-0.3,400919851,2017-02-14
+267,2,"8:47",527,527,"Louis Adams missed Three Point Jumper.",53,62,-9,0.0867822735008275,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+268,2,"8:47",527,527,"Jason McManamen Offensive Rebound.",53,62,-9,0.0867822735008275,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+269,2,"8:38",518,518,"Foul on Nico Carvacho.",53,62,-9,0.0825377647407706,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+270,2,"8:38",518,518,"Louis Adams made Free Throw.",54,62,-8,0.10547545181643,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+271,2,"8:38",518,518,"Louis Adams made Free Throw.",55,62,-7,0.133857605524141,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+272,2,"8:33",513,513,"Foul on Louis Adams.",55,62,-7,0.133857605524141,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+273,2,"8:33",513,513,"Gian Clavell made Free Throw.",55,63,-8,0.10547545181643,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+274,2,"8:33",513,513,"Gian Clavell made Free Throw.",55,64,-9,0.0825377647407706,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+275,2,"8:18",498,498,"Alan Herndon made Three Point Jumper. Assisted by Justin James.",58,64,-6,0.184118143212908,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+276,2,"7:56",476,476,"Anthony Bonner missed Jumper.",58,64,-6,0.150104735650793,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+277,2,"7:56",476,476,"Louis Adams Defensive Rebound.",58,64,-6,0.150104735650793,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+278,2,"7:39",459,459,"Official TV Timeout",58,64,-6,0.130681954680016,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+279,2,"7:35",455,455,"Justin James missed Layup.",58,64,-6,0.130681954680016,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+280,2,"7:35",455,455,"Gian Clavell Block.",58,64,-6,0.130681954680016,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+281,2,"7:33",453,453,"Justin James Offensive Rebound.",58,64,-6,0.130681954680016,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+282,2,"7:26",446,446,"Justin James missed Three Point Jumper.",58,64,-6,0.169552096053143,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+283,2,"7:26",446,446,"Emmanuel Omogbo Defensive Rebound.",58,64,-6,0.169552096053143,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+284,2,"7:07",427,427,"Gian Clavell missed Layup.",58,64,-6,0.141044977143934,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+285,2,"7:07",427,427,"Jason McManamen Defensive Rebound.",58,64,-6,0.141044977143934,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+286,2,"6:49",409,409,"Andrew Moemeka missed Jumper.",58,64,-6,0.119265982729599,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+287,2,"6:49",409,409,"Emmanuel Omogbo Defensive Rebound.",58,64,-6,0.119265982729599,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+288,2,"6:38",398,398,"Emmanuel Omogbo made Jumper.",58,66,-8,0.0826039455586586,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+289,2,"6:21",381,381,"Jason McManamen missed Three Point Jumper.",58,66,-8,0.0864861054166496,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+290,2,"6:21",381,381,"Emmanuel Omogbo Defensive Rebound.",58,66,-8,0.0864861054166496,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+291,2,"5:56",356,356,"Gian Clavell missed Jumper.",58,66,-8,0.0537581842914893,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+292,2,"5:56",356,356,"Alan Herndon Defensive Rebound.",58,66,-8,0.0537581842914893,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+293,2,"5:47",347,347,"Justin James missed Layup.",58,66,-8,0.0579074008962323,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+294,2,"5:47",347,347,"Braden Koelliker Defensive Rebound.",58,66,-8,0.0579074008962323,"Wyoming","Colorado State",4,2,0,0,-0.3,400919851,2017-02-14
+295,2,"5:39",339,339,"Colorado State  Timeout",58,66,-8,0.0601031303230133,"Wyoming","Colorado State",4,1,0,1,-0.3,400919851,2017-02-14
+296,2,"5:19",319,319,"Foul on Alexander Aka Gorski.",58,66,-8,0.0536883975021846,"Wyoming","Colorado State",4,1,0,1,-0.3,400919851,2017-02-14
+297,2,"5:19",319,319,"J.D. Paige made Free Throw.",58,67,-9,0.037833467274915,"Wyoming","Colorado State",4,1,0,1,-0.3,400919851,2017-02-14
+298,2,"5:19",319,319,"J.D. Paige missed Free Throw.",58,67,-9,0.037833467274915,"Wyoming","Colorado State",4,1,0,1,-0.3,400919851,2017-02-14
+299,2,"5:19",319,319,"Justin James Defensive Rebound.",58,67,-9,0.037833467274915,"Wyoming","Colorado State",4,1,0,1,-0.3,400919851,2017-02-14
+300,2,"5:13",313,313,"Alan Herndon made Layup.",60,67,-7,0.0756651637153492,"Wyoming","Colorado State",4,1,0,1,-0.3,400919851,2017-02-14
+301,2,"5:13",313,313,"Foul on Braden Koelliker.",60,67,-7,0.0756651637153492,"Wyoming","Colorado State",4,1,0,1,-0.3,400919851,2017-02-14
+302,2,"5:13",313,313,"Alan Herndon made Free Throw.",61,67,-6,0.10563369310574,"Wyoming","Colorado State",4,1,0,1,-0.3,400919851,2017-02-14
+303,2,"4:53",293,293,"Gian Clavell missed Layup.",61,67,-6,0.11149718917499,"Wyoming","Colorado State",4,1,0,1,-0.3,400919851,2017-02-14
+304,2,"4:53",293,293,"Alan Herndon Block.",61,67,-6,0.11149718917499,"Wyoming","Colorado State",4,1,0,1,-0.3,400919851,2017-02-14
+305,2,"4:51",291,291,"Justin James Defensive Rebound.",61,67,-6,0.11149718917499,"Wyoming","Colorado State",4,1,0,1,-0.3,400919851,2017-02-14
+306,2,"4:46",286,286,"Foul on Braden Koelliker.",61,67,-6,0.105120178577882,"Wyoming","Colorado State",4,1,0,1,-0.3,400919851,2017-02-14
+307,2,"4:46",286,286,"Louis Adams made Free Throw.",62,67,-5,0.143221225202208,"Wyoming","Colorado State",4,1,0,1,-0.3,400919851,2017-02-14
+308,2,"4:46",286,286,"Louis Adams missed Free Throw.",62,67,-5,0.143221225202208,"Wyoming","Colorado State",4,1,0,1,-0.3,400919851,2017-02-14
+309,2,"4:46",286,286,"Anthony Bonner Defensive Rebound.",62,67,-5,0.143221225202208,"Wyoming","Colorado State",4,1,0,1,-0.3,400919851,2017-02-14
+310,2,"4:28",268,268,"Prentiss Nixon missed Jumper.",62,67,-5,0.139168293749411,"Wyoming","Colorado State",4,1,0,0,-0.3,400919851,2017-02-14
+311,2,"4:28",268,268,"Alan Herndon Defensive Rebound.",62,67,-5,0.139168293749411,"Wyoming","Colorado State",4,1,0,0,-0.3,400919851,2017-02-14
+312,2,"4:19",259,259,"Alan Herndon missed Layup.",62,67,-5,0.117870098523658,"Wyoming","Colorado State",4,1,0,0,-0.3,400919851,2017-02-14
+313,2,"4:19",259,259,"Gian Clavell Defensive Rebound.",62,67,-5,0.117870098523658,"Wyoming","Colorado State",4,1,0,0,-0.3,400919851,2017-02-14
+314,2,"3:49",229,229,"Emmanuel Omogbo missed Jumper.",62,67,-5,0.113196521594262,"Wyoming","Colorado State",4,1,0,0,-0.3,400919851,2017-02-14
+315,2,"3:49",229,229,"Louis Adams Defensive Rebound.",62,67,-5,0.113196521594262,"Wyoming","Colorado State",4,1,0,0,-0.3,400919851,2017-02-14
+316,2,"3:35",215,215,"Jason McManamen made Layup.",64,67,-3,0.207199519428025,"Wyoming","Colorado State",4,1,0,0,-0.3,400919851,2017-02-14
+317,2,"3:24",204,204,"Gian Clavell Turnover.",64,67,-3,0.218233791371311,"Wyoming","Colorado State",4,1,0,0,-0.3,400919851,2017-02-14
+318,2,"3:22",202,202,"Jason McManamen Steal.",64,67,-3,0.218233791371311,"Wyoming","Colorado State",4,1,0,0,-0.3,400919851,2017-02-14
+319,2,"3:19",199,199,"Foul on Gian Clavell.",64,67,-3,0.200229299946377,"Wyoming","Colorado State",4,1,0,0,-0.3,400919851,2017-02-14
+320,2,"3:19",199,199,"Official TV Timeout",64,67,-3,0.200229299946377,"Wyoming","Colorado State",4,1,0,0,-0.3,400919851,2017-02-14
+321,2,"3:19",199,199,"Louis Adams missed Free Throw.",64,67,-3,0.200229299946377,"Wyoming","Colorado State",4,1,0,0,-0.3,400919851,2017-02-14
+322,2,"3:19",199,199,"Wyoming Deadball Team Rebound.",64,67,-3,0.200229299946377,"Wyoming","Colorado State",4,1,0,0,-0.3,400919851,2017-02-14
+323,2,"3:19",199,199,"Louis Adams made Free Throw.",65,67,-2,0.28558887619259,"Wyoming","Colorado State",4,1,0,0,-0.3,400919851,2017-02-14
+324,2,"3:01",181,181,"Gian Clavell made Jumper.",65,69,-4,0.120034168455413,"Wyoming","Colorado State",4,1,0,0,-0.3,400919851,2017-02-14
+325,2,"2:40",160,160,"Jason McManamen made Three Point Jumper. Assisted by Alan Herndon.",68,69,-1,0.390298726454051,"Wyoming","Colorado State",4,1,0,0,-0.3,400919851,2017-02-14
+326,2,"2:11",131,131,"Gian Clavell missed Three Point Jumper.",68,69,-1,0.418903416492362,"Wyoming","Colorado State",4,1,0,0,-0.3,400919851,2017-02-14
+327,2,"2:11",131,131,"Justin James Defensive Rebound.",68,69,-1,0.418903416492362,"Wyoming","Colorado State",4,1,0,0,-0.3,400919851,2017-02-14
+328,2,"1:49",109,109,"Justin James Turnover.",68,69,-1,0.322377867658909,"Wyoming","Colorado State",4,1,0,0,-0.3,400919851,2017-02-14
+329,2,"1:48",108,108,"Gian Clavell Steal.",68,69,-1,0.322377867658909,"Wyoming","Colorado State",4,1,0,0,-0.3,400919851,2017-02-14
+330,2,"1:45",105,105,"Foul on Jason McManamen.",68,69,-1,0.322377867658909,"Wyoming","Colorado State",4,1,1,0,-0.3,400919851,2017-02-14
+331,2,"1:45",105,105,"Wyoming  Timeout",68,69,-1,0.322377867658909,"Wyoming","Colorado State",3,1,1,0,-0.3,400919851,2017-02-14
+332,2,"1:45",105,105,"Gian Clavell missed Free Throw.",68,69,-1,0.322377867658909,"Wyoming","Colorado State",3,1,1,0,-0.3,400919851,2017-02-14
+333,2,"1:45",105,105,"Colorado State Deadball Team Rebound.",68,69,-1,0.322377867658909,"Wyoming","Colorado State",3,1,1,0,-0.3,400919851,2017-02-14
+334,2,"1:45",105,105,"Gian Clavell made Free Throw.",68,70,-2,0.203926842635132,"Wyoming","Colorado State",3,1,1,0,-0.3,400919851,2017-02-14
+335,2,"1:34",94,94,"Alexander Aka Gorski missed Three Point Jumper.",68,70,-2,0.227045194142134,"Wyoming","Colorado State",3,1,1,0,-0.3,400919851,2017-02-14
+336,2,"1:34",94,94,"J.D. Paige Defensive Rebound.",68,70,-2,0.227045194142134,"Wyoming","Colorado State",3,1,1,0,-0.3,400919851,2017-02-14
+337,2,"1:10",70,70,"Gian Clavell Turnover.",68,70,-2,0.173158957842625,"Wyoming","Colorado State",3,1,1,0,-0.3,400919851,2017-02-14
+338,2,"1:09",69,69,"Alan Herndon Steal.",68,70,-2,0.169863326514272,"Wyoming","Colorado State",3,1,1,0,-0.3,400919851,2017-02-14
+339,2,"1:03",63,63,"Foul on Emmanuel Omogbo.",68,70,-2,0.169863326514272,"Wyoming","Colorado State",3,1,1,0,-0.3,400919851,2017-02-14
+340,2,"1:03",63,63,"Louis Adams made Free Throw.",69,70,-1,0.300619291796055,"Wyoming","Colorado State",3,1,1,0,-0.3,400919851,2017-02-14
+341,2,"1:03",63,63,"Louis Adams missed Free Throw.",69,70,-1,0.300619291796055,"Wyoming","Colorado State",3,1,1,0,-0.3,400919851,2017-02-14
+342,2,"1:03",63,63,"Emmanuel Omogbo Defensive Rebound.",69,70,-1,0.300619291796055,"Wyoming","Colorado State",3,1,1,0,-0.3,400919851,2017-02-14
+343,2,"0:34",34,34,"Prentiss Nixon made Three Point Jumper. Assisted by Gian Clavell.",69,73,-4,0.035040072202493,"Wyoming","Colorado State",3,1,0,0,-0.3,400919851,2017-02-14
+344,2,"0:22",22,22,"Justin James made Layup.",71,73,-2,0.084339476829897,"Wyoming","Colorado State",3,1,0,0,-0.3,400919851,2017-02-14
+345,2,"0:14",14,14,"Foul on Justin James.",71,73,-2,0.0651116012037202,"Wyoming","Colorado State",3,1,1,0,-0.3,400919851,2017-02-14
+346,2,"0:14",14,14,"Wyoming  Timeout",71,73,-2,0.0651116012037202,"Wyoming","Colorado State",2,1,1,0,-0.3,400919851,2017-02-14
+347,2,"0:14",14,14,"Prentiss Nixon made Free Throw.",71,74,-3,0.0133896925378287,"Wyoming","Colorado State",2,1,1,0,-0.3,400919851,2017-02-14
+348,2,"0:14",14,14,"Prentiss Nixon made Free Throw.",71,75,-4,0.00263757192406436,"Wyoming","Colorado State",2,1,1,0,-0.3,400919851,2017-02-14
+349,2,"0:13",13,13,"Foul on Gian Clavell.",71,75,-4,0.0016716556755554,"Wyoming","Colorado State",2,1,1,0,-0.3,400919851,2017-02-14
+350,2,"0:13",13,13,"Louis Adams made Free Throw.",72,75,-3,0.00692688246657527,"Wyoming","Colorado State",2,1,1,0,-0.3,400919851,2017-02-14
+351,2,"0:13",13,13,"Louis Adams made Free Throw.",73,75,-2,0.0282358353178046,"Wyoming","Colorado State",2,1,1,0,-0.3,400919851,2017-02-14
+352,2,"0:12",12,12,"Foul on Jeremy Lieberman.",73,75,-2,0.125363247607732,"Wyoming","Colorado State",2,1,1,0,-0.3,400919851,2017-02-14
+353,2,"0:12",12,12,"Prentiss Nixon made Free Throw.",73,76,-3,0.0378526954416358,"Wyoming","Colorado State",2,1,1,0,-0.3,400919851,2017-02-14
+354,2,"0:12",12,12,"Prentiss Nixon made Free Throw.",73,77,-4,0.010683248657278,"Wyoming","Colorado State",2,1,1,0,-0.3,400919851,2017-02-14
+355,2,"0:06",6,6,"Justin James missed Jumper.",73,77,-4,0.00299539696032343,"Wyoming","Colorado State",2,1,1,0,-0.3,400919851,2017-02-14
+356,2,"0:06",6,6,"Gian Clavell Block.",73,77,-4,0.00299539696032343,"Wyoming","Colorado State",2,1,1,0,-0.3,400919851,2017-02-14
+357,2,"0:04",4,4,"Emmanuel Omogbo Defensive Rebound.",73,77,-4,0.00044917119952015,"Wyoming","Colorado State",2,1,1,0,-0.3,400919851,2017-02-14
+358,2,"0:03",3,3,"Foul on Jason McManamen.",73,77,-4,0.00044917119952015,"Wyoming","Colorado State",2,1,1,0,-0.3,400919851,2017-02-14
+359,2,"0:03",3,3,"Gian Clavell made Free Throw.",73,78,-5,8.02308134766186e-05,"Wyoming","Colorado State",2,1,1,0,-0.3,400919851,2017-02-14
+360,2,"0:03",3,3,"Gian Clavell missed Free Throw.",73,78,-5,8.02308134766186e-05,"Wyoming","Colorado State",2,1,1,0,-0.3,400919851,2017-02-14
+361,2,"0:03",3,3,"Gian Clavell Offensive Rebound.",73,78,-5,8.02308134766186e-05,"Wyoming","Colorado State",2,1,1,0,-0.3,400919851,2017-02-14
+362,2,"0:01",1,1,"Gian Clavell missed Layup.",73,78,-5,8.02308134766186e-05,"Wyoming","Colorado State",2,1,1,0,-0.3,400919851,2017-02-14
+363,2,"0:01",1,1,"Alan Herndon Block.",73,78,-5,8.02308134766186e-05,"Wyoming","Colorado State",2,1,1,0,-0.3,400919851,2017-02-14
+364,2,"0:01",1,1,"Wyoming Defensive Rebound.",73,78,-5,8.02308134766186e-05,"Wyoming","Colorado State",2,1,1,0,-0.3,400919851,2017-02-14
+365,2,"0:00",0,0,"End of Game",73,78,-5,1.03243501057682e-42,"Wyoming","Colorado State",2,1,1,0,-0.3,400919851,2017-02-14

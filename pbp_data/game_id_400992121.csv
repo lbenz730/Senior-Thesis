@@ -1,0 +1,377 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.5,"Green Bay","Lakeland",4,4,0,0,NA,400992121,2017-11-17
+2,1,"19:40",2380,2380,"Eric Nygaard missed Jumper.",0,0,0,0.511793930844357,"Green Bay","Lakeland",4,4,0,0,NA,400992121,2017-11-17
+3,1,"19:40",2380,2380,"Kameron Hankerson Offensive Rebound.",0,0,0,0.511793930844357,"Green Bay","Lakeland",4,4,0,0,NA,400992121,2017-11-17
+4,1,"19:27",2367,2367,"Trevian Bell missed Jumper.",0,0,0,0.50956003899291,"Green Bay","Lakeland",4,4,0,0,NA,400992121,2017-11-17
+5,1,"19:27",2367,2367,"Shakur Jinad Defensive Rebound.",0,0,0,0.50956003899291,"Green Bay","Lakeland",4,4,0,0,NA,400992121,2017-11-17
+6,1,"19:17",2357,2357,"Carlos Campos missed Jumper.",0,0,0,0.529703192727122,"Green Bay","Lakeland",4,4,0,0,NA,400992121,2017-11-17
+7,1,"19:17",2357,2357,"Kameron Hankerson Defensive Rebound.",0,0,0,0.529703192727122,"Green Bay","Lakeland",4,4,0,0,NA,400992121,2017-11-17
+8,1,"19:09",2349,2349,"Kameron Hankerson missed Jumper.",0,0,0,0.511940955014241,"Green Bay","Lakeland",4,4,0,0,NA,400992121,2017-11-17
+9,1,"19:09",2349,2349,"Carlos Campos Defensive Rebound.",0,0,0,0.511940955014241,"Green Bay","Lakeland",4,4,0,0,NA,400992121,2017-11-17
+10,1,"18:50",2330,2330,"Eric Nygaard missed Three Point Jumper.",0,0,0,0.516919265248255,"Green Bay","Lakeland",4,4,0,0,NA,400992121,2017-11-17
+11,1,"18:50",2330,2330,"Trevian Bell Defensive Rebound.",0,0,0,0.516919265248255,"Green Bay","Lakeland",4,4,0,0,NA,400992121,2017-11-17
+12,1,"18:32",2312,2312,"David Jesperson made Layup.",2,0,2,0.55572109863196,"Green Bay","Lakeland",4,4,0,0,NA,400992121,2017-11-17
+13,1,"18:09",2289,2289,"Eric Nygaard Turnover.",2,0,2,0.561491557768576,"Green Bay","Lakeland",4,4,0,0,NA,400992121,2017-11-17
+14,1,"18:04",2284,2284,"Hunter Crist Steal.",2,0,2,0.561491557768576,"Green Bay","Lakeland",4,4,0,0,NA,400992121,2017-11-17
+15,1,"17:53",2273,2273,"Trevian Bell made Layup. Assisted by Khalil Small.",4,0,4,0.621803700392713,"Green Bay","Lakeland",4,4,0,0,NA,400992121,2017-11-17
+16,1,"17:35",2255,2255,"Pat McDonald missed Jumper.",4,0,4,0.615744190833305,"Green Bay","Lakeland",4,4,0,0,NA,400992121,2017-11-17
+17,1,"17:35",2255,2255,"Trevian Bell Defensive Rebound.",4,0,4,0.615744190833305,"Green Bay","Lakeland",4,4,0,0,NA,400992121,2017-11-17
+18,1,"17:17",2237,2237,"Khalil Small made Three Point Jumper. Assisted by Kameron Hankerson.",7,0,7,0.701402620031719,"Green Bay","Lakeland",4,4,0,0,NA,400992121,2017-11-17
+19,1,"17:09",2229,2229,"Lakeland College  Timeout",7,0,7,0.688142127794234,"Green Bay","Lakeland",4,3,0,1,NA,400992121,2017-11-17
+20,1,"17:01",2221,2221,"Shakur Jinad missed Jumper.",7,0,7,0.688142127794234,"Green Bay","Lakeland",4,3,0,1,NA,400992121,2017-11-17
+21,1,"17:01",2221,2221,"Manny Patterson Defensive Rebound.",7,0,7,0.688142127794234,"Green Bay","Lakeland",4,3,0,1,NA,400992121,2017-11-17
+22,1,"16:56",2216,2216,"Foul on Zach Hasenstein.",7,0,7,0.736265637358338,"Green Bay","Lakeland",4,3,0,1,NA,400992121,2017-11-17
+23,1,"16:54",2214,2214,"Kameron Hankerson missed Three Point Jumper.",7,0,7,0.736265637358338,"Green Bay","Lakeland",4,3,0,1,NA,400992121,2017-11-17
+24,1,"16:54",2214,2214,"Khalil Small Offensive Rebound.",7,0,7,0.736265637358338,"Green Bay","Lakeland",4,3,0,1,NA,400992121,2017-11-17
+25,1,"16:47",2207,2207,"Foul on Pat McDonald.",7,0,7,0.704923915975682,"Green Bay","Lakeland",4,3,0,1,NA,400992121,2017-11-17
+26,1,"16:47",2207,2207,"Khalil Small made Free Throw.",8,0,8,0.727903816426493,"Green Bay","Lakeland",4,3,0,1,NA,400992121,2017-11-17
+27,1,"16:47",2207,2207,"Khalil Small made Free Throw.",9,0,9,0.749729465357872,"Green Bay","Lakeland",4,3,0,1,NA,400992121,2017-11-17
+28,1,"16:33",2193,2193,"Shakur Jinad missed Three Point Jumper.",9,0,9,0.761851199742773,"Green Bay","Lakeland",4,3,0,1,NA,400992121,2017-11-17
+29,1,"16:33",2193,2193,"Kameron Hankerson Defensive Rebound.",9,0,9,0.761851199742773,"Green Bay","Lakeland",4,3,0,1,NA,400992121,2017-11-17
+30,1,"16:26",2186,2186,"Kameron Hankerson missed Layup.",9,0,9,0.740524031538021,"Green Bay","Lakeland",4,3,0,1,NA,400992121,2017-11-17
+31,1,"16:26",2186,2186,"Ben Stasewich Defensive Rebound.",9,0,9,0.740524031538021,"Green Bay","Lakeland",4,3,0,1,NA,400992121,2017-11-17
+32,1,"16:10",2170,2170,"Shakur Jinad missed Three Point Jumper.",9,0,9,0.734763487181839,"Green Bay","Lakeland",4,3,0,1,NA,400992121,2017-11-17
+33,1,"16:10",2170,2170,"PJ Pipes Defensive Rebound.",9,0,9,0.734763487181839,"Green Bay","Lakeland",4,3,0,1,NA,400992121,2017-11-17
+34,1,"15:43",2143,2143,"Kameron Hankerson made Dunk. Assisted by Khalil Small.",11,0,11,0.769888184388333,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+35,1,"15:14",2114,2114,"Pat McDonald made Jumper. Assisted by Shakur Jinad.",11,2,9,0.747923545924197,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+36,1,"14:53",2093,2093,"Foul on Carlos Campos.",11,2,9,0.762655710889127,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+37,1,"14:46",2086,2086,"PJ Pipes made Jumper.",13,2,11,0.785817451573001,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+38,1,"14:26",2066,2066,"Trenton Nickel missed Three Point Jumper.",13,2,11,0.792763346626116,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+39,1,"14:26",2066,2066,"PJ Pipes Defensive Rebound.",13,2,11,0.792763346626116,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+40,1,"14:20",2060,2060,"Hunter Crist made Three Point Jumper. Assisted by David Jesperson.",16,2,14,0.845917262190392,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+41,1,"14:05",2045,2045,"Carlos Campos made Layup.",16,4,12,0.789659556131686,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+42,1,"13:54",2034,2034,"Trevian Bell missed Layup.",16,4,12,0.804686527943431,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+43,1,"13:54",2034,2034,"Carl Garner Defensive Rebound.",16,4,12,0.804686527943431,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+44,1,"13:44",2024,2024,"Carlos Campos missed Three Point Jumper.",16,4,12,0.832664587337292,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+45,1,"13:44",2024,2024,"Hunter Crist Defensive Rebound.",16,4,12,0.832664587337292,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+46,1,"13:34",2014,2014,"Hunter Crist Turnover.",16,4,12,0.812303562650351,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+47,1,"13:33",2013,2013,"Trenton Nickel Steal.",16,4,12,0.812303562650351,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+48,1,"13:30",2010,2010,"Carlos Campos missed Three Point Jumper.",16,4,12,0.812303562650351,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+49,1,"13:30",2010,2010,"David Jesperson Defensive Rebound.",16,4,12,0.812303562650351,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+50,1,"13:19",1999,1999,"David Jesperson missed Three Point Jumper.",16,4,12,0.83287809505143,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+51,1,"13:19",1999,1999,"Lakeland College Defensive Rebound.",16,4,12,0.83287809505143,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+52,1,"13:14",1994,1994,"Foul on Trevian Bell.",16,4,12,0.83287809505143,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+53,1,"13:09",1989,1989,"Pat McDonald missed Three Point Jumper.",16,4,12,0.819338595019877,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+54,1,"13:09",1989,1989,"T.J. Parham Defensive Rebound.",16,4,12,0.819338595019877,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+55,1,"13:02",1982,1982,"T.J. Parham made Layup.",18,4,14,0.853369397166539,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+56,1,"12:47",1967,1967,"Garrett Duffin missed Three Point Jumper.",18,4,14,0.821825089427003,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+57,1,"12:47",1967,1967,"Trevian Bell Defensive Rebound.",18,4,14,0.821825089427003,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+58,1,"12:35",1955,1955,"T.J. Parham Turnover.",18,4,14,0.863498820071377,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+59,1,"12:34",1954,1954,"Trenton Nickel Steal.",18,4,14,0.863498820071377,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+60,1,"12:30",1950,1950,"Eric Nygaard missed Three Point Jumper.",18,4,14,0.863498820071377,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+61,1,"12:30",1950,1950,"Khalil Small Defensive Rebound.",18,4,14,0.863498820071377,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+62,1,"12:22",1942,1942,"Khalil Small Turnover.",18,4,14,0.859673938043167,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+63,1,"12:21",1941,1941,"Pat McDonald Steal.",18,4,14,0.859673938043167,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+64,1,"12:15",1935,1935,"Garrett Duffin missed Three Point Jumper.",18,4,14,0.860846807404383,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+65,1,"12:15",1935,1935,"T.J. Parham Defensive Rebound.",18,4,14,0.860846807404383,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+66,1,"11:55",1915,1915,"David Jesperson missed Jumper.",18,4,14,0.873685990463979,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+67,1,"11:55",1915,1915,"Khalil Small Offensive Rebound.",18,4,14,0.873685990463979,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+68,1,"11:49",1909,1909,"Khalil Small made Two Point Tip Shot.",20,4,16,0.870745882567599,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+69,1,"11:14",1874,1874,"Foul on Trevian Bell.",20,4,16,0.883704667701115,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+70,1,"11:04",1864,1864,"Carlos Campos missed Three Point Jumper.",20,4,16,0.906846314715914,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+71,1,"11:04",1864,1864,"Green Bay Defensive Rebound.",20,4,16,0.906846314715914,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+72,1,"10:49",1849,1849,"Khalil Small missed Three Point Jumper.",20,4,16,0.87570227808823,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+73,1,"10:49",1849,1849,"Green Bay Offensive Rebound.",20,4,16,0.87570227808823,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+74,1,"10:46",1846,1846,"Hunter Crist made Jumper. Assisted by Khalil Small.",22,4,18,0.900254942120928,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+75,1,"10:46",1846,1846,"Foul on Zach Hasenstein.",22,4,18,0.900254942120928,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+76,1,"10:20",1820,1820,"Eric Nygaard Turnover.",22,4,18,0.908534659167588,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+77,1,"10:19",1819,1819,"Khalil Small Steal.",22,4,18,0.929782088598722,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+78,1,"10:16",1816,1816,"Kameron Hankerson made Layup. Assisted by Khalil Small.",24,4,20,0.945951643443243,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+79,1,"10:15",1815,1815,"Pat McDonald made Three Point Jumper.",24,7,17,0.920111582737728,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+80,1,"10:14",1814,1814,"Foul on Ben Stasewich.",24,7,17,0.920111582737728,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+81,1,"10:01",1801,1801,"Manny Patterson missed Layup.",24,7,17,0.901590333133146,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+82,1,"10:01",1801,1801,"Eric Nygaard Defensive Rebound.",24,7,17,0.901590333133146,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+83,1,"9:52",1792,1792,"Eric Nygaard missed Three Point Jumper.",24,7,17,0.903340474287898,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+84,1,"9:52",1792,1792,"Khalil Small Defensive Rebound.",24,7,17,0.903340474287898,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+85,1,"9:30",1770,1770,"Foul on Zach Hasenstein.",24,7,17,0.887969751216389,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+86,1,"9:13",1753,1753,"Khalil Small missed Three Point Jumper.",24,7,17,0.909753766667548,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+87,1,"9:13",1753,1753,"Carlos Campos Defensive Rebound.",24,7,17,0.909753766667548,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+88,1,"8:58",1738,1738,"Ben Stasewich missed Jumper.",24,7,17,0.914929335889145,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+89,1,"8:58",1738,1738,"Manny Patterson Defensive Rebound.",24,7,17,0.914929335889145,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+90,1,"8:52",1732,1732,"Foul on Ben Stasewich.",24,7,17,0.914929335889145,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+91,1,"8:52",1732,1732,"Kameron Hankerson made Free Throw.",25,7,18,0.924992365087665,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+92,1,"8:50",1730,1730,"Kameron Hankerson made Free Throw.",26,7,19,0.933950968477462,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+93,1,"8:34",1714,1714,"Shakur Jinad missed Three Point Jumper.",26,7,19,0.930209953284457,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+94,1,"8:34",1714,1714,"Lakeland College Offensive Rebound.",26,7,19,0.930209953284457,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+95,1,"8:34",1714,1714,"Foul on Manny Patterson.",26,7,19,0.930209953284457,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+96,1,"8:31",1711,1711,"Lakeland College  Timeout",26,7,19,0.930209953284457,"Green Bay","Lakeland",4,2,0,1,NA,400992121,2017-11-17
+97,1,"8:29",1709,1709,"Carlos Campos missed Jumper.",26,7,19,0.919258325478312,"Green Bay","Lakeland",4,2,0,1,NA,400992121,2017-11-17
+98,1,"8:29",1709,1709,"Manny Patterson Defensive Rebound.",26,7,19,0.919258325478312,"Green Bay","Lakeland",4,2,0,1,NA,400992121,2017-11-17
+99,1,"8:16",1696,1696,"Sukhjot Bains made Layup. Assisted by Khalil Small.",28,7,21,0.956637759897767,"Green Bay","Lakeland",4,2,0,1,NA,400992121,2017-11-17
+100,1,"7:56",1676,1676,"Garrett Duffin missed Three Point Jumper.",28,7,21,0.951250050688129,"Green Bay","Lakeland",4,2,0,1,NA,400992121,2017-11-17
+101,1,"7:56",1676,1676,"Shakur Jinad Offensive Rebound.",28,7,21,0.951250050688129,"Green Bay","Lakeland",4,2,0,1,NA,400992121,2017-11-17
+102,1,"7:48",1668,1668,"Trenton Nickel missed Three Point Jumper.",28,7,21,0.940753812543358,"Green Bay","Lakeland",4,2,0,1,NA,400992121,2017-11-17
+103,1,"7:48",1668,1668,"Pat McDonald Offensive Rebound.",28,7,21,0.940753812543358,"Green Bay","Lakeland",4,2,0,1,NA,400992121,2017-11-17
+104,1,"7:45",1665,1665,"Pat McDonald made Jumper.",28,9,19,0.92456832530935,"Green Bay","Lakeland",4,2,0,1,NA,400992121,2017-11-17
+105,1,"7:20",1640,1640,"Pat McDonald missed Jumper.",28,9,19,0.938593443549115,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+106,1,"7:20",1640,1640,"Lakeland College Offensive Rebound.",28,9,19,0.938593443549115,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+107,1,"7:14",1634,1634,"Foul on Manny Patterson.",28,9,19,0.931076477994156,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+108,1,"7:14",1634,1634,"Official TV Timeout",28,9,19,0.931076477994156,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+109,1,"6:59",1619,1619,"Shakur Jinad missed Three Point Jumper.",28,9,19,0.934955111806385,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+110,1,"6:59",1619,1619,"T.J. Parham Defensive Rebound.",28,9,19,0.934955111806385,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+111,1,"6:41",1601,1601,"David Jesperson missed Jumper.",28,9,19,0.924769280426425,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+112,1,"6:41",1601,1601,"PJ Pipes Offensive Rebound.",28,9,19,0.924769280426425,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+113,1,"6:30",1590,1590,"David Jesperson made Jumper.",30,9,21,0.950631398657769,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+114,1,"6:09",1569,1569,"Trenton Nickel missed Jumper.",30,9,21,0.951932603985412,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+115,1,"6:09",1569,1569,"David Jesperson Defensive Rebound.",30,9,21,0.951932603985412,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+116,1,"6:02",1562,1562,"Foul on Jequan Pegeese.",30,9,21,0.951932603985412,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+117,1,"6:02",1562,1562,"PJ Pipes made Free Throw.",31,9,22,0.958042958017009,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+118,1,"6:02",1562,1562,"PJ Pipes made Free Throw.",32,9,23,0.963406419840835,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+119,1,"5:46",1546,1546,"Shakur Jinad missed Layup.",32,9,23,0.962885194325889,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+120,1,"5:46",1546,1546,"David Jesperson Defensive Rebound.",32,9,23,0.962885194325889,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+121,1,"5:30",1530,1530,"Will Chevalier missed Jumper.",32,9,23,0.963446206402521,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+122,1,"5:30",1530,1530,"Jequan Pegeese Block.",32,9,23,0.963446206402521,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+123,1,"5:30",1530,1530,"T.J. Parham Offensive Rebound.",32,9,23,0.963446206402521,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+124,1,"5:29",1529,1529,"Hunter Crist made Layup.",34,9,25,0.973752451491142,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+125,1,"5:27",1527,1527,"Foul on Carlos Campos.",34,9,25,0.973752451491142,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+126,1,"5:27",1527,1527,"Hunter Crist missed Free Throw.",34,9,25,0.973752451491142,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+127,1,"5:27",1527,1527,"Jequan Pegeese Defensive Rebound.",34,9,25,0.973752451491142,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+128,1,"5:16",1516,1516,"Carlos Campos missed Three Point Jumper.",34,9,25,0.980794694862152,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+129,1,"5:16",1516,1516,"Will Chevalier Defensive Rebound.",34,9,25,0.980794694862152,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+130,1,"5:03",1503,1503,"Kameron Hankerson made Free Throw.",35,9,26,0.977051649971847,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+131,1,"5:03",1503,1503,"Kameron Hankerson made Free Throw.",36,9,27,0.980038198148199,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+132,1,"4:39",1479,1479,"Trenton Nickel missed Three Point Jumper.",36,9,27,0.984585515315286,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+133,1,"4:39",1479,1479,"Will Chevalier Defensive Rebound.",36,9,27,0.984585515315286,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+134,1,"4:27",1467,1467,"Hunter Crist made Layup.",38,9,29,0.984641231464852,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+135,1,"4:07",1447,1447,"Foul on Hunter Crist.",38,9,29,0.989687451105392,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+136,1,"3:58",1438,1438,"Pat McDonald missed Jumper.",38,9,29,0.988255440007551,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+137,1,"3:58",1438,1438,"Green Bay Defensive Rebound.",38,9,29,0.988255440007551,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+138,1,"3:54",1434,1434,"Kameron Hankerson made Three Point Jumper. Assisted by Hunter Crist.",41,9,32,0.992459272049784,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+139,1,"3:45",1425,1425,"Foul on Hunter Crist.",41,9,32,0.990577876231601,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+140,1,"3:16",1396,1396,"Lakeland College  Turnover.",41,9,32,0.99289567751308,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+141,1,"3:07",1387,1387,"PJ Pipes missed Jumper.",41,9,32,0.992464756935602,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+142,1,"3:07",1387,1387,"PJ Pipes Offensive Rebound.",41,9,32,0.992464756935602,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+143,1,"3:02",1382,1382,"Trevian Bell made Layup. Assisted by Sukhjot Bains.",43,9,34,0.994400689676322,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+144,1,"2:36",1356,1356,"Corey Allen Turnover.",43,9,34,0.995348664585012,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+145,1,"2:12",1332,1332,"Trevian Bell missed Dunk.",43,9,34,0.994988485068252,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+146,1,"2:12",1332,1332,"Lakeland College Defensive Rebound.",43,9,34,0.994988485068252,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+147,1,"2:01",1321,1321,"Eric Nygaard missed Jumper.",43,9,34,0.995538973206829,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+148,1,"2:01",1321,1321,"Khalil Small Defensive Rebound.",43,9,34,0.995538973206829,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+149,1,"2:01",1321,1321,"Trevian Bell missed Jumper.",43,9,34,0.995538973206829,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+150,1,"2:01",1321,1321,"PJ Pipes Offensive Rebound.",43,9,34,0.995538973206829,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+151,1,"1:45",1305,1305,"Foul on Corey Allen.",43,9,34,0.993859401531713,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+152,1,"1:45",1305,1305,"PJ Pipes made Free Throw.",44,9,35,0.994695018097281,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+153,1,"1:45",1305,1305,"PJ Pipes missed Free Throw.",44,9,35,0.994695018097281,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+154,1,"1:45",1305,1305,"Shakur Jinad Defensive Rebound.",44,9,35,0.994695018097281,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+155,1,"1:34",1294,1294,"Eddie Burnett missed Three Point Jumper.",44,9,35,0.997578913248808,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+156,1,"1:34",1294,1294,"Trevian Bell Defensive Rebound.",44,9,35,0.997578913248808,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+157,1,"1:22",1282,1282,"Foul on Corey Allen.",44,9,35,0.994972128865269,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+158,1,"1:22",1282,1282,"Sukhjot Bains made Free Throw.",45,9,36,0.995668526319154,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+159,1,"1:22",1282,1282,"Sukhjot Bains made Free Throw.",46,9,37,0.99626882927236,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+160,1,"1:11",1271,1271,"Eddie Burnett missed Jumper.",46,9,37,0.996043481270299,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+161,1,"1:11",1271,1271,"Trevian Bell Defensive Rebound.",46,9,37,0.996043481270299,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+162,1,"1:00",1260,1260,"Kameron Hankerson missed Three Point Jumper.",46,9,37,0.997456132792972,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+163,1,"1:00",1260,1260,"Corey Allen Defensive Rebound.",46,9,37,0.997456132792972,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+164,1,"0:49",1249,1249,"Eddie Burnett missed Three Point Jumper.",46,9,37,0.996913889832533,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+165,1,"0:49",1249,1249,"Khalil Small Defensive Rebound.",46,9,37,0.996913889832533,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+166,1,"0:43",1243,1243,"Khalil Small Turnover.",46,9,37,0.996913889832533,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+167,1,"0:41",1241,1241,"Corey Allen Steal.",46,9,37,0.996913889832533,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+168,1,"0:36",1236,1236,"Corey Allen made Jumper.",46,11,35,0.996546062245529,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+169,1,"0:03",1203,1203,"PJ Pipes Turnover.",46,11,35,0.996400123992724,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+170,1,"0:02",1202,1202,"Eddie Burnett missed Layup.",46,11,35,0.996400123992724,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+171,1,"0:01",1201,1201,"Kameron Hankerson Block.",46,11,35,0.996400123992724,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+172,1,"0:00",1200,1200,"Khalil Small Defensive Rebound.",46,11,35,0.996400123992724,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+173,1,"0:00",1200,1200,"End of 1st half",46,11,35,0.996400123992724,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+174,2,"20:00",1200,1200,"PLAY",46,11,35,0.996400123992724,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+175,2,"19:48",1188,1188,"Foul on Shakur Jinad.",46,11,35,0.997100774166769,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+176,2,"19:46",1186,1186,"Trevian Bell Turnover.",46,11,35,0.997100774166769,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+177,2,"19:44",1184,1184,"Shakur Jinad Steal.",46,11,35,0.997100774166769,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+178,2,"19:32",1172,1172,"Carlos Campos missed Three Point Jumper.",46,11,35,0.997049732576189,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+179,2,"19:32",1172,1172,"Trevian Bell Defensive Rebound.",46,11,35,0.997049732576189,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+180,2,"19:26",1166,1166,"Foul on Eric Nygaard.",46,11,35,0.996785367938278,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+181,2,"19:26",1166,1166,"Kameron Hankerson made Free Throw.",47,11,36,0.997272621575697,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+182,2,"19:26",1166,1166,"Kameron Hankerson made Free Throw.",48,11,37,0.99768619181928,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+183,2,"19:03",1143,1143,"Shakur Jinad missed Three Point Jumper.",48,11,37,0.998409377442681,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+184,2,"19:03",1143,1143,"Khalil Small Defensive Rebound.",48,11,37,0.998409377442681,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+185,2,"18:57",1137,1137,"Hunter Crist Turnover.",48,11,37,0.997756122511381,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+186,2,"18:43",1123,1123,"Pat McDonald Turnover.",48,11,37,0.999014408462897,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+187,2,"18:41",1121,1121,"Hunter Crist Steal.",48,11,37,0.999014408462897,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+188,2,"18:38",1118,1118,"David Jesperson missed Three Point Jumper.",48,11,37,0.9984831291123,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+189,2,"18:38",1118,1118,"Carlos Campos Defensive Rebound.",48,11,37,0.9984831291123,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+190,2,"18:30",1110,1110,"Pat McDonald missed Three Point Jumper.",48,11,37,0.9984831291123,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+191,2,"18:30",1110,1110,"Khalil Small Defensive Rebound.",48,11,37,0.9984831291123,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+192,2,"18:20",1100,1100,"Khalil Small made Layup.",50,11,39,0.998398477993712,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+193,2,"18:05",1085,1085,"Carlos Campos missed Layup.",50,11,39,0.999028719253251,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+194,2,"18:05",1085,1085,"David Jesperson Defensive Rebound.",50,11,39,0.999028719253251,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+195,2,"17:58",1078,1078,"Kameron Hankerson made Layup.",52,11,41,0.999104033057996,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+196,2,"17:31",1051,1051,"Carlos Campos missed Layup.",52,11,41,0.999434840999318,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+197,2,"17:31",1051,1051,"David Jesperson Block.",52,11,41,0.999434840999318,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+198,2,"17:29",1049,1049,"Shakur Jinad Offensive Rebound.",52,11,41,0.99933054890133,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+199,2,"17:27",1047,1047,"Shakur Jinad missed Jumper.",52,11,41,0.99933054890133,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+200,2,"17:27",1047,1047,"Khalil Small Defensive Rebound.",52,11,41,0.99933054890133,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+201,2,"17:21",1041,1041,"Khalil Small missed Three Point Jumper.",52,11,41,0.99933054890133,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+202,2,"17:21",1041,1041,"Sukhjot Bains Offensive Rebound.",52,11,41,0.99933054890133,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+203,2,"17:16",1036,1036,"Sukhjot Bains missed Layup.",52,11,41,0.999143267348141,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+204,2,"17:16",1036,1036,"Hunter Crist Offensive Rebound.",52,11,41,0.999143267348141,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+205,2,"17:09",1029,1029,"Sukhjot Bains made Layup. Assisted by Khalil Small.",54,11,43,0.999592455800753,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+206,2,"16:39",999,999,"Zach Hasenstein missed Jumper.",54,11,43,0.999535458774782,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+207,2,"16:39",999,999,"Pat McDonald Offensive Rebound.",54,11,43,0.999535458774782,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+208,2,"16:35",995,995,"Pat McDonald missed Three Point Jumper.",54,11,43,0.999535458774782,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+209,2,"16:35",995,995,"David Jesperson Defensive Rebound.",54,11,43,0.999535458774782,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+210,2,"16:19",979,979,"Sukhjot Bains missed Jumper.",54,11,43,0.999601880513442,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+211,2,"16:19",979,979,"Shakur Jinad Defensive Rebound.",54,11,43,0.999601880513442,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+212,2,"16:12",972,972,"Shakur Jinad made Layup.",54,13,41,0.999429651783207,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+213,2,"16:09",969,969,"Foul on Zach Hasenstein.",54,13,41,0.99952024020715,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+214,2,"15:59",959,959,"PJ Pipes Turnover.",54,13,41,0.999604391315004,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+215,2,"15:57",957,957,"Trenton Nickel Steal.",54,13,41,0.999604391315004,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+216,2,"15:52",952,952,"Foul on T.J. Parham.",54,13,41,0.999604391315004,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+217,2,"15:52",952,952,"Trenton Nickel made Free Throw.",54,14,40,0.999521060825223,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+218,2,"15:52",952,952,"Trenton Nickel made Free Throw.",54,15,39,0.999420187892624,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+219,2,"15:45",945,945,"Foul on Carlos Campos.",54,15,39,0.999502713766699,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+220,2,"15:38",938,938,"Foul on Pat McDonald.",54,15,39,0.999457341530503,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+221,2,"15:34",934,934,"Khalil Small made Free Throw.",55,15,40,0.999551822461012,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+222,2,"15:34",934,934,"Khalil Small made Free Throw.",56,15,41,0.999629859641308,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+223,2,"15:20",920,920,"Shakur Jinad missed Three Point Jumper.",56,15,41,0.999628031184024,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+224,2,"15:20",920,920,"T.J. Parham Block.",56,15,41,0.999628031184024,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+225,2,"15:17",917,917,"Shakur Jinad Offensive Rebound.",56,15,41,0.999686009904586,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+226,2,"15:13",913,913,"Jequan Pegeese missed Three Point Jumper.",56,15,41,0.999686009904586,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+227,2,"15:13",913,913,"Manny Patterson Block.",56,15,41,0.999686009904586,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+228,2,"15:10",910,910,"PJ Pipes Defensive Rebound.",56,15,41,0.999686009904586,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+229,2,"15:02",902,902,"Trevian Bell made Layup.",58,15,43,0.999747250490278,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+230,2,"14:51",891,891,"Jequan Pegeese missed Jumper.",58,15,43,0.999787636931078,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+231,2,"14:51",891,891,"Manny Patterson Block.",58,15,43,0.999787636931078,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+232,2,"14:49",889,889,"Khalil Small Defensive Rebound.",58,15,43,0.999450593271368,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+233,2,"14:37",877,877,"T.J. Parham made Three Point Jumper.",61,15,46,0.999868250886958,"Green Bay","Lakeland",4,3,0,0,NA,400992121,2017-11-17
+234,2,"14:28",868,868,"Lakeland College  Timeout",61,15,46,0.999851954203632,"Green Bay","Lakeland",4,2,0,1,NA,400992121,2017-11-17
+235,2,"14:24",864,864,"Shakur Jinad missed Three Point Jumper.",61,15,46,0.999851954203632,"Green Bay","Lakeland",4,2,0,1,NA,400992121,2017-11-17
+236,2,"14:24",864,864,"Khalil Small Defensive Rebound.",61,15,46,0.999851954203632,"Green Bay","Lakeland",4,2,0,1,NA,400992121,2017-11-17
+237,2,"14:05",845,845,"Manny Patterson made Layup.",63,15,48,0.999964418305945,"Green Bay","Lakeland",4,2,0,1,NA,400992121,2017-11-17
+238,2,"13:42",822,822,"Eric Nygaard made Layup. Assisted by Jequan Pegeese.",63,17,46,0.99983455618174,"Green Bay","Lakeland",4,2,0,1,NA,400992121,2017-11-17
+239,2,"13:36",816,816,"Khalil Small made Layup. Assisted by PJ Pipes.",65,17,48,0.999916328907819,"Green Bay","Lakeland",4,2,0,1,NA,400992121,2017-11-17
+240,2,"13:17",797,797,"Jequan Pegeese missed Three Point Jumper.",65,17,48,0.999974515972529,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+241,2,"13:17",797,797,"Trevian Bell Defensive Rebound.",65,17,48,0.999974515972529,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+242,2,"13:03",783,783,"Manny Patterson Turnover.",65,17,48,0.99995182680481,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+243,2,"12:50",770,770,"Trenton Nickel missed Three Point Jumper.",65,17,48,0.999960784000509,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+244,2,"12:50",770,770,"Shakur Jinad Offensive Rebound.",65,17,48,0.999960784000509,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+245,2,"12:28",748,748,"Foul on PJ Pipes.",65,17,48,0.999977711655504,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+246,2,"12:20",740,740,"Zach Hasenstein missed Layup.",65,17,48,0.999977711655504,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+247,2,"12:20",740,740,"Kameron Hankerson Defensive Rebound.",65,17,48,0.999977711655504,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+248,2,"12:15",735,735,"Kameron Hankerson made Layup.",67,17,50,0.99997813987951,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+249,2,"12:02",722,722,"Eric Nygaard Turnover.",67,17,50,0.999985638856489,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+250,2,"12:00",720,720,"Official TV Timeout",67,17,50,0.999985638856489,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+251,2,"11:52",712,712,"Foul on Zach Hasenstein.",67,17,50,0.999981516932664,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+252,2,"11:43",703,703,"David Jesperson missed Three Point Jumper.",67,17,50,0.999978663123013,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+253,2,"11:43",703,703,"Eric Nygaard Defensive Rebound.",67,17,50,0.999978663123013,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+254,2,"11:35",695,695,"Jequan Pegeese missed Three Point Jumper.",67,17,50,0.999993423092389,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+255,2,"11:35",695,695,"Lakeland College Offensive Rebound.",67,17,50,0.999993423092389,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+256,2,"11:31",691,691,"Foul on Will Chevalier.",67,17,50,0.999993423092389,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+257,2,"11:26",686,686,"Eric Nygaard missed Three Point Jumper.",67,17,50,0.999986291710078,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+258,2,"11:26",686,686,"Sukhjot Bains Defensive Rebound.",67,17,50,0.999986291710078,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+259,2,"11:18",678,678,"Kameron Hankerson Turnover.",67,17,50,0.999991211787691,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+260,2,"11:06",666,666,"Carlos Campos made Three Point Jumper. Assisted by Jequan Pegeese.",67,20,47,0.999979081492674,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+261,2,"10:46",646,646,"Sukhjot Bains Turnover.",67,20,47,0.999988357678381,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+262,2,"10:44",644,644,"Carlos Campos Steal.",67,20,47,0.999988357678381,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+263,2,"10:43",643,643,"Foul on Hunter Crist.",67,20,47,0.999988357678381,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+264,2,"10:21",621,621,"Carlos Campos missed Layup.",67,20,47,0.999992963211735,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+265,2,"10:21",621,621,"David Jesperson Defensive Rebound.",67,20,47,0.999992963211735,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+266,2,"10:08",608,608,"Hunter Crist Turnover.",67,20,47,0.99999052830048,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+267,2,"10:05",605,605,"Eddie Burnett Steal.",67,20,47,0.99999052830048,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+268,2,"10:00",600,600,"Carl Garner missed Layup.",67,20,47,0.99999052830048,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+269,2,"10:00",600,600,"Will Chevalier Defensive Rebound.",67,20,47,0.99999052830048,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+270,2,"9:52",592,592,"Will Chevalier made Three Point Jumper. Assisted by David Jesperson.",70,20,50,0.999994152302139,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+271,2,"9:41",581,581,"Foul on Will Chevalier.",70,20,50,0.99999470030792,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+272,2,"9:37",577,577,"Ahmari Dantzler Turnover.",70,20,50,0.999997329574878,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+273,2,"9:36",576,576,"Will Chevalier Steal.",70,20,50,0.999997329574878,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+274,2,"9:32",572,572,"T.J. Parham missed Three Point Jumper.",70,20,50,0.999997329574878,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+275,2,"9:32",572,572,"Sukhjot Bains Offensive Rebound.",70,20,50,0.999997329574878,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+276,2,"9:27",567,567,"Foul on Eddie Burnett.",70,20,50,0.999997725179087,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+277,2,"9:27",567,567,"Sukhjot Bains missed Free Throw.",70,20,50,0.999997725179087,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+278,2,"9:27",567,567,"Eddie Burnett Defensive Rebound.",70,20,50,0.999997725179087,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+279,2,"9:27",567,567,"Eddie Burnett missed Layup.",70,20,50,0.999997725179087,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+280,2,"9:27",567,567,"David Jesperson Defensive Rebound.",70,20,50,0.999997725179087,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+281,2,"9:05",545,545,"Foul on Sukhjot Bains.",70,20,50,0.99999847661497,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+282,2,"8:59",539,539,"Carl Garner made Jumper. Assisted by Eddie Burnett.",70,22,48,0.999998845987997,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+283,2,"8:33",513,513,"Foul on Carl Garner.",70,22,48,0.999997837559783,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+284,2,"8:33",513,513,"Trevian Bell made Free Throw.",71,22,49,0.999998350130068,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+285,2,"8:33",513,513,"Trevian Bell made Free Throw.",72,22,50,0.999998741204294,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+286,2,"8:14",494,494,"Eddie Burnett missed Three Point Jumper.",72,22,50,0.999998960418875,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+287,2,"8:14",494,494,"Manny Patterson Defensive Rebound.",72,22,50,0.999998960418875,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+288,2,"8:08",488,488,"T.J. Parham missed Layup.",72,22,50,0.999998919616342,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+289,2,"8:08",488,488,"Sam Kaminski Defensive Rebound.",72,22,50,0.999998919616342,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+290,2,"8:01",481,481,"Kyle Domark missed Three Point Jumper.",72,22,50,0.999998919616342,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+291,2,"8:01",481,481,"Trevian Bell Defensive Rebound.",72,22,50,0.999998919616342,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+292,2,"7:47",467,467,"Foul on Sam Kaminski.",72,22,50,0.999999269624844,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+293,2,"7:46",466,466,"Manny Patterson missed Free Throw.",72,22,50,0.999999269624844,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+294,2,"7:46",466,466,"Green Bay Deadball Team Rebound.",72,22,50,0.999999269624844,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+295,2,"7:46",466,466,"Manny Patterson missed Free Throw.",72,22,50,0.999999269624844,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+296,2,"7:46",466,466,"Sam Kaminski Defensive Rebound.",72,22,50,0.999999269624844,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+297,2,"7:36",456,456,"Corey Allen missed Three Point Jumper.",72,22,50,0.999999874369737,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+298,2,"7:36",456,456,"Manny Patterson Defensive Rebound.",72,22,50,0.999999874369737,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+299,2,"7:20",440,440,"T.J. Parham missed Layup.",72,22,50,0.99999907226674,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+300,2,"7:20",440,440,"Isaac Anderson Defensive Rebound.",72,22,50,0.99999907226674,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+301,2,"7:06",426,426,"Kyle Domark missed Three Point Jumper.",72,22,50,0.999999652453263,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+302,2,"7:06",426,426,"Manny Patterson Defensive Rebound.",72,22,50,0.999999652453263,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+303,2,"6:59",419,419,"PJ Pipes made Layup.",74,22,52,0.999999848683277,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+304,2,"6:59",419,419,"Foul on Jequan Pegeese.",74,22,52,0.999999848683277,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+305,2,"6:59",419,419,"PJ Pipes made Free Throw.",75,22,53,0.999999888051911,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+306,2,"6:43",403,403,"Jequan Pegeese missed Three Point Jumper.",75,22,53,0.999999974649397,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+307,2,"6:43",403,403,"K.J. Odom Offensive Rebound.",75,22,53,0.999999974649397,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+308,2,"6:31",391,391,"Will Chevalier missed Three Point Jumper.",75,22,53,0.999999942044621,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+309,2,"6:31",391,391,"Isaac Anderson Defensive Rebound.",75,22,53,0.999999942044621,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+310,2,"6:22",382,382,"Kyle Domark missed Three Point Jumper.",75,22,53,0.999999865522651,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+311,2,"6:22",382,382,"Will Chevalier Defensive Rebound.",75,22,53,0.999999865522651,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+312,2,"6:15",375,375,"Foul on Sam Kaminski.",75,22,53,0.999999925363604,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+313,2,"6:15",375,375,"Manny Patterson made Free Throw.",76,22,54,0.99999994523982,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+314,2,"6:15",375,375,"Manny Patterson made Free Throw.",77,22,55,0.999999959822855,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+315,2,"6:01",361,361,"Isaac Anderson missed Three Point Jumper.",77,22,55,0.999999981854324,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+316,2,"6:01",361,361,"Green Bay Defensive Rebound.",77,22,55,0.999999981854324,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+317,2,"5:43",343,343,"PJ Pipes made Jumper.",79,22,57,0.999999994348079,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+318,2,"5:29",329,329,"Kyle Domark missed Three Point Jumper.",79,22,57,0.999999982783557,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+319,2,"5:29",329,329,"Manny Patterson Defensive Rebound.",79,22,57,0.999999982783557,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+320,2,"5:20",320,320,"T.J. Parham made Three Point Jumper. Assisted by PJ Pipes.",82,22,60,0.999999993286473,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+321,2,"5:02",302,302,"Foul on Manny Patterson.",82,22,60,0.999999998616733,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+322,2,"5:02",302,302,"Isaac Anderson made Free Throw.",82,23,59,0.999999998059217,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+323,2,"5:02",302,302,"Isaac Anderson made Free Throw.",82,24,58,0.999999997276998,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+324,2,"4:56",296,296,"Tyrone Powell made Layup.",84,24,60,0.999999998861146,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+325,2,"4:42",282,282,"Sam Kaminski missed Jumper.",84,24,60,0.99999999936234,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+326,2,"4:42",282,282,"Manny Patterson Block.",84,24,60,0.99999999936234,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+327,2,"4:41",281,281,"Manny Patterson Defensive Rebound.",84,24,60,0.99999999936234,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+328,2,"4:40",280,280,"Foul on Eddie Burnett.",84,24,60,0.99999999936234,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+329,2,"4:40",280,280,"PJ Pipes made Free Throw.",85,24,61,0.999999999551903,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+330,2,"4:40",280,280,"PJ Pipes made Free Throw.",86,24,62,0.999999999685113,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+331,2,"4:28",268,268,"Ahmari Dantzler missed Jumper.",86,24,62,0.999999999917129,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+332,2,"4:28",268,268,"Carl Garner Offensive Rebound.",86,24,62,0.999999999917129,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+333,2,"4:24",264,264,"Carl Garner missed Layup.",86,24,62,0.999999999917129,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+334,2,"4:24",264,264,"Green Bay Defensive Rebound.",86,24,62,0.999999999917129,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+335,2,"4:23",263,263,"Foul on Jequan Pegeese.",86,24,62,0.999999999917129,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+336,2,"4:23",263,263,"PJ Pipes made Free Throw.",87,24,63,0.999999999942944,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+337,2,"4:23",263,263,"PJ Pipes made Free Throw.",88,24,64,0.999999999960718,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+338,2,"4:07",247,247,"Carl Garner missed Three Point Jumper.",88,24,64,0.999999999994484,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+339,2,"4:07",247,247,"PJ Pipes Defensive Rebound.",88,24,64,0.999999999994484,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+340,2,"3:56",236,236,"PJ Pipes Turnover.",88,24,64,0.999999999995267,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+341,2,"3:54",234,234,"Carl Garner Steal.",88,24,64,0.999999999995267,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+342,2,"3:49",229,229,"Jequan Pegeese made Three Point Jumper. Assisted by Andre Sanchez-Amarillas.",88,27,61,0.999999999994475,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+343,2,"3:44",224,224,"Official TV Timeout",88,27,61,0.999999999994475,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+344,2,"3:20",200,200,"Foul on Carl Garner.",88,27,61,0.999999999999052,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+345,2,"3:20",200,200,"Tyrone Powell made Free Throw.",89,27,62,0.999999999999396,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+346,2,"3:20",200,200,"Tyrone Powell made Free Throw.",90,27,63,0.999999999999616,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+347,2,"3:12",192,192,"Andre Sanchez-Amarillas missed Three Point Jumper.",90,27,63,0.999999999999849,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+348,2,"3:12",192,192,"T.J. Parham Defensive Rebound.",90,27,63,0.999999999999849,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+349,2,"3:07",187,187,"Tyrone Powell made Dunk. Assisted by T.J. Parham.",92,27,65,0.99999999999998,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+350,2,"2:56",176,176,"Carl Garner missed Jumper.",92,27,65,0.999999999999989,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+351,2,"2:56",176,176,"T.J. Parham Defensive Rebound.",92,27,65,0.999999999999989,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+352,2,"2:52",172,172,"Foul on Reggie Nimmer.",92,27,65,0.999999999999989,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+353,2,"2:52",172,172,"T.J. Parham made Free Throw.",93,27,66,0.999999999999993,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+354,2,"2:52",172,172,"T.J. Parham made Free Throw.",94,27,67,0.999999999999996,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+355,2,"2:30",150,150,"Corey Allen Turnover.",94,27,67,1,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+356,2,"2:29",149,149,"PJ Pipes Steal.",94,27,67,0.999999999999999,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+357,2,"2:26",146,146,"Tyrone Powell made Layup. Assisted by PJ Pipes.",96,27,69,1,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+358,2,"2:13",133,133,"Eddie Burnett missed Three Point Jumper.",96,27,69,1,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+359,2,"2:13",133,133,"T.J. Parham Defensive Rebound.",96,27,69,1,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+360,2,"1:40",100,100,"T.J. Parham missed Three Point Jumper.",96,27,69,1,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+361,2,"1:40",100,100,"Eddie Burnett Defensive Rebound.",96,27,69,1,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+362,2,"1:24",84,84,"Eddie Burnett missed Three Point Jumper.",96,27,69,1,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+363,2,"1:24",84,84,"Will Chevalier Defensive Rebound.",96,27,69,1,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+364,2,"1:01",61,61,"Foul on Will Chevalier.",96,27,69,1,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+365,2,"0:59",59,59,"Andre Sanchez-Amarillas missed Three Point Jumper.",96,27,69,1,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+366,2,"0:59",59,59,"Reggie Nimmer Offensive Rebound.",96,27,69,1,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+367,2,"0:39",39,39,"Reggie Nimmer missed Layup.",96,27,69,1,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+368,2,"0:39",39,39,"T.J. Parham Defensive Rebound.",96,27,69,1,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+369,2,"0:25",25,25,"T.J. Parham missed Layup.",96,27,69,1,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+370,2,"0:25",25,25,"Manny Patterson Offensive Rebound.",96,27,69,1,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+371,2,"0:15",15,15,"Foul on Reggie Nimmer.",96,27,69,1,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+372,2,"0:15",15,15,"Manny Patterson made Free Throw.",97,27,70,1,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+373,2,"0:15",15,15,"Manny Patterson made Free Throw.",98,27,71,1,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+374,2,"0:04",4,4,"Kyle Domark missed Three Point Jumper.",98,27,71,1,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+375,2,"0:04",4,4,"Manny Patterson Defensive Rebound.",98,27,71,1,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17
+376,2,"0:00",0,0,"End of Game",98,27,71,NA,"Green Bay","Lakeland",4,2,0,0,NA,400992121,2017-11-17

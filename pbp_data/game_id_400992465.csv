@@ -1,0 +1,324 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.398165870133373,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+2,1,"19:42",2382,2382,"Lyrik Shreiner Turnover.",0,0,0,0.402270398586477,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+3,1,"19:41",2381,2381,"Balint Mocsan Steal.",0,0,0,0.402270398586477,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+4,1,"19:19",2359,2359,"Balint Mocsan missed Layup.",0,0,0,0.423479676727261,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+5,1,"19:19",2359,2359,"Lyrik Shreiner Defensive Rebound.",0,0,0,0.423479676727261,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+6,1,"19:00",2340,2340,"Lyrik Shreiner made Jumper.",2,0,2,0.45238645605455,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+7,1,"18:46",2326,2326,"Novak Topalovic missed Jumper.",2,0,2,0.481926574779398,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+8,1,"18:46",2326,2326,"Mahamadou Kaba-Camara Defensive Rebound.",2,0,2,0.481926574779398,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+9,1,"18:40",2320,2320,"Micheal Warren made Layup. Assisted by Terrell Gomez.",4,0,4,0.535842056289383,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+10,1,"18:40",2320,2320,"Foul on Balint Mocsan.",4,0,4,0.535842056289383,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+11,1,"18:40",2320,2320,"Micheal Warren made Free Throw.",5,0,5,0.562566447162931,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+12,1,"18:25",2305,2305,"Foul on Mahamadou Kaba-Camara.",5,0,5,0.530955252017079,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+13,1,"18:25",2305,2305,"Novak Topalovic missed Free Throw.",5,0,5,0.530955252017079,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+14,1,"18:25",2305,2305,"Idaho State Deadball Team Rebound.",5,0,5,0.530955252017079,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+15,1,"18:25",2305,2305,"Novak Topalovic missed Free Throw.",5,0,5,0.530955252017079,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+16,1,"18:25",2305,2305,"Lyrik Shreiner Defensive Rebound.",5,0,5,0.530955252017079,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+17,1,"18:16",2296,2296,"Tavrion Dawson made Jumper.",7,0,7,0.586177659218472,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+18,1,"17:56",2276,2276,"Jared Stutzman made Three Point Jumper.",7,3,4,0.520438233354336,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+19,1,"17:38",2258,2258,"Micheal Warren Turnover.",7,3,4,0.51765779049367,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+20,1,"17:37",2257,2257,"Geno Luzcando Steal.",7,3,4,0.51765779049367,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+21,1,"17:35",2255,2255,"Geno Luzcando Turnover.",7,3,4,0.51765779049367,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+22,1,"17:34",2254,2254,"Lyrik Shreiner Steal.",7,3,4,0.51765779049367,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+23,1,"17:31",2251,2251,"Lyrik Shreiner missed Layup.",7,3,4,0.51765779049367,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+24,1,"17:31",2251,2251,"Jared Stutzman Defensive Rebound.",7,3,4,0.51765779049367,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+25,1,"17:17",2237,2237,"Foul on Mahamadou Kaba-Camara.",7,3,4,0.526269649828599,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+26,1,"17:02",2222,2222,"Kyle Ingram missed Jumper.",7,3,4,0.517400791993016,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+27,1,"17:02",2222,2222,"Geno Luzcando Offensive Rebound.",7,3,4,0.517400791993016,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+28,1,"16:46",2206,2206,"Novak Topalovic made Jumper.",7,5,2,0.474837974056613,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+29,1,"16:32",2192,2192,"Tavrion Dawson missed Jumper.",7,5,2,0.483570339329308,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+30,1,"16:32",2192,2192,"CSU Northridge Offensive Rebound.",7,5,2,0.483570339329308,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+31,1,"16:18",2178,2178,"Jalon Pipkins missed Jumper.",7,5,2,0.46276910643087,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+32,1,"16:18",2178,2178,"Tavrion Dawson Offensive Rebound.",7,5,2,0.46276910643087,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+33,1,"16:15",2175,2175,"Tavrion Dawson missed Layup.",7,5,2,0.46276910643087,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+34,1,"16:15",2175,2175,"Kyle Ingram Defensive Rebound.",7,5,2,0.46276910643087,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+35,1,"16:10",2170,2170,"Novak Topalovic made Layup. Assisted by Geno Luzcando.",7,7,0,0.409395085093516,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+36,1,"15:53",2153,2153,"Terrell Gomez made Three Point Jumper.",10,7,3,0.491434767394786,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+37,1,"15:48",2148,2148,"Balint Mocsan missed Three Point Jumper.",10,7,3,0.497383453475524,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+38,1,"15:48",2148,2148,"Terrell Gomez Defensive Rebound.",10,7,3,0.497383453475524,"CSU Northridge","Idaho State",6,6,0,0,-2,400992465,2017-12-23
+39,1,"15:41",2141,2141,"Terrell Gomez Turnover.",10,7,3,0.497383453475524,"CSU Northridge","Idaho State",6,6,1,0,-2,400992465,2017-12-23
+40,1,"15:41",2141,2141,"Foul on Terrell Gomez.",10,7,3,0.497383453475524,"CSU Northridge","Idaho State",6,6,1,0,-2,400992465,2017-12-23
+41,1,"15:41",2141,2141,"Idaho State  Timeout",10,7,3,0.497383453475524,"CSU Northridge","Idaho State",5,6,1,0,-2,400992465,2017-12-23
+42,1,"15:15",2115,2115,"Kyle Ingram missed Jumper.",10,7,3,0.488421831822606,"CSU Northridge","Idaho State",5,6,1,0,-2,400992465,2017-12-23
+43,1,"15:15",2115,2115,"Tavrion Dawson Defensive Rebound.",10,7,3,0.488421831822606,"CSU Northridge","Idaho State",5,6,1,0,-2,400992465,2017-12-23
+44,1,"14:51",2091,2091,"Micheal Warren missed Jumper.",10,7,3,0.508120404972789,"CSU Northridge","Idaho State",5,6,1,0,-2,400992465,2017-12-23
+45,1,"14:51",2091,2091,"Balint Mocsan Defensive Rebound.",10,7,3,0.508120404972789,"CSU Northridge","Idaho State",5,6,1,0,-2,400992465,2017-12-23
+46,1,"14:31",2071,2071,"Balint Mocsan made Three Point Jumper. Assisted by Novak Topalovic.",10,10,0,0.403460710063206,"CSU Northridge","Idaho State",5,6,0,0,-2,400992465,2017-12-23
+47,1,"14:03",2043,2043,"Jalon Pipkins missed Jumper.",10,10,0,0.40217543176618,"CSU Northridge","Idaho State",5,6,0,0,-2,400992465,2017-12-23
+48,1,"14:03",2043,2043,"Kyle Ingram Defensive Rebound.",10,10,0,0.40217543176618,"CSU Northridge","Idaho State",5,6,0,0,-2,400992465,2017-12-23
+49,1,"13:55",2035,2035,"Geno Luzcando missed Three Point Jumper.",10,10,0,0.416860450086221,"CSU Northridge","Idaho State",5,6,0,0,-2,400992465,2017-12-23
+50,1,"13:55",2035,2035,"Micheal Warren Defensive Rebound.",10,10,0,0.416860450086221,"CSU Northridge","Idaho State",5,6,0,0,-2,400992465,2017-12-23
+51,1,"13:30",2010,2010,"Terrell Gomez missed Jumper.",10,10,0,0.421129969795428,"CSU Northridge","Idaho State",5,6,0,0,-2,400992465,2017-12-23
+52,1,"13:30",2010,2010,"Balint Mocsan Defensive Rebound.",10,10,0,0.421129969795428,"CSU Northridge","Idaho State",5,6,0,0,-2,400992465,2017-12-23
+53,1,"13:13",1993,1993,"Kyle Ingram missed Jumper.",10,10,0,0.412868301599686,"CSU Northridge","Idaho State",5,6,0,0,-2,400992465,2017-12-23
+54,1,"13:13",1993,1993,"Micheal Warren Defensive Rebound.",10,10,0,0.412868301599686,"CSU Northridge","Idaho State",5,6,0,0,-2,400992465,2017-12-23
+55,1,"13:03",1983,1983,"Tavrion Dawson missed Three Point Jumper.",10,10,0,0.40984220764382,"CSU Northridge","Idaho State",5,6,0,0,-2,400992465,2017-12-23
+56,1,"13:03",1983,1983,"Kyle Ingram Defensive Rebound.",10,10,0,0.40984220764382,"CSU Northridge","Idaho State",5,6,0,0,-2,400992465,2017-12-23
+57,1,"12:46",1966,1966,"Geno Luzcando Turnover.",10,10,0,0.412615922358891,"CSU Northridge","Idaho State",5,6,0,0,-2,400992465,2017-12-23
+58,1,"12:45",1965,1965,"Tavrion Dawson Steal.",10,10,0,0.412615922358891,"CSU Northridge","Idaho State",5,6,0,0,-2,400992465,2017-12-23
+59,1,"12:40",1960,1960,"Tavrion Dawson made Layup. Assisted by Micheal Warren.",12,10,2,0.464758142751788,"CSU Northridge","Idaho State",5,6,0,0,-2,400992465,2017-12-23
+60,1,"12:40",1960,1960,"Foul on Novak Topalovic.",12,10,2,0.464758142751788,"CSU Northridge","Idaho State",5,6,0,0,-2,400992465,2017-12-23
+61,1,"12:40",1960,1960,"Tavrion Dawson made Free Throw.",13,10,3,0.49119553769262,"CSU Northridge","Idaho State",5,6,0,0,-2,400992465,2017-12-23
+62,1,"12:22",1942,1942,"Jared Stutzman missed Three Point Jumper.",13,10,3,0.508068010591585,"CSU Northridge","Idaho State",5,6,0,0,-2,400992465,2017-12-23
+63,1,"12:22",1942,1942,"Geno Luzcando Offensive Rebound.",13,10,3,0.508068010591585,"CSU Northridge","Idaho State",5,6,0,0,-2,400992465,2017-12-23
+64,1,"12:17",1937,1937,"Novak Topalovic missed Layup.",13,10,3,0.504018077173344,"CSU Northridge","Idaho State",5,6,0,0,-2,400992465,2017-12-23
+65,1,"12:17",1937,1937,"Novak Topalovic Offensive Rebound.",13,10,3,0.504018077173344,"CSU Northridge","Idaho State",5,6,0,0,-2,400992465,2017-12-23
+66,1,"12:14",1934,1934,"Novak Topalovic missed Layup.",13,10,3,0.504018077173344,"CSU Northridge","Idaho State",5,6,0,0,-2,400992465,2017-12-23
+67,1,"12:14",1934,1934,"Lyrik Shreiner Defensive Rebound.",13,10,3,0.504018077173344,"CSU Northridge","Idaho State",5,6,0,0,-2,400992465,2017-12-23
+68,1,"12:06",1926,1926,"Lyrik Shreiner missed Layup.",13,10,3,0.489922388665736,"CSU Northridge","Idaho State",5,6,0,0,-2,400992465,2017-12-23
+69,1,"12:06",1926,1926,"Micheal Warren Offensive Rebound.",13,10,3,0.489922388665736,"CSU Northridge","Idaho State",5,6,0,0,-2,400992465,2017-12-23
+70,1,"12:04",1924,1924,"Micheal Warren made Layup.",15,10,5,0.552692289586629,"CSU Northridge","Idaho State",5,6,0,0,-2,400992465,2017-12-23
+71,1,"11:40",1900,1900,"Foul on Micheal Warren.",15,10,5,0.555473291992068,"CSU Northridge","Idaho State",5,6,1,0,-2,400992465,2017-12-23
+72,1,"11:40",1900,1900,"Idaho State  Timeout",15,10,5,0.555473291992068,"CSU Northridge","Idaho State",4,6,1,0,-2,400992465,2017-12-23
+73,1,"11:40",1900,1900,"Jared Stutzman made Free Throw.",15,11,4,0.526429895002341,"CSU Northridge","Idaho State",4,6,1,0,-2,400992465,2017-12-23
+74,1,"11:40",1900,1900,"Jared Stutzman made Free Throw.",15,12,3,0.497206537120132,"CSU Northridge","Idaho State",4,6,1,0,-2,400992465,2017-12-23
+75,1,"11:26",1886,1886,"Reggie Theus Jr. made Layup. Assisted by Micheal Warren.",17,12,5,0.557821516233753,"CSU Northridge","Idaho State",4,6,1,0,-2,400992465,2017-12-23
+76,1,"10:50",1850,1850,"Kyle Ingram made Jumper. Assisted by Blake Truman.",17,14,3,0.522674660293499,"CSU Northridge","Idaho State",4,6,1,0,-2,400992465,2017-12-23
+77,1,"10:33",1833,1833,"Lyrik Shreiner Turnover.",17,14,3,0.52171713021526,"CSU Northridge","Idaho State",4,6,0,0,-2,400992465,2017-12-23
+78,1,"10:16",1816,1816,"Brandon Boyd Turnover.",17,14,3,0.528506961283365,"CSU Northridge","Idaho State",4,6,0,0,-2,400992465,2017-12-23
+79,1,"10:04",1804,1804,"Jonathan Guevara missed Layup.",17,14,3,0.507421296207421,"CSU Northridge","Idaho State",4,6,0,0,-2,400992465,2017-12-23
+80,1,"10:04",1804,1804,"Brandon Boyd Block.",17,14,3,0.507421296207421,"CSU Northridge","Idaho State",4,6,0,0,-2,400992465,2017-12-23
+81,1,"10:01",1801,1801,"Blake Truman Defensive Rebound.",17,14,3,0.507421296207421,"CSU Northridge","Idaho State",4,6,0,0,-2,400992465,2017-12-23
+82,1,"9:55",1795,1795,"Brandon Boyd missed Three Point Jumper.",17,14,3,0.511023312958117,"CSU Northridge","Idaho State",4,6,0,0,-2,400992465,2017-12-23
+83,1,"9:55",1795,1795,"Blake Truman Offensive Rebound.",17,14,3,0.511023312958117,"CSU Northridge","Idaho State",4,6,0,0,-2,400992465,2017-12-23
+84,1,"9:49",1789,1789,"Brandon Boyd made Layup. Assisted by Blake Truman.",17,16,1,0.440158684405656,"CSU Northridge","Idaho State",4,6,0,0,-2,400992465,2017-12-23
+85,1,"9:27",1767,1767,"Tavrion Dawson Turnover.",17,16,1,0.447598620493692,"CSU Northridge","Idaho State",4,6,0,0,-2,400992465,2017-12-23
+86,1,"9:02",1742,1742,"Sam Dowd Turnover.",17,16,1,0.471568649104977,"CSU Northridge","Idaho State",4,6,0,0,-2,400992465,2017-12-23
+87,1,"9:01",1741,1741,"Tavrion Dawson Steal.",17,16,1,0.471568649104977,"CSU Northridge","Idaho State",4,6,0,0,-2,400992465,2017-12-23
+88,1,"8:57",1737,1737,"Micheal Warren Turnover.",17,16,1,0.45275607079819,"CSU Northridge","Idaho State",4,6,0,0,-2,400992465,2017-12-23
+89,1,"8:56",1736,1736,"Sam Dowd Steal.",17,16,1,0.45275607079819,"CSU Northridge","Idaho State",4,6,0,0,-2,400992465,2017-12-23
+90,1,"8:49",1729,1729,"Balint Mocsan made Layup. Assisted by Kyle Ingram.",17,18,-1,0.41254945114494,"CSU Northridge","Idaho State",4,6,0,0,-2,400992465,2017-12-23
+91,1,"8:26",1706,1706,"Lyrik Shreiner missed Jumper.",17,18,-1,0.378672107568491,"CSU Northridge","Idaho State",4,6,0,0,-2,400992465,2017-12-23
+92,1,"8:26",1706,1706,"Brandon Boyd Defensive Rebound.",17,18,-1,0.378672107568491,"CSU Northridge","Idaho State",4,6,0,0,-2,400992465,2017-12-23
+93,1,"8:18",1698,1698,"Balint Mocsan missed Layup.",17,18,-1,0.401218979819371,"CSU Northridge","Idaho State",4,6,0,0,-2,400992465,2017-12-23
+94,1,"8:18",1698,1698,"Anthony Swan Block.",17,18,-1,0.401218979819371,"CSU Northridge","Idaho State",4,6,0,0,-2,400992465,2017-12-23
+95,1,"8:16",1696,1696,"Terrell Gomez Defensive Rebound.",17,18,-1,0.401218979819371,"CSU Northridge","Idaho State",4,6,0,0,-2,400992465,2017-12-23
+96,1,"8:04",1684,1684,"Terrell Gomez made Three Point Jumper.",20,18,2,0.48671053198299,"CSU Northridge","Idaho State",4,6,0,0,-2,400992465,2017-12-23
+97,1,"7:48",1668,1668,"Brandon Boyd made Layup.",20,20,0,0.419932500900651,"CSU Northridge","Idaho State",4,6,0,0,-2,400992465,2017-12-23
+98,1,"7:33",1653,1653,"Terrell Gomez missed Layup.",20,20,0,0.432772307698241,"CSU Northridge","Idaho State",4,6,0,0,-2,400992465,2017-12-23
+99,1,"7:33",1653,1653,"Brandon Boyd Defensive Rebound.",20,20,0,0.432772307698241,"CSU Northridge","Idaho State",4,6,0,0,-2,400992465,2017-12-23
+100,1,"7:25",1645,1645,"Balint Mocsan Turnover.",20,20,0,0.429291772061211,"CSU Northridge","Idaho State",4,6,0,0,-2,400992465,2017-12-23
+101,1,"7:24",1644,1644,"Lyrik Shreiner Steal.",20,20,0,0.429291772061211,"CSU Northridge","Idaho State",4,6,0,0,-2,400992465,2017-12-23
+102,1,"7:22",1642,1642,"Lyrik Shreiner Turnover.",20,20,0,0.429291772061211,"CSU Northridge","Idaho State",4,6,1,0,-2,400992465,2017-12-23
+103,1,"7:22",1642,1642,"Idaho State  Timeout",20,20,0,0.429291772061211,"CSU Northridge","Idaho State",3,6,1,0,-2,400992465,2017-12-23
+104,1,"7:02",1622,1622,"Novak Topalovic missed Jumper.",20,20,0,0.414996554372888,"CSU Northridge","Idaho State",3,6,1,0,-2,400992465,2017-12-23
+105,1,"7:02",1622,1622,"Zeno Lake Defensive Rebound.",20,20,0,0.414996554372888,"CSU Northridge","Idaho State",3,6,1,0,-2,400992465,2017-12-23
+106,1,"6:46",1606,1606,"Anthony Swan missed Layup.",20,20,0,0.409866185063932,"CSU Northridge","Idaho State",3,6,1,0,-2,400992465,2017-12-23
+107,1,"6:46",1606,1606,"Balint Mocsan Defensive Rebound.",20,20,0,0.409866185063932,"CSU Northridge","Idaho State",3,6,1,0,-2,400992465,2017-12-23
+108,1,"6:37",1597,1597,"Geno Luzcando missed Jumper.",20,20,0,0.445342913531714,"CSU Northridge","Idaho State",3,6,1,0,-2,400992465,2017-12-23
+109,1,"6:37",1597,1597,"Zeno Lake Defensive Rebound.",20,20,0,0.445342913531714,"CSU Northridge","Idaho State",3,6,1,0,-2,400992465,2017-12-23
+110,1,"6:36",1596,1596,"Foul on Novak Topalovic.",20,20,0,0.445342913531714,"CSU Northridge","Idaho State",3,6,1,1,-2,400992465,2017-12-23
+111,1,"6:36",1596,1596,"CSU Northridge  Timeout",20,20,0,0.445342913531714,"CSU Northridge","Idaho State",3,5,1,1,-2,400992465,2017-12-23
+112,1,"6:24",1584,1584,"Foul on Geno Luzcando.",20,20,0,0.405974792916843,"CSU Northridge","Idaho State",3,5,1,1,-2,400992465,2017-12-23
+113,1,"6:10",1570,1570,"Anthony Swan missed Three Point Jumper.",20,20,0,0.427870909611737,"CSU Northridge","Idaho State",3,5,0,1,-2,400992465,2017-12-23
+114,1,"6:10",1570,1570,"Tavrion Dawson Offensive Rebound.",20,20,0,0.427870909611737,"CSU Northridge","Idaho State",3,5,0,1,-2,400992465,2017-12-23
+115,1,"6:01",1561,1561,"Jalon Pipkins missed Three Point Jumper.",20,20,0,0.410181924522024,"CSU Northridge","Idaho State",3,5,0,1,-2,400992465,2017-12-23
+116,1,"6:01",1561,1561,"Kyle Ingram Defensive Rebound.",20,20,0,0.410181924522024,"CSU Northridge","Idaho State",3,5,0,1,-2,400992465,2017-12-23
+117,1,"5:47",1547,1547,"Erik Nakken made Three Point Jumper.",20,23,-3,0.327168124413482,"CSU Northridge","Idaho State",3,5,0,1,-2,400992465,2017-12-23
+118,1,"5:33",1533,1533,"Tavrion Dawson Turnover.",20,23,-3,0.327742068751823,"CSU Northridge","Idaho State",3,5,0,0,-2,400992465,2017-12-23
+119,1,"5:31",1531,1531,"Kyle Ingram Steal.",20,23,-3,0.327742068751823,"CSU Northridge","Idaho State",3,5,0,0,-2,400992465,2017-12-23
+120,1,"5:28",1528,1528,"Brandon Boyd made Layup.",20,25,-5,0.268465600272672,"CSU Northridge","Idaho State",3,5,0,0,-2,400992465,2017-12-23
+121,1,"5:10",1510,1510,"Jonathan Guevara made Layup.",22,25,-3,0.336302919676779,"CSU Northridge","Idaho State",3,5,0,0,-2,400992465,2017-12-23
+122,1,"4:44",1484,1484,"Kyle Ingram missed Jumper.",22,25,-3,0.311245663444256,"CSU Northridge","Idaho State",3,5,0,0,-2,400992465,2017-12-23
+123,1,"4:44",1484,1484,"Zeno Lake Defensive Rebound.",22,25,-3,0.311245663444256,"CSU Northridge","Idaho State",3,5,0,0,-2,400992465,2017-12-23
+124,1,"4:33",1473,1473,"Jalon Pipkins missed Jumper.",22,25,-3,0.307324859905399,"CSU Northridge","Idaho State",3,5,0,0,-2,400992465,2017-12-23
+125,1,"4:33",1473,1473,"Geno Luzcando Defensive Rebound.",22,25,-3,0.307324859905399,"CSU Northridge","Idaho State",3,5,0,0,-2,400992465,2017-12-23
+126,1,"4:27",1467,1467,"Erik Nakken missed Three Point Jumper.",22,25,-3,0.351530763440553,"CSU Northridge","Idaho State",3,5,0,0,-2,400992465,2017-12-23
+127,1,"4:27",1467,1467,"Zeno Lake Defensive Rebound.",22,25,-3,0.351530763440553,"CSU Northridge","Idaho State",3,5,0,0,-2,400992465,2017-12-23
+128,1,"4:09",1449,1449,"Foul on Brandon Boyd.",22,25,-3,0.343710646582865,"CSU Northridge","Idaho State",3,5,0,0,-2,400992465,2017-12-23
+129,1,"4:09",1449,1449,"Jonathan Guevara missed Free Throw.",22,25,-3,0.343710646582865,"CSU Northridge","Idaho State",3,5,0,0,-2,400992465,2017-12-23
+130,1,"4:09",1449,1449,"CSU Northridge Deadball Team Rebound.",22,25,-3,0.343710646582865,"CSU Northridge","Idaho State",3,5,0,0,-2,400992465,2017-12-23
+131,1,"4:09",1449,1449,"Jonathan Guevara made Free Throw.",23,25,-2,0.378803104024043,"CSU Northridge","Idaho State",3,5,0,0,-2,400992465,2017-12-23
+132,1,"3:51",1431,1431,"Foul on Tavrion Dawson.",23,25,-2,0.373930449909358,"CSU Northridge","Idaho State",3,5,1,0,-2,400992465,2017-12-23
+133,1,"3:51",1431,1431,"Idaho State  Timeout",23,25,-2,0.373930449909358,"CSU Northridge","Idaho State",2,5,1,0,-2,400992465,2017-12-23
+134,1,"3:39",1419,1419,"Geno Luzcando missed Layup.",23,25,-2,0.356057294562317,"CSU Northridge","Idaho State",2,5,1,0,-2,400992465,2017-12-23
+135,1,"3:39",1419,1419,"Geno Luzcando Offensive Rebound.",23,25,-2,0.356057294562317,"CSU Northridge","Idaho State",2,5,1,0,-2,400992465,2017-12-23
+136,1,"3:19",1399,1399,"Geno Luzcando made Layup. Assisted by Balint Mocsan.",23,27,-4,0.270759120144895,"CSU Northridge","Idaho State",2,5,1,0,-2,400992465,2017-12-23
+137,1,"2:59",1379,1379,"Micheal Warren made Jumper.",25,27,-2,0.344683875640601,"CSU Northridge","Idaho State",2,5,1,0,-2,400992465,2017-12-23
+138,1,"2:31",1351,1351,"Foul on Tavrion Dawson.",25,27,-2,0.370633151002078,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+139,1,"2:31",1351,1351,"Gary Chivichyan missed Free Throw.",25,27,-2,0.370633151002078,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+140,1,"2:31",1351,1351,"Idaho State Deadball Team Rebound.",25,27,-2,0.370633151002078,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+141,1,"2:31",1351,1351,"Gary Chivichyan missed Free Throw.",25,27,-2,0.370633151002078,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+142,1,"2:31",1351,1351,"Lyrik Shreiner Defensive Rebound.",25,27,-2,0.370633151002078,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+143,1,"2:21",1341,1341,"Jonathan Guevara missed Jumper.",25,27,-2,0.354516495481519,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+144,1,"2:21",1341,1341,"Geno Luzcando Defensive Rebound.",25,27,-2,0.354516495481519,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+145,1,"2:17",1337,1337,"Foul on Lyrik Shreiner.",25,27,-2,0.345506407210475,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+146,1,"2:17",1337,1337,"Jared Stutzman made Free Throw.",25,28,-3,0.311219644978498,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+147,1,"2:17",1337,1337,"Jared Stutzman made Free Throw.",25,29,-4,0.278885541441552,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+148,1,"2:04",1324,1324,"Reggie Theus Jr. Turnover.",25,29,-4,0.285803805279043,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+149,1,"1:50",1310,1310,"Balint Mocsan made Layup. Assisted by Jared Stutzman.",25,31,-6,0.242869771327053,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+150,1,"1:39",1299,1299,"Reggie Theus Jr. made Jumper. Assisted by Terrell Gomez.",27,31,-4,0.308086436391439,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+151,1,"1:26",1286,1286,"Kyle Ingram Turnover.",27,31,-4,0.288955162686926,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+152,1,"1:26",1286,1286,"Foul on Kyle Ingram.",27,31,-4,0.288955162686926,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+153,1,"1:11",1271,1271,"Reggie Theus Jr. made Jumper. Assisted by Terrell Gomez.",29,31,-2,0.34301172979918,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+154,1,"0:56",1256,1256,"Jared Stutzman missed Jumper.",29,31,-2,0.365210451438013,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+155,1,"0:56",1256,1256,"Jared Stutzman Offensive Rebound.",29,31,-2,0.365210451438013,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+156,1,"0:53",1253,1253,"Foul on Reggie Theus Jr..",29,31,-2,0.365210451438013,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+157,1,"0:53",1253,1253,"Jared Stutzman made Free Throw.",29,32,-3,0.330850818906682,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+158,1,"0:53",1253,1253,"Jared Stutzman made Free Throw.",29,33,-4,0.298205214540682,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+159,1,"0:33",1233,1233,"Foul on Geno Luzcando.",29,33,-4,0.283198908014361,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+160,1,"0:33",1233,1233,"Micheal Warren made Free Throw.",30,33,-3,0.316989523348129,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+161,1,"0:33",1233,1233,"Micheal Warren made Free Throw.",31,33,-2,0.352827393818955,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+162,1,"0:09",1209,1209,"Balint Mocsan Turnover.",31,33,-2,0.355829554146839,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+163,1,"0:08",1208,1208,"Terrell Gomez Steal.",31,33,-2,0.355829554146839,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+164,1,"0:03",1203,1203,"Foul on Jared Stutzman.",31,33,-2,0.355829554146839,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+165,1,"0:03",1203,1203,"Lyrik Shreiner made Free Throw.",32,33,-1,0.393109315555993,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+166,1,"0:03",1203,1203,"Lyrik Shreiner made Free Throw.",33,33,0,0.431677468957536,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+167,1,"0:03",1203,1203,"Kyle Ingram Turnover.",33,33,0,0.431677468957536,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+168,1,"0:03",1203,1203,"Micheal Warren Steal.",33,33,0,0.431677468957536,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+169,1,"0:00",1200,1200,"End of 1st half",33,33,0,0.431677468957536,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+170,2,"20:00",1200,1200,"PLAY",33,33,0,0.431677468957536,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+171,2,"19:43",1183,1183,"Geno Luzcando made Jumper.",33,35,-2,0.351706579579011,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+172,2,"19:26",1166,1166,"Tavrion Dawson made Layup. Assisted by Terrell Gomez.",35,35,0,0.408420203171444,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+173,2,"19:15",1155,1155,"Novak Topalovic made Jumper.",35,37,-2,0.36570036095339,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+174,2,"18:53",1133,1133,"Mahamadou Kaba-Camara missed Jumper.",35,37,-2,0.360145724858413,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+175,2,"18:53",1133,1133,"Geno Luzcando Defensive Rebound.",35,37,-2,0.360145724858413,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+176,2,"18:39",1119,1119,"Novak Topalovic missed Layup.",35,37,-2,0.366181037456683,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+177,2,"18:39",1119,1119,"Tavrion Dawson Defensive Rebound.",35,37,-2,0.366181037456683,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+178,2,"18:31",1111,1111,"Terrell Gomez missed Three Point Jumper.",35,37,-2,0.366181037456683,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+179,2,"18:31",1111,1111,"Balint Mocsan Defensive Rebound.",35,37,-2,0.366181037456683,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+180,2,"18:12",1092,1092,"Novak Topalovic made Jumper.",35,39,-4,0.286050559181418,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+181,2,"17:56",1076,1076,"Tavrion Dawson missed Three Point Jumper.",35,39,-4,0.299304656035204,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+182,2,"17:56",1076,1076,"Mahamadou Kaba-Camara Offensive Rebound.",35,39,-4,0.299304656035204,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+183,2,"17:47",1067,1067,"Tavrion Dawson missed Jumper.",35,39,-4,0.302409486842018,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+184,2,"17:47",1067,1067,"Kyle Ingram Defensive Rebound.",35,39,-4,0.302409486842018,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+185,2,"17:27",1047,1047,"Novak Topalovic missed Jumper.",35,39,-4,0.293134136823633,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+186,2,"17:27",1047,1047,"Mahamadou Kaba-Camara Block.",35,39,-4,0.293134136823633,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+187,2,"17:26",1046,1046,"Terrell Gomez Defensive Rebound.",35,39,-4,0.293134136823633,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+188,2,"17:13",1033,1033,"Terrell Gomez missed Three Point Jumper.",35,39,-4,0.275272121801191,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+189,2,"17:13",1033,1033,"Jared Stutzman Defensive Rebound.",35,39,-4,0.275272121801191,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+190,2,"17:05",1025,1025,"Foul on Lyrik Shreiner.",35,39,-4,0.284458573841363,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+191,2,"16:39",999,999,"Balint Mocsan Turnover.",35,39,-4,0.26591311006302,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+192,2,"16:36",996,996,"Micheal Warren Steal.",35,39,-4,0.26591311006302,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+193,2,"16:14",974,974,"Tavrion Dawson missed Jumper.",35,39,-4,0.284263624684526,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+194,2,"16:14",974,974,"Jacob McCord Defensive Rebound.",35,39,-4,0.284263624684526,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+195,2,"15:51",951,951,"Jacob McCord missed Jumper.",35,39,-4,0.251841421581565,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+196,2,"15:51",951,951,"Micheal Warren Defensive Rebound.",35,39,-4,0.251841421581565,"CSU Northridge","Idaho State",2,5,0,0,-2,400992465,2017-12-23
+197,2,"15:43",943,943,"Lyrik Shreiner Turnover.",35,39,-4,0.281214079504903,"CSU Northridge","Idaho State",2,5,1,0,-2,400992465,2017-12-23
+198,2,"15:43",943,943,"Foul on Lyrik Shreiner.",35,39,-4,0.281214079504903,"CSU Northridge","Idaho State",2,5,1,0,-2,400992465,2017-12-23
+199,2,"15:43",943,943,"Idaho State  Timeout",35,39,-4,0.281214079504903,"CSU Northridge","Idaho State",1,5,1,0,-2,400992465,2017-12-23
+200,2,"15:23",923,923,"Brandon Boyd made Three Point Jumper. Assisted by Geno Luzcando.",35,42,-7,0.158149492461486,"CSU Northridge","Idaho State",1,5,1,0,-2,400992465,2017-12-23
+201,2,"15:01",901,901,"Micheal Warren missed Layup.",35,42,-7,0.173618727138521,"CSU Northridge","Idaho State",1,5,1,0,-2,400992465,2017-12-23
+202,2,"15:01",901,901,"Novak Topalovic Defensive Rebound.",35,42,-7,0.173618727138521,"CSU Northridge","Idaho State",1,5,1,0,-2,400992465,2017-12-23
+203,2,"14:43",883,883,"Brandon Boyd made Three Point Jumper. Assisted by Balint Mocsan.",35,45,-10,0.120658739963083,"CSU Northridge","Idaho State",1,5,1,0,-2,400992465,2017-12-23
+204,2,"14:18",858,858,"Terrell Gomez missed Jumper.",35,45,-10,0.0997265902276313,"CSU Northridge","Idaho State",1,5,0,0,-2,400992465,2017-12-23
+205,2,"14:18",858,858,"Geno Luzcando Defensive Rebound.",35,45,-10,0.0997265902276313,"CSU Northridge","Idaho State",1,5,0,0,-2,400992465,2017-12-23
+206,2,"13:59",839,839,"Novak Topalovic Turnover.",35,45,-10,0.0885713452391418,"CSU Northridge","Idaho State",1,5,0,0,-2,400992465,2017-12-23
+207,2,"13:59",839,839,"Foul on Novak Topalovic.",35,45,-10,0.0885713452391418,"CSU Northridge","Idaho State",1,5,0,0,-2,400992465,2017-12-23
+208,2,"13:43",823,823,"Jonathan Guevara made Layup.",37,45,-8,0.147958790585538,"CSU Northridge","Idaho State",1,5,0,0,-2,400992465,2017-12-23
+209,2,"13:25",805,805,"Foul on Zeno Lake.",37,45,-8,0.142459817875407,"CSU Northridge","Idaho State",1,5,0,0,-2,400992465,2017-12-23
+210,2,"13:07",787,787,"Kyle Ingram Turnover.",37,45,-8,0.132160781222512,"CSU Northridge","Idaho State",1,5,0,0,-2,400992465,2017-12-23
+211,2,"12:45",765,765,"Jonathan Guevara missed Three Point Jumper.",37,45,-8,0.131001873047662,"CSU Northridge","Idaho State",1,5,0,0,-2,400992465,2017-12-23
+212,2,"12:45",765,765,"Novak Topalovic Defensive Rebound.",37,45,-8,0.131001873047662,"CSU Northridge","Idaho State",1,5,0,0,-2,400992465,2017-12-23
+213,2,"12:29",749,749,"Novak Topalovic made Dunk. Assisted by Geno Luzcando.",37,47,-10,0.0761846561871157,"CSU Northridge","Idaho State",1,5,0,0,-2,400992465,2017-12-23
+214,2,"12:05",725,725,"Jonathan Guevara missed Jumper.",37,47,-10,0.0906128632833816,"CSU Northridge","Idaho State",1,5,0,0,-2,400992465,2017-12-23
+215,2,"12:05",725,725,"Geno Luzcando Defensive Rebound.",37,47,-10,0.0906128632833816,"CSU Northridge","Idaho State",1,5,0,0,-2,400992465,2017-12-23
+216,2,"11:59",719,719,"Idaho State  Timeout",37,47,-10,0.0741888943756636,"CSU Northridge","Idaho State",0,5,1,0,-2,400992465,2017-12-23
+217,2,"11:47",707,707,"Geno Luzcando missed Layup.",37,47,-10,0.0958835448476463,"CSU Northridge","Idaho State",0,5,1,0,-2,400992465,2017-12-23
+218,2,"11:47",707,707,"Geno Luzcando Offensive Rebound.",37,47,-10,0.0958835448476463,"CSU Northridge","Idaho State",0,5,1,0,-2,400992465,2017-12-23
+219,2,"11:46",706,706,"Foul on Lyrik Shreiner.",37,47,-10,0.0958835448476463,"CSU Northridge","Idaho State",0,5,1,0,-2,400992465,2017-12-23
+220,2,"11:46",706,706,"Geno Luzcando missed Free Throw.",37,47,-10,0.0958835448476463,"CSU Northridge","Idaho State",0,5,1,0,-2,400992465,2017-12-23
+221,2,"11:46",706,706,"Idaho State Deadball Team Rebound.",37,47,-10,0.0958835448476463,"CSU Northridge","Idaho State",0,5,1,0,-2,400992465,2017-12-23
+222,2,"11:46",706,706,"Geno Luzcando made Free Throw.",37,48,-11,0.0789633569763602,"CSU Northridge","Idaho State",0,5,1,0,-2,400992465,2017-12-23
+223,2,"11:32",692,692,"Reggie Theus Jr. missed Layup.",37,48,-11,0.0541157392342937,"CSU Northridge","Idaho State",0,5,1,0,-2,400992465,2017-12-23
+224,2,"11:32",692,692,"Balint Mocsan Defensive Rebound.",37,48,-11,0.0541157392342937,"CSU Northridge","Idaho State",0,5,1,0,-2,400992465,2017-12-23
+225,2,"11:04",664,664,"Brandon Boyd missed Jumper.",37,48,-11,0.0702718549201177,"CSU Northridge","Idaho State",0,5,1,0,-2,400992465,2017-12-23
+226,2,"11:04",664,664,"Anthony Swan Defensive Rebound.",37,48,-11,0.0702718549201177,"CSU Northridge","Idaho State",0,5,1,0,-2,400992465,2017-12-23
+227,2,"10:56",656,656,"Foul on Kyle Ingram.",37,48,-11,0.0606238710091131,"CSU Northridge","Idaho State",0,5,0,0,-2,400992465,2017-12-23
+228,2,"10:54",654,654,"Micheal Warren made Layup. Assisted by Tavrion Dawson.",39,48,-9,0.0940889213544495,"CSU Northridge","Idaho State",0,5,0,0,-2,400992465,2017-12-23
+229,2,"10:54",654,654,"Foul on Novak Topalovic.",39,48,-9,0.0940889213544495,"CSU Northridge","Idaho State",0,5,0,0,-2,400992465,2017-12-23
+230,2,"10:54",654,654,"Micheal Warren made Free Throw.",40,48,-8,0.116418955095938,"CSU Northridge","Idaho State",0,5,0,0,-2,400992465,2017-12-23
+231,2,"10:24",624,624,"Kyle Ingram missed Jumper.",40,48,-8,0.0960086733177195,"CSU Northridge","Idaho State",0,5,0,0,-2,400992465,2017-12-23
+232,2,"10:24",624,624,"Tavrion Dawson Defensive Rebound.",40,48,-8,0.0960086733177195,"CSU Northridge","Idaho State",0,5,0,0,-2,400992465,2017-12-23
+233,2,"10:10",610,610,"Anthony Swan Turnover.",40,48,-8,0.0958374509778913,"CSU Northridge","Idaho State",0,5,0,0,-2,400992465,2017-12-23
+234,2,"10:09",609,609,"Geno Luzcando Steal.",40,48,-8,0.105109686372481,"CSU Northridge","Idaho State",0,5,0,0,-2,400992465,2017-12-23
+235,2,"9:46",586,586,"Kyle Ingram made Layup. Assisted by Balint Mocsan.",40,50,-10,0.0689518681525658,"CSU Northridge","Idaho State",0,5,0,0,-2,400992465,2017-12-23
+236,2,"9:26",566,566,"Micheal Warren made Three Point Jumper. Assisted by Anthony Swan.",43,50,-7,0.121761817678315,"CSU Northridge","Idaho State",0,5,0,0,-2,400992465,2017-12-23
+237,2,"8:53",533,533,"Geno Luzcando missed Layup.",43,50,-7,0.115163046340328,"CSU Northridge","Idaho State",0,5,0,0,-2,400992465,2017-12-23
+238,2,"8:53",533,533,"Tavrion Dawson Defensive Rebound.",43,50,-7,0.115163046340328,"CSU Northridge","Idaho State",0,5,0,0,-2,400992465,2017-12-23
+239,2,"8:47",527,527,"Jonathan Guevara made Layup.",45,50,-5,0.192876057507413,"CSU Northridge","Idaho State",0,5,0,0,-2,400992465,2017-12-23
+240,2,"8:38",518,518,"Idaho State  Timeout",45,50,-5,0.181822726671503,"CSU Northridge","Idaho State",-1,5,1,0,-2,400992465,2017-12-23
+241,2,"8:19",499,499,"Blake Truman missed Three Point Jumper.",45,50,-5,0.199151790843397,"CSU Northridge","Idaho State",-1,5,1,0,-2,400992465,2017-12-23
+242,2,"8:19",499,499,"Micheal Warren Defensive Rebound.",45,50,-5,0.199151790843397,"CSU Northridge","Idaho State",-1,5,1,0,-2,400992465,2017-12-23
+243,2,"8:10",490,490,"Foul on Blake Truman.",45,50,-5,0.199151790843397,"CSU Northridge","Idaho State",-1,5,1,0,-2,400992465,2017-12-23
+244,2,"8:10",490,490,"Reggie Theus Jr. missed Free Throw.",45,50,-5,0.199151790843397,"CSU Northridge","Idaho State",-1,5,1,0,-2,400992465,2017-12-23
+245,2,"8:10",490,490,"Idaho State Defensive Rebound.",45,50,-5,0.199151790843397,"CSU Northridge","Idaho State",-1,5,1,0,-2,400992465,2017-12-23
+246,2,"7:57",477,477,"Brandon Boyd made Three Point Jumper. Assisted by Geno Luzcando.",45,53,-8,0.0747939006890599,"CSU Northridge","Idaho State",-1,5,1,0,-2,400992465,2017-12-23
+247,2,"7:48",468,468,"Tavrion Dawson missed Three Point Jumper.",45,53,-8,0.0793707828998621,"CSU Northridge","Idaho State",-1,5,1,0,-2,400992465,2017-12-23
+248,2,"7:48",468,468,"Balint Mocsan Defensive Rebound.",45,53,-8,0.0793707828998621,"CSU Northridge","Idaho State",-1,5,1,0,-2,400992465,2017-12-23
+249,2,"7:30",450,450,"Kyle Ingram made Jumper.",45,55,-10,0.0343766393863926,"CSU Northridge","Idaho State",-1,5,0,0,-2,400992465,2017-12-23
+250,2,"7:15",435,435,"Micheal Warren Turnover.",45,55,-10,0.0392471152561817,"CSU Northridge","Idaho State",-1,5,0,0,-2,400992465,2017-12-23
+251,2,"7:13",433,433,"Geno Luzcando Steal.",45,55,-10,0.0392471152561817,"CSU Northridge","Idaho State",-1,5,0,0,-2,400992465,2017-12-23
+252,2,"7:11",431,431,"Geno Luzcando Turnover.",45,55,-10,0.0392471152561817,"CSU Northridge","Idaho State",-1,5,0,0,-2,400992465,2017-12-23
+253,2,"7:10",430,430,"Anthony Swan Steal.",45,55,-10,0.0392471152561817,"CSU Northridge","Idaho State",-1,5,0,0,-2,400992465,2017-12-23
+254,2,"7:07",427,427,"CSU Northridge  Timeout",45,55,-10,0.0402279818870791,"CSU Northridge","Idaho State",-1,4,0,1,-2,400992465,2017-12-23
+255,2,"6:53",413,413,"Anthony Swan made Jumper.",47,55,-8,0.0689762590298986,"CSU Northridge","Idaho State",-1,4,0,1,-2,400992465,2017-12-23
+256,2,"6:36",396,396,"Foul on Zeno Lake.",47,55,-8,0.0705495063111786,"CSU Northridge","Idaho State",-1,4,0,1,-2,400992465,2017-12-23
+257,2,"6:35",395,395,"Foul on Zeno Lake.",47,55,-8,0.0705495063111786,"CSU Northridge","Idaho State",-1,4,0,1,-2,400992465,2017-12-23
+258,2,"6:34",394,394,"Foul on Zeno Lake.",47,55,-8,0.0705495063111786,"CSU Northridge","Idaho State",-1,4,0,1,-2,400992465,2017-12-23
+259,2,"6:34",394,394,"Geno Luzcando missed Free Throw.",47,55,-8,0.0705495063111786,"CSU Northridge","Idaho State",-1,4,0,1,-2,400992465,2017-12-23
+260,2,"6:34",394,394,"Idaho State Deadball Team Rebound.",47,55,-8,0.0705495063111786,"CSU Northridge","Idaho State",-1,4,0,1,-2,400992465,2017-12-23
+261,2,"6:34",394,394,"Geno Luzcando missed Free Throw.",47,55,-8,0.0705495063111786,"CSU Northridge","Idaho State",-1,4,0,1,-2,400992465,2017-12-23
+262,2,"6:34",394,394,"Idaho State Deadball Team Rebound.",47,55,-8,0.0705495063111786,"CSU Northridge","Idaho State",-1,4,0,1,-2,400992465,2017-12-23
+263,2,"6:11",371,371,"Geno Luzcando made Layup. Assisted by Kyle Ingram.",47,57,-10,0.0350304254331558,"CSU Northridge","Idaho State",-1,4,0,1,-2,400992465,2017-12-23
+264,2,"5:51",351,351,"Reggie Theus Jr. made Layup.",49,57,-8,0.0448320517579849,"CSU Northridge","Idaho State",-1,4,0,0,-2,400992465,2017-12-23
+265,2,"5:34",334,334,"Foul on Anthony Swan.",49,57,-8,0.0515115408880075,"CSU Northridge","Idaho State",-1,4,0,0,-2,400992465,2017-12-23
+266,2,"5:34",334,334,"Geno Luzcando made Free Throw.",49,58,-9,0.0367009429798895,"CSU Northridge","Idaho State",-1,4,0,0,-2,400992465,2017-12-23
+267,2,"5:34",334,334,"Geno Luzcando missed Free Throw.",49,58,-9,0.0367009429798895,"CSU Northridge","Idaho State",-1,4,0,0,-2,400992465,2017-12-23
+268,2,"5:34",334,334,"Tavrion Dawson Defensive Rebound.",49,58,-9,0.0367009429798895,"CSU Northridge","Idaho State",-1,4,0,0,-2,400992465,2017-12-23
+269,2,"5:18",318,318,"Reggie Theus Jr. missed Jumper.",49,58,-9,0.032782236017511,"CSU Northridge","Idaho State",-1,4,0,0,-2,400992465,2017-12-23
+270,2,"5:18",318,318,"Tavrion Dawson Offensive Rebound.",49,58,-9,0.032782236017511,"CSU Northridge","Idaho State",-1,4,0,0,-2,400992465,2017-12-23
+271,2,"5:06",306,306,"Tavrion Dawson made Layup. Assisted by Anthony Swan.",51,58,-7,0.0785484124203004,"CSU Northridge","Idaho State",-1,4,0,0,-2,400992465,2017-12-23
+272,2,"4:48",288,288,"Foul on Reggie Theus Jr..",51,58,-7,0.0651401204898646,"CSU Northridge","Idaho State",-1,4,0,0,-2,400992465,2017-12-23
+273,2,"4:48",288,288,"Novak Topalovic missed Free Throw.",51,58,-7,0.0651401204898646,"CSU Northridge","Idaho State",-1,4,0,0,-2,400992465,2017-12-23
+274,2,"4:48",288,288,"Reggie Theus Jr. Defensive Rebound.",51,58,-7,0.0651401204898646,"CSU Northridge","Idaho State",-1,4,0,0,-2,400992465,2017-12-23
+275,2,"4:37",277,277,"Reggie Theus Jr. Turnover.",51,58,-7,0.0494059247608997,"CSU Northridge","Idaho State",-1,4,0,0,-2,400992465,2017-12-23
+276,2,"4:37",277,277,"Foul on Reggie Theus Jr..",51,58,-7,0.0494059247608997,"CSU Northridge","Idaho State",-1,4,0,0,-2,400992465,2017-12-23
+277,2,"4:23",263,263,"Balint Mocsan missed Three Point Jumper.",51,58,-7,0.0614803297114073,"CSU Northridge","Idaho State",-1,4,0,0,-2,400992465,2017-12-23
+278,2,"4:23",263,263,"CSU Northridge Defensive Rebound.",51,58,-7,0.0614803297114073,"CSU Northridge","Idaho State",-1,4,0,0,-2,400992465,2017-12-23
+279,2,"4:09",249,249,"Foul on Kyle Ingram.",51,58,-7,0.0489070501874184,"CSU Northridge","Idaho State",-1,4,0,1,-2,400992465,2017-12-23
+280,2,"4:09",249,249,"Reggie Theus Jr. made Free Throw.",52,58,-6,0.0715436388191599,"CSU Northridge","Idaho State",-1,4,0,1,-2,400992465,2017-12-23
+281,2,"4:09",249,249,"Reggie Theus Jr. made Free Throw.",53,58,-5,0.103517199279051,"CSU Northridge","Idaho State",-1,4,0,1,-2,400992465,2017-12-23
+282,2,"4:09",249,249,"CSU Northridge  Timeout",53,58,-5,0.103517199279051,"CSU Northridge","Idaho State",-1,3,0,1,-2,400992465,2017-12-23
+283,2,"3:53",233,233,"Foul on Reggie Theus Jr..",53,58,-5,0.111116068145624,"CSU Northridge","Idaho State",-1,3,0,1,-2,400992465,2017-12-23
+284,2,"3:53",233,233,"Novak Topalovic missed Free Throw.",53,58,-5,0.111116068145624,"CSU Northridge","Idaho State",-1,3,0,1,-2,400992465,2017-12-23
+285,2,"3:53",233,233,"Idaho State Deadball Team Rebound.",53,58,-5,0.111116068145624,"CSU Northridge","Idaho State",-1,3,0,1,-2,400992465,2017-12-23
+286,2,"3:53",233,233,"Novak Topalovic made Free Throw.",53,59,-6,0.0769027173990829,"CSU Northridge","Idaho State",-1,3,0,1,-2,400992465,2017-12-23
+287,2,"3:40",220,220,"Foul on Balint Mocsan.",53,59,-6,0.0654652588169724,"CSU Northridge","Idaho State",-1,3,0,1,-2,400992465,2017-12-23
+288,2,"3:26",206,206,"Reggie Theus Jr. made Jumper. Assisted by Terrell Gomez.",55,59,-4,0.130785849874999,"CSU Northridge","Idaho State",-1,3,0,1,-2,400992465,2017-12-23
+289,2,"3:04",184,184,"Brandon Boyd made Layup.",55,61,-6,0.0430769399729756,"CSU Northridge","Idaho State",-1,3,0,0,-2,400992465,2017-12-23
+290,2,"2:54",174,174,"Foul on Geno Luzcando.",55,61,-6,0.0494236613572848,"CSU Northridge","Idaho State",-1,3,0,0,-2,400992465,2017-12-23
+291,2,"2:54",174,174,"Terrell Gomez missed Free Throw.",55,61,-6,0.0494236613572848,"CSU Northridge","Idaho State",-1,3,0,0,-2,400992465,2017-12-23
+292,2,"2:54",174,174,"Reggie Theus Jr. Offensive Rebound.",55,61,-6,0.0494236613572848,"CSU Northridge","Idaho State",-1,3,0,0,-2,400992465,2017-12-23
+293,2,"2:33",153,153,"Micheal Warren Turnover.",55,61,-6,0.0364979780486848,"CSU Northridge","Idaho State",-1,3,0,0,-2,400992465,2017-12-23
+294,2,"2:13",133,133,"Balint Mocsan made Layup. Assisted by Kyle Ingram.",55,63,-8,0.0139295685899262,"CSU Northridge","Idaho State",-1,3,0,0,-2,400992465,2017-12-23
+295,2,"2:02",122,122,"Anthony Swan missed Jumper.",55,63,-8,0.00874691782121545,"CSU Northridge","Idaho State",-1,3,0,0,-2,400992465,2017-12-23
+296,2,"2:02",122,122,"Balint Mocsan Defensive Rebound.",55,63,-8,0.00874691782121545,"CSU Northridge","Idaho State",-1,3,0,0,-2,400992465,2017-12-23
+297,2,"1:41",101,101,"Kyle Ingram missed Layup.",55,63,-8,0.00546162788194491,"CSU Northridge","Idaho State",-1,3,0,0,-2,400992465,2017-12-23
+298,2,"1:41",101,101,"Micheal Warren Block.",55,63,-8,0.00546162788194491,"CSU Northridge","Idaho State",-1,3,0,0,-2,400992465,2017-12-23
+299,2,"1:39",99,99,"Tavrion Dawson Defensive Rebound.",55,63,-8,0.00613948586910139,"CSU Northridge","Idaho State",-1,3,0,0,-2,400992465,2017-12-23
+300,2,"1:37",97,97,"Tavrion Dawson Turnover.",55,63,-8,0.00613948586910139,"CSU Northridge","Idaho State",-1,3,0,0,-2,400992465,2017-12-23
+301,2,"1:37",97,97,"Foul on Tavrion Dawson.",55,63,-8,0.00613948586910139,"CSU Northridge","Idaho State",-1,3,0,0,-2,400992465,2017-12-23
+302,2,"1:11",71,71,"Brandon Boyd made Jumper.",55,65,-10,0.000521361210698709,"CSU Northridge","Idaho State",-1,3,0,0,-2,400992465,2017-12-23
+303,2,"1:03",63,63,"CSU Northridge  Timeout",55,65,-10,0.000505042399373348,"CSU Northridge","Idaho State",-1,2,0,1,-2,400992465,2017-12-23
+304,2,"0:54",54,54,"Micheal Warren missed Layup.",55,65,-10,0.000444037532506224,"CSU Northridge","Idaho State",-1,2,0,1,-2,400992465,2017-12-23
+305,2,"0:54",54,54,"Balint Mocsan Defensive Rebound.",55,65,-10,0.000444037532506224,"CSU Northridge","Idaho State",-1,2,0,1,-2,400992465,2017-12-23
+306,2,"0:49",49,49,"Balint Mocsan Turnover.",55,65,-10,7.06404596737945e-05,"CSU Northridge","Idaho State",-1,2,0,1,-2,400992465,2017-12-23
+307,2,"0:48",48,48,"Tavrion Dawson Steal.",55,65,-10,7.06404596737945e-05,"CSU Northridge","Idaho State",-1,2,0,1,-2,400992465,2017-12-23
+308,2,"0:46",46,46,"Tavrion Dawson Turnover.",55,65,-10,2.63474550312549e-05,"CSU Northridge","Idaho State",-1,2,0,1,-2,400992465,2017-12-23
+309,2,"0:45",45,45,"Jared Stutzman Steal.",55,65,-10,0.000284322659674306,"CSU Northridge","Idaho State",-1,2,0,1,-2,400992465,2017-12-23
+310,2,"0:39",39,39,"Foul on Terrell Gomez.",55,65,-10,7.86024976153979e-05,"CSU Northridge","Idaho State",-1,2,0,1,-2,400992465,2017-12-23
+311,2,"0:39",39,39,"Geno Luzcando missed Free Throw.",55,65,-10,7.86024976153979e-05,"CSU Northridge","Idaho State",-1,2,0,1,-2,400992465,2017-12-23
+312,2,"0:39",39,39,"Idaho State Deadball Team Rebound.",55,65,-10,7.86024976153979e-05,"CSU Northridge","Idaho State",-1,2,0,1,-2,400992465,2017-12-23
+313,2,"0:39",39,39,"Geno Luzcando made Free Throw.",55,66,-11,3.01900468295249e-05,"CSU Northridge","Idaho State",-1,2,0,1,-2,400992465,2017-12-23
+314,2,"0:39",39,39,"CSU Northridge  Timeout",55,66,-11,3.01900468295249e-05,"CSU Northridge","Idaho State",-1,1,0,1,-2,400992465,2017-12-23
+315,2,"0:29",29,29,"Tavrion Dawson Turnover.",55,66,-11,9.28802407740227e-06,"CSU Northridge","Idaho State",-1,1,0,1,-2,400992465,2017-12-23
+316,2,"0:29",29,29,"Foul on Tavrion Dawson.",55,66,-11,9.28802407740227e-06,"CSU Northridge","Idaho State",-1,1,0,1,-2,400992465,2017-12-23
+317,2,"0:28",28,28,"Foul on Micheal Warren.",55,66,-11,3.03839435900136e-06,"CSU Northridge","Idaho State",-1,1,0,1,-2,400992465,2017-12-23
+318,2,"0:28",28,28,"Jared Stutzman missed Free Throw.",55,66,-11,3.03839435900136e-06,"CSU Northridge","Idaho State",-1,1,0,1,-2,400992465,2017-12-23
+319,2,"0:28",28,28,"Idaho State Deadball Team Rebound.",55,66,-11,3.03839435900136e-06,"CSU Northridge","Idaho State",-1,1,0,1,-2,400992465,2017-12-23
+320,2,"0:28",28,28,"Jared Stutzman made Free Throw.",55,67,-12,9.65290187790403e-07,"CSU Northridge","Idaho State",-1,1,0,1,-2,400992465,2017-12-23
+321,2,"0:22",22,22,"Jonathan Guevara missed Jumper.",55,67,-12,1.81498672285142e-07,"CSU Northridge","Idaho State",-1,1,0,1,-2,400992465,2017-12-23
+322,2,"0:22",22,22,"Idaho State Defensive Rebound.",55,67,-12,1.81498672285142e-07,"CSU Northridge","Idaho State",-1,1,0,1,-2,400992465,2017-12-23
+323,2,"0:00",0,0,"End of Game",55,67,-12,1.44462534085562e-101,"CSU Northridge","Idaho State",-1,1,0,1,-2,400992465,2017-12-23

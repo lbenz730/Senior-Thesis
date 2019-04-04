@@ -1,0 +1,307 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.398165870133373,"Providence","USC",4,4,0,0,-2,400946443,2017-03-15
+2,1,"20:00",2400,2400,"Jump Ball won by Providence",0,0,0,0.398165870133373,"Providence","USC",4,4,0,0,-2,400946443,2017-03-15
+3,1,"19:39",2379,2379,"Alpha Diallo Turnover.",0,0,0,0.419085590057975,"Providence","USC",4,4,0,0,-2,400946443,2017-03-15
+4,1,"19:39",2379,2379,"Jordan McLaughlin Steal.",0,0,0,0.419085590057975,"Providence","USC",4,4,0,0,-2,400946443,2017-03-15
+5,1,"19:34",2374,2374,"Jordan McLaughlin made Layup.",0,2,-2,0.373606474032073,"Providence","USC",4,4,0,0,-2,400946443,2017-03-15
+6,1,"19:17",2357,2357,"Rodney Bullock missed Layup.",0,2,-2,0.381199931930682,"Providence","USC",4,4,0,0,-2,400946443,2017-03-15
+7,1,"19:17",2357,2357,"Jordan McLaughlin Defensive Rebound.",0,2,-2,0.381199931930682,"Providence","USC",4,4,0,0,-2,400946443,2017-03-15
+8,1,"19:10",2350,2350,"Bennie Boatwright made Three Point Jumper. Assisted by Jordan McLaughlin.",0,5,-5,0.321172651805039,"Providence","USC",4,4,0,0,-2,400946443,2017-03-15
+9,1,"19:03",2343,2343,"Providence  Timeout",0,5,-5,0.305864397327276,"Providence","USC",3,4,1,0,-2,400946443,2017-03-15
+10,1,"18:38",2318,2318,"Rodney Bullock missed Three Point Jumper.",0,5,-5,0.294967420578633,"Providence","USC",3,4,1,0,-2,400946443,2017-03-15
+11,1,"18:38",2318,2318,"De'Anthony Melton Defensive Rebound.",0,5,-5,0.294967420578633,"Providence","USC",3,4,1,0,-2,400946443,2017-03-15
+12,1,"18:38",2318,2318,"Foul on Alpha Diallo.",0,5,-5,0.294967420578633,"Providence","USC",3,4,1,0,-2,400946443,2017-03-15
+13,1,"18:21",2301,2301,"Bennie Boatwright made Jumper.",0,7,-7,0.255362784320306,"Providence","USC",3,4,1,0,-2,400946443,2017-03-15
+14,1,"18:02",2282,2282,"Emmitt Holt made Layup.",2,7,-5,0.288107300966004,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+15,1,"17:47",2267,2267,"Foul on Kyron Cartwright.",2,7,-5,0.275924513755801,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+16,1,"17:30",2250,2250,"Elijah Stewart missed Jumper.",2,7,-5,0.310468815168606,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+17,1,"17:30",2250,2250,"Chimezie Metu Offensive Rebound.",2,7,-5,0.310468815168606,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+18,1,"17:25",2245,2245,"Chimezie Metu missed Layup.",2,7,-5,0.323434976247931,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+19,1,"17:25",2245,2245,"Bennie Boatwright Offensive Rebound.",2,7,-5,0.323434976247931,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+20,1,"17:25",2245,2245,"Bennie Boatwright missed Jumper.",2,7,-5,0.323434976247931,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+21,1,"17:25",2245,2245,"Rodney Bullock Defensive Rebound.",2,7,-5,0.323434976247931,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+22,1,"16:56",2216,2216,"Emmitt Holt made Jumper. Assisted by Rodney Bullock.",4,7,-3,0.336955139279692,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+23,1,"16:36",2196,2196,"Chimezie Metu missed Jumper.",4,7,-3,0.343447355801582,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+24,1,"16:36",2196,2196,"Alpha Diallo Defensive Rebound.",4,7,-3,0.343447355801582,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+25,1,"16:26",2186,2186,"Jalen Lindsey missed Three Point Jumper.",4,7,-3,0.340596711239641,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+26,1,"16:26",2186,2186,"USC Deadball Team Rebound.",4,7,-3,0.340596711239641,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+27,1,"16:11",2171,2171,"Bennie Boatwright made Three Point Jumper. Assisted by De'Anthony Melton.",4,10,-6,0.26536504754308,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+28,1,"15:42",2142,2142,"Jalen Lindsey made Three Point Jumper. Assisted by Kyron Cartwright.",7,10,-3,0.350149764907223,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+29,1,"15:20",2120,2120,"Bennie Boatwright made Jumper.",7,12,-5,0.279545256841162,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+30,1,"14:58",2098,2098,"Foul on Bennie Boatwright.",7,12,-5,0.276906351001377,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+31,1,"14:57",2097,2097,"Official TV Timeout",7,12,-5,0.276906351001377,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+32,1,"14:57",2097,2097,"Rodney Bullock made Free Throw.",8,12,-4,0.302416630562395,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+33,1,"14:57",2097,2097,"Rodney Bullock made Free Throw.",9,12,-3,0.329207099217712,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+34,1,"14:37",2077,2077,"Nick Rakocevic missed Layup.",9,12,-3,0.329055105250988,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+35,1,"14:37",2077,2077,"Nick Rakocevic Offensive Rebound.",9,12,-3,0.329055105250988,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+36,1,"14:36",2076,2076,"Nick Rakocevic Turnover.",9,12,-3,0.329055105250988,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+37,1,"14:15",2055,2055,"Maliek White missed Jumper.",9,12,-3,0.315661354694809,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+38,1,"14:15",2055,2055,"De'Anthony Melton Block.",9,12,-3,0.315661354694809,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+39,1,"14:15",2055,2055,"Providence Offensive Rebound.",9,12,-3,0.315661354694809,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+40,1,"14:09",2049,2049,"Ryan Fazekas missed Three Point Jumper.",9,12,-3,0.325857999689063,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+41,1,"14:09",2049,2049,"USC Defensive Rebound.",9,12,-3,0.325857999689063,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+42,1,"13:51",2031,2031,"Jordan McLaughlin made Jumper.",9,14,-5,0.290862246836508,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+43,1,"13:31",2011,2011,"Jalen Lindsey made Three Point Jumper. Assisted by Maliek White.",12,14,-2,0.366015681091148,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+44,1,"13:05",1985,1985,"Chimezie Metu missed Jumper.",12,14,-2,0.351142528068732,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+45,1,"13:05",1985,1985,"Ryan Fazekas Defensive Rebound.",12,14,-2,0.351142528068732,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+46,1,"12:50",1970,1970,"Jalen Lindsey made Three Point Jumper. Assisted by Maliek White.",15,14,1,0.442910724501747,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+47,1,"12:32",1952,1952,"Foul on Kalif Young.",15,14,1,0.460076133528272,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+48,1,"12:32",1952,1952,"Chimezie Metu made Free Throw.",15,15,0,0.429209065298206,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+49,1,"12:32",1952,1952,"Chimezie Metu made Free Throw.",15,16,-1,0.398882967590613,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+50,1,"12:08",1928,1928,"Rodney Bullock missed Layup.",15,16,-1,0.367244317991759,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+51,1,"12:08",1928,1928,"Elijah Stewart Defensive Rebound.",15,16,-1,0.367244317991759,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+52,1,"12:05",1925,1925,"Foul on Rodney Bullock.",15,16,-1,0.367244317991759,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+53,1,"11:48",1908,1908,"Nick Rakocevic made Layup. Assisted by De'Anthony Melton.",15,18,-3,0.328908246928799,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+54,1,"11:13",1873,1873,"Official TV Timeout",15,18,-3,0.328310153541513,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+55,1,"11:12",1872,1872,"Foul on Jonah Mathews.",15,18,-3,0.328310153541513,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+56,1,"11:12",1872,1872,"Jalen Lindsey missed Free Throw.",15,18,-3,0.328310153541513,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+57,1,"11:12",1872,1872,"Providence Deadball Team Rebound.",15,18,-3,0.328310153541513,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+58,1,"11:12",1872,1872,"Jalen Lindsey missed Free Throw.",15,18,-3,0.328310153541513,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+59,1,"11:12",1872,1872,"De'Anthony Melton Defensive Rebound.",15,18,-3,0.328310153541513,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+60,1,"11:00",1860,1860,"Foul on Kyron Cartwright.",15,18,-3,0.344449918959395,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+61,1,"10:35",1835,1835,"Bennie Boatwright missed Three Point Jumper.",15,18,-3,0.337319044504864,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+62,1,"10:35",1835,1835,"De'Anthony Melton Offensive Rebound.",15,18,-3,0.337319044504864,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+63,1,"10:28",1828,1828,"De'Anthony Melton made Jumper.",15,20,-5,0.296914510952962,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+64,1,"10:07",1807,1807,"Isaiah Jackson missed Jumper.",15,20,-5,0.269155839933617,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+65,1,"10:07",1807,1807,"Emmitt Holt Offensive Rebound.",15,20,-5,0.269155839933617,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+66,1,"10:02",1802,1802,"Jalen Lindsey made Three Point Jumper. Assisted by Kyron Cartwright.",18,20,-2,0.35133281566426,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+67,1,"9:42",1782,1782,"De'Anthony Melton missed Three Point Jumper.",18,20,-2,0.341774322371326,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+68,1,"9:42",1782,1782,"Jalen Lindsey Defensive Rebound.",18,20,-2,0.341774322371326,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+69,1,"9:34",1774,1774,"Isaiah Jackson missed Three Point Jumper.",18,20,-2,0.346500130486288,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+70,1,"9:34",1774,1774,"Emmitt Holt Offensive Rebound.",18,20,-2,0.346500130486288,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+71,1,"9:15",1755,1755,"Emmitt Holt missed Three Point Jumper.",18,20,-2,0.320094838974807,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+72,1,"9:15",1755,1755,"Bennie Boatwright Defensive Rebound.",18,20,-2,0.320094838974807,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+73,1,"8:51",1731,1731,"Jonah Mathews missed Jumper.",18,20,-2,0.354335886279552,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+74,1,"8:51",1731,1731,"Kyron Cartwright Defensive Rebound.",18,20,-2,0.354335886279552,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+75,1,"8:46",1726,1726,"Foul on Shaqquan Aaron.",18,20,-2,0.380131738450193,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+76,1,"8:46",1726,1726,"Alpha Diallo missed Free Throw.",18,20,-2,0.380131738450193,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+77,1,"8:46",1726,1726,"Providence Deadball Team Rebound.",18,20,-2,0.380131738450193,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+78,1,"8:46",1726,1726,"Alpha Diallo made Free Throw.",19,20,-1,0.41254945114494,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+79,1,"8:36",1716,1716,"Chimezie Metu missed Layup.",19,20,-1,0.384920654241973,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+80,1,"8:36",1716,1716,"Emmitt Holt Block.",19,20,-1,0.384920654241973,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+81,1,"8:34",1714,1714,"Chimezie Metu Offensive Rebound.",19,20,-1,0.384920654241973,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+82,1,"8:31",1711,1711,"Chimezie Metu missed Jumper.",19,20,-1,0.384920654241973,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+83,1,"8:31",1711,1711,"Alpha Diallo Defensive Rebound.",19,20,-1,0.384920654241973,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+84,1,"8:24",1704,1704,"Kyron Cartwright Turnover.",19,20,-1,0.378672107568491,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+85,1,"8:10",1690,1690,"Shaqquan Aaron Turnover.",19,20,-1,0.401218979819371,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+86,1,"7:49",1669,1669,"Emmitt Holt made Layup.",21,20,1,0.451748057291657,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+87,1,"7:35",1655,1655,"Bennie Boatwright missed Three Point Jumper.",21,20,1,0.465558877661212,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+88,1,"7:35",1655,1655,"Rodney Bullock Defensive Rebound.",21,20,1,0.465558877661212,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+89,1,"7:27",1647,1647,"Rodney Bullock made Three Point Jumper. Assisted by Maliek White.",24,20,4,0.567655487254848,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+90,1,"7:11",1631,1631,"Shaqquan Aaron missed Three Point Jumper.",24,20,4,0.568038891813429,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+91,1,"7:11",1631,1631,"Bennie Boatwright Offensive Rebound.",24,20,4,0.568038891813429,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+92,1,"6:59",1619,1619,"Foul on Emmitt Holt.",24,20,4,0.550235761118618,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+93,1,"6:59",1619,1619,"Official TV Timeout",24,20,4,0.550235761118618,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+94,1,"6:59",1619,1619,"Chimezie Metu missed Free Throw.",24,20,4,0.550235761118618,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+95,1,"6:59",1619,1619,"USC Deadball Team Rebound.",24,20,4,0.550235761118618,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+96,1,"6:59",1619,1619,"Chimezie Metu missed Free Throw.",24,20,4,0.550235761118618,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+97,1,"6:59",1619,1619,"Rodney Bullock Defensive Rebound.",24,20,4,0.550235761118618,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+98,1,"6:46",1606,1606,"Foul on Elijah Stewart.",24,20,4,0.540151254981474,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+99,1,"6:46",1606,1606,"Jalen Lindsey made Free Throw.",25,20,5,0.57256379792296,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+100,1,"6:46",1606,1606,"Jalen Lindsey made Free Throw.",26,20,6,0.604365099392896,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+101,1,"6:46",1606,1606,"Jalen Lindsey made Free Throw.",27,20,7,0.635307409220114,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+102,1,"6:32",1592,1592,"Jordan McLaughlin missed Layup.",27,20,7,0.673885722017949,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+103,1,"6:32",1592,1592,"Emmitt Holt Defensive Rebound.",27,20,7,0.673885722017949,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+104,1,"6:11",1571,1571,"Rodney Bullock made Three Point Jumper. Assisted by Maliek White.",30,20,10,0.779167466041617,"Providence","USC",3,4,0,0,-2,400946443,2017-03-15
+105,1,"6:05",1565,1565,"USC  Timeout",30,20,10,0.742757174151964,"Providence","USC",3,3,0,1,-2,400946443,2017-03-15
+106,1,"5:45",1545,1545,"Jordan McLaughlin made Three Point Jumper. Assisted by Bennie Boatwright.",30,23,7,0.661127912697287,"Providence","USC",3,3,0,1,-2,400946443,2017-03-15
+107,1,"5:28",1528,1528,"Emmitt Holt made Dunk. Assisted by Alpha Diallo.",32,23,9,0.728950303246619,"Providence","USC",3,3,0,1,-2,400946443,2017-03-15
+108,1,"5:10",1510,1510,"Bennie Boatwright missed Three Point Jumper.",32,23,9,0.759473995937835,"Providence","USC",3,3,0,1,-2,400946443,2017-03-15
+109,1,"5:10",1510,1510,"Jalen Lindsey Defensive Rebound.",32,23,9,0.759473995937835,"Providence","USC",3,3,0,1,-2,400946443,2017-03-15
+110,1,"4:37",1477,1477,"Rodney Bullock missed Layup.",32,23,9,0.735258550922879,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+111,1,"4:37",1477,1477,"Bennie Boatwright Defensive Rebound.",32,23,9,0.735258550922879,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+112,1,"4:31",1471,1471,"Bennie Boatwright made Jumper.",32,25,7,0.671677320254891,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+113,1,"4:31",1471,1471,"Foul on Maliek White.",32,25,7,0.671677320254891,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+114,1,"4:31",1471,1471,"Bennie Boatwright made Free Throw.",32,26,6,0.637131937425948,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+115,1,"4:06",1446,1446,"Jalen Lindsey missed Three Point Jumper.",32,26,6,0.673207701582213,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+116,1,"4:06",1446,1446,"Emmitt Holt Offensive Rebound.",32,26,6,0.673207701582213,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+117,1,"3:42",1422,1422,"Kyron Cartwright made Three Point Jumper. Assisted by Rodney Bullock.",35,26,9,0.730011562467798,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+118,1,"3:15",1395,1395,"Nick Rakocevic missed Layup.",35,26,9,0.734350633041114,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+119,1,"3:15",1395,1395,"Jonah Mathews Offensive Rebound.",35,26,9,0.734350633041114,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+120,1,"3:04",1384,1384,"Jonah Mathews missed Jumper.",35,26,9,0.750800813454236,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+121,1,"3:04",1384,1384,"Emmitt Holt Defensive Rebound.",35,26,9,0.750800813454236,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+122,1,"2:54",1374,1374,"Kyron Cartwright made Jumper.",37,26,11,0.774540323419764,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+123,1,"2:43",1363,1363,"Elijah Stewart missed Three Point Jumper.",37,26,11,0.803914411808822,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+124,1,"2:43",1363,1363,"Rodney Bullock Defensive Rebound.",37,26,11,0.803914411808822,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+125,1,"2:23",1343,1343,"Rodney Bullock made Dunk. Assisted by Kyron Cartwright.",39,26,13,0.854433986636896,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+126,1,"2:18",1338,1338,"USC  Timeout",39,26,13,0.844846892689879,"Providence","USC",3,2,0,1,-2,400946443,2017-03-15
+127,1,"2:18",1338,1338,"Official TV Timeout",39,26,13,0.844846892689879,"Providence","USC",3,2,0,1,-2,400946443,2017-03-15
+128,1,"2:09",1329,1329,"Jonah Mathews Turnover.",39,26,13,0.853639624093069,"Providence","USC",3,2,0,1,-2,400946443,2017-03-15
+129,1,"2:09",1329,1329,"Alpha Diallo Steal.",39,26,13,0.853639624093069,"Providence","USC",3,2,0,1,-2,400946443,2017-03-15
+130,1,"2:04",1324,1324,"Alpha Diallo made Dunk.",41,26,15,0.888810462607478,"Providence","USC",3,2,0,1,-2,400946443,2017-03-15
+131,1,"1:43",1303,1303,"Jordan McLaughlin Turnover.",41,26,15,0.878996601844884,"Providence","USC",3,2,0,1,-2,400946443,2017-03-15
+132,1,"1:43",1303,1303,"Rodney Bullock Steal.",41,26,15,0.878996601844884,"Providence","USC",3,2,0,1,-2,400946443,2017-03-15
+133,1,"1:28",1288,1288,"Emmitt Holt Turnover.",41,26,15,0.874957065480072,"Providence","USC",3,2,0,1,-2,400946443,2017-03-15
+134,1,"1:28",1288,1288,"Elijah Stewart Steal.",41,26,15,0.874957065480072,"Providence","USC",3,2,0,1,-2,400946443,2017-03-15
+135,1,"1:19",1279,1279,"Foul on Jalen Lindsey.",41,26,15,0.869592384220949,"Providence","USC",3,2,0,1,-2,400946443,2017-03-15
+136,1,"1:19",1279,1279,"Bennie Boatwright made Free Throw.",41,27,14,0.851639809480705,"Providence","USC",3,2,0,1,-2,400946443,2017-03-15
+137,1,"1:19",1279,1279,"Bennie Boatwright missed Free Throw.",41,27,14,0.851639809480705,"Providence","USC",3,2,0,1,-2,400946443,2017-03-15
+138,1,"1:19",1279,1279,"Emmitt Holt Defensive Rebound.",41,27,14,0.851639809480705,"Providence","USC",3,2,0,1,-2,400946443,2017-03-15
+139,1,"0:57",1257,1257,"Alpha Diallo made Three Point Jumper. Assisted by Kyron Cartwright.",44,27,17,0.9110119896241,"Providence","USC",3,2,0,0,-2,400946443,2017-03-15
+140,1,"0:46",1246,1246,"Foul on Emmitt Holt.",44,27,17,0.912597234305928,"Providence","USC",3,2,0,0,-2,400946443,2017-03-15
+141,1,"0:46",1246,1246,"Chimezie Metu made Free Throw.",44,28,16,0.899431606955252,"Providence","USC",3,2,0,0,-2,400946443,2017-03-15
+142,1,"0:46",1246,1246,"Chimezie Metu made Free Throw.",44,29,15,0.884533737952939,"Providence","USC",3,2,0,0,-2,400946443,2017-03-15
+143,1,"0:31",1231,1231,"Jalen Lindsey missed Three Point Jumper.",44,29,15,0.893831688082878,"Providence","USC",3,2,0,0,-2,400946443,2017-03-15
+144,1,"0:31",1231,1231,"Chimezie Metu Defensive Rebound.",44,29,15,0.893831688082878,"Providence","USC",3,2,0,0,-2,400946443,2017-03-15
+145,1,"0:06",1206,1206,"Jordan McLaughlin missed Jumper.",44,29,15,0.892232263086489,"Providence","USC",3,2,0,0,-2,400946443,2017-03-15
+146,1,"0:06",1206,1206,"Rodney Bullock Defensive Rebound.",44,29,15,0.892232263086489,"Providence","USC",3,2,0,0,-2,400946443,2017-03-15
+147,1,"0:00",1200,1200,"End of 1st half",44,29,15,0.892232263086489,"Providence","USC",3,2,0,0,-2,400946443,2017-03-15
+148,2,"20:00",1200,1200,"PLAY",44,29,15,0.892232263086489,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+149,2,"20:00",1200,1200,"Jump Ball won by Providence",44,29,15,0.892232263086489,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+150,2,"19:42",1182,1182,"Emmitt Holt made Jumper. Assisted by Kyron Cartwright.",46,29,17,0.926478704470249,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+151,2,"19:21",1161,1161,"Bennie Boatwright missed Three Point Jumper.",46,29,17,0.919244992732539,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+152,2,"19:21",1161,1161,"Emmitt Holt Defensive Rebound.",46,29,17,0.919244992732539,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+153,2,"19:09",1149,1149,"Rodney Bullock missed Three Point Jumper.",46,29,17,0.937242229077043,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+154,2,"19:09",1149,1149,"Shaqquan Aaron Defensive Rebound.",46,29,17,0.937242229077043,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+155,2,"18:59",1139,1139,"Shaqquan Aaron Turnover.",46,29,17,0.92541151459637,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+156,2,"18:59",1139,1139,"Jalen Lindsey Steal.",46,29,17,0.92541151459637,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+157,2,"18:48",1128,1128,"Alpha Diallo missed Jumper.",46,29,17,0.946860415650315,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+158,2,"18:48",1128,1128,"Jordan McLaughlin Defensive Rebound.",46,29,17,0.946860415650315,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+159,2,"18:31",1111,1111,"Foul on Rodney Bullock.",46,29,17,0.939215877771505,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+160,2,"18:31",1111,1111,"Bennie Boatwright made Free Throw.",46,30,16,0.928558260385685,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+161,2,"18:31",1111,1111,"Bennie Boatwright missed Free Throw.",46,30,16,0.928558260385685,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+162,2,"18:31",1111,1111,"Rodney Bullock Defensive Rebound.",46,30,16,0.928558260385685,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+163,2,"18:07",1087,1087,"Foul on Shaqquan Aaron.",46,30,16,0.92653762289888,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+164,2,"17:54",1074,1074,"Rodney Bullock Turnover.",46,30,16,0.925373787909166,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+165,2,"17:44",1064,1064,"Jordan McLaughlin missed Jumper.",46,30,16,0.931664708908712,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+166,2,"17:44",1064,1064,"Chimezie Metu Offensive Rebound.",46,30,16,0.931664708908712,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+167,2,"17:35",1055,1055,"Shaqquan Aaron Turnover.",46,30,16,0.935404193357078,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+168,2,"17:25",1045,1045,"Emmitt Holt Turnover.",46,30,16,0.932363605726149,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+169,2,"17:09",1029,1029,"Jonah Mathews made Three Point Jumper. Assisted by Jordan McLaughlin.",46,33,13,0.893440253056021,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+170,2,"17:09",1029,1029,"Foul on Jalen Lindsey.",46,33,13,0.893440253056021,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+171,2,"17:09",1029,1029,"Jonah Mathews made Free Throw.",46,34,12,0.875122536716771,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+172,2,"16:44",1004,1004,"Kyron Cartwright Turnover.",46,34,12,0.874557267482204,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+173,2,"16:36",996,996,"Jordan McLaughlin made Three Point Jumper. Assisted by Bennie Boatwright.",46,37,9,0.78667544536445,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+174,2,"16:19",979,979,"Foul on Jonah Mathews.",46,37,9,0.804463267606805,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+175,2,"16:08",968,968,"Foul on Shaqquan Aaron.",46,37,9,0.806766215705732,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+176,2,"15:44",944,944,"Rodney Bullock made Layup.",48,37,11,0.874147642872064,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+177,2,"15:30",930,930,"Bennie Boatwright missed Three Point Jumper.",48,37,11,0.86709871348815,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+178,2,"15:30",930,930,"Emmitt Holt Defensive Rebound.",48,37,11,0.86709871348815,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+179,2,"15:03",903,903,"Emmitt Holt made Layup. Assisted by Kyron Cartwright.",50,37,13,0.906040555767219,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+180,2,"14:42",882,882,"Jordan McLaughlin missed Jumper.",50,37,13,0.882097401860351,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+181,2,"14:42",882,882,"Chimezie Metu Offensive Rebound.",50,37,13,0.882097401860351,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+182,2,"14:42",882,882,"Chimezie Metu missed Jumper.",50,37,13,0.882097401860351,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+183,2,"14:42",882,882,"Chimezie Metu Offensive Rebound.",50,37,13,0.882097401860351,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+184,2,"14:42",882,882,"Foul on Rodney Bullock.",50,37,13,0.882097401860351,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+185,2,"14:42",882,882,"Official TV Timeout",50,37,13,0.882097401860351,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+186,2,"14:42",882,882,"Chimezie Metu missed Free Throw.",50,37,13,0.882097401860351,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+187,2,"14:42",882,882,"USC Deadball Team Rebound.",50,37,13,0.882097401860351,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+188,2,"14:42",882,882,"Chimezie Metu made Free Throw.",50,38,12,0.862781777501814,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+189,2,"14:08",848,848,"Isaiah Jackson missed Layup.",50,38,12,0.911222886499519,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+190,2,"14:08",848,848,"Emmitt Holt Offensive Rebound.",50,38,12,0.911222886499519,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+191,2,"14:08",848,848,"Emmitt Holt missed Two Point Tip Shot.",50,38,12,0.911222886499519,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+192,2,"14:08",848,848,"Jordan McLaughlin Defensive Rebound.",50,38,12,0.911222886499519,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+193,2,"13:52",832,832,"Elijah Stewart missed Three Point Jumper.",50,38,12,0.900816482840023,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+194,2,"13:52",832,832,"Bennie Boatwright Offensive Rebound.",50,38,12,0.900816482840023,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+195,2,"13:47",827,827,"Foul on Alpha Diallo.",50,38,12,0.882344065075512,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+196,2,"13:47",827,827,"Bennie Boatwright made Free Throw.",50,39,11,0.86134921563055,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+197,2,"13:47",827,827,"Bennie Boatwright made Free Throw.",50,40,10,0.837298806656365,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+198,2,"13:27",807,807,"Isaiah Jackson missed Jumper.",50,40,10,0.865714642443403,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+199,2,"13:27",807,807,"Jordan McLaughlin Defensive Rebound.",50,40,10,0.865714642443403,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+200,2,"13:15",795,795,"Jordan McLaughlin missed Layup.",50,40,10,0.875401994236595,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+201,2,"13:15",795,795,"Bennie Boatwright Offensive Rebound.",50,40,10,0.875401994236595,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+202,2,"13:15",795,795,"Bennie Boatwright Turnover.",50,40,10,0.875401994236595,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+203,2,"13:00",780,780,"Foul on Nick Rakocevic.",50,40,10,0.861682720809966,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+204,2,"12:56",776,776,"Jalen Lindsey made Jumper.",52,40,12,0.90944729329536,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+205,2,"12:38",758,758,"Bennie Boatwright made Three Point Jumper.",52,43,9,0.847291295681519,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+206,2,"12:14",734,734,"Jalen Lindsey missed Jumper.",52,43,9,0.854862663880017,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+207,2,"12:14",734,734,"Jordan McLaughlin Defensive Rebound.",52,43,9,0.854862663880017,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+208,2,"12:05",725,725,"Jordan McLaughlin missed Jumper.",52,43,9,0.867077973745592,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+209,2,"12:05",725,725,"Isaiah Jackson Defensive Rebound.",52,43,9,0.867077973745592,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+210,2,"11:59",719,719,"Foul on Jonah Mathews.",52,43,9,0.837026352550966,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+211,2,"11:59",719,719,"Official TV Timeout",52,43,9,0.837026352550966,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+212,2,"11:56",716,716,"Alpha Diallo missed Jumper.",52,43,9,0.837026352550966,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+213,2,"11:56",716,716,"Bennie Boatwright Defensive Rebound.",52,43,9,0.837026352550966,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+214,2,"11:49",709,709,"Elijah Stewart missed Jumper.",52,43,9,0.85782317578166,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+215,2,"11:49",709,709,"Isaiah Jackson Block.",52,43,9,0.85782317578166,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+216,2,"11:49",709,709,"Emmitt Holt Defensive Rebound.",52,43,9,0.85782317578166,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+217,2,"11:42",702,702,"Foul on Nick Rakocevic.",52,43,9,0.85782317578166,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+218,2,"11:42",702,702,"Kyron Cartwright missed Free Throw.",52,43,9,0.85782317578166,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+219,2,"11:42",702,702,"Providence Deadball Team Rebound.",52,43,9,0.85782317578166,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+220,2,"11:42",702,702,"Kyron Cartwright made Free Throw.",53,43,10,0.881844958596362,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+221,2,"11:34",694,694,"Foul on Emmitt Holt.",53,43,10,0.893814211295033,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+222,2,"11:32",692,692,"Foul on Alpha Diallo.",53,43,10,0.893814211295033,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+223,2,"11:20",680,680,"Nick Rakocevic made Layup. Assisted by De'Anthony Melton.",53,45,8,0.823807994752732,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+224,2,"11:20",680,680,"Foul on Isaiah Jackson.",53,45,8,0.823807994752732,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+225,2,"11:20",680,680,"Nick Rakocevic made Free Throw.",53,46,7,0.788983855121643,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+226,2,"11:10",670,670,"Foul on De'Anthony Melton.",53,46,7,0.798799843495132,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+227,2,"11:10",670,670,"Kyron Cartwright made Free Throw.",54,46,8,0.833588668196875,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+228,2,"11:10",670,670,"Kyron Cartwright made Free Throw.",55,46,9,0.863390986384297,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+229,2,"10:43",643,643,"Nick Rakocevic made Jumper. Assisted by De'Anthony Melton.",55,48,7,0.821172815547037,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+230,2,"10:19",619,619,"Jalen Lindsey missed Three Point Jumper.",55,48,7,0.820410373871,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+231,2,"10:19",619,619,"USC Defensive Rebound.",55,48,7,0.820410373871,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+232,2,"10:06",606,606,"Nick Rakocevic missed Layup.",55,48,7,0.821633561085534,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+233,2,"10:06",606,606,"Chimezie Metu Offensive Rebound.",55,48,7,0.821633561085534,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+234,2,"10:06",606,606,"Chimezie Metu made Two Point Tip Shot.",55,50,5,0.738509164346527,"Providence","USC",4,3,0,0,-2,400946443,2017-03-15
+235,2,"9:56",596,596,"Providence  Timeout",55,50,5,0.735789874927311,"Providence","USC",3,3,1,0,-2,400946443,2017-03-15
+236,2,"9:33",573,573,"Isaiah Jackson made Layup.",57,50,7,0.846440402929783,"Providence","USC",3,3,1,0,-2,400946443,2017-03-15
+237,2,"9:07",547,547,"Jordan McLaughlin made Jumper.",57,52,5,0.750748566105427,"Providence","USC",3,3,1,0,-2,400946443,2017-03-15
+238,2,"8:45",525,525,"Emmitt Holt made Layup. Assisted by Jalen Lindsey.",59,52,7,0.862551000784324,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+239,2,"8:28",508,508,"Jonah Mathews made Three Point Jumper. Assisted by Jordan McLaughlin.",59,55,4,0.735291855621795,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+240,2,"8:09",489,489,"Foul on Jonah Mathews.",59,55,4,0.71871496829436,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+241,2,"8:09",489,489,"Kyron Cartwright made Free Throw.",60,55,5,0.770562396577592,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+242,2,"8:09",489,489,"Kyron Cartwright missed Free Throw.",60,55,5,0.770562396577592,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+243,2,"8:09",489,489,"Chimezie Metu Defensive Rebound.",60,55,5,0.770562396577592,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+244,2,"7:46",466,466,"Foul on Emmitt Holt.",60,55,5,0.770964606570175,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+245,2,"7:46",466,466,"Official TV Timeout",60,55,5,0.770964606570175,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+246,2,"7:46",466,466,"Nick Rakocevic made Free Throw.",60,56,4,0.717453796322928,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+247,2,"7:46",466,466,"Nick Rakocevic made Free Throw.",60,57,3,0.657003026547478,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+248,2,"7:36",456,456,"Isaiah Jackson Turnover.",60,57,3,0.68699076842893,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+249,2,"7:10",430,430,"Jordan McLaughlin made Jumper.",60,59,1,0.546336724773907,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+250,2,"6:57",417,417,"Kyron Cartwright Turnover.",60,59,1,0.527356859254069,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+251,2,"6:57",417,417,"Nick Rakocevic Steal.",60,59,1,0.527356859254069,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+252,2,"6:48",408,408,"Chimezie Metu made Jumper. Assisted by Jordan McLaughlin.",60,61,-1,0.370583136944359,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+253,2,"6:22",382,382,"Rodney Bullock missed Layup.",60,61,-1,0.384258687815996,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+254,2,"6:22",382,382,"Chimezie Metu Block.",60,61,-1,0.384258687815996,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+255,2,"6:22",382,382,"Jordan McLaughlin Defensive Rebound.",60,61,-1,0.384258687815996,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+256,2,"5:54",354,354,"Bennie Boatwright made Layup. Assisted by Chimezie Metu.",60,63,-3,0.204629150643068,"Providence","USC",3,3,0,0,-2,400946443,2017-03-15
+257,2,"5:52",352,352,"Providence  Timeout",60,63,-3,0.204629150643068,"Providence","USC",2,3,1,0,-2,400946443,2017-03-15
+258,2,"5:41",341,341,"Emmitt Holt made Layup. Assisted by Kyron Cartwright.",62,63,-1,0.349124863759325,"Providence","USC",2,3,1,0,-2,400946443,2017-03-15
+259,2,"5:26",326,326,"Bennie Boatwright missed Three Point Jumper.",62,63,-1,0.363470064804064,"Providence","USC",2,3,1,0,-2,400946443,2017-03-15
+260,2,"5:26",326,326,"Emmitt Holt Defensive Rebound.",62,63,-1,0.363470064804064,"Providence","USC",2,3,1,0,-2,400946443,2017-03-15
+261,2,"5:09",309,309,"Rodney Bullock missed Three Point Jumper.",62,63,-1,0.394036924738821,"Providence","USC",2,3,1,0,-2,400946443,2017-03-15
+262,2,"5:09",309,309,"Jordan McLaughlin Defensive Rebound.",62,63,-1,0.394036924738821,"Providence","USC",2,3,1,0,-2,400946443,2017-03-15
+263,2,"4:43",283,283,"Jordan McLaughlin made Layup.",62,65,-3,0.222237872472012,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+264,2,"4:27",267,267,"Emmitt Holt missed Jumper.",62,65,-3,0.225730945466235,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+265,2,"4:27",267,267,"Elijah Stewart Defensive Rebound.",62,65,-3,0.225730945466235,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+266,2,"3:58",238,238,"Jordan McLaughlin missed Three Point Jumper.",62,65,-3,0.219636277300807,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+267,2,"3:58",238,238,"Jordan McLaughlin Offensive Rebound.",62,65,-3,0.219636277300807,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+268,2,"3:39",219,219,"Chimezie Metu made Dunk. Assisted by Bennie Boatwright.",62,67,-5,0.0851869729970783,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+269,2,"3:20",200,200,"Kyron Cartwright Turnover.",62,67,-5,0.0873792265963384,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+270,2,"3:20",200,200,"Jordan McLaughlin Steal.",62,67,-5,0.0873792265963384,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+271,2,"3:11",191,191,"Official TV Timeout",62,67,-5,0.0809896959425433,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+272,2,"3:00",180,180,"Bennie Boatwright made Jumper.",62,69,-7,0.0269503761673366,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+273,2,"2:38",158,158,"Rodney Bullock made Jumper. Assisted by Emmitt Holt.",64,69,-5,0.061063893362963,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+274,2,"2:15",135,135,"Bennie Boatwright missed Three Point Jumper.",64,69,-5,0.0680905720829988,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+275,2,"2:15",135,135,"Jordan McLaughlin Offensive Rebound.",64,69,-5,0.0680905720829988,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+276,2,"1:44",104,104,"Jordan McLaughlin missed Jumper.",64,69,-5,0.0339824164360426,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+277,2,"1:44",104,104,"USC Offensive Rebound.",64,69,-5,0.0339824164360426,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+278,2,"1:24",84,84,"Foul on Alpha Diallo.",64,69,-5,0.0282039494464259,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+279,2,"1:24",84,84,"Chimezie Metu made Free Throw.",64,70,-6,0.0139786100540592,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+280,2,"1:24",84,84,"Chimezie Metu made Free Throw.",64,71,-7,0.00687738569446337,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+281,2,"1:12",72,72,"Foul on Chimezie Metu.",64,71,-7,0.00470906677668088,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+282,2,"1:12",72,72,"Alpha Diallo made Free Throw.",65,71,-6,0.00977073182704081,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+283,2,"1:12",72,72,"Alpha Diallo made Free Throw.",66,71,-5,0.0201628432203568,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+284,2,"0:48",48,48,"Foul on Jalen Lindsey.",66,71,-5,0.00816895715976343,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+285,2,"0:48",48,48,"Jordan McLaughlin missed Free Throw.",66,71,-5,0.00816895715976343,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+286,2,"0:48",48,48,"USC Deadball Team Rebound.",66,71,-5,0.00816895715976343,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+287,2,"0:48",48,48,"Jordan McLaughlin made Free Throw.",66,72,-6,0.00316972216945129,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+288,2,"0:38",38,38,"Jalen Lindsey missed Three Point Jumper.",66,72,-6,0.00359980215294845,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+289,2,"0:38",38,38,"Jordan McLaughlin Defensive Rebound.",66,72,-6,0.00359980215294845,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+290,2,"0:28",28,28,"Foul on Kyron Cartwright.",66,72,-6,0.000937937020449485,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+291,2,"0:28",28,28,"Jordan McLaughlin missed Free Throw.",66,72,-6,0.000937937020449485,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+292,2,"0:28",28,28,"USC Deadball Team Rebound.",66,72,-6,0.000937937020449485,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+293,2,"0:28",28,28,"Jordan McLaughlin made Free Throw.",66,73,-7,0.00029817041305052,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+294,2,"0:21",21,21,"Rodney Bullock made Three Point Jumper. Assisted by Jalen Lindsey.",69,73,-4,0.000974906452969384,"Providence","USC",2,3,0,0,-2,400946443,2017-03-15
+295,2,"0:19",19,19,"Providence  Timeout",69,73,-4,0.00737056400913381,"Providence","USC",1,3,1,0,-2,400946443,2017-03-15
+296,2,"0:17",17,17,"Foul on Kyron Cartwright.",69,73,-4,0.0186243829786403,"Providence","USC",1,3,1,0,-2,400946443,2017-03-15
+297,2,"0:17",17,17,"Chimezie Metu made Free Throw.",69,74,-5,0.00620740933890983,"Providence","USC",1,3,1,0,-2,400946443,2017-03-15
+298,2,"0:17",17,17,"Chimezie Metu made Free Throw.",69,75,-6,0.00205159069971988,"Providence","USC",1,3,1,0,-2,400946443,2017-03-15
+299,2,"0:04",4,4,"Alpha Diallo missed Jumper.",69,75,-6,1.08759833944022e-05,"Providence","USC",1,3,1,0,-2,400946443,2017-03-15
+300,2,"0:04",4,4,"Chimezie Metu Block.",69,75,-6,1.08759833944022e-05,"Providence","USC",1,3,1,0,-2,400946443,2017-03-15
+301,2,"0:04",4,4,"Alpha Diallo Offensive Rebound.",69,75,-6,1.08759833944022e-05,"Providence","USC",1,3,1,0,-2,400946443,2017-03-15
+302,2,"0:01",1,1,"Alpha Diallo missed Jumper.",69,75,-6,1.08759833944022e-05,"Providence","USC",1,3,1,0,-2,400946443,2017-03-15
+303,2,"0:01",1,1,"Bennie Boatwright Block.",69,75,-6,1.08759833944022e-05,"Providence","USC",1,3,1,0,-2,400946443,2017-03-15
+304,2,"0:01",1,1,"Rodney Bullock Offensive Rebound.",69,75,-6,1.08759833944022e-05,"Providence","USC",1,3,1,0,-2,400946443,2017-03-15
+305,2,"0:01",1,1,"Emmitt Holt made Jumper.",71,75,-4,0.000341025679802152,"Providence","USC",1,3,1,0,-2,400946443,2017-03-15
+306,2,"0:00",0,0,"End of Game",71,75,-4,2.65127330329161e-34,"Providence","USC",1,3,1,0,-2,400946443,2017-03-15

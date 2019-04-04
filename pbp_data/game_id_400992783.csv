@@ -1,0 +1,419 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.72731178689731,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+2,1,"19:41",2381,2381,"Foul on Tiwian Kendley.",0,0,0,0.72424492831398,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+3,1,"19:41",2381,2381,"Tiwian Kendley Turnover.",0,0,0,0.72424492831398,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+4,1,"19:28",2368,2368,"Foul on Phillip Carr.",0,0,0,0.711076372007941,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+5,1,"19:20",2360,2360,"Maricus Glenn missed Dunk.",0,0,0,0.711076372007941,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+6,1,"19:20",2360,2360,"Azariah Sykes Defensive Rebound.",0,0,0,0.711076372007941,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+7,1,"19:20",2360,2360,"Tiwian Kendley missed Three Point Jumper.",0,0,0,0.711076372007941,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+8,1,"19:20",2360,2360,"Azariah Sykes Offensive Rebound.",0,0,0,0.711076372007941,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+9,1,"19:20",2360,2360,"Stanley Davis missed Three Point Jumper.",0,0,0,0.711076372007941,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+10,1,"19:20",2360,2360,"Savannah State Defensive Rebound.",0,0,0,0.711076372007941,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+11,1,"19:01",2341,2341,"Austin Dasent missed Three Point Jumper.",0,0,0,0.713974078663736,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+12,1,"19:01",2341,2341,"Savannah State Offensive Rebound.",0,0,0,0.713974078663736,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+13,1,"18:56",2336,2336,"Dexter McClanahan made Three Point Jumper.",0,3,-3,0.660006419578822,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+14,1,"18:45",2325,2325,"Phillip Carr made Jumper. Assisted by Martez Cameron.",2,3,-1,0.705159883150209,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+15,1,"18:36",2316,2316,"Javaris Jenkins made Three Point Jumper. Assisted by Zach Sellers.",2,6,-4,0.617570086096859,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+16,1,"18:12",2292,2292,"Stanley Davis missed Layup.",2,6,-4,0.636763331196595,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+17,1,"18:12",2292,2292,"Dexter McClanahan Defensive Rebound.",2,6,-4,0.636763331196595,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+18,1,"17:56",2276,2276,"Austin Dasent missed Three Point Jumper.",2,6,-4,0.629533920682879,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+19,1,"17:56",2276,2276,"Stanley Davis Defensive Rebound.",2,6,-4,0.629533920682879,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+20,1,"17:48",2268,2268,"Foul on Javaris Jenkins.",2,6,-4,0.615093657259342,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+21,1,"17:48",2268,2268,"Stanley Davis missed Free Throw.",2,6,-4,0.615093657259342,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+22,1,"17:48",2268,2268,"Morgan State Deadball Team Rebound.",2,6,-4,0.615093657259342,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+23,1,"17:48",2268,2268,"Stanley Davis made Free Throw.",3,6,-3,0.643878253240619,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+24,1,"17:40",2260,2260,"Foul on Martez Cameron.",3,6,-3,0.643878253240619,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+25,1,"17:40",2260,2260,"Zach Sellers made Free Throw.",3,7,-4,0.615093657259342,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+26,1,"17:40",2260,2260,"Zach Sellers made Free Throw.",3,8,-5,0.585480293320061,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+27,1,"17:30",2250,2250,"Tiwian Kendley made Layup.",5,8,-3,0.651730392479035,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+28,1,"17:15",2235,2235,"Javaris Jenkins missed Three Point Jumper.",5,8,-3,0.643494433394555,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+29,1,"17:15",2235,2235,"Stanley Davis Defensive Rebound.",5,8,-3,0.643494433394555,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+30,1,"17:06",2226,2226,"Martez Cameron missed Layup.",5,8,-3,0.652124816308128,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+31,1,"17:06",2226,2226,"Javaris Jenkins Defensive Rebound.",5,8,-3,0.652124816308128,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+32,1,"16:53",2213,2213,"Alante Fenner missed Three Point Jumper.",5,8,-3,0.630897295260479,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+33,1,"16:53",2213,2213,"Javaris Jenkins Offensive Rebound.",5,8,-3,0.630897295260479,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+34,1,"16:46",2206,2206,"Foul on Azariah Sykes.",5,8,-3,0.641121614347942,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+35,1,"16:46",2206,2206,"Alante Fenner missed Free Throw.",5,8,-3,0.641121614347942,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+36,1,"16:46",2206,2206,"Savannah State Deadball Team Rebound.",5,8,-3,0.641121614347942,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+37,1,"16:46",2206,2206,"Alante Fenner missed Free Throw.",5,8,-3,0.641121614347942,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+38,1,"16:46",2206,2206,"David Syfax Defensive Rebound.",5,8,-3,0.641121614347942,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+39,1,"16:39",2199,2199,"David Syfax made Jumper. Assisted by Stanley Davis.",7,8,-1,0.70166732294552,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+40,1,"16:27",2187,2187,"Javaris Jenkins missed Jumper.",7,8,-1,0.691422098040245,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+41,1,"16:27",2187,2187,"Javaris Jenkins Offensive Rebound.",7,8,-1,0.691422098040245,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+42,1,"16:24",2184,2184,"Javaris Jenkins made Layup.",7,10,-3,0.643300348497881,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+43,1,"16:17",2177,2177,"Phillip Carr made Layup. Assisted by Martez Cameron.",9,10,-1,0.685129344735072,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+44,1,"16:08",2168,2168,"Zach Sellers made Three Point Jumper.",9,13,-4,0.611157111495006,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+45,1,"16:00",2160,2160,"Martez Cameron missed Layup.",9,13,-4,0.611157111495006,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+46,1,"16:00",2160,2160,"Ralueke Orizu Block.",9,13,-4,0.611157111495006,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+47,1,"15:57",2157,2157,"Ralueke Orizu Defensive Rebound.",9,13,-4,0.596424687017701,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+48,1,"15:52",2152,2152,"Alante Fenner missed Jumper.",9,13,-4,0.596424687017701,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+49,1,"15:52",2152,2152,"Phillip Carr Defensive Rebound.",9,13,-4,0.596424687017701,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+50,1,"15:42",2142,2142,"Stanley Davis made Layup.",11,13,-2,0.675940884615594,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+51,1,"15:34",2134,2134,"Ralueke Orizu made Dunk. Assisted by Zach Sellers.",11,15,-4,0.601709963025858,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+52,1,"15:25",2125,2125,"Tiwian Kendley missed Layup.",11,15,-4,0.602669307469404,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+53,1,"15:25",2125,2125,"Alante Fenner Defensive Rebound.",11,15,-4,0.602669307469404,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+54,1,"15:19",2119,2119,"Alante Fenner made Layup.",11,17,-6,0.551089701676415,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+55,1,"15:05",2105,2105,"David Syfax missed Jumper.",11,17,-6,0.549746534047141,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+56,1,"15:05",2105,2105,"Tiwian Kendley Offensive Rebound.",11,17,-6,0.549746534047141,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+57,1,"15:03",2103,2103,"Tiwian Kendley made Layup.",13,17,-4,0.604394462902488,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+58,1,"14:56",2096,2096,"Ralueke Orizu made Layup. Assisted by Zach Sellers.",13,19,-6,0.528963821839218,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+59,1,"14:45",2085,2085,"Tiwian Kendley made Three Point Jumper. Assisted by Stanley Davis.",16,19,-3,0.637803454508293,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+60,1,"14:31",2071,2071,"Foul on David Syfax.",16,19,-3,0.636740574427058,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+61,1,"14:26",2066,2066,"Foul on LaPri McCray-Pace.",16,19,-3,0.619240888277313,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+62,1,"14:26",2066,2066,"Alante Fenner made Free Throw.",16,20,-4,0.590469016917945,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+63,1,"14:26",2066,2066,"Alante Fenner made Free Throw.",16,21,-5,0.561064101357148,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+64,1,"14:06",2046,2046,"LaPri McCray-Pace missed Three Point Jumper.",16,21,-5,0.567668768459965,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+65,1,"14:06",2046,2046,"Alante Fenner Defensive Rebound.",16,21,-5,0.567668768459965,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+66,1,"13:58",2038,2038,"Ty'lik Evans missed Three Point Jumper.",16,21,-5,0.597201603337108,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+67,1,"13:58",2038,2038,"Morgan State Defensive Rebound.",16,21,-5,0.597201603337108,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+68,1,"13:49",2029,2029,"Stanley Davis Turnover.",16,21,-5,0.55040899452719,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+69,1,"13:47",2027,2027,"Austin Dasent Steal.",16,21,-5,0.55040899452719,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+70,1,"13:33",2013,2013,"Ty'lik Evans missed Jumper.",16,21,-5,0.579372447110702,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+71,1,"13:30",2010,2010,"Stanley Davis Defensive Rebound.",16,21,-5,0.579372447110702,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+72,1,"13:27",2007,2007,"David Syfax made Dunk. Assisted by Tiwian Kendley.",18,21,-3,0.627520785906081,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+73,1,"13:16",1996,1996,"Ty'lik Evans made Three Point Jumper.",18,24,-6,0.525201961765475,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+74,1,"13:07",1987,1987,"Tiwian Kendley made Layup.",20,24,-4,0.575484325881365,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+75,1,"13:07",1987,1987,"Foul on Maricus Glenn.",20,24,-4,0.575484325881365,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+76,1,"13:07",1987,1987,"Tiwian Kendley made Free Throw.",21,24,-3,0.605626407413616,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+77,1,"13:02",1982,1982,"Maricus Glenn Turnover.",21,24,-3,0.605626407413616,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+78,1,"12:42",1962,1962,"Tiwian Kendley Turnover.",21,24,-3,0.634666351802658,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+79,1,"12:37",1957,1957,"Isaiah Felder Steal.",21,24,-3,0.623544052963852,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+80,1,"12:35",1955,1955,"Ty'lik Evans missed Layup.",21,24,-3,0.623544052963852,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+81,1,"12:35",1955,1955,"Stanley Davis Defensive Rebound.",21,24,-3,0.623544052963852,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+82,1,"12:30",1950,1950,"David Syfax made Layup. Assisted by Stanley Davis.",23,24,-1,0.680202770920791,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+83,1,"12:30",1950,1950,"Foul on Maricus Glenn.",23,24,-1,0.680202770920791,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+84,1,"12:30",1950,1950,"David Syfax missed Free Throw.",23,24,-1,0.680202770920791,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+85,1,"12:30",1950,1950,"Ralueke Orizu Defensive Rebound.",23,24,-1,0.680202770920791,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+86,1,"12:19",1939,1939,"Ty'lik Evans Turnover.",23,24,-1,0.664500678653708,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+87,1,"12:19",1939,1939,"Martez Cameron Steal.",23,24,-1,0.664500678653708,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+88,1,"12:12",1932,1932,"Foul on Austin Dasent.",23,24,-1,0.664500678653708,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+89,1,"12:12",1932,1932,"Phillip Carr made Free Throw.",24,24,0,0.692660449761461,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+90,1,"12:12",1932,1932,"Phillip Carr made Free Throw.",25,24,1,0.719454532119281,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+91,1,"11:48",1908,1908,"Foul on Antonio Gillespie.",25,24,1,0.726539372926143,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+92,1,"11:48",1908,1908,"Official TV Timeout",25,24,1,0.726539372926143,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+93,1,"11:48",1908,1908,"Austin Dasent made Free Throw.",25,25,0,0.702690498103204,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+94,1,"11:48",1908,1908,"Austin Dasent made Free Throw.",25,26,-1,0.677684435822409,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+95,1,"11:41",1901,1901,"Phillip Carr made Layup. Assisted by David Syfax.",27,26,1,0.726539372926143,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+96,1,"11:21",1881,1881,"Dexter McClanahan missed Three Point Jumper.",27,26,1,0.724209223722784,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+97,1,"11:21",1881,1881,"Ralueke Orizu Offensive Rebound.",27,26,1,0.724209223722784,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+98,1,"11:16",1876,1876,"Ralueke Orizu made Two Point Tip Shot.",27,28,-1,0.671660575245016,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+99,1,"11:05",1865,1865,"David Syfax missed Layup.",27,28,-1,0.677818102247757,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+100,1,"11:05",1865,1865,"Dexter McClanahan Defensive Rebound.",27,28,-1,0.677818102247757,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+101,1,"10:57",1857,1857,"Javaris Jenkins missed Three Point Jumper.",27,28,-1,0.675879704239624,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+102,1,"10:57",1857,1857,"Stanley Davis Defensive Rebound.",27,28,-1,0.675879704239624,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+103,1,"10:43",1843,1843,"David Syfax Turnover.",27,28,-1,0.659854874760078,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+104,1,"10:41",1841,1841,"Javaris Jenkins Steal.",27,28,-1,0.659854874760078,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+105,1,"10:34",1834,1834,"Dexter McClanahan made Jumper.",27,30,-3,0.613295155085804,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+106,1,"10:29",1829,1829,"Stanley Davis Turnover.",27,30,-3,0.64018787287163,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+107,1,"10:26",1826,1826,"Zach Sellers Steal.",27,30,-3,0.64018787287163,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+108,1,"10:23",1823,1823,"Austin Dasent missed Three Point Jumper.",27,30,-3,0.64018787287163,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+109,1,"10:23",1823,1823,"Stanley Davis Defensive Rebound.",27,30,-3,0.64018787287163,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+110,1,"10:12",1812,1812,"Phillip Carr made Layup. Assisted by Martez Cameron.",29,30,-1,0.671357109460474,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+111,1,"10:00",1800,1800,"Ralueke Orizu made Layup. Assisted by Dexter McClanahan.",29,32,-3,0.608724965621174,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+112,1,"9:48",1788,1788,"David Syfax made Dunk. Assisted by Stanley Davis.",31,32,-1,0.64474574428699,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+113,1,"9:33",1773,1773,"Austin Dasent Turnover.",31,32,-1,0.657452012162358,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+114,1,"9:26",1766,1766,"Phillip Carr missed Jumper.",31,32,-1,0.677575531932534,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+115,1,"9:26",1766,1766,"Javaris Jenkins Defensive Rebound.",31,32,-1,0.677575531932534,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+116,1,"9:15",1755,1755,"Javaris Jenkins missed Layup.",31,32,-1,0.650337688729904,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+117,1,"9:15",1755,1755,"Stanley Davis Defensive Rebound.",31,32,-1,0.650337688729904,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+118,1,"9:03",1743,1743,"Tiwian Kendley missed Layup.",31,32,-1,0.67216369580053,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+119,1,"9:03",1743,1743,"Savannah State Defensive Rebound.",31,32,-1,0.67216369580053,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+120,1,"9:03",1743,1743,"Foul on Alex Ennis.",31,32,-1,0.67216369580053,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+121,1,"9:03",1743,1743,"Jahir Cabeza missed Free Throw.",31,32,-1,0.67216369580053,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+122,1,"9:03",1743,1743,"Zach Sellers Offensive Rebound.",31,32,-1,0.67216369580053,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+123,1,"8:53",1733,1733,"Alante Fenner Turnover.",31,32,-1,0.666139521322095,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+124,1,"8:53",1733,1733,"Foul on Alante Fenner.",31,32,-1,0.666139521322095,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+125,1,"8:42",1722,1722,"Phillip Carr made Layup.",33,32,1,0.720967736302211,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+126,1,"8:19",1699,1699,"Dexter McClanahan made Three Point Jumper. Assisted by Alante Fenner.",33,35,-2,0.633409240731441,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+127,1,"7:59",1679,1679,"Phillip Carr Turnover.",33,35,-2,0.635204020235578,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+128,1,"7:59",1679,1679,"Official TV Timeout",33,35,-2,0.635204020235578,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+129,1,"7:53",1673,1673,"Isaiah Felder missed Three Point Jumper.",33,35,-2,0.635204020235578,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+130,1,"7:53",1673,1673,"Stanley Davis Defensive Rebound.",33,35,-2,0.635204020235578,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+131,1,"7:39",1659,1659,"Foul on Jahir Cabeza.",33,35,-2,0.634388810269496,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+132,1,"7:39",1659,1659,"Stanley Davis missed Free Throw.",33,35,-2,0.634388810269496,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+133,1,"7:39",1659,1659,"Jahir Cabeza Defensive Rebound.",33,35,-2,0.634388810269496,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+134,1,"7:33",1653,1653,"Dexter McClanahan made Layup.",33,37,-4,0.571006658345581,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+135,1,"7:18",1638,1638,"Tiwian Kendley made Jumper.",35,37,-2,0.64051640814189,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+136,1,"7:00",1620,1620,"Jahir Cabeza made Layup.",35,39,-4,0.555316253812918,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+137,1,"6:50",1610,1610,"Tiwian Kendley made Layup. Assisted by Stanley Davis.",37,39,-2,0.608426204331648,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+138,1,"6:34",1594,1594,"Alante Fenner missed Layup.",37,39,-2,0.6362596032698,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+139,1,"6:34",1594,1594,"Jahir Cabeza Offensive Rebound.",37,39,-2,0.6362596032698,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+140,1,"6:34",1594,1594,"Jahir Cabeza missed Dunk.",37,39,-2,0.6362596032698,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+141,1,"6:34",1594,1594,"Morgan State Defensive Rebound.",37,39,-2,0.6362596032698,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+142,1,"6:24",1584,1584,"Foul on Isaiah Felder.",37,39,-2,0.619443370743837,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+143,1,"6:24",1584,1584,"Tiwian Kendley missed Free Throw.",37,39,-2,0.619443370743837,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+144,1,"6:24",1584,1584,"Savannah State Defensive Rebound.",37,39,-2,0.619443370743837,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+145,1,"6:13",1573,1573,"Foul on LaPri McCray-Pace.",37,39,-2,0.62400825128461,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+146,1,"6:12",1572,1572,"Dexter McClanahan made Free Throw.",37,40,-3,0.586971567484755,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+147,1,"6:02",1562,1562,"Foul on Isaiah Felder.",37,40,-3,0.578003230388552,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+148,1,"6:02",1562,1562,"Foul on Isaiah Felder.",37,40,-3,0.578003230388552,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+149,1,"6:02",1562,1562,"Martez Cameron made Free Throw.",38,40,-2,0.612287534569514,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+150,1,"6:02",1562,1562,"Martez Cameron made Free Throw.",39,40,-1,0.645494815651336,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+151,1,"5:42",1542,1542,"Ty'lik Evans Offensive Rebound.",39,41,-2,0.631391379458558,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+152,1,"5:42",1542,1542,"Javaris Jenkins missed Jumper.",39,40,-1,0.663096744066515,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+153,1,"5:42",1542,1542,"Dexter McClanahan made Free Throw.",39,41,-2,0.631391379458558,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+154,1,"5:34",1534,1534,"Ty'lik Evans missed Three Point Jumper.",39,41,-2,0.630455038449891,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+155,1,"5:34",1534,1534,"Stanley Davis Defensive Rebound.",39,41,-2,0.630455038449891,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+156,1,"5:22",1522,1522,"Tiwian Kendley made Layup. Assisted by Martez Cameron.",41,41,0,0.685278511910975,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+157,1,"5:02",1502,1502,"Alante Fenner missed Three Point Jumper.",41,41,0,0.685735999469847,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+158,1,"5:02",1502,1502,"Tiwian Kendley Defensive Rebound.",41,41,0,0.685735999469847,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+159,1,"4:59",1499,1499,"Foul on Javaris Jenkins.",41,41,0,0.700854445926615,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+160,1,"4:59",1499,1499,"Tiwian Kendley made Free Throw.",42,41,1,0.729260754305666,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+161,1,"4:59",1499,1499,"Tiwian Kendley made Free Throw.",43,41,2,0.755909095995922,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+162,1,"4:34",1474,1474,"Alante Fenner missed Layup.",43,41,2,0.756228478545477,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+163,1,"4:34",1474,1474,"Ralueke Orizu Offensive Rebound.",43,41,2,0.756228478545477,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+164,1,"4:30",1470,1470,"Ralueke Orizu made Layup.",43,43,0,0.695598436556452,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+165,1,"4:24",1464,1464,"Phillip Carr made Layup. Assisted by Martez Cameron.",45,43,2,0.739223691215554,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+166,1,"4:07",1447,1447,"Ralueke Orizu made Layup. Assisted by Zach Sellers.",45,45,0,0.702356546954533,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+167,1,"4:04",1444,1444,"David Syfax made Layup.",47,45,2,0.76185654528133,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+168,1,"3:57",1437,1437,"Foul on David Syfax.",47,45,2,0.746795937852737,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+169,1,"3:57",1437,1437,"Official TV Timeout",47,45,2,0.746795937852737,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+170,1,"3:57",1437,1437,"Dexter McClanahan made Free Throw.",47,46,1,0.717580349304309,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+171,1,"3:57",1437,1437,"Dexter McClanahan made Free Throw.",47,47,0,0.686409294361411,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+172,1,"3:45",1425,1425,"Foul on Zach Sellers.",47,47,0,0.670474231549096,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+173,1,"3:45",1425,1425,"Azariah Sykes made Free Throw.",48,47,1,0.701630372740258,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+174,1,"3:45",1425,1425,"Azariah Sykes missed Free Throw.",48,47,1,0.701630372740258,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+175,1,"3:45",1425,1425,"Ralueke Orizu Defensive Rebound.",48,47,1,0.701630372740258,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+176,1,"3:39",1419,1419,"Austin Dasent missed Three Point Jumper.",48,47,1,0.704970772416331,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+177,1,"3:39",1419,1419,"Phillip Carr Defensive Rebound.",48,47,1,0.704970772416331,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+178,1,"3:33",1413,1413,"Foul on Austin Dasent.",48,47,1,0.704970772416331,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+179,1,"3:33",1413,1413,"Stanley Davis made Free Throw.",49,47,2,0.736170455607128,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+180,1,"3:33",1413,1413,"Stanley Davis missed Free Throw.",49,47,2,0.736170455607128,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+181,1,"3:33",1413,1413,"Alante Fenner Defensive Rebound.",49,47,2,0.736170455607128,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+182,1,"3:25",1405,1405,"Ralueke Orizu missed Layup.",49,47,2,0.758238211072641,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+183,1,"3:25",1405,1405,"Stanley Davis Defensive Rebound.",49,47,2,0.758238211072641,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+184,1,"3:17",1397,1397,"Tiwian Kendley missed Three Point Jumper.",49,47,2,0.745800195336537,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+185,1,"3:17",1397,1397,"Alante Fenner Defensive Rebound.",49,47,2,0.745800195336537,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+186,1,"3:10",1390,1390,"Alante Fenner made Layup.",49,49,0,0.682975099710439,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+187,1,"2:45",1365,1365,"Tiwian Kendley Turnover.",49,49,0,0.680241615656454,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+188,1,"2:28",1348,1348,"Alante Fenner made Layup.",49,51,-2,0.594992157909946,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+189,1,"2:21",1341,1341,"Stanley Davis Turnover.",49,51,-2,0.594992157909946,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+190,1,"2:20",1340,1340,"Zach Sellers Steal.",49,51,-2,0.594992157909946,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+191,1,"1:59",1319,1319,"Foul on Stanley Davis.",49,51,-2,0.618734350333562,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+192,1,"1:59",1319,1319,"Alante Fenner made Free Throw.",49,52,-3,0.580913703235149,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+193,1,"1:59",1319,1319,"Alante Fenner missed Free Throw.",49,52,-3,0.580913703235149,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+194,1,"1:59",1319,1319,"Morgan State Defensive Rebound.",49,52,-3,0.580913703235149,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+195,1,"1:58",1318,1318,"Foul on Jahir Cabeza.",49,52,-3,0.580913703235149,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+196,1,"1:58",1318,1318,"Azariah Sykes made Free Throw.",50,52,-2,0.618734350333562,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+197,1,"1:58",1318,1318,"Azariah Sykes made Free Throw.",51,52,-1,0.65516790632907,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+198,1,"1:53",1313,1313,"Zach Sellers made Jumper.",51,54,-3,0.580913703235149,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+199,1,"1:43",1303,1303,"Stanley Davis missed Jumper.",51,54,-3,0.570201766691811,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+200,1,"1:43",1303,1303,"Foul on Phillip Carr.",51,54,-3,0.570201766691811,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+201,1,"1:43",1303,1303,"Phillip Carr Offensive Rebound.",51,54,-3,0.570201766691811,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+202,1,"1:43",1303,1303,"Phillip Carr missed Layup.",51,54,-3,0.570201766691811,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+203,1,"1:43",1303,1303,"Savannah State Defensive Rebound.",51,54,-3,0.570201766691811,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+204,1,"1:43",1303,1303,"Zach Sellers made Free Throw.",51,55,-4,0.533837730957734,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+205,1,"1:43",1303,1303,"Zach Sellers made Free Throw.",51,56,-5,0.497110495796064,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+206,1,"1:30",1290,1290,"Martez Cameron made Jumper.",53,56,-3,0.569831481004819,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+207,1,"1:14",1274,1274,"Ty'lik Evans missed Layup.",53,56,-3,0.556823464411157,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+208,1,"1:14",1274,1274,"Jahir Cabeza Offensive Rebound.",53,56,-3,0.556823464411157,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+209,1,"1:09",1269,1269,"Ty'lik Evans missed Three Point Jumper.",53,56,-3,0.584330291928476,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+210,1,"1:09",1269,1269,"Azariah Sykes Defensive Rebound.",53,56,-3,0.584330291928476,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+211,1,"1:03",1263,1263,"David Syfax missed Layup.",53,56,-3,0.584330291928476,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+212,1,"1:03",1263,1263,"Zach Sellers Defensive Rebound.",53,56,-3,0.584330291928476,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+213,1,"0:56",1256,1256,"Ralueke Orizu made Layup. Assisted by Khalen Pinkett.",53,58,-5,0.483694043328334,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+214,1,"0:43",1243,1243,"David Syfax made Jumper.",55,58,-3,0.569185726568625,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+215,1,"0:23",1223,1223,"Foul on David Syfax.",55,58,-3,0.558918023029461,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+216,1,"0:23",1223,1223,"Ty'lik Evans made Free Throw.",55,59,-4,0.516994063713114,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+217,1,"0:23",1223,1223,"Ty'lik Evans missed Free Throw.",55,59,-4,0.516994063713114,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+218,1,"0:23",1223,1223,"Azariah Sykes Defensive Rebound.",55,59,-4,0.516994063713114,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+219,1,"0:14",1214,1214,"Antonio Gillespie missed Three Point Jumper.",55,59,-4,0.50630451143629,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+220,1,"0:14",1214,1214,"Ty'lik Evans Defensive Rebound.",55,59,-4,0.50630451143629,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+221,1,"0:09",1209,1209,"Savannah State  Timeout",55,59,-4,0.521215241560651,"Morgan State","Savannah State",3,4,1,0,4.3,400992783,2018-01-08
+222,1,"0:00",1200,1200,"Ralueke Orizu Turnover.",55,59,-4,0.521215241560651,"Morgan State","Savannah State",3,4,1,0,4.3,400992783,2018-01-08
+223,1,"0:00",1200,1200,"Khalil Gracey Steal.",55,59,-4,0.521215241560651,"Morgan State","Savannah State",3,4,1,0,4.3,400992783,2018-01-08
+224,1,"0:00",1200,1200,"End of 1st half",55,59,-4,0.521215241560651,"Morgan State","Savannah State",3,4,1,0,4.3,400992783,2018-01-08
+225,2,"20:00",1200,1200,"PLAY",55,59,-4,0.521215241560651,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+226,2,"19:52",1192,1192,"Foul on Austin Dasent.",55,59,-4,0.578947772721909,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+227,2,"19:44",1184,1184,"Martez Cameron missed Jumper.",55,59,-4,0.515322497337248,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+228,2,"19:44",1184,1184,"Morgan State Offensive Rebound.",55,59,-4,0.515322497337248,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+229,2,"19:44",1184,1184,"Foul on Maricus Glenn.",55,59,-4,0.515322497337248,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+230,2,"19:35",1175,1175,"Martez Cameron made Layup. Assisted by Phillip Carr.",57,59,-2,0.589874171071952,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+231,2,"19:19",1159,1159,"Ralueke Orizu Turnover.",57,59,-2,0.593843450074363,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+232,2,"19:18",1158,1158,"Martez Cameron Steal.",57,59,-2,0.593843450074363,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+233,2,"19:15",1155,1155,"Stanley Davis made Layup. Assisted by Martez Cameron.",59,59,0,0.668938296845447,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+234,2,"19:05",1145,1145,"Javaris Jenkins missed Three Point Jumper.",59,59,0,0.663689554501925,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+235,2,"19:05",1145,1145,"Martez Cameron Defensive Rebound.",59,59,0,0.663689554501925,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+236,2,"19:01",1141,1141,"Stanley Davis Turnover.",59,59,0,0.663689554501925,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+237,2,"18:47",1127,1127,"Zach Sellers missed Layup.",59,59,0,0.664602862767844,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+238,2,"18:47",1127,1127,"Phillip Carr Defensive Rebound.",59,59,0,0.664602862767844,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+239,2,"18:42",1122,1122,"Tiwian Kendley made Dunk. Assisted by Martez Cameron.",61,59,2,0.742002481165696,"Morgan State","Savannah State",4,4,0,0,4.3,400992783,2018-01-08
+240,2,"18:37",1117,1117,"Morgan State  Timeout",61,59,2,0.739242009427032,"Morgan State","Savannah State",4,3,0,1,4.3,400992783,2018-01-08
+241,2,"18:21",1101,1101,"Alante Fenner missed Layup.",61,59,2,0.740307869082765,"Morgan State","Savannah State",4,3,0,1,4.3,400992783,2018-01-08
+242,2,"18:21",1101,1101,"Azariah Sykes Block.",61,59,2,0.740307869082765,"Morgan State","Savannah State",4,3,0,1,4.3,400992783,2018-01-08
+243,2,"18:19",1099,1099,"Alante Fenner Offensive Rebound.",61,59,2,0.748148736039481,"Morgan State","Savannah State",4,3,0,1,4.3,400992783,2018-01-08
+244,2,"18:15",1095,1095,"Javaris Jenkins missed Layup.",61,59,2,0.748148736039481,"Morgan State","Savannah State",4,3,0,1,4.3,400992783,2018-01-08
+245,2,"18:15",1095,1095,"Ralueke Orizu Offensive Rebound.",61,59,2,0.748148736039481,"Morgan State","Savannah State",4,3,0,1,4.3,400992783,2018-01-08
+246,2,"18:12",1092,1092,"Ralueke Orizu made Two Point Tip Shot.",61,61,0,0.678272965597823,"Morgan State","Savannah State",4,3,0,1,4.3,400992783,2018-01-08
+247,2,"18:00",1080,1080,"Tiwian Kendley made Jumper. Assisted by Stanley Davis.",63,61,2,0.744057612833061,"Morgan State","Savannah State",4,3,0,1,4.3,400992783,2018-01-08
+248,2,"17:30",1050,1050,"Ralueke Orizu made Dunk. Assisted by Dexter McClanahan.",63,63,0,0.67235815184368,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+249,2,"17:21",1041,1041,"Foul on Alante Fenner.",63,63,0,0.680878951453639,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+250,2,"17:21",1041,1041,"Tiwian Kendley made Free Throw.",64,63,1,0.717684214682891,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+251,2,"17:21",1041,1041,"Tiwian Kendley made Free Throw.",65,63,2,0.751792034945273,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+252,2,"17:05",1025,1025,"Dexter McClanahan missed Three Point Jumper.",65,63,2,0.744609219603377,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+253,2,"17:05",1025,1025,"Tiwian Kendley Defensive Rebound.",65,63,2,0.744609219603377,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+254,2,"17:02",1022,1022,"Foul on Zach Sellers.",65,63,2,0.744609219603377,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+255,2,"16:58",1018,1018,"Phillip Carr made Jumper. Assisted by Tiwian Kendley.",67,63,4,0.784915491786526,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+256,2,"16:40",1000,1000,"Zach Sellers missed Three Point Jumper.",67,63,4,0.79340269627282,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+257,2,"16:40",1000,1000,"Phillip Carr Defensive Rebound.",67,63,4,0.79340269627282,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+258,2,"16:16",976,976,"Tiwian Kendley missed Layup.",67,63,4,0.807785613899626,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+259,2,"16:16",976,976,"Alante Fenner Defensive Rebound.",67,63,4,0.807785613899626,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+260,2,"16:11",971,971,"Alante Fenner missed Three Point Jumper.",67,63,4,0.807785613899626,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+261,2,"16:11",971,971,"Dexter McClanahan Offensive Rebound.",67,63,4,0.807785613899626,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+262,2,"16:05",965,965,"Dexter McClanahan missed Three Point Jumper.",67,63,4,0.79386658109831,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+263,2,"16:05",965,965,"Alante Fenner Offensive Rebound.",67,63,4,0.79386658109831,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+264,2,"15:58",958,958,"Zach Sellers made Three Point Jumper. Assisted by Alante Fenner.",67,66,1,0.699434479981091,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+265,2,"15:43",943,943,"Tiwian Kendley missed Layup.",67,66,1,0.718330439098998,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+266,2,"15:43",943,943,"Ralueke Orizu Block.",67,66,1,0.718330439098998,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+267,2,"15:40",940,940,"Phillip Carr Offensive Rebound.",67,66,1,0.718330439098998,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+268,2,"15:36",936,936,"Stanley Davis Turnover.",67,66,1,0.697347312485539,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+269,2,"15:36",936,936,"Official TV Timeout",67,66,1,0.697347312485539,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+270,2,"15:23",923,923,"Javaris Jenkins missed Three Point Jumper.",67,66,1,0.677191238264349,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+271,2,"15:23",923,923,"Phillip Carr Defensive Rebound.",67,66,1,0.677191238264349,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+272,2,"15:14",914,914,"Tiwian Kendley Turnover.",67,66,1,0.706271654476042,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+273,2,"15:14",914,914,"Foul on Tiwian Kendley.",67,66,1,0.706271654476042,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+274,2,"15:01",901,901,"Isaiah Felder missed Three Point Jumper.",67,66,1,0.694541817304011,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+275,2,"15:01",901,901,"Savannah State Offensive Rebound.",67,66,1,0.694541817304011,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+276,2,"15:01",901,901,"Foul on Azariah Sykes.",67,66,1,0.694541817304011,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+277,2,"15:01",901,901,"Dexter McClanahan missed Free Throw.",67,66,1,0.694541817304011,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+278,2,"15:01",901,901,"Savannah State Deadball Team Rebound.",67,66,1,0.694541817304011,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+279,2,"15:01",901,901,"Dexter McClanahan made Free Throw.",67,67,0,0.652516379819597,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+280,2,"14:53",893,893,"Tiwian Kendley made Dunk. Assisted by Stanley Davis.",69,67,2,0.74371470851772,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+281,2,"14:38",878,878,"Jahir Cabeza Turnover.",69,67,2,0.740277811705779,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+282,2,"14:37",877,877,"Phillip Carr Steal.",69,67,2,0.740277811705779,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+283,2,"14:33",873,873,"Foul on Ty'lik Evans.",69,67,2,0.740277811705779,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+284,2,"14:33",873,873,"Martez Cameron made Free Throw.",70,67,3,0.775570224643067,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+285,2,"14:33",873,873,"Martez Cameron made Free Throw.",71,67,4,0.807315183340033,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+286,2,"14:10",850,850,"Jahir Cabeza missed Three Point Jumper.",71,67,4,0.818727723215988,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+287,2,"14:10",850,850,"Javaris Jenkins Offensive Rebound.",71,67,4,0.818727723215988,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+288,2,"14:10",850,850,"Foul on Tiwian Kendley.",71,67,4,0.818727723215988,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+289,2,"14:10",850,850,"Javaris Jenkins made Free Throw.",71,68,3,0.786277294767852,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+290,2,"14:10",850,850,"Javaris Jenkins made Free Throw.",71,69,2,0.749793048119924,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+291,2,"13:50",830,830,"Martez Cameron Turnover.",71,69,2,0.74970155068264,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+292,2,"13:35",815,815,"Ty'lik Evans Turnover.",71,69,2,0.730206696766711,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+293,2,"13:35",815,815,"Foul on Ty'lik Evans.",71,69,2,0.730206696766711,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+294,2,"13:15",795,795,"David Syfax made Jumper.",73,69,4,0.81476282966431,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+295,2,"12:56",776,776,"Ty'lik Evans missed Three Point Jumper.",73,69,4,0.812759485955978,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+296,2,"12:56",776,776,"Azariah Sykes Defensive Rebound.",73,69,4,0.812759485955978,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+297,2,"12:48",768,768,"Phillip Carr missed Layup.",73,69,4,0.829701103133537,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+298,2,"12:48",768,768,"Savannah State Defensive Rebound.",73,69,4,0.829701103133537,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+299,2,"12:35",755,755,"Jahir Cabeza made Three Point Jumper. Assisted by Isaiah Felder.",73,72,1,0.699342117156182,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+300,2,"12:22",742,742,"Stanley Davis missed Layup.",73,72,1,0.690453650178312,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+301,2,"12:22",742,742,"Jahir Cabeza Defensive Rebound.",73,72,1,0.690453650178312,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+302,2,"12:13",733,733,"Isaiah Felder missed Three Point Jumper.",73,72,1,0.691969651655733,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+303,2,"12:13",733,733,"Phillip Carr Defensive Rebound.",73,72,1,0.691969651655733,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+304,2,"11:58",718,718,"Martez Cameron Turnover.",73,72,1,0.681274334646115,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+305,2,"11:40",700,700,"Javaris Jenkins missed Jumper.",73,72,1,0.69529508085574,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+306,2,"11:40",700,700,"Savannah State Offensive Rebound.",73,72,1,0.69529508085574,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+307,2,"11:37",697,697,"Foul on David Syfax.",73,72,1,0.710048892858077,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+308,2,"11:32",692,692,"Official TV Timeout",73,72,1,0.710048892858077,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+309,2,"11:26",686,686,"Ty'lik Evans made Layup.",73,74,-1,0.586004928979478,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+310,2,"10:39",639,639,"LaPri McCray-Pace missed Layup.",73,74,-1,0.568241863686927,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+311,2,"10:39",639,639,"LaPri McCray-Pace Offensive Rebound.",73,74,-1,0.568241863686927,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+312,2,"10:37",637,637,"LaPri McCray-Pace missed Layup.",73,74,-1,0.568241863686927,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+313,2,"10:37",637,637,"Savannah State Defensive Rebound.",73,74,-1,0.568241863686927,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+314,2,"10:34",634,634,"Javaris Jenkins made Three Point Jumper. Assisted by Ty'lik Evans.",73,77,-4,0.393078914028344,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+315,2,"10:21",621,621,"Stanley Davis made Jumper.",75,77,-2,0.529367799547958,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+316,2,"10:13",613,613,"Ty'lik Evans missed Jumper.",75,77,-2,0.504084824438711,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+317,2,"10:13",613,613,"Phillip Carr Defensive Rebound.",75,77,-2,0.504084824438711,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+318,2,"9:55",595,595,"Martez Cameron missed Jumper.",75,77,-2,0.520891981586485,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+319,2,"9:55",595,595,"Austin Dasent Defensive Rebound.",75,77,-2,0.520891981586485,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+320,2,"9:40",580,580,"Austin Dasent missed Three Point Jumper.",75,77,-2,0.509145104109169,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+321,2,"9:40",580,580,"Javaris Jenkins Offensive Rebound.",75,77,-2,0.509145104109169,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+322,2,"9:34",574,574,"Jahir Cabeza missed Three Point Jumper.",75,77,-2,0.539142577425165,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+323,2,"9:34",574,574,"Phillip Carr Defensive Rebound.",75,77,-2,0.539142577425165,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+324,2,"9:34",574,574,"Foul on Austin Dasent.",75,77,-2,0.539142577425165,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+325,2,"9:34",574,574,"Phillip Carr made Free Throw.",76,77,-1,0.601117719843955,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+326,2,"9:34",574,574,"Phillip Carr made Free Throw.",77,77,0,0.660014214717328,"Morgan State","Savannah State",4,3,0,0,4.3,400992783,2018-01-08
+327,2,"9:22",562,562,"Savannah State  Timeout",77,77,0,0.656276796540551,"Morgan State","Savannah State",3,3,1,0,4.3,400992783,2018-01-08
+328,2,"9:14",554,554,"Zach Sellers made Three Point Jumper. Assisted by Ty'lik Evans.",77,80,-3,0.435977839314846,"Morgan State","Savannah State",3,3,1,0,4.3,400992783,2018-01-08
+329,2,"9:06",546,546,"Phillip Carr Turnover.",77,80,-3,0.417972602719678,"Morgan State","Savannah State",3,3,1,0,4.3,400992783,2018-01-08
+330,2,"8:56",536,536,"Alante Fenner Turnover.",77,80,-3,0.453296116844926,"Morgan State","Savannah State",3,3,1,0,4.3,400992783,2018-01-08
+331,2,"8:54",534,534,"Tiwian Kendley Steal.",77,80,-3,0.453296116844926,"Morgan State","Savannah State",3,3,1,0,4.3,400992783,2018-01-08
+332,2,"8:53",533,533,"Foul on Alante Fenner.",77,80,-3,0.453296116844926,"Morgan State","Savannah State",3,3,1,0,4.3,400992783,2018-01-08
+333,2,"8:53",533,533,"Tiwian Kendley missed Free Throw.",77,80,-3,0.453296116844926,"Morgan State","Savannah State",3,3,1,0,4.3,400992783,2018-01-08
+334,2,"8:53",533,533,"Dexter McClanahan Defensive Rebound.",77,80,-3,0.453296116844926,"Morgan State","Savannah State",3,3,1,0,4.3,400992783,2018-01-08
+335,2,"8:43",523,523,"Zach Sellers missed Three Point Jumper.",77,80,-3,0.430144939239842,"Morgan State","Savannah State",3,3,1,0,4.3,400992783,2018-01-08
+336,2,"8:43",523,523,"Phillip Carr Defensive Rebound.",77,80,-3,0.430144939239842,"Morgan State","Savannah State",3,3,1,0,4.3,400992783,2018-01-08
+337,2,"8:23",503,503,"Tiwian Kendley missed Jumper.",77,80,-3,0.448825565820439,"Morgan State","Savannah State",3,3,1,0,4.3,400992783,2018-01-08
+338,2,"8:23",503,503,"Martez Cameron Offensive Rebound.",77,80,-3,0.448825565820439,"Morgan State","Savannah State",3,3,1,0,4.3,400992783,2018-01-08
+339,2,"8:19",499,499,"Tiwian Kendley made Layup.",79,80,-1,0.581771898220799,"Morgan State","Savannah State",3,3,0,0,4.3,400992783,2018-01-08
+340,2,"7:59",479,479,"Jahir Cabeza made Three Point Jumper. Assisted by Zach Sellers.",79,83,-4,0.347728878209258,"Morgan State","Savannah State",3,3,0,0,4.3,400992783,2018-01-08
+341,2,"7:57",477,477,"Savannah State  Timeout",79,83,-4,0.347728878209258,"Morgan State","Savannah State",2,3,1,0,4.3,400992783,2018-01-08
+342,2,"7:46",466,466,"LaPri McCray-Pace Turnover.",79,83,-4,0.350856833962913,"Morgan State","Savannah State",2,3,1,0,4.3,400992783,2018-01-08
+343,2,"7:46",466,466,"Foul on LaPri McCray-Pace.",79,83,-4,0.350856833962913,"Morgan State","Savannah State",2,3,1,0,4.3,400992783,2018-01-08
+344,2,"7:44",464,464,"Jahir Cabeza missed Three Point Jumper.",79,83,-4,0.350856833962913,"Morgan State","Savannah State",2,3,1,0,4.3,400992783,2018-01-08
+345,2,"7:44",464,464,"Azariah Sykes Defensive Rebound.",79,83,-4,0.350856833962913,"Morgan State","Savannah State",2,3,1,0,4.3,400992783,2018-01-08
+346,2,"7:36",456,456,"Stanley Davis missed Layup.",79,83,-4,0.308050611822129,"Morgan State","Savannah State",2,3,1,0,4.3,400992783,2018-01-08
+347,2,"7:36",456,456,"Alante Fenner Defensive Rebound.",79,83,-4,0.308050611822129,"Morgan State","Savannah State",2,3,1,0,4.3,400992783,2018-01-08
+348,2,"7:36",456,456,"Alante Fenner missed Three Point Jumper.",79,83,-4,0.308050611822129,"Morgan State","Savannah State",2,3,1,0,4.3,400992783,2018-01-08
+349,2,"7:36",456,456,"Jahir Cabeza Offensive Rebound.",79,83,-4,0.308050611822129,"Morgan State","Savannah State",2,3,1,0,4.3,400992783,2018-01-08
+350,2,"7:33",453,453,"Jahir Cabeza Turnover.",79,83,-4,0.308050611822129,"Morgan State","Savannah State",2,3,1,0,4.3,400992783,2018-01-08
+351,2,"7:30",450,450,"Tiwian Kendley Steal.",79,83,-4,0.308050611822129,"Morgan State","Savannah State",2,3,1,0,4.3,400992783,2018-01-08
+352,2,"7:04",424,424,"Phillip Carr missed Jumper.",79,83,-4,0.320873034369365,"Morgan State","Savannah State",2,3,1,0,4.3,400992783,2018-01-08
+353,2,"7:04",424,424,"Javaris Jenkins Defensive Rebound.",79,83,-4,0.320873034369365,"Morgan State","Savannah State",2,3,1,0,4.3,400992783,2018-01-08
+354,2,"6:57",417,417,"Foul on Azariah Sykes.",79,83,-4,0.33119802706649,"Morgan State","Savannah State",2,3,1,0,4.3,400992783,2018-01-08
+355,2,"6:57",417,417,"Alante Fenner made Free Throw.",79,84,-5,0.268133827465931,"Morgan State","Savannah State",2,3,1,0,4.3,400992783,2018-01-08
+356,2,"6:57",417,417,"Alante Fenner missed Free Throw.",79,84,-5,0.268133827465931,"Morgan State","Savannah State",2,3,1,0,4.3,400992783,2018-01-08
+357,2,"6:57",417,417,"David Syfax Defensive Rebound.",79,84,-5,0.268133827465931,"Morgan State","Savannah State",2,3,1,0,4.3,400992783,2018-01-08
+358,2,"6:38",398,398,"Stanley Davis made Three Point Jumper. Assisted by Phillip Carr.",82,84,-2,0.47827061612859,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+359,2,"6:12",372,372,"Dexter McClanahan missed Three Point Jumper.",82,84,-2,0.457611194103931,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+360,2,"6:12",372,372,"David Syfax Defensive Rebound.",82,84,-2,0.457611194103931,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+361,2,"5:51",351,351,"Foul on Zach Sellers.",82,84,-2,0.419248927748215,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+362,2,"5:51",351,351,"Tiwian Kendley made Free Throw.",83,84,-1,0.50360332886138,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+363,2,"5:51",351,351,"Tiwian Kendley missed Free Throw.",83,84,-1,0.50360332886138,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+364,2,"5:51",351,351,"Javaris Jenkins Defensive Rebound.",83,84,-1,0.50360332886138,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+365,2,"5:31",331,331,"Zach Sellers made Jumper.",83,86,-3,0.36608314562878,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+366,2,"5:19",319,319,"Martez Cameron missed Layup.",83,86,-3,0.343678646854573,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+367,2,"5:19",319,319,"Javaris Jenkins Block.",83,86,-3,0.343678646854573,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+368,2,"5:17",317,317,"Javaris Jenkins Defensive Rebound.",83,86,-3,0.343678646854573,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+369,2,"5:11",311,311,"Ty'lik Evans missed Three Point Jumper.",83,86,-3,0.343678646854573,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+370,2,"5:11",311,311,"Alante Fenner Offensive Rebound.",83,86,-3,0.343678646854573,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+371,2,"5:08",308,308,"Alante Fenner missed Layup.",83,86,-3,0.359069083364893,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+372,2,"5:08",308,308,"Phillip Carr Defensive Rebound.",83,86,-3,0.359069083364893,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+373,2,"4:59",299,299,"Tiwian Kendley missed Layup.",83,86,-3,0.366777725825079,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+374,2,"4:59",299,299,"Stanley Davis Offensive Rebound.",83,86,-3,0.366777725825079,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+375,2,"4:56",296,296,"Stanley Davis missed Layup.",83,86,-3,0.366777725825079,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+376,2,"4:56",296,296,"Dexter McClanahan Defensive Rebound.",83,86,-3,0.366777725825079,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+377,2,"4:52",292,292,"Dexter McClanahan Turnover.",83,86,-3,0.366777725825079,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+378,2,"4:35",275,275,"Tiwian Kendley missed Three Point Jumper.",83,86,-3,0.314005205702013,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+379,2,"4:35",275,275,"Alante Fenner Defensive Rebound.",83,86,-3,0.314005205702013,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+380,2,"4:18",258,258,"Foul on David Syfax.",83,86,-3,0.306191767550421,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+381,2,"4:18",258,258,"Alante Fenner made Free Throw.",83,87,-4,0.224548073353414,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+382,2,"4:18",258,258,"Alante Fenner missed Free Throw.",83,87,-4,0.224548073353414,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+383,2,"4:18",258,258,"Azariah Sykes Defensive Rebound.",83,87,-4,0.224548073353414,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+384,2,"4:17",257,257,"Martez Cameron Turnover.",83,87,-4,0.224548073353414,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+385,2,"4:15",255,255,"Alante Fenner Steal.",83,87,-4,0.224548073353414,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+386,2,"4:12",252,252,"Foul on Tiwian Kendley.",83,87,-4,0.224548073353414,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+387,2,"4:12",252,252,"Ralueke Orizu made Free Throw.",83,88,-5,0.159664250328023,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+388,2,"4:12",252,252,"Ralueke Orizu missed Free Throw.",83,88,-5,0.159664250328023,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+389,2,"4:12",252,252,"Stanley Davis Defensive Rebound.",83,88,-5,0.159664250328023,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+390,2,"4:01",241,241,"Stanley Davis missed Layup.",83,88,-5,0.164385724295264,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+391,2,"4:01",241,241,"Ralueke Orizu Block.",83,88,-5,0.164385724295264,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+392,2,"3:59",239,239,"LaPri McCray-Pace Offensive Rebound.",83,88,-5,0.167727962485021,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+393,2,"3:44",224,224,"Foul on Ralueke Orizu.",83,88,-5,0.16858257936104,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+394,2,"3:44",224,224,"Official TV Timeout",83,88,-5,0.16858257936104,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+395,2,"3:44",224,224,"LaPri McCray-Pace made Free Throw.",84,88,-4,0.2364498657675,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+396,2,"3:44",224,224,"LaPri McCray-Pace made Free Throw.",85,88,-3,0.321087429591473,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+397,2,"3:12",192,192,"Zach Sellers Turnover.",85,88,-3,0.249503244548022,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+398,2,"2:47",167,167,"Martez Cameron missed Jumper.",85,88,-3,0.269504075387714,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+399,2,"2:47",167,167,"Jahir Cabeza Defensive Rebound.",85,88,-3,0.269504075387714,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+400,2,"2:28",148,148,"Jahir Cabeza missed Three Point Jumper.",85,88,-3,0.228501708704492,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+401,2,"2:28",148,148,"Morgan State Defensive Rebound.",85,88,-3,0.228501708704492,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+402,2,"2:01",121,121,"Tiwian Kendley made Layup.",87,88,-1,0.425976701996744,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+403,2,"1:36",96,96,"Dexter McClanahan Turnover.",87,88,-1,0.410047391030625,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+404,2,"1:07",67,67,"Stanley Davis missed Three Point Jumper.",87,88,-1,0.338075824390111,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+405,2,"1:07",67,67,"Morgan State Offensive Rebound.",87,88,-1,0.338075824390111,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+406,2,"0:55",55,55,"Stanley Davis missed Jumper.",87,88,-1,0.390412187927978,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+407,2,"0:55",55,55,"Zach Sellers Defensive Rebound.",87,88,-1,0.390412187927978,"Morgan State","Savannah State",2,3,0,0,4.3,400992783,2018-01-08
+408,2,"0:28",28,28,"Zach Sellers Turnover.",87,88,-1,0.320508239147055,"Morgan State","Savannah State",2,3,0,1,4.3,400992783,2018-01-08
+409,2,"0:28",28,28,"Morgan State  Timeout",87,88,-1,0.320508239147055,"Morgan State","Savannah State",2,2,0,1,4.3,400992783,2018-01-08
+410,2,"0:15",15,15,"Elijah Staley Turnover.",87,88,-1,0.137316975225234,"Morgan State","Savannah State",2,2,0,1,4.3,400992783,2018-01-08
+411,2,"0:15",15,15,"Foul on Phillip Carr.",87,88,-1,0.137316975225234,"Morgan State","Savannah State",2,2,0,1,4.3,400992783,2018-01-08
+412,2,"0:15",15,15,"Jahir Cabeza missed Free Throw.",87,88,-1,0.137316975225234,"Morgan State","Savannah State",2,2,0,1,4.3,400992783,2018-01-08
+413,2,"0:15",15,15,"Phillip Carr Defensive Rebound.",87,88,-1,0.137316975225234,"Morgan State","Savannah State",2,2,0,1,4.3,400992783,2018-01-08
+414,2,"0:10",10,10,"Tiwian Kendley made Layup.",89,88,1,0.898878682890973,"Morgan State","Savannah State",2,2,0,1,4.3,400992783,2018-01-08
+415,2,"0:03",3,3,"Savannah State  Timeout",89,88,1,0.836020451282528,"Morgan State","Savannah State",1,2,1,1,4.3,400992783,2018-01-08
+416,2,"0:00",0,0,"Dexter McClanahan missed Three Point Jumper.",89,88,1,0.999999996511542,"Morgan State","Savannah State",1,2,1,1,4.3,400992783,2018-01-08
+417,2,"0:00",0,0,"Morgan State Defensive Rebound.",89,88,1,0.999999996511542,"Morgan State","Savannah State",1,2,1,1,4.3,400992783,2018-01-08
+418,2,"0:00",0,0,"End of Game",89,88,1,0.999999996511542,"Morgan State","Savannah State",1,2,1,1,4.3,400992783,2018-01-08

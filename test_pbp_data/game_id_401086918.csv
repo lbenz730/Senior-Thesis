@@ -1,0 +1,378 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","play_length","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2700,"PLAY",0,0,0,20,0.621153323918773,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+2,1,"19:40",2380,2680,"Jacob Calloway missed Layup.",0,0,0,0,0.62019663803074,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+3,1,"19:40",2380,2680,"Cameron Shelton Defensive Rebound.",0,0,0,20,0.62019663803074,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+4,1,"19:20",2360,2660,"Ted McCree Turnover.",0,0,0,1,0.611682778239227,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+5,1,"19:19",2359,2659,"Cameron Oluyitan Steal.",0,0,0,6,0.633302454879874,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+6,1,"19:13",2353,2653,"Cameron Oluyitan missed Layup.",0,0,0,0,0.633302454879874,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+7,1,"19:13",2353,2653,"Luke Avdalovic Defensive Rebound.",0,0,0,9,0.633302454879874,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+8,1,"19:04",2344,2644,"Foul on Cameron Oluyitan.",0,0,0,0,0.614471659380145,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+9,1,"19:04",2344,2644,"Jonathan Andre made Free Throw.",1,0,1,0,0.635510933025751,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+10,1,"19:04",2344,2644,"Jonathan Andre made Free Throw.",2,0,2,25,0.656044734898308,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+11,1,"18:39",2319,2619,"Brandon Better missed Three Point Jumper.",2,0,2,0,0.652820587910026,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+12,1,"18:39",2319,2619,"Luke Avdalovic Defensive Rebound.",2,0,2,15,0.652820587910026,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+13,1,"18:24",2304,2604,"Jonathan Andre missed Jumper.",2,0,2,0,0.655872013461124,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+14,1,"18:24",2304,2604,"Jacob Calloway Defensive Rebound.",2,0,2,21,0.655872013461124,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+15,1,"18:03",2283,2583,"Brandon Better missed Layup.",2,0,2,0,0.660415684384249,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+16,1,"18:03",2283,2583,"Jonathan Andre Defensive Rebound.",2,0,2,9,0.660415684384249,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+17,1,"17:54",2274,2574,"Ted McCree missed Jumper.",2,0,2,0,0.669441992267361,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+18,1,"17:54",2274,2574,"Dre Marin Defensive Rebound.",2,0,2,8,0.669441992267361,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+19,1,"17:46",2266,2566,"Brandon Better made Three Point Jumper. Assisted by Dre Marin.",2,3,-1,24,0.5943361755078,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+20,1,"17:22",2242,2542,"Ted McCree made Three Point Jumper. Assisted by Luke Avdalovic.",5,3,2,26,0.665063245604368,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+21,1,"16:56",2216,2516,"Andre Adams made Jumper.",5,5,0,12,0.623714116741682,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+22,1,"16:44",2204,2504,"Jonathan Andre missed Jumper.",5,5,0,0,0.618825625812303,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+23,1,"16:44",2204,2504,"Dre Marin Defensive Rebound.",5,5,0,11,0.618825625812303,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+24,1,"16:33",2193,2493,"Jacob Calloway Turnover.",5,5,0,18,0.629093043049063,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+25,1,"16:15",2175,2475,"Nik Mains missed Layup.",5,5,0,0,0.610381963960857,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+26,1,"16:15",2175,2475,"Andre Adams Defensive Rebound.",5,5,0,13,0.610381963960857,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+27,1,"16:02",2162,2462,"Andre Adams missed Jumper.",5,5,0,0,0.613869972473547,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+28,1,"16:02",2162,2462,"Ted McCree Defensive Rebound.",5,5,0,12,0.613869972473547,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+29,1,"15:50",2150,2450,"Ted McCree missed Three Point Jumper.",5,5,0,0,0.605472969743532,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+30,1,"15:50",2150,2450,"Andre Adams Defensive Rebound.",5,5,0,7,0.605472969743532,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+31,1,"15:43",2143,2443,"Foul on Brooks DeBisschop.",5,5,0,0,0.622638622600517,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+32,1,"15:43",2143,2443,"Official TV Timeout",5,5,0,8,0.622638622600517,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+33,1,"15:35",2135,2435,"Cameron Oluyitan missed Jumper.",5,5,0,0,0.612602202954352,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+34,1,"15:35",2135,2435,"Luke Avdalovic Defensive Rebound.",5,5,0,11,0.612602202954352,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+35,1,"15:24",2124,2424,"Nik Mains missed Three Point Jumper.",5,5,0,0,0.608076057640715,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+36,1,"15:24",2124,2424,"Harrison Butler missed Three Point Jumper.",5,5,0,0,0.608076057640715,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+37,1,"15:24",2124,2424,"Southern Utah Offensive Rebound.",5,5,0,0,0.608076057640715,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+38,1,"15:24",2124,2424,"Foul on Harrison Butler.",5,5,0,0,0.608076057640715,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+39,1,"15:24",2124,2424,"Foul on Isaiah Thomas.",5,5,0,6,0.608076057640715,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+40,1,"15:18",2118,2418,"Luke Avdalovic missed Jumper.",5,5,0,0,0.611628001808735,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+41,1,"15:18",2118,2418,"Jacob Calloway Defensive Rebound.",5,5,0,16,0.611628001808735,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+42,1,"15:02",2102,2402,"Harrison Butler Turnover.",5,5,0,1,0.609070701079487,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+43,1,"15:01",2101,2401,"Nik Mains Steal.",5,5,0,3,0.609070701079487,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+44,1,"14:58",2098,2398,"Carlos Hines missed Layup.",5,5,0,0,0.608607014721797,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+45,1,"14:58",2098,2398,"Northern Arizona Offensive Rebound.",5,5,0,22,0.608607014721797,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+46,1,"14:36",2076,2376,"Carlos Hines made Jumper.",7,5,2,20,0.657541640020867,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+47,1,"14:16",2056,2356,"Jacob Calloway missed Layup.",7,5,2,0,0.660935321385533,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+48,1,"14:16",2056,2356,"Nik Mains Defensive Rebound.",7,5,2,8,0.660935321385533,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+49,1,"14:08",2048,2348,"Carlos Hines missed Three Point Jumper.",7,5,2,0,0.649758352325558,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+50,1,"14:08",2048,2348,"Northern Arizona Offensive Rebound.",7,5,2,5,0.649758352325558,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+51,1,"14:03",2043,2343,"Ted McCree Turnover.",7,5,2,11,0.649758352325558,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+52,1,"13:52",2032,2332,"Cameron Oluyitan made Layup. Assisted by Harrison Butler.",7,7,0,25,0.62265880469242,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+53,1,"13:27",2007,2307,"Ted McCree Turnover.",7,7,0,2,0.605719452908085,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+54,1,"13:25",2005,2305,"Harrison Butler Steal.",7,7,0,13,0.605719452908085,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+55,1,"13:12",1992,2292,"Cameron Oluyitan made Three Point Jumper. Assisted by Dre Marin.",7,10,-3,28,0.515083221748296,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+56,1,"12:44",1964,2264,"Ted McCree missed Three Point Jumper.",7,10,-3,0,0.531284846380944,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+57,1,"12:44",1964,2264,"Cameron Shelton Offensive Rebound.",7,10,-3,2,0.531284846380944,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+58,1,"12:42",1962,2262,"Nik Mains made Layup. Assisted by Cameron Shelton.",9,10,-1,26,0.583525576034217,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+59,1,"12:16",1936,2236,"Dre Marin missed Three Point Jumper.",9,10,-1,0,0.567134484490724,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+60,1,"12:16",1936,2236,"Isaiah Thomas Defensive Rebound.",9,10,-1,7,0.567134484490724,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+61,1,"12:09",1929,2229,"Carlos Hines missed Jumper.",9,10,-1,0,0.570787691504404,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+62,1,"12:09",1929,2229,"Harrison Butler Defensive Rebound.",9,10,-1,14,0.570787691504404,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+63,1,"11:55",1915,2215,"Foul on Nik Mains.",9,10,-1,0,0.595265266749968,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+64,1,"11:55",1915,2215,"Official TV Timeout",9,10,-1,0,0.595265266749968,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+65,1,"11:55",1915,2215,"Maizen Fausett made Free Throw.",9,11,-2,0,0.563857623879757,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+66,1,"11:55",1915,2215,"Maizen Fausett missed Free Throw.",9,11,-2,0,0.563857623879757,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+67,1,"11:55",1915,2215,"Brooks DeBisschop Defensive Rebound.",9,11,-2,13,0.563857623879757,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+68,1,"11:42",1902,2202,"Jonathan Andre missed Jumper.",9,11,-2,0,0.549724108485382,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+69,1,"11:42",1902,2202,"Maizen Fausett Defensive Rebound.",9,11,-2,28,0.549724108485382,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+70,1,"11:14",1874,2174,"Maizen Fausett made Layup. Assisted by Andre Adams.",9,13,-4,16,0.482582472972912,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+71,1,"10:58",1858,2158,"Ted McCree missed Three Point Jumper.",9,13,-4,0,0.486862446406222,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+72,1,"10:58",1858,2158,"Andre Adams Defensive Rebound.",9,13,-4,15,0.486862446406222,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+73,1,"10:43",1843,2143,"Brandon Better missed Three Point Jumper.",9,13,-4,0,0.467275027159264,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+74,1,"10:43",1843,2143,"Andre Adams Offensive Rebound.",9,13,-4,6,0.467275027159264,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+75,1,"10:37",1837,2137,"Andre Adams made Layup. Assisted by Maizen Fausett.",9,15,-6,0,0.421516651535885,"Northern Arizona","Southern Utah",4,4,1,0,2,"401086918",2019-01-28
+76,1,"10:37",1837,2137,"Northern Arizona  Timeout",9,15,-6,19,0.421516651535885,"Northern Arizona","Southern Utah",3,4,1,0,2,"401086918",2019-01-28
+77,1,"10:18",1818,2118,"Cameron Shelton missed Layup.",9,15,-6,0,0.40437101722258,"Northern Arizona","Southern Utah",3,4,1,0,2,"401086918",2019-01-28
+78,1,"10:18",1818,2118,"Maizen Fausett Block.",9,15,-6,0,0.40437101722258,"Northern Arizona","Southern Utah",3,4,1,0,2,"401086918",2019-01-28
+79,1,"10:18",1818,2118,"Northern Arizona Offensive Rebound.",9,15,-6,12,0.40437101722258,"Northern Arizona","Southern Utah",3,4,1,0,2,"401086918",2019-01-28
+80,1,"10:06",1806,2106,"Aziz Seck made Layup. Assisted by Cameron Shelton.",11,15,-4,19,0.47508137282877,"Northern Arizona","Southern Utah",3,4,1,0,2,"401086918",2019-01-28
+81,1,"9:47",1787,2087,"Foul on Andre Adams.",11,15,-4,17,0.448345435684228,"Northern Arizona","Southern Utah",3,4,1,0,2,"401086918",2019-01-28
+82,1,"9:30",1770,2070,"Jonathan Andre made Three Point Jumper. Assisted by Carlos Hines.",14,15,-1,16,0.561117627782664,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+83,1,"9:14",1754,2054,"Brandon Better made Three Point Jumper. Assisted by Andre Adams.",14,18,-4,10,0.44264107334983,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+84,1,"9:04",1744,2044,"Carlos Hines missed Three Point Jumper.",14,18,-4,0,0.490141624817798,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+85,1,"9:04",1744,2044,"Andre Adams Defensive Rebound.",14,18,-4,6,0.490141624817798,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+86,1,"8:58",1738,2038,"Andre Adams Turnover.",14,18,-4,1,0.469419077787454,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+87,1,"8:57",1737,2037,"Jonathan Andre Steal.",14,18,-4,10,0.469419077787454,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+88,1,"8:47",1727,2027,"Jonathan Andre made Three Point Jumper. Assisted by Aziz Seck.",17,18,-1,23,0.578864761828125,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+89,1,"8:24",1704,2004,"Foul on Aziz Seck.",17,18,-1,0,0.562643258017297,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+90,1,"8:24",1704,2004,"Cameron Oluyitan missed Free Throw.",17,18,-1,0,0.562643258017297,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+91,1,"8:24",1704,2004,"Southern Utah Deadball Team Rebound.",17,18,-1,0,0.562643258017297,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+92,1,"8:24",1704,2004,"Cameron Oluyitan made Free Throw.",17,19,-2,14,0.531009816124527,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+93,1,"8:10",1690,1990,"Foul on Dre Marin.",17,19,-2,19,0.541517768423035,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+94,1,"7:51",1671,1971,"Davon Bolton made Jumper.",19,19,0,22,0.606596944899777,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+95,1,"7:29",1649,1949,"Brandon Better made Three Point Jumper.",19,22,-3,18,0.507220070191453,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+96,1,"7:11",1631,1931,"Luke Avdalovic made Three Point Jumper. Assisted by Carlos Hines.",22,22,0,0,0.612826466992238,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+97,1,"7:11",1631,1931,"Foul on Jacob Calloway.",22,22,0,0,0.612826466992238,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+98,1,"7:11",1631,1931,"Official TV Timeout",22,22,0,3,0.612826466992238,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+99,1,"7:08",1628,1928,"Luke Avdalovic made Free Throw.",23,22,1,14,0.630579801443284,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+100,1,"6:54",1614,1914,"Foul on Davon Bolton.",23,22,1,11,0.618870154747605,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+101,1,"6:43",1603,1903,"Harrison Butler missed Layup.",23,22,1,0,0.627589318666076,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+102,1,"6:43",1603,1903,"Luke Avdalovic Defensive Rebound.",23,22,1,5,0.627589318666076,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+103,1,"6:38",1598,1898,"Foul on Dre Marin.",23,22,1,9,0.645259381829987,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+104,1,"6:29",1589,1889,"Luke Avdalovic missed Jumper.",23,22,1,0,0.62160838023893,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+105,1,"6:29",1589,1889,"Harrison Butler Defensive Rebound.",23,22,1,8,0.62160838023893,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+106,1,"6:21",1581,1881,"Brandon Better Turnover.",23,22,1,1,0.62160838023893,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+107,1,"6:20",1580,1880,"Aziz Seck Steal.",23,22,1,2,0.62160838023893,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+108,1,"6:18",1578,1878,"Carlos Hines made Dunk. Assisted by Aziz Seck.",25,22,3,25,0.710079812532284,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+109,1,"5:53",1553,1853,"Foul on Luke Avdalovic.",25,22,3,0,0.689689466194819,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+110,1,"5:53",1553,1853,"Harrison Butler missed Free Throw.",25,22,3,0,0.689689466194819,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+111,1,"5:53",1553,1853,"Southern Utah Deadball Team Rebound.",25,22,3,0,0.689689466194819,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+112,1,"5:53",1553,1853,"Harrison Butler made Free Throw.",25,23,2,18,0.658157418546395,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+113,1,"5:35",1535,1835,"Davon Bolton made Three Point Jumper. Assisted by Aziz Seck.",28,23,5,11,0.754438344532881,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+114,1,"5:24",1524,1824,"Foul on Aziz Seck.",28,23,5,0,0.7532994432263,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+115,1,"5:24",1524,1824,"Harrison Butler made Free Throw.",28,24,4,0,0.72592033717687,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+116,1,"5:24",1524,1824,"Harrison Butler made Free Throw.",28,25,3,11,0.696725975480382,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+117,1,"5:13",1513,1813,"Carlos Hines made Jumper. Assisted by Brooks DeBisschop.",30,25,5,19,0.773419463358381,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+118,1,"4:54",1494,1794,"Maizen Fausett made Three Point Jumper. Assisted by Dre Marin.",30,28,2,8,0.681538990071303,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+119,1,"4:46",1486,1786,"Carlos Hines missed Three Point Jumper.",30,28,2,0,0.66053392036071,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+120,1,"4:46",1486,1786,"Harrison Butler Defensive Rebound.",30,28,2,12,0.66053392036071,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+121,1,"4:34",1474,1774,"Cameron Oluyitan made Layup. Assisted by Dre Marin.",30,30,0,24,0.602140457474201,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+122,1,"4:10",1450,1750,"Davon Bolton missed Three Point Jumper.",30,30,0,0,0.587794436018781,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+123,1,"4:10",1450,1750,"Dre Marin Defensive Rebound.",30,30,0,9,0.587794436018781,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+124,1,"4:01",1441,1741,"Cameron Oluyitan missed Three Point Jumper.",30,30,0,0,0.620690974316973,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+125,1,"4:01",1441,1741,"Brooks DeBisschop Defensive Rebound.",30,30,0,10,0.620690974316973,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+126,1,"3:51",1431,1731,"Jonathan Andre missed Layup.",30,30,0,0,0.606868923488554,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+127,1,"3:51",1431,1731,"Harrison Butler Block.",30,30,0,1,0.606868923488554,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+128,1,"3:50",1430,1730,"Maizen Fausett Defensive Rebound.",30,30,0,15,0.606868923488554,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+129,1,"3:35",1415,1715,"Andre Adams made Layup. Assisted by Dre Marin.",30,32,-2,20,0.514346810673639,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+130,1,"3:15",1395,1695,"Luke Avdalovic missed Three Point Jumper.",30,32,-2,0,0.515133350049147,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+131,1,"3:15",1395,1695,"Cameron Oluyitan Defensive Rebound.",30,32,-2,19,0.515133350049147,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+132,1,"2:56",1376,1676,"Cameron Oluyitan missed Three Point Jumper.",30,32,-2,0,0.512855869778725,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+133,1,"2:56",1376,1676,"Jonathan Andre Defensive Rebound.",30,32,-2,9,0.512855869778725,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+134,1,"2:47",1367,1667,"Luke Avdalovic missed Layup.",30,32,-2,0,0.521769675325012,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+135,1,"2:47",1367,1667,"Maizen Fausett Defensive Rebound.",30,32,-2,10,0.521769675325012,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+136,1,"2:37",1357,1657,"Cameron Oluyitan missed Three Point Jumper.",30,32,-2,0,0.534671390391222,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+137,1,"2:37",1357,1657,"Carlos Hines Defensive Rebound.",30,32,-2,4,0.534671390391222,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+138,1,"2:33",1353,1653,"Carlos Hines made Layup.",32,32,0,17,0.610131738029809,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+139,1,"2:16",1336,1636,"Southern Utah  Timeout",32,32,0,0,0.581937698989215,"Northern Arizona","Southern Utah",3,3,0,1,2,"401086918",2019-01-28
+140,1,"2:16",1336,1636,"Official TV Timeout",32,32,0,13,0.581937698989215,"Northern Arizona","Southern Utah",3,3,0,1,2,"401086918",2019-01-28
+141,1,"2:03",1323,1623,"Jacob Calloway missed Three Point Jumper.",32,32,0,0,0.594857825844842,"Northern Arizona","Southern Utah",3,3,0,1,2,"401086918",2019-01-28
+142,1,"2:03",1323,1623,"Northern Arizona Defensive Rebound.",32,32,0,0,0.594857825844842,"Northern Arizona","Southern Utah",3,3,0,1,2,"401086918",2019-01-28
+143,1,"2:03",1323,1623,"Foul on Ivan Madunic.",32,32,0,3,0.594857825844842,"Northern Arizona","Southern Utah",3,3,0,1,2,"401086918",2019-01-28
+144,1,"2:00",1320,1620,"Nik Mains made Free Throw.",33,32,1,0,0.632205381400459,"Northern Arizona","Southern Utah",3,3,0,1,2,"401086918",2019-01-28
+145,1,"2:00",1320,1620,"Nik Mains made Free Throw.",34,32,2,7,0.668031420856661,"Northern Arizona","Southern Utah",3,3,0,1,2,"401086918",2019-01-28
+146,1,"1:53",1313,1613,"Kenton Eskridge made Layup.",34,34,0,18,0.611532972845716,"Northern Arizona","Southern Utah",3,3,0,1,2,"401086918",2019-01-28
+147,1,"1:35",1295,1595,"Brooks DeBisschop missed Jumper.",34,34,0,0,0.613341447689469,"Northern Arizona","Southern Utah",3,3,0,1,2,"401086918",2019-01-28
+148,1,"1:35",1295,1595,"Jacob Calloway Defensive Rebound.",34,34,0,25,0.613341447689469,"Northern Arizona","Southern Utah",3,3,0,1,2,"401086918",2019-01-28
+149,1,"1:10",1270,1570,"Jacob Calloway missed Jumper.",34,34,0,0,0.57908028497586,"Northern Arizona","Southern Utah",3,3,0,0,2,"401086918",2019-01-28
+150,1,"1:10",1270,1570,"Brooks DeBisschop Defensive Rebound.",34,34,0,6,0.57908028497586,"Northern Arizona","Southern Utah",3,3,0,0,2,"401086918",2019-01-28
+151,1,"1:04",1264,1564,"Foul on Kenton Eskridge.",34,34,0,1,0.61173695336037,"Northern Arizona","Southern Utah",3,3,0,0,2,"401086918",2019-01-28
+152,1,"1:03",1263,1563,"Cameron Shelton missed Free Throw.",34,34,0,0,0.61173695336037,"Northern Arizona","Southern Utah",3,3,0,0,2,"401086918",2019-01-28
+153,1,"1:03",1263,1563,"Northern Arizona Deadball Team Rebound.",34,34,0,0,0.61173695336037,"Northern Arizona","Southern Utah",3,3,0,0,2,"401086918",2019-01-28
+154,1,"1:03",1263,1563,"Cameron Shelton made Free Throw.",35,34,1,18,0.648582021426802,"Northern Arizona","Southern Utah",3,3,0,0,2,"401086918",2019-01-28
+155,1,"0:45",1245,1545,"Ivan Madunic made Three Point Jumper. Assisted by Kenton Eskridge.",35,37,-2,19,0.518495987640036,"Northern Arizona","Southern Utah",3,3,0,0,2,"401086918",2019-01-28
+156,1,"0:26",1226,1526,"Cameron Shelton missed Layup.",35,37,-2,0,0.515649492999611,"Northern Arizona","Southern Utah",3,3,0,0,2,"401086918",2019-01-28
+157,1,"0:26",1226,1526,"Brooks DeBisschop Offensive Rebound.",35,37,-2,3,0.515649492999611,"Northern Arizona","Southern Utah",3,3,0,0,2,"401086918",2019-01-28
+158,1,"0:23",1223,1523,"Brooks DeBisschop missed Layup.",35,37,-2,0,0.515649492999611,"Northern Arizona","Southern Utah",3,3,0,0,2,"401086918",2019-01-28
+159,1,"0:23",1223,1523,"Nik Mains Offensive Rebound.",35,37,-2,4,0.515649492999611,"Northern Arizona","Southern Utah",3,3,0,0,2,"401086918",2019-01-28
+160,1,"0:19",1219,1519,"Carlos Hines Turnover.",35,37,-2,2,0.504601273741639,"Northern Arizona","Southern Utah",3,3,0,0,2,"401086918",2019-01-28
+161,1,"0:17",1217,1517,"Cameron Oluyitan Steal.",35,37,-2,4,0.504601273741639,"Northern Arizona","Southern Utah",3,3,0,0,2,"401086918",2019-01-28
+162,1,"0:13",1213,1513,"Cameron Oluyitan made Dunk. Assisted by Brandon Better.",35,39,-4,11,0.422774615856911,"Northern Arizona","Southern Utah",3,3,0,0,2,"401086918",2019-01-28
+163,1,"0:02",1202,1502,"Carlos Hines made Layup.",37,39,-2,2,0.513863546013333,"Northern Arizona","Southern Utah",3,3,0,0,2,"401086918",2019-01-28
+164,1,"0:00",1200,1500,"End of 1st half",37,39,-2,0,0.513863546013333,"Northern Arizona","Southern Utah",3,3,0,0,2,"401086918",2019-01-28
+165,2,"20:00",1200,1500,"PLAY",37,39,-2,22,0.513863546013333,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+166,2,"19:38",1178,1478,"Cameron Oluyitan missed Layup.",37,39,-2,0,0.509462066029414,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+167,2,"19:38",1178,1478,"Brooks DeBisschop Defensive Rebound.",37,39,-2,17,0.509462066029414,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+168,2,"19:21",1161,1461,"Cameron Shelton missed Layup.",37,39,-2,0,0.493543168267807,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+169,2,"19:21",1161,1461,"Cameron Shelton Offensive Rebound.",37,39,-2,4,0.493543168267807,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+170,2,"19:17",1157,1457,"Ted McCree made Three Point Jumper. Assisted by Brooks DeBisschop.",40,39,1,22,0.631894150035675,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+171,2,"18:55",1135,1435,"Jacob Calloway missed Jumper.",40,39,1,0,0.63649672606069,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+172,2,"18:55",1135,1435,"Ted McCree Defensive Rebound.",40,39,1,17,0.63649672606069,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+173,2,"18:38",1118,1418,"Jonathan Andre missed Layup.",40,39,1,0,0.635380041690588,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+174,2,"18:38",1118,1418,"Brooks DeBisschop Offensive Rebound.",40,39,1,23,0.635380041690588,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+175,2,"18:15",1095,1395,"Ted McCree made Three Point Jumper.",43,39,4,19,0.748665432621656,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+176,2,"17:56",1076,1376,"Foul on Brooks DeBisschop.",43,39,4,13,0.745343996394842,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+177,2,"17:43",1063,1363,"Brandon Better made Three Point Jumper. Assisted by Cameron Oluyitan.",43,42,1,21,0.644385741836149,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+178,2,"17:22",1042,1342,"Luke Avdalovic missed Three Point Jumper.",43,42,1,0,0.647000456407424,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+179,2,"17:22",1042,1342,"Brandon Better Defensive Rebound.",43,42,1,5,0.647000456407424,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+180,2,"17:17",1037,1337,"Cameron Oluyitan missed Three Point Jumper.",43,42,1,0,0.624863830359382,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+181,2,"17:17",1037,1337,"Brooks DeBisschop Defensive Rebound.",43,42,1,7,0.624863830359382,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+182,2,"17:10",1030,1330,"Jonathan Andre made Layup. Assisted by Brooks DeBisschop.",45,42,3,22,0.701263840017059,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+183,2,"16:48",1008,1308,"Maizen Fausett missed Three Point Jumper.",45,42,3,0,0.700063462466069,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+184,2,"16:48",1008,1308,"Jonathan Andre Defensive Rebound.",45,42,3,8,0.700063462466069,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+185,2,"16:40",1000,1300,"Jonathan Andre made Layup.",47,42,5,31,0.772062138819496,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+186,2,"16:09",969,1269,"Andre Adams made Layup.",47,44,3,24,0.704178602342754,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+187,2,"15:45",945,1245,"Foul on Cameron Oluyitan.",47,44,3,0,0.731081438116172,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+188,2,"15:45",945,1245,"Official TV Timeout",47,44,3,15,0.731081438116172,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+189,2,"15:30",930,1230,"Carlos Hines Turnover.",47,44,3,2,0.71356748348631,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+190,2,"15:28",928,1228,"Dre Marin Steal.",47,44,3,3,0.695484712430859,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+191,2,"15:25",925,1225,"Dre Marin Turnover.",47,44,3,13,0.695484712430859,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+192,2,"15:12",912,1212,"Foul on Cameron Oluyitan.",47,44,3,0,0.717977877629038,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+193,2,"15:12",912,1212,"Luke Avdalovic made Free Throw.",48,44,4,0,0.755900568876864,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+194,2,"15:12",912,1212,"Luke Avdalovic made Free Throw.",49,44,5,10,0.790213887795955,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+195,2,"15:02",902,1202,"Maizen Fausett made Layup.",49,46,3,12,0.712394680615409,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+196,2,"14:50",890,1190,"Jonathan Andre missed Three Point Jumper.",49,46,3,0,0.723612757845115,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+197,2,"14:50",890,1190,"Brandon Better Defensive Rebound.",49,46,3,9,0.723612757845115,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+198,2,"14:41",881,1181,"Brandon Better missed Three Point Jumper.",49,46,3,0,0.696353777221112,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+199,2,"14:41",881,1181,"Jonathan Andre Defensive Rebound.",49,46,3,7,0.696353777221112,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+200,2,"14:34",874,1174,"Carlos Hines missed Layup.",49,46,3,0,0.718211835779167,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+201,2,"14:34",874,1174,"Maizen Fausett Defensive Rebound.",49,46,3,16,0.718211835779167,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+202,2,"14:18",858,1158,"Andre Adams made Layup.",49,48,1,19,0.645769975392391,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+203,2,"13:59",839,1139,"Ted McCree made Jumper.",51,48,3,24,0.725236331926186,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+204,2,"13:35",815,1115,"Brandon Better missed Three Point Jumper.",51,48,3,0,0.704020675178492,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+205,2,"13:35",815,1115,"Luke Avdalovic Defensive Rebound.",51,48,3,7,0.704020675178492,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+206,2,"13:28",808,1108,"Carlos Hines missed Jumper.",51,48,3,0,0.733292283190355,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+207,2,"13:28",808,1108,"Harrison Butler Defensive Rebound.",51,48,3,7,0.733292283190355,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+208,2,"13:21",801,1101,"Foul on Carlos Hines.",51,48,3,0,0.733292283190355,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+209,2,"13:21",801,1101,"Harrison Butler made Free Throw.",51,49,2,0,0.691712081415324,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+210,2,"13:21",801,1101,"Harrison Butler missed Free Throw.",51,49,2,0,0.691712081415324,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+211,2,"13:21",801,1101,"Isaiah Thomas Defensive Rebound.",51,49,2,21,0.691712081415324,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+212,2,"13:00",780,1080,"Isaiah Thomas missed Layup.",51,49,2,0,0.675346922227717,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+213,2,"13:00",780,1080,"Jacob Calloway Defensive Rebound.",51,49,2,13,0.675346922227717,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+214,2,"12:47",767,1067,"Dre Marin Turnover.",51,49,2,2,0.69907532954013,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+215,2,"12:45",765,1065,"Carlos Hines Steal.",51,49,2,5,0.69907532954013,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+216,2,"12:40",760,1060,"Nik Mains Turnover.",51,49,2,14,0.69907532954013,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+217,2,"12:26",746,1046,"Andre Adams missed Layup.",51,49,2,0,0.674865236423789,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+218,2,"12:26",746,1046,"Carlos Hines Defensive Rebound.",51,49,2,4,0.674865236423789,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+219,2,"12:22",742,1042,"Foul on Kenton Eskridge.",51,49,2,17,0.674865236423789,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+220,2,"12:05",725,1025,"Brooks DeBisschop missed Layup.",51,49,2,0,0.698329506885409,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+221,2,"12:05",725,1025,"Jonathan Andre Offensive Rebound.",51,49,2,0,0.698329506885409,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+222,2,"12:05",725,1025,"Foul on Jacob Calloway.",51,49,2,9,0.698329506885409,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+223,2,"11:56",716,1016,"Davon Bolton missed Three Point Jumper.",51,49,2,0,0.662214671760041,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+224,2,"11:56",716,1016,"Harrison Butler Defensive Rebound.",51,49,2,16,0.662214671760041,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+225,2,"11:40",700,1000,"Ivan Madunic made Three Point Jumper. Assisted by Kenton Eskridge.",51,52,-1,16,0.536212299470027,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+226,2,"11:24",684,984,"Carlos Hines missed Layup.",51,52,-1,0,0.515569719334925,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+227,2,"11:24",684,984,"Kenton Eskridge Defensive Rebound.",51,52,-1,3,0.515569719334925,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+228,2,"11:21",681,981,"Foul on Cameron Shelton.",51,52,-1,0,0.515569719334925,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+229,2,"11:21",681,981,"Official TV Timeout",51,52,-1,16,0.515569719334925,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+230,2,"11:05",665,965,"Ivan Madunic missed Three Point Jumper.",51,52,-1,0,0.538508803224328,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+231,2,"11:05",665,965,"Luke Avdalovic Defensive Rebound.",51,52,-1,17,0.538508803224328,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+232,2,"10:48",648,948,"Aziz Seck Turnover.",51,52,-1,12,0.522868397660452,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+233,2,"10:36",636,936,"Brandon Better missed Three Point Jumper.",51,52,-1,0,0.509456347269913,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+234,2,"10:36",636,936,"Jonathan Andre Defensive Rebound.",51,52,-1,18,0.509456347269913,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+235,2,"10:18",618,918,"Luke Avdalovic made Three Point Jumper. Assisted by Carlos Hines.",54,52,2,24,0.680554721180473,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+236,2,"9:54",594,894,"Foul on Brandon Better.",54,52,2,8,0.686765148564635,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+237,2,"9:46",586,886,"Carlos Hines missed Three Point Jumper.",54,52,2,0,0.68119426227699,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+238,2,"9:46",586,886,"Harrison Butler Defensive Rebound.",54,52,2,7,0.68119426227699,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+239,2,"9:39",579,879,"Kenton Eskridge Turnover.",54,52,2,14,0.714099051063455,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+240,2,"9:25",565,865,"Jonathan Andre missed Layup.",54,52,2,0,0.706314081253158,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+241,2,"9:25",565,865,"Jonathan Andre Offensive Rebound.",54,52,2,2,0.706314081253158,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+242,2,"9:23",563,863,"Jonathan Andre missed Layup.",54,52,2,0,0.706314081253158,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+243,2,"9:23",563,863,"Ivan Madunic Defensive Rebound.",54,52,2,24,0.706314081253158,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+244,2,"8:59",539,839,"Foul on Luke Avdalovic.",54,52,2,6,0.72431720525625,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+245,2,"8:53",533,833,"Maizen Fausett missed Three Point Jumper.",54,52,2,0,0.72431720525625,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+246,2,"8:53",533,833,"Ted McCree Defensive Rebound.",54,52,2,9,0.72431720525625,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+247,2,"8:44",524,824,"Jonathan Andre missed Layup.",54,52,2,0,0.704560263895845,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+248,2,"8:44",524,824,"Maizen Fausett Defensive Rebound.",54,52,2,13,0.704560263895845,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+249,2,"8:31",511,811,"Foul on Luke Avdalovic.",54,52,2,3,0.691894933439443,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+250,2,"8:28",508,808,"Maizen Fausett missed Layup.",54,52,2,0,0.714112937075252,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+251,2,"8:28",508,808,"Aziz Seck Block.",54,52,2,2,0.714112937075252,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+252,2,"8:26",506,806,"Ted McCree Defensive Rebound.",54,52,2,4,0.714112937075252,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+253,2,"8:22",502,802,"Aziz Seck made Layup. Assisted by Carlos Hines.",56,52,4,21,0.811103558735376,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+254,2,"8:01",481,781,"Foul on Cameron Shelton.",56,52,4,17,0.799971819296557,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+255,2,"7:44",464,764,"Harrison Butler missed Three Point Jumper.",56,52,4,0,0.801038384839693,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+256,2,"7:44",464,764,"Cameron Shelton Defensive Rebound.",56,52,4,5,0.801038384839693,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+257,2,"7:39",459,759,"Official TV Timeout",56,52,4,11,0.818955785958667,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+258,2,"7:28",448,748,"Cameron Shelton made Layup.",58,52,6,0,0.873780722529265,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+259,2,"7:28",448,748,"Foul on Maizen Fausett.",58,52,6,0,0.873780722529265,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+260,2,"7:28",448,748,"Cameron Shelton missed Free Throw.",58,52,6,0,0.873780722529265,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+261,2,"7:28",448,748,"Cameron Oluyitan Defensive Rebound.",58,52,6,12,0.873780722529265,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+262,2,"7:16",436,736,"Andre Adams Turnover.",58,52,6,20,0.898167928155043,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+263,2,"6:56",416,716,"Carlos Hines made Layup.",60,52,8,34,0.935290694357037,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+264,2,"6:22",382,682,"Foul on Aziz Seck.",60,52,8,0,0.93512606472169,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+265,2,"6:22",382,682,"Harrison Butler made Free Throw.",60,53,7,0,0.914572667167161,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+266,2,"6:22",382,682,"Harrison Butler made Free Throw.",60,54,6,19,0.888285453277308,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+267,2,"6:03",363,663,"Carlos Hines Turnover.",60,54,6,3,0.899909208856757,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+268,2,"6:00",360,660,"Andre Adams Steal.",60,54,6,13,0.899909208856757,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+269,2,"5:47",347,647,"Maizen Fausett missed Three Point Jumper.",60,54,6,0,0.894147823596334,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+270,2,"5:47",347,647,"Harrison Butler Offensive Rebound.",60,54,6,0,0.894147823596334,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+271,2,"5:47",347,647,"Foul on Aziz Seck.",60,54,6,0,0.894147823596334,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+272,2,"5:47",347,647,"Harrison Butler made Free Throw.",60,55,5,0,0.858054654572978,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+273,2,"5:47",347,647,"Harrison Butler made Free Throw.",60,56,4,16,0.812238863123577,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+274,2,"5:31",331,631,"Foul on Andre Adams.",60,56,4,0,0.848897020998713,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+275,2,"5:31",331,631,"Brooks DeBisschop missed Free Throw.",60,56,4,0,0.848897020998713,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+276,2,"5:31",331,631,"Cameron Shelton Offensive Rebound.",60,56,4,11,0.848897020998713,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+277,2,"5:20",320,620,"Carlos Hines made Jumper.",62,56,6,20,0.890763407535688,"Northern Arizona","Southern Utah",4,4,0,0,2,"401086918",2019-01-28
+278,2,"5:00",300,600,"Brandon Better missed Layup.",62,56,6,0,0.907544384293818,"Northern Arizona","Southern Utah",4,4,1,0,2,"401086918",2019-01-28
+279,2,"5:00",300,600,"Andre Adams Offensive Rebound.",62,56,6,4,0.907544384293818,"Northern Arizona","Southern Utah",4,4,1,0,2,"401086918",2019-01-28
+280,2,"4:56",296,596,"Foul on Jonathan Andre.",62,56,6,0,0.908801623799344,"Northern Arizona","Southern Utah",4,4,1,0,2,"401086918",2019-01-28
+281,2,"4:56",296,596,"Andre Adams made Free Throw.",62,57,5,0,0.876114633146576,"Northern Arizona","Southern Utah",4,4,1,0,2,"401086918",2019-01-28
+282,2,"4:56",296,596,"Andre Adams made Free Throw.",62,58,4,14,0.833853914119791,"Northern Arizona","Southern Utah",4,4,1,0,2,"401086918",2019-01-28
+283,2,"4:42",282,582,"Carlos Hines missed Jumper.",62,58,4,0,0.834296830182457,"Northern Arizona","Southern Utah",4,4,1,0,2,"401086918",2019-01-28
+284,2,"4:42",282,582,"Cameron Oluyitan Defensive Rebound.",62,58,4,9,0.834296830182457,"Northern Arizona","Southern Utah",4,4,1,0,2,"401086918",2019-01-28
+285,2,"4:33",273,573,"Andre Adams made Layup. Assisted by Cameron Oluyitan.",62,60,2,16,0.719811072752409,"Northern Arizona","Southern Utah",4,4,1,0,2,"401086918",2019-01-28
+286,2,"4:17",257,557,"Cameron Shelton made Layup.",64,60,4,2,0.87673639061157,"Northern Arizona","Southern Utah",4,4,1,0,2,"401086918",2019-01-28
+287,2,"4:15",255,555,"Northern Arizona  Timeout",64,60,4,0,0.87673639061157,"Northern Arizona","Southern Utah",3,4,1,0,2,"401086918",2019-01-28
+288,2,"4:15",255,555,"Official TV Timeout",64,60,4,16,0.87673639061157,"Northern Arizona","Southern Utah",3,4,1,0,2,"401086918",2019-01-28
+289,2,"3:59",239,539,"Cameron Oluyitan missed Three Point Jumper.",64,60,4,0,0.868037848079613,"Northern Arizona","Southern Utah",3,4,1,0,2,"401086918",2019-01-28
+290,2,"3:59",239,539,"Cameron Shelton Defensive Rebound.",64,60,4,7,0.868037848079613,"Northern Arizona","Southern Utah",3,4,1,0,2,"401086918",2019-01-28
+291,2,"3:52",232,532,"Jonathan Andre made Layup. Assisted by Cameron Shelton.",66,60,6,4,0.936750176417085,"Northern Arizona","Southern Utah",3,4,1,0,2,"401086918",2019-01-28
+292,2,"3:48",228,528,"Foul on Isaiah Thomas.",66,60,6,0,0.944760140761332,"Northern Arizona","Southern Utah",3,4,1,0,2,"401086918",2019-01-28
+293,2,"3:48",228,528,"Andre Adams missed Free Throw.",66,60,6,0,0.944760140761332,"Northern Arizona","Southern Utah",3,4,1,0,2,"401086918",2019-01-28
+294,2,"3:48",228,528,"Southern Utah Deadball Team Rebound.",66,60,6,0,0.944760140761332,"Northern Arizona","Southern Utah",3,4,1,0,2,"401086918",2019-01-28
+295,2,"3:48",228,528,"Andre Adams made Free Throw.",66,61,5,8,0.918022916522028,"Northern Arizona","Southern Utah",3,4,1,0,2,"401086918",2019-01-28
+296,2,"3:40",220,520,"Foul on Jonathan Andre.",66,61,5,10,0.918022916522028,"Northern Arizona","Southern Utah",3,4,1,0,2,"401086918",2019-01-28
+297,2,"3:30",210,510,"Foul on Nik Mains.",66,61,5,0,0.915341848337779,"Northern Arizona","Southern Utah",3,4,1,0,2,"401086918",2019-01-28
+298,2,"3:30",210,510,"Brandon Better made Free Throw.",66,62,4,0,0.874503455089924,"Northern Arizona","Southern Utah",3,4,1,0,2,"401086918",2019-01-28
+299,2,"3:30",210,510,"Brandon Better missed Free Throw.",66,62,4,0,0.874503455089924,"Northern Arizona","Southern Utah",3,4,1,0,2,"401086918",2019-01-28
+300,2,"3:30",210,510,"Nik Mains Defensive Rebound.",66,62,4,0,0.874503455089924,"Northern Arizona","Southern Utah",3,4,1,0,2,"401086918",2019-01-28
+301,2,"3:30",210,510,"Foul on Harrison Butler.",66,62,4,0,0.874503455089924,"Northern Arizona","Southern Utah",3,4,1,0,2,"401086918",2019-01-28
+302,2,"3:30",210,510,"Nik Mains missed Free Throw.",66,62,4,0,0.874503455089924,"Northern Arizona","Southern Utah",3,4,1,0,2,"401086918",2019-01-28
+303,2,"3:30",210,510,"Harrison Butler Defensive Rebound.",66,62,4,19,0.874503455089924,"Northern Arizona","Southern Utah",3,4,1,0,2,"401086918",2019-01-28
+304,2,"3:11",191,491,"Cameron Oluyitan missed Jumper.",66,62,4,0,0.884697576843673,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+305,2,"3:11",191,491,"Andre Adams Offensive Rebound.",66,62,4,3,0.884697576843673,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+306,2,"3:08",188,488,"Andre Adams made Layup.",66,64,2,33,0.751822031427659,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+307,2,"2:35",155,455,"Luke Avdalovic missed Three Point Jumper.",66,64,2,0,0.789325551680257,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+308,2,"2:35",155,455,"Jonathan Andre Offensive Rebound.",66,64,2,3,0.789325551680257,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+309,2,"2:32",152,452,"Jonathan Andre missed Layup.",66,64,2,0,0.789325551680257,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+310,2,"2:32",152,452,"Andre Adams Defensive Rebound.",66,64,2,16,0.789325551680257,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+311,2,"2:16",136,436,"Foul on Carlos Hines.",66,64,2,0,0.809858561142194,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+312,2,"2:16",136,436,"Brandon Better made Free Throw.",66,65,1,0,0.711220490383724,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+313,2,"2:16",136,436,"Brandon Better made Free Throw.",66,66,0,12,0.587477373198267,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+314,2,"2:04",124,424,"Carlos Hines missed Jumper.",66,66,0,0,0.526334988094329,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+315,2,"2:04",124,424,"Cameron Oluyitan Defensive Rebound.",66,66,0,15,0.526334988094329,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+316,2,"1:49",109,409,"Cameron Oluyitan made Layup.",66,68,-2,13,0.233632871687868,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+317,2,"1:36",96,396,"Jonathan Andre made Layup.",68,68,0,2,0.538174733945739,"Northern Arizona","Southern Utah",3,4,0,0,2,"401086918",2019-01-28
+318,2,"1:34",94,394,"Northern Arizona  Timeout",68,68,0,14,0.538174733945739,"Northern Arizona","Southern Utah",2,4,1,0,2,"401086918",2019-01-28
+319,2,"1:20",80,380,"Cameron Oluyitan Turnover.",68,68,0,1,0.57726251333855,"Northern Arizona","Southern Utah",2,4,1,0,2,"401086918",2019-01-28
+320,2,"1:19",79,379,"Jonathan Andre Steal.",68,68,0,9,0.515712964663005,"Northern Arizona","Southern Utah",2,4,1,0,2,"401086918",2019-01-28
+321,2,"1:10",70,370,"Cameron Shelton missed Layup.",68,68,0,0,0.515712964663005,"Northern Arizona","Southern Utah",2,4,1,0,2,"401086918",2019-01-28
+322,2,"1:10",70,370,"Andre Adams Block.",68,68,0,2,0.515712964663005,"Northern Arizona","Southern Utah",2,4,1,0,2,"401086918",2019-01-28
+323,2,"1:08",68,368,"Brandon Better Defensive Rebound.",68,68,0,8,0.496800966750296,"Northern Arizona","Southern Utah",2,4,1,0,2,"401086918",2019-01-28
+324,2,"1:00",60,360,"Brandon Better Turnover.",68,68,0,1,0.496800966750296,"Northern Arizona","Southern Utah",2,4,1,0,2,"401086918",2019-01-28
+325,2,"0:59",59,359,"Carlos Hines Steal.",68,68,0,24,0.628228470340858,"Northern Arizona","Southern Utah",2,4,1,0,2,"401086918",2019-01-28
+326,2,"0:35",35,335,"Jonathan Andre Turnover.",68,68,0,1,0.485087799980236,"Northern Arizona","Southern Utah",2,4,1,0,2,"401086918",2019-01-28
+327,2,"0:34",34,334,"Andre Adams Steal.",68,68,0,4,0.485087799980236,"Northern Arizona","Southern Utah",2,4,1,0,2,"401086918",2019-01-28
+328,2,"0:30",30,330,"Southern Utah  Timeout",68,68,0,30,0.487823600998976,"Northern Arizona","Southern Utah",2,3,0,1,2,"401086918",2019-01-28
+329,2,"0:00",300,300,"Brandon Better Turnover.",68,68,0,0,0.562706385495469,"Northern Arizona","Southern Utah",2,3,1,0,2,"401086918",2019-01-28
+330,2,"0:00",300,300,"Northern Arizona  Timeout",68,68,0,0,0.562706385495469,"Northern Arizona","Southern Utah",1,3,1,0,2,"401086918",2019-01-28
+331,2,"0:00",300,300,"Luke Avdalovic missed Three Point Jumper.",68,68,0,0,0.562706385495469,"Northern Arizona","Southern Utah",1,3,1,0,2,"401086918",2019-01-28
+332,2,"0:00",300,300,"Southern Utah Defensive Rebound.",68,68,0,0,0.562706385495469,"Northern Arizona","Southern Utah",1,3,1,0,2,"401086918",2019-01-28
+333,2,"0:00",300,300,"End of 2nd half",68,68,0,0,0.562706385495469,"Northern Arizona","Southern Utah",1,3,1,0,2,"401086918",2019-01-28
+334,3,"5:00",300,300,"PLAY",68,68,0,21,0.562706385495469,"Northern Arizona","Southern Utah",2,4,0,0,2,"401086918",2019-01-28
+335,3,"4:39",279,279,"Harrison Butler Turnover.",68,68,0,1,0.541580292720499,"Northern Arizona","Southern Utah",2,4,0,0,2,"401086918",2019-01-28
+336,3,"4:38",278,278,"Brooks DeBisschop Steal.",68,68,0,27,0.541580292720499,"Northern Arizona","Southern Utah",2,4,0,0,2,"401086918",2019-01-28
+337,3,"4:11",251,251,"Foul on Harrison Butler.",68,68,0,0,0.568661568159863,"Northern Arizona","Southern Utah",2,4,0,0,2,"401086918",2019-01-28
+338,3,"4:11",251,251,"Brooks DeBisschop made Free Throw.",69,68,1,0,0.667691976744923,"Northern Arizona","Southern Utah",2,4,0,0,2,"401086918",2019-01-28
+339,3,"4:11",251,251,"Brooks DeBisschop made Free Throw.",70,68,2,20,0.753828567119831,"Northern Arizona","Southern Utah",2,4,0,0,2,"401086918",2019-01-28
+340,3,"3:51",231,231,"Foul on Brooks DeBisschop.",70,68,2,0,0.744999119837371,"Northern Arizona","Southern Utah",2,4,0,0,2,"401086918",2019-01-28
+341,3,"3:51",231,231,"Andre Adams made Free Throw.",70,69,1,0,0.660677306586366,"Northern Arizona","Southern Utah",2,4,0,0,2,"401086918",2019-01-28
+342,3,"3:51",231,231,"Andre Adams made Free Throw.",70,70,0,16,0.564762128044198,"Northern Arizona","Southern Utah",2,4,0,0,2,"401086918",2019-01-28
+343,3,"3:35",215,215,"Ted McCree made Three Point Jumper.",73,70,3,17,0.817884471743303,"Northern Arizona","Southern Utah",2,4,0,0,2,"401086918",2019-01-28
+344,3,"3:18",198,198,"Foul on Luke Avdalovic.",73,70,3,0,0.827745241088618,"Northern Arizona","Southern Utah",2,4,0,0,2,"401086918",2019-01-28
+345,3,"3:18",198,198,"Cameron Oluyitan made Free Throw.",73,71,2,0,0.750592419026039,"Northern Arizona","Southern Utah",2,4,0,0,2,"401086918",2019-01-28
+346,3,"3:18",198,198,"Cameron Oluyitan made Free Throw.",73,72,1,31,0.653354637572622,"Northern Arizona","Southern Utah",2,4,0,0,2,"401086918",2019-01-28
+347,3,"2:47",167,167,"Carlos Hines missed Three Point Jumper.",73,72,1,0,0.695997875043577,"Northern Arizona","Southern Utah",2,4,0,0,2,"401086918",2019-01-28
+348,3,"2:47",167,167,"Northern Arizona Offensive Rebound.",73,72,1,6,0.695997875043577,"Northern Arizona","Southern Utah",2,4,0,0,2,"401086918",2019-01-28
+349,3,"2:41",161,161,"Jonathan Andre missed Layup.",73,72,1,0,0.695997875043577,"Northern Arizona","Southern Utah",2,4,0,0,2,"401086918",2019-01-28
+350,3,"2:41",161,161,"Maizen Fausett Block.",73,72,1,0,0.695997875043577,"Northern Arizona","Southern Utah",2,4,0,0,2,"401086918",2019-01-28
+351,3,"2:41",161,161,"Northern Arizona Offensive Rebound.",73,72,1,11,0.695997875043577,"Northern Arizona","Southern Utah",2,4,0,0,2,"401086918",2019-01-28
+352,3,"2:30",150,150,"Carlos Hines missed Jumper.",73,72,1,0,0.685760663723746,"Northern Arizona","Southern Utah",2,4,0,0,2,"401086918",2019-01-28
+353,3,"2:30",150,150,"Andre Adams Defensive Rebound.",73,72,1,28,0.685760663723746,"Northern Arizona","Southern Utah",2,4,0,0,2,"401086918",2019-01-28
+354,3,"2:02",122,122,"Andre Adams made Jumper. Assisted by Brandon Better.",73,74,-1,28,0.386731470229504,"Northern Arizona","Southern Utah",2,4,0,0,2,"401086918",2019-01-28
+355,3,"1:34",94,94,"Jonathan Andre made Layup.",75,74,1,0,0.68607788957382,"Northern Arizona","Southern Utah",2,4,0,0,2,"401086918",2019-01-28
+356,3,"1:34",94,94,"Foul on Harrison Butler.",75,74,1,0,0.68607788957382,"Northern Arizona","Southern Utah",2,4,0,0,2,"401086918",2019-01-28
+357,3,"1:34",94,94,"Jonathan Andre made Free Throw.",76,74,2,3,0.803875673198846,"Northern Arizona","Southern Utah",2,4,0,0,2,"401086918",2019-01-28
+358,3,"1:31",91,91,"Southern Utah  Timeout",76,74,2,9,0.803875673198846,"Northern Arizona","Southern Utah",2,3,0,1,2,"401086918",2019-01-28
+359,3,"1:22",82,82,"Cameron Oluyitan missed Layup.",76,74,2,0,0.851254878496137,"Northern Arizona","Southern Utah",2,3,0,1,2,"401086918",2019-01-28
+360,3,"1:22",82,82,"Brooks DeBisschop Defensive Rebound.",76,74,2,20,0.851254878496137,"Northern Arizona","Southern Utah",2,3,0,1,2,"401086918",2019-01-28
+361,3,"1:02",62,62,"Carlos Hines made Layup.",78,74,4,16,0.95055505004657,"Northern Arizona","Southern Utah",2,3,0,1,2,"401086918",2019-01-28
+362,3,"0:46",46,46,"Brandon Better made Three Point Jumper. Assisted by Cameron Oluyitan.",78,77,1,2,0.746469379415174,"Northern Arizona","Southern Utah",2,3,0,1,2,"401086918",2019-01-28
+363,3,"0:44",44,44,"Southern Utah  Timeout",78,77,1,24,0.719843646214163,"Northern Arizona","Southern Utah",2,2,0,1,2,"401086918",2019-01-28
+364,3,"0:20",20,20,"Foul on Maizen Fausett.",78,77,1,0,0.82106479944545,"Northern Arizona","Southern Utah",2,2,0,1,2,"401086918",2019-01-28
+365,3,"0:20",20,20,"Cameron Shelton made Free Throw.",79,77,2,0,0.960032127807897,"Northern Arizona","Southern Utah",2,2,0,1,2,"401086918",2019-01-28
+366,3,"0:20",20,20,"Cameron Shelton missed Free Throw.",79,77,2,0,0.960032127807897,"Northern Arizona","Southern Utah",2,2,0,1,2,"401086918",2019-01-28
+367,3,"0:20",20,20,"Andre Adams Defensive Rebound.",79,77,2,9,0.960032127807897,"Northern Arizona","Southern Utah",2,2,0,1,2,"401086918",2019-01-28
+368,3,"0:11",11,11,"Dre Marin Turnover.",79,77,2,1,0.957896594234924,"Northern Arizona","Southern Utah",2,2,0,1,2,"401086918",2019-01-28
+369,3,"0:10",10,10,"Ted McCree Steal.",79,77,2,4,0.979106402574224,"Northern Arizona","Southern Utah",2,2,0,1,2,"401086918",2019-01-28
+370,3,"0:06",6,6,"Foul on Andre Adams.",79,77,2,0,0.979106402574224,"Northern Arizona","Southern Utah",2,2,0,1,2,"401086918",2019-01-28
+371,3,"0:06",6,6,"Carlos Hines missed Free Throw.",79,77,2,0,0.979106402574224,"Northern Arizona","Southern Utah",2,2,0,1,2,"401086918",2019-01-28
+372,3,"0:06",6,6,"Northern Arizona Deadball Team Rebound.",79,77,2,0,0.979106402574224,"Northern Arizona","Southern Utah",2,2,0,1,2,"401086918",2019-01-28
+373,3,"0:06",6,6,"Carlos Hines made Free Throw.",80,77,3,0,0.995783077368614,"Northern Arizona","Southern Utah",2,2,0,1,2,"401086918",2019-01-28
+374,3,"0:06",6,6,"Southern Utah  Timeout",80,77,3,6,0.995783077368614,"Northern Arizona","Southern Utah",2,1,0,1,2,"401086918",2019-01-28
+375,3,"0:00",0,0,"Brandon Better missed Three Point Jumper.",80,77,3,0,1,"Northern Arizona","Southern Utah",2,1,0,1,2,"401086918",2019-01-28
+376,3,"0:00",0,0,"Carlos Hines Defensive Rebound.",80,77,3,0,1,"Northern Arizona","Southern Utah",2,1,0,1,2,"401086918",2019-01-28
+377,3,"0:00",0,0,"End of Game",80,77,3,0,1,"Northern Arizona","Southern Utah",2,1,0,1,2,"401086918",2019-01-28

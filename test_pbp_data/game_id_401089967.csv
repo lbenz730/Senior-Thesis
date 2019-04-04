@@ -1,0 +1,394 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","play_length","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,17,0.572504655071985,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+2,1,"19:43",2383,2383,"Randy Miller Jr. missed Three Point Jumper.",0,0,0,0,0.572665061473211,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+3,1,"19:43",2383,2383,"Zacarry Douglas Offensive Rebound.",0,0,0,4,0.572665061473211,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+4,1,"19:39",2379,2379,"Zacarry Douglas missed Jumper.",0,0,0,0,0.582234758898966,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+5,1,"19:39",2379,2379,"Jordan Perkins Offensive Rebound.",0,0,0,21,0.582234758898966,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+6,1,"19:18",2358,2358,"Raasean Davis made Dunk. Assisted by Jordan Perkins.",0,2,-2,31,0.544836051130592,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+7,1,"18:47",2327,2327,"Shawntrez Davis missed Three Point Jumper.",0,2,-2,0,0.534270150449468,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+8,1,"18:47",2327,2327,"Malik Maitland Offensive Rebound.",0,2,-2,15,0.534270150449468,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+9,1,"18:32",2312,2312,"Mark Gordon missed Jumper.",0,2,-2,0,0.514191614221165,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+10,1,"18:32",2312,2312,"Randy Miller Jr. Defensive Rebound.",0,2,-2,6,0.514191614221165,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+11,1,"18:26",2306,2306,"Raasean Davis made Dunk. Assisted by Randy Miller Jr..",0,4,-4,29,0.466330651518776,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+12,1,"17:57",2277,2277,"Cletrell Pope missed Jumper.",0,4,-4,0,0.474901103243184,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+13,1,"17:57",2277,2277,"Cletrell Pope Offensive Rebound.",0,4,-4,3,0.474901103243184,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+14,1,"17:54",2274,2274,"Foul on Zacarry Douglas.",0,4,-4,0,0.474901103243184,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+15,1,"17:54",2274,2274,"Cletrell Pope missed Free Throw.",0,4,-4,0,0.474901103243184,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+16,1,"17:54",2274,2274,"Bethune-Cookman Deadball Team Rebound.",0,4,-4,0,0.474901103243184,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+17,1,"17:54",2274,2274,"Cletrell Pope made Free Throw.",1,4,-3,23,0.50075014945399,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+18,1,"17:31",2251,2251,"Randy Miller Jr. missed Jumper.",1,4,-3,0,0.504511536658516,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+19,1,"17:31",2251,2251,"North Carolina Central Offensive Rebound.",1,4,-3,11,0.504511536658516,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+20,1,"17:20",2240,2240,"Raasean Davis missed Jumper.",1,4,-3,0,0.511208782501016,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+21,1,"17:20",2240,2240,"Cletrell Pope Block.",1,4,-3,1,0.511208782501016,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+22,1,"17:19",2239,2239,"Cletrell Pope Defensive Rebound.",1,4,-3,11,0.4908765666369,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+23,1,"17:08",2228,2228,"Cletrell Pope missed Layup.",1,4,-3,0,0.499603398699912,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+24,1,"17:08",2228,2228,"Raasean Davis Defensive Rebound.",1,4,-3,7,0.499603398699912,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+25,1,"17:01",2221,2221,"Randy Miller Jr. missed Layup.",1,4,-3,0,0.499603398699912,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+26,1,"17:01",2221,2221,"Shawntrez Davis Block.",1,4,-3,3,0.499603398699912,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+27,1,"16:58",2218,2218,"Larry McKnight Jr. Offensive Rebound.",1,4,-3,12,0.484168604538329,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+28,1,"16:46",2206,2206,"Larry McKnight Jr. made Jumper. Assisted by Jordan Perkins.",1,6,-5,11,0.434825106410167,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+29,1,"16:35",2195,2195,"Foul on Raasean Davis.",1,6,-5,18,0.440706389002292,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+30,1,"16:17",2177,2177,"Soufiyane Diakite missed Jumper.",1,6,-5,0,0.431418809600915,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+31,1,"16:17",2177,2177,"Zacarry Douglas Defensive Rebound.",1,6,-5,17,0.431418809600915,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+32,1,"16:00",2160,2160,"Zacarry Douglas missed Jumper.",1,6,-5,0,0.433286804637005,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+33,1,"16:00",2160,2160,"Cletrell Pope Defensive Rebound.",1,6,-5,2,0.433286804637005,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+34,1,"15:58",2158,2158,"Foul on Zacarry Douglas.",1,6,-5,0,0.412861774238438,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+35,1,"15:58",2158,2158,"Official TV Timeout",1,6,-5,7,0.412861774238438,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+36,1,"15:51",2151,2151,"Malik Maitland missed Jumper.",1,6,-5,0,0.412861774238438,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+37,1,"15:51",2151,2151,"Raasean Davis Block.",1,6,-5,3,0.412861774238438,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+38,1,"15:48",2148,2148,"Malik Maitland Offensive Rebound.",1,6,-5,21,0.453236068551137,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+39,1,"15:27",2127,2127,"Soufiyane Diakite missed Layup.",1,6,-5,0,0.421872289856684,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+40,1,"15:27",2127,2127,"Cletrell Pope Offensive Rebound.",1,6,-5,3,0.421872289856684,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+41,1,"15:24",2124,2124,"Cletrell Pope missed Jumper.",1,6,-5,0,0.421872289856684,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+42,1,"15:24",2124,2124,"Raasean Davis Defensive Rebound.",1,6,-5,8,0.421872289856684,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+43,1,"15:16",2116,2116,"Jordan Perkins missed Jumper.",1,6,-5,0,0.419372142633431,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+44,1,"15:16",2116,2116,"Cletrell Pope Defensive Rebound.",1,6,-5,5,0.419372142633431,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+45,1,"15:11",2111,2111,"Foul on Mark Gordon.",1,6,-5,0,0.419372142633431,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+46,1,"15:11",2111,2111,"Mark Gordon Turnover.",1,6,-5,9,0.419372142633431,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+47,1,"15:02",2102,2102,"Larry McKnight Jr. Turnover.",1,6,-5,6,0.426704995194637,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+48,1,"14:56",2096,2096,"Mark Gordon Steal.",1,6,-5,1,0.41267300824463,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+49,1,"14:55",2095,2095,"Mark Gordon made Layup.",3,6,-3,14,0.473813924480789,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+50,1,"14:41",2081,2081,"Jibri Blount missed Three Point Jumper.",3,6,-3,0,0.494012626362889,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+51,1,"14:41",2081,2081,"Shawntrez Davis Defensive Rebound.",3,6,-3,8,0.494012626362889,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+52,1,"14:33",2073,2073,"Malik Maitland missed Jumper.",3,6,-3,0,0.482959373382276,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+53,1,"14:33",2073,2073,"Randy Miller Jr. Defensive Rebound.",3,6,-3,3,0.482959373382276,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+54,1,"14:30",2070,2070,"Randy Miller Jr. missed Jumper.",3,6,-3,0,0.482959373382276,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+55,1,"14:30",2070,2070,"Jordan Perkins Offensive Rebound.",3,6,-3,20,0.482959373382276,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+56,1,"14:10",2050,2050,"Foul on Cletrell Pope.",3,6,-3,0,0.47275866108835,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+57,1,"14:10",2050,2050,"Larry McKnight Jr. missed Free Throw.",3,6,-3,0,0.47275866108835,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+58,1,"14:10",2050,2050,"North Carolina Central Deadball Team Rebound.",3,6,-3,0,0.47275866108835,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+59,1,"14:10",2050,2050,"Larry McKnight Jr. made Free Throw.",3,7,-4,28,0.443682328326851,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+60,1,"13:42",2022,2022,"Mark Gordon missed Jumper.",3,7,-4,0,0.430232030017902,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+61,1,"13:42",2022,2022,"Randy Miller Jr. Defensive Rebound.",3,7,-4,0,0.430232030017902,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+62,1,"13:42",2022,2022,"Larry McKnight Jr. made Jumper. Assisted by Randy Miller Jr..",3,9,-6,7,0.367105534879795,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+63,1,"13:35",2015,2015,"Shawntrez Davis made Jumper. Assisted by Houston Smith.",5,9,-4,0,0.45877067302663,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+64,1,"13:35",2015,2015,"Foul on Jibri Blount.",5,9,-4,0,0.45877067302663,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+65,1,"13:35",2015,2015,"Shawntrez Davis made Free Throw.",6,9,-3,24,0.487580845416921,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+66,1,"13:11",1991,1991,"Julian Walters missed Layup.",6,9,-3,0,0.470424861829731,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+67,1,"13:11",1991,1991,"Cletrell Pope Defensive Rebound.",6,9,-3,8,0.470424861829731,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+68,1,"13:03",1983,1983,"Mark Gordon missed Three Point Jumper.",6,9,-3,0,0.463048235669831,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+69,1,"13:03",1983,1983,"Larry McKnight Jr. Defensive Rebound.",6,9,-3,4,0.463048235669831,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+70,1,"12:59",1979,1979,"Randy Miller Jr. Turnover.",6,9,-3,53,0.474612820521924,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+71,1,"12:06",1926,1926,"David Francis made Jumper. Assisted by Cletrell Pope.",8,9,-1,0,0.525025744911133,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+72,1,"12:06",1926,1926,"Foul on Julian Walters.",8,9,-1,0,0.525025744911133,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+73,1,"12:06",1926,1926,"David Francis made Free Throw.",9,9,0,1,0.556290847661338,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+74,1,"12:05",1925,1925,"North Carolina Central  Turnover.",9,9,0,12,0.556290847661338,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+75,1,"11:53",1913,1913,"Armani Collins missed Three Point Jumper.",9,9,0,0,0.584820583668665,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+76,1,"11:53",1913,1913,"Jordan Perkins Defensive Rebound.",9,9,0,18,0.584820583668665,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+77,1,"11:35",1895,1895,"Larry McKnight Jr. missed Three Point Jumper.",9,9,0,0,0.573588727078558,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+78,1,"11:35",1895,1895,"Jibri Blount Offensive Rebound.",9,9,0,7,0.573588727078558,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+79,1,"11:28",1888,1888,"Official TV Timeout",9,9,0,11,0.558456433499922,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+80,1,"11:17",1877,1877,"Jibri Blount missed Jumper.",9,9,0,0,0.56343362322032,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+81,1,"11:17",1877,1877,"Houston Smith Defensive Rebound.",9,9,0,23,0.56343362322032,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+82,1,"10:54",1854,1854,"Foul on Reggie Gardner Jr..",9,9,0,0,0.572382052100377,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+83,1,"10:54",1854,1854,"Armani Collins missed Free Throw.",9,9,0,0,0.572382052100377,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+84,1,"10:54",1854,1854,"Raasean Davis Defensive Rebound.",9,9,0,23,0.572382052100377,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+85,1,"10:31",1831,1831,"Larry McKnight Jr. missed Jumper.",9,9,0,0,0.569711408067937,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+86,1,"10:31",1831,1831,"Cletrell Pope Block.",9,9,0,1,0.569711408067937,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+87,1,"10:30",1830,1830,"Houston Smith Defensive Rebound.",9,9,0,6,0.569711408067937,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+88,1,"10:24",1824,1824,"Foul on Reggie Gardner Jr..",9,9,0,0,0.585516719530444,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+89,1,"10:24",1824,1824,"Dondre Duffus made Free Throw.",10,9,1,0,0.61439287755577,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+90,1,"10:24",1824,1824,"Dondre Duffus made Free Throw.",11,9,2,9,0.642485656671151,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+91,1,"10:15",1815,1815,"Jordan Perkins Turnover.",11,9,2,1,0.636561139192742,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+92,1,"10:14",1814,1814,"Shawntrez Davis Steal.",11,9,2,6,0.636561139192742,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+93,1,"10:08",1808,1808,"Soufiyane Diakite made Three Point Jumper. Assisted by Malik Maitland.",14,9,5,19,0.707979266910566,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+94,1,"9:49",1789,1789,"Raasean Davis missed Layup.",14,9,5,0,0.705930651666517,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+95,1,"9:49",1789,1789,"Shawntrez Davis Defensive Rebound.",14,9,5,12,0.705930651666517,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+96,1,"9:37",1777,1777,"Foul on Mark Gordon.",14,9,5,0,0.692361572862372,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+97,1,"9:37",1777,1777,"Mark Gordon Turnover.",14,9,5,12,0.692361572862372,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+98,1,"9:25",1765,1765,"Randy Miller Jr. missed Three Point Jumper.",14,9,5,0,0.715544500239237,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+99,1,"9:25",1765,1765,"Raasean Davis Offensive Rebound.",14,9,5,6,0.715544500239237,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+100,1,"9:19",1759,1759,"Foul on Cletrell Pope.",14,9,5,0,0.700902930335875,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+101,1,"9:19",1759,1759,"Raasean Davis missed Free Throw.",14,9,5,0,0.700902930335875,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+102,1,"9:19",1759,1759,"North Carolina Central Deadball Team Rebound.",14,9,5,0,0.700902930335875,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+103,1,"9:19",1759,1759,"Raasean Davis missed Free Throw.",14,9,5,0,0.700902930335875,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+104,1,"9:19",1759,1759,"Shawntrez Davis Defensive Rebound.",14,9,5,7,0.700902930335875,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+105,1,"9:12",1752,1752,"Malik Maitland made Jumper. Assisted by Shawntrez Davis.",16,9,7,14,0.756180841188738,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+106,1,"8:58",1738,1738,"Foul on Julian Walters.",16,9,7,14,0.771210043728797,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+107,1,"8:44",1724,1724,"Jordan Perkins made Jumper. Assisted by Randy Miller Jr..",16,11,5,18,0.727443456158371,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+108,1,"8:26",1706,1706,"Soufiyane Diakite Turnover.",16,11,5,18,0.700881287613633,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+109,1,"8:08",1688,1688,"Jordan Perkins Turnover.",16,11,5,0,0.728252568632882,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+110,1,"8:08",1688,1688,"Soufiyane Diakite Steal.",16,11,5,0,0.728252568632882,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+111,1,"8:08",1688,1688,"Foul on Jordan Perkins.",16,11,5,0,0.728252568632882,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+112,1,"8:08",1688,1688,"Soufiyane Diakite made Free Throw.",17,11,6,0,0.756047625857417,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+113,1,"8:08",1688,1688,"Soufiyane Diakite missed Free Throw.",17,11,6,0,0.756047625857417,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+114,1,"8:08",1688,1688,"Raasean Davis Defensive Rebound.",17,11,6,21,0.756047625857417,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+115,1,"7:47",1667,1667,"Jibri Blount missed Three Point Jumper.",17,11,6,0,0.736577023072234,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+116,1,"7:47",1667,1667,"Armani Collins Defensive Rebound.",17,11,6,8,0.736577023072234,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+117,1,"7:39",1659,1659,"Soufiyane Diakite missed Layup.",17,11,6,0,0.745463931422047,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+118,1,"7:39",1659,1659,"Shawntrez Davis Offensive Rebound.",17,11,6,3,0.745463931422047,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+119,1,"7:36",1656,1656,"Official TV Timeout",17,11,6,38,0.745463931422047,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+120,1,"6:58",1618,1618,"Nicolas Fennell made Layup. Assisted by Jibri Blount.",17,13,4,9,0.679112895841382,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+121,1,"6:49",1609,1609,"Soufiyane Diakite missed Jumper.",17,13,4,0,0.67866240954556,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+122,1,"6:49",1609,1609,"Jibri Blount Defensive Rebound.",17,13,4,4,0.67866240954556,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+123,1,"6:45",1605,1605,"Jordan Perkins Turnover.",17,13,4,7,0.67866240954556,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+124,1,"6:38",1598,1598,"Soufiyane Diakite Turnover.",17,13,4,17,0.700811840634025,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+125,1,"6:21",1581,1581,"Foul on Armani Collins.",17,13,4,0,0.676506745154052,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+126,1,"6:21",1581,1581,"Randy Miller Jr. missed Free Throw.",17,13,4,0,0.676506745154052,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+127,1,"6:21",1581,1581,"North Carolina Central Deadball Team Rebound.",17,13,4,0,0.676506745154052,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+128,1,"6:21",1581,1581,"Randy Miller Jr. missed Free Throw.",17,13,4,0,0.676506745154052,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+129,1,"6:21",1581,1581,"North Carolina Central Offensive Rebound.",17,13,4,14,0.676506745154052,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+130,1,"6:07",1567,1567,"Jibri Blount missed Three Point Jumper.",17,13,4,0,0.682455479801371,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+131,1,"6:07",1567,1567,"Jordan Perkins Offensive Rebound.",17,13,4,14,0.682455479801371,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+132,1,"5:53",1553,1553,"Randy Miller Jr. missed Three Point Jumper.",17,13,4,0,0.687155869841975,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+133,1,"5:53",1553,1553,"Shawntrez Davis Defensive Rebound.",17,13,4,14,0.687155869841975,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+134,1,"5:39",1539,1539,"Dondre Duffus made Layup. Assisted by David Francis.",19,13,6,21,0.750333442845917,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+135,1,"5:18",1518,1518,"Randy Miller Jr. missed Layup.",19,13,6,0,0.773262130365985,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+136,1,"5:18",1518,1518,"Shawntrez Davis Defensive Rebound.",19,13,6,11,0.773262130365985,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+137,1,"5:07",1507,1507,"Shawntrez Davis missed Three Point Jumper.",19,13,6,0,0.749850835841721,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+138,1,"5:07",1507,1507,"Nicolas Fennell Defensive Rebound.",19,13,6,3,0.749850835841721,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+139,1,"5:04",1504,1504,"Foul on David Francis.",19,13,6,17,0.749850835841721,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+140,1,"4:47",1487,1487,"Raasean Davis made Layup. Assisted by Nicolas Fennell.",19,15,4,12,0.691639042734124,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+141,1,"4:35",1475,1475,"Shawntrez Davis made Dunk. Assisted by Malik Maitland.",21,15,6,20,0.761348881791026,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+142,1,"4:15",1455,1455,"Nicolas Fennell missed Three Point Jumper.",21,15,6,0,0.746695857697796,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+143,1,"4:15",1455,1455,"Raasean Davis Offensive Rebound.",21,15,6,6,0.746695857697796,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+144,1,"4:09",1449,1449,"Foul on David Francis.",21,15,6,0,0.777863117243501,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+145,1,"4:09",1449,1449,"Raasean Davis missed Free Throw.",21,15,6,0,0.777863117243501,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+146,1,"4:09",1449,1449,"North Carolina Central Deadball Team Rebound.",21,15,6,0,0.777863117243501,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+147,1,"4:09",1449,1449,"Raasean Davis made Free Throw.",21,16,5,21,0.750463666064114,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+148,1,"3:48",1428,1428,"Malik Maitland missed Layup.",21,16,5,0,0.717239452855338,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+149,1,"3:48",1428,1428,"Cletrell Pope Offensive Rebound.",21,16,5,1,0.717239452855338,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+150,1,"3:47",1427,1427,"Foul on Larry McKnight Jr..",21,16,5,0,0.717239452855338,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+151,1,"3:47",1427,1427,"Official TV Timeout",21,16,5,0,0.717239452855338,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+152,1,"3:47",1427,1427,"Cletrell Pope made Free Throw.",22,16,6,0,0.745651369655246,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+153,1,"3:47",1427,1427,"Cletrell Pope made Free Throw.",23,16,7,29,0.772115496732933,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+154,1,"3:18",1398,1398,"Jibri Blount missed Jumper.",23,16,7,0,0.783276130842861,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+155,1,"3:18",1398,1398,"Dondre Duffus Block.",23,16,7,1,0.783276130842861,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+156,1,"3:17",1397,1397,"Cletrell Pope Defensive Rebound.",23,16,7,7,0.783276130842861,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+157,1,"3:10",1390,1390,"Mark Gordon Turnover.",23,16,7,0,0.783276130842861,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+158,1,"3:10",1390,1390,"Jibri Blount Steal.",23,16,7,3,0.783276130842861,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+159,1,"3:07",1387,1387,"Jibri Blount made Layup.",23,18,5,0,0.737709164848798,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+160,1,"3:07",1387,1387,"Foul on Dondre Duffus.",23,18,5,0,0.737709164848798,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+161,1,"3:07",1387,1387,"Jibri Blount made Free Throw.",23,19,4,7,0.707784375240988,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+162,1,"3:00",1380,1380,"Foul on Nicolas Fennell.",23,19,4,0,0.707784375240988,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+163,1,"3:00",1380,1380,"Malik Maitland made Free Throw.",24,19,5,0,0.737709164848798,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+164,1,"3:00",1380,1380,"Malik Maitland made Free Throw.",25,19,6,15,0.765584409625292,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+165,1,"2:45",1365,1365,"Jibri Blount made Jumper.",25,21,4,19,0.702362985103566,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+166,1,"2:26",1346,1346,"Soufiyane Diakite missed Layup.",25,21,4,0,0.699738191098401,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+167,1,"2:26",1346,1346,"Raasean Davis Block.",25,21,4,1,0.699738191098401,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+168,1,"2:25",1345,1345,"Soufiyane Diakite Offensive Rebound.",25,21,4,2,0.699738191098401,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+169,1,"2:23",1343,1343,"Soufiyane Diakite missed Layup.",25,21,4,0,0.699738191098401,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+170,1,"2:23",1343,1343,"Raasean Davis Block.",25,21,4,1,0.699738191098401,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+171,1,"2:22",1342,1342,"Julian Walters Defensive Rebound.",25,21,4,6,0.699738191098401,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+172,1,"2:16",1336,1336,"Larry McKnight Jr. missed Three Point Jumper.",25,21,4,0,0.691300264259827,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+173,1,"2:16",1336,1336,"Dondre Duffus Defensive Rebound.",25,21,4,22,0.691300264259827,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+174,1,"1:54",1314,1314,"Shawntrez Davis made Layup. Assisted by Malik Maitland.",27,21,6,37,0.778319151001119,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+175,1,"1:17",1277,1277,"Foul on Soufiyane Diakite.",27,21,6,0,0.744370182124972,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+176,1,"1:17",1277,1277,"Randy Miller Jr. made Free Throw.",27,22,5,0,0.714832028282892,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+177,1,"1:17",1277,1277,"Randy Miller Jr. made Free Throw.",27,23,4,14,0.683332735197572,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+178,1,"1:03",1263,1263,"Malik Maitland made Three Point Jumper. Assisted by Dondre Duffus.",30,23,7,22,0.804084748197279,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+179,1,"0:41",1241,1241,"Julian Walters Turnover.",30,23,7,1,0.788873135364146,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+180,1,"0:40",1240,1240,"Soufiyane Diakite Steal.",30,23,7,1,0.788873135364146,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+181,1,"0:39",1239,1239,"Soufiyane Diakite made Dunk.",32,23,9,2,0.839246646168785,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+182,1,"0:37",1237,1237,"North Carolina Central  Timeout",32,23,9,12,0.839246646168785,"Bethune-Cookman","North Carolina Central",3,4,1,0,1.1,"401089967",2019-02-02
+183,1,"0:25",1225,1225,"Foul on Raasean Davis.",32,23,9,0,0.855259467003947,"Bethune-Cookman","North Carolina Central",3,4,1,0,1.1,"401089967",2019-02-02
+184,1,"0:25",1225,1225,"Raasean Davis Turnover.",32,23,9,23,0.855259467003947,"Bethune-Cookman","North Carolina Central",3,4,1,0,1.1,"401089967",2019-02-02
+185,1,"0:02",1202,1202,"Malik Maitland missed Three Point Jumper.",32,23,9,0,0.840575217138451,"Bethune-Cookman","North Carolina Central",3,4,1,0,1.1,"401089967",2019-02-02
+186,1,"0:02",1202,1202,"Soufiyane Diakite Offensive Rebound.",32,23,9,2,0.840575217138451,"Bethune-Cookman","North Carolina Central",3,4,1,0,1.1,"401089967",2019-02-02
+187,1,"0:00",1200,1200,"End of 1st half",32,23,9,0,0.840575217138451,"Bethune-Cookman","North Carolina Central",3,4,1,0,1.1,"401089967",2019-02-02
+188,2,"20:00",1200,1200,"PLAY",32,23,9,21,0.840575217138451,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+189,2,"19:39",1179,1179,"Mark Gordon made Layup.",34,23,11,20,0.88510731635677,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+190,2,"19:19",1159,1159,"Larry McKnight Jr. made Layup. Assisted by Jordan Perkins.",34,25,9,25,0.845444681074282,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+191,2,"18:54",1134,1134,"Cletrell Pope made Jumper. Assisted by Malik Maitland.",36,25,11,20,0.885330525569899,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+192,2,"18:34",1114,1114,"Randy Miller Jr. Turnover.",36,25,11,0,0.896094044317548,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+193,2,"18:34",1114,1114,"Soufiyane Diakite Steal.",36,25,11,5,0.896094044317548,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+194,2,"18:29",1109,1109,"Cletrell Pope missed Layup.",36,25,11,0,0.883839643587164,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+195,2,"18:29",1109,1109,"North Carolina Central Defensive Rebound.",36,25,11,14,0.883839643587164,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+196,2,"18:15",1095,1095,"Jordan Perkins missed Jumper.",36,25,11,0,0.895690998968104,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+197,2,"18:15",1095,1095,"Shawntrez Davis Block.",36,25,11,1,0.895690998968104,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+198,2,"18:14",1094,1094,"Shawntrez Davis Defensive Rebound.",36,25,11,5,0.895690998968104,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+199,2,"18:09",1089,1089,"Shawntrez Davis Turnover.",36,25,11,0,0.896683968443804,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+200,2,"18:09",1089,1089,"Randy Miller Jr. Steal.",36,25,11,23,0.896683968443804,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+201,2,"17:46",1066,1066,"Larry McKnight Jr. made Three Point Jumper. Assisted by Raasean Davis.",36,28,8,21,0.842200301454793,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+202,2,"17:25",1045,1045,"Foul on Jordan Perkins.",36,28,8,0,0.845031889413431,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+203,2,"17:25",1045,1045,"Shawntrez Davis made Free Throw.",37,28,9,0,0.866613755830695,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+204,2,"17:25",1045,1045,"Shawntrez Davis made Free Throw.",38,28,10,15,0.885596903099196,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+205,2,"17:10",1030,1030,"Randy Miller Jr. missed Three Point Jumper.",38,28,10,0,0.871660435269715,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+206,2,"17:10",1030,1030,"Zacarry Douglas Offensive Rebound.",38,28,10,5,0.871660435269715,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+207,2,"17:05",1025,1025,"Larry McKnight Jr. missed Three Point Jumper.",38,28,10,0,0.886140906336351,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+208,2,"17:05",1025,1025,"Shawntrez Davis Defensive Rebound.",38,28,10,3,0.886140906336351,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+209,2,"17:02",1022,1022,"Foul on Randy Miller Jr..",38,28,10,20,0.886140906336351,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+210,2,"16:42",1002,1002,"Shawntrez Davis missed Jumper.",38,28,10,0,0.883016307611258,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+211,2,"16:42",1002,1002,"Zacarry Douglas Defensive Rebound.",38,28,10,6,0.883016307611258,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+212,2,"16:36",996,996,"Foul on Mark Gordon.",38,28,10,0,0.875432238462125,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+213,2,"16:36",996,996,"Randy Miller Jr. made Free Throw.",38,29,9,0,0.854628095495713,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+214,2,"16:36",996,996,"Randy Miller Jr. made Free Throw.",38,30,8,26,0.831020105387168,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+215,2,"16:10",970,970,"Soufiyane Diakite made Layup. Assisted by Mark Gordon.",40,30,10,18,0.886937663655947,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+216,2,"15:52",952,952,"Larry McKnight Jr. missed Three Point Jumper.",40,30,10,0,0.889215177459681,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+217,2,"15:52",952,952,"Raasean Davis Offensive Rebound.",40,30,10,2,0.889215177459681,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+218,2,"15:50",950,950,"Foul on Shawntrez Davis.",40,30,10,3,0.889215177459681,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+219,2,"15:47",947,947,"Zacarry Douglas missed Jumper.",40,30,10,0,0.901107562273798,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+220,2,"15:47",947,947,"Raasean Davis Offensive Rebound.",40,30,10,2,0.901107562273798,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+221,2,"15:45",945,945,"Raasean Davis missed Jumper.",40,30,10,0,0.901107562273798,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+222,2,"15:45",945,945,"Zacarry Douglas Offensive Rebound.",40,30,10,2,0.901107562273798,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+223,2,"15:43",943,943,"Foul on Shawntrez Davis.",40,30,10,0,0.901107562273798,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+224,2,"15:43",943,943,"Zacarry Douglas made Free Throw.",40,31,9,0,0.882655340156226,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+225,2,"15:43",943,943,"Zacarry Douglas made Free Throw.",40,32,8,6,0.861290126643312,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+226,2,"15:37",937,937,"Malik Maitland missed Layup.",40,32,8,0,0.851064895793117,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+227,2,"15:37",937,937,"Cletrell Pope Offensive Rebound.",40,32,8,5,0.851064895793117,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+228,2,"15:32",932,932,"Foul on Larry McKnight Jr..",40,32,8,0,0.851064895793117,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+229,2,"15:32",932,932,"Cletrell Pope missed Free Throw.",40,32,8,0,0.851064895793117,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+230,2,"15:32",932,932,"Bethune-Cookman Deadball Team Rebound.",40,32,8,0,0.851064895793117,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+231,2,"15:32",932,932,"Cletrell Pope missed Free Throw.",40,32,8,0,0.851064895793117,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+232,2,"15:32",932,932,"Zacarry Douglas Defensive Rebound.",40,32,8,10,0.851064895793117,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+233,2,"15:22",922,922,"Jordan Perkins made Jumper.",40,34,6,27,0.782573770826119,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+234,2,"14:55",895,895,"Malik Maitland made Layup.",42,34,8,22,0.859399357841706,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+235,2,"14:33",873,873,"Jordan Perkins Turnover.",42,34,8,2,0.854720015581065,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+236,2,"14:31",871,871,"Mark Gordon Steal.",42,34,8,2,0.854720015581065,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+237,2,"14:29",869,869,"Soufiyane Diakite made Layup. Assisted by Mark Gordon.",44,34,10,9,0.889037814217442,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+238,2,"14:20",860,860,"Zacarry Douglas made Layup. Assisted by Randy Miller Jr..",44,36,8,8,0.845243055709957,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+239,2,"14:12",852,852,"Malik Maitland missed Three Point Jumper.",44,36,8,0,0.871574031316351,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+240,2,"14:12",852,852,"Zacarry Douglas Defensive Rebound.",44,36,8,7,0.871574031316351,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+241,2,"14:05",845,845,"Randy Miller Jr. Turnover.",44,36,8,17,0.869701613881846,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+242,2,"13:48",828,828,"Foul on Larry McKnight Jr..",44,36,8,0,0.847248777149532,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+243,2,"13:48",828,828,"Houston Smith made Free Throw.",45,36,9,0,0.870056645051535,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+244,2,"13:48",828,828,"Houston Smith missed Free Throw.",45,36,9,0,0.870056645051535,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+245,2,"13:48",828,828,"Raasean Davis Defensive Rebound.",45,36,9,2,0.870056645051535,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+246,2,"13:46",826,826,"Raasean Davis Turnover.",45,36,9,17,0.870056645051535,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+247,2,"13:29",809,809,"Dondre Duffus missed Layup.",45,36,9,0,0.891261515093641,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+248,2,"13:29",809,809,"Zacarry Douglas Defensive Rebound.",45,36,9,6,0.891261515093641,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+249,2,"13:23",803,803,"Randy Miller Jr. Turnover.",45,36,9,15,0.891261515093641,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+250,2,"13:08",788,788,"Malik Maitland missed Layup.",45,36,9,0,0.886204059421861,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+251,2,"13:08",788,788,"Houston Smith Offensive Rebound.",45,36,9,2,0.886204059421861,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+252,2,"13:06",786,786,"Houston Smith made Two Point Tip Shot.",47,36,11,15,0.921644957537431,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+253,2,"12:51",771,771,"Jordan Perkins Turnover.",47,36,11,1,0.925726361135469,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+254,2,"12:50",770,770,"Malik Maitland Steal.",47,36,11,1,0.925726361135469,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+255,2,"12:49",769,769,"Foul on Jordan Perkins.",47,36,11,8,0.934479256204822,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+256,2,"12:41",761,761,"Shawntrez Davis made Layup. Assisted by Dondre Duffus.",49,36,13,11,0.956454826034977,"Bethune-Cookman","North Carolina Central",4,4,0,0,1.1,"401089967",2019-02-02
+257,2,"12:30",750,750,"North Carolina Central  Timeout",49,36,13,0,0.953545148947217,"Bethune-Cookman","North Carolina Central",3,4,1,0,1.1,"401089967",2019-02-02
+258,2,"12:30",750,750,"Official TV Timeout",49,36,13,16,0.953545148947217,"Bethune-Cookman","North Carolina Central",3,4,1,0,1.1,"401089967",2019-02-02
+259,2,"12:14",734,734,"Randy Miller Jr. made Jumper. Assisted by Jordan Perkins.",49,38,11,24,0.928994743337032,"Bethune-Cookman","North Carolina Central",3,4,1,0,1.1,"401089967",2019-02-02
+260,2,"11:50",710,710,"Dondre Duffus made Layup.",51,38,13,22,0.950488117149636,"Bethune-Cookman","North Carolina Central",3,4,1,0,1.1,"401089967",2019-02-02
+261,2,"11:28",688,688,"Jordan Perkins missed Jumper.",51,38,13,0,0.955783000296384,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+262,2,"11:28",688,688,"Shawntrez Davis Defensive Rebound.",51,38,13,10,0.955783000296384,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+263,2,"11:18",678,678,"Foul on Shawntrez Davis.",51,38,13,0,0.960411906954797,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+264,2,"11:18",678,678,"Shawntrez Davis Turnover.",51,38,13,0,0.960411906954797,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+265,2,"11:18",678,678,"Official TV Timeout",51,38,13,10,0.960411906954797,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+266,2,"11:08",668,668,"Randy Miller Jr. missed Three Point Jumper.",51,38,13,0,0.961408274926829,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+267,2,"11:08",668,668,"David Francis Defensive Rebound.",51,38,13,23,0.961408274926829,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+268,2,"10:45",645,645,"Cletrell Pope missed Jumper.",51,38,13,0,0.965806625023138,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+269,2,"10:45",645,645,"Raasean Davis Defensive Rebound.",51,38,13,7,0.965806625023138,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+270,2,"10:38",638,638,"Jibri Blount made Layup. Assisted by Julian Walters.",51,40,11,21,0.941343128118086,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+271,2,"10:17",617,617,"Soufiyane Diakite made Jumper.",53,40,13,17,0.967909382875709,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+272,2,"10:00",600,600,"Foul on Houston Smith.",53,40,13,1,0.967450912722125,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+273,2,"9:59",599,599,"Larry McKnight Jr. Turnover.",53,40,13,1,0.964921290387212,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+274,2,"9:58",598,598,"Soufiyane Diakite Steal.",53,40,13,2,0.964921290387212,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+275,2,"9:56",596,596,"Foul on Julian Walters.",53,40,13,0,0.964921290387212,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+276,2,"9:56",596,596,"Malik Maitland made Free Throw.",54,40,14,0,0.972189201806246,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+277,2,"9:56",596,596,"Malik Maitland missed Free Throw.",54,40,14,0,0.972189201806246,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+278,2,"9:56",596,596,"Zacarry Douglas Defensive Rebound.",54,40,14,11,0.972189201806246,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+279,2,"9:45",585,585,"Julian Walters missed Three Point Jumper.",54,40,14,0,0.972389434203851,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+280,2,"9:45",585,585,"Julian Walters Offensive Rebound.",54,40,14,7,0.972389434203851,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+281,2,"9:38",578,578,"Reggie Gardner Jr. missed Three Point Jumper.",54,40,14,0,0.979129938215621,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+282,2,"9:38",578,578,"Zacarry Douglas Offensive Rebound.",54,40,14,12,0.979129938215621,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+283,2,"9:26",566,566,"Zacarry Douglas Turnover.",54,40,14,1,0.979254426357128,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+284,2,"9:25",565,565,"Cletrell Pope Steal.",54,40,14,2,0.979254426357128,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+285,2,"9:23",563,563,"Dondre Duffus made Layup. Assisted by Malik Maitland.",56,40,16,0,0.987511416784859,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+286,2,"9:23",563,563,"Foul on Julian Walters.",56,40,16,0,0.987511416784859,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+287,2,"9:23",563,563,"Dondre Duffus missed Free Throw.",56,40,16,0,0.987511416784859,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+288,2,"9:23",563,563,"Zacarry Douglas Defensive Rebound.",56,40,16,5,0.987511416784859,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+289,2,"9:18",558,558,"Jordan Perkins Turnover.",56,40,16,0,0.986862893077326,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+290,2,"9:18",558,558,"Malik Maitland Steal.",56,40,16,19,0.986862893077326,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+291,2,"8:59",539,539,"Dondre Duffus Turnover.",56,40,16,17,0.99183446032562,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+292,2,"8:42",522,522,"Reggie Gardner Jr. Turnover.",56,40,16,2,0.989988580824059,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+293,2,"8:40",520,520,"Cletrell Pope Steal.",56,40,16,2,0.989988580824059,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+294,2,"8:38",518,518,"Foul on Soufiyane Diakite.",56,40,16,0,0.989046555083228,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+295,2,"8:38",518,518,"Soufiyane Diakite Turnover.",56,40,16,23,0.989046555083228,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+296,2,"8:15",495,495,"Zacarry Douglas missed Jumper.",56,40,16,0,0.990450187220443,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+297,2,"8:15",495,495,"Jibri Blount Offensive Rebound.",56,40,16,3,0.990450187220443,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+298,2,"8:12",492,492,"Jibri Blount made Two Point Tip Shot.",56,42,14,16,0.983658353697022,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+299,2,"7:56",476,476,"Dondre Duffus Turnover.",56,42,14,1,0.985978126474547,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+300,2,"7:55",475,475,"Jordan Perkins Steal.",56,42,14,4,0.985978126474547,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+301,2,"7:51",471,471,"Jordan Perkins made Layup.",56,44,12,19,0.975178705990401,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+302,2,"7:32",452,452,"Shawntrez Davis missed Jumper.",56,44,12,0,0.981201859899943,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+303,2,"7:32",452,452,"Jibri Blount Defensive Rebound.",56,44,12,5,0.981201859899943,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+304,2,"7:27",447,447,"Foul on Dondre Duffus.",56,44,12,0,0.970913736351618,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+305,2,"7:27",447,447,"Official TV Timeout",56,44,12,0,0.970913736351618,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+306,2,"7:27",447,447,"Randy Miller Jr. made Free Throw.",56,45,11,0,0.962022893269209,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+307,2,"7:27",447,447,"Randy Miller Jr. made Free Throw.",56,46,10,6,0.950552779827058,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+308,2,"7:21",441,441,"Malik Maitland made Layup.",58,46,12,16,0.970913736351618,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+309,2,"7:05",425,425,"Jibri Blount missed Three Point Jumper.",58,46,12,0,0.975660900880062,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+310,2,"7:05",425,425,"Mark Gordon Defensive Rebound.",58,46,12,9,0.975660900880062,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+311,2,"6:56",416,416,"Soufiyane Diakite made Layup. Assisted by Mark Gordon.",60,46,14,6,0.987607528147537,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+312,2,"6:50",410,410,"Foul on Mark Gordon.",60,46,14,0,0.987607528147537,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+313,2,"6:50",410,410,"Randy Miller Jr. made Free Throw.",60,47,13,0,0.983322166235134,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+314,2,"6:50",410,410,"Randy Miller Jr. made Free Throw.",60,48,12,14,0.977588538702286,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+315,2,"6:36",396,396,"Shawntrez Davis missed Jumper.",60,48,12,0,0.981609592914018,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+316,2,"6:36",396,396,"Shawntrez Davis Offensive Rebound.",60,48,12,4,0.981609592914018,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+317,2,"6:32",392,392,"Foul on Jibri Blount.",60,48,12,0,0.981609592914018,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+318,2,"6:32",392,392,"Shawntrez Davis made Free Throw.",61,48,13,0,0.986473756104471,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+319,2,"6:32",392,392,"Shawntrez Davis made Free Throw.",62,48,14,12,0.990064396524833,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+320,2,"6:20",380,380,"Randy Miller Jr. missed Three Point Jumper.",62,48,14,0,0.987254121335906,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+321,2,"6:20",380,380,"Zacarry Douglas Offensive Rebound.",62,48,14,6,0.987254121335906,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+322,2,"6:14",374,374,"Foul on Houston Smith.",62,48,14,0,0.988504905546601,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+323,2,"6:14",374,374,"Zacarry Douglas made Free Throw.",62,49,13,0,0.984397647588422,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+324,2,"6:14",374,374,"Zacarry Douglas made Free Throw.",62,50,12,19,0.978854237894486,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+325,2,"5:55",355,355,"Soufiyane Diakite missed Layup.",62,50,12,0,0.983636823765726,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+326,2,"5:55",355,355,"Zacarry Douglas Defensive Rebound.",62,50,12,6,0.983636823765726,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+327,2,"5:49",349,349,"Randy Miller Jr. made Layup. Assisted by Jordan Perkins.",62,52,10,33,0.967067507845343,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+328,2,"5:16",316,316,"Malik Maitland made Layup. Assisted by Cletrell Pope.",64,52,12,1,0.989914556593345,"Bethune-Cookman","North Carolina Central",3,4,0,0,1.1,"401089967",2019-02-02
+329,2,"5:15",315,315,"Bethune-Cookman  Timeout",64,52,12,6,0.989914556593345,"Bethune-Cookman","North Carolina Central",3,3,0,1,1.1,"401089967",2019-02-02
+330,2,"5:09",309,309,"Zacarry Douglas made Dunk. Assisted by Jordan Perkins.",64,54,10,0,0.972398827530768,"Bethune-Cookman","North Carolina Central",3,3,0,1,1.1,"401089967",2019-02-02
+331,2,"5:09",309,309,"Foul on Cletrell Pope.",64,54,10,0,0.972398827530768,"Bethune-Cookman","North Carolina Central",3,3,0,1,1.1,"401089967",2019-02-02
+332,2,"5:09",309,309,"Zacarry Douglas made Free Throw.",64,55,9,14,0.961700430425998,"Bethune-Cookman","North Carolina Central",3,3,0,1,1.1,"401089967",2019-02-02
+333,2,"4:55",295,295,"Shawntrez Davis missed Three Point Jumper.",64,55,9,0,0.961857745890697,"Bethune-Cookman","North Carolina Central",3,3,0,1,1.1,"401089967",2019-02-02
+334,2,"4:55",295,295,"Jordan Perkins Defensive Rebound.",64,55,9,12,0.961857745890697,"Bethune-Cookman","North Carolina Central",3,3,0,1,1.1,"401089967",2019-02-02
+335,2,"4:43",283,283,"Jibri Blount made Layup. Assisted by Zacarry Douglas.",64,57,7,14,0.929935535018979,"Bethune-Cookman","North Carolina Central",3,3,0,1,1.1,"401089967",2019-02-02
+336,2,"4:29",269,269,"Malik Maitland missed Three Point Jumper.",64,57,7,0,0.94198402221648,"Bethune-Cookman","North Carolina Central",3,3,0,1,1.1,"401089967",2019-02-02
+337,2,"4:29",269,269,"Randy Miller Jr. Defensive Rebound.",64,57,7,3,0.94198402221648,"Bethune-Cookman","North Carolina Central",3,3,0,1,1.1,"401089967",2019-02-02
+338,2,"4:26",266,266,"Foul on Houston Smith.",64,57,7,0,0.94198402221648,"Bethune-Cookman","North Carolina Central",3,3,0,1,1.1,"401089967",2019-02-02
+339,2,"4:26",266,266,"Randy Miller Jr. made Free Throw.",64,58,6,0,0.917889954270268,"Bethune-Cookman","North Carolina Central",3,3,0,1,1.1,"401089967",2019-02-02
+340,2,"4:26",266,266,"Randy Miller Jr. made Free Throw.",64,59,5,12,0.88501108289694,"Bethune-Cookman","North Carolina Central",3,3,0,1,1.1,"401089967",2019-02-02
+341,2,"4:14",254,254,"Armani Collins made Three Point Jumper. Assisted by Malik Maitland.",67,59,8,22,0.972795058532074,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+342,2,"3:52",232,232,"Zacarry Douglas missed Layup.",67,59,8,0,0.96885933945599,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+343,2,"3:52",232,232,"Cletrell Pope Block.",67,59,8,2,0.96885933945599,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+344,2,"3:50",230,230,"Armani Collins Defensive Rebound.",67,59,8,20,0.96885933945599,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+345,2,"3:30",210,210,"Official TV Timeout",67,59,8,22,0.973863754353192,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+346,2,"3:08",188,188,"Bethune-Cookman  Turnover.",67,59,8,4,0.981117232524433,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+347,2,"3:04",184,184,"Zacarry Douglas missed Three Point Jumper.",67,59,8,0,0.981117232524433,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+348,2,"3:04",184,184,"Jibri Blount Offensive Rebound.",67,59,8,4,0.981117232524433,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+349,2,"3:00",180,180,"Zacarry Douglas missed Three Point Jumper.",67,59,8,0,0.981117232524433,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+350,2,"3:00",180,180,"Shawntrez Davis Defensive Rebound.",67,59,8,28,0.981117232524433,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+351,2,"2:32",152,152,"Malik Maitland missed Jumper.",67,59,8,0,0.989051558793079,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+352,2,"2:32",152,152,"Cletrell Pope Offensive Rebound.",67,59,8,15,0.989051558793079,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+353,2,"2:17",137,137,"Cletrell Pope made Jumper. Assisted by Shawntrez Davis.",69,59,10,10,0.996920007613995,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+354,2,"2:07",127,127,"Jordan Perkins missed Three Point Jumper.",69,59,10,0,0.996674594609916,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+355,2,"2:07",127,127,"Malik Maitland Defensive Rebound.",69,59,10,16,0.996674594609916,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+356,2,"1:51",111,111,"Armani Collins Turnover.",69,59,10,1,0.998026895003899,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+357,2,"1:50",110,110,"Zacarry Douglas Steal.",69,59,10,3,0.998026895003899,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+358,2,"1:47",107,107,"Randy Miller Jr. made Layup. Assisted by Jordan Perkins.",69,61,8,0,0.992863282286588,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+359,2,"1:47",107,107,"Foul on Malik Maitland.",69,61,8,0,0.992863282286588,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+360,2,"1:47",107,107,"Randy Miller Jr. made Free Throw.",69,62,7,0,0.986826352798253,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+361,2,"1:47",107,107,"Foul on Larry McKnight Jr..",69,62,7,0,0.986826352798253,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+362,2,"1:47",107,107,"Houston Smith missed Free Throw.",69,62,7,0,0.986826352798253,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+363,2,"1:47",107,107,"Cletrell Pope Offensive Rebound.",69,62,7,2,0.986826352798253,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+364,2,"1:45",105,105,"Cletrell Pope missed Jumper.",69,62,7,0,0.986826352798253,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+365,2,"1:45",105,105,"Zacarry Douglas Defensive Rebound.",69,62,7,1,0.986826352798253,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+366,2,"1:44",104,104,"Foul on Cletrell Pope.",69,62,7,0,0.986826352798253,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+367,2,"1:44",104,104,"Zacarry Douglas missed Free Throw.",69,62,7,0,0.986826352798253,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+368,2,"1:44",104,104,"North Carolina Central Deadball Team Rebound.",69,62,7,0,0.986826352798253,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+369,2,"1:44",104,104,"Zacarry Douglas missed Free Throw.",69,62,7,0,0.986826352798253,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+370,2,"1:44",104,104,"Jibri Blount Offensive Rebound.",69,62,7,3,0.986826352798253,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+371,2,"1:41",101,101,"Jibri Blount missed Jumper.",69,62,7,0,0.986826352798253,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+372,2,"1:41",101,101,"Shawntrez Davis Block.",69,62,7,1,0.986826352798253,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+373,2,"1:40",100,100,"Nicolas Fennell Offensive Rebound.",69,62,7,5,0.986826352798253,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+374,2,"1:35",95,95,"Nicolas Fennell missed Three Point Jumper.",69,62,7,0,0.989103185498171,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+375,2,"1:35",95,95,"Cletrell Pope Defensive Rebound.",69,62,7,4,0.989103185498171,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+376,2,"1:31",91,91,"Foul on Zacarry Douglas.",69,62,7,0,0.989103185498171,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+377,2,"1:31",91,91,"Cletrell Pope made Free Throw.",70,62,8,0,0.994160060249122,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+378,2,"1:31",91,91,"Cletrell Pope made Free Throw.",71,62,9,9,0.996877603929075,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+379,2,"1:22",82,82,"Randy Miller Jr. Turnover.",71,62,9,1,0.998770328884631,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+380,2,"1:21",81,81,"Malik Maitland Steal.",71,62,9,3,0.998770328884631,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+381,2,"1:18",78,78,"Cletrell Pope made Dunk. Assisted by Malik Maitland.",73,62,11,10,0.999692692401607,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+382,2,"1:08",68,68,"Jibri Blount missed Three Point Jumper.",73,62,11,0,0.999701761471592,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+383,2,"1:08",68,68,"Soufiyane Diakite Defensive Rebound.",73,62,11,5,0.999701761471592,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+384,2,"1:03",63,63,"Soufiyane Diakite Turnover.",73,62,11,2,0.999701761471592,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+385,2,"1:01",61,61,"Randy Miller Jr. made Jumper. Assisted by Jordan Perkins.",73,64,9,5,0.998685295061011,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+386,2,"0:56",56,56,"Foul on Nicolas Fennell.",73,64,9,0,0.999663632164135,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+387,2,"0:56",56,56,"Malik Maitland missed Free Throw.",73,64,9,0,0.999663632164135,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+388,2,"0:56",56,56,"Bethune-Cookman Deadball Team Rebound.",73,64,9,0,0.999663632164135,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+389,2,"0:56",56,56,"Malik Maitland made Free Throw.",74,64,10,17,0.999859240038293,"Bethune-Cookman","North Carolina Central",3,3,0,0,1.1,"401089967",2019-02-02
+390,2,"0:39",39,39,"North Carolina Central  Timeout",74,64,10,8,0.999942166514876,"Bethune-Cookman","North Carolina Central",2,3,1,0,1.1,"401089967",2019-02-02
+391,2,"0:31",31,31,"Randy Miller Jr. missed Three Point Jumper.",74,64,10,0,0.999929660672125,"Bethune-Cookman","North Carolina Central",2,3,1,0,1.1,"401089967",2019-02-02
+392,2,"0:31",31,31,"Shawntrez Davis Defensive Rebound.",74,64,10,31,0.999929660672125,"Bethune-Cookman","North Carolina Central",2,3,1,0,1.1,"401089967",2019-02-02
+393,2,"0:00",0,0,"End of Game",74,64,10,0,1,"Bethune-Cookman","North Carolina Central",2,3,1,0,1.1,"401089967",2019-02-02

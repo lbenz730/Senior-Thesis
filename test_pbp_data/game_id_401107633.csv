@@ -1,0 +1,336 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","play_length","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,13,0.5,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+2,1,"19:47",2387,2387,"Kason Harrell Turnover.",0,0,0,2,0.511793930844357,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+3,1,"19:45",2385,2385,"Bentiu Panoam Steal.",0,0,0,3,0.511793930844357,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+4,1,"19:42",2382,2382,"Bentiu Panoam missed Layup.",0,0,0,0,0.511793930844357,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+5,1,"19:42",2382,2382,"Dylan Carl Defensive Rebound.",0,0,0,11,0.511793930844357,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+6,1,"19:31",2371,2371,"Dylan Carl missed Three Point Jumper.",0,0,0,0,0.524279741327167,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+7,1,"19:31",2371,2371,"Filip Rebraca Defensive Rebound.",0,0,0,18,0.524279741327167,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+8,1,"19:13",2353,2353,"Conner Avants missed Jumper.",0,0,0,0,0.529703192727122,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+9,1,"19:13",2353,2353,"Dylan Carl Block.",0,0,0,3,0.529703192727122,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+10,1,"19:10",2350,2350,"Dylan Carl Defensive Rebound.",0,0,0,15,0.529703192727122,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+11,1,"18:55",2335,2335,"Matt Holba made Layup.",0,2,-2,19,0.470023074839075,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+12,1,"18:36",2316,2316,"Bentiu Panoam missed Three Point Jumper.",0,2,-2,0,0.457832974334341,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+13,1,"18:36",2316,2316,"Matt Holba Defensive Rebound.",0,2,-2,12,0.457832974334341,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+14,1,"18:24",2304,2304,"John Konchar missed Layup.",0,2,-2,0,0.459371780952129,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+15,1,"18:24",2304,2304,"Cortez Seales Block.",0,2,-2,2,0.459371780952129,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+16,1,"18:22",2302,2302,"Conner Avants Defensive Rebound.",0,2,-2,1,0.459371780952129,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+17,1,"18:21",2301,2301,"Filip Rebraca Turnover.",0,2,-2,15,0.459371780952129,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+18,1,"18:06",2286,2286,"Kason Harrell made Layup. Assisted by Dylan Carl.",0,4,-4,14,0.405686960021399,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+19,1,"17:52",2272,2272,"Bentiu Panoam Turnover.",0,4,-4,2,0.418086356656478,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+20,1,"17:50",2270,2270,"Dylan Carl Steal.",0,4,-4,7,0.418086356656478,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+21,1,"17:43",2263,2263,"John Konchar made Layup.",0,6,-6,16,0.34033280137431,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+22,1,"17:27",2247,2247,"Billy Brown made Jumper.",2,6,-4,12,0.435053143371683,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+23,1,"17:15",2235,2235,"Kason Harrell missed Layup.",2,6,-4,0,0.40678893398887,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+24,1,"17:15",2235,2235,"Bentiu Panoam Defensive Rebound.",2,6,-4,6,0.40678893398887,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+25,1,"17:09",2229,2229,"Bentiu Panoam missed Layup.",2,6,-4,0,0.41732347992743,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+26,1,"17:09",2229,2229,"Dylan Carl Block.",2,6,-4,2,0.41732347992743,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+27,1,"17:07",2227,2227,"John Konchar Defensive Rebound.",2,6,-4,6,0.41732347992743,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+28,1,"17:01",2221,2221,"John Konchar missed Three Point Jumper.",2,6,-4,0,0.41732347992743,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+29,1,"17:01",2221,2221,"Conner Avants Defensive Rebound.",2,6,-4,22,0.41732347992743,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+30,1,"16:39",2199,2199,"Aanen Moody made Three Point Jumper. Assisted by Marlon Stewart.",5,6,-1,30,0.499600529344708,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+31,1,"16:09",2169,2169,"Dee Montgomery Turnover.",5,6,-1,18,0.487806698444488,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+32,1,"15:51",2151,2151,"Aanen Moody missed Three Point Jumper.",5,6,-1,0,0.474604556703262,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+33,1,"15:51",2151,2151,"Dylan Carl Defensive Rebound.",5,6,-1,12,0.474604556703262,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+34,1,"15:39",2139,2139,"Dylan Carl made Layup. Assisted by John Konchar.",5,8,-3,12,0.422162195153279,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+35,1,"15:27",2127,2127,"Filip Rebraca made Dunk. Assisted by Marlon Stewart.",7,8,-1,12,0.479555594739344,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+36,1,"15:15",2115,2115,"Dee Montgomery made Three Point Jumper. Assisted by John Konchar.",7,11,-4,14,0.39076705927183,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+37,1,"15:01",2101,2101,"Aanen Moody missed Jumper.",7,11,-4,0,0.400172769266952,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+38,1,"15:01",2101,2101,"Kason Harrell Defensive Rebound.",7,11,-4,9,0.400172769266952,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+39,1,"14:52",2092,2092,"Kason Harrell made Three Point Jumper. Assisted by John Konchar.",7,14,-7,19,0.306317378388496,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+40,1,"14:33",2073,2073,"Filip Rebraca missed Three Point Jumper.",7,14,-7,0,0.325983151714266,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+41,1,"14:33",2073,2073,"John Konchar Defensive Rebound.",7,14,-7,5,0.325983151714266,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+42,1,"14:28",2068,2068,"Marcus DeBerry missed Layup.",7,14,-7,0,0.304502621674671,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+43,1,"14:28",2068,2068,"Aanen Moody Defensive Rebound.",7,14,-7,10,0.304502621674671,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+44,1,"14:18",2058,2058,"Marlon Stewart missed Three Point Jumper.",7,14,-7,0,0.306893840518964,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+45,1,"14:18",2058,2058,"Dylan Carl Defensive Rebound.",7,14,-7,6,0.306893840518964,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+46,1,"14:12",2052,2052,"Official TV Timeout",7,14,-7,0,0.306893840518964,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+47,1,"14:12",2052,2052,"Technical Foul on Purdue Fort Wayne.",7,14,-7,0,0.306893840518964,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+48,1,"14:12",2052,2052,"Aanen Moody made Free Throw.",8,14,-6,12,0.332361418392072,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+49,1,"14:00",2040,2040,"Kason Harrell made Jumper.",8,16,-8,32,0.292985879680867,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+50,1,"13:28",2008,2008,"Kienan Walter made Layup. Assisted by Conner Avants.",10,16,-6,9,0.348074880919788,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+51,1,"13:19",1999,1999,"Cameron Benford Turnover.",10,16,-6,0,0.325216499388469,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+52,1,"13:19",1999,1999,"Foul on Cameron Benford.",10,16,-6,7,0.325216499388469,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+53,1,"13:12",1992,1992,"Aanen Moody made Three Point Jumper. Assisted by Marlon Stewart.",13,16,-3,15,0.415674255766404,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+54,1,"12:57",1977,1977,"Marcus DeBerry missed Three Point Jumper.",13,16,-3,0,0.418578050258016,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+55,1,"12:57",1977,1977,"Aanen Moody Defensive Rebound.",13,16,-3,12,0.418578050258016,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+56,1,"12:45",1965,1965,"Cortez Seales missed Jumper.",13,16,-3,0,0.432195425959218,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+57,1,"12:45",1965,1965,"John Konchar Defensive Rebound.",13,16,-3,10,0.432195425959218,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+58,1,"12:35",1955,1955,"John Konchar made Jumper.",13,18,-5,17,0.37024817541632,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+59,1,"12:18",1938,1938,"Foul on Marcus DeBerry.",13,18,-5,0,0.347079014274863,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+60,1,"12:18",1938,1938,"Conner Avants made Free Throw.",14,18,-4,0,0.376898646978775,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+61,1,"12:18",1938,1938,"Conner Avants made Free Throw.",15,18,-3,15,0.407680573364638,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+62,1,"12:03",1923,1923,"Kason Harrell made Three Point Jumper.",15,21,-6,13,0.318826036011339,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+63,1,"11:50",1910,1910,"Kienan Walter missed Three Point Jumper.",15,21,-6,0,0.3441410088242,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+64,1,"11:50",1910,1910,"Matt Holba Defensive Rebound.",15,21,-6,11,0.3441410088242,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+65,1,"11:39",1899,1899,"Jarred Godfrey missed Three Point Jumper.",15,21,-6,0,0.328023863271027,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+66,1,"11:39",1899,1899,"Conner Avants Defensive Rebound.",15,21,-6,7,0.328023863271027,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+67,1,"11:32",1892,1892,"Aanen Moody Turnover.",15,21,-6,5,0.328023863271027,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+68,1,"11:27",1887,1887,"Kason Harrell made Layup.",15,23,-8,19,0.273639412657897,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+69,1,"11:08",1868,1868,"Bentiu Panoam missed Three Point Jumper.",15,23,-8,0,0.278491260578466,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+70,1,"11:08",1868,1868,"Matt Holba Block.",15,23,-8,5,0.278491260578466,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+71,1,"11:03",1863,1863,"Matt Weir Defensive Rebound.",15,23,-8,8,0.278491260578466,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+72,1,"10:55",1855,1855,"Jarred Godfrey missed Layup.",15,23,-8,0,0.280735960022426,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+73,1,"10:55",1855,1855,"Kienan Walter Defensive Rebound.",15,23,-8,14,0.280735960022426,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+74,1,"10:41",1841,1841,"Marlon Stewart missed Three Point Jumper.",15,23,-8,0,0.264984289859794,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+75,1,"10:41",1841,1841,"Dylan Carl Defensive Rebound.",15,23,-8,4,0.264984289859794,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+76,1,"10:37",1837,1837,"Official TV Timeout",15,23,-8,7,0.28079593438332,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+77,1,"10:30",1830,1830,"Matt Holba Turnover.",15,23,-8,12,0.28079593438332,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+78,1,"10:18",1818,1818,"Aanen Moody missed Jumper.",15,23,-8,0,0.260532135664794,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+79,1,"10:18",1818,1818,"Jarred Godfrey Defensive Rebound.",15,23,-8,10,0.260532135664794,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+80,1,"10:08",1808,1808,"John Konchar missed Jumper.",15,23,-8,0,0.269070290549386,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+81,1,"10:08",1808,1808,"Billy Brown Defensive Rebound.",15,23,-8,11,0.269070290549386,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+82,1,"9:57",1797,1797,"Kienan Walter missed Layup.",15,23,-8,0,0.265654449296832,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+83,1,"9:57",1797,1797,"Bentiu Panoam Offensive Rebound.",15,23,-8,25,0.265654449296832,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+84,1,"9:32",1772,1772,"Cortez Seales made Jumper.",17,23,-6,0,0.321864560569159,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+85,1,"9:32",1772,1772,"Foul on Dee Montgomery.",17,23,-6,0,0.321864560569159,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+86,1,"9:32",1772,1772,"Cortez Seales missed Free Throw.",17,23,-6,0,0.321864560569159,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+87,1,"9:32",1772,1772,"Cameron Benford Defensive Rebound.",17,23,-6,12,0.321864560569159,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+88,1,"9:20",1760,1760,"Dee Montgomery Turnover.",17,23,-6,18,0.326377506767801,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+89,1,"9:02",1742,1742,"Conner Avants Turnover.",17,23,-6,0,0.344108080420823,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+90,1,"9:02",1742,1742,"Foul on Conner Avants.",17,23,-6,19,0.344108080420823,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+91,1,"8:43",1723,1723,"Matt Holba Turnover.",17,23,-6,15,0.332827095255539,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+92,1,"8:28",1708,1708,"Conner Avants Turnover.",17,23,-6,2,0.318616872547038,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+93,1,"8:26",1706,1706,"Matt Holba Steal.",17,23,-6,10,0.318616872547038,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+94,1,"8:16",1696,1696,"Dee Montgomery Turnover.",17,23,-6,1,0.318835680246019,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+95,1,"8:15",1695,1695,"Billy Brown Steal.",17,23,-6,4,0.318835680246019,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+96,1,"8:11",1691,1691,"Aanen Moody made Three Point Jumper. Assisted by Billy Brown.",20,23,-3,15,0.41799230329389,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+97,1,"7:56",1676,1676,"John Konchar made Three Point Jumper. Assisted by Jarred Godfrey.",20,26,-6,23,0.316436832209721,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+98,1,"7:33",1653,1653,"Conner Avants Turnover.",20,26,-6,0,0.329110546054901,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+99,1,"7:33",1653,1653,"Official TV Timeout",20,26,-6,8,0.329110546054901,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+100,1,"7:25",1645,1645,"Dylan Carl missed Three Point Jumper.",20,26,-6,0,0.31982157690203,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+101,1,"7:25",1645,1645,"Marcus DeBerry Offensive Rebound.",20,26,-6,11,0.31982157690203,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+102,1,"7:14",1634,1634,"Dylan Carl made Layup. Assisted by Kason Harrell.",20,28,-8,21,0.279037610859689,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+103,1,"6:53",1613,1613,"Billy Brown missed Jumper.",20,28,-8,0,0.243314220854544,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+104,1,"6:53",1613,1613,"Marcus DeBerry Defensive Rebound.",20,28,-8,12,0.243314220854544,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+105,1,"6:41",1601,1601,"Kason Harrell made Layup.",20,30,-10,7,0.214051588572765,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+106,1,"6:34",1594,1594,"Billy Brown missed Three Point Jumper.",20,30,-10,0,0.226427037670807,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+107,1,"6:34",1594,1594,"Kason Harrell Defensive Rebound.",20,30,-10,11,0.226427037670807,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+108,1,"6:23",1583,1583,"Kason Harrell missed Layup.",20,30,-10,0,0.203329412165202,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+109,1,"6:23",1583,1583,"Kienan Walter Defensive Rebound.",20,30,-10,15,0.203329412165202,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+110,1,"6:08",1568,1568,"Aanen Moody missed Three Point Jumper.",20,30,-10,0,0.193542788247333,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+111,1,"6:08",1568,1568,"John Konchar Defensive Rebound.",20,30,-10,16,0.193542788247333,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+112,1,"5:52",1552,1552,"John Konchar missed Three Point Jumper.",20,30,-10,0,0.195254237083756,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+113,1,"5:52",1552,1552,"John Konchar Offensive Rebound.",20,30,-10,2,0.195254237083756,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+114,1,"5:50",1550,1550,"Foul on Billy Brown.",20,30,-10,0,0.195254237083756,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+115,1,"5:50",1550,1550,"John Konchar missed Free Throw.",20,30,-10,0,0.195254237083756,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+116,1,"5:50",1550,1550,"Purdue Fort Wayne Deadball Team Rebound.",20,30,-10,0,0.195254237083756,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+117,1,"5:50",1550,1550,"John Konchar made Free Throw.",20,31,-11,22,0.173675627818943,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+118,1,"5:28",1528,1528,"Conner Avants missed Layup.",20,31,-11,0,0.181236329926612,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+119,1,"5:28",1528,1528,"Cameron Benford Block.",20,31,-11,5,0.181236329926612,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+120,1,"5:23",1523,1523,"Matt Weir Defensive Rebound.",20,31,-11,3,0.181236329926612,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+121,1,"5:20",1520,1520,"Matt Holba made Three Point Jumper. Assisted by Matt Weir.",20,34,-14,0,0.126221149264484,"North Dakota","Purdue Fort Wayne",4,4,1,0,NA,"401107633",2018-12-29
+122,1,"5:20",1520,1520,"North Dakota  Timeout",20,34,-14,10,0.126221149264484,"North Dakota","Purdue Fort Wayne",3,4,1,0,NA,"401107633",2018-12-29
+123,1,"5:10",1510,1510,"Foul on Cameron Benford.",20,34,-14,0,0.117838459498384,"North Dakota","Purdue Fort Wayne",3,4,1,0,NA,"401107633",2018-12-29
+124,1,"5:10",1510,1510,"Kienan Walter made Free Throw.",21,34,-13,0,0.134633962559329,"North Dakota","Purdue Fort Wayne",3,4,1,0,NA,"401107633",2018-12-29
+125,1,"5:10",1510,1510,"Kienan Walter made Free Throw.",22,34,-12,12,0.153407036727336,"North Dakota","Purdue Fort Wayne",3,4,1,0,NA,"401107633",2018-12-29
+126,1,"4:58",1498,1498,"Matt Holba made Layup.",22,36,-14,21,0.139932879807316,"North Dakota","Purdue Fort Wayne",3,4,1,0,NA,"401107633",2018-12-29
+127,1,"4:37",1477,1477,"Aanen Moody missed Three Point Jumper.",22,36,-14,0,0.108159709467204,"North Dakota","Purdue Fort Wayne",3,4,1,0,NA,"401107633",2018-12-29
+128,1,"4:37",1477,1477,"Conner Avants Offensive Rebound.",22,36,-14,2,0.108159709467204,"North Dakota","Purdue Fort Wayne",3,4,1,0,NA,"401107633",2018-12-29
+129,1,"4:35",1475,1475,"Conner Avants made Layup.",24,36,-12,13,0.14136596570574,"North Dakota","Purdue Fort Wayne",3,4,1,0,NA,"401107633",2018-12-29
+130,1,"4:22",1462,1462,"Matt Holba made Three Point Jumper. Assisted by John Konchar.",24,39,-15,12,0.121983732058135,"North Dakota","Purdue Fort Wayne",3,4,1,0,NA,"401107633",2018-12-29
+131,1,"4:10",1450,1450,"Foul on Matt Weir.",24,39,-15,12,0.0986904171144827,"North Dakota","Purdue Fort Wayne",3,4,0,0,NA,"401107633",2018-12-29
+132,1,"3:58",1438,1438,"Cortez Seales missed Layup.",24,39,-15,0,0.106396778157168,"North Dakota","Purdue Fort Wayne",3,4,0,0,NA,"401107633",2018-12-29
+133,1,"3:58",1438,1438,"John Konchar Block.",24,39,-15,0,0.106396778157168,"North Dakota","Purdue Fort Wayne",3,4,0,0,NA,"401107633",2018-12-29
+134,1,"3:58",1438,1438,"North Dakota Offensive Rebound.",24,39,-15,0,0.106396778157168,"North Dakota","Purdue Fort Wayne",3,4,0,0,NA,"401107633",2018-12-29
+135,1,"3:58",1438,1438,"Official TV Timeout",24,39,-15,9,0.106396778157168,"North Dakota","Purdue Fort Wayne",3,4,0,0,NA,"401107633",2018-12-29
+136,1,"3:49",1429,1429,"North Dakota  Turnover.",24,39,-15,18,0.104547269182906,"North Dakota","Purdue Fort Wayne",3,4,0,0,NA,"401107633",2018-12-29
+137,1,"3:31",1411,1411,"Dylan Carl missed Three Point Jumper.",24,39,-15,0,0.0924943179112536,"North Dakota","Purdue Fort Wayne",3,4,0,0,NA,"401107633",2018-12-29
+138,1,"3:31",1411,1411,"Aanen Moody Defensive Rebound.",24,39,-15,24,0.0924943179112536,"North Dakota","Purdue Fort Wayne",3,4,0,0,NA,"401107633",2018-12-29
+139,1,"3:07",1387,1387,"Foul on Kason Harrell.",24,39,-15,10,0.104943504665366,"North Dakota","Purdue Fort Wayne",3,4,0,0,NA,"401107633",2018-12-29
+140,1,"2:57",1377,1377,"Marlon Stewart made Three Point Jumper. Assisted by Cortez Seales.",27,39,-12,22,0.149429793968907,"North Dakota","Purdue Fort Wayne",3,4,0,0,NA,"401107633",2018-12-29
+141,1,"2:35",1355,1355,"Dylan Carl Turnover.",27,39,-12,3,0.149302252445473,"North Dakota","Purdue Fort Wayne",3,4,0,0,NA,"401107633",2018-12-29
+142,1,"2:32",1352,1352,"Cortez Seales Steal.",27,39,-12,4,0.149302252445473,"North Dakota","Purdue Fort Wayne",3,4,0,0,NA,"401107633",2018-12-29
+143,1,"2:28",1348,1348,"Cortez Seales Turnover.",27,39,-12,2,0.134893371942232,"North Dakota","Purdue Fort Wayne",3,4,0,0,NA,"401107633",2018-12-29
+144,1,"2:26",1346,1346,"Matt Holba Steal.",27,39,-12,4,0.134893371942232,"North Dakota","Purdue Fort Wayne",3,4,0,0,NA,"401107633",2018-12-29
+145,1,"2:22",1342,1342,"Kason Harrell made Dunk. Assisted by Matt Weir.",27,41,-14,16,0.102087526045464,"North Dakota","Purdue Fort Wayne",3,4,0,0,NA,"401107633",2018-12-29
+146,1,"2:06",1326,1326,"Aanen Moody missed Three Point Jumper.",27,41,-14,0,0.103665254911778,"North Dakota","Purdue Fort Wayne",3,4,0,0,NA,"401107633",2018-12-29
+147,1,"2:06",1326,1326,"Filip Rebraca Offensive Rebound.",27,41,-14,5,0.103665254911778,"North Dakota","Purdue Fort Wayne",3,4,0,0,NA,"401107633",2018-12-29
+148,1,"2:01",1321,1321,"Purdue Fort Wayne  Timeout",27,41,-14,4,0.103665254911778,"North Dakota","Purdue Fort Wayne",3,3,0,1,NA,"401107633",2018-12-29
+149,1,"1:57",1317,1317,"Foul on Dylan Carl.",27,41,-14,0,0.111469116624604,"North Dakota","Purdue Fort Wayne",3,3,0,1,NA,"401107633",2018-12-29
+150,1,"1:57",1317,1317,"Marlon Stewart missed Free Throw.",27,41,-14,0,0.111469116624604,"North Dakota","Purdue Fort Wayne",3,3,0,1,NA,"401107633",2018-12-29
+151,1,"1:57",1317,1317,"North Dakota Deadball Team Rebound.",27,41,-14,0,0.111469116624604,"North Dakota","Purdue Fort Wayne",3,3,0,1,NA,"401107633",2018-12-29
+152,1,"1:57",1317,1317,"Marlon Stewart made Free Throw.",28,41,-13,13,0.128066048185804,"North Dakota","Purdue Fort Wayne",3,3,0,1,NA,"401107633",2018-12-29
+153,1,"1:44",1304,1304,"Dee Montgomery made Three Point Jumper.",28,44,-16,13,0.0937112154982754,"North Dakota","Purdue Fort Wayne",3,3,0,1,NA,"401107633",2018-12-29
+154,1,"1:31",1291,1291,"Conner Avants Turnover.",28,44,-16,0,0.0746134111434247,"North Dakota","Purdue Fort Wayne",3,3,0,1,NA,"401107633",2018-12-29
+155,1,"1:31",1291,1291,"Dee Montgomery Steal.",28,44,-16,24,0.0746134111434247,"North Dakota","Purdue Fort Wayne",3,3,0,1,NA,"401107633",2018-12-29
+156,1,"1:07",1267,1267,"Dee Montgomery missed Three Point Jumper.",28,44,-16,0,0.0822095883765307,"North Dakota","Purdue Fort Wayne",3,3,0,1,NA,"401107633",2018-12-29
+157,1,"1:07",1267,1267,"Cortez Seales Defensive Rebound.",28,44,-16,21,0.0822095883765307,"North Dakota","Purdue Fort Wayne",3,3,0,1,NA,"401107633",2018-12-29
+158,1,"0:46",1246,1246,"Billy Brown missed Three Point Jumper.",28,44,-16,0,0.0809944750859047,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+159,1,"0:46",1246,1246,"Dylan Carl Defensive Rebound.",28,44,-16,16,0.0809944750859047,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+160,1,"0:30",1230,1230,"John Konchar missed Layup.",28,44,-16,0,0.0726554197308443,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+161,1,"0:30",1230,1230,"Conner Avants Block.",28,44,-16,0,0.0726554197308443,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+162,1,"0:30",1230,1230,"Conner Avants Defensive Rebound.",28,44,-16,0,0.0726554197308443,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+163,1,"0:30",1230,1230,"Billy Brown made Layup. Assisted by Conner Avants.",30,44,-14,28,0.0975645974247545,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+164,1,"0:02",1202,1202,"John Konchar made Layup.",30,46,-16,2,0.075961329635499,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+165,1,"0:00",1200,1200,"End of 1st half",30,46,-16,0,0.075961329635499,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+166,2,"20:00",1200,1200,"PLAY",30,46,-16,20,0.075961329635499,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+167,2,"19:40",1180,1180,"Aanen Moody made Jumper. Assisted by Billy Brown.",32,46,-14,16,0.0935266456646752,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+168,2,"19:24",1164,1164,"Dylan Carl made Jumper.",32,48,-16,15,0.0647018460433252,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+169,2,"19:09",1149,1149,"Aanen Moody missed Jumper.",32,48,-16,0,0.0638543898212741,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+170,2,"19:09",1149,1149,"Dylan Carl Defensive Rebound.",32,48,-16,32,0.0638543898212741,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+171,2,"18:37",1117,1117,"Kason Harrell missed Three Point Jumper.",32,48,-16,0,0.0643078095541143,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+172,2,"18:37",1117,1117,"Aanen Moody Defensive Rebound.",32,48,-16,9,0.0643078095541143,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+173,2,"18:28",1108,1108,"Conner Avants missed Layup.",32,48,-16,0,0.0709602835438099,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+174,2,"18:28",1108,1108,"John Konchar Defensive Rebound.",32,48,-16,5,0.0709602835438099,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+175,2,"18:23",1103,1103,"Dylan Carl made Layup. Assisted by John Konchar.",32,50,-18,19,0.0521749836793746,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+176,2,"18:04",1084,1084,"Marlon Stewart missed Jumper.",32,50,-18,0,0.0408615875572321,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+177,2,"18:04",1084,1084,"Kason Harrell Defensive Rebound.",32,50,-18,15,0.0408615875572321,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+178,2,"17:49",1069,1069,"Dylan Carl missed Jumper.",32,50,-18,0,0.0490031057004519,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+179,2,"17:49",1069,1069,"Cortez Seales Defensive Rebound.",32,50,-18,6,0.0490031057004519,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+180,2,"17:43",1063,1063,"Aanen Moody made Three Point Jumper. Assisted by Billy Brown.",35,50,-15,15,0.0795580067310156,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+181,2,"17:28",1048,1048,"John Konchar missed Layup.",35,50,-15,0,0.0757025845876034,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+182,2,"17:28",1048,1048,"Cortez Seales Defensive Rebound.",35,50,-15,8,0.0757025845876034,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+183,2,"17:20",1040,1040,"Billy Brown missed Layup.",35,50,-15,0,0.0757025845876034,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+184,2,"17:20",1040,1040,"John Konchar Defensive Rebound.",35,50,-15,5,0.0757025845876034,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+185,2,"17:15",1035,1035,"Foul on Cortez Seales.",35,50,-15,24,0.0727848893561624,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+186,2,"16:51",1011,1011,"Matt Weir missed Three Point Jumper.",35,50,-15,0,0.0582940504695872,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+187,2,"16:51",1011,1011,"Kienan Walter Defensive Rebound.",35,50,-15,19,0.0582940504695872,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+188,2,"16:32",992,992,"Aanen Moody missed Three Point Jumper.",35,50,-15,0,0.0642347249518158,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+189,2,"16:32",992,992,"John Konchar Defensive Rebound.",35,50,-15,13,0.0642347249518158,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+190,2,"16:19",979,979,"Matt Weir missed Three Point Jumper.",35,50,-15,0,0.0690105171230325,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+191,2,"16:19",979,979,"Kienan Walter Defensive Rebound.",35,50,-15,7,0.0690105171230325,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+192,2,"16:12",972,972,"Billy Brown Turnover.",35,50,-15,2,0.0690105171230325,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+193,2,"16:10",970,970,"John Konchar Steal.",35,50,-15,3,0.0690105171230325,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+194,2,"16:07",967,967,"Foul on Billy Brown.",35,50,-15,2,0.0602042482194911,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+195,2,"16:05",965,965,"Dylan Carl made Dunk. Assisted by Kason Harrell.",35,52,-17,29,0.0423311388057629,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+196,2,"15:36",936,936,"Marlon Stewart made Layup.",37,52,-15,0,0.0564488834126913,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+197,2,"15:36",936,936,"Foul on Marcus DeBerry.",37,52,-15,0,0.0564488834126913,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+198,2,"15:36",936,936,"Marlon Stewart made Free Throw.",38,52,-14,14,0.0675511129630923,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+199,2,"15:22",922,922,"Marcus DeBerry missed Three Point Jumper.",38,52,-14,0,0.0603818882709781,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+200,2,"15:22",922,922,"Dylan Carl Offensive Rebound.",38,52,-14,6,0.0603818882709781,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+201,2,"15:16",916,916,"Matt Weir Turnover.",38,52,-14,12,0.0625253565440071,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+202,2,"15:04",904,904,"Ethan Igbanugo Turnover.",38,52,-14,1,0.0677090524687669,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+203,2,"15:03",903,903,"Dylan Carl Steal.",38,52,-14,3,0.0677090524687669,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+204,2,"15:00",900,900,"Jarred Godfrey made Layup. Assisted by Dylan Carl.",38,54,-16,0,0.0471975053939451,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+205,2,"15:00",900,900,"Foul on Ethan Igbanugo.",38,54,-16,0,0.0471975053939451,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+206,2,"15:00",900,900,"Marcus DeBerry Turnover.",38,54,-16,16,0.0471975053939451,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+207,2,"14:44",884,884,"Filip Rebraca missed Jumper.",38,54,-16,0,0.0600140773524294,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+208,2,"14:44",884,884,"Dylan Carl Block.",38,54,-16,4,0.0600140773524294,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+209,2,"14:40",880,880,"Filip Rebraca Offensive Rebound.",38,54,-16,3,0.0600140773524294,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+210,2,"14:37",877,877,"Marlon Stewart made Jumper.",40,54,-14,0,0.0676801907734056,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+211,2,"14:37",877,877,"Foul on Dee Montgomery.",40,54,-14,0,0.0676801907734056,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+212,2,"14:37",877,877,"Marlon Stewart made Free Throw.",41,54,-13,18,0.0808941586060258,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+213,2,"14:19",859,859,"Foul on Aanen Moody.",41,54,-13,0,0.0728700905420887,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+214,2,"14:19",859,859,"John Konchar made Free Throw.",41,55,-14,0,0.0601693456901925,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+215,2,"14:19",859,859,"John Konchar made Free Throw.",41,56,-15,19,0.0495639107635262,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+216,2,"14:00",840,840,"Ethan Igbanugo made Three Point Jumper. Assisted by Marlon Stewart.",44,56,-12,6,0.0759647143962923,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+217,2,"13:54",834,834,"Jarred Godfrey Turnover.",44,56,-12,25,0.0806574417619058,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+218,2,"13:29",809,809,"Kienan Walter made Layup. Assisted by Marlon Stewart.",46,56,-10,10,0.128283269071203,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+219,2,"13:19",799,799,"John Konchar missed Jumper.",46,56,-10,0,0.102572081322282,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+220,2,"13:19",799,799,"Aanen Moody Defensive Rebound.",46,56,-10,8,0.102572081322282,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+221,2,"13:11",791,791,"Ethan Igbanugo missed Layup.",46,56,-10,0,0.102572081322282,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+222,2,"13:11",791,791,"Ethan Igbanugo Offensive Rebound.",46,56,-10,14,0.102572081322282,"North Dakota","Purdue Fort Wayne",4,4,0,0,NA,"401107633",2018-12-29
+223,2,"12:57",777,777,"Foul on John Konchar.",46,56,-10,0,0.114845313561729,"North Dakota","Purdue Fort Wayne",4,4,0,1,NA,"401107633",2018-12-29
+224,2,"12:57",777,777,"Purdue Fort Wayne  Timeout",46,56,-10,11,0.114845313561729,"North Dakota","Purdue Fort Wayne",4,3,0,1,NA,"401107633",2018-12-29
+225,2,"12:46",766,766,"Aanen Moody missed Three Point Jumper.",46,56,-10,0,0.115479001033764,"North Dakota","Purdue Fort Wayne",4,3,0,1,NA,"401107633",2018-12-29
+226,2,"12:46",766,766,"John Konchar Defensive Rebound.",46,56,-10,16,0.115479001033764,"North Dakota","Purdue Fort Wayne",4,3,0,1,NA,"401107633",2018-12-29
+227,2,"12:30",750,750,"John Konchar Turnover.",46,56,-10,0,0.106110276912026,"North Dakota","Purdue Fort Wayne",4,3,0,1,NA,"401107633",2018-12-29
+228,2,"12:30",750,750,"Foul on John Konchar.",46,56,-10,10,0.106110276912026,"North Dakota","Purdue Fort Wayne",4,3,0,1,NA,"401107633",2018-12-29
+229,2,"12:20",740,740,"Marlon Stewart made Three Point Jumper. Assisted by Kienan Walter.",49,56,-7,13,0.174880988099206,"North Dakota","Purdue Fort Wayne",4,3,0,1,NA,"401107633",2018-12-29
+230,2,"12:07",727,727,"Matt Holba made Three Point Jumper. Assisted by Dee Montgomery.",49,59,-10,22,0.1136592930389,"North Dakota","Purdue Fort Wayne",4,3,0,1,NA,"401107633",2018-12-29
+231,2,"11:45",705,705,"Marlon Stewart missed Jumper.",49,59,-10,0,0.118524783645613,"North Dakota","Purdue Fort Wayne",4,3,0,0,NA,"401107633",2018-12-29
+232,2,"11:45",705,705,"Kason Harrell Defensive Rebound.",49,59,-10,18,0.118524783645613,"North Dakota","Purdue Fort Wayne",4,3,0,0,NA,"401107633",2018-12-29
+233,2,"11:27",687,687,"Dylan Carl missed Jumper.",49,59,-10,0,0.0983565466815918,"North Dakota","Purdue Fort Wayne",4,3,0,0,NA,"401107633",2018-12-29
+234,2,"11:27",687,687,"Kienan Walter Defensive Rebound.",49,59,-10,16,0.0983565466815918,"North Dakota","Purdue Fort Wayne",4,3,0,0,NA,"401107633",2018-12-29
+235,2,"11:11",671,671,"Aanen Moody missed Three Point Jumper.",49,59,-10,0,0.0906317737631229,"North Dakota","Purdue Fort Wayne",4,3,0,0,NA,"401107633",2018-12-29
+236,2,"11:11",671,671,"Aanen Moody Offensive Rebound.",49,59,-10,5,0.0906317737631229,"North Dakota","Purdue Fort Wayne",4,3,0,0,NA,"401107633",2018-12-29
+237,2,"11:06",666,666,"Ethan Igbanugo missed Three Point Jumper.",49,59,-10,0,0.107271829005762,"North Dakota","Purdue Fort Wayne",4,3,0,0,NA,"401107633",2018-12-29
+238,2,"11:06",666,666,"Dee Montgomery Defensive Rebound.",49,59,-10,21,0.107271829005762,"North Dakota","Purdue Fort Wayne",4,3,0,0,NA,"401107633",2018-12-29
+239,2,"10:45",645,645,"Foul on Aanen Moody.",49,59,-10,0,0.0902994162967341,"North Dakota","Purdue Fort Wayne",4,3,0,0,NA,"401107633",2018-12-29
+240,2,"10:45",645,645,"Official TV Timeout",49,59,-10,3,0.0902994162967341,"North Dakota","Purdue Fort Wayne",4,3,0,0,NA,"401107633",2018-12-29
+241,2,"10:42",642,642,"Dylan Carl missed Jumper.",49,59,-10,0,0.0902994162967341,"North Dakota","Purdue Fort Wayne",4,3,0,0,NA,"401107633",2018-12-29
+242,2,"10:42",642,642,"Billy Brown Defensive Rebound.",49,59,-10,9,0.0902994162967341,"North Dakota","Purdue Fort Wayne",4,3,0,0,NA,"401107633",2018-12-29
+243,2,"10:33",633,633,"Billy Brown Turnover.",49,59,-10,0,0.0902763237946505,"North Dakota","Purdue Fort Wayne",4,3,0,0,NA,"401107633",2018-12-29
+244,2,"10:33",633,633,"Dee Montgomery Steal.",49,59,-10,4,0.0902763237946505,"North Dakota","Purdue Fort Wayne",4,3,0,0,NA,"401107633",2018-12-29
+245,2,"10:29",629,629,"Dee Montgomery made Layup.",49,61,-12,23,0.0487494713425125,"North Dakota","Purdue Fort Wayne",4,3,0,0,NA,"401107633",2018-12-29
+246,2,"10:06",606,606,"Filip Rebraca Turnover.",49,61,-12,3,0.053921218755403,"North Dakota","Purdue Fort Wayne",4,3,0,0,NA,"401107633",2018-12-29
+247,2,"10:03",603,603,"Cameron Benford Steal.",49,61,-12,5,0.053921218755403,"North Dakota","Purdue Fort Wayne",4,3,0,0,NA,"401107633",2018-12-29
+248,2,"9:58",598,598,"Kason Harrell made Jumper.",49,63,-14,8,0.03592713420812,"North Dakota","Purdue Fort Wayne",4,3,0,0,NA,"401107633",2018-12-29
+249,2,"9:50",590,590,"North Dakota  Timeout",49,63,-14,16,0.03592713420812,"North Dakota","Purdue Fort Wayne",3,3,1,0,NA,"401107633",2018-12-29
+250,2,"9:34",574,574,"Billy Brown Turnover.",49,63,-14,28,0.0331292291496347,"North Dakota","Purdue Fort Wayne",3,3,1,0,NA,"401107633",2018-12-29
+251,2,"9:06",546,546,"Cameron Benford Turnover.",49,63,-14,2,0.0227881101711895,"North Dakota","Purdue Fort Wayne",3,3,1,0,NA,"401107633",2018-12-29
+252,2,"9:04",544,544,"Conner Avants Steal.",49,63,-14,3,0.0227881101711895,"North Dakota","Purdue Fort Wayne",3,3,1,0,NA,"401107633",2018-12-29
+253,2,"9:01",541,541,"Marlon Stewart made Layup.",51,63,-12,7,0.0383302340080866,"North Dakota","Purdue Fort Wayne",3,3,1,0,NA,"401107633",2018-12-29
+254,2,"8:54",534,534,"Kason Harrell missed Jumper.",51,63,-12,0,0.0388104875650887,"North Dakota","Purdue Fort Wayne",3,3,1,0,NA,"401107633",2018-12-29
+255,2,"8:54",534,534,"Carter Brooks Defensive Rebound.",51,63,-12,7,0.0388104875650887,"North Dakota","Purdue Fort Wayne",3,3,1,0,NA,"401107633",2018-12-29
+256,2,"8:47",527,527,"Aanen Moody made Three Point Jumper. Assisted by Marlon Stewart.",54,63,-9,32,0.0891787020521724,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+257,2,"8:15",495,495,"Marcus DeBerry missed Three Point Jumper.",54,63,-9,0,0.0933367631632167,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+258,2,"8:15",495,495,"Marlon Stewart Defensive Rebound.",54,63,-9,7,0.0933367631632167,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+259,2,"8:08",488,488,"Marlon Stewart Turnover.",54,63,-9,1,0.0837844705432246,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+260,2,"8:07",487,487,"Marcus DeBerry Steal.",54,63,-9,7,0.0837844705432246,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+261,2,"8:00",480,480,"Matt Weir made Layup.",54,65,-11,30,0.0502689951674611,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+262,2,"7:30",450,450,"Bentiu Panoam missed Layup.",54,65,-11,0,0.0307881831454723,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+263,2,"7:30",450,450,"Cameron Benford Defensive Rebound.",54,65,-11,25,0.0307881831454723,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+264,2,"7:05",425,425,"Matt Weir Turnover.",54,65,-11,0,0.0369152948738045,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+265,2,"7:05",425,425,"Marlon Stewart Steal.",54,65,-11,0,0.0369152948738045,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+266,2,"7:05",425,425,"Official TV Timeout",54,65,-11,9,0.0369152948738045,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+267,2,"6:56",416,416,"Aanen Moody missed Three Point Jumper.",54,65,-11,0,0.0362454049353442,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+268,2,"6:56",416,416,"Bentiu Panoam Offensive Rebound.",54,65,-11,10,0.0362454049353442,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+269,2,"6:46",406,406,"Marlon Stewart missed Layup.",54,65,-11,0,0.0261770791383584,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+270,2,"6:46",406,406,"North Dakota Offensive Rebound.",54,65,-11,0,0.0261770791383584,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+271,2,"6:46",406,406,"Bentiu Panoam made Three Point Jumper. Assisted by Marlon Stewart.",57,65,-8,11,0.067423117751968,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+272,2,"6:35",395,395,"Marcus DeBerry missed Three Point Jumper.",57,65,-8,0,0.0849454461719379,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+273,2,"6:35",395,395,"Kienan Walter Defensive Rebound.",57,65,-8,28,0.0849454461719379,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+274,2,"6:07",367,367,"Aanen Moody Turnover.",57,65,-8,12,0.0749021349278844,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+275,2,"5:55",355,355,"Foul on Kienan Walter.",57,65,-8,0,0.0555199007855696,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+276,2,"5:55",355,355,"John Konchar made Free Throw.",57,66,-9,0,0.0401496359996079,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+277,2,"5:55",355,355,"John Konchar made Free Throw.",57,67,-10,9,0.0289042910659447,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+278,2,"5:46",346,346,"Kienan Walter made Layup. Assisted by Marlon Stewart.",59,67,-8,9,0.0596448550551845,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+279,2,"5:37",337,337,"John Konchar Turnover.",59,67,-8,9,0.0617727403975699,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+280,2,"5:28",328,328,"Foul on Kason Harrell.",59,67,-8,11,0.0739884423291109,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+281,2,"5:17",317,317,"Kienan Walter made Layup.",61,67,-6,10,0.10816671251391,"North Dakota","Purdue Fort Wayne",3,3,0,0,NA,"401107633",2018-12-29
+282,2,"5:07",307,307,"Purdue Fort Wayne  Timeout",61,67,-6,10,0.12437359851106,"North Dakota","Purdue Fort Wayne",3,2,0,1,NA,"401107633",2018-12-29
+283,2,"4:57",297,297,"Kason Harrell made Layup. Assisted by Dylan Carl.",61,69,-8,18,0.061380322571502,"North Dakota","Purdue Fort Wayne",3,2,0,1,NA,"401107633",2018-12-29
+284,2,"4:39",279,279,"Marlon Stewart missed Jumper.",61,69,-8,0,0.0413681086927158,"North Dakota","Purdue Fort Wayne",3,2,0,1,NA,"401107633",2018-12-29
+285,2,"4:39",279,279,"John Konchar Defensive Rebound.",61,69,-8,11,0.0413681086927158,"North Dakota","Purdue Fort Wayne",3,2,0,1,NA,"401107633",2018-12-29
+286,2,"4:28",268,268,"Dylan Carl Turnover.",61,69,-8,1,0.0514680533681965,"North Dakota","Purdue Fort Wayne",3,2,0,1,NA,"401107633",2018-12-29
+287,2,"4:27",267,267,"Ethan Igbanugo Steal.",61,69,-8,8,0.0514680533681965,"North Dakota","Purdue Fort Wayne",3,2,0,1,NA,"401107633",2018-12-29
+288,2,"4:19",259,259,"Foul on Dee Montgomery.",61,69,-8,14,0.0372234344115562,"North Dakota","Purdue Fort Wayne",3,2,0,1,NA,"401107633",2018-12-29
+289,2,"4:05",245,245,"Marlon Stewart made Layup.",63,69,-6,14,0.0839540045708246,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+290,2,"3:51",231,231,"Dee Montgomery made Jumper. Assisted by Matt Weir.",63,71,-8,10,0.0414334264701065,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+291,2,"3:41",221,221,"Foul on Kason Harrell.",63,71,-8,0,0.0356621810835612,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+292,2,"3:41",221,221,"Official TV Timeout",63,71,-8,0,0.0356621810835612,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+293,2,"3:41",221,221,"Marlon Stewart made Free Throw.",64,71,-7,0,0.0534596106843099,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+294,2,"3:41",221,221,"Marlon Stewart missed Free Throw.",64,71,-7,0,0.0534596106843099,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+295,2,"3:41",221,221,"Marcus DeBerry Defensive Rebound.",64,71,-7,17,0.0534596106843099,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+296,2,"3:24",204,204,"Foul on Kienan Walter.",64,71,-7,0,0.045024637306335,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+297,2,"3:24",204,204,"Dylan Carl made Free Throw.",64,72,-8,0,0.0291275598846653,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+298,2,"3:24",204,204,"Dylan Carl made Free Throw.",64,73,-9,12,0.0187332398432034,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+299,2,"3:12",192,192,"Foul on Kason Harrell.",64,73,-9,0,0.0151681285769288,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+300,2,"3:12",192,192,"Kienan Walter missed Free Throw.",64,73,-9,0,0.0151681285769288,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+301,2,"3:12",192,192,"North Dakota Deadball Team Rebound.",64,73,-9,0,0.0151681285769288,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+302,2,"3:12",192,192,"Kienan Walter made Free Throw.",65,73,-8,16,0.0240021263662241,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+303,2,"2:56",176,176,"John Konchar missed Three Point Jumper.",65,73,-8,0,0.0220706726143571,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+304,2,"2:56",176,176,"Kienan Walter Defensive Rebound.",65,73,-8,14,0.0220706726143571,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+305,2,"2:42",162,162,"Ethan Igbanugo Turnover.",65,73,-8,21,0.0178065214814869,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+306,2,"2:21",141,141,"Marcus DeBerry missed Three Point Jumper.",65,73,-8,0,0.0142495664484224,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+307,2,"2:21",141,141,"Kienan Walter Defensive Rebound.",65,73,-8,16,0.0142495664484224,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+308,2,"2:05",125,125,"Aanen Moody missed Three Point Jumper.",65,73,-8,0,0.0101663377874732,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+309,2,"2:05",125,125,"Marcus DeBerry Defensive Rebound.",65,73,-8,17,0.0101663377874732,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+310,2,"1:48",108,108,"Kason Harrell made Layup. Assisted by Dylan Carl.",65,75,-10,15,0.00184847758658224,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+311,2,"1:33",93,93,"Marlon Stewart missed Three Point Jumper.",65,75,-10,0,0.00194600841248755,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+312,2,"1:33",93,93,"John Konchar Defensive Rebound.",65,75,-10,9,0.00194600841248755,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+313,2,"1:24",84,84,"Foul on Marlon Stewart.",65,75,-10,0,0.00092244253171731,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+314,2,"1:24",84,84,"John Konchar made Free Throw.",65,76,-11,0,0.000450803361736012,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+315,2,"1:24",84,84,"John Konchar made Free Throw.",65,77,-12,5,0.000220257223556745,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+316,2,"1:19",79,79,"Marlon Stewart missed Layup.",65,77,-12,0,0.000137350363193484,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+317,2,"1:19",79,79,"John Konchar Defensive Rebound.",65,77,-12,5,0.000137350363193484,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+318,2,"1:14",74,74,"Foul on Marlon Stewart.",65,77,-12,0,0.000137350363193484,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+319,2,"1:14",74,74,"John Konchar made Free Throw.",65,78,-13,0,6.58649440525076e-05,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+320,2,"1:14",74,74,"John Konchar made Free Throw.",65,79,-14,11,3.15836764767423e-05,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+321,2,"1:03",63,63,"Ethan Igbanugo made Layup. Assisted by Kienan Walter.",67,79,-12,14,0.000123728279675168,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+322,2,"0:49",49,49,"Foul on Aanen Moody.",67,79,-12,0,1.16415789751413e-05,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+323,2,"0:49",49,49,"Matt Weir missed Free Throw.",67,79,-12,0,1.16415789751413e-05,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+324,2,"0:49",49,49,"Purdue Fort Wayne Deadball Team Rebound.",67,79,-12,0,1.16415789751413e-05,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+325,2,"0:49",49,49,"Matt Weir made Free Throw.",67,80,-13,5,4.4945482561132e-06,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+326,2,"0:44",44,44,"Aanen Moody made Three Point Jumper. Assisted by Marlon Stewart.",70,80,-10,6,0.000304084901554341,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+327,2,"0:38",38,38,"Foul on Aanen Moody.",70,80,-10,0,8.2230140311419e-05,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+328,2,"0:38",38,38,"Matt Weir made Free Throw.",70,81,-11,0,3.15834408489687e-05,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+329,2,"0:38",38,38,"Matt Weir made Free Throw.",70,82,-12,5,1.21303771833158e-05,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+330,2,"0:33",33,33,"Aanen Moody missed Three Point Jumper.",70,82,-12,0,1.28881768283123e-06,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+331,2,"0:33",33,33,"John Konchar Defensive Rebound.",70,82,-12,8,1.28881768283123e-06,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+332,2,"0:25",25,25,"Foul on Aanen Moody.",70,82,-12,0,3.20448216840127e-07,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+333,2,"0:25",25,25,"Matt Weir made Free Throw.",70,83,-13,0,8.88993138525113e-08,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+334,2,"0:25",25,25,"Matt Weir made Free Throw.",70,84,-14,9,2.46626015244984e-08,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29
+335,2,"0:16",16,16,"Kienan Walter made Three Point Jumper. Assisted by Marlon Stewart.",73,84,-11,0,9.83992325003449e-09,"North Dakota","Purdue Fort Wayne",3,2,0,0,NA,"401107633",2018-12-29

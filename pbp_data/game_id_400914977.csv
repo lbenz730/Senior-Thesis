@@ -1,0 +1,330 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.398165870133373,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+2,1,"20:00",2400,2400,"Jump Ball won by Indiana",0,0,0,0.398165870133373,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+3,1,"19:50",2390,2390,"James Blackmon Jr. made Layup. Assisted by Robert Johnson.",0,2,-2,0.361457932947571,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+4,1,"19:42",2382,2382,"Justin Jackson Turnover.",0,2,-2,0.386799159681207,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+5,1,"19:39",2379,2379,"Robert Johnson Turnover.",0,2,-2,0.373606474032073,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+6,1,"19:32",2372,2372,"Anthony Cowan made Layup.",2,2,0,0.419085590057975,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+7,1,"19:10",2350,2350,"Josh Newkirk missed Jumper.",2,2,0,0.423479676727261,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+8,1,"19:10",2350,2350,"Anthony Cowan Block.",2,2,0,0.423479676727261,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+9,1,"19:10",2350,2350,"Josh Newkirk Offensive Rebound.",2,2,0,0.423479676727261,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+10,1,"19:10",2350,2350,"Josh Newkirk missed Jumper.",2,2,0,0.423479676727261,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+11,1,"19:10",2350,2350,"Indiana Offensive Rebound.",2,2,0,0.423479676727261,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+12,1,"18:55",2335,2335,"Foul on James Blackmon Jr..",2,2,0,0.41201938355647,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+13,1,"18:55",2335,2335,"James Blackmon Jr. Turnover.",2,2,0,0.41201938355647,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+14,1,"18:40",2320,2320,"Kevin Huerter missed Three Point Jumper.",2,2,0,0.428428681681081,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+15,1,"18:40",2320,2320,"Damonte Dodd Offensive Rebound.",2,2,0,0.428428681681081,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+16,1,"18:33",2313,2313,"Damonte Dodd missed Layup.",2,2,0,0.406060701965157,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+17,1,"18:33",2313,2313,"James Blackmon Jr. Defensive Rebound.",2,2,0,0.406060701965157,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+18,1,"18:28",2308,2308,"Robert Johnson missed Three Point Jumper.",2,2,0,0.407671369221706,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+19,1,"18:28",2308,2308,"Kevin Huerter Defensive Rebound.",2,2,0,0.407671369221706,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+20,1,"18:19",2299,2299,"Foul on James Blackmon Jr..",2,2,0,0.41719770247575,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+21,1,"18:19",2299,2299,"Melo Trimble made Free Throw.",3,2,1,0.441077181050095,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+22,1,"18:19",2299,2299,"Melo Trimble made Free Throw.",4,2,2,0.465232388783757,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+23,1,"17:57",2277,2277,"Robert Johnson made Three Point Jumper. Assisted by Thomas Bryant.",4,5,-1,0.392788779872343,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+24,1,"17:39",2259,2259,"Justin Jackson made Three Point Jumper. Assisted by Melo Trimble.",7,5,2,0.469448300153245,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+25,1,"17:20",2240,2240,"Josh Newkirk made Layup. Assisted by OG Anunoby.",7,7,0,0.433497966685127,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+26,1,"16:58",2218,2218,"Damonte Dodd made Dunk. Assisted by Melo Trimble.",9,7,2,0.494368722684217,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+27,1,"16:44",2204,2204,"Thomas Bryant missed Three Point Jumper.",9,7,2,0.474837974056613,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+28,1,"16:44",2204,2204,"Indiana Offensive Rebound.",9,7,2,0.474837974056613,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+29,1,"16:30",2190,2190,"OG Anunoby missed Dunk.",9,7,2,0.483570339329308,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+30,1,"16:30",2190,2190,"Damonte Dodd Block.",9,7,2,0.483570339329308,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+31,1,"16:30",2190,2190,"Maryland Defensive Rebound.",9,7,2,0.483570339329308,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+32,1,"16:16",2176,2176,"Melo Trimble Turnover.",9,7,2,0.46276910643087,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+33,1,"16:16",2176,2176,"Juwan Morgan Steal.",9,7,2,0.46276910643087,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+34,1,"15:53",2153,2153,"Robert Johnson missed Jumper.",9,7,2,0.461639635213749,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+35,1,"15:53",2153,2153,"Justin Jackson Block.",9,7,2,0.461639635213749,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+36,1,"15:53",2153,2153,"Justin Jackson Defensive Rebound.",9,7,2,0.461639635213749,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+37,1,"15:46",2146,2146,"Anthony Cowan made Layup.",11,7,4,0.522697597643845,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+38,1,"15:36",2136,2136,"Foul on Anthony Cowan.",11,7,4,0.531084618885085,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+39,1,"15:36",2136,2136,"Official TV Timeout",11,7,4,0.531084618885085,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+40,1,"15:15",2115,2115,"Devonte Green missed Jumper.",11,7,4,0.517867100755962,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+41,1,"15:15",2115,2115,"Indiana Offensive Rebound.",11,7,4,0.517867100755962,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+42,1,"15:09",2109,2109,"Robert Johnson missed Jumper.",11,7,4,0.523003441976075,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+43,1,"15:09",2109,2109,"Juwan Morgan Offensive Rebound.",11,7,4,0.523003441976075,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+44,1,"15:00",2100,2100,"Juwan Morgan Turnover.",11,7,4,0.523003441976075,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+45,1,"14:47",2087,2087,"Melo Trimble missed Jumper.",11,7,4,0.535412628126318,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+46,1,"14:47",2087,2087,"Thomas Bryant Defensive Rebound.",11,7,4,0.535412628126318,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+47,1,"14:31",2071,2071,"Foul on OG Anunoby.",11,7,4,0.509364333358286,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+48,1,"14:31",2071,2071,"OG Anunoby Turnover.",11,7,4,0.509364333358286,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+49,1,"14:19",2059,2059,"Melo Trimble missed Layup.",11,7,4,0.511577457703031,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+50,1,"14:19",2059,2059,"Devonte Green Defensive Rebound.",11,7,4,0.511577457703031,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+51,1,"14:11",2051,2051,"Devonte Green made Three Point Jumper. Assisted by Juwan Morgan.",11,10,1,0.424298090288345,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+52,1,"13:47",2027,2027,"Ivan Bender Turnover.",11,10,1,0.437544430707327,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+53,1,"13:44",2024,2024,"Josh Newkirk made Layup.",11,12,-1,0.374049380010693,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+54,1,"13:26",2006,2006,"Foul on De'Ron Davis.",11,12,-1,0.384493782804962,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+55,1,"13:26",2006,2006,"Melo Trimble made Free Throw.",12,12,0,0.410919278052315,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+56,1,"13:26",2006,2006,"Melo Trimble missed Free Throw.",12,12,0,0.410919278052315,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+57,1,"13:26",2006,2006,"OG Anunoby Defensive Rebound.",12,12,0,0.410919278052315,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+58,1,"13:13",1993,1993,"Freddie McSwain Jr. missed Layup.",12,12,0,0.412868301599686,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+59,1,"13:13",1993,1993,"Damonte Dodd Block.",12,12,0,0.412868301599686,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+60,1,"13:13",1993,1993,"Jaylen Brantley Defensive Rebound.",12,12,0,0.412868301599686,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+61,1,"12:49",1969,1969,"Foul on Freddie McSwain Jr..",12,12,0,0.412615922358891,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+62,1,"12:49",1969,1969,"L.G. Gill missed Free Throw.",12,12,0,0.412615922358891,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+63,1,"12:49",1969,1969,"Maryland Deadball Team Rebound.",12,12,0,0.412615922358891,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+64,1,"12:49",1969,1969,"L.G. Gill made Free Throw.",13,12,1,0.438517313593414,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+65,1,"12:23",1943,1943,"De'Ron Davis missed Jumper.",13,12,1,0.445131668794051,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+66,1,"12:23",1943,1943,"Jaylen Brantley Defensive Rebound.",13,12,1,0.445131668794051,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+67,1,"12:12",1932,1932,"Jaylen Brantley missed Jumper.",13,12,1,0.43972729138469,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+68,1,"12:12",1932,1932,"Damonte Dodd Offensive Rebound.",13,12,1,0.43972729138469,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+69,1,"12:07",1927,1927,"Jump Ball won by Maryland",13,12,1,0.427468667323736,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+70,1,"11:50",1910,1910,"Jaylen Brantley missed Three Point Jumper.",13,12,1,0.467979564782885,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+71,1,"11:50",1910,1910,"Freddie McSwain Jr. Defensive Rebound.",13,12,1,0.467979564782885,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+72,1,"11:45",1905,1905,"Jump Ball won by Indiana",13,12,1,0.439015556726171,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+73,1,"11:44",1904,1904,"Official TV Timeout",13,12,1,0.439015556726171,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+74,1,"11:35",1895,1895,"Juwan Morgan Turnover.",13,12,1,0.462413846428536,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+75,1,"11:27",1887,1887,"Justin Jackson made Three Point Jumper.",16,12,4,0.527126808034962,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+76,1,"11:14",1874,1874,"Foul on Justin Jackson.",16,12,4,0.538213373963039,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+77,1,"10:59",1859,1859,"Thomas Bryant missed Jumper.",16,12,4,0.554470298059279,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+78,1,"10:59",1859,1859,"Damonte Dodd Block.",16,12,4,0.554470298059279,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+79,1,"10:59",1859,1859,"Indiana Offensive Rebound.",16,12,4,0.554470298059279,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+80,1,"10:55",1855,1855,"Foul on Jared Nickens.",16,12,4,0.554470298059279,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+81,1,"10:45",1845,1845,"Thomas Bryant Turnover.",16,12,4,0.5180812385769,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+82,1,"10:45",1845,1845,"Anthony Cowan Turnover.",16,12,4,0.5180812385769,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+83,1,"10:45",1845,1845,"Robert Johnson Steal.",16,12,4,0.5180812385769,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+84,1,"10:45",1845,1845,"Robert Johnson made Layup.",16,14,2,0.456272624986408,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+85,1,"10:39",1839,1839,"Justin Jackson missed Three Point Jumper.",16,14,2,0.489974326837431,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+86,1,"10:39",1839,1839,"Juwan Morgan Defensive Rebound.",16,14,2,0.489974326837431,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+87,1,"10:26",1826,1826,"Robert Johnson missed Three Point Jumper.",16,14,2,0.49511014188452,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+88,1,"10:26",1826,1826,"Justin Jackson Defensive Rebound.",16,14,2,0.49511014188452,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+89,1,"10:15",1815,1815,"Anthony Cowan made Three Point Jumper.",19,14,5,0.597032860022783,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+90,1,"9:28",1768,1768,"James Blackmon Jr. missed Three Point Jumper.",19,14,5,0.576649570410126,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+91,1,"9:28",1768,1768,"Thomas Bryant Offensive Rebound.",19,14,5,0.576649570410126,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+92,1,"9:25",1765,1765,"Foul on Ivan Bender.",19,14,5,0.576649570410126,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+93,1,"9:07",1747,1747,"Robert Johnson missed Jumper.",19,14,5,0.596618085819952,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+94,1,"9:07",1747,1747,"Justin Jackson Defensive Rebound.",19,14,5,0.596618085819952,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+95,1,"8:53",1733,1733,"Ivan Bender missed Layup.",19,14,5,0.588503618088808,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+96,1,"8:53",1733,1733,"Thomas Bryant Block.",19,14,5,0.588503618088808,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+97,1,"8:53",1733,1733,"Justin Jackson Offensive Rebound.",19,14,5,0.588503618088808,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+98,1,"8:48",1728,1728,"Justin Jackson made Layup.",21,14,7,0.675022242157042,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+99,1,"8:41",1721,1721,"OG Anunoby Turnover.",21,14,7,0.675022242157042,"Maryland","Indiana",4,4,1,0,-2,400914977,2017-01-10
+100,1,"8:41",1721,1721,"Indiana  Timeout",21,14,7,0.675022242157042,"Maryland","Indiana",3,4,1,0,-2,400914977,2017-01-10
+101,1,"8:31",1711,1711,"Melo Trimble missed Layup.",21,14,7,0.645455856088414,"Maryland","Indiana",3,4,1,0,-2,400914977,2017-01-10
+102,1,"8:31",1711,1711,"De'Ron Davis Block.",21,14,7,0.645455856088414,"Maryland","Indiana",3,4,1,0,-2,400914977,2017-01-10
+103,1,"8:31",1711,1711,"De'Ron Davis Defensive Rebound.",21,14,7,0.645455856088414,"Maryland","Indiana",3,4,1,0,-2,400914977,2017-01-10
+104,1,"8:14",1694,1694,"Foul on Melo Trimble.",21,14,7,0.677264812795303,"Maryland","Indiana",3,4,1,0,-2,400914977,2017-01-10
+105,1,"8:04",1684,1684,"OG Anunoby missed Three Point Jumper.",21,14,7,0.662311501825894,"Maryland","Indiana",3,4,1,0,-2,400914977,2017-01-10
+106,1,"8:04",1684,1684,"Melo Trimble Defensive Rebound.",21,14,7,0.662311501825894,"Maryland","Indiana",3,4,1,0,-2,400914977,2017-01-10
+107,1,"7:53",1673,1673,"Melo Trimble Turnover.",21,14,7,0.659108420468369,"Maryland","Indiana",3,4,1,0,-2,400914977,2017-01-10
+108,1,"7:53",1673,1673,"Curtis Jones Steal.",21,14,7,0.659108420468369,"Maryland","Indiana",3,4,1,0,-2,400914977,2017-01-10
+109,1,"7:45",1665,1665,"James Blackmon Jr. missed Three Point Jumper.",21,14,7,0.641764498917004,"Maryland","Indiana",3,4,1,0,-2,400914977,2017-01-10
+110,1,"7:45",1665,1665,"OG Anunoby Offensive Rebound.",21,14,7,0.641764498917004,"Maryland","Indiana",3,4,1,0,-2,400914977,2017-01-10
+111,1,"7:45",1665,1665,"OG Anunoby missed Two Point Tip Shot.",21,14,7,0.641764498917004,"Maryland","Indiana",3,4,1,0,-2,400914977,2017-01-10
+112,1,"7:45",1665,1665,"Curtis Jones Offensive Rebound.",21,14,7,0.641764498917004,"Maryland","Indiana",3,4,1,0,-2,400914977,2017-01-10
+113,1,"7:21",1641,1641,"Curtis Jones made Three Point Jumper.",21,17,4,0.567655487254848,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+114,1,"6:53",1613,1613,"Anthony Cowan missed Three Point Jumper.",21,17,4,0.550235761118618,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+115,1,"6:53",1613,1613,"L.G. Gill Offensive Rebound.",21,17,4,0.550235761118618,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+116,1,"6:53",1613,1613,"L.G. Gill made Two Point Tip Shot.",23,17,6,0.618481024921801,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+117,1,"6:31",1591,1591,"Curtis Jones made Three Point Jumper. Assisted by De'Ron Davis.",23,20,3,0.546274912690999,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+118,1,"6:09",1569,1569,"Justin Jackson missed Three Point Jumper.",23,20,3,0.515958390816779,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+119,1,"6:09",1569,1569,"Robert Johnson Defensive Rebound.",23,20,3,0.515958390816779,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+120,1,"5:57",1557,1557,"Robert Johnson made Jumper.",23,22,1,0.453798025446845,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+121,1,"5:38",1538,1538,"Kevin Huerter missed Three Point Jumper.",23,22,1,0.460014798272412,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+122,1,"5:38",1538,1538,"Anthony Cowan Offensive Rebound.",23,22,1,0.460014798272412,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+123,1,"5:29",1529,1529,"Jump Ball won by Maryland",23,22,1,0.462862245824508,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+124,1,"5:29",1529,1529,"Official TV Timeout",23,22,1,0.462862245824508,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+125,1,"5:27",1527,1527,"Melo Trimble made Jumper.",25,22,3,0.533874782350399,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+126,1,"4:59",1499,1499,"De'Ron Davis missed Layup.",25,22,3,0.552585762746498,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+127,1,"4:59",1499,1499,"Damonte Dodd Block.",25,22,3,0.552585762746498,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+128,1,"4:59",1499,1499,"Josh Newkirk Offensive Rebound.",25,22,3,0.552585762746498,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+129,1,"4:46",1486,1486,"Curtis Jones missed Three Point Jumper.",25,22,3,0.526606520457071,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+130,1,"4:46",1486,1486,"Kevin Huerter Defensive Rebound.",25,22,3,0.526606520457071,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+131,1,"4:42",1482,1482,"Jaylen Brantley made Three Point Jumper. Assisted by Kevin Huerter.",28,22,6,0.635744481722338,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+132,1,"4:27",1467,1467,"James Blackmon Jr. made Jumper.",28,24,4,0.589912792937917,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+133,1,"4:10",1450,1450,"Melo Trimble made Layup.",30,24,6,0.629271805105681,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+134,1,"4:00",1440,1440,"Josh Newkirk made Layup.",30,26,4,0.603097674388043,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+135,1,"4:00",1440,1440,"Foul on Melo Trimble.",30,26,4,0.603097674388043,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+136,1,"4:00",1440,1440,"Josh Newkirk made Free Throw.",30,27,3,0.566164407266641,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+137,1,"3:57",1437,1437,"Official TV Timeout",30,27,3,0.557281248537913,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+138,1,"3:34",1414,1414,"L.G. Gill made Jumper.",32,27,5,0.620817068614431,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+139,1,"3:12",1392,1392,"Thomas Bryant made Jumper.",32,29,3,0.522542749993297,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+140,1,"2:55",1375,1375,"Kevin Huerter made Jumper. Assisted by L.G. Gill.",34,29,5,0.590974846827426,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+141,1,"2:46",1366,1366,"James Blackmon Jr. made Three Point Jumper.",34,32,2,0.507202635461018,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+142,1,"2:26",1346,1346,"Kevin Huerter missed Layup.",34,32,2,0.508125046055238,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+143,1,"2:26",1346,1346,"Juwan Morgan Defensive Rebound.",34,32,2,0.508125046055238,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+144,1,"2:25",1345,1345,"James Blackmon Jr. missed Layup.",34,32,2,0.508125046055238,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+145,1,"2:24",1344,1344,"Damonte Dodd Block.",34,32,2,0.508125046055238,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+146,1,"2:20",1340,1340,"James Blackmon Jr. Offensive Rebound.",34,32,2,0.508125046055238,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+147,1,"2:17",1337,1337,"James Blackmon Jr. made Layup.",34,34,0,0.418799186806208,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+148,1,"2:17",1337,1337,"Foul on Curtis Jones.",34,34,0,0.418799186806208,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+149,1,"1:55",1315,1315,"Anthony Cowan missed Three Point Jumper.",34,34,0,0.452373787638875,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+150,1,"1:55",1315,1315,"Thomas Bryant Defensive Rebound.",34,34,0,0.452373787638875,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+151,1,"1:45",1305,1305,"Robert Johnson missed Three Point Jumper.",34,34,0,0.444286883174195,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+152,1,"1:45",1305,1305,"Justin Jackson Defensive Rebound.",34,34,0,0.444286883174195,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+153,1,"1:22",1282,1282,"Justin Jackson missed Jumper.",34,34,0,0.425237290067714,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+154,1,"1:22",1282,1282,"Maryland Offensive Rebound.",34,34,0,0.425237290067714,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+155,1,"1:15",1275,1275,"Justin Jackson missed Jumper.",34,34,0,0.413328163290923,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+156,1,"1:15",1275,1275,"Thomas Bryant Block.",34,34,0,0.413328163290923,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+157,1,"1:15",1275,1275,"Devonte Green Defensive Rebound.",34,34,0,0.413328163290923,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+158,1,"1:05",1265,1265,"Robert Johnson missed Jumper.",34,34,0,0.445753588352227,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+159,1,"1:05",1265,1265,"Justin Jackson Block.",34,34,0,0.445753588352227,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+160,1,"1:05",1265,1265,"Indiana Offensive Rebound.",34,34,0,0.445753588352227,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+161,1,"1:03",1263,1263,"Foul on Damonte Dodd.",34,34,0,0.445753588352227,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+162,1,"1:03",1263,1263,"Juwan Morgan made Free Throw.",34,35,-1,0.407083345776048,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+163,1,"1:03",1263,1263,"Juwan Morgan made Free Throw.",34,36,-2,0.369531147060359,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+164,1,"0:49",1249,1249,"Foul on Juwan Morgan.",34,36,-2,0.355203486031914,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+165,1,"0:49",1249,1249,"Justin Jackson missed Free Throw.",34,36,-2,0.355203486031914,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+166,1,"0:49",1249,1249,"Maryland Deadball Team Rebound.",34,36,-2,0.355203486031914,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+167,1,"0:49",1249,1249,"Justin Jackson made Free Throw.",35,36,-1,0.391407132526962,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+168,1,"0:38",1238,1238,"Thomas Bryant Turnover.",35,36,-1,0.390401067169111,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+169,1,"0:38",1238,1238,"Jaylen Brantley Steal.",35,36,-1,0.390401067169111,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+170,1,"0:26",1226,1226,"Foul on Juwan Morgan.",35,36,-1,0.399337566386235,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+171,1,"0:26",1226,1226,"L.G. Gill made Free Throw.",36,36,0,0.440420318202471,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+172,1,"0:26",1226,1226,"L.G. Gill made Free Throw.",37,36,1,0.482335660487006,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+173,1,"0:11",1211,1211,"OG Anunoby missed Jumper.",37,36,1,0.471346477817948,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+174,1,"0:11",1211,1211,"Thomas Bryant Offensive Rebound.",37,36,1,0.471346477817948,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+175,1,"0:11",1211,1211,"Thomas Bryant made Two Point Tip Shot.",37,38,-1,0.390659947322213,"Maryland","Indiana",3,4,0,0,-2,400914977,2017-01-10
+176,1,"0:06",1206,1206,"Maryland  Timeout",37,38,-1,0.393109315555993,"Maryland","Indiana",3,3,0,1,-2,400914977,2017-01-10
+177,1,"0:02",1202,1202,"Melo Trimble made Layup.",39,38,1,0.471092320144436,"Maryland","Indiana",3,3,0,1,-2,400914977,2017-01-10
+178,1,"0:00",1200,1200,"End of 1st half",39,38,1,0.471092320144436,"Maryland","Indiana",3,3,0,1,-2,400914977,2017-01-10
+179,2,"20:00",1200,1200,"PLAY",39,38,1,0.471092320144436,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+180,2,"20:00",1200,1200,"Jump Ball won by Indiana",39,38,1,0.471092320144436,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+181,2,"19:32",1172,1172,"Foul on Damonte Dodd.",39,38,1,0.481069535049241,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+182,2,"19:32",1172,1172,"Thomas Bryant made Free Throw.",39,39,0,0.440208124692563,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+183,2,"19:32",1172,1172,"Thomas Bryant made Free Throw.",39,40,-1,0.40014120147605,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+184,2,"19:22",1162,1162,"Melo Trimble missed Jumper.",39,40,-1,0.369267442678769,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+185,2,"19:22",1162,1162,"Robert Johnson Defensive Rebound.",39,40,-1,0.369267442678769,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+186,2,"19:14",1154,1154,"Robert Johnson Turnover.",39,40,-1,0.403969574740198,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+187,2,"19:14",1154,1154,"Anthony Cowan Steal.",39,40,-1,0.403969574740198,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+188,2,"19:11",1151,1151,"Anthony Cowan missed Layup.",39,40,-1,0.403969574740198,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+189,2,"19:11",1151,1151,"Indiana Defensive Rebound.",39,40,-1,0.403969574740198,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+190,2,"18:54",1134,1134,"Thomas Bryant missed Three Point Jumper.",39,40,-1,0.398446299088488,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+191,2,"18:54",1134,1134,"Anthony Cowan Defensive Rebound.",39,40,-1,0.398446299088488,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+192,2,"18:35",1115,1115,"Foul on Josh Newkirk.",39,40,-1,0.407171758065469,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+193,2,"18:35",1115,1115,"Anthony Cowan made Free Throw.",40,40,0,0.449496882840643,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+194,2,"18:35",1115,1115,"Anthony Cowan made Free Throw.",41,40,1,0.492566100137535,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+195,2,"18:10",1090,1090,"Josh Newkirk Turnover.",41,40,1,0.485666015489019,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+196,2,"18:10",1090,1090,"Anthony Cowan Steal.",41,40,1,0.485666015489019,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+197,2,"18:10",1090,1090,"Jump Ball won by Maryland",41,40,1,0.485666015489019,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+198,2,"17:56",1076,1076,"Justin Jackson missed Jumper.",41,40,1,0.497867030365131,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+199,2,"17:56",1076,1076,"Damonte Dodd Offensive Rebound.",41,40,1,0.497867030365131,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+200,2,"17:52",1072,1072,"Foul on Josh Newkirk.",41,40,1,0.497867030365131,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+201,2,"17:52",1072,1072,"Damonte Dodd made Free Throw.",42,40,2,0.539886051228283,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+202,2,"17:52",1072,1072,"Damonte Dodd made Free Throw.",43,40,3,0.581345631008396,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+203,2,"17:38",1058,1058,"Juwan Morgan made Jumper.",43,42,1,0.492762032098518,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+204,2,"17:19",1039,1039,"Justin Jackson missed Three Point Jumper.",43,42,1,0.472443140558347,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+205,2,"17:19",1039,1039,"Thomas Bryant Defensive Rebound.",43,42,1,0.472443140558347,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+206,2,"17:10",1030,1030,"Robert Johnson made Three Point Jumper. Assisted by Josh Newkirk.",43,45,-2,0.348654818555924,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+207,2,"16:51",1011,1011,"Foul on Josh Newkirk.",43,45,-2,0.331763190298086,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+208,2,"16:42",1002,1002,"Foul on Melo Trimble.",43,45,-2,0.339645387744531,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+209,2,"16:42",1002,1002,"Melo Trimble Turnover.",43,45,-2,0.339645387744531,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+210,2,"16:30",990,990,"Devonte Green made Layup. Assisted by Thomas Bryant.",43,47,-4,0.26591311006302,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+211,2,"16:00",960,960,"Justin Jackson made Layup. Assisted by Anthony Cowan.",45,47,-2,0.351672903857834,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+212,2,"15:34",934,934,"James Blackmon Jr. made Layup.",45,49,-4,0.269879834618894,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+213,2,"15:14",914,914,"Anthony Cowan Turnover.",45,49,-4,0.257137027656692,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+214,2,"15:14",914,914,"Devonte Green Steal.",45,49,-4,0.257137027656692,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+215,2,"15:08",908,908,"OG Anunoby missed Dunk.",45,49,-4,0.271656916194303,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+216,2,"15:08",908,908,"Damonte Dodd Defensive Rebound.",45,49,-4,0.271656916194303,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+217,2,"14:57",897,897,"Kevin Huerter made Three Point Jumper. Assisted by Jaylen Brantley.",48,49,-1,0.408767918304025,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+218,2,"14:34",874,874,"James Blackmon Jr. made Three Point Jumper.",48,52,-4,0.272780498334457,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+219,2,"14:07",847,847,"Foul on Devonte Green.",48,52,-4,0.255547384196532,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+220,2,"14:07",847,847,"Official TV Timeout",48,52,-4,0.255547384196532,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+221,2,"13:37",817,817,"Jaylen Brantley missed Jumper.",48,52,-4,0.247310505963254,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+222,2,"13:37",817,817,"Juwan Morgan Block.",48,52,-4,0.247310505963254,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+223,2,"13:37",817,817,"Juwan Morgan Defensive Rebound.",48,52,-4,0.247310505963254,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+224,2,"13:21",801,801,"Foul on L.G. Gill.",48,52,-4,0.272497766616385,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+225,2,"13:20",800,800,"James Blackmon Jr. missed Three Point Jumper.",48,52,-4,0.272497766616385,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+226,2,"13:20",800,800,"Maryland Defensive Rebound.",48,52,-4,0.272497766616385,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+227,2,"13:05",785,785,"L.G. Gill missed Jumper.",48,52,-4,0.25783561466132,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+228,2,"13:05",785,785,"Ivan Bender Offensive Rebound.",48,52,-4,0.25783561466132,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+229,2,"12:57",777,777,"Ivan Bender made Layup.",50,52,-2,0.346341011644138,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+230,2,"12:33",753,753,"Thomas Bryant missed Jumper.",50,52,-2,0.337160737310579,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+231,2,"12:33",753,753,"Kevin Huerter Defensive Rebound.",50,52,-2,0.337160737310579,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+232,2,"12:24",744,744,"Melo Trimble missed Three Point Jumper.",50,52,-2,0.329230955501804,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+233,2,"12:24",744,744,"Thomas Bryant Defensive Rebound.",50,52,-2,0.329230955501804,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+234,2,"12:16",736,736,"James Blackmon Jr. made Three Point Jumper. Assisted by Juwan Morgan.",50,55,-5,0.230853572399596,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+235,2,"11:56",716,716,"Melo Trimble made Layup.",52,55,-3,0.270654342828922,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+236,2,"11:46",706,706,"Juwan Morgan missed Jumper.",52,55,-3,0.319737379319147,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+237,2,"11:46",706,706,"Ivan Bender Defensive Rebound.",52,55,-3,0.319737379319147,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+238,2,"11:14",674,674,"Foul on Thomas Bryant.",52,55,-3,0.279717681992058,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+239,2,"11:14",674,674,"Official TV Timeout",52,55,-3,0.279717681992058,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+240,2,"11:14",674,674,"Melo Trimble made Free Throw.",53,55,-2,0.328849067138364,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+241,2,"11:14",674,674,"Melo Trimble made Free Throw.",54,55,-1,0.382033038128065,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+242,2,"11:07",667,667,"OG Anunoby missed Three Point Jumper.",54,55,-1,0.420564693466676,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+243,2,"11:07",667,667,"De'Ron Davis Offensive Rebound.",54,55,-1,0.420564693466676,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+244,2,"10:46",646,646,"Curtis Jones missed Jumper.",54,55,-1,0.402658489627044,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+245,2,"10:46",646,646,"Josh Newkirk Offensive Rebound.",54,55,-1,0.402658489627044,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+246,2,"10:46",646,646,"Josh Newkirk made Two Point Tip Shot.",54,57,-3,0.294406321302018,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+247,2,"10:19",619,619,"Foul on Josh Newkirk.",54,57,-3,0.270939668103212,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+248,2,"10:19",619,619,"Melo Trimble missed Free Throw.",54,57,-3,0.270939668103212,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+249,2,"10:19",619,619,"Maryland Deadball Team Rebound.",54,57,-3,0.270939668103212,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+250,2,"10:19",619,619,"Melo Trimble made Free Throw.",55,57,-2,0.323231329453399,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+251,2,"10:08",608,608,"Robert Johnson made Three Point Jumper. Assisted by De'Ron Davis.",55,60,-5,0.196570785000509,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+252,2,"9:48",588,588,"Foul on OG Anunoby.",55,60,-5,0.198969544981513,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+253,2,"9:48",588,588,"Jared Nickens made Free Throw.",56,60,-4,0.240358294440254,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+254,2,"9:48",588,588,"Jared Nickens made Free Throw.",57,60,-3,0.28726896908841,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+255,2,"9:37",577,577,"Curtis Jones Turnover.",57,60,-3,0.30462281713839,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+256,2,"9:37",577,577,"Anthony Cowan Steal.",57,60,-3,0.30462281713839,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+257,2,"9:33",573,573,"Anthony Cowan made Layup.",59,60,-1,0.420940476320529,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+258,2,"9:13",553,553,"Foul on Jared Nickens.",59,60,-1,0.381242136720464,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+259,2,"9:05",545,545,"Robert Johnson Turnover.",59,60,-1,0.376251661878782,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+260,2,"8:51",531,531,"Melo Trimble missed Jumper.",59,60,-1,0.413169067683097,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+261,2,"8:51",531,531,"OG Anunoby Defensive Rebound.",59,60,-1,0.413169067683097,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+262,2,"8:39",519,519,"OG Anunoby made Layup.",59,62,-3,0.276285124689407,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+263,2,"8:39",519,519,"Foul on Justin Jackson.",59,62,-3,0.276285124689407,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+264,2,"8:39",519,519,"OG Anunoby made Free Throw.",59,63,-4,0.225568474700468,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+265,2,"8:27",507,507,"Anthony Cowan made Layup.",61,63,-2,0.353516399861147,"Maryland","Indiana",4,4,0,0,-2,400914977,2017-01-10
+266,2,"8:20",500,500,"Maryland  Timeout",61,63,-2,0.353516399861147,"Maryland","Indiana",4,3,0,1,-2,400914977,2017-01-10
+267,2,"8:00",480,480,"Robert Johnson Turnover.",61,63,-2,0.331310751210258,"Maryland","Indiana",4,3,0,1,-2,400914977,2017-01-10
+268,2,"7:51",471,471,"Kevin Huerter missed Three Point Jumper.",61,63,-2,0.316697701086056,"Maryland","Indiana",4,3,0,1,-2,400914977,2017-01-10
+269,2,"7:51",471,471,"James Blackmon Jr. Defensive Rebound.",61,63,-2,0.316697701086056,"Maryland","Indiana",4,3,0,1,-2,400914977,2017-01-10
+270,2,"7:40",460,460,"James Blackmon Jr. missed Three Point Jumper.",61,63,-2,0.318748253937,"Maryland","Indiana",4,3,0,1,-2,400914977,2017-01-10
+271,2,"7:40",460,460,"Kevin Huerter Defensive Rebound.",61,63,-2,0.318748253937,"Maryland","Indiana",4,3,0,1,-2,400914977,2017-01-10
+272,2,"7:16",436,436,"Melo Trimble made Layup.",63,63,0,0.46960487238823,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+273,2,"6:51",411,411,"Foul on Damonte Dodd.",63,63,0,0.452195692143324,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+274,2,"6:51",411,411,"Official TV Timeout",63,63,0,0.452195692143324,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+275,2,"6:23",383,383,"Thomas Bryant missed Jumper.",63,63,0,0.456592960205799,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+276,2,"6:23",383,383,"Kevin Huerter Defensive Rebound.",63,63,0,0.456592960205799,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+277,2,"5:53",353,353,"Melo Trimble missed Jumper.",63,63,0,0.416587892683484,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+278,2,"5:53",353,353,"Robert Johnson Defensive Rebound.",63,63,0,0.416587892683484,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+279,2,"5:50",350,350,"Jump Ball won by Indiana",63,63,0,0.416587892683484,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+280,2,"5:38",338,338,"James Blackmon Jr. missed Layup.",63,63,0,0.480739034866949,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+281,2,"5:37",337,337,"Anthony Cowan Defensive Rebound.",63,63,0,0.480739034866949,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+282,2,"5:20",320,320,"Melo Trimble missed Three Point Jumper.",63,63,0,0.43870461094496,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+283,2,"5:20",320,320,"Justin Jackson Offensive Rebound.",63,63,0,0.43870461094496,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+284,2,"5:12",312,312,"Kevin Huerter made Three Point Jumper. Assisted by Melo Trimble.",66,63,3,0.733975016663065,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+285,2,"4:36",276,276,"James Blackmon Jr. made Layup.",66,65,1,0.53749377438487,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+286,2,"4:36",276,276,"Foul on Kevin Huerter.",66,65,1,0.53749377438487,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+287,2,"4:36",276,276,"James Blackmon Jr. missed Free Throw.",66,65,1,0.53749377438487,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+288,2,"4:36",276,276,"Melo Trimble Defensive Rebound.",66,65,1,0.53749377438487,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+289,2,"4:15",255,255,"Melo Trimble missed Jumper.",66,65,1,0.59415494728879,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+290,2,"4:15",255,255,"Thomas Bryant Defensive Rebound.",66,65,1,0.59415494728879,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+291,2,"3:58",238,238,"James Blackmon Jr. made Three Point Jumper.",66,68,-2,0.296924754283228,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+292,2,"3:31",211,211,"Melo Trimble missed Jumper.",66,68,-2,0.258079074650023,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+293,2,"3:31",211,211,"Juwan Morgan Block.",66,68,-2,0.258079074650023,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+294,2,"3:31",211,211,"Maryland Offensive Rebound.",66,68,-2,0.258079074650023,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+295,2,"3:28",208,208,"Official TV Timeout",66,68,-2,0.270920154168815,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+296,2,"3:25",205,205,"Justin Jackson missed Layup.",66,68,-2,0.270920154168815,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+297,2,"3:25",205,205,"Thomas Bryant Block.",66,68,-2,0.270920154168815,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+298,2,"3:25",205,205,"Robert Johnson Defensive Rebound.",66,68,-2,0.270920154168815,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+299,2,"3:19",199,199,"James Blackmon Jr. Turnover.",66,68,-2,0.264034046362914,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+300,2,"2:57",177,177,"Melo Trimble missed Jumper.",66,68,-2,0.271278742922646,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+301,2,"2:57",177,177,"Damonte Dodd Offensive Rebound.",66,68,-2,0.271278742922646,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+302,2,"2:51",171,171,"Damonte Dodd made Layup.",68,68,0,0.499025737968014,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+303,2,"2:30",150,150,"Robert Johnson missed Jumper.",68,68,0,0.492407710696921,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+304,2,"2:25",145,145,"Maryland Defensive Rebound.",68,68,0,0.425892680248144,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+305,2,"2:06",126,126,"Justin Jackson missed Three Point Jumper.",68,68,0,0.45061411441296,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+306,2,"2:06",126,126,"Juwan Morgan Defensive Rebound.",68,68,0,0.45061411441296,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+307,2,"2:03",123,123,"Foul on Damonte Dodd.",68,68,0,0.45061411441296,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+308,2,"2:03",123,123,"Juwan Morgan made Free Throw.",68,69,-1,0.317626807968145,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+309,2,"2:03",123,123,"Juwan Morgan made Free Throw.",68,70,-2,0.20895938300516,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+310,2,"1:50",110,110,"Kevin Huerter made Three Point Jumper. Assisted by Anthony Cowan.",71,70,1,0.64845627629062,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+311,2,"1:21",81,81,"OG Anunoby missed Jumper.",71,70,1,0.681160663123836,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+312,2,"1:21",81,81,"Kevin Huerter Defensive Rebound.",71,70,1,0.681160663123836,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+313,2,"1:17",77,77,"Anthony Cowan made Layup. Assisted by Kevin Huerter.",73,70,3,0.880424554563467,"Maryland","Indiana",4,3,0,0,-2,400914977,2017-01-10
+314,2,"1:12",72,72,"Indiana  Timeout",73,70,3,0.880424554563467,"Maryland","Indiana",3,3,1,0,-2,400914977,2017-01-10
+315,2,"0:59",59,59,"Thomas Bryant missed Layup.",73,70,3,0.9438998125195,"Maryland","Indiana",3,3,1,0,-2,400914977,2017-01-10
+316,2,"0:59",59,59,"Damonte Dodd Block.",73,70,3,0.9438998125195,"Maryland","Indiana",3,3,1,0,-2,400914977,2017-01-10
+317,2,"0:59",59,59,"Damonte Dodd Defensive Rebound.",73,70,3,0.9438998125195,"Maryland","Indiana",3,3,1,0,-2,400914977,2017-01-10
+318,2,"0:39",39,39,"Maryland  Timeout",73,70,3,0.952083200497275,"Maryland","Indiana",3,2,1,1,-2,400914977,2017-01-10
+319,2,"0:37",37,37,"Damonte Dodd Turnover.",73,70,3,0.951499261791364,"Maryland","Indiana",3,2,1,1,-2,400914977,2017-01-10
+320,2,"0:37",37,37,"OG Anunoby Steal.",73,70,3,0.951499261791364,"Maryland","Indiana",3,2,1,1,-2,400914977,2017-01-10
+321,2,"0:27",27,27,"Indiana  Timeout",73,70,3,0.971476807717933,"Maryland","Indiana",2,2,1,1,-2,400914977,2017-01-10
+322,2,"0:12",12,12,"OG Anunoby made Dunk.",73,72,1,0.868920529654939,"Maryland","Indiana",2,2,1,1,-2,400914977,2017-01-10
+323,2,"0:08",8,8,"Foul on James Blackmon Jr..",73,72,1,0.910044087422749,"Maryland","Indiana",2,2,1,1,-2,400914977,2017-01-10
+324,2,"0:08",8,8,"Melo Trimble made Free Throw.",74,72,2,0.980761194034886,"Maryland","Indiana",2,2,1,1,-2,400914977,2017-01-10
+325,2,"0:08",8,8,"Indiana  Timeout",74,72,2,0.980761194034886,"Maryland","Indiana",1,2,1,1,-2,400914977,2017-01-10
+326,2,"0:08",8,8,"Melo Trimble made Free Throw.",75,72,3,0.996122292383325,"Maryland","Indiana",1,2,1,1,-2,400914977,2017-01-10
+327,2,"0:01",1,1,"Robert Johnson missed Three Point Jumper.",75,72,3,0.98332201019823,"Maryland","Indiana",1,2,1,1,-2,400914977,2017-01-10
+328,2,"0:01",1,1,"Kevin Huerter Defensive Rebound.",75,72,3,0.98332201019823,"Maryland","Indiana",1,2,1,1,-2,400914977,2017-01-10
+329,2,"0:00",0,0,"End of Game",75,72,3,1,"Maryland","Indiana",1,2,1,1,-2,400914977,2017-01-10

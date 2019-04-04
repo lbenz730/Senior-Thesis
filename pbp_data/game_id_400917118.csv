@@ -1,0 +1,393 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2700,"PLAY",0,0,0,0.753398478938886,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+2,1,"19:46",2386,2686,"Adonis De La Rosa made Layup. Assisted by Deon Edwin.",2,0,2,0.761880555500012,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+3,1,"19:37",2377,2677,"Dontel Highsmith missed Layup.",2,0,2,0.784539236898438,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+4,1,"19:37",2377,2677,"Adonis De La Rosa Defensive Rebound.",2,0,2,0.784539236898438,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+5,1,"19:08",2348,2648,"Adonis De La Rosa missed Jumper.",2,0,2,0.771981345022242,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+6,1,"19:08",2348,2648,"Desmond Ridenour Offensive Rebound.",2,0,2,0.771981345022242,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+7,1,"19:05",2345,2645,"Desmond Ridenour missed Layup.",2,0,2,0.771981345022242,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+8,1,"19:05",2345,2645,"Adonis De La Rosa Offensive Rebound.",2,0,2,0.771981345022242,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+9,1,"19:02",2342,2642,"Adonis De La Rosa missed Two Point Tip Shot.",2,0,2,0.771981345022242,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+10,1,"19:02",2342,2642,"Northern Illinois Defensive Rebound.",2,0,2,0.771981345022242,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+11,1,"18:38",2318,2618,"Justin Thomas missed Jumper.",2,0,2,0.766841497116523,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+12,1,"18:38",2318,2618,"Aaric Armstead Offensive Rebound.",2,0,2,0.766841497116523,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+13,1,"18:22",2302,2602,"Marin Maric made Layup.",2,2,0,0.732612867179006,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+14,1,"17:53",2273,2573,"Adonis De La Rosa Turnover.",2,2,0,0.744302663416691,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+15,1,"17:52",2272,2572,"Justin Thomas Steal.",2,2,0,0.744302663416691,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+16,1,"17:49",2269,2569,"Aaric Armstead missed Dunk.",2,2,0,0.748425248508052,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+17,1,"17:48",2268,2568,"Kevin Zabo Defensive Rebound.",2,2,0,0.748425248508052,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+18,1,"17:37",2257,2557,"Jaylin Walker made Three Point Jumper. Assisted by Kevin Zabo.",5,2,3,0.790123857730536,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+19,1,"17:21",2241,2541,"Dontel Highsmith made Three Point Jumper. Assisted by Jaylen Key.",5,5,0,0.73548331733064,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+20,1,"16:57",2217,2517,"Kevin Zabo made Three Point Jumper. Assisted by Deon Edwin.",8,5,3,0.808370267856171,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+21,1,"16:41",2201,2501,"Marin Maric missed Three Point Jumper.",8,5,3,0.799089561406175,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+22,1,"16:40",2200,2500,"Jaylin Walker Defensive Rebound.",8,5,3,0.799089561406175,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+23,1,"16:34",2194,2494,"Deon Edwin made Layup.",10,5,5,0.842594020500413,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+24,1,"16:18",2178,2478,"Foul on Adonis De La Rosa.",10,5,5,0.825094048875103,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+25,1,"15:57",2157,2457,"Eugene German missed Jumper.",10,5,5,0.830440164237398,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+26,1,"15:57",2157,2457,"Northern Illinois Offensive Rebound.",10,5,5,0.830440164237398,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+27,1,"15:54",2154,2454,"Official TV Timeout",10,5,5,0.830440164237398,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+28,1,"15:44",2144,2444,"Marin Maric missed Layup.",10,5,5,0.827267853737976,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+29,1,"15:44",2144,2444,"Kent State Defensive Rebound.",10,5,5,0.827267853737976,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+30,1,"15:38",2138,2438,"Danny Pippen made Three Point Jumper. Assisted by Jalen Avery.",13,5,8,0.879496617718146,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+31,1,"15:08",2108,2408,"Levi Bradley missed Jumper.",13,5,8,0.868577033051588,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+32,1,"15:08",2108,2408,"Levi Bradley Offensive Rebound.",13,5,8,0.868577033051588,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+33,1,"15:03",2103,2403,"Dontel Highsmith missed Three Point Jumper.",13,5,8,0.868577033051588,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+34,1,"15:03",2103,2403,"Jaylin Walker Defensive Rebound.",13,5,8,0.868577033051588,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+35,1,"14:57",2097,2397,"Deon Edwin made Layup. Assisted by Jaylin Walker.",15,5,10,0.901814147727991,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+36,1,"14:43",2083,2383,"Eugene German missed Jumper.",15,5,10,0.89199024344276,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+37,1,"14:43",2083,2383,"Jimmy Hall Defensive Rebound.",15,5,10,0.89199024344276,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+38,1,"14:36",2076,2376,"Deon Edwin missed Layup.",15,5,10,0.888748795264363,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+39,1,"14:36",2076,2376,"Aaric Armstead Defensive Rebound.",15,5,10,0.888748795264363,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+40,1,"14:29",2069,2369,"Aaric Armstead missed Three Point Jumper.",15,5,10,0.897685293319907,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+41,1,"14:29",2069,2369,"Jimmy Hall Defensive Rebound.",15,5,10,0.897685293319907,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+42,1,"13:58",2038,2338,"Jimmy Hall missed Jumper.",15,5,10,0.898945203809684,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+43,1,"13:58",2038,2338,"Marin Maric Defensive Rebound.",15,5,10,0.898945203809684,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+44,1,"13:52",2032,2332,"Foul on Jimmy Hall.",15,5,10,0.898945203809684,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+45,1,"13:47",2027,2327,"Jaylen Key made Jumper.",15,7,8,0.884722922960791,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+46,1,"13:24",2004,2304,"Jalen Avery missed Three Point Jumper.",15,7,8,0.864547962420394,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+47,1,"13:24",2004,2304,"Eugene German Defensive Rebound.",15,7,8,0.864547962420394,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+48,1,"13:17",1997,2297,"Eugene German made Layup.",15,9,6,0.855479658890888,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+49,1,"12:53",1973,2273,"Foul on Levi Bradley.",15,9,6,0.856688861832423,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+50,1,"12:42",1962,2262,"Deon Edwin missed Three Point Jumper.",15,9,6,0.835520896566129,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+51,1,"12:42",1962,2262,"Desmond Ridenour Offensive Rebound.",15,9,6,0.835520896566129,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+52,1,"12:36",1956,2256,"Desmond Ridenour made Layup.",17,9,8,0.880117838514706,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+53,1,"12:13",1933,2233,"Levi Bradley Turnover.",17,9,8,0.876671575791332,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+54,1,"11:57",1917,2217,"Adonis De La Rosa missed Layup.",17,9,8,0.888509921533651,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+55,1,"11:57",1917,2217,"Jaylen Key Defensive Rebound.",17,9,8,0.888509921533651,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+56,1,"11:53",1913,2213,"Eugene German Turnover.",17,9,8,0.888509921533651,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+57,1,"11:53",1913,2213,"Official TV Timeout",17,9,8,0.888509921533651,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+58,1,"11:45",1905,2205,"Desmond Ridenour missed Three Point Jumper.",17,9,8,0.87159507085451,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+59,1,"11:45",1905,2205,"Marin Maric Defensive Rebound.",17,9,8,0.87159507085451,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+60,1,"11:43",1903,2203,"Foul on Jimmy Hall.",17,9,8,0.87159507085451,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+61,1,"11:28",1888,2188,"Laytwan Porter Turnover.",17,9,8,0.875558517796331,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+62,1,"11:28",1888,2188,"Jaylin Walker Steal.",17,9,8,0.875558517796331,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+63,1,"11:28",1888,2188,"Jaylin Walker Turnover.",17,9,8,0.875558517796331,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+64,1,"11:22",1882,2182,"Laytwan Porter Turnover.",17,9,8,0.875558517796331,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+65,1,"11:22",1882,2182,"Foul on Laytwan Porter.",17,9,8,0.875558517796331,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+66,1,"11:08",1868,2168,"Kevin Zabo Turnover.",17,9,8,0.887261700752581,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+67,1,"11:08",1868,2168,"Justin Thomas Steal.",17,9,8,0.887261700752581,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+68,1,"11:02",1862,2162,"Jaylen Key Turnover.",17,9,8,0.887261700752581,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+69,1,"11:02",1862,2162,"Deon Edwin Steal.",17,9,8,0.887261700752581,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+70,1,"10:48",1848,2148,"Adonis De La Rosa Turnover.",17,9,8,0.86934475889375,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+71,1,"10:48",1848,2148,"Foul on Adonis De La Rosa.",17,9,8,0.86934475889375,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+72,1,"10:36",1836,2136,"Marin Maric made Layup.",17,11,6,0.847504417900329,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+73,1,"10:18",1818,2118,"Jaylin Walker made Three Point Jumper.",20,11,9,0.902204357320187,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+74,1,"9:49",1789,2089,"Foul on Danny Pippen.",20,11,9,0.889670063260951,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+75,1,"9:49",1789,2089,"Laytwan Porter missed Free Throw.",20,11,9,0.889670063260951,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+76,1,"9:49",1789,2089,"Northern Illinois Deadball Team Rebound.",20,11,9,0.889670063260951,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+77,1,"9:49",1789,2089,"Laytwan Porter made Free Throw.",20,12,8,0.875346545026665,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+78,1,"9:38",1778,2078,"Kevin Zabo missed Three Point Jumper.",20,12,8,0.866112090177758,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+79,1,"9:38",1778,2078,"Northern Illinois Deadball Team Rebound.",20,12,8,0.866112090177758,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+80,1,"9:17",1757,2057,"Justin Thomas made Jumper.",20,14,6,0.848331971556223,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+81,1,"9:09",1749,2049,"Desmond Ridenour missed Three Point Jumper.",20,14,6,0.846549467234913,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+82,1,"9:09",1749,2049,"Deon Edwin Offensive Rebound.",20,14,6,0.846549467234913,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+83,1,"9:03",1743,2043,"Deon Edwin made Two Point Tip Shot.",22,14,8,0.876577445616612,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+84,1,"9:02",1742,2042,"Foul on Desmond Ridenour.",22,14,8,0.876577445616612,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+85,1,"8:55",1735,2035,"Levi Bradley missed Layup.",22,14,8,0.884388064913229,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+86,1,"8:55",1735,2035,"Marin Maric Offensive Rebound.",22,14,8,0.884388064913229,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+87,1,"8:52",1732,2032,"Marin Maric missed Two Point Tip Shot.",22,14,8,0.884388064913229,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+88,1,"8:52",1732,2032,"Kent State Defensive Rebound.",22,14,8,0.884388064913229,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+89,1,"8:31",1711,2011,"Jaylin Walker missed Three Point Jumper.",22,14,8,0.885366145248794,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+90,1,"8:31",1711,2011,"Northern Illinois Deadball Team Rebound.",22,14,8,0.885366145248794,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+91,1,"8:31",1711,2011,"Foul on Danny Pippen.",22,14,8,0.885366145248794,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+92,1,"8:31",1711,2011,"Marin Maric made Free Throw.",22,15,7,0.871106566588023,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+93,1,"8:31",1711,2011,"Marin Maric made Free Throw.",22,16,6,0.855362977343063,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+94,1,"8:12",1692,1992,"Foul on Eugene German.",22,16,6,0.857497129791747,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+95,1,"8:03",1683,1983,"Jaylin Walker missed Jumper.",22,16,6,0.862500306390121,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+96,1,"8:03",1683,1983,"Northern Illinois Defensive Rebound.",22,16,6,0.862500306390121,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+97,1,"7:41",1661,1961,"Foul on Alonzo Walker.",22,16,6,0.845578950319232,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+98,1,"7:41",1661,1961,"Official TV Timeout",22,16,6,0.845578950319232,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+99,1,"7:41",1661,1961,"Levi Bradley made Free Throw.",22,17,5,0.827911643725518,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+100,1,"7:41",1661,1961,"Levi Bradley missed Free Throw.",22,17,5,0.827911643725518,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+101,1,"7:41",1661,1961,"Jaylin Walker Defensive Rebound.",22,17,5,0.827911643725518,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+102,1,"7:21",1641,1941,"Foul on Levi Bradley.",22,17,5,0.838148695996444,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+103,1,"7:18",1638,1938,"Kevin Zabo Turnover.",22,17,5,0.832734120007006,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+104,1,"7:15",1635,1935,"Dontel Highsmith Steal.",22,17,5,0.832734120007006,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+105,1,"7:10",1630,1930,"Eugene German Turnover.",22,17,5,0.832734120007006,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+106,1,"6:58",1618,1918,"Jimmy Hall missed Jumper.",22,17,5,0.822215478978893,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+107,1,"6:58",1618,1918,"Aaric Armstead Defensive Rebound.",22,17,5,0.822215478978893,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+108,1,"6:37",1597,1897,"Eugene German missed Layup.",22,17,5,0.832944060587403,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+109,1,"6:37",1597,1897,"Kent State Deadball Team Rebound.",22,17,5,0.832944060587403,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+110,1,"6:34",1594,1894,"Foul on Aaric Armstead.",22,17,5,0.832944060587403,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+111,1,"6:25",1585,1885,"Jimmy Hall missed Jumper.",22,17,5,0.82449702614318,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+112,1,"6:25",1585,1885,"Marin Maric Defensive Rebound.",22,17,5,0.82449702614318,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+113,1,"6:11",1571,1871,"Marin Maric made Layup. Assisted by Noah McCarty.",22,19,3,0.800615340257297,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+114,1,"5:57",1557,1857,"Jimmy Hall missed Jumper.",22,19,3,0.78186172635214,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+115,1,"5:57",1557,1857,"Kent State Deadball Team Rebound.",22,19,3,0.78186172635214,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+116,1,"5:57",1557,1857,"Foul on Laytwan Porter.",22,19,3,0.78186172635214,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+117,1,"5:51",1551,1851,"Jaylin Walker missed Three Point Jumper.",22,19,3,0.78186172635214,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+118,1,"5:51",1551,1851,"Adonis De La Rosa Offensive Rebound.",22,19,3,0.78186172635214,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+119,1,"5:45",1545,1845,"Foul on Noah McCarty.",22,19,3,0.792815789426015,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+120,1,"5:45",1545,1845,"Jaylin Walker made Free Throw.",23,19,4,0.8147110765415,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+121,1,"5:45",1545,1845,"Jaylin Walker made Free Throw.",24,19,5,0.834774687516602,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+122,1,"5:33",1533,1833,"Laytwan Porter missed Layup.",24,19,5,0.834700766496205,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+123,1,"5:33",1533,1833,"Adonis De La Rosa Block.",24,19,5,0.834700766496205,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+124,1,"5:33",1533,1833,"Kent State Deadball Team Rebound.",24,19,5,0.834700766496205,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+125,1,"5:14",1514,1814,"Adonis De La Rosa made Layup. Assisted by Desmond Ridenour.",26,19,7,0.881250149996966,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+126,1,"5:14",1514,1814,"Foul on Noah McCarty.",26,19,7,0.881250149996966,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+127,1,"5:14",1514,1814,"Adonis De La Rosa made Free Throw.",27,19,8,0.896301570720541,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+128,1,"5:01",1501,1801,"Justin Thomas missed Jumper.",27,19,8,0.883498441419581,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+129,1,"5:00",1500,1800,"Adonis De La Rosa Block.",27,19,8,0.883498441419581,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+130,1,"4:59",1499,1799,"Marin Maric Offensive Rebound.",27,19,8,0.888006582489295,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+131,1,"4:52",1492,1792,"Aaric Armstead missed Jumper.",27,19,8,0.888006582489295,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+132,1,"4:51",1491,1791,"Adonis De La Rosa Block.",27,19,8,0.888006582489295,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+133,1,"4:50",1490,1790,"Aaric Armstead Offensive Rebound.",27,19,8,0.888006582489295,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+134,1,"4:48",1488,1788,"Aaric Armstead missed Jumper.",27,19,8,0.886241120625285,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+135,1,"4:48",1488,1788,"Mitch Peterson Block.",27,19,8,0.886241120625285,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+136,1,"4:47",1487,1787,"Aaric Armstead Offensive Rebound.",27,19,8,0.886241120625285,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+137,1,"4:47",1487,1787,"Aaric Armstead missed Free Throw.",27,19,8,0.886241120625285,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+138,1,"4:47",1487,1787,"Desmond Ridenour Defensive Rebound.",27,19,8,0.886241120625285,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+139,1,"4:47",1487,1787,"Jaylin Walker made Three Point Jumper. Assisted by Desmond Ridenour.",30,19,11,0.924374402318127,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+140,1,"4:47",1487,1787,"Foul on Adonis De La Rosa.",30,19,11,0.924374402318127,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+141,1,"4:34",1474,1774,"Northern Illinois  Timeout",30,19,11,0.932308000676224,"Kent State","Northern Illinois",3,4,1,0,5,400917118,2017-01-10
+142,1,"4:30",1470,1770,"Aaric Armstead missed Jumper.",30,19,11,0.932308000676224,"Kent State","Northern Illinois",3,4,1,0,5,400917118,2017-01-10
+143,1,"4:30",1470,1770,"Leo Edwards Block.",30,19,11,0.932308000676224,"Kent State","Northern Illinois",3,4,1,0,5,400917118,2017-01-10
+144,1,"4:29",1469,1769,"Northern Illinois Offensive Rebound.",30,19,11,0.916055907504801,"Kent State","Northern Illinois",3,4,1,0,5,400917118,2017-01-10
+145,1,"4:12",1452,1752,"Dontel Highsmith Turnover.",30,19,11,0.921564315164008,"Kent State","Northern Illinois",3,4,1,0,5,400917118,2017-01-10
+146,1,"4:08",1448,1748,"Alonzo Walker Steal.",30,19,11,0.933053970987657,"Kent State","Northern Illinois",3,4,1,0,5,400917118,2017-01-10
+147,1,"3:56",1436,1736,"Foul on Alonzo Walker.",30,19,11,0.925601202524261,"Kent State","Northern Illinois",3,4,1,0,5,400917118,2017-01-10
+148,1,"3:55",1435,1735,"Official TV Timeout",30,19,11,0.925601202524261,"Kent State","Northern Illinois",3,4,1,0,5,400917118,2017-01-10
+149,1,"3:55",1435,1735,"Jaylen Key made Free Throw.",30,20,10,0.914659154038787,"Kent State","Northern Illinois",3,4,1,0,5,400917118,2017-01-10
+150,1,"3:55",1435,1735,"Jaylen Key made Free Throw.",30,21,9,0.902277729496152,"Kent State","Northern Illinois",3,4,1,0,5,400917118,2017-01-10
+151,1,"3:37",1417,1717,"Desmond Ridenour Turnover.",30,21,9,0.901049389408501,"Kent State","Northern Illinois",3,4,1,0,5,400917118,2017-01-10
+152,1,"3:10",1390,1690,"Austin Pauga missed Three Point Jumper.",30,21,9,0.90622897671107,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+153,1,"3:10",1390,1690,"Dontel Highsmith Offensive Rebound.",30,21,9,0.90622897671107,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+154,1,"3:02",1382,1682,"Jaylen Key Turnover.",30,21,9,0.904699832928671,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+155,1,"3:01",1381,1681,"Desmond Ridenour Steal.",30,21,9,0.904699832928671,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+156,1,"2:58",1378,1678,"Leo Edwards Turnover.",30,21,9,0.89237306284285,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+157,1,"2:45",1365,1665,"Marin Maric missed Jumper.",30,21,9,0.903579901097308,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+158,1,"2:45",1365,1665,"Leo Edwards Defensive Rebound.",30,21,9,0.903579901097308,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+159,1,"2:38",1358,1658,"Jaylin Walker made Three Point Jumper. Assisted by Deon Edwin.",33,21,12,0.940474763304272,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+160,1,"2:15",1335,1635,"Dontel Highsmith Turnover.",33,21,12,0.933958118402538,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+161,1,"2:04",1324,1624,"Deon Edwin Turnover.",33,21,12,0.939030766020573,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+162,1,"2:03",1323,1623,"Marin Maric Steal.",33,21,12,0.939030766020573,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+163,1,"2:01",1321,1621,"Foul on Kevin Zabo.",33,21,12,0.939030766020573,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+164,1,"2:01",1321,1621,"Justin Thomas made Free Throw.",33,22,11,0.929358292511799,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+165,1,"2:01",1321,1621,"Justin Thomas missed Free Throw.",33,22,11,0.929358292511799,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+166,1,"2:01",1321,1621,"Jimmy Hall Defensive Rebound.",33,22,11,0.929358292511799,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+167,1,"2:01",1321,1621,"Deon Edwin missed Three Point Jumper.",33,22,11,0.929358292511799,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+168,1,"2:01",1321,1621,"Justin Thomas Defensive Rebound.",33,22,11,0.929358292511799,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+169,1,"1:59",1319,1619,"Foul on Deon Edwin.",33,22,11,0.93277826078774,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+170,1,"1:54",1314,1614,"Justin Thomas made Free Throw.",33,23,10,0.922192526273525,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+171,1,"1:28",1288,1588,"Justin Thomas made Free Throw.",33,24,9,0.901569628385227,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+172,1,"1:15",1275,1575,"Kevin Zabo missed Jumper.",33,24,9,0.893450348368004,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+173,1,"1:15",1275,1575,"Aaric Armstead Defensive Rebound.",33,24,9,0.893450348368004,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+174,1,"1:15",1275,1575,"Marin Maric missed Jumper.",33,24,9,0.893450348368004,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+175,1,"1:15",1275,1575,"Kent State Defensive Rebound.",33,24,9,0.893450348368004,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+176,1,"1:02",1262,1562,"Jaylin Walker made Three Point Jumper. Assisted by Jimmy Hall.",36,24,12,0.943432251457833,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+177,1,"0:33",1233,1533,"Dontel Highsmith missed Three Point Jumper.",36,24,12,0.937415255892384,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+178,1,"0:31",1231,1531,"Deon Edwin Defensive Rebound.",36,24,12,0.937415255892384,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+179,1,"0:28",1228,1528,"Kent State  Timeout",36,24,12,0.946038840188552,"Kent State","Northern Illinois",3,3,0,1,5,400917118,2017-01-10
+180,1,"0:03",1203,1503,"Kevin Zabo Turnover.",36,24,12,0.938775285582854,"Kent State","Northern Illinois",3,3,0,1,5,400917118,2017-01-10
+181,1,"0:02",1202,1502,"Justin Thomas Steal.",36,24,12,0.938775285582854,"Kent State","Northern Illinois",3,3,0,1,5,400917118,2017-01-10
+182,1,"0:00",1200,1500,"Dontel Highsmith Turnover.",36,24,12,0.938775285582854,"Kent State","Northern Illinois",3,3,0,1,5,400917118,2017-01-10
+183,1,"0:00",1200,1500,"End of 1st half",36,24,12,0.938775285582854,"Kent State","Northern Illinois",3,3,0,1,5,400917118,2017-01-10
+184,2,"20:00",1200,1500,"PLAY",36,24,12,0.938775285582854,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+185,2,"19:44",1184,1484,"Aaric Armstead missed Jumper.",36,24,12,0.943097116112682,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+186,2,"19:44",1184,1484,"Dontel Highsmith Offensive Rebound.",36,24,12,0.943097116112682,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+187,2,"19:38",1178,1478,"Justin Thomas Turnover.",36,24,12,0.940371560837403,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+188,2,"19:30",1170,1470,"Jaylin Walker Turnover.",36,24,12,0.940371560837403,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+189,2,"19:29",1169,1469,"Aaric Armstead Steal.",36,24,12,0.939613203498666,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+190,2,"19:06",1146,1446,"Dontel Highsmith missed Layup.",36,24,12,0.944503612355739,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+191,2,"19:06",1146,1446,"Jaylen Key Offensive Rebound.",36,24,12,0.944503612355739,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+192,2,"19:05",1145,1445,"Jaylen Key made Layup.",36,26,10,0.92343206178259,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+193,2,"19:05",1145,1445,"Foul on Desmond Ridenour.",36,26,10,0.92343206178259,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+194,2,"19:05",1145,1445,"Jaylen Key made Free Throw.",36,27,9,0.91033298007764,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+195,2,"18:34",1114,1414,"Jaylin Walker Turnover.",36,27,9,0.912163398562912,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+196,2,"18:21",1101,1401,"Aaric Armstead Turnover.",36,27,9,0.908125039929828,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+197,2,"18:21",1101,1401,"Jimmy Hall Steal.",36,27,9,0.908125039929828,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+198,2,"18:15",1095,1395,"Jaylin Walker missed Three Point Jumper.",36,27,9,0.915591866171638,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+199,2,"18:15",1095,1395,"Justin Thomas Defensive Rebound.",36,27,9,0.915591866171638,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+200,2,"18:05",1085,1385,"Aaric Armstead missed Three Point Jumper.",36,27,9,0.917207575064951,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+201,2,"18:05",1085,1385,"Marin Maric Offensive Rebound.",36,27,9,0.917207575064951,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+202,2,"17:41",1061,1361,"Dontel Highsmith missed Three Point Jumper.",36,27,9,0.913998459434056,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+203,2,"17:41",1061,1361,"Desmond Ridenour Defensive Rebound.",36,27,9,0.913998459434056,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+204,2,"17:31",1051,1351,"Foul on Dontel Highsmith.",36,27,9,0.919110699838537,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+205,2,"17:16",1036,1336,"Jaylin Walker made Three Point Jumper. Assisted by Deon Edwin.",39,27,12,0.94389306985576,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+206,2,"16:54",1014,1314,"Marin Maric missed Layup.",39,27,12,0.94497365096082,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+207,2,"16:54",1014,1314,"Deon Edwin Block.",39,27,12,0.94497365096082,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+208,2,"16:54",1014,1314,"Northern Illinois Offensive Rebound.",39,27,12,0.94497365096082,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+209,2,"16:45",1005,1305,"Eugene German missed Layup.",39,27,12,0.948929801724551,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+210,2,"16:45",1005,1305,"Marin Maric Offensive Rebound.",39,27,12,0.948929801724551,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+211,2,"16:43",1003,1303,"Foul on Jaylin Walker.",39,27,12,0.948929801724551,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+212,2,"16:43",1003,1303,"Marin Maric made Free Throw.",39,28,11,0.939114236486394,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+213,2,"16:43",1003,1303,"Marin Maric made Free Throw.",39,29,10,0.927556166518844,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+214,2,"16:13",973,1273,"Deon Edwin made Layup. Assisted by Desmond Ridenour.",41,29,12,0.950921345169225,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+215,2,"15:57",957,1257,"Marin Maric made Layup. Assisted by Levi Bradley.",41,31,10,0.934678312244205,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+216,2,"15:46",946,1246,"Deon Edwin made Three Point Jumper. Assisted by Jalen Avery.",44,31,13,0.965332339993804,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+217,2,"15:16",916,1216,"Foul on Deon Edwin.",44,31,13,0.965152706461919,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+218,2,"15:16",916,1216,"Aaric Armstead made Free Throw.",44,32,12,0.957929600812273,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+219,2,"15:16",916,1216,"Aaric Armstead missed Free Throw.",44,32,12,0.957929600812273,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+220,2,"15:16",916,1216,"Jaylin Walker Defensive Rebound.",44,32,12,0.957929600812273,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+221,2,"15:01",901,1201,"Alonzo Walker Turnover.",44,32,12,0.952973020300025,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+222,2,"15:01",901,1201,"Foul on Alonzo Walker.",44,32,12,0.952973020300025,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+223,2,"14:51",891,1191,"Jaylen Key made Three Point Jumper. Assisted by Laytwan Porter.",44,35,9,0.924725881913338,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+224,2,"14:31",871,1171,"Jaylin Walker missed Layup.",44,35,9,0.922779905077657,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+225,2,"14:31",871,1171,"Aaric Armstead Defensive Rebound.",44,35,9,0.922779905077657,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+226,2,"14:25",865,1165,"Eugene German missed Layup.",44,35,9,0.918000792530359,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+227,2,"14:25",865,1165,"Aaric Armstead Offensive Rebound.",44,35,9,0.918000792530359,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+228,2,"14:23",863,1163,"Aaric Armstead made Two Point Tip Shot.",44,37,7,0.884147576159656,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+229,2,"14:01",841,1141,"Adonis De La Rosa made Jumper.",46,37,9,0.930918760624435,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+230,2,"13:41",821,1121,"Eugene German made Layup.",46,39,7,0.886241974251635,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+231,2,"13:21",801,1101,"Foul on Jaylen Key.",46,39,7,0.901650913438808,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+232,2,"13:14",794,1094,"Deon Edwin missed Layup.",46,39,7,0.902329073090906,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+233,2,"13:14",794,1094,"Jaylen Key Defensive Rebound.",46,39,7,0.902329073090906,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+234,2,"13:11",791,1091,"Foul on Jalen Avery.",46,39,7,0.902329073090906,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+235,2,"13:11",791,1091,"Laytwan Porter missed Free Throw.",46,39,7,0.902329073090906,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+236,2,"13:11",791,1091,"Northern Illinois Deadball Team Rebound.",46,39,7,0.902329073090906,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+237,2,"13:11",791,1091,"Laytwan Porter made Free Throw.",46,40,6,0.881175565141188,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+238,2,"12:59",779,1079,"Foul on Jaylen Key.",46,40,6,0.877652069631483,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+239,2,"12:43",763,1063,"Jaylin Walker Turnover.",46,40,6,0.891049087000079,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+240,2,"12:40",760,1060,"Foul on Desmond Ridenour.",46,40,6,0.891049087000079,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+241,2,"12:40",760,1060,"Eugene German made Three Point Jumper. Assisted by Dontel Highsmith.",46,43,3,0.81058011457707,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+242,2,"12:00",720,1020,"Deon Edwin missed Jumper.",46,43,3,0.803046564815678,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+243,2,"12:00",720,1020,"Marin Maric Defensive Rebound.",46,43,3,0.803046564815678,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+244,2,"11:46",706,1006,"Eugene German Turnover.",46,43,3,0.789415168562421,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+245,2,"11:46",706,1006,"Jalen Avery Steal.",46,43,3,0.789415168562421,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+246,2,"11:42",702,1002,"Deon Edwin made Layup. Assisted by Jalen Avery.",48,43,5,0.851547222368868,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+247,2,"11:16",676,976,"Eugene German missed Three Point Jumper.",48,43,5,0.859930034875489,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+248,2,"11:16",676,976,"Dontel Highsmith Offensive Rebound.",48,43,5,0.859930034875489,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+249,2,"11:11",671,971,"Laytwan Porter missed Three Point Jumper.",48,43,5,0.859930034875489,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+250,2,"11:11",671,971,"Northern Illinois Offensive Rebound.",48,43,5,0.859930034875489,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+251,2,"11:07",667,967,"Official TV Timeout",48,43,5,0.862614807210853,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+252,2,"10:53",653,953,"Dontel Highsmith Turnover.",48,43,5,0.868289030942519,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+253,2,"10:37",637,937,"Jimmy Hall Turnover.",48,43,5,0.853074585460121,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+254,2,"10:36",636,936,"Eugene German Steal.",48,43,5,0.853074585460121,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+255,2,"10:33",633,933,"Eugene German made Layup.",48,45,3,0.783504763531267,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+256,2,"10:09",609,909,"Adonis De La Rosa Turnover.",48,45,3,0.803747875447326,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+257,2,"10:08",608,908,"Laytwan Porter Steal.",48,45,3,0.803747875447326,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+258,2,"9:53",593,893,"Marin Maric missed Layup.",48,45,3,0.794747869263431,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+259,2,"9:53",593,893,"Jimmy Hall Defensive Rebound.",48,45,3,0.794747869263431,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+260,2,"9:47",587,887,"Foul on Levi Bradley.",48,45,3,0.788388279697005,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+261,2,"9:31",571,871,"Jalen Avery Turnover.",48,45,3,0.816688060401367,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+262,2,"9:31",571,871,"Levi Bradley Steal.",48,45,3,0.816688060401367,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+263,2,"9:31",571,871,"Aaric Armstead missed Jumper.",48,45,3,0.816688060401367,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+264,2,"9:31",571,871,"Jaylin Walker Defensive Rebound.",48,45,3,0.816688060401367,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+265,2,"9:31",571,871,"Desmond Ridenour made Layup. Assisted by Jaylin Walker.",50,45,5,0.880853148192913,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+266,2,"9:29",569,869,"Dontel Highsmith Turnover.",50,45,5,0.882477252536955,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+267,2,"9:24",564,864,"Foul on Dontel Highsmith.",50,45,5,0.882477252536955,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+268,2,"8:37",517,817,"Jimmy Hall made Jumper.",52,45,7,0.920503526032955,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+269,2,"8:35",515,815,"Foul on Jaylen Key.",52,45,7,0.920503526032955,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+270,2,"8:35",515,815,"Jimmy Hall made Free Throw.",53,45,8,0.938182009191419,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+271,2,"8:05",485,785,"Laytwan Porter made Layup.",53,47,6,0.903796900110889,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+272,2,"7:48",468,768,"Jimmy Hall Turnover.",53,47,6,0.906589555335224,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+273,2,"7:47",467,767,"Aaric Armstead Steal.",53,47,6,0.906589555335224,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+274,2,"7:45",465,765,"Eugene German made Layup. Assisted by Aaric Armstead.",53,49,4,0.846691962653649,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+275,2,"7:45",465,765,"Foul on Kevin Zabo.",53,49,4,0.846691962653649,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+276,2,"7:45",465,765,"Official TV Timeout",53,49,4,0.846691962653649,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+277,2,"7:45",465,765,"Eugene German made Free Throw.",53,50,3,0.806431620538322,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+278,2,"7:27",447,747,"Desmond Ridenour made Jumper.",55,50,5,0.87125702548848,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+279,2,"7:08",428,728,"Eugene German missed Layup.",55,50,5,0.879525120733263,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+280,2,"7:08",428,728,"Deon Edwin Defensive Rebound.",55,50,5,0.879525120733263,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+281,2,"6:51",411,711,"Deon Edwin made Three Point Jumper. Assisted by Desmond Ridenour.",58,50,8,0.951705763968179,"Kent State","Northern Illinois",4,4,0,0,5,400917118,2017-01-10
+282,2,"6:45",405,705,"Northern Illinois  Timeout",58,50,8,0.958942833736096,"Kent State","Northern Illinois",3,4,1,0,5,400917118,2017-01-10
+283,2,"6:20",380,680,"Marin Maric made Layup. Assisted by Eugene German.",58,52,6,0.916113940805803,"Kent State","Northern Illinois",3,4,1,0,5,400917118,2017-01-10
+284,2,"5:55",355,655,"Foul on Jaylen Key.",58,52,6,0.921554871044516,"Kent State","Northern Illinois",3,4,1,0,5,400917118,2017-01-10
+285,2,"5:55",355,655,"Jimmy Hall made Free Throw.",59,52,7,0.942888033430764,"Kent State","Northern Illinois",3,4,1,0,5,400917118,2017-01-10
+286,2,"5:55",355,655,"Jimmy Hall made Free Throw.",60,52,8,0.958679767079758,"Kent State","Northern Illinois",3,4,1,0,5,400917118,2017-01-10
+287,2,"5:33",333,633,"Aaric Armstead missed Three Point Jumper.",60,52,8,0.96795466387108,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+288,2,"5:33",333,633,"Desmond Ridenour Defensive Rebound.",60,52,8,0.96795466387108,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+289,2,"5:25",325,625,"Desmond Ridenour missed Layup.",60,52,8,0.954473831364902,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+290,2,"5:25",325,625,"Aaric Armstead Defensive Rebound.",60,52,8,0.954473831364902,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+291,2,"5:17",317,617,"Eugene German Turnover.",60,52,8,0.968878835493107,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+292,2,"5:17",317,617,"Foul on Eugene German.",60,52,8,0.968878835493107,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+293,2,"5:08",308,608,"Foul on Dontel Highsmith.",60,52,8,0.960725939795963,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+294,2,"5:08",308,608,"Deon Edwin missed Free Throw.",60,52,8,0.960725939795963,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+295,2,"5:08",308,608,"Laytwan Porter Defensive Rebound.",60,52,8,0.960725939795963,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+296,2,"5:07",307,607,"Laytwan Porter missed Layup.",60,52,8,0.960725939795963,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+297,2,"5:07",307,607,"Levi Bradley Offensive Rebound.",60,52,8,0.960725939795963,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+298,2,"5:07",307,607,"Levi Bradley made Two Point Tip Shot.",60,54,6,0.925520891753958,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+299,2,"5:04",304,604,"Jimmy Hall Turnover.",60,54,6,0.925520891753958,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+300,2,"5:03",303,603,"Foul on Jimmy Hall.",60,54,6,0.925520891753958,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+301,2,"4:48",288,588,"Marin Maric made Layup. Assisted by Aaric Armstead.",60,56,4,0.868795403550526,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+302,2,"4:47",287,587,"Foul on Aaric Armstead.",60,56,4,0.868795403550526,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+303,2,"4:09",249,549,"Jaylin Walker made Free Throw.",61,56,5,0.92206127544353,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+304,2,"4:09",249,549,"Jaylin Walker made Free Throw.",62,56,6,0.946604919417632,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+305,2,"3:51",231,531,"Levi Bradley missed Jumper.",62,56,6,0.948266219861091,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+306,2,"3:51",231,531,"Alonzo Walker Defensive Rebound.",62,56,6,0.948266219861091,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+307,2,"3:46",226,526,"Alonzo Walker Turnover.",62,56,6,0.957898972624021,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+308,2,"3:45",225,525,"Laytwan Porter Steal.",62,56,6,0.957898972624021,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+309,2,"3:43",223,523,"Laytwan Porter made Jumper.",62,58,4,0.907016856587543,"Kent State","Northern Illinois",3,4,0,0,5,400917118,2017-01-10
+310,2,"3:38",218,518,"Kent State  Timeout",62,58,4,0.899287028432826,"Kent State","Northern Illinois",3,3,0,1,5,400917118,2017-01-10
+311,2,"3:28",208,508,"Jimmy Hall Turnover.",62,58,4,0.915437423590131,"Kent State","Northern Illinois",3,3,0,1,5,400917118,2017-01-10
+312,2,"3:08",188,488,"Dontel Highsmith missed Layup.",62,58,4,0.909007980134008,"Kent State","Northern Illinois",3,3,0,1,5,400917118,2017-01-10
+313,2,"3:08",188,488,"Deon Edwin Defensive Rebound.",62,58,4,0.909007980134008,"Kent State","Northern Illinois",3,3,0,1,5,400917118,2017-01-10
+314,2,"2:52",172,472,"Adonis De La Rosa Turnover.",62,58,4,0.921962308421551,"Kent State","Northern Illinois",3,3,0,1,5,400917118,2017-01-10
+315,2,"2:52",172,472,"Foul on Adonis De La Rosa.",62,58,4,0.921962308421551,"Kent State","Northern Illinois",3,3,0,1,5,400917118,2017-01-10
+316,2,"2:35",155,455,"Marin Maric missed Jumper.",62,58,4,0.930031819799617,"Kent State","Northern Illinois",3,3,0,0,5,400917118,2017-01-10
+317,2,"2:35",155,455,"Aaric Armstead Offensive Rebound.",62,58,4,0.930031819799617,"Kent State","Northern Illinois",3,3,0,0,5,400917118,2017-01-10
+318,2,"2:26",146,446,"Dontel Highsmith made Jumper.",62,60,2,0.807819136852858,"Kent State","Northern Illinois",3,3,0,0,5,400917118,2017-01-10
+319,2,"2:05",125,425,"Desmond Ridenour missed Three Point Jumper.",62,60,2,0.809486136029469,"Kent State","Northern Illinois",3,3,0,0,5,400917118,2017-01-10
+320,2,"2:05",125,425,"Aaric Armstead Defensive Rebound.",62,60,2,0.809486136029469,"Kent State","Northern Illinois",3,3,0,0,5,400917118,2017-01-10
+321,2,"1:46",106,406,"Laytwan Porter made Layup.",62,62,0,0.564017036600623,"Kent State","Northern Illinois",3,3,0,0,5,400917118,2017-01-10
+322,2,"1:40",100,400,"Kent State  Timeout",62,62,0,0.564017036600623,"Kent State","Northern Illinois",3,2,0,1,5,400917118,2017-01-10
+323,2,"1:30",90,390,"Foul on Dontel Highsmith.",62,62,0,0.573552514250114,"Kent State","Northern Illinois",3,2,0,1,5,400917118,2017-01-10
+324,2,"1:30",90,390,"Deon Edwin made Free Throw.",63,62,1,0.716102457991981,"Kent State","Northern Illinois",3,2,0,1,5,400917118,2017-01-10
+325,2,"1:30",90,390,"Deon Edwin made Free Throw.",64,62,2,0.82549926633222,"Kent State","Northern Illinois",3,2,0,1,5,400917118,2017-01-10
+326,2,"1:16",76,376,"Laytwan Porter made Layup.",64,64,0,0.56193058073336,"Kent State","Northern Illinois",3,2,0,1,5,400917118,2017-01-10
+327,2,"0:46",46,346,"Desmond Ridenour missed Jumper.",64,64,0,0.518533568220817,"Kent State","Northern Illinois",3,2,0,1,5,400917118,2017-01-10
+328,2,"0:46",46,346,"Aaric Armstead Defensive Rebound.",64,64,0,0.518533568220817,"Kent State","Northern Illinois",3,2,0,1,5,400917118,2017-01-10
+329,2,"0:23",23,323,"Levi Bradley missed Jumper.",64,64,0,0.657931046653816,"Kent State","Northern Illinois",3,2,0,0,5,400917118,2017-01-10
+330,2,"0:23",23,323,"Marin Maric Offensive Rebound.",64,64,0,0.657931046653816,"Kent State","Northern Illinois",3,2,0,0,5,400917118,2017-01-10
+331,2,"0:21",21,321,"Foul on Deon Edwin.",64,64,0,0.538538706087944,"Kent State","Northern Illinois",3,2,0,0,5,400917118,2017-01-10
+332,2,"0:21",21,321,"Marin Maric missed Free Throw.",64,64,0,0.538538706087944,"Kent State","Northern Illinois",3,2,0,0,5,400917118,2017-01-10
+333,2,"0:21",21,321,"Northern Illinois Deadball Team Rebound.",64,64,0,0.538538706087944,"Kent State","Northern Illinois",3,2,0,0,5,400917118,2017-01-10
+334,2,"0:21",21,321,"Marin Maric missed Free Throw.",64,64,0,0.538538706087944,"Kent State","Northern Illinois",3,2,0,0,5,400917118,2017-01-10
+335,2,"0:21",21,321,"Adonis De La Rosa Defensive Rebound.",64,64,0,0.538538706087944,"Kent State","Northern Illinois",3,2,0,0,5,400917118,2017-01-10
+336,2,"0:19",19,319,"Kent State  Timeout",64,64,0,0.566600916478816,"Kent State","Northern Illinois",3,1,0,1,5,400917118,2017-01-10
+337,2,"0:00",300,300,"Jaylin Walker missed Jumper.",64,64,0,0.619629841364002,"Kent State","Northern Illinois",3,1,0,0,5,400917118,2017-01-10
+338,2,"0:00",300,300,"Aaric Armstead Block.",64,64,0,0.619629841364002,"Kent State","Northern Illinois",3,1,0,0,5,400917118,2017-01-10
+339,2,"0:00",300,300,"Kent State Deadball Team Rebound.",64,64,0,0.619629841364002,"Kent State","Northern Illinois",3,1,0,0,5,400917118,2017-01-10
+340,2,"0:00",300,300,"End of 2nd half",64,64,0,0.619629841364002,"Kent State","Northern Illinois",3,1,0,0,5,400917118,2017-01-10
+341,3,"5:00",300,300,"PLAY",64,64,0,0.619629841364002,"Kent State","Northern Illinois",4,2,0,0,5,400917118,2017-01-10
+342,3,"4:40",280,280,"Marin Maric Turnover.",64,64,0,0.617550957374289,"Kent State","Northern Illinois",4,2,0,0,5,400917118,2017-01-10
+343,3,"4:19",259,259,"Jaylin Walker missed Jumper.",64,64,0,0.620931401077246,"Kent State","Northern Illinois",4,2,0,0,5,400917118,2017-01-10
+344,3,"4:19",259,259,"Jimmy Hall Offensive Rebound.",64,64,0,0.620931401077246,"Kent State","Northern Illinois",4,2,0,0,5,400917118,2017-01-10
+345,3,"4:11",251,251,"Jimmy Hall missed Jumper.",64,64,0,0.620931401077246,"Kent State","Northern Illinois",4,2,0,0,5,400917118,2017-01-10
+346,3,"4:11",251,251,"Deon Edwin Offensive Rebound.",64,64,0,0.620931401077246,"Kent State","Northern Illinois",4,2,0,0,5,400917118,2017-01-10
+347,3,"4:07",247,247,"Jalen Avery missed Three Point Jumper.",64,64,0,0.610238889559369,"Kent State","Northern Illinois",4,2,0,0,5,400917118,2017-01-10
+348,3,"4:07",247,247,"Levi Bradley Defensive Rebound.",64,64,0,0.610238889559369,"Kent State","Northern Illinois",4,2,0,0,5,400917118,2017-01-10
+349,3,"3:56",236,236,"Levi Bradley made Free Throw.",64,65,-1,0.516970952530213,"Kent State","Northern Illinois",4,2,0,0,5,400917118,2017-01-10
+350,3,"3:54",234,234,"Levi Bradley made Free Throw.",64,66,-2,0.416321586047171,"Kent State","Northern Illinois",4,2,0,0,5,400917118,2017-01-10
+351,3,"3:42",222,222,"Foul on Levi Bradley.",64,66,-2,0.43461673578482,"Kent State","Northern Illinois",4,2,0,0,5,400917118,2017-01-10
+352,3,"3:42",222,222,"Jimmy Hall made Free Throw.",65,66,-1,0.540020309307616,"Kent State","Northern Illinois",4,2,0,0,5,400917118,2017-01-10
+353,3,"3:42",222,222,"Jimmy Hall made Free Throw.",66,66,0,0.641961564475167,"Kent State","Northern Illinois",4,2,0,0,5,400917118,2017-01-10
+354,3,"3:23",203,203,"Laytwan Porter Turnover.",66,66,0,0.639633057956273,"Kent State","Northern Illinois",4,2,0,0,5,400917118,2017-01-10
+355,3,"3:22",202,202,"Jaylin Walker Steal.",66,66,0,0.639633057956273,"Kent State","Northern Illinois",4,2,0,0,5,400917118,2017-01-10
+356,3,"3:21",201,201,"Jaylin Walker Turnover.",66,66,0,0.639633057956273,"Kent State","Northern Illinois",4,2,1,0,5,400917118,2017-01-10
+357,3,"3:21",201,201,"Northern Illinois  Timeout",66,66,0,0.639633057956273,"Kent State","Northern Illinois",3,2,1,0,5,400917118,2017-01-10
+358,3,"3:03",183,183,"Marin Maric made Jumper.",66,68,-2,0.351458613502958,"Kent State","Northern Illinois",3,2,1,0,5,400917118,2017-01-10
+359,3,"2:43",163,163,"Jaylin Walker missed Jumper.",66,68,-2,0.396705843700497,"Kent State","Northern Illinois",3,2,1,0,5,400917118,2017-01-10
+360,3,"2:43",163,163,"Levi Bradley Defensive Rebound.",66,68,-2,0.396705843700497,"Kent State","Northern Illinois",3,2,1,0,5,400917118,2017-01-10
+361,3,"2:24",144,144,"Aaric Armstead missed Jumper.",66,68,-2,0.345999125646826,"Kent State","Northern Illinois",3,2,1,0,5,400917118,2017-01-10
+362,3,"2:24",144,144,"Kent State Defensive Rebound.",66,68,-2,0.345999125646826,"Kent State","Northern Illinois",3,2,1,0,5,400917118,2017-01-10
+363,3,"2:00",120,120,"Desmond Ridenour missed Three Point Jumper.",66,68,-2,0.305898532455703,"Kent State","Northern Illinois",3,2,0,0,5,400917118,2017-01-10
+364,3,"2:00",120,120,"Desmond Ridenour Offensive Rebound.",66,68,-2,0.305898532455703,"Kent State","Northern Illinois",3,2,0,0,5,400917118,2017-01-10
+365,3,"1:48",108,108,"Desmond Ridenour made Jumper.",68,68,0,0.564017036600623,"Kent State","Northern Illinois",3,2,0,0,5,400917118,2017-01-10
+366,3,"1:29",89,89,"Laytwan Porter missed Three Point Jumper.",68,68,0,0.621506828148037,"Kent State","Northern Illinois",3,2,0,0,5,400917118,2017-01-10
+367,3,"1:29",89,89,"Marin Maric Offensive Rebound.",68,68,0,0.621506828148037,"Kent State","Northern Illinois",3,2,0,0,5,400917118,2017-01-10
+368,3,"1:26",86,86,"Foul on Jimmy Hall.",68,68,0,0.621506828148037,"Kent State","Northern Illinois",3,2,0,0,5,400917118,2017-01-10
+369,3,"1:26",86,86,"Marin Maric made Free Throw.",68,69,-1,0.445093085514622,"Kent State","Northern Illinois",3,2,0,0,5,400917118,2017-01-10
+370,3,"1:26",86,86,"Marin Maric missed Free Throw.",68,69,-1,0.445093085514622,"Kent State","Northern Illinois",3,2,0,0,5,400917118,2017-01-10
+371,3,"1:26",86,86,"Desmond Ridenour Defensive Rebound.",68,69,-1,0.445093085514622,"Kent State","Northern Illinois",3,2,0,0,5,400917118,2017-01-10
+372,3,"1:10",70,70,"Adonis De La Rosa Turnover.",68,69,-1,0.380836488028508,"Kent State","Northern Illinois",3,2,0,0,5,400917118,2017-01-10
+373,3,"0:46",46,46,"Laytwan Porter made Jumper.",68,71,-3,0.0440200429120694,"Kent State","Northern Illinois",3,2,0,0,5,400917118,2017-01-10
+374,3,"0:45",45,45,"Northern Illinois  Timeout",68,71,-3,0.097305360053121,"Kent State","Northern Illinois",2,2,1,0,5,400917118,2017-01-10
+375,3,"0:33",33,33,"Desmond Ridenour missed Jumper.",68,71,-3,0.0408273262167987,"Kent State","Northern Illinois",2,2,1,0,5,400917118,2017-01-10
+376,3,"0:33",33,33,"Adonis De La Rosa Offensive Rebound.",68,71,-3,0.0408273262167987,"Kent State","Northern Illinois",2,2,1,0,5,400917118,2017-01-10
+377,3,"0:31",31,31,"Adonis De La Rosa missed Two Point Tip Shot.",68,71,-3,0.0510547691482386,"Kent State","Northern Illinois",2,2,1,0,5,400917118,2017-01-10
+378,3,"0:31",31,31,"Adonis De La Rosa Offensive Rebound.",68,71,-3,0.0510547691482386,"Kent State","Northern Illinois",2,2,1,0,5,400917118,2017-01-10
+379,3,"0:29",29,29,"Adonis De La Rosa made Two Point Tip Shot.",70,71,-1,0.255638300680104,"Kent State","Northern Illinois",2,2,1,1,5,400917118,2017-01-10
+380,3,"0:29",29,29,"Kent State  Timeout",70,71,-1,0.255638300680104,"Kent State","Northern Illinois",2,1,1,1,5,400917118,2017-01-10
+381,3,"0:25",25,25,"Foul on Jaylin Walker.",70,71,-1,0.276233411526198,"Kent State","Northern Illinois",2,1,1,1,5,400917118,2017-01-10
+382,3,"0:25",25,25,"Levi Bradley made Free Throw.",70,72,-2,0.0957435927466753,"Kent State","Northern Illinois",2,1,1,1,5,400917118,2017-01-10
+383,3,"0:25",25,25,"Levi Bradley made Free Throw.",70,73,-3,0.0285355014616028,"Kent State","Northern Illinois",2,1,1,1,5,400917118,2017-01-10
+384,3,"0:18",18,18,"Jaylin Walker missed Three Point Jumper.",70,73,-3,0.0495261635781616,"Kent State","Northern Illinois",2,1,1,1,5,400917118,2017-01-10
+385,3,"0:18",18,18,"Levi Bradley Defensive Rebound.",70,73,-3,0.0495261635781616,"Kent State","Northern Illinois",2,1,1,1,5,400917118,2017-01-10
+386,3,"0:11",11,11,"Foul on Jaylin Walker.",70,73,-3,0.0234232693069129,"Kent State","Northern Illinois",2,1,1,1,5,400917118,2017-01-10
+387,3,"0:11",11,11,"Jaylen Key missed Free Throw.",70,73,-3,0.0234232693069129,"Kent State","Northern Illinois",2,1,1,1,5,400917118,2017-01-10
+388,3,"0:11",11,11,"Northern Illinois Deadball Team Rebound.",70,73,-3,0.0234232693069129,"Kent State","Northern Illinois",2,1,1,1,5,400917118,2017-01-10
+389,3,"0:11",11,11,"Jaylen Key made Free Throw.",70,74,-4,0.00614747446669863,"Kent State","Northern Illinois",2,1,1,1,5,400917118,2017-01-10
+390,3,"0:05",5,5,"Marin Maric Defensive Rebound.",70,74,-4,0.00269434282336284,"Kent State","Northern Illinois",2,1,1,1,5,400917118,2017-01-10
+391,3,"0:05",5,5,"Jalen Avery missed Layup.",70,74,-4,0.00269434282336284,"Kent State","Northern Illinois",2,1,1,1,5,400917118,2017-01-10
+392,3,"0:00",0,0,"End of Game",70,74,-4,2.61203988436679e-34,"Kent State","Northern Illinois",2,1,1,1,5,400917118,2017-01-10

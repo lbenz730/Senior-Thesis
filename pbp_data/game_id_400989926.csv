@@ -1,0 +1,370 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2700,"PLAY",0,0,0,0.670974856387565,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+2,1,"19:42",2382,2682,"Foul on De'Riante Jenkins.",0,0,0,0.66895160869708,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+3,1,"19:42",2382,2682,"Davell Roby missed Free Throw.",0,0,0,0.66895160869708,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+4,1,"19:42",2382,2682,"Saint Louis Deadball Team Rebound.",0,0,0,0.66895160869708,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+5,1,"19:42",2382,2682,"Davell Roby made Free Throw.",1,0,1,0.676084115401893,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+6,1,"19:42",2382,2682,"Davell Roby made Free Throw.",2,0,2,0.683135740715283,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+7,1,"19:28",2368,2668,"Issac Vann made Layup.",2,2,0,0.658012645056712,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+8,1,"19:09",2349,2649,"D.J. Foreman made Layup.",4,2,2,0.699905522815505,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+9,1,"18:58",2338,2638,"Justin Tillman missed Jumper.",4,2,2,0.707297560914559,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+10,1,"18:58",2338,2638,"Jordan Goodwin Defensive Rebound.",4,2,2,0.707297560914559,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+11,1,"18:52",2332,2632,"D.J. Foreman made Layup. Assisted by Jordan Goodwin.",6,2,4,0.744606332669702,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+12,1,"18:35",2315,2615,"Jonathan Williams missed Jumper.",6,2,4,0.735726806891163,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+13,1,"18:35",2315,2615,"Hasahn French Defensive Rebound.",6,2,4,0.735726806891163,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+14,1,"18:12",2292,2592,"Javon Bess missed Jumper.",6,2,4,0.749092871217897,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+15,1,"18:12",2292,2592,"Hasahn French Offensive Rebound.",6,2,4,0.749092871217897,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+16,1,"17:53",2273,2573,"D.J. Foreman missed Jumper.",6,2,4,0.752563242695497,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+17,1,"17:53",2273,2573,"Sean Mobley Defensive Rebound.",6,2,4,0.752563242695497,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+18,1,"17:33",2253,2553,"Justin Tillman missed Jumper.",6,2,4,0.743663425927736,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+19,1,"17:33",2253,2553,"Hasahn French Block.",6,2,4,0.743663425927736,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+20,1,"17:31",2251,2551,"D.J. Foreman Defensive Rebound.",6,2,4,0.743663425927736,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+21,1,"17:04",2224,2524,"D.J. Foreman missed Layup.",6,2,4,0.750070356956033,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+22,1,"17:04",2224,2524,"D.J. Foreman Offensive Rebound.",6,2,4,0.750070356956033,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+23,1,"17:02",2222,2522,"D.J. Foreman missed Layup.",6,2,4,0.750070356956033,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+24,1,"17:02",2222,2522,"D.J. Foreman Offensive Rebound.",6,2,4,0.750070356956033,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+25,1,"16:59",2219,2519,"D.J. Foreman made Layup.",8,2,6,0.814630558878007,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+26,1,"16:56",2216,2516,"Sean Mobley Turnover.",8,2,6,0.814630558878007,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+27,1,"16:40",2200,2500,"D.J. Foreman Turnover.",8,2,6,0.795531235093515,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+28,1,"16:39",2199,2499,"Malik Crowfield Steal.",8,2,6,0.806242553196447,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+29,1,"16:33",2193,2493,"Malik Crowfield Turnover.",8,2,6,0.806242553196447,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+30,1,"16:32",2192,2492,"Hasahn French Steal.",8,2,6,0.806242553196447,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+31,1,"16:30",2190,2490,"Javon Bess made Layup.",10,2,8,0.840059146413275,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+32,1,"16:16",2176,2476,"Foul on Hasahn French.",10,2,8,0.819650377803063,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+33,1,"16:14",2174,2474,"Foul on Justin Tillman.",10,2,8,0.819650377803063,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+34,1,"16:14",2174,2474,"Justin Tillman Turnover.",10,2,8,0.819650377803063,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+35,1,"16:00",2160,2460,"Official TV Timeout",10,2,8,0.823663242780482,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+36,1,"15:43",2143,2443,"Davell Roby missed Three Point Jumper.",10,2,8,0.818655265160804,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+37,1,"15:43",2143,2443,"Javon Bess Offensive Rebound.",10,2,8,0.818655265160804,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+38,1,"15:43",2143,2443,"Saint Louis  Turnover.",10,2,8,0.818655265160804,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+39,1,"15:27",2127,2427,"Mike'l Simms made Layup. Assisted by De'Riante Jenkins.",10,4,6,0.789565039996058,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+40,1,"15:00",2100,2400,"Hasahn French missed Jumper.",10,4,6,0.787196715206802,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+41,1,"15:00",2100,2400,"Jordan Goodwin Offensive Rebound.",10,4,6,0.787196715206802,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+42,1,"14:30",2070,2370,"Javon Bess made Jumper.",12,4,8,0.816746114144793,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+43,1,"14:14",2054,2354,"Khris Lane made Jumper.",12,6,6,0.792773066859464,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+44,1,"14:02",2042,2342,"Jordan Goodwin made Three Point Jumper. Assisted by Davell Roby.",15,6,9,0.829227684692533,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+45,1,"13:33",2013,2313,"Khris Lane missed Jumper.",15,6,9,0.846118840387,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+46,1,"13:33",2013,2313,"Hasahn French Block.",15,6,9,0.846118840387,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+47,1,"13:31",2011,2311,"Jordan Goodwin Defensive Rebound.",15,6,9,0.846118840387,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+48,1,"13:27",2007,2307,"Hasahn French Turnover.",15,6,9,0.833729240063854,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+49,1,"13:15",1995,2295,"Khris Lane missed Jumper.",15,6,9,0.859417573052666,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+50,1,"13:15",1995,2295,"Rashed Anthony Block.",15,6,9,0.859417573052666,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+51,1,"13:10",1990,2290,"Khris Lane Offensive Rebound.",15,6,9,0.859417573052666,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+52,1,"13:08",1988,2288,"Foul on Rashed Anthony.",15,6,9,0.845607362846383,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+53,1,"13:08",1988,2288,"Khris Lane missed Free Throw.",15,6,9,0.845607362846383,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+54,1,"13:08",1988,2288,"VCU Deadball Team Rebound.",15,6,9,0.845607362846383,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+55,1,"13:08",1988,2288,"Khris Lane made Free Throw.",15,7,8,0.828616628725465,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+56,1,"13:01",1981,2281,"Aaron Hines Turnover.",15,7,8,0.828616628725465,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+57,1,"12:46",1966,2266,"Khris Lane missed Jumper.",15,7,8,0.814952412378454,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+58,1,"12:46",1966,2266,"Rashed Anthony Block.",15,7,8,0.814952412378454,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+59,1,"12:45",1965,2265,"Jalen Johnson Defensive Rebound.",15,7,8,0.814952412378454,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+60,1,"12:36",1956,2256,"Aaron Hines missed Three Point Jumper.",15,7,8,0.839674990202355,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+61,1,"12:36",1956,2256,"Mike'l Simms Defensive Rebound.",15,7,8,0.839674990202355,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+62,1,"12:24",1944,2244,"Justin Tillman missed Three Point Jumper.",15,7,8,0.836631120595904,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+63,1,"12:24",1944,2244,"Aaron Hines Defensive Rebound.",15,7,8,0.836631120595904,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+64,1,"11:59",1919,2219,"Jalen Johnson missed Three Point Jumper.",15,7,8,0.849642745112375,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+65,1,"11:59",1919,2219,"Mike'l Simms Defensive Rebound.",15,7,8,0.849642745112375,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+66,1,"11:38",1898,2198,"Justin Tillman missed Jumper.",15,7,8,0.847920124251485,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+67,1,"11:38",1898,2198,"Justin Tillman Offensive Rebound.",15,7,8,0.847920124251485,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+68,1,"11:35",1895,2195,"Justin Tillman missed Layup.",15,7,8,0.847920124251485,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+69,1,"11:35",1895,2195,"Rashed Anthony Defensive Rebound.",15,7,8,0.847920124251485,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+70,1,"11:14",1874,2174,"Foul on Jalen Johnson.",15,7,8,0.832737262592023,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+71,1,"11:14",1874,2174,"Jalen Johnson Turnover.",15,7,8,0.832737262592023,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+72,1,"11:14",1874,2174,"Official TV Timeout",15,7,8,0.832737262592023,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+73,1,"11:02",1862,2162,"De'Riante Jenkins missed Three Point Jumper.",15,7,8,0.850537302096619,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+74,1,"11:02",1862,2162,"Jordan Goodwin Defensive Rebound.",15,7,8,0.850537302096619,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+75,1,"10:54",1854,2154,"Davell Roby missed Three Point Jumper.",15,7,8,0.840801152583787,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+76,1,"10:54",1854,2154,"Justin Tillman Defensive Rebound.",15,7,8,0.840801152583787,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+77,1,"10:26",1826,2126,"Justin Tillman made Layup. Assisted by De'Riante Jenkins.",15,9,6,0.806712995601279,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+78,1,"10:07",1807,2107,"Foul on De'Riante Jenkins.",15,9,6,0.797576201517425,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+79,1,"10:06",1806,2106,"Aaron Hines missed Jumper.",15,9,6,0.797576201517425,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+80,1,"10:06",1806,2106,"Saint Louis Deadball Team Rebound.",15,9,6,0.797576201517425,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+81,1,"9:48",1788,2088,"Javon Bess made Jumper.",17,9,8,0.835667288969704,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+82,1,"9:19",1759,2059,"Justin Tillman made Dunk. Assisted by Jonathan Williams.",17,11,6,0.796386927421813,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+83,1,"9:07",1747,2047,"Jordan Goodwin made Layup. Assisted by D.J. Foreman.",19,11,8,0.838346860557991,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+84,1,"8:49",1729,2029,"Issac Vann made Jumper.",19,13,6,0.806653154871026,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+85,1,"8:23",1703,2003,"Javon Bess missed Jumper.",19,13,6,0.790072016100046,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+86,1,"8:23",1703,2003,"Justin Tillman Defensive Rebound.",19,13,6,0.790072016100046,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+87,1,"8:08",1688,1988,"Malik Crowfield missed Jumper.",19,13,6,0.816174138382184,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+88,1,"8:08",1688,1988,"Hasahn French Defensive Rebound.",19,13,6,0.816174138382184,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+89,1,"7:50",1670,1970,"D.J. Foreman made Layup.",21,13,8,0.848168677380587,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+90,1,"7:50",1670,1970,"Foul on Sean Mobley.",21,13,8,0.848168677380587,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+91,1,"7:50",1670,1970,"Official TV Timeout",21,13,8,0.848168677380587,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+92,1,"7:50",1670,1970,"D.J. Foreman missed Free Throw.",21,13,8,0.848168677380587,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+93,1,"7:50",1670,1970,"Marcus Santos-Silva Defensive Rebound.",21,13,8,0.848168677380587,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+94,1,"7:28",1648,1948,"Mike'l Simms made Three Point Jumper. Assisted by Tyler Maye.",21,16,5,0.78897463445172,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+95,1,"7:01",1621,1921,"Davell Roby missed Three Point Jumper.",21,16,5,0.782058178153447,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+96,1,"7:01",1621,1921,"Khris Lane Defensive Rebound.",21,16,5,0.782058178153447,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+97,1,"6:40",1600,1900,"Malik Crowfield Turnover.",21,16,5,0.773617009018564,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+98,1,"6:39",1599,1899,"Davell Roby Steal.",21,16,5,0.786264641545466,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+99,1,"6:31",1591,1891,"D.J. Foreman Turnover.",21,16,5,0.786264641545466,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+100,1,"6:15",1575,1875,"Khris Lane missed Three Point Jumper.",21,16,5,0.798883287085531,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+101,1,"6:15",1575,1875,"Hasahn French Defensive Rebound.",21,16,5,0.798883287085531,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+102,1,"5:52",1552,1852,"Jordan Goodwin made Three Point Jumper.",24,16,8,0.843439111222714,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+103,1,"5:33",1533,1833,"Mike'l Simms missed Three Point Jumper.",24,16,8,0.847508477183441,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+104,1,"5:33",1533,1833,"Hasahn French Defensive Rebound.",24,16,8,0.847508477183441,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+105,1,"5:03",1503,1803,"Jordan Goodwin missed Three Point Jumper.",24,16,8,0.84693138485883,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+106,1,"5:03",1503,1803,"Hasahn French Offensive Rebound.",24,16,8,0.84693138485883,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+107,1,"5:00",1500,1800,"D.J. Foreman made Layup. Assisted by Hasahn French.",26,16,10,0.880343650150272,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+108,1,"5:00",1500,1800,"Foul on Tyler Maye.",26,16,10,0.880343650150272,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+109,1,"5:00",1500,1800,"D.J. Foreman made Free Throw.",27,16,11,0.894557744254332,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+110,1,"4:53",1493,1793,"Jonathan Williams Turnover.",27,16,11,0.89862802957294,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+111,1,"4:52",1492,1792,"Aaron Hines Steal.",27,16,11,0.89862802957294,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+112,1,"4:46",1486,1786,"D.J. Foreman missed Layup.",27,16,11,0.899113174538883,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+113,1,"4:46",1486,1786,"Hasahn French Offensive Rebound.",27,16,11,0.899113174538883,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+114,1,"4:46",1486,1786,"Hasahn French Turnover.",27,16,11,0.899113174538883,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+115,1,"4:28",1468,1768,"Jonathan Williams missed Jumper.",27,16,11,0.89210265194804,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+116,1,"4:28",1468,1768,"Justin Tillman Offensive Rebound.",27,16,11,0.89210265194804,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+117,1,"4:23",1463,1763,"Foul on D.J. Foreman.",27,16,11,0.89210265194804,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+118,1,"4:20",1460,1760,"Foul on D.J. Foreman.",27,16,11,0.89210265194804,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+119,1,"4:20",1460,1760,"Marcus Santos-Silva made Free Throw.",27,17,10,0.877931204550124,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+120,1,"4:20",1460,1760,"Marcus Santos-Silva missed Free Throw.",27,17,10,0.877931204550124,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+121,1,"4:20",1460,1760,"Javon Bess Defensive Rebound.",27,17,10,0.877931204550124,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+122,1,"3:59",1439,1739,"Aaron Hines missed Three Point Jumper.",27,17,10,0.88912058614322,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+123,1,"3:59",1439,1739,"Mike'l Simms Defensive Rebound.",27,17,10,0.88912058614322,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+124,1,"3:49",1429,1729,"Marcus Santos-Silva missed Jumper.",27,17,10,0.876715613664449,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+125,1,"3:49",1429,1729,"Jordan Goodwin Defensive Rebound.",27,17,10,0.876715613664449,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+126,1,"3:40",1420,1720,"Jordan Goodwin Turnover.",27,17,10,0.876715613664449,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+127,1,"3:38",1418,1718,"Justin Tillman Steal.",27,17,10,0.888404237866741,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+128,1,"3:33",1413,1713,"Mike'l Simms missed Three Point Jumper.",27,17,10,0.888404237866741,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+129,1,"3:33",1413,1713,"Javon Bess Defensive Rebound.",27,17,10,0.888404237866741,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+130,1,"3:28",1408,1708,"Javon Bess Turnover.",27,17,10,0.898171194455572,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+131,1,"3:28",1408,1708,"Official TV Timeout",27,17,10,0.898171194455572,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+132,1,"3:10",1390,1690,"De'Riante Jenkins made Jumper.",27,19,8,0.856105706938465,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+133,1,"2:49",1369,1669,"Hasahn French missed Layup.",27,19,8,0.856252440375736,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+134,1,"2:49",1369,1669,"Jonathan Williams Defensive Rebound.",27,19,8,0.856252440375736,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+135,1,"2:43",1363,1663,"De'Riante Jenkins missed Three Point Jumper.",27,19,8,0.856252440375736,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+136,1,"2:43",1363,1663,"Hasahn French Defensive Rebound.",27,19,8,0.856252440375736,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+137,1,"2:28",1348,1648,"Javon Bess missed Three Point Jumper.",27,19,8,0.855025454368234,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+138,1,"2:28",1348,1648,"Jalen Johnson Offensive Rebound.",27,19,8,0.855025454368234,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+139,1,"2:23",1343,1643,"Jalen Johnson missed Layup.",27,19,8,0.855025454368234,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+140,1,"2:23",1343,1643,"VCU Defensive Rebound.",27,19,8,0.855025454368234,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+141,1,"2:11",1331,1631,"Sean Mobley made Three Point Jumper. Assisted by Jonathan Williams.",27,22,5,0.780205938015022,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+142,1,"2:07",1327,1627,"Saint Louis  Timeout",27,22,5,0.791343511200114,"Saint Louis","VCU",3,4,1,0,3,400989926,2018-01-23
+143,1,"1:47",1307,1607,"Hasahn French made Layup. Assisted by Davell Roby.",29,22,7,0.827975410674431,"Saint Louis","VCU",3,4,1,0,3,400989926,2018-01-23
+144,1,"1:32",1292,1592,"Justin Tillman made Jumper.",29,24,5,0.808908967529414,"Saint Louis","VCU",3,4,1,0,3,400989926,2018-01-23
+145,1,"1:11",1271,1571,"Davell Roby Turnover.",29,24,5,0.773653181674943,"Saint Louis","VCU",3,4,1,0,3,400989926,2018-01-23
+146,1,"1:10",1270,1570,"De'Riante Jenkins Steal.",29,24,5,0.773653181674943,"Saint Louis","VCU",3,4,1,0,3,400989926,2018-01-23
+147,1,"1:07",1267,1567,"De'Riante Jenkins Turnover.",29,24,5,0.803327723944835,"Saint Louis","VCU",3,4,1,0,3,400989926,2018-01-23
+148,1,"0:36",1236,1536,"Jordan Goodwin missed Jumper.",29,24,5,0.785787753815134,"Saint Louis","VCU",3,4,0,0,3,400989926,2018-01-23
+149,1,"0:36",1236,1536,"Issac Vann Defensive Rebound.",29,24,5,0.785787753815134,"Saint Louis","VCU",3,4,0,0,3,400989926,2018-01-23
+150,1,"0:11",1211,1511,"Sean Mobley missed Three Point Jumper.",29,24,5,0.789783093077183,"Saint Louis","VCU",3,4,0,0,3,400989926,2018-01-23
+151,1,"0:11",1211,1511,"Jordan Goodwin Defensive Rebound.",29,24,5,0.789783093077183,"Saint Louis","VCU",3,4,0,0,3,400989926,2018-01-23
+152,1,"0:00",1200,1500,"End of 1st half",29,24,5,0.790214429547597,"Saint Louis","VCU",3,4,0,0,3,400989926,2018-01-23
+153,2,"20:00",1200,1500,"PLAY",29,24,5,0.790214429547597,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+154,2,"19:50",1190,1490,"Justin Tillman made Dunk. Assisted by Sean Mobley.",29,26,3,0.765288232300275,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+155,2,"19:22",1162,1462,"Jordan Goodwin made Layup. Assisted by Javon Bess.",31,26,5,0.784198136661383,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+156,2,"19:07",1147,1447,"Issac Vann missed Layup.",31,26,5,0.796868310302382,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+157,2,"19:07",1147,1447,"Jordan Goodwin Defensive Rebound.",31,26,5,0.796868310302382,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+158,2,"19:01",1141,1441,"D.J. Foreman made Layup. Assisted by Jordan Goodwin.",33,26,7,0.846999345718827,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+159,2,"18:32",1112,1412,"Foul on Issac Vann.",33,26,7,0.849898554988797,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+160,2,"18:32",1112,1412,"Issac Vann Turnover.",33,26,7,0.849898554988797,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+161,2,"18:15",1095,1395,"Jordan Goodwin missed Three Point Jumper.",33,26,7,0.853008396537541,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+162,2,"18:15",1095,1395,"Hasahn French Offensive Rebound.",33,26,7,0.853008396537541,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+163,2,"18:12",1092,1392,"Foul on Sean Mobley.",33,26,7,0.853008396537541,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+164,2,"18:12",1092,1392,"Hasahn French made Free Throw.",34,26,8,0.8732330718344,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+165,2,"18:12",1092,1392,"Hasahn French missed Free Throw.",34,26,8,0.8732330718344,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+166,2,"18:12",1092,1392,"De'Riante Jenkins Defensive Rebound.",34,26,8,0.8732330718344,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+167,2,"17:57",1077,1377,"Issac Vann Turnover.",34,26,8,0.868337868128065,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+168,2,"17:32",1052,1352,"Hasahn French made Dunk. Assisted by Javon Bess.",36,26,10,0.912247579952655,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+169,2,"17:22",1042,1342,"Foul on Hasahn French.",36,26,10,0.911270350549831,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+170,2,"17:11",1031,1331,"Malik Crowfield made Three Point Jumper. Assisted by Marcus Santos-Silva.",36,29,7,0.844046717859474,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+171,2,"16:32",992,1292,"Hasahn French missed Jumper.",36,29,7,0.844550509204032,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+172,2,"16:32",992,1292,"Marcus Santos-Silva Block.",36,29,7,0.844550509204032,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+173,2,"16:32",992,1292,"Saint Louis Offensive Rebound.",36,29,7,0.844550509204032,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+174,2,"16:31",991,1291,"Davell Roby missed Three Point Jumper.",36,29,7,0.844550509204032,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+175,2,"16:31",991,1291,"Mike'l Simms Defensive Rebound.",36,29,7,0.844550509204032,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+176,2,"16:21",981,1281,"Mike'l Simms missed Jumper.",36,29,7,0.873316161978982,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+177,2,"16:21",981,1281,"Justin Tillman Offensive Rebound.",36,29,7,0.873316161978982,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+178,2,"16:18",978,1278,"Foul on Jordan Goodwin.",36,29,7,0.8579012257878,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+179,2,"16:18",978,1278,"Justin Tillman made Free Throw.",36,30,6,0.834537480491511,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+180,2,"16:18",978,1278,"Justin Tillman missed Free Throw.",36,30,6,0.834537480491511,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+181,2,"16:18",978,1278,"D.J. Foreman Defensive Rebound.",36,30,6,0.834537480491511,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+182,2,"15:52",952,1252,"Hasahn French missed Jumper.",36,30,6,0.833772070655579,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+183,2,"15:52",952,1252,"D.J. Foreman Offensive Rebound.",36,30,6,0.833772070655579,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+184,2,"15:48",948,1248,"D.J. Foreman made Layup.",38,30,8,0.891124334439674,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+185,2,"15:36",936,1236,"Marcus Santos-Silva missed Layup.",38,30,8,0.881457524025065,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+186,2,"15:36",936,1236,"Hasahn French Block.",38,30,8,0.881457524025065,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+187,2,"15:34",934,1234,"Justin Tillman Offensive Rebound.",38,30,8,0.881457524025065,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+188,2,"15:32",932,1232,"Justin Tillman made Layup.",38,32,6,0.835282073183898,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+189,2,"15:18",918,1218,"Foul on Malik Crowfield.",38,32,6,0.841860015571949,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+190,2,"15:18",918,1218,"Official TV Timeout",38,32,6,0.841860015571949,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+191,2,"15:12",912,1212,"Hasahn French missed Layup.",38,32,6,0.841860015571949,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+192,2,"15:12",912,1212,"Justin Tillman Defensive Rebound.",38,32,6,0.841860015571949,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+193,2,"15:02",902,1202,"Justin Tillman Turnover.",38,32,6,0.833990646233954,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+194,2,"14:38",878,1178,"Javon Bess made Jumper.",40,32,8,0.884444396137033,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+195,2,"14:17",857,1157,"Justin Tillman missed Jumper.",40,32,8,0.897266142611133,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+196,2,"14:17",857,1157,"D.J. Foreman Defensive Rebound.",40,32,8,0.897266142611133,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+197,2,"14:04",844,1144,"Foul on Justin Tillman.",40,32,8,0.895506512462602,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+198,2,"14:04",844,1144,"Javon Bess made Free Throw.",41,32,9,0.913775731398207,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+199,2,"14:04",844,1144,"Javon Bess made Free Throw.",42,32,10,0.929103708722644,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+200,2,"13:38",818,1118,"Marcus Santos-Silva Turnover.",42,32,10,0.915690464208036,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+201,2,"13:37",817,1117,"Jordan Goodwin Steal.",42,32,10,0.915690464208036,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+202,2,"13:14",794,1094,"Foul on Sean Mobley.",42,32,10,0.933151765397529,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+203,2,"13:14",794,1094,"D.J. Foreman missed Free Throw.",42,32,10,0.933151765397529,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+204,2,"13:14",794,1094,"Saint Louis Deadball Team Rebound.",42,32,10,0.933151765397529,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+205,2,"13:14",794,1094,"D.J. Foreman made Free Throw.",43,32,11,0.945623297121531,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+206,2,"12:49",769,1069,"Jonathan Williams missed Three Point Jumper.",43,32,11,0.949044293634481,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+207,2,"12:49",769,1069,"Mike'l Simms Offensive Rebound.",43,32,11,0.949044293634481,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+208,2,"12:44",764,1064,"Foul on D.J. Foreman.",43,32,11,0.949044293634481,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+209,2,"12:40",760,1060,"Issac Vann missed Three Point Jumper.",43,32,11,0.949044293634481,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+210,2,"12:40",760,1060,"Jordan Goodwin Defensive Rebound.",43,32,11,0.949044293634481,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+211,2,"12:31",751,1051,"Davell Roby missed Layup.",43,32,11,0.945277927489719,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+212,2,"12:31",751,1051,"Jordan Goodwin Offensive Rebound.",43,32,11,0.945277927489719,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+213,2,"12:27",747,1047,"Jordan Goodwin made Two Point Tip Shot.",45,32,13,0.964942182601974,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+214,2,"12:13",733,1033,"Foul on Rashed Anthony.",45,32,13,0.961540510971603,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+215,2,"11:57",717,1017,"Foul on Rashed Anthony.",45,32,13,0.961532609753372,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+216,2,"11:57",717,1017,"Official TV Timeout",45,32,13,0.961532609753372,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+217,2,"11:38",698,998,"Issac Vann made Jumper.",45,34,11,0.956822157558487,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+218,2,"11:23",683,983,"Davell Roby Turnover.",45,34,11,0.946484154505996,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+219,2,"11:22",682,982,"Issac Vann Steal.",45,34,11,0.946484154505996,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+220,2,"11:19",679,979,"Khris Lane made Layup. Assisted by Issac Vann.",45,36,9,0.924601071562869,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+221,2,"10:45",645,945,"Davell Roby missed Jumper.",45,36,9,0.931293790895923,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+222,2,"10:45",645,945,"Justin Tillman Defensive Rebound.",45,36,9,0.931293790895923,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+223,2,"10:38",638,938,"Justin Tillman missed Three Point Jumper.",45,36,9,0.924671886036995,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+224,2,"10:38",638,938,"Javon Bess Defensive Rebound.",45,36,9,0.924671886036995,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+225,2,"10:29",629,929,"Hasahn French missed Jumper.",45,36,9,0.938174798103955,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+226,2,"10:29",629,929,"Khris Lane Defensive Rebound.",45,36,9,0.938174798103955,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+227,2,"10:28",628,928,"Foul on Jordan Goodwin.",45,36,9,0.938174798103955,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+228,2,"10:07",607,907,"Khris Lane missed Layup.",45,36,9,0.934016877767683,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+229,2,"10:07",607,907,"Hasahn French Defensive Rebound.",45,36,9,0.934016877767683,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+230,2,"10:07",607,907,"Foul on Justin Tillman.",45,36,9,0.934016877767683,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+231,2,"9:56",596,896,"Saint Louis  Turnover.",45,36,9,0.929438849985779,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+232,2,"9:50",590,890,"Foul on Jordan Goodwin.",45,36,9,0.929438849985779,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+233,2,"9:50",590,890,"Jonathan Williams missed Free Throw.",45,36,9,0.929438849985779,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+234,2,"9:50",590,890,"Hasahn French Defensive Rebound.",45,36,9,0.929438849985779,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+235,2,"9:49",589,889,"Foul on Khris Lane.",45,36,9,0.928476802216138,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+236,2,"9:49",589,889,"Hasahn French missed Free Throw.",45,36,9,0.928476802216138,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+237,2,"9:49",589,889,"Justin Tillman Defensive Rebound.",45,36,9,0.928476802216138,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+238,2,"9:25",565,865,"Jonathan Williams missed Layup.",45,36,9,0.943271413789968,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+239,2,"9:25",565,865,"Justin Tillman Offensive Rebound.",45,36,9,0.943271413789968,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+240,2,"9:22",562,862,"Justin Tillman made Two Point Tip Shot.",45,38,7,0.908475500039479,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+241,2,"8:52",532,832,"Javon Bess missed Layup.",45,38,7,0.923185105189097,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+242,2,"8:52",532,832,"D.J. Foreman Offensive Rebound.",45,38,7,0.923185105189097,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+243,2,"8:48",528,828,"D.J. Foreman made Two Point Tip Shot.",47,38,9,0.946354986026168,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+244,2,"8:33",513,813,"Justin Tillman made Layup. Assisted by Issac Vann.",47,40,7,0.905721255913001,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+245,2,"8:27",507,807,"Javon Bess made Dunk. Assisted by Davell Roby.",49,40,9,0.948645055595385,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+246,2,"8:09",489,789,"Khris Lane made Layup.",49,42,7,0.910029017738418,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+247,2,"7:45",465,765,"Foul on Issac Vann.",49,42,7,0.912877753036575,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+248,2,"7:45",465,765,"Official TV Timeout",49,42,7,0.912877753036575,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+249,2,"7:45",465,765,"Davell Roby made Free Throw.",50,42,8,0.932842086208619,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+250,2,"7:45",465,765,"Davell Roby made Free Throw.",51,42,9,0.94848967460853,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+251,2,"7:27",447,747,"Justin Tillman made Jumper. Assisted by De'Riante Jenkins.",51,44,7,0.908834412408082,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+252,2,"7:16",436,736,"Foul on Malik Crowfield.",51,44,7,0.930445594112996,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+253,2,"7:16",436,736,"Davell Roby made Free Throw.",52,44,8,0.947904007256688,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+254,2,"7:16",436,736,"Davell Roby made Free Throw.",53,44,9,0.961163204062365,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+255,2,"7:06",426,726,"Foul on Davell Roby.",53,44,9,0.952204915606225,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+256,2,"7:06",426,726,"De'Riante Jenkins made Free Throw.",53,45,8,0.936706105781247,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+257,2,"7:06",426,726,"De'Riante Jenkins made Free Throw.",53,46,7,0.916621485962062,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+258,2,"7:01",421,721,"Jordan Goodwin Turnover.",53,46,7,0.916621485962062,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+259,2,"6:59",419,719,"Justin Tillman Steal.",53,46,7,0.922604276976116,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+260,2,"6:54",414,714,"Malik Crowfield missed Three Point Jumper.",53,46,7,0.922604276976116,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+261,2,"6:54",414,714,"Saint Louis Defensive Rebound.",53,46,7,0.922604276976116,"Saint Louis","VCU",4,4,0,0,3,400989926,2018-01-23
+262,2,"6:52",412,712,"Saint Louis  Timeout",53,46,7,0.922604276976116,"Saint Louis","VCU",3,4,1,0,3,400989926,2018-01-23
+263,2,"6:52",412,712,"Official TV Timeout",53,46,7,0.922604276976116,"Saint Louis","VCU",3,4,1,0,3,400989926,2018-01-23
+264,2,"6:34",394,694,"D.J. Foreman Turnover.",53,46,7,0.931068020071882,"Saint Louis","VCU",3,4,1,0,3,400989926,2018-01-23
+265,2,"6:14",374,674,"Justin Tillman made Layup. Assisted by Khris Lane.",53,48,5,0.866337863219701,"Saint Louis","VCU",3,4,1,0,3,400989926,2018-01-23
+266,2,"5:47",347,647,"Foul on Khris Lane.",53,48,5,0.869762469580664,"Saint Louis","VCU",3,4,0,0,3,400989926,2018-01-23
+267,2,"5:47",347,647,"Javon Bess made Free Throw.",54,48,6,0.903214428488848,"Saint Louis","VCU",3,4,0,0,3,400989926,2018-01-23
+268,2,"5:47",347,647,"Javon Bess made Free Throw.",55,48,7,0.928777730327384,"Saint Louis","VCU",3,4,0,0,3,400989926,2018-01-23
+269,2,"5:32",332,632,"Issac Vann made Layup. Assisted by Justin Tillman.",55,50,5,0.897801602196488,"Saint Louis","VCU",3,4,0,0,3,400989926,2018-01-23
+270,2,"5:18",318,618,"Davell Roby Turnover.",55,50,5,0.898661491908071,"Saint Louis","VCU",3,4,0,0,3,400989926,2018-01-23
+271,2,"5:17",317,617,"De'Riante Jenkins Steal.",55,50,5,0.898661491908071,"Saint Louis","VCU",3,4,0,0,3,400989926,2018-01-23
+272,2,"5:10",310,610,"Issac Vann made Layup. Assisted by Jonathan Williams.",55,52,3,0.809875745526942,"Saint Louis","VCU",3,4,0,0,3,400989926,2018-01-23
+273,2,"5:08",308,608,"Saint Louis  Timeout",55,52,3,0.794251114872173,"Saint Louis","VCU",2,4,1,0,3,400989926,2018-01-23
+274,2,"4:45",285,585,"D.J. Foreman Turnover.",55,52,3,0.795698211383262,"Saint Louis","VCU",2,4,1,0,3,400989926,2018-01-23
+275,2,"4:31",271,571,"Justin Tillman missed Jumper.",55,52,3,0.806784452233198,"Saint Louis","VCU",2,4,1,0,3,400989926,2018-01-23
+276,2,"4:31",271,571,"Saint Louis Defensive Rebound.",55,52,3,0.806784452233198,"Saint Louis","VCU",2,4,1,0,3,400989926,2018-01-23
+277,2,"4:08",248,548,"Aaron Hines missed Jumper.",55,52,3,0.818654837496431,"Saint Louis","VCU",2,4,1,0,3,400989926,2018-01-23
+278,2,"4:08",248,548,"VCU Defensive Rebound.",55,52,3,0.818654837496431,"Saint Louis","VCU",2,4,1,0,3,400989926,2018-01-23
+279,2,"3:45",225,525,"Issac Vann missed Jumper.",55,52,3,0.841429166477998,"Saint Louis","VCU",2,4,0,0,3,400989926,2018-01-23
+280,2,"3:45",225,525,"Jordan Goodwin Block.",55,52,3,0.841429166477998,"Saint Louis","VCU",2,4,0,0,3,400989926,2018-01-23
+281,2,"3:43",223,523,"Jordan Goodwin Defensive Rebound.",55,52,3,0.841429166477998,"Saint Louis","VCU",2,4,0,0,3,400989926,2018-01-23
+282,2,"3:42",222,522,"Foul on Jonathan Williams.",55,52,3,0.841429166477998,"Saint Louis","VCU",2,4,0,0,3,400989926,2018-01-23
+283,2,"3:42",222,522,"Official TV Timeout",55,52,3,0.841429166477998,"Saint Louis","VCU",2,4,0,0,3,400989926,2018-01-23
+284,2,"3:42",222,522,"Javon Bess made Free Throw.",56,52,4,0.890158793635239,"Saint Louis","VCU",2,4,0,0,3,400989926,2018-01-23
+285,2,"3:42",222,522,"Javon Bess made Free Throw.",57,52,5,0.925243985654346,"Saint Louis","VCU",2,4,0,0,3,400989926,2018-01-23
+286,2,"3:27",207,507,"De'Riante Jenkins made Three Point Jumper. Assisted by Issac Vann.",57,55,2,0.786432191215985,"Saint Louis","VCU",2,4,0,0,3,400989926,2018-01-23
+287,2,"3:24",204,504,"VCU  Timeout",57,55,2,0.786432191215985,"Saint Louis","VCU",2,3,0,1,3,400989926,2018-01-23
+288,2,"3:11",191,491,"D.J. Foreman Turnover.",57,55,2,0.761892275728482,"Saint Louis","VCU",2,3,0,1,3,400989926,2018-01-23
+289,2,"3:00",180,480,"Jonathan Williams made Layup.",57,57,0,0.553469876950164,"Saint Louis","VCU",2,3,0,1,3,400989926,2018-01-23
+290,2,"2:26",146,446,"Foul on Khris Lane.",57,57,0,0.553576495016581,"Saint Louis","VCU",2,3,0,1,3,400989926,2018-01-23
+291,2,"2:26",146,446,"Davell Roby made Free Throw.",58,57,1,0.675523604470751,"Saint Louis","VCU",2,3,0,1,3,400989926,2018-01-23
+292,2,"2:26",146,446,"Davell Roby missed Free Throw.",58,57,1,0.675523604470751,"Saint Louis","VCU",2,3,0,1,3,400989926,2018-01-23
+293,2,"2:26",146,446,"Khris Lane Defensive Rebound.",58,57,1,0.675523604470751,"Saint Louis","VCU",2,3,0,1,3,400989926,2018-01-23
+294,2,"2:14",134,434,"Foul on Hasahn French.",58,57,1,0.72249356917086,"Saint Louis","VCU",2,3,0,0,3,400989926,2018-01-23
+295,2,"2:14",134,434,"Jonathan Williams missed Free Throw.",58,57,1,0.72249356917086,"Saint Louis","VCU",2,3,0,0,3,400989926,2018-01-23
+296,2,"2:14",134,434,"Hasahn French Defensive Rebound.",58,57,1,0.72249356917086,"Saint Louis","VCU",2,3,0,0,3,400989926,2018-01-23
+297,2,"1:47",107,407,"Jordan Goodwin missed Three Point Jumper.",58,57,1,0.677418029756599,"Saint Louis","VCU",2,3,0,0,3,400989926,2018-01-23
+298,2,"1:47",107,407,"Saint Louis Offensive Rebound.",58,57,1,0.677418029756599,"Saint Louis","VCU",2,3,0,0,3,400989926,2018-01-23
+299,2,"1:45",105,405,"Davell Roby missed Jumper.",58,57,1,0.677418029756599,"Saint Louis","VCU",2,3,0,0,3,400989926,2018-01-23
+300,2,"1:45",105,405,"Issac Vann Defensive Rebound.",58,57,1,0.677418029756599,"Saint Louis","VCU",2,3,0,0,3,400989926,2018-01-23
+301,2,"1:19",79,379,"Khris Lane Turnover.",58,57,1,0.703310731933498,"Saint Louis","VCU",2,3,0,0,3,400989926,2018-01-23
+302,2,"1:18",78,378,"Javon Bess Steal.",58,57,1,0.703310731933498,"Saint Louis","VCU",2,3,0,0,3,400989926,2018-01-23
+303,2,"0:50",50,350,"Davell Roby missed Jumper.",58,57,1,0.778340609851236,"Saint Louis","VCU",2,3,0,0,3,400989926,2018-01-23
+304,2,"0:50",50,350,"Javon Bess Offensive Rebound.",58,57,1,0.778340609851236,"Saint Louis","VCU",2,3,0,0,3,400989926,2018-01-23
+305,2,"0:50",50,350,"Saint Louis  Turnover.",58,57,1,0.778340609851236,"Saint Louis","VCU",2,3,0,0,3,400989926,2018-01-23
+306,2,"0:34",34,334,"De'Riante Jenkins missed Three Point Jumper.",58,57,1,0.678121102490008,"Saint Louis","VCU",2,3,0,0,3,400989926,2018-01-23
+307,2,"0:34",34,334,"Javon Bess Defensive Rebound.",58,57,1,0.678121102490008,"Saint Louis","VCU",2,3,0,0,3,400989926,2018-01-23
+308,2,"0:34",34,334,"Foul on Issac Vann.",58,57,1,0.678121102490008,"Saint Louis","VCU",2,3,0,0,3,400989926,2018-01-23
+309,2,"0:34",34,334,"Javon Bess made Free Throw.",59,57,2,0.828184329186109,"Saint Louis","VCU",2,3,0,0,3,400989926,2018-01-23
+310,2,"0:34",34,334,"Javon Bess made Free Throw.",60,57,3,0.916863635456074,"Saint Louis","VCU",2,3,0,0,3,400989926,2018-01-23
+311,2,"0:19",19,319,"Foul on D.J. Foreman.",60,57,3,0.982439676642675,"Saint Louis","VCU",2,3,0,0,3,400989926,2018-01-23
+312,2,"0:19",19,319,"Khris Lane made Free Throw.",60,58,2,0.940570262968768,"Saint Louis","VCU",2,3,0,0,3,400989926,2018-01-23
+313,2,"0:19",19,319,"Khris Lane missed Free Throw.",60,58,2,0.940570262968768,"Saint Louis","VCU",2,3,0,0,3,400989926,2018-01-23
+314,2,"0:19",19,319,"Javon Bess Defensive Rebound.",60,58,2,0.940570262968768,"Saint Louis","VCU",2,3,0,0,3,400989926,2018-01-23
+315,2,"0:15",15,315,"Foul on Issac Vann.",60,58,2,0.926990210830169,"Saint Louis","VCU",2,3,0,1,3,400989926,2018-01-23
+316,2,"0:15",15,315,"VCU  Timeout",60,58,2,0.926990210830169,"Saint Louis","VCU",2,2,0,1,3,400989926,2018-01-23
+317,2,"0:15",15,315,"Javon Bess made Free Throw.",61,58,3,0.981765612292509,"Saint Louis","VCU",2,2,0,1,3,400989926,2018-01-23
+318,2,"0:15",15,315,"Javon Bess missed Free Throw.",61,58,3,0.981765612292509,"Saint Louis","VCU",2,2,0,1,3,400989926,2018-01-23
+319,2,"0:15",15,315,"Justin Tillman Defensive Rebound.",61,58,3,0.981765612292509,"Saint Louis","VCU",2,2,0,1,3,400989926,2018-01-23
+320,2,"0:04",4,304,"De'Riante Jenkins made Three Point Jumper. Assisted by Jonathan Williams.",61,61,0,0.428966149106279,"Saint Louis","VCU",2,2,0,1,3,400989926,2018-01-23
+321,2,"0:00",300,300,"End of 2nd half",61,61,0,0.582929973440772,"Saint Louis","VCU",2,2,1,0,3,400989926,2018-01-23
+322,3,"5:00",300,300,"PLAY",61,61,0,0.582929973440772,"Saint Louis","VCU",3,3,0,0,3,400989926,2018-01-23
+323,3,"4:37",277,277,"Justin Tillman made Layup. Assisted by Khris Lane.",61,63,-2,0.374538290319312,"Saint Louis","VCU",3,3,0,0,3,400989926,2018-01-23
+324,3,"4:19",259,259,"D.J. Foreman missed Layup.",61,63,-2,0.379834358654818,"Saint Louis","VCU",3,3,0,0,3,400989926,2018-01-23
+325,3,"4:19",259,259,"D.J. Foreman Offensive Rebound.",61,63,-2,0.379834358654818,"Saint Louis","VCU",3,3,0,0,3,400989926,2018-01-23
+326,3,"4:16",256,256,"D.J. Foreman made Layup.",63,63,0,0.587221991520026,"Saint Louis","VCU",3,3,0,0,3,400989926,2018-01-23
+327,3,"3:47",227,227,"Jonathan Williams missed Three Point Jumper.",63,63,0,0.598329475181313,"Saint Louis","VCU",3,3,0,0,3,400989926,2018-01-23
+328,3,"3:47",227,227,"Javon Bess Defensive Rebound.",63,63,0,0.598329475181313,"Saint Louis","VCU",3,3,0,0,3,400989926,2018-01-23
+329,3,"3:22",202,202,"Davell Roby made Layup.",65,63,2,0.786432191215985,"Saint Louis","VCU",3,3,0,0,3,400989926,2018-01-23
+330,3,"2:55",175,175,"Justin Tillman made Jumper. Assisted by De'Riante Jenkins.",65,65,0,0.590846830361834,"Saint Louis","VCU",3,3,0,0,3,400989926,2018-01-23
+331,3,"2:25",145,145,"Javon Bess missed Jumper.",65,65,0,0.553576495016581,"Saint Louis","VCU",3,3,0,0,3,400989926,2018-01-23
+332,3,"2:25",145,145,"Mike'l Simms Defensive Rebound.",65,65,0,0.553576495016581,"Saint Louis","VCU",3,3,0,0,3,400989926,2018-01-23
+333,3,"2:05",125,125,"Foul on Hasahn French.",65,65,0,0.544487232737121,"Saint Louis","VCU",3,3,0,0,3,400989926,2018-01-23
+334,3,"2:05",125,125,"Khris Lane made Free Throw.",65,66,-1,0.404177396406526,"Saint Louis","VCU",3,3,0,0,3,400989926,2018-01-23
+335,3,"2:05",125,125,"Khris Lane made Free Throw.",65,67,-2,0.277960878902369,"Saint Louis","VCU",3,3,0,0,3,400989926,2018-01-23
+336,3,"1:50",110,110,"Javon Bess missed Three Point Jumper.",65,67,-2,0.297170821423937,"Saint Louis","VCU",3,3,0,0,3,400989926,2018-01-23
+337,3,"1:50",110,110,"Justin Tillman Defensive Rebound.",65,67,-2,0.297170821423937,"Saint Louis","VCU",3,3,0,0,3,400989926,2018-01-23
+338,3,"1:25",85,85,"Official TV Timeout",65,69,-4,0.0765847176537977,"Saint Louis","VCU",3,3,0,0,3,400989926,2018-01-23
+339,3,"1:25",85,85,"Justin Tillman made Jumper. Assisted by Jonathan Williams.",65,69,-4,0.0765847176537977,"Saint Louis","VCU",3,3,0,0,3,400989926,2018-01-23
+340,3,"1:19",79,79,"Saint Louis  Timeout",65,69,-4,0.0566851634814165,"Saint Louis","VCU",2,3,1,0,3,400989926,2018-01-23
+341,3,"1:19",79,79,"Official TV Timeout",65,69,-4,0.0566851634814165,"Saint Louis","VCU",2,3,1,0,3,400989926,2018-01-23
+342,3,"1:10",70,70,"Jordan Goodwin made Layup.",67,69,-2,0.207199885143639,"Saint Louis","VCU",2,3,1,0,3,400989926,2018-01-23
+343,3,"1:10",70,70,"Foul on Issac Vann.",67,69,-2,0.207199885143639,"Saint Louis","VCU",2,3,1,0,3,400989926,2018-01-23
+344,3,"1:10",70,70,"Jordan Goodwin made Free Throw.",68,69,-1,0.352769649778754,"Saint Louis","VCU",2,3,1,0,3,400989926,2018-01-23
+345,3,"0:45",45,45,"Justin Tillman missed Jumper.",68,69,-1,0.341705494608295,"Saint Louis","VCU",2,3,1,0,3,400989926,2018-01-23
+346,3,"0:45",45,45,"Mike'l Simms Offensive Rebound.",68,69,-1,0.341705494608295,"Saint Louis","VCU",2,3,1,0,3,400989926,2018-01-23
+347,3,"0:42",42,42,"Mike'l Simms made Jumper.",68,71,-3,0.0581814483922867,"Saint Louis","VCU",2,3,1,1,3,400989926,2018-01-23
+348,3,"0:42",42,42,"Foul on Davell Roby.",68,71,-3,0.0581814483922867,"Saint Louis","VCU",2,3,1,1,3,400989926,2018-01-23
+349,3,"0:42",42,42,"Mike'l Simms made Free Throw.",68,72,-4,0.0244247769127485,"Saint Louis","VCU",2,3,1,1,3,400989926,2018-01-23
+350,3,"0:42",42,42,"VCU  Timeout",68,72,-4,0.0244247769127485,"Saint Louis","VCU",2,2,1,1,3,400989926,2018-01-23
+351,3,"0:31",31,31,"Foul on De'Riante Jenkins.",68,72,-4,0.0200215425966685,"Saint Louis","VCU",2,2,1,1,3,400989926,2018-01-23
+352,3,"0:31",31,31,"Javon Bess missed Free Throw.",68,72,-4,0.0200215425966685,"Saint Louis","VCU",2,2,1,1,3,400989926,2018-01-23
+353,3,"0:31",31,31,"Saint Louis Deadball Team Rebound.",68,72,-4,0.0200215425966685,"Saint Louis","VCU",2,2,1,1,3,400989926,2018-01-23
+354,3,"0:31",31,31,"Javon Bess made Free Throw.",69,72,-3,0.0507241806686147,"Saint Louis","VCU",2,2,1,1,3,400989926,2018-01-23
+355,3,"0:21",21,21,"Foul on Jordan Goodwin.",69,72,-3,0.00746045451296489,"Saint Louis","VCU",2,2,1,1,3,400989926,2018-01-23
+356,3,"0:21",21,21,"Mike'l Simms missed Free Throw.",69,72,-3,0.00746045451296489,"Saint Louis","VCU",2,2,1,1,3,400989926,2018-01-23
+357,3,"0:21",21,21,"VCU Deadball Team Rebound.",69,72,-3,0.00746045451296489,"Saint Louis","VCU",2,2,1,1,3,400989926,2018-01-23
+358,3,"0:21",21,21,"Mike'l Simms made Free Throw.",69,73,-4,0.00146647305693327,"Saint Louis","VCU",2,2,1,1,3,400989926,2018-01-23
+359,3,"0:11",11,11,"Jordan Goodwin missed Three Point Jumper.",69,73,-4,0.00646825976166219,"Saint Louis","VCU",2,2,0,1,3,400989926,2018-01-23
+360,3,"0:09",9,9,"Saint Louis Offensive Rebound.",69,73,-4,0.0027970200739467,"Saint Louis","VCU",2,2,0,1,3,400989926,2018-01-23
+361,3,"0:07",7,7,"Javon Bess missed Layup.",69,73,-4,0.0027970200739467,"Saint Louis","VCU",2,2,0,1,3,400989926,2018-01-23
+362,3,"0:07",7,7,"Hasahn French Offensive Rebound.",69,73,-4,0.0027970200739467,"Saint Louis","VCU",2,2,0,1,3,400989926,2018-01-23
+363,3,"0:06",6,6,"Hasahn French made Two Point Tip Shot.",71,73,-2,0.066487075679645,"Saint Louis","VCU",2,2,1,1,3,400989926,2018-01-23
+364,3,"0:06",6,6,"Saint Louis  Timeout",71,73,-2,0.066487075679645,"Saint Louis","VCU",1,2,1,1,3,400989926,2018-01-23
+365,3,"0:05",5,5,"Foul on Jordan Goodwin.",71,73,-2,0.066487075679645,"Saint Louis","VCU",1,2,1,1,3,400989926,2018-01-23
+366,3,"0:05",5,5,"Jonathan Williams made Free Throw.",71,74,-3,0.0139369942781927,"Saint Louis","VCU",1,2,1,1,3,400989926,2018-01-23
+367,3,"0:05",5,5,"Jonathan Williams made Free Throw.",71,75,-4,0.0027970200739467,"Saint Louis","VCU",1,2,1,1,3,400989926,2018-01-23
+368,3,"0:01",1,1,"Davell Roby made Three Point Jumper.",74,75,-1,0.118267889708694,"Saint Louis","VCU",1,2,1,1,3,400989926,2018-01-23
+369,3,"0:00",0,0,"End of Game",74,75,-1,4.39114425286182e-09,"Saint Louis","VCU",1,2,1,1,3,400989926,2018-01-23

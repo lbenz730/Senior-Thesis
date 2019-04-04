@@ -1,0 +1,357 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.475825221634056,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+2,1,"19:31",2371,2371,"Chima Moneke missed Jumper.",0,0,0,0.492215046760706,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+3,1,"19:31",2371,2371,"William Powell Defensive Rebound.",0,0,0,0.492215046760706,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+4,1,"19:03",2343,2343,"Aaron Menzies made Layup.",2,0,2,0.525134892119357,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+5,1,"18:30",2310,2310,"Darius Graham made Three Point Jumper. Assisted by Brynton Lemar.",2,3,-1,0.451573016062231,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+6,1,"18:23",2303,2303,"William Powell Turnover.",2,3,-1,0.453270651857879,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+7,1,"18:23",2303,2303,"Foul on William Powell.",2,3,-1,0.453270651857879,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+8,1,"18:11",2291,2291,"Lawrence White Turnover.",2,3,-1,0.465039645601396,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+9,1,"18:09",2289,2289,"Brendan Westendorf Steal.",2,3,-1,0.451679740033956,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+10,1,"18:07",2287,2287,"Brendan Westendorf missed Layup.",2,3,-1,0.451679740033956,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+11,1,"18:07",2287,2287,"Emmanuel Chibuogwu Offensive Rebound.",2,3,-1,0.451679740033956,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+12,1,"18:07",2287,2287,"Foul on Brynton Lemar.",2,3,-1,0.451679740033956,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+13,1,"18:07",2287,2287,"Emmanuel Chibuogwu missed Free Throw.",2,3,-1,0.451679740033956,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+14,1,"18:07",2287,2287,"Seattle Deadball Team Rebound.",2,3,-1,0.451679740033956,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+15,1,"18:07",2287,2287,"Emmanuel Chibuogwu made Free Throw.",3,3,0,0.477753246685851,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+16,1,"17:55",2275,2275,"Brynton Lemar missed Three Point Jumper.",3,3,0,0.489368614321063,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+17,1,"17:55",2275,2275,"UC Davis Offensive Rebound.",3,3,0,0.489368614321063,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+18,1,"17:44",2264,2264,"Chima Moneke Turnover.",3,3,0,0.487454955135321,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+19,1,"17:44",2264,2264,"Aaron Menzies Steal.",3,3,0,0.487454955135321,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+20,1,"17:44",2264,2264,"Foul on Brynton Lemar.",3,3,0,0.487454955135321,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+21,1,"17:30",2250,2250,"Brendan Westendorf Turnover.",3,3,0,0.491018464778666,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+22,1,"17:29",2249,2249,"J.T. Adenrele Steal.",3,3,0,0.499794940768628,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+23,1,"17:29",2249,2249,"Foul on Aaron Menzies.",3,3,0,0.499794940768628,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+24,1,"17:16",2236,2236,"J.T. Adenrele made Layup.",3,5,-2,0.430824341760275,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+25,1,"17:06",2226,2226,"Brendan Westendorf missed Three Point Jumper.",3,5,-2,0.436627074283224,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+26,1,"17:06",2226,2226,"J.T. Adenrele Defensive Rebound.",3,5,-2,0.436627074283224,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+27,1,"16:57",2217,2217,"Chima Moneke made Layup. Assisted by Darius Graham.",3,7,-4,0.369925124023605,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+28,1,"16:57",2217,2217,"Foul on Scott Ulaneo.",3,7,-4,0.369925124023605,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+29,1,"16:57",2217,2217,"Chima Moneke missed Free Throw.",3,7,-4,0.369925124023605,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+30,1,"16:57",2217,2217,"Zack Moore Defensive Rebound.",3,7,-4,0.369925124023605,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+31,1,"16:46",2206,2206,"Foul on Siler Schneider.",3,7,-4,0.378298246637586,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+32,1,"16:45",2205,2205,"Brendan Westendorf Turnover.",3,7,-4,0.378298246637586,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+33,1,"16:42",2202,2202,"Lawrence White Steal.",3,7,-4,0.378298246637586,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+34,1,"16:39",2199,2199,"Darius Graham missed Jumper.",3,7,-4,0.383157122567317,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+35,1,"16:39",2199,2199,"William Powell Defensive Rebound.",3,7,-4,0.383157122567317,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+36,1,"16:33",2193,2193,"William Powell Turnover.",3,7,-4,0.383157122567317,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+37,1,"16:32",2192,2192,"Chima Moneke Steal.",3,7,-4,0.383157122567317,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+38,1,"16:30",2190,2190,"Chima Moneke made Dunk.",3,9,-6,0.329806605642774,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+39,1,"16:08",2168,2168,"William Powell missed Layup.",3,9,-6,0.326655215513313,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+40,1,"16:08",2168,2168,"Lawrence White Block.",3,9,-6,0.326655215513313,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+41,1,"16:07",2167,2167,"Garrison Goode Defensive Rebound.",3,9,-6,0.326655215513313,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+42,1,"16:07",2167,2167,"Garrison Goode Turnover.",3,9,-6,0.326655215513313,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+43,1,"15:59",2159,2159,"Brendan Westendorf missed Three Point Jumper.",3,9,-6,0.305041985665913,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+44,1,"15:59",2159,2159,"Lawrence White Defensive Rebound.",3,9,-6,0.305041985665913,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+45,1,"15:49",2149,2149,"Darius Graham missed Three Point Jumper.",3,9,-6,0.345654187309306,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+46,1,"15:49",2149,2149,"Chima Moneke Offensive Rebound.",3,9,-6,0.345654187309306,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+47,1,"15:43",2143,2143,"Foul on Scott Ulaneo.",3,9,-6,0.345654187309306,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+48,1,"15:43",2143,2143,"Official TV Timeout",3,9,-6,0.345654187309306,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+49,1,"15:41",2141,2141,"Chima Moneke made Jumper. Assisted by Siler Schneider.",3,11,-8,0.301358870631926,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+50,1,"15:21",2121,2121,"Zack Moore missed Three Point Jumper.",3,11,-8,0.267524354632012,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+51,1,"15:21",2121,2121,"Chima Moneke Defensive Rebound.",3,11,-8,0.267524354632012,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+52,1,"15:07",2107,2107,"Chima Moneke Turnover.",3,11,-8,0.274049929494968,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+53,1,"15:06",2106,2106,"Zack Moore Steal.",3,11,-8,0.274049929494968,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+54,1,"15:02",2102,2102,"Emmanuel Chibuogwu made Three Point Jumper. Assisted by Zack Moore.",6,11,-5,0.345715366418623,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+55,1,"14:35",2075,2075,"Lawrence White Turnover.",6,11,-5,0.3457635033023,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+56,1,"14:18",2058,2058,"Zack Moore made Three Point Jumper. Assisted by William Powell.",9,11,-2,0.411335735363425,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+57,1,"13:51",2031,2031,"Arell Hennings made Layup.",9,13,-4,0.380243090967555,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+58,1,"13:37",2017,2017,"Malik Montoya Turnover.",9,13,-4,0.376469773734209,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+59,1,"13:22",2002,2002,"Lawrence White missed Three Point Jumper.",9,13,-4,0.3713626676983,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+60,1,"13:22",2002,2002,"William Powell Defensive Rebound.",9,13,-4,0.3713626676983,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+61,1,"13:05",1985,1985,"Malik Montoya missed Layup.",9,13,-4,0.354694087473138,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+62,1,"13:05",1985,1985,"J.T. Adenrele Defensive Rebound.",9,13,-4,0.354694087473138,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+63,1,"12:57",1977,1977,"Siler Schneider made Three Point Jumper. Assisted by Arell Hennings.",9,16,-7,0.276551565430425,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+64,1,"12:39",1959,1959,"Zack Moore Turnover.",9,16,-7,0.28985837804893,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+65,1,"12:23",1943,1943,"Mikey Henn Turnover.",9,16,-7,0.27718683124679,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+66,1,"12:22",1942,1942,"Malik Montoya Steal.",9,16,-7,0.27718683124679,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+67,1,"12:17",1937,1937,"Foul on Mikey Henn.",9,16,-7,0.267572774898826,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+68,1,"12:17",1937,1937,"Foul on Garrison Goode.",9,16,-7,0.267572774898826,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+69,1,"12:05",1925,1925,"Foul on Mikey Henn.",9,16,-7,0.266848742871833,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+70,1,"11:40",1900,1900,"Zack Moore made Three Point Jumper. Assisted by William Powell.",12,16,-4,0.365221177131647,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+71,1,"11:26",1886,1886,"Official TV Timeout",12,16,-4,0.353783977582783,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+72,1,"11:14",1874,1874,"Siler Schneider missed Jumper.",12,16,-4,0.360892970886723,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+73,1,"11:14",1874,1874,"Garrison Goode Offensive Rebound.",12,16,-4,0.360892970886723,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+74,1,"11:01",1861,1861,"Chima Moneke Turnover.",12,16,-4,0.371856601958862,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+75,1,"10:49",1849,1849,"Foul on J.T. Adenrele.",12,16,-4,0.344334010586086,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+76,1,"10:49",1849,1849,"William Powell made Free Throw.",13,16,-3,0.37280959360442,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+77,1,"10:49",1849,1849,"William Powell made Free Throw.",14,16,-2,0.402195530033719,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+78,1,"10:40",1840,1840,"J.T. Adenrele missed Layup.",14,16,-2,0.402195530033719,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+79,1,"10:40",1840,1840,"Zack Moore Defensive Rebound.",14,16,-2,0.402195530033719,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+80,1,"10:26",1826,1826,"Morgan Means Turnover.",14,16,-2,0.442936622644819,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+81,1,"10:06",1806,1806,"Chima Moneke made Jumper. Assisted by Darius Graham.",14,18,-4,0.353945088270233,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+82,1,"9:39",1779,1779,"Brendan Westendorf made Jumper. Assisted by William Powell.",16,18,-2,0.408459350984882,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+83,1,"9:17",1757,1757,"Chima Moneke Turnover.",16,18,-2,0.383813149409259,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+84,1,"9:08",1748,1748,"Aaron Menzies made Layup. Assisted by Morgan Means.",18,18,0,0.501477771175041,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+85,1,"8:55",1735,1735,"Brynton Lemar made Jumper.",18,20,-2,0.416249380863414,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+86,1,"8:40",1720,1720,"Aaron Menzies missed Layup.",18,20,-2,0.436614470362904,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+87,1,"8:40",1720,1720,"Chima Moneke Defensive Rebound.",18,20,-2,0.436614470362904,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+88,1,"8:29",1709,1709,"J.T. Adenrele missed Layup.",18,20,-2,0.410358740889951,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+89,1,"8:29",1709,1709,"Chima Moneke Offensive Rebound.",18,20,-2,0.410358740889951,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+90,1,"8:27",1707,1707,"Chima Moneke made Two Point Tip Shot.",18,22,-4,0.350264134759607,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+91,1,"7:59",1679,1679,"Zack Moore missed Three Point Jumper.",18,22,-4,0.353044062727641,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+92,1,"7:59",1679,1679,"J.T. Adenrele Defensive Rebound.",18,22,-4,0.353044062727641,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+93,1,"7:50",1670,1670,"Lawrence White made Dunk. Assisted by Darius Graham.",18,24,-6,0.292594513156033,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+94,1,"7:48",1668,1668,"Seattle  Timeout",18,24,-6,0.301133461175412,"Seattle","UC Davis",3,4,1,0,-0.6,400918035,2016-12-28
+95,1,"7:38",1658,1658,"William Powell Turnover.",18,24,-6,0.305901630920666,"Seattle","UC Davis",3,4,1,0,-0.6,400918035,2016-12-28
+96,1,"7:23",1643,1643,"Garrison Goode made Jumper. Assisted by Chima Moneke.",18,26,-8,0.241610211078056,"Seattle","UC Davis",3,4,1,0,-0.6,400918035,2016-12-28
+97,1,"7:00",1620,1620,"Matej Kavas missed Three Point Jumper.",18,26,-8,0.228199798514382,"Seattle","UC Davis",3,4,1,0,-0.6,400918035,2016-12-28
+98,1,"7:00",1620,1620,"Lawrence White Defensive Rebound.",18,26,-8,0.228199798514382,"Seattle","UC Davis",3,4,1,0,-0.6,400918035,2016-12-28
+99,1,"6:50",1610,1610,"Foul on Malik Montoya.",18,26,-8,0.224189997442648,"Seattle","UC Davis",3,4,1,0,-0.6,400918035,2016-12-28
+100,1,"6:42",1602,1602,"Garrison Goode made Layup. Assisted by Darius Graham.",18,28,-10,0.195443853264748,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+101,1,"6:24",1584,1584,"Brendan Westendorf Turnover.",18,28,-10,0.185745126896897,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+102,1,"6:16",1576,1576,"Garrison Goode Turnover.",18,28,-10,0.169295415879372,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+103,1,"6:15",1575,1575,"William Powell Steal.",18,28,-10,0.169295415879372,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+104,1,"5:59",1559,1559,"William Powell missed Dunk.",18,28,-10,0.179203072113358,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+105,1,"5:59",1559,1559,"Chima Moneke Defensive Rebound.",18,28,-10,0.179203072113358,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+106,1,"5:49",1549,1549,"Chima Moneke missed Jumper.",18,28,-10,0.191643576551941,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+107,1,"5:49",1549,1549,"Emmanuel Chibuogwu Block.",18,28,-10,0.191643576551941,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+108,1,"5:48",1548,1548,"Chima Moneke Offensive Rebound.",18,28,-10,0.191643576551941,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+109,1,"5:45",1545,1545,"Chima Moneke Turnover.",18,28,-10,0.191643576551941,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+110,1,"5:43",1543,1543,"Jack Shaughnessy Steal.",18,28,-10,0.191643576551941,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+111,1,"5:36",1536,1536,"Brendan Westendorf missed Jumper.",18,28,-10,0.191144867071639,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+112,1,"5:36",1536,1536,"William Powell Offensive Rebound.",18,28,-10,0.191144867071639,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+113,1,"5:34",1534,1534,"William Powell made Two Point Tip Shot.",20,28,-8,0.238027876303442,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+114,1,"5:00",1500,1500,"Joe Mooney missed Three Point Jumper.",20,28,-8,0.23145168789549,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+115,1,"5:00",1500,1500,"Emmanuel Chibuogwu Defensive Rebound.",20,28,-8,0.23145168789549,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+116,1,"4:52",1492,1492,"Foul on Brendan Westendorf.",20,28,-8,0.252902018090055,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+117,1,"4:52",1492,1492,"Brendan Westendorf Turnover.",20,28,-8,0.252902018090055,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+118,1,"4:34",1474,1474,"Brynton Lemar made Three Point Jumper. Assisted by Siler Schneider.",20,31,-11,0.145849581929282,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+119,1,"4:17",1457,1457,"Foul on Garrison Goode.",20,31,-11,0.15062610560972,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+120,1,"4:17",1457,1457,"Scott Ulaneo missed Free Throw.",20,31,-11,0.15062610560972,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+121,1,"4:17",1457,1457,"Siler Schneider Defensive Rebound.",20,31,-11,0.15062610560972,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+122,1,"3:57",1437,1437,"Garrison Goode missed Jumper.",20,31,-11,0.163788483369777,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+123,1,"3:57",1437,1437,"Brendan Westendorf Defensive Rebound.",20,31,-11,0.163788483369777,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+124,1,"3:38",1418,1418,"William Powell Turnover.",20,31,-11,0.146581215951098,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+125,1,"3:38",1418,1418,"Foul on William Powell.",20,31,-11,0.146581215951098,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+126,1,"3:38",1418,1418,"Official TV Timeout",20,31,-11,0.146581215951098,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+127,1,"3:27",1407,1407,"J.T. Adenrele made Layup. Assisted by Chima Moneke.",20,33,-13,0.118276162943363,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+128,1,"3:09",1389,1389,"Brendan Westendorf missed Layup.",20,33,-13,0.124807627697133,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+129,1,"3:09",1389,1389,"J.T. Adenrele Defensive Rebound.",20,33,-13,0.124807627697133,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+130,1,"3:07",1387,1387,"J.T. Adenrele Turnover.",20,33,-13,0.124807627697133,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+131,1,"3:07",1387,1387,"Brendan Westendorf Steal.",20,33,-13,0.124807627697133,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+132,1,"3:05",1385,1385,"Scott Ulaneo made Layup. Assisted by Brendan Westendorf.",22,33,-11,0.161274748879027,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+133,1,"2:45",1365,1365,"Darius Graham made Three Point Jumper. Assisted by Lawrence White.",22,36,-14,0.10030283538566,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+134,1,"2:29",1349,1349,"Emmanuel Chibuogwu missed Three Point Jumper.",22,36,-14,0.0935331570277082,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+135,1,"2:29",1349,1349,"Zack Moore Offensive Rebound.",22,36,-14,0.0935331570277082,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+136,1,"2:23",1343,1343,"Scott Ulaneo missed Jumper.",22,36,-14,0.0935331570277082,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+137,1,"2:23",1343,1343,"Lawrence White Defensive Rebound.",22,36,-14,0.0935331570277082,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+138,1,"2:12",1332,1332,"Lawrence White missed Three Point Jumper.",22,36,-14,0.0931115948675788,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+139,1,"2:12",1332,1332,"Zack Moore Defensive Rebound.",22,36,-14,0.0931115948675788,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+140,1,"1:59",1319,1319,"Emmanuel Chibuogwu missed Three Point Jumper.",22,36,-14,0.102157643289909,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+141,1,"1:59",1319,1319,"Scott Ulaneo Offensive Rebound.",22,36,-14,0.102157643289909,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+142,1,"1:52",1312,1312,"Zack Moore missed Three Point Jumper.",22,36,-14,0.102157643289909,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+143,1,"1:52",1312,1312,"UC Davis Deadball Team Rebound.",22,36,-14,0.102157643289909,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+144,1,"1:50",1310,1310,"Foul on Scott Ulaneo.",22,36,-14,0.102157643289909,"Seattle","UC Davis",3,4,0,1,-0.6,400918035,2016-12-28
+145,1,"1:50",1310,1310,"UC Davis  Timeout",22,36,-14,0.102157643289909,"Seattle","UC Davis",3,3,0,1,-0.6,400918035,2016-12-28
+146,1,"1:50",1310,1310,"Lawrence White missed Free Throw.",22,36,-14,0.102157643289909,"Seattle","UC Davis",3,3,0,1,-0.6,400918035,2016-12-28
+147,1,"1:50",1310,1310,"Seattle Defensive Rebound.",22,36,-14,0.102157643289909,"Seattle","UC Davis",3,3,0,1,-0.6,400918035,2016-12-28
+148,1,"1:31",1291,1291,"Foul on Lawrence White.",22,36,-14,0.0932989627886358,"Seattle","UC Davis",3,3,0,1,-0.6,400918035,2016-12-28
+149,1,"1:31",1291,1291,"Emmanuel Chibuogwu missed Free Throw.",22,36,-14,0.0932989627886358,"Seattle","UC Davis",3,3,0,1,-0.6,400918035,2016-12-28
+150,1,"1:31",1291,1291,"Seattle Deadball Team Rebound.",22,36,-14,0.0932989627886358,"Seattle","UC Davis",3,3,0,1,-0.6,400918035,2016-12-28
+151,1,"1:31",1291,1291,"Emmanuel Chibuogwu made Free Throw.",23,36,-13,0.108459668023705,"Seattle","UC Davis",3,3,0,1,-0.6,400918035,2016-12-28
+152,1,"1:06",1266,1266,"Brynton Lemar missed Three Point Jumper.",23,36,-13,0.115071153097803,"Seattle","UC Davis",3,3,0,1,-0.6,400918035,2016-12-28
+153,1,"1:06",1266,1266,"William Powell Block.",23,36,-13,0.115071153097803,"Seattle","UC Davis",3,3,0,1,-0.6,400918035,2016-12-28
+154,1,"1:05",1265,1265,"Jack Shaughnessy Defensive Rebound.",23,36,-13,0.115071153097803,"Seattle","UC Davis",3,3,0,1,-0.6,400918035,2016-12-28
+155,1,"0:53",1253,1253,"William Powell made Layup.",25,36,-11,0.154110143120301,"Seattle","UC Davis",3,3,0,1,-0.6,400918035,2016-12-28
+156,1,"0:37",1237,1237,"Mikey Henn Turnover.",25,36,-11,0.137441178546677,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+157,1,"0:36",1236,1236,"Brendan Westendorf Steal.",25,36,-11,0.137441178546677,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+158,1,"0:29",1229,1229,"William Powell made Layup. Assisted by Emmanuel Chibuogwu.",27,36,-9,0.177199242198005,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+159,1,"0:02",1202,1202,"Brynton Lemar made Three Point Jumper. Assisted by Arell Hennings.",27,39,-12,0.123487718039609,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+160,1,"0:00",1200,1200,"End of 1st half",27,39,-12,0.123487718039609,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+161,2,"20:00",1200,1200,"PLAY",27,39,-12,0.123487718039609,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+162,2,"19:45",1185,1185,"Chima Moneke made Jumper. Assisted by Lawrence White.",27,41,-14,0.0854665297196766,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+163,2,"19:43",1183,1183,"Foul on J.T. Adenrele.",27,41,-14,0.0854665297196766,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+164,2,"19:15",1155,1155,"William Powell made Jumper.",29,41,-12,0.12378102437588,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+165,2,"18:55",1135,1135,"Brynton Lemar missed Three Point Jumper.",29,41,-12,0.121611815537673,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+166,2,"18:55",1135,1135,"Chima Moneke Offensive Rebound.",29,41,-12,0.121611815537673,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+167,2,"18:39",1119,1119,"Darius Graham Turnover.",29,41,-12,0.111614931711535,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+168,2,"18:38",1118,1118,"William Powell Steal.",29,41,-12,0.111614931711535,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+169,2,"18:33",1113,1113,"Brendan Westendorf missed Three Point Jumper.",29,41,-12,0.111614931711535,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+170,2,"18:33",1113,1113,"Zack Moore Offensive Rebound.",29,41,-12,0.111614931711535,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+171,2,"18:22",1102,1102,"William Powell Turnover.",29,41,-12,0.117621836111787,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+172,2,"18:21",1101,1101,"J.T. Adenrele Steal.",29,41,-12,0.117621836111787,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+173,2,"18:10",1090,1090,"Lawrence White missed Layup.",29,41,-12,0.112529962700142,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+174,2,"18:10",1090,1090,"Emmanuel Chibuogwu Defensive Rebound.",29,41,-12,0.112529962700142,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+175,2,"18:06",1086,1086,"Emmanuel Chibuogwu Turnover.",29,41,-12,0.100359257337497,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+176,2,"18:06",1086,1086,"Chima Moneke Steal.",29,41,-12,0.100359257337497,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+177,2,"17:48",1068,1068,"Darius Graham missed Three Point Jumper.",29,41,-12,0.117413308148906,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+178,2,"17:48",1068,1068,"Emmanuel Chibuogwu Defensive Rebound.",29,41,-12,0.117413308148906,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+179,2,"17:27",1047,1047,"Zack Moore made Three Point Jumper. Assisted by Brendan Westendorf.",32,41,-9,0.176029105608113,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+180,2,"17:06",1026,1026,"Brynton Lemar Turnover.",32,41,-9,0.166420018397388,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+181,2,"16:48",1008,1008,"Brendan Westendorf made Jumper.",34,41,-7,0.198902343362326,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+182,2,"16:20",980,980,"Chima Moneke made Jumper. Assisted by Brynton Lemar.",34,43,-9,0.148625543845907,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+183,2,"16:00",960,960,"William Powell made Jumper.",36,43,-7,0.206332750791124,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+184,2,"15:42",942,942,"Foul on Zack Moore.",36,43,-7,0.213162196641585,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+185,2,"15:42",942,942,"Official TV Timeout",36,43,-7,0.213162196641585,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+186,2,"15:41",941,941,"Brynton Lemar Turnover.",36,43,-7,0.213162196641585,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+187,2,"15:40",940,940,"Emmanuel Chibuogwu Steal.",36,43,-7,0.213162196641585,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+188,2,"15:28",928,928,"Brendan Westendorf made Three Point Jumper. Assisted by Emmanuel Chibuogwu.",39,43,-4,0.290011537385533,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+189,2,"15:11",911,911,"Lawrence White Turnover.",39,43,-4,0.300832778981447,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+190,2,"14:54",894,894,"Brendan Westendorf Turnover.",39,43,-4,0.31892455789213,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+191,2,"14:38",878,878,"Brynton Lemar made Jumper. Assisted by Arell Hennings.",39,45,-6,0.237236531407554,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+192,2,"14:18",858,858,"Matej Kavas missed Jumper.",39,45,-6,0.233256237233545,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+193,2,"14:18",858,858,"Chima Moneke Block.",39,45,-6,0.233256237233545,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+194,2,"14:17",857,857,"Seattle Offensive Rebound.",39,45,-6,0.233256237233545,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+195,2,"14:17",857,857,"Foul on Arell Hennings.",39,45,-6,0.233256237233545,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+196,2,"14:00",840,840,"Zack Moore made Layup. Assisted by Emmanuel Chibuogwu.",41,45,-4,0.292924761608841,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+197,2,"13:41",821,821,"Brynton Lemar missed Three Point Jumper.",41,45,-4,0.31108016092376,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+198,2,"13:41",821,821,"Arell Hennings Offensive Rebound.",41,45,-4,0.31108016092376,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+199,2,"13:30",810,810,"Brynton Lemar made Jumper.",41,47,-6,0.215214034861074,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+200,2,"13:28",808,808,"Foul on Matej Kavas.",41,47,-6,0.233328220666386,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+201,2,"13:28",808,808,"Matej Kavas Turnover.",41,47,-6,0.233328220666386,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+202,2,"13:15",795,795,"Chima Moneke missed Jumper.",41,47,-6,0.202018195045511,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+203,2,"13:15",795,795,"Seattle Defensive Rebound.",41,47,-6,0.202018195045511,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+204,2,"12:58",778,778,"Matej Kavas missed Layup.",41,47,-6,0.216763878220525,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+205,2,"12:58",778,778,"Arell Hennings Defensive Rebound.",41,47,-6,0.216763878220525,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+206,2,"12:51",771,771,"Brynton Lemar made Jumper. Assisted by Siler Schneider.",41,49,-8,0.153823667540497,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+207,2,"12:33",753,753,"Foul on William Powell.",41,49,-8,0.144023188800148,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+208,2,"12:33",753,753,"William Powell Turnover.",41,49,-8,0.144023188800148,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+209,2,"12:16",736,736,"Arell Hennings missed Three Point Jumper.",41,49,-8,0.157875015281654,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+210,2,"12:16",736,736,"Siler Schneider Offensive Rebound.",41,49,-8,0.157875015281654,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+211,2,"12:12",732,732,"Siler Schneider made Layup.",41,51,-10,0.109157492774212,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+212,2,"11:48",708,708,"Scott Ulaneo missed Layup.",41,51,-10,0.111217654591417,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+213,2,"11:48",708,708,"J.T. Adenrele Block.",41,51,-10,0.111217654591417,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+214,2,"11:46",706,706,"Scott Ulaneo Offensive Rebound.",41,51,-10,0.111217654591417,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+215,2,"11:46",706,706,"Foul on J.T. Adenrele.",41,51,-10,0.111217654591417,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+216,2,"11:46",706,706,"Official TV Timeout",41,51,-10,0.111217654591417,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+217,2,"11:46",706,706,"Scott Ulaneo missed Free Throw.",41,51,-10,0.111217654591417,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+218,2,"11:46",706,706,"Seattle Deadball Team Rebound.",41,51,-10,0.111217654591417,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+219,2,"11:46",706,706,"Scott Ulaneo missed Free Throw.",41,51,-10,0.111217654591417,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+220,2,"11:46",706,706,"J.T. Adenrele Defensive Rebound.",41,51,-10,0.111217654591417,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+221,2,"11:14",674,674,"Siler Schneider Turnover.",41,51,-10,0.0841793158377112,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+222,2,"10:59",659,659,"William Powell missed Jumper.",41,51,-10,0.0884184257208066,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+223,2,"10:59",659,659,"Siler Schneider Defensive Rebound.",41,51,-10,0.0884184257208066,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+224,2,"10:38",638,638,"Brynton Lemar missed Three Point Jumper.",41,51,-10,0.084930426898731,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+225,2,"10:38",638,638,"Garrison Goode Offensive Rebound.",41,51,-10,0.084930426898731,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+226,2,"10:35",635,635,"Foul on Morgan Means.",41,51,-10,0.084930426898731,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+227,2,"10:30",630,630,"Siler Schneider made Three Point Jumper. Assisted by Chima Moneke.",41,54,-13,0.0436785213559204,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+228,2,"10:13",613,613,"Foul on Arell Hennings.",41,54,-13,0.0346407831578011,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+229,2,"10:13",613,613,"Scott Ulaneo missed Free Throw.",41,54,-13,0.0346407831578011,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+230,2,"10:13",613,613,"Seattle Deadball Team Rebound.",41,54,-13,0.0346407831578011,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+231,2,"10:13",613,613,"Scott Ulaneo made Free Throw.",42,54,-12,0.0440841522276278,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+232,2,"9:56",596,596,"Brynton Lemar missed Three Point Jumper.",42,54,-12,0.0530005340189681,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+233,2,"9:56",596,596,"Chima Moneke Offensive Rebound.",42,54,-12,0.0530005340189681,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+234,2,"9:51",591,591,"Chima Moneke made Two Point Tip Shot.",42,56,-14,0.033493249430497,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+235,2,"9:26",566,566,"Matej Kavas Turnover.",42,56,-14,0.0266957211275755,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+236,2,"9:17",557,557,"Darius Graham made Jumper.",42,58,-16,0.0144945969342198,"Seattle","UC Davis",4,4,0,0,-0.6,400918035,2016-12-28
+237,2,"9:09",549,549,"Seattle  Timeout",42,58,-16,0.0125608042554926,"Seattle","UC Davis",3,4,1,0,-0.6,400918035,2016-12-28
+238,2,"8:59",539,539,"Zack Moore made Three Point Jumper. Assisted by Malik Montoya.",45,58,-13,0.0275868877621941,"Seattle","UC Davis",3,4,1,0,-0.6,400918035,2016-12-28
+239,2,"8:37",517,517,"Siler Schneider Turnover.",45,58,-13,0.0286859047897602,"Seattle","UC Davis",3,4,1,0,-0.6,400918035,2016-12-28
+240,2,"8:35",515,515,"William Powell Steal.",45,58,-13,0.0286859047897602,"Seattle","UC Davis",3,4,1,0,-0.6,400918035,2016-12-28
+241,2,"8:32",512,512,"Zack Moore missed Jumper.",45,58,-13,0.0286859047897602,"Seattle","UC Davis",3,4,1,0,-0.6,400918035,2016-12-28
+242,2,"8:32",512,512,"William Powell Offensive Rebound.",45,58,-13,0.0286859047897602,"Seattle","UC Davis",3,4,1,0,-0.6,400918035,2016-12-28
+243,2,"8:29",509,509,"William Powell missed Two Point Tip Shot.",45,58,-13,0.0313272290220601,"Seattle","UC Davis",3,4,1,0,-0.6,400918035,2016-12-28
+244,2,"8:29",509,509,"Brynton Lemar Defensive Rebound.",45,58,-13,0.0313272290220601,"Seattle","UC Davis",3,4,1,0,-0.6,400918035,2016-12-28
+245,2,"8:10",490,490,"Garrison Goode Turnover.",45,58,-13,0.0315487752272408,"Seattle","UC Davis",3,4,1,0,-0.6,400918035,2016-12-28
+246,2,"8:10",490,490,"Malik Montoya Steal.",45,58,-13,0.0315487752272408,"Seattle","UC Davis",3,4,1,0,-0.6,400918035,2016-12-28
+247,2,"8:06",486,486,"Malik Montoya made Layup. Assisted by Morgan Means.",47,58,-11,0.0471268491896458,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+248,2,"7:37",457,457,"Chima Moneke missed Jumper.",47,58,-11,0.0290047558650639,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+249,2,"7:37",457,457,"Zack Moore Defensive Rebound.",47,58,-11,0.0290047558650639,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+250,2,"7:13",433,433,"Zack Moore made Three Point Jumper. Assisted by Morgan Means.",50,58,-8,0.0813095238477392,"Seattle","UC Davis",3,4,0,0,-0.6,400918035,2016-12-28
+251,2,"7:02",422,422,"UC Davis  Timeout",50,58,-8,0.0807164414122666,"Seattle","UC Davis",3,3,0,1,-0.6,400918035,2016-12-28
+252,2,"6:51",411,411,"Darius Graham missed Three Point Jumper.",50,58,-8,0.0798078338522051,"Seattle","UC Davis",3,3,0,1,-0.6,400918035,2016-12-28
+253,2,"6:51",411,411,"Darius Graham Offensive Rebound.",50,58,-8,0.0798078338522051,"Seattle","UC Davis",3,3,0,1,-0.6,400918035,2016-12-28
+254,2,"6:39",399,399,"Brynton Lemar missed Jumper.",50,58,-8,0.0803245394291565,"Seattle","UC Davis",3,3,0,1,-0.6,400918035,2016-12-28
+255,2,"6:39",399,399,"Morgan Means Defensive Rebound.",50,58,-8,0.0803245394291565,"Seattle","UC Davis",3,3,0,1,-0.6,400918035,2016-12-28
+256,2,"6:21",381,381,"Morgan Means missed Jumper.",50,58,-8,0.0837595279772965,"Seattle","UC Davis",3,3,0,1,-0.6,400918035,2016-12-28
+257,2,"6:21",381,381,"Lawrence White Block.",50,58,-8,0.0837595279772965,"Seattle","UC Davis",3,3,0,1,-0.6,400918035,2016-12-28
+258,2,"6:19",379,379,"Chima Moneke Defensive Rebound.",50,58,-8,0.0727738343769715,"Seattle","UC Davis",3,3,0,1,-0.6,400918035,2016-12-28
+259,2,"6:12",372,372,"Foul on Chima Moneke.",50,58,-8,0.0727738343769715,"Seattle","UC Davis",3,3,0,1,-0.6,400918035,2016-12-28
+260,2,"6:12",372,372,"Chima Moneke Turnover.",50,58,-8,0.0727738343769715,"Seattle","UC Davis",3,3,0,1,-0.6,400918035,2016-12-28
+261,2,"5:49",349,349,"Brendan Westendorf missed Three Point Jumper.",50,58,-8,0.0562199118975022,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+262,2,"5:49",349,349,"J.T. Adenrele Defensive Rebound.",50,58,-8,0.0562199118975022,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+263,2,"5:27",327,327,"Chima Moneke made Layup. Assisted by Brynton Lemar.",50,60,-10,0.0382469098433092,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+264,2,"5:27",327,327,"Foul on Malik Montoya.",50,60,-10,0.0382469098433092,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+265,2,"5:27",327,327,"Chima Moneke made Free Throw.",50,61,-11,0.0282334404263214,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+266,2,"5:14",314,314,"Emmanuel Chibuogwu missed Layup.",50,61,-11,0.0180618733951612,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+267,2,"5:14",314,314,"Chima Moneke Defensive Rebound.",50,61,-11,0.0180618733951612,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+268,2,"5:04",304,304,"Chima Moneke Turnover.",50,61,-11,0.0241990619120623,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+269,2,"5:03",303,303,"Zack Moore Steal.",50,61,-11,0.0241990619120623,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+270,2,"4:58",298,298,"Brendan Westendorf made Layup. Assisted by Morgan Means.",52,61,-9,0.0415486217732065,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+271,2,"4:58",298,298,"Foul on J.T. Adenrele.",52,61,-9,0.0415486217732065,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+272,2,"4:58",298,298,"Brendan Westendorf made Free Throw.",53,61,-8,0.0575675607743976,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+273,2,"4:38",278,278,"Brynton Lemar missed Three Point Jumper.",53,61,-8,0.0390038974555087,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+274,2,"4:38",278,278,"UC Davis Deadball Team Rebound.",53,61,-8,0.0390038974555087,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+275,2,"4:36",276,276,"Foul on William Powell.",53,61,-8,0.0390038974555087,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+276,2,"4:30",270,270,"Chima Moneke missed Layup.",53,61,-8,0.0390038974555087,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+277,2,"4:30",270,270,"Emmanuel Chibuogwu Defensive Rebound.",53,61,-8,0.0390038974555087,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+278,2,"4:09",249,249,"William Powell made Layup. Assisted by Malik Montoya.",55,61,-6,0.0800018019021748,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+279,2,"4:09",249,249,"Foul on Chima Moneke.",55,61,-6,0.0800018019021748,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+280,2,"4:09",249,249,"William Powell made Free Throw.",56,61,-5,0.115286033606015,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+281,2,"3:45",225,225,"Darius Graham missed Three Point Jumper.",56,61,-5,0.110073450874298,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+282,2,"3:45",225,225,"UC Davis Deadball Team Rebound.",56,61,-5,0.110073450874298,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+283,2,"3:44",224,224,"Foul on Scott Ulaneo.",56,61,-5,0.110073450874298,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+284,2,"3:43",223,223,"Official TV Timeout",56,61,-5,0.110073450874298,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+285,2,"3:42",222,222,"Garrison Goode missed Free Throw.",56,61,-5,0.110073450874298,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+286,2,"3:41",221,221,"Seattle Deadball Team Rebound.",56,61,-5,0.110073450874298,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+287,2,"3:40",220,220,"William Powell made Free Throw.",57,61,-4,0.15888771968888,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+288,2,"3:40",220,220,"Foul on J.T. Adenrele.",57,61,-4,0.15888771968888,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+289,2,"3:40",220,220,"William Powell made Free Throw.",58,61,-3,0.223903156106061,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+290,2,"3:18",198,198,"Chima Moneke missed Jumper.",58,61,-3,0.197156685992,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+291,2,"3:18",198,198,"Brendan Westendorf Defensive Rebound.",58,61,-3,0.197156685992,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+292,2,"2:58",178,178,"Brendan Westendorf missed Three Point Jumper.",58,61,-3,0.20166664862952,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+293,2,"2:58",178,178,"Brynton Lemar Defensive Rebound.",58,61,-3,0.20166664862952,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+294,2,"2:29",149,149,"Lawrence White missed Jumper.",58,61,-3,0.153334213797769,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+295,2,"2:29",149,149,"Brendan Westendorf Defensive Rebound.",58,61,-3,0.153334213797769,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+296,2,"2:07",127,127,"Zack Moore missed Three Point Jumper.",58,61,-3,0.142841519754635,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+297,2,"2:07",127,127,"UC Davis Deadball Team Rebound.",58,61,-3,0.142841519754635,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+298,2,"2:05",125,125,"Foul on Zack Moore.",58,61,-3,0.142841519754635,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+299,2,"2:05",125,125,"Chima Moneke made Free Throw.",58,62,-4,0.0864006515482596,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+300,2,"2:05",125,125,"Chima Moneke made Free Throw.",58,63,-5,0.0509359777131796,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+301,2,"1:49",109,109,"Emmanuel Chibuogwu missed Three Point Jumper.",58,63,-5,0.0376157218221836,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+302,2,"1:49",109,109,"Lawrence White Defensive Rebound.",58,63,-5,0.0376157218221836,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+303,2,"1:21",81,81,"Lawrence White missed Jumper.",58,63,-5,0.0308896885622683,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+304,2,"1:21",81,81,"UC Davis Deadball Team Rebound.",58,63,-5,0.0308896885622683,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+305,2,"1:18",78,78,"Foul on Zack Moore.",58,63,-5,0.0221192360209726,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+306,2,"1:18",78,78,"Garrison Goode made Free Throw.",58,64,-6,0.0107298240944308,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+307,2,"1:18",78,78,"Garrison Goode missed Free Throw.",58,64,-6,0.0107298240944308,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+308,2,"1:18",78,78,"William Powell Defensive Rebound.",58,64,-6,0.0107298240944308,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+309,2,"1:09",69,69,"Brendan Westendorf Turnover.",58,64,-6,0.0102790492066876,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+310,2,"1:08",68,68,"Brynton Lemar Steal.",58,64,-6,0.0102790492066876,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+311,2,"1:07",67,67,"Foul on Brendan Westendorf.",58,64,-6,0.0102790492066876,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+312,2,"1:07",67,67,"Brynton Lemar made Free Throw.",58,65,-7,0.00491977343760367,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+313,2,"1:07",67,67,"Brynton Lemar missed Free Throw.",58,65,-7,0.00491977343760367,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+314,2,"1:07",67,67,"Emmanuel Chibuogwu Defensive Rebound.",58,65,-7,0.00491977343760367,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+315,2,"1:02",62,62,"Brendan Westendorf missed Three Point Jumper.",58,65,-7,0.00491977343760367,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+316,2,"1:02",62,62,"Brynton Lemar Defensive Rebound.",58,65,-7,0.00491977343760367,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+317,2,"0:59",59,59,"Foul on Morgan Means.",58,65,-7,0.00319082670138465,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+318,2,"0:59",59,59,"Brynton Lemar missed Free Throw.",58,65,-7,0.00319082670138465,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+319,2,"0:59",59,59,"UC Davis Deadball Team Rebound.",58,65,-7,0.00319082670138465,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+320,2,"0:59",59,59,"Brynton Lemar made Free Throw.",58,66,-8,0.00134290123968248,"Seattle","UC Davis",3,3,0,0,-0.6,400918035,2016-12-28
+321,2,"0:52",52,52,"Foul on Lawrence White.",58,66,-8,0.00154167850072299,"Seattle","UC Davis",3,3,1,0,-0.6,400918035,2016-12-28
+322,2,"0:52",52,52,"Brendan Westendorf made Free Throw.",59,66,-7,0.0034316143012737,"Seattle","UC Davis",3,3,1,0,-0.6,400918035,2016-12-28
+323,2,"0:52",52,52,"Brendan Westendorf made Free Throw.",60,66,-6,0.00762072930241166,"Seattle","UC Davis",3,3,1,0,-0.6,400918035,2016-12-28
+324,2,"0:52",52,52,"Seattle  Timeout",60,66,-6,0.00762072930241166,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+325,2,"0:47",47,47,"Foul on Malik Montoya.",60,66,-6,0.00179994022391715,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+326,2,"0:47",47,47,"Brynton Lemar made Free Throw.",60,67,-7,0.000630130275274609,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+327,2,"0:47",47,47,"Brynton Lemar made Free Throw.",60,68,-8,0.00022043063716133,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+328,2,"0:40",40,40,"Zack Moore missed Three Point Jumper.",60,68,-8,0.000270293962513703,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+329,2,"0:40",40,40,"Emmanuel Chibuogwu Offensive Rebound.",60,68,-8,0.000270293962513703,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+330,2,"0:32",32,32,"Emmanuel Chibuogwu missed Three Point Jumper.",60,68,-8,0.000117248630881639,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+331,2,"0:32",32,32,"Lawrence White Block.",60,68,-8,0.000117248630881639,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+332,2,"0:31",31,31,"Brendan Westendorf Offensive Rebound.",60,68,-8,0.000430502457531567,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+333,2,"0:30",30,30,"Brendan Westendorf made Layup.",62,68,-6,0.00293743511612749,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+334,2,"0:30",30,30,"Foul on Siler Schneider.",62,68,-6,0.00293743511612749,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+335,2,"0:30",30,30,"Brendan Westendorf missed Free Throw.",62,68,-6,0.00293743511612749,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+336,2,"0:30",30,30,"Chima Moneke Defensive Rebound.",62,68,-6,0.00293743511612749,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+337,2,"0:28",28,28,"Foul on William Powell.",62,68,-6,0.00104721213874396,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+338,2,"0:28",28,28,"Chima Moneke missed Free Throw.",62,68,-6,0.00104721213874396,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+339,2,"0:28",28,28,"UC Davis Deadball Team Rebound.",62,68,-6,0.00104721213874396,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+340,2,"0:28",28,28,"Chima Moneke made Free Throw.",62,69,-7,0.000332933839478639,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+341,2,"0:22",22,22,"Zack Moore missed Three Point Jumper.",62,69,-7,0.000132288042845693,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+342,2,"0:22",22,22,"Brendan Westendorf Offensive Rebound.",62,69,-7,0.000132288042845693,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+343,2,"0:16",16,16,"Emmanuel Chibuogwu missed Layup.",62,69,-7,7.55404235009155e-06,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+344,2,"0:16",16,16,"Chima Moneke Block.",62,69,-7,7.55404235009155e-06,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+345,2,"0:15",15,15,"Chima Moneke Defensive Rebound.",62,69,-7,3.27970119327314e-05,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+346,2,"0:13",13,13,"Foul on Zack Moore.",62,69,-7,2.16639063115251e-05,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+347,2,"0:13",13,13,"Brynton Lemar made Free Throw.",62,70,-8,5.20068741287105e-06,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+348,2,"0:13",13,13,"Brynton Lemar made Free Throw.",62,71,-9,1.24847341873271e-06,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+349,2,"0:09",9,9,"Morgan Means missed Three Point Jumper.",62,71,-9,9.30596918148562e-07,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+350,2,"0:09",9,9,"Zack Moore Offensive Rebound.",62,71,-9,9.30596918148562e-07,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+351,2,"0:08",8,8,"Brendan Westendorf made Three Point Jumper. Assisted by Zack Moore.",65,71,-6,0.000119060478921572,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+352,2,"0:01",1,1,"Foul on Emmanuel Chibuogwu.",65,71,-6,1.36393645771619e-05,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+353,2,"0:01",1,1,"Siler Schneider made Free Throw.",65,72,-7,2.43538724155966e-06,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+354,2,"0:01",1,1,"Siler Schneider missed Free Throw.",65,72,-7,2.43538724155966e-06,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+355,2,"0:01",1,1,"Morgan Means Defensive Rebound.",65,72,-7,2.43538724155966e-06,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28
+356,2,"0:00",0,0,"End of Game",65,72,-7,1.57844162187928e-59,"Seattle","UC Davis",2,3,1,0,-0.6,400918035,2016-12-28

@@ -1,0 +1,364 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.895854922029894,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+2,1,"19:45",2385,2385,"Mason Ramsey Turnover.",0,0,0,0.89180179443195,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+3,1,"19:43",2383,2383,"Juwan Morgan Steal.",0,0,0,0.89180179443195,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+4,1,"19:29",2369,2369,"Josh Newkirk missed Layup.",0,0,0,0.878090729703405,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+5,1,"19:29",2369,2369,"Kajon Mack Block.",0,0,0,0.878090729703405,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+6,1,"19:28",2368,2368,"Josh Newkirk Offensive Rebound.",0,0,0,0.878090729703405,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+7,1,"19:26",2366,2366,"Josh Newkirk Turnover.",0,0,0,0.878090729703405,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+8,1,"19:25",2365,2365,"Mason Ramsey Steal.",0,0,0,0.878090729703405,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+9,1,"19:12",2352,2352,"Aleksa Jugovic Turnover.",0,0,0,0.891660003680318,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+10,1,"18:57",2337,2337,"Foul on Courtney Alexander II.",0,0,0,0.884661942810185,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+11,1,"18:57",2337,2337,"De'Ron Davis made Free Throw.",1,0,1,0.893900338660267,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+12,1,"18:57",2337,2337,"De'Ron Davis missed Free Throw.",1,0,1,0.893900338660267,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+13,1,"18:57",2337,2337,"Tennessee Tech Deadball Team Rebound.",1,0,1,0.893900338660267,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+14,1,"18:32",2312,2312,"Mason Ramsey missed Layup.",1,0,1,0.883115913210764,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+15,1,"18:32",2312,2312,"Juwan Morgan Defensive Rebound.",1,0,1,0.883115913210764,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+16,1,"18:23",2303,2303,"Juwan Morgan Turnover.",1,0,1,0.885156109703582,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+17,1,"18:22",2302,2302,"Curtis Phillips Jr. Steal.",1,0,1,0.885156109703582,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+18,1,"18:03",2283,2283,"Mason Ramsey missed Layup.",1,0,1,0.88962356407342,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+19,1,"18:03",2283,2283,"Juwan Morgan Defensive Rebound.",1,0,1,0.88962356407342,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+20,1,"17:58",2278,2278,"Robert Johnson made Three Point Jumper. Assisted by Josh Newkirk.",4,0,4,0.919088370287204,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+21,1,"17:32",2252,2252,"Kajon Mack made Layup.",4,2,2,0.895071017310065,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+22,1,"17:13",2233,2233,"Josh Newkirk missed Three Point Jumper.",4,2,2,0.901677116730914,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+23,1,"17:13",2233,2233,"Courtney Alexander II Defensive Rebound.",4,2,2,0.901677116730914,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+24,1,"17:04",2224,2224,"Aleksa Jugovic made Three Point Jumper. Assisted by Kajon Mack.",4,5,-1,0.870311598607642,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+25,1,"16:46",2206,2206,"De'Ron Davis made Layup. Assisted by Robert Johnson.",6,5,1,0.888947574587943,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+26,1,"16:15",2175,2175,"Curtis Phillips Jr. missed Jumper.",6,5,1,0.885619065158341,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+27,1,"16:15",2175,2175,"Josh Newkirk Defensive Rebound.",6,5,1,0.885619065158341,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+28,1,"16:07",2167,2167,"Juwan Morgan made Layup. Assisted by Josh Newkirk.",8,5,3,0.905772346161384,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+29,1,"16:07",2167,2167,"Foul on Aleksa Jugovic.",8,5,3,0.905772346161384,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+30,1,"16:07",2167,2167,"Juwan Morgan missed Free Throw.",8,5,3,0.905772346161384,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+31,1,"16:07",2167,2167,"Kajon Mack Defensive Rebound.",8,5,3,0.905772346161384,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+32,1,"15:47",2147,2147,"Curtis Phillips Jr. missed Three Point Jumper.",8,5,3,0.908342240278724,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+33,1,"15:47",2147,2147,"Juwan Morgan Defensive Rebound.",8,5,3,0.908342240278724,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+34,1,"15:29",2129,2129,"Freddie McSwain Jr. missed Jumper.",8,5,3,0.906166939723941,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+35,1,"15:29",2129,2129,"Courtney Alexander II Defensive Rebound.",8,5,3,0.906166939723941,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+36,1,"15:17",2117,2117,"Mason Ramsey made Layup.",8,7,1,0.89393678349631,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+37,1,"14:56",2096,2096,"Aljami Durham missed Jumper.",8,7,1,0.879964823091441,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+38,1,"14:56",2096,2096,"Mason Ramsey Defensive Rebound.",8,7,1,0.879964823091441,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+39,1,"14:38",2078,2078,"Aleksa Jugovic made Layup.",8,9,-1,0.863576968168159,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+40,1,"14:31",2071,2071,"Foul on Kajon Mack.",8,9,-1,0.863576968168159,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+41,1,"14:31",2071,2071,"Official TV Timeout",8,9,-1,0.863576968168159,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+42,1,"14:14",2054,2054,"Collin Hartman made Layup. Assisted by Devonte Green.",10,9,1,0.892131856097153,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+43,1,"13:44",2024,2024,"Foul on Collin Hartman.",10,9,1,0.88483428045384,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+44,1,"13:41",2021,2021,"Kajon Mack Turnover.",10,9,1,0.88483428045384,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+45,1,"13:40",2020,2020,"Devonte Green Steal.",10,9,1,0.88483428045384,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+46,1,"13:38",2018,2018,"Robert Johnson made Layup.",12,9,3,0.906080776391623,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+47,1,"13:21",2001,2001,"Courtney Alexander II Turnover.",12,9,3,0.900462197311479,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+48,1,"13:20",2000,2000,"Collin Hartman Steal.",12,9,3,0.900462197311479,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+49,1,"13:18",1998,1998,"Robert Johnson missed Three Point Jumper.",12,9,3,0.909163058495466,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+50,1,"13:18",1998,1998,"Mason Ramsey Defensive Rebound.",12,9,3,0.909163058495466,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+51,1,"13:08",1988,1988,"Kajon Mack made Layup. Assisted by Aleksa Jugovic.",12,11,1,0.87085461274231,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+52,1,"12:52",1972,1972,"Zach McRoberts missed Three Point Jumper.",12,11,1,0.889579876616505,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+53,1,"12:52",1972,1972,"Shaq Calhoun Defensive Rebound.",12,11,1,0.889579876616505,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+54,1,"12:36",1956,1956,"Mason Ramsey Turnover.",12,11,1,0.879016651144628,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+55,1,"12:36",1956,1956,"Robert Johnson Steal.",12,11,1,0.879016651144628,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+56,1,"12:21",1941,1941,"Collin Hartman Turnover.",12,11,1,0.87961779349915,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+57,1,"12:20",1940,1940,"Mason Ramsey Steal.",12,11,1,0.87961779349915,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+58,1,"12:12",1932,1932,"Mason Ramsey missed Three Point Jumper.",12,11,1,0.873939208676666,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+59,1,"12:12",1932,1932,"Zach McRoberts Defensive Rebound.",12,11,1,0.873939208676666,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+60,1,"11:50",1910,1910,"Zach McRoberts missed Three Point Jumper.",12,11,1,0.886297993790688,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+61,1,"11:50",1910,1910,"Kajon Mack Defensive Rebound.",12,11,1,0.886297993790688,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+62,1,"11:30",1890,1890,"Shaq Calhoun missed Three Point Jumper.",12,11,1,0.877034836014211,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+63,1,"11:30",1890,1890,"Devonte Green Defensive Rebound.",12,11,1,0.877034836014211,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+64,1,"11:22",1882,1882,"Devonte Green missed Layup.",12,11,1,0.880463468725973,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+65,1,"11:22",1882,1882,"Micaiah Henry Block.",12,11,1,0.880463468725973,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+66,1,"11:19",1879,1879,"Juwan Morgan Offensive Rebound.",12,11,1,0.876298309204886,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+67,1,"11:18",1878,1878,"Juwan Morgan made Layup.",14,11,3,0.900797431976475,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+68,1,"10:56",1856,1856,"Micaiah Henry Turnover.",14,11,3,0.901843816009988,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+69,1,"10:55",1855,1855,"Zach McRoberts Steal.",14,11,3,0.901843816009988,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+70,1,"10:45",1845,1845,"Devonte Green made Three Point Jumper. Assisted by Zach McRoberts.",17,11,6,0.927277037628372,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+71,1,"10:42",1842,1842,"Tennessee Tech  Timeout",17,11,6,0.927277037628372,"Indiana","Tennessee Tech",4,3,0,1,13,400986451,2017-12-21
+72,1,"10:42",1842,1842,"Official TV Timeout",17,11,6,0.927277037628372,"Indiana","Tennessee Tech",4,3,0,1,13,400986451,2017-12-21
+73,1,"10:27",1827,1827,"Foul on Aljami Durham.",17,11,6,0.934939997189118,"Indiana","Tennessee Tech",4,3,0,1,13,400986451,2017-12-21
+74,1,"10:15",1815,1815,"Kajon Mack Turnover.",17,11,6,0.934833871286768,"Indiana","Tennessee Tech",4,3,0,1,13,400986451,2017-12-21
+75,1,"9:48",1788,1788,"Devonte Green missed Three Point Jumper.",17,11,6,0.924072546032259,"Indiana","Tennessee Tech",4,3,0,1,13,400986451,2017-12-21
+76,1,"9:48",1788,1788,"Mason Ramsey Defensive Rebound.",17,11,6,0.924072546032259,"Indiana","Tennessee Tech",4,3,0,1,13,400986451,2017-12-21
+77,1,"9:18",1758,1758,"Stephaun Adams missed Three Point Jumper.",17,11,6,0.933245518159285,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+78,1,"9:18",1758,1758,"Zach McRoberts Defensive Rebound.",17,11,6,0.933245518159285,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+79,1,"9:09",1749,1749,"Juwan Morgan missed Layup.",17,11,6,0.925049437509655,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+80,1,"9:09",1749,1749,"Curtis Phillips Jr. Defensive Rebound.",17,11,6,0.925049437509655,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+81,1,"9:03",1743,1743,"Foul on Aljami Durham.",17,11,6,0.925049437509655,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+82,1,"8:55",1735,1735,"Stephaun Adams missed Three Point Jumper.",17,11,6,0.932001233611082,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+83,1,"8:55",1735,1735,"Curtis Phillips Jr. Offensive Rebound.",17,11,6,0.932001233611082,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+84,1,"8:48",1728,1728,"Curtis Phillips Jr. missed Layup.",17,11,6,0.92368436744098,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+85,1,"8:48",1728,1728,"De'Ron Davis Block.",17,11,6,0.92368436744098,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+86,1,"8:47",1727,1727,"De'Ron Davis Defensive Rebound.",17,11,6,0.92368436744098,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+87,1,"8:43",1723,1723,"Juwan Morgan made Dunk. Assisted by Josh Newkirk.",19,11,8,0.940732561872863,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+88,1,"8:43",1723,1723,"Foul on Stephaun Adams.",19,11,8,0.940732561872863,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+89,1,"8:43",1723,1723,"Juwan Morgan made Free Throw.",20,11,9,0.947853947987237,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+90,1,"8:26",1706,1706,"Mason Ramsey missed Layup.",20,11,9,0.947515991422284,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+91,1,"8:26",1706,1706,"Juwan Morgan Defensive Rebound.",20,11,9,0.947515991422284,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+92,1,"8:16",1696,1696,"De'Ron Davis made Layup.",22,11,11,0.965023737948518,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+93,1,"8:16",1696,1696,"Foul on Micaiah Henry.",22,11,11,0.965023737948518,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+94,1,"8:16",1696,1696,"De'Ron Davis made Free Throw.",23,11,12,0.969533445016598,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+95,1,"8:06",1686,1686,"Foul on Zach McRoberts.",23,11,12,0.973229890357406,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+96,1,"8:06",1686,1686,"Aleksa Jugovic made Free Throw.",23,12,11,0.969170779056975,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+97,1,"8:06",1686,1686,"Aleksa Jugovic made Free Throw.",23,13,10,0.964518629489236,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+98,1,"7:45",1665,1665,"Freddie McSwain Jr. missed Layup.",23,13,10,0.955283483623904,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+99,1,"7:45",1665,1665,"Micaiah Henry Defensive Rebound.",23,13,10,0.955283483623904,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+100,1,"7:33",1653,1653,"Micaiah Henry made Layup. Assisted by Aleksa Jugovic.",23,15,8,0.942108820714578,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+101,1,"7:20",1640,1640,"Zach McRoberts missed Three Point Jumper.",23,15,8,0.947674838241833,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+102,1,"7:20",1640,1640,"Courtney Alexander II Defensive Rebound.",23,15,8,0.947674838241833,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+103,1,"6:58",1618,1618,"Courtney Alexander II missed Jumper.",23,15,8,0.940374307400959,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+104,1,"6:58",1618,1618,"Freddie McSwain Jr. Defensive Rebound.",23,15,8,0.940374307400959,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+105,1,"6:51",1611,1611,"Zach McRoberts missed Layup.",23,15,8,0.940374307400959,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+106,1,"6:51",1611,1611,"Freddie McSwain Jr. Offensive Rebound.",23,15,8,0.940374307400959,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+107,1,"6:50",1610,1610,"Freddie McSwain Jr. made Dunk.",25,15,10,0.954334626133706,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+108,1,"6:28",1588,1588,"Foul on Josh Newkirk.",25,15,10,0.955666378868543,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+109,1,"6:28",1588,1588,"Official TV Timeout",25,15,10,0.955666378868543,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+110,1,"6:15",1575,1575,"Kajon Mack missed Layup.",25,15,10,0.964372953675767,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+111,1,"6:15",1575,1575,"Tennessee Tech Offensive Rebound.",25,15,10,0.964372953675767,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+112,1,"5:48",1548,1548,"Kajon Mack missed Jumper.",25,15,10,0.958764672556381,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+113,1,"5:48",1548,1548,"Kajon Mack Offensive Rebound.",25,15,10,0.958764672556381,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+114,1,"5:47",1547,1547,"Kajon Mack made Layup.",25,17,8,0.94626617057466,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+115,1,"5:27",1527,1527,"Robert Johnson missed Three Point Jumper.",25,17,8,0.943445481424103,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+116,1,"5:27",1527,1527,"Courtney Alexander II Defensive Rebound.",25,17,8,0.943445481424103,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+117,1,"5:09",1509,1509,"Mason Ramsey made Layup.",25,19,6,0.927462992433886,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+118,1,"5:02",1502,1502,"Devonte Green missed Three Point Jumper.",25,19,6,0.927462992433886,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+119,1,"5:02",1502,1502,"Courtney Alexander II Defensive Rebound.",25,19,6,0.927462992433886,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+120,1,"4:45",1485,1485,"Courtney Alexander II missed Layup.",25,19,6,0.928352379168355,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+121,1,"4:45",1485,1485,"Devonte Green Defensive Rebound.",25,19,6,0.928352379168355,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+122,1,"4:36",1476,1476,"Devonte Green Turnover.",25,19,6,0.939063774629939,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+123,1,"4:20",1460,1460,"Mason Ramsey missed Layup.",25,19,6,0.917097829923171,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+124,1,"4:20",1460,1460,"Zach McRoberts Defensive Rebound.",25,19,6,0.917097829923171,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+125,1,"4:04",1444,1444,"Robert Johnson Turnover.",25,19,6,0.934165234335179,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+126,1,"4:03",1443,1443,"Aleksa Jugovic Steal.",25,19,6,0.934165234335179,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+127,1,"3:58",1438,1438,"Official TV Timeout",25,19,6,0.925422724744619,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+128,1,"3:48",1428,1428,"Curtis Phillips Jr. missed Jumper.",25,19,6,0.919391681991238,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+129,1,"3:48",1428,1428,"Josh Newkirk Defensive Rebound.",25,19,6,0.919391681991238,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+130,1,"3:34",1414,1414,"Zach McRoberts made Layup. Assisted by Juwan Morgan.",27,19,8,0.942414276835838,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+131,1,"3:34",1414,1414,"Foul on Curtis Phillips Jr..",27,19,8,0.942414276835838,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+132,1,"3:34",1414,1414,"Zach McRoberts missed Free Throw.",27,19,8,0.942414276835838,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+133,1,"3:34",1414,1414,"Micaiah Henry Defensive Rebound.",27,19,8,0.942414276835838,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+134,1,"3:05",1385,1385,"Kajon Mack made Three Point Jumper.",27,22,5,0.919035700205438,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+135,1,"2:47",1367,1367,"Robert Johnson missed Layup.",27,22,5,0.916103592573104,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+136,1,"2:47",1367,1367,"Shaq Calhoun Defensive Rebound.",27,22,5,0.916103592573104,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+137,1,"2:41",1361,1361,"Aleksa Jugovic missed Layup.",27,22,5,0.916103592573104,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+138,1,"2:41",1361,1361,"Juwan Morgan Block.",27,22,5,0.916103592573104,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+139,1,"2:40",1360,1360,"Shaq Calhoun Offensive Rebound.",27,22,5,0.916103592573104,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+140,1,"2:37",1357,1357,"Shaq Calhoun made Layup.",27,24,3,0.893981543981677,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+141,1,"2:13",1333,1333,"Devonte Green made Layup.",29,24,5,0.909796596698375,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+142,1,"1:54",1314,1314,"Shaq Calhoun missed Jumper.",29,24,5,0.9183219342597,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+143,1,"1:54",1314,1314,"Devonte Green Defensive Rebound.",29,24,5,0.9183219342597,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+144,1,"1:45",1305,1305,"Devonte Green missed Layup.",29,24,5,0.905139882764736,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+145,1,"1:45",1305,1305,"Freddie McSwain Jr. Offensive Rebound.",29,24,5,0.905139882764736,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+146,1,"1:44",1304,1304,"Freddie McSwain Jr. missed Two Point Tip Shot.",29,24,5,0.905139882764736,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+147,1,"1:44",1304,1304,"Freddie McSwain Jr. Offensive Rebound.",29,24,5,0.905139882764736,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+148,1,"1:40",1300,1300,"Robert Johnson made Three Point Jumper. Assisted by Josh Newkirk.",32,24,8,0.936851456952069,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+149,1,"1:19",1279,1279,"Mason Ramsey missed Three Point Jumper.",32,24,8,0.939344051076745,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+150,1,"1:19",1279,1279,"Robert Johnson Defensive Rebound.",32,24,8,0.939344051076745,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+151,1,"1:11",1271,1271,"Foul on Shaq Calhoun.",32,24,8,0.939344051076745,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+152,1,"1:11",1271,1271,"Josh Newkirk made Free Throw.",33,24,9,0.947340053824124,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+153,1,"1:11",1271,1271,"Josh Newkirk made Free Throw.",34,24,10,0.954333223856843,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+154,1,"0:58",1258,1258,"Micaiah Henry made Layup. Assisted by Aleksa Jugovic.",34,26,8,0.936779877631353,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+155,1,"0:48",1248,1248,"Josh Newkirk missed Layup.",34,26,8,0.945142478543205,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+156,1,"0:48",1248,1248,"Mason Ramsey Block.",34,26,8,0.945142478543205,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+157,1,"0:48",1248,1248,"Indiana Offensive Rebound.",34,26,8,0.945142478543205,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+158,1,"0:41",1241,1241,"Juwan Morgan missed Three Point Jumper.",34,26,8,0.945142478543205,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+159,1,"0:41",1241,1241,"Freddie McSwain Jr. Offensive Rebound.",34,26,8,0.945142478543205,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+160,1,"0:38",1238,1238,"Freddie McSwain Jr. made Layup.",36,26,10,0.956942821593574,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+161,1,"0:19",1219,1219,"Kajon Mack Turnover.",36,26,10,0.958666976538118,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+162,1,"0:19",1219,1219,"Foul on Kajon Mack.",36,26,10,0.958666976538118,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+163,1,"0:02",1202,1202,"Josh Newkirk made Layup.",38,26,12,0.969829606219895,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+164,1,"0:00",1200,1200,"End of 1st half",38,26,12,0.969829606219895,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+165,2,"20:00",1200,1200,"PLAY",38,26,12,0.969829606219895,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+166,2,"19:33",1173,1173,"Juwan Morgan Turnover.",38,26,12,0.969255684449312,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+167,2,"19:32",1172,1172,"Aleksa Jugovic Steal.",38,26,12,0.969255684449312,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+168,2,"19:22",1162,1162,"Kajon Mack missed Layup.",38,26,12,0.971081197289543,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+169,2,"19:22",1162,1162,"Josh Newkirk Block.",38,26,12,0.971081197289543,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+170,2,"19:20",1160,1160,"Mason Ramsey Offensive Rebound.",38,26,12,0.971081197289543,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+171,2,"19:16",1156,1156,"Foul on De'Ron Davis.",38,26,12,0.968509260692391,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+172,2,"19:16",1156,1156,"Mason Ramsey made Free Throw.",38,27,11,0.963183915067037,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+173,2,"19:16",1156,1156,"Mason Ramsey made Free Throw.",38,28,10,0.956997994309378,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+174,2,"19:10",1150,1150,"Foul on Shaq Calhoun.",38,28,10,0.956997994309378,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+175,2,"19:10",1150,1150,"Juwan Morgan made Free Throw.",39,28,11,0.963183915067037,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+176,2,"19:10",1150,1150,"Juwan Morgan made Free Throw.",40,28,12,0.968509260692391,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+177,2,"18:56",1136,1136,"Courtney Alexander II missed Jumper.",40,28,12,0.971577040082748,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+178,2,"18:56",1136,1136,"Mason Ramsey Offensive Rebound.",40,28,12,0.971577040082748,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+179,2,"18:50",1130,1130,"Micaiah Henry made Layup. Assisted by Mason Ramsey.",40,30,10,0.961064909122039,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+180,2,"18:29",1109,1109,"Josh Newkirk made Three Point Jumper. Assisted by Juwan Morgan.",43,30,13,0.975530123710985,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+181,2,"18:07",1087,1087,"Micaiah Henry missed Jumper.",43,30,13,0.97944736101589,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+182,2,"18:07",1087,1087,"Juwan Morgan Defensive Rebound.",43,30,13,0.97944736101589,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+183,2,"18:03",1083,1083,"Freddie McSwain Jr. made Layup. Assisted by Josh Newkirk.",45,30,15,0.985487073498507,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+184,2,"17:44",1064,1064,"Mason Ramsey missed Layup.",45,30,15,0.982809874062725,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+185,2,"17:44",1064,1064,"Juwan Morgan Block.",45,30,15,0.982809874062725,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+186,2,"17:43",1063,1063,"Tennessee Tech Offensive Rebound.",45,30,15,0.982809874062725,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+187,2,"17:30",1050,1050,"Courtney Alexander II made Dunk. Assisted by Joan Duran.",45,32,13,0.978954830161104,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+188,2,"17:17",1037,1037,"Josh Newkirk Turnover.",45,32,13,0.975923271038448,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+189,2,"17:16",1036,1036,"Joan Duran Steal.",45,32,13,0.975923271038448,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+190,2,"16:57",1017,1017,"Aleksa Jugovic missed Jumper.",45,32,13,0.975717022866724,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+191,2,"16:57",1017,1017,"Micaiah Henry Offensive Rebound.",45,32,13,0.975717022866724,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+192,2,"16:51",1011,1011,"Joan Duran Turnover.",45,32,13,0.975717022866724,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+193,2,"16:51",1011,1011,"Foul on Joan Duran.",45,32,13,0.975717022866724,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+194,2,"16:33",993,993,"Devonte Green missed Layup.",45,32,13,0.976232771268758,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+195,2,"16:33",993,993,"Micaiah Henry Block.",45,32,13,0.976232771268758,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+196,2,"16:33",993,993,"Indiana Offensive Rebound.",45,32,13,0.976232771268758,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+197,2,"16:24",984,984,"Robert Johnson missed Layup.",45,32,13,0.981684960016389,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+198,2,"16:24",984,984,"Aleksa Jugovic Defensive Rebound.",45,32,13,0.981684960016389,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+199,2,"16:17",977,977,"Aleksa Jugovic missed Layup.",45,32,13,0.978694901018685,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+200,2,"16:17",977,977,"Devonte Green Block.",45,32,13,0.978694901018685,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+201,2,"16:15",975,975,"Kajon Mack Offensive Rebound.",45,32,13,0.978694901018685,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+202,2,"16:11",971,971,"Kajon Mack missed Layup.",45,32,13,0.978694901018685,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+203,2,"16:11",971,971,"Freddie McSwain Jr. Block.",45,32,13,0.978694901018685,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+204,2,"16:10",970,970,"Zach McRoberts Defensive Rebound.",45,32,13,0.978694901018685,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+205,2,"16:06",966,966,"Robert Johnson made Layup. Assisted by Zach McRoberts.",47,32,15,0.983706386965114,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+206,2,"15:48",948,948,"Joan Duran missed Three Point Jumper.",47,32,15,0.987753499229491,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+207,2,"15:48",948,948,"Devonte Green Defensive Rebound.",47,32,15,0.987753499229491,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+208,2,"15:40",940,940,"Collin Hartman missed Three Point Jumper.",47,32,15,0.987753499229491,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+209,2,"15:40",940,940,"Aleksa Jugovic Defensive Rebound.",47,32,15,0.987753499229491,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+210,2,"15:32",932,932,"Courtney Alexander II missed Layup.",47,32,15,0.985899518405061,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+211,2,"15:32",932,932,"Devonte Green Defensive Rebound.",47,32,15,0.985899518405061,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+212,2,"15:22",922,922,"Foul on Kajon Mack.",47,32,15,0.984875576675701,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+213,2,"15:22",922,922,"Official TV Timeout",47,32,15,0.984875576675701,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+214,2,"15:22",922,922,"Devonte Green made Free Throw.",48,32,16,0.987502855595385,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+215,2,"15:22",922,922,"Devonte Green made Free Throw.",49,32,17,0.989678530155127,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+216,2,"15:08",908,908,"Courtney Alexander II missed Layup.",49,32,17,0.990022566925693,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+217,2,"15:08",908,908,"De'Ron Davis Block.",49,32,17,0.990022566925693,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+218,2,"15:07",907,907,"Micaiah Henry Offensive Rebound.",49,32,17,0.990022566925693,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+219,2,"15:07",907,907,"Micaiah Henry made Layup.",49,34,15,0.985439284698141,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+220,2,"15:07",907,907,"Foul on Zach McRoberts.",49,34,15,0.985439284698141,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+221,2,"15:07",907,907,"Micaiah Henry missed Free Throw.",49,34,15,0.985439284698141,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+222,2,"15:07",907,907,"Devonte Green Defensive Rebound.",49,34,15,0.985439284698141,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+223,2,"14:58",898,898,"Devonte Green Turnover.",49,34,15,0.986697460455989,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+224,2,"14:56",896,896,"Courtney Alexander II Steal.",49,34,15,0.986697460455989,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+225,2,"14:54",894,894,"Courtney Alexander II made Dunk.",49,36,13,0.980503334113478,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+226,2,"14:37",877,877,"Foul on Micaiah Henry.",49,36,13,0.980137779598059,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+227,2,"14:30",870,870,"De'Ron Davis made Dunk. Assisted by Zach McRoberts.",51,36,15,0.986401702657028,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+228,2,"14:11",851,851,"Courtney Alexander II made Layup.",51,38,13,0.982981438251373,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+229,2,"14:11",851,851,"Foul on Collin Hartman.",51,38,13,0.982981438251373,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+230,2,"14:11",851,851,"Courtney Alexander II missed Free Throw.",51,38,13,0.982981438251373,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+231,2,"14:11",851,851,"De'Ron Davis Defensive Rebound.",51,38,13,0.982981438251373,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+232,2,"13:56",836,836,"Zach McRoberts made Three Point Jumper. Assisted by Devonte Green.",54,38,16,0.991716422858427,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+233,2,"13:40",820,820,"Courtney Alexander II Turnover.",54,38,16,0.987992310964861,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+234,2,"13:40",820,820,"De'Ron Davis Steal.",54,38,16,0.987992310964861,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+235,2,"13:25",805,805,"Robert Johnson missed Three Point Jumper.",54,38,16,0.9909493261518,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+236,2,"13:25",805,805,"Micaiah Henry Defensive Rebound.",54,38,16,0.9909493261518,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+237,2,"13:18",798,798,"Shaq Calhoun made Three Point Jumper. Assisted by Courtney Alexander II.",54,41,13,0.984832303099129,"Indiana","Tennessee Tech",4,4,0,0,13,400986451,2017-12-21
+238,2,"13:15",795,795,"Tennessee Tech  Timeout",54,41,13,0.984832303099129,"Indiana","Tennessee Tech",4,3,0,1,13,400986451,2017-12-21
+239,2,"13:15",795,795,"Official TV Timeout",54,41,13,0.984832303099129,"Indiana","Tennessee Tech",4,3,0,1,13,400986451,2017-12-21
+240,2,"13:03",783,783,"Foul on Kajon Mack.",54,41,13,0.982185640016304,"Indiana","Tennessee Tech",4,3,0,1,13,400986451,2017-12-21
+241,2,"13:03",783,783,"Josh Newkirk made Free Throw.",55,41,14,0.985456490130324,"Indiana","Tennessee Tech",4,3,0,1,13,400986451,2017-12-21
+242,2,"13:03",783,783,"Josh Newkirk missed Free Throw.",55,41,14,0.985456490130324,"Indiana","Tennessee Tech",4,3,0,1,13,400986451,2017-12-21
+243,2,"13:03",783,783,"Courtney Alexander II Defensive Rebound.",55,41,14,0.985456490130324,"Indiana","Tennessee Tech",4,3,0,1,13,400986451,2017-12-21
+244,2,"12:52",772,772,"Shaq Calhoun made Layup.",55,43,12,0.979299966306802,"Indiana","Tennessee Tech",4,3,0,1,13,400986451,2017-12-21
+245,2,"12:27",747,747,"Robert Johnson missed Layup.",55,43,12,0.981377082661832,"Indiana","Tennessee Tech",4,3,0,1,13,400986451,2017-12-21
+246,2,"12:27",747,747,"De'Ron Davis Offensive Rebound.",55,43,12,0.981377082661832,"Indiana","Tennessee Tech",4,3,0,1,13,400986451,2017-12-21
+247,2,"12:24",744,744,"Foul on Mason Ramsey.",55,43,12,0.981377082661832,"Indiana","Tennessee Tech",4,3,0,1,13,400986451,2017-12-21
+248,2,"12:24",744,744,"De'Ron Davis made Free Throw.",56,43,13,0.985043276981783,"Indiana","Tennessee Tech",4,3,0,1,13,400986451,2017-12-21
+249,2,"12:24",744,744,"De'Ron Davis missed Free Throw.",56,43,13,0.985043276981783,"Indiana","Tennessee Tech",4,3,0,1,13,400986451,2017-12-21
+250,2,"12:24",744,744,"Mason Ramsey Defensive Rebound.",56,43,13,0.985043276981783,"Indiana","Tennessee Tech",4,3,0,1,13,400986451,2017-12-21
+251,2,"12:05",725,725,"Courtney Alexander II missed Layup.",56,43,13,0.984958111647717,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+252,2,"12:05",725,725,"Zach McRoberts Defensive Rebound.",56,43,13,0.984958111647717,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+253,2,"11:53",713,713,"Zach McRoberts made Three Point Jumper. Assisted by Josh Newkirk.",59,43,16,0.991666471057934,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+254,2,"11:38",698,698,"Foul on Zach McRoberts.",59,43,16,0.994624423028023,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+255,2,"11:38",698,698,"Official TV Timeout",59,43,16,0.994624423028023,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+256,2,"11:38",698,698,"Shaq Calhoun missed Free Throw.",59,43,16,0.994624423028023,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+257,2,"11:38",698,698,"Tennessee Tech Deadball Team Rebound.",59,43,16,0.994624423028023,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+258,2,"11:38",698,698,"Shaq Calhoun missed Free Throw.",59,43,16,0.994624423028023,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+259,2,"11:38",698,698,"Cade Crosland Offensive Rebound.",59,43,16,0.994624423028023,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+260,2,"11:19",679,679,"Aleksa Jugovic missed Three Point Jumper.",59,43,16,0.9931821127256,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+261,2,"11:19",679,679,"De'Ron Davis Defensive Rebound.",59,43,16,0.9931821127256,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+262,2,"11:11",671,671,"Josh Newkirk made Layup.",61,43,18,0.995706280438964,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+263,2,"10:46",646,646,"Aleksa Jugovic Turnover.",61,43,18,0.996073173112181,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+264,2,"10:45",645,645,"Josh Newkirk Steal.",61,43,18,0.996073173112181,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+265,2,"10:44",644,644,"Josh Newkirk made Layup.",63,43,20,0.99756572121237,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+266,2,"10:43",643,643,"Foul on Aleksa Jugovic.",63,43,20,0.99756572121237,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+267,2,"10:43",643,643,"Josh Newkirk missed Free Throw.",63,43,20,0.99756572121237,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+268,2,"10:43",643,643,"De'Ron Davis Offensive Rebound.",63,43,20,0.99756572121237,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+269,2,"10:27",627,627,"Juwan Morgan missed Jumper.",63,43,20,0.998281336546414,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+270,2,"10:27",627,627,"Courtney Alexander II Defensive Rebound.",63,43,20,0.998281336546414,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+271,2,"10:08",608,608,"Mason Ramsey Turnover.",63,43,20,0.997872617946598,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+272,2,"10:07",607,607,"Juwan Morgan Steal.",63,43,20,0.997872617946598,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+273,2,"9:58",598,598,"Foul on Mason Ramsey.",63,43,20,0.997466400599135,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+274,2,"9:58",598,598,"Josh Newkirk made Free Throw.",64,43,21,0.998005273081517,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+275,2,"9:58",598,598,"Josh Newkirk made Free Throw.",65,43,22,0.998429712947434,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+276,2,"9:35",575,575,"Shaq Calhoun missed Three Point Jumper.",65,43,22,0.998938299140262,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+277,2,"9:35",575,575,"Aljami Durham Defensive Rebound.",65,43,22,0.998938299140262,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+278,2,"9:30",570,570,"Aljami Durham made Layup.",67,43,24,0.999359926348597,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+279,2,"9:08",548,548,"Foul on Aljami Durham.",67,43,24,0.99944834348066,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+280,2,"8:59",539,539,"Shaq Calhoun made Layup. Assisted by Kajon Mack.",67,45,22,0.999422766379669,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+281,2,"8:49",529,529,"Josh Newkirk made Three Point Jumper.",70,45,25,0.999611490213106,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+282,2,"8:29",509,509,"Mason Ramsey made Layup.",70,47,23,0.999388716367583,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+283,2,"8:18",498,498,"Robert Johnson Turnover.",70,47,23,0.999383637637484,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+284,2,"8:17",497,497,"Courtney Alexander II Steal.",70,47,23,0.999383637637484,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+285,2,"8:13",493,493,"Foul on Josh Newkirk.",70,47,23,0.999383637637484,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+286,2,"8:07",487,487,"Shaq Calhoun Turnover.",70,47,23,0.999388415733618,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+287,2,"7:55",475,475,"Freddie McSwain Jr. made Layup. Assisted by Aljami Durham.",72,47,25,0.999779155645266,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+288,2,"7:42",462,462,"Foul on Justin Smith.",72,47,25,0.999712649104811,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+289,2,"7:42",462,462,"Official TV Timeout",72,47,25,0.999712649104811,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+290,2,"7:42",462,462,"Mason Ramsey made Free Throw.",72,48,24,0.999619110240327,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+291,2,"7:42",462,462,"Mason Ramsey made Free Throw.",72,49,23,0.999495137851031,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+292,2,"7:20",440,440,"Devonte Green missed Three Point Jumper.",72,49,23,0.999324786849831,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+293,2,"7:20",440,440,"Freddie McSwain Jr. Offensive Rebound.",72,49,23,0.999324786849831,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+294,2,"7:18",438,438,"Foul on Micaiah Henry.",72,49,23,0.999734583262703,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+295,2,"7:18",438,438,"Freddie McSwain Jr. made Free Throw.",73,49,24,0.999804851540255,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+296,2,"7:18",438,438,"Freddie McSwain Jr. made Free Throw.",74,49,25,0.999856519174015,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+297,2,"7:07",427,427,"Kajon Mack made Layup.",74,51,23,0.999595791606009,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+298,2,"6:43",403,403,"Freddie McSwain Jr. missed Layup.",74,51,23,0.999812176218294,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+299,2,"6:43",403,403,"Mason Ramsey Defensive Rebound.",74,51,23,0.999812176218294,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+300,2,"6:25",385,385,"Foul on Freddie McSwain Jr..",74,51,23,0.999656181166898,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+301,2,"6:25",385,385,"Mason Ramsey missed Free Throw.",74,51,23,0.999656181166898,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+302,2,"6:25",385,385,"Aljami Durham Defensive Rebound.",74,51,23,0.999656181166898,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+303,2,"6:17",377,377,"Justin Smith made Jumper. Assisted by Devonte Green.",76,51,25,0.999841968820683,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+304,2,"5:59",359,359,"Kajon Mack missed Layup.",76,51,25,0.999920704311725,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+305,2,"5:59",359,359,"Justin Smith Block.",76,51,25,0.999920704311725,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+306,2,"5:59",359,359,"Mason Ramsey Offensive Rebound.",76,51,25,0.999920704311725,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+307,2,"5:58",358,358,"Mason Ramsey missed Layup.",76,51,25,0.999920704311725,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+308,2,"5:58",358,358,"Justin Smith Block.",76,51,25,0.999920704311725,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+309,2,"5:58",358,358,"Tennessee Tech Offensive Rebound.",76,51,25,0.999920704311725,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+310,2,"5:48",348,348,"Aleksa Jugovic Turnover.",76,51,25,0.999903734244716,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+311,2,"5:47",347,347,"Devonte Green Steal.",76,51,25,0.999903734244716,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+312,2,"5:44",344,344,"Robert Johnson made Jumper.",78,51,27,0.999950698430227,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+313,2,"5:10",310,310,"Kajon Mack missed Three Point Jumper.",78,51,27,0.999979669940521,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+314,2,"5:10",310,310,"Justin Smith Defensive Rebound.",78,51,27,0.999979669940521,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+315,2,"5:10",310,310,"Foul on Cade Crosland.",78,51,27,0.999979669940521,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+316,2,"5:10",310,310,"Justin Smith made Free Throw.",79,51,28,0.999985909675972,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+317,2,"5:10",310,310,"Justin Smith made Free Throw.",80,51,29,0.99999023432021,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+318,2,"4:59",299,299,"Micaiah Henry missed Layup.",80,51,29,0.999983452011681,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+319,2,"4:59",299,299,"Juwan Morgan Block.",80,51,29,0.999983452011681,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+320,2,"4:57",297,297,"Josh Newkirk Defensive Rebound.",80,51,29,0.999983452011681,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+321,2,"4:28",268,268,"Collin Hartman Turnover.",80,51,29,0.999992162805836,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+322,2,"4:28",268,268,"Foul on Collin Hartman.",80,51,29,0.999992162805836,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+323,2,"4:14",254,254,"Aleksa Jugovic Turnover.",80,51,29,0.999997901759491,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+324,2,"4:13",253,253,"Collin Hartman Steal.",80,51,29,0.999997901759491,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+325,2,"4:07",247,247,"Devonte Green missed Three Point Jumper.",80,51,29,0.999996538072002,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+326,2,"4:07",247,247,"Devonte Green Offensive Rebound.",80,51,29,0.999996538072002,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+327,2,"3:46",226,226,"Juwan Morgan missed Layup.",80,51,29,0.999998389670818,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+328,2,"3:46",226,226,"Indiana Offensive Rebound.",80,51,29,0.999998389670818,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+329,2,"3:43",223,223,"Juwan Morgan missed Jumper.",80,51,29,0.999998389670818,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+330,2,"3:43",223,223,"Indiana Offensive Rebound.",80,51,29,0.999998389670818,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+331,2,"3:42",222,222,"Official TV Timeout",80,51,29,0.999998389670818,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+332,2,"3:29",209,209,"Foul on Cade Crosland.",80,51,29,0.999999269189223,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+333,2,"3:29",209,209,"Devonte Green made Free Throw.",81,51,30,0.999999534961474,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+334,2,"3:29",209,209,"Devonte Green made Free Throw.",82,51,31,0.999999704080978,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+335,2,"3:06",186,186,"Cade Crosland missed Three Point Jumper.",82,51,31,0.999999860402791,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+336,2,"3:06",186,186,"Cade Crosland Offensive Rebound.",82,51,31,0.999999860402791,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+337,2,"3:01",181,181,"Courtney Alexander II missed Jumper.",82,51,31,0.999999860402791,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+338,2,"3:01",181,181,"Zach McRoberts Defensive Rebound.",82,51,31,0.999999860402791,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+339,2,"2:49",169,169,"Devonte Green missed Three Point Jumper.",82,51,31,0.999999959631272,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+340,2,"2:49",169,169,"Shaq Calhoun Defensive Rebound.",82,51,31,0.999999959631272,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+341,2,"2:39",159,159,"Shaq Calhoun missed Three Point Jumper.",82,51,31,0.999999974604438,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+342,2,"2:39",159,159,"Justin Smith Defensive Rebound.",82,51,31,0.999999974604438,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+343,2,"2:28",148,148,"Clifton Moore missed Three Point Jumper.",82,51,31,0.999999955798241,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+344,2,"2:28",148,148,"Kajon Mack Defensive Rebound.",82,51,31,0.999999955798241,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+345,2,"2:22",142,142,"Kajon Mack made Three Point Jumper.",82,54,28,0.999999790820089,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+346,2,"2:10",130,130,"Josh Newkirk made Three Point Jumper.",85,54,31,0.999999980571654,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+347,2,"1:51",111,111,"Shaq Calhoun Turnover.",85,54,31,0.999999996199237,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+348,2,"1:51",111,111,"Foul on Shaq Calhoun.",85,54,31,0.999999996199237,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+349,2,"1:43",103,103,"Clifton Moore missed Three Point Jumper.",85,54,31,0.999999997465346,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+350,2,"1:43",103,103,"Tennessee Tech Defensive Rebound.",85,54,31,0.999999997465346,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+351,2,"1:16",76,76,"Micaiah Henry made Layup. Assisted by Joan Duran.",85,56,29,0.999999999683465,"Indiana","Tennessee Tech",4,3,0,0,13,400986451,2017-12-21
+352,2,"1:15",75,75,"Tennessee Tech  Timeout",85,56,29,0.999999999683465,"Indiana","Tennessee Tech",4,2,0,1,13,400986451,2017-12-21
+353,2,"0:53",53,53,"Aljami Durham missed Layup.",85,56,29,0.999999999966038,"Indiana","Tennessee Tech",4,2,0,1,13,400986451,2017-12-21
+354,2,"0:53",53,53,"Clifton Moore Offensive Rebound.",85,56,29,0.999999999966038,"Indiana","Tennessee Tech",4,2,0,1,13,400986451,2017-12-21
+355,2,"0:49",49,49,"Clifton Moore missed Jumper.",85,56,29,0.999999999999391,"Indiana","Tennessee Tech",4,2,0,1,13,400986451,2017-12-21
+356,2,"0:49",49,49,"Justin Smith Offensive Rebound.",85,56,29,0.999999999999391,"Indiana","Tennessee Tech",4,2,0,1,13,400986451,2017-12-21
+357,2,"0:45",45,45,"Clifton Moore made Layup. Assisted by Justin Smith.",87,56,31,0.999999999992856,"Indiana","Tennessee Tech",4,2,0,1,13,400986451,2017-12-21
+358,2,"0:39",39,39,"Cade Crosland made Three Point Jumper. Assisted by Courtney Alexander II.",87,59,28,0.999999999998411,"Indiana","Tennessee Tech",4,2,0,1,13,400986451,2017-12-21
+359,2,"0:13",13,13,"Justin Smith missed Layup.",87,59,28,1,"Indiana","Tennessee Tech",4,2,0,0,13,400986451,2017-12-21
+360,2,"0:13",13,13,"Courtney Alexander II Defensive Rebound.",87,59,28,1,"Indiana","Tennessee Tech",4,2,0,0,13,400986451,2017-12-21
+361,2,"0:02",2,2,"Joan Duran missed Three Point Jumper.",87,59,28,1,"Indiana","Tennessee Tech",4,2,0,0,13,400986451,2017-12-21
+362,2,"0:02",2,2,"Clifton Moore Defensive Rebound.",87,59,28,1,"Indiana","Tennessee Tech",4,2,0,0,13,400986451,2017-12-21
+363,2,"0:00",0,0,"End of Game",87,59,28,1,"Indiana","Tennessee Tech",4,2,0,0,13,400986451,2017-12-21

@@ -1,0 +1,356 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","play_length","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,23,0.852225761633161,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+2,1,"19:37",2377,2377,"Foul on Jessie Govan.",0,0,0,0,0.844924266968732,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+3,1,"19:37",2377,2377,"Giorgi Bezhanishvili missed Free Throw.",0,0,0,0,0.844924266968732,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+4,1,"19:37",2377,2377,"Illinois Deadball Team Rebound.",0,0,0,0,0.844924266968732,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+5,1,"19:37",2377,2377,"Giorgi Bezhanishvili made Free Throw.",1,0,1,17,0.856983316280336,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+6,1,"19:20",2360,2360,"Matthew McClung Turnover.",1,0,1,0,0.837715166055057,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+7,1,"19:20",2360,2360,"Aaron Jordan Steal.",1,0,1,8,0.837715166055057,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+8,1,"19:12",2352,2352,"Ayo Dosunmu made Three Point Jumper. Assisted by Aaron Jordan.",4,0,4,25,0.889247871706997,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+9,1,"18:47",2327,2327,"James Akinjo Turnover.",4,0,4,10,0.892192437851951,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+10,1,"18:37",2317,2317,"Andres Feliz made Layup. Assisted by Aaron Jordan.",6,0,6,16,0.896060482369797,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+11,1,"18:21",2301,2301,"Jamorko Pickett made Three Point Jumper. Assisted by Matthew McClung.",6,3,3,24,0.86763183896168,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+12,1,"17:57",2277,2277,"Andres Feliz made Jumper. Assisted by Giorgi Bezhanishvili.",8,3,5,8,0.897291243315803,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+13,1,"17:49",2269,2269,"Trey Mourning Turnover.",8,3,5,14,0.909255728024156,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+14,1,"17:35",2255,2255,"Giorgi Bezhanishvili missed Jumper.",8,3,5,6,0.888938783772737,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+15,1,"17:29",2249,2249,"Jessie Govan Defensive Rebound.",8,3,5,4,0.883793747113477,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+16,1,"17:25",2245,2245,"Foul on Andres Feliz.",8,3,5,7,0.883793747113477,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+17,1,"17:18",2238,2238,"Foul on Trey Mourning.",8,3,5,0,0.899155943247257,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+18,1,"17:18",2238,2238,"Trey Mourning Turnover.",8,3,5,1,0.899155943247257,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+19,1,"17:17",2237,2237,"Georgetown  Timeout",8,3,5,12,0.899155943247257,"Illinois","Georgetown",3,4,1,0,9,"401082334",2018-11-13
+20,1,"17:05",2225,2225,"Andres Feliz Turnover.",8,3,5,15,0.895843140801424,"Illinois","Georgetown",3,4,1,0,9,"401082334",2018-11-13
+21,1,"16:50",2210,2210,"Foul on Aaron Jordan.",8,3,5,0,0.904993244933605,"Illinois","Georgetown",3,4,1,0,9,"401082334",2018-11-13
+22,1,"16:50",2210,2210,"Jamorko Pickett missed Free Throw.",8,3,5,0,0.904993244933605,"Illinois","Georgetown",3,4,1,0,9,"401082334",2018-11-13
+23,1,"16:50",2210,2210,"Georgetown Deadball Team Rebound.",8,3,5,2,0.904993244933605,"Illinois","Georgetown",3,4,1,0,9,"401082334",2018-11-13
+24,1,"16:48",2208,2208,"Jamorko Pickett missed Free Throw.",8,3,5,2,0.897991474617138,"Illinois","Georgetown",3,4,1,0,9,"401082334",2018-11-13
+25,1,"16:46",2206,2206,"Aaron Jordan Defensive Rebound.",8,3,5,11,0.897991474617138,"Illinois","Georgetown",3,4,1,0,9,"401082334",2018-11-13
+26,1,"16:35",2195,2195,"Ayo Dosunmu made Layup.",10,3,7,25,0.923400257344146,"Illinois","Georgetown",3,4,1,0,9,"401082334",2018-11-13
+27,1,"16:10",2170,2170,"Trey Mourning made Layup. Assisted by James Akinjo.",10,5,5,0,0.893029486053698,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+28,1,"16:10",2170,2170,"Foul on Kipper Nichols.",10,5,5,0,0.893029486053698,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+29,1,"16:10",2170,2170,"Trey Mourning made Free Throw.",10,6,4,10,0.882200250612232,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+30,1,"16:00",2160,2160,"Ayo Dosunmu made Layup. Assisted by Da'Monte Williams.",12,6,6,11,0.903849619703144,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+31,1,"15:49",2149,2149,"Foul on Ayo Dosunmu.",12,6,6,0,0.90364386669454,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+32,1,"15:49",2149,2149,"Official TV Timeout",12,6,6,5,0.90364386669454,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+33,1,"15:44",2144,2144,"James Akinjo made Jumper. Assisted by Jessie Govan.",12,8,4,29,0.884499394074683,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+34,1,"15:15",2115,2115,"Adonis De La Rosa missed Jumper.",12,8,4,5,0.891760688037299,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+35,1,"15:10",2110,2110,"Jessie Govan Defensive Rebound.",12,8,4,1,0.891760688037299,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+36,1,"15:09",2109,2109,"Jamorko Pickett made Layup.",12,10,2,0,0.855171564145321,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+37,1,"15:09",2109,2109,"Technical Foul on Jamorko Pickett.",12,10,2,0,0.855171564145321,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+38,1,"15:09",2109,2109,"Kipper Nichols missed Free Throw.",12,10,2,0,0.855171564145321,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+39,1,"15:09",2109,2109,"Illinois Deadball Team Rebound.",12,10,2,0,0.855171564145321,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+40,1,"15:09",2109,2109,"Kipper Nichols made Free Throw.",13,10,3,26,0.868508331065537,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+41,1,"14:43",2083,2083,"Giorgi Bezhanishvili made Jumper. Assisted by Kipper Nichols.",15,10,5,24,0.891433648604142,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+42,1,"14:19",2059,2059,"Josh LeBlanc made Layup. Assisted by James Akinjo.",15,12,3,11,0.877626476828795,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+43,1,"14:08",2048,2048,"Andres Feliz missed Layup.",15,12,3,0,0.861585473127649,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+44,1,"14:08",2048,2048,"Jamorko Pickett Block.",15,12,3,4,0.861585473127649,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+45,1,"14:04",2044,2044,"Jamorko Pickett Defensive Rebound.",15,12,3,0,0.861585473127649,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+46,1,"14:04",2044,2044,"Jamorko Pickett Turnover.",15,12,3,10,0.861585473127649,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+47,1,"13:54",2034,2034,"Da'Monte Williams missed Three Point Jumper.",15,12,3,7,0.880106624710781,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+48,1,"13:47",2027,2027,"Giorgi Bezhanishvili Offensive Rebound.",15,12,3,9,0.874988645407841,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+49,1,"13:38",2018,2018,"Giorgi Bezhanishvili missed Jumper.",15,12,3,0,0.871898527338999,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+50,1,"13:38",2018,2018,"Josh LeBlanc Defensive Rebound.",15,12,3,0,0.871898527338999,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+51,1,"13:38",2018,2018,"Foul on Da'Monte Williams.",15,12,3,28,0.871898527338999,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+52,1,"13:10",1990,1990,"Josh LeBlanc made Dunk. Assisted by Jessie Govan.",15,14,1,11,0.84431009470532,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+53,1,"12:59",1979,1979,"Tevian Jones missed Jumper.",15,14,1,4,0.848834220826012,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+54,1,"12:55",1975,1975,"Jamorko Pickett Defensive Rebound.",15,14,1,5,0.848834220826012,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+55,1,"12:50",1970,1970,"James Akinjo missed Jumper.",15,14,1,5,0.848834220826012,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+56,1,"12:45",1965,1965,"Tevian Jones Defensive Rebound.",15,14,1,3,0.839282873055588,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+57,1,"12:42",1962,1962,"Andres Feliz missed Three Point Jumper.",15,14,1,3,0.839282873055588,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+58,1,"12:39",1959,1959,"Jamorko Pickett Defensive Rebound.",15,14,1,12,0.838767820618872,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+59,1,"12:27",1947,1947,"Jagan Mosely made Jumper. Assisted by James Akinjo.",15,16,-1,9,0.800884532047817,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+60,1,"12:18",1938,1938,"Giorgi Bezhanishvili missed Three Point Jumper.",15,16,-1,8,0.79221614497988,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+61,1,"12:10",1930,1930,"James Akinjo Defensive Rebound.",15,16,-1,6,0.79221614497988,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+62,1,"12:04",1924,1924,"James Akinjo missed Jumper.",15,16,-1,0,0.807537032701699,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+63,1,"12:04",1924,1924,"Andres Feliz Block.",15,16,-1,10,0.807537032701699,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+64,1,"11:54",1914,1914,"Giorgi Bezhanishvili Defensive Rebound.",15,16,-1,4,0.810846154500894,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+65,1,"11:50",1910,1910,"Ayo Dosunmu missed Jumper.",15,16,-1,4,0.810846154500894,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+66,1,"11:46",1906,1906,"Jamorko Pickett Defensive Rebound.",15,16,-1,4,0.805218797678106,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+67,1,"11:42",1902,1902,"Trey Mourning missed Three Point Jumper.",15,16,-1,6,0.805218797678106,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+68,1,"11:36",1896,1896,"Tevian Jones Defensive Rebound.",15,16,-1,16,0.796758991021811,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+69,1,"11:20",1880,1880,"Ayo Dosunmu missed Layup.",15,16,-1,0,0.801744726151928,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+70,1,"11:20",1880,1880,"Trey Mourning Block.",15,16,-1,1,0.801744726151928,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+71,1,"11:19",1879,1879,"Georgetown Defensive Rebound.",15,16,-1,0,0.797412682353232,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+72,1,"11:19",1879,1879,"Official TV Timeout",15,16,-1,30,0.797412682353232,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+73,1,"10:49",1849,1849,"Jahvon Blair missed Three Point Jumper.",15,16,-1,5,0.79112164762189,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+74,1,"10:44",1844,1844,"Tevian Jones Defensive Rebound.",15,16,-1,16,0.79112164762189,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+75,1,"10:28",1828,1828,"Aaron Jordan missed Three Point Jumper.",15,16,-1,7,0.814461232381493,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+76,1,"10:21",1821,1821,"Trey Mourning Defensive Rebound.",15,16,-1,5,0.814461232381493,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+77,1,"10:16",1816,1816,"Foul on Tevian Jones.",15,16,-1,7,0.794931782255556,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+78,1,"10:09",1809,1809,"Matthew McClung made Layup.",15,18,-3,16,0.749642059391686,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+79,1,"9:53",1793,1793,"Foul on Jahvon Blair.",15,18,-3,4,0.736631536956264,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+80,1,"9:49",1789,1789,"Foul on Matthew McClung.",15,18,-3,11,0.718116766637445,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+81,1,"9:38",1778,1778,"Aaron Jordan missed Jumper.",15,18,-3,5,0.740965497298169,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+82,1,"9:33",1773,1773,"Matthew McClung Defensive Rebound.",15,18,-3,7,0.740965497298169,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+83,1,"9:26",1766,1766,"Matthew McClung Turnover.",15,18,-3,11,0.760194498636829,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+84,1,"9:15",1755,1755,"Foul on Giorgi Bezhanishvili.",15,18,-3,0,0.735495429850627,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+85,1,"9:15",1755,1755,"Giorgi Bezhanishvili Turnover.",15,18,-3,0,0.735495429850627,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+86,1,"9:15",1755,1755,"Matthew McClung missed Jumper.",15,18,-3,5,0.735495429850627,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+87,1,"9:10",1750,1750,"Kipper Nichols Defensive Rebound.",15,18,-3,2,0.735495429850627,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+88,1,"9:08",1748,1748,"Giorgi Bezhanishvili made Layup. Assisted by Kipper Nichols.",17,18,-1,16,0.788820841518071,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+89,1,"8:52",1732,1732,"Matthew McClung missed Three Point Jumper.",17,18,-1,4,0.790687722789451,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+90,1,"8:48",1728,1728,"Ayo Dosunmu Defensive Rebound.",17,18,-1,2,0.777086404691426,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+91,1,"8:46",1726,1726,"Foul on Andres Feliz.",17,18,-1,0,0.777086404691426,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+92,1,"8:46",1726,1726,"Andres Feliz Turnover.",17,18,-1,14,0.777086404691426,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+93,1,"8:32",1712,1712,"James Akinjo made Jumper.",17,20,-3,14,0.754114801705787,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+94,1,"8:18",1698,1698,"Ayo Dosunmu made Jumper.",19,20,-1,12,0.784563752416893,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+95,1,"8:06",1686,1686,"Foul on Aaron Jordan.",19,20,-1,0,0.79606546160578,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+96,1,"8:06",1686,1686,"James Akinjo made Free Throw.",19,21,-2,0,0.771451588340292,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+97,1,"8:06",1686,1686,"James Akinjo made Free Throw.",19,22,-3,12,0.744819232307363,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+98,1,"7:54",1674,1674,"Alan Griffin made Three Point Jumper. Assisted by Kipper Nichols.",22,22,0,18,0.812085663769881,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+99,1,"7:36",1656,1656,"Matthew McClung missed Jumper.",22,22,0,5,0.804922604113203,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+100,1,"7:31",1651,1651,"Matthew McClung Offensive Rebound.",22,22,0,4,0.804922604113203,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+101,1,"7:27",1647,1647,"Jahvon Blair made Three Point Jumper. Assisted by James Akinjo.",22,25,-3,16,0.739326917988147,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+102,1,"7:11",1631,1631,"Giorgi Bezhanishvili made Layup.",24,25,-1,26,0.788160505604722,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+103,1,"6:45",1605,1605,"James Akinjo missed Three Point Jumper.",24,25,-1,4,0.786760392334258,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+104,1,"6:41",1601,1601,"Kipper Nichols Defensive Rebound.",24,25,-1,23,0.786760392334258,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+105,1,"6:18",1578,1578,"Alan Griffin missed Three Point Jumper.",24,25,-1,12,0.781473726849006,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+106,1,"6:06",1566,1566,"Giorgi Bezhanishvili Offensive Rebound.",24,25,-1,0,0.770374481040433,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+107,1,"6:06",1566,1566,"Giorgi Bezhanishvili missed Dunk.",24,25,-1,9,0.770374481040433,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+108,1,"5:57",1557,1557,"Alan Griffin Offensive Rebound.",24,25,-1,2,0.766757651398684,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+109,1,"5:55",1555,1555,"Alan Griffin missed Layup.",24,25,-1,0,0.766757651398684,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+110,1,"5:55",1555,1555,"Giorgi Bezhanishvili Offensive Rebound.",24,25,-1,3,0.766757651398684,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+111,1,"5:52",1552,1552,"Giorgi Bezhanishvili made Layup.",26,25,1,10,0.814155489739026,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+112,1,"5:42",1542,1542,"Jessie Govan made Three Point Jumper. Assisted by James Akinjo.",26,28,-2,7,0.760941617160002,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+113,1,"5:35",1535,1535,"Ayo Dosunmu Turnover.",26,28,-2,8,0.759480058394743,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+114,1,"5:27",1527,1527,"James Akinjo missed Three Point Jumper.",26,28,-2,4,0.747444098020737,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+115,1,"5:23",1523,1523,"Kipper Nichols Defensive Rebound.",26,28,-2,7,0.747444098020737,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+116,1,"5:16",1516,1516,"Kipper Nichols missed Jumper.",26,28,-2,6,0.752801506097062,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+117,1,"5:10",1510,1510,"Alan Griffin Offensive Rebound.",26,28,-2,2,0.752801506097062,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+118,1,"5:08",1508,1508,"Alan Griffin Turnover.",26,28,-2,0,0.749643544095093,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+119,1,"5:08",1508,1508,"James Akinjo Steal.",26,28,-2,6,0.749643544095093,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+120,1,"5:02",1502,1502,"Matthew McClung made Layup.",26,30,-4,0,0.692483790171172,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+121,1,"5:02",1502,1502,"Official TV Timeout",26,30,-4,12,0.692483790171172,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+122,1,"4:50",1490,1490,"Adonis De La Rosa missed Jumper.",26,30,-4,6,0.706611113759543,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+123,1,"4:44",1484,1484,"Andres Feliz Offensive Rebound.",26,30,-4,1,0.678697445912447,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+124,1,"4:43",1483,1483,"Andres Feliz Turnover.",26,30,-4,0,0.678697445912447,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+125,1,"4:43",1483,1483,"Matthew McClung Steal.",26,30,-4,6,0.678697445912447,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+126,1,"4:37",1477,1477,"Matthew McClung made Layup.",26,32,-6,21,0.636998270122388,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+127,1,"4:16",1456,1456,"Kipper Nichols made Layup.",28,32,-4,17,0.679084313532424,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+128,1,"3:59",1439,1439,"Matthew McClung missed Three Point Jumper.",28,32,-4,1,0.677084750197961,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+129,1,"3:58",1438,1438,"Kipper Nichols Defensive Rebound.",28,32,-4,0,0.677084750197961,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+130,1,"3:58",1438,1438,"Foul on Matthew McClung.",28,32,-4,0,0.677084750197961,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+131,1,"3:58",1438,1438,"Official TV Timeout",28,32,-4,15,0.677084750197961,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+132,1,"3:43",1423,1423,"Kipper Nichols made Layup. Assisted by Da'Monte Williams.",30,32,-2,12,0.727924246715554,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+133,1,"3:31",1411,1411,"James Akinjo Turnover.",30,32,-2,0,0.722737299716364,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+134,1,"3:31",1411,1411,"Kipper Nichols Steal.",30,32,-2,28,0.722737299716364,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+135,1,"3:03",1383,1383,"Da'Monte Williams made Three Point Jumper. Assisted by Ayo Dosunmu.",33,32,1,25,0.822239124961495,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+136,1,"2:38",1358,1358,"Jamorko Pickett Turnover.",33,32,1,0,0.8218079153365,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+137,1,"2:38",1358,1358,"Da'Monte Williams Steal.",33,32,1,2,0.8218079153365,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+138,1,"2:36",1356,1356,"Foul on Jamorko Pickett.",33,32,1,0,0.8218079153365,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+139,1,"2:36",1356,1356,"Da'Monte Williams made Free Throw.",34,32,2,0,0.843317671254262,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+140,1,"2:36",1356,1356,"Da'Monte Williams made Free Throw.",35,32,3,22,0.862664865913017,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+141,1,"2:14",1334,1334,"Jahvon Blair made Three Point Jumper. Assisted by James Akinjo.",35,35,0,9,0.776122764163984,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+142,1,"2:05",1325,1325,"Ayo Dosunmu missed Jumper.",35,35,0,5,0.787833621165697,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+143,1,"2:00",1320,1320,"Jessie Govan Defensive Rebound.",35,35,0,0,0.787833621165697,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+144,1,"2:00",1320,1320,"James Akinjo Turnover.",35,35,0,14,0.787833621165697,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+145,1,"1:46",1306,1306,"Foul on Ayo Dosunmu.",35,35,0,0,0.777002335946361,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+146,1,"1:46",1306,1306,"Ayo Dosunmu Turnover.",35,35,0,16,0.777002335946361,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+147,1,"1:30",1290,1290,"James Akinjo made Jumper.",35,37,-2,20,0.722927570335799,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+148,1,"1:10",1270,1270,"Kipper Nichols made Jumper. Assisted by Giorgi Bezhanishvili.",37,37,0,19,0.776680421843548,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+149,1,"0:51",1251,1251,"James Akinjo Turnover.",37,37,0,8,0.770912775685715,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+150,1,"0:43",1243,1243,"Kipper Nichols missed Jumper.",37,37,0,0,0.787942733013973,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+151,1,"0:43",1243,1243,"Josh LeBlanc Block.",37,37,0,1,0.787942733013973,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+152,1,"0:42",1242,1242,"Illinois Offensive Rebound.",37,37,0,2,0.787942733013973,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+153,1,"0:40",1240,1240,"Illinois  Timeout",37,37,0,1,0.787942733013973,"Illinois","Georgetown",3,3,0,1,9,"401082334",2018-11-13
+154,1,"0:39",1239,1239,"Foul on Giorgi Bezhanishvili.",37,37,0,0,0.771067682475646,"Illinois","Georgetown",3,3,0,1,9,"401082334",2018-11-13
+155,1,"0:39",1239,1239,"Giorgi Bezhanishvili Turnover.",37,37,0,13,0.771067682475646,"Illinois","Georgetown",3,3,0,1,9,"401082334",2018-11-13
+156,1,"0:26",1226,1226,"Jessie Govan made Jumper. Assisted by Greg Malinowski.",37,39,-2,22,0.72091644689972,"Illinois","Georgetown",3,3,0,1,9,"401082334",2018-11-13
+157,1,"0:04",1204,1204,"Alan Griffin missed Three Point Jumper.",37,39,-2,4,0.722087794601961,"Illinois","Georgetown",3,3,0,1,9,"401082334",2018-11-13
+158,1,"0:00",1200,1200,"Greg Malinowski Defensive Rebound.",37,39,-2,0,0.722087794601961,"Illinois","Georgetown",3,3,0,1,9,"401082334",2018-11-13
+159,1,"0:00",1200,1200,"Jagan Mosely missed Three Point Jumper.",37,39,-2,0,0.722087794601961,"Illinois","Georgetown",3,3,0,1,9,"401082334",2018-11-13
+160,1,"0:00",1200,1200,"Illinois Deadball Team Rebound.",37,39,-2,0,0.722087794601961,"Illinois","Georgetown",3,3,0,1,9,"401082334",2018-11-13
+161,1,"0:00",1200,1200,"End of 1st half",37,39,-2,0,0.722087794601961,"Illinois","Georgetown",3,3,0,1,9,"401082334",2018-11-13
+162,2,"20:00",1200,1200,"PLAY",37,39,-2,13,0.722087794601961,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+163,2,"19:47",1187,1187,"Jamorko Pickett missed Three Point Jumper.",37,39,-2,4,0.720654832704502,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+164,2,"19:43",1183,1183,"Andres Feliz Defensive Rebound.",37,39,-2,4,0.720654832704502,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+165,2,"19:39",1179,1179,"Ayo Dosunmu missed Layup.",37,39,-2,5,0.706708117399833,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+166,2,"19:34",1174,1174,"Trey Mourning Defensive Rebound.",37,39,-2,2,0.706708117399833,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+167,2,"19:32",1172,1172,"Matthew McClung made Layup.",37,41,-4,8,0.634212313317282,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+168,2,"19:24",1164,1164,"Foul on Matthew McClung.",37,41,-4,12,0.640846612902425,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+169,2,"19:12",1152,1152,"Kipper Nichols missed Three Point Jumper.",37,41,-4,4,0.639017097653873,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+170,2,"19:08",1148,1148,"Jessie Govan Defensive Rebound.",37,41,-4,13,0.620296090072086,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+171,2,"18:55",1135,1135,"Jessie Govan made Dunk. Assisted by Trey Mourning.",37,43,-6,27,0.578516278471533,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+172,2,"18:28",1108,1108,"Foul on Jamorko Pickett.",37,43,-6,0,0.571584411796122,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+173,2,"18:28",1108,1108,"Aaron Jordan missed Free Throw.",37,43,-6,0,0.571584411796122,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+174,2,"18:28",1108,1108,"Illinois Deadball Team Rebound.",37,43,-6,0,0.571584411796122,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+175,2,"18:28",1108,1108,"Aaron Jordan made Free Throw.",38,43,-5,26,0.611135144685725,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+176,2,"18:02",1082,1082,"Kaleb Johnson missed Layup.",38,43,-5,9,0.595591898379886,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+177,2,"17:53",1073,1073,"Kaleb Johnson Offensive Rebound.",38,43,-5,0,0.588583104715415,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+178,2,"17:53",1073,1073,"Kaleb Johnson made Layup.",38,45,-7,4,0.505319642122539,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+179,2,"17:49",1069,1069,"Andres Feliz made Jumper. Assisted by Giorgi Bezhanishvili.",40,45,-5,19,0.585977418721051,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+180,2,"17:30",1050,1050,"James Akinjo made Jumper.",40,47,-7,12,0.492828115282953,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+181,2,"17:18",1038,1038,"Giorgi Bezhanishvili made Three Point Jumper. Assisted by Andres Feliz.",43,47,-4,21,0.625408511347916,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+182,2,"16:57",1017,1017,"Jessie Govan missed Jumper.",43,47,-4,8,0.581871972915078,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+183,2,"16:49",1009,1009,"Kaleb Johnson Offensive Rebound.",43,47,-4,0,0.586636841853963,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+184,2,"16:49",1009,1009,"Kaleb Johnson made Layup.",43,49,-6,12,0.494422114585832,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+185,2,"16:37",997,997,"Ayo Dosunmu made Layup.",45,49,-4,9,0.602651536559245,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+186,2,"16:28",988,988,"Trey Mourning Turnover.",45,49,-4,13,0.586172629697998,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+187,2,"16:15",975,975,"Andres Feliz missed Jumper.",45,49,-4,7,0.623899153500888,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+188,2,"16:08",968,968,"Jessie Govan Defensive Rebound.",45,49,-4,8,0.582392674690122,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+189,2,"16:00",960,960,"Trey Mourning missed Jumper.",45,49,-4,7,0.582392674690122,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+190,2,"15:53",953,953,"Andres Feliz Defensive Rebound.",45,49,-4,2,0.605635598475355,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+191,2,"15:51",951,951,"Kipper Nichols made Layup. Assisted by Andres Feliz.",47,49,-2,12,0.692421803866679,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+192,2,"15:39",939,939,"Foul on Kipper Nichols.",47,49,-2,0,0.677744603154185,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+193,2,"15:39",939,939,"Official TV Timeout",47,49,-2,8,0.677744603154185,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+194,2,"15:31",931,931,"Foul on Kipper Nichols.",47,49,-2,3,0.677744603154185,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+195,2,"15:28",928,928,"Trey Mourning Turnover.",47,49,-2,0,0.654530359307668,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+196,2,"15:28",928,928,"Da'Monte Williams Steal.",47,49,-2,11,0.654530359307668,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+197,2,"15:17",917,917,"Ayo Dosunmu made Three Point Jumper. Assisted by Giorgi Bezhanishvili.",50,49,1,17,0.803404267851184,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+198,2,"15:00",900,900,"Matthew McClung made Layup.",50,51,-1,9,0.712907801950114,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+199,2,"14:51",891,891,"Giorgi Bezhanishvili missed Three Point Jumper.",50,51,-1,2,0.721819295325231,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+200,2,"14:49",889,889,"Trey Mourning Defensive Rebound.",50,51,-1,0,0.712022521806737,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+201,2,"14:49",889,889,"Foul on Aaron Jordan.",50,51,-1,18,0.712022521806737,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+202,2,"14:31",871,871,"Jessie Govan made Jumper.",50,53,-3,13,0.638015206005496,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+203,2,"14:18",858,858,"Foul on James Akinjo.",50,53,-3,9,0.630531037129143,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+204,2,"14:09",849,849,"Ayo Dosunmu made Three Point Jumper.",53,53,0,23,0.744063300168064,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+205,2,"13:46",826,826,"James Akinjo made Layup.",53,55,-2,16,0.682478889692802,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+206,2,"13:30",810,810,"Foul on James Akinjo.",53,55,-2,0,0.674078969763679,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+207,2,"13:30",810,810,"Ayo Dosunmu made Free Throw.",54,55,-1,0,0.715614580476721,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+208,2,"13:30",810,810,"Ayo Dosunmu made Free Throw.",55,55,0,15,0.753790269899241,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+209,2,"13:15",795,795,"Matthew McClung missed Three Point Jumper.",55,55,0,5,0.745072677559281,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+210,2,"13:10",790,790,"Matthew McClung Offensive Rebound.",55,55,0,2,0.745072677559281,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+211,2,"13:08",788,788,"Matthew McClung missed Jumper.",55,55,0,0,0.747612824602666,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+212,2,"13:08",788,788,"Andres Feliz Defensive Rebound.",55,55,0,2,0.747612824602666,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+213,2,"13:06",786,786,"Andres Feliz Turnover.",55,55,0,0,0.747612824602666,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+214,2,"13:06",786,786,"Jagan Mosely Steal.",55,55,0,7,0.747612824602666,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+215,2,"12:59",779,779,"Foul on Adonis De La Rosa.",55,55,0,0,0.749014147868168,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+216,2,"12:59",779,779,"Kaleb Johnson made Free Throw.",55,56,-1,0,0.707487728732414,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+217,2,"12:59",779,779,"Kaleb Johnson made Free Throw.",55,57,-2,9,0.662189354544557,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+218,2,"12:50",770,770,"Ayo Dosunmu made Layup.",57,57,0,21,0.749014147868168,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+219,2,"12:29",749,749,"Jessie Govan missed Jumper.",57,57,0,4,0.740138353677504,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+220,2,"12:25",745,745,"Josh LeBlanc Offensive Rebound.",57,57,0,0,0.740138353677504,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+221,2,"12:25",745,745,"Josh LeBlanc made Dunk.",57,59,-2,14,0.645831555452714,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+222,2,"12:11",731,731,"Ayo Dosunmu missed Three Point Jumper.",57,59,-2,5,0.640876900263243,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+223,2,"12:06",726,726,"Jahvon Blair Defensive Rebound.",57,59,-2,4,0.658869343368083,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+224,2,"12:02",722,722,"Jahvon Blair made Layup.",57,61,-4,8,0.554309266517097,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+225,2,"11:54",714,714,"Tevian Jones made Layup. Assisted by Andres Feliz.",59,61,-2,16,0.642624832342744,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+226,2,"11:38",698,698,"Jahvon Blair Turnover.",59,61,-2,0,0.66437509214661,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+227,2,"11:38",698,698,"Ayo Dosunmu Steal.",59,61,-2,3,0.66437509214661,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+228,2,"11:35",695,695,"Andres Feliz made Layup.",61,61,0,0,0.761008195776315,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+229,2,"11:35",695,695,"Foul on Jagan Mosely.",61,61,0,0,0.761008195776315,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+230,2,"11:35",695,695,"Official TV Timeout",61,61,0,1,0.761008195776315,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+231,2,"11:34",694,694,"Andres Feliz missed Free Throw.",61,61,0,3,0.761008195776315,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+232,2,"11:31",691,691,"Josh LeBlanc Defensive Rebound.",61,61,0,2,0.761008195776315,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+233,2,"11:29",689,689,"Jagan Mosely Turnover.",61,61,0,0,0.73555192569316,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+234,2,"11:29",689,689,"Andres Feliz Steal.",61,61,0,0,0.73555192569316,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+235,2,"11:29",689,689,"Andres Feliz made Layup.",63,61,2,0,0.813069559412854,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+236,2,"11:29",689,689,"Jagan Mosely missed Jumper.",63,61,2,0,0.813069559412854,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+237,2,"11:29",689,689,"Trey Mourning Offensive Rebound.",63,61,2,20,0.813069559412854,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+238,2,"11:09",669,669,"Trey Mourning Turnover.",63,61,2,0,0.81622017644997,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+239,2,"11:09",669,669,"Giorgi Bezhanishvili Steal.",63,61,2,15,0.81622017644997,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+240,2,"10:54",654,654,"Aaron Jordan missed Three Point Jumper.",63,61,2,5,0.819450871466808,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+241,2,"10:49",649,649,"James Akinjo Defensive Rebound.",63,61,2,13,0.815248317580505,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+242,2,"10:36",636,636,"Jamorko Pickett missed Jumper.",63,61,2,5,0.795616303170049,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+243,2,"10:31",631,631,"Jamorko Pickett Offensive Rebound.",63,61,2,1,0.795616303170049,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+244,2,"10:30",630,630,"Jamorko Pickett Turnover.",63,61,2,0,0.795616303170049,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+245,2,"10:30",630,630,"Andres Feliz Steal.",63,61,2,8,0.795616303170049,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+246,2,"10:22",622,622,"Andres Feliz missed Layup.",63,61,2,0,0.83121708187937,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+247,2,"10:22",622,622,"Josh LeBlanc Block.",63,61,2,0,0.83121708187937,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+248,2,"10:22",622,622,"Trey Mourning Defensive Rebound.",63,61,2,0,0.83121708187937,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+249,2,"10:22",622,622,"James Akinjo Turnover.",63,61,2,0,0.83121708187937,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+250,2,"10:22",622,622,"Andres Feliz Steal.",63,61,2,0,0.83121708187937,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+251,2,"10:22",622,622,"Andres Feliz made Layup.",65,61,4,0,0.890628174113311,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+252,2,"10:22",622,622,"Foul on Jamorko Pickett.",65,61,4,0,0.890628174113311,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+253,2,"10:22",622,622,"Andres Feliz made Free Throw.",66,61,5,8,0.912824614600098,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+254,2,"10:14",614,614,"Jahvon Blair made Three Point Jumper. Assisted by Matthew McClung.",66,64,2,6,0.808100572792012,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+255,2,"10:08",608,608,"Ayo Dosunmu Turnover.",66,64,2,0,0.820946729518233,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+256,2,"10:08",608,608,"Josh LeBlanc Steal.",66,64,2,11,0.820946729518233,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+257,2,"9:57",597,597,"Josh LeBlanc made Layup.",66,66,0,29,0.725258020367406,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+258,2,"9:28",568,568,"Foul on Trey Mourning.",66,66,0,0,0.749996788955611,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+259,2,"9:28",568,568,"Da'Monte Williams made Free Throw.",67,66,1,0,0.79519881021739,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+260,2,"9:28",568,568,"Da'Monte Williams made Free Throw.",68,66,2,12,0.834036564794866,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+261,2,"9:16",556,556,"Foul on Da'Monte Williams.",68,66,2,1,0.81114561995616,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+262,2,"9:15",555,555,"Jahvon Blair Turnover.",68,66,2,0,0.81114561995616,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+263,2,"9:15",555,555,"Da'Monte Williams Steal.",68,66,2,1,0.81114561995616,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+264,2,"9:14",554,554,"Foul on James Akinjo.",68,66,2,0,0.81114561995616,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+265,2,"9:14",554,554,"Da'Monte Williams missed Free Throw.",68,66,2,3,0.81114561995616,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+266,2,"9:11",551,551,"James Akinjo Defensive Rebound.",68,66,2,11,0.81114561995616,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+267,2,"9:00",540,540,"James Akinjo missed Jumper.",68,66,2,0,0.802490531207128,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+268,2,"9:00",540,540,"Josh LeBlanc Offensive Rebound.",68,66,2,0,0.802490531207128,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+269,2,"9:00",540,540,"Foul on Giorgi Bezhanishvili.",68,66,2,18,0.802490531207128,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+270,2,"8:42",522,522,"Greg Malinowski missed Three Point Jumper.",68,66,2,4,0.804608618474206,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+271,2,"8:38",518,518,"Aaron Jordan Defensive Rebound.",68,66,2,5,0.800592467755432,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+272,2,"8:33",513,513,"Kipper Nichols made Layup. Assisted by Andres Feliz.",70,66,4,3,0.87336937024358,"Illinois","Georgetown",4,4,0,0,9,"401082334",2018-11-13
+273,2,"8:30",510,510,"Georgetown  Timeout",70,66,4,16,0.87336937024358,"Illinois","Georgetown",3,4,1,0,9,"401082334",2018-11-13
+274,2,"8:14",494,494,"Josh LeBlanc Turnover.",70,66,4,11,0.884999569367076,"Illinois","Georgetown",3,4,1,0,9,"401082334",2018-11-13
+275,2,"8:03",483,483,"Foul on Giorgi Bezhanishvili.",70,66,4,0,0.881529920066988,"Illinois","Georgetown",3,4,1,0,9,"401082334",2018-11-13
+276,2,"8:03",483,483,"Giorgi Bezhanishvili Turnover.",70,66,4,11,0.881529920066988,"Illinois","Georgetown",3,4,1,0,9,"401082334",2018-11-13
+277,2,"7:52",472,472,"Matthew McClung missed Jumper.",70,66,4,7,0.890780349622298,"Illinois","Georgetown",3,4,1,0,9,"401082334",2018-11-13
+278,2,"7:45",465,465,"Josh LeBlanc Offensive Rebound.",70,66,4,0,0.884071700744016,"Illinois","Georgetown",3,4,1,0,9,"401082334",2018-11-13
+279,2,"7:45",465,465,"Josh LeBlanc made Layup.",70,68,2,10,0.81271779881567,"Illinois","Georgetown",3,4,1,0,9,"401082334",2018-11-13
+280,2,"7:35",455,455,"Da'Monte Williams made Layup.",72,68,4,19,0.888167729658263,"Illinois","Georgetown",3,4,1,0,9,"401082334",2018-11-13
+281,2,"7:16",436,436,"Jessie Govan missed Three Point Jumper.",72,68,4,8,0.899322936266433,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+282,2,"7:08",428,428,"Aaron Jordan Defensive Rebound.",72,68,4,18,0.878866596249096,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+283,2,"6:50",410,410,"Foul on Adonis De La Rosa.",72,68,4,0,0.89012670818665,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+284,2,"6:50",410,410,"Adonis De La Rosa Turnover.",72,68,4,0,0.89012670818665,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+285,2,"6:50",410,410,"Official TV Timeout",72,68,4,29,0.89012670818665,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+286,2,"6:21",381,381,"Josh LeBlanc made Layup. Assisted by James Akinjo.",72,70,2,32,0.821251805315312,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+287,2,"5:49",349,349,"Andres Feliz missed Three Point Jumper.",72,70,2,2,0.797355724598354,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+288,2,"5:47",347,347,"Kipper Nichols Offensive Rebound.",72,70,2,0,0.797355724598354,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+289,2,"5:47",347,347,"Illinois  Turnover.",72,70,2,13,0.797355724598354,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+290,2,"5:34",334,334,"Josh LeBlanc missed Jumper.",72,70,2,0,0.825002859690347,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+291,2,"5:34",334,334,"Kipper Nichols Block.",72,70,2,8,0.825002859690347,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+292,2,"5:26",326,326,"Josh LeBlanc Offensive Rebound.",72,70,2,1,0.814945505259509,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+293,2,"5:25",325,325,"Josh LeBlanc Turnover.",72,70,2,0,0.814945505259509,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+294,2,"5:25",325,325,"Aaron Jordan Steal.",72,70,2,13,0.814945505259509,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+295,2,"5:12",312,312,"Kipper Nichols missed Jumper.",72,70,2,4,0.815125907875966,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+296,2,"5:08",308,308,"Josh LeBlanc Defensive Rebound.",72,70,2,11,0.803134816224914,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+297,2,"4:57",297,297,"Greg Malinowski made Three Point Jumper. Assisted by Matthew McClung.",72,73,-1,15,0.627707009461875,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+298,2,"4:42",282,282,"Kipper Nichols Turnover.",72,73,-1,0,0.600137603102902,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+299,2,"4:42",282,282,"Matthew McClung Steal.",72,73,-1,6,0.600137603102902,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+300,2,"4:36",276,276,"Matthew McClung made Dunk.",72,75,-3,2,0.392346710430149,"Illinois","Georgetown",3,4,0,0,9,"401082334",2018-11-13
+301,2,"4:34",274,274,"Illinois  Timeout",72,75,-3,21,0.392346710430149,"Illinois","Georgetown",3,3,0,1,9,"401082334",2018-11-13
+302,2,"4:13",253,253,"Ayo Dosunmu missed Jumper.",72,75,-3,4,0.36610172944797,"Illinois","Georgetown",3,3,0,1,9,"401082334",2018-11-13
+303,2,"4:09",249,249,"Greg Malinowski Defensive Rebound.",72,75,-3,9,0.372314389750073,"Illinois","Georgetown",3,3,0,1,9,"401082334",2018-11-13
+304,2,"4:00",240,240,"Matthew McClung missed Three Point Jumper.",72,75,-3,4,0.372314389750073,"Illinois","Georgetown",3,3,0,1,9,"401082334",2018-11-13
+305,2,"3:56",236,236,"Andres Feliz Defensive Rebound.",72,75,-3,3,0.371438444409009,"Illinois","Georgetown",3,3,0,1,9,"401082334",2018-11-13
+306,2,"3:53",233,233,"Ayo Dosunmu made Layup. Assisted by Andres Feliz.",74,75,-1,15,0.570907164158979,"Illinois","Georgetown",3,3,0,1,9,"401082334",2018-11-13
+307,2,"3:38",218,218,"Foul on Aaron Jordan.",74,75,-1,0,0.561180391630733,"Illinois","Georgetown",3,3,0,1,9,"401082334",2018-11-13
+308,2,"3:38",218,218,"Official TV Timeout",74,75,-1,0,0.561180391630733,"Illinois","Georgetown",3,3,0,1,9,"401082334",2018-11-13
+309,2,"3:38",218,218,"James Akinjo made Free Throw.",74,76,-2,0,0.451813967408883,"Illinois","Georgetown",3,3,0,1,9,"401082334",2018-11-13
+310,2,"3:38",218,218,"James Akinjo made Free Throw.",74,77,-3,13,0.346911630923019,"Illinois","Georgetown",3,3,0,1,9,"401082334",2018-11-13
+311,2,"3:25",205,205,"Andres Feliz missed Jumper.",74,77,-3,5,0.375571036708425,"Illinois","Georgetown",3,3,0,0,9,"401082334",2018-11-13
+312,2,"3:20",200,200,"Greg Malinowski Defensive Rebound.",74,77,-3,9,0.375571036708425,"Illinois","Georgetown",3,3,0,0,9,"401082334",2018-11-13
+313,2,"3:11",191,191,"Josh LeBlanc made Dunk. Assisted by Matthew McClung.",74,79,-5,19,0.139378573102367,"Illinois","Georgetown",3,3,0,0,9,"401082334",2018-11-13
+314,2,"2:52",172,172,"Kipper Nichols made Layup.",76,79,-3,29,0.317354261293507,"Illinois","Georgetown",3,3,0,0,9,"401082334",2018-11-13
+315,2,"2:23",143,143,"Matthew McClung Turnover.",76,79,-3,0,0.296326637790037,"Illinois","Georgetown",3,3,0,0,9,"401082334",2018-11-13
+316,2,"2:23",143,143,"Da'Monte Williams Steal.",76,79,-3,0,0.296326637790037,"Illinois","Georgetown",3,3,0,0,9,"401082334",2018-11-13
+317,2,"2:23",143,143,"Da'Monte Williams Steal.",76,79,-3,7,0.296326637790037,"Illinois","Georgetown",3,3,0,0,9,"401082334",2018-11-13
+318,2,"2:16",136,136,"Da'Monte Williams made Layup.",78,79,-1,11,0.531461701118368,"Illinois","Georgetown",3,3,0,0,9,"401082334",2018-11-13
+319,2,"2:05",125,125,"Foul on Kipper Nichols.",78,79,-1,0,0.489926897904927,"Illinois","Georgetown",3,3,0,0,9,"401082334",2018-11-13
+320,2,"2:05",125,125,"James Akinjo made Free Throw.",78,80,-2,0,0.352787746783004,"Illinois","Georgetown",3,3,0,0,9,"401082334",2018-11-13
+321,2,"2:05",125,125,"James Akinjo made Free Throw.",78,81,-3,11,0.236255844893773,"Illinois","Georgetown",3,3,0,0,9,"401082334",2018-11-13
+322,2,"1:54",114,114,"Foul on Jessie Govan.",78,81,-3,0,0.239138281440802,"Illinois","Georgetown",3,3,0,0,9,"401082334",2018-11-13
+323,2,"1:54",114,114,"Ayo Dosunmu made Free Throw.",79,81,-2,0,0.364340879562128,"Illinois","Georgetown",3,3,0,0,9,"401082334",2018-11-13
+324,2,"1:54",114,114,"Ayo Dosunmu made Free Throw.",80,81,-1,17,0.511064342372173,"Illinois","Georgetown",3,3,0,0,9,"401082334",2018-11-13
+325,2,"1:37",97,97,"Josh LeBlanc missed Jumper.",80,81,-1,0,0.453599435314465,"Illinois","Georgetown",3,3,1,0,9,"401082334",2018-11-13
+326,2,"1:37",97,97,"Da'Monte Williams Block.",80,81,-1,0,0.453599435314465,"Illinois","Georgetown",3,3,1,0,9,"401082334",2018-11-13
+327,2,"1:37",97,97,"Georgetown Offensive Rebound.",80,81,-1,0,0.453599435314465,"Illinois","Georgetown",3,3,1,0,9,"401082334",2018-11-13
+328,2,"1:37",97,97,"Georgetown  Timeout",80,81,-1,0,0.453599435314465,"Illinois","Georgetown",2,3,1,0,9,"401082334",2018-11-13
+329,2,"1:37",97,97,"Greg Malinowski Turnover.",80,81,-1,0,0.453599435314465,"Illinois","Georgetown",2,3,1,0,9,"401082334",2018-11-13
+330,2,"1:37",97,97,"Ayo Dosunmu Steal.",80,81,-1,6,0.453599435314465,"Illinois","Georgetown",2,3,1,0,9,"401082334",2018-11-13
+331,2,"1:31",91,91,"Kipper Nichols missed Layup.",80,81,-1,1,0.453599435314465,"Illinois","Georgetown",2,3,1,0,9,"401082334",2018-11-13
+332,2,"1:30",90,90,"Illinois Offensive Rebound.",80,81,-1,22,0.453599435314465,"Illinois","Georgetown",2,3,1,0,9,"401082334",2018-11-13
+333,2,"1:08",68,68,"Kipper Nichols missed Three Point Jumper.",80,81,-1,9,0.368167640734589,"Illinois","Georgetown",2,3,1,0,9,"401082334",2018-11-13
+334,2,"0:59",59,59,"Jamorko Pickett Defensive Rebound.",80,81,-1,20,0.519520260034988,"Illinois","Georgetown",2,3,1,0,9,"401082334",2018-11-13
+335,2,"0:39",39,39,"James Akinjo made Jumper.",80,83,-3,0,0.0732948855219988,"Illinois","Georgetown",2,3,1,0,9,"401082334",2018-11-13
+336,2,"0:39",39,39,"Foul on Kipper Nichols.",80,83,-3,0,0.0732948855219988,"Illinois","Georgetown",2,3,1,0,9,"401082334",2018-11-13
+337,2,"0:39",39,39,"James Akinjo made Free Throw.",80,84,-4,9,0.029481023483287,"Illinois","Georgetown",2,3,1,0,9,"401082334",2018-11-13
+338,2,"0:30",30,30,"Illinois  Timeout",80,84,-4,6,0.0203698510512854,"Illinois","Georgetown",2,2,0,1,9,"401082334",2018-11-13
+339,2,"0:24",24,24,"Andres Feliz missed Layup.",80,84,-4,0,0.0354023467208754,"Illinois","Georgetown",2,2,0,1,9,"401082334",2018-11-13
+340,2,"0:24",24,24,"Jamorko Pickett Block.",80,84,-4,3,0.0354023467208754,"Illinois","Georgetown",2,2,0,1,9,"401082334",2018-11-13
+341,2,"0:21",21,21,"Giorgi Bezhanishvili Offensive Rebound.",80,84,-4,1,0.00213757967685426,"Illinois","Georgetown",2,2,0,1,9,"401082334",2018-11-13
+342,2,"0:20",20,20,"Giorgi Bezhanishvili missed Jumper.",80,84,-4,0,0.00154059913769961,"Illinois","Georgetown",2,2,0,1,9,"401082334",2018-11-13
+343,2,"0:20",20,20,"Jamorko Pickett Block.",80,84,-4,0,0.00154059913769961,"Illinois","Georgetown",2,2,0,1,9,"401082334",2018-11-13
+344,2,"0:20",20,20,"Jessie Govan Defensive Rebound.",80,84,-4,0,0.00154059913769961,"Illinois","Georgetown",2,2,0,1,9,"401082334",2018-11-13
+345,2,"0:20",20,20,"Foul on Andres Feliz.",80,84,-4,0,0.00154059913769961,"Illinois","Georgetown",2,2,0,1,9,"401082334",2018-11-13
+346,2,"0:20",20,20,"Jessie Govan made Free Throw.",80,85,-5,0,0.000294671515670738,"Illinois","Georgetown",2,2,0,1,9,"401082334",2018-11-13
+347,2,"0:20",20,20,"Jessie Govan made Free Throw.",80,86,-6,7,5.63052130647615e-05,"Illinois","Georgetown",2,2,0,1,9,"401082334",2018-11-13
+348,2,"0:13",13,13,"Ayo Dosunmu Turnover.",80,86,-6,0,0.000547133320941671,"Illinois","Georgetown",2,2,0,1,9,"401082334",2018-11-13
+349,2,"0:13",13,13,"Foul on Alan Griffin.",80,86,-6,0,0.000547133320941671,"Illinois","Georgetown",2,2,0,1,9,"401082334",2018-11-13
+350,2,"0:13",13,13,"Jagan Mosely made Free Throw.",80,87,-7,0,0.000131398561148369,"Illinois","Georgetown",2,2,0,1,9,"401082334",2018-11-13
+351,2,"0:13",13,13,"Jagan Mosely made Free Throw.",80,88,-8,4,3.15464730065801e-05,"Illinois","Georgetown",2,2,0,1,9,"401082334",2018-11-13
+352,2,"0:09",9,9,"Aaron Jordan missed Three Point Jumper.",80,88,-8,7,3.95014458202226e-06,"Illinois","Georgetown",2,2,0,1,9,"401082334",2018-11-13
+353,2,"0:02",2,2,"Jagan Mosely Defensive Rebound.",80,88,-8,2,1.63319950408352e-06,"Illinois","Georgetown",2,2,0,1,9,"401082334",2018-11-13
+354,2,"0:00",0,0,"End of 2nd half",80,88,-8,0,6.05956406780465e-68,"Illinois","Georgetown",2,2,0,1,9,"401082334",2018-11-13
+355,2,"0:00",0,0,"End of Game",80,88,-8,0,6.05956406780465e-68,"Illinois","Georgetown",2,2,0,1,9,"401082334",2018-11-13

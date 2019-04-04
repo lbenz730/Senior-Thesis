@@ -1,0 +1,346 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.5,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+2,1,"19:40",2380,2380,"Dakarai Henderson missed Layup.",0,0,0,0.511793930844357,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+3,1,"19:40",2380,2380,"Texas A&M-CC Defensive Rebound.",0,0,0,0.511793930844357,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+4,1,"19:13",2353,2353,"Kareem South missed Jumper.",0,0,0,0.529703192727122,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+5,1,"19:13",2353,2353,"Ehab Amin Offensive Rebound.",0,0,0,0.529703192727122,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+6,1,"19:06",2346,2346,"Joseph Kilgore missed Three Point Jumper.",0,0,0,0.511940955014241,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+7,1,"19:06",2346,2346,"Sam Houston St Defensive Rebound.",0,0,0,0.511940955014241,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+8,1,"19:05",2345,2345,"Foul on Perry Francois.",0,0,0,0.511940955014241,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+9,1,"18:49",2329,2329,"John Dewey III made Three Point Jumper. Assisted by Torry Butler.",3,0,3,0.610268468474332,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+10,1,"18:22",2302,2302,"Jake Kocher missed Layup.",3,0,3,0.582904419081286,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+11,1,"18:22",2302,2302,"Aurimas Majauskas Defensive Rebound.",3,0,3,0.582904419081286,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+12,1,"18:14",2294,2294,"John Dewey III Turnover.",3,0,3,0.593066696194224,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+13,1,"17:53",2273,2273,"Jake Kocher made Layup. Assisted by Ehab Amin.",3,2,1,0.546557030718172,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+14,1,"17:22",2242,2242,"Torry Butler Turnover.",3,2,1,0.552103519493009,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+15,1,"17:20",2240,2240,"Ehab Amin Steal.",3,2,1,0.552103519493009,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+16,1,"17:16",2236,2236,"Jake Kocher made Layup. Assisted by Kareem South.",3,4,-1,0.489635836073777,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+17,1,"16:57",2217,2217,"John Dewey III made Three Point Jumper. Assisted by Paul Baxter.",6,4,2,0.592010224957847,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+18,1,"16:35",2195,2195,"Joseph Kilgore made Three Point Jumper. Assisted by Jake Kocher.",6,7,-1,0.499600529344708,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+19,1,"16:17",2177,2177,"Dakarai Henderson made Three Point Jumper. Assisted by Aurimas Majauskas.",9,7,2,0.564265706692867,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+20,1,"16:04",2164,2164,"Foul on Torry Butler.",9,7,2,0.570266095748984,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+21,1,"15:49",2149,2149,"Joseph Kilgore missed Jumper.",9,7,2,0.573417408854822,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+22,1,"15:49",2149,2149,"Albert Almanza Defensive Rebound.",9,7,2,0.573417408854822,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+23,1,"15:38",2138,2138,"Aurimas Majauskas made Layup. Assisted by Paul Baxter.",11,7,4,0.630297985439853,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+24,1,"15:15",2115,2115,"Joseph Kilgore missed Three Point Jumper.",11,7,4,0.622099551208842,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+25,1,"15:15",2115,2115,"John Dewey III Defensive Rebound.",11,7,4,0.622099551208842,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+26,1,"15:08",2108,2108,"John Dewey III missed Layup.",11,7,4,0.620555341633557,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+27,1,"15:08",2108,2108,"Elijah Schmidt Defensive Rebound.",11,7,4,0.620555341633557,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+28,1,"15:01",2101,2101,"Ehab Amin Turnover.",11,7,4,0.620555341633557,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+29,1,"15:00",2100,2100,"Albert Almanza Steal.",11,7,4,0.620555341633557,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+30,1,"14:59",2099,2099,"Albert Almanza Turnover.",11,7,4,0.633457865416939,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+31,1,"14:58",2098,2098,"Jake Kocher Steal.",11,7,4,0.633457865416939,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+32,1,"14:50",2090,2090,"Foul on Paul Baxter.",11,7,4,0.633457865416939,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+33,1,"14:50",2090,2090,"Official TV Timeout",11,7,4,0.633457865416939,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+34,1,"14:29",2069,2069,"Foul on Dakarai Henderson.",11,7,4,0.622154614911151,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+35,1,"14:12",2052,2052,"Foul on Albert Almanza.",11,7,4,0.616341626959715,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+36,1,"13:48",2028,2028,"Foul on John Dewey III.",11,7,4,0.634050099415106,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+37,1,"13:40",2020,2020,"Kyle Brown Turnover.",11,7,4,0.634050099415106,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+38,1,"13:39",2019,2019,"John Dewey III Steal.",11,7,4,0.631859380147202,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+39,1,"13:35",2015,2015,"Foul on Kareem South.",11,7,4,0.631859380147202,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+40,1,"13:35",2015,2015,"Dakarai Henderson made Free Throw.",12,7,5,0.658318011571019,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+41,1,"13:35",2015,2015,"Dakarai Henderson made Free Throw.",13,7,6,0.683826572493795,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+42,1,"13:17",1997,1997,"Joseph Kilgore made Layup. Assisted by David Bloom.",13,9,4,0.638281438301402,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+43,1,"12:59",1979,1979,"Aurimas Majauskas made Three Point Jumper. Assisted by John Dewey III.",16,9,7,0.719851204951151,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+44,1,"12:33",1953,1953,"Joseph Kilgore missed Jumper.",16,9,7,0.724991969000807,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+45,1,"12:33",1953,1953,"Ehab Amin Offensive Rebound.",16,9,7,0.724991969000807,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+46,1,"12:26",1946,1946,"Ehab Amin missed Three Point Jumper.",16,9,7,0.716742440486231,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+47,1,"12:26",1946,1946,"Sam Houston St Defensive Rebound.",16,9,7,0.716742440486231,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+48,1,"12:22",1942,1942,"Foul on Perry Francois.",16,9,7,0.716742440486231,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+49,1,"12:02",1922,1922,"Albert Almanza Turnover.",16,9,7,0.706404813319821,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+50,1,"11:48",1908,1908,"Alex Holcombe Turnover.",16,9,7,0.701539623762661,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+51,1,"11:48",1908,1908,"Foul on Alex Holcombe.",16,9,7,0.701539623762661,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+52,1,"11:40",1900,1900,"John Dewey III made Layup.",18,9,9,0.748122628626619,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+53,1,"11:18",1878,1878,"Foul on Christopher Galbreath Jr..",18,9,9,0.761150944160569,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+54,1,"11:18",1878,1878,"Alex Holcombe missed Free Throw.",18,9,9,0.761150944160569,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+55,1,"11:18",1878,1878,"Texas A&M-CC Deadball Team Rebound.",18,9,9,0.761150944160569,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+56,1,"11:18",1878,1878,"Alex Holcombe missed Free Throw.",18,9,9,0.761150944160569,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+57,1,"11:18",1878,1878,"Jamal Williams Defensive Rebound.",18,9,9,0.761150944160569,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+58,1,"11:07",1867,1867,"John Dewey III Turnover.",18,9,9,0.791553593607383,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+59,1,"10:59",1859,1859,"Joseph Kilgore made Jumper.",18,11,7,0.726912234819176,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+60,1,"10:33",1833,1833,"Jovante' Spivey missed Jumper.",18,11,7,0.724112227357525,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+61,1,"10:33",1833,1833,"Christopher Galbreath Jr. Offensive Rebound.",18,11,7,0.724112227357525,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+62,1,"10:26",1826,1826,"Christopher Galbreath Jr. made Layup.",20,11,9,0.770774892179954,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+63,1,"10:06",1806,1806,"Foul on Albert Almanza.",20,11,9,0.766100912585734,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+64,1,"10:06",1806,1806,"Colin Hale made Free Throw.",20,12,8,0.742279366511525,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+65,1,"10:06",1806,1806,"Colin Hale missed Free Throw.",20,12,8,0.742279366511525,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+66,1,"10:06",1806,1806,"Christopher Galbreath Jr. Defensive Rebound.",20,12,8,0.742279366511525,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+67,1,"9:56",1796,1796,"Foul on Colin Hale.",20,12,8,0.743510863731494,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+68,1,"9:55",1795,1795,"Christopher Galbreath Jr. made Layup. Assisted by John Dewey III.",22,12,10,0.789918149463476,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+69,1,"9:46",1786,1786,"Colin Hale missed Three Point Jumper.",22,12,10,0.796803069265524,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+70,1,"9:46",1786,1786,"Kareem South Offensive Rebound.",22,12,10,0.796803069265524,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+71,1,"9:39",1779,1779,"Ehab Amin missed Three Point Jumper.",22,12,10,0.770884528218075,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+72,1,"9:39",1779,1779,"Christopher Galbreath Jr. Defensive Rebound.",22,12,10,0.770884528218075,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+73,1,"9:19",1759,1759,"Christopher Galbreath Jr. made Jumper. Assisted by Jovante' Spivey.",24,12,12,0.833411499251282,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+74,1,"9:11",1751,1751,"Texas A&M-CC  Timeout",24,12,12,0.833411499251282,"Sam Houston State","Texas A&M-CC",3,4,1,0,NA,400922173,2017-01-21
+75,1,"8:57",1737,1737,"Kareem South missed Jumper.",24,12,12,0.844383167724041,"Sam Houston State","Texas A&M-CC",3,4,1,0,NA,400922173,2017-01-21
+76,1,"8:57",1737,1737,"Jamal Williams Defensive Rebound.",24,12,12,0.844383167724041,"Sam Houston State","Texas A&M-CC",3,4,1,0,NA,400922173,2017-01-21
+77,1,"8:53",1733,1733,"Jamal Williams Turnover.",24,12,12,0.844383167724041,"Sam Houston State","Texas A&M-CC",3,4,1,0,NA,400922173,2017-01-21
+78,1,"8:53",1733,1733,"Jake Kocher Steal.",24,12,12,0.844383167724041,"Sam Houston State","Texas A&M-CC",3,4,1,0,NA,400922173,2017-01-21
+79,1,"8:51",1731,1731,"Jake Kocher made Layup.",24,14,10,0.804953670638575,"Sam Houston State","Texas A&M-CC",3,4,1,0,NA,400922173,2017-01-21
+80,1,"8:32",1712,1712,"Foul on Kareem South.",24,14,10,0.800368830441376,"Sam Houston State","Texas A&M-CC",3,4,1,0,NA,400922173,2017-01-21
+81,1,"8:30",1710,1710,"Christopher Galbreath Jr. Turnover.",24,14,10,0.800368830441376,"Sam Houston State","Texas A&M-CC",3,4,1,0,NA,400922173,2017-01-21
+82,1,"8:23",1703,1703,"Ehab Amin missed Layup.",24,14,10,0.782965302795038,"Sam Houston State","Texas A&M-CC",3,4,1,0,NA,400922173,2017-01-21
+83,1,"8:23",1703,1703,"Christopher Galbreath Jr. Block.",24,14,10,0.782965302795038,"Sam Houston State","Texas A&M-CC",3,4,1,0,NA,400922173,2017-01-21
+84,1,"8:22",1702,1702,"Jovante' Spivey Defensive Rebound.",24,14,10,0.782965302795038,"Sam Houston State","Texas A&M-CC",3,4,1,0,NA,400922173,2017-01-21
+85,1,"8:18",1698,1698,"Josh Delaney made Layup. Assisted by Jovante' Spivey.",26,14,12,0.859303201545834,"Sam Houston State","Texas A&M-CC",3,4,1,0,NA,400922173,2017-01-21
+86,1,"8:03",1683,1683,"Ehab Amin made Jumper.",26,16,10,0.817219728234581,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+87,1,"7:35",1655,1655,"Christopher Galbreath Jr. missed Jumper.",26,16,10,0.803583901241078,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+88,1,"7:35",1655,1655,"Ehab Amin Defensive Rebound.",26,16,10,0.803583901241078,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+89,1,"7:20",1640,1640,"Foul on Josh Delaney.",26,16,10,0.813595009830956,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+90,1,"7:20",1640,1640,"Official TV Timeout",26,16,10,0.813595009830956,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+91,1,"7:20",1640,1640,"Elijah Schmidt missed Free Throw.",26,16,10,0.813595009830956,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+92,1,"7:20",1640,1640,"Christopher Galbreath Jr. Defensive Rebound.",26,16,10,0.813595009830956,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+93,1,"7:01",1621,1621,"Josh Delaney made Three Point Jumper. Assisted by Jovante' Spivey.",29,16,13,0.865793024488893,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+94,1,"6:48",1608,1608,"Foul on Paul Baxter.",29,16,13,0.848229197271611,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+95,1,"6:48",1608,1608,"Ehab Amin made Free Throw.",29,17,12,0.830533335663235,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+96,1,"6:48",1608,1608,"Ehab Amin missed Free Throw.",29,17,12,0.830533335663235,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+97,1,"6:48",1608,1608,"Jamal Williams Defensive Rebound.",29,17,12,0.830533335663235,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+98,1,"6:30",1590,1590,"John Dewey III missed Three Point Jumper.",29,17,12,0.850991996850383,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+99,1,"6:30",1590,1590,"Elijah Schmidt Defensive Rebound.",29,17,12,0.850991996850383,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+100,1,"6:22",1582,1582,"Ehab Amin missed Three Point Jumper.",29,17,12,0.834371879962335,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+101,1,"6:22",1582,1582,"Kyle Brown Offensive Rebound.",29,17,12,0.834371879962335,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+102,1,"6:11",1571,1571,"Jake Kocher missed Layup.",29,17,12,0.873420548413121,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+103,1,"6:11",1571,1571,"Jamal Williams Block.",29,17,12,0.873420548413121,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+104,1,"6:10",1570,1570,"Jamal Williams Defensive Rebound.",29,17,12,0.873420548413121,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+105,1,"6:05",1565,1565,"Foul on Kyle Brown.",29,17,12,0.846145539518184,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+106,1,"6:05",1565,1565,"Dakarai Henderson made Free Throw.",30,17,13,0.863779247845269,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+107,1,"6:05",1565,1565,"Dakarai Henderson missed Free Throw.",30,17,13,0.863779247845269,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+108,1,"6:05",1565,1565,"Elijah Schmidt Defensive Rebound.",30,17,13,0.863779247845269,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+109,1,"5:59",1559,1559,"Joseph Kilgore Turnover.",30,17,13,0.868296619878731,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+110,1,"5:39",1539,1539,"Josh Delaney made Layup.",32,17,15,0.896178589367348,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+111,1,"5:19",1519,1519,"Joseph Kilgore missed Jumper.",32,17,15,0.917473211078476,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+112,1,"5:19",1519,1519,"John Dewey III Defensive Rebound.",32,17,15,0.917473211078476,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+113,1,"5:16",1516,1516,"Foul on Jake Kocher.",32,17,15,0.917473211078476,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+114,1,"5:16",1516,1516,"John Dewey III made Free Throw.",33,17,16,0.928306910927451,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+115,1,"5:16",1516,1516,"John Dewey III made Free Throw.",34,17,17,0.937814811892256,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+116,1,"5:04",1504,1504,"Elijah Schmidt made Layup. Assisted by Joseph Kilgore.",34,19,15,0.898807171217153,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+117,1,"4:38",1478,1478,"Aurimas Majauskas missed Jumper.",34,19,15,0.910746897788519,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+118,1,"4:38",1478,1478,"Jamal Williams Offensive Rebound.",34,19,15,0.910746897788519,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+119,1,"4:34",1474,1474,"Josh Delaney Turnover.",34,19,15,0.910746897788519,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+120,1,"4:22",1462,1462,"Joseph Kilgore Turnover.",34,19,15,0.901032191734682,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+121,1,"4:21",1461,1461,"Aurimas Majauskas Steal.",34,19,15,0.901032191734682,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+122,1,"4:19",1459,1459,"John Dewey III made Layup. Assisted by Josh Delaney.",36,19,17,0.924566182381733,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+123,1,"3:53",1433,1433,"Jake Kocher missed Three Point Jumper.",36,19,17,0.933595984454529,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+124,1,"3:53",1433,1433,"John Dewey III Defensive Rebound.",36,19,17,0.933595984454529,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+125,1,"3:40",1420,1420,"Josh Delaney Turnover.",36,19,17,0.923018482333717,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+126,1,"3:40",1420,1420,"Elijah Schmidt Steal.",36,19,17,0.923018482333717,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+127,1,"3:33",1413,1413,"Jake Kocher missed Layup.",36,19,17,0.935769846528389,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+128,1,"3:33",1413,1413,"Jamal Williams Block.",36,19,17,0.935769846528389,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+129,1,"3:32",1412,1412,"Aurimas Majauskas Defensive Rebound.",36,19,17,0.935769846528389,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+130,1,"3:25",1405,1405,"John Dewey III made Jumper. Assisted by Jamal Williams.",38,19,19,0.955062281488546,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+131,1,"2:50",1370,1370,"Joseph Kilgore made Three Point Jumper.",38,22,16,0.90911421791187,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+132,1,"2:29",1349,1349,"Foul on Joseph Kilgore.",38,22,16,0.928499581655311,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+133,1,"2:29",1349,1349,"Official TV Timeout",38,22,16,0.928499581655311,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+134,1,"2:29",1349,1349,"Dakarai Henderson made Free Throw.",39,22,17,0.938301029866554,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+135,1,"2:29",1349,1349,"Dakarai Henderson made Free Throw.",40,22,18,0.946835804564358,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+136,1,"2:11",1331,1331,"Joseph Kilgore made Three Point Jumper. Assisted by Ehab Amin.",40,25,15,0.911743204117747,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+137,1,"2:09",1329,1329,"Foul on Aurimas Majauskas.",40,25,15,0.917843841601331,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+138,1,"2:09",1329,1329,"Alex Holcombe made Free Throw.",40,26,14,0.905149676109043,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+139,1,"2:09",1329,1329,"Alex Holcombe made Free Throw.",40,27,13,0.890727613836176,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+140,1,"1:47",1307,1307,"Dakarai Henderson missed Jumper.",40,27,13,0.880506128442719,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+141,1,"1:47",1307,1307,"Aurimas Majauskas Offensive Rebound.",40,27,13,0.880506128442719,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+142,1,"1:44",1304,1304,"Aurimas Majauskas made Layup.",42,27,15,0.90816764855308,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+143,1,"1:15",1275,1275,"Kareem South missed Three Point Jumper.",42,27,15,0.903083996582945,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+144,1,"1:15",1275,1275,"John Dewey III Defensive Rebound.",42,27,15,0.903083996582945,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+145,1,"1:09",1269,1269,"John Dewey III made Layup.",44,27,17,0.943088687024713,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+146,1,"0:56",1256,1256,"Jake Kocher Turnover.",44,27,17,0.932937289996159,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+147,1,"0:55",1255,1255,"Jovante' Spivey Steal.",44,27,17,0.932937289996159,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+148,1,"0:52",1252,1252,"Foul on Ehab Amin.",44,27,17,0.932937289996159,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+149,1,"0:52",1252,1252,"Jovante' Spivey made Free Throw.",45,27,18,0.941817644103666,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+150,1,"0:52",1252,1252,"Jovante' Spivey missed Free Throw.",45,27,18,0.941817644103666,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+151,1,"0:52",1252,1252,"Alex Holcombe Defensive Rebound.",45,27,18,0.941817644103666,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+152,1,"0:24",1224,1224,"Colin Hale Turnover.",45,27,18,0.957637417954707,"Sam Houston State","Texas A&M-CC",3,4,0,1,NA,400922173,2017-01-21
+153,1,"0:24",1224,1224,"Foul on Colin Hale.",45,27,18,0.957637417954707,"Sam Houston State","Texas A&M-CC",3,4,0,1,NA,400922173,2017-01-21
+154,1,"0:24",1224,1224,"Sam Houston St  Timeout",45,27,18,0.957637417954707,"Sam Houston State","Texas A&M-CC",3,3,0,1,NA,400922173,2017-01-21
+155,1,"0:08",1208,1208,"Dakarai Henderson missed Three Point Jumper.",45,27,18,0.948631234460828,"Sam Houston State","Texas A&M-CC",3,3,0,1,NA,400922173,2017-01-21
+156,1,"0:08",1208,1208,"Sam Houston St Offensive Rebound.",45,27,18,0.948631234460828,"Sam Houston State","Texas A&M-CC",3,3,0,1,NA,400922173,2017-01-21
+157,1,"0:01",1201,1201,"Jovante' Spivey Turnover.",45,27,18,0.948631234460828,"Sam Houston State","Texas A&M-CC",3,3,0,1,NA,400922173,2017-01-21
+158,1,"0:00",1200,1200,"Kareem South Steal.",45,27,18,0.948631234460828,"Sam Houston State","Texas A&M-CC",3,3,0,1,NA,400922173,2017-01-21
+159,1,"0:00",1200,1200,"End of 1st half",45,27,18,0.948631234460828,"Sam Houston State","Texas A&M-CC",3,3,0,1,NA,400922173,2017-01-21
+160,2,"20:00",1200,1200,"PLAY",45,27,18,0.948631234460828,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+161,2,"19:43",1183,1183,"Aurimas Majauskas made Layup.",47,27,20,0.966340713172951,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+162,2,"19:16",1156,1156,"Joseph Kilgore missed Three Point Jumper.",47,27,20,0.964797446589389,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+163,2,"19:16",1156,1156,"Aurimas Majauskas Defensive Rebound.",47,27,20,0.964797446589389,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+164,2,"19:09",1149,1149,"John Dewey III Turnover.",47,27,20,0.971095970796484,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+165,2,"18:50",1130,1130,"Joseph Kilgore Turnover.",47,27,20,0.965440322313512,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+166,2,"18:41",1121,1121,"Dakarai Henderson missed Jumper.",47,27,20,0.977129966181223,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+167,2,"18:41",1121,1121,"Ehab Amin Defensive Rebound.",47,27,20,0.977129966181223,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+168,2,"18:31",1111,1111,"Jake Kocher made Layup.",47,29,18,0.960955849889251,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+169,2,"18:07",1087,1087,"Dakarai Henderson missed Three Point Jumper.",47,29,18,0.961502482351593,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+170,2,"18:07",1087,1087,"Sam Houston St Offensive Rebound.",47,29,18,0.961502482351593,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+171,2,"17:53",1073,1073,"John Dewey III Turnover.",47,29,18,0.958637801755954,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+172,2,"17:36",1056,1056,"Perry Francois Turnover.",47,29,18,0.965613646039733,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+173,2,"17:35",1055,1055,"John Dewey III Steal.",47,29,18,0.965613646039733,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+174,2,"17:31",1051,1051,"Torry Butler missed Layup.",47,29,18,0.965613646039733,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+175,2,"17:31",1051,1051,"Torry Butler Offensive Rebound.",47,29,18,0.965613646039733,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+176,2,"17:30",1050,1050,"Foul on Jake Kocher.",47,29,18,0.965613646039733,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+177,2,"17:23",1043,1043,"Foul on Jake Kocher.",47,29,18,0.96370227724872,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+178,2,"17:13",1033,1033,"Foul on Ehab Amin.",47,29,18,0.957552885565404,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+179,2,"17:02",1022,1022,"Dakarai Henderson missed Three Point Jumper.",47,29,18,0.965155254919309,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+180,2,"17:02",1022,1022,"Elijah Schmidt Defensive Rebound.",47,29,18,0.965155254919309,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+181,2,"16:45",1005,1005,"Colin Hale missed Three Point Jumper.",47,29,18,0.966098015862152,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+182,2,"16:45",1005,1005,"Torry Butler Defensive Rebound.",47,29,18,0.966098015862152,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+183,2,"16:30",990,990,"Aurimas Majauskas missed Jumper.",47,29,18,0.961267540552149,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+184,2,"16:30",990,990,"Texas A&M-CC Defensive Rebound.",47,29,18,0.961267540552149,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+185,2,"16:27",987,987,"Foul on Torry Butler.",47,29,18,0.976584887398396,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+186,2,"16:07",967,967,"Elijah Schmidt missed Three Point Jumper.",47,29,18,0.966899986887114,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+187,2,"16:07",967,967,"Torry Butler Defensive Rebound.",47,29,18,0.966899986887114,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+188,2,"16:00",960,960,"Aurimas Majauskas made Layup. Assisted by John Dewey III.",49,29,20,0.97692411493742,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+189,2,"15:48",948,948,"Foul on Paul Baxter.",49,29,20,0.98133328726834,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+190,2,"15:48",948,948,"Official TV Timeout",49,29,20,0.98133328726834,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+191,2,"15:27",927,927,"Jake Kocher missed Jumper.",49,29,20,0.978821403885178,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+192,2,"15:27",927,927,"Torry Butler Defensive Rebound.",49,29,20,0.978821403885178,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+193,2,"15:04",904,904,"Paul Baxter missed Jumper.",49,29,20,0.979816129555177,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+194,2,"15:04",904,904,"Aurimas Majauskas Offensive Rebound.",49,29,20,0.979816129555177,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+195,2,"15:01",901,901,"Aurimas Majauskas made Layup.",51,29,22,0.986144528003803,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+196,2,"15:01",901,901,"Foul on Ehab Amin.",51,29,22,0.986144528003803,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+197,2,"15:01",901,901,"Aurimas Majauskas made Free Throw.",52,29,23,0.988529539534671,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+198,2,"14:32",872,872,"Ehab Amin missed Three Point Jumper.",52,29,23,0.989058140438168,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+199,2,"14:32",872,872,"Paul Baxter Defensive Rebound.",52,29,23,0.989058140438168,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+200,2,"14:29",869,869,"Foul on Elijah Schmidt.",52,29,23,0.988005612104437,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+201,2,"14:14",854,854,"Torry Butler Turnover.",52,29,23,0.99216236958769,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+202,2,"14:13",853,853,"Colin Hale Steal.",52,29,23,0.99216236958769,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+203,2,"14:10",850,850,"Joseph Kilgore made Layup.",52,31,21,0.988234025535845,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+204,2,"13:58",838,838,"Paul Baxter Turnover.",52,31,21,0.987541977761781,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+205,2,"13:58",838,838,"Foul on Paul Baxter.",52,31,21,0.987541977761781,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+206,2,"13:28",808,808,"Joseph Kilgore missed Jumper.",52,31,21,0.987686781181675,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+207,2,"13:28",808,808,"Ehab Amin Offensive Rebound.",52,31,21,0.987686781181675,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+208,2,"13:25",805,805,"Ehab Amin made Layup.",52,33,19,0.981624336547202,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+209,2,"13:24",804,804,"Foul on Christopher Galbreath Jr..",52,33,19,0.981624336547202,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+210,2,"13:24",804,804,"Ehab Amin missed Free Throw.",52,33,19,0.981624336547202,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+211,2,"13:24",804,804,"Albert Almanza Defensive Rebound.",52,33,19,0.981624336547202,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+212,2,"13:06",786,786,"Albert Almanza made Three Point Jumper. Assisted by John Dewey III.",55,33,22,0.98984777229558,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+213,2,"12:38",758,758,"Joseph Kilgore made Layup.",55,35,20,0.987698714860325,"Sam Houston State","Texas A&M-CC",4,4,0,0,NA,400922173,2017-01-21
+214,2,"12:34",754,754,"Texas A&M-CC  Timeout",55,35,20,0.987698714860325,"Sam Houston State","Texas A&M-CC",3,4,1,0,NA,400922173,2017-01-21
+215,2,"12:19",739,739,"Foul on Colin Hale.",55,35,20,0.987283505180859,"Sam Houston State","Texas A&M-CC",3,4,1,0,NA,400922173,2017-01-21
+216,2,"12:19",739,739,"Jovante' Spivey made Free Throw.",56,35,21,0.989694135740287,"Sam Houston State","Texas A&M-CC",3,4,1,0,NA,400922173,2017-01-21
+217,2,"12:19",739,739,"Jovante' Spivey missed Free Throw.",56,35,21,0.989694135740287,"Sam Houston State","Texas A&M-CC",3,4,1,0,NA,400922173,2017-01-21
+218,2,"12:19",739,739,"Joseph Kilgore Defensive Rebound.",56,35,21,0.989694135740287,"Sam Houston State","Texas A&M-CC",3,4,1,0,NA,400922173,2017-01-21
+219,2,"12:01",721,721,"Ehab Amin made Three Point Jumper. Assisted by Jake Kocher.",56,38,18,0.983831261519589,"Sam Houston State","Texas A&M-CC",3,4,1,0,NA,400922173,2017-01-21
+220,2,"11:39",699,699,"Christopher Galbreath Jr. missed Jumper.",56,38,18,0.986954034993702,"Sam Houston State","Texas A&M-CC",3,4,1,0,NA,400922173,2017-01-21
+221,2,"11:39",699,699,"Joseph Kilgore Defensive Rebound.",56,38,18,0.986954034993702,"Sam Houston State","Texas A&M-CC",3,4,1,0,NA,400922173,2017-01-21
+222,2,"11:31",691,691,"Joseph Kilgore made Layup.",56,40,16,0.979179612291359,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+223,2,"11:30",690,690,"Foul on Christopher Galbreath Jr..",56,40,16,0.979179612291359,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+224,2,"11:30",690,690,"Official TV Timeout",56,40,16,0.979179612291359,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+225,2,"11:30",690,690,"Joseph Kilgore made Free Throw.",56,41,15,0.973740098742412,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+226,2,"11:15",675,675,"Dakarai Henderson Turnover.",56,41,15,0.970850544293986,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+227,2,"11:14",674,674,"Ehab Amin Steal.",56,41,15,0.970850544293986,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+228,2,"11:12",672,672,"Ehab Amin made Layup.",56,43,13,0.954383747460247,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+229,2,"11:00",660,660,"John Dewey III Turnover.",56,43,13,0.956220958098012,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+230,2,"10:47",647,647,"Ehab Amin Turnover.",56,43,13,0.96107134190658,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+231,2,"10:46",646,646,"Albert Almanza Steal.",56,43,13,0.96107134190658,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+232,2,"10:44",644,644,"Foul on Colin Hale.",56,43,13,0.96107134190658,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+233,2,"10:44",644,644,"John Dewey III made Free Throw.",57,43,14,0.969116332961664,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+234,2,"10:44",644,644,"John Dewey III missed Free Throw.",57,43,14,0.969116332961664,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+235,2,"10:44",644,644,"Ehab Amin Defensive Rebound.",57,43,14,0.969116332961664,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+236,2,"10:38",638,638,"Ehab Amin made Layup.",57,45,12,0.947328966802297,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+237,2,"10:05",605,605,"Jamal Williams made Layup. Assisted by Albert Almanza.",59,45,14,0.970546890048691,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+238,2,"9:37",577,577,"Jake Kocher missed Three Point Jumper.",59,45,14,0.97626719879,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+239,2,"9:35",575,575,"Texas A&M-CC Offensive Rebound.",59,45,14,0.97626719879,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+240,2,"9:35",575,575,"Foul on Jovante' Spivey.",59,45,14,0.97626719879,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+241,2,"9:21",561,561,"Foul on Christopher Galbreath Jr..",59,45,14,0.976040622004304,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+242,2,"9:21",561,561,"Alex Holcombe made Free Throw.",59,46,13,0.969206888988499,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+243,2,"9:21",561,561,"Alex Holcombe missed Free Throw.",59,46,13,0.969206888988499,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+244,2,"9:21",561,561,"Albert Almanza Defensive Rebound.",59,46,13,0.969206888988499,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+245,2,"9:07",547,547,"Albert Almanza missed Three Point Jumper.",59,46,13,0.970054513054678,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+246,2,"9:02",542,542,"Texas A&M-CC Defensive Rebound.",59,46,13,0.970054513054678,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+247,2,"8:53",533,533,"Kareem South made Jumper.",59,48,11,0.963096771332496,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+248,2,"8:37",517,517,"Aurimas Majauskas missed Jumper.",59,48,11,0.954097239983086,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+249,2,"8:37",517,517,"Ehab Amin Defensive Rebound.",59,48,11,0.954097239983086,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+250,2,"8:16",496,496,"Foul on Albert Almanza.",59,48,11,0.959581328825539,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+251,2,"8:16",496,496,"Ehab Amin missed Free Throw.",59,48,11,0.959581328825539,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+252,2,"8:16",496,496,"Paul Baxter Defensive Rebound.",59,48,11,0.959581328825539,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+253,2,"7:57",477,477,"Aurimas Majauskas made Jumper.",61,48,13,0.978788189375736,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+254,2,"7:33",453,453,"Ehab Amin missed Three Point Jumper.",61,48,13,0.984625374190475,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+255,2,"7:33",453,453,"Sam Houston St Defensive Rebound.",61,48,13,0.984625374190475,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+256,2,"7:31",451,451,"Foul on Alex Holcombe.",61,48,13,0.984625374190475,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+257,2,"7:31",451,451,"Official TV Timeout",61,48,13,0.984625374190475,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+258,2,"7:31",451,451,"Aurimas Majauskas missed Free Throw.",61,48,13,0.984625374190475,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+259,2,"7:31",451,451,"Elijah Schmidt Defensive Rebound.",61,48,13,0.984625374190475,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+260,2,"7:03",423,423,"Joseph Kilgore missed Jumper.",61,48,13,0.97963029676745,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+261,2,"7:03",423,423,"Aurimas Majauskas Defensive Rebound.",61,48,13,0.97963029676745,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+262,2,"7:00",420,420,"Foul on Joseph Kilgore.",61,48,13,0.97963029676745,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+263,2,"7:00",420,420,"Aurimas Majauskas made Free Throw.",62,48,14,0.984788921899554,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+264,2,"7:00",420,420,"Aurimas Majauskas made Free Throw.",63,48,15,0.988656253638425,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+265,2,"6:28",388,388,"Texas A&M-CC  Turnover.",63,48,15,0.989217343864487,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+266,2,"6:11",371,371,"Albert Almanza made Layup.",65,48,17,0.994845398299785,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+267,2,"6:11",371,371,"Foul on Elijah Schmidt.",65,48,17,0.994845398299785,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+268,2,"6:11",371,371,"Albert Almanza missed Free Throw.",65,48,17,0.994845398299785,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+269,2,"6:11",371,371,"Elijah Schmidt Defensive Rebound.",65,48,17,0.994845398299785,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+270,2,"6:01",361,361,"Ehab Amin missed Layup.",65,48,17,0.996155026925255,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+271,2,"6:01",361,361,"Ehab Amin Offensive Rebound.",65,48,17,0.996155026925255,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+272,2,"5:54",354,354,"Joseph Kilgore missed Jumper.",65,48,17,0.996573830684685,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+273,2,"5:54",354,354,"Albert Almanza Defensive Rebound.",65,48,17,0.996573830684685,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+274,2,"5:32",332,332,"Albert Almanza missed Three Point Jumper.",65,48,17,0.997853810654544,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+275,2,"5:32",332,332,"Elijah Schmidt Defensive Rebound.",65,48,17,0.997853810654544,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+276,2,"5:24",324,324,"Joseph Kilgore made Jumper.",65,50,15,0.990924259268706,"Sam Houston State","Texas A&M-CC",3,4,0,0,NA,400922173,2017-01-21
+277,2,"5:22",322,322,"Texas A&M-CC  Timeout",65,50,15,0.990924259268706,"Sam Houston State","Texas A&M-CC",2,4,1,0,NA,400922173,2017-01-21
+278,2,"5:02",302,302,"Aurimas Majauskas made Layup. Assisted by John Dewey III.",67,50,17,0.997091339142127,"Sam Houston State","Texas A&M-CC",2,4,1,0,NA,400922173,2017-01-21
+279,2,"4:46",286,286,"Foul on Jamal Williams.",67,50,17,0.997534744855987,"Sam Houston State","Texas A&M-CC",2,4,1,0,NA,400922173,2017-01-21
+280,2,"4:46",286,286,"Joseph Kilgore made Free Throw.",67,51,16,0.99649549653693,"Sam Houston State","Texas A&M-CC",2,4,1,0,NA,400922173,2017-01-21
+281,2,"4:46",286,286,"Joseph Kilgore made Free Throw.",67,52,15,0.995020331654264,"Sam Houston State","Texas A&M-CC",2,4,1,0,NA,400922173,2017-01-21
+282,2,"4:32",272,272,"Jamal Williams missed Three Point Jumper.",67,52,15,0.996952603726459,"Sam Houston State","Texas A&M-CC",2,4,1,0,NA,400922173,2017-01-21
+283,2,"4:32",272,272,"Aurimas Majauskas Offensive Rebound.",67,52,15,0.996952603726459,"Sam Houston State","Texas A&M-CC",2,4,1,0,NA,400922173,2017-01-21
+284,2,"4:29",269,269,"Foul on Ehab Amin.",67,52,15,0.996566919838718,"Sam Houston State","Texas A&M-CC",2,4,1,0,NA,400922173,2017-01-21
+285,2,"4:29",269,269,"Aurimas Majauskas made Free Throw.",68,52,16,0.997633824001473,"Sam Houston State","Texas A&M-CC",2,4,1,0,NA,400922173,2017-01-21
+286,2,"4:29",269,269,"Aurimas Majauskas missed Free Throw.",68,52,16,0.997633824001473,"Sam Houston State","Texas A&M-CC",2,4,1,0,NA,400922173,2017-01-21
+287,2,"4:29",269,269,"Kareem South Defensive Rebound.",68,52,16,0.997633824001473,"Sam Houston State","Texas A&M-CC",2,4,1,0,NA,400922173,2017-01-21
+288,2,"4:09",249,249,"Foul on Jamal Williams.",68,52,16,0.998511713516418,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+289,2,"4:09",249,249,"Ehab Amin made Free Throw.",68,53,15,0.997771434197163,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+290,2,"4:09",249,249,"Ehab Amin made Free Throw.",68,54,14,0.996664167291499,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+291,2,"4:01",241,241,"John Dewey III made Layup. Assisted by Paul Baxter.",70,54,16,0.998511713516418,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+292,2,"3:44",224,224,"Kareem South missed Three Point Jumper.",70,54,16,0.998958215070772,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+293,2,"3:44",224,224,"Texas A&M-CC Offensive Rebound.",70,54,16,0.998958215070772,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+294,2,"3:40",220,220,"Official TV Timeout",70,54,16,0.998958215070772,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+295,2,"3:29",209,209,"Foul on John Dewey III.",70,54,16,0.999352872379602,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+296,2,"3:29",209,209,"Ehab Amin made Free Throw.",70,55,15,0.998983410843933,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+297,2,"3:29",209,209,"Ehab Amin made Free Throw.",70,56,14,0.99840335137447,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+298,2,"3:10",190,190,"Foul on David Bloom.",70,56,14,0.998627469562483,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+299,2,"3:10",190,190,"Dakarai Henderson made Free Throw.",71,56,15,0.999139969468927,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+300,2,"3:10",190,190,"Dakarai Henderson made Free Throw.",72,56,16,0.999461206263869,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+301,2,"2:52",172,172,"Ehab Amin missed Layup.",72,56,16,0.99967121603726,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+302,2,"2:52",172,172,"Sam Houston St Defensive Rebound.",72,56,16,0.99967121603726,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+303,2,"2:25",145,145,"Foul on Kareem South.",72,56,16,0.99972508276761,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+304,2,"2:25",145,145,"Dakarai Henderson missed Free Throw.",72,56,16,0.99972508276761,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+305,2,"2:25",145,145,"Sam Houston St Deadball Team Rebound.",72,56,16,0.99972508276761,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+306,2,"2:25",145,145,"Dakarai Henderson missed Free Throw.",72,56,16,0.99972508276761,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+307,2,"2:25",145,145,"Ehab Amin Defensive Rebound.",72,56,16,0.99972508276761,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+308,2,"2:18",138,138,"Elijah Schmidt missed Three Point Jumper.",72,56,16,0.999876896708095,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+309,2,"2:18",138,138,"Jamal Williams Defensive Rebound.",72,56,16,0.999876896708095,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+310,2,"2:09",129,129,"Foul on Joseph Kilgore.",72,56,16,0.999878779898754,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+311,2,"2:09",129,129,"Paul Baxter made Free Throw.",73,56,17,0.999931203663476,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+312,2,"2:09",129,129,"Paul Baxter missed Free Throw.",73,56,17,0.999931203663476,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+313,2,"2:09",129,129,"Joseph Kilgore Defensive Rebound.",73,56,17,0.999931203663476,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+314,2,"2:00",120,120,"Ehab Amin Turnover.",73,56,17,0.999931203663476,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+315,2,"1:59",119,119,"Paul Baxter Steal.",73,56,17,0.999968277581439,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+316,2,"1:57",117,117,"Foul on Joseph Kilgore.",73,56,17,0.999968277581439,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+317,2,"1:57",117,117,"Paul Baxter missed Free Throw.",73,56,17,0.999968277581439,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+318,2,"1:57",117,117,"Sam Houston St Deadball Team Rebound.",73,56,17,0.999968277581439,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+319,2,"1:57",117,117,"Paul Baxter made Free Throw.",74,56,18,0.999982604686356,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+320,2,"1:39",99,99,"Ehab Amin missed Layup.",74,56,18,0.999988437838401,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+321,2,"1:39",99,99,"Aurimas Majauskas Block.",74,56,18,0.999988437838401,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+322,2,"1:38",98,98,"Aurimas Majauskas Defensive Rebound.",74,56,18,0.999988437838401,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+323,2,"1:26",86,86,"Paul Baxter missed Jumper.",74,56,18,0.999997899808301,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+324,2,"1:26",86,86,"Elijah Schmidt Defensive Rebound.",74,56,18,0.999997899808301,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+325,2,"1:19",79,79,"Foul on Jamal Williams.",74,56,18,0.999998068415636,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+326,2,"1:19",79,79,"Ehab Amin made Free Throw.",74,57,17,0.999995971723208,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+327,2,"1:19",79,79,"Ehab Amin made Free Throw.",74,58,16,0.99999159913629,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+328,2,"1:18",78,78,"Albert Almanza Turnover.",74,58,16,0.99999159913629,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+329,2,"1:18",78,78,"Kyle Brown Steal.",74,58,16,0.99999159913629,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+330,2,"1:16",76,76,"Kyle Brown made Layup.",74,60,14,0.999963463681269,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+331,2,"1:16",76,76,"Foul on Albert Almanza.",74,60,14,0.999963463681269,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+332,2,"1:16",76,76,"Kyle Brown made Free Throw.",74,61,13,0.99992380717127,"Sam Houston State","Texas A&M-CC",2,4,0,0,NA,400922173,2017-01-21
+333,2,"1:13",73,73,"Jamal Williams Turnover.",74,61,13,0.99992380717127,"Sam Houston State","Texas A&M-CC",2,4,1,0,NA,400922173,2017-01-21
+334,2,"1:13",73,73,"Texas A&M-CC  Timeout",74,61,13,0.99992380717127,"Sam Houston State","Texas A&M-CC",1,4,1,0,NA,400922173,2017-01-21
+335,2,"1:06",66,66,"Foul on Jamal Williams.",74,61,13,0.999929430461301,"Sam Houston State","Texas A&M-CC",1,4,1,0,NA,400922173,2017-01-21
+336,2,"1:06",66,66,"Ehab Amin missed Free Throw.",74,61,13,0.999929430461301,"Sam Houston State","Texas A&M-CC",1,4,1,0,NA,400922173,2017-01-21
+337,2,"1:06",66,66,"Texas A&M-CC Deadball Team Rebound.",74,61,13,0.999929430461301,"Sam Houston State","Texas A&M-CC",1,4,1,0,NA,400922173,2017-01-21
+338,2,"1:06",66,66,"Ehab Amin made Free Throw.",74,62,12,0.999851769790763,"Sam Houston State","Texas A&M-CC",1,4,1,0,NA,400922173,2017-01-21
+339,2,"0:39",39,39,"Josh Delaney made Layup.",76,62,14,0.999998709712068,"Sam Houston State","Texas A&M-CC",1,4,1,0,NA,400922173,2017-01-21
+340,2,"0:26",26,26,"Kareem South missed Jumper.",76,62,14,0.999999964546828,"Sam Houston State","Texas A&M-CC",1,4,1,0,NA,400922173,2017-01-21
+341,2,"0:26",26,26,"Jesse Lopez Jr. Block.",76,62,14,0.999999964546828,"Sam Houston State","Texas A&M-CC",1,4,1,0,NA,400922173,2017-01-21
+342,2,"0:25",25,25,"David Bloom Offensive Rebound.",76,62,14,0.999999989627256,"Sam Houston State","Texas A&M-CC",1,4,1,0,NA,400922173,2017-01-21
+343,2,"0:21",21,21,"Colin Hale missed Layup.",76,62,14,0.999999999850327,"Sam Houston State","Texas A&M-CC",1,4,1,0,NA,400922173,2017-01-21
+344,2,"0:21",21,21,"Cameron Delaney Defensive Rebound.",76,62,14,0.999999999850327,"Sam Houston State","Texas A&M-CC",1,4,1,0,NA,400922173,2017-01-21
+345,2,"0:00",0,0,"End of Game",76,62,14,1,"Sam Houston State","Texas A&M-CC",1,4,0,0,NA,400922173,2017-01-21

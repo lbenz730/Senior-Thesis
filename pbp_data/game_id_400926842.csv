@@ -1,0 +1,336 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.670974856387565,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+2,1,"19:40",2380,2380,"Foul on Rokas Gustys.",0,0,0,0.66895160869708,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+3,1,"19:40",2380,2380,"Trey Burch-Manning missed Free Throw.",0,0,0,0.66895160869708,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+4,1,"19:40",2380,2380,"South Dakota Deadball Team Rebound.",0,0,0,0.66895160869708,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+5,1,"19:40",2380,2380,"Trey Burch-Manning made Free Throw.",0,1,-1,0.661740624909534,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+6,1,"19:23",2363,2363,"Foul on Trey Burch-Manning.",0,1,-1,0.650429870070665,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+7,1,"19:20",2360,2360,"Foul on Tyler Flack.",0,1,-1,0.650429870070665,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+8,1,"19:20",2360,2360,"Rokas Gustys missed Free Throw.",0,1,-1,0.650429870070665,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+9,1,"19:20",2360,2360,"Hofstra Deadball Team Rebound.",0,1,-1,0.650429870070665,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+10,1,"19:20",2360,2360,"Rokas Gustys missed Free Throw.",0,1,-1,0.650429870070665,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+11,1,"19:20",2360,2360,"Hofstra Deadball Team Rebound.",0,1,-1,0.650429870070665,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+12,1,"19:01",2341,2341,"Matt Mooney made Three Point Jumper. Assisted by Carlton Hurst.",0,4,-4,0.576431237836473,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+13,1,"18:38",2318,2318,"Foul on Ty Greer.",0,4,-4,0.559247354946648,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+14,1,"18:38",2318,2318,"Ty Greer Turnover.",0,4,-4,0.559247354946648,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+15,1,"18:13",2293,2293,"Trey Dickerson missed Three Point Jumper.",0,4,-4,0.577814931176429,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+16,1,"18:13",2293,2293,"Rokas Gustys Defensive Rebound.",0,4,-4,0.577814931176429,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+17,1,"18:02",2282,2282,"Eli Pemberton missed Three Point Jumper.",0,4,-4,0.55897952470545,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+18,1,"18:02",2282,2282,"Trey Burch-Manning Defensive Rebound.",0,4,-4,0.55897952470545,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+19,1,"17:46",2266,2266,"Carlton Hurst missed Layup.",0,4,-4,0.553922135613606,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+20,1,"17:46",2266,2266,"Carlton Hurst Offensive Rebound.",0,4,-4,0.553922135613606,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+21,1,"17:39",2259,2259,"Matt Mooney missed Jumper.",0,4,-4,0.572734853864292,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+22,1,"17:39",2259,2259,"Rokas Gustys Defensive Rebound.",0,4,-4,0.572734853864292,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+23,1,"17:26",2246,2246,"Rokas Gustys Turnover.",0,4,-4,0.575758734919905,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+24,1,"17:10",2230,2230,"Tyler Flack missed Jumper.",0,4,-4,0.558312537683756,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+25,1,"17:10",2230,2230,"Eli Pemberton Defensive Rebound.",0,4,-4,0.558312537683756,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+26,1,"16:49",2209,2209,"Jamall Robinson made Jumper. Assisted by Rokas Gustys.",2,4,-2,0.61143344042149,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+27,1,"16:31",2191,2191,"Trey Dickerson missed Layup.",2,4,-2,0.621098819613884,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+28,1,"16:31",2191,2191,"Tyler Flack Offensive Rebound.",2,4,-2,0.621098819613884,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+29,1,"16:28",2188,2188,"Tyler Flack made Layup.",2,6,-4,0.559823117557719,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+30,1,"16:03",2163,2163,"Jamall Robinson missed Three Point Jumper.",2,6,-4,0.553417145222127,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+31,1,"16:03",2163,2163,"South Dakota Defensive Rebound.",2,6,-4,0.553417145222127,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+32,1,"15:59",2159,2159,"Official TV Timeout",2,6,-4,0.536871851922144,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+33,1,"15:33",2133,2133,"Trey Burch-Manning missed Jumper.",2,6,-4,0.542561140487053,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+34,1,"15:33",2133,2133,"Hofstra Defensive Rebound.",2,6,-4,0.542561140487053,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+35,1,"15:31",2131,2131,"Foul on Carlton Hurst.",2,6,-4,0.542561140487053,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+36,1,"15:18",2118,2118,"Jamall Robinson missed Three Point Jumper.",2,6,-4,0.546897783349496,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+37,1,"15:18",2118,2118,"Tyler Flack Defensive Rebound.",2,6,-4,0.546897783349496,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+38,1,"15:05",2105,2105,"Trey Burch-Manning made Jumper. Assisted by Matt Mooney.",2,8,-6,0.490784294077566,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+39,1,"14:40",2080,2080,"Eli Pemberton missed Jumper.",2,8,-6,0.501561433317495,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+40,1,"14:40",2080,2080,"Jamall Robinson Offensive Rebound.",2,8,-6,0.501561433317495,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+41,1,"14:36",2076,2076,"Eli Pemberton made Layup.",4,8,-4,0.552029131632878,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+42,1,"14:24",2064,2064,"Matt Mooney missed Three Point Jumper.",4,8,-4,0.53215849767227,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+43,1,"14:24",2064,2064,"Trey Burch-Manning Offensive Rebound.",4,8,-4,0.53215849767227,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+44,1,"14:20",2060,2060,"Trey Burch-Manning missed Layup.",4,8,-4,0.53215849767227,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+45,1,"14:20",2060,2060,"Rokas Gustys Block.",4,8,-4,0.53215849767227,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+46,1,"14:18",2058,2058,"South Dakota Offensive Rebound.",4,8,-4,0.542435079307734,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+47,1,"13:57",2037,2037,"Dan Jech made Jumper. Assisted by Matt Mooney.",4,10,-6,0.508822852915119,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+48,1,"13:40",2020,2020,"Deron Powers missed Three Point Jumper.",4,10,-6,0.457798558980731,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+49,1,"13:40",2020,2020,"Trey Burch-Manning Defensive Rebound.",4,10,-6,0.457798558980731,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+50,1,"13:30",2010,2010,"Matt Mooney Turnover.",4,10,-6,0.492598654968682,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+51,1,"13:29",2009,2009,"Justin Wright-Foreman Steal.",4,10,-6,0.489258208800959,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+52,1,"13:21",2001,2001,"Foul on Tyler Peterson.",4,10,-6,0.489258208800959,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+53,1,"13:21",2001,2001,"Deron Powers made Free Throw.",5,10,-5,0.516837935153557,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+54,1,"13:21",2001,2001,"Deron Powers made Free Throw.",6,10,-4,0.544315464247575,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+55,1,"13:06",1986,1986,"Trey Burch-Manning missed Jumper.",6,10,-4,0.51984848156113,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+56,1,"13:06",1986,1986,"Eli Pemberton Defensive Rebound.",6,10,-4,0.51984848156113,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+57,1,"12:48",1968,1968,"Jamall Robinson made Three Point Jumper. Assisted by Hunter Sabety.",9,10,-1,0.629178924331093,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+58,1,"12:27",1947,1947,"Trey Burch-Manning missed Jumper.",9,10,-1,0.621639408149568,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+59,1,"12:27",1947,1947,"Hunter Sabety Defensive Rebound.",9,10,-1,0.621639408149568,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+60,1,"12:14",1934,1934,"Justin Wright-Foreman missed Three Point Jumper.",9,10,-1,0.611932475467587,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+61,1,"12:14",1934,1934,"Rokas Gustys Offensive Rebound.",9,10,-1,0.611932475467587,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+62,1,"12:10",1930,1930,"Hunter Sabety Turnover.",9,10,-1,0.611932475467587,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+63,1,"12:08",1928,1928,"Trey Burch-Manning Steal.",9,10,-1,0.618777552046886,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+64,1,"12:00",1920,1920,"Matt Mooney missed Layup.",9,10,-1,0.618777552046886,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+65,1,"12:00",1920,1920,"Dan Jech Offensive Rebound.",9,10,-1,0.618777552046886,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+66,1,"11:55",1915,1915,"Dan Jech made Layup.",9,12,-3,0.57772406170686,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+67,1,"11:28",1888,1888,"Deron Powers made Three Point Jumper. Assisted by Justin Wright-Foreman.",12,12,0,0.646866586402894,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+68,1,"10:57",1857,1857,"Triston Simpson made Three Point Jumper. Assisted by Matt Mooney.",12,15,-3,0.563733522918107,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+69,1,"10:40",1840,1840,"Hunter Sabety missed Layup.",12,15,-3,0.545384948812564,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+70,1,"10:40",1840,1840,"Tyler Peterson Defensive Rebound.",12,15,-3,0.545384948812564,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+71,1,"10:31",1831,1831,"Tyler Peterson made Three Point Jumper. Assisted by Triston Simpson.",12,18,-6,0.465374997906094,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+72,1,"10:20",1820,1820,"Foul on Matt Mooney.",12,18,-6,0.496137666342631,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+73,1,"10:20",1820,1820,"Official TV Timeout",12,18,-6,0.496137666342631,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+74,1,"10:06",1806,1806,"Jamall Robinson missed Layup.",12,18,-6,0.457184677219723,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+75,1,"10:06",1806,1806,"Rokas Gustys Offensive Rebound.",12,18,-6,0.457184677219723,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+76,1,"10:01",1801,1801,"Rokas Gustys Turnover.",12,18,-6,0.457184677219723,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+77,1,"9:41",1781,1781,"Brandon Armstrong missed Jumper.",12,18,-6,0.423172059077464,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+78,1,"9:41",1781,1781,"Rokas Gustys Block.",12,18,-6,0.423172059077464,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+79,1,"9:40",1780,1780,"Rokas Gustys Defensive Rebound.",12,18,-6,0.423172059077464,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+80,1,"9:34",1774,1774,"Rokas Gustys made Layup. Assisted by Desure Buie.",14,18,-4,0.515149430621469,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+81,1,"9:24",1764,1764,"Foul on Carlton Hurst.",14,18,-4,0.529862300451926,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+82,1,"9:24",1764,1764,"Carlton Hurst Turnover.",14,18,-4,0.529862300451926,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+83,1,"9:08",1748,1748,"Ty Greer Turnover.",14,18,-4,0.532517582268227,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+84,1,"8:45",1725,1725,"Trey Dickerson missed Jumper.",14,18,-4,0.518211182564922,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+85,1,"8:45",1725,1725,"Rokas Gustys Defensive Rebound.",14,18,-4,0.518211182564922,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+86,1,"8:33",1713,1713,"Desure Buie missed Jumper.",14,18,-4,0.523968996062427,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+87,1,"8:33",1713,1713,"Hofstra Offensive Rebound.",14,18,-4,0.523968996062427,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+88,1,"8:33",1713,1713,"Foul on Trey Burch-Manning.",14,18,-4,0.523968996062427,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+89,1,"8:33",1713,1713,"Ty Greer made Free Throw.",15,18,-3,0.557107040477732,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+90,1,"8:33",1713,1713,"Ty Greer made Free Throw.",16,18,-2,0.589744445836706,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+91,1,"8:15",1695,1695,"Ty Greer missed Jumper.",16,18,-2,0.583463679368326,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+92,1,"8:15",1695,1695,"Hunter Sabety Offensive Rebound.",16,18,-2,0.583463679368326,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+93,1,"8:13",1693,1693,"Foul on Ty Greer.",16,18,-2,0.583463679368326,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+94,1,"8:13",1693,1693,"Tyler Flack made Free Throw.",16,19,-3,0.548424288749645,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+95,1,"8:13",1693,1693,"Tyler Flack made Free Throw.",16,20,-4,0.512898097440349,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+96,1,"7:58",1678,1678,"Rokas Gustys made Layup. Assisted by Brian Bernardi.",18,20,-2,0.582891441184451,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+97,1,"7:40",1660,1660,"Tyler Flack missed Layup.",18,20,-2,0.583076205606325,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+98,1,"7:40",1660,1660,"Tyler Peterson Offensive Rebound.",18,20,-2,0.583076205606325,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+99,1,"7:31",1651,1651,"Trey Burch-Manning missed Jumper.",18,20,-2,0.584638262481142,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+100,1,"7:31",1651,1651,"Rokas Gustys Defensive Rebound.",18,20,-2,0.584638262481142,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+101,1,"7:01",1621,1621,"Rokas Gustys missed Jumper.",18,20,-2,0.571333522501491,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+102,1,"7:01",1621,1621,"Rokas Gustys Offensive Rebound.",18,20,-2,0.571333522501491,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+103,1,"6:54",1614,1614,"Desure Buie made Layup.",20,20,0,0.625640947488982,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+104,1,"6:25",1585,1585,"Trey Dickerson missed Three Point Jumper.",20,20,0,0.631587023700781,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+105,1,"6:25",1585,1585,"Tyler Flack Offensive Rebound.",20,20,0,0.631587023700781,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+106,1,"6:13",1573,1573,"Tyler Flack missed Jumper.",20,20,0,0.646490291075449,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+107,1,"6:13",1573,1573,"South Dakota Offensive Rebound.",20,20,0,0.646490291075449,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+108,1,"6:11",1571,1571,"Foul on Eli Pemberton.",20,20,0,0.646490291075449,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+109,1,"6:11",1571,1571,"Official TV Timeout",20,20,0,0.646490291075449,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+110,1,"6:03",1563,1563,"Brandon Armstrong missed Three Point Jumper.",20,20,0,0.62923096735652,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+111,1,"6:03",1563,1563,"Hofstra Defensive Rebound.",20,20,0,0.62923096735652,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+112,1,"5:46",1546,1546,"Brian Bernardi missed Three Point Jumper.",20,20,0,0.645738806359905,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+113,1,"5:46",1546,1546,"Eli Pemberton Offensive Rebound.",20,20,0,0.645738806359905,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+114,1,"5:33",1533,1533,"Eli Pemberton missed Three Point Jumper.",20,20,0,0.645410930531262,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+115,1,"5:33",1533,1533,"Tyler Flack Defensive Rebound.",20,20,0,0.645410930531262,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+116,1,"5:25",1525,1525,"Tyler Flack made Three Point Jumper. Assisted by Trey Dickerson.",20,23,-3,0.536303253949363,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+117,1,"4:58",1498,1498,"Jamall Robinson missed Three Point Jumper.",20,23,-3,0.557000985707407,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+118,1,"4:58",1498,1498,"Trey Dickerson Defensive Rebound.",20,23,-3,0.557000985707407,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+119,1,"4:43",1483,1483,"Tyler Flack made Jumper. Assisted by Trey Burch-Manning.",20,25,-5,0.446505352737781,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+120,1,"4:18",1458,1458,"Brian Bernardi Turnover.",20,25,-5,0.447304338081706,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+121,1,"4:17",1457,1457,"Trey Burch-Manning Steal.",20,25,-5,0.447304338081706,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+122,1,"4:08",1448,1448,"Brandon Armstrong missed Jumper.",20,25,-5,0.473961255945518,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+123,1,"4:08",1448,1448,"Rokas Gustys Defensive Rebound.",20,25,-5,0.473961255945518,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+124,1,"3:54",1434,1434,"Jamall Robinson Turnover.",20,25,-5,0.461379237259708,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+125,1,"3:54",1434,1434,"Official TV Timeout",20,25,-5,0.461379237259708,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+126,1,"3:35",1415,1415,"Tyler Peterson missed Three Point Jumper.",20,25,-5,0.437428649968067,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+127,1,"3:35",1415,1415,"Justin Wright-Foreman Defensive Rebound.",20,25,-5,0.437428649968067,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+128,1,"3:19",1399,1399,"Rokas Gustys made Jumper.",22,25,-3,0.521134919808082,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+129,1,"2:53",1373,1373,"Tyler Flack made Dunk. Assisted by Tyler Peterson.",22,27,-5,0.446497744510117,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+130,1,"2:35",1355,1355,"Rokas Gustys missed Layup.",22,27,-5,0.459126089889467,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+131,1,"2:35",1355,1355,"Hofstra Offensive Rebound.",22,27,-5,0.459126089889467,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+132,1,"2:34",1354,1354,"Foul on Tyler Peterson.",22,27,-5,0.459126089889467,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+133,1,"2:34",1354,1354,"Rokas Gustys missed Free Throw.",22,27,-5,0.459126089889467,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+134,1,"2:34",1354,1354,"Tyler Peterson Defensive Rebound.",22,27,-5,0.459126089889467,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+135,1,"2:19",1339,1339,"Matt Mooney missed Three Point Jumper.",22,27,-5,0.428282444482463,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+136,1,"2:19",1339,1339,"Rokas Gustys Defensive Rebound.",22,27,-5,0.428282444482463,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+137,1,"1:45",1305,1305,"Eli Pemberton missed Layup.",22,27,-5,0.451639344287188,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+138,1,"1:45",1305,1305,"Rokas Gustys Offensive Rebound.",22,27,-5,0.451639344287188,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+139,1,"1:42",1302,1302,"Rokas Gustys made Layup.",24,27,-3,0.52502489683895,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+140,1,"1:35",1295,1295,"Tyler Peterson missed Three Point Jumper.",24,27,-3,0.525848069237756,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+141,1,"1:35",1295,1295,"Jamall Robinson Defensive Rebound.",24,27,-3,0.525848069237756,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+142,1,"1:32",1292,1292,"Foul on Tyler Flack.",24,27,-3,0.525848069237756,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+143,1,"1:32",1292,1292,"Justin Wright-Foreman missed Free Throw.",24,27,-3,0.525848069237756,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+144,1,"1:32",1292,1292,"Jamall Robinson Offensive Rebound.",24,27,-3,0.525848069237756,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+145,1,"1:25",1285,1285,"Deron Powers made Layup.",26,27,-1,0.600681565642843,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+146,1,"1:14",1274,1274,"Tyler Peterson Turnover.",26,27,-1,0.581764719858485,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+147,1,"1:04",1264,1264,"Foul on Triston Simpson.",26,27,-1,0.612555520038317,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+148,1,"1:04",1264,1264,"Deron Powers made Free Throw.",27,27,0,0.649367432510388,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+149,1,"1:04",1264,1264,"Deron Powers made Free Throw.",28,27,1,0.684483309045858,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+150,1,"0:47",1247,1247,"South Dakota  Timeout",28,27,1,0.668111817770433,"Hofstra","South Dakota",3,4,1,0,3,400926842,2016-11-23
+151,1,"0:22",1222,1222,"Foul on Justin Wright-Foreman.",28,27,1,0.673195144535776,"Hofstra","South Dakota",3,4,1,0,3,400926842,2016-11-23
+152,1,"0:16",1216,1216,"Tyler Peterson missed Free Throw.",28,27,1,0.660162856833649,"Hofstra","South Dakota",3,4,1,1,3,400926842,2016-11-23
+153,1,"0:16",1216,1216,"South Dakota Deadball Team Rebound.",28,27,1,0.660162856833649,"Hofstra","South Dakota",3,4,1,1,3,400926842,2016-11-23
+154,1,"0:16",1216,1216,"Tyler Peterson made Free Throw.",28,28,0,0.622252609770094,"Hofstra","South Dakota",3,4,1,1,3,400926842,2016-11-23
+155,1,"0:16",1216,1216,"Hofstra  Timeout",28,28,0,0.622252609770094,"Hofstra","South Dakota",3,3,1,1,3,400926842,2016-11-23
+156,1,"0:11",1211,1211,"Brian Bernardi made Three Point Jumper. Assisted by Deron Powers.",31,28,3,0.729841635309542,"Hofstra","South Dakota",3,3,1,1,3,400926842,2016-11-23
+157,1,"0:00",1200,1200,"End of 1st half",31,28,3,0.732573180440204,"Hofstra","South Dakota",3,3,1,1,3,400926842,2016-11-23
+158,2,"20:00",1200,1200,"PLAY",31,28,3,0.732573180440204,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+159,2,"19:41",1181,1181,"Deron Powers made Jumper.",33,28,5,0.795420944866234,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+160,2,"19:22",1162,1162,"Tyler Flack made Dunk. Assisted by Trey Dickerson.",33,30,3,0.723237821445656,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+161,2,"19:07",1147,1147,"Brian Bernardi missed Three Point Jumper.",33,30,3,0.735442194445875,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+162,2,"19:07",1147,1147,"Trey Dickerson Defensive Rebound.",33,30,3,0.735442194445875,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+163,2,"19:00",1140,1140,"Trey Dickerson made Layup.",33,32,1,0.663289802893561,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+164,2,"19:00",1140,1140,"Foul on Brian Bernardi.",33,32,1,0.663289802893561,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+165,2,"19:00",1140,1140,"Trey Dickerson missed Free Throw.",33,32,1,0.663289802893561,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+166,2,"19:00",1140,1140,"Rokas Gustys Defensive Rebound.",33,32,1,0.663289802893561,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+167,2,"18:41",1121,1121,"Brian Bernardi made Layup.",35,32,3,0.74190169009033,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+168,2,"18:25",1105,1105,"Trey Dickerson missed Jumper.",35,32,3,0.734889873215557,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+169,2,"18:25",1105,1105,"Hofstra Defensive Rebound.",35,32,3,0.734889873215557,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+170,2,"17:56",1076,1076,"Rokas Gustys missed Layup.",35,32,3,0.739671633062109,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+171,2,"17:56",1076,1076,"Rokas Gustys Offensive Rebound.",35,32,3,0.739671633062109,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+172,2,"17:54",1074,1074,"Rokas Gustys Turnover.",35,32,3,0.739671633062109,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+173,2,"17:34",1054,1054,"Tyler Flack missed Jumper.",35,32,3,0.746599916263243,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+174,2,"17:34",1054,1054,"Trey Burch-Manning Offensive Rebound.",35,32,3,0.746599916263243,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+175,2,"17:26",1046,1046,"Matt Mooney missed Jumper.",35,32,3,0.750806820283617,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+176,2,"17:26",1046,1046,"Tyler Flack Offensive Rebound.",35,32,3,0.750806820283617,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+177,2,"17:21",1041,1041,"Matt Mooney missed Three Point Jumper.",35,32,3,0.750806820283617,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+178,2,"17:21",1041,1041,"Rokas Gustys Defensive Rebound.",35,32,3,0.750806820283617,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+179,2,"16:59",1019,1019,"Rokas Gustys made Layup. Assisted by Eli Pemberton.",37,32,5,0.786530961192859,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+180,2,"16:43",1003,1003,"Trey Dickerson Turnover.",37,32,5,0.795721768402541,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+181,2,"16:21",981,981,"Foul on Trey Dickerson.",37,32,5,0.822151545039442,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+182,2,"16:20",980,980,"Brian Bernardi missed Three Point Jumper.",37,32,5,0.822151545039442,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+183,2,"16:20",980,980,"Jamall Robinson Offensive Rebound.",37,32,5,0.822151545039442,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+184,2,"16:14",974,974,"Eli Pemberton made Three Point Jumper. Assisted by Jamall Robinson.",40,32,8,0.878446463572279,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+185,2,"15:49",949,949,"Matt Mooney missed Jumper.",40,32,8,0.891124334439674,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+186,2,"15:49",949,949,"Eli Pemberton Defensive Rebound.",40,32,8,0.891124334439674,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+187,2,"15:44",944,944,"Official TV Timeout",40,32,8,0.891124334439674,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+188,2,"15:35",935,935,"Brian Bernardi made Three Point Jumper.",43,32,11,0.929593458608792,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+189,2,"15:32",932,932,"South Dakota Deadball Team Rebound.",43,32,11,0.929593458608792,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+190,2,"15:32",932,932,"Trey Dickerson made Free Throw.",43,33,10,0.915990487172446,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+191,2,"15:20",920,920,"Trey Dickerson missed Three Point Jumper.",43,33,10,0.910159878244486,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+192,2,"15:15",915,915,"Carlton Hurst Offensive Rebound.",43,33,10,0.920974150113983,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+193,2,"15:14",914,914,"Carlton Hurst missed Layup.",43,33,10,0.920974150113983,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+194,2,"15:00",900,900,"Carlton Hurst Offensive Rebound.",43,33,10,0.915247644089189,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+195,2,"14:45",885,885,"Foul on Rokas Gustys.",43,33,10,0.898497838753602,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+196,2,"14:36",876,876,"Tyler Flack Turnover.",43,33,10,0.918373724732481,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+197,2,"14:31",871,871,"Foul on Jamall Robinson.",43,33,10,0.918373724732481,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+198,2,"14:31",871,871,"Trey Burch-Manning missed Free Throw.",43,33,10,0.918373724732481,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+199,2,"14:31",871,871,"South Dakota Deadball Team Rebound.",43,33,10,0.918373724732481,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+200,2,"14:31",871,871,"Trey Burch-Manning made Free Throw.",43,34,9,0.902721009851456,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+201,2,"14:28",868,868,"Jamall Robinson made Jumper.",45,34,11,0.926953288664504,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+202,2,"14:06",846,846,"Trey Burch-Manning missed Layup.",45,34,11,0.941880161766019,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+203,2,"14:06",846,846,"Rokas Gustys Block.",45,34,11,0.941880161766019,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+204,2,"14:05",845,845,"Hofstra Defensive Rebound.",45,34,11,0.941880161766019,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+205,2,"13:36",816,816,"Brian Bernardi made Jumper. Assisted by Desure Buie.",47,34,13,0.951364374182574,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+206,2,"13:27",807,807,"Trey Dickerson made Three Point Jumper. Assisted by Carlton Hurst.",47,37,10,0.928993602658866,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+207,2,"13:07",787,787,"Eli Pemberton Turnover.",47,37,10,0.925171356752147,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+208,2,"13:04",784,784,"Trey Burch-Manning Steal.",47,37,10,0.925171356752147,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+209,2,"12:56",776,776,"Trey Dickerson made Jumper.",47,39,8,0.895336703674387,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+210,2,"12:44",764,764,"Jamall Robinson Turnover.",47,39,8,0.906935679318246,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+211,2,"12:43",763,763,"Carlton Hurst Steal.",47,39,8,0.906935679318246,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+212,2,"12:38",758,758,"Tyler Flack made Layup.",47,41,6,0.853595271361299,"Hofstra","South Dakota",4,4,0,0,3,400926842,2016-11-23
+213,2,"12:37",757,757,"Hofstra  Timeout",47,41,6,0.853595271361299,"Hofstra","South Dakota",4,3,0,1,3,400926842,2016-11-23
+214,2,"12:25",745,745,"Justin Wright-Foreman made Jumper.",49,41,8,0.900273336589873,"Hofstra","South Dakota",4,3,0,1,3,400926842,2016-11-23
+215,2,"12:06",726,726,"Trey Burch-Manning missed Jumper.",49,41,8,0.907301567667232,"Hofstra","South Dakota",4,3,0,1,3,400926842,2016-11-23
+216,2,"12:06",726,726,"Rokas Gustys Defensive Rebound.",49,41,8,0.907301567667232,"Hofstra","South Dakota",4,3,0,1,3,400926842,2016-11-23
+217,2,"11:52",712,712,"Justin Wright-Foreman missed Layup.",49,41,8,0.893204123076385,"Hofstra","South Dakota",4,3,0,1,3,400926842,2016-11-23
+218,2,"11:52",712,712,"South Dakota Defensive Rebound.",49,41,8,0.893204123076385,"Hofstra","South Dakota",4,3,0,1,3,400926842,2016-11-23
+219,2,"11:35",695,695,"Matt Mooney missed Three Point Jumper.",49,41,8,0.915695359934369,"Hofstra","South Dakota",4,3,0,0,3,400926842,2016-11-23
+220,2,"11:35",695,695,"Rokas Gustys Defensive Rebound.",49,41,8,0.915695359934369,"Hofstra","South Dakota",4,3,0,0,3,400926842,2016-11-23
+221,2,"11:26",686,686,"Hofstra  Timeout",49,41,8,0.900439782992296,"Hofstra","South Dakota",4,2,0,1,3,400926842,2016-11-23
+222,2,"11:06",666,666,"Justin Wright-Foreman missed Three Point Jumper.",49,41,8,0.909234757273903,"Hofstra","South Dakota",4,2,0,1,3,400926842,2016-11-23
+223,2,"11:06",666,666,"Triston Simpson Defensive Rebound.",49,41,8,0.909234757273903,"Hofstra","South Dakota",4,2,0,1,3,400926842,2016-11-23
+224,2,"10:55",655,655,"Tyler Flack missed Layup.",49,41,8,0.91552540119239,"Hofstra","South Dakota",4,2,0,1,3,400926842,2016-11-23
+225,2,"10:55",655,655,"Hofstra Defensive Rebound.",49,41,8,0.91552540119239,"Hofstra","South Dakota",4,2,0,1,3,400926842,2016-11-23
+226,2,"10:48",648,648,"Justin Wright-Foreman Turnover.",49,41,8,0.91426787346795,"Hofstra","South Dakota",4,2,0,1,3,400926842,2016-11-23
+227,2,"10:48",648,648,"Trey Dickerson Steal.",49,41,8,0.91426787346795,"Hofstra","South Dakota",4,2,0,1,3,400926842,2016-11-23
+228,2,"10:48",648,648,"Foul on Justin Wright-Foreman.",49,41,8,0.91426787346795,"Hofstra","South Dakota",4,2,0,1,3,400926842,2016-11-23
+229,2,"10:36",636,636,"Trey Burch-Manning missed Jumper.",49,41,8,0.906466030546377,"Hofstra","South Dakota",4,2,0,1,3,400926842,2016-11-23
+230,2,"10:36",636,636,"Rokas Gustys Defensive Rebound.",49,41,8,0.906466030546377,"Hofstra","South Dakota",4,2,0,1,3,400926842,2016-11-23
+231,2,"10:18",618,618,"Deron Powers missed Three Point Jumper.",49,41,8,0.91528199251617,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+232,2,"10:18",618,618,"South Dakota Defensive Rebound.",49,41,8,0.91528199251617,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+233,2,"10:01",601,601,"Matt Mooney missed Three Point Jumper.",49,41,8,0.917244640944779,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+234,2,"10:01",601,601,"Rokas Gustys Defensive Rebound.",49,41,8,0.917244640944779,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+235,2,"9:40",580,580,"Deron Powers Turnover.",49,41,8,0.910641468321622,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+236,2,"9:27",567,567,"Foul on Matt Mooney.",49,41,8,0.927782740284705,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+237,2,"9:27",567,567,"Matt Mooney Turnover.",49,41,8,0.927782740284705,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+238,2,"8:51",531,531,"Desure Buie missed Three Point Jumper.",49,41,8,0.940910436045764,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+239,2,"8:51",531,531,"South Dakota Defensive Rebound.",49,41,8,0.940910436045764,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+240,2,"8:51",531,531,"Trey Burch-Manning Turnover.",49,41,8,0.940910436045764,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+241,2,"8:24",504,504,"Deron Powers missed Jumper.",49,41,8,0.93372673367102,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+242,2,"8:24",504,504,"Rokas Gustys Offensive Rebound.",49,41,8,0.93372673367102,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+243,2,"8:21",501,501,"Rokas Gustys missed Layup.",49,41,8,0.93372673367102,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+244,2,"8:21",501,501,"Carlton Hurst Defensive Rebound.",49,41,8,0.93372673367102,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+245,2,"8:14",494,494,"Trey Dickerson made Three Point Jumper. Assisted by Matt Mooney.",49,44,5,0.862984769127675,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+246,2,"7:39",459,459,"Desure Buie missed Layup.",49,44,5,0.872578936003105,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+247,2,"7:39",459,459,"Rokas Gustys Offensive Rebound.",49,44,5,0.872578936003105,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+248,2,"7:35",455,455,"Deron Powers made Three Point Jumper. Assisted by Rokas Gustys.",52,44,8,0.946600103951827,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+249,2,"7:23",443,443,"Trey Dickerson missed Three Point Jumper.",52,44,8,0.929261637226822,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+250,2,"7:23",443,443,"Tyler Flack Offensive Rebound.",52,44,8,0.929261637226822,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+251,2,"7:16",436,436,"Trey Dickerson made Jumper. Assisted by Tyler Flack.",52,46,6,0.90770617328983,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+252,2,"6:47",407,407,"Desure Buie missed Jumper.",52,46,6,0.90912896485315,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+253,2,"6:47",407,407,"South Dakota Defensive Rebound.",52,46,6,0.90912896485315,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+254,2,"6:44",404,404,"Foul on Rokas Gustys.",52,46,6,0.90912896485315,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+255,2,"6:44",404,404,"Official TV Timeout",52,46,6,0.90912896485315,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+256,2,"6:26",386,386,"Trey Burch-Manning made Jumper. Assisted by Carlton Hurst.",52,48,4,0.830572138583223,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+257,2,"6:03",363,363,"Eli Pemberton missed Three Point Jumper.",52,48,4,0.8378084884484,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+258,2,"6:03",363,363,"Trey Dickerson Defensive Rebound.",52,48,4,0.8378084884484,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+259,2,"5:59",359,359,"Foul on Eli Pemberton.",52,48,4,0.829576667226265,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+260,2,"5:40",340,340,"Tyler Flack Turnover.",52,48,4,0.826963551291467,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+261,2,"5:40",340,340,"Foul on Tyler Flack.",52,48,4,0.826963551291467,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+262,2,"5:11",311,311,"Eli Pemberton Turnover.",52,48,4,0.860063981540018,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+263,2,"4:47",287,287,"Trey Dickerson missed Three Point Jumper.",52,48,4,0.847149598027115,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+264,2,"4:47",287,287,"Matt Mooney Offensive Rebound.",52,48,4,0.847149598027115,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+265,2,"4:41",281,281,"Matt Mooney missed Three Point Jumper.",52,48,4,0.847149598027115,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+266,2,"4:41",281,281,"Rokas Gustys Defensive Rebound.",52,48,4,0.847149598027115,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+267,2,"4:23",263,263,"Brian Bernardi made Three Point Jumper. Assisted by Deron Powers.",55,48,7,0.95066855625133,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+268,2,"3:59",239,239,"Tyler Flack missed Layup.",55,48,7,0.959915519493238,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+269,2,"3:59",239,239,"Rokas Gustys Defensive Rebound.",55,48,7,0.959915519493238,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+270,2,"3:42",222,222,"Brian Bernardi missed Three Point Jumper.",55,48,7,0.966520045848346,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+271,2,"3:42",222,222,"Jamall Robinson Offensive Rebound.",55,48,7,0.966520045848346,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+272,2,"3:17",197,197,"Deron Powers missed Layup.",55,48,7,0.970769167226817,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+273,2,"3:17",197,197,"South Dakota Defensive Rebound.",55,48,7,0.970769167226817,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+274,2,"3:17",197,197,"Foul on Rokas Gustys.",55,48,7,0.970769167226817,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+275,2,"3:17",197,197,"Carlton Hurst missed Free Throw.",55,48,7,0.970769167226817,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+276,2,"3:17",197,197,"Rokas Gustys Defensive Rebound.",55,48,7,0.970769167226817,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+277,2,"3:08",188,188,"Foul on Trey Dickerson.",55,48,7,0.973778879474058,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+278,2,"2:58",178,178,"Foul on Trey Dickerson.",55,48,7,0.978381136371873,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+279,2,"2:53",173,173,"Brian Bernardi Turnover.",55,48,7,0.978381136371873,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+280,2,"2:52",172,172,"Matt Mooney Steal.",55,48,7,0.978381136371873,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+281,2,"2:48",168,168,"Matt Mooney missed Layup.",55,48,7,0.982262226528326,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+282,2,"2:48",168,168,"Rokas Gustys Defensive Rebound.",55,48,7,0.982262226528326,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+283,2,"2:19",139,139,"Rokas Gustys missed Layup.",55,48,7,0.985845940298216,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+284,2,"2:19",139,139,"Tyler Flack Block.",55,48,7,0.985845940298216,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+285,2,"2:19",139,139,"Hofstra Offensive Rebound.",55,48,7,0.985845940298216,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+286,2,"2:18",138,138,"Foul on Carlton Hurst.",55,48,7,0.985845940298216,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+287,2,"1:59",119,119,"Deron Powers Turnover.",55,48,7,0.989509376895309,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+288,2,"1:59",119,119,"Matt Mooney Steal.",55,48,7,0.989509376895309,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+289,2,"1:59",119,119,"Foul on Deron Powers.",55,48,7,0.989509376895309,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+290,2,"1:59",119,119,"Matt Mooney made Free Throw.",55,49,6,0.981032717546971,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+291,2,"1:59",119,119,"Matt Mooney missed Free Throw.",55,49,6,0.981032717546971,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+292,2,"1:59",119,119,"Rokas Gustys Defensive Rebound.",55,49,6,0.981032717546971,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+293,2,"1:57",117,117,"Foul on Trey Burch-Manning.",55,49,6,0.981032717546971,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+294,2,"1:51",111,111,"Deron Powers missed Free Throw.",55,49,6,0.981032717546971,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+295,2,"1:51",111,111,"Tyler Flack Defensive Rebound.",55,49,6,0.981032717546971,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+296,2,"1:50",110,110,"Rokas Gustys missed Free Throw.",55,49,6,0.981032717546971,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+297,2,"1:45",105,105,"Rokas Gustys Offensive Rebound.",55,49,6,0.978901992333029,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+298,2,"1:41",101,101,"Matt Mooney missed Three Point Jumper.",55,49,6,0.978901992333029,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+299,2,"1:41",101,101,"Deron Powers Defensive Rebound.",55,49,6,0.978901992333029,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+300,2,"1:39",99,99,"Deron Powers made Free Throw.",57,49,8,0.994696360942015,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+301,2,"1:39",99,99,"Deron Powers made Free Throw.",56,49,7,0.990099250663417,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+302,2,"1:39",99,99,"Foul on Trey Dickerson.",56,49,7,0.990099250663417,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+303,2,"1:28",88,88,"Foul on Deron Powers.",57,49,8,0.997779739696033,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+304,2,"1:28",88,88,"Matt Mooney made Free Throw.",57,50,7,0.995465259231825,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+305,2,"1:28",88,88,"Matt Mooney made Free Throw.",57,51,6,0.990760421692031,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+306,2,"1:21",81,81,"Foul on Trey Dickerson.",57,51,6,0.990760421692031,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+307,2,"1:19",79,79,"Foul on Matt Mooney.",57,51,6,0.989419591651939,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+308,2,"1:19",79,79,"Brian Bernardi made Free Throw.",58,51,7,0.994898543530751,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+309,2,"1:19",79,79,"Brian Bernardi made Free Throw.",59,51,8,0.9975473117028,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+310,2,"1:12",72,72,"Matt Mooney made Three Point Jumper. Assisted by Triston Simpson.",59,54,5,0.978185283058296,"Hofstra","South Dakota",4,2,0,0,3,400926842,2016-11-23
+311,2,"1:10",70,70,"South Dakota  Timeout",59,54,5,0.978185283058296,"Hofstra","South Dakota",3,2,1,0,3,400926842,2016-11-23
+312,2,"1:06",66,66,"Foul on Trey Burch-Manning.",59,54,5,0.976699765136729,"Hofstra","South Dakota",3,2,1,0,3,400926842,2016-11-23
+313,2,"1:06",66,66,"Eli Pemberton made Free Throw.",60,54,6,0.988770982627857,"Hofstra","South Dakota",3,2,1,0,3,400926842,2016-11-23
+314,2,"1:06",66,66,"Eli Pemberton made Free Throw.",61,54,7,0.994622860501655,"Hofstra","South Dakota",3,2,1,0,3,400926842,2016-11-23
+315,2,"0:58",58,58,"Matt Mooney made Three Point Jumper.",61,57,4,0.983156616560307,"Hofstra","South Dakota",3,2,1,0,3,400926842,2016-11-23
+316,2,"0:58",58,58,"South Dakota  Timeout",61,57,4,0.983156616560307,"Hofstra","South Dakota",2,2,1,0,3,400926842,2016-11-23
+317,2,"0:33",33,33,"Deron Powers Turnover.",61,57,4,0.991046633307985,"Hofstra","South Dakota",2,2,1,0,3,400926842,2016-11-23
+318,2,"0:31",31,31,"Carlton Hurst Steal.",61,57,4,0.978133257401863,"Hofstra","South Dakota",2,2,1,0,3,400926842,2016-11-23
+319,2,"0:24",24,24,"Matt Mooney missed Jumper.",61,57,4,0.980400913429527,"Hofstra","South Dakota",2,2,1,0,3,400926842,2016-11-23
+320,2,"0:24",24,24,"Ty Greer Defensive Rebound.",61,57,4,0.980400913429527,"Hofstra","South Dakota",2,2,1,0,3,400926842,2016-11-23
+321,2,"0:21",21,21,"Foul on Tyler Flack.",61,57,4,0.998555848760422,"Hofstra","South Dakota",2,2,1,0,3,400926842,2016-11-23
+322,2,"0:21",21,21,"Ty Greer made Free Throw.",62,57,5,0.999717504468018,"Hofstra","South Dakota",2,2,1,0,3,400926842,2016-11-23
+323,2,"0:21",21,21,"Ty Greer made Free Throw.",63,57,6,0.999944791712137,"Hofstra","South Dakota",2,2,1,0,3,400926842,2016-11-23
+324,2,"0:16",16,16,"Matt Mooney missed Three Point Jumper.",63,57,6,0.999956889464221,"Hofstra","South Dakota",2,2,1,0,3,400926842,2016-11-23
+325,2,"0:16",16,16,"Matt Mooney Offensive Rebound.",63,57,6,0.999956889464221,"Hofstra","South Dakota",2,2,1,0,3,400926842,2016-11-23
+326,2,"0:12",12,12,"Brandon Armstrong missed Three Point Jumper.",63,57,6,0.999793734727405,"Hofstra","South Dakota",2,2,1,0,3,400926842,2016-11-23
+327,2,"0:12",12,12,"Triston Simpson Offensive Rebound.",63,57,6,0.999793734727405,"Hofstra","South Dakota",2,2,1,0,3,400926842,2016-11-23
+328,2,"0:07",7,7,"Matt Mooney missed Three Point Jumper.",63,57,6,0.999966228611839,"Hofstra","South Dakota",2,2,1,0,3,400926842,2016-11-23
+329,2,"0:07",7,7,"Deron Powers Defensive Rebound.",63,57,6,0.999966228611839,"Hofstra","South Dakota",2,2,1,0,3,400926842,2016-11-23
+330,2,"0:04",4,4,"Foul on Matt Mooney.",63,57,6,0.999956864559921,"Hofstra","South Dakota",2,2,1,0,3,400926842,2016-11-23
+331,2,"0:04",4,4,"Deron Powers made Free Throw.",64,57,7,0.999992297731668,"Hofstra","South Dakota",2,2,1,0,3,400926842,2016-11-23
+332,2,"0:04",4,4,"Deron Powers made Free Throw.",65,57,8,0.999998624722256,"Hofstra","South Dakota",2,2,1,0,3,400926842,2016-11-23
+333,2,"0:01",1,1,"Triston Simpson missed Three Point Jumper.",65,57,8,0.999998624722256,"Hofstra","South Dakota",2,2,1,0,3,400926842,2016-11-23
+334,2,"0:01",1,1,"South Dakota Deadball Team Rebound.",65,57,8,0.999998624722256,"Hofstra","South Dakota",2,2,1,0,3,400926842,2016-11-23
+335,2,"0:00",0,0,"End of Game",65,57,8,1,"Hofstra","South Dakota",2,2,1,0,3,400926842,2016-11-23

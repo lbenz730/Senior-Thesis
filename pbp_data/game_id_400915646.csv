@@ -1,0 +1,348 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.188206135120096,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+2,1,"20:00",2400,2400,"Jump Ball won by Oregon",0,0,0,0.188206135120096,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+3,1,"19:44",2384,2384,"Dillon Brooks Turnover.",0,0,0,0.194636807114288,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+4,1,"19:44",2384,2384,"Wesley Gordon Steal.",0,0,0,0.194636807114288,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+5,1,"19:34",2374,2374,"Dominique Collier missed Jumper.",0,0,0,0.213212322719257,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+6,1,"19:34",2374,2374,"Wesley Gordon Offensive Rebound.",0,0,0,0.213212322719257,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+7,1,"19:28",2368,2368,"George King Turnover.",0,0,0,0.207586750039755,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+8,1,"19:12",2352,2352,"Dillon Brooks Turnover.",0,0,0,0.21479245744006,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+9,1,"18:55",2335,2335,"George King Turnover.",0,0,0,0.208523660165121,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+10,1,"18:44",2324,2324,"Jordan Bell made Jumper.",0,2,-2,0.188758839627574,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+11,1,"18:20",2300,2300,"George King Turnover.",0,2,-2,0.179534141127275,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+12,1,"18:20",2300,2300,"Dylan Ennis Steal.",0,2,-2,0.179534141127275,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+13,1,"17:57",2277,2277,"Dillon Brooks missed Three Point Jumper.",0,2,-2,0.182571480947428,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+14,1,"17:57",2277,2277,"Colorado Defensive Rebound.",0,2,-2,0.182571480947428,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+15,1,"17:53",2273,2273,"Foul on Jordan Bell.",0,2,-2,0.182571480947428,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+16,1,"17:43",2263,2263,"Wesley Gordon made Jumper. Assisted by Derrick White.",2,2,0,0.20869219135613,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+17,1,"17:30",2250,2250,"Dylan Ennis missed Three Point Jumper.",2,2,0,0.224141402684237,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+18,1,"17:30",2250,2250,"Xavier Johnson Defensive Rebound.",2,2,0,0.224141402684237,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+19,1,"17:17",2237,2237,"Xavier Johnson made Three Point Jumper. Assisted by Dominique Collier.",5,2,3,0.27664660110744,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+20,1,"17:04",2224,2224,"Tyler Dorsey made Three Point Jumper. Assisted by Dillon Brooks.",5,5,0,0.214437674740373,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+21,1,"16:50",2210,2210,"George King made Three Point Jumper. Assisted by Derrick White.",8,5,3,0.309175732264351,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+22,1,"16:36",2196,2196,"Dylan Ennis missed Layup.",8,5,3,0.288071531600457,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+23,1,"16:36",2196,2196,"Wesley Gordon Block.",8,5,3,0.288071531600457,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+24,1,"16:36",2196,2196,"Xavier Johnson Defensive Rebound.",8,5,3,0.288071531600457,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+25,1,"16:28",2188,2188,"Dominique Collier made Three Point Jumper.",11,5,6,0.348799462237799,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+26,1,"16:14",2174,2174,"Payton Pritchard Turnover.",11,5,6,0.341467267465232,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+27,1,"16:04",2164,2164,"George King made Three Point Jumper. Assisted by Wesley Gordon.",14,5,9,0.43207449869663,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+28,1,"15:54",2154,2154,"Chris Boucher made Three Point Jumper. Assisted by Dylan Ennis.",14,8,6,0.3487725406522,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+29,1,"15:33",2133,2133,"Derrick White missed Layup.",14,8,6,0.359278575695704,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+30,1,"15:33",2133,2133,"Derrick White Offensive Rebound.",14,8,6,0.359278575695704,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+31,1,"15:31",2131,2131,"Derrick White missed Layup.",14,8,6,0.359278575695704,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+32,1,"15:31",2131,2131,"Chris Boucher Defensive Rebound.",14,8,6,0.359278575695704,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+33,1,"15:18",2118,2118,"Dillon Brooks Turnover.",14,8,6,0.336371571569091,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+34,1,"15:18",2118,2118,"Derrick White Steal.",14,8,6,0.336371571569091,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+35,1,"15:12",2112,2112,"Derrick White Turnover.",14,8,6,0.336371571569091,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+36,1,"15:12",2112,2112,"Official TV Timeout",14,8,6,0.336371571569091,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+37,1,"14:59",2099,2099,"Chris Boucher made Three Point Jumper. Assisted by Dylan Ennis.",14,11,3,0.295253200076014,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+38,1,"14:43",2083,2083,"Dominique Collier missed Three Point Jumper.",14,11,3,0.296144581902203,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+39,1,"14:43",2083,2083,"Dominique Collier Offensive Rebound.",14,11,3,0.296144581902203,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+40,1,"14:37",2077,2077,"George King missed Jumper.",14,11,3,0.263533576335892,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+41,1,"14:37",2077,2077,"Chris Boucher Defensive Rebound.",14,11,3,0.263533576335892,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+42,1,"14:30",2070,2070,"Dylan Ennis Turnover.",14,11,3,0.263533576335892,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+43,1,"14:30",2070,2070,"Derrick White Steal.",14,11,3,0.263533576335892,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+44,1,"14:18",2058,2058,"Wesley Gordon made Jumper. Assisted by Xavier Johnson.",16,11,5,0.304719022973698,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+45,1,"14:04",2044,2044,"Dylan Ennis missed Layup.",16,11,5,0.318026879782976,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+46,1,"14:04",2044,2044,"Wesley Gordon Block.",16,11,5,0.318026879782976,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+47,1,"14:04",2044,2044,"Oregon Offensive Rebound.",16,11,5,0.318026879782976,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+48,1,"13:45",2025,2025,"Tyler Dorsey made Layup.",16,13,3,0.284228125883184,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+49,1,"13:29",2009,2009,"Xavier Johnson Turnover.",16,13,3,0.280632460763896,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+50,1,"13:29",2009,2009,"Dylan Ennis Steal.",16,13,3,0.280632460763896,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+51,1,"13:25",2005,2005,"Tyler Dorsey missed Three Point Jumper.",16,13,3,0.280632460763896,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+52,1,"13:25",2005,2005,"Tyler Dorsey Offensive Rebound.",16,13,3,0.280632460763896,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+53,1,"13:04",1984,1984,"Chris Boucher missed Three Point Jumper.",16,13,3,0.295507518974535,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+54,1,"13:04",1984,1984,"Oregon Offensive Rebound.",16,13,3,0.295507518974535,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+55,1,"12:58",1978,1978,"Casey Benson made Jumper. Assisted by Payton Pritchard.",16,15,1,0.235764265757021,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+56,1,"12:41",1961,1961,"Foul on Casey Benson.",16,15,1,0.237334503945521,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+57,1,"12:30",1950,1950,"Derrick White made Jumper. Assisted by Bryce Peters.",18,15,3,0.313013416581418,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+58,1,"12:13",1933,1933,"Casey Benson missed Three Point Jumper.",18,15,3,0.294321449381624,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+59,1,"12:13",1933,1933,"Jordan Bell Offensive Rebound.",18,15,3,0.294321449381624,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+60,1,"11:53",1913,1913,"Payton Pritchard made Jumper. Assisted by Dylan Ennis.",18,17,1,0.265001870548172,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+61,1,"11:36",1896,1896,"Foul on Tory Miller.",18,17,1,0.265936834923449,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+62,1,"11:36",1896,1896,"Tory Miller Turnover.",18,17,1,0.265936834923449,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+63,1,"11:36",1896,1896,"Official TV Timeout",18,17,1,0.265936834923449,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+64,1,"11:22",1882,1882,"Dylan Ennis missed Layup.",18,17,1,0.233952853585314,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+65,1,"11:22",1882,1882,"Josh Fortune Block.",18,17,1,0.233952853585314,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+66,1,"11:22",1882,1882,"Derrick White Defensive Rebound.",18,17,1,0.233952853585314,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+67,1,"11:13",1873,1873,"Bryce Peters missed Three Point Jumper.",18,17,1,0.248009645522566,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+68,1,"11:13",1873,1873,"Lucas Siewert Offensive Rebound.",18,17,1,0.248009645522566,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+69,1,"11:02",1862,1862,"Foul on Payton Pritchard.",18,17,1,0.279545951142525,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+70,1,"10:53",1853,1853,"Derrick White missed Jumper.",18,17,1,0.26216114602153,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+71,1,"10:53",1853,1853,"Jordan Bell Defensive Rebound.",18,17,1,0.26216114602153,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+72,1,"10:40",1840,1840,"Wesley Gordon Defensive Rebound.",18,17,1,0.229879556032246,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+73,1,"10:27",1827,1827,"Lucas Siewert made Three Point Jumper. Assisted by Wesley Gordon.",21,17,4,0.336361202818133,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+74,1,"10:02",1802,1802,"Chris Boucher missed Three Point Jumper.",21,17,4,0.324741816433533,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+75,1,"9:58",1798,1798,"Dillon Brooks Turnover.",21,17,4,0.33614898534991,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+76,1,"9:34",1774,1774,"Dillon Brooks made Layup.",23,19,4,0.315287006351481,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+77,1,"9:21",1761,1761,"Deleon Brown made Jumper. Assisted by Josh Fortune.",25,19,6,0.383843418123705,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+78,1,"9:14",1754,1754,"Payton Pritchard missed Jumper.",25,19,6,0.363484321403041,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+79,1,"8:56",1736,1736,"Josh Fortune Turnover.",25,19,6,0.407732724640974,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+80,1,"8:26",1706,1706,"Oregon  Turnover.",25,19,6,0.385922245323116,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+81,1,"8:12",1692,1692,"Josh Fortune missed Three Point Jumper.",25,19,6,0.444904230492909,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+82,1,"8:12",1692,1692,"Wesley Gordon Offensive Rebound.",25,19,6,0.444904230492909,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+83,1,"8:03",1683,1683,"Deleon Brown missed Three Point Jumper.",25,19,6,0.408975831290244,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+84,1,"8:03",1683,1683,"Colorado Offensive Rebound.",25,19,6,0.408975831290244,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+85,1,"7:55",1675,1675,"Official TV Timeout",25,19,6,0.416180432935991,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+86,1,"7:46",1666,1666,"Derrick White made Layup.",27,19,8,0.464551370831097,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+87,1,"7:24",1644,1644,"Tyler Dorsey missed Three Point Jumper.",27,19,8,0.496066698957499,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+88,1,"7:24",1644,1644,"Tyler Dorsey Offensive Rebound.",27,19,8,0.496066698957499,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+89,1,"7:16",1636,1636,"Payton Pritchard made Three Point Jumper. Assisted by Dillon Brooks.",27,22,5,0.397276733461322,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+90,1,"6:59",1619,1619,"Thomas Akyazili made Layup.",29,22,7,0.452364434862547,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+91,1,"6:37",1597,1597,"Dylan Ennis made Three Point Jumper. Assisted by Payton Pritchard.",29,25,4,0.38505525202448,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+92,1,"6:13",1573,1573,"Thomas Akyazili Turnover.",29,25,4,0.376851795051849,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+93,1,"6:13",1573,1573,"Tyler Dorsey Steal.",29,25,4,0.376851795051849,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+94,1,"6:08",1568,1568,"Foul on Thomas Akyazili.",29,25,4,0.348689040429838,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+95,1,"5:48",1548,1548,"Foul on Wesley Gordon.",29,25,4,0.356384700931371,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+96,1,"5:48",1548,1548,"Jordan Bell made Free Throw.",29,26,3,0.325189239037264,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+97,1,"5:48",1548,1548,"Jordan Bell missed Free Throw.",29,26,3,0.325189239037264,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+98,1,"5:48",1548,1548,"Wesley Gordon Defensive Rebound.",29,26,3,0.325189239037264,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+99,1,"5:39",1539,1539,"Foul on Dillon Brooks.",29,26,3,0.3277468282687,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+100,1,"5:29",1529,1529,"Derrick White missed Jumper.",29,26,3,0.338830972744201,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+101,1,"5:29",1529,1529,"Jordan Bell Defensive Rebound.",29,26,3,0.338830972744201,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+102,1,"5:18",1518,1518,"Tyler Dorsey missed Three Point Jumper.",29,26,3,0.363620234205875,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+103,1,"5:18",1518,1518,"Dillon Brooks Offensive Rebound.",29,26,3,0.363620234205875,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+104,1,"5:13",1513,1513,"Dillon Brooks Turnover.",29,26,3,0.363620234205875,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+105,1,"4:46",1486,1486,"Derrick White missed Layup.",29,26,3,0.328940028629268,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+106,1,"4:46",1486,1486,"Dillon Brooks Defensive Rebound.",29,26,3,0.328940028629268,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+107,1,"4:37",1477,1477,"Dillon Brooks Turnover.",29,26,3,0.313557787373397,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+108,1,"4:37",1477,1477,"Derrick White Steal.",29,26,3,0.313557787373397,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+109,1,"4:28",1468,1468,"George King missed Three Point Jumper.",29,26,3,0.378541897693774,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+110,1,"4:28",1468,1468,"Derrick White Offensive Rebound.",29,26,3,0.378541897693774,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+111,1,"4:15",1455,1455,"Derrick White made Jumper.",31,26,5,0.391953811077626,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+112,1,"3:50",1430,1430,"Chris Boucher missed Three Point Jumper.",31,26,5,0.444177410005469,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+113,1,"3:50",1430,1430,"Xavier Johnson Defensive Rebound.",31,26,5,0.444177410005469,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+114,1,"3:42",1422,1422,"Foul on Dylan Ennis.",31,26,5,0.413327346735119,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+115,1,"3:42",1422,1422,"Official TV Timeout",31,26,5,0.413327346735119,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+116,1,"3:31",1411,1411,"Derrick White missed Jumper.",31,26,5,0.435879534270705,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+117,1,"3:31",1411,1411,"Dylan Ennis Defensive Rebound.",31,26,5,0.435879534270705,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+118,1,"3:14",1394,1394,"Jordan Bell made Layup.",31,28,3,0.316995142696342,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+119,1,"2:58",1378,1378,"Dominique Collier missed Three Point Jumper.",31,28,3,0.326848124391471,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+120,1,"2:58",1378,1378,"George King Offensive Rebound.",31,28,3,0.326848124391471,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+121,1,"2:53",1373,1373,"George King missed Layup.",31,28,3,0.326848124391471,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+122,1,"2:53",1373,1373,"Jordan Bell Block.",31,28,3,0.326848124391471,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+123,1,"2:53",1373,1373,"Tyler Dorsey Defensive Rebound.",31,28,3,0.326848124391471,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+124,1,"2:45",1365,1365,"Tyler Dorsey made Jumper.",31,30,1,0.288664071567191,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+125,1,"2:40",1360,1360,"Colorado  Timeout",31,30,1,0.288664071567191,"Colorado","Oregon",3,4,1,0,-7.5,400915646,2017-01-28
+126,1,"2:24",1344,1344,"Foul on Dylan Ennis.",31,30,1,0.296199942397213,"Colorado","Oregon",3,4,1,0,-7.5,400915646,2017-01-28
+127,1,"2:24",1344,1344,"Dominique Collier made Free Throw.",32,30,2,0.330146476358494,"Colorado","Oregon",3,4,1,0,-7.5,400915646,2017-01-28
+128,1,"2:24",1344,1344,"Dominique Collier made Free Throw.",33,30,3,0.365960538050625,"Colorado","Oregon",3,4,1,0,-7.5,400915646,2017-01-28
+129,1,"2:20",1340,1340,"Tyler Dorsey made Layup. Assisted by Dillon Brooks.",33,32,1,0.296199942397213,"Colorado","Oregon",3,4,1,0,-7.5,400915646,2017-01-28
+130,1,"2:03",1323,1323,"Derrick White Turnover.",33,32,1,0.28876599423635,"Colorado","Oregon",3,4,1,0,-7.5,400915646,2017-01-28
+131,1,"1:52",1312,1312,"Chris Boucher made Dunk. Assisted by Dillon Brooks.",33,34,-1,0.250904735931921,"Colorado","Oregon",3,4,1,0,-7.5,400915646,2017-01-28
+132,1,"1:32",1292,1292,"George King missed Layup.",33,34,-1,0.268769318691699,"Colorado","Oregon",3,4,0,0,-7.5,400915646,2017-01-28
+133,1,"1:32",1292,1292,"Tory Miller Offensive Rebound.",33,34,-1,0.268769318691699,"Colorado","Oregon",3,4,0,0,-7.5,400915646,2017-01-28
+134,1,"1:32",1292,1292,"Tory Miller made Two Point Tip Shot.",35,34,1,0.339390274839127,"Colorado","Oregon",3,4,0,0,-7.5,400915646,2017-01-28
+135,1,"1:07",1267,1267,"Jordan Bell missed Layup.",35,34,1,0.30224837656314,"Colorado","Oregon",3,4,0,0,-7.5,400915646,2017-01-28
+136,1,"1:07",1267,1267,"Lucas Siewert Defensive Rebound.",35,34,1,0.30224837656314,"Colorado","Oregon",3,4,0,0,-7.5,400915646,2017-01-28
+137,1,"1:04",1264,1264,"Derrick White Turnover.",35,34,1,0.30224837656314,"Colorado","Oregon",3,4,0,0,-7.5,400915646,2017-01-28
+138,1,"1:01",1261,1261,"Tyler Dorsey Turnover.",35,34,1,0.30224837656314,"Colorado","Oregon",3,4,0,0,-7.5,400915646,2017-01-28
+139,1,"0:50",1250,1250,"Dominique Collier Turnover.",35,34,1,0.308555584075514,"Colorado","Oregon",3,4,0,0,-7.5,400915646,2017-01-28
+140,1,"0:43",1243,1243,"Tyler Dorsey Turnover.",35,34,1,0.287790985136004,"Colorado","Oregon",3,4,0,0,-7.5,400915646,2017-01-28
+141,1,"0:43",1243,1243,"Dominique Collier Steal.",35,34,1,0.287790985136004,"Colorado","Oregon",3,4,0,0,-7.5,400915646,2017-01-28
+142,1,"0:41",1241,1241,"Foul on Jordan Bell.",35,34,1,0.287790985136004,"Colorado","Oregon",3,4,0,0,-7.5,400915646,2017-01-28
+143,1,"0:41",1241,1241,"George King missed Free Throw.",35,34,1,0.287790985136004,"Colorado","Oregon",3,4,0,0,-7.5,400915646,2017-01-28
+144,1,"0:41",1241,1241,"Jordan Bell Defensive Rebound.",35,34,1,0.287790985136004,"Colorado","Oregon",3,4,0,0,-7.5,400915646,2017-01-28
+145,1,"0:16",1216,1216,"Foul on Derrick White.",35,34,1,0.301502818585255,"Colorado","Oregon",3,4,0,0,-7.5,400915646,2017-01-28
+146,1,"0:04",1204,1204,"Dillon Brooks missed Jumper.",35,34,1,0.296172342038838,"Colorado","Oregon",3,4,0,0,-7.5,400915646,2017-01-28
+147,1,"0:04",1204,1204,"Casey Benson Offensive Rebound.",35,34,1,0.296172342038838,"Colorado","Oregon",3,4,0,0,-7.5,400915646,2017-01-28
+148,1,"0:00",1200,1200,"End of 1st half",35,34,1,0.296172342038838,"Colorado","Oregon",3,4,0,0,-7.5,400915646,2017-01-28
+149,2,"20:00",1200,1200,"PLAY",35,34,1,0.296172342038838,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+150,2,"19:36",1176,1176,"Xavier Johnson missed Jumper.",35,34,1,0.314876102462737,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+151,2,"19:36",1176,1176,"Jordan Bell Defensive Rebound.",35,34,1,0.314876102462737,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+152,2,"19:25",1165,1165,"Dylan Ennis made Three Point Jumper. Assisted by Tyler Dorsey.",35,37,-2,0.185515685833013,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+153,2,"19:02",1142,1142,"George King made Layup.",37,37,0,0.28829923992096,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+154,2,"18:52",1132,1132,"Tyler Dorsey missed Layup.",37,37,0,0.269691778665242,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+155,2,"18:52",1132,1132,"Xavier Johnson Block.",37,37,0,0.269691778665242,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+156,2,"18:52",1132,1132,"Dominique Collier Defensive Rebound.",37,37,0,0.269691778665242,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+157,2,"18:38",1118,1118,"George King missed Three Point Jumper.",37,37,0,0.293439924562626,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+158,2,"18:38",1118,1118,"Tyler Dorsey Defensive Rebound.",37,37,0,0.293439924562626,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+159,2,"18:20",1100,1100,"Dylan Ennis missed Three Point Jumper.",37,37,0,0.264050221485127,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+160,2,"18:20",1100,1100,"George King Defensive Rebound.",37,37,0,0.264050221485127,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+161,2,"18:04",1084,1084,"Dominique Collier missed Three Point Jumper.",37,37,0,0.257569700296268,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+162,2,"18:04",1084,1084,"George King Offensive Rebound.",37,37,0,0.257569700296268,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+163,2,"17:42",1062,1062,"Wesley Gordon missed Jumper.",37,37,0,0.309454221528404,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+164,2,"17:42",1062,1062,"Payton Pritchard Defensive Rebound.",37,37,0,0.309454221528404,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+165,2,"17:32",1052,1052,"Foul on Jordan Bell.",37,37,0,0.287609892207695,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+166,2,"17:32",1052,1052,"Jordan Bell Turnover.",37,37,0,0.287609892207695,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+167,2,"17:14",1034,1034,"Wesley Gordon made Layup. Assisted by Derrick White.",39,37,2,0.341678474936732,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+168,2,"16:58",1018,1018,"Jordan Bell missed Jumper.",39,37,2,0.343971526998609,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+169,2,"16:58",1018,1018,"George King Defensive Rebound.",39,37,2,0.343971526998609,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+170,2,"16:45",1005,1005,"Dominique Collier missed Layup.",39,37,2,0.356187251111429,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+171,2,"16:45",1005,1005,"Payton Pritchard Defensive Rebound.",39,37,2,0.356187251111429,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+172,2,"16:38",998,998,"Foul on Xavier Johnson.",39,37,2,0.345709234649618,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+173,2,"16:38",998,998,"Dillon Brooks made Free Throw.",39,39,0,0.269935971008231,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+174,2,"16:38",998,998,"Dillon Brooks made Free Throw.",39,38,1,0.306517613397306,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+175,2,"16:21",981,981,"Xavier Johnson missed Three Point Jumper.",39,39,0,0.31968730652541,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+176,2,"16:21",981,981,"Chris Boucher Defensive Rebound.",39,39,0,0.31968730652541,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+177,2,"15:57",957,957,"Payton Pritchard missed Three Point Jumper.",39,39,0,0.257513091071144,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+178,2,"15:57",957,957,"Xavier Johnson Defensive Rebound.",39,39,0,0.257513091071144,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+179,2,"15:47",947,947,"Xavier Johnson missed Jumper.",39,39,0,0.297306527014169,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+180,2,"15:47",947,947,"Dillon Brooks Defensive Rebound.",39,39,0,0.297306527014169,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+181,2,"15:40",940,940,"Foul on George King.",39,39,0,0.297306527014169,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+182,2,"15:40",940,940,"Official TV Timeout",39,39,0,0.297306527014169,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+183,2,"15:23",923,923,"Foul on Chris Boucher.",39,39,0,0.275187135474853,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+184,2,"15:23",923,923,"Chris Boucher Turnover.",39,39,0,0.275187135474853,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+185,2,"15:03",903,903,"Xavier Johnson Turnover.",39,39,0,0.297114599962965,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+186,2,"15:03",903,903,"Payton Pritchard Steal.",39,39,0,0.297114599962965,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+187,2,"14:57",897,897,"Foul on Bryce Peters.",39,39,0,0.306771545283029,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+188,2,"14:57",897,897,"Dylan Ennis missed Free Throw.",39,39,0,0.306771545283029,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+189,2,"14:57",897,897,"Oregon Deadball Team Rebound.",39,39,0,0.306771545283029,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+190,2,"14:57",897,897,"Dylan Ennis missed Free Throw.",39,39,0,0.306771545283029,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+191,2,"14:57",897,897,"George King Defensive Rebound.",39,39,0,0.306771545283029,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+192,2,"14:45",885,885,"Tory Miller missed Layup.",39,39,0,0.291073610051103,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+193,2,"14:45",885,885,"Chris Boucher Defensive Rebound.",39,39,0,0.291073610051103,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+194,2,"14:18",858,858,"Dillon Brooks missed Three Point Jumper.",39,39,0,0.314732218269324,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+195,2,"14:18",858,858,"Derrick White Defensive Rebound.",39,39,0,0.314732218269324,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+196,2,"14:06",846,846,"Derrick White made Three Point Jumper.",42,39,3,0.448704424981057,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+197,2,"13:41",821,821,"Chris Boucher missed Three Point Jumper.",42,39,3,0.413143115925056,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+198,2,"13:41",821,821,"George King Defensive Rebound.",42,39,3,0.413143115925056,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+199,2,"13:16",796,796,"Derrick White made Three Point Jumper.",45,39,6,0.606114222216213,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+200,2,"12:34",754,754,"Jordan Bell Turnover.",45,39,6,0.600758116457671,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+201,2,"12:34",754,754,"Tory Miller Steal.",45,39,6,0.600758116457671,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+202,2,"12:29",749,749,"Bryce Peters missed Jumper.",45,39,6,0.607410572679212,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+203,2,"12:29",749,749,"Colorado Offensive Rebound.",45,39,6,0.607410572679212,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+204,2,"12:01",721,721,"Foul on Chris Boucher.",45,39,6,0.652978371330182,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+205,2,"12:00",720,720,"Tory Miller missed Layup.",45,39,6,0.652978371330182,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+206,2,"12:00",720,720,"Jordan Bell Block.",45,39,6,0.652978371330182,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+207,2,"12:00",720,720,"Josh Fortune Offensive Rebound.",45,39,6,0.652978371330182,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+208,2,"11:56",716,716,"Foul on Jordan Bell.",45,39,6,0.579613024585615,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+209,2,"11:56",716,716,"Official TV Timeout",45,39,6,0.579613024585615,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+210,2,"11:56",716,716,"Josh Fortune missed Free Throw.",45,39,6,0.579613024585615,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+211,2,"11:56",716,716,"Colorado Deadball Team Rebound.",45,39,6,0.579613024585615,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+212,2,"11:56",716,716,"Josh Fortune missed Free Throw.",45,39,6,0.579613024585615,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+213,2,"11:56",716,716,"Payton Pritchard Defensive Rebound.",45,39,6,0.579613024585615,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+214,2,"11:38",698,698,"Casey Benson missed Three Point Jumper.",45,39,6,0.622297225371802,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+215,2,"11:38",698,698,"Oregon Offensive Rebound.",45,39,6,0.622297225371802,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+216,2,"11:30",690,690,"Tyler Dorsey missed Layup.",45,39,6,0.622297225371802,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+217,2,"11:30",690,690,"Chris Boucher Offensive Rebound.",45,39,6,0.622297225371802,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+218,2,"11:28",688,688,"Jump Ball won by Oregon",45,39,6,0.617912582318979,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+219,2,"11:15",675,675,"Payton Pritchard made Three Point Jumper.",45,42,3,0.457979956339339,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+220,2,"10:43",643,643,"Bryce Peters missed Jumper.",45,42,3,0.50087594317686,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+221,2,"10:43",643,643,"Oregon Defensive Rebound.",45,42,3,0.50087594317686,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+222,2,"10:42",642,642,"Foul on Tory Miller.",45,42,3,0.50087594317686,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+223,2,"10:19",619,619,"Jordan Bell made Jumper.",45,44,1,0.364853416479641,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+224,2,"10:03",603,603,"Tory Miller made Dunk. Assisted by Lucas Siewert.",47,44,3,0.489747639754447,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+225,2,"9:48",588,588,"Payton Pritchard made Three Point Jumper.",47,47,0,0.329260904869986,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+226,2,"9:31",571,571,"Thomas Akyazili missed Three Point Jumper.",47,47,0,0.351141936696153,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+227,2,"9:31",571,571,"Tory Miller Offensive Rebound.",47,47,0,0.351141936696153,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+228,2,"9:09",549,549,"Josh Fortune made Layup. Assisted by Wesley Gordon.",49,47,2,0.441326854406049,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+229,2,"8:50",530,530,"Foul on Josh Fortune.",49,47,2,0.486744883942127,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+230,2,"8:50",530,530,"Payton Pritchard made Free Throw.",49,48,1,0.417171559443576,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+231,2,"8:50",530,530,"Payton Pritchard made Free Throw.",49,49,0,0.35074689778499,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+232,2,"8:35",515,515,"Derrick White missed Three Point Jumper.",49,49,0,0.346209578190002,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+233,2,"8:35",515,515,"Wesley Gordon Offensive Rebound.",49,49,0,0.346209578190002,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+234,2,"8:30",510,510,"Deleon Brown missed Three Point Jumper.",49,49,0,0.346209578190002,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+235,2,"8:30",510,510,"Jordan Bell Defensive Rebound.",49,49,0,0.346209578190002,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+236,2,"8:08",488,488,"Payton Pritchard missed Layup.",49,49,0,0.33779826460694,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+237,2,"8:08",488,488,"Wesley Gordon Defensive Rebound.",49,49,0,0.33779826460694,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+238,2,"8:00",480,480,"Foul on Chris Boucher.",49,49,0,0.33779826460694,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+239,2,"8:00",480,480,"Xavier Johnson missed Free Throw.",49,49,0,0.33779826460694,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+240,2,"8:00",480,480,"Colorado Deadball Team Rebound.",49,49,0,0.33779826460694,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+241,2,"8:00",480,480,"Xavier Johnson missed Free Throw.",49,49,0,0.33779826460694,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+242,2,"8:00",480,480,"Chris Boucher Defensive Rebound.",49,49,0,0.33779826460694,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+243,2,"7:34",454,454,"Dylan Ennis missed Three Point Jumper.",49,49,0,0.346534958164403,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+244,2,"7:34",454,454,"Chris Boucher Offensive Rebound.",49,49,0,0.346534958164403,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+245,2,"7:12",432,432,"Tyler Dorsey missed Three Point Jumper.",49,49,0,0.344063029938684,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+246,2,"7:12",432,432,"Josh Fortune Defensive Rebound.",49,49,0,0.344063029938684,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+247,2,"7:05",425,425,"Xavier Johnson made Layup. Assisted by Josh Fortune.",51,49,2,0.478709232308071,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+248,2,"6:56",416,416,"Official TV Timeout",51,49,2,0.472177182218725,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+249,2,"6:34",394,394,"Foul on Xavier Johnson.",51,49,2,0.519477837977094,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+250,2,"6:34",394,394,"Chris Boucher made Free Throw.",51,50,1,0.441718715339602,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+251,2,"6:34",394,394,"Chris Boucher missed Free Throw.",51,50,1,0.441718715339602,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+252,2,"6:34",394,394,"Xavier Johnson Defensive Rebound.",51,50,1,0.441718715339602,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+253,2,"6:06",366,366,"Josh Fortune missed Layup.",51,50,1,0.440752664359129,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+254,2,"6:06",366,366,"Dillon Brooks Defensive Rebound.",51,50,1,0.440752664359129,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+255,2,"5:40",340,340,"Foul on Josh Fortune.",51,50,1,0.393505282663589,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+256,2,"5:40",340,340,"Dylan Ennis made Free Throw.",51,51,0,0.31708438285953,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+257,2,"5:40",340,340,"Dylan Ennis missed Free Throw.",51,51,0,0.31708438285953,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+258,2,"5:40",340,340,"Xavier Johnson Defensive Rebound.",51,51,0,0.31708438285953,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+259,2,"5:17",317,317,"Wesley Gordon made Layup.",53,51,2,0.560625358873732,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+260,2,"5:17",317,317,"Foul on Chris Boucher.",53,51,2,0.560625358873732,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+261,2,"5:17",317,317,"Wesley Gordon missed Free Throw.",53,51,2,0.560625358873732,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+262,2,"5:17",317,317,"Jordan Bell Defensive Rebound.",53,51,2,0.560625358873732,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+263,2,"5:03",303,303,"Jordan Bell missed Jumper.",53,51,2,0.546919494476767,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+264,2,"5:03",303,303,"Josh Fortune Defensive Rebound.",53,51,2,0.546919494476767,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+265,2,"4:43",283,283,"Derrick White made Three Point Jumper. Assisted by Wesley Gordon.",56,51,5,0.751778605731585,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+266,2,"4:22",262,262,"Foul on Derrick White.",56,51,5,0.790213571664972,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+267,2,"4:22",262,262,"Dillon Brooks missed Free Throw.",56,51,5,0.790213571664972,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+268,2,"4:22",262,262,"Oregon Deadball Team Rebound.",56,51,5,0.790213571664972,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+269,2,"4:22",262,262,"Dillon Brooks made Free Throw.",56,52,4,0.721710173694164,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+270,2,"4:02",242,242,"Derrick White made Layup.",58,52,6,0.868726136685536,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+271,2,"4:02",242,242,"Foul on Dillon Brooks.",58,52,6,0.868726136685536,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+272,2,"4:02",242,242,"Derrick White made Free Throw.",59,52,7,0.908396932857382,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+273,2,"3:53",233,233,"Dillon Brooks missed Three Point Jumper.",59,52,7,0.919162895801564,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+274,2,"3:53",233,233,"Derrick White Defensive Rebound.",59,52,7,0.919162895801564,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+275,2,"3:41",221,221,"George King made Layup. Assisted by Derrick White.",61,52,9,0.961303273372641,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+276,2,"3:41",221,221,"Foul on Jordan Bell.",61,52,9,0.961303273372641,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+277,2,"3:41",221,221,"Official TV Timeout",61,52,9,0.961303273372641,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+278,2,"3:41",221,221,"Technical Foul on Xavier Johnson.",61,52,9,0.961303273372641,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+279,2,"3:41",221,221,"Foul on Xavier Johnson.",61,52,9,0.961303273372641,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+280,2,"3:41",221,221,"Technical Foul on Jordan Bell.",61,52,9,0.961303273372641,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+281,2,"3:41",221,221,"Foul on Jordan Bell.",61,52,9,0.961303273372641,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+282,2,"3:41",221,221,"George King made Free Throw.",62,52,10,0.97431928175754,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+283,2,"3:33",213,213,"Payton Pritchard missed Three Point Jumper.",62,52,10,0.978072628218743,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+284,2,"3:33",213,213,"George King Defensive Rebound.",62,52,10,0.978072628218743,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+285,2,"3:11",191,191,"Foul on Chris Boucher.",62,52,10,0.986555942705277,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+286,2,"3:11",191,191,"Derrick White made Free Throw.",63,52,11,0.991537728754874,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+287,2,"3:11",191,191,"Derrick White made Free Throw.",64,52,12,0.994683428723539,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+288,2,"3:07",187,187,"Dylan Ennis Turnover.",64,52,12,0.994873425840677,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+289,2,"3:07",187,187,"Derrick White Steal.",64,52,12,0.994873425840677,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+290,2,"2:36",156,156,"Derrick White missed Layup.",64,52,12,0.997856712701546,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+291,2,"2:36",156,156,"Dillon Brooks Block.",64,52,12,0.997856712701546,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+292,2,"2:36",156,156,"Dylan Ennis Defensive Rebound.",64,52,12,0.997856712701546,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+293,2,"2:31",151,151,"Dylan Ennis made Three Point Jumper. Assisted by Payton Pritchard.",64,55,9,0.989247388707111,"Colorado","Oregon",4,4,0,0,-7.5,400915646,2017-01-28
+294,2,"2:28",148,148,"Oregon  Timeout",64,55,9,0.979887485726464,"Colorado","Oregon",4,3,0,1,-7.5,400915646,2017-01-28
+295,2,"2:27",147,147,"Foul on Dillon Brooks.",64,55,9,0.979887485726464,"Colorado","Oregon",4,3,0,1,-7.5,400915646,2017-01-28
+296,2,"2:27",147,147,"Xavier Johnson missed Free Throw.",64,55,9,0.979887485726464,"Colorado","Oregon",4,3,0,1,-7.5,400915646,2017-01-28
+297,2,"2:27",147,147,"Colorado Deadball Team Rebound.",64,55,9,0.979887485726464,"Colorado","Oregon",4,3,0,1,-7.5,400915646,2017-01-28
+298,2,"2:27",147,147,"Xavier Johnson made Free Throw.",65,55,10,0.987922248525542,"Colorado","Oregon",4,3,0,1,-7.5,400915646,2017-01-28
+299,2,"2:23",143,143,"Payton Pritchard made Three Point Jumper. Assisted by Casey Benson.",65,58,7,0.945308792265638,"Colorado","Oregon",4,3,0,1,-7.5,400915646,2017-01-28
+300,2,"2:20",140,140,"Oregon  Timeout",65,58,7,0.945308792265638,"Colorado","Oregon",4,2,0,1,-7.5,400915646,2017-01-28
+301,2,"2:13",133,133,"George King missed Three Point Jumper.",65,58,7,0.975633539645442,"Colorado","Oregon",4,2,0,1,-7.5,400915646,2017-01-28
+302,2,"2:13",133,133,"Dillon Brooks Defensive Rebound.",65,58,7,0.975633539645442,"Colorado","Oregon",4,2,0,1,-7.5,400915646,2017-01-28
+303,2,"2:01",121,121,"Dylan Ennis missed Three Point Jumper.",65,58,7,0.968218329615258,"Colorado","Oregon",4,2,0,1,-7.5,400915646,2017-01-28
+304,2,"2:01",121,121,"Payton Pritchard Offensive Rebound.",65,58,7,0.968218329615258,"Colorado","Oregon",4,2,0,1,-7.5,400915646,2017-01-28
+305,2,"1:56",116,116,"Payton Pritchard made Three Point Jumper.",65,61,4,0.891668246349364,"Colorado","Oregon",4,2,0,1,-7.5,400915646,2017-01-28
+306,2,"1:48",108,108,"Foul on Dillon Brooks.",65,61,4,0.867040016692396,"Colorado","Oregon",4,2,0,1,-7.5,400915646,2017-01-28
+307,2,"1:48",108,108,"Derrick White made Free Throw.",66,61,5,0.923727259853989,"Colorado","Oregon",4,2,0,1,-7.5,400915646,2017-01-28
+308,2,"1:48",108,108,"Derrick White missed Free Throw.",66,61,5,0.923727259853989,"Colorado","Oregon",4,2,0,1,-7.5,400915646,2017-01-28
+309,2,"1:48",108,108,"Payton Pritchard Defensive Rebound.",66,61,5,0.923727259853989,"Colorado","Oregon",4,2,0,1,-7.5,400915646,2017-01-28
+310,2,"1:41",101,101,"Payton Pritchard Turnover.",66,61,5,0.923727259853989,"Colorado","Oregon",4,2,0,1,-7.5,400915646,2017-01-28
+311,2,"1:41",101,101,"Xavier Johnson Steal.",66,61,5,0.923727259853989,"Colorado","Oregon",4,2,0,1,-7.5,400915646,2017-01-28
+312,2,"1:38",98,98,"Foul on Dylan Ennis.",66,61,5,0.94514501047498,"Colorado","Oregon",4,2,0,1,-7.5,400915646,2017-01-28
+313,2,"1:38",98,98,"George King made Free Throw.",67,61,6,0.969982421707449,"Colorado","Oregon",4,2,0,1,-7.5,400915646,2017-01-28
+314,2,"1:38",98,98,"George King made Free Throw.",68,61,7,0.983767023998143,"Colorado","Oregon",4,2,0,1,-7.5,400915646,2017-01-28
+315,2,"1:30",90,90,"Foul on George King.",68,61,7,0.983767023998143,"Colorado","Oregon",4,2,0,1,-7.5,400915646,2017-01-28
+316,2,"1:30",90,90,"Dillon Brooks made Free Throw.",68,62,6,0.969982421707449,"Colorado","Oregon",4,2,0,1,-7.5,400915646,2017-01-28
+317,2,"1:30",90,90,"Dillon Brooks made Free Throw.",68,63,5,0.94514501047498,"Colorado","Oregon",4,2,0,1,-7.5,400915646,2017-01-28
+318,2,"1:23",83,83,"Foul on Payton Pritchard.",68,63,5,0.964915663366008,"Colorado","Oregon",4,2,0,1,-7.5,400915646,2017-01-28
+319,2,"1:23",83,83,"Xavier Johnson made Free Throw.",69,63,6,0.982548973608248,"Colorado","Oregon",4,2,0,1,-7.5,400915646,2017-01-28
+320,2,"1:23",83,83,"Xavier Johnson made Free Throw.",70,63,7,0.991398820271589,"Colorado","Oregon",4,2,0,1,-7.5,400915646,2017-01-28
+321,2,"1:20",80,80,"Payton Pritchard missed Three Point Jumper.",70,63,7,0.991398820271589,"Colorado","Oregon",4,2,0,1,-7.5,400915646,2017-01-28
+322,2,"1:20",80,80,"Xavier Johnson Defensive Rebound.",70,63,7,0.991398820271589,"Colorado","Oregon",4,2,0,1,-7.5,400915646,2017-01-28
+323,2,"1:14",74,74,"Foul on Tyler Dorsey.",70,63,7,0.99027095301619,"Colorado","Oregon",4,2,0,0,-7.5,400915646,2017-01-28
+324,2,"1:14",74,74,"Xavier Johnson missed Free Throw.",70,63,7,0.99027095301619,"Colorado","Oregon",4,2,0,0,-7.5,400915646,2017-01-28
+325,2,"1:14",74,74,"Colorado Deadball Team Rebound.",70,63,7,0.99027095301619,"Colorado","Oregon",4,2,0,0,-7.5,400915646,2017-01-28
+326,2,"1:14",74,74,"Xavier Johnson made Free Throw.",71,63,8,0.995311125753762,"Colorado","Oregon",4,2,0,0,-7.5,400915646,2017-01-28
+327,2,"1:08",68,68,"Tyler Dorsey missed Three Point Jumper.",71,63,8,0.996281995063888,"Colorado","Oregon",4,2,0,0,-7.5,400915646,2017-01-28
+328,2,"1:08",68,68,"Derrick White Block.",71,63,8,0.996281995063888,"Colorado","Oregon",4,2,0,0,-7.5,400915646,2017-01-28
+329,2,"1:08",68,68,"George King Defensive Rebound.",71,63,8,0.996281995063888,"Colorado","Oregon",4,2,0,0,-7.5,400915646,2017-01-28
+330,2,"0:59",59,59,"Derrick White made Layup.",73,63,10,0.999805162535943,"Colorado","Oregon",4,2,0,0,-7.5,400915646,2017-01-28
+331,2,"0:50",50,50,"Tyler Dorsey missed Three Point Jumper.",73,63,10,0.999806082415071,"Colorado","Oregon",4,2,0,0,-7.5,400915646,2017-01-28
+332,2,"0:50",50,50,"Dillon Brooks Offensive Rebound.",73,63,10,0.999806082415071,"Colorado","Oregon",4,2,0,0,-7.5,400915646,2017-01-28
+333,2,"0:50",50,50,"Dillon Brooks made Layup.",73,65,8,0.998834567551828,"Colorado","Oregon",4,2,0,0,-7.5,400915646,2017-01-28
+334,2,"0:49",49,49,"Foul on Dylan Ennis.",73,65,8,0.999352197355547,"Colorado","Oregon",4,2,0,0,-7.5,400915646,2017-01-28
+335,2,"0:49",49,49,"Xavier Johnson made Free Throw.",74,65,9,0.999749800449032,"Colorado","Oregon",4,2,0,0,-7.5,400915646,2017-01-28
+336,2,"0:49",49,49,"Xavier Johnson missed Free Throw.",74,65,9,0.999749800449032,"Colorado","Oregon",4,2,0,0,-7.5,400915646,2017-01-28
+337,2,"0:49",49,49,"Payton Pritchard Defensive Rebound.",74,65,9,0.999749800449032,"Colorado","Oregon",4,2,0,0,-7.5,400915646,2017-01-28
+338,2,"0:46",46,46,"Payton Pritchard missed Three Point Jumper.",74,65,9,0.999912544878802,"Colorado","Oregon",4,2,0,0,-7.5,400915646,2017-01-28
+339,2,"0:46",46,46,"Xavier Johnson Defensive Rebound.",74,65,9,0.999912544878802,"Colorado","Oregon",4,2,0,0,-7.5,400915646,2017-01-28
+340,2,"0:34",34,34,"Technical Foul on Bryce Peters.",74,65,9,0.999496870777223,"Colorado","Oregon",4,2,0,0,-7.5,400915646,2017-01-28
+341,2,"0:34",34,34,"Foul on Bryce Peters.",74,65,9,0.999496870777223,"Colorado","Oregon",4,2,0,0,-7.5,400915646,2017-01-28
+342,2,"0:34",34,34,"Technical Foul on Dylan Ennis.",74,65,9,0.999496870777223,"Colorado","Oregon",4,2,0,0,-7.5,400915646,2017-01-28
+343,2,"0:34",34,34,"Foul on Dylan Ennis.",74,65,9,0.999496870777223,"Colorado","Oregon",4,2,0,0,-7.5,400915646,2017-01-28
+344,2,"0:34",34,34,"Jump Ball won by Colorado",74,65,9,0.999496870777223,"Colorado","Oregon",4,2,0,0,-7.5,400915646,2017-01-28
+345,2,"0:02",2,2,"Dominique Collier missed Three Point Jumper.",74,65,9,0.999998835889898,"Colorado","Oregon",4,2,0,0,-7.5,400915646,2017-01-28
+346,2,"0:02",2,2,"Xavier Johnson Offensive Rebound.",74,65,9,0.999998835889898,"Colorado","Oregon",4,2,0,0,-7.5,400915646,2017-01-28
+347,2,"0:00",0,0,"End of Game",74,65,9,1,"Colorado","Oregon",4,2,0,0,-7.5,400915646,2017-01-28

@@ -1,0 +1,340 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","play_length","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,20,0.865434782493531,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+2,1,"19:40",2380,2380,"Jordan Whitehead Turnover.",0,0,0,0,0.861194866708408,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+3,1,"19:40",2380,2380,"Nathan Knight Steal.",0,0,0,16,0.861194866708408,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+4,1,"19:24",2364,2364,"Nathan Knight missed Jumper.",0,0,0,6,0.846548137149362,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+5,1,"19:18",2358,2358,"Brandonn Kamga Defensive Rebound.",0,0,0,17,0.862221953021322,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+6,1,"19:01",2341,2341,"Jahaad Proctor made Jumper.",0,2,-2,16,0.824433794266787,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+7,1,"18:45",2325,2325,"Foul on Brandonn Kamga.",0,2,-2,0,0.827024735052109,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+8,1,"18:45",2325,2325,"Jihar Williams missed Free Throw.",0,2,-2,0,0.827024735052109,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+9,1,"18:45",2325,2325,"William & Mary Deadball Team Rebound.",0,2,-2,0,0.827024735052109,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+10,1,"18:45",2325,2325,"Jihar Williams made Free Throw.",1,2,-1,12,0.841929597872754,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+11,1,"18:33",2313,2313,"Brandonn Kamga missed Jumper.",1,2,-1,2,0.827010482033238,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+12,1,"18:31",2311,2311,"Jordan Whitehead Offensive Rebound.",1,2,-1,0,0.827010482033238,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+13,1,"18:31",2311,2311,"Foul on Nathan Knight.",1,2,-1,0,0.827010482033238,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+14,1,"18:31",2311,2311,"Jordan Whitehead made Free Throw.",1,3,-2,0,0.81250432194402,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+15,1,"18:31",2311,2311,"Jordan Whitehead made Free Throw.",1,4,-3,13,0.797080205924401,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+16,1,"18:18",2298,2298,"Jihar Williams missed Three Point Jumper.",1,4,-3,6,0.813130812364979,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+17,1,"18:12",2292,2292,"Jahaad Proctor Defensive Rebound.",1,4,-3,3,0.813130812364979,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+18,1,"18:09",2289,2289,"Jahaad Proctor missed Three Point Jumper.",1,4,-3,5,0.802137066354887,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+19,1,"18:04",2284,2284,"Jihar Williams Defensive Rebound.",1,4,-3,3,0.802137066354887,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+20,1,"18:01",2281,2281,"Jihar Williams Turnover.",1,4,-3,19,0.802137066354887,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+21,1,"17:42",2262,2262,"Jahaad Proctor Turnover.",1,4,-3,31,0.805232602911511,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+22,1,"17:11",2231,2231,"William & Mary  Turnover.",1,4,-3,21,0.800856638657557,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+23,1,"16:50",2210,2210,"Jordan Whitehead missed Jumper.",1,4,-3,5,0.78614487993305,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+24,1,"16:45",2205,2205,"Justin Pierce Defensive Rebound.",1,4,-3,3,0.79695053143937,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+25,1,"16:42",2202,2202,"Matt Milon missed Three Point Jumper.",1,4,-3,5,0.79695053143937,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+26,1,"16:37",2197,2197,"Ricky Madison Defensive Rebound.",1,4,-3,11,0.806019652422671,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+27,1,"16:26",2186,2186,"Ricky Madison missed Layup.",1,4,-3,0,0.798846232855765,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+28,1,"16:26",2186,2186,"Nathan Knight Block.",1,4,-3,5,0.798846232855765,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+29,1,"16:21",2181,2181,"L.J. Owens Defensive Rebound.",1,4,-3,5,0.798846232855765,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+30,1,"16:16",2176,2176,"Foul on Sam Berlin.",1,4,-3,2,0.794283903157703,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+31,1,"16:14",2174,2174,"Justin Pierce made Jumper. Assisted by Matt Milon.",3,4,-1,18,0.827528394274913,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+32,1,"15:56",2156,2156,"Brandonn Kamga missed Jumper.",3,4,-1,5,0.824228410219681,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+33,1,"15:51",2151,2151,"Nathan Knight Defensive Rebound.",3,4,-1,2,0.824228410219681,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+34,1,"15:49",2149,2149,"Nathan Knight Turnover.",3,4,-1,0,0.835768108628164,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+35,1,"15:49",2149,2149,"Denny Slay Steal.",3,4,-1,6,0.835768108628164,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+36,1,"15:43",2143,2143,"Jahaad Proctor made Layup.",3,6,-3,29,0.80603251853081,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+37,1,"15:14",2114,2114,"Justin Pierce missed Three Point Jumper.",3,6,-3,4,0.800063473534775,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+38,1,"15:10",2110,2110,"Denny Slay Defensive Rebound.",3,6,-3,9,0.800063473534775,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+39,1,"15:01",2101,2101,"Jahaad Proctor made Three Point Jumper. Assisted by Sam Berlin.",3,9,-6,13,0.72614610785721,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+40,1,"14:48",2088,2088,"Foul on Sam Berlin.",3,9,-6,0,0.728993994602897,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+41,1,"14:48",2088,2088,"Official TV Timeout",3,9,-6,6,0.728993994602897,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+42,1,"14:42",2082,2082,"Justin Pierce missed Layup.",3,9,-6,2,0.728993994602897,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+43,1,"14:40",2080,2080,"Nathan Knight made Layup.",5,9,-4,0,0.770191387526495,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+44,1,"14:40",2080,2080,"Nathan Knight Offensive Rebound.",5,9,-4,0,0.770191387526495,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+45,1,"14:40",2080,2080,"Foul on Jordan Whitehead.",5,9,-4,0,0.770191387526495,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+46,1,"14:40",2080,2080,"Nathan Knight made Free Throw.",6,9,-3,5,0.789069554930712,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+47,1,"14:35",2075,2075,"Brandonn Kamga missed Jumper.",6,9,-3,4,0.796631027150234,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+48,1,"14:31",2071,2071,"Matt Milon Defensive Rebound.",6,9,-3,24,0.796631027150234,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+49,1,"14:07",2047,2047,"Nathan Knight missed Three Point Jumper.",6,9,-3,6,0.779500535907086,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+50,1,"14:01",2041,2041,"Jamal Wright Defensive Rebound.",6,9,-3,17,0.779500535907086,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+51,1,"13:44",2024,2024,"Jahaad Proctor made Jumper.",6,11,-5,20,0.728720247302028,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+52,1,"13:24",2004,2004,"L.J. Owens made Jumper.",8,11,-3,28,0.783686030641505,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+53,1,"12:56",1976,1976,"Brandonn Kamga made Layup.",8,13,-5,12,0.742787401098632,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+54,1,"12:44",1964,1964,"Justin Pierce made Layup. Assisted by Nathan Knight.",10,13,-3,0,0.789953789106367,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+55,1,"12:44",1964,1964,"Foul on Jordan Whitehead.",10,13,-3,0,0.789953789106367,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+56,1,"12:44",1964,1964,"Justin Pierce missed Free Throw.",10,13,-3,2,0.789953789106367,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+57,1,"12:42",1962,1962,"Ricky Madison Defensive Rebound.",10,13,-3,14,0.789953789106367,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+58,1,"12:28",1948,1948,"Caden Sanchez missed Layup.",10,13,-3,5,0.774358331075544,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+59,1,"12:23",1943,1943,"Thornton Scott Defensive Rebound.",10,13,-3,3,0.774358331075544,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+60,1,"12:20",1940,1940,"L.J. Owens made Three Point Jumper. Assisted by Thornton Scott.",13,13,0,14,0.833694402770054,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+61,1,"12:06",1926,1926,"Brandonn Kamga missed Layup.",13,13,0,4,0.840186417481138,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+62,1,"12:02",1922,1922,"Nathan Knight Defensive Rebound.",13,13,0,8,0.840186417481138,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+63,1,"11:54",1914,1914,"L.J. Owens Turnover.",13,13,0,0,0.842531230152757,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+64,1,"11:54",1914,1914,"Official TV Timeout",13,13,0,16,0.842531230152757,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+65,1,"11:38",1898,1898,"Foul on Caden Sanchez.",13,13,0,0,0.830678873630997,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+66,1,"11:38",1898,1898,"Caden Sanchez Turnover.",13,13,0,29,0.830678873630997,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+67,1,"11:09",1869,1869,"L.J. Owens made Three Point Jumper. Assisted by Quinn Blair.",16,13,3,20,0.879502908144308,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+68,1,"10:49",1849,1849,"Ricky Madison Turnover.",16,13,3,15,0.872329298424411,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+69,1,"10:34",1834,1834,"Nathan Knight missed Layup.",16,13,3,0,0.87444466360053,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+70,1,"10:34",1834,1834,"Denny Slay Block.",16,13,3,6,0.87444466360053,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+71,1,"10:28",1828,1828,"Caden Sanchez Defensive Rebound.",16,13,3,12,0.88638320595922,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+72,1,"10:16",1816,1816,"Denny Slay made Jumper.",16,15,1,11,0.848699793200214,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+73,1,"10:05",1805,1805,"Foul on Rob Peterson III.",16,15,1,0,0.845999845369696,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+74,1,"10:05",1805,1805,"Nathan Knight made Free Throw.",17,15,2,0,0.862016488716271,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+75,1,"10:05",1805,1805,"Nathan Knight made Free Throw.",18,15,3,19,0.876610293523179,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+76,1,"9:46",1786,1786,"Jahaad Proctor missed Layup.",18,15,3,6,0.864354777354971,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+77,1,"9:40",1780,1780,"Jahaad Proctor Offensive Rebound.",18,15,3,0,0.864354777354971,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+78,1,"9:40",1780,1780,"Jahaad Proctor missed Layup.",18,15,3,0,0.864354777354971,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+79,1,"9:40",1780,1780,"Justin Pierce Defensive Rebound.",18,15,3,0,0.864354777354971,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+80,1,"9:40",1780,1780,"Foul on Jahaad Proctor.",18,15,3,0,0.864354777354971,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+81,1,"9:40",1780,1780,"Mehkel Harvey made Free Throw.",19,15,4,0,0.879767841783868,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+82,1,"9:40",1780,1780,"Mehkel Harvey missed Free Throw.",19,15,4,2,0.879767841783868,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+83,1,"9:38",1778,1778,"Matt Milon Offensive Rebound.",19,15,4,3,0.880678495313823,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+84,1,"9:35",1775,1775,"Matt Milon missed Three Point Jumper.",19,15,4,4,0.880678495313823,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+85,1,"9:31",1771,1771,"Denny Slay Defensive Rebound.",19,15,4,3,0.880678495313823,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+86,1,"9:28",1768,1768,"Ricky Madison Turnover.",19,15,4,20,0.896372204960029,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+87,1,"9:08",1748,1748,"Matt Milon Turnover.",19,15,4,0,0.884339864407383,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+88,1,"9:08",1748,1748,"Brandonn Kamga Steal.",19,15,4,4,0.884339864407383,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+89,1,"9:04",1744,1744,"Foul on Chase Audige.",19,15,4,0,0.884339864407383,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+90,1,"9:04",1744,1744,"Brandonn Kamga made Free Throw.",19,16,3,0,0.870780229520217,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+91,1,"9:04",1744,1744,"Brandonn Kamga missed Free Throw.",19,16,3,0,0.870780229520217,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+92,1,"9:04",1744,1744,"Justin Pierce Defensive Rebound.",19,16,3,12,0.870780229520217,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+93,1,"8:52",1732,1732,"Justin Pierce missed Layup.",19,16,3,4,0.877249467235099,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+94,1,"8:48",1728,1728,"Denny Slay Defensive Rebound.",19,16,3,9,0.866648774410225,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+95,1,"8:39",1719,1719,"Denny Slay Turnover.",19,16,3,0,0.882365279674443,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+96,1,"8:39",1719,1719,"Luke Loewe Steal.",19,16,3,2,0.882365279674443,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+97,1,"8:37",1717,1717,"Justin Pierce made Layup.",21,16,5,0,0.907373710610874,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+98,1,"8:37",1717,1717,"Foul on Brandonn Kamga.",21,16,5,0,0.907373710610874,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+99,1,"8:37",1717,1717,"Justin Pierce made Free Throw.",22,16,6,16,0.917998720227822,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+100,1,"8:21",1701,1701,"Ricky Madison missed Layup.",22,16,6,0,0.906434086400502,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+101,1,"8:21",1701,1701,"Nathan Knight Block.",22,16,6,6,0.906434086400502,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+102,1,"8:15",1695,1695,"Nathan Knight Defensive Rebound.",22,16,6,13,0.915026283149,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+103,1,"8:02",1682,1682,"Justin Pierce Turnover.",22,16,6,0,0.922196939600484,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+104,1,"8:02",1682,1682,"Ricky Madison Steal.",22,16,6,14,0.922196939600484,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+105,1,"7:48",1668,1668,"Jahaad Proctor missed Jumper.",22,16,6,1,0.909448697732046,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+106,1,"7:47",1667,1667,"Ricky Madison Offensive Rebound.",22,16,6,0,0.909448697732046,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+107,1,"7:47",1667,1667,"Foul on Nathan Knight.",22,16,6,8,0.909448697732046,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+108,1,"7:39",1659,1659,"Official TV Timeout",22,16,6,10,0.908688720184289,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+109,1,"7:29",1649,1649,"Jamal Wright made Three Point Jumper. Assisted by Jahaad Proctor.",22,19,3,25,0.877167847390122,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+110,1,"7:04",1624,1624,"Luke Loewe Turnover.",22,19,3,0,0.872906727924285,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+111,1,"7:04",1624,1624,"Jahaad Proctor Steal.",22,19,3,10,0.872906727924285,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+112,1,"6:54",1614,1614,"Jamal Wright Turnover.",22,19,3,32,0.861578970559287,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+113,1,"6:22",1582,1582,"Jihar Williams missed Layup.",22,19,3,1,0.868080444543791,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+114,1,"6:21",1581,1581,"William & Mary Offensive Rebound.",22,19,3,11,0.868080444543791,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+115,1,"6:10",1570,1570,"Justin Pierce made Three Point Jumper. Assisted by Mehkel Harvey.",25,19,6,7,0.920329071452658,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+116,1,"6:03",1563,1563,"Foul on Mehkel Harvey.",25,19,6,23,0.908322058408384,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+117,1,"5:40",1540,1540,"Denny Slay missed Three Point Jumper.",25,19,6,2,0.913483304707338,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+118,1,"5:38",1538,1538,"William & Mary Defensive Rebound.",25,19,6,11,0.913182881416391,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+119,1,"5:27",1527,1527,"L.J. Owens made Dunk. Assisted by Justin Pierce.",27,19,8,7,0.930299413897493,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+120,1,"5:20",1520,1520,"Foul on Mehkel Harvey.",27,19,8,15,0.930299413897493,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+121,1,"5:05",1505,1505,"Denny Slay missed Jumper.",27,19,8,5,0.931279342158495,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+122,1,"5:00",1500,1500,"Mehkel Harvey Defensive Rebound.",27,19,8,15,0.931279342158495,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+123,1,"4:45",1485,1485,"Foul on Ricky Madison.",27,19,8,0,0.93305859337121,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+124,1,"4:45",1485,1485,"Mehkel Harvey made Free Throw.",28,19,9,0,0.941848262994592,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+125,1,"4:45",1485,1485,"Mehkel Harvey missed Free Throw.",28,19,9,2,0.941848262994592,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+126,1,"4:43",1483,1483,"Mehkel Harvey Offensive Rebound.",28,19,9,2,0.941848262994592,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+127,1,"4:41",1481,1481,"Mehkel Harvey Turnover.",28,19,9,0,0.941848262994592,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+128,1,"4:41",1481,1481,"Jahaad Proctor Steal.",28,19,9,8,0.941848262994592,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+129,1,"4:33",1473,1473,"Jahaad Proctor missed Jumper.",28,19,9,0,0.950137140242644,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+130,1,"4:33",1473,1473,"Jihar Williams Block.",28,19,9,4,0.950137140242644,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+131,1,"4:29",1469,1469,"Jihar Williams Defensive Rebound.",28,19,9,0,0.93227326046794,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+132,1,"4:29",1469,1469,"Foul on Jihar Williams.",28,19,9,0,0.93227326046794,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+133,1,"4:29",1469,1469,"Jihar Williams Turnover.",28,19,9,14,0.93227326046794,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+134,1,"4:15",1455,1455,"Foul on Christian Clark.",28,19,9,2,0.940001213204391,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+135,1,"4:13",1453,1453,"Ricky Madison missed Free Throw.",28,19,9,3,0.940001213204391,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+136,1,"4:10",1450,1450,"Justin Pierce Defensive Rebound.",28,19,9,4,0.940001213204391,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+137,1,"4:06",1446,1446,"L.J. Owens made Layup. Assisted by Thornton Scott.",30,19,11,0,0.960629563425265,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+138,1,"4:06",1446,1446,"Foul on Jamal Wright.",30,19,11,0,0.960629563425265,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+139,1,"4:06",1446,1446,"L.J. Owens made Free Throw.",31,19,12,16,0.965998043819575,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+140,1,"3:50",1430,1430,"Brandonn Kamga missed Layup.",31,19,12,6,0.960997050005258,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+141,1,"3:44",1424,1424,"Ricky Madison made Layup.",31,21,10,0,0.942711605626699,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+142,1,"3:44",1424,1424,"Ricky Madison Offensive Rebound.",31,21,10,20,0.942711605626699,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+143,1,"3:24",1404,1404,"Thornton Scott Turnover.",31,21,10,0,0.95514054667108,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+144,1,"3:24",1404,1404,"Brandonn Kamga Steal.",31,21,10,8,0.95514054667108,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+145,1,"3:16",1396,1396,"Jahaad Proctor missed Three Point Jumper.",31,21,10,0,0.953991245362665,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+146,1,"3:16",1396,1396,"Ricky Madison Offensive Rebound.",31,21,10,0,0.953991245362665,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+147,1,"3:16",1396,1396,"Official TV Timeout",31,21,10,0,0.953991245362665,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+148,1,"3:16",1396,1396,"Official TV Timeout",31,21,10,5,0.953991245362665,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+149,1,"3:11",1391,1391,"Foul on L.J. Owens.",31,21,10,0,0.953991245362665,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+150,1,"3:11",1391,1391,"Ricky Madison missed Free Throw.",31,21,10,3,0.953991245362665,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+151,1,"3:08",1388,1388,"Mehkel Harvey Defensive Rebound.",31,21,10,24,0.950659248359622,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+152,1,"2:44",1364,1364,"Quinn Blair missed Three Point Jumper.",31,21,10,5,0.949925598867769,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+153,1,"2:39",1359,1359,"Ricky Madison Defensive Rebound.",31,21,10,16,0.952539948760785,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+154,1,"2:23",1343,1343,"Ricky Madison missed Layup.",31,21,10,0,0.947897761662283,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+155,1,"2:23",1343,1343,"Mehkel Harvey Block.",31,21,10,3,0.947897761662283,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+156,1,"2:20",1340,1340,"Jahaad Proctor Offensive Rebound.",31,21,10,0,0.947897761662283,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+157,1,"2:20",1340,1340,"Jahaad Proctor Turnover.",31,21,10,11,0.947897761662283,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+158,1,"2:09",1329,1329,"Foul on Jamal Wright.",31,21,10,0,0.951125573000938,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+159,1,"2:09",1329,1329,"L.J. Owens missed Free Throw.",31,21,10,0,0.951125573000938,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+160,1,"2:09",1329,1329,"William & Mary Deadball Team Rebound.",31,21,10,0,0.951125573000938,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+161,1,"2:09",1329,1329,"L.J. Owens made Free Throw.",32,21,11,13,0.957952451463306,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+162,1,"1:56",1316,1316,"Jahaad Proctor made Jumper.",32,23,9,0,0.944994775267302,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+163,1,"1:56",1316,1316,"Foul on Chase Audige.",32,23,9,0,0.944994775267302,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+164,1,"1:56",1316,1316,"Jahaad Proctor made Free Throw.",32,24,8,32,0.936201254028439,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+165,1,"1:24",1284,1284,"L.J. Owens missed Three Point Jumper.",32,24,8,0,0.932972326307597,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+166,1,"1:24",1284,1284,"Rob Peterson III Defensive Rebound.",32,24,8,0,0.932972326307597,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+167,1,"1:24",1284,1284,"Foul on Chase Audige.",32,24,8,0,0.932972326307597,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+168,1,"1:24",1284,1284,"Rob Peterson III missed Free Throw.",32,24,8,0,0.932972326307597,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+169,1,"1:24",1284,1284,"High Point Deadball Team Rebound.",32,24,8,0,0.932972326307597,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+170,1,"1:24",1284,1284,"Rob Peterson III made Free Throw.",32,25,7,23,0.922975665035153,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+171,1,"1:01",1261,1261,"Matt Milon made Jumper.",34,25,9,10,0.947402104229378,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+172,1,"0:51",1251,1251,"Jahaad Proctor made Jumper.",34,27,7,0,0.912757766346967,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+173,1,"0:51",1251,1251,"Foul on Matt Milon.",34,27,7,0,0.912757766346967,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+174,1,"0:51",1251,1251,"Jahaad Proctor made Free Throw.",34,28,6,13,0.899913360935256,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+175,1,"0:38",1238,1238,"Matt Milon missed Three Point Jumper.",34,28,6,5,0.905155164546602,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+176,1,"0:33",1233,1233,"Rob Peterson III Defensive Rebound.",34,28,6,7,0.905155164546602,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+177,1,"0:26",1226,1226,"Jordan Whitehead made Layup. Assisted by Jahaad Proctor.",34,30,4,7,0.884776468308111,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+178,1,"0:19",1219,1219,"William & Mary  Timeout",34,30,4,17,0.875806397035964,"William & Mary","High Point",3,4,1,0,9.9,"401085884",2018-11-07
+179,1,"0:02",1202,1202,"Thornton Scott missed Three Point Jumper.",34,30,4,0,0.879563299819035,"William & Mary","High Point",3,4,1,0,9.9,"401085884",2018-11-07
+180,1,"0:02",1202,1202,"Rob Peterson III Defensive Rebound.",34,30,4,2,0.879563299819035,"William & Mary","High Point",3,4,1,0,9.9,"401085884",2018-11-07
+181,1,"0:00",1200,1200,"End of 1st half",34,30,4,0,0.879563299819035,"William & Mary","High Point",3,4,1,0,9.9,"401085884",2018-11-07
+182,2,"20:00",1200,1200,"PLAY",34,30,4,28,0.879563299819035,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+183,2,"19:32",1172,1172,"Luke Loewe missed Three Point Jumper.",34,30,4,4,0.874325114254233,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+184,2,"19:28",1168,1168,"Ricky Madison Defensive Rebound.",34,30,4,4,0.878567643005367,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+185,2,"19:24",1164,1164,"Denny Slay missed Layup.",34,30,4,0,0.878567643005367,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+186,2,"19:24",1164,1164,"Jordan Whitehead Offensive Rebound.",34,30,4,0,0.878567643005367,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+187,2,"19:24",1164,1164,"Jordan Whitehead made Layup.",34,32,2,0,0.83878479606271,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+188,2,"19:24",1164,1164,"Foul on Jihar Williams.",34,32,2,1,0.83878479606271,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+189,2,"19:23",1163,1163,"Jordan Whitehead missed Free Throw.",34,32,2,3,0.83878479606271,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+190,2,"19:20",1160,1160,"Justin Pierce Defensive Rebound.",34,32,2,12,0.83878479606271,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+191,2,"19:08",1148,1148,"Justin Pierce missed Three Point Jumper.",34,32,2,4,0.831282092803585,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+192,2,"19:04",1144,1144,"Jahaad Proctor Defensive Rebound.",34,32,2,2,0.831282092803585,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+193,2,"19:02",1142,1142,"Foul on Matt Milon.",34,32,2,0,0.831282092803585,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+194,2,"19:02",1142,1142,"Brandonn Kamga missed Free Throw.",34,32,2,0,0.831282092803585,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+195,2,"19:02",1142,1142,"High Point Deadball Team Rebound.",34,32,2,0,0.831282092803585,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+196,2,"19:02",1142,1142,"Brandonn Kamga made Free Throw.",34,33,1,26,0.805734683862535,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+197,2,"18:36",1116,1116,"Luke Loewe missed Jumper.",34,33,1,6,0.807912943321526,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+198,2,"18:30",1110,1110,"Nathan Knight Offensive Rebound.",34,33,1,0,0.807912943321526,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+199,2,"18:30",1110,1110,"Nathan Knight made Layup.",36,33,3,7,0.855997579142945,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+200,2,"18:23",1103,1103,"Jordan Whitehead missed Layup.",36,33,3,0,0.862961613197758,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+201,2,"18:23",1103,1103,"Nathan Knight Block.",36,33,3,6,0.862961613197758,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+202,2,"18:17",1097,1097,"Nathan Knight Defensive Rebound.",36,33,3,11,0.867098889110734,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+203,2,"18:06",1086,1086,"Justin Pierce made Layup.",38,33,5,7,0.903495954159328,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+204,2,"17:59",1079,1079,"Brandonn Kamga missed Layup.",38,33,5,4,0.892026083924912,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+205,2,"17:55",1075,1075,"Jihar Williams Defensive Rebound.",38,33,5,2,0.892026083924912,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+206,2,"17:53",1073,1073,"Matt Milon made Three Point Jumper. Assisted by Jihar Williams.",41,33,8,2,0.931938382678602,"William & Mary","High Point",4,4,0,0,9.9,"401085884",2018-11-07
+207,2,"17:51",1071,1071,"High Point  Timeout",41,33,8,29,0.931938382678602,"William & Mary","High Point",4,3,0,1,9.9,"401085884",2018-11-07
+208,2,"17:22",1042,1042,"Denny Slay missed Three Point Jumper.",41,33,8,5,0.939972644575912,"William & Mary","High Point",4,3,0,1,9.9,"401085884",2018-11-07
+209,2,"17:17",1037,1037,"Justin Pierce Defensive Rebound.",41,33,8,6,0.933738464243393,"William & Mary","High Point",4,3,0,1,9.9,"401085884",2018-11-07
+210,2,"17:11",1031,1031,"Matt Milon made Three Point Jumper. Assisted by Nathan Knight.",44,33,11,29,0.959308946302999,"William & Mary","High Point",4,3,0,1,9.9,"401085884",2018-11-07
+211,2,"16:42",1002,1002,"Jordan Whitehead made Three Point Jumper. Assisted by Ricky Madison.",44,36,8,36,0.934274348101865,"William & Mary","High Point",4,3,0,0,9.9,"401085884",2018-11-07
+212,2,"16:06",966,966,"Matt Milon made Layup.",46,36,10,0,0.952404199706126,"William & Mary","High Point",4,3,0,0,9.9,"401085884",2018-11-07
+213,2,"16:06",966,966,"Foul on Ricky Madison.",46,36,10,0,0.952404199706126,"William & Mary","High Point",4,3,0,0,9.9,"401085884",2018-11-07
+214,2,"16:06",966,966,"Matt Milon made Free Throw.",47,36,11,15,0.960142638021116,"William & Mary","High Point",4,3,0,0,9.9,"401085884",2018-11-07
+215,2,"15:51",951,951,"Official TV Timeout",47,36,11,13,0.966878601671563,"William & Mary","High Point",4,3,0,0,9.9,"401085884",2018-11-07
+216,2,"15:38",938,938,"Brandonn Kamga made Three Point Jumper. Assisted by Jamal Wright.",47,39,8,21,0.938517250815341,"William & Mary","High Point",4,3,0,0,9.9,"401085884",2018-11-07
+217,2,"15:17",917,917,"Foul on Jordan Whitehead.",47,39,8,0,0.945517541464671,"William & Mary","High Point",4,3,0,0,9.9,"401085884",2018-11-07
+218,2,"15:17",917,917,"Justin Pierce missed Free Throw.",47,39,8,0,0.945517541464671,"William & Mary","High Point",4,3,0,0,9.9,"401085884",2018-11-07
+219,2,"15:17",917,917,"William & Mary Deadball Team Rebound.",47,39,8,0,0.945517541464671,"William & Mary","High Point",4,3,0,0,9.9,"401085884",2018-11-07
+220,2,"15:17",917,917,"Justin Pierce made Free Throw.",48,39,9,17,0.954771067442093,"William & Mary","High Point",4,3,0,0,9.9,"401085884",2018-11-07
+221,2,"15:00",900,900,"Brandonn Kamga made Jumper. Assisted by Ricky Madison.",48,41,7,13,0.924607788469336,"William & Mary","High Point",4,3,0,0,9.9,"401085884",2018-11-07
+222,2,"14:47",887,887,"L.J. Owens missed Three Point Jumper.",48,41,7,6,0.913951077142838,"William & Mary","High Point",4,3,0,0,9.9,"401085884",2018-11-07
+223,2,"14:41",881,881,"Justin Pierce Offensive Rebound.",48,41,7,0,0.913951077142838,"William & Mary","High Point",4,3,0,0,9.9,"401085884",2018-11-07
+224,2,"14:41",881,881,"Justin Pierce missed Layup.",48,41,7,2,0.913951077142838,"William & Mary","High Point",4,3,0,0,9.9,"401085884",2018-11-07
+225,2,"14:39",879,879,"Justin Pierce Offensive Rebound.",48,41,7,2,0.928321886537286,"William & Mary","High Point",4,3,0,0,9.9,"401085884",2018-11-07
+226,2,"14:37",877,877,"Justin Pierce Turnover.",48,41,7,0,0.928321886537286,"William & Mary","High Point",4,3,0,0,9.9,"401085884",2018-11-07
+227,2,"14:37",877,877,"Brandonn Kamga Steal.",48,41,7,5,0.928321886537286,"William & Mary","High Point",4,3,0,0,9.9,"401085884",2018-11-07
+228,2,"14:32",872,872,"Jahaad Proctor made Layup.",48,43,5,3,0.898068716624646,"William & Mary","High Point",4,3,0,0,9.9,"401085884",2018-11-07
+229,2,"14:29",869,869,"William & Mary  Timeout",48,43,5,0,0.893211869644502,"William & Mary","High Point",3,3,1,0,9.9,"401085884",2018-11-07
+230,2,"14:29",869,869,"Foul on Jamal Wright.",48,43,5,14,0.893211869644502,"William & Mary","High Point",3,3,1,0,9.9,"401085884",2018-11-07
+231,2,"14:15",855,855,"Nathan Knight missed Layup.",48,43,5,4,0.903859506280437,"William & Mary","High Point",3,3,1,0,9.9,"401085884",2018-11-07
+232,2,"14:11",851,851,"Denny Slay Defensive Rebound.",48,43,5,1,0.903859506280437,"William & Mary","High Point",3,3,1,0,9.9,"401085884",2018-11-07
+233,2,"14:10",850,850,"Foul on L.J. Owens.",48,43,5,21,0.903859506280437,"William & Mary","High Point",3,3,1,0,9.9,"401085884",2018-11-07
+234,2,"13:49",829,829,"Denny Slay missed Three Point Jumper.",48,43,5,4,0.895940647123358,"William & Mary","High Point",3,3,1,0,9.9,"401085884",2018-11-07
+235,2,"13:45",825,825,"Ricky Madison Offensive Rebound.",48,43,5,7,0.895940647123358,"William & Mary","High Point",3,3,1,0,9.9,"401085884",2018-11-07
+236,2,"13:38",818,818,"Brandonn Kamga made Three Point Jumper. Assisted by Jahaad Proctor.",48,46,2,11,0.829776683625243,"William & Mary","High Point",3,3,1,0,9.9,"401085884",2018-11-07
+237,2,"13:27",807,807,"Justin Pierce made Three Point Jumper. Assisted by Thornton Scott.",51,46,5,27,0.906969408324994,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+238,2,"13:00",780,780,"Justin Pierce Defensive Rebound.",51,46,5,11,0.898732921067286,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+239,2,"12:49",769,769,"Nathan Knight missed Dunk.",51,46,5,4,0.913567494360543,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+240,2,"12:45",765,765,"Brandonn Kamga Defensive Rebound.",51,46,5,0,0.913567494360543,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+241,2,"12:45",765,765,"Foul on Justin Pierce.",51,46,5,24,0.913567494360543,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+242,2,"12:21",741,741,"Brandonn Kamga Turnover.",51,46,5,16,0.902698145517767,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+243,2,"12:05",725,725,"Justin Pierce made Jumper.",53,46,7,12,0.937002900624119,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+244,2,"11:53",713,713,"Brandonn Kamga missed Jumper.",53,46,7,7,0.93250889207698,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+245,2,"11:46",706,706,"Jordan Whitehead made Layup.",53,48,5,0,0.894365169070024,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+246,2,"11:46",706,706,"Jordan Whitehead Offensive Rebound.",53,48,5,8,0.894365169070024,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+247,2,"11:38",698,698,"Mehkel Harvey missed Layup.",53,48,5,0,0.918140413526181,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+248,2,"11:38",698,698,"Mehkel Harvey Offensive Rebound.",53,48,5,0,0.918140413526181,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+249,2,"11:38",698,698,"Sam Berlin Block.",53,48,5,9,0.918140413526181,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+250,2,"11:29",689,689,"Mehkel Harvey made Layup.",55,48,7,5,0.934117704732336,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+251,2,"11:24",684,684,"Brandonn Kamga made Layup.",55,50,5,18,0.900664412463955,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+252,2,"11:06",666,666,"Justin Pierce missed Three Point Jumper.",55,50,5,4,0.902612762870813,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+253,2,"11:02",662,662,"Brandonn Kamga Defensive Rebound.",55,50,5,7,0.902612762870813,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+254,2,"10:55",655,655,"Jahaad Proctor missed Layup.",55,50,5,0,0.907609423387553,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+255,2,"10:55",655,655,"Sam Berlin Offensive Rebound.",55,50,5,0,0.907609423387553,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+256,2,"10:55",655,655,"Mehkel Harvey Block.",55,50,5,7,0.907609423387553,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+257,2,"10:48",648,648,"Denny Slay missed Jumper.",55,50,5,0,0.90571215673076,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+258,2,"10:48",648,648,"Justin Pierce Block.",55,50,5,6,0.90571215673076,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+259,2,"10:42",642,642,"Justin Pierce Defensive Rebound.",55,50,5,1,0.90571215673076,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+260,2,"10:41",641,641,"Official TV Timeout",55,50,5,17,0.90571215673076,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+261,2,"10:24",624,624,"Brandonn Kamga Defensive Rebound.",55,50,5,4,0.917978357463111,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+262,2,"10:20",620,620,"Brandonn Kamga made Three Point Jumper.",55,53,2,25,0.840351606568779,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+263,2,"9:55",595,595,"Thornton Scott Turnover.",55,53,2,11,0.818717791110463,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+264,2,"9:44",584,584,"Rob Peterson III Turnover.",55,53,2,19,0.809795449993871,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+265,2,"9:25",565,565,"Nathan Knight made Layup.",57,53,4,0,0.899736750788269,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+266,2,"9:25",565,565,"Foul on Sam Berlin.",57,53,4,1,0.899736750788269,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+267,2,"9:24",564,564,"Nathan Knight missed Free Throw.",57,53,4,2,0.899736750788269,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+268,2,"9:22",562,562,"Justin Pierce Offensive Rebound.",57,53,4,16,0.899736750788269,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+269,2,"9:06",546,546,"Chase Audige missed Three Point Jumper.",57,53,4,4,0.880114885487482,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+270,2,"9:02",542,542,"Ricky Madison Defensive Rebound.",57,53,4,14,0.880114885487482,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+271,2,"8:48",528,528,"Brandonn Kamga made Layup.",57,55,2,27,0.811945105886404,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+272,2,"8:21",501,501,"Nathan Knight Turnover.",57,55,2,0,0.827978871876364,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+273,2,"8:21",501,501,"Brandonn Kamga Steal.",57,55,2,4,0.827978871876364,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+274,2,"8:17",497,497,"Brandonn Kamga made Layup.",57,57,0,0,0.731458842574056,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+275,2,"8:17",497,497,"Foul on Luke Loewe.",57,57,0,0,0.731458842574056,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+276,2,"8:17",497,497,"Brandonn Kamga missed Free Throw.",57,57,0,2,0.731458842574056,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+277,2,"8:15",495,495,"Justin Pierce Defensive Rebound.",57,57,0,13,0.731458842574056,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+278,2,"8:02",482,482,"Nathan Knight Turnover.",57,57,0,11,0.724569588791377,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+279,2,"7:51",471,471,"Brandonn Kamga missed Jumper.",57,57,0,3,0.72928641603408,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+280,2,"7:48",468,468,"Matt Milon Defensive Rebound.",57,57,0,16,0.722988848156253,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+281,2,"7:32",452,452,"Matt Milon made Three Point Jumper. Assisted by Luke Loewe.",60,57,3,24,0.858624478584677,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+282,2,"7:08",428,428,"Jahaad Proctor made Jumper.",60,59,1,19,0.757653108237842,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+283,2,"6:49",409,409,"Luke Loewe made Layup. Assisted by Nathan Knight.",62,59,3,18,0.86395329523576,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+284,2,"6:31",391,391,"Jahaad Proctor made Jumper.",62,61,1,18,0.775546874379506,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+285,2,"6:13",373,373,"Justin Pierce missed Three Point Jumper.",62,61,1,7,0.765151691387004,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+286,2,"6:06",366,366,"Brandonn Kamga Defensive Rebound.",62,61,1,18,0.760436602775443,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+287,2,"5:48",348,348,"Official TV Timeout",62,61,1,5,0.747446115813584,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+288,2,"5:43",343,343,"Foul on Chase Audige.",62,61,1,0,0.747446115813584,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+289,2,"5:43",343,343,"Denny Slay made Free Throw.",62,62,0,2,0.679273637260548,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+290,2,"5:41",341,341,"Denny Slay missed Free Throw.",62,62,0,1,0.679273637260548,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+291,2,"5:40",340,340,"Justin Pierce Defensive Rebound.",62,62,0,26,0.679273637260548,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+292,2,"5:14",314,314,"Luke Loewe made Jumper.",64,62,2,19,0.821380451883804,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+293,2,"4:55",295,295,"Jahaad Proctor Turnover.",64,62,2,23,0.832761141044875,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+294,2,"4:32",272,272,"Nathan Knight made Jumper.",66,62,4,19,0.91133442806239,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+295,2,"4:13",253,253,"Foul on Nathan Knight.",66,62,4,0,0.919728055830766,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+296,2,"4:13",253,253,"Jahaad Proctor made Free Throw.",66,63,3,0,0.882600052358091,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+297,2,"4:13",253,253,"Jahaad Proctor made Free Throw.",66,64,2,0,0.831446468980157,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+298,2,"4:13",253,253,"Foul on Jahaad Proctor.",66,64,2,23,0.831446468980157,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+299,2,"3:50",230,230,"Justin Pierce made Layup. Assisted by Nathan Knight.",68,64,4,0,0.91308580610199,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+300,2,"3:50",230,230,"Foul on Jordan Whitehead.",68,64,4,0,0.91308580610199,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+301,2,"3:50",230,230,"Official TV Timeout",68,64,4,0,0.91308580610199,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+302,2,"3:50",230,230,"Justin Pierce made Free Throw.",69,64,5,13,0.940347339385957,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+303,2,"3:37",217,217,"Jahaad Proctor missed Jumper.",69,64,5,3,0.949076979231152,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+304,2,"3:34",214,214,"High Point Offensive Rebound.",69,64,5,15,0.949076979231152,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+305,2,"3:19",199,199,"Brandonn Kamga missed Jumper.",69,64,5,1,0.947337002476518,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+306,2,"3:18",198,198,"William & Mary Defensive Rebound.",69,64,5,3,0.947337002476518,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+307,2,"3:15",195,195,"Justin Pierce Turnover.",69,64,5,0,0.947337002476518,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+308,2,"3:15",195,195,"Brandonn Kamga Steal.",69,64,5,0,0.947337002476518,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+309,2,"3:15",195,195,"Brandonn Kamga made Layup.",69,66,3,0,0.875863528589504,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+310,2,"3:15",195,195,"Foul on Justin Pierce.",69,66,3,0,0.875863528589504,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+311,2,"3:15",195,195,"Brandonn Kamga made Free Throw.",69,67,2,7,0.81545790697739,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+312,2,"3:08",188,188,"L.J. Owens missed Three Point Jumper.",69,67,2,4,0.831385483398623,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+313,2,"3:04",184,184,"Denny Slay Defensive Rebound.",69,67,2,0,0.831385483398623,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+314,2,"3:04",184,184,"Denny Slay Turnover.",69,67,2,31,0.831385483398623,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+315,2,"2:33",153,153,"Luke Loewe made Three Point Jumper. Assisted by Matt Milon.",72,67,5,22,0.966082773337458,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+316,2,"2:11",131,131,"Jahaad Proctor made Jumper.",72,69,3,2,0.91252485276023,"William & Mary","High Point",3,3,0,0,9.9,"401085884",2018-11-07
+317,2,"2:09",129,129,"High Point  Timeout",72,69,3,3,0.905698863798836,"William & Mary","High Point",3,2,0,1,9.9,"401085884",2018-11-07
+318,2,"2:06",126,126,"Foul on Denny Slay.",72,69,3,0,0.905698863798836,"William & Mary","High Point",3,2,0,1,9.9,"401085884",2018-11-07
+319,2,"2:06",126,126,"Justin Pierce made Free Throw.",73,69,4,0,0.944208394396093,"William & Mary","High Point",3,2,0,1,9.9,"401085884",2018-11-07
+320,2,"2:06",126,126,"Justin Pierce made Free Throw.",74,69,5,15,0.967555232305723,"William & Mary","High Point",3,2,0,1,9.9,"401085884",2018-11-07
+321,2,"1:51",111,111,"Jahaad Proctor missed Jumper.",74,69,5,5,0.975426154087116,"William & Mary","High Point",3,2,0,1,9.9,"401085884",2018-11-07
+322,2,"1:46",106,106,"Jahaad Proctor Offensive Rebound.",74,69,5,2,0.973420877469187,"William & Mary","High Point",3,2,0,1,9.9,"401085884",2018-11-07
+323,2,"1:44",104,104,"Jahaad Proctor missed Jumper.",74,69,5,2,0.973420877469187,"William & Mary","High Point",3,2,0,1,9.9,"401085884",2018-11-07
+324,2,"1:42",102,102,"William & Mary Defensive Rebound.",74,69,5,0,0.973420877469187,"William & Mary","High Point",3,2,1,1,9.9,"401085884",2018-11-07
+325,2,"1:42",102,102,"William & Mary  Timeout",74,69,5,26,0.973420877469187,"William & Mary","High Point",2,2,1,1,9.9,"401085884",2018-11-07
+326,2,"1:16",76,76,"L.J. Owens missed Layup.",74,69,5,4,0.9844283997099,"William & Mary","High Point",2,2,1,1,9.9,"401085884",2018-11-07
+327,2,"1:12",72,72,"Brandonn Kamga Defensive Rebound.",74,69,5,3,0.9844283997099,"William & Mary","High Point",2,2,1,1,9.9,"401085884",2018-11-07
+328,2,"1:09",69,69,"Jahaad Proctor missed Layup.",74,69,5,4,0.980772897269496,"William & Mary","High Point",2,2,1,1,9.9,"401085884",2018-11-07
+329,2,"1:05",65,65,"Justin Pierce Defensive Rebound.",74,69,5,24,0.980772897269496,"William & Mary","High Point",2,2,1,0,9.9,"401085884",2018-11-07
+330,2,"0:41",41,41,"Matt Milon made Three Point Jumper.",77,69,8,16,0.999626204476324,"William & Mary","High Point",2,2,0,0,9.9,"401085884",2018-11-07
+331,2,"0:25",25,25,"Brandonn Kamga Turnover.",77,69,8,0,0.999972404555128,"William & Mary","High Point",2,2,0,0,9.9,"401085884",2018-11-07
+332,2,"0:25",25,25,"Justin Pierce Steal.",77,69,8,8,0.999972404555128,"William & Mary","High Point",2,2,0,0,9.9,"401085884",2018-11-07
+333,2,"0:17",17,17,"Foul on Denny Slay.",77,69,8,0,0.999882802250165,"William & Mary","High Point",2,2,0,0,9.9,"401085884",2018-11-07
+334,2,"0:17",17,17,"Matt Milon made Free Throw.",78,69,9,0,0.999961423624404,"William & Mary","High Point",2,2,0,0,9.9,"401085884",2018-11-07
+335,2,"0:17",17,17,"Matt Milon made Free Throw.",79,69,10,8,0.999987303013386,"William & Mary","High Point",2,2,0,0,9.9,"401085884",2018-11-07
+336,2,"0:09",9,9,"Jordan Whitehead missed Layup.",79,69,10,4,0.999999941731479,"William & Mary","High Point",2,2,0,0,9.9,"401085884",2018-11-07
+337,2,"0:05",5,5,"Matt Milon Defensive Rebound.",79,69,10,5,0.999999941731479,"William & Mary","High Point",2,2,0,0,9.9,"401085884",2018-11-07
+338,2,"0:00",0,0,"End of 2nd half",79,69,10,0,1,"William & Mary","High Point",2,2,0,0,9.9,"401085884",2018-11-07
+339,2,"0:00",0,0,"End of Game",79,69,10,0,1,"William & Mary","High Point",2,2,0,0,9.9,"401085884",2018-11-07

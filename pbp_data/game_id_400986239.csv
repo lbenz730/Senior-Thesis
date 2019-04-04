@@ -1,0 +1,326 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.770231956908983,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+2,1,"20:00",2400,2400,"Jump Ball won by Virginia Tech",0,0,0,0.770231956908983,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+3,1,"19:41",2381,2381,"Justin Robinson made Layup.",2,0,2,0.777931802093909,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+4,1,"19:16",2356,2356,"Anthony Lawrence II made Jumper.",2,2,0,0.772081401703189,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+5,1,"18:57",2337,2337,"Nickeil Alexander-Walker made Three Point Jumper. Assisted by Justin Robinson.",5,2,3,0.808429987092645,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+6,1,"18:32",2312,2312,"Foul on Dewan Huell.",5,2,3,0.797727124815671,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+7,1,"18:32",2312,2312,"Dewan Huell Turnover.",5,2,3,0.797727124815671,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+8,1,"18:21",2301,2301,"Kerry Blackshear Jr. made Layup. Assisted by Ahmed Hill.",7,2,5,0.830517350922366,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+9,1,"18:21",2301,2301,"Foul on Dejan Vasiljevic.",7,2,5,0.830517350922366,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+10,1,"18:21",2301,2301,"Kerry Blackshear Jr. missed Free Throw.",7,2,5,0.830517350922366,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+11,1,"18:21",2301,2301,"Anthony Lawrence II Defensive Rebound.",7,2,5,0.830517350922366,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+12,1,"17:55",2275,2275,"Dejan Vasiljevic made Layup.",7,4,3,0.812120781403329,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+13,1,"17:37",2257,2257,"Justin Robinson Turnover.",7,4,3,0.803395202985408,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+14,1,"17:31",2251,2251,"Lonnie Walker IV made Three Point Jumper. Assisted by Anthony Lawrence II.",7,7,0,0.753640102899346,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+15,1,"17:15",2235,2235,"Justin Robinson missed Jumper.",7,7,0,0.756653218134012,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+16,1,"17:15",2235,2235,"Dejan Vasiljevic Defensive Rebound.",7,7,0,0.756653218134012,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+17,1,"17:07",2227,2227,"Dejan Vasiljevic made Layup.",7,9,-2,0.719041801478486,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+18,1,"16:45",2205,2205,"Kerry Blackshear Jr. missed Three Point Jumper.",7,9,-2,0.710501424780682,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+19,1,"16:45",2205,2205,"Chris Lykes Defensive Rebound.",7,9,-2,0.710501424780682,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+20,1,"16:22",2182,2182,"Dejan Vasiljevic made Layup.",7,11,-4,0.665122674917773,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+21,1,"16:01",2161,2161,"Justin Bibbs missed Jumper.",7,11,-4,0.658045872247893,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+22,1,"16:01",2161,2161,"Anthony Lawrence II Block.",7,11,-4,0.658045872247893,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+23,1,"16:01",2161,2161,"Virginia Tech Offensive Rebound.",7,11,-4,0.658045872247893,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+24,1,"16:01",2161,2161,"Official TV Timeout",7,11,-4,0.658045872247893,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+25,1,"15:48",2148,2148,"Kerry Blackshear Jr. missed Jumper.",7,11,-4,0.676529878839942,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+26,1,"15:48",2148,2148,"Rodney Miller Jr. Block.",7,11,-4,0.676529878839942,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+27,1,"15:48",2148,2148,"Rodney Miller Jr. Defensive Rebound.",7,11,-4,0.676529878839942,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+28,1,"15:40",2140,2140,"Chris Lykes made Layup.",7,13,-6,0.630702479396595,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+29,1,"15:31",2131,2131,"Ahmed Hill missed Three Point Jumper.",7,13,-6,0.593032596736658,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+30,1,"15:31",2131,2131,"Lonnie Walker IV Block.",7,13,-6,0.593032596736658,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+31,1,"15:31",2131,2131,"Lonnie Walker IV Defensive Rebound.",7,13,-6,0.593032596736658,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+32,1,"15:07",2107,2107,"Anthony Lawrence II missed Layup.",7,13,-6,0.598942995704708,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+33,1,"15:07",2107,2107,"Rodney Miller Jr. Offensive Rebound.",7,13,-6,0.598942995704708,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+34,1,"15:07",2107,2107,"Rodney Miller Jr. made Two Point Tip Shot.",7,15,-8,0.544110036110671,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+35,1,"14:48",2088,2088,"Justin Robinson Turnover.",7,15,-8,0.552770072680128,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+36,1,"14:48",2088,2088,"Lonnie Walker IV Steal.",7,15,-8,0.552770072680128,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+37,1,"14:44",2084,2084,"Lonnie Walker IV missed Three Point Jumper.",7,15,-8,0.552770072680128,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+38,1,"14:44",2084,2084,"Rodney Miller Jr. Offensive Rebound.",7,15,-8,0.552770072680128,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+39,1,"14:44",2084,2084,"Rodney Miller Jr. missed Two Point Tip Shot.",7,15,-8,0.552770072680128,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+40,1,"14:44",2084,2084,"Kerry Blackshear Jr. Defensive Rebound.",7,15,-8,0.552770072680128,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+41,1,"14:35",2075,2075,"Foul on Chris Lykes.",7,15,-8,0.558341417121815,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+42,1,"14:35",2075,2075,"Nickeil Alexander-Walker made Free Throw.",8,15,-7,0.584570730742356,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+43,1,"14:35",2075,2075,"Nickeil Alexander-Walker made Free Throw.",9,15,-6,0.610329470865577,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+44,1,"14:28",2068,2068,"Dejan Vasiljevic made Three Point Jumper. Assisted by Lonnie Walker IV.",9,18,-9,0.491425813212432,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+45,1,"14:09",2049,2049,"Justin Bibbs missed Three Point Jumper.",9,18,-9,0.507894192843795,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+46,1,"14:09",2049,2049,"Anthony Lawrence II Defensive Rebound.",9,18,-9,0.507894192843795,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+47,1,"13:51",2031,2031,"Lonnie Walker IV missed Jumper.",9,18,-9,0.539940072054244,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+48,1,"13:51",2031,2031,"Justin Bibbs Block.",9,18,-9,0.539940072054244,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+49,1,"13:51",2031,2031,"Chris Clarke Defensive Rebound.",9,18,-9,0.539940072054244,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+50,1,"13:41",2021,2021,"Nickeil Alexander-Walker made Jumper.",11,18,-7,0.535606247724019,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+51,1,"13:27",2007,2007,"Foul on Rodney Miller Jr..",11,18,-7,0.569314598791823,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+52,1,"13:27",2007,2007,"Rodney Miller Jr. Turnover.",11,18,-7,0.569314598791823,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+53,1,"13:16",1996,1996,"Nickeil Alexander-Walker missed Layup.",11,18,-7,0.543160460531311,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+54,1,"13:16",1996,1996,"Anthony Lawrence II Block.",11,18,-7,0.543160460531311,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+55,1,"13:16",1996,1996,"Ja'Quan Newton Defensive Rebound.",11,18,-7,0.543160460531311,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+56,1,"12:53",1973,1973,"Anthony Lawrence II made Layup.",11,20,-9,0.490834314568966,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+57,1,"12:53",1973,1973,"Foul on Chris Clarke.",11,20,-9,0.490834314568966,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+58,1,"12:53",1973,1973,"Anthony Lawrence II made Free Throw.",11,21,-10,0.459116343886285,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+59,1,"12:35",1955,1955,"Justin Bibbs made Jumper.",13,21,-8,0.517592666979841,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+60,1,"12:20",1940,1940,"Chris Lykes missed Three Point Jumper.",13,21,-8,0.510085051273453,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+61,1,"12:20",1940,1940,"Ja'Quan Newton Offensive Rebound.",13,21,-8,0.510085051273453,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+62,1,"12:14",1934,1934,"Chris Lykes Turnover.",13,21,-8,0.493341343327738,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+63,1,"11:51",1911,1911,"Devin Wilson missed Layup.",13,21,-8,0.522850492667669,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+64,1,"11:51",1911,1911,"Chris Clarke Offensive Rebound.",13,21,-8,0.522850492667669,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+65,1,"11:51",1911,1911,"Chris Clarke made Two Point Tip Shot.",15,21,-6,0.5864599772248,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+66,1,"11:26",1886,1886,"Anthony Lawrence II made Jumper.",15,23,-8,0.513341981747631,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+67,1,"11:10",1870,1870,"Nickeil Alexander-Walker Turnover.",15,23,-8,0.510181785584972,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+68,1,"11:10",1870,1870,"Official TV Timeout",15,23,-8,0.510181785584972,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+69,1,"10:41",1841,1841,"Foul on Chris Clarke.",15,23,-8,0.498495310648554,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+70,1,"10:41",1841,1841,"Dewan Huell made Free Throw.",15,24,-9,0.467576620767624,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+71,1,"10:41",1841,1841,"Dewan Huell missed Free Throw.",15,24,-9,0.467576620767624,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+72,1,"10:41",1841,1841,"Virginia Tech Defensive Rebound.",15,24,-9,0.467576620767624,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+73,1,"10:19",1819,1819,"Kerry Blackshear Jr. missed Layup.",15,24,-9,0.447286886357029,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+74,1,"10:19",1819,1819,"Dewan Huell Defensive Rebound.",15,24,-9,0.447286886357029,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+75,1,"9:48",1788,1788,"Anthony Lawrence II made Three Point Jumper. Assisted by Ja'Quan Newton.",15,27,-12,0.322417661483821,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+76,1,"9:33",1773,1773,"Ahmed Hill missed Three Point Jumper.",15,27,-12,0.376679287884953,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+77,1,"9:33",1773,1773,"Ja'Quan Newton Defensive Rebound.",15,27,-12,0.376679287884953,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+78,1,"9:15",1755,1755,"Ja'Quan Newton made Layup.",15,29,-14,0.269172739684315,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+79,1,"9:13",1753,1753,"Virginia Tech  Timeout",15,29,-14,0.269172739684315,"Virginia Tech","Miami",3,4,1,0,5.5,400986239,2018-02-03
+80,1,"8:50",1730,1730,"Justin Robinson missed Three Point Jumper.",15,29,-14,0.289294995748781,"Virginia Tech","Miami",3,4,1,0,5.5,400986239,2018-02-03
+81,1,"8:50",1730,1730,"Dewan Huell Defensive Rebound.",15,29,-14,0.289294995748781,"Virginia Tech","Miami",3,4,1,0,5.5,400986239,2018-02-03
+82,1,"8:40",1720,1720,"Ja'Quan Newton missed Jumper.",15,29,-14,0.286002254491444,"Virginia Tech","Miami",3,4,1,0,5.5,400986239,2018-02-03
+83,1,"8:40",1720,1720,"P.J. Horne Defensive Rebound.",15,29,-14,0.286002254491444,"Virginia Tech","Miami",3,4,1,0,5.5,400986239,2018-02-03
+84,1,"8:34",1714,1714,"Foul on Justin Bibbs.",15,29,-14,0.307307849624935,"Virginia Tech","Miami",3,4,1,0,5.5,400986239,2018-02-03
+85,1,"8:34",1714,1714,"Justin Bibbs Turnover.",15,29,-14,0.307307849624935,"Virginia Tech","Miami",3,4,1,0,5.5,400986239,2018-02-03
+86,1,"8:12",1692,1692,"Chris Lykes Turnover.",15,29,-14,0.27153707624449,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+87,1,"8:12",1692,1692,"Nickeil Alexander-Walker Steal.",15,29,-14,0.27153707624449,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+88,1,"8:03",1683,1683,"Nickeil Alexander-Walker made Dunk.",17,29,-12,0.331620102005961,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+89,1,"7:47",1667,1667,"Chris Lykes Turnover.",17,29,-12,0.364945911013063,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+90,1,"7:45",1665,1665,"Official TV Timeout",17,29,-12,0.364945911013063,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+91,1,"7:31",1651,1651,"P.J. Horne made Jumper. Assisted by Justin Bibbs.",19,29,-10,0.417938907218144,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+92,1,"7:11",1631,1631,"Foul on Ahmed Hill.",19,29,-10,0.426594726235109,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+93,1,"7:11",1631,1631,"Dewan Huell made Free Throw.",19,30,-11,0.394762767918196,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+94,1,"7:11",1631,1631,"Dewan Huell made Free Throw.",19,31,-12,0.363799077344448,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+95,1,"6:57",1617,1617,"Nickeil Alexander-Walker made Three Point Jumper. Assisted by Justin Bibbs.",22,31,-9,0.409308889238246,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+96,1,"6:30",1590,1590,"Chris Lykes made Three Point Jumper.",22,34,-12,0.349935208156962,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+97,1,"6:04",1564,1564,"P.J. Horne missed Three Point Jumper.",22,34,-12,0.313144119085043,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+98,1,"6:04",1564,1564,"Anthony Lawrence II Defensive Rebound.",22,34,-12,0.313144119085043,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+99,1,"5:44",1544,1544,"Dejan Vasiljevic Turnover.",22,34,-12,0.339064694909157,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+100,1,"5:36",1536,1536,"Nickeil Alexander-Walker Turnover.",22,34,-12,0.336561518445345,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+101,1,"5:36",1536,1536,"Lonnie Walker IV Steal.",22,34,-12,0.336561518445345,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+102,1,"5:31",1531,1531,"Lonnie Walker IV missed Jumper.",22,34,-12,0.336561518445345,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+103,1,"5:31",1531,1531,"Anthony Lawrence II Offensive Rebound.",22,34,-12,0.336561518445345,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+104,1,"5:22",1522,1522,"Anthony Lawrence II made Layup.",22,36,-14,0.261484406121271,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+105,1,"4:56",1496,1496,"Wabissa Bede made Jumper.",24,36,-12,0.343194887411424,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+106,1,"4:36",1476,1476,"Dewan Huell missed Jumper.",24,36,-12,0.307011896973428,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+107,1,"4:36",1476,1476,"Ahmed Hill Defensive Rebound.",24,36,-12,0.307011896973428,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+108,1,"4:29",1469,1469,"Nickeil Alexander-Walker missed Jumper.",24,36,-12,0.320176388452297,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+109,1,"4:29",1469,1469,"Lonnie Walker IV Block.",24,36,-12,0.320176388452297,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+110,1,"4:29",1469,1469,"Chris Lykes Defensive Rebound.",24,36,-12,0.320176388452297,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+111,1,"4:17",1457,1457,"Dejan Vasiljevic missed Three Point Jumper.",24,36,-12,0.298472853649662,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+112,1,"4:17",1457,1457,"Justin Bibbs Defensive Rebound.",24,36,-12,0.298472853649662,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+113,1,"4:05",1445,1445,"Justin Bibbs made Jumper.",26,36,-10,0.379615721223046,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+114,1,"3:38",1418,1418,"Dewan Huell missed Jumper.",26,36,-10,0.338259852215404,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+115,1,"3:38",1418,1418,"Nickeil Alexander-Walker Block.",26,36,-10,0.338259852215404,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+116,1,"3:38",1418,1418,"Miami Offensive Rebound.",26,36,-10,0.338259852215404,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+117,1,"3:38",1418,1418,"Official TV Timeout",26,36,-10,0.338259852215404,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+118,1,"3:35",1415,1415,"Anthony Lawrence II made Three Point Jumper. Assisted by Lonnie Walker IV.",26,39,-13,0.243002505561797,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+119,1,"3:13",1393,1393,"Ahmed Hill missed Jumper.",26,39,-13,0.25863144316234,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+120,1,"3:13",1393,1393,"Anthony Lawrence II Defensive Rebound.",26,39,-13,0.25863144316234,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+121,1,"3:04",1384,1384,"Ja'Quan Newton made Layup.",26,41,-15,0.219844950010137,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+122,1,"2:40",1360,1360,"Ahmed Hill missed Jumper.",26,41,-15,0.201129165862543,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+123,1,"2:40",1360,1360,"P.J. Horne Offensive Rebound.",26,41,-15,0.201129165862543,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+124,1,"2:37",1357,1357,"P.J. Horne made Jumper.",28,41,-13,0.262379527617261,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+125,1,"2:37",1357,1357,"Foul on Anthony Lawrence II.",28,41,-13,0.262379527617261,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+126,1,"2:37",1357,1357,"P.J. Horne missed Free Throw.",28,41,-13,0.262379527617261,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+127,1,"2:37",1357,1357,"Sam Waardenburg Defensive Rebound.",28,41,-13,0.262379527617261,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+128,1,"2:23",1343,1343,"Lonnie Walker IV missed Jumper.",28,41,-13,0.233019701048412,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+129,1,"2:23",1343,1343,"Anthony Lawrence II Offensive Rebound.",28,41,-13,0.233019701048412,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+130,1,"2:15",1335,1335,"Lonnie Walker IV made Three Point Jumper.",28,44,-16,0.162523373123515,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+131,1,"2:03",1323,1323,"Wabissa Bede made Three Point Jumper. Assisted by Justin Bibbs.",31,44,-13,0.242836214997069,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+132,1,"1:41",1301,1301,"Foul on Justin Bibbs.",31,44,-13,0.262487807947213,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+133,1,"1:21",1281,1281,"Ja'Quan Newton missed Jumper.",31,44,-13,0.267036207767268,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+134,1,"1:21",1281,1281,"P.J. Horne Defensive Rebound.",31,44,-13,0.267036207767268,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+135,1,"0:57",1257,1257,"Wabissa Bede missed Three Point Jumper.",31,44,-13,0.245469247065151,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+136,1,"0:57",1257,1257,"Anthony Lawrence II Defensive Rebound.",31,44,-13,0.245469247065151,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+137,1,"0:28",1228,1228,"Foul on Anthony Lawrence II.",31,44,-13,0.215883492701742,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+138,1,"0:28",1228,1228,"Anthony Lawrence II Turnover.",31,44,-13,0.215883492701742,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+139,1,"0:01",1201,1201,"Foul on Sam Waardenburg.",31,44,-13,0.234176120526383,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+140,1,"0:01",1201,1201,"P.J. Horne made Free Throw.",32,44,-12,0.263932552517613,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+141,1,"0:01",1201,1201,"P.J. Horne missed Free Throw.",32,44,-12,0.263932552517613,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+142,1,"0:01",1201,1201,"Lonnie Walker IV Defensive Rebound.",32,44,-12,0.263932552517613,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+143,1,"0:00",1200,1200,"End of 1st half",32,44,-12,0.263932552517613,"Virginia Tech","Miami",3,4,0,0,5.5,400986239,2018-02-03
+144,2,"20:00",1200,1200,"PLAY",32,44,-12,0.263932552517613,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+145,2,"20:00",1200,1200,"Jump Ball won by Miami",32,44,-12,0.263932552517613,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+146,2,"19:39",1179,1179,"Foul on Justin Robinson.",32,44,-12,0.244311525517489,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+147,2,"19:39",1179,1179,"Chris Lykes made Free Throw.",32,45,-13,0.215219701352694,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+148,2,"19:39",1179,1179,"Chris Lykes missed Free Throw.",32,45,-13,0.215219701352694,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+149,2,"19:39",1179,1179,"Justin Bibbs Defensive Rebound.",32,45,-13,0.215219701352694,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+150,2,"19:16",1156,1156,"Ahmed Hill missed Jumper.",32,45,-13,0.22324741621551,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+151,2,"19:16",1156,1156,"Dewan Huell Defensive Rebound.",32,45,-13,0.22324741621551,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+152,2,"18:48",1128,1128,"Lonnie Walker IV missed Three Point Jumper.",32,45,-13,0.171009780106412,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+153,2,"18:48",1128,1128,"P.J. Horne Defensive Rebound.",32,45,-13,0.171009780106412,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+154,2,"18:38",1118,1118,"Foul on Lonnie Walker IV.",32,45,-13,0.197011196774865,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+155,2,"18:38",1118,1118,"P.J. Horne missed Free Throw.",32,45,-13,0.197011196774865,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+156,2,"18:38",1118,1118,"Virginia Tech Deadball Team Rebound.",32,45,-13,0.197011196774865,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+157,2,"18:38",1118,1118,"P.J. Horne missed Free Throw.",32,45,-13,0.197011196774865,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+158,2,"18:38",1118,1118,"Anthony Lawrence II Defensive Rebound.",32,45,-13,0.197011196774865,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+159,2,"18:15",1095,1095,"Dewan Huell missed Layup.",32,45,-13,0.210269866295887,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+160,2,"18:15",1095,1095,"Justin Bibbs Defensive Rebound.",32,45,-13,0.210269866295887,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+161,2,"18:03",1083,1083,"Justin Bibbs missed Jumper.",32,45,-13,0.194228798340156,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+162,2,"18:03",1083,1083,"P.J. Horne Offensive Rebound.",32,45,-13,0.194228798340156,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+163,2,"18:03",1083,1083,"P.J. Horne missed Two Point Tip Shot.",32,45,-13,0.194228798340156,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+164,2,"18:03",1083,1083,"Dewan Huell Defensive Rebound.",32,45,-13,0.194228798340156,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+165,2,"17:39",1059,1059,"Dejan Vasiljevic made Three Point Jumper. Assisted by Lonnie Walker IV.",32,48,-16,0.118065489568344,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+166,2,"17:12",1032,1032,"Foul on Chris Lykes.",32,48,-16,0.128208536409443,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+167,2,"17:04",1024,1024,"Justin Robinson made Dunk.",34,48,-14,0.161224231075696,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+168,2,"16:43",1003,1003,"Dewan Huell missed Layup.",34,48,-14,0.134761192808504,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+169,2,"16:43",1003,1003,"Ahmed Hill Defensive Rebound.",34,48,-14,0.134761192808504,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+170,2,"16:34",994,994,"Nickeil Alexander-Walker made Three Point Jumper. Assisted by Ahmed Hill.",37,48,-11,0.232944660254112,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+171,2,"16:15",975,975,"Lonnie Walker IV missed Three Point Jumper.",37,48,-11,0.247703576961983,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+172,2,"16:15",975,975,"Anthony Lawrence II Offensive Rebound.",37,48,-11,0.247703576961983,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+173,2,"16:05",965,965,"Dejan Vasiljevic missed Three Point Jumper.",37,48,-11,0.214891640275649,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+174,2,"16:05",965,965,"P.J. Horne Defensive Rebound.",37,48,-11,0.214891640275649,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+175,2,"16:02",962,962,"Foul on Lonnie Walker IV.",37,48,-11,0.214891640275649,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+176,2,"15:45",945,945,"P.J. Horne made Layup. Assisted by Justin Robinson.",39,48,-9,0.303355374089919,"Virginia Tech","Miami",4,4,0,0,5.5,400986239,2018-02-03
+177,2,"15:38",938,938,"Miami  Timeout",39,48,-9,0.281707140200427,"Virginia Tech","Miami",4,3,0,1,5.5,400986239,2018-02-03
+178,2,"15:38",938,938,"Official TV Timeout",39,48,-9,0.281707140200427,"Virginia Tech","Miami",4,3,0,1,5.5,400986239,2018-02-03
+179,2,"15:25",925,925,"Ebuka Izundu missed Jumper.",39,48,-9,0.258842101901977,"Virginia Tech","Miami",4,3,0,1,5.5,400986239,2018-02-03
+180,2,"15:25",925,925,"Nickeil Alexander-Walker Defensive Rebound.",39,48,-9,0.258842101901977,"Virginia Tech","Miami",4,3,0,1,5.5,400986239,2018-02-03
+181,2,"15:13",913,913,"Foul on Anthony Lawrence II.",39,48,-9,0.284093769864048,"Virginia Tech","Miami",4,3,0,1,5.5,400986239,2018-02-03
+182,2,"15:13",913,913,"Official TV Timeout",39,48,-9,0.284093769864048,"Virginia Tech","Miami",4,3,0,1,5.5,400986239,2018-02-03
+183,2,"15:13",913,913,"P.J. Horne missed Free Throw.",39,48,-9,0.284093769864048,"Virginia Tech","Miami",4,3,0,1,5.5,400986239,2018-02-03
+184,2,"15:13",913,913,"Virginia Tech Deadball Team Rebound.",39,48,-9,0.284093769864048,"Virginia Tech","Miami",4,3,0,1,5.5,400986239,2018-02-03
+185,2,"15:13",913,913,"P.J. Horne made Free Throw.",40,48,-8,0.325553865512871,"Virginia Tech","Miami",4,3,0,1,5.5,400986239,2018-02-03
+186,2,"14:58",898,898,"Ebuka Izundu made Layup. Assisted by Ja'Quan Newton.",40,50,-10,0.244803517440204,"Virginia Tech","Miami",4,3,0,1,5.5,400986239,2018-02-03
+187,2,"14:58",898,898,"Foul on Justin Robinson.",40,50,-10,0.244803517440204,"Virginia Tech","Miami",4,3,0,1,5.5,400986239,2018-02-03
+188,2,"14:58",898,898,"Ebuka Izundu made Free Throw.",40,51,-11,0.210682729949681,"Virginia Tech","Miami",4,3,0,1,5.5,400986239,2018-02-03
+189,2,"14:39",879,879,"Justin Bibbs made Three Point Jumper. Assisted by Ahmed Hill.",43,51,-8,0.323924504087567,"Virginia Tech","Miami",4,3,0,1,5.5,400986239,2018-02-03
+190,2,"14:14",854,854,"Ja'Quan Newton Turnover.",43,51,-8,0.306491482819476,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+191,2,"14:14",854,854,"P.J. Horne Steal.",43,51,-8,0.306491482819476,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+192,2,"13:59",839,839,"Nickeil Alexander-Walker missed Jumper.",43,51,-8,0.308061338484609,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+193,2,"13:59",839,839,"Miami Defensive Rebound.",43,51,-8,0.308061338484609,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+194,2,"13:30",810,810,"Lonnie Walker IV missed Three Point Jumper.",43,51,-8,0.307313986909126,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+195,2,"13:30",810,810,"Ja'Quan Newton Offensive Rebound.",43,51,-8,0.307313986909126,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+196,2,"13:16",796,796,"Sam Waardenburg made Three Point Jumper. Assisted by Ja'Quan Newton.",43,54,-11,0.157651583032674,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+197,2,"12:57",777,777,"Nickeil Alexander-Walker missed Three Point Jumper.",43,54,-11,0.175656118664245,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+198,2,"12:57",777,777,"Ebuka Izundu Defensive Rebound.",43,54,-11,0.175656118664245,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+199,2,"12:47",767,767,"Ja'Quan Newton made Jumper.",43,56,-13,0.125448293129219,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+200,2,"12:47",767,767,"Foul on Nickeil Alexander-Walker.",43,56,-13,0.125448293129219,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+201,2,"12:47",767,767,"Ja'Quan Newton missed Free Throw.",43,56,-13,0.125448293129219,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+202,2,"12:47",767,767,"Justin Bibbs Defensive Rebound.",43,56,-13,0.125448293129219,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+203,2,"12:33",753,753,"Ahmed Hill missed Three Point Jumper.",43,56,-13,0.113588886441383,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+204,2,"12:33",753,753,"Sam Waardenburg Defensive Rebound.",43,56,-13,0.113588886441383,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+205,2,"12:26",746,746,"Lonnie Walker IV Turnover.",43,56,-13,0.101501330295527,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+206,2,"12:15",735,735,"Justin Robinson made Three Point Jumper. Assisted by Ahmed Hill.",46,56,-10,0.196442618385506,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+207,2,"11:40",700,700,"Foul on Nickeil Alexander-Walker.",46,56,-10,0.198602086926875,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+208,2,"11:40",700,700,"Official TV Timeout",46,56,-10,0.198602086926875,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+209,2,"11:40",700,700,"Anthony Lawrence II made Free Throw.",46,57,-11,0.166901724027454,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+210,2,"11:40",700,700,"Anthony Lawrence II missed Free Throw.",46,57,-11,0.166901724027454,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+211,2,"11:40",700,700,"P.J. Horne Defensive Rebound.",46,57,-11,0.166901724027454,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+212,2,"11:24",684,684,"Chris Clarke Turnover.",46,57,-11,0.147534595319585,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+213,2,"11:24",684,684,"Anthony Lawrence II Steal.",46,57,-11,0.147534595319585,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+214,2,"11:10",670,670,"Ja'Quan Newton missed Jumper.",46,57,-11,0.135858159367827,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+215,2,"11:10",670,670,"Ebuka Izundu Offensive Rebound.",46,57,-11,0.135858159367827,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+216,2,"11:05",665,665,"Ebuka Izundu missed Jumper.",46,57,-11,0.150130852576076,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+217,2,"11:05",665,665,"Ja'Quan Newton Offensive Rebound.",46,57,-11,0.150130852576076,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+218,2,"10:59",659,659,"Anthony Lawrence II made Three Point Jumper. Assisted by Ja'Quan Newton.",46,60,-14,0.0701291205922438,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+219,2,"10:33",633,633,"Justin Bibbs made Three Point Jumper. Assisted by Nickeil Alexander-Walker.",49,60,-11,0.12157362628228,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+220,2,"10:11",611,611,"Ebuka Izundu made Dunk.",49,62,-13,0.0678810023479642,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+221,2,"9:56",596,596,"Nickeil Alexander-Walker Turnover.",49,62,-13,0.0807700900217494,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+222,2,"9:56",596,596,"Ebuka Izundu Steal.",49,62,-13,0.0807700900217494,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+223,2,"9:51",591,591,"Sam Waardenburg Turnover.",49,62,-13,0.0807700900217494,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+224,2,"9:51",591,591,"Justin Bibbs Steal.",49,62,-13,0.0807700900217494,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+225,2,"9:38",578,578,"Chris Clarke made Layup. Assisted by Justin Bibbs.",51,62,-11,0.118923168352202,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+226,2,"9:13",553,553,"Lonnie Walker IV missed Jumper.",51,62,-11,0.0981941548622273,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+227,2,"9:13",553,553,"Chris Clarke Defensive Rebound.",51,62,-11,0.0981941548622273,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+228,2,"9:05",545,545,"Foul on Sam Waardenburg.",51,62,-11,0.0863731865294208,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+229,2,"9:05",545,545,"Chris Clarke missed Free Throw.",51,62,-11,0.0863731865294208,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+230,2,"9:05",545,545,"Virginia Tech Deadball Team Rebound.",51,62,-11,0.0863731865294208,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+231,2,"9:05",545,545,"Chris Clarke made Free Throw.",52,62,-10,0.110001216569578,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+232,2,"8:36",516,516,"Dejan Vasiljevic missed Three Point Jumper.",52,62,-10,0.108406194160281,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+233,2,"8:36",516,516,"Virginia Tech Deadball Team Rebound.",52,62,-10,0.108406194160281,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+234,2,"8:15",495,495,"Justin Robinson missed Jumper.",52,62,-10,0.117697534012705,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+235,2,"8:15",495,495,"Sam Waardenburg Block.",52,62,-10,0.117697534012705,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+236,2,"8:15",495,495,"Sam Waardenburg Defensive Rebound.",52,62,-10,0.117697534012705,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+237,2,"8:11",491,491,"Ja'Quan Newton Turnover.",52,62,-10,0.117697534012705,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+238,2,"7:59",479,479,"Justin Bibbs missed Three Point Jumper.",52,62,-10,0.0947530078217515,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+239,2,"7:59",479,479,"Chris Clarke Offensive Rebound.",52,62,-10,0.0947530078217515,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+240,2,"7:49",469,469,"Justin Robinson made Three Point Jumper. Assisted by Chris Clarke.",55,62,-7,0.206709563136168,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+241,2,"7:31",451,451,"Dejan Vasiljevic missed Three Point Jumper.",55,62,-7,0.160023053340186,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+242,2,"7:31",451,451,"Lonnie Walker IV Offensive Rebound.",55,62,-7,0.160023053340186,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+243,2,"7:23",443,443,"Lonnie Walker IV missed Jumper.",55,62,-7,0.204057472947081,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+244,2,"7:23",443,443,"Justin Bibbs Block.",55,62,-7,0.204057472947081,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+245,2,"7:23",443,443,"Justin Bibbs Defensive Rebound.",55,62,-7,0.204057472947081,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+246,2,"7:17",437,437,"Foul on Ebuka Izundu.",55,62,-7,0.187725190077017,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+247,2,"7:17",437,437,"Official TV Timeout",55,62,-7,0.187725190077017,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+248,2,"7:15",435,435,"Justin Bibbs missed Three Point Jumper.",55,62,-7,0.187725190077017,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+249,2,"7:15",435,435,"Sam Waardenburg Defensive Rebound.",55,62,-7,0.187725190077017,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+250,2,"6:43",403,403,"Ja'Quan Newton made Jumper.",55,64,-9,0.082230816395149,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+251,2,"6:14",374,374,"Chris Clarke Turnover.",55,64,-9,0.0972650460248566,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+252,2,"5:47",347,347,"Anthony Lawrence II made Jumper.",55,66,-11,0.0381340543029509,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+253,2,"5:37",337,337,"Chris Clarke missed Jumper.",55,66,-11,0.0359834745217819,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+254,2,"5:37",337,337,"Anthony Lawrence II Block.",55,66,-11,0.0359834745217819,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+255,2,"5:37",337,337,"Virginia Tech Offensive Rebound.",55,66,-11,0.0359834745217819,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+256,2,"5:30",330,330,"Justin Bibbs made Layup.",57,66,-9,0.0704987475635109,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+257,2,"5:05",305,305,"Dewan Huell missed Jumper.",57,66,-9,0.0741480663657314,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+258,2,"5:05",305,305,"Chris Clarke Defensive Rebound.",57,66,-9,0.0741480663657314,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+259,2,"4:58",298,298,"Justin Bibbs made Layup. Assisted by Chris Clarke.",59,66,-7,0.141309221239715,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+260,2,"4:30",270,270,"Ja'Quan Newton Turnover.",59,66,-7,0.0968152910959821,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+261,2,"4:27",267,267,"Justin Bibbs made Layup.",61,66,-5,0.211163780460689,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+262,2,"4:27",267,267,"Foul on Anthony Lawrence II.",61,66,-5,0.211163780460689,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+263,2,"4:27",267,267,"Justin Bibbs missed Free Throw.",61,66,-5,0.211163780460689,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+264,2,"4:27",267,267,"Anthony Lawrence II Defensive Rebound.",61,66,-5,0.211163780460689,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+265,2,"4:06",246,246,"Chris Lykes missed Three Point Jumper.",61,66,-5,0.176740252720941,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+266,2,"4:06",246,246,"Anthony Lawrence II Offensive Rebound.",61,66,-5,0.176740252720941,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+267,2,"3:55",235,235,"Chris Lykes Turnover.",61,66,-5,0.178945450036982,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+268,2,"3:55",235,235,"Justin Robinson Steal.",61,66,-5,0.178945450036982,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+269,2,"3:51",231,231,"Justin Robinson made Dunk.",63,66,-3,0.329178170544628,"Virginia Tech","Miami",4,3,0,0,5.5,400986239,2018-02-03
+270,2,"3:44",224,224,"Miami  Timeout",63,66,-3,0.344355539144967,"Virginia Tech","Miami",4,2,0,1,5.5,400986239,2018-02-03
+271,2,"3:44",224,224,"Official TV Timeout",63,66,-3,0.344355539144967,"Virginia Tech","Miami",4,2,0,1,5.5,400986239,2018-02-03
+272,2,"3:27",207,207,"Lonnie Walker IV made Three Point Jumper.",63,69,-6,0.109250226407639,"Virginia Tech","Miami",4,2,0,1,5.5,400986239,2018-02-03
+273,2,"3:08",188,188,"Justin Robinson made Layup.",65,69,-4,0.17494714220718,"Virginia Tech","Miami",4,2,0,1,5.5,400986239,2018-02-03
+274,2,"2:52",172,172,"Lonnie Walker IV made Jumper.",65,71,-6,0.081562062456381,"Virginia Tech","Miami",4,2,0,1,5.5,400986239,2018-02-03
+275,2,"2:33",153,153,"Justin Robinson missed Jumper.",65,71,-6,0.0578616243007539,"Virginia Tech","Miami",4,2,0,0,5.5,400986239,2018-02-03
+276,2,"2:33",153,153,"Sam Waardenburg Defensive Rebound.",65,71,-6,0.0578616243007539,"Virginia Tech","Miami",4,2,0,0,5.5,400986239,2018-02-03
+277,2,"2:14",134,134,"Lonnie Walker IV missed Three Point Jumper.",65,71,-6,0.0600307335755836,"Virginia Tech","Miami",4,2,0,0,5.5,400986239,2018-02-03
+278,2,"2:14",134,134,"Justin Robinson Defensive Rebound.",65,71,-6,0.0600307335755836,"Virginia Tech","Miami",4,2,0,0,5.5,400986239,2018-02-03
+279,2,"2:12",132,132,"Foul on Sam Waardenburg.",65,71,-6,0.0600307335755836,"Virginia Tech","Miami",4,2,0,0,5.5,400986239,2018-02-03
+280,2,"2:12",132,132,"Justin Robinson made Free Throw.",66,71,-5,0.0994618696456624,"Virginia Tech","Miami",4,2,0,0,5.5,400986239,2018-02-03
+281,2,"2:12",132,132,"Justin Robinson made Free Throw.",67,71,-4,0.160374293115561,"Virginia Tech","Miami",4,2,0,0,5.5,400986239,2018-02-03
+282,2,"1:48",108,108,"Anthony Lawrence II made Jumper.",67,73,-6,0.0314927039510556,"Virginia Tech","Miami",4,2,0,0,5.5,400986239,2018-02-03
+283,2,"1:34",94,94,"Virginia Tech  Timeout",67,73,-6,0.0306093973506907,"Virginia Tech","Miami",3,2,1,0,5.5,400986239,2018-02-03
+284,2,"1:28",88,88,"Justin Bibbs missed Three Point Jumper.",67,73,-6,0.0224151070609927,"Virginia Tech","Miami",3,2,1,0,5.5,400986239,2018-02-03
+285,2,"1:28",88,88,"Anthony Lawrence II Defensive Rebound.",67,73,-6,0.0224151070609927,"Virginia Tech","Miami",3,2,1,0,5.5,400986239,2018-02-03
+286,2,"1:28",88,88,"Foul on Justin Robinson.",67,73,-6,0.0224151070609927,"Virginia Tech","Miami",3,2,1,0,5.5,400986239,2018-02-03
+287,2,"1:25",85,85,"Foul on Justin Bibbs.",67,73,-6,0.0224151070609927,"Virginia Tech","Miami",3,2,1,0,5.5,400986239,2018-02-03
+288,2,"1:25",85,85,"Lonnie Walker IV missed Free Throw.",67,73,-6,0.0224151070609927,"Virginia Tech","Miami",3,2,1,0,5.5,400986239,2018-02-03
+289,2,"1:25",85,85,"Miami Deadball Team Rebound.",67,73,-6,0.0224151070609927,"Virginia Tech","Miami",3,2,1,0,5.5,400986239,2018-02-03
+290,2,"1:25",85,85,"Lonnie Walker IV made Free Throw.",67,74,-7,0.0110762310661853,"Virginia Tech","Miami",3,2,1,0,5.5,400986239,2018-02-03
+291,2,"1:19",79,79,"Justin Robinson made Layup.",69,74,-5,0.0323502986792448,"Virginia Tech","Miami",3,2,1,0,5.5,400986239,2018-02-03
+292,2,"1:19",79,79,"Virginia Tech  Timeout",69,74,-5,0.0323502986792448,"Virginia Tech","Miami",2,2,1,0,5.5,400986239,2018-02-03
+293,2,"1:16",76,76,"Foul on P.J. Horne.",69,74,-5,0.0323502986792448,"Virginia Tech","Miami",2,2,1,0,5.5,400986239,2018-02-03
+294,2,"1:16",76,76,"Ja'Quan Newton made Free Throw.",69,75,-6,0.0157778108742624,"Virginia Tech","Miami",2,2,1,0,5.5,400986239,2018-02-03
+295,2,"1:16",76,76,"Ja'Quan Newton missed Free Throw.",69,75,-6,0.0157778108742624,"Virginia Tech","Miami",2,2,1,0,5.5,400986239,2018-02-03
+296,2,"1:16",76,76,"Ahmed Hill Defensive Rebound.",69,75,-6,0.0157778108742624,"Virginia Tech","Miami",2,2,1,0,5.5,400986239,2018-02-03
+297,2,"1:10",70,70,"Foul on Lonnie Walker IV.",69,75,-6,0.0157778108742624,"Virginia Tech","Miami",2,2,1,0,5.5,400986239,2018-02-03
+298,2,"1:10",70,70,"Justin Robinson made Free Throw.",70,75,-5,0.0323502986792448,"Virginia Tech","Miami",2,2,1,0,5.5,400986239,2018-02-03
+299,2,"1:10",70,70,"Justin Robinson made Free Throw.",71,75,-4,0.0651772362535217,"Virginia Tech","Miami",2,2,1,0,5.5,400986239,2018-02-03
+300,2,"1:04",64,64,"Foul on Ahmed Hill.",71,75,-4,0.0541898339780207,"Virginia Tech","Miami",2,2,1,0,5.5,400986239,2018-02-03
+301,2,"1:04",64,64,"Ja'Quan Newton made Free Throw.",71,76,-5,0.0265505827563453,"Virginia Tech","Miami",2,2,1,0,5.5,400986239,2018-02-03
+302,2,"1:04",64,64,"Ja'Quan Newton made Free Throw.",71,77,-6,0.0128175470753297,"Virginia Tech","Miami",2,2,1,0,5.5,400986239,2018-02-03
+303,2,"0:54",54,54,"Justin Robinson missed Jumper.",71,77,-6,0.0152065677467341,"Virginia Tech","Miami",2,2,1,0,5.5,400986239,2018-02-03
+304,2,"0:54",54,54,"Chris Clarke Offensive Rebound.",71,77,-6,0.0152065677467341,"Virginia Tech","Miami",2,2,1,0,5.5,400986239,2018-02-03
+305,2,"0:54",54,54,"Chris Clarke made Two Point Tip Shot.",73,77,-4,0.0658736840748392,"Virginia Tech","Miami",2,2,1,0,5.5,400986239,2018-02-03
+306,2,"0:50",50,50,"Lonnie Walker IV made Layup. Assisted by Anthony Lawrence II.",73,79,-6,0.00780331753584407,"Virginia Tech","Miami",2,2,1,0,5.5,400986239,2018-02-03
+307,2,"0:48",48,48,"Virginia Tech  Timeout",73,79,-6,0.00453219987189193,"Virginia Tech","Miami",1,2,1,0,5.5,400986239,2018-02-03
+308,2,"0:44",44,44,"Foul on Ahmed Hill.",73,79,-6,0.00936525768986173,"Virginia Tech","Miami",1,2,1,0,5.5,400986239,2018-02-03
+309,2,"0:44",44,44,"Ahmed Hill Turnover.",73,79,-6,0.00936525768986173,"Virginia Tech","Miami",1,2,1,0,5.5,400986239,2018-02-03
+310,2,"0:43",43,43,"Foul on Nickeil Alexander-Walker.",73,79,-6,0.0041335629615136,"Virginia Tech","Miami",1,2,1,0,5.5,400986239,2018-02-03
+311,2,"0:43",43,43,"Dejan Vasiljevic made Free Throw.",73,80,-7,0.00167936873472879,"Virginia Tech","Miami",1,2,1,0,5.5,400986239,2018-02-03
+312,2,"0:43",43,43,"Dejan Vasiljevic made Free Throw.",73,81,-8,0.000681290905386562,"Virginia Tech","Miami",1,2,1,0,5.5,400986239,2018-02-03
+313,2,"0:33",33,33,"Nickeil Alexander-Walker missed Three Point Jumper.",73,81,-8,0.000149259053232361,"Virginia Tech","Miami",1,2,1,0,5.5,400986239,2018-02-03
+314,2,"0:33",33,33,"Ja'Quan Newton Defensive Rebound.",73,81,-8,0.000149259053232361,"Virginia Tech","Miami",1,2,1,0,5.5,400986239,2018-02-03
+315,2,"0:30",30,30,"Foul on Devin Wilson.",73,81,-8,0.000440127329044362,"Virginia Tech","Miami",1,2,1,0,5.5,400986239,2018-02-03
+316,2,"0:30",30,30,"Ja'Quan Newton made Free Throw.",73,82,-9,0.000168327393139647,"Virginia Tech","Miami",1,2,1,0,5.5,400986239,2018-02-03
+317,2,"0:30",30,30,"Ja'Quan Newton missed Free Throw.",73,82,-9,0.000168327393139647,"Virginia Tech","Miami",1,2,1,0,5.5,400986239,2018-02-03
+318,2,"0:30",30,30,"Chris Clarke Defensive Rebound.",73,82,-9,0.000168327393139647,"Virginia Tech","Miami",1,2,1,0,5.5,400986239,2018-02-03
+319,2,"0:24",24,24,"Justin Bibbs missed Three Point Jumper.",73,82,-9,0.000389498185299025,"Virginia Tech","Miami",1,2,1,0,5.5,400986239,2018-02-03
+320,2,"0:24",24,24,"Anthony Lawrence II Defensive Rebound.",73,82,-9,0.000389498185299025,"Virginia Tech","Miami",1,2,1,0,5.5,400986239,2018-02-03
+321,2,"0:19",19,19,"Foul on Devin Wilson.",73,82,-9,1.52781672852993e-05,"Virginia Tech","Miami",1,2,1,0,5.5,400986239,2018-02-03
+322,2,"0:19",19,19,"Anthony Lawrence II made Free Throw.",73,83,-10,4.32205281765264e-06,"Virginia Tech","Miami",1,2,1,0,5.5,400986239,2018-02-03
+323,2,"0:19",19,19,"Anthony Lawrence II made Free Throw.",73,84,-11,1.22265933104634e-06,"Virginia Tech","Miami",1,2,1,0,5.5,400986239,2018-02-03
+324,2,"0:12",12,12,"Justin Robinson made Layup.",75,84,-9,1.9415921461232e-05,"Virginia Tech","Miami",1,2,1,0,5.5,400986239,2018-02-03
+325,2,"0:00",0,0,"End of Game",75,84,-9,2.38108569551237e-76,"Virginia Tech","Miami",1,2,1,0,5.5,400986239,2018-02-03

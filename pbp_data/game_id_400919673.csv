@@ -1,0 +1,319 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.883562299428759,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+2,1,"20:00",2400,2400,"Jump Ball won by Marquette",0,0,0,0.883562299428759,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+3,1,"19:37",2377,2377,"Foul on Haanif Cheatham.",0,0,0,0.875620514731639,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+4,1,"19:37",2377,2377,"Haanif Cheatham Turnover.",0,0,0,0.875620514731639,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+5,1,"19:11",2351,2351,"Kris Jenkins Turnover.",0,0,0,0.879710930359606,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+6,1,"19:11",2351,2351,"Luke Fischer Steal.",0,0,0,0.879710930359606,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+7,1,"19:08",2348,2348,"Foul on Josh Hart.",0,0,0,0.867469296948239,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+8,1,"18:53",2333,2333,"Jajuan Johnson missed Three Point Jumper.",0,0,0,0.872179111913597,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+9,1,"18:53",2333,2333,"Markus Howard Offensive Rebound.",0,0,0,0.872179111913597,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+10,1,"18:32",2312,2312,"Markus Howard made Jumper.",0,2,-2,0.834100302641452,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+11,1,"18:16",2296,2296,"Jalen Brunson Turnover.",0,2,-2,0.848196442402418,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+12,1,"18:16",2296,2296,"Jajuan Johnson Steal.",0,2,-2,0.848196442402418,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+13,1,"18:12",2292,2292,"Jajuan Johnson missed Layup.",0,2,-2,0.848196442402418,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+14,1,"18:12",2292,2292,"Mikal Bridges Block.",0,2,-2,0.848196442402418,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+15,1,"18:12",2292,2292,"Kris Jenkins Defensive Rebound.",0,2,-2,0.848196442402418,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+16,1,"18:03",2283,2283,"Kris Jenkins made Three Point Jumper. Assisted by Mikal Bridges.",3,2,1,0.877763523810616,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+17,1,"17:43",2263,2263,"Haanif Cheatham Turnover.",3,2,1,0.887815934030693,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+18,1,"17:43",2263,2263,"Kris Jenkins Steal.",3,2,1,0.887815934030693,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+19,1,"17:37",2257,2257,"Foul on Jajuan Johnson.",3,2,1,0.873949868864615,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+20,1,"17:27",2247,2247,"Donte DiVincenzo made Jumper. Assisted by Josh Hart.",5,2,3,0.888163867842362,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+21,1,"16:57",2217,2217,"Jajuan Johnson Turnover.",5,2,3,0.902999601722767,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+22,1,"16:57",2217,2217,"Kris Jenkins Steal.",5,2,3,0.902999601722767,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+23,1,"16:39",2199,2199,"Jalen Brunson made Three Point Jumper. Assisted by Josh Hart.",8,2,6,0.932332967540118,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+24,1,"16:16",2176,2176,"Sam Hauser made Three Point Jumper. Assisted by Haanif Cheatham.",8,5,3,0.895796364679554,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+25,1,"15:46",2146,2146,"Foul on Jajuan Johnson.",8,5,3,0.898524233576542,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+26,1,"15:46",2146,2146,"Official TV Timeout",8,5,3,0.898524233576542,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+27,1,"15:31",2131,2131,"Eric Paschall made Dunk. Assisted by Donte DiVincenzo.",10,5,5,0.920158264304108,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+28,1,"15:06",2106,2106,"Andrew Rowsey missed Three Point Jumper.",10,5,5,0.913236308184015,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+29,1,"15:06",2106,2106,"Josh Hart Defensive Rebound.",10,5,5,0.913236308184015,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+30,1,"14:58",2098,2098,"Josh Hart made Layup.",12,5,7,0.932669510883597,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+31,1,"14:55",2095,2095,"Marquette  Timeout",12,5,7,0.932669510883597,"Villanova","Marquette",3,4,1,0,11.5,400919673,2017-01-07
+32,1,"14:33",2073,2073,"Haanif Cheatham missed Jumper.",12,5,7,0.93007365833079,"Villanova","Marquette",3,4,1,0,11.5,400919673,2017-01-07
+33,1,"14:33",2073,2073,"Katin Reinhardt Offensive Rebound.",12,5,7,0.93007365833079,"Villanova","Marquette",3,4,1,0,11.5,400919673,2017-01-07
+34,1,"14:29",2069,2069,"Katin Reinhardt missed Three Point Jumper.",12,5,7,0.931762002642623,"Villanova","Marquette",3,4,1,0,11.5,400919673,2017-01-07
+35,1,"14:29",2069,2069,"Mikal Bridges Defensive Rebound.",12,5,7,0.931762002642623,"Villanova","Marquette",3,4,1,0,11.5,400919673,2017-01-07
+36,1,"14:17",2057,2057,"Foul on Luke Fischer.",12,5,7,0.936876466980463,"Villanova","Marquette",3,4,1,0,11.5,400919673,2017-01-07
+37,1,"14:17",2057,2057,"Mikal Bridges made Free Throw.",13,5,8,0.943460504595747,"Villanova","Marquette",3,4,1,0,11.5,400919673,2017-01-07
+38,1,"14:17",2057,2057,"Mikal Bridges made Free Throw.",14,5,9,0.949394894826467,"Villanova","Marquette",3,4,1,0,11.5,400919673,2017-01-07
+39,1,"13:56",2036,2036,"Markus Howard made Three Point Jumper. Assisted by Haanif Cheatham.",14,8,6,0.929544556048951,"Villanova","Marquette",3,4,1,0,11.5,400919673,2017-01-07
+40,1,"13:27",2007,2007,"Kris Jenkins made Jumper.",16,8,8,0.93370497997041,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+41,1,"13:10",1990,1990,"Haanif Cheatham missed Jumper.",16,8,8,0.944882151555266,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+42,1,"13:10",1990,1990,"Eric Paschall Defensive Rebound.",16,8,8,0.944882151555266,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+43,1,"12:57",1977,1977,"Foul on Markus Howard.",16,8,8,0.946032283109702,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+44,1,"12:52",1972,1972,"Josh Hart missed Three Point Jumper.",16,8,8,0.946032283109702,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+45,1,"12:52",1972,1972,"Mikal Bridges Offensive Rebound.",16,8,8,0.946032283109702,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+46,1,"12:39",1959,1959,"Darryl Reynolds made Dunk. Assisted by Josh Hart.",18,8,10,0.952744223413661,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+47,1,"12:16",1936,1936,"Luke Fischer missed Jumper.",18,8,10,0.95222472731328,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+48,1,"12:16",1936,1936,"Luke Fischer Offensive Rebound.",18,8,10,0.95222472731328,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+49,1,"12:13",1933,1933,"Luke Fischer made Layup.",18,10,8,0.939000555321262,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+50,1,"11:56",1916,1916,"Jalen Brunson made Layup.",20,10,10,0.957193039603465,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+51,1,"11:55",1915,1915,"Foul on Sam Hauser.",20,10,10,0.957193039603465,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+52,1,"11:55",1915,1915,"Official TV Timeout",20,10,10,0.957193039603465,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+53,1,"11:55",1915,1915,"Jalen Brunson made Free Throw.",21,10,11,0.962175746172335,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+54,1,"11:30",1890,1890,"Andrew Rowsey made Three Point Jumper. Assisted by Markus Howard.",21,13,8,0.94278144455025,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+55,1,"11:09",1869,1869,"Foul on Matt Heldt.",21,13,8,0.942288712736841,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+56,1,"11:09",1869,1869,"Mikal Bridges made Free Throw.",22,13,9,0.94918179146514,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+57,1,"11:09",1869,1869,"Mikal Bridges made Free Throw.",23,13,10,0.955290620114037,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+58,1,"10:42",1842,1842,"Markus Howard missed Jumper.",23,13,10,0.949417095448391,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+59,1,"10:42",1842,1842,"Jalen Brunson Defensive Rebound.",23,13,10,0.949417095448391,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+60,1,"10:08",1808,1808,"Eric Paschall missed Jumper.",23,13,10,0.952627938769341,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+61,1,"10:08",1808,1808,"Josh Hart Offensive Rebound.",23,13,10,0.952627938769341,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+62,1,"9:52",1792,1792,"Kris Jenkins missed Three Point Jumper.",23,13,10,0.949936223803507,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+63,1,"9:52",1792,1792,"Marquette Defensive Rebound.",23,13,10,0.949936223803507,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+64,1,"9:42",1782,1782,"Haanif Cheatham made Three Point Jumper. Assisted by Jajuan Johnson.",23,16,7,0.926708288289136,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+65,1,"9:11",1751,1751,"Eric Paschall missed Jumper.",23,16,7,0.935039647078141,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+66,1,"9:11",1751,1751,"Jajuan Johnson Defensive Rebound.",23,16,7,0.935039647078141,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+67,1,"9:01",1741,1741,"Sam Hauser missed Three Point Jumper.",23,16,7,0.927020251229297,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+68,1,"9:01",1741,1741,"Kris Jenkins Defensive Rebound.",23,16,7,0.927020251229297,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+69,1,"8:40",1720,1720,"Jump Ball won by Villanova",23,16,7,0.926645313357793,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+70,1,"8:31",1711,1711,"Josh Hart Turnover.",23,16,7,0.936479329007792,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+71,1,"8:31",1711,1711,"Foul on Josh Hart.",23,16,7,0.936479329007792,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+72,1,"8:21",1701,1701,"Luke Fischer Turnover.",23,16,7,0.926540428113849,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+73,1,"8:21",1701,1701,"Mikal Bridges Steal.",23,16,7,0.926540428113849,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+74,1,"8:15",1695,1695,"Donte DiVincenzo made Dunk. Assisted by Mikal Bridges.",25,16,9,0.949504106605947,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+75,1,"7:56",1676,1676,"Markus Howard made Three Point Jumper. Assisted by Jajuan Johnson.",25,19,6,0.925524582083924,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+76,1,"7:34",1654,1654,"Kris Jenkins made Three Point Jumper. Assisted by Donte DiVincenzo.",28,19,9,0.943979040365365,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+77,1,"7:11",1631,1631,"Jajuan Johnson made Jumper. Assisted by Haanif Cheatham.",28,21,7,0.929674000743872,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+78,1,"6:46",1606,1606,"Foul on Jajuan Johnson.",28,21,7,0.929874711638016,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+79,1,"6:46",1606,1606,"Official TV Timeout",28,21,7,0.929874711638016,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+80,1,"6:46",1606,1606,"Kris Jenkins missed Free Throw.",28,21,7,0.929874711638016,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+81,1,"6:46",1606,1606,"Katin Reinhardt Defensive Rebound.",28,21,7,0.929874711638016,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+82,1,"6:35",1595,1595,"Markus Howard missed Jumper.",28,21,7,0.928317572622441,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+83,1,"6:35",1595,1595,"Darryl Reynolds Defensive Rebound.",28,21,7,0.928317572622441,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+84,1,"6:23",1583,1583,"Donte DiVincenzo missed Three Point Jumper.",28,21,7,0.92834345071521,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+85,1,"6:23",1583,1583,"Haanif Cheatham Defensive Rebound.",28,21,7,0.92834345071521,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+86,1,"6:12",1572,1572,"Haanif Cheatham missed Jumper.",28,21,7,0.938966884246585,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+87,1,"6:12",1572,1572,"Darryl Reynolds Defensive Rebound.",28,21,7,0.938966884246585,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+88,1,"5:49",1549,1549,"Josh Hart made Three Point Jumper. Assisted by Jalen Brunson.",31,21,10,0.954591889749529,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+89,1,"5:26",1526,1526,"Markus Howard missed Three Point Jumper.",31,21,10,0.952695944452196,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+90,1,"5:26",1526,1526,"Jalen Brunson Defensive Rebound.",31,21,10,0.952695944452196,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+91,1,"5:23",1523,1523,"Donte DiVincenzo Turnover.",31,21,10,0.952695944452196,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+92,1,"5:23",1523,1523,"Haanif Cheatham Steal.",31,21,10,0.952695944452196,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+93,1,"5:21",1521,1521,"Foul on Darryl Reynolds.",31,21,10,0.952695944452196,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+94,1,"5:06",1506,1506,"Foul on Mikal Bridges.",31,21,10,0.953490663946804,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+95,1,"4:58",1498,1498,"Katin Reinhardt made Three Point Jumper. Assisted by Haanif Cheatham.",31,24,7,0.932261503174523,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+96,1,"4:26",1466,1466,"Kris Jenkins missed Jumper.",31,24,7,0.921063353487849,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+97,1,"4:26",1466,1466,"Sam Hauser Defensive Rebound.",31,24,7,0.921063353487849,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+98,1,"4:00",1440,1440,"Katin Reinhardt Turnover.",31,24,7,0.937634243867584,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+99,1,"4:00",1440,1440,"Mikal Bridges Steal.",31,24,7,0.937634243867584,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+100,1,"3:59",1439,1439,"Mikal Bridges Turnover.",31,24,7,0.929401360240575,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+101,1,"3:59",1439,1439,"Sam Hauser Steal.",31,24,7,0.929401360240575,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+102,1,"3:57",1437,1437,"Official TV Timeout",31,24,7,0.929401360240575,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+103,1,"3:29",1409,1409,"Luke Fischer missed Jumper.",31,24,7,0.93821126799165,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+104,1,"3:27",1407,1407,"Sam Hauser Offensive Rebound.",31,24,7,0.93821126799165,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+105,1,"3:26",1406,1406,"Sam Hauser missed Two Point Tip Shot.",31,24,7,0.93821126799165,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+106,1,"3:24",1404,1404,"Eric Paschall Defensive Rebound.",31,24,7,0.93821126799165,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+107,1,"3:12",1392,1392,"Mikal Bridges made Three Point Jumper. Assisted by Josh Hart.",34,24,10,0.959579324172764,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+108,1,"2:58",1378,1378,"Luke Fischer missed Layup.",34,24,10,0.95050844332966,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+109,1,"2:58",1378,1378,"Eric Paschall Block.",34,24,10,0.95050844332966,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+110,1,"2:58",1378,1378,"Josh Hart Defensive Rebound.",34,24,10,0.95050844332966,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+111,1,"2:53",1373,1373,"Josh Hart made Layup.",36,24,12,0.962453496573851,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+112,1,"2:22",1342,1342,"Andrew Rowsey made Jumper.",36,26,10,0.953371039491285,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+113,1,"2:08",1328,1328,"Jalen Brunson Turnover.",36,26,10,0.956496073943406,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+114,1,"1:52",1312,1312,"Markus Howard made Three Point Jumper. Assisted by Katin Reinhardt.",36,29,7,0.933762760125425,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+115,1,"1:27",1287,1287,"Eric Paschall missed Three Point Jumper.",36,29,7,0.931487738357438,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+116,1,"1:26",1286,1286,"Villanova Deadball Team Rebound.",36,29,7,0.931487738357438,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+117,1,"1:24",1284,1284,"Foul on Andrew Rowsey.",36,29,7,0.931487738357438,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+118,1,"1:24",1284,1284,"Donte DiVincenzo made Free Throw.",37,29,8,0.940450930409949,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+119,1,"1:24",1284,1284,"Donte DiVincenzo made Free Throw.",38,29,9,0.948306578154008,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+120,1,"1:10",1270,1270,"Markus Howard made Layup.",38,31,7,0.923978008256625,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+121,1,"1:09",1269,1269,"Class A Unsporting Technical Foul on Marquette (Steve Wojciechowski).",38,31,7,0.936863152607281,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+122,1,"1:09",1269,1269,"Jalen Brunson missed Free Throw.",38,31,7,0.936863152607281,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+123,1,"1:09",1269,1269,"Villanova Deadball Team Rebound.",38,31,7,0.936863152607281,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+124,1,"1:09",1269,1269,"Jalen Brunson made Free Throw.",39,31,8,0.945598457069248,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+125,1,"0:59",1259,1259,"Josh Hart made Jumper.",41,31,10,0.948540541395658,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+126,1,"0:40",1240,1240,"Katin Reinhardt missed Three Point Jumper.",41,31,10,0.955369414078628,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+127,1,"0:40",1240,1240,"Mikal Bridges Defensive Rebound.",41,31,10,0.955369414078628,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+128,1,"0:15",1215,1215,"Kris Jenkins made Three Point Jumper. Assisted by Jalen Brunson.",44,31,13,0.972127272190552,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+129,1,"0:04",1204,1204,"Foul on Mikal Bridges.",44,31,13,0.97180051938254,"Villanova","Marquette",3,4,0,1,11.5,400919673,2017-01-07
+130,1,"0:04",1204,1204,"Villanova  Timeout",44,31,13,0.97180051938254,"Villanova","Marquette",3,3,0,1,11.5,400919673,2017-01-07
+131,1,"0:04",1204,1204,"Markus Howard made Free Throw.",44,32,12,0.967092591492031,"Villanova","Marquette",3,3,0,1,11.5,400919673,2017-01-07
+132,1,"0:04",1204,1204,"Markus Howard made Free Throw.",44,33,11,0.961629704843822,"Villanova","Marquette",3,3,0,1,11.5,400919673,2017-01-07
+133,1,"0:01",1201,1201,"Jalen Brunson missed Jumper.",44,33,11,0.961629704843822,"Villanova","Marquette",3,3,0,1,11.5,400919673,2017-01-07
+134,1,"0:01",1201,1201,"Villanova Deadball Team Rebound.",44,33,11,0.961629704843822,"Villanova","Marquette",3,3,0,1,11.5,400919673,2017-01-07
+135,1,"0:00",1200,1200,"End of 1st half",44,33,11,0.961629704843822,"Villanova","Marquette",3,3,0,1,11.5,400919673,2017-01-07
+136,2,"20:00",1200,1200,"PLAY",44,33,11,0.961629704843822,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+137,2,"20:00",1200,1200,"Jump Ball won by Marquette",44,33,11,0.961629704843822,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+138,2,"19:35",1175,1175,"Sam Hauser missed Layup.",44,33,11,0.960923033338754,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+139,2,"19:35",1175,1175,"Luke Fischer Offensive Rebound.",44,33,11,0.960923033338754,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+140,2,"19:33",1173,1173,"Foul on Luke Fischer.",44,33,11,0.960923033338754,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+141,2,"19:33",1173,1173,"Luke Fischer Turnover.",44,33,11,0.960923033338754,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+142,2,"19:10",1150,1150,"Jalen Brunson made Three Point Jumper. Assisted by Kris Jenkins.",47,33,14,0.975056406041926,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+143,2,"18:46",1126,1126,"Jajuan Johnson Turnover.",47,33,14,0.982349030136376,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+144,2,"18:32",1112,1112,"Kris Jenkins made Three Point Jumper. Assisted by Jalen Brunson.",50,33,17,0.986752472702215,"Villanova","Marquette",4,4,0,0,11.5,400919673,2017-01-07
+145,2,"18:29",1109,1109,"Marquette  Timeout",50,33,17,0.985950701119508,"Villanova","Marquette",3,4,1,0,11.5,400919673,2017-01-07
+146,2,"18:14",1094,1094,"Sam Hauser missed Three Point Jumper.",50,33,17,0.987770671024946,"Villanova","Marquette",3,4,1,0,11.5,400919673,2017-01-07
+147,2,"18:14",1094,1094,"Jalen Brunson Defensive Rebound.",50,33,17,0.987770671024946,"Villanova","Marquette",3,4,1,0,11.5,400919673,2017-01-07
+148,2,"17:58",1078,1078,"Foul on Haanif Cheatham.",50,33,17,0.985766290065459,"Villanova","Marquette",3,4,1,0,11.5,400919673,2017-01-07
+149,2,"17:52",1072,1072,"Foul on Sam Hauser.",50,33,17,0.985766290065459,"Villanova","Marquette",3,4,1,0,11.5,400919673,2017-01-07
+150,2,"17:47",1067,1067,"Josh Hart missed Jumper.",50,33,17,0.986776103463731,"Villanova","Marquette",3,4,1,0,11.5,400919673,2017-01-07
+151,2,"17:47",1067,1067,"Jalen Brunson Offensive Rebound.",50,33,17,0.986776103463731,"Villanova","Marquette",3,4,1,0,11.5,400919673,2017-01-07
+152,2,"17:43",1063,1063,"Mikal Bridges made Three Point Jumper. Assisted by Josh Hart.",53,33,20,0.992074219867646,"Villanova","Marquette",3,4,1,0,11.5,400919673,2017-01-07
+153,2,"17:26",1046,1046,"Katin Reinhardt missed Three Point Jumper.",53,33,20,0.993067201039072,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+154,2,"17:26",1046,1046,"Marquette Deadball Team Rebound.",53,33,20,0.993067201039072,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+155,2,"17:26",1046,1046,"Foul on Jalen Brunson.",53,33,20,0.993067201039072,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+156,2,"17:22",1042,1042,"Sam Hauser missed Three Point Jumper.",53,33,20,0.993067201039072,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+157,2,"17:22",1042,1042,"Josh Hart Defensive Rebound.",53,33,20,0.993067201039072,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+158,2,"16:56",1016,1016,"Mikal Bridges made Layup.",55,33,22,0.994813333427112,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+159,2,"16:49",1009,1009,"Foul on Josh Hart.",55,33,22,0.995353641312582,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+160,2,"16:49",1009,1009,"Haanif Cheatham made Free Throw.",55,34,21,0.99440804295943,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+161,2,"16:49",1009,1009,"Haanif Cheatham made Free Throw.",55,35,20,0.993271303174117,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+162,2,"16:29",989,989,"Kris Jenkins made Three Point Jumper. Assisted by Donte DiVincenzo.",58,35,23,0.997282630264067,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+163,2,"16:18",978,978,"Markus Howard made Jumper.",58,37,21,0.994421047840754,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+164,2,"15:53",953,953,"Darryl Reynolds Turnover.",58,37,21,0.995513409182463,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+165,2,"15:53",953,953,"Markus Howard Steal.",58,37,21,0.995513409182463,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+166,2,"15:48",948,948,"Jajuan Johnson missed Layup.",58,37,21,0.995757973129098,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+167,2,"15:48",948,948,"Mikal Bridges Block.",58,37,21,0.995757973129098,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+168,2,"15:48",948,948,"Marquette Offensive Rebound.",58,37,21,0.995757973129098,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+169,2,"15:47",947,947,"Official TV Timeout",58,37,21,0.995757973129098,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+170,2,"15:45",945,945,"Foul on Mikal Bridges.",58,37,21,0.995757973129098,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+171,2,"15:41",941,941,"Andrew Rowsey missed Three Point Jumper.",58,37,21,0.995757973129098,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+172,2,"15:41",941,941,"Jalen Brunson Defensive Rebound.",58,37,21,0.995757973129098,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+173,2,"15:31",931,931,"Foul on Sam Hauser.",58,37,21,0.995117188851517,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+174,2,"15:31",931,931,"Kris Jenkins made Free Throw.",59,37,22,0.995964271815672,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+175,2,"15:31",931,931,"Kris Jenkins made Free Throw.",60,37,23,0.996664893104461,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+176,2,"15:11",911,911,"Katin Reinhardt Turnover.",60,37,23,0.997283904088125,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+177,2,"15:11",911,911,"Eric Paschall Steal.",60,37,23,0.997283904088125,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+178,2,"15:07",907,907,"Josh Hart made Dunk. Assisted by Donte DiVincenzo.",62,37,25,0.997651022623133,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+179,2,"15:06",906,906,"Markus Howard made Free Throw.",62,38,24,0.997157153920581,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+180,2,"15:06",906,906,"Class B Unsporting Technical Foul on Josh Hart (hanging on rim).",62,38,24,0.997157153920581,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+181,2,"14:49",889,889,"Haanif Cheatham missed Jumper.",62,38,24,0.995591249994756,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+182,2,"14:49",889,889,"Darryl Reynolds Block.",62,38,24,0.995591249994756,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+183,2,"14:49",889,889,"Luke Fischer Offensive Rebound.",62,38,24,0.995591249994756,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+184,2,"14:48",888,888,"Foul on Darryl Reynolds.",62,38,24,0.995591249994756,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+185,2,"14:48",888,888,"Luke Fischer made Free Throw.",62,39,23,0.994758494434761,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+186,2,"14:48",888,888,"Luke Fischer made Free Throw.",62,40,22,0.993769426564286,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+187,2,"14:22",862,862,"Darryl Reynolds made Layup. Assisted by Jalen Brunson.",64,40,24,0.997184322552651,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+188,2,"14:21",861,861,"Foul on Luke Fischer.",64,40,24,0.997184322552651,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+189,2,"14:21",861,861,"Darryl Reynolds missed Free Throw.",64,40,24,0.997184322552651,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+190,2,"14:21",861,861,"Eric Paschall Offensive Rebound.",64,40,24,0.997184322552651,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+191,2,"14:14",854,854,"Darryl Reynolds made Dunk. Assisted by Mikal Bridges.",66,40,26,0.998704605749307,"Villanova","Marquette",3,4,0,0,11.5,400919673,2017-01-07
+192,2,"14:06",846,846,"Marquette  Timeout",66,40,26,0.998832707471519,"Villanova","Marquette",2,4,1,0,11.5,400919673,2017-01-07
+193,2,"14:00",840,840,"Markus Howard missed Jumper.",66,40,26,0.998832707471519,"Villanova","Marquette",2,4,1,0,11.5,400919673,2017-01-07
+194,2,"13:59",839,839,"Luke Fischer Offensive Rebound.",66,40,26,0.998844362818974,"Villanova","Marquette",2,4,1,0,11.5,400919673,2017-01-07
+195,2,"13:58",838,838,"Luke Fischer missed Two Point Tip Shot.",66,40,26,0.998844362818974,"Villanova","Marquette",2,4,1,0,11.5,400919673,2017-01-07
+196,2,"13:58",838,838,"Mikal Bridges Defensive Rebound.",66,40,26,0.998844362818974,"Villanova","Marquette",2,4,1,0,11.5,400919673,2017-01-07
+197,2,"13:55",835,835,"Foul on Andrew Rowsey.",66,40,26,0.998844362818974,"Villanova","Marquette",2,4,1,0,11.5,400919673,2017-01-07
+198,2,"13:55",835,835,"Josh Hart missed Free Throw.",66,40,26,0.998844362818974,"Villanova","Marquette",2,4,1,0,11.5,400919673,2017-01-07
+199,2,"13:55",835,835,"Villanova Deadball Team Rebound.",66,40,26,0.998844362818974,"Villanova","Marquette",2,4,1,0,11.5,400919673,2017-01-07
+200,2,"13:55",835,835,"Josh Hart missed Free Throw.",66,40,26,0.998844362818974,"Villanova","Marquette",2,4,1,0,11.5,400919673,2017-01-07
+201,2,"13:55",835,835,"Kris Jenkins Offensive Rebound.",66,40,26,0.998844362818974,"Villanova","Marquette",2,4,1,0,11.5,400919673,2017-01-07
+202,2,"13:32",812,812,"Kris Jenkins missed Three Point Jumper.",66,40,26,0.998343660626148,"Villanova","Marquette",2,4,1,0,11.5,400919673,2017-01-07
+203,2,"13:32",812,812,"Markus Howard Defensive Rebound.",66,40,26,0.998343660626148,"Villanova","Marquette",2,4,1,0,11.5,400919673,2017-01-07
+204,2,"13:27",807,807,"Markus Howard Turnover.",66,40,26,0.998707063014696,"Villanova","Marquette",2,4,1,0,11.5,400919673,2017-01-07
+205,2,"13:27",807,807,"Donte DiVincenzo Steal.",66,40,26,0.998707063014696,"Villanova","Marquette",2,4,1,0,11.5,400919673,2017-01-07
+206,2,"13:10",790,790,"Eric Paschall made Dunk. Assisted by Kris Jenkins.",68,40,28,0.999385025179958,"Villanova","Marquette",2,4,1,0,11.5,400919673,2017-01-07
+207,2,"12:58",778,778,"Katin Reinhardt made Three Point Jumper. Assisted by Markus Howard.",68,43,25,0.998517977357359,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+208,2,"12:33",753,753,"Eric Paschall made Dunk. Assisted by Donte DiVincenzo.",70,43,27,0.999210540009449,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+209,2,"12:14",734,734,"Foul on Donte DiVincenzo.",70,43,27,0.998983539233553,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+210,2,"12:14",734,734,"Jajuan Johnson made Free Throw.",70,44,26,0.998743020595312,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+211,2,"12:14",734,734,"Jajuan Johnson made Free Throw.",70,45,25,0.998445678113538,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+212,2,"11:49",709,709,"Jalen Brunson Turnover.",70,45,25,0.998463165324817,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+213,2,"11:49",709,709,"Jajuan Johnson Steal.",70,45,25,0.998463165324817,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+214,2,"11:44",704,704,"Jajuan Johnson made Layup.",70,47,23,0.997650283532647,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+215,2,"11:20",680,680,"Jalen Brunson made Three Point Jumper. Assisted by Donte DiVincenzo.",73,47,26,0.9990854563329,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+216,2,"11:07",667,667,"Jajuan Johnson made Layup.",73,49,24,0.998656408084979,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+217,2,"11:06",666,666,"Foul on Darryl Reynolds.",73,49,24,0.998656408084979,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+218,2,"11:06",666,666,"Official TV Timeout",73,49,24,0.998656408084979,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+219,2,"11:06",666,666,"Jajuan Johnson made Free Throw.",73,50,23,0.998315932352897,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+220,2,"10:38",638,638,"Foul on Jajuan Johnson.",73,50,23,0.998431704316549,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+221,2,"10:38",638,638,"Jalen Brunson made Free Throw.",74,50,24,0.998761423168342,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+222,2,"10:38",638,638,"Jalen Brunson missed Free Throw.",74,50,24,0.998761423168342,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+223,2,"10:38",638,638,"Sam Hauser Defensive Rebound.",74,50,24,0.998761423168342,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+224,2,"10:23",623,623,"Foul on Markus Howard.",74,50,24,0.999320663891399,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+225,2,"10:23",623,623,"Markus Howard Turnover.",74,50,24,0.999320663891399,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+226,2,"10:12",612,612,"Josh Hart made Three Point Jumper. Assisted by Mikal Bridges.",77,50,27,0.999613840713265,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+227,2,"9:49",589,589,"Haanif Cheatham made Jumper.",77,52,25,0.999174617699847,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+228,2,"9:33",573,573,"Josh Hart missed Three Point Jumper.",77,52,25,0.999469389104635,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+229,2,"9:33",573,573,"Eric Paschall Offensive Rebound.",77,52,25,0.999469389104635,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+230,2,"9:29",569,569,"Kris Jenkins made Three Point Jumper. Assisted by Josh Hart.",80,52,28,0.999792921866663,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+231,2,"9:04",544,544,"Haanif Cheatham missed Three Point Jumper.",80,52,28,0.999798637682427,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+232,2,"9:04",544,544,"Villanova Defensive Rebound.",80,52,28,0.999798637682427,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+233,2,"8:41",521,521,"Donte DiVincenzo Turnover.",80,52,28,0.999818734009635,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+234,2,"8:41",521,521,"Andrew Rowsey Steal.",80,52,28,0.999818734009635,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+235,2,"8:35",515,515,"Andrew Rowsey missed Three Point Jumper.",80,52,28,0.999806657790831,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+236,2,"8:35",515,515,"Donte DiVincenzo Defensive Rebound.",80,52,28,0.999806657790831,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+237,2,"8:26",506,506,"Kris Jenkins missed Three Point Jumper.",80,52,28,0.999832363154403,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+238,2,"8:26",506,506,"Josh Hart Offensive Rebound.",80,52,28,0.999832363154403,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+239,2,"8:22",502,502,"Josh Hart made Layup.",82,52,30,0.999902474137411,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+240,2,"8:07",487,487,"Katin Reinhardt made Three Point Jumper.",82,55,27,0.999781939552777,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+241,2,"7:34",454,454,"Foul on Matt Heldt.",82,55,27,0.999924162293432,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+242,2,"7:34",454,454,"Official TV Timeout",82,55,27,0.999924162293432,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+243,2,"7:34",454,454,"Kris Jenkins missed Free Throw.",82,55,27,0.999924162293432,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+244,2,"7:34",454,454,"Villanova Deadball Team Rebound.",82,55,27,0.999924162293432,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+245,2,"7:34",454,454,"Kris Jenkins made Free Throw.",83,55,28,0.999944765987565,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+246,2,"7:20",440,440,"Jajuan Johnson missed Three Point Jumper.",83,55,28,0.999821076637351,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+247,2,"7:20",440,440,"Haanif Cheatham Offensive Rebound.",83,55,28,0.999821076637351,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+248,2,"7:14",434,434,"Haanif Cheatham Turnover.",83,55,28,0.999939293463669,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+249,2,"7:14",434,434,"Josh Hart Steal.",83,55,28,0.999939293463669,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+250,2,"7:09",429,429,"Jalen Brunson made Jumper. Assisted by Josh Hart.",85,55,30,0.999946547715428,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+251,2,"6:45",405,405,"Sam Hauser made Three Point Jumper. Assisted by Katin Reinhardt.",85,58,27,0.999946757754834,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+252,2,"6:17",377,377,"Mikal Bridges made Three Point Jumper. Assisted by Kris Jenkins.",88,58,30,0.99996431526849,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+253,2,"5:59",359,359,"Jajuan Johnson missed Jumper.",88,58,30,0.999984604359692,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+254,2,"5:59",359,359,"Kris Jenkins Defensive Rebound.",88,58,30,0.999984604359692,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+255,2,"5:49",349,349,"Kris Jenkins Turnover.",88,58,30,0.9999808663585,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+256,2,"5:49",349,349,"Matt Heldt Steal.",88,58,30,0.9999808663585,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+257,2,"5:42",342,342,"Jajuan Johnson made Layup.",88,60,28,0.99996263876799,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+258,2,"5:41",341,341,"Foul on Donte DiVincenzo.",88,60,28,0.99996263876799,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+259,2,"5:41",341,341,"Jajuan Johnson made Free Throw.",88,61,27,0.999947792790868,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+260,2,"5:14",314,314,"Donte DiVincenzo Turnover.",88,61,27,0.999978662279678,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+261,2,"5:07",307,307,"Sam Hauser made Layup. Assisted by Katin Reinhardt.",88,63,25,0.999908473526347,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+262,2,"4:45",285,285,"Josh Hart made Layup.",90,63,27,0.999969724069644,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+263,2,"4:44",284,284,"Foul on Markus Howard.",90,63,27,0.999969724069644,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+264,2,"4:44",284,284,"Josh Hart made Free Throw.",91,63,28,0.999978724288358,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+265,2,"4:33",273,273,"Jajuan Johnson missed Jumper.",91,63,28,0.999991916311919,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+266,2,"4:33",273,273,"Katin Reinhardt Offensive Rebound.",91,63,28,0.999991916311919,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+267,2,"4:28",268,268,"Katin Reinhardt missed Jumper.",91,63,28,0.999988020261198,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+268,2,"4:28",268,268,"Jajuan Johnson Offensive Rebound.",91,63,28,0.999988020261198,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+269,2,"4:25",265,265,"Jajuan Johnson missed Layup.",91,63,28,0.999988020261198,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+270,2,"4:25",265,265,"Katin Reinhardt Offensive Rebound.",91,63,28,0.999988020261198,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+271,2,"4:21",261,261,"Katin Reinhardt Turnover.",91,63,28,0.999988020261198,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+272,2,"4:21",261,261,"Kris Jenkins Steal.",91,63,28,0.999988020261198,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+273,2,"4:21",261,261,"Jump Ball won by Villanova",91,63,28,0.999988020261198,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+274,2,"4:05",245,245,"Josh Hart missed Three Point Jumper.",91,63,28,0.999994557617298,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+275,2,"4:05",245,245,"Markus Howard Defensive Rebound.",91,63,28,0.999994557617298,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+276,2,"3:56",236,236,"Sam Hauser made Three Point Jumper. Assisted by Markus Howard.",91,66,25,0.999982095109703,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+277,2,"3:26",206,206,"Josh Hart missed Jumper.",91,66,25,0.999995295134063,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+278,2,"3:26",206,206,"Jajuan Johnson Defensive Rebound.",91,66,25,0.999995295134063,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+279,2,"3:19",199,199,"Markus Howard made Three Point Jumper. Assisted by Jajuan Johnson.",91,69,22,0.999981384399791,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+280,2,"2:58",178,178,"Foul on Katin Reinhardt.",91,69,22,0.999991084146476,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+281,2,"2:58",178,178,"Official TV Timeout",91,69,22,0.999991084146476,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+282,2,"2:58",178,178,"Donte DiVincenzo made Free Throw.",92,69,23,0.999994549481384,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+283,2,"2:58",178,178,"Donte DiVincenzo made Free Throw.",93,69,24,0.999996667945128,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+284,2,"2:46",166,166,"Haanif Cheatham missed Jumper.",93,69,24,0.999998437713999,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+285,2,"2:45",165,165,"Matt Heldt Offensive Rebound.",93,69,24,0.999998437713999,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+286,2,"2:43",163,163,"Foul on Kris Jenkins.",93,69,24,0.999998437713999,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+287,2,"2:43",163,163,"Matt Heldt missed Free Throw.",93,69,24,0.999998437713999,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+288,2,"2:43",163,163,"Marquette Deadball Team Rebound.",93,69,24,0.999998437713999,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+289,2,"2:43",163,163,"Matt Heldt made Free Throw.",93,70,23,0.999997388421178,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+290,2,"2:17",137,137,"Eric Paschall missed Jumper.",93,70,23,0.999998395067998,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+291,2,"2:17",137,137,"Andrew Rowsey Defensive Rebound.",93,70,23,0.999998395067998,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+292,2,"1:59",119,119,"Katin Reinhardt missed Three Point Jumper.",93,70,23,0.999999517686804,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+293,2,"1:59",119,119,"Matt Heldt Offensive Rebound.",93,70,23,0.999999517686804,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+294,2,"1:58",118,118,"Foul on Jalen Brunson.",93,70,23,0.999999517686804,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+295,2,"1:58",118,118,"Matt Heldt made Free Throw.",93,71,22,0.999999120432402,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+296,2,"1:58",118,118,"Matt Heldt made Free Throw.",93,72,21,0.999998395982297,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+297,2,"1:40",100,100,"Donte DiVincenzo missed Three Point Jumper.",93,72,21,0.999998709924713,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+298,2,"1:40",100,100,"Marquette Deadball Team Rebound.",93,72,21,0.999998709924713,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+299,2,"1:39",99,99,"Foul on Tim Delaney.",93,72,21,0.999998890688571,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+300,2,"1:39",99,99,"Matt Heldt missed Free Throw.",93,72,21,0.999998890688571,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+301,2,"1:39",99,99,"Marquette Deadball Team Rebound.",93,72,21,0.999998890688571,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+302,2,"1:39",99,99,"Matt Heldt made Free Throw.",93,73,20,0.999997919541926,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+303,2,"1:25",85,85,"Eric Paschall Turnover.",93,73,20,0.999999721772076,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+304,2,"1:15",75,75,"Sam Hauser missed Three Point Jumper.",93,73,20,0.999999754774409,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+305,2,"1:15",75,75,"Matt Heldt Offensive Rebound.",93,73,20,0.999999754774409,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+306,2,"1:11",71,71,"Katin Reinhardt made Three Point Jumper. Assisted by Matt Heldt.",93,76,17,0.999997775745228,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+307,2,"0:49",49,49,"Jalen Brunson missed Layup.",93,76,17,0.999999942895291,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+308,2,"0:49",49,49,"Sam Hauser Defensive Rebound.",93,76,17,0.999999942895291,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+309,2,"0:41",41,41,"Andrew Rowsey missed Three Point Jumper.",93,76,17,0.999999954562447,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+310,2,"0:41",41,41,"Matt Heldt Offensive Rebound.",93,76,17,0.999999954562447,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+311,2,"0:33",33,33,"Katin Reinhardt missed Three Point Jumper.",93,76,17,0.99999999719493,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+312,2,"0:33",33,33,"Sam Hauser Offensive Rebound.",93,76,17,0.99999999719493,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+313,2,"0:30",30,30,"Sam Hauser made Layup.",93,78,15,0.999999441831669,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+314,2,"0:15",15,15,"Tim Delaney Turnover.",93,78,15,0.999999999315254,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+315,2,"0:15",15,15,"Sam Hauser Steal.",93,78,15,0.999999999315254,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+316,2,"0:14",14,14,"Foul on Donte DiVincenzo.",93,78,15,0.999999999982304,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+317,2,"0:11",11,11,"Katin Reinhardt made Three Point Jumper. Assisted by Andrew Rowsey.",93,81,12,0.999999930561762,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07
+318,2,"0:00",0,0,"End of Game",93,81,12,1,"Villanova","Marquette",2,4,0,0,11.5,400919673,2017-01-07

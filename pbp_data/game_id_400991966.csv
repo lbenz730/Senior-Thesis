@@ -1,0 +1,296 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.862710772021992,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+2,1,"19:42",2382,2382,"Max Mahoney missed Layup.",0,0,0,0.858464795594854,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+3,1,"19:42",2382,2382,"Tyler Scanlon Offensive Rebound.",0,0,0,0.858464795594854,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+4,1,"19:38",2378,2378,"Cedric Hankerson missed Three Point Jumper.",0,0,0,0.85513693734897,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+5,1,"19:38",2378,2378,"Sa'eed Nelson Defensive Rebound.",0,0,0,0.85513693734897,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+6,1,"19:23",2363,2363,"Sam Iorio missed Jumper.",0,0,0,0.843764670585389,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+7,1,"19:23",2363,2363,"Larry Motuzis Offensive Rebound.",0,0,0,0.843764670585389,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+8,1,"19:19",2359,2359,"Larry Motuzis made Two Point Tip Shot.",0,2,-2,0.836999126044821,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+9,1,"19:01",2341,2341,"Cedric Hankerson made Layup.",2,2,0,0.846169204373634,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+10,1,"18:44",2324,2324,"Marvin Bragg made Layup. Assisted by Sam Iorio.",2,4,-2,0.823985611588824,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+11,1,"18:31",2311,2311,"Tyler Scanlon Turnover.",2,4,-2,0.80930953819351,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+12,1,"18:04",2284,2284,"Cheikh Diallo missed Three Point Jumper.",2,4,-2,0.815053061884318,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+13,1,"18:04",2284,2284,"Javante McCoy Defensive Rebound.",2,4,-2,0.815053061884318,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+14,1,"17:38",2258,2258,"Foul on Sam Iorio.",2,4,-2,0.814601755354338,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+15,1,"17:38",2258,2258,"Cedric Hankerson made Free Throw.",3,4,-1,0.828737083237979,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+16,1,"17:38",2258,2258,"Cedric Hankerson missed Free Throw.",3,4,-1,0.828737083237979,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+17,1,"17:38",2258,2258,"Cheikh Diallo Defensive Rebound.",3,4,-1,0.828737083237979,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+18,1,"17:22",2242,2242,"Sam Iorio missed Jumper.",3,4,-1,0.822985857653081,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+19,1,"17:22",2242,2242,"Tyler Scanlon Defensive Rebound.",3,4,-1,0.822985857653081,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+20,1,"17:08",2228,2228,"Tyler Scanlon missed Jumper.",3,4,-1,0.834324264623071,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+21,1,"17:08",2228,2228,"Larry Motuzis Block.",3,4,-1,0.834324264623071,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+22,1,"17:07",2227,2227,"Tyler Scanlon Offensive Rebound.",3,4,-1,0.834324264623071,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+23,1,"17:05",2225,2225,"Max Mahoney made Layup.",5,4,1,0.860707035958051,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+24,1,"16:50",2210,2210,"Larry Motuzis missed Three Point Jumper.",5,4,1,0.85877547301208,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+25,1,"16:50",2210,2210,"Cedric Hankerson Defensive Rebound.",5,4,1,0.85877547301208,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+26,1,"16:42",2202,2202,"Walter Whyte Turnover.",5,4,1,0.858054956200143,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+27,1,"16:40",2200,2200,"Larry Motuzis Steal.",5,4,1,0.858054956200143,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+28,1,"16:37",2197,2197,"Larry Motuzis missed Layup.",5,4,1,0.866342411634679,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+29,1,"16:37",2197,2197,"Sam Iorio Offensive Rebound.",5,4,1,0.866342411634679,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+30,1,"16:34",2194,2194,"Foul on Cedric Hankerson.",5,4,1,0.866342411634679,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+31,1,"16:29",2189,2189,"Sa'eed Nelson Turnover.",5,4,1,0.857223060571525,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+32,1,"16:28",2188,2188,"Max Mahoney Steal.",5,4,1,0.857223060571525,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+33,1,"16:17",2177,2177,"Max Mahoney Turnover.",5,4,1,0.853789821179901,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+34,1,"16:16",2176,2176,"Sam Iorio Steal.",5,4,1,0.853789821179901,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+35,1,"16:13",2173,2173,"Sa'eed Nelson made Layup.",5,6,-1,0.824533986624216,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+36,1,"15:54",2154,2154,"Javante McCoy missed Jumper.",5,6,-1,0.821167924508622,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+37,1,"15:54",2154,2154,"Walter Whyte Offensive Rebound.",5,6,-1,0.821167924508622,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+38,1,"15:49",2149,2149,"Tyler Scanlon missed Three Point Jumper.",5,6,-1,0.832888572425327,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+39,1,"15:49",2149,2149,"Sam Iorio Defensive Rebound.",5,6,-1,0.832888572425327,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+40,1,"15:32",2132,2132,"Sam Iorio missed Three Point Jumper.",5,6,-1,0.824647236009336,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+41,1,"15:32",2132,2132,"Tyler Scanlon Defensive Rebound.",5,6,-1,0.824647236009336,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+42,1,"15:26",2126,2126,"Max Mahoney missed Layup.",5,6,-1,0.821714349624063,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+43,1,"15:25",2125,2125,"Walter Whyte Offensive Rebound.",5,6,-1,0.821714349624063,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+44,1,"15:24",2124,2124,"Walter Whyte made Two Point Tip Shot.",7,6,1,0.852862684258317,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+45,1,"14:56",2096,2096,"Larry Motuzis missed Three Point Jumper.",7,6,1,0.848366302716611,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+46,1,"14:56",2096,2096,"Walter Whyte Defensive Rebound.",7,6,1,0.848366302716611,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+47,1,"14:28",2068,2068,"Javante McCoy made Layup.",9,6,3,0.877157922182916,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+48,1,"14:02",2042,2042,"Cheikh Diallo made Three Point Jumper. Assisted by Sam Iorio.",9,9,0,0.828216092248123,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+49,1,"13:48",2028,2028,"Tyler Scanlon made Three Point Jumper. Assisted by Max Mahoney.",12,9,3,0.883132150735758,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+50,1,"13:24",2004,2004,"Sam Iorio made Three Point Jumper. Assisted by Marvin Bragg.",12,12,0,0.831760182357388,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+51,1,"12:57",1977,1977,"Max Mahoney missed Layup.",12,12,0,0.842339090659697,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+52,1,"12:57",1977,1977,"American Defensive Rebound.",12,12,0,0.842339090659697,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+53,1,"12:56",1976,1976,"Official TV Timeout",12,12,0,0.842339090659697,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+54,1,"12:34",1954,1954,"Stacy Beckton Turnover.",12,12,0,0.831423967339584,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+55,1,"12:09",1929,1929,"Sukhmail Mathon missed Layup.",12,12,0,0.837320768137338,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+56,1,"12:09",1929,1929,"Sukhmail Mathon Offensive Rebound.",12,12,0,0.837320768137338,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+57,1,"12:00",1920,1920,"Will Goff missed Three Point Jumper.",12,12,0,0.837320768137338,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+58,1,"12:00",1920,1920,"Larry Motuzis Defensive Rebound.",12,12,0,0.837320768137338,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+59,1,"11:45",1905,1905,"Marvin Bragg made Layup. Assisted by Sa'eed Nelson.",12,14,-2,0.798587566417325,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+60,1,"11:34",1894,1894,"Tyler Scanlon made Jumper. Assisted by Cedric Hankerson.",14,14,0,0.827971723588861,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+61,1,"11:20",1880,1880,"Foul on Jesse Little.",14,14,0,0.831534253622154,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+62,1,"11:20",1880,1880,"Jesse Little Turnover.",14,14,0,0.831534253622154,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+63,1,"11:20",1880,1880,"Official TV Timeout",14,14,0,0.831534253622154,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+64,1,"11:05",1865,1865,"Cedric Hankerson made Three Point Jumper. Assisted by Sukhmail Mathon.",17,14,3,0.877517265208122,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+65,1,"10:32",1832,1832,"Sa'eed Nelson missed Layup.",17,14,3,0.872354172411805,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+66,1,"10:32",1832,1832,"Jesse Little Offensive Rebound.",17,14,3,0.872354172411805,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+67,1,"10:03",1803,1803,"Larry Motuzis missed Layup.",17,14,3,0.874464389307226,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+68,1,"10:03",1803,1803,"Walter Whyte Block.",17,14,3,0.874464389307226,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+69,1,"10:02",1802,1802,"American Offensive Rebound.",17,14,3,0.874464389307226,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+70,1,"10:01",1801,1801,"Larry Motuzis made Jumper. Assisted by Sam Iorio.",17,16,1,0.843416677591445,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+71,1,"9:30",1770,1770,"Andrew Petcash made Jumper.",19,16,3,0.864958349665149,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+72,1,"9:05",1745,1745,"Larry Motuzis Turnover.",19,16,3,0.868736557702907,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+73,1,"8:51",1731,1731,"Max Mahoney Turnover.",19,16,3,0.875167153231286,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+74,1,"8:50",1730,1730,"Sa'eed Nelson Steal.",19,16,3,0.875167153231286,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+75,1,"8:34",1714,1714,"Sam Iorio Turnover.",19,16,3,0.880285604396032,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+76,1,"8:34",1714,1714,"Max Mahoney Steal.",19,16,3,0.880285604396032,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+77,1,"8:17",1697,1697,"Walter Whyte made Jumper.",21,16,5,0.901657233387433,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+78,1,"7:56",1676,1676,"Sa'eed Nelson Turnover.",21,16,5,0.902628028819419,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+79,1,"7:56",1676,1676,"Official TV Timeout",21,16,5,0.902628028819419,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+80,1,"7:26",1646,1646,"Will Goff made Three Point Jumper. Assisted by Walter Whyte.",24,16,8,0.93360797107817,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+81,1,"7:05",1625,1625,"Sam Iorio missed Jumper.",24,16,8,0.931853608327064,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+82,1,"7:05",1625,1625,"Tyler Scanlon Defensive Rebound.",24,16,8,0.931853608327064,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+83,1,"6:47",1607,1607,"Max Mahoney missed Layup.",24,16,8,0.928190214074414,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+84,1,"6:47",1607,1607,"Walter Whyte Offensive Rebound.",24,16,8,0.928190214074414,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+85,1,"6:45",1605,1605,"Foul on Cheikh Diallo.",24,16,8,0.928190214074414,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+86,1,"6:35",1595,1595,"Walter Whyte Turnover.",24,16,8,0.927860830811289,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+87,1,"6:35",1595,1595,"Sam Iorio Steal.",24,16,8,0.927860830811289,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+88,1,"6:35",1595,1595,"Foul on Max Mahoney.",24,16,8,0.927860830811289,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+89,1,"6:28",1588,1588,"Foul on Will Goff.",24,16,8,0.927101554551577,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+90,1,"6:09",1569,1569,"Sam Iorio missed Three Point Jumper.",24,16,8,0.928219054605346,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+91,1,"6:09",1569,1569,"Cedric Hankerson Defensive Rebound.",24,16,8,0.928219054605346,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+92,1,"5:58",1558,1558,"Cedric Hankerson missed Three Point Jumper.",24,16,8,0.927449704920116,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+93,1,"5:58",1558,1558,"Marvin Bragg Defensive Rebound.",24,16,8,0.927449704920116,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+94,1,"5:51",1551,1551,"Foul on Cedric Hankerson.",24,16,8,0.927449704920116,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+95,1,"5:49",1549,1549,"Sa'eed Nelson made Layup.",24,18,6,0.911998971103505,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+96,1,"5:32",1532,1532,"Walter Whyte missed Three Point Jumper.",24,18,6,0.91170356908468,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+97,1,"5:32",1532,1532,"James Washington Defensive Rebound.",24,18,6,0.91170356908468,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+98,1,"5:19",1519,1519,"Sa'eed Nelson made Layup.",24,20,4,0.890265629384934,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+99,1,"5:19",1519,1519,"Foul on Eric Johnson.",24,20,4,0.890265629384934,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+100,1,"5:19",1519,1519,"Sa'eed Nelson missed Free Throw.",24,20,4,0.890265629384934,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+101,1,"5:19",1519,1519,"Max Mahoney Defensive Rebound.",24,20,4,0.890265629384934,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+102,1,"4:58",1498,1498,"Max Mahoney Turnover.",24,20,4,0.886974333312312,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+103,1,"4:57",1497,1497,"Sa'eed Nelson Steal.",24,20,4,0.886974333312312,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+104,1,"4:49",1489,1489,"Larry Motuzis missed Three Point Jumper.",24,20,4,0.882463795980236,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+105,1,"4:49",1489,1489,"Max Mahoney Defensive Rebound.",24,20,4,0.882463795980236,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+106,1,"4:29",1469,1469,"Tyler Scanlon missed Jumper.",24,20,4,0.870921804608294,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+107,1,"4:29",1469,1469,"James Washington Defensive Rebound.",24,20,4,0.870921804608294,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+108,1,"4:19",1459,1459,"Sam Iorio made Layup. Assisted by Sa'eed Nelson.",24,22,2,0.84571168970512,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+109,1,"4:14",1454,1454,"Boston University  Timeout",24,22,2,0.84571168970512,"Boston University","American",3,4,1,0,9.7,400991966,2018-01-17
+110,1,"3:49",1429,1429,"Foul on Marvin Bragg.",24,22,2,0.835590368188323,"Boston University","American",3,4,1,0,9.7,400991966,2018-01-17
+111,1,"3:34",1414,1414,"Tyler Scanlon Turnover.",24,22,2,0.837514075221618,"Boston University","American",3,4,1,0,9.7,400991966,2018-01-17
+112,1,"3:15",1395,1395,"Foul on Nick Havener.",24,22,2,0.855377033013002,"Boston University","American",3,4,1,0,9.7,400991966,2018-01-17
+113,1,"3:15",1395,1395,"Marvin Bragg missed Free Throw.",24,22,2,0.855377033013002,"Boston University","American",3,4,1,0,9.7,400991966,2018-01-17
+114,1,"3:15",1395,1395,"American Deadball Team Rebound.",24,22,2,0.855377033013002,"Boston University","American",3,4,1,0,9.7,400991966,2018-01-17
+115,1,"3:15",1395,1395,"Marvin Bragg made Free Throw.",24,23,1,0.83520606835596,"Boston University","American",3,4,1,0,9.7,400991966,2018-01-17
+116,1,"2:49",1369,1369,"Walter Whyte Turnover.",24,23,1,0.823981047244822,"Boston University","American",3,4,0,0,9.7,400991966,2018-01-17
+117,1,"2:48",1368,1368,"Sam Iorio Steal.",24,23,1,0.823981047244822,"Boston University","American",3,4,0,0,9.7,400991966,2018-01-17
+118,1,"2:39",1359,1359,"Sam Iorio missed Three Point Jumper.",24,23,1,0.830876668428197,"Boston University","American",3,4,0,0,9.7,400991966,2018-01-17
+119,1,"2:39",1359,1359,"Tyler Scanlon Defensive Rebound.",24,23,1,0.830876668428197,"Boston University","American",3,4,0,0,9.7,400991966,2018-01-17
+120,1,"2:22",1342,1342,"Walter Whyte Turnover.",24,23,1,0.81202739453488,"Boston University","American",3,4,0,0,9.7,400991966,2018-01-17
+121,1,"2:21",1341,1341,"Sam Iorio Steal.",24,23,1,0.81202739453488,"Boston University","American",3,4,0,0,9.7,400991966,2018-01-17
+122,1,"2:18",1338,1338,"Sam Iorio made Layup.",24,25,-1,0.759493650834798,"Boston University","American",3,4,0,0,9.7,400991966,2018-01-17
+123,1,"1:50",1310,1310,"Foul on Larry Motuzis.",24,25,-1,0.777425996186476,"Boston University","American",3,4,0,0,9.7,400991966,2018-01-17
+124,1,"1:44",1304,1304,"Will Goff Turnover.",24,25,-1,0.761244230135239,"Boston University","American",3,4,0,0,9.7,400991966,2018-01-17
+125,1,"1:44",1304,1304,"Sa'eed Nelson Steal.",24,25,-1,0.761244230135239,"Boston University","American",3,4,0,0,9.7,400991966,2018-01-17
+126,1,"1:39",1299,1299,"Sa'eed Nelson made Layup.",24,27,-3,0.700232946457387,"Boston University","American",3,4,0,0,9.7,400991966,2018-01-17
+127,1,"1:21",1281,1281,"Tyler Scanlon missed Jumper.",24,27,-3,0.72469868815948,"Boston University","American",3,4,0,0,9.7,400991966,2018-01-17
+128,1,"1:21",1281,1281,"Marvin Bragg Defensive Rebound.",24,27,-3,0.72469868815948,"Boston University","American",3,4,0,0,9.7,400991966,2018-01-17
+129,1,"1:12",1272,1272,"American  Timeout",24,27,-3,0.702701162689869,"Boston University","American",3,3,0,1,9.7,400991966,2018-01-17
+130,1,"0:55",1255,1255,"Sam Iorio missed Layup.",24,27,-3,0.693580323905156,"Boston University","American",3,3,0,1,9.7,400991966,2018-01-17
+131,1,"0:55",1255,1255,"Nick Havener Block.",24,27,-3,0.693580323905156,"Boston University","American",3,3,0,1,9.7,400991966,2018-01-17
+132,1,"0:53",1253,1253,"Marvin Bragg Offensive Rebound.",24,27,-3,0.693580323905156,"Boston University","American",3,3,0,1,9.7,400991966,2018-01-17
+133,1,"0:52",1252,1252,"Marvin Bragg missed Layup.",24,27,-3,0.693580323905156,"Boston University","American",3,3,0,1,9.7,400991966,2018-01-17
+134,1,"0:51",1251,1251,"Sam Iorio Offensive Rebound.",24,27,-3,0.693580323905156,"Boston University","American",3,3,0,1,9.7,400991966,2018-01-17
+135,1,"0:50",1250,1250,"Sam Iorio made Layup.",24,29,-5,0.625713726275192,"Boston University","American",3,3,0,1,9.7,400991966,2018-01-17
+136,1,"0:45",1245,1245,"Andrew Petcash missed Jumper.",24,29,-5,0.646054085983014,"Boston University","American",3,3,0,1,9.7,400991966,2018-01-17
+137,1,"0:45",1245,1245,"James Washington Defensive Rebound.",24,29,-5,0.646054085983014,"Boston University","American",3,3,0,1,9.7,400991966,2018-01-17
+138,1,"0:21",1221,1221,"Sam Iorio Turnover.",24,29,-5,0.623208378004881,"Boston University","American",3,3,0,1,9.7,400991966,2018-01-17
+139,1,"0:19",1219,1219,"Eric Johnson Steal.",24,29,-5,0.611390743971786,"Boston University","American",3,3,0,1,9.7,400991966,2018-01-17
+140,1,"0:02",1202,1202,"Foul on Larry Motuzis.",24,29,-5,0.631454312170353,"Boston University","American",3,3,0,0,9.7,400991966,2018-01-17
+141,1,"0:00",1200,1200,"End of 1st half",24,29,-5,0.631454312170353,"Boston University","American",3,3,0,0,9.7,400991966,2018-01-17
+142,2,"20:00",1200,1200,"PLAY",24,29,-5,0.631454312170353,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+143,2,"19:33",1173,1173,"Sam Iorio made Layup. Assisted by Sa'eed Nelson.",24,31,-7,0.528489412325012,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+144,2,"19:08",1148,1148,"Max Mahoney made Layup.",26,31,-5,0.592479933206861,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+145,2,"18:46",1126,1126,"Sam Iorio missed Three Point Jumper.",26,31,-5,0.586347396982423,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+146,2,"18:46",1126,1126,"Tyler Scanlon Defensive Rebound.",26,31,-5,0.586347396982423,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+147,2,"18:37",1117,1117,"Max Mahoney made Layup. Assisted by Tyler Scanlon.",28,31,-3,0.674737054205416,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+148,2,"18:08",1088,1088,"Sa'eed Nelson made Layup.",28,33,-5,0.610491562339254,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+149,2,"18:08",1088,1088,"Foul on Walter Whyte.",28,33,-5,0.610491562339254,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+150,2,"18:08",1088,1088,"Sa'eed Nelson made Free Throw.",28,34,-6,0.567664920108254,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+151,2,"17:54",1074,1074,"Foul on Marvin Bragg.",28,34,-6,0.560768123514574,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+152,2,"17:54",1074,1074,"Cedric Hankerson made Free Throw.",29,34,-5,0.601734124930258,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+153,2,"17:54",1074,1074,"Cedric Hankerson made Free Throw.",30,34,-4,0.641323178143951,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+154,2,"17:42",1062,1062,"Marvin Bragg Turnover.",30,34,-4,0.639573364623119,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+155,2,"17:41",1061,1061,"Cedric Hankerson Steal.",30,34,-4,0.639573364623119,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+156,2,"17:40",1060,1060,"Cedric Hankerson Turnover.",30,34,-4,0.639573364623119,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+157,2,"17:39",1059,1059,"Marvin Bragg Steal.",30,34,-4,0.638484321091648,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+158,2,"17:14",1034,1034,"Sam Iorio missed Layup.",30,34,-4,0.639052672423651,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+159,2,"17:14",1034,1034,"Sam Iorio Offensive Rebound.",30,34,-4,0.639052672423651,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+160,2,"17:11",1031,1031,"Foul on Tyler Scanlon.",30,34,-4,0.639052672423651,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+161,2,"17:11",1031,1031,"Sam Iorio missed Free Throw.",30,34,-4,0.639052672423651,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+162,2,"17:11",1031,1031,"American Deadball Team Rebound.",30,34,-4,0.639052672423651,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+163,2,"17:11",1031,1031,"Sam Iorio made Free Throw.",30,35,-5,0.598619296546329,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+164,2,"16:57",1017,1017,"Cedric Hankerson made Layup.",32,35,-3,0.638405764074043,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+165,2,"16:42",1002,1002,"Sam Iorio missed Layup.",32,35,-3,0.643655296073964,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+166,2,"16:42",1002,1002,"Cedric Hankerson Defensive Rebound.",32,35,-3,0.643655296073964,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+167,2,"16:13",973,973,"Sukhmail Mathon missed Layup.",32,35,-3,0.677570020085802,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+168,2,"16:13",973,973,"Marvin Bragg Defensive Rebound.",32,35,-3,0.677570020085802,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+169,2,"15:49",949,949,"Sam Iorio missed Three Point Jumper.",32,35,-3,0.675249688874217,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+170,2,"15:49",949,949,"Tyler Scanlon Defensive Rebound.",32,35,-3,0.675249688874217,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+171,2,"15:32",932,932,"Tyler Scanlon Turnover.",32,35,-3,0.646978344233933,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+172,2,"15:31",931,931,"Sa'eed Nelson Steal.",32,35,-3,0.646978344233933,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+173,2,"15:27",927,927,"Sa'eed Nelson Turnover.",32,35,-3,0.622176789827092,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+174,2,"15:26",926,926,"Cedric Hankerson Steal.",32,35,-3,0.622176789827092,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+175,2,"15:22",922,922,"Cedric Hankerson made Layup.",34,35,-1,0.708011816496788,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+176,2,"15:00",900,900,"Official TV Timeout",34,35,-1,0.723510221653022,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+177,2,"14:54",894,894,"Sa'eed Nelson made Layup.",34,37,-3,0.649613259997017,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+178,2,"14:31",871,871,"Max Mahoney missed Layup.",34,37,-3,0.650322084968961,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+179,2,"14:31",871,871,"Sam Iorio Defensive Rebound.",34,37,-3,0.650322084968961,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+180,2,"14:14",854,854,"Foul on Andrew Petcash.",34,37,-3,0.642442211011872,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+181,2,"14:14",854,854,"Larry Motuzis made Free Throw.",34,38,-4,0.594080171115672,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+182,2,"14:14",854,854,"Larry Motuzis made Free Throw.",34,39,-5,0.543821611243317,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+183,2,"14:03",843,843,"Eric Johnson Turnover.",34,39,-5,0.514086962717202,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+184,2,"13:45",825,825,"James Washington made Layup.",34,41,-7,0.469725307732815,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+185,2,"13:30",810,810,"Will Goff missed Three Point Jumper.",34,41,-7,0.451024694229669,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+186,2,"13:30",810,810,"Cheikh Diallo Defensive Rebound.",34,41,-7,0.451024694229669,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+187,2,"13:22",802,802,"Sa'eed Nelson missed Layup.",34,41,-7,0.455997685103041,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+188,2,"13:22",802,802,"Andrew Petcash Defensive Rebound.",34,41,-7,0.455997685103041,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+189,2,"13:06",786,786,"Eric Johnson made Three Point Jumper. Assisted by Will Goff.",37,41,-4,0.577724714397895,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+190,2,"12:41",761,761,"Cheikh Diallo missed Three Point Jumper.",37,41,-4,0.598716474744246,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+191,2,"12:41",761,761,"Eric Johnson Defensive Rebound.",37,41,-4,0.598716474744246,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+192,2,"12:22",742,742,"Walter Whyte Turnover.",37,41,-4,0.551532477120382,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+193,2,"12:13",733,733,"Larry Motuzis missed Layup.",37,41,-4,0.549659859994792,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+194,2,"12:13",733,733,"Walter Whyte Defensive Rebound.",37,41,-4,0.549659859994792,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+195,2,"12:05",725,725,"Cedric Hankerson Turnover.",37,41,-4,0.566064275754471,"Boston University","American",4,4,0,0,9.7,400991966,2018-01-17
+196,2,"11:58",718,718,"American  Timeout",37,41,-4,0.550506337374571,"Boston University","American",4,3,0,1,9.7,400991966,2018-01-17
+197,2,"11:35",695,695,"Larry Motuzis missed Three Point Jumper.",37,41,-4,0.565415017156484,"Boston University","American",4,3,0,1,9.7,400991966,2018-01-17
+198,2,"11:35",695,695,"Eric Johnson Defensive Rebound.",37,41,-4,0.565415017156484,"Boston University","American",4,3,0,1,9.7,400991966,2018-01-17
+199,2,"11:18",678,678,"Max Mahoney made Layup.",39,41,-2,0.648412045902561,"Boston University","American",4,3,0,1,9.7,400991966,2018-01-17
+200,2,"10:51",651,651,"Marvin Bragg missed Jumper.",39,41,-2,0.647248933384945,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+201,2,"10:51",651,651,"Javante McCoy Defensive Rebound.",39,41,-2,0.647248933384945,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+202,2,"10:42",642,642,"Javante McCoy made Layup.",41,41,0,0.740919770382175,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+203,2,"10:16",616,616,"Sa'eed Nelson made Three Point Jumper. Assisted by James Washington.",41,44,-3,0.557177901962041,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+204,2,"9:49",589,589,"Tyler Scanlon missed Jumper.",41,44,-3,0.556464910511408,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+205,2,"9:49",589,589,"Marvin Bragg Defensive Rebound.",41,44,-3,0.556464910511408,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+206,2,"9:24",564,564,"Marvin Bragg made Three Point Jumper. Assisted by Sa'eed Nelson.",41,47,-6,0.401586241742794,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+207,2,"9:09",549,549,"Foul on Max Mahoney.",41,47,-6,0.332153185819054,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+208,2,"9:09",549,549,"Max Mahoney Turnover.",41,47,-6,0.332153185819054,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+209,2,"9:09",549,549,"Official TV Timeout",41,47,-6,0.332153185819054,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+210,2,"8:39",519,519,"Sam Iorio made Three Point Jumper. Assisted by Sa'eed Nelson.",41,50,-9,0.175620288681134,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+211,2,"8:13",493,493,"Javante McCoy made Layup.",43,50,-7,0.286433504566252,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+212,2,"7:52",472,472,"Foul on Max Mahoney.",43,50,-7,0.257625656028805,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+213,2,"7:52",472,472,"Official TV Timeout",43,50,-7,0.257625656028805,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+214,2,"7:45",465,465,"Marvin Bragg missed Three Point Jumper.",43,50,-7,0.263910900342414,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+215,2,"7:45",465,465,"Cedric Hankerson Defensive Rebound.",43,50,-7,0.263910900342414,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+216,2,"7:28",448,448,"Foul on Sa'eed Nelson.",43,50,-7,0.248718384007821,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+217,2,"7:17",437,437,"Sukhmail Mathon Turnover.",43,50,-7,0.240279464305765,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+218,2,"7:15",435,435,"Marvin Bragg Steal.",43,50,-7,0.240279464305765,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+219,2,"7:08",428,428,"Sa'eed Nelson Turnover.",43,50,-7,0.222876009815236,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+220,2,"7:07",427,427,"Javante McCoy Steal.",43,50,-7,0.222876009815236,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+221,2,"6:58",418,418,"Cedric Hankerson missed Layup.",43,50,-7,0.235060106383702,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+222,2,"6:58",418,418,"Cedric Hankerson Offensive Rebound.",43,50,-7,0.235060106383702,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+223,2,"6:52",412,412,"Tyler Scanlon made Layup. Assisted by Cedric Hankerson.",45,50,-5,0.359559585639032,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+224,2,"6:20",380,380,"Larry Motuzis missed Three Point Jumper.",45,50,-5,0.374373219031379,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+225,2,"6:20",380,380,"Cheikh Diallo Offensive Rebound.",45,50,-5,0.374373219031379,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+226,2,"6:15",375,375,"Sam Iorio made Three Point Jumper. Assisted by Cheikh Diallo.",45,53,-8,0.165622654407332,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+227,2,"5:59",359,359,"Cedric Hankerson missed Three Point Jumper.",45,53,-8,0.125380404258912,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+228,2,"5:59",359,359,"Marvin Bragg Defensive Rebound.",45,53,-8,0.125380404258912,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+229,2,"5:32",332,332,"Sa'eed Nelson missed Layup.",45,53,-8,0.123689526182797,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+230,2,"5:32",332,332,"Javante McCoy Defensive Rebound.",45,53,-8,0.123689526182797,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+231,2,"5:28",328,328,"Javante McCoy Turnover.",45,53,-8,0.166169465783469,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+232,2,"5:27",327,327,"Sam Iorio Steal.",45,53,-8,0.166169465783469,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+233,2,"5:04",304,304,"Foul on Will Goff.",45,53,-8,0.124781277608198,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+234,2,"5:04",304,304,"Marvin Bragg missed Free Throw.",45,53,-8,0.124781277608198,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+235,2,"5:04",304,304,"American Deadball Team Rebound.",45,53,-8,0.124781277608198,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+236,2,"5:04",304,304,"Marvin Bragg made Free Throw.",45,54,-9,0.0922426216593211,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+237,2,"4:47",287,287,"Javante McCoy Turnover.",45,54,-9,0.0848230221546091,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+238,2,"4:47",287,287,"Sam Iorio Steal.",45,54,-9,0.0848230221546091,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+239,2,"4:35",275,275,"Foul on Cheikh Diallo.",45,54,-9,0.061247526538052,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+240,2,"4:35",275,275,"Cheikh Diallo Turnover.",45,54,-9,0.061247526538052,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+241,2,"4:18",258,258,"Foul on James Washington.",45,54,-9,0.0453354306436904,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+242,2,"4:12",252,252,"Max Mahoney made Dunk. Assisted by Eric Johnson.",47,54,-7,0.099344712718542,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+243,2,"3:54",234,234,"Larry Motuzis Turnover.",47,54,-7,0.107181534343938,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+244,2,"3:54",234,234,"Official TV Timeout",47,54,-7,0.107181534343938,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+245,2,"3:37",217,217,"Max Mahoney missed Layup.",47,54,-7,0.0866182456656085,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+246,2,"3:37",217,217,"Boston University Offensive Rebound.",47,54,-7,0.0866182456656085,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+247,2,"3:26",206,206,"Cedric Hankerson missed Layup.",47,54,-7,0.0928330669891201,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+248,2,"3:26",206,206,"Marvin Bragg Block.",47,54,-7,0.0928330669891201,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+249,2,"3:23",203,203,"Cedric Hankerson Offensive Rebound.",47,54,-7,0.0928330669891201,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+250,2,"3:21",201,201,"Cedric Hankerson made Layup.",49,54,-5,0.201740032783292,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+251,2,"2:53",173,173,"Sam Iorio made Three Point Jumper. Assisted by James Washington.",49,57,-8,0.0392311382547508,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+252,2,"2:38",158,158,"Walter Whyte made Dunk. Assisted by Cedric Hankerson.",51,57,-6,0.0689467813318778,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+253,2,"2:21",141,141,"Foul on Cedric Hankerson.",51,57,-6,0.0847017872947504,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+254,2,"2:21",141,141,"Sa'eed Nelson made Free Throw.",51,58,-7,0.0522398103042552,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+255,2,"2:21",141,141,"Sa'eed Nelson made Free Throw.",51,59,-8,0.0317868345415236,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+256,2,"2:16",136,136,"Tyler Scanlon Turnover.",51,59,-8,0.0244459524913887,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+257,2,"2:15",135,135,"Larry Motuzis Steal.",51,59,-8,0.0244459524913887,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+258,2,"1:59",119,119,"Sam Iorio made Three Point Jumper. Assisted by Larry Motuzis.",51,62,-11,0.00262776607748662,"Boston University","American",4,3,0,0,9.7,400991966,2018-01-17
+259,2,"1:48",108,108,"Boston University  Timeout",51,62,-11,0.00181100156486927,"Boston University","American",3,3,1,0,9.7,400991966,2018-01-17
+260,2,"1:41",101,101,"Eric Johnson missed Jumper.",51,62,-11,0.00181100156486927,"Boston University","American",3,3,1,0,9.7,400991966,2018-01-17
+261,2,"1:41",101,101,"Sam Iorio Defensive Rebound.",51,62,-11,0.00181100156486927,"Boston University","American",3,3,1,0,9.7,400991966,2018-01-17
+262,2,"1:38",98,98,"Foul on Eric Johnson.",51,62,-11,0.0015703829658703,"Boston University","American",3,3,1,0,9.7,400991966,2018-01-17
+263,2,"1:38",98,98,"Sam Iorio missed Free Throw.",51,62,-11,0.0015703829658703,"Boston University","American",3,3,1,0,9.7,400991966,2018-01-17
+264,2,"1:38",98,98,"Tyler Scanlon Defensive Rebound.",51,62,-11,0.0015703829658703,"Boston University","American",3,3,1,0,9.7,400991966,2018-01-17
+265,2,"1:26",86,86,"Tyler Scanlon made Layup.",53,62,-9,0.00320904312390776,"Boston University","American",3,3,1,0,9.7,400991966,2018-01-17
+266,2,"1:24",84,84,"Boston University  Timeout",53,62,-9,0.00320904312390776,"Boston University","American",2,3,1,0,9.7,400991966,2018-01-17
+267,2,"1:22",82,82,"Foul on Cedric Hankerson.",53,62,-9,0.00320904312390776,"Boston University","American",2,3,1,0,9.7,400991966,2018-01-17
+268,2,"1:22",82,82,"Sa'eed Nelson missed Free Throw.",53,62,-9,0.00320904312390776,"Boston University","American",2,3,1,0,9.7,400991966,2018-01-17
+269,2,"1:22",82,82,"Walter Whyte Defensive Rebound.",53,62,-9,0.00320904312390776,"Boston University","American",2,3,1,0,9.7,400991966,2018-01-17
+270,2,"1:12",72,72,"Foul on Sa'eed Nelson.",53,62,-9,0.0021282456889867,"Boston University","American",2,3,1,0,9.7,400991966,2018-01-17
+271,2,"1:08",68,68,"Will Goff missed Three Point Jumper.",53,62,-9,0.00155708340361214,"Boston University","American",2,3,1,0,9.7,400991966,2018-01-17
+272,2,"1:08",68,68,"Sam Iorio Defensive Rebound.",53,62,-9,0.00155708340361214,"Boston University","American",2,3,1,0,9.7,400991966,2018-01-17
+273,2,"1:06",66,66,"Foul on Walter Whyte.",53,62,-9,0.00155708340361214,"Boston University","American",2,3,1,0,9.7,400991966,2018-01-17
+274,2,"1:06",66,66,"Sam Iorio made Free Throw.",53,63,-10,0.000741844980247754,"Boston University","American",2,3,1,0,9.7,400991966,2018-01-17
+275,2,"1:06",66,66,"Sam Iorio made Free Throw.",53,64,-11,0.00035328795314382,"Boston University","American",2,3,1,0,9.7,400991966,2018-01-17
+276,2,"0:58",58,58,"Tyler Scanlon Turnover.",53,64,-11,0.000190405725578432,"Boston University","American",2,3,1,0,9.7,400991966,2018-01-17
+277,2,"0:57",57,57,"James Washington Steal.",53,64,-11,0.000143340791291918,"Boston University","American",2,3,1,0,9.7,400991966,2018-01-17
+278,2,"0:55",55,55,"Foul on Javante McCoy.",53,64,-11,0.000422038350930965,"Boston University","American",2,3,1,0,9.7,400991966,2018-01-17
+279,2,"0:55",55,55,"James Washington made Free Throw.",53,65,-12,0.000197532838790375,"Boston University","American",2,3,1,0,9.7,400991966,2018-01-17
+280,2,"0:55",55,55,"James Washington missed Free Throw.",53,65,-12,0.000197532838790375,"Boston University","American",2,3,1,0,9.7,400991966,2018-01-17
+281,2,"0:55",55,55,"Cedric Hankerson Defensive Rebound.",53,65,-12,0.000197532838790375,"Boston University","American",2,3,1,0,9.7,400991966,2018-01-17
+282,2,"0:47",47,47,"Walter Whyte made Layup. Assisted by Cedric Hankerson.",55,65,-10,3.1010227270754e-05,"Boston University","American",2,3,1,0,9.7,400991966,2018-01-17
+283,2,"0:47",47,47,"Boston University  Timeout",55,65,-10,3.1010227270754e-05,"Boston University","American",1,3,1,0,9.7,400991966,2018-01-17
+284,2,"0:41",41,41,"James Washington made Layup. Assisted by Sam Iorio.",55,67,-12,5.41389070397261e-06,"Boston University","American",1,3,1,0,9.7,400991966,2018-01-17
+285,2,"0:34",34,34,"Walter Whyte made Layup. Assisted by Tyler Scanlon.",57,67,-10,0.000208159010525275,"Boston University","American",1,3,1,0,9.7,400991966,2018-01-17
+286,2,"0:28",28,28,"James Washington made Layup. Assisted by Larry Motuzis.",57,69,-12,2.11631283967316e-06,"Boston University","American",1,3,1,0,9.7,400991966,2018-01-17
+287,2,"0:22",22,22,"Javante McCoy missed Three Point Jumper.",57,69,-12,2.75760513307411e-07,"Boston University","American",1,3,1,0,9.7,400991966,2018-01-17
+288,2,"0:22",22,22,"Boston University Offensive Rebound.",57,69,-12,2.75760513307411e-07,"Boston University","American",1,3,1,0,9.7,400991966,2018-01-17
+289,2,"0:16",16,16,"Cedric Hankerson missed Three Point Jumper.",57,69,-12,2.67036239801605e-09,"Boston University","American",1,3,1,0,9.7,400991966,2018-01-17
+290,2,"0:16",16,16,"Walter Whyte Offensive Rebound.",57,69,-12,2.67036239801605e-09,"Boston University","American",1,3,1,0,9.7,400991966,2018-01-17
+291,2,"0:12",12,12,"Foul on Larry Motuzis.",57,69,-12,4.31817088666569e-07,"Boston University","American",1,3,1,0,9.7,400991966,2018-01-17
+292,2,"0:12",12,12,"Walter Whyte missed Free Throw.",57,69,-12,4.31817088666569e-07,"Boston University","American",1,3,1,0,9.7,400991966,2018-01-17
+293,2,"0:12",12,12,"Boston University Deadball Team Rebound.",57,69,-12,4.31817088666569e-07,"Boston University","American",1,3,1,0,9.7,400991966,2018-01-17
+294,2,"0:12",12,12,"Walter Whyte made Free Throw.",58,69,-11,1.57320963705375e-06,"Boston University","American",1,3,1,0,9.7,400991966,2018-01-17
+295,2,"0:00",0,0,"End of Game",58,69,-11,3.61568800059839e-93,"Boston University","American",1,3,1,0,9.7,400991966,2018-01-17

@@ -1,0 +1,420 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.425256809849944,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+2,1,"19:45",2385,2385,"Traylin Farris missed Jumper.",0,0,0,0.428802212150198,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+3,1,"19:45",2385,2385,"Traylin Farris Offensive Rebound.",0,0,0,0.428802212150198,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+4,1,"19:41",2381,2381,"Traylin Farris made Layup.",0,2,-2,0.413015640616714,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+5,1,"19:31",2371,2371,"Foul on Deontae North.",0,2,-2,0.398359978879414,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+6,1,"19:19",2359,2359,"Philipp Hartwich made Layup. Assisted by Josh McSwiggan.",2,2,0,0.449395896628614,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+7,1,"19:07",2347,2347,"Bryce Canda made Jumper.",2,4,-2,0.390070060741934,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+8,1,"18:59",2339,2339,"Franklin Porter Turnover.",2,4,-2,0.391978427424713,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+9,1,"18:37",2317,2317,"Deontae North missed Jumper.",2,4,-2,0.383148021108222,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+10,1,"18:37",2317,2317,"Philipp Hartwich Defensive Rebound.",2,4,-2,0.383148021108222,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+11,1,"18:26",2306,2306,"JoJo Walker made Three Point Jumper. Assisted by Franklin Porter.",5,4,1,0.456844015897915,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+12,1,"18:07",2287,2287,"Foul on Malcolm Porter.",5,4,1,0.45697957651047,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+13,1,"18:03",2283,2283,"Brandon Hollins Turnover.",5,4,1,0.45697957651047,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+14,1,"18:02",2282,2282,"Franklin Porter Steal.",5,4,1,0.45697957651047,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+15,1,"18:00",2280,2280,"Franklin Porter missed Three Point Jumper.",5,4,1,0.45697957651047,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+16,1,"18:00",2280,2280,"Portland Offensive Rebound.",5,4,1,0.45697957651047,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+17,1,"17:48",2268,2268,"Josh McSwiggan missed Jumper.",5,4,1,0.470320891815053,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+18,1,"17:48",2268,2268,"Deante Strickland Defensive Rebound.",5,4,1,0.470320891815053,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+19,1,"17:35",2255,2255,"Deontae North made Jumper. Assisted by Deante Strickland.",5,6,-1,0.422369723315556,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+20,1,"17:20",2240,2240,"Foul on Deante Strickland.",5,6,-1,0.433563147955017,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+21,1,"17:11",2231,2231,"Malcolm Porter missed Jumper.",5,6,-1,0.412740654097362,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+22,1,"17:11",2231,2231,"Franklin Porter Offensive Rebound.",5,6,-1,0.412740654097362,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+23,1,"17:07",2227,2227,"Malcolm Porter missed Three Point Jumper.",5,6,-1,0.415924854968995,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+24,1,"17:07",2227,2227,"Bryce Canda Defensive Rebound.",5,6,-1,0.415924854968995,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+25,1,"16:58",2218,2218,"Deontae North missed Three Point Jumper.",5,6,-1,0.421211262125041,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+26,1,"16:58",2218,2218,"Portland State Offensive Rebound.",5,6,-1,0.421211262125041,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+27,1,"16:41",2201,2201,"Foul on Malcolm Porter.",5,6,-1,0.415773468583167,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+28,1,"16:41",2201,2201,"Bryce Canda missed Free Throw.",5,6,-1,0.415773468583167,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+29,1,"16:41",2201,2201,"Portland State Deadball Team Rebound.",5,6,-1,0.415773468583167,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+30,1,"16:41",2201,2201,"Bryce Canda missed Free Throw.",5,6,-1,0.415773468583167,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+31,1,"16:41",2201,2201,"Portland State Deadball Team Rebound.",5,6,-1,0.415773468583167,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+32,1,"16:41",2201,2201,"Bryce Canda missed Free Throw.",5,6,-1,0.415773468583167,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+33,1,"16:41",2201,2201,"Philipp Hartwich Defensive Rebound.",5,6,-1,0.415773468583167,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+34,1,"16:24",2184,2184,"Josh McSwiggan missed Layup.",5,6,-1,0.415024193962989,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+35,1,"16:24",2184,2184,"Philipp Hartwich Offensive Rebound.",5,6,-1,0.415024193962989,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+36,1,"16:22",2182,2182,"Foul on Brandon Hollins.",5,6,-1,0.415024193962989,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+37,1,"16:22",2182,2182,"Philipp Hartwich made Free Throw.",6,6,0,0.441591779044616,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+38,1,"16:22",2182,2182,"Philipp Hartwich missed Free Throw.",6,6,0,0.441591779044616,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+39,1,"16:22",2182,2182,"Brandon Hollins Defensive Rebound.",6,6,0,0.441591779044616,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+40,1,"16:10",2170,2170,"Ryan Edwards Turnover.",6,6,0,0.433902435706401,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+41,1,"16:09",2169,2169,"Marcus Shaver Jr Steal.",6,6,0,0.440050640958258,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+42,1,"16:06",2166,2166,"JoJo Walker missed Layup.",6,6,0,0.440050640958258,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+43,1,"16:06",2166,2166,"Brandon Hollins Block.",6,6,0,0.440050640958258,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+44,1,"16:05",2165,2165,"Josh McSwiggan Offensive Rebound.",6,6,0,0.440050640958258,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+45,1,"16:02",2162,2162,"Franklin Porter made Layup.",8,6,2,0.495047657124489,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+46,1,"16:02",2162,2162,"Foul on Brandon Hollins.",8,6,2,0.495047657124489,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+47,1,"16:02",2162,2162,"Franklin Porter made Free Throw.",9,6,3,0.52267524539668,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+48,1,"15:54",2154,2154,"Foul on Franklin Porter.",9,6,3,0.516731468922616,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+49,1,"15:54",2154,2154,"Official TV Timeout",9,6,3,0.516731468922616,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+50,1,"15:42",2142,2142,"Ryan Edwards missed Jumper.",9,6,3,0.522492108056003,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+51,1,"15:42",2142,2142,"Portland Defensive Rebound.",9,6,3,0.522492108056003,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+52,1,"15:22",2122,2122,"JoJo Walker missed Layup.",9,6,3,0.517592543615477,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+53,1,"15:22",2122,2122,"Portland State Defensive Rebound.",9,6,3,0.517592543615477,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+54,1,"14:54",2094,2094,"Deontae North Turnover.",9,6,3,0.532150183557753,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+55,1,"14:43",2083,2083,"Marcus Shaver Jr made Layup.",11,6,5,0.586036094460865,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+56,1,"14:23",2063,2063,"Holland Woods made Three Point Jumper. Assisted by Michael Mayhew.",11,9,2,0.488970205640329,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+57,1,"14:04",2044,2044,"Foul on Jamie Orme.",11,9,2,0.480473803864602,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+58,1,"14:03",2043,2043,"Josh McSwiggan made Layup. Assisted by Franklin Porter.",13,9,4,0.535499059078786,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+59,1,"13:50",2030,2030,"Jamie Orme Turnover.",13,9,4,0.552770474326849,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+60,1,"13:50",2030,2030,"JoJo Walker Steal.",13,9,4,0.552770474326849,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+61,1,"13:50",2030,2030,"Foul on Jamie Orme.",13,9,4,0.552770474326849,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+62,1,"13:32",2012,2012,"Josh McSwiggan missed Three Point Jumper.",13,9,4,0.560182511863583,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+63,1,"13:32",2012,2012,"Deante Strickland Defensive Rebound.",13,9,4,0.560182511863583,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+64,1,"13:24",2004,2004,"Foul on Marcus Shaver Jr.",13,9,4,0.544523988436322,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+65,1,"13:13",1993,1993,"Ryan Edwards Turnover.",13,9,4,0.566074317739185,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+66,1,"13:09",1989,1989,"Marcus Shaver Jr missed Three Point Jumper.",13,9,4,0.556729271957019,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+67,1,"13:09",1989,1989,"Deante Strickland Defensive Rebound.",13,9,4,0.556729271957019,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+68,1,"13:03",1983,1983,"Michael Mayhew made Three Point Jumper. Assisted by Deante Strickland.",13,12,1,0.463513380480651,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+69,1,"12:52",1972,1972,"Josh McSwiggan made Three Point Jumper. Assisted by Marcus Shaver Jr.",16,12,4,0.563001732640508,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+70,1,"12:38",1958,1958,"Deante Strickland made Jumper.",16,14,2,0.514617500754913,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+71,1,"12:10",1930,1930,"Franklin Porter missed Jumper.",16,14,2,0.495480853067463,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+72,1,"12:10",1930,1930,"Portland State Defensive Rebound.",16,14,2,0.495480853067463,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+73,1,"12:09",1929,1929,"Official TV Timeout",16,14,2,0.483996045969503,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+74,1,"11:50",1910,1910,"Foul on Franklin Porter.",16,14,2,0.523943218296769,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+75,1,"11:50",1910,1910,"Official TV Timeout",16,14,2,0.523943218296769,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+76,1,"11:50",1910,1910,"Bryce Canda missed Free Throw.",16,14,2,0.523943218296769,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+77,1,"11:50",1910,1910,"Portland State Deadball Team Rebound.",16,14,2,0.523943218296769,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+78,1,"11:50",1910,1910,"Bryce Canda made Free Throw.",16,15,1,0.491726744948781,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+79,1,"11:40",1900,1900,"Josh McSwiggan made Three Point Jumper. Assisted by Malcolm Porter.",19,15,4,0.550801664201115,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+80,1,"11:22",1882,1882,"Holland Woods missed Jumper.",19,15,4,0.551605722608667,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+81,1,"11:22",1882,1882,"Philipp Hartwich Defensive Rebound.",19,15,4,0.551605722608667,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+82,1,"11:12",1872,1872,"Malcolm Porter made Jumper.",21,15,6,0.621611674084704,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+83,1,"11:11",1871,1871,"Foul on Holland Woods.",21,15,6,0.621611674084704,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+84,1,"11:11",1871,1871,"Malcolm Porter made Free Throw.",22,15,7,0.65034045184277,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+85,1,"11:01",1861,1861,"Bryce Canda missed Three Point Jumper.",22,15,7,0.688064961635764,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+86,1,"11:01",1861,1861,"D'Marques Tyson Defensive Rebound.",22,15,7,0.688064961635764,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+87,1,"10:33",1833,1833,"Malcolm Porter missed Layup.",22,15,7,0.665132461191886,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+88,1,"10:33",1833,1833,"Traylin Farris Defensive Rebound.",22,15,7,0.665132461191886,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+89,1,"10:24",1824,1824,"Foul on Tahirou Diabate.",22,15,7,0.663361426422825,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+90,1,"10:14",1814,1814,"Deontae North missed Jumper.",22,15,7,0.682443442879963,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+91,1,"10:14",1814,1814,"Tahirou Diabate Block.",22,15,7,0.682443442879963,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+92,1,"10:12",1812,1812,"Deontae North Offensive Rebound.",22,15,7,0.682443442879963,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+93,1,"10:05",1805,1805,"Ryan Edwards made Layup. Assisted by Michael Mayhew.",22,17,5,0.594315072388902,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+94,1,"9:49",1789,1789,"Malcolm Porter Turnover.",22,17,5,0.599164545387277,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+95,1,"9:37",1777,1777,"Deante Strickland Turnover.",22,17,5,0.578303247094059,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+96,1,"9:37",1777,1777,"D'Marques Tyson Steal.",22,17,5,0.578303247094059,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+97,1,"9:25",1765,1765,"Foul on Ryan Edwards.",22,17,5,0.600214651068545,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+98,1,"9:25",1765,1765,"Marcus Shaver Jr made Free Throw.",23,17,6,0.630930954602622,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+99,1,"9:25",1765,1765,"Marcus Shaver Jr made Free Throw.",24,17,7,0.660621671147585,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+100,1,"9:16",1756,1756,"Deontae North missed Three Point Jumper.",24,17,7,0.64721289573585,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+101,1,"9:16",1756,1756,"Michael Mayhew Offensive Rebound.",24,17,7,0.64721289573585,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+102,1,"9:10",1750,1750,"Deontae North made Layup. Assisted by Ryan Edwards.",24,19,5,0.580921649944472,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+103,1,"8:59",1739,1739,"Marcus Shaver Jr made Layup.",26,19,7,0.673499222331241,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+104,1,"8:43",1723,1723,"Traylin Farris Turnover.",26,19,7,0.692913793528472,"Portland","Portland State",4,4,1,0,-1.5,400986973,2017-11-11
+105,1,"8:43",1723,1723,"Portland State  Timeout",26,19,7,0.692913793528472,"Portland","Portland State",3,4,1,0,-1.5,400986973,2017-11-11
+106,1,"8:28",1708,1708,"Malcolm Porter missed Jumper.",26,19,7,0.649876169916622,"Portland","Portland State",3,4,1,0,-1.5,400986973,2017-11-11
+107,1,"8:28",1708,1708,"Tahirou Diabate Offensive Rebound.",26,19,7,0.649876169916622,"Portland","Portland State",3,4,1,0,-1.5,400986973,2017-11-11
+108,1,"8:25",1705,1705,"Foul on Bryce Canda.",26,19,7,0.649876169916622,"Portland","Portland State",3,4,1,0,-1.5,400986973,2017-11-11
+109,1,"8:25",1705,1705,"Tahirou Diabate made Free Throw.",27,19,8,0.67834857567484,"Portland","Portland State",3,4,1,0,-1.5,400986973,2017-11-11
+110,1,"8:25",1705,1705,"Tahirou Diabate made Free Throw.",28,19,9,0.705554639128736,"Portland","Portland State",3,4,1,0,-1.5,400986973,2017-11-11
+111,1,"8:09",1689,1689,"Holland Woods made Three Point Jumper. Assisted by Traylin Farris.",28,22,6,0.651106342628548,"Portland","Portland State",3,4,1,0,-1.5,400986973,2017-11-11
+112,1,"7:35",1655,1655,"Marcus Shaver Jr made Three Point Jumper. Assisted by Franklin Porter.",31,22,9,0.732973502049738,"Portland","Portland State",3,4,0,0,-1.5,400986973,2017-11-11
+113,1,"7:15",1635,1635,"Holland Woods Turnover.",31,22,9,0.734870034707802,"Portland","Portland State",3,4,0,0,-1.5,400986973,2017-11-11
+114,1,"7:15",1635,1635,"Official TV Timeout",31,22,9,0.734870034707802,"Portland","Portland State",3,4,0,0,-1.5,400986973,2017-11-11
+115,1,"7:07",1627,1627,"Foul on Ryan Edwards.",31,22,9,0.735135427891913,"Portland","Portland State",3,4,0,0,-1.5,400986973,2017-11-11
+116,1,"7:07",1627,1627,"Tahirou Diabate missed Free Throw.",31,22,9,0.735135427891913,"Portland","Portland State",3,4,0,0,-1.5,400986973,2017-11-11
+117,1,"7:07",1627,1627,"Portland Deadball Team Rebound.",31,22,9,0.735135427891913,"Portland","Portland State",3,4,0,0,-1.5,400986973,2017-11-11
+118,1,"7:07",1627,1627,"Tahirou Diabate missed Free Throw.",31,22,9,0.735135427891913,"Portland","Portland State",3,4,0,0,-1.5,400986973,2017-11-11
+119,1,"7:07",1627,1627,"Traylin Farris Defensive Rebound.",31,22,9,0.735135427891913,"Portland","Portland State",3,4,0,0,-1.5,400986973,2017-11-11
+120,1,"6:51",1611,1611,"Deontae North made Layup.",31,24,7,0.670578542975681,"Portland","Portland State",3,4,0,0,-1.5,400986973,2017-11-11
+121,1,"6:42",1602,1602,"Malcolm Porter Turnover.",31,24,7,0.656590029833819,"Portland","Portland State",3,4,0,0,-1.5,400986973,2017-11-11
+122,1,"6:41",1601,1601,"Bryce Canda Steal.",31,24,7,0.656590029833819,"Portland","Portland State",3,4,0,0,-1.5,400986973,2017-11-11
+123,1,"6:41",1601,1601,"Deontae North made Layup.",31,26,5,0.595174794941823,"Portland","Portland State",3,4,0,0,-1.5,400986973,2017-11-11
+124,1,"6:30",1590,1590,"Franklin Porter Turnover.",31,26,5,0.631786262278397,"Portland","Portland State",3,4,0,0,-1.5,400986973,2017-11-11
+125,1,"6:21",1581,1581,"Michael Mayhew missed Jumper.",31,26,5,0.595951728567584,"Portland","Portland State",3,4,0,0,-1.5,400986973,2017-11-11
+126,1,"6:21",1581,1581,"Tahirou Diabate Defensive Rebound.",31,26,5,0.595951728567584,"Portland","Portland State",3,4,0,0,-1.5,400986973,2017-11-11
+127,1,"6:03",1563,1563,"Franklin Porter Turnover.",31,26,5,0.607600158470458,"Portland","Portland State",3,4,0,0,-1.5,400986973,2017-11-11
+128,1,"6:02",1562,1562,"Bryce Canda Steal.",31,26,5,0.607600158470458,"Portland","Portland State",3,4,0,0,-1.5,400986973,2017-11-11
+129,1,"5:54",1554,1554,"Traylin Farris missed Jumper.",31,26,5,0.616535235512593,"Portland","Portland State",3,4,0,0,-1.5,400986973,2017-11-11
+130,1,"5:54",1554,1554,"Traylin Farris Offensive Rebound.",31,26,5,0.616535235512593,"Portland","Portland State",3,4,0,0,-1.5,400986973,2017-11-11
+131,1,"5:52",1552,1552,"Foul on Tahirou Diabate.",31,26,5,0.616535235512593,"Portland","Portland State",3,4,0,1,-1.5,400986973,2017-11-11
+132,1,"5:52",1552,1552,"Portland  Timeout",31,26,5,0.616535235512593,"Portland","Portland State",3,3,0,1,-1.5,400986973,2017-11-11
+133,1,"5:52",1552,1552,"Traylin Farris made Free Throw.",31,27,4,0.582074097706562,"Portland","Portland State",3,3,0,1,-1.5,400986973,2017-11-11
+134,1,"5:52",1552,1552,"Traylin Farris made Free Throw.",31,28,3,0.546792540526604,"Portland","Portland State",3,3,0,1,-1.5,400986973,2017-11-11
+135,1,"5:34",1534,1534,"Foul on JoJo Walker.",31,28,3,0.551840066833362,"Portland","Portland State",3,3,0,1,-1.5,400986973,2017-11-11
+136,1,"5:34",1534,1534,"JoJo Walker Turnover.",31,28,3,0.551840066833362,"Portland","Portland State",3,3,0,1,-1.5,400986973,2017-11-11
+137,1,"5:22",1522,1522,"Bryce Canda missed Jumper.",31,28,3,0.555153466270861,"Portland","Portland State",3,3,0,1,-1.5,400986973,2017-11-11
+138,1,"5:22",1522,1522,"Deontae North Offensive Rebound.",31,28,3,0.555153466270861,"Portland","Portland State",3,3,0,1,-1.5,400986973,2017-11-11
+139,1,"5:17",1517,1517,"Foul on Franklin Porter.",31,28,3,0.579271306775077,"Portland","Portland State",3,3,0,1,-1.5,400986973,2017-11-11
+140,1,"5:17",1517,1517,"Deontae North missed Free Throw.",31,28,3,0.579271306775077,"Portland","Portland State",3,3,0,1,-1.5,400986973,2017-11-11
+141,1,"5:17",1517,1517,"Josh McSwiggan Defensive Rebound.",31,28,3,0.579271306775077,"Portland","Portland State",3,3,0,1,-1.5,400986973,2017-11-11
+142,1,"5:01",1501,1501,"Josh McSwiggan missed Jumper.",31,28,3,0.551730918300153,"Portland","Portland State",3,3,0,1,-1.5,400986973,2017-11-11
+143,1,"5:01",1501,1501,"Portland Offensive Rebound.",31,28,3,0.551730918300153,"Portland","Portland State",3,3,0,1,-1.5,400986973,2017-11-11
+144,1,"4:53",1493,1493,"Philipp Hartwich Turnover.",31,28,3,0.573486904326491,"Portland","Portland State",3,3,0,1,-1.5,400986973,2017-11-11
+145,1,"4:42",1482,1482,"Traylin Farris missed Jumper.",31,28,3,0.548340243556357,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+146,1,"4:42",1482,1482,"Brandon Hollins Offensive Rebound.",31,28,3,0.548340243556357,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+147,1,"4:39",1479,1479,"Brandon Hollins missed Layup.",31,28,3,0.549623201568911,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+148,1,"4:39",1479,1479,"Philipp Hartwich Defensive Rebound.",31,28,3,0.549623201568911,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+149,1,"4:33",1473,1473,"JoJo Walker made Layup. Assisted by Marcus Shaver Jr.",33,28,5,0.623595080808821,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+150,1,"4:24",1464,1464,"Foul on Philipp Hartwich.",33,28,5,0.641029992291024,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+151,1,"4:24",1464,1464,"Deontae North made Free Throw.",33,29,4,0.60835909070164,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+152,1,"4:24",1464,1464,"Deontae North missed Free Throw.",33,29,4,0.60835909070164,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+153,1,"4:24",1464,1464,"Philipp Hartwich Defensive Rebound.",33,29,4,0.60835909070164,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+154,1,"4:12",1452,1452,"Rashad Jackson missed Three Point Jumper.",33,29,4,0.57976228534686,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+155,1,"4:12",1452,1452,"Portland Offensive Rebound.",33,29,4,0.57976228534686,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+156,1,"3:56",1436,1436,"Foul on Traylin Farris.",33,29,4,0.612904729253492,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+157,1,"3:56",1436,1436,"Official TV Timeout",33,29,4,0.612904729253492,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+158,1,"3:56",1436,1436,"Philipp Hartwich made Free Throw.",34,29,5,0.647631433309134,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+159,1,"3:56",1436,1436,"Philipp Hartwich made Free Throw.",35,29,6,0.680864919360168,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+160,1,"3:34",1414,1414,"Michael Mayhew made Jumper.",35,31,4,0.603019614245714,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+161,1,"3:04",1384,1384,"Josh McSwiggan missed Three Point Jumper.",35,31,4,0.608158071381824,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+162,1,"3:04",1384,1384,"Philipp Hartwich Offensive Rebound.",35,31,4,0.608158071381824,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+163,1,"3:00",1380,1380,"Foul on Michael Mayhew.",35,31,4,0.608158071381824,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+164,1,"3:00",1380,1380,"Philipp Hartwich missed Free Throw.",35,31,4,0.608158071381824,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+165,1,"3:00",1380,1380,"Portland Deadball Team Rebound.",35,31,4,0.608158071381824,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+166,1,"3:00",1380,1380,"Philipp Hartwich made Free Throw.",36,31,5,0.643141292260597,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+167,1,"2:50",1370,1370,"Holland Woods missed Three Point Jumper.",36,31,5,0.611481339241619,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+168,1,"2:50",1370,1370,"Traylin Farris Offensive Rebound.",36,31,5,0.611481339241619,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+169,1,"2:43",1363,1363,"Bryce Canda made Three Point Jumper. Assisted by Traylin Farris.",36,34,2,0.527903517833384,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+170,1,"2:10",1330,1330,"Foul on Holland Woods.",36,34,2,0.516147540393285,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+171,1,"2:10",1330,1330,"Josh McSwiggan made Free Throw.",37,34,3,0.554825062413307,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+172,1,"2:10",1330,1330,"Josh McSwiggan made Free Throw.",38,34,4,0.592849685567848,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+173,1,"2:00",1320,1320,"Bryce Canda missed Three Point Jumper.",38,34,4,0.605283027597778,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+174,1,"2:00",1320,1320,"Rashad Jackson Defensive Rebound.",38,34,4,0.605283027597778,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+175,1,"1:45",1305,1305,"Foul on Michael Mayhew.",38,34,4,0.608437030759183,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+176,1,"1:45",1305,1305,"Rashad Jackson made Free Throw.",39,34,5,0.642874749898259,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+177,1,"1:45",1305,1305,"Rashad Jackson made Free Throw.",40,34,6,0.675897064938139,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+178,1,"1:26",1286,1286,"Foul on D'Marques Tyson.",40,34,6,0.664371442355869,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+179,1,"1:26",1286,1286,"Traylin Farris made Free Throw.",40,35,5,0.630193687196554,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+180,1,"1:26",1286,1286,"Traylin Farris made Free Throw.",40,36,4,0.594658969177087,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+181,1,"1:13",1273,1273,"JoJo Walker Turnover.",40,36,4,0.582156650644455,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+182,1,"1:12",1272,1272,"Traylin Farris Steal.",40,36,4,0.582156650644455,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+183,1,"1:06",1266,1266,"Jamie Orme missed Dunk.",40,36,4,0.621948955178021,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+184,1,"1:06",1266,1266,"Rashad Jackson Block.",40,36,4,0.621948955178021,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+185,1,"1:05",1265,1265,"Philipp Hartwich Defensive Rebound.",40,36,4,0.621948955178021,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+186,1,"1:02",1262,1262,"JoJo Walker made Three Point Jumper. Assisted by Josh McSwiggan.",43,36,7,0.725599059518897,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+187,1,"0:50",1250,1250,"Bryce Canda made Three Point Jumper. Assisted by Traylin Farris.",43,39,4,0.60632890504057,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+188,1,"0:25",1225,1225,"D'Marques Tyson missed Three Point Jumper.",43,39,4,0.625854491971938,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+189,1,"0:25",1225,1225,"Portland State Defensive Rebound.",43,39,4,0.625854491971938,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+190,1,"0:08",1208,1208,"Deante Strickland missed Jumper.",43,39,4,0.608734904921713,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+191,1,"0:08",1208,1208,"Philipp Hartwich Block.",43,39,4,0.608734904921713,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+192,1,"0:06",1206,1206,"Bryce Canda Offensive Rebound.",43,39,4,0.608734904921713,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+193,1,"0:04",1204,1204,"Bryce Canda missed Three Point Jumper.",43,39,4,0.608734904921713,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+194,1,"0:04",1204,1204,"Deontae North Offensive Rebound.",43,39,4,0.608734904921713,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+195,1,"0:01",1201,1201,"Foul on Rashad Jackson.",43,39,4,0.608734904921713,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+196,1,"0:01",1201,1201,"Deontae North missed Free Throw.",43,39,4,0.608734904921713,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+197,1,"0:01",1201,1201,"Portland State Deadball Team Rebound.",43,39,4,0.608734904921713,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+198,1,"0:01",1201,1201,"Deontae North missed Free Throw.",43,39,4,0.608734904921713,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+199,1,"0:01",1201,1201,"Philipp Hartwich Defensive Rebound.",43,39,4,0.608734904921713,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+200,1,"0:00",1200,1200,"End of 1st half",43,39,4,0.608734904921713,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+201,2,"20:00",1200,1200,"PLAY",43,39,4,0.608734904921713,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+202,2,"19:50",1190,1190,"Ryan Edwards missed Jumper.",43,39,4,0.656359401911058,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+203,2,"19:50",1190,1190,"Franklin Porter Defensive Rebound.",43,39,4,0.656359401911058,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+204,2,"19:46",1186,1186,"Foul on Bryce Canda.",43,39,4,0.61355853038735,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+205,2,"19:41",1181,1181,"Philipp Hartwich made Dunk. Assisted by Josh McSwiggan.",45,39,6,0.688557906194943,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+206,2,"19:12",1152,1152,"Deontae North missed Three Point Jumper.",45,39,6,0.693814713964339,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+207,2,"19:12",1152,1152,"JoJo Walker Defensive Rebound.",45,39,6,0.693814713964339,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+208,2,"19:09",1149,1149,"Franklin Porter made Layup. Assisted by JoJo Walker.",47,39,8,0.773167199770457,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+209,2,"18:48",1128,1128,"Bryce Canda missed Three Point Jumper.",47,39,8,0.782740390665048,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+210,2,"18:48",1128,1128,"Traylin Farris Offensive Rebound.",47,39,8,0.782740390665048,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+211,2,"18:42",1122,1122,"Traylin Farris made Layup.",47,41,6,0.712832299084989,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+212,2,"18:42",1122,1122,"Foul on Philipp Hartwich.",47,41,6,0.712832299084989,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+213,2,"18:42",1122,1122,"Traylin Farris missed Free Throw.",47,41,6,0.712832299084989,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+214,2,"18:42",1122,1122,"Franklin Porter Defensive Rebound.",47,41,6,0.712832299084989,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+215,2,"18:28",1108,1108,"Foul on Deante Strickland.",47,41,6,0.687103879219942,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+216,2,"18:20",1100,1100,"Malcolm Porter Turnover.",47,41,6,0.687103879219942,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+217,2,"18:13",1093,1093,"Bryce Canda missed Jumper.",47,41,6,0.706440543930227,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+218,2,"18:13",1093,1093,"Philipp Hartwich Block.",47,41,6,0.706440543930227,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+219,2,"18:12",1092,1092,"Traylin Farris Offensive Rebound.",47,41,6,0.706440543930227,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+220,2,"17:56",1076,1076,"Deante Strickland missed Jumper.",47,41,6,0.71191564658111,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+221,2,"17:56",1076,1076,"JoJo Walker Defensive Rebound.",47,41,6,0.71191564658111,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+222,2,"17:49",1069,1069,"Foul on Deante Strickland.",47,41,6,0.722800467506508,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+223,2,"17:49",1069,1069,"Franklin Porter missed Free Throw.",47,41,6,0.722800467506508,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+224,2,"17:49",1069,1069,"Portland Deadball Team Rebound.",47,41,6,0.722800467506508,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+225,2,"17:49",1069,1069,"Franklin Porter missed Free Throw.",47,41,6,0.722800467506508,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+226,2,"17:49",1069,1069,"Traylin Farris Defensive Rebound.",47,41,6,0.722800467506508,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+227,2,"17:37",1057,1057,"Ryan Edwards made Three Point Jumper. Assisted by Traylin Farris.",47,44,3,0.600069226560104,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+228,2,"17:24",1044,1044,"Franklin Porter Turnover.",47,44,3,0.603802166609714,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+229,2,"17:10",1030,1030,"Ryan Edwards missed Layup.",47,44,3,0.576700846730696,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+230,2,"17:10",1030,1030,"Ryan Edwards Offensive Rebound.",47,44,3,0.576700846730696,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+231,2,"17:09",1029,1029,"Foul on Philipp Hartwich.",47,44,3,0.600247169790944,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+232,2,"17:00",1020,1020,"Ryan Edwards made Jumper.",47,46,1,0.511950157826258,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+233,2,"16:43",1003,1003,"Philipp Hartwich made Dunk. Assisted by Malcolm Porter.",49,46,3,0.583653849998033,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+234,2,"16:34",994,994,"Holland Woods Turnover.",49,46,3,0.576400110390842,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+235,2,"16:33",993,993,"JoJo Walker Steal.",49,46,3,0.576400110390842,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+236,2,"16:08",968,968,"Malcolm Porter missed Three Point Jumper.",49,46,3,0.594818496414097,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+237,2,"16:08",968,968,"Josh McSwiggan Offensive Rebound.",49,46,3,0.594818496414097,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+238,2,"16:05",965,965,"Josh McSwiggan missed Layup.",49,46,3,0.594818496414097,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+239,2,"16:05",965,965,"Josh McSwiggan Offensive Rebound.",49,46,3,0.594818496414097,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+240,2,"16:02",962,962,"Josh McSwiggan missed Jumper.",49,46,3,0.594818496414097,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+241,2,"16:02",962,962,"Bryce Canda Block.",49,46,3,0.594818496414097,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+242,2,"16:01",961,961,"Traylin Farris Defensive Rebound.",49,46,3,0.594818496414097,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+243,2,"15:56",956,956,"Bryce Canda missed Three Point Jumper.",49,46,3,0.581329250481337,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+244,2,"15:56",956,956,"Deontae North Offensive Rebound.",49,46,3,0.581329250481337,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+245,2,"15:51",951,951,"Deontae North missed Layup.",49,46,3,0.581329250481337,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+246,2,"15:51",951,951,"Tahirou Diabate Block.",49,46,3,0.581329250481337,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+247,2,"15:49",949,949,"Portland State Offensive Rebound.",49,46,3,0.617146403630249,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+248,2,"15:49",949,949,"Official TV Timeout",49,46,3,0.617146403630249,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+249,2,"15:48",948,948,"Ryan Edwards missed Jumper.",49,46,3,0.617146403630249,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+250,2,"15:48",948,948,"JoJo Walker Defensive Rebound.",49,46,3,0.617146403630249,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+251,2,"15:39",939,939,"Malcolm Porter missed Layup.",49,46,3,0.602172396534075,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+252,2,"15:39",939,939,"Deontae North Block.",49,46,3,0.602172396534075,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+253,2,"15:39",939,939,"Portland Offensive Rebound.",49,46,3,0.602172396534075,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+254,2,"15:27",927,927,"Tahirou Diabate missed Jumper.",49,46,3,0.582274402813576,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+255,2,"15:27",927,927,"Traylin Farris Defensive Rebound.",49,46,3,0.582274402813576,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+256,2,"15:19",919,919,"Traylin Farris made Jumper. Assisted by Deontae North.",49,48,1,0.498862943301301,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+257,2,"15:01",901,901,"Foul on Deontae North.",49,48,1,0.509666765117441,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+258,2,"15:01",901,901,"Tahirou Diabate missed Free Throw.",49,48,1,0.509666765117441,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+259,2,"15:01",901,901,"Portland Deadball Team Rebound.",49,48,1,0.509666765117441,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+260,2,"15:01",901,901,"Tahirou Diabate missed Free Throw.",49,48,1,0.509666765117441,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+261,2,"15:01",901,901,"Brandon Hollins Defensive Rebound.",49,48,1,0.509666765117441,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+262,2,"14:45",885,885,"Traylin Farris missed Layup.",49,48,1,0.498686518469675,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+263,2,"14:45",885,885,"Josh McSwiggan Defensive Rebound.",49,48,1,0.498686518469675,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+264,2,"14:36",876,876,"Franklin Porter made Three Point Jumper. Assisted by JoJo Walker.",52,48,4,0.652584660228636,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+265,2,"14:18",858,858,"Foul on Tahirou Diabate.",52,48,4,0.676678331964363,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+266,2,"14:18",858,858,"Holland Woods made Free Throw.",52,49,3,0.630282061802638,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+267,2,"14:18",858,858,"Holland Woods missed Free Throw.",52,49,3,0.630282061802638,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+268,2,"14:18",858,858,"Michael Mayhew Offensive Rebound.",52,49,3,0.630282061802638,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+269,2,"14:13",853,853,"Brandon Hollins missed Jumper.",52,49,3,0.630282061802638,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+270,2,"14:13",853,853,"Joseph Smoyer Block.",52,49,3,0.630282061802638,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+271,2,"14:11",851,851,"Jamie Orme Offensive Rebound.",52,49,3,0.630282061802638,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+272,2,"13:56",836,836,"Michael Mayhew missed Jumper.",52,49,3,0.605052592501447,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+273,2,"13:56",836,836,"Jamie Orme Offensive Rebound.",52,49,3,0.605052592501447,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+274,2,"13:51",831,831,"Jamie Orme missed Layup.",52,49,3,0.605052592501447,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+275,2,"13:51",831,831,"Brandon Hollins Offensive Rebound.",52,49,3,0.605052592501447,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+276,2,"13:48",828,828,"Brandon Hollins made Jumper.",52,51,1,0.503852661595676,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+277,2,"13:31",811,811,"Franklin Porter missed Jumper.",52,51,1,0.485598997535863,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+278,2,"13:31",811,811,"Jamie Orme Block.",52,51,1,0.485598997535863,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+279,2,"13:29",809,809,"Holland Woods Defensive Rebound.",52,51,1,0.526134149987079,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+280,2,"13:29",809,809,"Foul on JoJo Walker.",52,51,1,0.526134149987079,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+281,2,"13:18",798,798,"Foul on Ryan Edwards.",52,51,1,0.509982819508983,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+282,2,"13:18",798,798,"Ryan Edwards Turnover.",52,51,1,0.509982819508983,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+283,2,"13:09",789,789,"Foul on Michael Mayhew.",52,51,1,0.510448503426822,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+284,2,"12:59",779,779,"Foul on JoJo Walker.",52,51,1,0.515714581496077,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+285,2,"12:59",779,779,"JoJo Walker Turnover.",52,51,1,0.515714581496077,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+286,2,"12:39",759,759,"Holland Woods missed Layup.",52,51,1,0.511348358504236,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+287,2,"12:39",759,759,"Jamie Orme Offensive Rebound.",52,51,1,0.511348358504236,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+288,2,"12:30",750,750,"Brandon Hollins made Three Point Jumper. Assisted by Michael Mayhew.",52,54,-2,0.352909041895159,"Portland","Portland State",4,4,0,0,-1.5,400986973,2017-11-11
+289,2,"12:23",743,743,"Portland  Timeout",52,54,-2,0.344376730782954,"Portland","Portland State",4,3,0,1,-1.5,400986973,2017-11-11
+290,2,"12:23",743,743,"Official TV Timeout",52,54,-2,0.344376730782954,"Portland","Portland State",4,3,0,1,-1.5,400986973,2017-11-11
+291,2,"12:06",726,726,"Franklin Porter Turnover.",52,54,-2,0.381467391409634,"Portland","Portland State",4,3,0,1,-1.5,400986973,2017-11-11
+292,2,"11:55",715,715,"Jamie Orme missed Jumper.",52,54,-2,0.33134382799552,"Portland","Portland State",4,3,0,1,-1.5,400986973,2017-11-11
+293,2,"11:55",715,715,"Philipp Hartwich Block.",52,54,-2,0.33134382799552,"Portland","Portland State",4,3,0,1,-1.5,400986973,2017-11-11
+294,2,"11:54",714,714,"Portland State Offensive Rebound.",52,54,-2,0.33134382799552,"Portland","Portland State",4,3,0,1,-1.5,400986973,2017-11-11
+295,2,"11:52",712,712,"Official TV Timeout",52,54,-2,0.33134382799552,"Portland","Portland State",4,3,0,1,-1.5,400986973,2017-11-11
+296,2,"11:36",696,696,"Bryce Canda missed Jumper.",52,54,-2,0.343151459124581,"Portland","Portland State",4,3,0,1,-1.5,400986973,2017-11-11
+297,2,"11:36",696,696,"Portland Defensive Rebound.",52,54,-2,0.343151459124581,"Portland","Portland State",4,3,0,1,-1.5,400986973,2017-11-11
+298,2,"11:18",678,678,"Josh McSwiggan made Three Point Jumper. Assisted by Malcolm Porter.",55,54,1,0.512468418326309,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+299,2,"10:57",657,657,"Foul on Marcus Shaver Jr.",55,54,1,0.543486062886454,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+300,2,"10:57",657,657,"Holland Woods made Free Throw.",55,55,0,0.48412324899106,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+301,2,"10:57",657,657,"Holland Woods missed Free Throw.",55,55,0,0.48412324899106,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+302,2,"10:57",657,657,"Philipp Hartwich Defensive Rebound.",55,55,0,0.48412324899106,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+303,2,"10:43",643,643,"Josh McSwiggan Turnover.",55,55,0,0.476353898409258,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+304,2,"10:43",643,643,"Brandon Hollins Steal.",55,55,0,0.476353898409258,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+305,2,"10:39",639,639,"Bryce Canda made Three Point Jumper. Assisted by Holland Woods.",55,58,-3,0.305298223925046,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+306,2,"10:18",618,618,"Malcolm Porter made Three Point Jumper. Assisted by Josh McSwiggan.",58,58,0,0.455977193306335,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+307,2,"9:49",589,589,"Bryce Canda missed Jumper.",58,58,0,0.468502893583163,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+308,2,"9:49",589,589,"Ryan Edwards Offensive Rebound.",58,58,0,0.468502893583163,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+309,2,"9:46",586,586,"Ryan Edwards made Layup.",58,60,-2,0.352009582899965,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+310,2,"9:29",569,569,"Marcus Shaver Jr made Three Point Jumper. Assisted by Malcolm Porter.",61,60,1,0.538266336436427,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+311,2,"9:05",545,545,"Deontae North missed Jumper.",61,60,1,0.521875186123643,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+312,2,"9:05",545,545,"Josh McSwiggan Block.",61,60,1,0.521875186123643,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+313,2,"9:04",544,544,"Portland State Offensive Rebound.",61,60,1,0.521875186123643,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+314,2,"8:55",535,535,"Holland Woods Turnover.",61,60,1,0.567124273485124,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+315,2,"8:43",523,523,"Franklin Porter missed Jumper.",61,60,1,0.562471374292403,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+316,2,"8:43",523,523,"Traylin Farris Defensive Rebound.",61,60,1,0.562471374292403,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+317,2,"8:30",510,510,"Ryan Edwards missed Three Point Jumper.",61,60,1,0.542617891269605,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+318,2,"8:30",510,510,"Malcolm Porter Defensive Rebound.",61,60,1,0.542617891269605,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+319,2,"8:24",504,504,"Foul on Traylin Farris.",61,60,1,0.565301353360634,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+320,2,"8:24",504,504,"Marcus Shaver Jr missed Free Throw.",61,60,1,0.565301353360634,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+321,2,"8:24",504,504,"Josh McSwiggan Offensive Rebound.",61,60,1,0.565301353360634,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+322,2,"8:16",496,496,"Malcolm Porter Turnover.",61,60,1,0.572354688677849,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+323,2,"8:09",489,489,"Deante Strickland made Three Point Jumper. Assisted by Deontae North.",61,63,-2,0.343658916402907,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+324,2,"7:48",468,468,"Foul on Deontae North.",61,63,-2,0.331212281527641,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+325,2,"7:47",467,467,"Official TV Timeout",61,63,-2,0.331212281527641,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+326,2,"7:47",467,467,"Franklin Porter made Free Throw.",62,63,-1,0.396323482188817,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+327,2,"7:47",467,467,"Franklin Porter made Free Throw.",63,63,0,0.465328662797632,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+328,2,"7:26",446,446,"Deontae North made Jumper.",63,65,-2,0.355198568301485,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+329,2,"6:52",412,412,"Malcolm Porter missed Layup.",63,65,-2,0.323276164716177,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+330,2,"6:52",412,412,"Deontae North Defensive Rebound.",63,65,-2,0.323276164716177,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+331,2,"6:23",383,383,"Deontae North missed Jumper.",63,65,-2,0.329177212742145,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+332,2,"6:23",383,383,"Philipp Hartwich Defensive Rebound.",63,65,-2,0.329177212742145,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+333,2,"6:21",381,381,"Foul on Brandon Hollins.",63,65,-2,0.329177212742145,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+334,2,"6:21",381,381,"Philipp Hartwich missed Free Throw.",63,65,-2,0.329177212742145,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+335,2,"6:21",381,381,"Bryce Canda Defensive Rebound.",63,65,-2,0.329177212742145,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+336,2,"5:59",359,359,"Ryan Edwards missed Layup.",63,65,-2,0.276508911572165,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+337,2,"5:59",359,359,"Philipp Hartwich Block.",63,65,-2,0.276508911572165,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+338,2,"5:58",358,358,"Traylin Farris Offensive Rebound.",63,65,-2,0.276508911572165,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+339,2,"5:55",355,355,"Foul on Franklin Porter.",63,65,-2,0.276508911572165,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+340,2,"5:55",355,355,"Traylin Farris made Free Throw.",63,66,-3,0.213809093159739,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+341,2,"5:55",355,355,"Traylin Farris missed Free Throw.",63,66,-3,0.213809093159739,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+342,2,"5:55",355,355,"Philipp Hartwich Defensive Rebound.",63,66,-3,0.213809093159739,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+343,2,"5:48",348,348,"D'Marques Tyson missed Three Point Jumper.",63,66,-3,0.224263299877943,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+344,2,"5:48",348,348,"Ryan Edwards Defensive Rebound.",63,66,-3,0.224263299877943,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+345,2,"5:26",326,326,"Traylin Farris Turnover.",63,66,-3,0.243927187699677,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+346,2,"5:26",326,326,"Josh McSwiggan Steal.",63,66,-3,0.243927187699677,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+347,2,"5:22",322,322,"D'Marques Tyson Turnover.",63,66,-3,0.243927187699677,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+348,2,"5:21",321,321,"Holland Woods Steal.",63,66,-3,0.243927187699677,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+349,2,"5:19",319,319,"Bryce Canda missed Three Point Jumper.",63,66,-3,0.242015776848136,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+350,2,"5:19",319,319,"Philipp Hartwich Defensive Rebound.",63,66,-3,0.242015776848136,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+351,2,"5:08",308,308,"Marcus Shaver Jr made Layup.",65,66,-1,0.404203498824302,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+352,2,"5:08",308,308,"Foul on Traylin Farris.",65,66,-1,0.404203498824302,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+353,2,"5:07",307,307,"Marcus Shaver Jr made Free Throw.",66,66,0,0.487668185368321,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+354,2,"5:02",302,302,"Foul on Marcus Shaver Jr.",66,66,0,0.487668185368321,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+355,2,"5:02",302,302,"Traylin Farris missed Free Throw.",66,66,0,0.487668185368321,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+356,2,"5:02",302,302,"Philipp Hartwich Defensive Rebound.",66,66,0,0.487668185368321,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+357,2,"4:49",289,289,"JoJo Walker missed Jumper.",66,66,0,0.463804507079728,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+358,2,"4:49",289,289,"Ryan Edwards Block.",66,66,0,0.463804507079728,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+359,2,"4:49",289,289,"Portland Offensive Rebound.",66,66,0,0.463804507079728,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+360,2,"4:45",285,285,"D'Marques Tyson made Three Point Jumper. Assisted by Josh McSwiggan.",69,66,3,0.713685597735272,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+361,2,"4:26",266,266,"Ryan Edwards made Jumper.",69,68,1,0.575913534800249,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+362,2,"3:56",236,236,"Josh McSwiggan made Layup. Assisted by Philipp Hartwich.",71,68,3,0.76947546099134,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+363,2,"3:36",216,216,"Foul on Josh McSwiggan.",71,68,3,0.765861359585981,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+364,2,"3:36",216,216,"Official TV Timeout",71,68,3,0.765861359585981,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+365,2,"3:36",216,216,"Deontae North missed Free Throw.",71,68,3,0.765861359585981,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+366,2,"3:36",216,216,"Franklin Porter Defensive Rebound.",71,68,3,0.765861359585981,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+367,2,"3:12",192,192,"Franklin Porter made Jumper.",73,68,5,0.907378027840618,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+368,2,"2:54",174,174,"Ryan Edwards missed Jumper.",73,68,5,0.923694112666035,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+369,2,"2:54",174,174,"Philipp Hartwich Block.",73,68,5,0.923694112666035,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+370,2,"2:53",173,173,"Portland State Offensive Rebound.",73,68,5,0.923694112666035,"Portland","Portland State",4,3,0,0,-1.5,400986973,2017-11-11
+371,2,"2:52",172,172,"Portland State  Timeout",73,68,5,0.923694112666035,"Portland","Portland State",3,3,1,0,-1.5,400986973,2017-11-11
+372,2,"2:51",171,171,"Holland Woods Turnover.",73,68,5,0.923694112666035,"Portland","Portland State",3,3,1,0,-1.5,400986973,2017-11-11
+373,2,"2:50",170,170,"Philipp Hartwich Steal.",73,68,5,0.923694112666035,"Portland","Portland State",3,3,1,0,-1.5,400986973,2017-11-11
+374,2,"2:33",153,153,"Foul on Traylin Farris.",73,68,5,0.937344558019792,"Portland","Portland State",3,3,1,0,-1.5,400986973,2017-11-11
+375,2,"2:33",153,153,"Franklin Porter made Free Throw.",74,68,6,0.962525196270011,"Portland","Portland State",3,3,1,0,-1.5,400986973,2017-11-11
+376,2,"2:33",153,153,"Franklin Porter made Free Throw.",75,68,7,0.977825374825422,"Portland","Portland State",3,3,1,0,-1.5,400986973,2017-11-11
+377,2,"2:23",143,143,"Foul on D'Marques Tyson.",75,68,7,0.967055678071598,"Portland","Portland State",3,3,1,0,-1.5,400986973,2017-11-11
+378,2,"2:23",143,143,"Deontae North made Free Throw.",75,69,6,0.945899542155437,"Portland","Portland State",3,3,1,0,-1.5,400986973,2017-11-11
+379,2,"2:23",143,143,"Deontae North made Free Throw.",75,70,5,0.912388234358598,"Portland","Portland State",3,3,1,0,-1.5,400986973,2017-11-11
+380,2,"2:06",126,126,"Franklin Porter missed Layup.",75,70,5,0.935341394744846,"Portland","Portland State",3,3,1,0,-1.5,400986973,2017-11-11
+381,2,"2:06",126,126,"Philipp Hartwich Offensive Rebound.",75,70,5,0.935341394744846,"Portland","Portland State",3,3,1,0,-1.5,400986973,2017-11-11
+382,2,"2:04",124,124,"Foul on Traylin Farris.",75,70,5,0.935341394744846,"Portland","Portland State",3,3,1,0,-1.5,400986973,2017-11-11
+383,2,"2:04",124,124,"Philipp Hartwich missed Free Throw.",75,70,5,0.935341394744846,"Portland","Portland State",3,3,1,0,-1.5,400986973,2017-11-11
+384,2,"2:04",124,124,"Portland Deadball Team Rebound.",75,70,5,0.935341394744846,"Portland","Portland State",3,3,1,0,-1.5,400986973,2017-11-11
+385,2,"2:04",124,124,"Philipp Hartwich missed Free Throw.",75,70,5,0.935341394744846,"Portland","Portland State",3,3,1,0,-1.5,400986973,2017-11-11
+386,2,"2:04",124,124,"Portland State Deadball Team Rebound.",75,70,5,0.935341394744846,"Portland","Portland State",3,3,1,0,-1.5,400986973,2017-11-11
+387,2,"2:02",122,122,"Foul on Franklin Porter.",75,70,5,0.935341394744846,"Portland","Portland State",3,3,1,0,-1.5,400986973,2017-11-11
+388,2,"2:02",122,122,"Deontae North made Free Throw.",75,71,4,0.891415361284175,"Portland","Portland State",3,3,1,0,-1.5,400986973,2017-11-11
+389,2,"2:02",122,122,"Deontae North missed Free Throw.",75,71,4,0.891415361284175,"Portland","Portland State",3,3,1,0,-1.5,400986973,2017-11-11
+390,2,"2:02",122,122,"Philipp Hartwich Defensive Rebound.",75,71,4,0.891415361284175,"Portland","Portland State",3,3,1,0,-1.5,400986973,2017-11-11
+391,2,"1:52",112,112,"JoJo Walker Turnover.",75,71,4,0.920379534507807,"Portland","Portland State",3,3,1,0,-1.5,400986973,2017-11-11
+392,2,"1:52",112,112,"Deante Strickland Steal.",75,71,4,0.920379534507807,"Portland","Portland State",3,3,1,0,-1.5,400986973,2017-11-11
+393,2,"1:49",109,109,"Bryce Canda made Layup.",75,73,2,0.735628668825614,"Portland","Portland State",3,3,0,0,-1.5,400986973,2017-11-11
+394,2,"1:41",101,101,"Portland  Timeout",75,73,2,0.735628668825614,"Portland","Portland State",3,2,0,1,-1.5,400986973,2017-11-11
+395,2,"1:25",85,85,"JoJo Walker Turnover.",75,73,2,0.818872398265029,"Portland","Portland State",3,2,0,1,-1.5,400986973,2017-11-11
+396,2,"1:24",84,84,"Deontae North Steal.",75,73,2,0.818872398265029,"Portland","Portland State",3,2,0,1,-1.5,400986973,2017-11-11
+397,2,"1:22",82,82,"Holland Woods made Layup. Assisted by Deontae North.",75,75,0,0.51893965918133,"Portland","Portland State",3,2,0,1,-1.5,400986973,2017-11-11
+398,2,"1:02",62,62,"Marcus Shaver Jr missed Layup.",75,75,0,0.462872222903963,"Portland","Portland State",3,2,0,1,-1.5,400986973,2017-11-11
+399,2,"1:02",62,62,"Holland Woods Defensive Rebound.",75,75,0,0.462872222903963,"Portland","Portland State",3,2,0,1,-1.5,400986973,2017-11-11
+400,2,"0:54",54,54,"Holland Woods missed Layup.",75,75,0,0.477569914772527,"Portland","Portland State",3,2,0,1,-1.5,400986973,2017-11-11
+401,2,"0:54",54,54,"Philipp Hartwich Block.",75,75,0,0.477569914772527,"Portland","Portland State",3,2,0,1,-1.5,400986973,2017-11-11
+402,2,"0:53",53,53,"Portland State Offensive Rebound.",75,75,0,0.465300395647796,"Portland","Portland State",3,2,1,1,-1.5,400986973,2017-11-11
+403,2,"0:53",53,53,"Portland State  Timeout",75,75,0,0.465300395647796,"Portland","Portland State",2,2,1,1,-1.5,400986973,2017-11-11
+404,2,"0:34",34,34,"Bryce Canda made Three Point Jumper.",75,78,-3,0.0787590934146134,"Portland","Portland State",2,2,1,0,-1.5,400986973,2017-11-11
+405,2,"0:23",23,23,"Josh McSwiggan missed Layup.",75,78,-3,0.0551679618531376,"Portland","Portland State",2,2,1,0,-1.5,400986973,2017-11-11
+406,2,"0:23",23,23,"Ryan Edwards Defensive Rebound.",75,78,-3,0.0551679618531376,"Portland","Portland State",2,2,1,0,-1.5,400986973,2017-11-11
+407,2,"0:22",22,22,"Foul on Philipp Hartwich.",75,78,-3,0.0231550643297391,"Portland","Portland State",2,2,1,0,-1.5,400986973,2017-11-11
+408,2,"0:22",22,22,"Ryan Edwards made Free Throw.",75,79,-4,0.00637685751448635,"Portland","Portland State",2,2,1,0,-1.5,400986973,2017-11-11
+409,2,"0:22",22,22,"Ryan Edwards missed Free Throw.",75,79,-4,0.00637685751448635,"Portland","Portland State",2,2,1,0,-1.5,400986973,2017-11-11
+410,2,"0:22",22,22,"Philipp Hartwich Offensive Rebound.",75,79,-4,0.00637685751448635,"Portland","Portland State",2,2,1,0,-1.5,400986973,2017-11-11
+411,2,"0:10",10,10,"Marcus Shaver Jr missed Jumper.",75,79,-4,0.00307203503419234,"Portland","Portland State",2,2,1,0,-1.5,400986973,2017-11-11
+412,2,"0:10",10,10,"D'Marques Tyson Defensive Rebound.",75,79,-4,0.00307203503419234,"Portland","Portland State",2,2,1,0,-1.5,400986973,2017-11-11
+413,2,"0:07",7,7,"Marcus Shaver Jr missed Three Point Jumper.",75,79,-4,0.00307203503419234,"Portland","Portland State",2,2,1,0,-1.5,400986973,2017-11-11
+414,2,"0:07",7,7,"Bryce Canda Defensive Rebound.",75,79,-4,0.00307203503419234,"Portland","Portland State",2,2,1,0,-1.5,400986973,2017-11-11
+415,2,"0:01",1,1,"Foul on D'Marques Tyson.",75,79,-4,0.000369446119516316,"Portland","Portland State",2,2,1,0,-1.5,400986973,2017-11-11
+416,2,"0:01",1,1,"Bryce Canda made Free Throw.",75,80,-5,6.59860226217952e-05,"Portland","Portland State",2,2,1,0,-1.5,400986973,2017-11-11
+417,2,"0:01",1,1,"Bryce Canda missed Free Throw.",75,80,-5,6.59860226217952e-05,"Portland","Portland State",2,2,1,0,-1.5,400986973,2017-11-11
+418,2,"0:01",1,1,"Philipp Hartwich Defensive Rebound.",75,80,-5,6.59860226217952e-05,"Portland","Portland State",2,2,1,0,-1.5,400986973,2017-11-11
+419,2,"0:00",0,0,"End of Game",75,79,-4,2.64838432192806e-34,"Portland","Portland State",2,2,1,0,-1.5,400986973,2017-11-11

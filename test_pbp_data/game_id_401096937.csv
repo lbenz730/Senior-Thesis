@@ -1,0 +1,381 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","play_length","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,20,0.812374559801713,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+2,1,"19:40",2380,2380,"Anthony Crump missed Layup.",0,0,0,0,0.80826982427244,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+3,1,"19:40",2380,2380,"KZ Okpala Block.",0,0,0,1,0.80826982427244,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+4,1,"19:39",2379,2379,"Daejon Davis Defensive Rebound.",0,0,0,7,0.806537687201043,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+5,1,"19:32",2372,2372,"Foul on Reggie Scurry.",0,0,0,0,0.806537687201043,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+6,1,"19:32",2372,2372,"KZ Okpala made Free Throw.",1,0,1,0,0.820949198268909,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+7,1,"19:32",2372,2372,"KZ Okpala made Free Throw.",2,0,2,15,0.834507439092333,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+8,1,"19:17",2357,2357,"James Hawthorne made Jumper. Assisted by Donovan Sims.",2,2,0,21,0.81170859980726,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+9,1,"18:56",2336,2336,"KZ Okpala made Layup.",4,2,2,24,0.82986670626949,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+10,1,"18:32",2312,2312,"Donovan Sims Turnover.",4,2,2,1,0.818141347397264,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+11,1,"18:31",2311,2311,"Cormac Ryan Steal.",4,2,2,6,0.818141347397264,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+12,1,"18:25",2305,2305,"Cormac Ryan missed Three Point Jumper.",4,2,2,0,0.820806269439835,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+13,1,"18:25",2305,2305,"Anthony Crump Defensive Rebound.",4,2,2,14,0.820806269439835,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+14,1,"18:11",2291,2291,"James Hawthorne missed Jumper.",4,2,2,0,0.831051128549949,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+15,1,"18:11",2291,2291,"KZ Okpala Defensive Rebound.",4,2,2,8,0.831051128549949,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+16,1,"18:03",2283,2283,"KZ Okpala missed Layup.",4,2,2,0,0.826281135201843,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+17,1,"18:03",2283,2283,"Reggie Scurry Defensive Rebound.",4,2,2,21,0.826281135201843,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+18,1,"17:42",2262,2262,"Reggie Scurry made Layup. Assisted by Donovan Sims.",4,4,0,18,0.805009023236928,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+19,1,"17:24",2244,2244,"Oscar da Silva missed Three Point Jumper.",4,4,0,0,0.788629167522548,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+20,1,"17:24",2244,2244,"Antonio Green Defensive Rebound.",4,4,0,26,0.788629167522548,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+21,1,"16:58",2218,2218,"Anthony Crump missed Layup.",4,4,0,0,0.794164492306112,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+22,1,"16:58",2218,2218,"Oscar da Silva Defensive Rebound.",4,4,0,5,0.794164492306112,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+23,1,"16:53",2213,2213,"Cormac Ryan Turnover.",4,4,0,11,0.794164492306112,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+24,1,"16:42",2202,2202,"Donovan Sims missed Layup.",4,4,0,0,0.794615350897143,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+25,1,"16:42",2202,2202,"Oscar da Silva Block.",4,4,0,5,0.794615350897143,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+26,1,"16:37",2197,2197,"Middle Tennessee Offensive Rebound.",4,4,0,1,0.804263371106956,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+27,1,"16:36",2196,2196,"Reggie Scurry missed Layup.",4,4,0,0,0.804263371106956,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+28,1,"16:36",2196,2196,"Cormac Ryan Defensive Rebound.",4,4,0,15,0.804263371106956,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+29,1,"16:21",2181,2181,"KZ Okpala made Three Point Jumper. Assisted by Cormac Ryan.",7,4,3,18,0.842296176562555,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+30,1,"16:03",2163,2163,"Antonio Green missed Three Point Jumper.",7,4,3,0,0.839592835922303,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+31,1,"16:03",2163,2163,"Donovan Sims Offensive Rebound.",7,4,3,9,0.839592835922303,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+32,1,"15:54",2154,2154,"Antonio Green Turnover.",7,4,3,0,0.840939770748689,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+33,1,"15:54",2154,2154,"Oscar da Silva Steal.",7,4,3,0,0.840939770748689,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+34,1,"15:54",2154,2154,"Official TV Timeout",7,4,3,11,0.840939770748689,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+35,1,"15:43",2143,2143,"Cormac Ryan Turnover.",7,4,3,1,0.842500364936814,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+36,1,"15:42",2142,2142,"Donovan Sims Steal.",7,4,3,5,0.842500364936814,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+37,1,"15:37",2137,2137,"James Hawthorne Turnover.",7,4,3,1,0.845099025205715,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+38,1,"15:36",2136,2136,"Bryce Wills Steal.",7,4,3,4,0.845099025205715,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+39,1,"15:32",2132,2132,"KZ Okpala missed Layup.",7,4,3,0,0.845099025205715,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+40,1,"15:32",2132,2132,"James Hawthorne Block.",7,4,3,2,0.845099025205715,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+41,1,"15:30",2130,2130,"Stanford Offensive Rebound.",7,4,3,1,0.845099025205715,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+42,1,"15:29",2129,2129,"Foul on Donovan Sims.",7,4,3,6,0.839274397490612,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+43,1,"15:23",2123,2123,"Cormac Ryan Turnover.",7,4,3,1,0.839274397490612,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+44,1,"15:22",2122,2122,"Antonio Green Steal.",7,4,3,6,0.839274397490612,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+45,1,"15:16",2116,2116,"Donovan Sims Turnover.",7,4,3,1,0.848298380023824,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+46,1,"15:15",2115,2115,"Bryce Wills Steal.",7,4,3,3,0.848298380023824,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+47,1,"15:12",2112,2112,"Cormac Ryan missed Layup.",7,4,3,0,0.848298380023824,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+48,1,"15:12",2112,2112,"Karl Gamble Defensive Rebound.",7,4,3,33,0.848298380023824,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+49,1,"14:39",2079,2079,"Karl Gamble missed Three Point Jumper.",7,4,3,0,0.838440742535512,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+50,1,"14:39",2079,2079,"KZ Okpala Defensive Rebound.",7,4,3,10,0.838440742535512,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+51,1,"14:29",2069,2069,"Daejon Davis made Three Point Jumper. Assisted by Bryce Wills.",10,4,6,16,0.88059348468536,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+52,1,"14:13",2053,2053,"Antonio Green made Layup.",10,6,4,22,0.860218212111866,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+53,1,"13:51",2031,2031,"Oscar da Silva Turnover.",10,6,4,1,0.862987720941947,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+54,1,"13:50",2030,2030,"James Hawthorne Steal.",10,6,4,4,0.862987720941947,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+55,1,"13:46",2026,2026,"Foul on KZ Okpala.",10,6,4,0,0.860776522876492,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+56,1,"13:46",2026,2026,"Jayce Johnson made Free Throw.",10,7,3,0,0.844208330027125,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+57,1,"13:46",2026,2026,"Jayce Johnson missed Free Throw.",10,7,3,0,0.844208330027125,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+58,1,"13:46",2026,2026,"Lukas Kisunas Defensive Rebound.",10,7,3,15,0.844208330027125,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+59,1,"13:31",2011,2011,"Bryce Wills missed Layup.",10,7,3,0,0.841275792199295,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+60,1,"13:31",2011,2011,"Jayce Johnson Block.",10,7,3,1,0.841275792199295,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+61,1,"13:30",2010,2010,"Stanford Offensive Rebound.",10,7,3,6,0.841275792199295,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+62,1,"13:24",2004,2004,"Lukas Kisunas missed Layup.",10,7,3,0,0.83274053718639,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+63,1,"13:24",2004,2004,"Jayce Johnson Block.",10,7,3,2,0.83274053718639,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+64,1,"13:22",2002,2002,"Lukas Kisunas Offensive Rebound.",10,7,3,2,0.83274053718639,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+65,1,"13:20",2000,2000,"Lukas Kisunas missed Layup.",10,7,3,0,0.83274053718639,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+66,1,"13:20",2000,2000,"Middle Tennessee Defensive Rebound.",10,7,3,17,0.83274053718639,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+67,1,"13:03",1983,1983,"James Hawthorne missed Layup.",10,7,3,0,0.829624122704343,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+68,1,"13:03",1983,1983,"Daejon Davis Defensive Rebound.",10,7,3,5,0.829624122704343,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+69,1,"12:58",1978,1978,"Daejon Davis missed Layup.",10,7,3,0,0.848278302502571,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+70,1,"12:58",1978,1978,"Jayce Johnson Defensive Rebound.",10,7,3,10,0.848278302502571,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+71,1,"12:48",1968,1968,"Jayce Johnson made Layup.",10,9,1,20,0.802399314352776,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+72,1,"12:28",1948,1948,"Oscar da Silva missed Three Point Jumper.",10,9,1,0,0.801801327231827,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+73,1,"12:28",1948,1948,"James Hawthorne Defensive Rebound.",10,9,1,10,0.801801327231827,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+74,1,"12:18",1938,1938,"Jayce Johnson Turnover.",10,9,1,3,0.794656752198049,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+75,1,"12:15",1935,1935,"Bryce Wills Steal.",10,9,1,2,0.794656752198049,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+76,1,"12:13",1933,1933,"Daejon Davis missed Layup.",10,9,1,0,0.794656752198049,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+77,1,"12:13",1933,1933,"Junior Farquhar Defensive Rebound.",10,9,1,24,0.794656752198049,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+78,1,"11:49",1909,1909,"Antonio Green made Layup.",10,11,-1,0,0.762768635909987,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+79,1,"11:49",1909,1909,"Foul on Daejon Davis.",10,11,-1,0,0.762768635909987,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+80,1,"11:49",1909,1909,"Official TV Timeout",10,11,-1,0,0.762768635909987,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+81,1,"11:49",1909,1909,"Antonio Green made Free Throw.",10,12,-2,18,0.740952809807693,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+82,1,"11:31",1891,1891,"Kodye Pugh made Three Point Jumper. Assisted by Marcus Sheffield.",13,12,1,12,0.801953866898559,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+83,1,"11:19",1879,1879,"Junior Farquhar Turnover.",13,12,1,0,0.798217644005129,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+84,1,"11:19",1879,1879,"Marcus Sheffield Steal.",13,12,1,25,0.798217644005129,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+85,1,"10:54",1854,1854,"KZ Okpala missed Three Point Jumper.",13,12,1,0,0.801013328438206,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+86,1,"10:54",1854,1854,"Josh Sharma Offensive Rebound.",13,12,1,4,0.801013328438206,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+87,1,"10:50",1850,1850,"Marcus Sheffield missed Three Point Jumper.",13,12,1,0,0.801013328438206,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+88,1,"10:50",1850,1850,"KZ Okpala Offensive Rebound.",13,12,1,25,0.801013328438206,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+89,1,"10:25",1825,1825,"Kodye Pugh Turnover.",13,12,1,2,0.813626393118225,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+90,1,"10:23",1823,1823,"Reggie Scurry Steal.",13,12,1,4,0.813626393118225,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+91,1,"10:19",1819,1819,"Junior Farquhar Turnover.",13,12,1,8,0.801509874456507,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+92,1,"10:11",1811,1811,"Foul on Reggie Scurry.",13,12,1,6,0.801509874456507,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+93,1,"10:05",1805,1805,"Foul on Karl Gamble.",13,12,1,0,0.796994766857139,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+94,1,"10:05",1805,1805,"KZ Okpala made Free Throw.",14,12,2,0,0.817005688375364,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+95,1,"10:05",1805,1805,"KZ Okpala made Free Throw.",15,12,3,18,0.83545131927109,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+96,1,"9:47",1787,1787,"Anthony Crump Turnover.",15,12,3,16,0.822886175738538,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+97,1,"9:31",1771,1771,"Foul on Donovan Sims.",15,12,3,0,0.824350648558013,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+98,1,"9:31",1771,1771,"Josh Sharma missed Free Throw.",15,12,3,0,0.824350648558013,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+99,1,"9:31",1771,1771,"Stanford Deadball Team Rebound.",15,12,3,0,0.824350648558013,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+100,1,"9:31",1771,1771,"Josh Sharma made Free Throw.",16,12,4,24,0.841377643455079,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+101,1,"9:07",1747,1747,"Junior Farquhar made Jumper.",16,14,2,23,0.8136321887712,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+102,1,"8:44",1724,1724,"Kodye Pugh made Layup.",18,14,4,23,0.847409232796071,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+103,1,"8:21",1701,1701,"Antonio Green made Layup.",18,16,2,21,0.807578751680831,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+104,1,"8:00",1680,1680,"KZ Okpala Turnover.",18,16,2,0,0.82533072050772,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+105,1,"8:00",1680,1680,"Official TV Timeout",18,16,2,20,0.82533072050772,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+106,1,"7:40",1660,1660,"Antonio Green missed Layup.",18,16,2,0,0.812559729196438,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+107,1,"7:40",1660,1660,"Daejon Davis Defensive Rebound.",18,16,2,12,0.812559729196438,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+108,1,"7:28",1648,1648,"Foul on KZ Okpala.",18,16,2,0,0.818727977624336,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+109,1,"7:28",1648,1648,"KZ Okpala Turnover.",18,16,2,22,0.818727977624336,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+110,1,"7:06",1626,1626,"James Hawthorne missed Layup.",18,16,2,0,0.812189441181034,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+111,1,"7:06",1626,1626,"Karl Gamble Offensive Rebound.",18,16,2,3,0.812189441181034,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+112,1,"7:03",1623,1623,"Karl Gamble missed Layup.",18,16,2,0,0.812189441181034,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+113,1,"7:03",1623,1623,"Karl Gamble Offensive Rebound.",18,16,2,3,0.812189441181034,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+114,1,"7:00",1620,1620,"Karl Gamble made Layup.",18,18,0,12,0.765186209073795,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+115,1,"6:48",1608,1608,"Kodye Pugh missed Dunk.",18,18,0,0,0.76823934771558,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+116,1,"6:48",1608,1608,"Junior Farquhar Defensive Rebound.",18,18,0,9,0.76823934771558,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+117,1,"6:39",1599,1599,"Antonio Green missed Jumper.",18,18,0,0,0.767405795618311,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+118,1,"6:39",1599,1599,"Daejon Davis Block.",18,18,0,2,0.767405795618311,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+119,1,"6:37",1597,1597,"Daejon Davis Defensive Rebound.",18,18,0,1,0.767405795618311,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+120,1,"6:36",1596,1596,"Foul on Junior Farquhar.",18,18,0,0,0.767405795618311,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+121,1,"6:36",1596,1596,"Cormac Ryan made Free Throw.",19,18,1,0,0.790636420059608,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+122,1,"6:36",1596,1596,"Cormac Ryan made Free Throw.",20,18,2,12,0.812114912735394,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+123,1,"6:24",1584,1584,"Foul on Jayce Johnson.",20,18,2,0,0.806164096855181,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+124,1,"6:24",1584,1584,"Jayce Johnson Turnover.",20,18,2,17,0.806164096855181,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+125,1,"6:07",1567,1567,"Oscar da Silva made Three Point Jumper. Assisted by Cormac Ryan.",23,18,5,24,0.862639832268173,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+126,1,"5:43",1543,1543,"Foul on Jayce Johnson.",23,18,5,0,0.869897009941922,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+127,1,"5:43",1543,1543,"Jayce Johnson Turnover.",23,18,5,7,0.869897009941922,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+128,1,"5:36",1536,1536,"Daejon Davis missed Dunk.",23,18,5,0,0.869631599130517,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+129,1,"5:36",1536,1536,"Junior Farquhar Defensive Rebound.",23,18,5,4,0.869631599130517,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+130,1,"5:32",1532,1532,"Karl Gamble missed Layup.",23,18,5,0,0.869631599130517,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+131,1,"5:32",1532,1532,"Jaiden Delaire Defensive Rebound.",23,18,5,8,0.869631599130517,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+132,1,"5:24",1524,1524,"Daejon Davis made Three Point Jumper. Assisted by Bryce Wills.",26,18,8,4,0.907865034741361,"Stanford","Middle Tennessee",4,4,0,0,7,"401096937",2018-11-23
+133,1,"5:20",1520,1520,"Middle Tennessee  Timeout",26,18,8,19,0.907865034741361,"Stanford","Middle Tennessee",3,4,1,0,7,"401096937",2018-11-23
+134,1,"5:01",1501,1501,"Foul on Jaiden Delaire.",26,18,8,0,0.90870537884344,"Stanford","Middle Tennessee",3,4,1,0,7,"401096937",2018-11-23
+135,1,"5:01",1501,1501,"Jayce Johnson missed Free Throw.",26,18,8,0,0.90870537884344,"Stanford","Middle Tennessee",3,4,1,0,7,"401096937",2018-11-23
+136,1,"5:01",1501,1501,"Middle Tennessee Deadball Team Rebound.",26,18,8,0,0.90870537884344,"Stanford","Middle Tennessee",3,4,1,0,7,"401096937",2018-11-23
+137,1,"5:01",1501,1501,"Jayce Johnson missed Free Throw.",26,18,8,0,0.90870537884344,"Stanford","Middle Tennessee",3,4,1,0,7,"401096937",2018-11-23
+138,1,"5:01",1501,1501,"Daejon Davis Defensive Rebound.",26,18,8,10,0.90870537884344,"Stanford","Middle Tennessee",3,4,1,0,7,"401096937",2018-11-23
+139,1,"4:51",1491,1491,"Oscar da Silva missed Three Point Jumper.",26,18,8,0,0.911762693679367,"Stanford","Middle Tennessee",3,4,1,0,7,"401096937",2018-11-23
+140,1,"4:51",1491,1491,"Antonio Green Defensive Rebound.",26,18,8,14,0.911762693679367,"Stanford","Middle Tennessee",3,4,1,0,7,"401096937",2018-11-23
+141,1,"4:37",1477,1477,"Reggie Scurry missed Layup.",26,18,8,0,0.921248737458484,"Stanford","Middle Tennessee",3,4,1,0,7,"401096937",2018-11-23
+142,1,"4:37",1477,1477,"Daejon Davis Block.",26,18,8,1,0.921248737458484,"Stanford","Middle Tennessee",3,4,1,0,7,"401096937",2018-11-23
+143,1,"4:36",1476,1476,"Daejon Davis Defensive Rebound.",26,18,8,12,0.921248737458484,"Stanford","Middle Tennessee",3,4,1,0,7,"401096937",2018-11-23
+144,1,"4:24",1464,1464,"Jaiden Delaire made Three Point Jumper. Assisted by Bryce Wills.",29,18,11,17,0.932725339415679,"Stanford","Middle Tennessee",3,4,1,0,7,"401096937",2018-11-23
+145,1,"4:07",1447,1447,"Foul on Oscar da Silva.",29,18,11,4,0.947693208161361,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+146,1,"4:03",1443,1443,"Foul on Oscar da Silva.",29,18,11,0,0.947693208161361,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+147,1,"4:03",1443,1443,"James Hawthorne made Free Throw.",29,19,10,0,0.939615285749829,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+148,1,"4:03",1443,1443,"James Hawthorne made Free Throw.",29,20,9,14,0.93038150403546,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+149,1,"3:49",1429,1429,"Cormac Ryan missed Three Point Jumper.",29,20,9,0,0.914268706551013,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+150,1,"3:49",1429,1429,"Cormac Ryan Offensive Rebound.",29,20,9,17,0.914268706551013,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+151,1,"3:32",1412,1412,"Bryce Wills Turnover.",29,20,9,1,0.921191373614837,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+152,1,"3:31",1411,1411,"Karl Gamble Steal.",29,20,9,3,0.921191373614837,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+153,1,"3:28",1408,1408,"Donovan Sims Turnover.",29,20,9,1,0.930845394767716,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+154,1,"3:27",1407,1407,"Bryce Wills Steal.",29,20,9,3,0.930845394767716,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+155,1,"3:24",1404,1404,"Bryce Wills missed Dunk.",29,20,9,0,0.930845394767716,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+156,1,"3:24",1404,1404,"James Hawthorne Block.",29,20,9,2,0.930845394767716,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+157,1,"3:22",1402,1402,"Stanford Offensive Rebound.",29,20,9,0,0.930845394767716,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+158,1,"3:22",1402,1402,"Official TV Timeout",29,20,9,19,0.930845394767716,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+159,1,"3:03",1383,1383,"Cormac Ryan missed Three Point Jumper.",29,20,9,0,0.924988848060798,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+160,1,"3:03",1383,1383,"James Hawthorne Defensive Rebound.",29,20,9,24,0.924988848060798,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+161,1,"2:39",1359,1359,"Antonio Green missed Layup.",29,20,9,0,0.92779877913461,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+162,1,"2:39",1359,1359,"Karl Gamble Offensive Rebound.",29,20,9,3,0.92779877913461,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+163,1,"2:36",1356,1356,"Foul on Daejon Davis.",29,20,9,0,0.92779877913461,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+164,1,"2:36",1356,1356,"Karl Gamble made Free Throw.",29,21,8,0,0.916741794220563,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+165,1,"2:36",1356,1356,"Karl Gamble missed Free Throw.",29,21,8,0,0.916741794220563,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+166,1,"2:36",1356,1356,"Kodye Pugh Defensive Rebound.",29,21,8,20,0.916741794220563,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+167,1,"2:16",1336,1336,"Kodye Pugh missed Three Point Jumper.",29,21,8,0,0.907192662424092,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+168,1,"2:16",1336,1336,"Josh Sharma Offensive Rebound.",29,21,8,3,0.907192662424092,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+169,1,"2:13",1333,1333,"Marcus Sheffield Turnover.",29,21,8,20,0.907192662424092,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+170,1,"1:53",1313,1313,"Karl Gamble missed Jumper.",29,21,8,0,0.917205026007142,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+171,1,"1:53",1313,1313,"Cormac Ryan Defensive Rebound.",29,21,8,17,0.917205026007142,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+172,1,"1:36",1296,1296,"Bryce Wills Turnover.",29,21,8,9,0.920092430105272,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+173,1,"1:27",1287,1287,"Middle Tennessee  Timeout",29,21,8,8,0.911428517454807,"Stanford","Middle Tennessee",2,4,1,0,7,"401096937",2018-11-23
+174,1,"1:19",1279,1279,"Foul on James Hawthorne.",29,21,8,0,0.903240714785494,"Stanford","Middle Tennessee",2,4,1,0,7,"401096937",2018-11-23
+175,1,"1:19",1279,1279,"James Hawthorne Turnover.",29,21,8,11,0.903240714785494,"Stanford","Middle Tennessee",2,4,1,0,7,"401096937",2018-11-23
+176,1,"1:08",1268,1268,"Josh Sharma Turnover.",29,21,8,13,0.919803555007657,"Stanford","Middle Tennessee",2,4,1,0,7,"401096937",2018-11-23
+177,1,"0:55",1255,1255,"Foul on Cormac Ryan.",29,21,8,0,0.903079213689304,"Stanford","Middle Tennessee",2,4,1,0,7,"401096937",2018-11-23
+178,1,"0:55",1255,1255,"Anthony Crump missed Free Throw.",29,21,8,0,0.903079213689304,"Stanford","Middle Tennessee",2,4,1,0,7,"401096937",2018-11-23
+179,1,"0:55",1255,1255,"Jaiden Delaire Defensive Rebound.",29,21,8,18,0.903079213689304,"Stanford","Middle Tennessee",2,4,1,0,7,"401096937",2018-11-23
+180,1,"0:37",1237,1237,"Isaac White made Three Point Jumper. Assisted by Jaiden Delaire.",32,21,11,18,0.94196868159544,"Stanford","Middle Tennessee",2,4,1,0,7,"401096937",2018-11-23
+181,1,"0:19",1219,1219,"Antonio Green missed Layup.",32,21,11,0,0.944479364269441,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+182,1,"0:19",1219,1219,"Bryce Wills Block.",32,21,11,2,0.944479364269441,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+183,1,"0:17",1217,1217,"James Hawthorne Offensive Rebound.",32,21,11,1,0.944479364269441,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+184,1,"0:16",1216,1216,"Foul on Jaiden Delaire.",32,21,11,0,0.944479364269441,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+185,1,"0:16",1216,1216,"James Hawthorne made Free Throw.",32,22,10,0,0.935171188144172,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+186,1,"0:16",1216,1216,"James Hawthorne made Free Throw.",32,23,9,15,0.92442733936426,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+187,1,"0:01",1201,1201,"Cormac Ryan missed Three Point Jumper.",32,23,9,1,0.924255169620085,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+188,1,"0:00",1200,1200,"Stanford Offensive Rebound.",32,23,9,0,0.924255169620085,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+189,1,"0:00",1200,1200,"End of 1st half",32,23,9,0,0.924255169620085,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+190,2,"20:00",1200,1200,"PLAY",32,23,9,15,0.924255169620085,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+191,2,"19:45",1185,1185,"Anthony Crump Turnover.",32,23,9,0,0.928394694457513,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+192,2,"19:45",1185,1185,"Daejon Davis Steal.",32,23,9,4,0.928394694457513,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+193,2,"19:41",1181,1181,"Daejon Davis Turnover.",32,23,9,14,0.928394694457513,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+194,2,"19:27",1167,1167,"James Hawthorne missed Jumper.",32,23,9,0,0.924785928298214,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+195,2,"19:27",1167,1167,"Reggie Scurry Offensive Rebound.",32,23,9,3,0.924785928298214,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+196,2,"19:24",1164,1164,"Foul on Reggie Scurry.",32,23,9,0,0.924785928298214,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+197,2,"19:24",1164,1164,"Reggie Scurry Turnover.",32,23,9,12,0.924785928298214,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+198,2,"19:12",1152,1152,"Cormac Ryan Turnover.",32,23,9,10,0.922911286302155,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+199,2,"19:02",1142,1142,"Anthony Crump Turnover.",32,23,9,3,0.927151746247195,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+200,2,"18:59",1139,1139,"Daejon Davis Steal.",32,23,9,3,0.927861907376409,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+201,2,"18:56",1136,1136,"Daejon Davis made Dunk.",34,23,11,18,0.946842721088036,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+202,2,"18:38",1118,1118,"Anthony Crump made Jumper.",34,25,9,22,0.928584348765159,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+203,2,"18:16",1096,1096,"Daejon Davis Turnover.",34,25,9,1,0.932622027049686,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+204,2,"18:15",1095,1095,"Reggie Scurry Steal.",34,25,9,5,0.932622027049686,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+205,2,"18:10",1090,1090,"Anthony Crump Turnover.",34,25,9,0,0.932622027049686,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+206,2,"18:10",1090,1090,"Daejon Davis Steal.",34,25,9,10,0.932622027049686,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+207,2,"18:00",1080,1080,"KZ Okpala missed Layup.",34,25,9,0,0.93449644443822,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+208,2,"18:00",1080,1080,"Bryce Wills Offensive Rebound.",34,25,9,3,0.93449644443822,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+209,2,"17:57",1077,1077,"Bryce Wills missed Layup.",34,25,9,0,0.926465337797677,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+210,2,"17:57",1077,1077,"James Hawthorne Defensive Rebound.",34,25,9,12,0.926465337797677,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+211,2,"17:45",1065,1065,"Antonio Green made Jumper.",34,27,7,22,0.903517409303035,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+212,2,"17:23",1043,1043,"Oscar da Silva missed Three Point Jumper.",34,27,7,0,0.909690046331349,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+213,2,"17:23",1043,1043,"Jayce Johnson Defensive Rebound.",34,27,7,9,0.909690046331349,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+214,2,"17:14",1034,1034,"Reggie Scurry missed Layup.",34,27,7,0,0.900562581679915,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+215,2,"17:14",1034,1034,"Cormac Ryan Defensive Rebound.",34,27,7,19,0.900562581679915,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+216,2,"16:55",1015,1015,"KZ Okpala missed Layup.",34,27,7,0,0.896123215871258,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+217,2,"16:55",1015,1015,"Middle Tennessee Defensive Rebound.",34,27,7,18,0.896123215871258,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+218,2,"16:37",997,997,"Reggie Scurry missed Layup.",34,27,7,0,0.899385612205564,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+219,2,"16:37",997,997,"Oscar da Silva Block.",34,27,7,1,0.899385612205564,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+220,2,"16:36",996,996,"Bryce Wills Defensive Rebound.",34,27,7,5,0.899385612205564,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+221,2,"16:31",991,991,"Foul on Antonio Green.",34,27,7,9,0.899385612205564,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+222,2,"16:22",982,982,"Oscar da Silva made Layup.",36,27,9,16,0.941361483934448,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+223,2,"16:06",966,966,"Junior Farquhar missed Layup.",36,27,9,0,0.928929165727253,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+224,2,"16:06",966,966,"Daejon Davis Defensive Rebound.",36,27,9,6,0.928929165727253,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+225,2,"16:00",960,960,"KZ Okpala made Layup. Assisted by Daejon Davis.",38,27,11,12,0.949856160564133,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+226,2,"15:48",948,948,"Jayce Johnson made Layup.",38,29,9,23,0.942058002907449,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+227,2,"15:25",925,925,"KZ Okpala made Three Point Jumper. Assisted by Bryce Wills.",41,29,12,26,0.959680815536429,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+228,2,"14:59",899,899,"Antonio Green missed Three Point Jumper.",41,29,12,0,0.964573428722943,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+229,2,"14:59",899,899,"KZ Okpala Defensive Rebound.",41,29,12,13,0.964573428722943,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+230,2,"14:46",886,886,"KZ Okpala made Layup.",43,29,14,12,0.965689827121933,"Stanford","Middle Tennessee",3,4,0,0,7,"401096937",2018-11-23
+231,2,"14:34",874,874,"Middle Tennessee  Timeout",43,29,14,0,0.974961982636793,"Stanford","Middle Tennessee",2,4,1,0,7,"401096937",2018-11-23
+232,2,"14:34",874,874,"Official TV Timeout",43,29,14,14,0.974961982636793,"Stanford","Middle Tennessee",2,4,1,0,7,"401096937",2018-11-23
+233,2,"14:20",860,860,"Jayce Johnson made Jumper.",43,31,12,15,0.961309555545197,"Stanford","Middle Tennessee",2,4,1,0,7,"401096937",2018-11-23
+234,2,"14:05",845,845,"Oscar da Silva missed Three Point Jumper.",43,31,12,0,0.96908903749729,"Stanford","Middle Tennessee",2,4,1,0,7,"401096937",2018-11-23
+235,2,"14:05",845,845,"James Hawthorne Defensive Rebound.",43,31,12,11,0.96908903749729,"Stanford","Middle Tennessee",2,4,1,0,7,"401096937",2018-11-23
+236,2,"13:54",834,834,"Donovan Sims Turnover.",43,31,12,1,0.970424664864698,"Stanford","Middle Tennessee",2,4,1,0,7,"401096937",2018-11-23
+237,2,"13:53",833,833,"Official TV Timeout",43,31,12,3,0.970424664864698,"Stanford","Middle Tennessee",2,4,1,0,7,"401096937",2018-11-23
+238,2,"13:50",830,830,"Official TV Timeout",43,31,12,15,0.970424664864698,"Stanford","Middle Tennessee",2,4,1,0,7,"401096937",2018-11-23
+239,2,"13:35",815,815,"Foul on Donovan Sims.",43,31,12,13,0.963762028865051,"Stanford","Middle Tennessee",2,4,1,0,7,"401096937",2018-11-23
+240,2,"13:22",802,802,"KZ Okpala made Layup.",45,31,14,26,0.979320539240707,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+241,2,"12:56",776,776,"Jayce Johnson missed Jumper.",45,31,14,0,0.979411869948157,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+242,2,"12:56",776,776,"Cormac Ryan Defensive Rebound.",45,31,14,4,0.979411869948157,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+243,2,"12:52",772,772,"Foul on James Hawthorne.",45,31,14,18,0.979411869948157,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+244,2,"12:34",754,754,"Foul on KZ Okpala.",45,31,14,0,0.981474531768459,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+245,2,"12:34",754,754,"KZ Okpala Turnover.",45,31,14,11,0.981474531768459,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+246,2,"12:23",743,743,"Antonio Green missed Three Point Jumper.",45,31,14,0,0.98191447749723,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+247,2,"12:23",743,743,"Stanford Defensive Rebound.",45,31,14,14,0.98191447749723,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+248,2,"12:09",729,729,"Foul on Donovan Sims.",45,31,14,13,0.982367009389786,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+249,2,"11:56",716,716,"Josh Sharma made Dunk. Assisted by Daejon Davis.",47,31,16,16,0.98723506166231,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+250,2,"11:40",700,700,"Reggie Scurry missed Layup.",47,31,16,0,0.98619447926178,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+251,2,"11:40",700,700,"Karl Gamble Offensive Rebound.",47,31,16,4,0.98619447926178,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+252,2,"11:36",696,696,"Karl Gamble missed Two Point Tip Shot.",47,31,16,0,0.991633746842075,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+253,2,"11:36",696,696,"Daejon Davis Defensive Rebound.",47,31,16,7,0.991633746842075,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+254,2,"11:29",689,689,"Kodye Pugh Turnover.",47,31,16,0,0.988246789337463,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+255,2,"11:29",689,689,"Official TV Timeout",47,31,16,20,0.988246789337463,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+256,2,"11:09",669,669,"Jayce Johnson Turnover.",47,31,16,14,0.98909827710278,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+257,2,"10:55",655,655,"Oscar da Silva Turnover.",47,31,16,1,0.990895234453613,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+258,2,"10:54",654,654,"Jayce Johnson Steal.",47,31,16,3,0.990895234453613,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+259,2,"10:51",651,651,"Jayce Johnson made Layup.",47,33,14,23,0.985428147540662,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+260,2,"10:28",628,628,"Josh Sharma made Dunk. Assisted by Daejon Davis.",49,33,16,18,0.992892789111225,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+261,2,"10:10",610,610,"Reggie Scurry missed Jumper.",49,33,16,0,0.991796873390304,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+262,2,"10:10",610,610,"Middle Tennessee Offensive Rebound.",49,33,16,4,0.991796873390304,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+263,2,"10:06",606,606,"Foul on Daejon Davis.",49,33,16,4,0.991723474825173,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+264,2,"10:02",602,602,"Foul on Marcus Sheffield.",49,33,16,0,0.991723474825173,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+265,2,"10:02",602,602,"Jayce Johnson made Free Throw.",49,34,15,0,0.989454045773853,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+266,2,"10:02",602,602,"Jayce Johnson made Free Throw.",49,35,14,9,0.986570764147078,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+267,2,"9:53",593,593,"Marcus Sheffield Turnover.",49,35,14,1,0.984851155067075,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+268,2,"9:52",592,592,"Junior Farquhar Steal.",49,35,14,3,0.984851155067075,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+269,2,"9:49",589,589,"Antonio Green missed Three Point Jumper.",49,35,14,0,0.98453314810881,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+270,2,"9:49",589,589,"Reggie Scurry Offensive Rebound.",49,35,14,10,0.98453314810881,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+271,2,"9:39",579,579,"Junior Farquhar missed Three Point Jumper.",49,35,14,0,0.988592087543852,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+272,2,"9:39",579,579,"Kodye Pugh Defensive Rebound.",49,35,14,14,0.988592087543852,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+273,2,"9:25",565,565,"Jaiden Delaire missed Three Point Jumper.",49,35,14,0,0.989460540256964,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+274,2,"9:25",565,565,"Jayce Johnson Defensive Rebound.",49,35,14,5,0.989460540256964,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+275,2,"9:20",560,560,"Jayce Johnson missed Layup.",49,35,14,0,0.989460540256964,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+276,2,"9:20",560,560,"James Hawthorne Offensive Rebound.",49,35,14,2,0.989460540256964,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+277,2,"9:18",558,558,"James Hawthorne made Layup.",49,37,12,20,0.980293870837434,"Stanford","Middle Tennessee",2,4,0,0,7,"401096937",2018-11-23
+278,2,"8:58",538,538,"Marcus Sheffield Turnover.",49,37,12,0,0.986419634904559,"Stanford","Middle Tennessee",2,4,0,1,7,"401096937",2018-11-23
+279,2,"8:58",538,538,"Stanford  Timeout",49,37,12,6,0.986419634904559,"Stanford","Middle Tennessee",2,3,0,1,7,"401096937",2018-11-23
+280,2,"8:52",532,532,"Foul on Antonio Green.",49,37,12,0,0.986419634904559,"Stanford","Middle Tennessee",2,3,0,1,7,"401096937",2018-11-23
+281,2,"8:52",532,532,"Antonio Green Turnover.",49,37,12,26,0.986419634904559,"Stanford","Middle Tennessee",2,3,0,1,7,"401096937",2018-11-23
+282,2,"8:26",506,506,"KZ Okpala missed Jumper.",49,37,12,0,0.98354028788992,"Stanford","Middle Tennessee",2,3,0,1,7,"401096937",2018-11-23
+283,2,"8:26",506,506,"James Hawthorne Block.",49,37,12,0,0.98354028788992,"Stanford","Middle Tennessee",2,3,0,1,7,"401096937",2018-11-23
+284,2,"8:26",506,506,"Jayce Johnson Defensive Rebound.",49,37,12,1,0.98354028788992,"Stanford","Middle Tennessee",2,3,0,1,7,"401096937",2018-11-23
+285,2,"8:25",505,505,"Foul on KZ Okpala.",49,37,12,11,0.98354028788992,"Stanford","Middle Tennessee",2,3,0,1,7,"401096937",2018-11-23
+286,2,"8:14",494,494,"James Hawthorne Turnover.",49,37,12,1,0.98348283909146,"Stanford","Middle Tennessee",2,3,0,1,7,"401096937",2018-11-23
+287,2,"8:13",493,493,"Daejon Davis Steal.",49,37,12,13,0.98348283909146,"Stanford","Middle Tennessee",2,3,0,1,7,"401096937",2018-11-23
+288,2,"8:00",480,480,"Josh Sharma made Layup. Assisted by Daejon Davis.",51,37,14,23,0.990042510619126,"Stanford","Middle Tennessee",2,3,0,1,7,"401096937",2018-11-23
+289,2,"7:37",457,457,"Reggie Scurry missed Layup.",51,37,14,0,0.994025408366553,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+290,2,"7:37",457,457,"Josh Sharma Defensive Rebound.",51,37,14,19,0.994025408366553,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+291,2,"7:18",438,438,"Josh Sharma missed Three Point Jumper.",51,37,14,0,0.994075532937713,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+292,2,"7:18",438,438,"Reggie Scurry Defensive Rebound.",51,37,14,10,0.994075532937713,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+293,2,"7:08",428,428,"Antonio Green made Layup.",51,39,12,15,0.985636936679203,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+294,2,"6:53",413,413,"Official TV Timeout",51,39,12,3,0.987382591526161,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+295,2,"6:50",410,410,"Josh Sharma missed Layup.",51,39,12,0,0.987382591526161,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+296,2,"6:50",410,410,"James Hawthorne Defensive Rebound.",51,39,12,2,0.987382591526161,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+297,2,"6:48",408,408,"James Hawthorne Turnover.",51,39,12,11,0.99036256406176,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+298,2,"6:37",397,397,"Cormac Ryan missed Three Point Jumper.",51,39,12,0,0.988990441435357,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+299,2,"6:37",397,397,"Antonio Green Defensive Rebound.",51,39,12,14,0.988990441435357,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+300,2,"6:23",383,383,"James Hawthorne Turnover.",51,39,12,1,0.987297092464291,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+301,2,"6:22",382,382,"Cormac Ryan Steal.",51,39,12,6,0.987297092464291,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+302,2,"6:16",376,376,"Foul on Jayce Johnson.",51,39,12,0,0.987843925129712,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+303,2,"6:16",376,376,"Bryce Wills missed Free Throw.",51,39,12,0,0.987843925129712,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+304,2,"6:16",376,376,"James Hawthorne Defensive Rebound.",51,39,12,12,0.987843925129712,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+305,2,"6:04",364,364,"Antonio Green missed Layup.",51,39,12,0,0.989443059296975,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+306,2,"6:04",364,364,"Josh Sharma Block.",51,39,12,2,0.989443059296975,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+307,2,"6:02",362,362,"Bryce Wills Defensive Rebound.",51,39,12,17,0.989443059296975,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+308,2,"5:45",345,345,"Foul on Jayce Johnson.",51,39,12,0,0.989898784540307,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+309,2,"5:45",345,345,"Cormac Ryan made Free Throw.",52,39,13,0,0.992750513794044,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+310,2,"5:45",345,345,"Cormac Ryan made Free Throw.",53,39,14,7,0.994801383849674,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+311,2,"5:38",338,338,"Technical Foul on Middle Tennessee.",53,39,14,0,0.996608097432286,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+312,2,"5:38",338,338,"Foul on Middle Tennessee.",53,39,14,0,0.996608097432286,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+313,2,"5:38",338,338,"Cormac Ryan made Free Throw.",54,39,15,0,0.997618081669282,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+314,2,"5:38",338,338,"Cormac Ryan made Free Throw.",55,39,16,9,0.998327834219122,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+315,2,"5:29",329,329,"James Hawthorne missed Layup.",55,39,16,0,0.996768251425596,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+316,2,"5:29",329,329,"Oscar da Silva Defensive Rebound.",55,39,16,10,0.996768251425596,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+317,2,"5:19",319,319,"Cormac Ryan made Jumper. Assisted by Bryce Wills.",57,39,18,27,0.99928246278648,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+318,2,"4:52",292,292,"James Hawthorne missed Jumper.",57,39,18,0,0.998989426003739,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+319,2,"4:52",292,292,"Jayce Johnson Offensive Rebound.",57,39,18,0,0.998989426003739,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+320,2,"4:52",292,292,"Foul on Daejon Davis.",57,39,18,6,0.998989426003739,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+321,2,"4:46",286,286,"Jayce Johnson made Layup.",57,41,16,0,0.9981252237245,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+322,2,"4:46",286,286,"Foul on Cormac Ryan.",57,41,16,0,0.9981252237245,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+323,2,"4:46",286,286,"Jayce Johnson made Free Throw.",57,42,15,19,0.997334231359882,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+324,2,"4:27",267,267,"Daejon Davis missed Three Point Jumper.",57,42,15,0,0.998075934410038,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+325,2,"4:27",267,267,"Josh Sharma Offensive Rebound.",57,42,15,11,0.998075934410038,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+326,2,"4:16",256,256,"Foul on Reggie Scurry.",57,42,15,0,0.999028527090996,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+327,2,"4:16",256,256,"Oscar da Silva missed Free Throw.",57,42,15,0,0.999028527090996,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+328,2,"4:16",256,256,"Stanford Deadball Team Rebound.",57,42,15,0,0.999028527090996,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+329,2,"4:16",256,256,"Oscar da Silva made Free Throw.",58,42,16,12,0.999362359072349,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+330,2,"4:04",244,244,"Antonio Green made Jumper.",58,44,14,22,0.99806211211738,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+331,2,"3:42",222,222,"Bryce Wills Turnover.",58,44,14,1,0.998736104698498,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+332,2,"3:41",221,221,"Jayce Johnson Steal.",58,44,14,3,0.998736104698498,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+333,2,"3:38",218,218,"Junior Farquhar made Layup.",58,46,12,0,0.997107190676237,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+334,2,"3:38",218,218,"Foul on Oscar da Silva.",58,46,12,0,0.997107190676237,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+335,2,"3:38",218,218,"Official TV Timeout",58,46,12,0,0.997107190676237,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+336,2,"3:38",218,218,"Jayce Johnson missed Free Throw.",58,46,12,0,0.997107190676237,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+337,2,"3:38",218,218,"Cormac Ryan Defensive Rebound.",58,46,12,23,0.997107190676237,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+338,2,"3:15",195,195,"Daejon Davis Turnover.",58,46,12,1,0.997657617379246,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+339,2,"3:14",194,194,"Junior Farquhar Steal.",58,46,12,9,0.997657617379246,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+340,2,"3:05",185,185,"Antonio Green made Layup. Assisted by Junior Farquhar.",58,48,10,20,0.995227387482593,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+341,2,"2:45",165,165,"KZ Okpala missed Three Point Jumper.",58,48,10,0,0.997298167632464,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+342,2,"2:45",165,165,"Daejon Davis Offensive Rebound.",58,48,10,4,0.997298167632464,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+343,2,"2:41",161,161,"Daejon Davis missed Layup.",58,48,10,0,0.997298167632464,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+344,2,"2:41",161,161,"James Hawthorne Block.",58,48,10,1,0.997298167632464,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+345,2,"2:40",160,160,"Middle Tennessee Defensive Rebound.",58,48,10,21,0.997298167632464,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+346,2,"2:19",139,139,"Antonio Green missed Jumper.",58,48,10,0,0.997713678985419,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+347,2,"2:19",139,139,"Cormac Ryan Defensive Rebound.",58,48,10,21,0.997713678985419,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+348,2,"1:58",118,118,"Josh Sharma made Dunk. Assisted by Oscar da Silva.",60,48,12,22,0.999578495008276,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+349,2,"1:36",96,96,"James Hawthorne missed Jumper.",60,48,12,0,0.999637772780801,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+350,2,"1:36",96,96,"Cormac Ryan Defensive Rebound.",60,48,12,9,0.999637772780801,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+351,2,"1:27",87,87,"KZ Okpala made Layup.",62,48,14,0,0.999975815740412,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+352,2,"1:27",87,87,"Foul on James Hawthorne.",62,48,14,0,0.999975815740412,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+353,2,"1:27",87,87,"KZ Okpala made Free Throw.",63,48,15,11,0.999988186433663,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+354,2,"1:16",76,76,"Antonio Green made Layup.",63,50,13,1,0.999950241748937,"Stanford","Middle Tennessee",2,3,0,0,7,"401096937",2018-11-23
+355,2,"1:15",75,75,"Middle Tennessee  Timeout",63,50,13,14,0.999950241748937,"Stanford","Middle Tennessee",1,3,1,0,7,"401096937",2018-11-23
+356,2,"1:01",61,61,"Foul on Reggie Scurry.",63,50,13,0,0.999944682246324,"Stanford","Middle Tennessee",1,3,1,0,7,"401096937",2018-11-23
+357,2,"1:01",61,61,"KZ Okpala missed Free Throw.",63,50,13,0,0.999944682246324,"Stanford","Middle Tennessee",1,3,1,0,7,"401096937",2018-11-23
+358,2,"1:01",61,61,"Stanford Deadball Team Rebound.",63,50,13,0,0.999944682246324,"Stanford","Middle Tennessee",1,3,1,0,7,"401096937",2018-11-23
+359,2,"1:01",61,61,"KZ Okpala made Free Throw.",64,50,14,10,0.99997366556837,"Stanford","Middle Tennessee",1,3,1,0,7,"401096937",2018-11-23
+360,2,"0:51",51,51,"Foul on Josh Sharma.",64,50,14,0,0.999998131977229,"Stanford","Middle Tennessee",1,3,1,0,7,"401096937",2018-11-23
+361,2,"0:51",51,51,"Antonio Green made Free Throw.",64,51,13,0,0.999995418295785,"Stanford","Middle Tennessee",1,3,1,0,7,"401096937",2018-11-23
+362,2,"0:51",51,51,"Antonio Green made Free Throw.",64,52,12,7,0.999988762486687,"Stanford","Middle Tennessee",1,3,1,0,7,"401096937",2018-11-23
+363,2,"0:44",44,44,"Foul on Junior Farquhar.",64,52,12,0,0.999957326768715,"Stanford","Middle Tennessee",1,3,1,0,7,"401096937",2018-11-23
+364,2,"0:44",44,44,"Cormac Ryan missed Free Throw.",64,52,12,0,0.999957326768715,"Stanford","Middle Tennessee",1,3,1,0,7,"401096937",2018-11-23
+365,2,"0:44",44,44,"Stanford Deadball Team Rebound.",64,52,12,0,0.999957326768715,"Stanford","Middle Tennessee",1,3,1,0,7,"401096937",2018-11-23
+366,2,"0:44",44,44,"Cormac Ryan made Free Throw.",65,52,13,9,0.999981126781144,"Stanford","Middle Tennessee",1,3,1,0,7,"401096937",2018-11-23
+367,2,"0:35",35,35,"Antonio Green missed Jumper.",65,52,13,0,0.999975041149077,"Stanford","Middle Tennessee",1,3,1,0,7,"401096937",2018-11-23
+368,2,"0:35",35,35,"Daejon Davis Defensive Rebound.",65,52,13,7,0.999975041149077,"Stanford","Middle Tennessee",1,3,1,0,7,"401096937",2018-11-23
+369,2,"0:28",28,28,"Foul on Antonio Green.",65,52,13,0,0.999999808948403,"Stanford","Middle Tennessee",1,3,1,0,7,"401096937",2018-11-23
+370,2,"0:28",28,28,"Daejon Davis missed Free Throw.",65,52,13,0,0.999999808948403,"Stanford","Middle Tennessee",1,3,1,0,7,"401096937",2018-11-23
+371,2,"0:28",28,28,"Stanford Deadball Team Rebound.",65,52,13,0,0.999999808948403,"Stanford","Middle Tennessee",1,3,1,0,7,"401096937",2018-11-23
+372,2,"0:28",28,28,"Daejon Davis made Free Throw.",66,52,14,8,0.99999993930351,"Stanford","Middle Tennessee",1,3,1,0,7,"401096937",2018-11-23
+373,2,"0:20",20,20,"Jayce Johnson missed Three Point Jumper.",66,52,14,0,0.999999999920718,"Stanford","Middle Tennessee",1,3,1,0,7,"401096937",2018-11-23
+374,2,"0:20",20,20,"Stanford Defensive Rebound.",66,52,14,1,0.999999999920718,"Stanford","Middle Tennessee",1,3,1,0,7,"401096937",2018-11-23
+375,2,"0:19",19,19,"Foul on Karl Gamble.",66,52,14,0,0.999999984356792,"Stanford","Middle Tennessee",1,3,1,0,7,"401096937",2018-11-23
+376,2,"0:19",19,19,"Josh Sharma missed Free Throw.",66,52,14,0,0.999999984356792,"Stanford","Middle Tennessee",1,3,1,0,7,"401096937",2018-11-23
+377,2,"0:19",19,19,"Stanford Deadball Team Rebound.",66,52,14,0,0.999999984356792,"Stanford","Middle Tennessee",1,3,1,0,7,"401096937",2018-11-23
+378,2,"0:19",19,19,"Josh Sharma made Free Throw.",67,52,15,17,0.999999995574729,"Stanford","Middle Tennessee",1,3,1,0,7,"401096937",2018-11-23
+379,2,"0:02",2,2,"Antonio Green made Layup.",67,54,13,2,0.999999999854384,"Stanford","Middle Tennessee",1,3,0,0,7,"401096937",2018-11-23
+380,2,"0:00",0,0,"End of Game",67,54,13,0,1,"Stanford","Middle Tennessee",1,3,0,0,7,"401096937",2018-11-23

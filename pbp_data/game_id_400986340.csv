@@ -1,0 +1,380 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.931647302289739,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+2,1,"19:43",2383,2383,"Foul on Glen Burns.",0,0,0,0.928164215822778,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+3,1,"19:41",2381,2381,"Carsen Edwards missed Three Point Jumper.",0,0,0,0.928164215822778,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+4,1,"19:41",2381,2381,"Chicago State Defensive Rebound.",0,0,0,0.928164215822778,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+5,1,"19:17",2357,2357,"Rob Shaw missed Jumper.",0,0,0,0.926993040863795,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+6,1,"19:17",2357,2357,"Vince Edwards Defensive Rebound.",0,0,0,0.926993040863795,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+7,1,"19:10",2350,2350,"Dakota Mathias missed Jumper.",0,0,0,0.926993040863795,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+8,1,"19:10",2350,2350,"Anthony Harris Defensive Rebound.",0,0,0,0.926993040863795,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+9,1,"18:43",2323,2323,"Glen Burns made Jumper.",0,2,-2,0.904472756821604,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+10,1,"18:20",2300,2300,"Vince Edwards made Layup.",2,2,0,0.913592005262543,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+11,1,"18:06",2286,2286,"Fred Sims Jr. missed Three Point Jumper.",2,2,0,0.917281970226047,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+12,1,"18:06",2286,2286,"Isaac Haas Defensive Rebound.",2,2,0,0.917281970226047,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+13,1,"17:53",2273,2273,"Vince Edwards missed Layup.",2,2,0,0.919639948927835,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+14,1,"17:53",2273,2273,"Isaac Haas Offensive Rebound.",2,2,0,0.919639948927835,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+15,1,"17:50",2270,2270,"Isaac Haas made Layup.",4,2,2,0.933666628864239,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+16,1,"17:41",2261,2261,"Rob Shaw Turnover.",4,2,2,0.939485035967898,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+17,1,"17:31",2251,2251,"Foul on Patrick Szpir.",4,2,2,0.92758854747876,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+18,1,"17:31",2251,2251,"Isaac Haas made Free Throw.",5,2,3,0.933809386897858,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+19,1,"17:31",2251,2251,"Isaac Haas made Free Throw.",6,2,4,0.939530635854425,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+20,1,"17:29",2249,2249,"Carsen Edwards missed Jumper.",6,2,4,0.934631499273852,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+21,1,"17:29",2249,2249,"Patrick Szpir Defensive Rebound.",6,2,4,0.934631499273852,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+22,1,"17:08",2228,2228,"Anthony Harris Turnover.",6,2,4,0.944593718284192,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+23,1,"17:06",2226,2226,"P.J. Thompson Steal.",6,2,4,0.944593718284192,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+24,1,"17:04",2224,2224,"Foul on Anthony Harris.",6,2,4,0.944593718284192,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+25,1,"17:04",2224,2224,"P.J. Thompson made Free Throw.",7,2,5,0.949710195185448,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+26,1,"17:04",2224,2224,"P.J. Thompson made Free Throw.",8,2,6,0.954377012839843,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+27,1,"16:35",2195,2195,"Patrick Szpir missed Jumper.",8,2,6,0.959173739543893,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+28,1,"16:35",2195,2195,"Isaac Haas Block.",8,2,6,0.959173739543893,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+29,1,"16:35",2195,2195,"Purdue Deadball Team Rebound.",8,2,6,0.959173739543893,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+30,1,"16:30",2190,2190,"P.J. Thompson missed Three Point Jumper.",8,2,6,0.959173739543893,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+31,1,"16:30",2190,2190,"Chicago State Deadball Team Rebound.",8,2,6,0.959173739543893,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+32,1,"16:18",2178,2178,"Foul on Isaac Haas.",8,2,6,0.952729825825796,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+33,1,"16:04",2164,2164,"Anthony Harris missed Jumper.",8,2,6,0.952681003397727,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+34,1,"16:04",2164,2164,"Isaac Haas Block.",8,2,6,0.952681003397727,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+35,1,"16:01",2161,2161,"Chicago State Offensive Rebound.",8,2,6,0.952681003397727,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+36,1,"15:49",2149,2149,"Cameron Bowles made Layup. Assisted by Patrick Szpir.",8,4,4,0.94312325169665,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+37,1,"15:37",2137,2137,"Vince Edwards made Layup.",10,4,6,0.956620704633432,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+38,1,"15:37",2137,2137,"Foul on Patrick Szpir.",10,4,6,0.956620704633432,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+39,1,"15:37",2137,2137,"Official TV Timeout",10,4,6,0.956620704633432,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+40,1,"15:37",2137,2137,"Vince Edwards made Free Throw.",11,4,7,0.96137562748678,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+41,1,"15:21",2121,2121,"Jalen Stephens-Holmes missed Jumper.",11,4,7,0.95845013705328,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+42,1,"15:21",2121,2121,"P.J. Thompson Defensive Rebound.",11,4,7,0.95845013705328,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+43,1,"15:14",2114,2114,"Dakota Mathias made Three Point Jumper. Assisted by Carsen Edwards.",14,4,10,0.974044269732902,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+44,1,"14:45",2085,2085,"Glen Burns Turnover.",14,4,10,0.967436499882227,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+45,1,"14:44",2084,2084,"Dakota Mathias Steal.",14,4,10,0.967436499882227,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+46,1,"14:41",2081,2081,"Carsen Edwards made Layup.",16,4,12,0.973694650686767,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+47,1,"14:41",2081,2081,"Foul on Cameron Bowles.",16,4,12,0.973694650686767,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+48,1,"14:41",2081,2081,"Carsen Edwards made Free Throw.",17,4,13,0.976368494748877,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+49,1,"14:21",2061,2061,"Cameron Bowles missed Jumper.",17,4,13,0.979243295842998,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+50,1,"14:21",2061,2061,"Dakota Mathias Defensive Rebound.",17,4,13,0.979243295842998,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+51,1,"14:12",2052,2052,"Carsen Edwards made Three Point Jumper. Assisted by Dakota Mathias.",20,4,16,0.986664774437354,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+52,1,"14:08",2048,2048,"Chicago State  Timeout",20,4,16,0.98225039397697,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+53,1,"13:48",2028,2028,"Rob Shaw made Jumper.",20,6,14,0.984697914349132,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+54,1,"13:37",2017,2017,"Vince Edwards missed Jumper.",20,6,14,0.980921741350185,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+55,1,"13:37",2017,2017,"Vince Edwards Offensive Rebound.",20,6,14,0.980921741350185,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+56,1,"13:33",2013,2013,"Foul on Jalen Stephens-Holmes.",20,6,14,0.980921741350185,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+57,1,"13:33",2013,2013,"Vince Edwards made Free Throw.",21,6,15,0.982969112142091,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+58,1,"13:32",2012,2012,"Vince Edwards made Free Throw.",22,6,16,0.984800175223085,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+59,1,"13:30",2010,2010,"Fred Sims Jr. made Three Point Jumper.",22,9,13,0.978633595485055,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+60,1,"13:29",2009,2009,"Carsen Edwards missed Three Point Jumper.",22,9,13,0.97602076222007,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+61,1,"13:28",2008,2008,"Nojel Eastern Offensive Rebound.",22,9,13,0.97602076222007,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+62,1,"13:27",2007,2007,"Ryan Cline Turnover.",22,9,13,0.97602076222007,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+63,1,"13:26",2006,2006,"Fred Sims Jr. missed Jumper.",22,9,13,0.97602076222007,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+64,1,"13:25",2005,2005,"Vince Edwards Defensive Rebound.",22,9,13,0.97602076222007,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+65,1,"13:23",2003,2003,"Carsen Edwards made Layup.",24,9,15,0.980677955664165,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+66,1,"12:58",1978,1978,"Rob Shaw missed Three Point Jumper.",24,9,15,0.986390385134749,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+67,1,"12:58",1978,1978,"Vince Edwards Defensive Rebound.",24,9,15,0.986390385134749,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+68,1,"12:49",1969,1969,"Vince Edwards made Layup.",26,9,17,0.983751103293127,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+69,1,"12:33",1953,1953,"Fred Sims Jr. made Jumper. Assisted by Jalen Stephens-Holmes.",26,11,15,0.983988702457583,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+70,1,"12:22",1942,1942,"Nojel Eastern Turnover.",26,11,15,0.98453631942366,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+71,1,"12:21",1941,1941,"Anthony Harris Steal.",26,11,15,0.98453631942366,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+72,1,"12:20",1940,1940,"Foul on Matt Haarms.",26,11,15,0.98453631942366,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+73,1,"12:19",1939,1939,"Anthony Harris made Dunk.",26,13,13,0.9797115437708,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+74,1,"12:07",1927,1927,"Carsen Edwards made Jumper.",28,13,15,0.98572434885797,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+75,1,"11:00",1860,1860,"Foul on Grady Eifert.",28,13,15,0.985284974711178,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+76,1,"10:53",1853,1853,"Rob Shaw missed Free Throw.",28,13,15,0.98425606021819,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+77,1,"10:53",1853,1853,"Chicago State Deadball Team Rebound.",28,13,15,0.98425606021819,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+78,1,"10:53",1853,1853,"Rob Shaw made Free Throw.",28,14,14,0.982144767936237,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+79,1,"10:45",1845,1845,"Grady Eifert missed Layup.",28,14,14,0.980843984810628,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+80,1,"10:45",1845,1845,"Matt Haarms Offensive Rebound.",28,14,14,0.980843984810628,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+81,1,"10:39",1839,1839,"Carsen Edwards made Layup. Assisted by Ryan Cline.",30,14,16,0.98529145737823,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+82,1,"10:23",1823,1823,"Rob Shaw Turnover.",30,14,16,0.986130107292906,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+83,1,"10:06",1806,1806,"Ryan Cline made Layup.",32,14,18,0.98930323443454,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+84,1,"9:52",1792,1792,"Jelani Pruitt made Jumper.",32,16,16,0.985238457583302,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+85,1,"9:44",1784,1784,"Nojel Eastern made Layup. Assisted by Matt Haarms.",34,16,18,0.989292346817862,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+86,1,"9:18",1758,1758,"Foul on Dakota Mathias.",34,16,18,0.991220201209773,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+87,1,"9:12",1752,1752,"Foul on Nojel Eastern.",34,16,18,0.991220201209773,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+88,1,"9:12",1752,1752,"Glen Burns made Free Throw.",34,17,17,0.989912873835121,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+89,1,"9:12",1752,1752,"Glen Burns made Free Throw.",34,18,16,0.988413158642658,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+90,1,"9:04",1744,1744,"Ryan Cline missed Three Point Jumper.",34,18,16,0.984236349340602,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+91,1,"9:04",1744,1744,"Anthony Harris Defensive Rebound.",34,18,16,0.984236349340602,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+92,1,"9:01",1741,1741,"Foul on Grady Eifert.",34,18,16,0.984236349340602,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+93,1,"8:47",1727,1727,"Deionte Simmons missed Jumper.",34,18,16,0.985073951226076,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+94,1,"8:47",1727,1727,"Matt Haarms Block.",34,18,16,0.985073951226076,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+95,1,"8:46",1726,1726,"Ryan Cline Defensive Rebound.",34,18,16,0.985073951226076,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+96,1,"8:35",1715,1715,"Foul on Glen Burns.",34,18,16,0.987801744254378,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+97,1,"8:35",1715,1715,"Dakota Mathias made Free Throw.",35,18,17,0.989309680508201,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+98,1,"8:35",1715,1715,"Dakota Mathias made Free Throw.",36,18,18,0.990632974846442,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+99,1,"8:22",1702,1702,"Fred Sims Jr. missed Jumper.",36,18,18,0.98812659142817,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+100,1,"8:22",1702,1702,"Matt Haarms Defensive Rebound.",36,18,18,0.98812659142817,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+101,1,"8:12",1692,1692,"Foul on Nojel Eastern.",36,18,18,0.990772108329078,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+102,1,"8:12",1692,1692,"Nojel Eastern Turnover.",36,18,18,0.990772108329078,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+103,1,"7:48",1668,1668,"Deionte Simmons made Dunk. Assisted by Jelani Pruitt.",36,20,16,0.985419605412982,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+104,1,"7:35",1655,1655,"P.J. Thompson made Jumper. Assisted by Vince Edwards.",38,20,18,0.988727113245831,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+105,1,"7:06",1626,1626,"Official TV Timeout",38,20,18,0.990611018432414,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+106,1,"7:01",1621,1621,"Chicago State  Turnover.",38,20,18,0.990611018432414,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+107,1,"6:52",1612,1612,"Ryan Cline missed Three Point Jumper.",38,20,18,0.989263740590599,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+108,1,"6:52",1612,1612,"Rob Shaw Defensive Rebound.",38,20,18,0.989263740590599,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+109,1,"6:46",1606,1606,"Jelani Pruitt made Layup. Assisted by Rob Shaw.",38,22,16,0.985996117597086,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+110,1,"6:35",1595,1595,"Vince Edwards missed Jumper.",38,22,16,0.985473030836888,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+111,1,"6:35",1595,1595,"Purdue Deadball Team Rebound.",38,22,16,0.985473030836888,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+112,1,"6:35",1595,1595,"Foul on Deionte Simmons.",38,22,16,0.985473030836888,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+113,1,"6:35",1595,1595,"Isaac Haas missed Free Throw.",38,22,16,0.985473030836888,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+114,1,"6:35",1595,1595,"Vince Edwards Offensive Rebound.",38,22,16,0.985473030836888,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+115,1,"6:34",1594,1594,"Vince Edwards made Jumper.",40,22,18,0.988873159278474,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+116,1,"6:16",1576,1576,"Deionte Simmons made Jumper. Assisted by Fred Sims Jr..",40,24,16,0.989996907722535,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+117,1,"6:05",1565,1565,"Foul on Isaac Haas.",40,24,16,0.986772254889198,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+118,1,"6:05",1565,1565,"Isaac Haas Turnover.",40,24,16,0.986772254889198,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+119,1,"5:43",1543,1543,"Anthony Harris missed Three Point Jumper.",40,24,16,0.987255399354041,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+120,1,"5:43",1543,1543,"Isaac Haas Defensive Rebound.",40,24,16,0.987255399354041,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+121,1,"5:36",1536,1536,"P.J. Thompson made Three Point Jumper. Assisted by Dakota Mathias.",43,24,19,0.991563507048201,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+122,1,"5:17",1517,1517,"Jalen Stephens-Holmes missed Jumper.",43,24,19,0.993085953058152,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+123,1,"5:17",1517,1517,"Jelani Pruitt Offensive Rebound.",43,24,19,0.993085953058152,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+124,1,"5:12",1512,1512,"Fred Sims Jr. missed Jumper.",43,24,19,0.993085953058152,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+125,1,"5:12",1512,1512,"Chicago State Deadball Team Rebound.",43,24,19,0.993085953058152,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+126,1,"5:11",1511,1511,"Foul on Vince Edwards.",43,24,19,0.993085953058152,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+127,1,"5:11",1511,1511,"Jelani Pruitt missed Free Throw.",43,24,19,0.993085953058152,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+128,1,"5:11",1511,1511,"Anthony Harris Offensive Rebound.",43,24,19,0.993085953058152,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+129,1,"4:51",1491,1491,"Jelani Pruitt missed Jumper.",43,24,19,0.991343919844817,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+130,1,"4:51",1491,1491,"Carsen Edwards Defensive Rebound.",43,24,19,0.991343919844817,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+131,1,"4:35",1475,1475,"Foul on Jalen Stephens-Holmes.",43,24,19,0.994010773742634,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+132,1,"4:34",1474,1474,"Isaac Haas missed Free Throw.",43,24,19,0.994010773742634,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+133,1,"4:34",1474,1474,"Jelani Pruitt Defensive Rebound.",43,24,19,0.994010773742634,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+134,1,"4:20",1460,1460,"Rob Shaw missed Jumper.",43,24,19,0.989355305522096,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+135,1,"4:20",1460,1460,"Vince Edwards Defensive Rebound.",43,24,19,0.989355305522096,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+136,1,"4:12",1452,1452,"Carsen Edwards made Three Point Jumper. Assisted by P.J. Thompson.",46,24,22,0.994811536315522,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+137,1,"3:57",1437,1437,"Fred Sims Jr. missed Three Point Jumper.",46,24,22,0.994698455558794,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+138,1,"3:57",1437,1437,"Vince Edwards Defensive Rebound.",46,24,22,0.994698455558794,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+139,1,"3:49",1429,1429,"Vince Edwards missed Three Point Jumper.",46,24,22,0.993856537492585,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+140,1,"3:49",1429,1429,"Purdue Offensive Rebound.",46,24,22,0.993856537492585,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+141,1,"3:37",1417,1417,"Vince Edwards missed Three Point Jumper.",46,24,22,0.995012681847179,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+142,1,"3:37",1417,1417,"Carsen Edwards Offensive Rebound.",46,24,22,0.995012681847179,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+143,1,"3:33",1413,1413,"Dakota Mathias made Three Point Jumper. Assisted by Carsen Edwards.",49,24,25,0.996862187999422,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+144,1,"3:11",1391,1391,"Deionte Simmons missed Jumper.",49,24,25,0.997433716010746,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+145,1,"3:11",1391,1391,"Isaac Haas Defensive Rebound.",49,24,25,0.997433716010746,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+146,1,"3:04",1384,1384,"P.J. Thompson Turnover.",49,24,25,0.996869916335052,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+147,1,"2:48",1368,1368,"Travon Bell Turnover.",49,24,25,0.996990784404704,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+148,1,"2:48",1368,1368,"Foul on Travon Bell.",49,24,25,0.996990784404704,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+149,1,"2:34",1354,1354,"Dakota Mathias made Three Point Jumper. Assisted by Vince Edwards.",52,24,28,0.998226513834953,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+150,1,"2:17",1337,1337,"John Joyce missed Three Point Jumper.",52,24,28,0.99802116330866,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+151,1,"2:17",1337,1337,"Jelani Pruitt Offensive Rebound.",52,24,28,0.99802116330866,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+152,1,"2:07",1327,1327,"Jelani Pruitt made Layup.",52,26,26,0.997633945024048,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+153,1,"2:05",1325,1325,"Dakota Mathias missed Three Point Jumper.",52,26,26,0.997633945024048,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+154,1,"2:05",1325,1325,"Jelani Pruitt Defensive Rebound.",52,26,26,0.997633945024048,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+155,1,"1:54",1314,1314,"Deionte Simmons missed Layup.",52,26,26,0.9976653206871,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+156,1,"1:54",1314,1314,"Vince Edwards Defensive Rebound.",52,26,26,0.9976653206871,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+157,1,"1:43",1303,1303,"P.J. Thompson missed Three Point Jumper.",52,26,26,0.996522814369666,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+158,1,"1:43",1303,1303,"Deionte Simmons Defensive Rebound.",52,26,26,0.996522814369666,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+159,1,"1:40",1300,1300,"Foul on Isaac Haas.",52,26,26,0.996522814369666,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+160,1,"1:40",1300,1300,"Deionte Simmons missed Free Throw.",52,26,26,0.996522814369666,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+161,1,"1:40",1300,1300,"Chicago State Deadball Team Rebound.",52,26,26,0.996522814369666,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+162,1,"1:40",1300,1300,"Deionte Simmons made Free Throw.",52,27,25,0.995973938630853,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+163,1,"1:31",1291,1291,"P.J. Thompson made Three Point Jumper. Assisted by Ryan Cline.",55,27,28,0.998573778918055,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+164,1,"1:21",1281,1281,"Rob Shaw missed Jumper.",55,27,28,0.9979796192011,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+165,1,"1:21",1281,1281,"Cameron Bowles Offensive Rebound.",55,27,28,0.9979796192011,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+166,1,"0:46",1246,1246,"Rob Shaw missed Jumper.",55,27,28,0.99813640404205,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+167,1,"0:46",1246,1246,"Vince Edwards Defensive Rebound.",55,27,28,0.99813640404205,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+168,1,"0:35",1235,1235,"Foul on Rob Shaw.",55,27,28,0.998199678727913,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+169,1,"0:35",1235,1235,"Matt Haarms made Free Throw.",56,27,29,0.998467001688844,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+170,1,"0:35",1235,1235,"Matt Haarms made Free Throw.",57,27,30,0.99869468277124,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+171,1,"0:31",1231,1231,"Foul on Tommy Luce.",57,27,30,0.99869468277124,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+172,1,"0:31",1231,1231,"Rob Shaw missed Free Throw.",57,27,30,0.99869468277124,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+173,1,"0:31",1231,1231,"Chicago State Deadball Team Rebound.",57,27,30,0.99869468277124,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+174,1,"0:31",1231,1231,"Rob Shaw made Free Throw.",57,28,29,0.998467001688844,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+175,1,"0:23",1223,1223,"Matt Haarms Turnover.",57,28,29,0.99887297004383,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+176,1,"0:22",1222,1222,"John Joyce Steal.",57,28,29,0.99887297004383,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+177,1,"0:17",1217,1217,"John Joyce missed Three Point Jumper.",57,28,29,0.998635215653396,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+178,1,"0:17",1217,1217,"Ryan Cline Defensive Rebound.",57,28,29,0.998635215653396,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+179,1,"0:02",1202,1202,"Matt Haarms missed Three Point Jumper.",57,28,29,0.998508762932036,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+180,1,"0:02",1202,1202,"Nojel Eastern Offensive Rebound.",57,28,29,0.998508762932036,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+181,1,"0:00",1200,1200,"Nojel Eastern made Jumper.",59,28,31,0.998915074068328,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+182,1,"0:00",1200,1200,"End of 1st half",59,28,31,0.998915074068328,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+183,2,"20:00",1200,1200,"PLAY",59,28,31,0.998915074068328,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+184,2,"19:47",1187,1187,"Carsen Edwards made Jumper.",61,28,33,0.999364955269925,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+185,2,"19:18",1158,1158,"Glen Burns Turnover.",61,28,33,0.999200045090149,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+186,2,"19:17",1157,1157,"Vince Edwards Steal.",61,28,33,0.999200045090149,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+187,2,"19:12",1152,1152,"Vince Edwards missed Three Point Jumper.",61,28,33,0.999200045090149,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+188,2,"19:12",1152,1152,"Glen Burns Defensive Rebound.",61,28,33,0.999200045090149,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+189,2,"18:59",1139,1139,"Anthony Harris Turnover.",61,28,33,0.999310044783901,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+190,2,"18:58",1138,1138,"P.J. Thompson Steal.",61,28,33,0.999310044783901,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+191,2,"18:52",1132,1132,"Dakota Mathias made Three Point Jumper.",64,28,36,0.9995765110604,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+192,2,"18:35",1115,1115,"Fred Sims Jr. missed Three Point Jumper.",64,28,36,0.999656005838449,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+193,2,"18:35",1115,1115,"Dakota Mathias Defensive Rebound.",64,28,36,0.999656005838449,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+194,2,"18:21",1101,1101,"Dakota Mathias made Jumper.",66,28,38,0.999699135852536,"Purdue","Chicago State",4,4,0,0,45.4,400986340,2017-11-12
+195,2,"18:12",1092,1092,"Chicago State  Timeout",66,28,38,0.999775561780993,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+196,2,"18:12",1092,1092,"Official TV Timeout",66,28,38,0.999775561780993,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+197,2,"17:50",1070,1070,"Jelani Pruitt missed Jumper.",66,28,38,0.999710489541133,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+198,2,"17:49",1069,1069,"Carsen Edwards Defensive Rebound.",66,28,38,0.999751521920269,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+199,2,"17:48",1068,1068,"Vince Edwards missed Jumper.",66,28,38,0.999751521920269,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+200,2,"17:47",1067,1067,"Patrick Szpir Block.",66,28,38,0.999751521920269,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+201,2,"17:46",1066,1066,"Vince Edwards Offensive Rebound.",66,28,38,0.999751521920269,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+202,2,"17:44",1064,1064,"Vince Edwards Turnover.",66,28,38,0.999751521920269,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+203,2,"17:44",1064,1064,"Patrick Szpir Steal.",66,28,38,0.999751521920269,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+204,2,"17:34",1054,1054,"Rob Shaw missed Jumper.",66,28,38,0.999824754892947,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+205,2,"17:34",1054,1054,"Carsen Edwards Defensive Rebound.",66,28,38,0.999824754892947,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+206,2,"17:24",1044,1044,"Vince Edwards missed Jumper.",66,28,38,0.999798935237372,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+207,2,"17:24",1044,1044,"P.J. Thompson Offensive Rebound.",66,28,38,0.999798935237372,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+208,2,"17:17",1037,1037,"Carsen Edwards made Jumper. Assisted by Dakota Mathias.",68,28,40,0.999824630110816,"Purdue","Chicago State",4,3,0,1,45.4,400986340,2017-11-12
+209,2,"17:11",1031,1031,"Patrick Szpir Turnover.",68,28,40,0.999824630110816,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+210,2,"17:10",1030,1030,"Dakota Mathias Steal.",68,28,40,0.999824630110816,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+211,2,"17:07",1027,1027,"Carsen Edwards made Three Point Jumper. Assisted by Dakota Mathias.",71,28,43,0.999924811839379,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+212,2,"16:50",1010,1010,"Glen Burns missed Jumper.",71,28,43,0.999922862055787,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+213,2,"16:50",1010,1010,"Isaac Haas Block.",71,28,43,0.999922862055787,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+214,2,"16:48",1008,1008,"P.J. Thompson Defensive Rebound.",71,28,43,0.999935731758869,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+215,2,"16:46",1006,1006,"Vince Edwards made Dunk. Assisted by Dakota Mathias.",73,28,45,0.999955712889698,"Purdue","Chicago State",4,3,0,0,45.4,400986340,2017-11-12
+216,2,"16:41",1001,1001,"Chicago State  Timeout",73,28,45,0.999955712889698,"Purdue","Chicago State",4,2,0,1,45.4,400986340,2017-11-12
+217,2,"16:27",987,987,"John Joyce missed Jumper.",73,28,45,0.999976247380164,"Purdue","Chicago State",4,2,0,1,45.4,400986340,2017-11-12
+218,2,"16:27",987,987,"Vince Edwards Block.",73,28,45,0.999976247380164,"Purdue","Chicago State",4,2,0,1,45.4,400986340,2017-11-12
+219,2,"16:26",986,986,"Isaac Haas Defensive Rebound.",73,28,45,0.999976247380164,"Purdue","Chicago State",4,2,0,1,45.4,400986340,2017-11-12
+220,2,"16:20",980,980,"P.J. Thompson missed Three Point Jumper.",73,28,45,0.999976247380164,"Purdue","Chicago State",4,2,0,1,45.4,400986340,2017-11-12
+221,2,"16:20",980,980,"Isaac Haas Offensive Rebound.",73,28,45,0.999976247380164,"Purdue","Chicago State",4,2,0,1,45.4,400986340,2017-11-12
+222,2,"16:08",968,968,"Dakota Mathias made Jumper. Assisted by P.J. Thompson.",75,28,47,0.999966938723769,"Purdue","Chicago State",4,2,0,1,45.4,400986340,2017-11-12
+223,2,"15:57",957,957,"Travon Bell made Three Point Jumper. Assisted by Cameron Bowles.",75,31,44,0.999963238764089,"Purdue","Chicago State",4,2,0,1,45.4,400986340,2017-11-12
+224,2,"15:48",948,948,"Foul on Deionte Simmons.",75,31,44,0.999964782865109,"Purdue","Chicago State",4,2,0,1,45.4,400986340,2017-11-12
+225,2,"15:48",948,948,"Official TV Timeout",75,31,44,0.999964782865109,"Purdue","Chicago State",4,2,0,1,45.4,400986340,2017-11-12
+226,2,"15:42",942,942,"Vince Edwards Turnover.",75,31,44,0.999964782865109,"Purdue","Chicago State",4,2,0,1,45.4,400986340,2017-11-12
+227,2,"15:42",942,942,"Simeon Henton Steal.",75,31,44,0.999964782865109,"Purdue","Chicago State",4,2,0,1,45.4,400986340,2017-11-12
+228,2,"15:35",935,935,"Foul on Simeon Henton.",75,31,44,0.999958332288363,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+229,2,"15:35",935,935,"Simeon Henton Turnover.",75,31,44,0.999958332288363,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+230,2,"15:20",920,920,"Isaac Haas made Jumper. Assisted by Carsen Edwards.",77,31,46,0.999971327891032,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+231,2,"15:09",909,909,"John Joyce missed Three Point Jumper.",77,31,46,0.999970369808408,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+232,2,"15:09",909,909,"Dakota Mathias Defensive Rebound.",77,31,46,0.999970369808408,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+233,2,"14:59",899,899,"Carsen Edwards made Three Point Jumper. Assisted by Dakota Mathias.",80,31,49,0.999986236971357,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+234,2,"14:41",881,881,"Travon Bell missed Three Point Jumper.",80,31,49,0.999959934892176,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+235,2,"14:41",881,881,"Vince Edwards Defensive Rebound.",80,31,49,0.999959934892176,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+236,2,"14:28",868,868,"Vince Edwards missed Three Point Jumper.",80,31,49,0.999983842688061,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+237,2,"14:28",868,868,"Nojel Eastern Offensive Rebound.",80,31,49,0.999983842688061,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+238,2,"14:20",860,860,"P.J. Thompson made Three Point Jumper. Assisted by Vince Edwards.",83,31,52,0.999990906071614,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+239,2,"13:57",837,837,"Deionte Simmons Turnover.",83,31,52,0.999996365093361,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+240,2,"13:44",824,824,"Isaac Haas missed Jumper.",83,31,52,0.999989693616638,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+241,2,"13:44",824,824,"Vince Edwards Offensive Rebound.",83,31,52,0.999989693616638,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+242,2,"13:42",822,822,"Vince Edwards made Layup.",85,31,54,0.999992927494377,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+243,2,"13:31",811,811,"Travon Bell missed Three Point Jumper.",85,31,54,0.99999537641336,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+244,2,"13:31",811,811,"Chicago State Offensive Rebound.",85,31,54,0.99999537641336,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+245,2,"13:11",791,791,"Fred Sims Jr. missed Three Point Jumper.",85,31,54,0.99999857936724,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+246,2,"13:11",791,791,"Ryan Cline Defensive Rebound.",85,31,54,0.99999857936724,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+247,2,"12:57",777,777,"Foul on Simeon Henton.",85,31,54,0.999997649775109,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+248,2,"12:57",777,777,"Isaac Haas made Free Throw.",86,31,55,0.999998095225112,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+249,2,"12:57",777,777,"Isaac Haas made Free Throw.",87,31,56,0.999998456246855,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+250,2,"12:38",758,758,"Cameron Bowles missed Jumper.",87,31,56,0.999998992218127,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+251,2,"12:38",758,758,"Nojel Eastern Defensive Rebound.",87,31,56,0.999998992218127,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+252,2,"12:27",747,747,"Grady Eifert made Layup. Assisted by Nojel Eastern.",89,31,58,0.999999495526496,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+253,2,"12:16",736,736,"Jalen Stephens-Holmes missed Jumper.",89,31,58,0.999998975648587,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+254,2,"12:16",736,736,"Grady Eifert Defensive Rebound.",89,31,58,0.999998975648587,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+255,2,"12:08",728,728,"Nojel Eastern missed Three Point Jumper.",89,31,58,0.999999408913021,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+256,2,"12:08",728,728,"John Joyce Defensive Rebound.",89,31,58,0.999999408913021,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+257,2,"11:50",710,710,"Fred Sims Jr. missed Jumper.",89,31,58,0.999999361736565,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+258,2,"11:50",710,710,"Grady Eifert Defensive Rebound.",89,31,58,0.999999361736565,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+259,2,"11:40",700,700,"P.J. Thompson made Three Point Jumper. Assisted by Ryan Cline.",92,31,61,0.999999464327072,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+260,2,"11:02",662,662,"Official TV Timeout",92,31,61,0.99999977044015,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+261,2,"11:02",662,662,"Foul on Cameron Bowles.",92,31,61,0.99999977044015,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+262,2,"11:02",662,662,"Cameron Bowles Turnover.",92,31,61,0.99999977044015,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+263,2,"10:59",659,659,"Jacquil Taylor missed Jumper.",92,31,61,0.999999888629978,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+264,2,"10:59",659,659,"Fred Sims Jr. Defensive Rebound.",92,31,61,0.999999888629978,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+265,2,"10:41",641,641,"Jelani Pruitt missed Three Point Jumper.",92,31,61,0.999999897717318,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+266,2,"10:41",641,641,"Grady Eifert Defensive Rebound.",92,31,61,0.999999897717318,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+267,2,"10:25",625,625,"Ryan Cline missed Three Point Jumper.",92,31,61,0.999999956691526,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+268,2,"10:25",625,625,"Chicago State Defensive Rebound.",92,31,61,0.999999956691526,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+269,2,"9:50",590,590,"Fred Sims Jr. missed Three Point Jumper.",92,31,61,0.999999892478549,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+270,2,"9:50",590,590,"Cameron Bowles Offensive Rebound.",92,31,61,0.999999892478549,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+271,2,"9:42",582,582,"Glen Burns made Layup.",92,33,59,0.999999835986704,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+272,2,"9:42",582,582,"Foul on Matt Haarms.",92,33,59,0.999999835986704,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+273,2,"9:42",582,582,"Glen Burns made Free Throw.",92,34,58,0.999999791074345,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+274,2,"9:40",580,580,"Foul on Glen Burns.",92,34,58,0.999999791074345,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+275,2,"9:35",575,575,"Nojel Eastern Turnover.",92,34,58,0.999999908223291,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+276,2,"9:12",552,552,"Foul on Montana Byrd.",92,34,58,0.999999931476222,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+277,2,"9:12",552,552,"Montana Byrd Turnover.",92,34,58,0.999999931476222,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+278,2,"9:02",542,542,"Foul on Jalen Stephens-Holmes.",92,34,58,0.999999951859037,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+279,2,"9:02",542,542,"Matt Haarms missed Free Throw.",92,34,58,0.999999951859037,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+280,2,"9:02",542,542,"Grady Eifert Offensive Rebound.",92,34,58,0.999999951859037,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+281,2,"8:51",531,531,"Foul on Matt Haarms.",92,34,58,0.999999981866507,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+282,2,"8:51",531,531,"Matt Haarms Turnover.",92,34,58,0.999999981866507,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+283,2,"8:25",505,505,"Alex Dubovitskiy missed Three Point Jumper.",92,34,58,0.999999962574192,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+284,2,"8:25",505,505,"Jacquil Taylor Defensive Rebound.",92,34,58,0.999999962574192,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+285,2,"8:19",499,499,"Nojel Eastern Turnover.",92,34,58,0.999999963338772,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+286,2,"7:57",477,477,"Foul on Matt Haarms.",92,34,58,0.999999988266482,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+287,2,"7:57",477,477,"Official TV Timeout",92,34,58,0.999999988266482,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+288,2,"7:56",476,476,"Patrick Szpir missed Jumper.",92,34,58,0.999999988266482,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+289,2,"7:56",476,476,"Matt Haarms Block.",92,34,58,0.999999988266482,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+290,2,"7:54",474,474,"Glen Burns Offensive Rebound.",92,34,58,0.999999988266482,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+291,2,"7:39",459,459,"Montana Byrd missed Three Point Jumper.",92,34,58,0.999999996853897,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+292,2,"7:39",459,459,"Chicago State Offensive Rebound.",92,34,58,0.999999996853897,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+293,2,"7:38",458,458,"Montana Byrd missed Jumper.",92,34,58,0.999999996853897,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+294,2,"7:38",458,458,"Matt Haarms Defensive Rebound.",92,34,58,0.999999996853897,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+295,2,"7:23",443,443,"Foul on Glen Burns.",92,34,58,0.999999964158979,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+296,2,"7:23",443,443,"Matt Haarms made Free Throw.",93,34,59,0.999999972801109,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+297,2,"7:23",443,443,"Matt Haarms made Free Throw.",94,34,60,0.999999979359414,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+298,2,"7:18",438,438,"Foul on Eden Ewing.",94,34,60,0.999999997594095,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+299,2,"7:16",436,436,"Deionte Simmons Turnover.",94,34,60,0.999999997594095,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+300,2,"7:14",434,434,"Grady Eifert Steal.",94,34,60,0.999999997594095,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+301,2,"7:08",428,428,"Foul on Travon Bell.",94,34,60,0.999999994526172,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+302,2,"7:06",426,426,"Jacquil Taylor missed Free Throw.",94,34,60,0.999999994526172,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+303,2,"7:06",426,426,"Purdue Deadball Team Rebound.",94,34,60,0.999999994526172,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+304,2,"7:06",426,426,"Jacquil Taylor missed Free Throw.",94,34,60,0.999999994526172,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+305,2,"7:06",426,426,"Alex Dubovitskiy Defensive Rebound.",94,34,60,0.999999994526172,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+306,2,"6:47",407,407,"Montana Byrd missed Jumper.",94,34,60,0.999999999239107,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+307,2,"6:47",407,407,"Matt Haarms Block.",94,34,60,0.999999999239107,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+308,2,"6:47",407,407,"Glen Burns Offensive Rebound.",94,34,60,0.999999999239107,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+309,2,"6:43",403,403,"Glen Burns missed Jumper.",94,34,60,0.999999999239107,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+310,2,"6:43",403,403,"Jacquil Taylor Defensive Rebound.",94,34,60,0.999999999239107,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+311,2,"6:26",386,386,"Foul on Alex Dubovitskiy.",94,34,60,0.999999995481965,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+312,2,"6:26",386,386,"Grady Eifert missed Free Throw.",94,34,60,0.999999995481965,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+313,2,"6:26",386,386,"Purdue Deadball Team Rebound.",94,34,60,0.999999995481965,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+314,2,"6:26",386,386,"Grady Eifert made Free Throw.",95,34,61,0.999999996644393,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+315,2,"6:14",374,374,"Montana Byrd missed Jumper.",95,34,61,0.999999998174185,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+316,2,"6:14",374,374,"Deionte Simmons Offensive Rebound.",95,34,61,0.999999998174185,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+317,2,"6:11",371,371,"Foul on Jacquil Taylor.",95,34,61,0.999999998174185,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+318,2,"6:11",371,371,"Deionte Simmons made Free Throw.",95,35,60,0.999999997511472,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+319,2,"6:11",371,371,"Deionte Simmons made Free Throw.",95,36,59,0.999999996608215,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+320,2,"5:51",351,351,"Nojel Eastern Turnover.",95,36,59,0.999999999403388,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+321,2,"5:44",344,344,"Foul on Eden Ewing.",95,36,59,0.999999999105704,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+322,2,"5:42",342,342,"Travon Bell missed Three Point Jumper.",95,36,59,0.999999999105704,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+323,2,"5:42",342,342,"Eden Ewing Defensive Rebound.",95,36,59,0.999999999105704,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+324,2,"5:33",333,333,"Foul on Nojel Eastern.",95,36,59,0.999999999753071,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+325,2,"5:33",333,333,"Nojel Eastern Turnover.",95,36,59,0.999999999753071,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+326,2,"5:20",320,320,"Cameron Bowles missed Jumper.",95,36,59,0.999999997514804,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+327,2,"5:20",320,320,"Matt Haarms Block.",95,36,59,0.999999997514804,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+328,2,"5:19",319,319,"Matt Haarms Defensive Rebound.",95,36,59,0.999999999863236,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+329,2,"5:08",308,308,"Foul on Eden Ewing.",95,36,59,0.999999999267519,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+330,2,"5:08",308,308,"Eden Ewing Turnover.",95,36,59,0.999999999267519,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+331,2,"5:08",308,308,"Alex Dubovitskiy missed Free Throw.",95,36,59,0.999999999267519,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+332,2,"5:08",308,308,"Jacquil Taylor Defensive Rebound.",95,36,59,0.999999999267519,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+333,2,"4:51",291,291,"Matt Haarms made Jumper. Assisted by Jacquil Taylor.",97,36,61,0.999999999774332,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+334,2,"4:50",290,290,"Foul on Deionte Simmons.",97,36,61,0.999999999774332,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+335,2,"4:50",290,290,"Matt Haarms made Free Throw.",98,36,62,0.999999999839849,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+336,2,"4:39",279,279,"Foul on Tommy Luce.",98,36,62,0.999999999988548,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+337,2,"4:39",279,279,"Nathan Townsen Jr. made Free Throw.",98,37,61,0.999999999983112,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+338,2,"4:39",279,279,"Nathan Townsen Jr. made Free Throw.",98,38,60,0.999999999975096,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+339,2,"4:26",266,266,"Matt Haarms made Jumper.",100,38,62,0.999999999970935,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+340,2,"4:11",251,251,"Foul on Eden Ewing.",100,38,62,0.999999999998366,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+341,2,"4:11",251,251,"Nathan Townsen Jr. made Free Throw.",100,39,61,0.99999999999751,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+342,2,"4:11",251,251,"Nathan Townsen Jr. made Free Throw.",100,40,60,0.999999999996206,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+343,2,"3:59",239,239,"Grady Eifert made Layup. Assisted by Tommy Luce.",102,40,62,0.999999999995584,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+344,2,"3:49",229,229,"Glen Burns missed Jumper.",102,40,62,0.999999999998888,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+345,2,"3:48",228,228,"Jacquil Taylor Block.",102,40,62,0.999999999998888,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+346,2,"3:47",227,227,"Matt Haarms Defensive Rebound.",102,40,62,0.999999999998888,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+347,2,"3:42",222,222,"Foul on Alex Dubovitskiy.",102,40,62,0.999999999998888,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+348,2,"3:42",222,222,"Official TV Timeout",102,40,62,0.999999999998888,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+349,2,"3:42",222,222,"Eden Ewing missed Free Throw.",102,40,62,0.999999999998888,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+350,2,"3:42",222,222,"Purdue Deadball Team Rebound.",102,40,62,0.999999999998888,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+351,2,"3:42",222,222,"Eden Ewing made Free Throw.",103,40,63,0.999999999999272,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+352,2,"3:32",212,212,"John Joyce made Layup. Assisted by Glen Burns.",103,42,61,0.999999999999176,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+353,2,"3:18",198,198,"Grady Eifert made Layup. Assisted by Tommy Luce.",105,42,63,0.999999999999927,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+354,2,"2:53",173,173,"John Joyce missed Three Point Jumper.",105,42,63,0.999999999999987,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+355,2,"2:53",173,173,"Matt Haarms Defensive Rebound.",105,42,63,0.999999999999987,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+356,2,"2:34",154,154,"Jacquil Taylor made Jumper. Assisted by Tommy Luce.",107,42,65,1,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+357,2,"2:13",133,133,"John Joyce missed Three Point Jumper.",107,42,65,1,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+358,2,"2:13",133,133,"Matt Haarms Defensive Rebound.",107,42,65,1,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+359,2,"2:04",124,124,"Foul on Nathan Townsen Jr..",107,42,65,1,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+360,2,"2:04",124,124,"Tommy Luce missed Free Throw.",107,42,65,1,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+361,2,"2:04",124,124,"Purdue Deadball Team Rebound.",107,42,65,1,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+362,2,"2:04",124,124,"Tommy Luce missed Free Throw.",107,42,65,1,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+363,2,"2:04",124,124,"Deionte Simmons Defensive Rebound.",107,42,65,1,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+364,2,"1:59",119,119,"Glen Burns missed Layup.",107,42,65,1,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+365,2,"1:59",119,119,"Grady Eifert Defensive Rebound.",107,42,65,1,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+366,2,"1:43",103,103,"Grady Eifert made Layup. Assisted by Jacquil Taylor.",109,42,67,1,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+367,2,"1:28",88,88,"Foul on Jacquil Taylor.",109,42,67,1,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+368,2,"1:28",88,88,"Simeon Henton missed Free Throw.",109,42,67,1,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+369,2,"1:28",88,88,"Chicago State Deadball Team Rebound.",109,42,67,1,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+370,2,"1:28",88,88,"Simeon Henton missed Free Throw.",109,42,67,1,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+371,2,"1:28",88,88,"Tommy Luce Defensive Rebound.",109,42,67,1,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+372,2,"1:18",78,78,"Tommy Luce made Jumper.",111,42,69,1,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+373,2,"1:10",70,70,"Travon Bell missed Jumper.",111,42,69,1,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+374,2,"1:10",70,70,"Jacquil Taylor Defensive Rebound.",111,42,69,1,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+375,2,"0:53",53,53,"Grady Eifert missed Three Point Jumper.",111,42,69,1,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+376,2,"0:53",53,53,"Jalen Stephens-Holmes Defensive Rebound.",111,42,69,1,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+377,2,"0:35",35,35,"John Joyce missed Three Point Jumper.",111,42,69,1,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+378,2,"0:35",35,35,"Grady Eifert Defensive Rebound.",111,42,69,1,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12
+379,2,"0:00",0,0,"End of Game",111,42,69,NA,"Purdue","Chicago State",4,2,0,0,45.4,400986340,2017-11-12

@@ -1,0 +1,358 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.843741299182046,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+2,1,"19:36",2376,2376,"Angel Delgado missed Layup.",0,0,0,0.836697873473448,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+3,1,"19:36",2376,2376,"Angel Delgado Offensive Rebound.",0,0,0,0.836697873473448,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+4,1,"19:33",2373,2373,"Angel Delgado missed Layup.",0,0,0,0.836697873473448,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+5,1,"19:33",2373,2373,"Kassoum Yakwe Defensive Rebound.",0,0,0,0.836697873473448,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+6,1,"19:14",2354,2354,"Foul on Malik Ellison.",0,0,0,0.841463918664454,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+7,1,"19:14",2354,2354,"Malik Ellison Turnover.",0,0,0,0.841463918664454,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+8,1,"18:54",2334,2334,"Angel Delgado missed Layup.",0,0,0,0.832427235546537,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+9,1,"18:54",2334,2334,"Kassoum Yakwe Block.",0,0,0,0.832427235546537,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+10,1,"18:52",2332,2332,"Marcus LoVett Defensive Rebound.",0,0,0,0.832427235546537,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+11,1,"18:36",2316,2316,"Kassoum Yakwe Turnover.",0,0,0,0.818428005763805,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+12,1,"18:35",2315,2315,"Khadeen Carrington Steal.",0,0,0,0.818428005763805,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+13,1,"18:30",2310,2310,"Khadeen Carrington made Three Point Jumper. Assisted by Madison Jones.",3,0,3,0.858197130770163,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+14,1,"18:12",2292,2292,"Kassoum Yakwe missed Jumper.",3,0,3,0.869236112325308,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+15,1,"18:12",2292,2292,"Khadeen Carrington Defensive Rebound.",3,0,3,0.869236112325308,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+16,1,"17:57",2277,2277,"Angel Delgado Turnover.",3,0,3,0.869920406619483,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+17,1,"17:47",2267,2267,"Marcus LoVett made Jumper.",3,2,1,0.851809914299877,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+18,1,"17:35",2255,2255,"Ismael Sanogo made Jumper.",5,2,3,0.861615286005534,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+19,1,"17:18",2238,2238,"Shamorie Ponds missed Three Point Jumper.",5,2,3,0.870354847079302,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+20,1,"17:18",2238,2238,"Angel Delgado Defensive Rebound.",5,2,3,0.870354847079302,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+21,1,"17:09",2229,2229,"Khadeen Carrington missed Three Point Jumper.",5,2,3,0.868422720101643,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+22,1,"17:09",2229,2229,"Kassoum Yakwe Defensive Rebound.",5,2,3,0.868422720101643,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+23,1,"16:58",2218,2218,"Bashir Ahmed made Three Point Jumper. Assisted by Marcus LoVett.",5,5,0,0.823803956358062,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+24,1,"16:58",2218,2218,"Foul on Ismael Sanogo.",5,5,0,0.823803956358062,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+25,1,"16:58",2218,2218,"Bashir Ahmed made Free Throw.",5,6,-1,0.803996431958851,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+26,1,"16:44",2204,2204,"Angel Delgado made Layup.",7,6,1,0.840721274347299,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+27,1,"16:22",2182,2182,"Marcus LoVett made Jumper.",7,8,-1,0.80835251945475,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+28,1,"15:57",2157,2157,"Desi Rodriguez missed Jumper.",7,8,-1,0.80012632110537,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+29,1,"15:57",2157,2157,"Bashir Ahmed Defensive Rebound.",7,8,-1,0.80012632110537,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+30,1,"15:50",2150,2150,"Marcus LoVett missed Three Point Jumper.",7,8,-1,0.80012632110537,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+31,1,"15:50",2150,2150,"Angel Delgado Defensive Rebound.",7,8,-1,0.80012632110537,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+32,1,"15:42",2142,2142,"Khadeen Carrington missed Layup.",7,8,-1,0.813060158116838,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+33,1,"15:42",2142,2142,"Desi Rodriguez Offensive Rebound.",7,8,-1,0.813060158116838,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+34,1,"15:38",2138,2138,"Desi Rodriguez made Two Point Tip Shot.",9,8,1,0.839374345027472,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+35,1,"15:21",2121,2121,"Bashir Ahmed missed Jumper.",9,8,1,0.83498759255856,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+36,1,"15:21",2121,2121,"Khadeen Carrington Defensive Rebound.",9,8,1,0.83498759255856,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+37,1,"15:13",2113,2113,"Khadeen Carrington missed Layup.",9,8,1,0.84467737772975,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+38,1,"15:13",2113,2113,"Kassoum Yakwe Block.",9,8,1,0.84467737772975,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+39,1,"15:11",2111,2111,"Bashir Ahmed Defensive Rebound.",9,8,1,0.84467737772975,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+40,1,"14:59",2099,2099,"Marcus LoVett made Layup.",9,10,-1,0.793021130634137,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+41,1,"14:35",2075,2075,"Angel Delgado made Layup. Assisted by Khadeen Carrington.",11,10,1,0.836737588045662,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+42,1,"14:26",2066,2066,"Kassoum Yakwe Turnover.",11,10,1,0.830755236062697,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+43,1,"14:26",2066,2066,"Foul on Kassoum Yakwe.",11,10,1,0.830755236062697,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+44,1,"14:26",2066,2066,"Official TV Timeout",11,10,1,0.830755236062697,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+45,1,"14:17",2057,2057,"Angel Delgado made Jumper. Assisted by Madison Jones.",13,10,3,0.870804341320873,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+46,1,"13:53",2033,2033,"Bashir Ahmed missed Three Point Jumper.",13,10,3,0.873554622280584,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+47,1,"13:53",2033,2033,"Angel Delgado Defensive Rebound.",13,10,3,0.873554622280584,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+48,1,"13:42",2022,2022,"Angel Delgado missed Jumper.",13,10,3,0.868416511179162,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+49,1,"13:42",2022,2022,"Marcus LoVett Defensive Rebound.",13,10,3,0.868416511179162,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+50,1,"13:28",2008,2008,"Malik Ellison missed Jumper.",13,10,3,0.857816870689772,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+51,1,"13:28",2008,2008,"Angel Delgado Defensive Rebound.",13,10,3,0.857816870689772,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+52,1,"13:19",1999,1999,"Michael Nzei made Layup. Assisted by Madison Jones.",15,10,5,0.895819755405404,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+53,1,"13:00",1980,1980,"Marcus LoVett missed Jumper.",15,10,5,0.882603600258449,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+54,1,"13:00",1980,1980,"Shamorie Ponds Offensive Rebound.",15,10,5,0.882603600258449,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+55,1,"12:53",1973,1973,"Darien Williams missed Jumper.",15,10,5,0.897980722957225,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+56,1,"12:53",1973,1973,"Angel Delgado Defensive Rebound.",15,10,5,0.897980722957225,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+57,1,"12:48",1968,1968,"Angel Delgado Turnover.",15,10,5,0.882782990773815,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+58,1,"12:47",1967,1967,"Malik Ellison Steal.",15,10,5,0.882782990773815,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+59,1,"12:44",1964,1964,"Malik Ellison missed Layup.",15,10,5,0.882782990773815,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+60,1,"12:44",1964,1964,"Desi Rodriguez Defensive Rebound.",15,10,5,0.882782990773815,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+61,1,"12:40",1960,1960,"Foul on Darien Williams.",15,10,5,0.882782990773815,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+62,1,"12:40",1960,1960,"Michael Nzei made Free Throw.",16,10,6,0.893312502329332,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+63,1,"12:40",1960,1960,"Michael Nzei made Free Throw.",17,10,7,0.90300008670542,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+64,1,"12:27",1947,1947,"Foul on Jevon Thomas.",17,10,7,0.912589933618104,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+65,1,"12:27",1947,1947,"Marcus LoVett missed Three Point Jumper.",17,10,7,0.912589933618104,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+66,1,"12:27",1947,1947,"Rashed Anthony Defensive Rebound.",17,10,7,0.912589933618104,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+67,1,"12:24",1944,1944,"Foul on Tariq Owens.",17,10,7,0.912589933618104,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+68,1,"11:51",1911,1911,"Khadeen Carrington missed Jumper.",17,10,7,0.919165466357454,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+69,1,"11:51",1911,1911,"Seton Hall Offensive Rebound.",17,10,7,0.919165466357454,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+70,1,"11:49",1909,1909,"Foul on Tariq Owens.",17,10,7,0.908666170137697,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+71,1,"11:43",1903,1903,"Myles Powell missed Three Point Jumper.",17,10,7,0.908666170137697,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+72,1,"11:43",1903,1903,"Federico Mussini Defensive Rebound.",17,10,7,0.908666170137697,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+73,1,"11:30",1890,1890,"Foul on Michael Nzei.",17,10,7,0.915828199759089,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+74,1,"11:30",1890,1890,"Darien Williams made Free Throw.",17,11,6,0.904872995029093,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+75,1,"11:30",1890,1890,"Darien Williams made Free Throw.",17,12,5,0.892659057503849,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+76,1,"11:06",1866,1866,"Angel Delgado made Layup. Assisted by Jevon Thomas.",19,12,7,0.915708815201299,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+77,1,"10:52",1852,1852,"Foul on Michael Nzei.",19,12,7,0.912430970345264,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+78,1,"10:52",1852,1852,"Bashir Ahmed missed Free Throw.",19,12,7,0.912430970345264,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+79,1,"10:52",1852,1852,"St. John's Deadball Team Rebound.",19,12,7,0.912430970345264,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+80,1,"10:52",1852,1852,"Bashir Ahmed made Free Throw.",19,13,6,0.901650242714123,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+81,1,"10:33",1833,1833,"Desi Rodriguez made Layup. Assisted by Angel Delgado.",21,13,8,0.919344040175087,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+82,1,"10:18",1818,1818,"Darien Williams missed Layup.",21,13,8,0.927946898491929,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+83,1,"10:18",1818,1818,"Angel Delgado Defensive Rebound.",21,13,8,0.927946898491929,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+84,1,"10:06",1806,1806,"Desi Rodriguez missed Jumper.",21,13,8,0.920935698459269,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+85,1,"10:06",1806,1806,"Angel Delgado Offensive Rebound.",21,13,8,0.920935698459269,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+86,1,"10:04",1804,1804,"Angel Delgado missed Layup.",21,13,8,0.920935698459269,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+87,1,"10:04",1804,1804,"Angel Delgado Offensive Rebound.",21,13,8,0.920935698459269,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+88,1,"10:03",1803,1803,"Foul on Darien Williams.",21,13,8,0.920935698459269,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+89,1,"10:03",1803,1803,"Angel Delgado missed Free Throw.",21,13,8,0.920935698459269,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+90,1,"10:03",1803,1803,"Seton Hall Deadball Team Rebound.",21,13,8,0.920935698459269,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+91,1,"10:03",1803,1803,"Angel Delgado missed Free Throw.",21,13,8,0.920935698459269,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+92,1,"10:03",1803,1803,"Desi Rodriguez Offensive Rebound.",21,13,8,0.920935698459269,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+93,1,"9:49",1789,1789,"Angel Delgado missed Jumper.",21,13,8,0.917116589670684,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+94,1,"9:49",1789,1789,"Bashir Ahmed Defensive Rebound.",21,13,8,0.917116589670684,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+95,1,"9:24",1764,1764,"Shamorie Ponds missed Jumper.",21,13,8,0.925866583207474,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+96,1,"9:24",1764,1764,"Desi Rodriguez Defensive Rebound.",21,13,8,0.925866583207474,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+97,1,"9:01",1741,1741,"Desi Rodriguez missed Three Point Jumper.",21,13,8,0.917087475591457,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+98,1,"9:01",1741,1741,"Bashir Ahmed Defensive Rebound.",21,13,8,0.917087475591457,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+99,1,"8:46",1726,1726,"Marcus LoVett missed Jumper.",21,13,8,0.918342156640237,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+100,1,"8:46",1726,1726,"Angel Delgado Defensive Rebound.",21,13,8,0.918342156640237,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+101,1,"8:40",1720,1720,"Madison Jones Turnover.",21,13,8,0.918342156640237,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+102,1,"8:38",1718,1718,"Marcus LoVett Steal.",21,13,8,0.926390164417734,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+103,1,"8:35",1715,1715,"Marcus LoVett made Layup.",21,15,6,0.90598405692438,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+104,1,"8:08",1688,1688,"Khadeen Carrington missed Three Point Jumper.",21,15,6,0.910771914635096,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+105,1,"8:08",1688,1688,"Ismael Sanogo Offensive Rebound.",21,15,6,0.910771914635096,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+106,1,"8:01",1681,1681,"Madison Jones made Three Point Jumper. Assisted by Desi Rodriguez.",24,15,9,0.940428937553657,"Seton Hall","St. John's",4,4,0,0,8.5,400919692,2017-01-22
+107,1,"7:55",1675,1675,"St. John's  Timeout",24,15,9,0.934426717652137,"Seton Hall","St. John's",3,4,1,0,8.5,400919692,2017-01-22
+108,1,"7:55",1675,1675,"Official TV Timeout",24,15,9,0.934426717652137,"Seton Hall","St. John's",3,4,1,0,8.5,400919692,2017-01-22
+109,1,"7:44",1664,1664,"Malik Ellison missed Jumper.",24,15,9,0.927758492441618,"Seton Hall","St. John's",3,4,1,0,8.5,400919692,2017-01-22
+110,1,"7:44",1664,1664,"Ismael Sanogo Defensive Rebound.",24,15,9,0.927758492441618,"Seton Hall","St. John's",3,4,1,0,8.5,400919692,2017-01-22
+111,1,"7:27",1647,1647,"Khadeen Carrington missed Layup.",24,15,9,0.934656336430587,"Seton Hall","St. John's",3,4,1,0,8.5,400919692,2017-01-22
+112,1,"7:27",1647,1647,"St. John's Defensive Rebound.",24,15,9,0.934656336430587,"Seton Hall","St. John's",3,4,1,0,8.5,400919692,2017-01-22
+113,1,"7:27",1647,1647,"Foul on Ismael Sanogo.",24,15,9,0.934656336430587,"Seton Hall","St. John's",3,4,1,0,8.5,400919692,2017-01-22
+114,1,"7:08",1628,1628,"Federico Mussini missed Three Point Jumper.",24,15,9,0.933013044384544,"Seton Hall","St. John's",3,4,1,0,8.5,400919692,2017-01-22
+115,1,"7:08",1628,1628,"Ismael Sanogo Defensive Rebound.",24,15,9,0.933013044384544,"Seton Hall","St. John's",3,4,1,0,8.5,400919692,2017-01-22
+116,1,"6:56",1616,1616,"Myles Powell missed Three Point Jumper.",24,15,9,0.926696717644419,"Seton Hall","St. John's",3,4,1,0,8.5,400919692,2017-01-22
+117,1,"6:56",1616,1616,"St. John's Deadball Team Rebound.",24,15,9,0.926696717644419,"Seton Hall","St. John's",3,4,1,0,8.5,400919692,2017-01-22
+118,1,"6:38",1598,1598,"Foul on Madison Jones.",24,15,9,0.929251230862197,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+119,1,"6:36",1596,1596,"Amar Alibegovic made Layup. Assisted by Marcus LoVett.",24,17,7,0.909302917522091,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+120,1,"6:17",1577,1577,"Myles Powell made Layup.",26,17,9,0.941218409072609,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+121,1,"6:08",1568,1568,"Foul on Desi Rodriguez.",26,17,9,0.92968208492274,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+122,1,"6:08",1568,1568,"Bashir Ahmed made Free Throw.",26,18,8,0.919787247136072,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+123,1,"6:08",1568,1568,"Bashir Ahmed missed Free Throw.",26,18,8,0.919787247136072,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+124,1,"6:08",1568,1568,"Khadeen Carrington Defensive Rebound.",26,18,8,0.919787247136072,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+125,1,"5:53",1553,1553,"Myles Powell made Three Point Jumper. Assisted by Khadeen Carrington.",29,18,11,0.945957842251786,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+126,1,"5:36",1536,1536,"Malik Ellison missed Three Point Jumper.",29,18,11,0.948397364499494,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+127,1,"5:36",1536,1536,"Angel Delgado Defensive Rebound.",29,18,11,0.948397364499494,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+128,1,"5:28",1528,1528,"Khadeen Carrington Turnover.",29,18,11,0.947049583307385,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+129,1,"5:13",1513,1513,"Bashir Ahmed missed Three Point Jumper.",29,18,11,0.95460075023217,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+130,1,"5:13",1513,1513,"Angel Delgado Defensive Rebound.",29,18,11,0.95460075023217,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+131,1,"4:46",1486,1486,"Khadeen Carrington made Three Point Jumper.",32,18,14,0.967667899296677,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+132,1,"4:22",1462,1462,"Foul on Madison Jones.",32,18,14,0.960803641053948,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+133,1,"4:22",1462,1462,"Malik Ellison missed Free Throw.",32,18,14,0.960803641053948,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+134,1,"4:22",1462,1462,"Desi Rodriguez Defensive Rebound.",32,18,14,0.960803641053948,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+135,1,"4:05",1445,1445,"Myles Powell made Layup.",34,18,16,0.978624051980447,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+136,1,"3:49",1429,1429,"Shamorie Ponds made Jumper.",34,20,14,0.96274191856938,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+137,1,"3:30",1410,1410,"Myles Powell missed Three Point Jumper.",34,20,14,0.967458643936519,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+138,1,"3:30",1410,1410,"Shamorie Ponds Defensive Rebound.",34,20,14,0.967458643936519,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+139,1,"3:22",1402,1402,"Shamorie Ponds missed Layup.",34,20,14,0.971918411484143,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+140,1,"3:22",1402,1402,"Khadeen Carrington Block.",34,20,14,0.971918411484143,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+141,1,"3:20",1400,1400,"Angel Delgado Defensive Rebound.",34,20,14,0.971918411484143,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+142,1,"3:11",1391,1391,"Myles Powell made Layup.",36,20,16,0.978444994004425,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+143,1,"3:10",1390,1390,"St. John's  Timeout",36,20,16,0.978444994004425,"Seton Hall","St. John's",2,4,1,0,8.5,400919692,2017-01-22
+144,1,"3:10",1390,1390,"Official TV Timeout",36,20,16,0.978444994004425,"Seton Hall","St. John's",2,4,1,0,8.5,400919692,2017-01-22
+145,1,"3:00",1380,1380,"Foul on Jevon Thomas.",36,20,16,0.976430043861879,"Seton Hall","St. John's",2,4,1,0,8.5,400919692,2017-01-22
+146,1,"3:00",1380,1380,"Marcus LoVett missed Free Throw.",36,20,16,0.976430043861879,"Seton Hall","St. John's",2,4,1,0,8.5,400919692,2017-01-22
+147,1,"3:00",1380,1380,"Michael Nzei Defensive Rebound.",36,20,16,0.976430043861879,"Seton Hall","St. John's",2,4,1,0,8.5,400919692,2017-01-22
+148,1,"2:45",1365,1365,"Foul on Federico Mussini.",36,20,16,0.976676865127989,"Seton Hall","St. John's",2,4,1,0,8.5,400919692,2017-01-22
+149,1,"2:45",1365,1365,"Desi Rodriguez made Free Throw.",37,20,17,0.979930491472802,"Seton Hall","St. John's",2,4,1,0,8.5,400919692,2017-01-22
+150,1,"2:45",1365,1365,"Desi Rodriguez made Free Throw.",38,20,18,0.982738252096046,"Seton Hall","St. John's",2,4,1,0,8.5,400919692,2017-01-22
+151,1,"2:32",1352,1352,"Tariq Owens made Jumper. Assisted by Federico Mussini.",38,22,16,0.978061739478387,"Seton Hall","St. John's",2,4,1,0,8.5,400919692,2017-01-22
+152,1,"2:04",1324,1324,"Foul on Marcus LoVett.",38,22,16,0.977796132909238,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+153,1,"2:04",1324,1324,"Khadeen Carrington made Free Throw.",39,22,17,0.980972142702975,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+154,1,"2:04",1324,1324,"Khadeen Carrington missed Free Throw.",39,22,17,0.980972142702975,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+155,1,"2:04",1324,1324,"Seton Hall Deadball Team Rebound.",39,22,17,0.980972142702975,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+156,1,"2:04",1324,1324,"Khadeen Carrington made Free Throw.",40,22,18,0.983701432986241,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+157,1,"1:47",1307,1307,"Bashir Ahmed missed Layup.",40,22,18,0.979196652312342,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+158,1,"1:47",1307,1307,"Angel Delgado Defensive Rebound.",40,22,18,0.979196652312342,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+159,1,"1:29",1289,1289,"Michael Nzei made Dunk. Assisted by Angel Delgado.",42,22,20,0.986576656530212,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+160,1,"1:13",1273,1273,"Bashir Ahmed missed Jumper.",42,22,20,0.985148017809038,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+161,1,"1:13",1273,1273,"Khadeen Carrington Defensive Rebound.",42,22,20,0.985148017809038,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+162,1,"1:07",1267,1267,"Jevon Thomas made Layup. Assisted by Khadeen Carrington.",44,22,22,0.99198185642631,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+163,1,"1:07",1267,1267,"Foul on Federico Mussini.",44,22,22,0.99198185642631,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+164,1,"1:07",1267,1267,"Jevon Thomas missed Free Throw.",44,22,22,0.99198185642631,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+165,1,"1:07",1267,1267,"Tariq Owens Defensive Rebound.",44,22,22,0.99198185642631,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+166,1,"0:57",1257,1257,"Marcus LoVett made Three Point Jumper.",44,25,19,0.982839878851999,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+167,1,"0:29",1229,1229,"Foul on Kassoum Yakwe.",44,25,19,0.988419419260427,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+168,1,"0:29",1229,1229,"Michael Nzei made Free Throw.",45,25,20,0.990200218924525,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+169,1,"0:29",1229,1229,"Michael Nzei made Free Throw.",46,25,21,0.991709473649039,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+170,1,"0:21",1221,1221,"Marcus LoVett Turnover.",46,25,21,0.991709473649039,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+171,1,"0:20",1220,1220,"Madison Jones Steal.",46,25,21,0.991709473649039,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+172,1,"0:16",1216,1216,"Madison Jones missed Layup.",46,25,21,0.990393252745794,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+173,1,"0:16",1216,1216,"Malik Ellison Defensive Rebound.",46,25,21,0.990393252745794,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+174,1,"0:15",1215,1215,"Foul on Michael Nzei.",46,25,21,0.990393252745794,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+175,1,"0:15",1215,1215,"Malik Ellison made Free Throw.",46,26,20,0.988690483636936,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+176,1,"0:15",1215,1215,"Malik Ellison missed Free Throw.",46,26,20,0.988690483636936,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+177,1,"0:15",1215,1215,"Desi Rodriguez Defensive Rebound.",46,26,20,0.988690483636936,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+178,1,"0:02",1202,1202,"Madison Jones missed Three Point Jumper.",46,26,20,0.988005950947061,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+179,1,"0:02",1202,1202,"Richard Freudenberg Defensive Rebound.",46,26,20,0.988005950947061,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+180,1,"0:00",1200,1200,"End of 1st half",46,26,20,0.988005950947061,"Seton Hall","St. John's",2,4,0,0,8.5,400919692,2017-01-22
+181,2,"20:00",1200,1200,"PLAY",46,26,20,0.988005950947061,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+182,2,"19:33",1173,1173,"Bashir Ahmed Turnover.",46,26,20,0.988521149404704,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+183,2,"19:32",1172,1172,"Madison Jones Steal.",46,26,20,0.988521149404704,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+184,2,"19:30",1170,1170,"Khadeen Carrington made Dunk. Assisted by Madison Jones.",48,26,22,0.99171363094942,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+185,2,"19:09",1149,1149,"Foul on Desi Rodriguez.",48,26,22,0.992794126660413,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+186,2,"19:05",1145,1145,"Shamorie Ponds missed Three Point Jumper.",48,26,22,0.992794126660413,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+187,2,"19:05",1145,1145,"Tariq Owens Offensive Rebound.",48,26,22,0.992794126660413,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+188,2,"19:00",1140,1140,"Tariq Owens missed Jumper.",48,26,22,0.992794126660413,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+189,2,"19:00",1140,1140,"Desi Rodriguez Defensive Rebound.",48,26,22,0.992794126660413,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+190,2,"18:51",1131,1131,"Angel Delgado made Layup.",50,26,24,0.994253747184008,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+191,2,"18:24",1104,1104,"Marcus LoVett missed Three Point Jumper.",50,26,24,0.994258761218132,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+192,2,"18:24",1104,1104,"Ismael Sanogo Defensive Rebound.",50,26,24,0.994258761218132,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+193,2,"18:08",1088,1088,"Desi Rodriguez Turnover.",50,26,24,0.995822230348353,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+194,2,"17:56",1076,1076,"Shamorie Ponds made Layup.",50,28,22,0.992335552989952,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+195,2,"17:35",1055,1055,"Foul on Bashir Ahmed.",50,28,22,0.994239417102988,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+196,2,"17:32",1052,1052,"Angel Delgado made Layup.",52,28,24,0.995974919330652,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+197,2,"17:32",1052,1052,"Foul on Tariq Owens.",52,28,24,0.995974919330652,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+198,2,"17:32",1052,1052,"Angel Delgado made Free Throw.",53,28,25,0.996636137900831,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+199,2,"17:19",1039,1039,"Tariq Owens missed Jumper.",53,28,25,0.995688697711199,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+200,2,"17:19",1039,1039,"Madison Jones Defensive Rebound.",53,28,25,0.995688697711199,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+201,2,"17:06",1026,1026,"Angel Delgado made Layup. Assisted by Khadeen Carrington.",55,28,27,0.997569625618526,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+202,2,"16:32",992,992,"Tariq Owens made Layup. Assisted by Marcus LoVett.",55,30,25,0.996125265456916,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+203,2,"16:25",985,985,"Khadeen Carrington Turnover.",55,30,25,0.997770043321789,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+204,2,"16:25",985,985,"Marcus LoVett Steal.",55,30,25,0.997770043321789,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+205,2,"16:20",980,980,"Marcus LoVett made Layup.",55,32,23,0.996678230887445,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+206,2,"15:55",955,955,"Khadeen Carrington missed Layup.",55,32,23,0.996112538666352,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+207,2,"15:55",955,955,"Tariq Owens Block.",55,32,23,0.996112538666352,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+208,2,"15:55",955,955,"St. John's Defensive Rebound.",55,32,23,0.996112538666352,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+209,2,"15:55",955,955,"Official TV Timeout",55,32,23,0.996112538666352,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+210,2,"15:45",945,945,"Marcus LoVett made Jumper.",55,34,21,0.994701112487394,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+211,2,"15:26",926,926,"Madison Jones missed Layup.",55,34,21,0.993619319649915,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+212,2,"15:26",926,926,"Angel Delgado Offensive Rebound.",55,34,21,0.993619319649915,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+213,2,"15:19",919,919,"Desi Rodriguez Turnover.",55,34,21,0.99493362301288,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+214,2,"15:18",918,918,"Marcus LoVett Steal.",55,34,21,0.99493362301288,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+215,2,"15:16",916,916,"Foul on Myles Powell.",55,34,21,0.99493362301288,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+216,2,"15:16",916,916,"Marcus LoVett made Free Throw.",55,35,20,0.993844098300142,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+217,2,"15:16",916,916,"Marcus LoVett made Free Throw.",55,36,19,0.992522032251999,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+218,2,"14:57",897,897,"Desi Rodriguez made Three Point Jumper. Assisted by Madison Jones.",58,36,22,0.99542257649813,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+219,2,"14:41",881,881,"Foul on Desi Rodriguez.",58,36,22,0.992336090229379,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+220,2,"14:38",878,878,"Malik Ellison Turnover.",58,36,22,0.99523242849663,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+221,2,"14:37",877,877,"Angel Delgado Steal.",58,36,22,0.99523242849663,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+222,2,"14:35",875,875,"Angel Delgado Turnover.",58,36,22,0.99523242849663,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+223,2,"14:34",874,874,"Malik Ellison Steal.",58,36,22,0.99523242849663,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+224,2,"14:31",871,871,"Malik Ellison made Layup.",58,38,20,0.993007456871609,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+225,2,"14:07",847,847,"Myles Powell made Three Point Jumper. Assisted by Angel Delgado.",61,38,23,0.997302015406267,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+226,2,"13:53",833,833,"Tariq Owens made Layup. Assisted by Marcus LoVett.",61,40,21,0.995921895809588,"Seton Hall","St. John's",3,4,0,0,8.5,400919692,2017-01-22
+227,2,"13:48",828,828,"Seton Hall  Timeout",61,40,21,0.993652880762439,"Seton Hall","St. John's",3,3,0,1,8.5,400919692,2017-01-22
+228,2,"13:48",828,828,"Official TV Timeout",61,40,21,0.993652880762439,"Seton Hall","St. John's",3,3,0,1,8.5,400919692,2017-01-22
+229,2,"13:30",810,810,"Ismael Sanogo made Three Point Jumper. Assisted by Khadeen Carrington.",64,40,24,0.996926258962938,"Seton Hall","St. John's",3,3,0,1,8.5,400919692,2017-01-22
+230,2,"13:11",791,791,"Tariq Owens missed Jumper.",64,40,24,0.998179324621472,"Seton Hall","St. John's",3,3,0,1,8.5,400919692,2017-01-22
+231,2,"13:11",791,791,"Angel Delgado Defensive Rebound.",64,40,24,0.998179324621472,"Seton Hall","St. John's",3,3,0,1,8.5,400919692,2017-01-22
+232,2,"12:48",768,768,"Madison Jones Turnover.",64,40,24,0.998254978923412,"Seton Hall","St. John's",3,3,0,1,8.5,400919692,2017-01-22
+233,2,"12:47",767,767,"Tariq Owens Steal.",64,40,24,0.998254978923412,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+234,2,"12:45",765,765,"Marcus LoVett made Jumper. Assisted by Tariq Owens.",64,42,22,0.997315118138471,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+235,2,"12:36",756,756,"Foul on Marcus LoVett.",64,42,22,0.997114805171423,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+236,2,"12:07",727,727,"Myles Powell missed Three Point Jumper.",64,42,22,0.997277847304375,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+237,2,"12:07",727,727,"Angel Delgado Offensive Rebound.",64,42,22,0.997277847304375,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+238,2,"11:49",709,709,"Madison Jones Turnover.",64,42,22,0.99653107953271,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+239,2,"11:49",709,709,"Foul on Madison Jones.",64,42,22,0.99653107953271,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+240,2,"11:49",709,709,"Official TV Timeout",64,42,22,0.99653107953271,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+241,2,"11:25",685,685,"Marcus LoVett missed Three Point Jumper.",64,42,22,0.997274938367555,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+242,2,"11:25",685,685,"Bashir Ahmed Offensive Rebound.",64,42,22,0.997274938367555,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+243,2,"11:20",680,680,"Bashir Ahmed made Layup.",64,44,20,0.995745148890958,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+244,2,"10:54",654,654,"Foul on Kassoum Yakwe.",64,44,20,0.996858134777611,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+245,2,"10:48",648,648,"Myles Powell Turnover.",64,44,20,0.996878568577594,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+246,2,"10:47",647,647,"Tariq Owens Steal.",64,44,20,0.996878568577594,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+247,2,"10:33",633,633,"Bashir Ahmed missed Layup.",64,44,20,0.996247197093912,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+248,2,"10:33",633,633,"Bashir Ahmed Offensive Rebound.",64,44,20,0.996247197093912,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+249,2,"10:30",630,630,"Bashir Ahmed missed Layup.",64,44,20,0.996247197093912,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+250,2,"10:30",630,630,"Kassoum Yakwe Offensive Rebound.",64,44,20,0.996247197093912,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+251,2,"10:21",621,621,"Federico Mussini made Three Point Jumper. Assisted by Shamorie Ponds.",64,47,17,0.995159085699478,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+252,2,"10:08",608,608,"Foul on Kassoum Yakwe.",64,47,17,0.994261958953079,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+253,2,"10:08",608,608,"Jevon Thomas made Free Throw.",65,47,18,0.995501456538407,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+254,2,"10:08",608,608,"Jevon Thomas missed Free Throw.",65,47,18,0.995501456538407,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+255,2,"10:08",608,608,"Kassoum Yakwe Defensive Rebound.",65,47,18,0.995501456538407,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+256,2,"9:56",596,596,"Foul on Myles Powell.",65,47,18,0.994779964088131,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+257,2,"9:47",587,587,"Tariq Owens missed Jumper.",65,47,18,0.994690738539885,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+258,2,"9:47",587,587,"Michael Nzei Defensive Rebound.",65,47,18,0.994690738539885,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+259,2,"9:37",577,577,"Jevon Thomas missed Three Point Jumper.",65,47,18,0.996280279634612,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+260,2,"9:37",577,577,"Seton Hall Offensive Rebound.",65,47,18,0.996280279634612,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+261,2,"9:37",577,577,"Foul on Tariq Owens.",65,47,18,0.996280279634612,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+262,2,"9:31",571,571,"Angel Delgado made Layup.",67,47,20,0.997755098816829,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+263,2,"9:15",555,555,"Bashir Ahmed made Three Point Jumper. Assisted by Federico Mussini.",67,50,17,0.99516423106461,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+264,2,"9:09",549,549,"Foul on Shamorie Ponds.",67,50,17,0.995452547120492,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+265,2,"9:09",549,549,"Jevon Thomas missed Free Throw.",67,50,17,0.995452547120492,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+266,2,"9:09",549,549,"Kassoum Yakwe Defensive Rebound.",67,50,17,0.995452547120492,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+267,2,"8:53",533,533,"Shamorie Ponds missed Jumper.",67,50,17,0.997003470136722,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+268,2,"8:53",533,533,"Bashir Ahmed Offensive Rebound.",67,50,17,0.997003470136722,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+269,2,"8:52",532,532,"Foul on Michael Nzei.",67,50,17,0.997003470136722,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+270,2,"8:52",532,532,"Bashir Ahmed made Free Throw.",67,51,16,0.9960336584772,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+271,2,"8:52",532,532,"Bashir Ahmed made Free Throw.",67,52,15,0.994751624486377,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+272,2,"8:47",527,527,"Myles Powell made Three Point Jumper. Assisted by Khadeen Carrington.",70,52,18,0.996808879965234,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+273,2,"8:26",506,506,"Foul on Madison Jones.",70,52,18,0.997045527345231,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+274,2,"8:26",506,506,"Shamorie Ponds made Free Throw.",70,53,17,0.996129910291009,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+275,2,"8:26",506,506,"Shamorie Ponds made Free Throw.",70,54,16,0.99493197781281,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+276,2,"8:18",498,498,"Angel Delgado made Layup. Assisted by Khadeen Carrington.",72,54,18,0.997039021569887,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+277,2,"7:58",478,478,"Bashir Ahmed made Layup.",72,56,16,0.996155354902347,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+278,2,"7:32",452,452,"Khadeen Carrington missed Three Point Jumper.",72,56,16,0.997120185844593,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+279,2,"7:32",452,452,"Malik Ellison Defensive Rebound.",72,56,16,0.997120185844593,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+280,2,"7:25",445,445,"Malik Ellison Turnover.",72,56,16,0.994397498755018,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+281,2,"7:24",444,444,"Jevon Thomas Steal.",72,56,16,0.994397498755018,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+282,2,"7:19",439,439,"Angel Delgado missed Dunk.",72,56,16,0.997123176825311,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+283,2,"7:19",439,439,"Myles Powell Offensive Rebound.",72,56,16,0.997123176825311,"Seton Hall","St. John's",3,3,0,0,8.5,400919692,2017-01-22
+284,2,"7:18",438,438,"Myles Powell made Two Point Tip Shot.",74,56,18,0.998442958417349,"Seton Hall","St. John's",3,3,0,1,8.5,400919692,2017-01-22
+285,2,"7:18",438,438,"Seton Hall  Timeout",74,56,18,0.998442958417349,"Seton Hall","St. John's",3,2,0,1,8.5,400919692,2017-01-22
+286,2,"7:18",438,438,"Official TV Timeout",74,56,18,0.998442958417349,"Seton Hall","St. John's",3,2,0,1,8.5,400919692,2017-01-22
+287,2,"7:05",425,425,"Darien Williams made Jumper.",74,58,16,0.996005765401871,"Seton Hall","St. John's",3,2,0,1,8.5,400919692,2017-01-22
+288,2,"6:43",403,403,"Michael Nzei made Layup. Assisted by Jevon Thomas.",76,58,18,0.998787680918417,"Seton Hall","St. John's",3,2,0,1,8.5,400919692,2017-01-22
+289,2,"6:18",378,378,"Darien Williams made Layup. Assisted by Malik Ellison.",76,60,16,0.996802729172987,"Seton Hall","St. John's",3,2,0,1,8.5,400919692,2017-01-22
+290,2,"6:09",369,369,"Foul on Darien Williams.",76,60,16,0.997333391433431,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+291,2,"6:09",369,369,"Myles Powell made Free Throw.",77,60,17,0.998067703229027,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+292,2,"6:09",369,369,"Myles Powell made Free Throw.",78,60,18,0.998600089271281,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+293,2,"5:57",357,357,"Marcus LoVett missed Layup.",78,60,18,0.99891964792918,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+294,2,"5:57",357,357,"Ismael Sanogo Block.",78,60,18,0.99891964792918,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+295,2,"5:57",357,357,"St. John's Offensive Rebound.",78,60,18,0.99891964792918,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+296,2,"5:54",354,354,"Marcus LoVett made Three Point Jumper. Assisted by Shamorie Ponds.",78,63,15,0.997007277449019,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+297,2,"5:41",341,341,"Jevon Thomas Turnover.",78,63,15,0.996630465699051,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+298,2,"5:28",328,328,"Marcus LoVett missed Layup.",78,63,15,0.996049166398732,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+299,2,"5:28",328,328,"Angel Delgado Defensive Rebound.",78,63,15,0.996049166398732,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+300,2,"5:09",309,309,"Myles Powell missed Three Point Jumper.",78,63,15,0.996931286509381,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+301,2,"5:09",309,309,"St. John's Defensive Rebound.",78,63,15,0.996931286509381,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+302,2,"4:54",294,294,"Shamorie Ponds missed Jumper.",78,63,15,0.997469802808459,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+303,2,"4:54",294,294,"Darien Williams Offensive Rebound.",78,63,15,0.997469802808459,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+304,2,"4:49",289,289,"Darien Williams missed Two Point Tip Shot.",78,63,15,0.997580554045541,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+305,2,"4:49",289,289,"Shamorie Ponds Offensive Rebound.",78,63,15,0.997580554045541,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+306,2,"4:47",287,287,"Foul on Ismael Sanogo.",78,63,15,0.997580554045541,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+307,2,"4:47",287,287,"Shamorie Ponds made Free Throw.",78,64,14,0.996560550378051,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+308,2,"4:47",287,287,"Shamorie Ponds missed Free Throw.",78,64,14,0.996560550378051,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+309,2,"4:47",287,287,"Amar Alibegovic Offensive Rebound.",78,64,14,0.996560550378051,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+310,2,"4:34",274,274,"Bashir Ahmed made Layup.",78,66,12,0.995317885540055,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+311,2,"4:03",243,243,"Desi Rodriguez made Layup.",80,66,14,0.99821865909327,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+312,2,"3:53",233,233,"Bashir Ahmed made Jumper.",80,68,12,0.996082703241621,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+313,2,"3:28",208,208,"Desi Rodriguez missed Three Point Jumper.",80,68,12,0.99806119666816,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+314,2,"3:28",208,208,"Angel Delgado Offensive Rebound.",80,68,12,0.99806119666816,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+315,2,"3:24",204,204,"Angel Delgado made Layup.",82,68,14,0.999214035623514,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+316,2,"3:24",204,204,"Foul on Darien Williams.",82,68,14,0.999214035623514,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+317,2,"3:24",204,204,"Official TV Timeout",82,68,14,0.999214035623514,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+318,2,"3:24",204,204,"Angel Delgado missed Free Throw.",82,68,14,0.999214035623514,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+319,2,"3:24",204,204,"Malik Ellison Defensive Rebound.",82,68,14,0.999214035623514,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+320,2,"3:12",192,192,"Shamorie Ponds missed Layup.",82,68,14,0.999135256057901,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+321,2,"3:12",192,192,"Ismael Sanogo Defensive Rebound.",82,68,14,0.999135256057901,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+322,2,"2:41",161,161,"Seton Hall  Turnover.",82,68,14,0.999687507531415,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+323,2,"2:31",151,151,"Shamorie Ponds made Layup.",82,70,12,0.999159520080295,"Seton Hall","St. John's",3,2,0,0,8.5,400919692,2017-01-22
+324,2,"2:26",146,146,"Ismael Sanogo Turnover.",82,70,12,0.99897009078206,"Seton Hall","St. John's",3,2,1,0,8.5,400919692,2017-01-22
+325,2,"2:26",146,146,"St. John's  Timeout",82,70,12,0.99897009078206,"Seton Hall","St. John's",2,2,1,0,8.5,400919692,2017-01-22
+326,2,"2:22",142,142,"Marcus LoVett Turnover.",82,70,12,0.99897009078206,"Seton Hall","St. John's",2,2,1,0,8.5,400919692,2017-01-22
+327,2,"2:22",142,142,"Foul on Marcus LoVett.",82,70,12,0.99897009078206,"Seton Hall","St. John's",2,2,1,0,8.5,400919692,2017-01-22
+328,2,"1:53",113,113,"Khadeen Carrington missed Jumper.",82,70,12,0.999604862293613,"Seton Hall","St. John's",2,2,1,0,8.5,400919692,2017-01-22
+329,2,"1:53",113,113,"Madison Jones Offensive Rebound.",82,70,12,0.999604862293613,"Seton Hall","St. John's",2,2,1,0,8.5,400919692,2017-01-22
+330,2,"1:26",86,86,"Ismael Sanogo made Layup. Assisted by Khadeen Carrington.",84,70,14,0.999977347344716,"Seton Hall","St. John's",2,2,1,0,8.5,400919692,2017-01-22
+331,2,"1:19",79,79,"Shamorie Ponds missed Three Point Jumper.",84,70,14,0.999977664776687,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22
+332,2,"1:19",79,79,"Desi Rodriguez Defensive Rebound.",84,70,14,0.999977664776687,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22
+333,2,"0:57",57,57,"Foul on Marcus LoVett.",84,70,14,0.999997442819482,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22
+334,2,"0:57",57,57,"Ismael Sanogo made Free Throw.",85,70,15,0.999998930103565,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22
+335,2,"0:57",57,57,"Ismael Sanogo missed Free Throw.",85,70,15,0.999998930103565,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22
+336,2,"0:57",57,57,"Malik Ellison Defensive Rebound.",85,70,15,0.999998930103565,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22
+337,2,"0:52",52,52,"Foul on Eron Gordon.",85,70,15,0.999996918225461,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22
+338,2,"0:52",52,52,"Malik Ellison made Free Throw.",85,71,14,0.999993127310801,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22
+339,2,"0:52",52,52,"Malik Ellison missed Free Throw.",85,71,14,0.999993127310801,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22
+340,2,"0:52",52,52,"Angel Delgado Defensive Rebound.",85,71,14,0.999993127310801,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22
+341,2,"0:50",50,50,"Foul on Malik Ellison.",85,71,14,0.999998274748493,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22
+342,2,"0:49",49,49,"Jevon Thomas missed Free Throw.",85,71,14,0.999998930094777,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22
+343,2,"0:49",49,49,"Seton Hall Deadball Team Rebound.",85,71,14,0.999998930094777,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22
+344,2,"0:49",49,49,"Jevon Thomas made Free Throw.",86,71,15,0.999999586936664,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22
+345,2,"0:42",42,42,"Marcus LoVett Turnover.",86,71,15,0.999998617081571,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22
+346,2,"0:42",42,42,"Jevon Thomas Steal.",86,71,15,0.999998617081571,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22
+347,2,"0:42",42,42,"Foul on Malik Ellison.",86,71,15,0.999998617081571,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22
+348,2,"0:42",42,42,"Jevon Thomas missed Free Throw.",86,71,15,0.999998617081571,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22
+349,2,"0:42",42,42,"Seton Hall Deadball Team Rebound.",86,71,15,0.999998617081571,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22
+350,2,"0:42",42,42,"Jevon Thomas missed Free Throw.",86,71,15,0.999998617081571,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22
+351,2,"0:42",42,42,"Malik Ellison Defensive Rebound.",86,71,15,0.999998617081571,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22
+352,2,"0:36",36,36,"Foul on Michael Nzei.",86,71,15,0.999999266241458,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22
+353,2,"0:36",36,36,"Malik Ellison made Free Throw.",86,72,14,0.999998126667018,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22
+354,2,"0:36",36,36,"Malik Ellison made Free Throw.",86,73,13,0.999995217268285,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22
+355,2,"0:03",3,3,"Michael Nzei missed Three Point Jumper.",86,73,13,0.999999999875671,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22
+356,2,"0:03",3,3,"St. John's Defensive Rebound.",86,73,13,0.999999999875671,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22
+357,2,"0:00",0,0,"End of Game",86,73,13,1,"Seton Hall","St. John's",2,2,0,0,8.5,400919692,2017-01-22

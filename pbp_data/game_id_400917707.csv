@@ -1,0 +1,405 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2700,"PLAY",0,0,0,0.753398478938886,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+2,1,"19:50",2390,2690,"Darrell Brown Turnover.",0,0,0,0.753398478938886,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+3,1,"19:33",2373,2673,"Demetrius McReynolds missed Jumper.",0,0,0,0.75064780749467,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+4,1,"19:33",2373,2673,"Darrell Brown Defensive Rebound.",0,0,0,0.75064780749467,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+5,1,"19:06",2346,2646,"Luuk van Bree missed Jumper.",0,0,0,0.738842995436239,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+6,1,"19:06",2346,2646,"Muusa Dama Block.",0,0,0,0.738842995436239,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+7,1,"19:03",2343,2643,"Demetrius McReynolds Defensive Rebound.",0,0,0,0.738842995436239,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+8,1,"18:38",2318,2618,"Montell Goodwin missed Three Point Jumper.",0,0,0,0.729900887337583,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+9,1,"18:38",2318,2618,"Muusa Dama Offensive Rebound.",0,0,0,0.729900887337583,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+10,1,"18:32",2312,2612,"Muusa Dama missed Layup.",0,0,0,0.729900887337583,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+11,1,"18:32",2312,2612,"JoJo McGlaston Defensive Rebound.",0,0,0,0.729900887337583,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+12,1,"18:23",2303,2603,"JoJo McGlaston missed Jumper.",0,0,0,0.732612867179006,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+13,1,"18:23",2303,2603,"Patrick Muldoon Block.",0,0,0,0.732612867179006,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+14,1,"18:20",2300,2600,"Demetrius McReynolds Defensive Rebound.",0,0,0,0.732612867179006,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+15,1,"18:17",2297,2597,"Cornell Johnston Turnover.",0,0,0,0.745840994671575,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+16,1,"18:04",2284,2584,"Antoine Pittman made Layup.",0,2,-2,0.694021932901181,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+17,1,"17:41",2261,2561,"Muusa Dama made Layup.",2,2,0,0.748425248508052,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+18,1,"17:22",2242,2542,"Foul on Ray Crossland.",2,2,0,0.73548331733064,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+19,1,"17:07",2227,2527,"Callum Barker Turnover.",2,2,0,0.742583720595243,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+20,1,"16:47",2207,2507,"Cornell Johnston made Layup.",4,2,2,0.780307142120921,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+21,1,"16:39",2199,2499,"Foul on Darrell Brown.",4,2,2,0.790562755051031,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+22,1,"16:39",2199,2499,"Darrell Brown Turnover.",4,2,2,0.790562755051031,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+23,1,"16:25",2185,2485,"Montell Goodwin missed Three Point Jumper.",4,2,2,0.778017949812579,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+24,1,"16:25",2185,2485,"Antoine Pittman Defensive Rebound.",4,2,2,0.778017949812579,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+25,1,"16:17",2177,2477,"Antoine Pittman missed Jumper.",4,2,2,0.773003439800392,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+26,1,"16:17",2177,2477,"Cornell Johnston Defensive Rebound.",4,2,2,0.773003439800392,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+27,1,"16:10",2170,2470,"Ray Crossland missed Jumper.",4,2,2,0.773003439800392,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+28,1,"16:10",2170,2470,"Jayden Hodgson Defensive Rebound.",4,2,2,0.773003439800392,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+29,1,"16:02",2162,2462,"Callum Barker made Dunk. Assisted by Jayden Hodgson.",4,4,0,0.733942176004202,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+30,1,"15:46",2146,2446,"Cornell Johnston missed Three Point Jumper.",4,4,0,0.742650574640317,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+31,1,"15:46",2146,2446,"Jayden Hodgson Defensive Rebound.",4,4,0,0.742650574640317,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+32,1,"15:36",2136,2436,"Foul on Jayden Hodgson.",4,4,0,0.734819835126636,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+33,1,"15:36",2136,2436,"Jayden Hodgson Turnover.",4,4,0,0.734819835126636,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+34,1,"15:36",2136,2436,"Official TV Timeout",4,4,0,0.734819835126636,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+35,1,"15:13",2113,2413,"Demetrius McReynolds made Jumper.",6,4,2,0.781666506797425,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+36,1,"15:00",2100,2400,"Dwayne Lautier-Ogunleye missed Jumper.",6,4,2,0.771349494799572,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+37,1,"15:00",2100,2400,"Demetrius McReynolds Defensive Rebound.",6,4,2,0.771349494799572,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+38,1,"14:49",2089,2389,"Casey Teson missed Three Point Jumper.",6,4,2,0.774126974247019,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+39,1,"14:49",2089,2389,"Demetrius McReynolds Offensive Rebound.",6,4,2,0.774126974247019,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+40,1,"14:40",2080,2380,"Demetrius McReynolds made Layup.",8,4,4,0.810249255623699,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+41,1,"14:33",2073,2373,"Foul on Casey Teson.",8,4,4,0.807715261315782,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+42,1,"14:25",2065,2365,"Jayden Hodgson Turnover.",8,4,4,0.809879773244167,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+43,1,"14:04",2044,2344,"Demetrius McReynolds made Three Point Jumper. Assisted by Montell Goodwin.",11,4,7,0.847280681863677,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+44,1,"13:39",2019,2319,"Luuk van Bree made Three Point Jumper. Assisted by Jayden Hodgson.",11,7,4,0.814440846154563,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+45,1,"13:16",1996,2296,"Montell Goodwin missed Three Point Jumper.",11,7,4,0.820343921553093,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+46,1,"13:16",1996,2296,"Luuk van Bree Defensive Rebound.",11,7,4,0.820343921553093,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+47,1,"12:59",1979,2279,"Nate Kennell Turnover.",11,7,4,0.822530869830562,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+48,1,"12:57",1977,2277,"Patrick Muldoon Steal.",11,7,4,0.822530869830562,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+49,1,"12:53",1973,2273,"Demetrius McReynolds made Three Point Jumper. Assisted by Montell Goodwin.",14,7,7,0.871612335757438,"Eastern Illinois","Bradley",4,4,0,0,5,400917707,2016-11-29
+50,1,"12:49",1969,2269,"Bradley  Timeout",14,7,7,0.849572482521998,"Eastern Illinois","Bradley",3,4,1,0,5,400917707,2016-11-29
+51,1,"12:35",1955,2255,"Koch Bar missed Jumper.",14,7,7,0.866285061984013,"Eastern Illinois","Bradley",3,4,1,0,5,400917707,2016-11-29
+52,1,"12:35",1955,2255,"Muusa Dama Defensive Rebound.",14,7,7,0.866285061984013,"Eastern Illinois","Bradley",3,4,1,0,5,400917707,2016-11-29
+53,1,"12:25",1945,2245,"Demetrius McReynolds missed Three Point Jumper.",14,7,7,0.864735133122875,"Eastern Illinois","Bradley",3,4,1,0,5,400917707,2016-11-29
+54,1,"12:25",1945,2245,"Dwayne Lautier-Ogunleye Defensive Rebound.",14,7,7,0.864735133122875,"Eastern Illinois","Bradley",3,4,1,0,5,400917707,2016-11-29
+55,1,"12:06",1926,2226,"JoJo McGlaston made Layup. Assisted by Dwayne Lautier-Ogunleye.",14,9,5,0.83330890727674,"Eastern Illinois","Bradley",3,4,1,0,5,400917707,2016-11-29
+56,1,"11:43",1903,2203,"Ray Crossland Turnover.",14,9,5,0.82694942299165,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+57,1,"11:41",1901,2201,"Antoine Pittman Steal.",14,9,5,0.82694942299165,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+58,1,"11:39",1899,2199,"Official TV Timeout",14,9,5,0.83869568807255,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+59,1,"11:28",1888,2188,"Luuk van Bree missed Three Point Jumper.",14,9,5,0.829189185192218,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+60,1,"11:28",1888,2188,"Koch Bar Offensive Rebound.",14,9,5,0.829189185192218,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+61,1,"11:24",1884,2184,"Koch Bar made Layup.",14,11,3,0.791248681899467,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+62,1,"11:04",1864,2164,"Montell Goodwin Turnover.",14,11,3,0.800693983891618,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+63,1,"11:03",1863,2163,"Dwayne Lautier-Ogunleye Steal.",14,11,3,0.800693983891618,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+64,1,"10:36",1836,2136,"Luuk van Bree made Dunk. Assisted by Koch Bar.",14,13,1,0.746494747100494,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+65,1,"10:33",1833,2133,"Eastern Illinois  Timeout",14,13,1,0.746494747100494,"Eastern Illinois","Bradley",3,3,0,1,5,400917707,2016-11-29
+66,1,"10:24",1824,2124,"Cornell Johnston Turnover.",14,13,1,0.763909673466701,"Eastern Illinois","Bradley",3,3,0,1,5,400917707,2016-11-29
+67,1,"10:22",1822,2122,"Dwayne Lautier-Ogunleye Steal.",14,13,1,0.763909673466701,"Eastern Illinois","Bradley",3,3,0,1,5,400917707,2016-11-29
+68,1,"10:11",1811,2111,"Koch Bar made Layup. Assisted by Dwayne Lautier-Ogunleye.",14,15,-1,0.695748495099107,"Eastern Illinois","Bradley",3,3,0,1,5,400917707,2016-11-29
+69,1,"9:50",1790,2090,"Ray Crossland made Jumper.",16,15,1,0.737101489456955,"Eastern Illinois","Bradley",3,3,0,1,5,400917707,2016-11-29
+70,1,"9:34",1774,2074,"Koch Bar made Layup. Assisted by Dwayne Lautier-Ogunleye.",16,17,-1,0.682511765202326,"Eastern Illinois","Bradley",3,3,0,1,5,400917707,2016-11-29
+71,1,"9:34",1774,2074,"Foul on Casey Teson.",16,17,-1,0.682511765202326,"Eastern Illinois","Bradley",3,3,0,1,5,400917707,2016-11-29
+72,1,"9:34",1774,2074,"Koch Bar missed Free Throw.",16,17,-1,0.682511765202326,"Eastern Illinois","Bradley",3,3,0,1,5,400917707,2016-11-29
+73,1,"9:34",1774,2074,"Ray Crossland Defensive Rebound.",16,17,-1,0.682511765202326,"Eastern Illinois","Bradley",3,3,0,1,5,400917707,2016-11-29
+74,1,"9:11",1751,2051,"Patrick Muldoon Turnover.",16,17,-1,0.677147618331076,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+75,1,"8:59",1739,2039,"Koch Bar made Layup. Assisted by Antoine Pittman.",16,19,-3,0.629370172986734,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+76,1,"8:33",1713,2013,"Demetrius McReynolds missed Jumper.",16,19,-3,0.640142073131138,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+77,1,"8:33",1713,2013,"Luuk van Bree Defensive Rebound.",16,19,-3,0.640142073131138,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+78,1,"8:26",1706,2006,"Darrell Brown made Layup.",16,21,-5,0.563020771897243,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+79,1,"8:24",1704,2004,"Eastern Illinois  Timeout",16,21,-5,0.563020771897243,"Eastern Illinois","Bradley",3,2,0,1,5,400917707,2016-11-29
+80,1,"8:14",1694,1994,"Demetrius McReynolds made Layup. Assisted by Cornell Johnston.",18,21,-3,0.624884891975823,"Eastern Illinois","Bradley",3,2,0,1,5,400917707,2016-11-29
+81,1,"7:59",1679,1979,"Antoine Pittman made Three Point Jumper. Assisted by Luuk van Bree.",18,24,-6,0.527875434680243,"Eastern Illinois","Bradley",3,2,0,1,5,400917707,2016-11-29
+82,1,"7:32",1652,1952,"Ray Crossland made Jumper. Assisted by Demetrius McReynolds.",20,24,-4,0.596719584745571,"Eastern Illinois","Bradley",3,2,0,1,5,400917707,2016-11-29
+83,1,"7:10",1630,1930,"Luuk van Bree made Three Point Jumper. Assisted by Dwayne Lautier-Ogunleye.",20,27,-7,0.506550477750437,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+84,1,"6:39",1599,1899,"Montell Goodwin missed Three Point Jumper.",20,27,-7,0.496523141752743,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+85,1,"6:39",1599,1899,"Darrell Brown Defensive Rebound.",20,27,-7,0.496523141752743,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+86,1,"6:29",1589,1889,"Darrell Brown missed Layup.",20,27,-7,0.480078838535836,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+87,1,"6:29",1589,1889,"Muusa Dama Defensive Rebound.",20,27,-7,0.480078838535836,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+88,1,"6:22",1582,1882,"Foul on Dwayne Lautier-Ogunleye.",20,27,-7,0.480078838535836,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+89,1,"6:22",1582,1882,"Montell Goodwin missed Free Throw.",20,27,-7,0.480078838535836,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+90,1,"6:22",1582,1882,"Eastern Illinois Deadball Team Rebound.",20,27,-7,0.480078838535836,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+91,1,"6:22",1582,1882,"Montell Goodwin missed Free Throw.",20,27,-7,0.480078838535836,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+92,1,"6:22",1582,1882,"Ray Crossland Offensive Rebound.",20,27,-7,0.480078838535836,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+93,1,"6:21",1581,1881,"Ray Crossland missed Jumper.",20,27,-7,0.480078838535836,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+94,1,"6:21",1581,1881,"Callum Barker Defensive Rebound.",20,27,-7,0.480078838535836,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+95,1,"6:03",1563,1863,"Nate Kennell Turnover.",20,27,-7,0.46326003712657,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+96,1,"6:01",1561,1861,"Ray Crossland missed Jumper.",20,27,-7,0.46326003712657,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+97,1,"6:01",1561,1861,"Patrick Muldoon Offensive Rebound.",20,27,-7,0.46326003712657,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+98,1,"5:55",1555,1855,"Patrick Muldoon made Layup.",22,27,-5,0.531945352828678,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+99,1,"5:40",1540,1840,"Callum Barker missed Jumper.",22,27,-5,0.557372656569104,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+100,1,"5:40",1540,1840,"JoJo McGlaston Offensive Rebound.",22,27,-5,0.557372656569104,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+101,1,"5:35",1535,1835,"JoJo McGlaston made Layup.",22,29,-7,0.486233392121824,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+102,1,"5:19",1519,1819,"Ray Crossland made Jumper.",24,29,-5,0.543566969224847,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+103,1,"5:02",1502,1802,"JoJo McGlaston made Layup.",24,31,-7,0.472234068981568,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+104,1,"4:47",1487,1787,"Foul on Jayden Hodgson.",24,31,-7,0.450372891716651,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+105,1,"4:47",1487,1787,"Ray Crossland made Layup. Assisted by Cornell Johnston.",26,31,-5,0.525256512602845,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+106,1,"4:30",1470,1770,"Jayden Hodgson made Layup.",26,33,-7,0.467921329656536,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+107,1,"4:05",1445,1745,"Montell Goodwin made Three Point Jumper. Assisted by Ray Crossland.",29,33,-4,0.58710856886069,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+108,1,"3:28",1408,1708,"Darrell Brown missed Three Point Jumper.",29,33,-4,0.57865427602563,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+109,1,"3:28",1408,1708,"Koch Bar Offensive Rebound.",29,33,-4,0.57865427602563,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+110,1,"3:25",1405,1705,"Foul on Patrick Muldoon.",29,33,-4,0.57865427602563,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+111,1,"3:23",1403,1703,"Official TV Timeout",29,33,-4,0.57865427602563,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+112,1,"3:19",1399,1699,"Antoine Pittman missed Three Point Jumper.",29,33,-4,0.564845779943764,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+113,1,"3:19",1399,1699,"Donte Thomas Offensive Rebound.",29,33,-4,0.564845779943764,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+114,1,"3:15",1395,1695,"Donte Thomas made Layup.",29,35,-6,0.488000600111545,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+115,1,"2:56",1376,1676,"Foul on Antoine Pittman.",29,35,-6,0.48747370395464,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+116,1,"2:56",1376,1676,"Montell Goodwin missed Free Throw.",29,35,-6,0.48747370395464,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+117,1,"2:56",1376,1676,"Eastern Illinois Deadball Team Rebound.",29,35,-6,0.48747370395464,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+118,1,"2:56",1376,1676,"Montell Goodwin made Free Throw.",30,35,-5,0.523542477748473,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+119,1,"2:56",1376,1676,"Montell Goodwin made Free Throw.",31,35,-4,0.559367345797281,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+120,1,"2:36",1356,1656,"Donte Thomas missed Jumper.",31,35,-4,0.571585852223177,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+121,1,"2:36",1356,1656,"Koch Bar Offensive Rebound.",31,35,-4,0.571585852223177,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+122,1,"2:27",1347,1647,"Koch Bar Turnover.",31,35,-4,0.541057858787041,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+123,1,"2:25",1345,1645,"Cornell Johnston Steal.",31,35,-4,0.541057858787041,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+124,1,"2:24",1344,1644,"Montell Goodwin missed Three Point Jumper.",31,35,-4,0.541057858787041,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+125,1,"2:24",1344,1644,"Antoine Pittman Defensive Rebound.",31,35,-4,0.541057858787041,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+126,1,"2:12",1332,1632,"Darrell Brown made Three Point Jumper. Assisted by Donte Thomas.",31,38,-7,0.423909994696008,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+127,1,"1:52",1312,1612,"Ray Crossland made Jumper. Assisted by Montell Goodwin.",33,38,-5,0.526899550363354,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+128,1,"1:41",1301,1601,"Darrell Brown Turnover.",33,38,-5,0.520179422312198,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+129,1,"1:38",1298,1598,"Cornell Johnston Steal.",33,38,-5,0.509045520101624,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+130,1,"1:37",1297,1597,"Cornell Johnston missed Jumper.",33,38,-5,0.509045520101624,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+131,1,"1:37",1297,1597,"Donte Thomas Defensive Rebound.",33,38,-5,0.509045520101624,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+132,1,"1:21",1281,1581,"Darrell Brown made Layup.",33,40,-7,0.454667767500082,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+133,1,"0:58",1258,1558,"Ray Crossland missed Jumper.",33,40,-7,0.431307340663025,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+134,1,"0:58",1258,1558,"Koch Bar Block.",33,40,-7,0.431307340663025,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+135,1,"0:56",1256,1556,"Donte Thomas Defensive Rebound.",33,40,-7,0.431307340663025,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+136,1,"0:49",1249,1549,"Jayden Hodgson missed Layup.",33,40,-7,0.440150145388532,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+137,1,"0:49",1249,1549,"Koch Bar Offensive Rebound.",33,40,-7,0.440150145388532,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+138,1,"0:47",1247,1547,"Foul on Aboubacar Diallo.",33,40,-7,0.440150145388532,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+139,1,"0:47",1247,1547,"Koch Bar missed Free Throw.",33,40,-7,0.440150145388532,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+140,1,"0:47",1247,1547,"Bradley Deadball Team Rebound.",33,40,-7,0.440150145388532,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+141,1,"0:47",1247,1547,"Koch Bar made Free Throw.",33,41,-8,0.402419135335344,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+142,1,"0:29",1229,1529,"Foul on Antoine Pittman.",33,41,-8,0.374871657363007,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+143,1,"0:29",1229,1529,"Demetrius McReynolds made Free Throw.",34,41,-7,0.415177161065705,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+144,1,"0:29",1229,1529,"Demetrius McReynolds made Free Throw.",35,41,-6,0.456650601830381,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+145,1,"0:18",1218,1518,"Darrell Brown Turnover.",35,41,-6,0.447534310266408,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+146,1,"0:01",1201,1501,"Ray Crossland made Jumper.",37,41,-4,0.545378808859946,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+147,1,"0:00",1200,1500,"End of 1st half",37,41,-4,0.545378808859946,"Eastern Illinois","Bradley",3,2,0,0,5,400917707,2016-11-29
+148,2,"20:00",1200,1500,"PLAY",37,41,-4,0.545378808859946,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+149,2,"19:50",1190,1490,"Bradley  Turnover.",37,41,-4,0.601105184626123,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+150,2,"19:34",1174,1474,"Muusa Dama made Layup.",39,41,-2,0.611663800866468,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+151,2,"19:15",1155,1455,"Koch Bar made Jumper. Assisted by Jayden Hodgson.",39,43,-4,0.536686303160996,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+152,2,"18:54",1134,1434,"Foul on Antoine Pittman.",39,43,-4,0.547267160958912,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+153,2,"18:54",1134,1434,"Demetrius McReynolds made Free Throw.",40,43,-3,0.587205157064285,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+154,2,"18:54",1134,1434,"Demetrius McReynolds made Free Throw.",41,43,-2,0.626027532840515,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+155,2,"18:36",1116,1416,"Foul on Dwayne Lautier-Ogunleye.",41,43,-2,0.607714630951351,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+156,2,"18:36",1116,1416,"Dwayne Lautier-Ogunleye Turnover.",41,43,-2,0.607714630951351,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+157,2,"18:07",1087,1387,"Muusa Dama made Layup.",43,43,0,0.692441864155287,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+158,2,"17:56",1076,1376,"Foul on Ray Crossland.",43,43,0,0.689140624042414,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+159,2,"17:56",1076,1376,"JoJo McGlaston missed Free Throw.",43,43,0,0.689140624042414,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+160,2,"17:56",1076,1376,"Bradley Deadball Team Rebound.",43,43,0,0.689140624042414,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+161,2,"17:56",1076,1376,"JoJo McGlaston missed Free Throw.",43,43,0,0.689140624042414,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+162,2,"17:56",1076,1376,"Koch Bar Offensive Rebound.",43,43,0,0.689140624042414,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+163,2,"17:54",1074,1374,"Koch Bar made Layup.",43,45,-2,0.612841695169429,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+164,2,"17:54",1074,1374,"Foul on Patrick Muldoon.",43,45,-2,0.612841695169429,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+165,2,"17:54",1074,1374,"Koch Bar missed Free Throw.",43,45,-2,0.612841695169429,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+166,2,"17:54",1074,1374,"Koch Bar Offensive Rebound.",43,45,-2,0.612841695169429,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+167,2,"17:53",1073,1373,"JoJo McGlaston missed Three Point Jumper.",43,45,-2,0.612841695169429,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+168,2,"17:53",1073,1373,"Montell Goodwin Defensive Rebound.",43,45,-2,0.612841695169429,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+169,2,"17:42",1062,1362,"Ray Crossland Turnover.",43,45,-2,0.61463682749946,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+170,2,"17:41",1061,1361,"Luuk van Bree Steal.",43,45,-2,0.61463682749946,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+171,2,"17:32",1052,1352,"JoJo McGlaston missed Three Point Jumper.",43,45,-2,0.610405584394851,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+172,2,"17:32",1052,1352,"Ray Crossland Defensive Rebound.",43,45,-2,0.610405584394851,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+173,2,"17:07",1027,1327,"Foul on Jayden Hodgson.",43,45,-2,0.608726111665366,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+174,2,"17:07",1027,1327,"Ray Crossland missed Free Throw.",43,45,-2,0.608726111665366,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+175,2,"17:07",1027,1327,"Eastern Illinois Deadball Team Rebound.",43,45,-2,0.608726111665366,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+176,2,"17:07",1027,1327,"Ray Crossland made Free Throw.",44,45,-1,0.650514908417878,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+177,2,"16:53",1013,1313,"Luuk van Bree Turnover.",44,45,-1,0.615102670317073,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+178,2,"16:50",1010,1310,"Cornell Johnston Steal.",44,45,-1,0.615102670317073,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+179,2,"16:31",991,1291,"Demetrius McReynolds missed Three Point Jumper.",44,45,-1,0.629911565086134,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+180,2,"16:31",991,1291,"Nate Kennell Defensive Rebound.",44,45,-1,0.629911565086134,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+181,2,"16:23",983,1283,"Dwayne Lautier-Ogunleye made Layup. Assisted by Nate Kennell.",44,47,-3,0.542857033974826,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+182,2,"16:23",983,1283,"Foul on Casey Teson.",44,47,-3,0.542857033974826,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+183,2,"16:23",983,1283,"Dwayne Lautier-Ogunleye missed Free Throw.",44,47,-3,0.542857033974826,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+184,2,"16:23",983,1283,"Lucas Jones Defensive Rebound.",44,47,-3,0.542857033974826,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+185,2,"15:57",957,1257,"Demetrius McReynolds missed Jumper.",44,47,-3,0.543606401255402,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+186,2,"15:57",957,1257,"Koch Bar Defensive Rebound.",44,47,-3,0.543606401255402,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+187,2,"15:42",942,1242,"Darrell Brown missed Three Point Jumper.",44,47,-3,0.564219704577279,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+188,2,"15:42",942,1242,"Demetrius McReynolds Defensive Rebound.",44,47,-3,0.564219704577279,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+189,2,"15:31",931,1231,"Foul on Darrell Brown.",44,47,-3,0.538471446100401,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+190,2,"15:26",926,1226,"Official TV Timeout",44,47,-3,0.512813198969,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+191,2,"15:21",921,1221,"Montell Goodwin missed Three Point Jumper.",44,47,-3,0.512813198969,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+192,2,"15:21",921,1221,"Nate Kennell Defensive Rebound.",44,47,-3,0.512813198969,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+193,2,"15:11",911,1211,"Foul on Lucas Jones.",44,47,-3,0.546667661380246,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+194,2,"14:52",892,1192,"Dwayne Lautier-Ogunleye missed Layup.",44,47,-3,0.544096484846607,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+195,2,"14:52",892,1192,"Dwayne Lautier-Ogunleye Offensive Rebound.",44,47,-3,0.544096484846607,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+196,2,"14:47",887,1187,"Dwayne Lautier-Ogunleye Turnover.",44,47,-3,0.541955982721483,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+197,2,"14:47",887,1187,"Cornell Johnston Steal.",44,47,-3,0.541955982721483,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+198,2,"14:20",860,1160,"Lucas Jones missed Layup.",44,47,-3,0.529066576398392,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+199,2,"14:20",860,1160,"Ray Crossland Offensive Rebound.",44,47,-3,0.529066576398392,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+200,2,"14:17",857,1157,"Ray Crossland made Layup.",46,47,-1,0.637286415141614,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+201,2,"14:13",853,1153,"Luuk van Bree missed Jumper.",46,47,-1,0.637286415141614,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+202,2,"14:13",853,1153,"Eastern Illinois Defensive Rebound.",46,47,-1,0.637286415141614,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+203,2,"13:56",836,1136,"Logan Koch missed Jumper.",46,47,-1,0.639019810335405,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+204,2,"13:56",836,1136,"Nate Kennell Block.",46,47,-1,0.639019810335405,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+205,2,"13:53",833,1133,"Muusa Dama Offensive Rebound.",46,47,-1,0.639019810335405,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+206,2,"13:52",832,1132,"Foul on Dwayne Lautier-Ogunleye.",46,47,-1,0.639019810335405,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+207,2,"13:27",807,1107,"Montell Goodwin missed Three Point Jumper.",46,47,-1,0.643287442371395,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+208,2,"13:27",807,1107,"Callum Barker Defensive Rebound.",46,47,-1,0.643287442371395,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+209,2,"13:14",794,1094,"Foul on Logan Koch.",46,47,-1,0.614259158603122,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+210,2,"13:03",783,1083,"Donte Thomas Turnover.",46,47,-1,0.620783885388303,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+211,2,"13:03",783,1083,"Montell Goodwin Steal.",46,47,-1,0.620783885388303,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+212,2,"13:02",782,1082,"Foul on JoJo McGlaston.",46,47,-1,0.620783885388303,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+213,2,"13:02",782,1082,"Montell Goodwin made Free Throw.",47,47,0,0.667979644697965,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+214,2,"13:02",782,1082,"Montell Goodwin missed Free Throw.",47,47,0,0.667979644697965,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+215,2,"13:02",782,1082,"Nate Kennell Defensive Rebound.",47,47,0,0.667979644697965,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+216,2,"12:59",779,1079,"Nate Kennell Turnover.",47,47,0,0.670289686532044,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+217,2,"12:47",767,1067,"Ray Crossland missed Jumper.",47,47,0,0.691270549942067,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+218,2,"12:47",767,1067,"Nate Kennell Block.",47,47,0,0.691270549942067,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+219,2,"12:44",764,1064,"Donte Thomas Defensive Rebound.",47,47,0,0.691270549942067,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+220,2,"12:35",755,1055,"Nate Kennell missed Three Point Jumper.",47,47,0,0.670739706826793,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+221,2,"12:35",755,1055,"Muusa Dama Defensive Rebound.",47,47,0,0.670739706826793,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+222,2,"12:22",742,1042,"Patrick Muldoon missed Jumper.",47,47,0,0.659617157997304,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+223,2,"12:22",742,1042,"Koch Bar Defensive Rebound.",47,47,0,0.659617157997304,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+224,2,"12:15",735,1035,"Nate Kennell made Three Point Jumper. Assisted by Donte Thomas.",47,50,-3,0.507658542108942,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+225,2,"11:46",706,1006,"Ray Crossland made Jumper. Assisted by Cornell Johnston.",49,50,-1,0.615534119716665,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+226,2,"11:38",698,998,"Koch Bar made Layup. Assisted by Darrell Brown.",49,52,-3,0.508247584260524,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+227,2,"11:23",683,983,"Patrick Muldoon made Layup. Assisted by Ray Crossland.",51,52,-1,0.605171546522296,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+228,2,"10:59",659,959,"Koch Bar missed Jumper.",51,52,-1,0.612642987737663,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+229,2,"10:59",659,959,"Ray Crossland Block.",51,52,-1,0.612642987737663,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+230,2,"10:56",656,956,"Ray Crossland Defensive Rebound.",51,52,-1,0.612642987737663,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+231,2,"10:55",655,955,"Ray Crossland made Layup.",53,52,1,0.717939146933016,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+232,2,"10:54",654,954,"Foul on Nate Kennell.",53,52,1,0.717939146933016,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+233,2,"10:54",654,954,"Official TV Timeout",53,52,1,0.717939146933016,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+234,2,"10:54",654,954,"Ray Crossland missed Free Throw.",53,52,1,0.717939146933016,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+235,2,"10:54",654,954,"Callum Barker Defensive Rebound.",53,52,1,0.717939146933016,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+236,2,"10:43",643,943,"Darrell Brown Turnover.",53,52,1,0.711864310282226,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+237,2,"10:42",642,942,"Ray Crossland Steal.",53,52,1,0.711864310282226,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+238,2,"10:33",633,933,"Cornell Johnston missed Three Point Jumper.",53,52,1,0.69285382778424,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+239,2,"10:33",633,933,"Ray Crossland Offensive Rebound.",53,52,1,0.69285382778424,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+240,2,"10:27",627,927,"Patrick Muldoon made Layup. Assisted by Ray Crossland.",55,52,3,0.811190832229183,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+241,2,"10:27",627,927,"Foul on Antoine Pittman.",55,52,3,0.811190832229183,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+242,2,"10:27",627,927,"Patrick Muldoon made Free Throw.",56,52,4,0.846734382310195,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+243,2,"10:14",614,914,"Nate Kennell missed Layup.",56,52,4,0.831360907475505,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+244,2,"10:14",614,914,"Dwayne Lautier-Ogunleye Offensive Rebound.",56,52,4,0.831360907475505,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+245,2,"10:05",605,905,"Foul on Ray Crossland.",56,52,4,0.839497708376608,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+246,2,"9:53",593,893,"Foul on Muusa Dama.",56,52,4,0.831102302900135,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+247,2,"9:53",593,893,"Dwayne Lautier-Ogunleye made Free Throw.",56,53,3,0.794747869263431,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+248,2,"9:53",593,893,"Dwayne Lautier-Ogunleye made Free Throw.",56,54,2,0.752894896534161,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+249,2,"9:32",572,872,"Casey Teson made Jumper.",58,54,4,0.851612059795881,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+250,2,"9:08",548,848,"Luuk van Bree Turnover.",58,54,4,0.833994996651559,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+251,2,"8:55",535,835,"Montell Goodwin missed Jumper.",58,54,4,0.86446888442802,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+252,2,"8:55",535,835,"Dwayne Lautier-Ogunleye Defensive Rebound.",58,54,4,0.86446888442802,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+253,2,"8:51",531,831,"Foul on Demetrius McReynolds.",58,54,4,0.86446888442802,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+254,2,"8:51",531,831,"Dwayne Lautier-Ogunleye made Free Throw.",58,55,3,0.828004693007544,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+255,2,"8:51",531,831,"Dwayne Lautier-Ogunleye made Free Throw.",58,56,2,0.784179211305904,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+256,2,"8:31",511,811,"Casey Teson made Three Point Jumper. Assisted by Montell Goodwin.",61,56,5,0.870808402136169,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+257,2,"8:17",497,797,"Jayden Hodgson missed Jumper.",61,56,5,0.883292509248632,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+258,2,"8:17",497,797,"Callum Barker Offensive Rebound.",61,56,5,0.883292509248632,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+259,2,"8:15",495,795,"Foul on Montell Goodwin.",61,56,5,0.883292509248632,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+260,2,"8:15",495,795,"Callum Barker made Free Throw.",61,57,4,0.852198279727837,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+261,2,"8:15",495,795,"Callum Barker made Free Throw.",61,58,3,0.814558905033313,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+262,2,"8:02",482,782,"Muusa Dama made Dunk. Assisted by Montell Goodwin.",63,58,5,0.877261593227943,"Eastern Illinois","Bradley",4,3,0,0,5,400917707,2016-11-29
+263,2,"7:49",469,769,"Bradley  Timeout",63,58,5,0.879826393850932,"Eastern Illinois","Bradley",3,3,1,0,5,400917707,2016-11-29
+264,2,"7:35",455,755,"Darrell Brown made Jumper.",63,60,3,0.813176648039806,"Eastern Illinois","Bradley",3,3,1,0,5,400917707,2016-11-29
+265,2,"7:19",439,739,"Cornell Johnston made Three Point Jumper. Assisted by Montell Goodwin.",66,60,6,0.923278648126413,"Eastern Illinois","Bradley",3,3,1,0,5,400917707,2016-11-29
+266,2,"6:57",417,717,"Foul on Cornell Johnston.",66,60,6,0.915154726858469,"Eastern Illinois","Bradley",3,3,1,0,5,400917707,2016-11-29
+267,2,"6:57",417,717,"Official TV Timeout",66,60,6,0.915154726858469,"Eastern Illinois","Bradley",3,3,1,0,5,400917707,2016-11-29
+268,2,"6:57",417,717,"Darrell Brown missed Free Throw.",66,60,6,0.915154726858469,"Eastern Illinois","Bradley",3,3,1,0,5,400917707,2016-11-29
+269,2,"6:57",417,717,"Bradley Deadball Team Rebound.",66,60,6,0.915154726858469,"Eastern Illinois","Bradley",3,3,1,0,5,400917707,2016-11-29
+270,2,"6:57",417,717,"Darrell Brown made Free Throw.",66,61,5,0.888639994807383,"Eastern Illinois","Bradley",3,3,1,0,5,400917707,2016-11-29
+271,2,"6:40",400,700,"Montell Goodwin missed Jumper.",66,61,5,0.896737085972844,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+272,2,"6:40",400,700,"Jayden Hodgson Defensive Rebound.",66,61,5,0.896737085972844,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+273,2,"6:31",391,691,"Foul on Ray Crossland.",66,61,5,0.89643732865183,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+274,2,"6:31",391,691,"Donte Thomas made Free Throw.",66,62,4,0.863669842217099,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+275,2,"6:31",391,691,"Donte Thomas made Free Throw.",66,63,3,0.822586511095492,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+276,2,"6:15",375,675,"Foul on Donte Thomas.",66,63,3,0.808993830707437,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+277,2,"6:15",375,675,"Patrick Muldoon missed Free Throw.",66,63,3,0.808993830707437,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+278,2,"6:15",375,675,"Eastern Illinois Deadball Team Rebound.",66,63,3,0.808993830707437,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+279,2,"6:15",375,675,"Patrick Muldoon missed Free Throw.",66,63,3,0.808993830707437,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+280,2,"6:15",375,675,"Donte Thomas Defensive Rebound.",66,63,3,0.808993830707437,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+281,2,"6:00",360,660,"Darrell Brown missed Jumper.",66,63,3,0.815876374795176,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+282,2,"6:00",360,660,"Muusa Dama Block.",66,63,3,0.815876374795176,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+283,2,"5:57",357,657,"Donte Thomas Offensive Rebound.",66,63,3,0.808895620123527,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+284,2,"5:54",354,654,"Donte Thomas missed Jumper.",66,63,3,0.808895620123527,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+285,2,"5:54",354,654,"Koch Bar Offensive Rebound.",66,63,3,0.808895620123527,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+286,2,"5:50",350,650,"Foul on Patrick Muldoon.",66,63,3,0.808895620123527,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+287,2,"5:50",350,650,"Koch Bar missed Free Throw.",66,63,3,0.808895620123527,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+288,2,"5:50",350,650,"Bradley Deadball Team Rebound.",66,63,3,0.808895620123527,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+289,2,"5:50",350,650,"Koch Bar missed Free Throw.",66,63,3,0.808895620123527,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+290,2,"5:50",350,650,"Eastern Illinois Defensive Rebound.",66,63,3,0.808895620123527,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+291,2,"5:26",326,626,"Muusa Dama made Jumper. Assisted by Cornell Johnston.",68,63,5,0.891013191063594,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+292,2,"5:10",310,610,"Dwayne Lautier-Ogunleye Turnover.",68,63,5,0.912007452107439,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+293,2,"5:09",309,609,"Patrick Muldoon Steal.",68,63,5,0.898548023318322,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+294,2,"5:04",304,604,"Patrick Muldoon missed Layup.",68,63,5,0.898548023318322,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+295,2,"5:04",304,604,"Muusa Dama Offensive Rebound.",68,63,5,0.898548023318322,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+296,2,"5:01",301,601,"Muusa Dama missed Layup.",68,63,5,0.898548023318322,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+297,2,"5:01",301,601,"Koch Bar Block.",68,63,5,0.898548023318322,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+298,2,"4:59",299,599,"Koch Bar Defensive Rebound.",68,63,5,0.905927821204835,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+299,2,"4:54",294,594,"Jayden Hodgson Turnover.",68,63,5,0.905927821204835,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+300,2,"4:53",293,593,"Cornell Johnston Steal.",68,63,5,0.905927821204835,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+301,2,"4:53",293,593,"Foul on Darrell Brown.",68,63,5,0.905927821204835,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+302,2,"4:53",293,593,"Cornell Johnston made Free Throw.",69,63,6,0.931364879984394,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+303,2,"4:53",293,593,"Cornell Johnston made Free Throw.",70,63,7,0.950301107641525,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+304,2,"4:33",273,573,"Luuk van Bree missed Jumper.",70,63,7,0.959426057255384,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+305,2,"4:33",273,573,"JoJo McGlaston Offensive Rebound.",70,63,7,0.959426057255384,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+306,2,"4:28",268,568,"JoJo McGlaston made Layup.",70,65,5,0.915040398494549,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+307,2,"4:08",248,548,"Casey Teson missed Three Point Jumper.",70,65,5,0.92206127544353,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+308,2,"4:08",248,548,"Jayden Hodgson Defensive Rebound.",70,65,5,0.92206127544353,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+309,2,"4:00",240,540,"Jayden Hodgson missed Layup.",70,65,5,0.92206127544353,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+310,2,"4:00",240,540,"Muusa Dama Defensive Rebound.",70,65,5,0.92206127544353,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+311,2,"3:57",237,537,"Muusa Dama Turnover.",70,65,5,0.924332440859707,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+312,2,"3:55",235,535,"JoJo McGlaston Steal.",70,65,5,0.924332440859707,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+313,2,"3:50",230,530,"JoJo McGlaston made Layup.",70,67,3,0.844371150119035,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+314,2,"3:31",211,511,"Muusa Dama missed Jumper.",70,67,3,0.851956519369237,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+315,2,"3:31",211,511,"Dwayne Lautier-Ogunleye Defensive Rebound.",70,67,3,0.851956519369237,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+316,2,"3:12",192,492,"JoJo McGlaston made Layup. Assisted by Luuk van Bree.",70,69,1,0.69183782521022,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+317,2,"2:46",166,466,"Casey Teson made Jumper.",72,69,3,0.895651907673663,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+318,2,"2:32",152,452,"Dwayne Lautier-Ogunleye Turnover.",72,69,3,0.88561244964006,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+319,2,"2:32",152,452,"Official TV Timeout",72,69,3,0.88561244964006,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+320,2,"2:19",139,439,"Montell Goodwin missed Jumper.",72,69,3,0.896165974380619,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+321,2,"2:19",139,439,"Koch Bar Defensive Rebound.",72,69,3,0.896165974380619,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+322,2,"2:01",121,421,"Antoine Pittman Turnover.",72,69,3,0.882174433168202,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+323,2,"1:38",98,398,"Cornell Johnston missed Three Point Jumper.",72,69,3,0.898704200862383,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+324,2,"1:38",98,398,"Koch Bar Defensive Rebound.",72,69,3,0.898704200862383,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+325,2,"1:19",79,379,"Koch Bar missed Jumper.",72,69,3,0.920853584402147,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+326,2,"1:19",79,379,"Ray Crossland Block.",72,69,3,0.920853584402147,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+327,2,"1:17",77,377,"Bradley Offensive Rebound.",72,69,3,0.920853584402147,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+328,2,"1:13",73,373,"Luuk van Bree missed Free Throw.",72,69,3,0.920853584402147,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+329,2,"1:13",73,373,"Bradley Deadball Team Rebound.",72,69,3,0.920853584402147,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+330,2,"1:13",73,373,"Luuk van Bree made Free Throw.",72,70,2,0.848000158376269,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+331,2,"1:13",73,373,"Foul on Casey Teson.",72,69,3,0.920853584402147,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+332,2,"0:52",52,352,"Cornell Johnston missed Three Point Jumper.",72,70,2,0.884380629856929,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+333,2,"0:52",52,352,"Darrell Brown Defensive Rebound.",72,70,2,0.884380629856929,"Eastern Illinois","Bradley",3,3,0,0,5,400917707,2016-11-29
+334,2,"0:43",43,343,"Bradley  Timeout",72,70,2,0.850591901150698,"Eastern Illinois","Bradley",2,3,1,0,5,400917707,2016-11-29
+335,2,"0:23",23,323,"Foul on Muusa Dama.",72,70,2,0.956488615423793,"Eastern Illinois","Bradley",2,3,1,0,5,400917707,2016-11-29
+336,2,"0:23",23,323,"Darrell Brown made Free Throw.",72,71,1,0.866708822235609,"Eastern Illinois","Bradley",2,3,1,0,5,400917707,2016-11-29
+337,2,"0:23",23,323,"Darrell Brown made Free Throw.",72,72,0,0.657931046653816,"Eastern Illinois","Bradley",2,3,1,0,5,400917707,2016-11-29
+338,2,"0:02",2,302,"Montell Goodwin missed Three Point Jumper.",72,72,0,0.50080870980346,"Eastern Illinois","Bradley",2,3,1,0,5,400917707,2016-11-29
+339,2,"0:00",300,300,"Koch Bar Defensive Rebound.",72,72,0,0.619629841364002,"Eastern Illinois","Bradley",2,3,0,0,5,400917707,2016-11-29
+340,2,"0:00",300,300,"End of 2nd half",72,72,0,0.619629841364002,"Eastern Illinois","Bradley",2,3,0,0,5,400917707,2016-11-29
+341,3,"5:00",300,300,"PLAY",72,72,0,0.619629841364002,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+342,3,"4:40",280,280,"Ray Crossland missed Jumper.",72,72,0,0.617550957374289,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+343,3,"4:40",280,280,"Koch Bar Defensive Rebound.",72,72,0,0.617550957374289,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+344,3,"4:12",252,252,"Darrell Brown missed Jumper.",72,72,0,0.620931401077246,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+345,3,"4:12",252,252,"Muusa Dama Defensive Rebound.",72,72,0,0.620931401077246,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+346,3,"4:01",241,241,"Cornell Johnston missed Jumper.",72,72,0,0.610238889559369,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+347,3,"4:01",241,241,"Koch Bar Block.",72,72,0,0.610238889559369,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+348,3,"3:59",239,239,"Darrell Brown Defensive Rebound.",72,72,0,0.616261950069155,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+349,3,"3:56",236,236,"JoJo McGlaston made Layup. Assisted by Darrell Brown.",72,74,-2,0.416321586047171,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+350,3,"3:36",216,216,"Montell Goodwin missed Jumper.",72,74,-2,0.390202422085134,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+351,3,"3:36",216,216,"Luuk van Bree Defensive Rebound.",72,74,-2,0.390202422085134,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+352,3,"3:28",208,208,"Foul on Casey Teson.",72,74,-2,0.418168288159461,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+353,3,"3:28",208,208,"JoJo McGlaston missed Free Throw.",72,74,-2,0.418168288159461,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+354,3,"3:28",208,208,"Bradley Deadball Team Rebound.",72,74,-2,0.418168288159461,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+355,3,"3:28",208,208,"JoJo McGlaston made Free Throw.",72,75,-3,0.313817530493107,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+356,3,"3:08",188,188,"Ray Crossland missed Jumper.",72,75,-3,0.250051711583702,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+357,3,"3:08",188,188,"Muusa Dama Offensive Rebound.",72,75,-3,0.250051711583702,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+358,3,"2:53",173,173,"Demetrius McReynolds missed Three Point Jumper.",72,75,-3,0.273774973244664,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+359,3,"2:53",173,173,"Dwayne Lautier-Ogunleye Defensive Rebound.",72,75,-3,0.273774973244664,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+360,3,"2:23",143,143,"Koch Bar made Layup. Assisted by Dwayne Lautier-Ogunleye.",72,77,-5,0.100552317720756,"Eastern Illinois","Bradley",3,4,0,0,5,400917707,2016-11-29
+361,3,"2:15",135,135,"Eastern Illinois  Timeout",72,77,-5,0.09736539120175,"Eastern Illinois","Bradley",3,3,0,1,5,400917707,2016-11-29
+362,3,"2:04",124,124,"Foul on Dwayne Lautier-Ogunleye.",72,77,-5,0.0745441928501089,"Eastern Illinois","Bradley",3,3,0,1,5,400917707,2016-11-29
+363,3,"2:04",124,124,"Demetrius McReynolds made Free Throw.",73,77,-4,0.124293597035338,"Eastern Illinois","Bradley",3,3,0,1,5,400917707,2016-11-29
+364,3,"2:04",124,124,"Demetrius McReynolds made Free Throw.",74,77,-3,0.200067178535227,"Eastern Illinois","Bradley",3,3,0,1,5,400917707,2016-11-29
+365,3,"2:02",122,122,"Bradley  Timeout",74,77,-3,0.200067178535227,"Eastern Illinois","Bradley",2,3,1,1,5,400917707,2016-11-29
+366,3,"1:58",118,118,"Dwayne Lautier-Ogunleye made Free Throw.",74,78,-4,0.125188989435078,"Eastern Illinois","Bradley",2,3,1,1,5,400917707,2016-11-29
+367,3,"1:58",118,118,"Dwayne Lautier-Ogunleye made Free Throw.",74,79,-5,0.0727617261102856,"Eastern Illinois","Bradley",2,3,1,1,5,400917707,2016-11-29
+368,3,"1:54",114,114,"Foul on Ray Crossland.",74,79,-5,0.0727617261102856,"Eastern Illinois","Bradley",2,3,1,1,5,400917707,2016-11-29
+369,3,"1:50",110,110,"Montell Goodwin missed Three Point Jumper.",74,79,-5,0.0727617261102856,"Eastern Illinois","Bradley",2,3,1,1,5,400917707,2016-11-29
+370,3,"1:50",110,110,"Muusa Dama Offensive Rebound.",74,79,-5,0.0727617261102856,"Eastern Illinois","Bradley",2,3,1,1,5,400917707,2016-11-29
+371,3,"1:42",102,102,"Cornell Johnston missed Three Point Jumper.",74,79,-5,0.0553132795260365,"Eastern Illinois","Bradley",2,3,1,1,5,400917707,2016-11-29
+372,3,"1:42",102,102,"JoJo McGlaston Defensive Rebound.",74,79,-5,0.0553132795260365,"Eastern Illinois","Bradley",2,3,1,1,5,400917707,2016-11-29
+373,3,"1:17",77,77,"Foul on Patrick Muldoon.",74,79,-5,0.0314927044884124,"Eastern Illinois","Bradley",2,3,1,1,5,400917707,2016-11-29
+374,3,"1:17",77,77,"Luuk van Bree made Free Throw.",74,80,-6,0.0153525767251119,"Eastern Illinois","Bradley",2,3,1,1,5,400917707,2016-11-29
+375,3,"1:17",77,77,"Luuk van Bree made Free Throw.",74,81,-7,0.00742094309633949,"Eastern Illinois","Bradley",2,3,1,1,5,400917707,2016-11-29
+376,3,"1:07",67,67,"Demetrius McReynolds missed Three Point Jumper.",74,81,-7,0.00604688994607297,"Eastern Illinois","Bradley",2,3,1,0,5,400917707,2016-11-29
+377,3,"1:07",67,67,"Muusa Dama Offensive Rebound.",74,81,-7,0.00604688994607297,"Eastern Illinois","Bradley",2,3,1,0,5,400917707,2016-11-29
+378,3,"1:00",60,60,"Muusa Dama made Jumper.",76,81,-5,0.0261437201148095,"Eastern Illinois","Bradley",2,3,0,0,5,400917707,2016-11-29
+379,3,"0:59",59,59,"Eastern Illinois  Timeout",76,81,-5,0.0265027543751647,"Eastern Illinois","Bradley",2,2,0,1,5,400917707,2016-11-29
+380,3,"0:55",55,55,"JoJo McGlaston Turnover.",76,81,-5,0.0310534493645606,"Eastern Illinois","Bradley",2,2,0,1,5,400917707,2016-11-29
+381,3,"0:50",50,50,"Montell Goodwin missed Jumper.",76,81,-5,0.0183142293774223,"Eastern Illinois","Bradley",2,2,0,1,5,400917707,2016-11-29
+382,3,"0:50",50,50,"Patrick Muldoon Offensive Rebound.",76,81,-5,0.0183142293774223,"Eastern Illinois","Bradley",2,2,0,1,5,400917707,2016-11-29
+383,3,"0:44",44,44,"Patrick Muldoon missed Jumper.",76,81,-5,0.0206487889266653,"Eastern Illinois","Bradley",2,2,0,1,5,400917707,2016-11-29
+384,3,"0:44",44,44,"Luuk van Bree Block.",76,81,-5,0.0206487889266653,"Eastern Illinois","Bradley",2,2,0,1,5,400917707,2016-11-29
+385,3,"0:44",44,44,"Dwayne Lautier-Ogunleye Defensive Rebound.",76,81,-5,0.0206487889266653,"Eastern Illinois","Bradley",2,2,0,1,5,400917707,2016-11-29
+386,3,"0:43",43,43,"Foul on Darrell Brown.",76,81,-5,0.0101203928993541,"Eastern Illinois","Bradley",2,2,0,1,5,400917707,2016-11-29
+387,3,"0:43",43,43,"Darrell Brown Turnover.",76,81,-5,0.0101203928993541,"Eastern Illinois","Bradley",2,2,0,1,5,400917707,2016-11-29
+388,3,"0:42",42,42,"Demetrius McReynolds made Three Point Jumper. Assisted by Cornell Johnston.",79,81,-2,0.133139399079026,"Eastern Illinois","Bradley",2,2,0,1,5,400917707,2016-11-29
+389,3,"0:40",40,40,"Eastern Illinois  Timeout",79,81,-2,0.10408738818716,"Eastern Illinois","Bradley",2,1,0,1,5,400917707,2016-11-29
+390,3,"0:32",32,32,"Foul on Cornell Johnston.",79,81,-2,0.116840305526708,"Eastern Illinois","Bradley",2,1,0,1,5,400917707,2016-11-29
+391,3,"0:32",32,32,"Darrell Brown made Free Throw.",79,82,-3,0.0408273262167987,"Eastern Illinois","Bradley",2,1,0,1,5,400917707,2016-11-29
+392,3,"0:32",32,32,"Darrell Brown made Free Throw.",79,83,-4,0.0135097599503667,"Eastern Illinois","Bradley",2,1,0,1,5,400917707,2016-11-29
+393,3,"0:17",17,17,"Demetrius McReynolds missed Three Point Jumper.",79,83,-4,0.0150756933917507,"Eastern Illinois","Bradley",2,1,0,1,5,400917707,2016-11-29
+394,3,"0:17",17,17,"Dwayne Lautier-Ogunleye Defensive Rebound.",79,83,-4,0.0150756933917507,"Eastern Illinois","Bradley",2,1,0,1,5,400917707,2016-11-29
+395,3,"0:11",11,11,"Foul on Cornell Johnston.",79,83,-4,0.00614747446669863,"Eastern Illinois","Bradley",2,1,0,1,5,400917707,2016-11-29
+396,3,"0:11",11,11,"Dwayne Lautier-Ogunleye made Free Throw.",79,84,-5,0.00159263484078583,"Eastern Illinois","Bradley",2,1,0,1,5,400917707,2016-11-29
+397,3,"0:11",11,11,"Dwayne Lautier-Ogunleye made Free Throw.",79,85,-6,0.00041120980486558,"Eastern Illinois","Bradley",2,1,0,1,5,400917707,2016-11-29
+398,3,"0:09",9,9,"Demetrius McReynolds made Three Point Jumper. Assisted by Montell Goodwin.",82,85,-3,0.0134308818479944,"Eastern Illinois","Bradley",2,1,0,1,5,400917707,2016-11-29
+399,3,"0:03",3,3,"Foul on Joe Kuligoski.",82,85,-3,0.00567856684780329,"Eastern Illinois","Bradley",2,1,1,1,5,400917707,2016-11-29
+400,3,"0:03",3,3,"JoJo McGlaston made Free Throw.",82,86,-4,0.001018681293423,"Eastern Illinois","Bradley",2,1,1,1,5,400917707,2016-11-29
+401,3,"0:03",3,3,"Bradley  Timeout",82,86,-4,0.001018681293423,"Eastern Illinois","Bradley",1,1,1,1,5,400917707,2016-11-29
+402,3,"0:03",3,3,"JoJo McGlaston made Free Throw.",82,87,-5,0.000182041715643037,"Eastern Illinois","Bradley",1,1,1,1,5,400917707,2016-11-29
+403,3,"0:01",1,1,"Foul on Dwayne Lautier-Ogunleye.",82,87,-5,0.000182041715643037,"Eastern Illinois","Bradley",1,1,1,1,5,400917707,2016-11-29
+404,3,"0:01",1,1,"Demetrius McReynolds made Free Throw.",83,87,-4,0.001018681293423,"Eastern Illinois","Bradley",1,1,1,1,5,400917707,2016-11-29

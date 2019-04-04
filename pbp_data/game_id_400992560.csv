@@ -1,0 +1,436 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.5,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+2,1,"19:44",2384,2384,"Matthew Mcclain made Layup.",0,2,-2,0.495602996769325,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+3,1,"19:30",2370,2370,"Byron Frohnen made Jumper.",2,2,0,0.524279741327167,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+4,1,"19:18",2358,2358,"Tanner Riley missed Three Point Jumper.",2,2,0,0.529703192727122,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+5,1,"19:18",2358,2358,"Nick Allen Defensive Rebound.",2,2,0,0.529703192727122,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+6,1,"19:04",2344,2344,"Giovanni De Nicolao made Jumper. Assisted by Keaton Wallace.",4,2,2,0.556592009956795,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+7,1,"18:54",2334,2334,"Matthew Mcclain Turnover.",4,2,2,0.563519318410407,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+8,1,"18:43",2323,2323,"Byron Frohnen made Layup. Assisted by Austin Karrer.",6,2,4,0.635621647630636,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+9,1,"18:34",2314,2314,"Tanner Riley missed Layup.",6,2,4,0.603544478555454,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+10,1,"18:34",2314,2314,"Nick Allen Block.",6,2,4,0.603544478555454,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+11,1,"18:33",2313,2313,"Nick Allen Defensive Rebound.",6,2,4,0.603544478555454,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+12,1,"18:29",2309,2309,"Austin Karrer missed Layup.",6,2,4,0.606881815221475,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+13,1,"18:29",2309,2309,"Austin Karrer Offensive Rebound.",6,2,4,0.606881815221475,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+14,1,"18:26",2306,2306,"Austin Karrer missed Layup.",6,2,4,0.606881815221475,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+15,1,"18:26",2306,2306,"Matthew Mcclain Block.",6,2,4,0.606881815221475,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+16,1,"18:26",2306,2306,"UT San Antonio Offensive Rebound.",6,2,4,0.606881815221475,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+17,1,"18:22",2302,2302,"Foul on Michael Imholz.",6,2,4,0.606881815221475,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+18,1,"18:22",2302,2302,"Nick Allen made Free Throw.",7,2,5,0.630354922744718,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+19,1,"18:22",2302,2302,"Nick Allen made Free Throw.",8,2,6,0.653227313834245,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+20,1,"18:09",2289,2289,"Ahmad Onezime made Three Point Jumper. Assisted by Tanner Riley.",8,5,3,0.587116552647273,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+21,1,"17:57",2277,2277,"Keaton Wallace missed Three Point Jumper.",8,5,3,0.597180402275598,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+22,1,"17:57",2277,2277,"Austin Karrer Offensive Rebound.",8,5,3,0.597180402275598,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+23,1,"17:43",2263,2263,"Foul on Desmond Ross.",8,5,3,0.610484912586829,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+24,1,"17:34",2254,2254,"Nick Allen missed Jumper.",8,5,3,0.592669789542667,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+25,1,"17:34",2254,2254,"George Willborn III Offensive Rebound.",8,5,3,0.592669789542667,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+26,1,"17:30",2250,2250,"George Willborn III made Layup.",10,5,5,0.638309174577335,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+27,1,"17:14",2234,2234,"Ahmad Onezime missed Three Point Jumper.",10,5,5,0.652517538188361,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+28,1,"17:14",2234,2234,"Giovanni De Nicolao Defensive Rebound.",10,5,5,0.652517538188361,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+29,1,"17:03",2223,2223,"George Willborn III made Layup.",12,5,7,0.688142127794234,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+30,1,"17:03",2223,2223,"Foul on Michael Imholz.",12,5,7,0.688142127794234,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+31,1,"17:03",2223,2223,"George Willborn III missed Free Throw.",12,5,7,0.688142127794234,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+32,1,"17:03",2223,2223,"Chandler Solis Defensive Rebound.",12,5,7,0.688142127794234,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+33,1,"17:03",2223,2223,"Foul on Deon Lyle.",12,5,7,0.688142127794234,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+34,1,"16:31",2191,2191,"Matthew Mcclain Turnover.",12,5,7,0.717068160429329,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+35,1,"16:28",2188,2188,"Giovanni De Nicolao Steal.",12,5,7,0.696700624254145,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+36,1,"16:28",2188,2188,"Giovanni De Nicolao Turnover.",12,5,7,0.696700624254145,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+37,1,"16:16",2176,2176,"Tanner Riley made Layup.",12,7,5,0.642077596399557,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+38,1,"16:09",2169,2169,"Nick Allen missed Jumper.",12,7,5,0.649002318643224,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+39,1,"16:09",2169,2169,"Chandler Solis Defensive Rebound.",12,7,5,0.649002318643224,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+40,1,"16:02",2162,2162,"Desmond Ross Turnover.",12,7,5,0.649002318643224,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+41,1,"15:50",2150,2150,"Deon Lyle made Jumper.",14,7,7,0.701440145675269,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+42,1,"15:43",2143,2143,"Foul on Desmond Ross.",14,7,7,0.690488375473565,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+43,1,"15:43",2143,2143,"Desmond Ross Turnover.",14,7,7,0.690488375473565,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+44,1,"15:43",2143,2143,"Official TV Timeout",14,7,7,0.690488375473565,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+45,1,"15:29",2129,2129,"Foul on Cade Hinkle.",14,7,7,0.697428575703799,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+46,1,"15:29",2129,2129,"George Willborn III missed Free Throw.",14,7,7,0.697428575703799,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+47,1,"15:29",2129,2129,"UT San Antonio Deadball Team Rebound.",14,7,7,0.697428575703799,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+48,1,"15:29",2129,2129,"George Willborn III missed Free Throw.",14,7,7,0.697428575703799,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+49,1,"15:29",2129,2129,"Matthew Mcclain Defensive Rebound.",14,7,7,0.697428575703799,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+50,1,"15:19",2119,2119,"Lucas Lenoir Turnover.",14,7,7,0.700971581302495,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+51,1,"15:09",2109,2109,"Foul on Kendell Ramlal.",14,7,7,0.695963673332215,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+52,1,"15:09",2109,2109,"Kendell Ramlal Turnover.",14,7,7,0.695963673332215,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+53,1,"14:50",2090,2090,"Tanner Riley missed Jumper.",14,7,7,0.714880896783298,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+54,1,"14:50",2090,2090,"George Willborn III Defensive Rebound.",14,7,7,0.714880896783298,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+55,1,"14:44",2084,2084,"Jhivvan Jackson missed Three Point Jumper.",14,7,7,0.702694179640498,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+56,1,"14:44",2084,2084,"Chandler Solis Defensive Rebound.",14,7,7,0.702694179640498,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+57,1,"14:28",2068,2068,"Chandler Solis missed Three Point Jumper.",14,7,7,0.702654813620731,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+58,1,"14:28",2068,2068,"Jhivvan Jackson Defensive Rebound.",14,7,7,0.702654813620731,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+59,1,"14:20",2060,2060,"Keaton Wallace missed Layup.",14,7,7,0.702654813620731,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+60,1,"14:20",2060,2060,"Kendell Ramlal Offensive Rebound.",14,7,7,0.702654813620731,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+61,1,"14:18",2058,2058,"Kendell Ramlal made Jumper.",16,7,9,0.742659077598089,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+62,1,"14:18",2058,2058,"Foul on Lucas Lenoir.",16,7,9,0.742659077598089,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+63,1,"14:18",2058,2058,"Kendell Ramlal made Free Throw.",17,7,10,0.764406639961424,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+64,1,"14:08",2048,2048,"Foul on Deon Lyle.",17,7,10,0.750727199731554,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+65,1,"14:03",2043,2043,"Cade Hinkle missed Three Point Jumper.",17,7,10,0.750727199731554,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+66,1,"14:03",2043,2043,"Austin Karrer Defensive Rebound.",17,7,10,0.750727199731554,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+67,1,"13:55",2035,2035,"Foul on Matthew Mcclain.",17,7,10,0.767390902776416,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+68,1,"13:55",2035,2035,"Kendell Ramlal made Free Throw.",18,7,11,0.786631968030074,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+69,1,"13:55",2035,2035,"Kendell Ramlal missed Free Throw.",18,7,11,0.786631968030074,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+70,1,"13:55",2035,2035,"Byron Frohnen Offensive Rebound.",18,7,11,0.786631968030074,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+71,1,"13:52",2032,2032,"Byron Frohnen made Layup.",20,7,13,0.821559914913896,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+72,1,"13:39",2019,2019,"Lucas Lenoir Turnover.",20,7,13,0.829297111402169,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+73,1,"13:38",2018,2018,"Keaton Wallace Steal.",20,7,13,0.829297111402169,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+74,1,"13:36",2016,2016,"Keaton Wallace Turnover.",20,7,13,0.829297111402169,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+75,1,"13:22",2002,2002,"Foul on Jhivvan Jackson.",20,7,13,0.812929195570407,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+76,1,"13:22",2002,2002,"Ahmad Onezime made Free Throw.",20,8,12,0.795565547129086,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+77,1,"13:22",2002,2002,"Ahmad Onezime made Free Throw.",20,9,11,0.777032273043977,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+78,1,"13:09",1989,1989,"Jhivvan Jackson missed Layup.",20,9,11,0.800140266288479,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+79,1,"13:09",1989,1989,"Matthew Mcclain Defensive Rebound.",20,9,11,0.800140266288479,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+80,1,"12:53",1973,1973,"Desmond Ross missed Three Point Jumper.",20,9,11,0.810407237704706,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+81,1,"12:53",1973,1973,"Nick Allen Defensive Rebound.",20,9,11,0.810407237704706,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+82,1,"12:43",1963,1963,"Byron Frohnen missed Layup.",20,9,11,0.770444296949786,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+83,1,"12:43",1963,1963,"Chandler Solis Block.",20,9,11,0.770444296949786,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+84,1,"12:42",1962,1962,"UT San Antonio Offensive Rebound.",20,9,11,0.770444296949786,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+85,1,"12:41",1961,1961,"Foul on Ahmad Onezime.",20,9,11,0.770444296949786,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+86,1,"12:41",1961,1961,"Jhivvan Jackson made Free Throw.",21,9,12,0.788649103908823,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+87,1,"12:41",1961,1961,"Jhivvan Jackson made Free Throw.",22,9,13,0.805774144048322,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+88,1,"12:30",1950,1950,"Foul on Jhivvan Jackson.",22,9,13,0.84807944009145,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+89,1,"12:30",1950,1950,"Desmond Ross missed Free Throw.",22,9,13,0.84807944009145,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+90,1,"12:30",1950,1950,"Ottawa (AZ) Deadball Team Rebound.",22,9,13,0.84807944009145,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+91,1,"12:30",1950,1950,"Desmond Ross missed Free Throw.",22,9,13,0.84807944009145,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+92,1,"12:30",1950,1950,"Byron Frohnen Defensive Rebound.",22,9,13,0.84807944009145,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+93,1,"12:20",1940,1940,"Giovanni De Nicolao made Layup.",24,9,15,0.874231492313484,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+94,1,"12:13",1933,1933,"Ahmad Onezime Turnover.",24,9,15,0.875611406847908,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+95,1,"12:03",1923,1923,"Foul on Ahmad Onezime.",24,9,15,0.868238024801783,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+96,1,"12:03",1923,1923,"Jhivvan Jackson made Free Throw.",25,9,16,0.881989245792532,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+97,1,"12:03",1923,1923,"Jhivvan Jackson made Free Throw.",26,9,17,0.894479750122925,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+98,1,"11:54",1914,1914,"Michael Imholz Turnover.",26,9,17,0.910583204865988,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+99,1,"11:53",1913,1913,"Austin Karrer Steal.",26,9,17,0.910583204865988,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+100,1,"11:43",1903,1903,"Byron Frohnen missed Jumper.",26,9,17,0.883351905322436,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+101,1,"11:43",1903,1903,"Tanner Riley Defensive Rebound.",26,9,17,0.883351905322436,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+102,1,"11:40",1900,1900,"Official TV Timeout",26,9,17,0.883351905322436,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+103,1,"11:28",1888,1888,"Tanner Riley missed Jumper.",26,9,17,0.892501714888698,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+104,1,"11:28",1888,1888,"Toby Van Ry Block.",26,9,17,0.892501714888698,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+105,1,"11:25",1885,1885,"Byron Frohnen Defensive Rebound.",26,9,17,0.892501714888698,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+106,1,"11:08",1868,1868,"Giovanni De Nicolao made Layup.",28,9,19,0.935787008843977,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+107,1,"11:00",1860,1860,"Tanner Riley missed Three Point Jumper.",28,9,19,0.935787008843977,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+108,1,"11:00",1860,1860,"Byron Frohnen Defensive Rebound.",28,9,19,0.935787008843977,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+109,1,"10:52",1852,1852,"Toby Van Ry missed Three Point Jumper.",28,9,19,0.92517796507155,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+110,1,"10:52",1852,1852,"Chandler Solis Defensive Rebound.",28,9,19,0.92517796507155,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+111,1,"10:43",1843,1843,"Foul on Giovanni De Nicolao.",28,9,19,0.910838597770786,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+112,1,"10:43",1843,1843,"Michael Imholz missed Free Throw.",28,9,19,0.910838597770786,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+113,1,"10:43",1843,1843,"Ottawa (AZ) Deadball Team Rebound.",28,9,19,0.910838597770786,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+114,1,"10:43",1843,1843,"Michael Imholz missed Free Throw.",28,9,19,0.910838597770786,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+115,1,"10:43",1843,1843,"Toby Van Ry Defensive Rebound.",28,9,19,0.910838597770786,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+116,1,"10:33",1833,1833,"George Willborn III made Three Point Jumper. Assisted by Austin Karrer.",31,9,22,0.946364741630478,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+117,1,"10:16",1816,1816,"Foul on Austin Karrer.",31,9,22,0.958563664162538,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+118,1,"10:16",1816,1816,"Tanner Riley made Free Throw.",31,10,21,0.952655155810347,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+119,1,"10:16",1816,1816,"Tanner Riley made Free Throw.",31,11,20,0.945951643443243,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+120,1,"10:04",1804,1804,"Deon Lyle made Jumper.",33,11,22,0.945725321208507,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+121,1,"9:40",1780,1780,"Michael Imholz missed Jumper.",33,11,22,0.953732721565315,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+122,1,"9:40",1780,1780,"Michael Imholz Offensive Rebound.",33,11,22,0.953732721565315,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+123,1,"9:33",1773,1773,"Michael Imholz made Two Point Tip Shot.",33,13,20,0.919634615396142,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+124,1,"9:29",1769,1769,"Deon Lyle missed Jumper.",33,13,20,0.934107451326936,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+125,1,"9:29",1769,1769,"Ottawa (AZ) Defensive Rebound.",33,13,20,0.934107451326936,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+126,1,"9:02",1742,1742,"Lucas Lenoir missed Layup.",33,13,20,0.933331647555995,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+127,1,"9:02",1742,1742,"Jhivvan Jackson Defensive Rebound.",33,13,20,0.933331647555995,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+128,1,"8:55",1735,1735,"Jhivvan Jackson missed Layup.",33,13,20,0.9419067920575,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+129,1,"8:55",1735,1735,"Ottawa (AZ) Defensive Rebound.",33,13,20,0.9419067920575,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+130,1,"8:48",1728,1728,"Tanner Riley made Three Point Jumper. Assisted by Lucas Lenoir.",33,16,17,0.918511718514952,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+131,1,"8:35",1715,1715,"George Willborn III missed Layup.",33,16,17,0.910760761110273,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+132,1,"8:35",1715,1715,"Toby Van Ry Offensive Rebound.",33,16,17,0.910760761110273,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+133,1,"8:27",1707,1707,"George Willborn III missed Layup.",33,16,17,0.898157368718998,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+134,1,"8:27",1707,1707,"Chandler Solis Block.",33,16,17,0.898157368718998,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+135,1,"8:27",1707,1707,"UT San Antonio Offensive Rebound.",33,16,17,0.898157368718998,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+136,1,"8:26",1706,1706,"George Willborn III missed Layup.",33,16,17,0.898157368718998,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+137,1,"8:26",1706,1706,"Matthew Mcclain Defensive Rebound.",33,16,17,0.898157368718998,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+138,1,"8:26",1706,1706,"Tanner Riley missed Layup.",33,16,17,0.898157368718998,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+139,1,"8:26",1706,1706,"Toby Van Ry Defensive Rebound.",33,16,17,0.898157368718998,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+140,1,"8:26",1706,1706,"George Willborn III missed Jumper.",33,16,17,0.898157368718998,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+141,1,"8:26",1706,1706,"Lucas Lenoir Defensive Rebound.",33,16,17,0.898157368718998,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+142,1,"8:06",1686,1686,"Foul on George Willborn III.",33,16,17,0.925194930916226,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+143,1,"8:06",1686,1686,"Lucas Lenoir made Free Throw.",33,17,16,0.914492274888413,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+144,1,"8:06",1686,1686,"Lucas Lenoir missed Free Throw.",33,17,16,0.914492274888413,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+145,1,"8:06",1686,1686,"Mitar Stanojevic Defensive Rebound.",33,17,16,0.914492274888413,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+146,1,"7:52",1672,1672,"Jhivvan Jackson made Jumper. Assisted by Keaton Wallace.",35,17,18,0.927933872300665,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+147,1,"7:34",1654,1654,"Ahmad Onezime missed Three Point Jumper.",35,17,18,0.921966789689448,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+148,1,"7:34",1654,1654,"Jhivvan Jackson Defensive Rebound.",35,17,18,0.921966789689448,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+149,1,"7:26",1646,1646,"Jhivvan Jackson made Three Point Jumper.",38,17,21,0.952816695156958,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+150,1,"7:12",1632,1632,"Ahmad Onezime Turnover.",38,17,21,0.946165261822826,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+151,1,"7:12",1632,1632,"Official TV Timeout",38,17,21,0.946165261822826,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+152,1,"7:03",1623,1623,"Keaton Wallace made Three Point Jumper.",41,17,24,0.968342677618578,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+153,1,"6:41",1601,1601,"Matthew Mcclain made Jumper.",41,19,22,0.947998840092983,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+154,1,"6:32",1592,1592,"Keaton Wallace made Jumper.",43,19,24,0.966526289428676,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+155,1,"6:14",1574,1574,"Desmond Ross Turnover.",43,19,24,0.977972380551035,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+156,1,"6:14",1574,1574,"Jhivvan Jackson Steal.",43,19,24,0.977972380551035,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+157,1,"6:09",1569,1569,"Mitar Stanojevic made Layup. Assisted by Keaton Wallace.",45,19,26,0.975818085290932,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+158,1,"5:59",1559,1559,"Desmond Ross missed Jumper.",45,19,26,0.977077450919622,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+159,1,"5:59",1559,1559,"Nick Allen Defensive Rebound.",45,19,26,0.977077450919622,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+160,1,"5:50",1550,1550,"Jhivvan Jackson made Three Point Jumper.",48,19,29,0.984978942544244,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+161,1,"5:41",1541,1541,"Foul on Jhivvan Jackson.",48,19,29,0.983528674612394,"UTSA","Ottawa University Arizona",4,4,0,1,NA,400992560,2017-11-30
+162,1,"5:41",1541,1541,"Ahmad Onezime made Free Throw.",48,20,28,0.981119992055106,"UTSA","Ottawa University Arizona",4,4,0,1,NA,400992560,2017-11-30
+163,1,"5:41",1541,1541,"Ahmad Onezime made Free Throw.",48,21,27,0.978366823594707,"UTSA","Ottawa University Arizona",4,4,0,1,NA,400992560,2017-11-30
+164,1,"5:41",1541,1541,"Ottawa (AZ)  Timeout",48,21,27,0.978366823594707,"UTSA","Ottawa University Arizona",4,3,0,1,NA,400992560,2017-11-30
+165,1,"5:29",1529,1529,"Nick Allen made Three Point Jumper.",51,21,30,0.986938191399295,"UTSA","Ottawa University Arizona",4,3,0,1,NA,400992560,2017-11-30
+166,1,"5:08",1508,1508,"Ahmad Onezime Turnover.",51,21,30,0.986890262869229,"UTSA","Ottawa University Arizona",4,3,0,1,NA,400992560,2017-11-30
+167,1,"5:04",1504,1504,"Mitar Stanojevic made Layup. Assisted by Austin Karrer.",53,21,32,0.990108695257497,"UTSA","Ottawa University Arizona",4,3,0,1,NA,400992560,2017-11-30
+168,1,"4:38",1478,1478,"Foul on Tanner Riley.",53,21,32,0.992761896092622,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+169,1,"4:38",1478,1478,"Tanner Riley Turnover.",53,21,32,0.992761896092622,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+170,1,"4:28",1468,1468,"Byron Frohnen missed Jumper.",53,21,32,0.989837568977614,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+171,1,"4:28",1468,1468,"Michael Imholz Block.",53,21,32,0.989837568977614,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+172,1,"4:26",1466,1466,"Byron Frohnen Offensive Rebound.",53,21,32,0.989837568977614,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+173,1,"4:22",1462,1462,"Deon Lyle Turnover.",53,21,32,0.989837568977614,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+174,1,"4:22",1462,1462,"Tanner Riley Steal.",53,21,32,0.989837568977614,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+175,1,"4:19",1459,1459,"Tanner Riley missed Layup.",53,21,32,0.991142542412164,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+176,1,"4:19",1459,1459,"Deon Lyle Block.",53,21,32,0.991142542412164,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+177,1,"4:17",1457,1457,"Austin Karrer Defensive Rebound.",53,21,32,0.991142542412164,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+178,1,"4:11",1451,1451,"Austin Karrer Turnover.",53,21,32,0.991142542412164,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+179,1,"4:03",1443,1443,"Cade Hinkle missed Three Point Jumper.",53,21,32,0.993442312281991,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+180,1,"4:03",1443,1443,"Byron Frohnen Defensive Rebound.",53,21,32,0.993442312281991,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+181,1,"3:53",1433,1433,"Official TV Timeout",53,21,32,0.992459272049784,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+182,1,"3:51",1431,1431,"Deon Lyle made Layup. Assisted by Giovanni De Nicolao.",55,21,34,0.994392784613999,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+183,1,"3:36",1416,1416,"Tanner Riley missed Layup.",55,21,34,0.995107746640879,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+184,1,"3:36",1416,1416,"Giovanni De Nicolao Defensive Rebound.",55,21,34,0.995107746640879,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+185,1,"3:24",1404,1404,"Deon Lyle made Three Point Jumper.",58,21,37,0.997118172805407,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+186,1,"3:12",1392,1392,"Tanner Riley missed Three Point Jumper.",58,21,37,0.996705069544176,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+187,1,"3:12",1392,1392,"Cade Hinkle Offensive Rebound.",58,21,37,0.996705069544176,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+188,1,"2:50",1370,1370,"Lucas Lenoir missed Layup.",58,21,37,0.995199999706608,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+189,1,"2:50",1370,1370,"Kendell Ramlal Block.",58,21,37,0.995199999706608,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+190,1,"2:49",1369,1369,"Giovanni De Nicolao Defensive Rebound.",58,21,37,0.996795722444916,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+191,1,"2:42",1362,1362,"Byron Frohnen missed Layup.",58,21,37,0.996795722444916,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+192,1,"2:42",1362,1362,"Chandler Solis Defensive Rebound.",58,21,37,0.996795722444916,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+193,1,"2:38",1358,1358,"Foul on Byron Frohnen.",58,21,37,0.997068703904299,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+194,1,"2:38",1358,1358,"Tanner Riley made Free Throw.",58,22,36,0.996580706727683,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+195,1,"2:38",1358,1358,"Tanner Riley made Free Throw.",58,23,35,0.996011793571241,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+196,1,"2:30",1350,1350,"Keaton Wallace made Jumper.",60,23,37,0.997068703904299,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+197,1,"2:12",1332,1332,"Chandler Solis missed Three Point Jumper.",60,23,37,0.996851612898998,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+198,1,"2:12",1332,1332,"UT San Antonio Defensive Rebound.",60,23,37,0.996851612898998,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+199,1,"1:56",1316,1316,"Kendell Ramlal missed Jumper.",60,23,37,0.997438370807764,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+200,1,"1:56",1316,1316,"Matthew Mcclain Defensive Rebound.",60,23,37,0.997438370807764,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+201,1,"1:27",1287,1287,"Matthew Mcclain missed Jumper.",60,23,37,0.99626882927236,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+202,1,"1:27",1287,1287,"Nick Allen Defensive Rebound.",60,23,37,0.99626882927236,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+203,1,"1:08",1268,1268,"George Willborn III made Jumper.",62,23,39,0.998144804685441,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+204,1,"0:57",1257,1257,"Chandler Solis Turnover.",62,23,39,0.99744244591598,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+205,1,"0:57",1257,1257,"Giovanni De Nicolao Steal.",62,23,39,0.99744244591598,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+206,1,"0:54",1254,1254,"George Willborn III Turnover.",62,23,39,0.99744244591598,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+207,1,"0:35",1235,1235,"Matthew Mcclain made Layup. Assisted by Lucas Lenoir.",62,25,37,0.997494592204011,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+208,1,"0:04",1204,1204,"Keaton Wallace missed Layup.",62,25,37,0.997379459341714,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+209,1,"0:04",1204,1204,"Matthew Mcclain Block.",62,25,37,0.997379459341714,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+210,1,"0:03",1203,1203,"George Willborn III Offensive Rebound.",62,25,37,0.997379459341714,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+211,1,"0:00",1200,1200,"End of 1st half",62,25,37,0.997379459341714,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+212,2,"20:00",1200,1200,"PLAY",62,25,37,0.997379459341714,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+213,2,"19:48",1188,1188,"Nick Allen made Three Point Jumper. Assisted by Byron Frohnen.",65,25,40,0.998730846235413,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+214,2,"19:24",1164,1164,"Desmond Ross missed Jumper.",65,25,40,0.998587705509061,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+215,2,"19:24",1164,1164,"UT San Antonio Defensive Rebound.",65,25,40,0.998587705509061,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+216,2,"19:05",1145,1145,"Nick Allen missed Three Point Jumper.",65,25,40,0.99905054457791,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+217,2,"19:05",1145,1145,"Giovanni De Nicolao Offensive Rebound.",65,25,40,0.99905054457791,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+218,2,"18:59",1139,1139,"Nick Allen made Layup. Assisted by Austin Karrer.",67,25,42,0.999004477356764,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+219,2,"18:41",1121,1121,"Ahmad Onezime Turnover.",67,25,42,0.999611412353585,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+220,2,"18:40",1120,1120,"Giovanni De Nicolao Steal.",67,25,42,0.999611412353585,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+221,2,"18:38",1118,1118,"Keaton Wallace missed Dunk.",67,25,42,0.999360648878605,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+222,2,"18:38",1118,1118,"Ottawa (AZ) Defensive Rebound.",67,25,42,0.999360648878605,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+223,2,"18:22",1102,1102,"Tanner Riley missed Jumper.",67,25,42,0.999019533814685,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+224,2,"18:22",1102,1102,"Byron Frohnen Defensive Rebound.",67,25,42,0.999019533814685,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+225,2,"18:15",1095,1095,"Byron Frohnen made Layup.",69,25,44,0.999515835095169,"UTSA","Ottawa University Arizona",4,4,0,0,NA,400992560,2017-11-30
+226,2,"18:11",1091,1091,"Ottawa (AZ)  Timeout",69,25,44,0.999515835095169,"UTSA","Ottawa University Arizona",4,3,0,1,NA,400992560,2017-11-30
+227,2,"17:53",1073,1073,"Matthew Mcclain missed Jumper.",69,25,44,0.999459220624665,"UTSA","Ottawa University Arizona",4,3,0,1,NA,400992560,2017-11-30
+228,2,"17:53",1073,1073,"Giovanni De Nicolao Defensive Rebound.",69,25,44,0.999459220624665,"UTSA","Ottawa University Arizona",4,3,0,1,NA,400992560,2017-11-30
+229,2,"17:43",1063,1063,"Keaton Wallace Turnover.",69,25,44,0.999558284754315,"UTSA","Ottawa University Arizona",4,3,0,1,NA,400992560,2017-11-30
+230,2,"17:39",1059,1059,"Desmond Ross missed Layup.",69,25,44,0.999670694318577,"UTSA","Ottawa University Arizona",4,3,0,1,NA,400992560,2017-11-30
+231,2,"17:39",1059,1059,"Keaton Wallace Defensive Rebound.",69,25,44,0.999670694318577,"UTSA","Ottawa University Arizona",4,3,0,1,NA,400992560,2017-11-30
+232,2,"17:31",1051,1051,"Keaton Wallace missed Three Point Jumper.",69,25,44,0.999670694318577,"UTSA","Ottawa University Arizona",4,3,0,1,NA,400992560,2017-11-30
+233,2,"17:31",1051,1051,"Michael Imholz Defensive Rebound.",69,25,44,0.999670694318577,"UTSA","Ottawa University Arizona",4,3,0,1,NA,400992560,2017-11-30
+234,2,"17:11",1031,1031,"Tanner Riley made Layup.",69,27,42,0.999278219122306,"UTSA","Ottawa University Arizona",4,3,0,1,NA,400992560,2017-11-30
+235,2,"16:59",1019,1019,"Giovanni De Nicolao missed Layup.",69,27,42,0.999514195295134,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+236,2,"16:59",1019,1019,"Michael Imholz Defensive Rebound.",69,27,42,0.999514195295134,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+237,2,"16:55",1015,1015,"Michael Imholz Turnover.",69,27,42,0.999514195295134,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+238,2,"16:54",1014,1014,"Giovanni De Nicolao Steal.",69,27,42,0.999514195295134,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+239,2,"16:54",1014,1014,"Foul on Michael Imholz.",69,27,42,0.999514195295134,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+240,2,"16:54",1014,1014,"Giovanni De Nicolao made Free Throw.",70,27,43,0.999595265427867,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+241,2,"16:54",1014,1014,"Giovanni De Nicolao made Free Throw.",71,27,44,0.999662811300438,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+242,2,"16:42",1002,1002,"Chandler Solis made Three Point Jumper. Assisted by Tanner Riley.",71,30,41,0.999515688891417,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+243,2,"16:35",995,995,"Jhivvan Jackson missed Three Point Jumper.",71,30,41,0.9993362904085,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+244,2,"16:35",995,995,"Ottawa (AZ) Deadball Team Rebound.",71,30,41,0.9993362904085,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+245,2,"16:32",992,992,"Foul on George Willborn III.",71,30,41,0.9993362904085,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+246,2,"16:31",991,991,"Chandler Solis Turnover.",71,30,41,0.9993362904085,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+247,2,"16:30",990,990,"Giovanni De Nicolao Steal.",71,30,41,0.9993362904085,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+248,2,"16:29",989,989,"Giovanni De Nicolao missed Layup.",71,30,41,0.999757967702662,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+249,2,"16:29",989,989,"Chandler Solis Defensive Rebound.",71,30,41,0.999757967702662,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+250,2,"16:23",983,983,"Cade Hinkle made Jumper. Assisted by Chandler Solis.",71,32,39,0.999639113867148,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+251,2,"16:09",969,969,"George Willborn III made Three Point Jumper. Assisted by Jhivvan Jackson.",74,32,42,0.999601448365241,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+252,2,"15:45",945,945,"Chandler Solis missed Three Point Jumper.",74,32,42,0.999720202557892,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+253,2,"15:45",945,945,"Nick Allen Defensive Rebound.",74,32,42,0.999720202557892,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+254,2,"15:43",943,943,"Foul on Matthew Mcclain.",74,32,42,0.999720202557892,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+255,2,"15:43",943,943,"Official TV Timeout",74,32,42,0.999720202557892,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+256,2,"15:42",942,942,"Official TV Timeout",74,32,42,0.999720202557892,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+257,2,"15:35",935,935,"Jhivvan Jackson Turnover.",74,32,42,0.999694313054968,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+258,2,"15:14",914,914,"Cade Hinkle made Jumper.",74,34,40,0.999618094017532,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+259,2,"15:03",903,903,"Foul on Matthew Mcclain.",74,34,40,0.999551384894032,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+260,2,"15:03",903,903,"Nick Allen made Free Throw.",75,34,41,0.999629474359995,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+261,2,"15:03",903,903,"Nick Allen made Free Throw.",76,34,42,0.999693975122308,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+262,2,"14:49",889,889,"Desmond Ross missed Jumper.",76,34,42,0.999346338867056,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+263,2,"14:49",889,889,"Byron Frohnen Block.",76,34,42,0.999346338867056,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+264,2,"14:48",888,888,"George Willborn III Defensive Rebound.",76,34,42,0.999346338867056,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+265,2,"14:42",882,882,"George Willborn III made Layup. Assisted by Byron Frohnen.",78,34,44,0.999538227506618,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+266,2,"14:35",875,875,"Tanner Riley missed Jumper.",78,34,44,0.999806344089178,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+267,2,"14:35",875,875,"Matthew Mcclain Offensive Rebound.",78,34,44,0.999806344089178,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+268,2,"14:32",872,872,"Matthew Mcclain made Two Point Tip Shot.",78,36,42,0.999715356559869,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+269,2,"14:21",861,861,"George Willborn III missed Layup.",78,36,42,0.999681470578314,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+270,2,"14:21",861,861,"Tanner Riley Block.",78,36,42,0.999681470578314,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+271,2,"14:21",861,861,"UT San Antonio Offensive Rebound.",78,36,42,0.999681470578314,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+272,2,"14:21",861,861,"Foul on Jhivvan Jackson.",78,36,42,0.999681470578314,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+273,2,"14:21",861,861,"Jhivvan Jackson Turnover.",78,36,42,0.999681470578314,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+274,2,"14:03",843,843,"Cade Hinkle missed Three Point Jumper.",78,36,42,0.9998727756399,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+275,2,"14:03",843,843,"Kendell Ramlal Defensive Rebound.",78,36,42,0.9998727756399,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+276,2,"13:47",827,827,"Foul on Cade Hinkle.",78,36,42,0.999648731980029,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+277,2,"13:42",822,822,"Kendell Ramlal missed Jumper.",78,36,42,0.999648731980029,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+278,2,"13:42",822,822,"Deon Lyle Offensive Rebound.",78,36,42,0.999648731980029,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+279,2,"13:40",820,820,"Deon Lyle missed Jumper.",78,36,42,0.999648731980029,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+280,2,"13:40",820,820,"George Willborn III Offensive Rebound.",78,36,42,0.999648731980029,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+281,2,"13:39",819,819,"George Willborn III made Two Point Tip Shot.",80,36,44,0.999816673184148,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+282,2,"13:39",819,819,"Foul on Michael Imholz.",80,36,44,0.999816673184148,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+283,2,"13:39",819,819,"George Willborn III made Free Throw.",81,36,45,0.999849316148039,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+284,2,"13:23",803,803,"Ahmad Onezime missed Three Point Jumper.",81,36,45,0.999905121701964,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+285,2,"13:23",803,803,"Cade Hinkle Offensive Rebound.",81,36,45,0.999905121701964,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+286,2,"12:57",777,777,"Foul on Kendell Ramlal.",81,36,45,0.999926337542742,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+287,2,"12:47",767,767,"Michael Imholz missed Layup.",81,36,45,0.999946665486915,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+288,2,"12:47",767,767,"Deon Lyle Defensive Rebound.",81,36,45,0.999946665486915,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+289,2,"12:41",761,761,"Jhivvan Jackson missed Jumper.",81,36,45,0.999946665486915,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+290,2,"12:41",761,761,"Deon Lyle Offensive Rebound.",81,36,45,0.999946665486915,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+291,2,"12:36",756,756,"Keaton Wallace missed Three Point Jumper.",81,36,45,0.999945449103967,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+292,2,"12:36",756,756,"Ahmad Onezime Defensive Rebound.",81,36,45,0.999945449103967,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+293,2,"12:10",730,730,"Lucas Lenoir made Three Point Jumper.",81,39,42,0.999880230301013,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+294,2,"11:59",719,719,"Foul on Deon Lyle.",81,39,42,0.999893464119255,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+295,2,"11:59",719,719,"Deon Lyle Turnover.",81,39,42,0.999893464119255,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+296,2,"11:59",719,719,"Official TV Timeout",81,39,42,0.999893464119255,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+297,2,"11:51",711,711,"Chandler Solis missed Three Point Jumper.",81,39,42,0.999893464119255,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+298,2,"11:51",711,711,"Desmond Ross Offensive Rebound.",81,39,42,0.999893464119255,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+299,2,"11:45",705,705,"Foul on Toby Van Ry.",81,39,42,0.999883034595189,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+300,2,"11:45",705,705,"Matthew Mcclain made Free Throw.",81,40,41,0.999855317367283,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+301,2,"11:45",705,705,"Matthew Mcclain made Free Throw.",81,41,40,0.99982103317868,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+302,2,"11:31",691,691,"Jhivvan Jackson made Jumper.",83,41,42,0.999955965391014,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+303,2,"11:17",677,677,"Ahmad Onezime missed Three Point Jumper.",83,41,42,0.999943564310111,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+304,2,"11:17",677,677,"George Willborn III Defensive Rebound.",83,41,42,0.999943564310111,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+305,2,"11:10",670,670,"Deon Lyle made Three Point Jumper. Assisted by Jhivvan Jackson.",86,41,45,0.999971901159539,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+306,2,"10:55",655,655,"Tanner Riley missed Layup.",86,41,45,0.999980119955981,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+307,2,"10:55",655,655,"Toby Van Ry Block.",86,41,45,0.999980119955981,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+308,2,"10:53",653,653,"Austin Karrer Defensive Rebound.",86,41,45,0.999980119955981,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+309,2,"10:49",649,649,"Austin Karrer made Layup. Assisted by George Willborn III.",88,41,47,0.999988357678381,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+310,2,"10:42",642,642,"Tanner Riley missed Three Point Jumper.",88,41,47,0.999988357678381,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+311,2,"10:42",642,642,"Austin Karrer Defensive Rebound.",88,41,47,0.999988357678381,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+312,2,"10:34",634,634,"George Willborn III missed Layup.",88,41,47,0.999985797292205,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+313,2,"10:34",634,634,"Matthew Mcclain Defensive Rebound.",88,41,47,0.999985797292205,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+314,2,"10:26",626,626,"Tanner Riley made Three Point Jumper. Assisted by Desmond Ross.",88,44,44,0.999985038382772,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+315,2,"10:12",612,612,"Jhivvan Jackson made Three Point Jumper.",91,44,47,0.999992502521514,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+316,2,"10:00",600,600,"Tanner Riley missed Three Point Jumper.",91,44,47,0.99999052830048,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+317,2,"10:00",600,600,"Toby Van Ry Defensive Rebound.",91,44,47,0.99999052830048,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+318,2,"9:41",581,581,"Jhivvan Jackson Turnover.",91,44,47,0.999989045655722,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+319,2,"9:39",579,579,"Ahmad Onezime Steal.",91,44,47,0.999994291627387,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+320,2,"9:37",577,577,"Ahmad Onezime made Layup.",91,46,45,0.999990527466178,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+321,2,"9:21",561,561,"Foul on Tanner Riley.",91,46,45,0.999991737875078,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+322,2,"9:21",561,561,"George Willborn III made Free Throw.",92,46,46,0.999993616437072,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+323,2,"9:21",561,561,"George Willborn III made Free Throw.",93,46,47,0.999995067871929,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+324,2,"9:09",549,549,"Cade Hinkle Turnover.",93,46,47,0.999996595896337,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+325,2,"9:08",548,548,"Keaton Wallace Steal.",93,46,47,0.999996595896337,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+326,2,"9:04",544,544,"Austin Karrer made Layup. Assisted by Keaton Wallace.",95,46,49,0.999998008375546,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+327,2,"9:00",540,540,"Dimetres Moore Turnover.",95,46,49,0.999998008375546,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+328,2,"8:58",538,538,"George Willborn III missed Layup.",95,46,49,0.999999129003726,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+329,2,"8:58",538,538,"UT San Antonio Offensive Rebound.",95,46,49,0.999999129003726,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+330,2,"8:54",534,534,"James Ringholt missed Jumper.",95,46,49,0.999999129003726,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+331,2,"8:54",534,534,"Desmond Ross Defensive Rebound.",95,46,49,0.999999129003726,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+332,2,"8:45",525,525,"Desmond Ross made Three Point Jumper.",95,49,46,0.999996808298879,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+333,2,"8:21",501,501,"George Willborn III made Three Point Jumper.",98,49,49,0.999998527945527,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+334,2,"8:07",487,487,"Desmond Ross missed Jumper.",98,49,49,0.999998579925904,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+335,2,"8:07",487,487,"George Willborn III Defensive Rebound.",98,49,49,0.999998579925904,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+336,2,"7:58",478,478,"Deon Lyle missed Three Point Jumper.",98,49,49,0.999999389813269,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+337,2,"7:58",478,478,"Ahmad Onezime Defensive Rebound.",98,49,49,0.999999389813269,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+338,2,"7:49",469,469,"Ahmad Onezime missed Layup.",98,49,49,0.999999031781742,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+339,2,"7:49",469,469,"James Ringholt Defensive Rebound.",98,49,49,0.999999031781742,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+340,2,"7:48",468,468,"Foul on Michael Imholz.",98,49,49,0.999999031781742,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+341,2,"7:48",468,468,"Official TV Timeout",98,49,49,0.999999031781742,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+342,2,"7:48",468,468,"James Ringholt made Free Throw.",99,49,50,0.999999269624844,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+343,2,"7:48",468,468,"James Ringholt made Free Throw.",100,49,51,0.99999944904175,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+344,2,"7:37",457,457,"Ahmad Onezime missed Jumper.",100,49,51,0.999999908503025,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+345,2,"7:37",457,457,"Keaton Wallace Block.",100,49,51,0.999999908503025,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+346,2,"7:36",456,456,"George Willborn III Defensive Rebound.",100,49,51,0.999999908503025,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+347,2,"7:29",449,449,"James Ringholt made Layup. Assisted by Mitar Stanojevic.",102,49,53,0.999999594551384,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+348,2,"7:11",431,431,"Cade Hinkle made Jumper. Assisted by Desmond Ross.",102,51,51,0.999999861579885,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+349,2,"7:03",423,423,"Foul on Desmond Ross.",102,51,51,0.999999741828914,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+350,2,"7:03",423,423,"James Ringholt made Free Throw.",103,51,52,0.99999980822059,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+351,2,"7:03",423,423,"James Ringholt made Free Throw.",104,51,53,0.999999857538882,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+352,2,"6:55",415,415,"Foul on Giovanni De Nicolao.",104,51,53,0.999999888051911,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+353,2,"6:50",410,410,"Desmond Ross missed Three Point Jumper.",104,51,53,0.999999888051911,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+354,2,"6:50",410,410,"George Willborn III Defensive Rebound.",104,51,53,0.999999888051911,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+355,2,"6:32",392,392,"Mitar Stanojevic made Layup. Assisted by James Ringholt.",106,51,55,0.999999968956404,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+356,2,"6:22",382,382,"Matthew Mcclain missed Jumper.",106,51,55,0.999999925819105,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+357,2,"6:22",382,382,"Mitar Stanojevic Defensive Rebound.",106,51,55,0.999999925819105,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+358,2,"6:09",369,369,"Foul on Dimetres Moore.",106,51,55,0.999999981854324,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+359,2,"6:09",369,369,"Giovanni De Nicolao missed Free Throw.",106,51,55,0.999999981854324,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+360,2,"6:09",369,369,"UT San Antonio Deadball Team Rebound.",106,51,55,0.999999981854324,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+361,2,"6:09",369,369,"Giovanni De Nicolao made Free Throw.",107,51,56,0.999999986860826,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+362,2,"5:55",355,355,"Ahmad Onezime missed Three Point Jumper.",107,51,56,0.999999994071218,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+363,2,"5:55",355,355,"James Ringholt Defensive Rebound.",107,51,56,0.999999994071218,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+364,2,"5:48",348,348,"George Willborn III missed Layup.",107,51,56,0.999999992102097,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+365,2,"5:48",348,348,"James Ringholt Offensive Rebound.",107,51,56,0.999999992102097,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+366,2,"5:46",346,346,"James Ringholt made Layup.",109,51,58,0.999999995955356,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+367,2,"5:46",346,346,"Foul on Lucas Lenoir.",109,51,58,0.999999995955356,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+368,2,"5:46",346,346,"James Ringholt made Free Throw.",110,51,59,0.99999999710556,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+369,2,"5:27",327,327,"Cade Hinkle made Layup.",110,53,57,0.999999982783557,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+370,2,"5:19",319,319,"Kyle Massie missed Jumper.",110,53,57,0.999999999232097,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+371,2,"5:19",319,319,"Matthew Mcclain Block.",110,53,57,0.999999999232097,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+372,2,"5:17",317,317,"Dimetres Moore Defensive Rebound.",110,53,57,0.999999999232097,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+373,2,"5:14",314,314,"Ahmad Onezime missed Layup.",110,53,57,0.999999999232097,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+374,2,"5:14",314,314,"Toby Van Ry Block.",110,53,57,0.999999999232097,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+375,2,"5:13",313,313,"Ottawa (AZ) Deadball Team Rebound.",110,53,57,0.999999999232097,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+376,2,"5:12",312,312,"Technical Foul on Toby Van Ry.",110,53,57,0.999999999232097,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+377,2,"5:12",312,312,"Foul on Toby Van Ry.",110,53,57,0.999999999232097,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+378,2,"5:12",312,312,"Matthew Mcclain missed Free Throw.",110,53,57,0.999999999232097,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+379,2,"5:12",312,312,"Ottawa (AZ) Deadball Team Rebound.",110,53,57,0.999999999232097,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+380,2,"5:12",312,312,"Matthew Mcclain made Free Throw.",110,54,56,0.999999998892034,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+381,2,"5:12",312,312,"UT San Antonio  Turnover.",110,54,56,0.999999998892034,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+382,2,"5:07",307,307,"Dimetres Moore missed Three Point Jumper.",110,54,56,0.999999994639689,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+383,2,"5:07",307,307,"Mitar Stanojevic Defensive Rebound.",110,54,56,0.999999994639689,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+384,2,"4:48",288,288,"Kendell Ramlal made Jumper. Assisted by Kyle Massie.",112,54,58,0.999999998708709,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+385,2,"4:35",275,275,"Dimetres Moore made Jumper.",112,56,56,0.999999999629139,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+386,2,"4:23",263,263,"Mitar Stanojevic made Jumper.",114,56,58,0.999999999631185,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+387,2,"4:23",263,263,"Foul on Matthew Mcclain.",114,56,58,0.999999999631185,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+388,2,"4:23",263,263,"Mitar Stanojevic made Free Throw.",115,56,59,0.999999999746074,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+389,2,"4:18",258,258,"Desmond Ross made Three Point Jumper. Assisted by Tanner Riley.",115,59,56,0.999999999949796,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+390,2,"4:05",245,245,"Foul on Matthew Mcclain.",115,59,56,0.999999999859753,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+391,2,"4:05",245,245,"Mitar Stanojevic made Free Throw.",116,59,57,0.99999999990641,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+392,2,"4:05",245,245,"Mitar Stanojevic missed Free Throw.",116,59,57,0.99999999990641,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+393,2,"4:05",245,245,"Dimetres Moore Defensive Rebound.",116,59,57,0.99999999990641,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+394,2,"3:56",236,236,"Desmond Ross missed Three Point Jumper.",116,59,57,0.999999999918936,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+395,2,"3:56",236,236,"UT San Antonio Deadball Team Rebound.",116,59,57,0.999999999918936,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+396,2,"3:53",233,233,"Official TV Timeout",116,59,57,0.999999999918936,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+397,2,"3:41",221,221,"James Ringholt missed Three Point Jumper.",116,59,57,0.999999999969939,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+398,2,"3:41",221,221,"Ottawa (AZ) Defensive Rebound.",116,59,57,0.999999999969939,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+399,2,"3:26",206,206,"Foul on Kendell Ramlal.",116,59,57,0.999999999994215,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+400,2,"3:26",206,206,"Cameron Centers made Free Throw.",116,60,56,0.999999999990909,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+401,2,"3:26",206,206,"Cameron Centers missed Free Throw.",116,60,56,0.999999999990909,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+402,2,"3:26",206,206,"James Ringholt Defensive Rebound.",116,60,56,0.999999999990909,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+403,2,"3:08",188,188,"James Ringholt missed Three Point Jumper.",116,60,56,0.999999999998421,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+404,2,"3:08",188,188,"Deon Lyle Offensive Rebound.",116,60,56,0.999999999998421,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+405,2,"3:05",185,185,"Deon Lyle made Two Point Tip Shot.",118,60,58,0.999999999999402,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+406,2,"2:56",176,176,"Kyle Werner Turnover.",118,60,58,0.999999999999653,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+407,2,"2:40",160,160,"James Ringholt made Three Point Jumper. Assisted by Toby Van Ry.",121,60,61,0.999999999999978,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+408,2,"2:26",146,146,"Cade Hinkle missed Jumper.",121,60,61,0.999999999999979,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+409,2,"2:26",146,146,"Deon Lyle Defensive Rebound.",121,60,61,0.999999999999979,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+410,2,"2:10",130,130,"James Ringholt missed Three Point Jumper.",121,60,61,0.999999999999998,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+411,2,"2:10",130,130,"Cameron Centers Defensive Rebound.",121,60,61,0.999999999999998,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+412,2,"2:00",120,120,"Dimetres Moore missed Layup.",121,60,61,0.999999999999999,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+413,2,"2:00",120,120,"James Ringholt Defensive Rebound.",121,60,61,0.999999999999999,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+414,2,"1:50",110,110,"Kyle Massie missed Jumper.",121,60,61,1,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+415,2,"1:50",110,110,"Chandler Solis Defensive Rebound.",121,60,61,1,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+416,2,"1:43",103,103,"Cade Hinkle missed Three Point Jumper.",121,60,61,1,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+417,2,"1:43",103,103,"Deon Lyle Defensive Rebound.",121,60,61,1,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+418,2,"1:36",96,96,"Kyle Massie made Layup. Assisted by Deon Lyle.",123,60,63,1,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+419,2,"1:27",87,87,"Dimetres Moore made Three Point Jumper. Assisted by Kyle Werner.",123,63,60,1,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+420,2,"1:16",76,76,"Deon Lyle missed Three Point Jumper.",123,63,60,1,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+421,2,"1:16",76,76,"Mitar Stanojevic Offensive Rebound.",123,63,60,1,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+422,2,"1:10",70,70,"Deon Lyle made Layup. Assisted by Mitar Stanojevic.",125,63,62,1,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+423,2,"0:54",54,54,"Dimetres Moore missed Jumper.",125,63,62,1,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+424,2,"0:54",54,54,"Deon Lyle Defensive Rebound.",125,63,62,1,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+425,2,"0:35",35,35,"Mitar Stanojevic missed Three Point Jumper.",125,63,62,1,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+426,2,"0:35",35,35,"Dimetres Moore Defensive Rebound.",125,63,62,1,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+427,2,"0:32",32,32,"Foul on Toby Van Ry.",125,63,62,1,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+428,2,"0:32",32,32,"Dimetres Moore made Free Throw.",125,64,61,1,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+429,2,"0:32",32,32,"Dimetres Moore missed Free Throw.",125,64,61,1,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+430,2,"0:32",32,32,"Toby Van Ry Defensive Rebound.",125,64,61,1,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+431,2,"0:06",6,6,"Kyle Massie missed Three Point Jumper.",125,64,61,1,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+432,2,"0:06",6,6,"Cade Hinkle Defensive Rebound.",125,64,61,1,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+433,2,"0:00",0,0,"Cade Hinkle missed Three Point Jumper.",125,64,61,NA,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+434,2,"0:00",0,0,"Ottawa (AZ) Deadball Team Rebound.",125,64,61,NA,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30
+435,2,"0:00",0,0,"End of Game",125,64,61,NA,"UTSA","Ottawa University Arizona",4,3,0,0,NA,400992560,2017-11-30

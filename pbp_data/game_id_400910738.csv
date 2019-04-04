@@ -1,0 +1,471 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2700,"PLAY",0,0,0,0.594491178023225,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+2,1,"20:00",2400,2700,"Jump Ball won by Mississippi St",0,0,0,0.594491178023225,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+3,1,"19:43",2383,2683,"Mario Kegler made Layup. Assisted by Lamar Peters.",2,0,2,0.609659617385651,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+4,1,"19:16",2356,2656,"Sebastian Saiz missed Jumper.",2,0,2,0.649529258296566,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+5,1,"19:16",2356,2656,"Ole Miss Offensive Rebound.",2,0,2,0.649529258296566,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+6,1,"19:04",2344,2644,"Sebastian Saiz Turnover.",2,0,2,0.632408560375626,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+7,1,"19:04",2344,2644,"Mario Kegler Steal.",2,0,2,0.632408560375626,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+8,1,"19:00",2340,2640,"I.J. Ready made Layup. Assisted by Lamar Peters.",4,0,4,0.673076503732433,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+9,1,"18:40",2320,2620,"Foul on Lamar Peters.",4,0,4,0.70421036807608,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+10,1,"18:33",2313,2613,"Terence Davis missed Three Point Jumper.",4,0,4,0.674233120077629,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+11,1,"18:33",2313,2613,"Terence Davis Offensive Rebound.",4,0,4,0.674233120077629,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+12,1,"18:25",2305,2605,"Sebastian Saiz missed Jumper.",4,0,4,0.677641523273351,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+13,1,"18:25",2305,2605,"Mario Kegler Defensive Rebound.",4,0,4,0.677641523273351,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+14,1,"18:13",2293,2593,"Schnider Herard Turnover.",4,0,4,0.687710319828299,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+15,1,"18:13",2293,2593,"Sebastian Saiz Steal.",4,0,4,0.687710319828299,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+16,1,"18:07",2287,2587,"Breein Tyree missed Layup.",4,0,4,0.683906665063856,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+17,1,"18:07",2287,2587,"Mississippi St Deadball Team Rebound.",4,0,4,0.683906665063856,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+18,1,"17:47",2267,2567,"Mario Kegler Turnover.",4,0,4,0.709734641001634,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+19,1,"17:34",2254,2554,"Marcanvis Hymon missed Layup.",4,0,4,0.684288265866554,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+20,1,"17:34",2254,2554,"Schnider Herard Block.",4,0,4,0.684288265866554,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+21,1,"17:34",2254,2554,"Mississippi St Defensive Rebound.",4,0,4,0.684288265866554,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+22,1,"17:20",2240,2540,"Xavian Stapleton missed Jumper.",4,0,4,0.685628900473121,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+23,1,"17:20",2240,2540,"Deandre Burnett Defensive Rebound.",4,0,4,0.685628900473121,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+24,1,"17:10",2230,2530,"Foul on Sebastian Saiz.",4,0,4,0.696223238072494,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+25,1,"17:10",2230,2530,"Sebastian Saiz Turnover.",4,0,4,0.696223238072494,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+26,1,"16:48",2208,2508,"Mario Kegler missed Three Point Jumper.",4,0,4,0.697862163407951,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+27,1,"16:48",2208,2508,"Deandre Burnett Defensive Rebound.",4,0,4,0.697862163407951,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+28,1,"16:33",2193,2493,"Sebastian Saiz made Jumper. Assisted by Terence Davis.",4,2,2,0.659096748621098,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+29,1,"16:04",2164,2464,"I.J. Ready missed Three Point Jumper.",4,2,2,0.642374200276008,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+30,1,"16:04",2164,2464,"Marcanvis Hymon Defensive Rebound.",4,2,2,0.642374200276008,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+31,1,"15:52",2152,2452,"Terence Davis made Three Point Jumper. Assisted by Marcanvis Hymon.",4,5,-1,0.551721280026326,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+32,1,"15:27",2127,2427,"I.J. Ready made Three Point Jumper. Assisted by Quinndary Weatherspoon.",7,5,2,0.63835858588675,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+33,1,"15:01",2101,2401,"Terence Davis missed Three Point Jumper.",7,5,2,0.638530037650546,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+34,1,"15:01",2101,2401,"Sebastian Saiz Offensive Rebound.",7,5,2,0.638530037650546,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+35,1,"14:55",2095,2395,"Sebastian Saiz made Layup.",7,7,0,0.585445026888387,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+36,1,"14:23",2063,2363,"I.J. Ready missed Jumper.",7,7,0,0.579079669930268,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+37,1,"14:23",2063,2363,"Mario Kegler Offensive Rebound.",7,7,0,0.579079669930268,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+38,1,"14:23",2063,2363,"Mario Kegler made Two Point Tip Shot.",9,7,2,0.636416015336338,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+39,1,"14:11",2051,2351,"Terence Davis missed Jumper.",9,7,2,0.636916232315646,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+40,1,"14:11",2051,2351,"Xavian Stapleton Block.",9,7,2,0.636916232315646,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+41,1,"14:11",2051,2351,"Terence Davis Offensive Rebound.",9,7,2,0.636916232315646,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+42,1,"14:11",2051,2351,"Terence Davis missed Jumper.",9,7,2,0.636916232315646,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+43,1,"14:11",2051,2351,"Sebastian Saiz Offensive Rebound.",9,7,2,0.636916232315646,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+44,1,"14:11",2051,2351,"Foul on Schnider Herard.",9,7,2,0.636916232315646,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+45,1,"14:11",2051,2351,"Official TV Timeout",9,7,2,0.636916232315646,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+46,1,"14:11",2051,2351,"Sebastian Saiz made Free Throw.",9,8,1,0.609413432913248,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+47,1,"14:11",2051,2351,"Sebastian Saiz made Free Throw.",9,9,0,0.581197210546582,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+48,1,"13:56",2036,2336,"Aric Holman Turnover.",9,9,0,0.598140459714284,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+49,1,"13:56",2036,2336,"Terence Davis Steal.",9,9,0,0.598140459714284,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+50,1,"13:33",2013,2313,"Terence Davis missed Three Point Jumper.",9,9,0,0.592926776771752,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+51,1,"13:33",2013,2313,"Xavian Stapleton Defensive Rebound.",9,9,0,0.592926776771752,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+52,1,"13:23",2003,2303,"E.J. Datcher Turnover.",9,9,0,0.582251480786551,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+53,1,"13:18",1998,2298,"Cullen Neal made Three Point Jumper. Assisted by Deandre Burnett.",9,12,-3,0.490377205763266,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+54,1,"12:56",1976,2276,"Foul on E.J. Datcher.",9,12,-3,0.495014091925088,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+55,1,"12:56",1976,2276,"E.J. Datcher Turnover.",9,12,-3,0.495014091925088,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+56,1,"12:34",1954,2254,"Marcanvis Hymon Turnover.",9,12,-3,0.501148292704697,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+57,1,"12:13",1933,2233,"Tyson Carter made Jumper.",11,12,-1,0.543675485976056,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+58,1,"11:54",1914,2214,"Foul on Justas Furmanavicius.",11,12,-1,0.572146450975455,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+59,1,"11:54",1914,2214,"Justas Furmanavicius Turnover.",11,12,-1,0.572146450975455,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+60,1,"11:54",1914,2214,"Official TV Timeout",11,12,-1,0.572146450975455,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+61,1,"11:33",1893,2193,"Aric Holman missed Three Point Jumper.",11,12,-1,0.558909832912657,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+62,1,"11:33",1893,2193,"Marcanvis Hymon Defensive Rebound.",11,12,-1,0.558909832912657,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+63,1,"11:15",1875,2175,"Cullen Neal made Three Point Jumper. Assisted by Breein Tyree.",11,15,-4,0.458928286543002,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+64,1,"10:57",1857,2157,"Lamar Peters Turnover.",11,15,-4,0.463728416518373,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+65,1,"10:57",1857,2157,"Sebastian Saiz Steal.",11,15,-4,0.463728416518373,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+66,1,"10:45",1845,2145,"Marcanvis Hymon missed Jumper.",11,15,-4,0.443206472121834,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+67,1,"10:45",1845,2145,"Aric Holman Block.",11,15,-4,0.443206472121834,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+68,1,"10:45",1845,2145,"Ole Miss Offensive Rebound.",11,15,-4,0.443206472121834,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+69,1,"10:38",1838,2138,"Breein Tyree Turnover.",11,15,-4,0.46165276177381,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+70,1,"10:27",1827,2127,"Quinndary Weatherspoon missed Jumper.",11,15,-4,0.485447050944277,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+71,1,"10:27",1827,2127,"Cullen Neal Defensive Rebound.",11,15,-4,0.485447050944277,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+72,1,"10:20",1820,2120,"Breein Tyree missed Jumper.",11,15,-4,0.485447050944277,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+73,1,"10:20",1820,2120,"Mario Kegler Defensive Rebound.",11,15,-4,0.485447050944277,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+74,1,"10:18",1818,2118,"Foul on Marcanvis Hymon.",11,15,-4,0.449853967476307,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+75,1,"10:07",1807,2107,"Quinndary Weatherspoon missed Jumper.",11,15,-4,0.451464982883262,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+76,1,"10:07",1807,2107,"Sebastian Saiz Block.",11,15,-4,0.451464982883262,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+77,1,"10:07",1807,2107,"Marcanvis Hymon Defensive Rebound.",11,15,-4,0.451464982883262,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+78,1,"9:55",1795,2095,"Cullen Neal missed Three Point Jumper.",11,15,-4,0.445752881028626,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+79,1,"9:55",1795,2095,"Schnider Herard Defensive Rebound.",11,15,-4,0.445752881028626,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+80,1,"9:28",1768,2068,"Schnider Herard Turnover.",11,15,-4,0.458222821101423,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+81,1,"9:28",1768,2068,"Terence Davis Steal.",11,15,-4,0.458222821101423,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+82,1,"9:18",1758,2058,"Cullen Neal Turnover.",11,15,-4,0.418371929127082,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+83,1,"9:13",1753,2053,"Tyson Carter made Three Point Jumper. Assisted by I.J. Ready.",14,15,-1,0.522713958671017,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+84,1,"8:55",1735,2035,"Deandre Burnett missed Three Point Jumper.",14,15,-1,0.548696835209988,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+85,1,"8:55",1735,2035,"Cullen Neal Offensive Rebound.",14,15,-1,0.548696835209988,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+86,1,"8:49",1729,2029,"Foul on Xavian Stapleton.",14,15,-1,0.558561663668992,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+87,1,"8:49",1729,2029,"Marcanvis Hymon made Free Throw.",14,16,-2,0.524922720684202,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+88,1,"8:49",1729,2029,"Marcanvis Hymon made Free Throw.",14,17,-3,0.491056068581283,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+89,1,"8:36",1716,2016,"Foul on Deandre Burnett.",14,17,-3,0.48662364614664,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+90,1,"8:36",1716,2016,"Schnider Herard missed Free Throw.",14,17,-3,0.48662364614664,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+91,1,"8:36",1716,2016,"Mississippi St Deadball Team Rebound.",14,17,-3,0.48662364614664,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+92,1,"8:36",1716,2016,"Schnider Herard missed Free Throw.",14,17,-3,0.48662364614664,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+93,1,"8:36",1716,2016,"Sebastian Saiz Defensive Rebound.",14,17,-3,0.48662364614664,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+94,1,"8:25",1705,2005,"Sebastian Saiz missed Three Point Jumper.",14,17,-3,0.476118388602162,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+95,1,"8:25",1705,2005,"Tyson Carter Defensive Rebound.",14,17,-3,0.476118388602162,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+96,1,"8:13",1693,1993,"Schnider Herard made Dunk. Assisted by I.J. Ready.",16,17,-1,0.555195288742683,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+97,1,"8:13",1693,1993,"Foul on Marcanvis Hymon.",16,17,-1,0.555195288742683,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+98,1,"8:13",1693,1993,"Schnider Herard missed Free Throw.",16,17,-1,0.555195288742683,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+99,1,"8:13",1693,1993,"Breein Tyree Defensive Rebound.",16,17,-1,0.555195288742683,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+100,1,"8:03",1683,1983,"Sebastian Saiz missed Jumper.",16,17,-1,0.547603673114038,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+101,1,"8:03",1683,1983,"Terence Davis Offensive Rebound.",16,17,-1,0.547603673114038,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+102,1,"8:03",1683,1983,"Terence Davis missed Two Point Tip Shot.",16,17,-1,0.547603673114038,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+103,1,"8:03",1683,1983,"Sebastian Saiz Offensive Rebound.",16,17,-1,0.547603673114038,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+104,1,"7:56",1676,1976,"Sebastian Saiz Turnover.",16,17,-1,0.550523500902338,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+105,1,"7:56",1676,1976,"Official TV Timeout",16,17,-1,0.550523500902338,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+106,1,"7:33",1653,1953,"I.J. Ready missed Three Point Jumper.",16,17,-1,0.554072246682267,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+107,1,"7:33",1653,1953,"Schnider Herard Offensive Rebound.",16,17,-1,0.554072246682267,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+108,1,"7:27",1647,1947,"Schnider Herard missed Layup.",16,17,-1,0.554095624471832,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+109,1,"7:27",1647,1947,"Schnider Herard Offensive Rebound.",16,17,-1,0.554095624471832,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+110,1,"7:25",1645,1945,"Foul on Justas Furmanavicius.",16,17,-1,0.554095624471832,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+111,1,"7:25",1645,1945,"Schnider Herard missed Free Throw.",16,17,-1,0.554095624471832,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+112,1,"7:25",1645,1945,"Mississippi St Deadball Team Rebound.",16,17,-1,0.554095624471832,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+113,1,"7:25",1645,1945,"Schnider Herard missed Free Throw.",16,17,-1,0.554095624471832,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+114,1,"7:25",1645,1945,"Deandre Burnett Defensive Rebound.",16,17,-1,0.554095624471832,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+115,1,"7:07",1627,1927,"Deandre Burnett missed Three Point Jumper.",16,17,-1,0.540145489947386,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+116,1,"7:07",1627,1927,"Xavian Stapleton Defensive Rebound.",16,17,-1,0.540145489947386,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+117,1,"6:59",1619,1919,"Xavian Stapleton missed Three Point Jumper.",16,17,-1,0.529046533890413,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+118,1,"6:59",1619,1919,"Sebastian Saiz Defensive Rebound.",16,17,-1,0.529046533890413,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+119,1,"6:32",1592,1892,"Deandre Burnett missed Jumper.",16,17,-1,0.56070132101547,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+120,1,"6:32",1592,1892,"Quinndary Weatherspoon Defensive Rebound.",16,17,-1,0.56070132101547,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+121,1,"6:13",1573,1873,"Foul on Aric Holman.",16,17,-1,0.54645397739641,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+122,1,"6:13",1573,1873,"Aric Holman Turnover.",16,17,-1,0.54645397739641,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+123,1,"5:55",1555,1855,"Foul on Sebastian Saiz.",16,17,-1,0.534560697945957,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+124,1,"5:55",1555,1855,"Sebastian Saiz Turnover.",16,17,-1,0.534560697945957,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+125,1,"5:42",1542,1842,"I.J. Ready made Layup. Assisted by Quinndary Weatherspoon.",18,17,1,0.616351888259164,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+126,1,"5:29",1529,1829,"Foul on Tyson Carter.",18,17,1,0.613349818153054,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+127,1,"5:27",1527,1827,"Terence Davis missed Jumper.",18,17,1,0.613349818153054,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+128,1,"5:27",1527,1827,"I.J. Ready Defensive Rebound.",18,17,1,0.613349818153054,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+129,1,"5:23",1523,1823,"I.J. Ready Turnover.",18,17,1,0.613349818153054,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+130,1,"5:23",1523,1823,"Justas Furmanavicius Steal.",18,17,1,0.613349818153054,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+131,1,"5:20",1520,1820,"Foul on Quinndary Weatherspoon.",18,17,1,0.613349818153054,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+132,1,"5:20",1520,1820,"Justas Furmanavicius missed Free Throw.",18,17,1,0.613349818153054,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+133,1,"5:20",1520,1820,"Tyson Carter Defensive Rebound.",18,17,1,0.613349818153054,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+134,1,"5:03",1503,1803,"Quinndary Weatherspoon missed Jumper.",18,17,1,0.612064515330269,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+135,1,"5:03",1503,1803,"Quinndary Weatherspoon Offensive Rebound.",18,17,1,0.612064515330269,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+136,1,"5:03",1503,1803,"Quinndary Weatherspoon made Two Point Tip Shot.",20,17,3,0.677204370858091,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+137,1,"4:47",1487,1787,"Terence Davis missed Jumper.",20,17,3,0.674448019558637,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+138,1,"4:47",1487,1787,"Ole Miss Offensive Rebound.",20,17,3,0.674448019558637,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+139,1,"4:26",1466,1766,"Breein Tyree made Layup.",20,19,1,0.620491822426615,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+140,1,"4:07",1447,1747,"Quinndary Weatherspoon Turnover.",20,19,1,0.636563704532068,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+141,1,"3:42",1422,1722,"Deandre Burnett missed Three Point Jumper.",20,19,1,0.602988304784888,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+142,1,"3:42",1422,1722,"Quinndary Weatherspoon Defensive Rebound.",20,19,1,0.602988304784888,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+143,1,"3:29",1409,1709,"I.J. Ready Turnover.",20,19,1,0.629220644817355,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+144,1,"3:21",1401,1701,"Deandre Burnett missed Layup.",20,19,1,0.629220644817355,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+145,1,"3:21",1401,1701,"I.J. Ready Block.",20,19,1,0.629220644817355,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+146,1,"3:21",1401,1701,"Official TV Timeout",20,19,1,0.629220644817355,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+147,1,"3:21",1401,1701,"Mississippi St Defensive Rebound.",20,19,1,0.629220644817355,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+148,1,"2:50",1370,1670,"Mississippi St  Turnover.",20,19,1,0.598436364395692,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+149,1,"2:40",1360,1660,"Breein Tyree missed Layup.",20,19,1,0.614182070436162,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+150,1,"2:40",1360,1660,"Lamar Peters Defensive Rebound.",20,19,1,0.614182070436162,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+151,1,"2:27",1347,1647,"Foul on Breein Tyree.",20,19,1,0.607329147518799,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+152,1,"2:27",1347,1647,"Lamar Peters missed Free Throw.",20,19,1,0.607329147518799,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+153,1,"2:27",1347,1647,"Cullen Neal Defensive Rebound.",20,19,1,0.607329147518799,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+154,1,"2:14",1334,1634,"Jump Ball won by Ole Miss",20,19,1,0.599920585644509,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+155,1,"2:14",1334,1634,"Cullen Neal Turnover.",20,19,1,0.599920585644509,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+156,1,"2:14",1334,1634,"Quinndary Weatherspoon Steal.",20,19,1,0.599920585644509,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+157,1,"2:03",1323,1623,"Tyson Carter missed Jumper.",20,19,1,0.612813074265698,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+158,1,"2:03",1323,1623,"Justas Furmanavicius Block.",20,19,1,0.612813074265698,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+159,1,"2:03",1323,1623,"Tyson Carter Offensive Rebound.",20,19,1,0.612813074265698,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+160,1,"1:56",1316,1616,"Tyson Carter Turnover.",20,19,1,0.629930574743948,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+161,1,"1:55",1315,1615,"Breein Tyree made Layup.",20,21,-1,0.55394185494293,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+162,1,"1:35",1295,1595,"Lamar Peters missed Three Point Jumper.",20,21,-1,0.554752135407833,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+163,1,"1:35",1295,1595,"Justas Furmanavicius Defensive Rebound.",20,21,-1,0.554752135407833,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+164,1,"1:30",1290,1590,"Foul on Aric Holman.",20,21,-1,0.554752135407833,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+165,1,"1:30",1290,1590,"Justas Furmanavicius missed Free Throw.",20,21,-1,0.554752135407833,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+166,1,"1:30",1290,1590,"Xavian Stapleton Defensive Rebound.",20,21,-1,0.554752135407833,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+167,1,"1:13",1273,1573,"Mario Kegler missed Layup.",20,21,-1,0.521651189334985,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+168,1,"1:13",1273,1573,"Mario Kegler Offensive Rebound.",20,21,-1,0.521651189334985,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+169,1,"1:13",1273,1573,"Mario Kegler made Two Point Tip Shot.",22,21,1,0.595400528895624,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+170,1,"0:59",1259,1559,"Breein Tyree missed Layup.",22,21,1,0.608126004142675,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+171,1,"0:59",1259,1559,"Marcanvis Hymon Offensive Rebound.",22,21,1,0.608126004142675,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+172,1,"0:59",1259,1559,"Marcanvis Hymon made Two Point Tip Shot.",22,23,-1,0.53404781855088,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+173,1,"0:36",1236,1536,"Mario Kegler made Three Point Jumper. Assisted by Quinndary Weatherspoon.",25,23,2,0.642957234461713,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+174,1,"0:06",1206,1506,"Cullen Neal missed Three Point Jumper.",25,23,2,0.648502900680791,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+175,1,"0:06",1206,1506,"Xavian Stapleton Defensive Rebound.",25,23,2,0.648502900680791,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+176,1,"0:00",1200,1500,"End of 1st half",25,23,2,0.648502900680791,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+177,2,"20:00",1200,1500,"PLAY",25,23,2,0.648502900680791,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+178,2,"20:00",1200,1500,"Jump Ball won by Mississippi St",25,23,2,0.648502900680791,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+179,2,"19:49",1189,1489,"Schnider Herard made Jumper.",27,23,4,0.722060952616847,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+180,2,"19:30",1170,1470,"Breein Tyree made Layup.",27,25,2,0.650496924744914,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+181,2,"19:05",1145,1445,"Lamar Peters missed Three Point Jumper.",27,25,2,0.653908623542222,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+182,2,"19:05",1145,1445,"Terence Davis Defensive Rebound.",27,25,2,0.653908623542222,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+183,2,"18:56",1136,1436,"Deandre Burnett made Layup. Assisted by Terence Davis.",27,27,0,0.578762500218693,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+184,2,"18:26",1106,1406,"Lamar Peters missed Layup.",27,27,0,0.572608061456589,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+185,2,"18:26",1106,1406,"Terence Davis Defensive Rebound.",27,27,0,0.572608061456589,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+186,2,"18:18",1098,1398,"Breein Tyree Turnover.",27,27,0,0.581140032988176,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+187,2,"18:18",1098,1398,"Quinndary Weatherspoon Steal.",27,27,0,0.581140032988176,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+188,2,"18:15",1095,1395,"Quinndary Weatherspoon made Dunk.",29,27,2,0.661586419882167,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+189,2,"17:57",1077,1377,"Foul on Mario Kegler.",29,27,2,0.660593858150827,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+190,2,"17:47",1067,1367,"Deandre Burnett missed Three Point Jumper.",29,27,2,0.667483091114754,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+191,2,"17:47",1067,1367,"Justas Furmanavicius Offensive Rebound.",29,27,2,0.667483091114754,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+192,2,"17:45",1065,1365,"Foul on Schnider Herard.",29,27,2,0.667483091114754,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+193,2,"17:45",1065,1365,"Justas Furmanavicius made Free Throw.",29,28,1,0.62817687404626,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+194,2,"17:45",1065,1365,"Justas Furmanavicius missed Free Throw.",29,28,1,0.62817687404626,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+195,2,"17:45",1065,1365,"Mario Kegler Defensive Rebound.",29,28,1,0.62817687404626,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+196,2,"17:31",1051,1351,"Schnider Herard missed Jumper.",29,28,1,0.622612175639002,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+197,2,"17:31",1051,1351,"Justas Furmanavicius Block.",29,28,1,0.622612175639002,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+198,2,"17:31",1051,1351,"Justas Furmanavicius Defensive Rebound.",29,28,1,0.622612175639002,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+199,2,"17:12",1032,1332,"Sebastian Saiz made Jumper. Assisted by Breein Tyree.",29,30,-1,0.522649714736243,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+200,2,"17:12",1032,1332,"Foul on Mario Kegler.",29,30,-1,0.522649714736243,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+201,2,"17:12",1032,1332,"Sebastian Saiz made Free Throw.",29,31,-2,0.479791398550648,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+202,2,"16:46",1006,1306,"I.J. Ready missed Jumper.",29,31,-2,0.461311022389332,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+203,2,"16:46",1006,1306,"Xavian Stapleton Offensive Rebound.",29,31,-2,0.461311022389332,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+204,2,"16:38",998,1298,"Xavian Stapleton made Layup.",31,31,0,0.555950039374141,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+205,2,"16:25",985,1285,"Cullen Neal made Three Point Jumper. Assisted by Terence Davis.",31,34,-3,0.434669085849556,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+206,2,"16:09",969,1269,"Xavian Stapleton missed Jumper.",31,34,-3,0.422170730965114,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+207,2,"16:09",969,1269,"Terence Davis Defensive Rebound.",31,34,-3,0.422170730965114,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+208,2,"16:01",961,1261,"Terence Davis missed Jumper.",31,34,-3,0.422170730965114,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+209,2,"16:01",961,1261,"I.J. Ready Defensive Rebound.",31,34,-3,0.422170730965114,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+210,2,"15:55",955,1255,"Xavian Stapleton made Dunk. Assisted by I.J. Ready.",33,34,-1,0.510656543514724,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+211,2,"15:55",955,1255,"Foul on Justas Furmanavicius.",33,34,-1,0.510656543514724,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+212,2,"15:55",955,1255,"Official TV Timeout",33,34,-1,0.510656543514724,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+213,2,"15:55",955,1255,"Xavian Stapleton made Free Throw.",34,34,0,0.55820099114064,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+214,2,"15:48",948,1248,"Deandre Burnett Turnover.",34,34,0,0.586934057321749,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+215,2,"15:48",948,1248,"Xavian Stapleton Steal.",34,34,0,0.586934057321749,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+216,2,"15:41",941,1241,"Xavian Stapleton made Layup.",36,34,2,0.675868708436444,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+217,2,"15:25",925,1225,"Cullen Neal missed Layup.",36,34,2,0.637142228472139,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+218,2,"15:25",925,1225,"Xavian Stapleton Block.",36,34,2,0.637142228472139,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+219,2,"15:25",925,1225,"Aric Holman Defensive Rebound.",36,34,2,0.637142228472139,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+220,2,"15:15",915,1215,"Xavian Stapleton missed Three Point Jumper.",36,34,2,0.659624838994007,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+221,2,"15:15",915,1215,"Terence Davis Defensive Rebound.",36,34,2,0.659624838994007,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+222,2,"15:08",908,1208,"Foul on Xavian Stapleton.",36,34,2,0.656429256981331,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+223,2,"15:06",906,1206,"Terence Davis made Jumper.",36,36,0,0.565811042779312,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+224,2,"14:36",876,1176,"Lamar Peters missed Three Point Jumper.",36,36,0,0.571443160854958,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+225,2,"14:36",876,1176,"Xavian Stapleton Offensive Rebound.",36,36,0,0.571443160854958,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+226,2,"14:28",868,1168,"Xavian Stapleton made Layup.",38,36,2,0.647015608090806,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+227,2,"14:17",857,1157,"Deandre Burnett Turnover.",38,36,2,0.676668070217132,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+228,2,"14:17",857,1157,"Tyson Carter Steal.",38,36,2,0.676668070217132,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+229,2,"14:09",849,1149,"Tyson Carter made Three Point Jumper. Assisted by I.J. Ready.",41,36,5,0.788348343333764,"Mississippi State","Ole Miss",4,4,0,0,1.5,400910738,2017-02-21
+230,2,"14:01",841,1141,"Ole Miss  Timeout",41,36,5,0.788348343333764,"Mississippi State","Ole Miss",3,4,1,0,1.5,400910738,2017-02-21
+231,2,"13:57",837,1137,"Terence Davis missed Three Point Jumper.",41,36,5,0.786942341118267,"Mississippi State","Ole Miss",3,4,1,0,1.5,400910738,2017-02-21
+232,2,"13:57",837,1137,"Mario Kegler Defensive Rebound.",41,36,5,0.786942341118267,"Mississippi State","Ole Miss",3,4,1,0,1.5,400910738,2017-02-21
+233,2,"13:43",823,1123,"Aric Holman missed Jumper.",41,36,5,0.769641113988646,"Mississippi State","Ole Miss",3,4,1,0,1.5,400910738,2017-02-21
+234,2,"13:43",823,1123,"Marcanvis Hymon Defensive Rebound.",41,36,5,0.769641113988646,"Mississippi State","Ole Miss",3,4,1,0,1.5,400910738,2017-02-21
+235,2,"13:28",808,1108,"Breein Tyree Turnover.",41,36,5,0.793730409464586,"Mississippi State","Ole Miss",3,4,1,0,1.5,400910738,2017-02-21
+236,2,"13:28",808,1108,"I.J. Ready Steal.",41,36,5,0.793730409464586,"Mississippi State","Ole Miss",3,4,1,0,1.5,400910738,2017-02-21
+237,2,"13:26",806,1106,"I.J. Ready missed Layup.",41,36,5,0.793730409464586,"Mississippi State","Ole Miss",3,4,1,0,1.5,400910738,2017-02-21
+238,2,"13:26",806,1106,"Terence Davis Block.",41,36,5,0.793730409464586,"Mississippi State","Ole Miss",3,4,1,0,1.5,400910738,2017-02-21
+239,2,"13:26",806,1106,"Mississippi St Offensive Rebound.",41,36,5,0.793730409464586,"Mississippi State","Ole Miss",3,4,1,0,1.5,400910738,2017-02-21
+240,2,"13:25",805,1105,"I.J. Ready Turnover.",41,36,5,0.793730409464586,"Mississippi State","Ole Miss",3,4,1,0,1.5,400910738,2017-02-21
+241,2,"13:05",785,1085,"Breein Tyree missed Three Point Jumper.",41,36,5,0.782942701923522,"Mississippi State","Ole Miss",3,4,1,0,1.5,400910738,2017-02-21
+242,2,"13:05",785,1085,"Ole Miss Offensive Rebound.",41,36,5,0.782942701923522,"Mississippi State","Ole Miss",3,4,1,0,1.5,400910738,2017-02-21
+243,2,"12:54",774,1074,"Sebastian Saiz made Layup.",41,38,3,0.710190948910009,"Mississippi State","Ole Miss",3,4,0,0,1.5,400910738,2017-02-21
+244,2,"12:37",757,1057,"Mario Kegler missed Three Point Jumper.",41,38,3,0.712142758320475,"Mississippi State","Ole Miss",3,4,0,0,1.5,400910738,2017-02-21
+245,2,"12:37",757,1057,"Marcanvis Hymon Defensive Rebound.",41,38,3,0.712142758320475,"Mississippi State","Ole Miss",3,4,0,0,1.5,400910738,2017-02-21
+246,2,"12:28",748,1048,"Breein Tyree made Dunk.",41,40,1,0.608139210734494,"Mississippi State","Ole Miss",3,4,0,0,1.5,400910738,2017-02-21
+247,2,"12:28",748,1048,"Foul on Aric Holman.",41,40,1,0.608139210734494,"Mississippi State","Ole Miss",3,4,0,0,1.5,400910738,2017-02-21
+248,2,"12:28",748,1048,"Breein Tyree made Free Throw.",41,41,0,0.553923549935465,"Mississippi State","Ole Miss",3,4,0,0,1.5,400910738,2017-02-21
+249,2,"12:16",736,1036,"Lamar Peters Turnover.",41,41,0,0.569621741969409,"Mississippi State","Ole Miss",3,4,0,0,1.5,400910738,2017-02-21
+250,2,"12:16",736,1036,"Deandre Burnett Steal.",41,41,0,0.569621741969409,"Mississippi State","Ole Miss",3,4,0,0,1.5,400910738,2017-02-21
+251,2,"12:09",729,1029,"Breein Tyree Turnover.",41,41,0,0.583459698472596,"Mississippi State","Ole Miss",3,4,0,0,1.5,400910738,2017-02-21
+252,2,"12:09",729,1029,"Lamar Peters Steal.",41,41,0,0.583459698472596,"Mississippi State","Ole Miss",3,4,0,0,1.5,400910738,2017-02-21
+253,2,"12:04",724,1024,"Lamar Peters missed Layup.",41,41,0,0.583459698472596,"Mississippi State","Ole Miss",3,4,0,0,1.5,400910738,2017-02-21
+254,2,"12:04",724,1024,"Marcanvis Hymon Defensive Rebound.",41,41,0,0.583459698472596,"Mississippi State","Ole Miss",3,4,0,0,1.5,400910738,2017-02-21
+255,2,"11:59",719,1019,"Sebastian Saiz made Dunk. Assisted by Deandre Burnett.",41,43,-2,0.432193884067694,"Mississippi State","Ole Miss",3,4,0,1,1.5,400910738,2017-02-21
+256,2,"11:59",719,1019,"Mississippi St  Timeout",41,43,-2,0.432193884067694,"Mississippi State","Ole Miss",3,3,0,1,1.5,400910738,2017-02-21
+257,2,"11:59",719,1019,"Official TV Timeout",41,43,-2,0.432193884067694,"Mississippi State","Ole Miss",3,3,0,1,1.5,400910738,2017-02-21
+258,2,"11:34",694,994,"Foul on Sebastian Saiz.",41,43,-2,0.448762308904475,"Mississippi State","Ole Miss",3,3,0,1,1.5,400910738,2017-02-21
+259,2,"11:34",694,994,"Schnider Herard made Free Throw.",42,43,-1,0.50800140607932,"Mississippi State","Ole Miss",3,3,0,1,1.5,400910738,2017-02-21
+260,2,"11:34",694,994,"Schnider Herard made Free Throw.",43,43,0,0.567016661934808,"Mississippi State","Ole Miss",3,3,0,1,1.5,400910738,2017-02-21
+261,2,"11:23",683,983,"Jump Ball won by Ole Miss",43,43,0,0.554847997467351,"Mississippi State","Ole Miss",3,3,0,1,1.5,400910738,2017-02-21
+262,2,"11:13",673,973,"Foul on Lamar Peters.",43,43,0,0.554788618228605,"Mississippi State","Ole Miss",3,3,0,1,1.5,400910738,2017-02-21
+263,2,"10:56",656,956,"Cullen Neal missed Jumper.",43,43,0,0.575148700376918,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+264,2,"10:56",656,956,"Xavian Stapleton Defensive Rebound.",43,43,0,0.575148700376918,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+265,2,"10:44",644,944,"Foul on Breein Tyree.",43,43,0,0.567453932245924,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+266,2,"10:28",628,928,"Xavian Stapleton missed Layup.",43,43,0,0.563422743830299,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+267,2,"10:28",628,928,"Justas Furmanavicius Block.",43,43,0,0.563422743830299,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+268,2,"10:28",628,928,"Ole Miss Defensive Rebound.",43,43,0,0.563422743830299,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+269,2,"10:03",603,903,"Terence Davis missed Jumper.",43,43,0,0.565348892607684,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+270,2,"10:03",603,903,"I.J. Ready Defensive Rebound.",43,43,0,0.565348892607684,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+271,2,"9:57",597,897,"I.J. Ready missed Jumper.",43,43,0,0.561323335074988,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+272,2,"9:57",597,897,"Aric Holman Offensive Rebound.",43,43,0,0.561323335074988,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+273,2,"9:56",596,896,"Foul on Terence Davis.",43,43,0,0.561323335074988,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+274,2,"9:56",596,896,"Aric Holman missed Free Throw.",43,43,0,0.561323335074988,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+275,2,"9:56",596,896,"Mississippi St Deadball Team Rebound.",43,43,0,0.561323335074988,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+276,2,"9:56",596,896,"Aric Holman missed Free Throw.",43,43,0,0.561323335074988,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+277,2,"9:56",596,896,"Terence Davis Defensive Rebound.",43,43,0,0.561323335074988,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+278,2,"9:37",577,877,"Deandre Burnett missed Jumper.",43,43,0,0.586715281682629,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+279,2,"9:37",577,877,"Aric Holman Block.",43,43,0,0.586715281682629,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+280,2,"9:37",577,877,"Quinndary Weatherspoon Defensive Rebound.",43,43,0,0.586715281682629,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+281,2,"9:27",567,867,"Xavian Stapleton missed Three Point Jumper.",43,43,0,0.573483134900292,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+282,2,"9:27",567,867,"Quinndary Weatherspoon Offensive Rebound.",43,43,0,0.573483134900292,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+283,2,"9:20",560,860,"Quinndary Weatherspoon missed Layup.",43,43,0,0.573483134900292,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+284,2,"9:20",560,860,"Aric Holman Offensive Rebound.",43,43,0,0.573483134900292,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+285,2,"9:06",546,846,"Aric Holman Turnover.",43,43,0,0.541897739668536,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+286,2,"8:58",538,838,"Breein Tyree made Jumper.",43,45,-2,0.445775590888425,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+287,2,"8:36",516,816,"Foul on Terence Davis.",43,45,-2,0.419492506565632,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+288,2,"8:13",493,793,"I.J. Ready missed Jumper.",43,45,-2,0.446720328858233,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+289,2,"8:13",493,793,"Schnider Herard Offensive Rebound.",43,45,-2,0.446720328858233,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+290,2,"8:13",493,793,"Schnider Herard made Two Point Tip Shot.",45,45,0,0.581794743411703,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+291,2,"7:56",476,776,"Foul on Xavian Stapleton.",45,45,0,0.556063751812518,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+292,2,"7:56",476,776,"Official TV Timeout",45,45,0,0.556063751812518,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+293,2,"7:56",476,776,"Sebastian Saiz made Free Throw.",45,46,-1,0.483544336147968,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+294,2,"7:56",476,776,"Sebastian Saiz made Free Throw.",45,47,-2,0.41171144131884,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+295,2,"7:31",451,751,"Tyson Carter missed Three Point Jumper.",45,47,-2,0.391024842227804,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+296,2,"7:31",451,751,"Quinndary Weatherspoon Offensive Rebound.",45,47,-2,0.391024842227804,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+297,2,"7:31",451,751,"Quinndary Weatherspoon made Two Point Tip Shot.",47,47,0,0.547622259189356,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+298,2,"7:12",432,732,"Deandre Burnett missed Three Point Jumper.",47,47,0,0.568444929354199,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+299,2,"7:12",432,732,"I.J. Ready Defensive Rebound.",47,47,0,0.568444929354199,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+300,2,"7:05",425,725,"I.J. Ready missed Layup.",47,47,0,0.541197662126823,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+301,2,"7:05",425,725,"Marcanvis Hymon Defensive Rebound.",47,47,0,0.541197662126823,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+302,2,"7:00",420,720,"Foul on Tyson Carter.",47,47,0,0.541197662126823,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+303,2,"7:00",420,720,"Deandre Burnett made Free Throw.",47,48,-1,0.467020040424638,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+304,2,"7:00",420,720,"Deandre Burnett made Free Throw.",47,49,-2,0.394272384444847,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+305,2,"6:41",401,701,"Quinndary Weatherspoon made Jumper.",49,49,0,0.542546075940059,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+306,2,"6:24",384,684,"Deandre Burnett missed Three Point Jumper.",49,49,0,0.557650428700885,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+307,2,"6:24",384,684,"Sebastian Saiz Offensive Rebound.",49,49,0,0.557650428700885,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+308,2,"6:18",378,678,"Deandre Burnett missed Three Point Jumper.",49,49,0,0.540500592471587,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+309,2,"6:18",378,678,"Terence Davis Offensive Rebound.",49,49,0,0.540500592471587,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+310,2,"6:09",369,669,"Terence Davis made Jumper.",49,51,-2,0.393322864154229,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+311,2,"5:47",347,647,"I.J. Ready missed Jumper.",49,51,-2,0.35569771074825,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+312,2,"5:47",347,647,"Sebastian Saiz Defensive Rebound.",49,51,-2,0.35569771074825,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+313,2,"5:47",347,647,"Foul on Schnider Herard.",49,51,-2,0.35569771074825,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+314,2,"5:47",347,647,"Sebastian Saiz made Free Throw.",49,52,-3,0.283190841889134,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+315,2,"5:47",347,647,"Sebastian Saiz made Free Throw.",49,53,-4,0.220407977419668,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+316,2,"5:37",337,637,"Mario Kegler Turnover.",49,53,-4,0.239126173886334,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+317,2,"5:37",337,637,"Cullen Neal Steal.",49,53,-4,0.239126173886334,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+318,2,"5:29",329,629,"Breein Tyree made Dunk.",49,55,-6,0.151190635029464,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+319,2,"5:16",316,616,"Aric Holman made Three Point Jumper. Assisted by Mario Kegler.",52,55,-3,0.29362545613536,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+320,2,"5:05",305,605,"Breein Tyree Turnover.",52,55,-3,0.308707046326127,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+321,2,"4:53",293,593,"Lamar Peters missed Three Point Jumper.",52,55,-3,0.300911682500069,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+322,2,"4:53",293,593,"Terence Davis Defensive Rebound.",52,55,-3,0.300911682500069,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+323,2,"4:46",286,586,"Breein Tyree made Dunk. Assisted by Terence Davis.",52,57,-5,0.166863563446186,"Mississippi State","Ole Miss",3,3,0,0,1.5,400910738,2017-02-21
+324,2,"4:45",285,585,"Mississippi St  Timeout",52,57,-5,0.166863563446186,"Mississippi State","Ole Miss",3,2,0,1,1.5,400910738,2017-02-21
+325,2,"4:26",266,566,"Quinndary Weatherspoon missed Three Point Jumper.",52,57,-5,0.160448356632287,"Mississippi State","Ole Miss",3,2,0,1,1.5,400910738,2017-02-21
+326,2,"4:26",266,566,"Sebastian Saiz Defensive Rebound.",52,57,-5,0.160448356632287,"Mississippi State","Ole Miss",3,2,0,1,1.5,400910738,2017-02-21
+327,2,"4:04",244,544,"Terence Davis made Jumper.",52,59,-7,0.0651550206541767,"Mississippi State","Ole Miss",3,2,0,1,1.5,400910738,2017-02-21
+328,2,"3:45",225,525,"Xavian Stapleton Turnover.",52,59,-7,0.0619723152746396,"Mississippi State","Ole Miss",3,2,0,1,1.5,400910738,2017-02-21
+329,2,"3:45",225,525,"Official TV Timeout",52,59,-7,0.0619723152746396,"Mississippi State","Ole Miss",3,2,0,1,1.5,400910738,2017-02-21
+330,2,"3:37",217,517,"Foul on Aric Holman.",52,59,-7,0.0504274894677557,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+331,2,"3:37",217,517,"Sebastian Saiz made Free Throw.",52,60,-8,0.0330932212750164,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+332,2,"3:37",217,517,"Sebastian Saiz made Free Throw.",52,61,-9,0.0215821170983806,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+333,2,"3:25",205,505,"Aric Holman missed Three Point Jumper.",52,61,-9,0.0216443411118917,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+334,2,"3:25",205,505,"Mississippi St Offensive Rebound.",52,61,-9,0.0216443411118917,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+335,2,"3:20",200,500,"Foul on Terence Davis.",52,61,-9,0.0216443411118917,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+336,2,"3:20",200,500,"Mario Kegler made Free Throw.",53,61,-8,0.0335986076496089,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+337,2,"3:20",200,500,"Mario Kegler made Free Throw.",54,61,-7,0.0518056606599298,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+338,2,"3:00",180,480,"Sebastian Saiz made Jumper. Assisted by Breein Tyree.",54,63,-9,0.0137312796114791,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+339,2,"2:44",164,464,"Quinndary Weatherspoon made Dunk. Assisted by Lamar Peters.",56,63,-7,0.0343908646957795,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+340,2,"2:30",150,450,"Marcanvis Hymon Turnover.",56,63,-7,0.0272023894297874,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+341,2,"2:30",150,450,"Mario Kegler Steal.",56,63,-7,0.0272023894297874,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+342,2,"2:23",143,443,"Mario Kegler Turnover.",56,63,-7,0.0275853955530831,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+343,2,"2:03",123,423,"Sebastian Saiz missed Jumper.",56,63,-7,0.0198877666496742,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+344,2,"2:03",123,423,"Quinndary Weatherspoon Defensive Rebound.",56,63,-7,0.0198877666496742,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+345,2,"1:58",118,418,"Quinndary Weatherspoon Turnover.",56,63,-7,0.0186775587314747,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+346,2,"1:32",92,392,"Terence Davis missed Three Point Jumper.",56,63,-7,0.0137249138432136,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+347,2,"1:32",92,392,"Quinndary Weatherspoon Defensive Rebound.",56,63,-7,0.0137249138432136,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+348,2,"1:18",78,378,"Foul on Deandre Burnett.",56,63,-7,0.00596662786412522,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+349,2,"1:18",78,378,"I.J. Ready made Free Throw.",57,63,-6,0.0123632250087199,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+350,2,"1:18",78,378,"I.J. Ready made Free Throw.",58,63,-5,0.0254418571067321,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+351,2,"0:54",54,354,"Deandre Burnett missed Three Point Jumper.",58,63,-5,0.0248042752717424,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+352,2,"0:54",54,354,"Mario Kegler Defensive Rebound.",58,63,-5,0.0248042752717424,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+353,2,"0:39",39,339,"Mario Kegler missed Three Point Jumper.",58,63,-5,0.0100785958542169,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+354,2,"0:39",39,339,"Sebastian Saiz Defensive Rebound.",58,63,-5,0.0100785958542169,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+355,2,"0:31",31,331,"Foul on Lamar Peters.",58,63,-5,0.00770817950284042,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+356,2,"0:31",31,331,"Breein Tyree made Free Throw.",58,64,-6,0.00296130272988627,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+357,2,"0:31",31,331,"Breein Tyree missed Free Throw.",58,64,-6,0.00296130272988627,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+358,2,"0:31",31,331,"I.J. Ready Defensive Rebound.",58,64,-6,0.00296130272988627,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+359,2,"0:25",25,325,"Lamar Peters made Three Point Jumper. Assisted by I.J. Ready.",61,64,-3,0.0307738320119406,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+360,2,"0:24",24,324,"Mississippi St  Timeout",61,64,-3,0.0802782818647669,"Mississippi State","Ole Miss",3,1,0,1,1.5,400910738,2017-02-21
+361,2,"0:23",23,323,"Foul on I.J. Ready.",61,64,-3,0.0512928474113934,"Mississippi State","Ole Miss",3,1,0,1,1.5,400910738,2017-02-21
+362,2,"0:23",23,323,"Deandre Burnett made Free Throw.",61,65,-4,0.0157408793975358,"Mississippi State","Ole Miss",3,1,0,1,1.5,400910738,2017-02-21
+363,2,"0:23",23,323,"Deandre Burnett made Free Throw.",61,66,-5,0.00470830764753486,"Mississippi State","Ole Miss",3,1,0,1,1.5,400910738,2017-02-21
+364,2,"0:17",17,317,"I.J. Ready made Layup.",63,66,-3,0.0490324956921019,"Mississippi State","Ole Miss",3,1,0,1,1.5,400910738,2017-02-21
+365,2,"0:16",16,316,"Foul on Quinndary Weatherspoon.",63,66,-3,0.00652700224544161,"Mississippi State","Ole Miss",3,1,0,1,1.5,400910738,2017-02-21
+366,2,"0:16",16,316,"Justas Furmanavicius made Free Throw.",63,67,-4,0.00123795092988866,"Mississippi State","Ole Miss",3,1,0,1,1.5,400910738,2017-02-21
+367,2,"0:16",16,316,"Justas Furmanavicius missed Free Throw.",63,67,-4,0.00123795092988866,"Mississippi State","Ole Miss",3,1,0,1,1.5,400910738,2017-02-21
+368,2,"0:16",16,316,"Xavian Stapleton Defensive Rebound.",63,67,-4,0.00123795092988866,"Mississippi State","Ole Miss",3,1,0,1,1.5,400910738,2017-02-21
+369,2,"0:11",11,311,"Foul on Justas Furmanavicius.",63,67,-4,0.00674245971562507,"Mississippi State","Ole Miss",3,1,0,1,1.5,400910738,2017-02-21
+370,2,"0:11",11,311,"I.J. Ready made Free Throw.",64,67,-3,0.0256471493943789,"Mississippi State","Ole Miss",3,1,0,1,1.5,400910738,2017-02-21
+371,2,"0:11",11,311,"I.J. Ready made Free Throw.",65,67,-2,0.0926148951022635,"Mississippi State","Ole Miss",3,1,0,1,1.5,400910738,2017-02-21
+372,2,"0:07",7,307,"Terence Davis Turnover.",65,67,-2,0.0684129737267683,"Mississippi State","Ole Miss",3,1,1,1,1.5,400910738,2017-02-21
+373,2,"0:07",7,307,"I.J. Ready Steal.",65,67,-2,0.0684129737267683,"Mississippi State","Ole Miss",3,1,1,1,1.5,400910738,2017-02-21
+374,2,"0:07",7,307,"Jump Ball won by Mississippi St",65,67,-2,0.0684129737267683,"Mississippi State","Ole Miss",3,1,1,1,1.5,400910738,2017-02-21
+375,2,"0:07",7,307,"Ole Miss  Timeout",65,67,-2,0.0684129737267683,"Mississippi State","Ole Miss",2,1,1,1,1.5,400910738,2017-02-21
+376,2,"0:01",1,301,"I.J. Ready made Layup.",67,67,0,0.372319630777206,"Mississippi State","Ole Miss",2,1,1,1,1.5,400910738,2017-02-21
+377,2,"0:01",1,301,"Deandre Burnett missed Three Point Jumper.",67,67,0,0.372319630777206,"Mississippi State","Ole Miss",2,1,1,1,1.5,400910738,2017-02-21
+378,2,"0:01",1,301,"Mississippi St Defensive Rebound.",67,67,0,0.372319630777206,"Mississippi State","Ole Miss",2,1,1,1,1.5,400910738,2017-02-21
+379,2,"0:00",300,300,"End of 2nd half",67,67,0,0.552248415901398,"Mississippi State","Ole Miss",2,1,0,0,1.5,400910738,2017-02-21
+380,3,"5:00",300,300,"PLAY",67,67,0,0.552248415901398,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+381,3,"5:00",300,300,"Jump Ball won by Ole Miss",67,67,0,0.552248415901398,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+382,3,"4:40",280,280,"Breein Tyree made Three Point Jumper.",67,70,-3,0.288551565722445,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+383,3,"4:13",253,253,"Lamar Peters missed Three Point Jumper.",67,70,-3,0.263713951150996,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+384,3,"4:13",253,253,"Marcanvis Hymon Defensive Rebound.",67,70,-3,0.263713951150996,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+385,3,"3:48",228,228,"Sebastian Saiz Turnover.",67,70,-3,0.264397354877788,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+386,3,"3:48",228,228,"Quinndary Weatherspoon Steal.",67,70,-3,0.264397354877788,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+387,3,"3:40",220,220,"Mario Kegler missed Jumper.",67,70,-3,0.264397354877788,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+388,3,"3:40",220,220,"Marcanvis Hymon Block.",67,70,-3,0.264397354877788,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+389,3,"3:40",220,220,"Mississippi St Offensive Rebound.",67,70,-3,0.264397354877788,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+390,3,"3:22",202,202,"Mario Kegler Turnover.",67,70,-3,0.249941984761548,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+391,3,"3:22",202,202,"Breein Tyree Steal.",67,70,-3,0.249941984761548,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+392,3,"3:17",197,197,"Breein Tyree made Layup.",67,72,-5,0.0992698151630625,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+393,3,"3:17",197,197,"Foul on Mario Kegler.",67,72,-5,0.0992698151630625,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+394,3,"3:17",197,197,"Breein Tyree made Free Throw.",67,73,-6,0.0645661148405111,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+395,3,"3:04",184,184,"Quinndary Weatherspoon missed Jumper.",67,73,-6,0.056404721290546,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+396,3,"3:04",184,184,"Breein Tyree Defensive Rebound.",67,73,-6,0.056404721290546,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+397,3,"3:01",181,181,"Foul on Quinndary Weatherspoon.",67,73,-6,0.056404721290546,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+398,3,"3:01",181,181,"Breein Tyree made Free Throw.",67,74,-7,0.0354736449508978,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+399,3,"3:01",181,181,"Breein Tyree made Free Throw.",67,75,-8,0.0221276802160825,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+400,3,"2:43",163,163,"Quinndary Weatherspoon missed Three Point Jumper.",67,75,-8,0.0208613717186636,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+401,3,"2:43",163,163,"Sebastian Saiz Defensive Rebound.",67,75,-8,0.0208613717186636,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+402,3,"2:23",143,143,"Foul on Xavian Stapleton.",67,75,-8,0.0166159084258109,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+403,3,"2:23",143,143,"Justas Furmanavicius made Free Throw.",67,76,-9,0.00996380348581806,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+404,3,"2:23",143,143,"Justas Furmanavicius made Free Throw.",67,77,-10,0.00595870214135925,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+405,3,"2:15",135,135,"Foul on Terence Davis.",67,77,-10,0.00575071065245012,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+406,3,"2:15",135,135,"I.J. Ready made Free Throw.",68,77,-9,0.00990371590402168,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+407,3,"2:15",135,135,"I.J. Ready missed Free Throw.",68,77,-9,0.00990371590402168,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+408,3,"2:15",135,135,"Breein Tyree Defensive Rebound.",68,77,-9,0.00990371590402168,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+409,3,"2:06",126,126,"Breein Tyree Turnover.",68,77,-9,0.0064925772025598,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+410,3,"2:06",126,126,"Quinndary Weatherspoon Steal.",68,77,-9,0.0064925772025598,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+411,3,"1:59",119,119,"I.J. Ready missed Layup.",68,77,-9,0.00569048751513093,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+412,3,"1:59",119,119,"Xavian Stapleton Offensive Rebound.",68,77,-9,0.00569048751513093,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+413,3,"1:59",119,119,"Foul on Deandre Burnett.",68,77,-9,0.00569048751513093,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+414,3,"1:59",119,119,"Xavian Stapleton made Free Throw.",69,77,-8,0.0103290164148726,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+415,3,"1:59",119,119,"Xavian Stapleton made Free Throw.",70,77,-7,0.0186775587314747,"Mississippi State","Ole Miss",3,2,0,0,1.5,400910738,2017-02-21
+416,3,"1:56",116,116,"Foul on Xavian Stapleton.",70,77,-7,0.0186775587314747,"Mississippi State","Ole Miss",3,2,1,0,1.5,400910738,2017-02-21
+417,3,"1:56",116,116,"Terence Davis missed Free Throw.",70,77,-7,0.0186775587314747,"Mississippi State","Ole Miss",3,2,1,0,1.5,400910738,2017-02-21
+418,3,"1:56",116,116,"Ole Miss Deadball Team Rebound.",70,77,-7,0.0186775587314747,"Mississippi State","Ole Miss",3,2,1,0,1.5,400910738,2017-02-21
+419,3,"1:56",116,116,"Terence Davis missed Free Throw.",70,77,-7,0.0186775587314747,"Mississippi State","Ole Miss",3,2,1,0,1.5,400910738,2017-02-21
+420,3,"1:56",116,116,"Ole Miss Deadball Team Rebound.",70,77,-7,0.0186775587314747,"Mississippi State","Ole Miss",3,2,1,0,1.5,400910738,2017-02-21
+421,3,"1:56",116,116,"Ole Miss  Timeout",70,77,-7,0.0186775587314747,"Mississippi State","Ole Miss",2,2,1,0,1.5,400910738,2017-02-21
+422,3,"1:33",93,93,"Breein Tyree Turnover.",70,77,-7,0.0137249138432136,"Mississippi State","Ole Miss",2,2,1,0,1.5,400910738,2017-02-21
+423,3,"1:33",93,93,"Lamar Peters Steal.",70,77,-7,0.0137249138432136,"Mississippi State","Ole Miss",2,2,1,0,1.5,400910738,2017-02-21
+424,3,"1:33",93,93,"Jump Ball won by Mississippi St",70,77,-7,0.0137249138432136,"Mississippi State","Ole Miss",2,2,1,0,1.5,400910738,2017-02-21
+425,3,"1:19",79,79,"Mario Kegler made Layup. Assisted by Quinndary Weatherspoon.",72,77,-5,0.0254418571067321,"Mississippi State","Ole Miss",2,2,1,0,1.5,400910738,2017-02-21
+426,3,"1:05",65,65,"Breein Tyree missed Layup.",72,77,-5,0.0231317362409948,"Mississippi State","Ole Miss",2,2,1,0,1.5,400910738,2017-02-21
+427,3,"1:05",65,65,"Quinndary Weatherspoon Block.",72,77,-5,0.0231317362409948,"Mississippi State","Ole Miss",2,2,1,0,1.5,400910738,2017-02-21
+428,3,"1:05",65,65,"Ole Miss Offensive Rebound.",72,77,-5,0.0231317362409948,"Mississippi State","Ole Miss",2,2,1,0,1.5,400910738,2017-02-21
+429,3,"1:00",60,60,"Foul on Tyson Carter.",72,77,-5,0.0231317362409948,"Mississippi State","Ole Miss",2,2,1,0,1.5,400910738,2017-02-21
+430,3,"1:00",60,60,"Deandre Burnett made Free Throw.",72,78,-6,0.0111468170301371,"Mississippi State","Ole Miss",2,2,1,0,1.5,400910738,2017-02-21
+431,3,"1:00",60,60,"Deandre Burnett made Free Throw.",72,79,-7,0.00533754570761872,"Mississippi State","Ole Miss",2,2,1,0,1.5,400910738,2017-02-21
+432,3,"0:58",58,58,"Foul on Sebastian Saiz.",72,79,-7,0.00374378662399953,"Mississippi State","Ole Miss",2,2,1,0,1.5,400910738,2017-02-21
+433,3,"0:58",58,58,"I.J. Ready made Free Throw.",73,79,-6,0.00886616598250107,"Mississippi State","Ole Miss",2,2,1,0,1.5,400910738,2017-02-21
+434,3,"0:58",58,58,"I.J. Ready made Free Throw.",74,79,-5,0.0208504811292665,"Mississippi State","Ole Miss",2,2,1,0,1.5,400910738,2017-02-21
+435,3,"0:57",57,57,"Foul on Lamar Peters.",74,79,-5,0.0152482649613709,"Mississippi State","Ole Miss",2,2,1,0,1.5,400910738,2017-02-21
+436,3,"0:57",57,57,"Sebastian Saiz made Free Throw.",74,80,-6,0.00643678328341682,"Mississippi State","Ole Miss",2,2,1,0,1.5,400910738,2017-02-21
+437,3,"0:57",57,57,"Sebastian Saiz made Free Throw.",74,81,-7,0.00270319588152539,"Mississippi State","Ole Miss",2,2,1,0,1.5,400910738,2017-02-21
+438,3,"0:53",53,53,"I.J. Ready Turnover.",74,81,-7,0.0041570589808146,"Mississippi State","Ole Miss",2,2,0,0,1.5,400910738,2017-02-21
+439,3,"0:48",48,48,"Foul on Quinndary Weatherspoon.",74,81,-7,0.00146173750310865,"Mississippi State","Ole Miss",2,2,0,0,1.5,400910738,2017-02-21
+440,3,"0:48",48,48,"Deandre Burnett made Free Throw.",74,82,-8,0.00056484638620881,"Mississippi State","Ole Miss",2,2,0,0,1.5,400910738,2017-02-21
+441,3,"0:48",48,48,"Deandre Burnett made Free Throw.",74,83,-9,0.000218148402769337,"Mississippi State","Ole Miss",2,2,0,0,1.5,400910738,2017-02-21
+442,3,"0:36",36,36,"Quinndary Weatherspoon made Jumper.",76,83,-7,0.0016034598850086,"Mississippi State","Ole Miss",2,2,0,0,1.5,400910738,2017-02-21
+443,3,"0:35",35,35,"Mississippi St  Timeout",76,83,-7,0.00289580943400205,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+444,3,"0:32",32,32,"Deandre Burnett Turnover.",76,83,-7,0.000398065997582876,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+445,3,"0:32",32,32,"I.J. Ready Steal.",76,83,-7,0.000398065997582876,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+446,3,"0:31",31,31,"Foul on Cullen Neal.",76,83,-7,0.00113432177043813,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+447,3,"0:31",31,31,"Lamar Peters missed Free Throw.",76,83,-7,0.00113432177043813,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+448,3,"0:31",31,31,"Mississippi St Deadball Team Rebound.",76,83,-7,0.00113432177043813,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+449,3,"0:31",31,31,"Lamar Peters missed Free Throw.",76,83,-7,0.00113432177043813,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+450,3,"0:31",31,31,"Justas Furmanavicius Defensive Rebound.",76,83,-7,0.00113432177043813,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+451,3,"0:30",30,30,"Foul on Mario Kegler.",76,83,-7,0.00113432177043813,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+452,3,"0:30",30,30,"Justas Furmanavicius missed Free Throw.",76,83,-7,0.00113432177043813,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+453,3,"0:30",30,30,"Ole Miss Deadball Team Rebound.",76,83,-7,0.00113432177043813,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+454,3,"0:30",30,30,"Justas Furmanavicius made Free Throw.",76,84,-8,0.000434009296391642,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+455,3,"0:25",25,25,"I.J. Ready made Layup.",78,84,-6,0.00067745972022919,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+456,3,"0:22",22,22,"Foul on Tyson Carter.",78,84,-6,0.000533903647484466,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+457,3,"0:22",22,22,"Terence Davis made Free Throw.",78,85,-7,0.000144609447220943,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+458,3,"0:22",22,22,"Terence Davis made Free Throw.",78,86,-8,3.91567934458113e-05,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+459,3,"0:16",16,16,"Quinndary Weatherspoon made Jumper.",80,86,-6,4.4115341725193e-05,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+460,3,"0:11",11,11,"Foul on I.J. Ready.",80,86,-6,0.00045126095863148,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+461,3,"0:11",11,11,"Terence Davis made Free Throw.",80,87,-7,0.000116414445293363,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+462,3,"0:05",5,5,"I.J. Ready missed Jumper.",80,87,-7,2.26017995189985e-05,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+463,3,"0:05",5,5,"Mario Kegler Offensive Rebound.",80,87,-7,2.26017995189985e-05,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+464,3,"0:05",5,5,"Mario Kegler made Dunk.",82,87,-5,0.000573599194566487,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+465,3,"0:04",4,4,"Foul on Mario Kegler.",82,87,-5,0.000107640511173758,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+466,3,"0:04",4,4,"Justas Furmanavicius missed Free Throw.",82,87,-5,0.000107640511173758,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+467,3,"0:04",4,4,"Ole Miss Deadball Team Rebound.",82,87,-5,0.000107640511173758,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+468,3,"0:04",4,4,"Justas Furmanavicius missed Free Throw.",82,87,-5,0.000107640511173758,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+469,3,"0:04",4,4,"Tyson Carter Defensive Rebound.",82,87,-5,0.000107640511173758,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21
+470,3,"0:00",0,0,"End of Game",82,87,-5,1.02831170523488e-42,"Mississippi State","Ole Miss",2,1,0,1,1.5,400910738,2017-02-21

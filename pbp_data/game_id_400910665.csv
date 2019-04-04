@@ -1,0 +1,315 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.281069072883444,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+2,1,"20:00",2400,2400,"Jump Ball won by Georgia",0,0,0,0.281069072883444,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+3,1,"19:42",2382,2382,"Juwan Parker missed Jumper.",0,0,0,0.287040960520554,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+4,1,"19:42",2382,2382,"Yante Maten Offensive Rebound.",0,0,0,0.287040960520554,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+5,1,"19:37",2377,2377,"Yante Maten missed Jumper.",0,0,0,0.306244274588384,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+6,1,"19:37",2377,2377,"Georgia Tech Defensive Rebound.",0,0,0,0.306244274588384,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+7,1,"19:34",2374,2374,"Josh Okogie missed Layup.",0,0,0,0.306244274588384,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+8,1,"19:34",2374,2374,"Ben Lammers Offensive Rebound.",0,0,0,0.306244274588384,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+9,1,"19:26",2366,2366,"Quinton Stephens Turnover.",0,0,0,0.297271214814211,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+10,1,"19:16",2356,2356,"J.J. Frazier missed Three Point Jumper.",0,0,0,0.309161425567027,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+11,1,"19:16",2356,2356,"Georgia Offensive Rebound.",0,0,0,0.309161425567027,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+12,1,"18:59",2339,2339,"Derek Ogbeide made Layup. Assisted by Juwan Parker.",0,2,-2,0.262284909922467,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+13,1,"18:38",2318,2318,"Justin Moore made Layup.",2,2,0,0.298836293195979,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+14,1,"18:15",2295,2295,"Jordan Harris made Three Point Jumper. Assisted by J.J. Frazier.",2,5,-3,0.247520711712065,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+15,1,"17:56",2276,2276,"Justin Moore Turnover.",2,5,-3,0.245244204105606,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+16,1,"17:33",2253,2253,"Juwan Parker missed Jumper.",2,5,-3,0.255476278300397,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+17,1,"17:33",2253,2253,"Josh Okogie Defensive Rebound.",2,5,-3,0.255476278300397,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+18,1,"17:25",2245,2245,"Quinton Stephens missed Three Point Jumper.",2,5,-3,0.270224609329136,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+19,1,"17:25",2245,2245,"Jordan Harris Defensive Rebound.",2,5,-3,0.270224609329136,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+20,1,"17:18",2238,2238,"J.J. Frazier missed Jumper.",2,5,-3,0.239187512429957,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+21,1,"17:18",2238,2238,"Josh Okogie Defensive Rebound.",2,5,-3,0.239187512429957,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+22,1,"17:13",2233,2233,"Josh Okogie made Layup.",4,5,-1,0.282260361439958,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+23,1,"16:39",2199,2199,"J.J. Frazier missed Three Point Jumper.",4,5,-1,0.290200116158445,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+24,1,"16:39",2199,2199,"Quinton Stephens Defensive Rebound.",4,5,-1,0.290200116158445,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+25,1,"16:33",2193,2193,"Josh Okogie Turnover.",4,5,-1,0.290200116158445,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+26,1,"16:33",2193,2193,"Jordan Harris Steal.",4,5,-1,0.290200116158445,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+27,1,"16:22",2182,2182,"Juwan Parker made Jumper. Assisted by Jordan Harris.",4,7,-3,0.243712355619301,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+28,1,"15:59",2159,2159,"Ben Lammers missed Jumper.",4,7,-3,0.226701125894264,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+29,1,"15:59",2159,2159,"Juwan Parker Defensive Rebound.",4,7,-3,0.226701125894264,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+30,1,"15:48",2148,2148,"Juwan Parker missed Jumper.",4,7,-3,0.251450689131403,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+31,1,"15:48",2148,2148,"Josh Okogie Defensive Rebound.",4,7,-3,0.251450689131403,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+32,1,"15:33",2133,2133,"Foul on Quinton Stephens.",4,7,-3,0.232002973001966,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+33,1,"15:33",2133,2133,"Quinton Stephens Turnover.",4,7,-3,0.232002973001966,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+34,1,"15:33",2133,2133,"Official TV Timeout",4,7,-3,0.232002973001966,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+35,1,"15:23",2123,2123,"Jordan Harris missed Three Point Jumper.",4,7,-3,0.233497492836935,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+36,1,"15:23",2123,2123,"Corey Heyward Defensive Rebound.",4,7,-3,0.233497492836935,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+37,1,"15:08",2108,2108,"Ben Lammers Turnover.",4,7,-3,0.239395334818566,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+38,1,"14:56",2096,2096,"Pape Diatta missed Three Point Jumper.",4,7,-3,0.237845526471283,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+39,1,"14:56",2096,2096,"Ben Lammers Defensive Rebound.",4,7,-3,0.237845526471283,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+40,1,"14:49",2089,2089,"Foul on Kenny Paul Geno.",4,7,-3,0.253886575997088,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+41,1,"14:32",2072,2072,"Josh Heath made Layup.",6,7,-1,0.273128632371442,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+42,1,"14:14",2054,2054,"Foul on Josh Heath.",6,7,-1,0.262053578173847,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+43,1,"14:06",2046,2046,"Yante Maten Turnover.",6,7,-1,0.275512550985262,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+44,1,"13:59",2039,2039,"Corey Heyward missed Layup.",6,7,-1,0.282588661911574,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+45,1,"13:59",2039,2039,"J.J. Frazier Defensive Rebound.",6,7,-1,0.282588661911574,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+46,1,"13:55",2035,2035,"Foul on Corey Heyward.",6,7,-1,0.282588661911574,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+47,1,"13:45",2025,2025,"Pape Diatta Turnover.",6,7,-1,0.27198995627372,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+48,1,"13:45",2025,2025,"Quinton Stephens Steal.",6,7,-1,0.27198995627372,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+49,1,"13:39",2019,2019,"Tadric Jackson missed Layup.",6,7,-1,0.290550181803633,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+50,1,"13:39",2019,2019,"Ben Lammers Offensive Rebound.",6,7,-1,0.290550181803633,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+51,1,"13:32",2012,2012,"Josh Okogie missed Three Point Jumper.",6,7,-1,0.290550181803633,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+52,1,"13:32",2012,2012,"Pape Diatta Defensive Rebound.",6,7,-1,0.290550181803633,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+53,1,"13:09",1989,1989,"Pape Diatta missed Three Point Jumper.",6,7,-1,0.28294022941004,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+54,1,"13:09",1989,1989,"Houston Kessler Offensive Rebound.",6,7,-1,0.28294022941004,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+55,1,"13:06",1986,1986,"Houston Kessler missed Layup.",6,7,-1,0.28294022941004,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+56,1,"13:06",1986,1986,"Quinton Stephens Defensive Rebound.",6,7,-1,0.28294022941004,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+57,1,"13:02",1982,1982,"Josh Okogie Turnover.",6,7,-1,0.28294022941004,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+58,1,"12:52",1972,1972,"Juwan Parker Turnover.",6,7,-1,0.277128245948913,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+59,1,"12:42",1962,1962,"Foul on Juwan Parker.",6,7,-1,0.284802132553066,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+60,1,"12:42",1962,1962,"Tadric Jackson missed Free Throw.",6,7,-1,0.284802132553066,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+61,1,"12:42",1962,1962,"Georgia Tech Deadball Team Rebound.",6,7,-1,0.284802132553066,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+62,1,"12:42",1962,1962,"Tadric Jackson missed Free Throw.",6,7,-1,0.284802132553066,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+63,1,"12:42",1962,1962,"Houston Kessler Defensive Rebound.",6,7,-1,0.284802132553066,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+64,1,"12:38",1958,1958,"William Jackson II Turnover.",6,7,-1,0.299507120979182,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+65,1,"12:24",1944,1944,"Josh Heath Turnover.",6,7,-1,0.283725998061368,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+66,1,"12:09",1929,1929,"Juwan Parker missed Jumper.",6,7,-1,0.264123785169342,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+67,1,"12:09",1929,1929,"Georgia Tech Deadball Team Rebound.",6,7,-1,0.264123785169342,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+68,1,"12:09",1929,1929,"Foul on Houston Kessler.",6,7,-1,0.264123785169342,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+69,1,"11:53",1913,1913,"Justin Moore made Layup. Assisted by Ben Lammers.",8,7,1,0.359925858010615,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+70,1,"11:40",1900,1900,"J.J. Frazier made Layup. Assisted by Yante Maten.",8,9,-1,0.280829340615999,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+71,1,"11:25",1885,1885,"Ben Lammers missed Jumper.",8,9,-1,0.274225139490264,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+72,1,"11:25",1885,1885,"Derek Ogbeide Block.",8,9,-1,0.274225139490264,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+73,1,"11:25",1885,1885,"Georgia Defensive Rebound.",8,9,-1,0.274225139490264,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+74,1,"11:25",1885,1885,"Official TV Timeout",8,9,-1,0.274225139490264,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+75,1,"11:07",1867,1867,"Derek Ogbeide made Jumper. Assisted by Jordan Harris.",8,11,-3,0.256259660514086,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+76,1,"10:51",1851,1851,"Josh Okogie missed Layup.",8,11,-3,0.247237718173595,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+77,1,"10:51",1851,1851,"Derek Ogbeide Defensive Rebound.",8,11,-3,0.247237718173595,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+78,1,"10:41",1841,1841,"Jordan Harris made Three Point Jumper. Assisted by E'Torrion Wilridge.",8,14,-6,0.164843357474132,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+79,1,"10:15",1815,1815,"Justin Moore missed Jumper.",8,14,-6,0.171052947639777,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+80,1,"10:15",1815,1815,"Derek Ogbeide Defensive Rebound.",8,14,-6,0.171052947639777,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+81,1,"10:01",1801,1801,"Derek Ogbeide made Dunk. Assisted by Yante Maten.",8,16,-8,0.138085129144038,"Georgia Tech","Georgia",4,4,1,0,-4.5,400910665,2016-12-20
+82,1,"10:01",1801,1801,"Georgia Tech  Timeout",8,16,-8,0.138085129144038,"Georgia Tech","Georgia",3,4,1,0,-4.5,400910665,2016-12-20
+83,1,"9:41",1781,1781,"Ben Lammers made Jumper. Assisted by Justin Moore.",10,16,-6,0.164024128849241,"Georgia Tech","Georgia",3,4,1,0,-4.5,400910665,2016-12-20
+84,1,"9:34",1774,1774,"E'Torrion Wilridge Turnover.",10,16,-6,0.173172415223068,"Georgia Tech","Georgia",3,4,1,0,-4.5,400910665,2016-12-20
+85,1,"9:34",1774,1774,"Quinton Stephens Steal.",10,16,-6,0.173172415223068,"Georgia Tech","Georgia",3,4,1,0,-4.5,400910665,2016-12-20
+86,1,"9:04",1744,1744,"Foul on Jordan Harris.",10,16,-6,0.196672936965563,"Georgia Tech","Georgia",3,4,1,0,-4.5,400910665,2016-12-20
+87,1,"8:42",1722,1722,"Quinton Stephens missed Jumper.",10,16,-6,0.194590310775082,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+88,1,"8:42",1722,1722,"Georgia Deadball Team Rebound.",10,16,-6,0.194590310775082,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+89,1,"8:42",1722,1722,"Foul on Josh Okogie.",10,16,-6,0.194590310775082,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+90,1,"8:20",1700,1700,"Juwan Parker missed Layup.",10,16,-6,0.172685488086676,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+91,1,"8:20",1700,1700,"Josh Okogie Defensive Rebound.",10,16,-6,0.172685488086676,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+92,1,"8:11",1691,1691,"Josh Heath missed Three Point Jumper.",10,16,-6,0.178700541638654,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+93,1,"8:11",1691,1691,"Derek Ogbeide Defensive Rebound.",10,16,-6,0.178700541638654,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+94,1,"8:03",1683,1683,"J.J. Frazier Turnover.",10,16,-6,0.158991622129365,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+95,1,"7:51",1671,1671,"Tadric Jackson missed Layup.",10,16,-6,0.171777675612946,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+96,1,"7:51",1671,1671,"Derek Ogbeide Block.",10,16,-6,0.171777675612946,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+97,1,"7:51",1671,1671,"Derek Ogbeide Defensive Rebound.",10,16,-6,0.171777675612946,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+98,1,"7:45",1665,1665,"Yante Maten made Layup. Assisted by J.J. Frazier.",10,18,-8,0.143409823491376,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+99,1,"7:45",1665,1665,"Foul on Quinton Stephens.",10,18,-8,0.143409823491376,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+100,1,"7:45",1665,1665,"Official TV Timeout",10,18,-8,0.143409823491376,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+101,1,"7:45",1665,1665,"Yante Maten made Free Throw.",10,19,-9,0.128230754275027,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+102,1,"7:29",1649,1649,"Tadric Jackson missed Three Point Jumper.",10,19,-9,0.123249804386225,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+103,1,"7:29",1649,1649,"Yante Maten Defensive Rebound.",10,19,-9,0.123249804386225,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+104,1,"7:10",1630,1630,"Jordan Harris Turnover.",10,19,-9,0.135972391923806,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+105,1,"7:10",1630,1630,"Christian Matthews Steal.",10,19,-9,0.135972391923806,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+106,1,"6:55",1615,1615,"Christian Matthews made Jumper.",12,19,-7,0.147370059310614,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+107,1,"6:28",1588,1588,"J.J. Frazier missed Jumper.",12,19,-7,0.146867130876655,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+108,1,"6:28",1588,1588,"Georgia Tech Defensive Rebound.",12,19,-7,0.146867130876655,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+109,1,"6:09",1569,1569,"Ben Lammers made Jumper. Assisted by Tadric Jackson.",14,19,-5,0.183637701411128,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+110,1,"5:33",1533,1533,"Juwan Parker missed Three Point Jumper.",14,19,-5,0.195058548181484,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+111,1,"5:33",1533,1533,"Mike Edwards Offensive Rebound.",14,19,-5,0.195058548181484,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+112,1,"5:10",1510,1510,"Mike Edwards missed Jumper.",14,19,-5,0.20046080455098,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+113,1,"5:10",1510,1510,"Josh Okogie Defensive Rebound.",14,19,-5,0.20046080455098,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+114,1,"5:03",1503,1503,"Foul on Kenny Paul Geno.",14,19,-5,0.193149242035993,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+115,1,"5:03",1503,1503,"Josh Okogie made Free Throw.",15,19,-4,0.216327452583933,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+116,1,"5:03",1503,1503,"Josh Okogie made Free Throw.",16,19,-3,0.241454728219146,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+117,1,"4:44",1484,1484,"Yante Maten missed Jumper.",16,19,-3,0.230511053847881,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+118,1,"4:44",1484,1484,"Juwan Parker Offensive Rebound.",16,19,-3,0.230511053847881,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+119,1,"4:39",1479,1479,"Juwan Parker missed Layup.",16,19,-3,0.221298840374389,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+120,1,"4:39",1479,1479,"Derek Ogbeide Offensive Rebound.",16,19,-3,0.221298840374389,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+121,1,"4:34",1474,1474,"Derek Ogbeide made Layup.",16,21,-5,0.173101944202933,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+122,1,"4:28",1468,1468,"Josh Heath Turnover.",16,21,-5,0.222298618183752,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+123,1,"4:28",1468,1468,"Yante Maten Steal.",16,21,-5,0.222298618183752,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+124,1,"4:17",1457,1457,"Yante Maten missed Jumper.",16,21,-5,0.181762766155461,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+125,1,"4:17",1457,1457,"Josh Okogie Defensive Rebound.",16,21,-5,0.181762766155461,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+126,1,"4:08",1448,1448,"Josh Okogie missed Layup.",16,21,-5,0.206377657036133,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+127,1,"4:08",1448,1448,"Pape Diatta Defensive Rebound.",16,21,-5,0.206377657036133,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+128,1,"3:52",1432,1432,"Foul on Ben Lammers.",16,21,-5,0.207468577202849,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+129,1,"3:52",1432,1432,"Official TV Timeout",16,21,-5,0.207468577202849,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+130,1,"3:45",1425,1425,"Yante Maten Turnover.",16,21,-5,0.195294242180223,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+131,1,"3:45",1425,1425,"Josh Okogie Steal.",16,21,-5,0.195294242180223,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+132,1,"3:26",1406,1406,"Josh Okogie missed Layup.",16,21,-5,0.195413947959708,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+133,1,"3:26",1406,1406,"Ben Lammers Offensive Rebound.",16,21,-5,0.195413947959708,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+134,1,"3:22",1402,1402,"Foul on J.J. Frazier.",16,21,-5,0.195413947959708,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+135,1,"3:04",1384,1384,"Quinton Stephens missed Three Point Jumper.",16,21,-5,0.200366411961401,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+136,1,"3:04",1384,1384,"Ben Lammers Offensive Rebound.",16,21,-5,0.200366411961401,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+137,1,"2:53",1373,1373,"Corey Heyward missed Layup.",16,21,-5,0.185763314433562,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+138,1,"2:53",1373,1373,"Yante Maten Defensive Rebound.",16,21,-5,0.185763314433562,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+139,1,"2:43",1363,1363,"Pape Diatta missed Three Point Jumper.",16,21,-5,0.192159564174302,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+140,1,"2:43",1363,1363,"Corey Heyward Defensive Rebound.",16,21,-5,0.192159564174302,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+141,1,"2:41",1361,1361,"Foul on J.J. Frazier.",16,21,-5,0.192159564174302,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+142,1,"2:41",1361,1361,"Corey Heyward made Free Throw.",17,21,-4,0.217130310446183,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+143,1,"2:41",1361,1361,"Corey Heyward made Free Throw.",18,21,-3,0.244364402454982,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+144,1,"2:15",1335,1335,"Tyree Crump missed Three Point Jumper.",18,21,-3,0.235758499966913,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+145,1,"2:15",1335,1335,"Justin Moore Defensive Rebound.",18,21,-3,0.235758499966913,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+146,1,"2:09",1329,1329,"Josh Okogie Turnover.",18,21,-3,0.241161844805373,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+147,1,"2:09",1329,1329,"J.J. Frazier Steal.",18,21,-3,0.241161844805373,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+148,1,"2:06",1326,1326,"J.J. Frazier made Layup.",18,23,-5,0.188233309976275,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+149,1,"1:50",1310,1310,"Foul on Quinton Stephens.",18,23,-5,0.205359288304127,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+150,1,"1:50",1310,1310,"Quinton Stephens Turnover.",18,23,-5,0.205359288304127,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+151,1,"1:26",1286,1286,"Tyree Crump missed Layup.",18,23,-5,0.189715871160149,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+152,1,"1:26",1286,1286,"Tyree Crump Offensive Rebound.",18,23,-5,0.189715871160149,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+153,1,"1:22",1282,1282,"Derek Ogbeide made Layup. Assisted by Tyree Crump.",18,25,-7,0.147866364866732,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+154,1,"1:11",1271,1271,"Justin Moore missed Layup.",18,25,-7,0.14344096772391,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+155,1,"1:11",1271,1271,"Derek Ogbeide Defensive Rebound.",18,25,-7,0.14344096772391,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+156,1,"0:42",1242,1242,"Yante Maten missed Three Point Jumper.",18,25,-7,0.146920205966385,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+157,1,"0:42",1242,1242,"Georgia Tech Defensive Rebound.",18,25,-7,0.146920205966385,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+158,1,"0:25",1225,1225,"Ben Lammers missed Jumper.",18,25,-7,0.142878477829329,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+159,1,"0:25",1225,1225,"Derek Ogbeide Defensive Rebound.",18,25,-7,0.142878477829329,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+160,1,"0:05",1205,1205,"Tyree Crump missed Layup.",18,25,-7,0.146048622038219,"Georgia Tech","Georgia",3,4,0,1,-4.5,400910665,2016-12-20
+161,1,"0:05",1205,1205,"Ben Lammers Block.",18,25,-7,0.146048622038219,"Georgia Tech","Georgia",3,4,0,1,-4.5,400910665,2016-12-20
+162,1,"0:05",1205,1205,"Georgia Offensive Rebound.",18,25,-7,0.146048622038219,"Georgia Tech","Georgia",3,4,0,1,-4.5,400910665,2016-12-20
+163,1,"0:05",1205,1205,"Georgia  Timeout",18,25,-7,0.146048622038219,"Georgia Tech","Georgia",3,3,0,1,-4.5,400910665,2016-12-20
+164,1,"0:02",1202,1202,"Foul on Tadric Jackson.",18,25,-7,0.146048622038219,"Georgia Tech","Georgia",3,3,0,1,-4.5,400910665,2016-12-20
+165,1,"0:02",1202,1202,"Yante Maten made Free Throw.",18,26,-8,0.127284460380274,"Georgia Tech","Georgia",3,3,0,1,-4.5,400910665,2016-12-20
+166,1,"0:02",1202,1202,"Yante Maten made Free Throw.",18,27,-9,0.110618807966171,"Georgia Tech","Georgia",3,3,0,1,-4.5,400910665,2016-12-20
+167,1,"0:00",1200,1200,"End of 1st half",18,27,-9,0.110618807966171,"Georgia Tech","Georgia",3,3,0,1,-4.5,400910665,2016-12-20
+168,2,"20:00",1200,1200,"PLAY",18,27,-9,0.110618807966171,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+169,2,"20:00",1200,1200,"Jump Ball won by Georgia Tech",18,27,-9,0.110618807966171,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+170,2,"19:36",1176,1176,"Quinton Stephens missed Jumper.",18,27,-9,0.111713521513742,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+171,2,"19:36",1176,1176,"Georgia Tech Deadball Team Rebound.",18,27,-9,0.111713521513742,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+172,2,"19:36",1176,1176,"Foul on Derek Ogbeide.",18,27,-9,0.111713521513742,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+173,2,"19:32",1172,1172,"Quinton Stephens missed Three Point Jumper.",18,27,-9,0.111713521513742,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+174,2,"19:32",1172,1172,"Yante Maten Defensive Rebound.",18,27,-9,0.111713521513742,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+175,2,"19:28",1168,1168,"J.J. Frazier made Three Point Jumper. Assisted by Jordan Harris.",18,30,-12,0.0606693209439841,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+176,2,"19:08",1148,1148,"Ben Lammers made Jumper. Assisted by Quinton Stephens.",20,30,-10,0.0922013996359691,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+177,2,"18:57",1137,1137,"Foul on Corey Heyward.",20,30,-10,0.09519374844593,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+178,2,"18:53",1133,1133,"Jordan Harris Turnover.",20,30,-10,0.09519374844593,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+179,2,"18:53",1133,1133,"Corey Heyward Steal.",20,30,-10,0.09519374844593,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+180,2,"18:48",1128,1128,"Josh Okogie made Layup. Assisted by Corey Heyward.",22,30,-8,0.105040207963047,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+181,2,"18:37",1117,1117,"Derek Ogbeide missed Layup.",22,30,-8,0.127240889472645,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+182,2,"18:37",1117,1117,"Ben Lammers Block.",22,30,-8,0.127240889472645,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+183,2,"18:37",1117,1117,"Josh Okogie Defensive Rebound.",22,30,-8,0.127240889472645,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+184,2,"18:31",1111,1111,"Foul on Juwan Parker.",22,30,-8,0.127240889472645,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+185,2,"18:23",1103,1103,"Justin Moore made Jumper.",24,30,-6,0.163237885174728,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+186,2,"17:55",1075,1075,"Juwan Parker missed Jumper.",24,30,-6,0.179164725277368,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+187,2,"17:55",1075,1075,"Ben Lammers Defensive Rebound.",24,30,-6,0.179164725277368,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+188,2,"17:29",1049,1049,"Josh Okogie missed Dunk.",24,30,-6,0.170194552909119,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+189,2,"17:29",1049,1049,"Georgia Deadball Team Rebound.",24,30,-6,0.170194552909119,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+190,2,"17:01",1021,1021,"Yante Maten missed Jumper.",24,30,-6,0.164249167855374,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+191,2,"17:01",1021,1021,"Kenny Paul Geno Offensive Rebound.",24,30,-6,0.164249167855374,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+192,2,"16:58",1018,1018,"Kenny Paul Geno made Dunk.",24,32,-8,0.105711504474764,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+193,2,"16:46",1006,1006,"Quinton Stephens missed Three Point Jumper.",24,32,-8,0.107253783854607,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+194,2,"16:46",1006,1006,"Georgia Deadball Team Rebound.",24,32,-8,0.107253783854607,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+195,2,"16:46",1006,1006,"Foul on Ben Lammers.",24,32,-8,0.107253783854607,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+196,2,"16:30",990,990,"Jordan Harris Turnover.",24,32,-8,0.111318487834215,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+197,2,"16:29",989,989,"Justin Moore Turnover.",24,32,-8,0.114628883227416,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+198,2,"16:29",989,989,"Kenny Paul Geno Steal.",24,32,-8,0.114628883227416,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+199,2,"16:19",979,979,"Kenny Paul Geno missed Three Point Jumper.",24,32,-8,0.120251634244974,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+200,2,"16:19",979,979,"Jordan Harris Offensive Rebound.",24,32,-8,0.120251634244974,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+201,2,"16:02",962,962,"Kenny Paul Geno made Dunk. Assisted by Jordan Harris.",24,34,-10,0.0819986691592829,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+202,2,"15:45",945,945,"Justin Moore missed Layup.",24,34,-10,0.080569509982981,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+203,2,"15:45",945,945,"Kenny Paul Geno Defensive Rebound.",24,34,-10,0.080569509982981,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+204,2,"15:38",938,938,"Jordan Harris missed Three Point Jumper.",24,34,-10,0.0777760239383543,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+205,2,"15:38",938,938,"Ben Lammers Defensive Rebound.",24,34,-10,0.0777760239383543,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+206,2,"15:22",922,922,"Foul on Kenny Paul Geno.",24,34,-10,0.0705064010943259,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+207,2,"15:22",922,922,"Official TV Timeout",24,34,-10,0.0705064010943259,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+208,2,"15:22",922,922,"Ben Lammers made Free Throw.",25,34,-9,0.0842880585179087,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+209,2,"15:22",922,922,"Ben Lammers made Free Throw.",26,34,-8,0.100472383004799,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+210,2,"15:03",903,903,"Foul on Josh Heath.",26,34,-8,0.111783710699645,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+211,2,"15:03",903,903,"J.J. Frazier made Free Throw.",26,35,-9,0.0941512171433975,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+212,2,"15:03",903,903,"J.J. Frazier made Free Throw.",26,36,-10,0.079052490476446,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+213,2,"15:03",903,903,"J.J. Frazier made Free Throw.",26,37,-11,0.0661981501761525,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+214,2,"14:43",883,883,"Ben Lammers Turnover.",26,37,-11,0.0771018169566005,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+215,2,"14:43",883,883,"E'Torrion Wilridge Steal.",26,37,-11,0.0771018169566005,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+216,2,"14:36",876,876,"J.J. Frazier Turnover.",26,37,-11,0.0654950782689749,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+217,2,"14:30",870,870,"Foul on Mike Edwards.",26,37,-11,0.0654950782689749,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+218,2,"14:22",862,862,"Josh Heath made Layup. Assisted by Ben Lammers.",28,37,-9,0.0874859581343844,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+219,2,"14:04",844,844,"E'Torrion Wilridge missed Three Point Jumper.",28,37,-9,0.0798967377463765,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+220,2,"14:04",844,844,"Josh Okogie Defensive Rebound.",28,37,-9,0.0798967377463765,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+221,2,"13:51",831,831,"Quinton Stephens Turnover.",28,37,-9,0.0769428836584818,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+222,2,"13:51",831,831,"Derek Ogbeide Steal.",28,37,-9,0.0769428836584818,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+223,2,"13:24",804,804,"J.J. Frazier missed Three Point Jumper.",28,37,-9,0.0887497928868613,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+224,2,"13:24",804,804,"Quinton Stephens Defensive Rebound.",28,37,-9,0.0887497928868613,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+225,2,"13:12",792,792,"Josh Heath missed Layup.",28,37,-9,0.0726428028046272,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+226,2,"13:12",792,792,"Mike Edwards Defensive Rebound.",28,37,-9,0.0726428028046272,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+227,2,"12:41",761,761,"William Jackson II missed Jumper.",28,37,-9,0.0800339871015297,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+228,2,"12:41",761,761,"Ben Lammers Block.",28,37,-9,0.0800339871015297,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+229,2,"12:41",761,761,"William Jackson II Offensive Rebound.",28,37,-9,0.0800339871015297,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+230,2,"12:19",739,739,"J.J. Frazier made Layup.",28,39,-11,0.0596713634230333,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+231,2,"12:19",739,739,"Foul on Josh Okogie.",28,39,-11,0.0596713634230333,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+232,2,"12:19",739,739,"J.J. Frazier made Free Throw.",28,40,-12,0.0487995940685015,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+233,2,"11:57",717,717,"Ben Lammers missed Jumper.",28,40,-12,0.0358404426709399,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+234,2,"11:57",717,717,"Quinton Stephens Offensive Rebound.",28,40,-12,0.0358404426709399,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+235,2,"11:51",711,711,"Official TV Timeout",28,40,-12,0.0358404426709399,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+236,2,"11:41",701,701,"Ben Lammers made Dunk. Assisted by Justin Moore.",30,40,-10,0.0745386565673456,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+237,2,"11:17",677,677,"Yante Maten missed Layup.",30,40,-10,0.053006617919195,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+238,2,"11:17",677,677,"Yante Maten Offensive Rebound.",30,40,-10,0.053006617919195,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+239,2,"11:09",669,669,"Yante Maten made Layup.",30,42,-12,0.0437747965463659,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+240,2,"10:55",655,655,"Foul on William Jackson II.",30,42,-12,0.036957438593436,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+241,2,"10:47",647,647,"Ben Lammers missed Jumper.",30,42,-12,0.0350839473269221,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+242,2,"10:47",647,647,"Mike Edwards Defensive Rebound.",30,42,-12,0.0350839473269221,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+243,2,"10:15",615,615,"William Jackson II made Layup.",30,44,-14,0.0173826323733498,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+244,2,"9:52",592,592,"Christian Matthews made Layup. Assisted by Ben Lammers.",32,44,-12,0.0346096461119629,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+245,2,"9:32",572,572,"Mike Edwards missed Jumper.",32,44,-12,0.0329401975797409,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+246,2,"9:32",572,572,"Quinton Stephens Defensive Rebound.",32,44,-12,0.0329401975797409,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+247,2,"9:21",561,561,"Quinton Stephens missed Jumper.",32,44,-12,0.0272817255301157,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+248,2,"9:21",561,561,"Jordan Harris Defensive Rebound.",32,44,-12,0.0272817255301157,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+249,2,"8:59",539,539,"Juwan Parker missed Jumper.",32,44,-12,0.023662877896851,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+250,2,"8:59",539,539,"Quinton Stephens Defensive Rebound.",32,44,-12,0.023662877896851,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+251,2,"8:42",522,522,"Quinton Stephens missed Jumper.",32,44,-12,0.0274842141999398,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+252,2,"8:42",522,522,"Juwan Parker Defensive Rebound.",32,44,-12,0.0274842141999398,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+253,2,"8:22",502,502,"Yante Maten made Jumper.",32,46,-14,0.0161970498979118,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+254,2,"8:10",490,490,"Foul on Jordan Harris.",32,46,-14,0.0166429210212563,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+255,2,"7:56",476,476,"Christian Matthews missed Three Point Jumper.",32,46,-14,0.0106233353552735,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+256,2,"7:56",476,476,"Juwan Parker Defensive Rebound.",32,46,-14,0.0106233353552735,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+257,2,"7:51",471,471,"Official TV Timeout",32,46,-14,0.0106233353552735,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+258,2,"7:41",461,461,"Foul on Josh Okogie.",32,46,-14,0.0120152047903302,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+259,2,"7:41",461,461,"Yante Maten missed Free Throw.",32,46,-14,0.0120152047903302,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+260,2,"7:41",461,461,"Georgia Deadball Team Rebound.",32,46,-14,0.0120152047903302,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+261,2,"7:41",461,461,"Yante Maten made Free Throw.",32,47,-15,0.00909049498349521,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+262,2,"7:25",445,445,"Josh Okogie made Layup.",34,47,-13,0.0200178605931406,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+263,2,"6:56",416,416,"J.J. Frazier made Jumper.",34,49,-15,0.00686850268416757,"Georgia Tech","Georgia",4,4,0,0,-4.5,400910665,2016-12-20
+264,2,"6:35",395,395,"Tadric Jackson made Three Point Jumper.",37,49,-12,0.0169531009728432,"Georgia Tech","Georgia",4,4,1,0,-4.5,400910665,2016-12-20
+265,2,"6:35",395,395,"Georgia Tech  Timeout",37,49,-12,0.0169531009728432,"Georgia Tech","Georgia",3,4,1,0,-4.5,400910665,2016-12-20
+266,2,"6:20",380,380,"Foul on Corey Heyward.",37,49,-12,0.0177820473034539,"Georgia Tech","Georgia",3,4,1,0,-4.5,400910665,2016-12-20
+267,2,"6:20",380,380,"Derek Ogbeide made Free Throw.",37,50,-13,0.0132676712681916,"Georgia Tech","Georgia",3,4,1,0,-4.5,400910665,2016-12-20
+268,2,"6:20",380,380,"Derek Ogbeide missed Free Throw.",37,50,-13,0.0132676712681916,"Georgia Tech","Georgia",3,4,1,0,-4.5,400910665,2016-12-20
+269,2,"6:20",380,380,"Quinton Stephens Defensive Rebound.",37,50,-13,0.0132676712681916,"Georgia Tech","Georgia",3,4,1,0,-4.5,400910665,2016-12-20
+270,2,"5:50",350,350,"Georgia Tech  Turnover.",37,50,-13,0.00655314463168561,"Georgia Tech","Georgia",3,4,1,0,-4.5,400910665,2016-12-20
+271,2,"5:34",334,334,"Yante Maten made Jumper. Assisted by Jordan Harris.",37,52,-15,0.00361967199903073,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+272,2,"5:24",324,324,"Josh Okogie missed Layup.",37,52,-15,0.00536421808672821,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+273,2,"5:24",324,324,"Yante Maten Defensive Rebound.",37,52,-15,0.00536421808672821,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+274,2,"5:03",303,303,"J.J. Frazier missed Three Point Jumper.",37,52,-15,0.00462930137753444,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+275,2,"5:03",303,303,"Ben Lammers Defensive Rebound.",37,52,-15,0.00462930137753444,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+276,2,"4:52",292,292,"Quinton Stephens missed Jumper.",37,52,-15,0.00363299827948599,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+277,2,"4:52",292,292,"Juwan Parker Defensive Rebound.",37,52,-15,0.00363299827948599,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+278,2,"4:33",273,273,"J.J. Frazier Turnover.",37,52,-15,0.00183484269299125,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+279,2,"4:33",273,273,"Quinton Stephens Steal.",37,52,-15,0.00183484269299125,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+280,2,"4:28",268,268,"Tadric Jackson made Layup.",39,52,-13,0.0055996604776185,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+281,2,"4:01",241,241,"J.J. Frazier Turnover.",39,52,-13,0.00370051857014421,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+282,2,"4:01",241,241,"Josh Okogie Steal.",39,52,-13,0.00370051857014421,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+283,2,"3:52",232,232,"Josh Okogie Turnover.",39,52,-13,0.00404584128421263,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+284,2,"3:52",232,232,"Juwan Parker Steal.",39,52,-13,0.00404584128421263,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+285,2,"3:31",211,211,"J.J. Frazier missed Layup.",39,52,-13,0.00224269449592106,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+286,2,"3:31",211,211,"Juwan Parker Offensive Rebound.",39,52,-13,0.00224269449592106,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+287,2,"3:27",207,207,"Juwan Parker made Layup.",39,54,-15,0.00083002325515648,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+288,2,"3:06",186,186,"Ben Lammers missed Jumper.",39,54,-15,0.000471296597405441,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+289,2,"3:06",186,186,"Yante Maten Defensive Rebound.",39,54,-15,0.000471296597405441,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+290,2,"2:34",154,154,"Official TV Timeout",39,54,-15,0.000249853636054948,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+291,2,"2:33",153,153,"J.J. Frazier missed Three Point Jumper.",39,54,-15,0.000249853636054948,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+292,2,"2:33",153,153,"Josh Heath Block.",39,54,-15,0.000249853636054948,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+293,2,"2:33",153,153,"Georgia Tech Deadball Team Rebound.",39,54,-15,0.000249853636054948,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+294,2,"2:16",136,136,"Yante Maten missed Layup.",39,54,-15,0.0002669817718828,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+295,2,"2:16",136,136,"Corey Heyward Defensive Rebound.",39,54,-15,0.0002669817718828,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+296,2,"2:02",122,122,"Corey Heyward made Layup.",41,54,-13,0.000435399897919729,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+297,2,"1:37",97,97,"Juwan Parker made Layup. Assisted by Derek Ogbeide.",41,56,-15,6.70517587311617e-05,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+298,2,"1:21",81,81,"Abdoulaye Gueye made Layup.",43,56,-13,8.04918521262164e-05,"Georgia Tech","Georgia",3,4,0,0,-4.5,400910665,2016-12-20
+299,2,"1:07",67,67,"Yante Maten made Layup.",43,58,-15,1.12909437930492e-05,"Georgia Tech","Georgia",3,4,0,1,-4.5,400910665,2016-12-20
+300,2,"1:07",67,67,"Foul on Corey Heyward.",43,58,-15,1.12909437930492e-05,"Georgia Tech","Georgia",3,4,0,1,-4.5,400910665,2016-12-20
+301,2,"1:07",67,67,"Georgia  Timeout",43,58,-15,1.12909437930492e-05,"Georgia Tech","Georgia",3,3,0,1,-4.5,400910665,2016-12-20
+302,2,"1:07",67,67,"Yante Maten missed Free Throw.",43,58,-15,1.12909437930492e-05,"Georgia Tech","Georgia",3,3,0,1,-4.5,400910665,2016-12-20
+303,2,"1:07",67,67,"Abdoulaye Gueye Defensive Rebound.",43,58,-15,1.12909437930492e-05,"Georgia Tech","Georgia",3,3,0,1,-4.5,400910665,2016-12-20
+304,2,"0:50",50,50,"Foul on Jordan Harris.",43,58,-15,1.12942532126945e-06,"Georgia Tech","Georgia",3,3,0,1,-4.5,400910665,2016-12-20
+305,2,"0:50",50,50,"Corey Heyward missed Free Throw.",43,58,-15,1.12942532126945e-06,"Georgia Tech","Georgia",3,3,0,1,-4.5,400910665,2016-12-20
+306,2,"0:50",50,50,"Georgia Tech Deadball Team Rebound.",43,58,-15,1.12942532126945e-06,"Georgia Tech","Georgia",3,3,0,1,-4.5,400910665,2016-12-20
+307,2,"0:50",50,50,"Corey Heyward missed Free Throw.",43,58,-15,1.12942532126945e-06,"Georgia Tech","Georgia",3,3,0,1,-4.5,400910665,2016-12-20
+308,2,"0:50",50,50,"Jordan Harris Defensive Rebound.",43,58,-15,1.12942532126945e-06,"Georgia Tech","Georgia",3,3,0,1,-4.5,400910665,2016-12-20
+309,2,"0:22",22,22,"Foul on Abdoulaye Gueye.",43,58,-15,3.26675350659592e-09,"Georgia Tech","Georgia",3,3,0,1,-4.5,400910665,2016-12-20
+310,2,"0:22",22,22,"Yante Maten made Free Throw.",43,59,-16,8.8446574889789e-10,"Georgia Tech","Georgia",3,3,0,1,-4.5,400910665,2016-12-20
+311,2,"0:22",22,22,"Yante Maten made Free Throw.",43,60,-17,2.3946699928077e-10,"Georgia Tech","Georgia",3,3,0,1,-4.5,400910665,2016-12-20
+312,2,"0:17",17,17,"Abdoulaye Gueye missed Three Point Jumper.",43,60,-17,1.08676509197118e-08,"Georgia Tech","Georgia",3,3,0,1,-4.5,400910665,2016-12-20
+313,2,"0:17",17,17,"Houston Kessler Defensive Rebound.",43,60,-17,1.08676509197118e-08,"Georgia Tech","Georgia",3,3,0,1,-4.5,400910665,2016-12-20
+314,2,"0:00",0,0,"End of Game",43,60,-17,1.32485833017783e-143,"Georgia Tech","Georgia",3,3,0,0,-4.5,400910665,2016-12-20

@@ -1,0 +1,334 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.880609297455612,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+2,1,"19:46",2386,2386,"Doral Moore made Dunk. Assisted by Bryant Crawford.",2,0,2,0.883279253210436,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+3,1,"19:10",2350,2350,"Ryan Kemrite Turnover.",2,0,2,0.894627242290816,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+4,1,"18:56",2336,2336,"Chaundee Brown missed Three Point Jumper.",2,0,2,0.889105061530534,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+5,1,"18:56",2336,2336,"Ezra Talbert Defensive Rebound.",2,0,2,0.889105061530534,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+6,1,"18:33",2313,2313,"Ezra Talbert Turnover.",2,0,2,0.878931217841031,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+7,1,"18:31",2311,2311,"Keyshawn Woods Steal.",2,0,2,0.878931217841031,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+8,1,"18:19",2299,2299,"Bryant Crawford missed Jumper.",2,0,2,0.889370539177295,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+9,1,"18:19",2299,2299,"Lovell Cabbil Block.",2,0,2,0.889370539177295,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+10,1,"18:18",2298,2298,"Lovell Cabbil Defensive Rebound.",2,0,2,0.889370539177295,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+11,1,"18:14",2294,2294,"Foul on Keyshawn Woods.",2,0,2,0.889370539177295,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+12,1,"18:14",2294,2294,"Lovell Cabbil made Free Throw.",2,1,1,0.879407495158731,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+13,1,"18:14",2294,2294,"Lovell Cabbil made Free Throw.",2,2,0,0.868679685189239,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+14,1,"18:06",2286,2286,"Doral Moore missed Jumper.",2,2,0,0.86299953154134,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+15,1,"18:06",2286,2286,"Myo Baxter-Bell Defensive Rebound.",2,2,0,0.86299953154134,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+16,1,"17:41",2261,2261,"Georgie Pacheco-Ortiz made Jumper.",2,4,-2,0.841783058860753,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+17,1,"17:27",2247,2247,"Foul on Myo Baxter-Bell.",2,4,-2,0.828884300183331,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+18,1,"17:26",2246,2246,"Keyshawn Woods missed Layup.",2,4,-2,0.828884300183331,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+19,1,"17:26",2246,2246,"Doral Moore Offensive Rebound.",2,4,-2,0.828884300183331,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+20,1,"17:23",2243,2243,"Doral Moore made Dunk.",4,4,0,0.853948976225522,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+21,1,"17:02",2222,2222,"Lovell Cabbil Turnover.",4,4,0,0.865924092318291,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+22,1,"16:54",2214,2214,"Keyshawn Woods made Jumper.",6,4,2,0.888492147545744,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+23,1,"16:33",2193,2193,"Foul on Doral Moore.",6,4,2,0.893921476142987,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+24,1,"16:20",2180,2180,"Lovell Cabbil missed Three Point Jumper.",6,4,2,0.885405127732499,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+25,1,"16:20",2180,2180,"Terrence Thompson Defensive Rebound.",6,4,2,0.885405127732499,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+26,1,"16:09",2169,2169,"Foul on Lovell Cabbil.",6,4,2,0.882500912131935,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+27,1,"15:53",2153,2153,"Keyshawn Woods Turnover.",6,4,2,0.883671182994252,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+28,1,"15:53",2153,2153,"Lovell Cabbil Steal.",6,4,2,0.883671182994252,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+29,1,"15:48",2148,2148,"Caleb Homesley Turnover.",6,4,2,0.886362423724665,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+30,1,"15:48",2148,2148,"Official TV Timeout",6,4,2,0.886362423724665,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+31,1,"15:24",2124,2124,"Foul on Olivier Sarr.",6,4,2,0.882399787503698,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+32,1,"15:24",2124,2124,"Olivier Sarr Turnover.",6,4,2,0.882399787503698,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+33,1,"15:10",2110,2110,"Scottie James made Layup. Assisted by Caleb Homesley.",6,6,0,0.86635230851055,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+34,1,"15:05",2105,2105,"Brandon Childress Turnover.",6,6,0,0.854256394543433,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+35,1,"15:05",2105,2105,"Lovell Cabbil Steal.",6,6,0,0.854256394543433,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+36,1,"14:57",2097,2097,"Foul on Brandon Childress.",6,6,0,0.850140094041936,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+37,1,"14:44",2084,2084,"Lovell Cabbil made Jumper.",6,8,-2,0.824417485628121,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+38,1,"14:19",2059,2059,"Foul on Elijah Cuffee.",6,8,-2,0.834281366328363,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+39,1,"14:15",2055,2055,"Bryant Crawford missed Three Point Jumper.",6,8,-2,0.834281366328363,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+40,1,"14:15",2055,2055,"Lovell Cabbil Defensive Rebound.",6,8,-2,0.834281366328363,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+41,1,"14:05",2045,2045,"Lovell Cabbil Turnover.",6,8,-2,0.816503067997307,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+42,1,"14:04",2044,2044,"Bryant Crawford Steal.",6,8,-2,0.816503067997307,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+43,1,"14:02",2042,2042,"Bryant Crawford made Layup.",8,8,0,0.847252534601134,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+44,1,"13:36",2016,2016,"Foul on Terrence Thompson.",8,8,0,0.856399866236777,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+45,1,"13:25",2005,2005,"Lovell Cabbil made Three Point Jumper. Assisted by Isaiah Williams.",8,11,-3,0.803210926232221,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+46,1,"12:58",1978,1978,"Brandon Childress missed Jumper.",8,11,-3,0.808251181131988,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+47,1,"12:58",1978,1978,"Lovell Cabbil Block.",8,11,-3,0.808251181131988,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+48,1,"12:57",1977,1977,"Lovell Cabbil Defensive Rebound.",8,11,-3,0.808251181131988,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+49,1,"12:43",1963,1963,"Lovell Cabbil made Three Point Jumper. Assisted by Myo Baxter-Bell.",8,14,-6,0.755276229664049,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+50,1,"12:28",1948,1948,"Brandon Childress Turnover.",8,14,-6,0.725547595549339,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+51,1,"12:13",1933,1933,"Myo Baxter-Bell missed Layup.",8,14,-6,0.711246731727272,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+52,1,"12:13",1933,1933,"Doral Moore Defensive Rebound.",8,14,-6,0.711246731727272,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+53,1,"12:03",1923,1923,"Doral Moore made Dunk. Assisted by Bryant Crawford.",10,14,-4,0.782630388671399,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+54,1,"11:41",1901,1901,"Elijah Cuffee Turnover.",10,14,-4,0.783126334369255,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+55,1,"11:39",1899,1899,"Official TV Timeout",10,14,-4,0.76240257911763,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+56,1,"11:17",1877,1877,"Mitchell Wilbekin made Three Point Jumper.",13,14,-1,0.829067233112577,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+57,1,"10:59",1859,1859,"Ryan Kemrite missed Three Point Jumper.",13,14,-1,0.828978450113178,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+58,1,"10:59",1859,1859,"Mitchell Wilbekin Defensive Rebound.",13,14,-1,0.828978450113178,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+59,1,"10:50",1850,1850,"Chaundee Brown missed Three Point Jumper.",13,14,-1,0.828978450113178,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+60,1,"10:50",1850,1850,"Elijah Cuffee Defensive Rebound.",13,14,-1,0.828978450113178,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+61,1,"10:37",1837,1837,"Georgie Pacheco-Ortiz missed Three Point Jumper.",13,14,-1,0.824106149857179,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+62,1,"10:37",1837,1837,"Bryant Crawford Defensive Rebound.",13,14,-1,0.824106149857179,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+63,1,"10:18",1818,1818,"Mitchell Wilbekin missed Three Point Jumper.",13,14,-1,0.82625350457444,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+64,1,"10:18",1818,1818,"Elijah Cuffee Defensive Rebound.",13,14,-1,0.82625350457444,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+65,1,"9:52",1792,1792,"Isaiah Williams made Three Point Jumper. Assisted by Keegan McDowell.",13,17,-4,0.750074558226485,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+66,1,"9:33",1773,1773,"Doral Moore made Dunk.",15,17,-2,0.798803544835182,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+67,1,"9:16",1756,1756,"Isaiah Williams missed Three Point Jumper.",15,17,-2,0.799079242790464,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+68,1,"9:16",1756,1756,"Keyshawn Woods Defensive Rebound.",15,17,-2,0.799079242790464,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+69,1,"9:04",1744,1744,"Foul on Elijah Cuffee.",15,17,-2,0.799458596646094,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+70,1,"9:00",1740,1740,"Mitchell Wilbekin missed Jumper.",15,17,-2,0.799458596646094,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+71,1,"9:00",1740,1740,"Terrence Thompson Offensive Rebound.",15,17,-2,0.799458596646094,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+72,1,"8:57",1737,1737,"Foul on Scottie James.",15,17,-2,0.801533537924802,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+73,1,"8:57",1737,1737,"Terrence Thompson made Free Throw.",16,17,-1,0.822406516747518,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+74,1,"8:57",1737,1737,"Terrence Thompson missed Free Throw.",16,17,-1,0.822406516747518,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+75,1,"8:57",1737,1737,"Scottie James Defensive Rebound.",16,17,-1,0.822406516747518,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+76,1,"8:40",1720,1720,"Lovell Cabbil Turnover.",16,17,-1,0.807030658567385,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+77,1,"8:39",1719,1719,"Bryant Crawford Steal.",16,17,-1,0.831820134590064,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+78,1,"8:34",1714,1714,"Foul on Lovell Cabbil.",16,17,-1,0.831820134590064,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+79,1,"8:12",1692,1692,"Foul on Georgie Pacheco-Ortiz.",16,17,-1,0.81530047758494,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+80,1,"8:12",1692,1692,"Bryant Crawford made Free Throw.",17,17,0,0.835830825055529,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+81,1,"8:12",1692,1692,"Bryant Crawford made Free Throw.",18,17,1,0.854486412120449,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+82,1,"7:44",1664,1664,"Myo Baxter-Bell made Jumper.",18,19,-1,0.819432393945421,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+83,1,"7:34",1654,1654,"Keyshawn Woods missed Jumper.",18,19,-1,0.814056140893034,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+84,1,"7:34",1654,1654,"Scottie James Defensive Rebound.",18,19,-1,0.814056140893034,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+85,1,"7:16",1636,1636,"Caleb Homesley missed Three Point Jumper.",18,19,-1,0.818588071206399,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+86,1,"7:16",1636,1636,"Doral Moore Defensive Rebound.",18,19,-1,0.818588071206399,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+87,1,"7:12",1632,1632,"Brandon Childress Turnover.",18,19,-1,0.818588071206399,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+88,1,"7:11",1631,1631,"Caleb Homesley Steal.",18,19,-1,0.818588071206399,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+89,1,"6:53",1613,1613,"Caleb Homesley missed Three Point Jumper.",18,19,-1,0.797703265086026,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+90,1,"6:53",1613,1613,"Doral Moore Defensive Rebound.",18,19,-1,0.797703265086026,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+91,1,"6:44",1604,1604,"Foul on Ryan Kemrite.",18,19,-1,0.819091565694007,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+92,1,"6:44",1604,1604,"Official TV Timeout",18,19,-1,0.819091565694007,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+93,1,"6:44",1604,1604,"Keyshawn Woods made Free Throw.",19,19,0,0.837748781474413,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+94,1,"6:44",1604,1604,"Keyshawn Woods made Free Throw.",20,19,1,0.854822901517482,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+95,1,"6:15",1575,1575,"Isaiah Williams missed Layup.",20,19,1,0.855695833582941,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+96,1,"6:15",1575,1575,"Terrence Thompson Defensive Rebound.",20,19,1,0.855695833582941,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+97,1,"6:05",1565,1565,"Keyshawn Woods made Jumper.",22,19,3,0.878130607731295,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+98,1,"5:47",1547,1547,"Ryan Kemrite made Three Point Jumper. Assisted by Keegan McDowell.",22,22,0,0.83663923978378,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+99,1,"5:24",1524,1524,"Foul on Bryant Crawford.",22,22,0,0.826104038851192,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+100,1,"5:24",1524,1524,"Bryant Crawford Turnover.",22,22,0,0.826104038851192,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+101,1,"5:04",1504,1504,"Keegan McDowell missed Three Point Jumper.",22,22,0,0.828290226013124,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+102,1,"5:04",1504,1504,"Keyshawn Woods Defensive Rebound.",22,22,0,0.828290226013124,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+103,1,"4:54",1494,1494,"Foul on Ryan Kemrite.",22,22,0,0.83532673660122,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+104,1,"4:54",1494,1494,"Chaundee Brown missed Free Throw.",22,22,0,0.83532673660122,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+105,1,"4:54",1494,1494,"Wake Forest Deadball Team Rebound.",22,22,0,0.83532673660122,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+106,1,"4:54",1494,1494,"Chaundee Brown made Free Throw.",23,22,1,0.853630587225542,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+107,1,"4:33",1473,1473,"Ryan Kemrite missed Jumper.",23,22,1,0.863021585340109,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+108,1,"4:33",1473,1473,"Scottie James Offensive Rebound.",23,22,1,0.863021585340109,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+109,1,"4:30",1470,1470,"Scottie James missed Dunk.",23,22,1,0.863021585340109,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+110,1,"4:30",1470,1470,"Isaiah Williams Offensive Rebound.",23,22,1,0.863021585340109,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+111,1,"4:27",1467,1467,"Scottie James made Layup. Assisted by Isaiah Williams.",23,24,-1,0.789522589012582,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+112,1,"4:04",1444,1444,"Mitchell Wilbekin missed Three Point Jumper.",23,24,-1,0.813303888176853,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+113,1,"4:04",1444,1444,"Scottie James Defensive Rebound.",23,24,-1,0.813303888176853,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+114,1,"3:41",1421,1421,"Scottie James Turnover.",23,24,-1,0.787275785453772,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+115,1,"3:40",1420,1420,"Terrence Thompson Steal.",23,24,-1,0.787275785453772,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+116,1,"3:26",1406,1406,"Keyshawn Woods made Jumper.",25,24,1,0.85426951670203,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+117,1,"3:03",1383,1383,"Georgie Pacheco-Ortiz missed Three Point Jumper.",25,24,1,0.847634174662786,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+118,1,"3:03",1383,1383,"Scottie James Offensive Rebound.",25,24,1,0.847634174662786,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+119,1,"3:00",1380,1380,"Scottie James made Layup.",25,26,-1,0.804909827812563,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+120,1,"2:59",1379,1379,"Foul on Olivier Sarr.",25,26,-1,0.79340571569932,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+121,1,"2:59",1379,1379,"Official TV Timeout",25,26,-1,0.79340571569932,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+122,1,"2:59",1379,1379,"Scottie James made Free Throw.",25,27,-2,0.768742197944245,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+123,1,"2:43",1363,1363,"Mitchell Wilbekin missed Three Point Jumper.",25,27,-2,0.768807335088389,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+124,1,"2:43",1363,1363,"Georgie Pacheco-Ortiz Defensive Rebound.",25,27,-2,0.768807335088389,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+125,1,"2:22",1342,1342,"Ryan Kemrite made Three Point Jumper. Assisted by Isaiah Williams.",25,30,-5,0.652192456755103,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+126,1,"2:19",1339,1339,"Wake Forest  Timeout",25,30,-5,0.655624653600045,"Wake Forest","Liberty",3,4,1,0,11.2,400986056,2017-11-14
+127,1,"2:02",1322,1322,"Keyshawn Woods missed Three Point Jumper.",25,30,-5,0.669384173839847,"Wake Forest","Liberty",3,4,1,0,11.2,400986056,2017-11-14
+128,1,"2:02",1322,1322,"Caleb Homesley Defensive Rebound.",25,30,-5,0.669384173839847,"Wake Forest","Liberty",3,4,1,0,11.2,400986056,2017-11-14
+129,1,"1:44",1304,1304,"Georgie Pacheco-Ortiz Turnover.",25,30,-5,0.663733246569412,"Wake Forest","Liberty",3,4,1,0,11.2,400986056,2017-11-14
+130,1,"1:43",1303,1303,"Chaundee Brown Steal.",25,30,-5,0.663733246569412,"Wake Forest","Liberty",3,4,1,0,11.2,400986056,2017-11-14
+131,1,"1:40",1300,1300,"Bryant Crawford missed Jumper.",25,30,-5,0.663733246569412,"Wake Forest","Liberty",3,4,1,0,11.2,400986056,2017-11-14
+132,1,"1:40",1300,1300,"Scottie James Defensive Rebound.",25,30,-5,0.663733246569412,"Wake Forest","Liberty",3,4,1,0,11.2,400986056,2017-11-14
+133,1,"1:23",1283,1283,"Myo Baxter-Bell made Layup. Assisted by Georgie Pacheco-Ortiz.",25,32,-7,0.620354998736905,"Wake Forest","Liberty",3,4,1,0,11.2,400986056,2017-11-14
+134,1,"1:08",1268,1268,"Bryant Crawford Turnover.",25,32,-7,0.613368847937885,"Wake Forest","Liberty",3,4,0,0,11.2,400986056,2017-11-14
+135,1,"1:07",1267,1267,"Myo Baxter-Bell Steal.",25,32,-7,0.613368847937885,"Wake Forest","Liberty",3,4,0,0,11.2,400986056,2017-11-14
+136,1,"1:03",1263,1263,"Keegan McDowell made Layup. Assisted by Scottie James.",25,34,-9,0.53621389330658,"Wake Forest","Liberty",3,4,0,0,11.2,400986056,2017-11-14
+137,1,"0:44",1244,1244,"Bryant Crawford missed Three Point Jumper.",25,34,-9,0.525153270378887,"Wake Forest","Liberty",3,4,0,0,11.2,400986056,2017-11-14
+138,1,"0:44",1244,1244,"Keegan McDowell Defensive Rebound.",25,34,-9,0.525153270378887,"Wake Forest","Liberty",3,4,0,0,11.2,400986056,2017-11-14
+139,1,"0:32",1232,1232,"Liberty  Timeout",25,34,-9,0.483909387524145,"Wake Forest","Liberty",3,3,0,1,11.2,400986056,2017-11-14
+140,1,"0:13",1213,1213,"Myo Baxter-Bell missed Layup.",25,34,-9,0.476119399562292,"Wake Forest","Liberty",3,3,0,1,11.2,400986056,2017-11-14
+141,1,"0:13",1213,1213,"Keegan McDowell Offensive Rebound.",25,34,-9,0.476119399562292,"Wake Forest","Liberty",3,3,0,1,11.2,400986056,2017-11-14
+142,1,"0:10",1210,1210,"Keegan McDowell missed Jumper.",25,34,-9,0.476119399562292,"Wake Forest","Liberty",3,3,0,1,11.2,400986056,2017-11-14
+143,1,"0:10",1210,1210,"Liberty Offensive Rebound.",25,34,-9,0.476119399562292,"Wake Forest","Liberty",3,3,0,1,11.2,400986056,2017-11-14
+144,1,"0:06",1206,1206,"Scottie James missed Three Point Jumper.",25,34,-9,0.504007749476012,"Wake Forest","Liberty",3,3,0,1,11.2,400986056,2017-11-14
+145,1,"0:06",1206,1206,"Keyshawn Woods Defensive Rebound.",25,34,-9,0.504007749476012,"Wake Forest","Liberty",3,3,0,1,11.2,400986056,2017-11-14
+146,1,"0:00",1200,1200,"End of 1st half",25,34,-9,0.504007749476012,"Wake Forest","Liberty",3,3,0,1,11.2,400986056,2017-11-14
+147,2,"20:00",1200,1200,"PLAY",25,34,-9,0.504007749476012,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+148,2,"19:45",1185,1185,"Keyshawn Woods missed Jumper.",25,34,-9,0.491520198168361,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+149,2,"19:45",1185,1185,"Terrence Thompson Offensive Rebound.",25,34,-9,0.491520198168361,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+150,2,"19:40",1180,1180,"Terrence Thompson Turnover.",25,34,-9,0.491520198168361,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+151,2,"19:40",1180,1180,"Lovell Cabbil Steal.",25,34,-9,0.491520198168361,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+152,2,"19:17",1157,1157,"Myo Baxter-Bell made Jumper. Assisted by Ryan Kemrite.",25,36,-11,0.402045665450251,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+153,2,"19:03",1143,1143,"Doral Moore made Jumper. Assisted by Chaundee Brown.",27,36,-9,0.447504587984602,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+154,2,"18:39",1119,1119,"Myo Baxter-Bell made Jumper.",27,38,-11,0.365692282111183,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+155,2,"18:27",1107,1107,"Keyshawn Woods made Jumper. Assisted by Chaundee Brown.",29,38,-9,0.493197320853516,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+156,2,"18:06",1086,1086,"Foul on Terrence Thompson.",29,38,-9,0.4644087874948,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+157,2,"17:55",1075,1075,"Myo Baxter-Bell missed Layup.",29,38,-9,0.460317600213573,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+158,2,"17:55",1075,1075,"Doral Moore Block.",29,38,-9,0.460317600213573,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+159,2,"17:54",1074,1074,"Myo Baxter-Bell Offensive Rebound.",29,38,-9,0.460317600213573,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+160,2,"17:52",1072,1072,"Ryan Kemrite made Three Point Jumper. Assisted by Myo Baxter-Bell.",29,41,-12,0.339771712982384,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+161,2,"17:37",1057,1057,"Foul on Lovell Cabbil.",29,41,-12,0.31745023201419,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+162,2,"17:34",1054,1054,"Bryant Crawford made Layup.",31,41,-10,0.40004523371248,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+163,2,"17:32",1052,1052,"Foul on Elijah Cuffee.",31,41,-10,0.40004523371248,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+164,2,"17:32",1052,1052,"Bryant Crawford made Free Throw.",32,41,-9,0.44394716409766,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+165,2,"17:28",1048,1048,"Myo Baxter-Bell missed Jumper.",32,41,-9,0.466289968476296,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+166,2,"17:28",1048,1048,"Chaundee Brown Defensive Rebound.",32,41,-9,0.466289968476296,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+167,2,"17:18",1038,1038,"Foul on Ezra Talbert.",32,41,-9,0.45589433392377,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+168,2,"17:17",1037,1037,"Foul on Myo Baxter-Bell.",32,41,-9,0.45589433392377,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+169,2,"17:14",1034,1034,"Bryant Crawford missed Three Point Jumper.",32,41,-9,0.45589433392377,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+170,2,"17:14",1034,1034,"Terrence Thompson Offensive Rebound.",32,41,-9,0.45589433392377,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+171,2,"17:03",1023,1023,"Bryant Crawford made Jumper.",34,41,-7,0.531120955304829,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+172,2,"16:46",1006,1006,"Georgie Pacheco-Ortiz Turnover.",34,41,-7,0.487287681537137,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+173,2,"16:45",1005,1005,"Keyshawn Woods Steal.",34,41,-7,0.487287681537137,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+174,2,"16:41",1001,1001,"Terrence Thompson missed Layup.",34,41,-7,0.487287681537137,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+175,2,"16:41",1001,1001,"Doral Moore Offensive Rebound.",34,41,-7,0.487287681537137,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+176,2,"16:38",998,998,"Doral Moore made Dunk.",36,41,-5,0.598867626616009,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+177,2,"16:15",975,975,"Elijah Cuffee missed Three Point Jumper.",36,41,-5,0.619809740028414,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+178,2,"16:15",975,975,"Doral Moore Defensive Rebound.",36,41,-5,0.619809740028414,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+179,2,"16:07",967,967,"Bryant Crawford Turnover.",36,41,-5,0.573596819502116,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+180,2,"16:06",966,966,"Myo Baxter-Bell Steal.",36,41,-5,0.573596819502116,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+181,2,"15:52",952,952,"Georgie Pacheco-Ortiz Turnover.",36,41,-5,0.601146822749559,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+182,2,"15:51",951,951,"Bryant Crawford Steal.",36,41,-5,0.601146822749559,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+183,2,"15:49",949,949,"Bryant Crawford made Layup.",38,41,-3,0.697890566990465,"Wake Forest","Liberty",4,4,0,0,11.2,400986056,2017-11-14
+184,2,"15:46",946,946,"Liberty  Timeout",38,41,-3,0.697890566990465,"Wake Forest","Liberty",4,3,0,1,11.2,400986056,2017-11-14
+185,2,"15:15",915,915,"Keegan McDowell missed Jumper.",38,41,-3,0.688562527189881,"Wake Forest","Liberty",4,3,0,1,11.2,400986056,2017-11-14
+186,2,"15:15",915,915,"Scottie James Offensive Rebound.",38,41,-3,0.688562527189881,"Wake Forest","Liberty",4,3,0,1,11.2,400986056,2017-11-14
+187,2,"14:47",887,887,"Isaiah Williams missed Layup.",38,41,-3,0.670021078943521,"Wake Forest","Liberty",4,3,0,1,11.2,400986056,2017-11-14
+188,2,"14:47",887,887,"Scottie James Offensive Rebound.",38,41,-3,0.670021078943521,"Wake Forest","Liberty",4,3,0,1,11.2,400986056,2017-11-14
+189,2,"14:45",885,885,"Scottie James made Layup.",38,43,-5,0.589178809740002,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+190,2,"14:28",868,868,"Bryant Crawford missed Jumper.",38,43,-5,0.573337991326676,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+191,2,"14:28",868,868,"Scottie James Defensive Rebound.",38,43,-5,0.573337991326676,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+192,2,"14:24",864,864,"Foul on Terrence Thompson.",38,43,-5,0.573337991326676,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+193,2,"14:24",864,864,"Official TV Timeout",38,43,-5,0.573337991326676,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+194,2,"14:02",842,842,"Ryan Kemrite made Layup. Assisted by Scottie James.",38,45,-7,0.43213540729387,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+195,2,"14:00",840,840,"Foul on Chaundee Brown.",38,45,-7,0.43213540729387,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+196,2,"14:00",840,840,"Ryan Kemrite made Free Throw.",38,46,-8,0.380951213763864,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+197,2,"13:44",824,824,"Terrence Thompson made Layup. Assisted by Brandon Childress.",40,46,-6,0.542299956326087,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+198,2,"13:43",823,823,"Foul on Scottie James.",40,46,-6,0.542299956326087,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+199,2,"13:43",823,823,"Terrence Thompson missed Free Throw.",40,46,-6,0.542299956326087,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+200,2,"13:43",823,823,"Wake Forest Offensive Rebound.",40,46,-6,0.542299956326087,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+201,2,"13:31",811,811,"Chaundee Brown made Three Point Jumper. Assisted by Mitchell Wilbekin.",43,46,-3,0.667089898721204,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+202,2,"13:17",797,797,"Keegan McDowell missed Three Point Jumper.",43,46,-3,0.637208048897253,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+203,2,"13:17",797,797,"Doral Moore Defensive Rebound.",43,46,-3,0.637208048897253,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+204,2,"13:10",790,790,"Foul on Chaundee Brown.",43,46,-3,0.637208048897253,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+205,2,"13:10",790,790,"Chaundee Brown Turnover.",43,46,-3,0.637208048897253,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+206,2,"12:55",775,775,"Lovell Cabbil made Jumper.",43,48,-5,0.547674944019124,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+207,2,"12:40",760,760,"Keyshawn Woods missed Three Point Jumper.",43,48,-5,0.570991316542622,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+208,2,"12:40",760,760,"Lovell Cabbil Defensive Rebound.",43,48,-5,0.570991316542622,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+209,2,"12:17",737,737,"Foul on Keyshawn Woods.",43,48,-5,0.517837827149185,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+210,2,"12:05",725,725,"Scottie James missed Three Point Jumper.",43,48,-5,0.533650565079598,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+211,2,"12:05",725,725,"Terrence Thompson Defensive Rebound.",43,48,-5,0.533650565079598,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+212,2,"11:55",715,715,"Keyshawn Woods missed Layup.",43,48,-5,0.521068064044028,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+213,2,"11:55",715,715,"Scottie James Defensive Rebound.",43,48,-5,0.521068064044028,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+214,2,"11:52",712,712,"Scottie James Turnover.",43,48,-5,0.521068064044028,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+215,2,"11:50",710,710,"Terrence Thompson Steal.",43,48,-5,0.521068064044028,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+216,2,"11:44",704,704,"Keyshawn Woods missed Layup.",43,48,-5,0.520208491741029,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+217,2,"11:44",704,704,"Scottie James Defensive Rebound.",43,48,-5,0.520208491741029,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+218,2,"11:24",684,684,"Georgie Pacheco-Ortiz made Jumper.",43,50,-7,0.401868928743509,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+219,2,"11:09",669,669,"Mitchell Wilbekin missed Jumper.",43,50,-7,0.397428416426703,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+220,2,"11:09",669,669,"Georgie Pacheco-Ortiz Block.",43,50,-7,0.397428416426703,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+221,2,"11:06",666,666,"Keegan McDowell Defensive Rebound.",43,50,-7,0.397428416426703,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+222,2,"10:48",648,648,"Scottie James missed Layup.",43,50,-7,0.367645425540776,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+223,2,"10:48",648,648,"Myo Baxter-Bell Offensive Rebound.",43,50,-7,0.367645425540776,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+224,2,"10:35",635,635,"Keegan McDowell made Three Point Jumper. Assisted by Scottie James.",43,53,-10,0.204664164438404,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+225,2,"10:06",606,606,"Mitchell Wilbekin missed Layup.",43,53,-10,0.218556371809908,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+226,2,"10:06",606,606,"Scottie James Defensive Rebound.",43,53,-10,0.218556371809908,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+227,2,"9:49",589,589,"Foul on Keyshawn Woods.",43,53,-10,0.199955996931393,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+228,2,"9:49",589,589,"Official TV Timeout",43,53,-10,0.199955996931393,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+229,2,"9:30",570,570,"Foul on Sunday Okeke.",43,53,-10,0.207994701643789,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+230,2,"9:30",570,570,"Isaiah Williams made Free Throw.",43,54,-11,0.169343298760762,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+231,2,"9:30",570,570,"Isaiah Williams missed Free Throw.",43,54,-11,0.169343298760762,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+232,2,"9:30",570,570,"Sunday Okeke Defensive Rebound.",43,54,-11,0.169343298760762,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+233,2,"9:13",553,553,"Chaundee Brown missed Jumper.",43,54,-11,0.14249912839456,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+234,2,"9:13",553,553,"Lovell Cabbil Defensive Rebound.",43,54,-11,0.14249912839456,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+235,2,"9:10",550,550,"Foul on Sunday Okeke.",43,54,-11,0.14249912839456,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+236,2,"9:10",550,550,"Isaiah Williams missed Free Throw.",43,54,-11,0.14249912839456,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+237,2,"9:10",550,550,"Sunday Okeke Defensive Rebound.",43,54,-11,0.14249912839456,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+238,2,"9:01",541,541,"Brandon Childress missed Layup.",43,54,-11,0.123803155714748,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+239,2,"9:01",541,541,"Liberty Defensive Rebound.",43,54,-11,0.123803155714748,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+240,2,"8:39",519,519,"Lovell Cabbil made Layup.",43,56,-13,0.0721276393936877,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+241,2,"8:26",506,506,"Sunday Okeke made Layup. Assisted by Chaundee Brown.",45,56,-11,0.131900598039152,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+242,2,"7:59",479,479,"Myo Baxter-Bell Turnover.",45,56,-11,0.1053110880535,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+243,2,"7:58",478,478,"Bryant Crawford Steal.",45,56,-11,0.1053110880535,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+244,2,"7:51",471,471,"Bryant Crawford made Layup.",47,56,-9,0.174011347464694,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+245,2,"7:28",448,448,"Myo Baxter-Bell missed Jumper.",47,56,-9,0.169088277881561,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+246,2,"7:28",448,448,"Chaundee Brown Defensive Rebound.",47,56,-9,0.169088277881561,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+247,2,"7:22",442,442,"Chaundee Brown missed Jumper.",47,56,-9,0.169088277881561,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+248,2,"7:22",442,442,"Elijah Cuffee Defensive Rebound.",47,56,-9,0.169088277881561,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+249,2,"6:57",417,417,"Foul on Caleb Homesley.",47,56,-9,0.154095735314034,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+250,2,"6:57",417,417,"Caleb Homesley Turnover.",47,56,-9,0.154095735314034,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+251,2,"6:57",417,417,"Official TV Timeout",47,56,-9,0.154095735314034,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+252,2,"6:47",407,407,"Foul on Ryan Kemrite.",47,56,-9,0.114538681739825,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+253,2,"6:47",407,407,"Doral Moore missed Free Throw.",47,56,-9,0.114538681739825,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+254,2,"6:47",407,407,"Scottie James Defensive Rebound.",47,56,-9,0.114538681739825,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+255,2,"6:33",393,393,"Ryan Kemrite made Three Point Jumper. Assisted by Isaiah Williams.",47,59,-12,0.0596849268298381,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+256,2,"6:12",372,372,"Keyshawn Woods made Jumper.",49,59,-10,0.103450107280732,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+257,2,"5:41",341,341,"Isaiah Williams Turnover.",49,59,-10,0.0735770160402616,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+258,2,"5:28",328,328,"Foul on Scottie James.",49,59,-10,0.103458490226783,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+259,2,"5:27",327,327,"Doral Moore missed Free Throw.",49,59,-10,0.103458490226783,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+260,2,"5:27",327,327,"Keyshawn Woods Offensive Rebound.",49,59,-10,0.103458490226783,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+261,2,"5:25",325,325,"Keyshawn Woods missed Layup.",49,59,-10,0.103458490226783,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+262,2,"5:25",325,325,"Doral Moore Offensive Rebound.",49,59,-10,0.103458490226783,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+263,2,"5:22",322,322,"Doral Moore made Dunk.",51,59,-8,0.17776744144892,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+264,2,"4:51",291,291,"Lovell Cabbil Turnover.",51,59,-8,0.147268007358307,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+265,2,"4:36",276,276,"Keyshawn Woods made Layup.",53,59,-6,0.183482980112598,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+266,2,"4:19",259,259,"Lovell Cabbil made Layup.",53,61,-8,0.0710938887064348,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+267,2,"4:05",245,245,"Brandon Childress missed Three Point Jumper.",53,61,-8,0.0793915576845415,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+268,2,"4:05",245,245,"Lovell Cabbil Defensive Rebound.",53,61,-8,0.0793915576845415,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+269,2,"3:42",222,222,"Scottie James missed Layup.",53,61,-8,0.0832024024321236,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+270,2,"3:42",222,222,"Doral Moore Defensive Rebound.",53,61,-8,0.0832024024321236,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+271,2,"3:37",217,217,"Brandon Childress Turnover.",53,61,-8,0.0611624033896708,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+272,2,"3:36",216,216,"Lovell Cabbil Steal.",53,61,-8,0.0611624033896708,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+273,2,"3:33",213,213,"Foul on Brandon Childress.",53,61,-8,0.0611624033896708,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+274,2,"3:33",213,213,"Official TV Timeout",53,61,-8,0.0611624033896708,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+275,2,"3:33",213,213,"Lovell Cabbil made Free Throw.",53,62,-9,0.04029463417349,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+276,2,"3:33",213,213,"Lovell Cabbil made Free Throw.",53,63,-10,0.026346855498134,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+277,2,"3:21",201,201,"Chaundee Brown missed Three Point Jumper.",53,63,-10,0.0274770139640999,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+278,2,"3:21",201,201,"Isaiah Williams Defensive Rebound.",53,63,-10,0.0274770139640999,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+279,2,"3:06",186,186,"Foul on Isaiah Williams.",53,63,-10,0.0150070551017216,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+280,2,"3:06",186,186,"Isaiah Williams Turnover.",53,63,-10,0.0150070551017216,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+281,2,"2:56",176,176,"Foul on Myo Baxter-Bell.",53,63,-10,0.015833705364525,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+282,2,"2:56",176,176,"Bryant Crawford made Free Throw.",54,63,-9,0.0256424219191684,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+283,2,"2:56",176,176,"Bryant Crawford made Free Throw.",55,63,-8,0.0412726535930511,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+284,2,"2:56",176,176,"Liberty  Turnover.",55,63,-8,0.0412726535930511,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+285,2,"2:54",174,174,"Foul on Scottie James.",55,63,-8,0.0412726535930511,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+286,2,"2:54",174,174,"Terrence Thompson made Free Throw.",56,63,-7,0.0657869581064882,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+287,2,"2:54",174,174,"Terrence Thompson missed Free Throw.",56,63,-7,0.0657869581064882,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+288,2,"2:54",174,174,"Scottie James Defensive Rebound.",56,63,-7,0.0657869581064882,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+289,2,"2:40",160,160,"Keegan McDowell made Three Point Jumper. Assisted by Lovell Cabbil.",56,66,-10,0.0160882325775908,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+290,2,"2:17",137,137,"Terrence Thompson made Dunk. Assisted by Mitchell Wilbekin.",58,66,-8,0.0254379732986034,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+291,2,"1:41",101,101,"Lovell Cabbil missed Layup.",58,66,-8,0.0121103310354495,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+292,2,"1:41",101,101,"Chaundee Brown Block.",58,66,-8,0.0121103310354495,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+293,2,"1:40",100,100,"Mitchell Wilbekin Defensive Rebound.",58,66,-8,0.0121103310354495,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+294,2,"1:32",92,92,"Bryant Crawford missed Three Point Jumper.",58,66,-8,0.0106508447923772,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+295,2,"1:32",92,92,"Lovell Cabbil Defensive Rebound.",58,66,-8,0.0106508447923772,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+296,2,"1:15",75,75,"Foul on Chaundee Brown.",58,66,-8,0.00464452917265184,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+297,2,"1:15",75,75,"Lovell Cabbil made Free Throw.",58,67,-9,0.00223247353211083,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+298,2,"1:15",75,75,"Lovell Cabbil made Free Throw.",58,68,-10,0.00107172836305227,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+299,2,"1:12",72,72,"Foul on Georgie Pacheco-Ortiz.",58,68,-10,0.00107172836305227,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+300,2,"1:12",72,72,"Bryant Crawford made Free Throw.",59,68,-9,0.00223247353211083,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+301,2,"1:12",72,72,"Bryant Crawford made Free Throw.",60,68,-8,0.00464452917265184,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+302,2,"1:05",65,65,"Foul on Doral Moore.",60,68,-8,0.00335563405202549,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+303,2,"1:05",65,65,"Georgie Pacheco-Ortiz made Free Throw.",60,69,-9,0.00160024201750181,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+304,2,"1:05",65,65,"Georgie Pacheco-Ortiz made Free Throw.",60,70,-10,0.00076242439712174,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+305,2,"1:00",60,60,"Keyshawn Woods missed Three Point Jumper.",60,70,-10,0.00076242439712174,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+306,2,"1:00",60,60,"Ryan Kemrite Defensive Rebound.",60,70,-10,0.00076242439712174,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+307,2,"0:51",51,51,"Foul on Bryant Crawford.",60,70,-10,0.000288592555090305,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+308,2,"0:51",51,51,"Lovell Cabbil made Free Throw.",60,71,-11,0.000117682883831967,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+309,2,"0:51",51,51,"Lovell Cabbil made Free Throw.",60,72,-12,4.79841176652337e-05,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+310,2,"0:44",44,44,"Bryant Crawford made Layup.",62,72,-10,0.000406331732364104,"Wake Forest","Liberty",4,3,0,0,11.2,400986056,2017-11-14
+311,2,"0:43",43,43,"Wake Forest  Timeout",62,72,-10,0.000113633869969933,"Wake Forest","Liberty",3,3,1,0,11.2,400986056,2017-11-14
+312,2,"0:41",41,41,"Foul on Bryant Crawford.",62,72,-10,4.03779581307884e-05,"Wake Forest","Liberty",3,3,1,0,11.2,400986056,2017-11-14
+313,2,"0:41",41,41,"Technical Foul on Keyshawn Woods.",62,72,-10,4.03779581307884e-05,"Wake Forest","Liberty",3,3,1,0,11.2,400986056,2017-11-14
+314,2,"0:41",41,41,"Foul on Keyshawn Woods.",62,72,-10,4.03779581307884e-05,"Wake Forest","Liberty",3,3,1,0,11.2,400986056,2017-11-14
+315,2,"0:41",41,41,"Georgie Pacheco-Ortiz made Free Throw.",62,73,-11,1.48420863537875e-05,"Wake Forest","Liberty",3,3,1,0,11.2,400986056,2017-11-14
+316,2,"0:41",41,41,"Georgie Pacheco-Ortiz made Free Throw.",62,74,-12,5.4555500061937e-06,"Wake Forest","Liberty",3,3,1,0,11.2,400986056,2017-11-14
+317,2,"0:41",41,41,"Georgie Pacheco-Ortiz made Free Throw.",62,75,-13,2.00530090425503e-06,"Wake Forest","Liberty",3,3,1,0,11.2,400986056,2017-11-14
+318,2,"0:41",41,41,"Georgie Pacheco-Ortiz made Free Throw.",62,76,-14,7.37088458089568e-07,"Wake Forest","Liberty",3,3,1,0,11.2,400986056,2017-11-14
+319,2,"0:35",35,35,"Terrence Thompson made Layup. Assisted by Mitchell Wilbekin.",64,76,-12,3.91095165801221e-05,"Wake Forest","Liberty",3,3,1,0,11.2,400986056,2017-11-14
+320,2,"0:33",33,33,"Foul on Mitchell Wilbekin.",64,76,-12,1.85053412359869e-06,"Wake Forest","Liberty",3,3,1,0,11.2,400986056,2017-11-14
+321,2,"0:33",33,33,"Ryan Kemrite made Free Throw.",64,77,-13,5.95385619698514e-07,"Wake Forest","Liberty",3,3,1,0,11.2,400986056,2017-11-14
+322,2,"0:33",33,33,"Ryan Kemrite made Free Throw.",64,78,-14,1.91557523767556e-07,"Wake Forest","Liberty",3,3,1,0,11.2,400986056,2017-11-14
+323,2,"0:29",29,29,"Brandon Childress missed Three Point Jumper.",64,78,-14,8.61645665033282e-07,"Wake Forest","Liberty",3,3,1,0,11.2,400986056,2017-11-14
+324,2,"0:29",29,29,"Terrence Thompson Offensive Rebound.",64,78,-14,8.61645665033282e-07,"Wake Forest","Liberty",3,3,1,0,11.2,400986056,2017-11-14
+325,2,"0:22",22,22,"Bryant Crawford made Layup.",66,78,-12,2.84093762458002e-07,"Wake Forest","Liberty",3,3,1,0,11.2,400986056,2017-11-14
+326,2,"0:21",21,21,"Wake Forest  Timeout",66,78,-12,4.97513727222983e-09,"Wake Forest","Liberty",2,3,1,0,11.2,400986056,2017-11-14
+327,2,"0:15",15,15,"Foul on Chaundee Brown.",66,78,-12,1.68317380448903e-08,"Wake Forest","Liberty",2,3,1,0,11.2,400986056,2017-11-14
+328,2,"0:15",15,15,"Keegan McDowell missed Free Throw.",66,78,-12,1.68317380448903e-08,"Wake Forest","Liberty",2,3,1,0,11.2,400986056,2017-11-14
+329,2,"0:15",15,15,"Liberty Deadball Team Rebound.",66,78,-12,1.68317380448903e-08,"Wake Forest","Liberty",2,3,1,0,11.2,400986056,2017-11-14
+330,2,"0:15",15,15,"Keegan McDowell made Free Throw.",66,79,-13,3.96923115189983e-09,"Wake Forest","Liberty",2,3,1,0,11.2,400986056,2017-11-14
+331,2,"0:09",9,9,"Brandon Childress missed Jumper.",66,79,-13,1.18833388887007e-09,"Wake Forest","Liberty",2,3,1,0,11.2,400986056,2017-11-14
+332,2,"0:09",9,9,"Georgie Pacheco-Ortiz Defensive Rebound.",66,79,-13,1.18833388887007e-09,"Wake Forest","Liberty",2,3,1,0,11.2,400986056,2017-11-14
+333,2,"0:00",0,0,"End of Game",66,79,-13,5.51554033307445e-110,"Wake Forest","Liberty",2,3,1,0,11.2,400986056,2017-11-14

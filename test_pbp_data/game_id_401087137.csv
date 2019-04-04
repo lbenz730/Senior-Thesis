@@ -1,0 +1,341 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","play_length","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,27,0.917873478283439,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+2,1,"19:33",2373,2373,"Brae Ivey missed Jumper.",0,0,0,6,0.90995969544577,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+3,1,"19:27",2367,2367,"Bryce Wills Defensive Rebound.",0,0,0,22,0.901549894756309,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+4,1,"19:05",2345,2345,"Isaac White Turnover.",0,0,0,0,0.903414208128038,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+5,1,"19:05",2345,2345,"Brae Ivey Steal.",0,0,0,13,0.903414208128038,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+6,1,"18:52",2332,2332,"Michael Steadman made Jumper.",0,2,-2,25,0.89030093826629,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+7,1,"18:27",2307,2307,"KZ Okpala missed Jumper.",0,2,-2,4,0.878686555337768,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+8,1,"18:23",2303,2303,"Brae Ivey Defensive Rebound.",0,2,-2,13,0.878686555337768,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+9,1,"18:10",2290,2290,"Foul on Bryce Wills.",0,2,-2,0,0.888704709743409,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+10,1,"18:10",2290,2290,"Brae Ivey made Free Throw.",0,3,-3,0,0.878689881570328,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+11,1,"18:10",2290,2290,"Brae Ivey made Free Throw.",0,4,-4,15,0.867907822176925,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+12,1,"17:55",2275,2275,"Foul on Craig LeCesne.",0,4,-4,12,0.863167222784432,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+13,1,"17:43",2263,2263,"Josh Sharma missed Layup.",0,4,-4,4,0.859984165282939,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+14,1,"17:39",2259,2259,"Bryce Wills Offensive Rebound.",0,4,-4,8,0.857641141496529,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+15,1,"17:31",2251,2251,"Isaac White missed Three Point Jumper.",0,4,-4,5,0.857641141496529,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+16,1,"17:26",2246,2246,"Brae Ivey Defensive Rebound.",0,4,-4,7,0.850691629558759,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+17,1,"17:19",2239,2239,"Foul on Josh Sharma.",0,4,-4,0,0.856030020389474,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+18,1,"17:19",2239,2239,"Michael Steadman missed Free Throw.",0,4,-4,0,0.856030020389474,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+19,1,"17:19",2239,2239,"San José State Deadball Team Rebound.",0,4,-4,0,0.856030020389474,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+20,1,"17:19",2239,2239,"Michael Steadman made Free Throw.",0,5,-5,29,0.84167839831225,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+21,1,"16:50",2210,2210,"Marcus Sheffield missed Jumper.",0,5,-5,4,0.820670202651348,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+22,1,"16:46",2206,2206,"Craig LeCesne Defensive Rebound.",0,5,-5,13,0.836883893627429,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+23,1,"16:33",2193,2193,"Michael Steadman missed Layup.",0,5,-5,0,0.844880492054658,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+24,1,"16:33",2193,2193,"Oscar da Silva Block.",0,5,-5,6,0.844880492054658,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+25,1,"16:27",2187,2187,"Oumar Barry Offensive Rebound.",0,5,-5,5,0.839923824083625,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+26,1,"16:22",2182,2182,"Oumar Barry Turnover.",0,5,-5,0,0.839923824083625,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+27,1,"16:22",2182,2182,"Marcus Sheffield Steal.",0,5,-5,9,0.839923824083625,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+28,1,"16:13",2173,2173,"Oscar da Silva made Three Point Jumper. Assisted by Marcus Sheffield.",3,5,-2,16,0.876106715726483,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+29,1,"15:57",2157,2157,"Michael Steadman made Jumper.",3,7,-4,19,0.843796070581934,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+30,1,"15:38",2138,2138,"Marcus Sheffield made Three Point Jumper. Assisted by Bryce Wills.",6,7,-1,20,0.887667938059613,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+31,1,"15:18",2118,2118,"Noah Baumann made Jumper.",6,9,-3,20,0.870643237894066,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+32,1,"14:58",2098,2098,"KZ Okpala made Three Point Jumper. Assisted by Oscar da Silva.",9,9,0,15,0.890258140396673,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+33,1,"14:43",2083,2083,"Craig LeCesne missed Jumper.",9,9,0,5,0.893043158276227,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+34,1,"14:38",2078,2078,"Oscar da Silva Defensive Rebound.",9,9,0,4,0.899496567769285,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+35,1,"14:34",2074,2074,"Bryce Wills missed Layup.",9,9,0,0,0.899496567769285,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+36,1,"14:34",2074,2074,"Oumar Barry Block.",9,9,0,6,0.899496567769285,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+37,1,"14:28",2068,2068,"Oumar Barry Defensive Rebound.",9,9,0,4,0.892170784768302,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+38,1,"14:24",2064,2064,"Craig LeCesne missed Layup.",9,9,0,4,0.892170784768302,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+39,1,"14:20",2060,2060,"Michael Steadman Offensive Rebound.",9,9,0,1,0.892170784768302,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+40,1,"14:19",2059,2059,"Michael Steadman missed Layup.",9,9,0,0,0.903986294795276,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+41,1,"14:19",2059,2059,"Craig LeCesne Offensive Rebound.",9,9,0,12,0.903986294795276,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+42,1,"14:07",2047,2047,"Craig LeCesne made Jumper.",9,11,-2,17,0.8648791956868,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+43,1,"13:50",2030,2030,"Marcus Sheffield Turnover.",9,11,-2,0,0.885721215645134,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+44,1,"13:50",2030,2030,"Noah Baumann Steal.",9,11,-2,8,0.885721215645134,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+45,1,"13:42",2022,2022,"Brae Ivey made Layup. Assisted by Noah Baumann.",9,13,-4,20,0.833882457850993,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+46,1,"13:22",2002,2002,"Marcus Sheffield made Three Point Jumper. Assisted by Bryce Wills.",12,13,-1,19,0.879607741820872,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+47,1,"13:03",1983,1983,"Official TV Timeout",12,13,-1,12,0.867428694821651,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+48,1,"12:51",1971,1971,"Oumar Barry made Jumper.",12,15,-3,17,0.859830549689462,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+49,1,"12:34",1954,1954,"KZ Okpala missed Three Point Jumper.",12,15,-3,5,0.845759535663201,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+50,1,"12:29",1949,1949,"Oumar Barry Defensive Rebound.",12,15,-3,6,0.846709382384325,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+51,1,"12:23",1943,1943,"Foul on Lukas Kisunas.",12,15,-3,12,0.846709382384325,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+52,1,"12:11",1931,1931,"Noah Baumann made Three Point Jumper.",12,18,-6,9,0.778060427054056,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+53,1,"12:02",1922,1922,"KZ Okpala missed Jumper.",12,18,-6,0,0.803585935745781,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+54,1,"12:02",1922,1922,"Oumar Barry Block.",12,18,-6,6,0.803585935745781,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+55,1,"11:56",1916,1916,"Oumar Barry Defensive Rebound.",12,18,-6,1,0.797953524058314,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+56,1,"11:55",1915,1915,"Noah Baumann missed Three Point Jumper.",12,18,-6,0,0.797953524058314,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+57,1,"11:55",1915,1915,"Stanford Deadball Team Rebound.",12,18,-6,0,0.797953524058314,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+58,1,"11:55",1915,1915,"Foul on Oumar Barry.",12,18,-6,0,0.797953524058314,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+59,1,"11:55",1915,1915,"Official TV Timeout",12,18,-6,11,0.797953524058314,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+60,1,"11:44",1904,1904,"Foul on Noah Baumann.",12,18,-6,0,0.804451787976072,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+61,1,"11:44",1904,1904,"KZ Okpala missed Free Throw.",12,18,-6,0,0.804451787976072,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+62,1,"11:44",1904,1904,"Stanford Deadball Team Rebound.",12,18,-6,0,0.804451787976072,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+63,1,"11:44",1904,1904,"KZ Okpala made Free Throw.",13,18,-5,14,0.82220320241036,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+64,1,"11:30",1890,1890,"Brae Ivey Turnover.",13,18,-5,0,0.798060472693967,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+65,1,"11:30",1890,1890,"KZ Okpala Steal.",13,18,-5,8,0.798060472693967,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+66,1,"11:22",1882,1882,"KZ Okpala Turnover.",13,18,-5,0,0.815349953966484,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+67,1,"11:22",1882,1882,"Brae Ivey Steal.",13,18,-5,11,0.815349953966484,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+68,1,"11:11",1871,1871,"Michael Steadman missed Jumper.",13,18,-5,4,0.807708538608021,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+69,1,"11:07",1867,1867,"Bryce Wills Defensive Rebound.",13,18,-5,19,0.794965578455596,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+70,1,"10:48",1848,1848,"Jaiden Delaire Turnover.",13,18,-5,13,0.803815488609564,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+71,1,"10:35",1835,1835,"Michael Steadman made Jumper. Assisted by Brae Ivey.",13,20,-7,23,0.754174278230407,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+72,1,"10:12",1812,1812,"Marcus Sheffield missed Three Point Jumper.",13,20,-7,3,0.744146738529565,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+73,1,"10:09",1809,1809,"Michael Steadman Defensive Rebound.",13,20,-7,15,0.758445440287497,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+74,1,"9:54",1794,1794,"Ashtin Chastain Turnover.",13,20,-7,10,0.740301460102247,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+75,1,"9:44",1784,1784,"Marcus Sheffield Turnover.",13,20,-7,0,0.713048518766699,"Stanford","San José St",4,4,1,0,18,"401087137",2018-12-18
+76,1,"9:44",1784,1784,"Stanford  Timeout",13,20,-7,13,0.713048518766699,"Stanford","San José St",3,4,1,0,18,"401087137",2018-12-18
+77,1,"9:31",1771,1771,"Oumar Barry made Jumper.",13,22,-9,20,0.70452981077948,"Stanford","San José St",3,4,1,0,18,"401087137",2018-12-18
+78,1,"9:11",1751,1751,"Jaiden Delaire missed Three Point Jumper.",13,22,-9,4,0.682965857582961,"Stanford","San José St",3,4,1,0,18,"401087137",2018-12-18
+79,1,"9:07",1747,1747,"Oumar Barry Defensive Rebound.",13,22,-9,15,0.694663296695303,"Stanford","San José St",3,4,1,0,18,"401087137",2018-12-18
+80,1,"8:52",1732,1732,"Brian Rodriguez-Flores missed Three Point Jumper.",13,22,-9,6,0.686129302240552,"Stanford","San José St",3,4,1,0,18,"401087137",2018-12-18
+81,1,"8:46",1726,1726,"Bryce Wills Defensive Rebound.",13,22,-9,2,0.657893093278119,"Stanford","San José St",3,4,1,0,18,"401087137",2018-12-18
+82,1,"8:44",1724,1724,"Bryce Wills Turnover.",13,22,-9,0,0.657893093278119,"Stanford","San José St",3,4,1,0,18,"401087137",2018-12-18
+83,1,"8:44",1724,1724,"Noah Baumann Steal.",13,22,-9,12,0.657893093278119,"Stanford","San José St",3,4,1,0,18,"401087137",2018-12-18
+84,1,"8:32",1712,1712,"Brae Ivey missed Jumper.",13,22,-9,4,0.708278414738458,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+85,1,"8:28",1708,1708,"Oscar da Silva Defensive Rebound.",13,22,-9,1,0.692170349252406,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+86,1,"8:27",1707,1707,"Bryce Wills Turnover.",13,22,-9,13,0.692170349252406,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+87,1,"8:14",1694,1694,"Michael Steadman missed Layup.",13,22,-9,1,0.661081974673948,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+88,1,"8:13",1693,1693,"Oscar da Silva Defensive Rebound.",13,22,-9,0,0.661081974673948,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+89,1,"8:13",1693,1693,"Foul on Brian Rodriguez-Flores.",13,22,-9,16,0.661081974673948,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+90,1,"7:57",1677,1677,"KZ Okpala missed Jumper.",13,22,-9,3,0.681067019148141,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+91,1,"7:54",1674,1674,"Craig LeCesne Defensive Rebound.",13,22,-9,10,0.681067019148141,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+92,1,"7:44",1664,1664,"Craig LeCesne missed Jumper.",13,22,-9,1,0.693311621619603,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+93,1,"7:43",1663,1663,"Stanford Deadball Team Rebound.",13,22,-9,0,0.693311621619603,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+94,1,"7:43",1663,1663,"Official TV Timeout",13,22,-9,16,0.693311621619603,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+95,1,"7:27",1647,1647,"Oscar da Silva made Three Point Jumper. Assisted by Isaac White.",16,22,-6,16,0.76095189330515,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+96,1,"7:11",1631,1631,"Craig LeCesne missed Three Point Jumper.",16,22,-6,5,0.7640127209938,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+97,1,"7:06",1626,1626,"Craig LeCesne Offensive Rebound.",16,22,-6,3,0.75063913754464,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+98,1,"7:03",1623,1623,"Noah Baumann missed Three Point Jumper.",16,22,-6,3,0.75063913754464,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+99,1,"7:00",1620,1620,"KZ Okpala Defensive Rebound.",16,22,-6,17,0.75063913754464,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+100,1,"6:43",1603,1603,"Daejon Davis missed Three Point Jumper.",16,22,-6,9,0.768366737057329,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+101,1,"6:34",1594,1594,"Michael Steadman Defensive Rebound.",16,22,-6,7,0.749661790198319,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+102,1,"6:27",1587,1587,"Craig LeCesne made Layup. Assisted by Michael Steadman.",16,24,-8,17,0.69936659078887,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+103,1,"6:10",1570,1570,"Daejon Davis made Layup.",18,24,-6,15,0.735780277107326,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+104,1,"5:55",1555,1555,"Oumar Barry Turnover.",18,24,-6,14,0.727157240110941,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+105,1,"5:41",1541,1541,"Josh Sharma made Jumper. Assisted by Daejon Davis.",20,24,-4,24,0.804024879030853,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+106,1,"5:17",1517,1517,"Noah Baumann missed Layup.",20,24,-4,3,0.787528696987568,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+107,1,"5:14",1514,1514,"Josh Sharma Defensive Rebound.",20,24,-4,3,0.787528696987568,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+108,1,"5:11",1511,1511,"Daejon Davis made Layup.",22,24,-2,17,0.834108303824932,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+109,1,"4:54",1494,1494,"Foul on Josh Sharma.",22,24,-2,0,0.840299839571981,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+110,1,"4:54",1494,1494,"Oumar Barry made Free Throw.",22,25,-3,0,0.820679139590912,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+111,1,"4:54",1494,1494,"Oumar Barry made Free Throw.",22,26,-4,12,0.799223820227893,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+112,1,"4:42",1482,1482,"KZ Okpala missed Three Point Jumper.",22,26,-4,0,0.779864806801846,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+113,1,"4:42",1482,1482,"Brae Ivey Defensive Rebound.",22,26,-4,10,0.779864806801846,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+114,1,"4:32",1472,1472,"Michael Steadman Turnover.",22,26,-4,13,0.806638428891488,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+115,1,"4:19",1459,1459,"Oscar da Silva made Three Point Jumper. Assisted by Daejon Davis.",25,26,-1,16,0.846804076268591,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+116,1,"4:03",1443,1443,"Foul on Jaiden Delaire.",25,26,-1,9,0.85622398024892,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+117,1,"3:54",1434,1434,"Oumar Barry made Layup.",25,28,-3,29,0.796467755792396,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+118,1,"3:25",1405,1405,"Daejon Davis made Layup.",27,28,-1,15,0.855369783464787,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+119,1,"3:10",1390,1390,"Michael Steadman missed Jumper.",27,28,-1,3,0.856336344890212,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+120,1,"3:07",1387,1387,"Daejon Davis Defensive Rebound.",27,28,-1,13,0.849287175857865,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+121,1,"2:54",1374,1374,"Bryce Wills Turnover.",27,28,-1,0,0.840685441261742,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+122,1,"2:54",1374,1374,"Brae Ivey Steal.",27,28,-1,5,0.840685441261742,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+123,1,"2:49",1369,1369,"Foul on Daejon Davis.",27,28,-1,0,0.840660855275283,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+124,1,"2:49",1369,1369,"Official TV Timeout",27,28,-1,0,0.840660855275283,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+125,1,"2:49",1369,1369,"Craig LeCesne made Free Throw.",27,29,-2,0,0.818999474203983,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+126,1,"2:49",1369,1369,"Craig LeCesne made Free Throw.",27,30,-3,27,0.795111041402854,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+127,1,"2:22",1342,1342,"Kodye Pugh missed Three Point Jumper.",27,30,-3,6,0.775190579018628,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+128,1,"2:16",1336,1336,"Craig LeCesne Defensive Rebound.",27,30,-3,9,0.778424926463673,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+129,1,"2:07",1327,1327,"Craig LeCesne missed Jumper.",27,30,-3,5,0.790375993283315,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+130,1,"2:02",1322,1322,"Michael Steadman Offensive Rebound.",27,30,-3,0,0.790375993283315,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+131,1,"2:02",1322,1322,"Michael Steadman Turnover.",27,30,-3,14,0.790375993283315,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+132,1,"1:48",1308,1308,"Oscar da Silva made Layup. Assisted by Daejon Davis.",29,30,-1,16,0.825054720600857,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+133,1,"1:32",1292,1292,"Brae Ivey made Three Point Jumper. Assisted by Oumar Barry.",29,33,-4,25,0.743094898085072,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+134,1,"1:07",1267,1267,"KZ Okpala made Jumper.",31,33,-2,16,0.826409391059683,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+135,1,"0:51",1251,1251,"Michael Steadman Turnover.",31,33,-2,14,0.795361446711873,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+136,1,"0:37",1237,1237,"Daejon Davis missed Three Point Jumper.",31,33,-2,4,0.794189609923786,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+137,1,"0:33",1233,1233,"Oumar Barry Defensive Rebound.",31,33,-2,26,0.794189609923786,"Stanford","San José St",3,4,0,0,18,"401087137",2018-12-18
+138,1,"0:07",1207,1207,"Oumar Barry Turnover.",31,33,-2,0,0.806583801072288,"Stanford","San José St",3,4,0,1,18,"401087137",2018-12-18
+139,1,"0:07",1207,1207,"San José State  Timeout",31,33,-2,5,0.806583801072288,"Stanford","San José St",3,3,0,1,18,"401087137",2018-12-18
+140,1,"0:02",1202,1202,"KZ Okpala made Three Point Jumper. Assisted by Daejon Davis.",34,33,1,2,0.870537003668567,"Stanford","San José St",3,3,0,1,18,"401087137",2018-12-18
+141,1,"0:00",1200,1200,"End of 1st half",34,33,1,0,0.870537003668567,"Stanford","San José St",3,3,0,1,18,"401087137",2018-12-18
+142,2,"20:00",1200,1200,"PLAY",34,33,1,10,0.870537003668567,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+143,2,"19:50",1190,1190,"Marcus Sheffield missed Three Point Jumper.",34,33,1,4,0.884035054785061,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+144,2,"19:46",1186,1186,"Michael Steadman Defensive Rebound.",34,33,1,18,0.872227894821503,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+145,2,"19:28",1168,1168,"Foul on KZ Okpala.",34,33,1,0,0.869323767606823,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+146,2,"19:28",1168,1168,"Brae Ivey missed Free Throw.",34,33,1,0,0.869323767606823,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+147,2,"19:28",1168,1168,"San José State Deadball Team Rebound.",34,33,1,0,0.869323767606823,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+148,2,"19:28",1168,1168,"Brae Ivey made Free Throw.",34,34,0,13,0.849429319898334,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+149,2,"19:15",1155,1155,"KZ Okpala made Three Point Jumper. Assisted by Bryce Wills.",37,34,3,30,0.895202839841561,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+150,2,"18:45",1125,1125,"Oumar Barry missed Layup.",37,34,3,5,0.903757082908801,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+151,2,"18:40",1120,1120,"Oscar da Silva Defensive Rebound.",37,34,3,8,0.903757082908801,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+152,2,"18:32",1112,1112,"Josh Sharma missed Layup.",37,34,3,0,0.894609025116805,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+153,2,"18:32",1112,1112,"Oumar Barry Block.",37,34,3,5,0.894609025116805,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+154,2,"18:27",1107,1107,"Michael Steadman Defensive Rebound.",37,34,3,21,0.903339190703839,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+155,2,"18:06",1086,1086,"Michael Steadman missed Layup.",37,34,3,8,0.907492853721336,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+156,2,"17:58",1078,1078,"Oumar Barry Offensive Rebound.",37,34,3,0,0.893427789955462,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+157,2,"17:58",1078,1078,"Oumar Barry made Layup.",37,36,1,10,0.856855050016599,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+158,2,"17:48",1068,1068,"KZ Okpala Turnover.",37,36,1,0,0.857675079227336,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+159,2,"17:48",1068,1068,"Noah Baumann Steal.",37,36,1,6,0.857675079227336,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+160,2,"17:42",1062,1062,"Noah Baumann missed Layup.",37,36,1,5,0.857675079227336,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+161,2,"17:37",1057,1057,"Craig LeCesne Offensive Rebound.",37,36,1,1,0.864437475806279,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+162,2,"17:36",1056,1056,"Craig LeCesne made Layup.",37,38,-1,17,0.816439464283047,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+163,2,"17:19",1039,1039,"KZ Okpala missed Three Point Jumper.",37,38,-1,4,0.814513321235986,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+164,2,"17:15",1035,1035,"Oumar Barry Defensive Rebound.",37,38,-1,11,0.814513321235986,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+165,2,"17:04",1024,1024,"Foul on Josh Sharma.",37,38,-1,0,0.813648412343945,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+166,2,"17:04",1024,1024,"Michael Steadman made Free Throw.",37,39,-2,0,0.784916416794577,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+167,2,"17:04",1024,1024,"Michael Steadman made Free Throw.",37,40,-3,17,0.753098740082912,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+168,2,"16:47",1007,1007,"Foul on Oumar Barry.",37,40,-3,3,0.723161724879573,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+169,2,"16:44",1004,1004,"Daejon Davis missed Layup.",37,40,-3,5,0.723161724879573,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+170,2,"16:39",999,999,"Trevor Stanback Offensive Rebound.",37,40,-3,0,0.737416911895355,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+171,2,"16:39",999,999,"Trevor Stanback missed Layup.",37,40,-3,0,0.737416911895355,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+172,2,"16:39",999,999,"Trevor Stanback Offensive Rebound.",37,40,-3,0,0.737416911895355,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+173,2,"16:39",999,999,"Trevor Stanback made Layup.",39,40,-1,0,0.8005251087447,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+174,2,"16:39",999,999,"Foul on Michael Steadman.",39,40,-1,0,0.8005251087447,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+175,2,"16:39",999,999,"Trevor Stanback made Free Throw.",40,40,0,13,0.827509205433312,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+176,2,"16:26",986,986,"Brae Ivey Turnover.",40,40,0,0,0.823329285562679,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+177,2,"16:26",986,986,"KZ Okpala Steal.",40,40,0,5,0.823329285562679,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+178,2,"16:21",981,981,"KZ Okpala Turnover.",40,40,0,11,0.823329285562679,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+179,2,"16:10",970,970,"Oumar Barry made Layup. Assisted by Noah Baumann.",40,42,-2,0,0.786274915744695,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+180,2,"16:10",970,970,"Foul on Oscar da Silva.",40,42,-2,0,0.786274915744695,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+181,2,"16:10",970,970,"Oumar Barry missed Free Throw.",40,42,-2,0,0.786274915744695,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+182,2,"16:10",970,970,"Isaac White Defensive Rebound.",40,42,-2,14,0.786274915744695,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+183,2,"15:56",956,956,"Daejon Davis missed Three Point Jumper.",40,42,-2,5,0.78164144669532,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+184,2,"15:51",951,951,"Oscar da Silva Offensive Rebound.",40,42,-2,3,0.78164144669532,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+185,2,"15:48",948,948,"Isaac White missed Three Point Jumper.",40,42,-2,4,0.786177240975862,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+186,2,"15:44",944,944,"KZ Okpala Offensive Rebound.",40,42,-2,0,0.786177240975862,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+187,2,"15:44",944,944,"Foul on Oumar Barry.",40,42,-2,0,0.786177240975862,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+188,2,"15:44",944,944,"Official TV Timeout",40,42,-2,0,0.786177240975862,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+189,2,"15:44",944,944,"KZ Okpala made Free Throw.",41,42,-1,0,0.816649039902961,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+190,2,"15:44",944,944,"KZ Okpala missed Free Throw.",41,42,-1,0,0.816649039902961,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+191,2,"15:44",944,944,"Michael Steadman Defensive Rebound.",41,42,-1,19,0.816649039902961,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+192,2,"15:25",925,925,"Foul on Jaiden Delaire.",41,42,-1,0,0.776098904615988,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+193,2,"15:25",925,925,"Brae Ivey missed Free Throw.",41,42,-1,0,0.776098904615988,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+194,2,"15:25",925,925,"San José State Deadball Team Rebound.",41,42,-1,0,0.776098904615988,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+195,2,"15:25",925,925,"Brae Ivey missed Free Throw.",41,42,-1,0,0.776098904615988,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+196,2,"15:25",925,925,"Oscar da Silva Defensive Rebound.",41,42,-1,25,0.776098904615988,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+197,2,"15:00",900,900,"Isaac White missed Three Point Jumper.",41,42,-1,4,0.78808985669513,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+198,2,"14:56",896,896,"Michael Steadman Defensive Rebound.",41,42,-1,7,0.795374736693385,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+199,2,"14:49",889,889,"Foul on Daejon Davis.",41,42,-1,0,0.787619162329318,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+200,2,"14:49",889,889,"Noah Baumann made Free Throw.",41,43,-2,0,0.75708781314539,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+201,2,"14:49",889,889,"Noah Baumann missed Free Throw.",41,43,-2,0,0.75708781314539,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+202,2,"14:49",889,889,"Oscar da Silva Defensive Rebound.",41,43,-2,16,0.75708781314539,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+203,2,"14:33",873,873,"Daejon Davis made Three Point Jumper. Assisted by Trevor Stanback.",44,43,1,14,0.852103915947181,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+204,2,"14:19",859,859,"Foul on Daejon Davis.",44,43,1,9,0.852190098642574,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+205,2,"14:10",850,850,"Noah Baumann missed Three Point Jumper.",44,43,1,1,0.852190098642574,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+206,2,"14:09",849,849,"KZ Okpala Defensive Rebound.",44,43,1,0,0.841950765267685,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+207,2,"14:09",849,849,"Foul on Craig LeCesne.",44,43,1,19,0.841950765267685,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+208,2,"13:50",830,830,"Daejon Davis missed Three Point Jumper.",44,43,1,4,0.866503531090506,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+209,2,"13:46",826,826,"Michael Steadman Defensive Rebound.",44,43,1,7,0.852406149310103,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+210,2,"13:39",819,819,"Brae Ivey made Three Point Jumper. Assisted by Noah Baumann.",44,46,-2,33,0.762961576312254,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+211,2,"13:06",786,786,"Oscar da Silva made Three Point Jumper. Assisted by Daejon Davis.",47,46,1,31,0.844876835921899,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+212,2,"12:35",755,755,"Ashtin Chastain missed Layup.",47,46,1,3,0.850266784875179,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+213,2,"12:32",752,752,"Oscar da Silva Defensive Rebound.",47,46,1,17,0.850266784875179,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+214,2,"12:15",735,735,"Oscar da Silva made Three Point Jumper. Assisted by Marcus Sheffield.",50,46,4,26,0.900673821765817,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+215,2,"11:49",709,709,"Craig LeCesne missed Three Point Jumper.",50,46,4,3,0.901364526020426,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+216,2,"11:46",706,706,"Oscar da Silva Defensive Rebound.",50,46,4,5,0.901364526020426,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+217,2,"11:41",701,701,"Lukas Kisunas Turnover.",50,46,4,0,0.901364526020426,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+218,2,"11:41",701,701,"Craig LeCesne Steal.",50,46,4,8,0.901364526020426,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+219,2,"11:33",693,693,"Noah Baumann made Three Point Jumper. Assisted by Craig LeCesne.",50,49,1,16,0.861180330890154,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+220,2,"11:17",677,677,"Oscar da Silva made Jumper.",52,49,3,22,0.892202840681527,"Stanford","San José St",4,4,0,0,18,"401087137",2018-12-18
+221,2,"10:55",655,655,"Michael Steadman made Jumper. Assisted by Noah Baumann.",52,51,1,0,0.836068395555082,"Stanford","San José St",4,4,0,1,18,"401087137",2018-12-18
+222,2,"10:55",655,655,"San José State  Timeout",52,51,1,0,0.836068395555082,"Stanford","San José St",4,3,0,1,18,"401087137",2018-12-18
+223,2,"10:55",655,655,"Official TV Timeout",52,51,1,15,0.836068395555082,"Stanford","San José St",4,3,0,1,18,"401087137",2018-12-18
+224,2,"10:40",640,640,"Josh Sharma made Jumper. Assisted by Daejon Davis.",54,51,3,22,0.888803728106536,"Stanford","San José St",4,3,0,1,18,"401087137",2018-12-18
+225,2,"10:18",618,618,"Michael Steadman missed Layup.",54,51,3,1,0.885650819990553,"Stanford","San José St",4,3,0,1,18,"401087137",2018-12-18
+226,2,"10:17",617,617,"Ashtin Chastain Offensive Rebound.",54,51,3,0,0.885650819990553,"Stanford","San José St",4,3,0,1,18,"401087137",2018-12-18
+227,2,"10:17",617,617,"Ashtin Chastain made Layup.",54,53,1,0,0.824229217768439,"Stanford","San José St",4,3,0,1,18,"401087137",2018-12-18
+228,2,"10:17",617,617,"Foul on Josh Sharma.",54,53,1,0,0.824229217768439,"Stanford","San José St",4,3,0,1,18,"401087137",2018-12-18
+229,2,"10:17",617,617,"Official TV Timeout",54,53,1,0,0.824229217768439,"Stanford","San José St",4,3,0,1,18,"401087137",2018-12-18
+230,2,"10:17",617,617,"Ashtin Chastain made Free Throw.",54,54,0,13,0.784885741971186,"Stanford","San José St",4,3,0,1,18,"401087137",2018-12-18
+231,2,"10:04",604,604,"Oscar da Silva made Three Point Jumper. Assisted by Daejon Davis.",57,54,3,22,0.894700091983003,"Stanford","San José St",4,3,0,1,18,"401087137",2018-12-18
+232,2,"9:42",582,582,"Noah Baumann missed Layup.",57,54,3,5,0.87755370796408,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+233,2,"9:37",577,577,"Trevor Stanback Defensive Rebound.",57,54,3,4,0.897734092783169,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+234,2,"9:33",573,573,"Oscar da Silva missed Three Point Jumper.",57,54,3,4,0.897734092783169,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+235,2,"9:29",569,569,"Noah Baumann Defensive Rebound.",57,54,3,13,0.905522527778716,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+236,2,"9:16",556,556,"Brae Ivey missed Jumper.",57,54,3,5,0.888200197053676,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+237,2,"9:11",551,551,"Daejon Davis Defensive Rebound.",57,54,3,8,0.888200197053676,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+238,2,"9:03",543,543,"Marcus Sheffield missed Three Point Jumper.",57,54,3,3,0.88154070264315,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+239,2,"9:00",540,540,"Brae Ivey Defensive Rebound.",57,54,3,16,0.88154070264315,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+240,2,"8:44",524,524,"Foul on Marcus Sheffield.",57,54,3,0,0.878152015428603,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+241,2,"8:44",524,524,"Craig LeCesne made Free Throw.",57,55,2,0,0.845887855591529,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+242,2,"8:44",524,524,"Craig LeCesne made Free Throw.",57,56,1,9,0.806958494029529,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+243,2,"8:35",515,515,"KZ Okpala made Layup.",59,56,3,7,0.877200914714189,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+244,2,"8:28",508,508,"Craig LeCesne missed Layup.",59,56,3,0,0.891625999398539,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+245,2,"8:28",508,508,"Trevor Stanback Block.",59,56,3,0,0.891625999398539,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+246,2,"8:28",508,508,"San José State Offensive Rebound.",59,56,3,7,0.891625999398539,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+247,2,"8:21",501,501,"Foul on Trevor Stanback.",59,56,3,0,0.891625999398539,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+248,2,"8:21",501,501,"Michael Steadman missed Free Throw.",59,56,3,0,0.891625999398539,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+249,2,"8:21",501,501,"KZ Okpala Defensive Rebound.",59,56,3,5,0.891625999398539,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+250,2,"8:16",496,496,"KZ Okpala made Jumper.",61,56,5,12,0.931715090462671,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+251,2,"8:04",484,484,"Michael Steadman made Layup. Assisted by Brae Ivey.",61,58,3,21,0.886976635261195,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+252,2,"7:43",463,463,"Oscar da Silva missed Three Point Jumper.",61,58,3,6,0.889505136108609,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+253,2,"7:37",457,457,"Kodye Pugh Offensive Rebound.",61,58,3,0,0.886071442616653,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+254,2,"7:37",457,457,"Official TV Timeout",61,58,3,23,0.886071442616653,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+255,2,"7:14",434,434,"Foul on Oumar Barry.",61,58,3,17,0.901360383658135,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+256,2,"6:57",417,417,"Oscar da Silva missed Three Point Jumper.",61,58,3,4,0.892855017702719,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+257,2,"6:53",413,413,"Brae Ivey Defensive Rebound.",61,58,3,0,0.892855017702719,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+258,2,"6:53",413,413,"Brae Ivey Turnover.",61,58,3,2,0.892855017702719,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+259,2,"6:51",411,411,"Foul on Noah Baumann.",61,58,3,8,0.892855017702719,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+260,2,"6:43",403,403,"Oscar da Silva missed Three Point Jumper.",61,58,3,2,0.891470889150586,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+261,2,"6:41",401,401,"San José State Defensive Rebound.",61,58,3,9,0.891470889150586,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+262,2,"6:32",392,392,"Noah Baumann missed Three Point Jumper.",61,58,3,4,0.891806899994838,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+263,2,"6:28",388,388,"KZ Okpala Defensive Rebound.",61,58,3,8,0.896566956710121,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+264,2,"6:20",380,380,"Oscar da Silva Turnover.",61,58,3,11,0.896566956710121,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+265,2,"6:09",369,369,"Brae Ivey Turnover.",61,58,3,0,0.884160911090059,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+266,2,"6:09",369,369,"KZ Okpala Steal.",61,58,3,3,0.884160911090059,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+267,2,"6:06",366,366,"KZ Okpala Turnover.",61,58,3,6,0.884160911090059,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+268,2,"6:00",360,360,"Noah Baumann Turnover.",61,58,3,0,0.884160911090059,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+269,2,"6:00",360,360,"KZ Okpala Steal.",61,58,3,6,0.884160911090059,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+270,2,"5:54",354,354,"KZ Okpala made Layup.",63,58,5,10,0.940848583002378,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+271,2,"5:44",344,344,"Brae Ivey Turnover.",63,58,5,0,0.935585686593221,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+272,2,"5:44",344,344,"Daejon Davis Steal.",63,58,5,4,0.935585686593221,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+273,2,"5:40",340,340,"Foul on Brae Ivey.",63,58,5,0,0.935585686593221,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+274,2,"5:40",340,340,"Daejon Davis made Free Throw.",64,58,6,0,0.95304349155921,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+275,2,"5:40",340,340,"Daejon Davis made Free Throw.",65,58,7,6,0.965942056885219,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+276,2,"5:34",334,334,"Brae Ivey Turnover.",65,58,7,11,0.973501964270313,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+277,2,"5:23",323,323,"Foul on Brae Ivey.",65,58,7,0,0.967342719079636,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+278,2,"5:23",323,323,"KZ Okpala made Free Throw.",66,58,8,0,0.9759293874765,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+279,2,"5:23",323,323,"KZ Okpala missed Free Throw.",66,58,8,2,0.9759293874765,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+280,2,"5:21",321,321,"San José State Deadball Team Rebound.",66,58,8,0,0.9759293874765,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+281,2,"5:21",321,321,"Foul on Trevor Stanback.",66,58,8,0,0.9759293874765,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+282,2,"5:21",321,321,"Oumar Barry missed Free Throw.",66,58,8,0,0.9759293874765,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+283,2,"5:21",321,321,"San José State Deadball Team Rebound.",66,58,8,0,0.9759293874765,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+284,2,"5:21",321,321,"Oumar Barry made Free Throw.",66,59,7,25,0.967342719079636,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+285,2,"4:56",296,296,"Foul on Noah Baumann.",66,59,7,0,0.973252986553779,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+286,2,"4:56",296,296,"KZ Okpala missed Free Throw.",66,59,7,0,0.973252986553779,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+287,2,"4:56",296,296,"Stanford Deadball Team Rebound.",66,59,7,0,0.973252986553779,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+288,2,"4:56",296,296,"KZ Okpala made Free Throw.",67,59,8,14,0.980869785395258,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+289,2,"4:42",282,282,"Craig LeCesne missed Layup.",67,59,8,0,0.979616613221421,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+290,2,"4:42",282,282,"Trevor Stanback Block.",67,59,8,5,0.979616613221421,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+291,2,"4:37",277,277,"KZ Okpala Defensive Rebound.",67,59,8,11,0.984174716043473,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+292,2,"4:26",266,266,"Daejon Davis made Three Point Jumper. Assisted by KZ Okpala.",70,59,11,20,0.994203807315619,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+293,2,"4:06",246,246,"Oumar Barry made Layup. Assisted by Noah Baumann.",70,61,9,21,0.989891761728961,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+294,2,"3:45",225,225,"Oscar da Silva Turnover.",70,61,9,0,0.993239411483077,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+295,2,"3:45",225,225,"Official TV Timeout",70,61,9,12,0.993239411483077,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+296,2,"3:33",213,213,"Michael Steadman made Jumper.",70,63,7,14,0.982431609552982,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+297,2,"3:19",199,199,"KZ Okpala missed Layup.",70,63,7,3,0.981674351099002,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+298,2,"3:16",196,196,"Oumar Barry Defensive Rebound.",70,63,7,9,0.981674351099002,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+299,2,"3:07",187,187,"Michael Steadman Turnover.",70,63,7,0,0.9855278592378,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+300,2,"3:07",187,187,"Daejon Davis Steal.",70,63,7,23,0.9855278592378,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+301,2,"2:44",164,164,"Josh Sharma made Dunk. Assisted by Oscar da Silva.",72,63,9,18,0.997114335274028,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+302,2,"2:26",146,146,"Craig LeCesne made Jumper.",72,65,7,18,0.990229253369423,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+303,2,"2:08",128,128,"Marcus Sheffield missed Three Point Jumper.",72,65,7,4,0.991103248263402,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+304,2,"2:04",124,124,"Seneca Knight Defensive Rebound.",72,65,7,7,0.991103248263402,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+305,2,"1:57",117,117,"Craig LeCesne Turnover.",72,65,7,0,0.993597167298803,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+306,2,"1:57",117,117,"Daejon Davis Steal.",72,65,7,23,0.993597167298803,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+307,2,"1:34",94,94,"Oscar da Silva missed Three Point Jumper.",72,65,7,3,0.993287612717654,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+308,2,"1:31",91,91,"Oumar Barry Defensive Rebound.",72,65,7,19,0.993287612717654,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+309,2,"1:12",72,72,"Noah Baumann made Jumper.",72,67,5,15,0.986769068145647,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+310,2,"0:57",57,57,"Foul on Craig LeCesne.",72,67,5,0,0.995069298395698,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+311,2,"0:57",57,57,"KZ Okpala made Free Throw.",73,67,6,0,0.997931118260047,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+312,2,"0:57",57,57,"KZ Okpala missed Free Throw.",73,67,6,0,0.997931118260047,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+313,2,"0:57",57,57,"Michael Steadman Defensive Rebound.",73,67,6,5,0.997931118260047,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+314,2,"0:52",52,52,"Foul on KZ Okpala.",73,67,6,0,0.996870269670098,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+315,2,"0:52",52,52,"Craig LeCesne made Free Throw.",73,68,5,0,0.993047105929817,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+316,2,"0:52",52,52,"Craig LeCesne made Free Throw.",73,69,4,3,0.984625732528067,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+317,2,"0:49",49,49,"KZ Okpala made Dunk. Assisted by Daejon Davis.",75,69,6,11,0.998157975578106,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+318,2,"0:38",38,38,"Oumar Barry missed Three Point Jumper.",75,69,6,5,0.997852073139187,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+319,2,"0:33",33,33,"Craig LeCesne Offensive Rebound.",75,69,6,4,0.999317559636315,"Stanford","San José St",4,3,0,0,18,"401087137",2018-12-18
+320,2,"0:29",29,29,"Craig LeCesne made Jumper.",75,71,4,0,0.987059902524922,"Stanford","San José St",4,3,0,1,18,"401087137",2018-12-18
+321,2,"0:29",29,29,"San José State  Timeout",75,71,4,1,0.987059902524922,"Stanford","San José St",4,2,0,1,18,"401087137",2018-12-18
+322,2,"0:28",28,28,"Foul on Noah Baumann.",75,71,4,0,0.995854126114422,"Stanford","San José St",4,2,0,1,18,"401087137",2018-12-18
+323,2,"0:28",28,28,"Isaac White missed Free Throw.",75,71,4,0,0.995854126114422,"Stanford","San José St",4,2,0,1,18,"401087137",2018-12-18
+324,2,"0:28",28,28,"Stanford Deadball Team Rebound.",75,71,4,0,0.995854126114422,"Stanford","San José St",4,2,0,1,18,"401087137",2018-12-18
+325,2,"0:28",28,28,"Isaac White made Free Throw.",76,71,5,4,0.998679132709722,"Stanford","San José St",4,2,0,1,18,"401087137",2018-12-18
+326,2,"0:24",24,24,"Oumar Barry missed Three Point Jumper.",76,71,5,3,0.992366602814023,"Stanford","San José St",4,2,0,1,18,"401087137",2018-12-18
+327,2,"0:21",21,21,"Michael Steadman Offensive Rebound.",76,71,5,0,0.999847669016768,"Stanford","San José St",4,2,0,1,18,"401087137",2018-12-18
+328,2,"0:21",21,21,"Michael Steadman made Layup.",76,73,3,1,0.996025003879181,"Stanford","San José St",4,2,0,1,18,"401087137",2018-12-18
+329,2,"0:20",20,20,"Foul on Craig LeCesne.",76,73,3,0,0.99483095622457,"Stanford","San José St",4,2,0,1,18,"401087137",2018-12-18
+330,2,"0:20",20,20,"KZ Okpala made Free Throw.",77,73,4,0,0.999008398970982,"Stanford","San José St",4,2,0,1,18,"401087137",2018-12-18
+331,2,"0:20",20,20,"KZ Okpala missed Free Throw.",77,73,4,0,0.999008398970982,"Stanford","San José St",4,2,0,1,18,"401087137",2018-12-18
+332,2,"0:20",20,20,"Oscar da Silva Offensive Rebound.",77,73,4,8,0.999008398970982,"Stanford","San José St",4,2,0,1,18,"401087137",2018-12-18
+333,2,"0:12",12,12,"Foul on Brae Ivey.",77,73,4,0,0.997756244506338,"Stanford","San José St",4,2,0,1,18,"401087137",2018-12-18
+334,2,"0:12",12,12,"Oscar da Silva missed Free Throw.",77,73,4,0,0.997756244506338,"Stanford","San José St",4,2,0,1,18,"401087137",2018-12-18
+335,2,"0:12",12,12,"Stanford Deadball Team Rebound.",77,73,4,0,0.997756244506338,"Stanford","San José St",4,2,0,1,18,"401087137",2018-12-18
+336,2,"0:12",12,12,"Oscar da Silva made Free Throw.",78,73,5,4,0.99938312691937,"Stanford","San José St",4,2,0,1,18,"401087137",2018-12-18
+337,2,"0:08",8,8,"Craig LeCesne missed Jumper.",78,73,5,2,0.99980076008893,"Stanford","San José St",4,2,0,1,18,"401087137",2018-12-18
+338,2,"0:06",6,6,"Josh Sharma Defensive Rebound.",78,73,5,6,0.99980076008893,"Stanford","San José St",4,2,0,1,18,"401087137",2018-12-18
+339,2,"0:00",0,0,"End of 2nd half",78,73,5,0,1,"Stanford","San José St",4,2,0,1,18,"401087137",2018-12-18
+340,2,"0:00",0,0,"End of Game",78,73,5,0,1,"Stanford","San José St",4,2,0,1,18,"401087137",2018-12-18

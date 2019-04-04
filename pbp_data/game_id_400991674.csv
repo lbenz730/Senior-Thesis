@@ -1,0 +1,362 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.5,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+2,1,"19:38",2378,2378,"Richmond Aririguzoh Turnover.",0,0,0,0.524279741327167,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+3,1,"19:38",2378,2378,"Tj Booth Steal.",0,0,0,0.524279741327167,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+4,1,"19:38",2378,2378,"Tj Booth missed Jumper.",0,0,0,0.524279741327167,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+5,1,"19:38",2378,2378,"Richmond Aririguzoh Defensive Rebound.",0,0,0,0.524279741327167,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+6,1,"19:17",2357,2357,"Richmond Aririguzoh Turnover.",0,0,0,0.529703192727122,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+7,1,"19:17",2357,2357,"Rob DePersia Steal.",0,0,0,0.529703192727122,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+8,1,"19:17",2357,2357,"Rob DePersia Turnover.",0,0,0,0.529703192727122,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+9,1,"19:13",2353,2353,"Myles Stephens missed Layup.",0,0,0,0.529703192727122,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+10,1,"19:13",2353,2353,"Ramon Wright Defensive Rebound.",0,0,0,0.529703192727122,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+11,1,"18:58",2338,2338,"DaRon Curry missed Three Point Jumper.",0,0,0,0.516919265248255,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+12,1,"18:58",2338,2338,"Princeton Defensive Rebound.",0,0,0,0.516919265248255,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+13,1,"18:36",2316,2316,"Sebastian Much made Three Point Jumper. Assisted by Richmond Aririguzoh.",3,0,3,0.579820105790833,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+14,1,"18:18",2298,2298,"Ramon Wright missed Three Point Jumper.",3,0,3,0.593066696194224,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+15,1,"18:18",2298,2298,"Devin Cannady Defensive Rebound.",3,0,3,0.593066696194224,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+16,1,"18:02",2282,2282,"Myles Stephens made Three Point Jumper. Assisted by Amir Bell.",6,0,6,0.660736723789911,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+17,1,"17:47",2267,2267,"Tomas Malmsjo missed Layup.",6,0,6,0.694180822256309,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+18,1,"17:47",2267,2267,"Richmond Aririguzoh Defensive Rebound.",6,0,6,0.694180822256309,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+19,1,"17:40",2260,2260,"Devin Cannady missed Three Point Jumper.",6,0,6,0.694180822256309,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+20,1,"17:40",2260,2260,"Rob DePersia Defensive Rebound.",6,0,6,0.694180822256309,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+21,1,"17:25",2245,2245,"Rob DePersia Turnover.",6,0,6,0.663651722116823,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+22,1,"17:04",2224,2224,"Amir Bell made Three Point Jumper. Assisted by Sebastian Much.",9,0,9,0.730277906710387,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+23,1,"16:49",2209,2209,"Tj Booth missed Three Point Jumper.",9,0,9,0.749729465357872,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+24,1,"16:49",2209,2209,"Amir Bell Defensive Rebound.",9,0,9,0.749729465357872,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+25,1,"16:42",2202,2202,"Foul on Tj Booth.",9,0,9,0.749729465357872,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+26,1,"16:40",2200,2200,"Sebastian Much made Three Point Jumper. Assisted by Amir Bell.",12,0,12,0.807933786176493,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+27,1,"16:28",2188,2188,"Ramon Wright made Layup.",12,2,10,0.760827802795322,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+28,1,"16:05",2165,2165,"Devin Cannady made Three Point Jumper. Assisted by Richmond Aririguzoh.",15,2,13,0.817461506141045,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+29,1,"15:56",2156,2156,"Foul on Sebastian Much.",15,2,13,0.827931952492897,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+30,1,"15:56",2156,2156,"Official TV Timeout",15,2,13,0.827931952492897,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+31,1,"15:33",2133,2133,"Austin Kearney missed Layup.",15,2,13,0.835209607102655,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+32,1,"15:33",2133,2133,"Devin Cannady Defensive Rebound.",15,2,13,0.835209607102655,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+33,1,"15:21",2121,2121,"Jerome Desrosiers made Layup.",17,2,15,0.852203463593874,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+34,1,"15:03",2103,2103,"Austin Kearney made Layup. Assisted by DaRon Curry.",17,4,13,0.81766972637313,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+35,1,"14:47",2087,2087,"Jerome Desrosiers made Three Point Jumper. Assisted by Noah Bramlage.",20,4,16,0.864076025808036,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+36,1,"14:34",2074,2074,"Austin Kearney missed Layup.",20,4,16,0.850385135599029,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+37,1,"14:34",2074,2074,"Jerome Desrosiers Defensive Rebound.",20,4,16,0.850385135599029,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+38,1,"14:10",2050,2050,"Jerome Desrosiers missed Three Point Jumper.",20,4,16,0.867603817078641,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+39,1,"14:10",2050,2050,"Amir Bell Offensive Rebound.",20,4,16,0.867603817078641,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+40,1,"13:55",2035,2035,"Myles Stephens made Three Point Jumper. Assisted by Amir Bell.",23,4,19,0.899671689886126,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+41,1,"13:40",2020,2020,"Ramon Wright missed Layup.",23,4,19,0.9260647792525,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+42,1,"13:40",2020,2020,"Myles Stephens Defensive Rebound.",23,4,19,0.9260647792525,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+43,1,"13:34",2014,2014,"Amir Bell made Dunk. Assisted by Myles Stephens.",25,4,21,0.924526506352796,"Princeton","Rowan University",4,4,0,1,NA,400991674,2018-01-28
+44,1,"13:34",2014,2014,"Rowan University  Timeout",25,4,21,0.924526506352796,"Princeton","Rowan University",4,3,0,1,NA,400991674,2018-01-28
+45,1,"13:13",1993,1993,"Foul on Alec Brennan.",25,4,21,0.941265394527123,"Princeton","Rowan University",4,3,0,1,NA,400991674,2018-01-28
+46,1,"13:01",1981,1981,"Nick DePersia missed Jumper.",25,4,21,0.933029652933305,"Princeton","Rowan University",4,3,0,1,NA,400991674,2018-01-28
+47,1,"13:01",1981,1981,"Elijah Barnes Defensive Rebound.",25,4,21,0.933029652933305,"Princeton","Rowan University",4,3,0,1,NA,400991674,2018-01-28
+48,1,"12:58",1978,1978,"Foul on Tj Booth.",25,4,21,0.938485558197925,"Princeton","Rowan University",4,3,0,1,NA,400991674,2018-01-28
+49,1,"12:45",1965,1965,"Alec Brennan missed Layup.",25,4,21,0.906414598832082,"Princeton","Rowan University",4,3,0,1,NA,400991674,2018-01-28
+50,1,"12:45",1965,1965,"Manny Lowe Defensive Rebound.",25,4,21,0.906414598832082,"Princeton","Rowan University",4,3,0,1,NA,400991674,2018-01-28
+51,1,"12:27",1947,1947,"Austin Kearney missed Layup.",25,4,21,0.936838083048248,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+52,1,"12:27",1947,1947,"Elijah Barnes Defensive Rebound.",25,4,21,0.936838083048248,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+53,1,"12:06",1926,1926,"Ryan Schwieger Turnover.",25,4,21,0.933459110357027,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+54,1,"12:05",1925,1925,"Ryan Legler Steal.",25,4,21,0.933459110357027,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+55,1,"11:40",1900,1900,"Ryan Legler Turnover.",25,4,21,0.923616533019498,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+56,1,"11:39",1899,1899,"Ryan Schwieger Steal.",25,4,21,0.948403012442681,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+57,1,"11:35",1895,1895,"Mike LeBlanc missed Three Point Jumper.",25,4,21,0.948403012442681,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+58,1,"11:35",1895,1895,"Alec Brennan Offensive Rebound.",25,4,21,0.948403012442681,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+59,1,"11:32",1892,1892,"Alec Brennan missed Layup.",25,4,21,0.948403012442681,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+60,1,"11:32",1892,1892,"Manny Lowe Defensive Rebound.",25,4,21,0.948403012442681,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+61,1,"11:22",1882,1882,"Nick DePersia missed Three Point Jumper.",25,4,21,0.931591655057613,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+62,1,"11:22",1882,1882,"Elijah Barnes Defensive Rebound.",25,4,21,0.931591655057613,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+63,1,"11:06",1866,1866,"Foul on Walter Harvey.",25,4,21,0.95017624909967,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+64,1,"11:06",1866,1866,"Official TV Timeout",25,4,21,0.95017624909967,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+65,1,"10:57",1857,1857,"Ryan Schwieger missed Three Point Jumper.",25,4,21,0.941080165700642,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+66,1,"10:57",1857,1857,"Ryan Legler Defensive Rebound.",25,4,21,0.941080165700642,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+67,1,"10:35",1835,1835,"Nick DePersia missed Jumper.",25,4,21,0.939538961432837,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+68,1,"10:35",1835,1835,"Mike LeBlanc Defensive Rebound.",25,4,21,0.939538961432837,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+69,1,"10:29",1829,1829,"Ryan Schwieger Turnover.",25,4,21,0.934437036215124,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+70,1,"10:28",1828,1828,"Nick DePersia Steal.",25,4,21,0.934437036215124,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+71,1,"10:19",1819,1819,"Ryan Legler made Three Point Jumper. Assisted by Walter Harvey.",25,7,18,0.929782088598722,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+72,1,"9:57",1797,1797,"Richmond Aririguzoh made Layup. Assisted by Elijah Barnes.",27,7,20,0.932460069162545,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+73,1,"9:57",1797,1797,"Foul on Manny Lowe.",27,7,20,0.932460069162545,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+74,1,"9:57",1797,1797,"Richmond Aririguzoh missed Free Throw.",27,7,20,0.932460069162545,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+75,1,"9:57",1797,1797,"Nick DePersia Defensive Rebound.",27,7,20,0.932460069162545,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+76,1,"9:42",1782,1782,"Walter Harvey missed Three Point Jumper.",27,7,20,0.939877330169917,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+77,1,"9:42",1782,1782,"Sebastian Much Defensive Rebound.",27,7,20,0.939877330169917,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+78,1,"9:32",1772,1772,"Foul on Tommy Smierciak.",27,7,20,0.919634615396142,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+79,1,"9:32",1772,1772,"Elijah Barnes missed Free Throw.",27,7,20,0.919634615396142,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+80,1,"9:32",1772,1772,"Princeton Deadball Team Rebound.",27,7,20,0.919634615396142,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+81,1,"9:32",1772,1772,"Elijah Barnes made Free Throw.",28,7,21,0.928229197001054,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+82,1,"9:15",1755,1755,"Rob DePersia missed Three Point Jumper.",28,7,21,0.946401060936585,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+83,1,"9:15",1755,1755,"Mike LeBlanc Defensive Rebound.",28,7,21,0.946401060936585,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+84,1,"9:00",1740,1740,"Mike LeBlanc missed Three Point Jumper.",28,7,21,0.94077390713777,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+85,1,"9:00",1740,1740,"Walter Harvey Defensive Rebound.",28,7,21,0.94077390713777,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+86,1,"8:41",1721,1721,"Tommy Smierciak made Layup. Assisted by Rob DePersia.",28,9,19,0.936636166454293,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+87,1,"8:26",1706,1706,"Richmond Aririguzoh Turnover.",28,9,19,0.919258325478312,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+88,1,"8:23",1703,1703,"Manny Lowe Steal.",28,9,19,0.919258325478312,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+89,1,"8:17",1697,1697,"Ryan Legler made Three Point Jumper. Assisted by Rob DePersia.",28,12,16,0.915314554215326,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+90,1,"7:55",1675,1675,"Richmond Aririguzoh missed Layup.",28,12,16,0.907059230938355,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+91,1,"7:55",1675,1675,"Brian Thatcher Defensive Rebound.",28,12,16,0.907059230938355,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+92,1,"7:47",1667,1667,"Ryan Legler missed Three Point Jumper.",28,12,16,0.892619243218131,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+93,1,"7:47",1667,1667,"Amir Bell Defensive Rebound.",28,12,16,0.892619243218131,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+94,1,"7:33",1653,1653,"Myles Stephens Turnover.",28,12,16,0.900629849516275,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+95,1,"7:33",1653,1653,"Official TV Timeout",28,12,16,0.900629849516275,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+96,1,"7:17",1637,1637,"Ramon Wright made Three Point Jumper.",28,15,13,0.859830241719131,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+97,1,"7:07",1627,1627,"Jerome Desrosiers missed Three Point Jumper.",28,15,13,0.865793024488893,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+98,1,"7:07",1627,1627,"Ryan Legler Defensive Rebound.",28,15,13,0.865793024488893,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+99,1,"6:49",1609,1609,"Ramon Wright missed Layup.",28,15,13,0.848229197271611,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+100,1,"6:49",1609,1609,"Rowan University Offensive Rebound.",28,15,13,0.848229197271611,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+101,1,"6:36",1596,1596,"Rob DePersia missed Three Point Jumper.",28,15,13,0.867317741669741,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+102,1,"6:36",1596,1596,"Richmond Aririguzoh Block.",28,15,13,0.867317741669741,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+103,1,"6:35",1595,1595,"Rob DePersia Offensive Rebound.",28,15,13,0.867317741669741,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+104,1,"6:33",1593,1593,"Rob DePersia Turnover.",28,15,13,0.867317741669741,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+105,1,"6:33",1593,1593,"Amir Bell Steal.",28,15,13,0.867317741669741,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+106,1,"6:30",1590,1590,"Myles Stephens made Layup.",30,15,15,0.895438587527014,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+107,1,"6:30",1590,1590,"Foul on Brian Thatcher.",30,15,15,0.895438587527014,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+108,1,"6:30",1590,1590,"Myles Stephens missed Free Throw.",30,15,15,0.895438587527014,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+109,1,"6:30",1590,1590,"Ramon Wright Defensive Rebound.",30,15,15,0.895438587527014,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+110,1,"6:21",1581,1581,"Brian Thatcher missed Three Point Jumper.",30,15,15,0.883257411748777,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+111,1,"6:21",1581,1581,"Myles Stephens Defensive Rebound.",30,15,15,0.883257411748777,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+112,1,"6:10",1570,1570,"Foul on Austin Kearney.",30,15,15,0.916594912964724,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+113,1,"6:10",1570,1570,"Richmond Aririguzoh missed Free Throw.",30,15,15,0.916594912964724,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+114,1,"6:10",1570,1570,"Myles Stephens Offensive Rebound.",30,15,15,0.916594912964724,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+115,1,"6:07",1567,1567,"Myles Stephens made Layup.",32,15,17,0.918074279186187,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+116,1,"5:48",1548,1548,"DaRon Curry missed Three Point Jumper.",32,15,17,0.91851285834474,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+117,1,"5:48",1548,1548,"Amir Bell Defensive Rebound.",32,15,17,0.91851285834474,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+118,1,"5:27",1527,1527,"Amir Bell missed Three Point Jumper.",32,15,17,0.922403185482654,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+119,1,"5:27",1527,1527,"Rob DePersia Defensive Rebound.",32,15,17,0.922403185482654,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+120,1,"5:09",1509,1509,"DaRon Curry missed Jumper.",32,15,17,0.921939518280268,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+121,1,"5:09",1509,1509,"Devin Cannady Defensive Rebound.",32,15,17,0.921939518280268,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+122,1,"4:53",1493,1493,"Devin Cannady missed Three Point Jumper.",32,15,17,0.924757429858803,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+123,1,"4:53",1493,1493,"Austin Kearney Defensive Rebound.",32,15,17,0.924757429858803,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+124,1,"4:44",1484,1484,"Ramon Wright made Layup. Assisted by Rob DePersia.",32,17,15,0.905751266818295,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+125,1,"4:28",1468,1468,"Jerome Desrosiers made Three Point Jumper. Assisted by Richmond Aririguzoh.",35,17,18,0.932579088783463,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+126,1,"4:14",1454,1454,"Austin Kearney missed Layup.",35,17,18,0.934226645524983,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+127,1,"4:14",1454,1454,"Devin Cannady Defensive Rebound.",35,17,18,0.934226645524983,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+128,1,"3:59",1439,1439,"Myles Stephens missed Three Point Jumper.",35,17,18,0.942263295809042,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+129,1,"3:59",1439,1439,"DaRon Curry Defensive Rebound.",35,17,18,0.942263295809042,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+130,1,"3:49",1429,1429,"DaRon Curry Turnover.",35,17,18,0.93269394017382,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+131,1,"3:49",1429,1429,"Official TV Timeout",35,17,18,0.93269394017382,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+132,1,"3:24",1404,1404,"Alec Brennan missed Layup.",35,17,18,0.947920639832922,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+133,1,"3:24",1404,1404,"DaRon Curry Block.",35,17,18,0.947920639832922,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+134,1,"3:24",1404,1404,"Princeton Offensive Rebound.",35,17,18,0.947920639832922,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+135,1,"3:21",1401,1401,"Sebastian Much missed Three Point Jumper.",35,17,18,0.947920639832922,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+136,1,"3:21",1401,1401,"Ramon Wright Defensive Rebound.",35,17,18,0.947920639832922,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+137,1,"3:08",1388,1388,"DaRon Curry Turnover.",35,17,18,0.942041697174404,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+138,1,"3:07",1387,1387,"Sebastian Much Steal.",35,17,18,0.942041697174404,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+139,1,"3:00",1380,1380,"Ryan Schwieger missed Layup.",35,17,18,0.942041697174404,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+140,1,"3:00",1380,1380,"Alec Brennan Offensive Rebound.",35,17,18,0.942041697174404,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+141,1,"2:58",1378,1378,"Alec Brennan made Layup.",37,17,20,0.946863366982329,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+142,1,"2:34",1354,1354,"Tomas Malmsjo Turnover.",37,17,20,0.960955876969944,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+143,1,"2:33",1353,1353,"Alec Brennan Steal.",37,17,20,0.960955876969944,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+144,1,"2:27",1347,1347,"Amir Bell missed Layup.",37,17,20,0.960668907392263,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+145,1,"2:27",1347,1347,"Tomas Malmsjo Defensive Rebound.",37,17,20,0.960668907392263,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+146,1,"2:21",1341,1341,"Ramon Wright Turnover.",37,17,20,0.960668907392263,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+147,1,"2:19",1339,1339,"Devin Cannady Steal.",37,17,20,0.957424675924356,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+148,1,"2:01",1321,1321,"Devin Cannady made Three Point Jumper.",40,17,23,0.975259149912094,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+149,1,"2:01",1321,1321,"Foul on Ramon Wright.",37,17,20,0.960888120493195,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+150,1,"2:01",1321,1321,"Devin Cannady made Free Throw.",41,17,24,0.978790174634051,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+151,1,"1:39",1299,1299,"Tj Booth missed Layup.",41,17,24,0.984922632889515,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+152,1,"1:39",1299,1299,"Elijah Barnes Defensive Rebound.",41,17,24,0.984922632889515,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+153,1,"1:22",1282,1282,"Devin Cannady Turnover.",41,17,24,0.974420320725997,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+154,1,"1:22",1282,1282,"DaRon Curry Steal.",41,17,24,0.974420320725997,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+155,1,"1:19",1279,1279,"Rob DePersia Turnover.",41,17,24,0.972894022321441,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+156,1,"1:13",1273,1273,"Devin Cannady made Three Point Jumper. Assisted by Sebastian Much.",44,17,27,0.982536723513088,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+157,1,"0:58",1258,1258,"DaRon Curry missed Layup.",44,17,27,0.984448228651397,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+158,1,"0:58",1258,1258,"Ryan Schwieger Defensive Rebound.",44,17,27,0.984448228651397,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+159,1,"0:42",1242,1242,"Elijah Barnes Turnover.",44,17,27,0.985646808313686,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+160,1,"0:32",1232,1232,"Nick DePersia missed Layup.",44,17,27,0.987589462389762,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+161,1,"0:32",1232,1232,"Austin Kearney Offensive Rebound.",44,17,27,0.987589462389762,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+162,1,"0:30",1230,1230,"Austin Kearney made Two Point Tip Shot.",44,19,25,0.982954998730823,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+163,1,"0:14",1214,1214,"Ryan Schwieger Turnover.",44,19,25,0.984583384917558,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+164,1,"0:05",1205,1205,"Nick DePersia missed Jumper.",44,19,25,0.982548837968275,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+165,1,"0:05",1205,1205,"Noah Bramlage Defensive Rebound.",44,19,25,0.982548837968275,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+166,1,"0:00",1200,1200,"End of 1st half",44,19,25,0.982548837968275,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+167,2,"20:00",1200,1200,"PLAY",44,19,25,0.982548837968275,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+168,2,"19:51",1191,1191,"Foul on DaRon Curry.",44,19,25,0.982214081615635,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+169,2,"19:43",1183,1183,"Myles Stephens missed Three Point Jumper.",44,19,25,0.985005361037415,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+170,2,"19:43",1183,1183,"Richmond Aririguzoh Offensive Rebound.",44,19,25,0.985005361037415,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+171,2,"19:40",1180,1180,"Richmond Aririguzoh made Layup.",46,19,27,0.989186046067244,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+172,2,"19:40",1180,1180,"Foul on Ramon Wright.",46,19,27,0.989186046067244,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+173,2,"19:40",1180,1180,"Richmond Aririguzoh missed Free Throw.",46,19,27,0.989186046067244,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+174,2,"19:40",1180,1180,"Ramon Wright Defensive Rebound.",46,19,27,0.989186046067244,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+175,2,"19:29",1169,1169,"Tj Booth made Three Point Jumper. Assisted by Rob DePersia.",46,22,24,0.980608801463426,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+176,2,"19:10",1150,1150,"Sebastian Much Turnover.",46,22,24,0.9812534224134,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+177,2,"18:54",1134,1134,"Rob DePersia missed Layup.",46,22,24,0.981676028391222,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+178,2,"18:54",1134,1134,"Amir Bell Defensive Rebound.",46,22,24,0.981676028391222,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+179,2,"18:46",1126,1126,"Richmond Aririguzoh made Layup. Assisted by Amir Bell.",48,22,26,0.992403008661707,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+180,2,"18:32",1112,1112,"Tj Booth missed Layup.",48,22,26,0.989918920340314,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+181,2,"18:32",1112,1112,"Richmond Aririguzoh Block.",48,22,26,0.989918920340314,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+182,2,"18:31",1111,1111,"Amir Bell Defensive Rebound.",48,22,26,0.989918920340314,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+183,2,"18:25",1105,1105,"Sebastian Much Turnover.",48,22,26,0.986694941256221,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+184,2,"18:24",1104,1104,"Ramon Wright Steal.",48,22,26,0.986694941256221,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+185,2,"18:22",1102,1102,"Foul on Sebastian Much.",48,22,26,0.986694941256221,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+186,2,"18:22",1102,1102,"Tommy Smierciak Turnover.",48,22,26,0.986694941256221,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+187,2,"18:22",1102,1102,"Amir Bell Steal.",48,22,26,0.986694941256221,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+188,2,"18:20",1100,1100,"Amir Bell Turnover.",48,22,26,0.986694941256221,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+189,2,"18:19",1099,1099,"Rob DePersia Steal.",48,22,26,0.989505456275315,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+190,2,"18:13",1093,1093,"Tj Booth missed Jumper.",48,22,26,0.989505456275315,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+191,2,"18:13",1093,1093,"Rob DePersia Offensive Rebound.",48,22,26,0.989505456275315,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+192,2,"18:12",1092,1092,"Foul on Amir Bell.",48,22,26,0.989505456275315,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+193,2,"18:00",1080,1080,"DaRon Curry made Layup. Assisted by Tj Booth.",48,24,24,0.986348963716801,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+194,2,"17:45",1065,1065,"Foul on Tommy Smierciak.",48,24,24,0.986292453529659,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+195,2,"17:29",1049,1049,"Devin Cannady made Layup.",50,24,26,0.990811233308135,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+196,2,"17:20",1040,1040,"Ramon Wright made Three Point Jumper.",50,27,23,0.984556061104703,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+197,2,"16:54",1014,1014,"Myles Stephens missed Layup.",50,27,23,0.984613332366891,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+198,2,"16:54",1014,1014,"Tommy Smierciak Defensive Rebound.",50,27,23,0.984613332366891,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+199,2,"16:42",1002,1002,"Ramon Wright missed Jumper.",50,27,23,0.986356727135029,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+200,2,"16:42",1002,1002,"Myles Stephens Defensive Rebound.",50,27,23,0.986356727135029,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+201,2,"16:25",985,985,"Devin Cannady missed Three Point Jumper.",50,27,23,0.991248199655769,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+202,2,"16:25",985,985,"Richmond Aririguzoh Offensive Rebound.",50,27,23,0.991248199655769,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+203,2,"16:24",984,984,"Foul on Tommy Smierciak.",50,27,23,0.991248199655769,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+204,2,"16:10",970,970,"Foul on Tj Booth.",50,27,23,0.985680189570169,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+205,2,"16:10",970,970,"Jerome Desrosiers made Free Throw.",51,27,24,0.988008836464945,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+206,2,"16:10",970,970,"Jerome Desrosiers made Free Throw.",52,27,25,0.989962661554364,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+207,2,"16:01",961,961,"Austin Kearney missed Layup.",52,27,25,0.990744782170849,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+208,2,"16:01",961,961,"Austin Kearney Offensive Rebound.",52,27,25,0.990744782170849,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+209,2,"16:00",960,960,"Austin Kearney missed Layup.",52,27,25,0.990744782170849,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+210,2,"16:00",960,960,"Jerome Desrosiers Defensive Rebound.",52,27,25,0.990744782170849,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+211,2,"15:49",949,949,"Alec Brennan made Layup.",54,27,27,0.995055770384044,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+212,2,"15:35",935,935,"Tj Booth missed Three Point Jumper.",54,27,27,0.994631719008346,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+213,2,"15:35",935,935,"Devin Cannady Defensive Rebound.",54,27,27,0.994631719008346,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+214,2,"15:27",927,927,"Official TV Timeout",54,27,27,0.994446078350998,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+215,2,"15:18",918,918,"Alec Brennan made Layup.",56,27,29,0.99671554144017,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+216,2,"15:06",906,906,"Ramon Wright Turnover.",56,27,29,0.996331759126183,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+217,2,"15:05",905,905,"Jerome Desrosiers Steal.",56,27,29,0.996331759126183,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+218,2,"15:02",902,902,"Foul on Tj Booth.",56,27,29,0.996331759126183,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+219,2,"15:02",902,902,"Alec Brennan missed Free Throw.",56,27,29,0.996331759126183,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+220,2,"15:02",902,902,"Princeton Deadball Team Rebound.",56,27,29,0.996331759126183,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+221,2,"15:02",902,902,"Alec Brennan made Free Throw.",57,27,30,0.996968582250073,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+222,2,"14:35",875,875,"Tj Booth missed Layup.",57,27,30,0.997135566747263,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+223,2,"14:35",875,875,"Rowan University Offensive Rebound.",57,27,30,0.997135566747263,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+224,2,"14:31",871,871,"Nick DePersia missed Three Point Jumper.",57,27,30,0.997135566747263,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+225,2,"14:31",871,871,"Mike LeBlanc Defensive Rebound.",57,27,30,0.997135566747263,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+226,2,"14:12",852,852,"Jerome Desrosiers missed Three Point Jumper.",57,27,30,0.998124118781181,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+227,2,"14:12",852,852,"Austin Kearney Defensive Rebound.",57,27,30,0.998124118781181,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+228,2,"14:04",844,844,"Nick DePersia Turnover.",57,27,30,0.99837562455786,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+229,2,"14:04",844,844,"Aaron Young Steal.",57,27,30,0.99837562455786,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+230,2,"14:04",844,844,"Aaron Young Turnover.",57,27,30,0.99837562455786,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+231,2,"13:54",834,834,"Foul on Mike LeBlanc.",57,27,30,0.998032689020927,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+232,2,"13:54",834,834,"Tj Booth made Layup.",57,29,28,0.997031173428935,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+233,2,"13:25",805,805,"Foul on Tj Booth.",57,29,28,0.997004008912268,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+234,2,"13:25",805,805,"Jerome Desrosiers missed Free Throw.",57,29,28,0.997004008912268,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+235,2,"13:25",805,805,"Sebastian Much Offensive Rebound.",57,29,28,0.997004008912268,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+236,2,"13:22",802,802,"Foul on Ryan Legler.",57,29,28,0.997004008912268,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+237,2,"13:22",802,802,"Ryan Schwieger made Free Throw.",58,29,29,0.997553714028656,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+238,2,"13:22",802,802,"Ryan Schwieger made Free Throw.",59,29,30,0.998002761173937,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+239,2,"13:10",790,790,"Nick DePersia missed Jumper.",59,29,30,0.998670542291298,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+240,2,"13:10",790,790,"Jerome Desrosiers Defensive Rebound.",59,29,30,0.998670542291298,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+241,2,"12:57",777,777,"Noah Bramlage made Layup.",61,29,32,0.998869568025931,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+242,2,"12:40",760,760,"Walter Harvey missed Three Point Jumper.",61,29,32,0.999117699625396,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+243,2,"12:40",760,760,"Sebastian Much Defensive Rebound.",61,29,32,0.999117699625396,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+244,2,"12:39",759,759,"Foul on Manny Lowe.",61,29,32,0.999081991024205,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+245,2,"12:39",759,759,"Sebastian Much missed Free Throw.",61,29,32,0.999081991024205,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+246,2,"12:39",759,759,"Jerome Desrosiers Offensive Rebound.",61,29,32,0.999081991024205,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+247,2,"12:23",743,743,"Jerome Desrosiers made Layup. Assisted by Noah Bramlage.",63,29,34,0.99949476048998,"Princeton","Rowan University",4,4,0,0,NA,400991674,2018-01-28
+248,2,"12:15",735,735,"Rowan University  Timeout",63,29,34,0.999344079881589,"Princeton","Rowan University",4,3,0,1,NA,400991674,2018-01-28
+249,2,"12:15",735,735,"Official TV Timeout",63,29,34,0.999344079881589,"Princeton","Rowan University",4,3,0,1,NA,400991674,2018-01-28
+250,2,"12:10",730,730,"Ryan Legler Turnover.",63,29,34,0.999344079881589,"Princeton","Rowan University",4,3,0,1,NA,400991674,2018-01-28
+251,2,"11:59",719,719,"Noah Bramlage Turnover.",63,29,34,0.999386187664517,"Princeton","Rowan University",4,3,0,1,NA,400991674,2018-01-28
+252,2,"11:59",719,719,"Official TV Timeout",63,29,34,0.999386187664517,"Princeton","Rowan University",4,3,0,1,NA,400991674,2018-01-28
+253,2,"11:39",699,699,"Nick DePersia Turnover.",63,29,34,0.999705236362789,"Princeton","Rowan University",4,3,0,1,NA,400991674,2018-01-28
+254,2,"11:29",689,689,"Jerome Desrosiers made Layup.",65,29,36,0.999686616359063,"Princeton","Rowan University",4,3,0,1,NA,400991674,2018-01-28
+255,2,"11:02",662,662,"Foul on Aaron Young.",65,29,36,0.999748189948543,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+256,2,"10:59",659,659,"Rob DePersia missed Three Point Jumper.",65,29,36,0.999830850002445,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+257,2,"10:59",659,659,"Aaron Young Defensive Rebound.",65,29,36,0.999830850002445,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+258,2,"10:56",656,656,"Foul on Ryan Legler.",65,29,36,0.999830850002445,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+259,2,"10:56",656,656,"Aaron Young made Free Throw.",66,29,37,0.99986665916745,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+260,2,"10:56",656,656,"Aaron Young made Free Throw.",67,29,38,0.999894888305794,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+261,2,"10:45",645,645,"Foul on Manny Lowe.",67,29,38,0.99989920277197,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+262,2,"10:45",645,645,"Manny Lowe Turnover.",67,29,38,0.99989920277197,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+263,2,"10:29",629,629,"Foul on Nick DePersia.",67,29,38,0.999932365130073,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+264,2,"10:29",629,629,"Vittorio Reynoso-Avila made Free Throw.",68,29,39,0.999947401338777,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+265,2,"10:29",629,629,"Vittorio Reynoso-Avila made Free Throw.",69,29,40,0.999959094917804,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+266,2,"10:19",619,619,"Foul on Elijah Barnes.",69,29,40,0.999956584163936,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+267,2,"10:12",612,612,"Ramon Wright made Layup. Assisted by Walter Harvey.",69,31,38,0.999928292590181,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+268,2,"10:12",612,612,"Foul on Charlie Bagin.",69,31,38,0.999928292590181,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+269,2,"10:12",612,612,"Ramon Wright made Free Throw.",69,32,37,0.999907844930388,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+270,2,"9:50",590,590,"Vittorio Reynoso-Avila made Layup.",71,32,39,0.999918354611165,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+271,2,"9:41",581,581,"Foul on Ryan Schwieger.",71,32,39,0.999924061844939,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+272,2,"9:41",581,581,"Nick DePersia missed Free Throw.",71,32,39,0.999924061844939,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+273,2,"9:41",581,581,"Richmond Aririguzoh Defensive Rebound.",71,32,39,0.999924061844939,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+274,2,"9:38",578,578,"Richmond Aririguzoh missed Layup.",71,32,39,0.999956716941964,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+275,2,"9:38",578,578,"Walter Harvey Defensive Rebound.",71,32,39,0.999956716941964,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+276,2,"9:36",576,576,"Ramon Wright made Layup.",71,34,37,0.999928177415789,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+277,2,"9:27",567,567,"Vittorio Reynoso-Avila missed Layup.",71,34,37,0.999934941728213,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+278,2,"9:27",567,567,"Vittorio Reynoso-Avila Offensive Rebound.",71,34,37,0.999934941728213,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+279,2,"9:04",544,544,"Ryan Schwieger missed Layup.",71,34,37,0.999950345068051,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+280,2,"9:04",544,544,"Richmond Aririguzoh Offensive Rebound.",71,34,37,0.999950345068051,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+281,2,"9:00",540,540,"Richmond Aririguzoh made Layup.",73,34,39,0.999970948042582,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+282,2,"8:44",524,524,"Brian Thatcher missed Three Point Jumper.",73,34,39,0.999978524550771,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+283,2,"8:44",524,524,"Richmond Aririguzoh Defensive Rebound.",73,34,39,0.999978524550771,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+284,2,"8:33",513,513,"Ryan Schwieger Turnover.",73,34,39,0.99997531768157,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+285,2,"8:32",512,512,"Rob DePersia Steal.",73,34,39,0.99997531768157,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+286,2,"8:26",506,506,"Ramon Wright made Layup. Assisted by Nick DePersia.",73,36,37,0.999962017038687,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+287,2,"8:06",486,486,"Vittorio Reynoso-Avila Turnover.",73,36,37,0.999962234696557,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+288,2,"8:06",486,486,"Walter Harvey Steal.",73,36,37,0.999962234696557,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+289,2,"8:04",484,484,"Ramon Wright Turnover.",73,36,37,0.999962234696557,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+290,2,"8:02",482,482,"Charlie Bagin Steal.",73,36,37,0.999962234696557,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+291,2,"8:01",481,481,"Charlie Bagin missed Layup.",73,36,37,0.999962234696557,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+292,2,"8:01",481,481,"Ramon Wright Block.",73,36,37,0.999962234696557,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+293,2,"8:01",481,481,"DaRon Curry Defensive Rebound.",73,36,37,0.999962234696557,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+294,2,"7:50",470,470,"Foul on Richmond Aririguzoh.",73,36,37,0.99997994313833,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+295,2,"7:50",470,470,"Official TV Timeout",73,36,37,0.99997994313833,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+296,2,"7:50",470,470,"Walter Harvey made Free Throw.",73,37,36,0.999973167523438,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+297,2,"7:50",470,470,"Walter Harvey made Free Throw.",73,38,35,0.999964103050504,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+298,2,"7:50",470,470,"Vittorio Reynoso-Avila missed Layup.",73,38,35,0.999964103050504,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+299,2,"7:50",470,470,"Richmond Aririguzoh Offensive Rebound.",73,38,35,0.999964103050504,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+300,2,"7:19",439,439,"Princeton  Turnover.",73,38,35,0.999981002771169,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+301,2,"7:11",431,431,"Foul on Vittorio Reynoso-Avila.",73,38,35,0.999981002771169,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+302,2,"7:11",431,431,"Austin Kearney made Free Throw.",73,39,34,0.999974160685675,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+303,2,"7:11",431,431,"Austin Kearney made Free Throw.",73,40,33,0.999964854425591,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+304,2,"7:00",420,420,"Richmond Aririguzoh missed Dunk.",73,40,33,0.999945576581761,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+305,2,"7:00",420,420,"Princeton Offensive Rebound.",73,40,33,0.999945576581761,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+306,2,"6:58",418,418,"Richmond Aririguzoh Turnover.",73,40,33,0.999953612408116,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+307,2,"6:46",406,406,"DaRon Curry Turnover.",73,40,33,0.999981441899143,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+308,2,"6:41",401,401,"Ryan Schwieger Steal.",73,40,33,0.999981441899143,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+309,2,"6:31",391,391,"Foul on DaRon Curry.",73,40,33,0.999970194374376,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+310,2,"6:31",391,391,"Noah Bramlage missed Free Throw.",73,40,33,0.999970194374376,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+311,2,"6:31",391,391,"Princeton Deadball Team Rebound.",73,40,33,0.999970194374376,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+312,2,"6:31",391,391,"Noah Bramlage made Free Throw.",74,40,34,0.999978185722065,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+313,2,"6:21",381,381,"Austin Kearney made Layup. Assisted by Nick Battle.",74,42,32,0.999930598545899,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+314,2,"6:01",361,361,"Elijah Barnes Turnover.",74,42,32,0.999969557740423,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+315,2,"5:52",352,352,"DaRon Curry made Layup.",74,44,30,0.999958774099722,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+316,2,"5:24",324,324,"Vittorio Reynoso-Avila missed Layup.",74,44,30,0.999917426227768,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+317,2,"5:24",324,324,"Austin Kearney Defensive Rebound.",74,44,30,0.999917426227768,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+318,2,"5:13",313,313,"Nick Battle missed Three Point Jumper.",74,44,30,0.999984715551365,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+319,2,"5:13",313,313,"Ryan Schwieger Defensive Rebound.",74,44,30,0.999984715551365,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+320,2,"5:03",303,303,"Elijah Barnes missed Three Point Jumper.",74,44,30,0.999964271078638,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+321,2,"5:03",303,303,"Ramon Wright Defensive Rebound.",74,44,30,0.999964271078638,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+322,2,"4:56",296,296,"Nick Battle missed Three Point Jumper.",74,44,30,0.999966527707811,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+323,2,"4:56",296,296,"Vittorio Reynoso-Avila Defensive Rebound.",74,44,30,0.999966527707811,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+324,2,"4:27",267,267,"Foul on Jordan Sintras.",74,44,30,0.999987245954107,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+325,2,"4:27",267,267,"Elijah Barnes made Free Throw.",75,44,31,0.999991218916573,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+326,2,"4:27",267,267,"Elijah Barnes missed Free Throw.",75,44,31,0.999991218916573,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+327,2,"4:27",267,267,"Tommy Smierciak Defensive Rebound.",75,44,31,0.999991218916573,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+328,2,"4:20",260,260,"Ryan Legler Turnover.",75,44,31,0.999991218916573,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+329,2,"4:20",260,260,"Charlie Bagin Steal.",75,44,31,0.999991218916573,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+330,2,"4:20",260,260,"Foul on Ryan Legler.",75,44,31,0.999991218916573,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+331,2,"4:20",260,260,"Charlie Bagin made Free Throw.",76,44,32,0.999993954284674,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+332,2,"4:20",260,260,"Charlie Bagin made Free Throw.",77,44,33,0.999995837570276,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+333,2,"4:12",252,252,"Jordan Sintras made Three Point Jumper. Assisted by Ryan Legler.",77,47,30,0.999997124437958,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+334,2,"3:52",232,232,"Charlie Bagin missed Three Point Jumper.",77,47,30,0.999995352271442,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+335,2,"3:52",232,232,"Nick Battle Defensive Rebound.",77,47,30,0.999995352271442,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+336,2,"3:42",222,222,"Foul on Elijah Barnes.",77,47,30,0.999997223367597,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+337,2,"3:42",222,222,"Official TV Timeout",77,47,30,0.999997223367597,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+338,2,"3:42",222,222,"Walter Harvey missed Free Throw.",77,47,30,0.999997223367597,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+339,2,"3:42",222,222,"Rowan University Deadball Team Rebound.",77,47,30,0.999997223367597,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+340,2,"3:42",222,222,"Walter Harvey missed Free Throw.",77,47,30,0.999997223367597,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+341,2,"3:42",222,222,"Elijah Barnes Defensive Rebound.",77,47,30,0.999997223367597,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+342,2,"3:28",208,208,"Elijah Barnes made Layup.",79,47,32,0.999999532035542,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+343,2,"2:55",175,175,"Jordan Sintras missed Three Point Jumper.",79,47,32,0.999999874850897,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+344,2,"2:55",175,175,"Rowan University Deadball Team Rebound.",79,47,32,0.999999874850897,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+345,2,"2:54",174,174,"Rowan University  Turnover.",79,47,32,0.999999874850897,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+346,2,"2:44",164,164,"Elijah Barnes missed Layup.",79,47,32,0.999999934552082,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+347,2,"2:44",164,164,"Rowan University Defensive Rebound.",79,47,32,0.999999934552082,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+348,2,"2:44",164,164,"Nick Battle missed Three Point Jumper.",79,47,32,0.999999934552082,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+349,2,"2:44",164,164,"Elijah Barnes Defensive Rebound.",79,47,32,0.999999934552082,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+350,2,"2:44",164,164,"Ryan Schwieger made Layup. Assisted by Noah Bramlage.",81,47,34,0.999999976578767,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+351,2,"2:44",164,164,"Brian Thatcher missed Three Point Jumper.",81,47,34,0.999999976578767,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+352,2,"2:44",164,164,"Noah Bramlage Defensive Rebound.",81,47,34,0.999999976578767,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+353,2,"2:44",164,164,"Elias Berbari made Three Point Jumper. Assisted by Noah Bramlage.",84,47,37,0.999999994986043,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+354,2,"1:21",81,81,"Nick Battle made Three Point Jumper.",84,50,34,0.999999999977933,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+355,2,"0:58",58,58,"Elias Berbari missed Three Point Jumper.",84,50,34,0.999999999999892,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+356,2,"0:58",58,58,"Elijah Barnes Offensive Rebound.",84,50,34,0.999999999999892,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+357,2,"0:41",41,41,"Ryan Schwieger made Layup. Assisted by Charlie Bagin.",86,50,36,1,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+358,2,"0:27",27,27,"Jake Petrik missed Jumper.",86,50,36,1,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+359,2,"0:27",27,27,"Noah Bramlage Defensive Rebound.",86,50,36,1,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+360,2,"0:00",0,0,"Princeton  Turnover.",86,50,36,1,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28
+361,2,"0:00",0,0,"End of Game",86,50,36,1,"Princeton","Rowan University",4,3,0,0,NA,400991674,2018-01-28

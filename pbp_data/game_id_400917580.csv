@@ -1,0 +1,396 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.453134151146085,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+2,1,"20:00",2400,2400,"Jump Ball won by Manhattan",0,0,0,0.453134151146085,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+3,1,"19:49",2389,2389,"Zane Waterman missed Three Point Jumper.",0,0,0,0.456072304486657,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+4,1,"19:49",2389,2389,"Zavier Peart Offensive Rebound.",0,0,0,0.456072304486657,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+5,1,"19:49",2389,2389,"Zavier Peart Turnover.",0,0,0,0.456072304486657,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+6,1,"19:49",2389,2389,"Norville Carey Steal.",0,0,0,0.456072304486657,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+7,1,"19:38",2378,2378,"Zavier Turner missed Three Point Jumper.",0,0,0,0.470947828458052,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+8,1,"19:38",2378,2378,"Jimmie Taylor Defensive Rebound.",0,0,0,0.470947828458052,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+9,1,"19:11",2351,2351,"Kahlil Thomas made Jumper.",0,2,-2,0.432313739317091,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+10,1,"18:47",2327,2327,"Jimmie Taylor made Jumper. Assisted by Stevie Jordan.",0,4,-4,0.373933978337794,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+11,1,"18:20",2300,2300,"Samson Usilo missed Jumper.",0,4,-4,0.361605606792945,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+12,1,"18:20",2300,2300,"Xavier Lundy Block.",0,4,-4,0.361605606792945,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+13,1,"18:20",2300,2300,"Stevie Jordan Defensive Rebound.",0,4,-4,0.361605606792945,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+14,1,"18:08",2288,2288,"Norville Carey missed Jumper.",0,4,-4,0.356075306843999,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+15,1,"18:08",2288,2288,"Kahlil Thomas Offensive Rebound.",0,4,-4,0.356075306843999,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+16,1,"18:00",2280,2280,"Kahlil Thomas made Jumper.",0,6,-6,0.309572166976564,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+17,1,"18:00",2280,2280,"Foul on Samson Usilo.",0,6,-6,0.309572166976564,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+18,1,"18:00",2280,2280,"Kahlil Thomas missed Free Throw.",0,6,-6,0.309572166976564,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+19,1,"18:00",2280,2280,"Manhattan Defensive Rebound.",0,6,-6,0.309572166976564,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+20,1,"17:53",2273,2273,"Zavier Turner made Layup.",2,6,-4,0.368192044615812,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+21,1,"17:35",2255,2255,"Xavier Lundy missed Three Point Jumper.",2,6,-4,0.376936824434605,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+22,1,"17:35",2255,2255,"Samson Usilo Defensive Rebound.",2,6,-4,0.376936824434605,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+23,1,"17:18",2238,2238,"Zavier Turner missed Jumper.",2,6,-4,0.35769204043082,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+24,1,"17:18",2238,2238,"Norville Carey Defensive Rebound.",2,6,-4,0.35769204043082,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+25,1,"16:57",2217,2217,"Kahlil Thomas missed Jumper.",2,6,-4,0.351621027172919,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+26,1,"16:57",2217,2217,"Ahmed Ismail Defensive Rebound.",2,6,-4,0.351621027172919,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+27,1,"16:54",2214,2214,"Zavier Turner Turnover.",2,6,-4,0.351621027172919,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+28,1,"16:41",2201,2201,"Foul on Stevie Jordan.",2,6,-4,0.359307185790588,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+29,1,"16:41",2201,2201,"Stevie Jordan Turnover.",2,6,-4,0.359307185790588,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+30,1,"16:25",2185,2185,"Foul on Norville Carey.",2,6,-4,0.361863943375494,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+31,1,"16:25",2185,2185,"Ahmed Ismail made Free Throw.",3,6,-3,0.387281464429927,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+32,1,"16:25",2185,2185,"Ahmed Ismail made Free Throw.",4,6,-2,0.413327940773833,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+33,1,"16:10",2170,2170,"Jimmie Taylor made Three Point Jumper. Assisted by Xavier Lundy.",4,9,-5,0.330174113733488,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+34,1,"15:44",2144,2144,"Calvin Crawford made Layup. Assisted by Ahmed Ismail.",6,9,-3,0.397427870614204,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+35,1,"15:36",2136,2136,"Foul on Na'Quan Council.",6,9,-3,0.37284827130145,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+36,1,"15:36",2136,2136,"Official TV Timeout",6,9,-3,0.37284827130145,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+37,1,"15:25",2125,2125,"Norville Carey missed Layup.",6,9,-3,0.373817095455426,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+38,1,"15:25",2125,2125,"Ahmed Ismail Defensive Rebound.",6,9,-3,0.373817095455426,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+39,1,"14:54",2094,2094,"Ahmed Ismail missed Jumper.",6,9,-3,0.373310790321076,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+40,1,"14:54",2094,2094,"Stevie Jordan Defensive Rebound.",6,9,-3,0.373310790321076,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+41,1,"14:41",2081,2081,"Norville Carey missed Layup.",6,9,-3,0.392945542436238,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+42,1,"14:41",2081,2081,"Kahlil Thomas Offensive Rebound.",6,9,-3,0.392945542436238,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+43,1,"14:28",2068,2068,"Kahlil Thomas missed Jumper.",6,9,-3,0.366736685706404,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+44,1,"14:28",2068,2068,"Ahmed Ismail Defensive Rebound.",6,9,-3,0.366736685706404,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+45,1,"14:23",2063,2063,"Zane Waterman missed Three Point Jumper.",6,9,-3,0.366736685706404,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+46,1,"14:23",2063,2063,"Stevie Jordan Defensive Rebound.",6,9,-3,0.366736685706404,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+47,1,"14:14",2054,2054,"Kahlil Thomas made Jumper.",6,11,-5,0.310898683088837,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+48,1,"13:56",2036,2036,"Tyler Wilson Turnover.",6,11,-5,0.335431369048977,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+49,1,"13:56",2036,2036,"Xavier Lundy Steal.",6,11,-5,0.335431369048977,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+50,1,"13:52",2032,2032,"Stevie Jordan made Jumper.",6,13,-7,0.28783324503047,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+51,1,"13:26",2006,2006,"Zavier Turner missed Layup.",6,13,-7,0.281546743202679,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+52,1,"13:26",2006,2006,"Jimmie Taylor Block.",6,13,-7,0.281546743202679,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+53,1,"13:26",2006,2006,"Jimmie Taylor Defensive Rebound.",6,13,-7,0.281546743202679,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+54,1,"13:11",1991,1991,"Jimmie Taylor missed Three Point Jumper.",6,13,-7,0.256981031023898,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+55,1,"13:11",1991,1991,"Ahmed Ismail Defensive Rebound.",6,13,-7,0.256981031023898,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+56,1,"13:05",1985,1985,"Zane Waterman made Layup.",8,13,-5,0.31011307292506,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+57,1,"12:55",1975,1975,"Norville Carey missed Layup.",8,13,-5,0.312267883597065,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+58,1,"12:55",1975,1975,"Ahmed Ismail Block.",8,13,-5,0.312267883597065,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+59,1,"12:55",1975,1975,"Rider Offensive Rebound.",8,13,-5,0.312267883597065,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+60,1,"12:44",1964,1964,"Stevie Jordan missed Three Point Jumper.",8,13,-5,0.335027432556971,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+61,1,"12:44",1964,1964,"Zavier Peart Defensive Rebound.",8,13,-5,0.335027432556971,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+62,1,"12:33",1953,1953,"Samson Usilo missed Layup.",8,13,-5,0.326904397923887,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+63,1,"12:33",1953,1953,"Xavier Lundy Defensive Rebound.",8,13,-5,0.326904397923887,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+64,1,"12:25",1945,1945,"Jimmie Taylor missed Jumper.",8,13,-5,0.313371551786159,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+65,1,"12:25",1945,1945,"Zavier Peart Defensive Rebound.",8,13,-5,0.313371551786159,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+66,1,"12:22",1942,1942,"Foul on Tyere Marshall.",8,13,-5,0.313371551786159,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+67,1,"12:12",1932,1932,"Aaron Walker Jr. missed Jumper.",8,13,-5,0.304465986036886,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+68,1,"12:12",1932,1932,"Zavier Peart Offensive Rebound.",8,13,-5,0.304465986036886,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+69,1,"12:12",1932,1932,"Zavier Peart made Two Point Tip Shot.",10,13,-3,0.361749470892364,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+70,1,"11:57",1917,1917,"Foul on Thomas Capuano.",10,13,-3,0.388749643084504,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+71,1,"11:57",1917,1917,"Official TV Timeout",10,13,-3,0.388749643084504,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+72,1,"11:36",1896,1896,"Kealen Washington-Ives made Jumper.",10,15,-5,0.316191858643584,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+73,1,"11:25",1885,1885,"Aaron Walker Jr. Turnover.",10,15,-5,0.308631749839763,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+74,1,"11:25",1885,1885,"Tyere Marshall Steal.",10,15,-5,0.308631749839763,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+75,1,"11:18",1878,1878,"Foul on Thomas Capuano.",10,15,-5,0.315815054461334,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+76,1,"11:11",1871,1871,"Foul on Samson Usilo.",10,15,-5,0.315815054461334,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+77,1,"10:56",1856,1856,"Kahlil Thomas missed Jumper.",10,15,-5,0.321587985282105,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+78,1,"10:56",1856,1856,"Tyler Wilson Defensive Rebound.",10,15,-5,0.321587985282105,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+79,1,"10:50",1850,1850,"Calvin Crawford missed Three Point Jumper.",10,15,-5,0.321587985282105,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+80,1,"10:50",1850,1850,"Zavier Turner Offensive Rebound.",10,15,-5,0.321587985282105,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+81,1,"10:30",1830,1830,"Calvin Crawford missed Three Point Jumper.",10,15,-5,0.321729328880056,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+82,1,"10:30",1830,1830,"Kealen Washington-Ives Defensive Rebound.",10,15,-5,0.321729328880056,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+83,1,"10:14",1814,1814,"Kahlil Thomas made Jumper.",10,17,-7,0.250924542334737,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+84,1,"9:59",1799,1799,"Foul on Kealen Washington-Ives.",10,17,-7,0.254812878532661,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+85,1,"9:39",1779,1779,"Zane Waterman made Dunk. Assisted by Ahmed Ismail.",12,17,-5,0.30709369253398,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+86,1,"9:17",1757,1757,"Tyere Marshall missed Jumper.",12,17,-5,0.273981280439919,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+87,1,"9:17",1757,1757,"Kahlil Thomas Offensive Rebound.",12,17,-5,0.273981280439919,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+88,1,"9:10",1750,1750,"Kahlil Thomas missed Jumper.",12,17,-5,0.273981280439919,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+89,1,"9:10",1750,1750,"Rider Offensive Rebound.",12,17,-5,0.273981280439919,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+90,1,"9:04",1744,1744,"Stevie Jordan Turnover.",12,17,-5,0.332563338653388,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+91,1,"8:58",1738,1738,"Foul on Tyere Marshall.",12,17,-5,0.304871673422723,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+92,1,"8:54",1734,1734,"Zavier Turner made Three Point Jumper. Assisted by Tyler Wilson.",15,17,-2,0.398022259316703,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+93,1,"8:44",1724,1724,"Kealen Washington-Ives Turnover.",15,17,-2,0.42008429082173,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+94,1,"8:44",1724,1724,"Calvin Crawford Steal.",15,17,-2,0.42008429082173,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+95,1,"8:34",1714,1714,"Zavier Turner missed Three Point Jumper.",15,17,-2,0.399101282663114,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+96,1,"8:34",1714,1714,"Kealen Washington-Ives Defensive Rebound.",15,17,-2,0.399101282663114,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+97,1,"8:26",1706,1706,"Kealen Washington-Ives missed Jumper.",15,17,-2,0.392315348871841,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+98,1,"8:26",1706,1706,"Tyere Marshall Offensive Rebound.",15,17,-2,0.392315348871841,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+99,1,"8:26",1706,1706,"Foul on Zane Waterman.",15,17,-2,0.392315348871841,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+100,1,"8:12",1692,1692,"Xavier Lundy missed Jumper.",15,17,-2,0.409240586429147,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+101,1,"8:12",1692,1692,"Ahmed Ismail Defensive Rebound.",15,17,-2,0.409240586429147,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+102,1,"7:43",1663,1663,"Tyler Wilson Turnover.",15,17,-2,0.401673299572589,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+103,1,"7:43",1663,1663,"Official TV Timeout",15,17,-2,0.401673299572589,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+104,1,"7:34",1654,1654,"Norville Carey Turnover.",15,17,-2,0.410908556783981,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+105,1,"7:34",1654,1654,"Zavier Turner Steal.",15,17,-2,0.410908556783981,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+106,1,"7:22",1642,1642,"Ahmed Ismail Turnover.",15,17,-2,0.405680188847942,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+107,1,"7:19",1639,1639,"Kahlil Thomas Turnover.",15,17,-2,0.41602854523487,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+108,1,"7:19",1639,1639,"Tyler Wilson Steal.",15,17,-2,0.41602854523487,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+109,1,"7:02",1622,1622,"Aaron Walker Jr. missed Jumper.",15,17,-2,0.390875431061112,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+110,1,"7:02",1622,1622,"Jimmie Taylor Defensive Rebound.",15,17,-2,0.390875431061112,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+111,1,"6:52",1612,1612,"Norville Carey Turnover.",15,17,-2,0.38511854962865,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+112,1,"6:52",1612,1612,"Ahmed Ismail Steal.",15,17,-2,0.38511854962865,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+113,1,"6:46",1606,1606,"Calvin Crawford missed Jumper.",15,17,-2,0.391744647945069,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+114,1,"6:46",1606,1606,"Jimmie Taylor Defensive Rebound.",15,17,-2,0.391744647945069,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+115,1,"6:40",1600,1600,"Kahlil Thomas missed Layup.",15,17,-2,0.391744647945069,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+116,1,"6:40",1600,1600,"Norville Carey Offensive Rebound.",15,17,-2,0.391744647945069,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+117,1,"6:28",1588,1588,"Norville Carey made Dunk.",15,19,-4,0.323219373543781,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+118,1,"6:24",1584,1584,"Aaron Walker Jr. missed Three Point Jumper.",15,19,-4,0.323219373543781,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+119,1,"6:24",1584,1584,"Jimmie Taylor Defensive Rebound.",15,19,-4,0.323219373543781,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+120,1,"6:04",1564,1564,"Norville Carey made Layup. Assisted by Stevie Jordan.",15,21,-6,0.261350872992962,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+121,1,"6:04",1564,1564,"Foul on Ahmed Ismail.",15,21,-6,0.261350872992962,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+122,1,"6:04",1564,1564,"Norville Carey made Free Throw.",15,22,-7,0.234815771028429,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+123,1,"5:52",1552,1552,"Zavier Turner Turnover.",15,22,-7,0.238469001885518,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+124,1,"5:52",1552,1552,"Kahlil Thomas Steal.",15,22,-7,0.238469001885518,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+125,1,"5:46",1546,1546,"Stevie Jordan made Layup. Assisted by Jimmie Taylor.",15,24,-9,0.202014849394171,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+126,1,"5:44",1544,1544,"Manhattan  Timeout",15,24,-9,0.202014849394171,"Manhattan","Rider",3,4,1,0,-1,400917580,2017-01-13
+127,1,"5:27",1527,1527,"Zane Waterman missed Layup.",15,24,-9,0.197998986609756,"Manhattan","Rider",3,4,1,0,-1,400917580,2017-01-13
+128,1,"5:27",1527,1527,"Samson Usilo Offensive Rebound.",15,24,-9,0.197998986609756,"Manhattan","Rider",3,4,1,0,-1,400917580,2017-01-13
+129,1,"5:22",1522,1522,"Samson Usilo made Layup.",17,24,-7,0.247067158334083,"Manhattan","Rider",3,4,1,0,-1,400917580,2017-01-13
+130,1,"5:16",1516,1516,"Xavier Lundy Turnover.",17,24,-7,0.24617944003261,"Manhattan","Rider",3,4,1,0,-1,400917580,2017-01-13
+131,1,"5:01",1501,1501,"Samson Usilo made Jumper.",19,24,-5,0.300722898028405,"Manhattan","Rider",3,4,1,0,-1,400917580,2017-01-13
+132,1,"4:40",1480,1480,"Kahlil Thomas made Jumper. Assisted by Kealen Washington-Ives.",19,26,-7,0.22812414741478,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+133,1,"4:10",1450,1450,"Tyler Wilson Turnover.",19,26,-7,0.229457968595273,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+134,1,"4:10",1450,1450,"Stevie Jordan Steal.",19,26,-7,0.229457968595273,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+135,1,"3:59",1439,1439,"Stevie Jordan made Layup. Assisted by Jimmie Taylor.",19,28,-9,0.198200741744842,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+136,1,"3:59",1439,1439,"Class A Unsporting Technical Foul on Stevie Jordan.",19,28,-9,0.198200741744842,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+137,1,"3:59",1439,1439,"Official TV Timeout",19,28,-9,0.198200741744842,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+138,1,"3:59",1439,1439,"Zavier Turner made Free Throw.",20,28,-8,0.222964666550444,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+139,1,"3:59",1439,1439,"Zavier Turner made Free Throw.",21,28,-7,0.249858497642555,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+140,1,"3:50",1430,1430,"Zane Waterman made Three Point Jumper. Assisted by Tyler Wilson.",24,28,-4,0.342527518458379,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+141,1,"3:47",1427,1427,"Class A Unsporting Technical Foul on Rider (Kevin Baggett).",24,28,-4,0.326830309964201,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+142,1,"3:47",1427,1427,"Zavier Turner made Free Throw.",25,28,-3,0.35943588697962,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+143,1,"3:47",1427,1427,"Zavier Turner made Free Throw.",26,28,-2,0.393393374206141,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+144,1,"3:24",1404,1404,"Foul on Ahmed Ismail.",26,28,-2,0.407600281691584,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+145,1,"3:24",1404,1404,"Kahlil Thomas made Free Throw.",26,29,-3,0.370775442345958,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+146,1,"3:24",1404,1404,"Kahlil Thomas missed Free Throw.",26,29,-3,0.370775442345958,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+147,1,"3:24",1404,1404,"Samson Usilo Defensive Rebound.",26,29,-3,0.370775442345958,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+148,1,"2:57",1377,1377,"Tyler Wilson missed Three Point Jumper.",26,29,-3,0.350980003469235,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+149,1,"2:57",1377,1377,"Zane Waterman Offensive Rebound.",26,29,-3,0.350980003469235,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+150,1,"2:25",1345,1345,"Ahmed Ismail missed Jumper.",26,29,-3,0.354727389364684,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+151,1,"2:25",1345,1345,"Zane Waterman Offensive Rebound.",26,29,-3,0.354727389364684,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+152,1,"2:25",1345,1345,"Foul on Xavier Lundy.",26,29,-3,0.354727389364684,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+153,1,"2:25",1345,1345,"Zane Waterman made Free Throw.",27,29,-2,0.391648914490086,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+154,1,"2:25",1345,1345,"Zane Waterman made Free Throw.",28,29,-1,0.429853377958376,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+155,1,"2:14",1334,1334,"Foul on Zavier Turner.",28,29,-1,0.420683456092387,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+156,1,"2:14",1334,1334,"Jimmie Taylor missed Free Throw.",28,29,-1,0.420683456092387,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+157,1,"2:14",1334,1334,"Rider Deadball Team Rebound.",28,29,-1,0.420683456092387,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+158,1,"2:14",1334,1334,"Jimmie Taylor missed Free Throw.",28,29,-1,0.420683456092387,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+159,1,"2:14",1334,1334,"Samson Usilo Defensive Rebound.",28,29,-1,0.420683456092387,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+160,1,"2:02",1322,1322,"Foul on Kahlil Thomas.",28,29,-1,0.431194455439852,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+161,1,"2:02",1322,1322,"Zavier Turner made Free Throw.",29,29,0,0.470191836781704,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+162,1,"2:02",1322,1322,"Zavier Turner made Free Throw.",30,29,1,0.509556597303038,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+163,1,"1:37",1297,1297,"Foul on Zavier Peart.",30,29,1,0.544153253697025,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+164,1,"1:37",1297,1297,"Kahlil Thomas missed Free Throw.",30,29,1,0.544153253697025,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+165,1,"1:37",1297,1297,"Rider Deadball Team Rebound.",30,29,1,0.544153253697025,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+166,1,"1:37",1297,1297,"Kahlil Thomas made Free Throw.",30,30,0,0.502410671745145,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+167,1,"1:34",1294,1294,"Foul on Kealen Washington-Ives.",30,30,0,0.502410671745145,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+168,1,"1:34",1294,1294,"Aaron Walker Jr. made Free Throw.",31,30,1,0.544153253697025,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+169,1,"1:34",1294,1294,"Aaron Walker Jr. made Free Throw.",32,30,2,0.585284605302225,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+170,1,"1:18",1278,1278,"Jimmie Taylor missed Three Point Jumper.",32,30,2,0.528827572868684,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+171,1,"1:18",1278,1278,"Xavier Lundy Offensive Rebound.",32,30,2,0.528827572868684,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+172,1,"1:10",1270,1270,"Kahlil Thomas Turnover.",32,30,2,0.528827572868684,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+173,1,"0:52",1252,1252,"Calvin Crawford missed Three Point Jumper.",32,30,2,0.551164219723259,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+174,1,"0:52",1252,1252,"Jimmie Taylor Defensive Rebound.",32,30,2,0.551164219723259,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+175,1,"0:39",1239,1239,"Foul on Zane Waterman.",32,30,2,0.548156573625498,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+176,1,"0:39",1239,1239,"Kealen Washington-Ives made Free Throw.",32,31,1,0.508053763857852,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+177,1,"0:39",1239,1239,"Kealen Washington-Ives made Free Throw.",32,32,0,0.467847039850856,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+178,1,"0:17",1217,1217,"Zane Waterman missed Jumper.",32,32,0,0.469060070971281,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+179,1,"0:17",1217,1217,"Kahlil Thomas Block.",32,32,0,0.469060070971281,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+180,1,"0:17",1217,1217,"Kahlil Thomas Defensive Rebound.",32,32,0,0.469060070971281,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+181,1,"0:05",1205,1205,"Anthony Durham made Jumper.",32,34,-2,0.393518064778249,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+182,1,"0:00",1200,1200,"End of 1st half",32,34,-2,0.393518064778249,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+183,2,"20:00",1200,1200,"PLAY",32,34,-2,0.393518064778249,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+184,2,"20:00",1200,1200,"Jump Ball won by Rider",32,34,-2,0.393518064778249,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+185,2,"19:38",1178,1178,"Stevie Jordan made Three Point Jumper. Assisted by Jimmie Taylor.",32,37,-5,0.286490344833691,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+186,2,"19:16",1156,1156,"Zavier Peart missed Jumper.",32,37,-5,0.291993875909494,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+187,2,"19:16",1156,1156,"Kahlil Thomas Defensive Rebound.",32,37,-5,0.291993875909494,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+188,2,"19:06",1146,1146,"Foul on Zavier Peart.",32,37,-5,0.281086736026899,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+189,2,"19:06",1146,1146,"Stevie Jordan made Free Throw.",32,38,-6,0.247630691858241,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+190,2,"19:06",1146,1146,"Stevie Jordan missed Free Throw.",32,38,-6,0.247630691858241,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+191,2,"19:06",1146,1146,"Samson Usilo Defensive Rebound.",32,38,-6,0.247630691858241,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+192,2,"18:46",1126,1126,"Foul on Xavier Lundy.",32,38,-6,0.223183922144277,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+193,2,"18:46",1126,1126,"Samson Usilo missed Free Throw.",32,38,-6,0.223183922144277,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+194,2,"18:46",1126,1126,"Manhattan Deadball Team Rebound.",32,38,-6,0.223183922144277,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+195,2,"18:46",1126,1126,"Samson Usilo missed Free Throw.",32,38,-6,0.223183922144277,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+196,2,"18:46",1126,1126,"Kahlil Thomas Defensive Rebound.",32,38,-6,0.223183922144277,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+197,2,"18:38",1118,1118,"Stevie Jordan Turnover.",32,38,-6,0.250606904190998,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+198,2,"18:31",1111,1111,"Tyler Wilson made Jumper. Assisted by Zavier Turner.",34,38,-4,0.320941969231273,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+199,2,"18:09",1089,1089,"Xavier Lundy Turnover.",34,38,-4,0.300897588378055,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+200,2,"18:09",1089,1089,"Calvin Crawford Steal.",34,38,-4,0.300897588378055,"Manhattan","Rider",4,4,0,0,-1,400917580,2017-01-13
+201,2,"18:08",1088,1088,"Manhattan  Timeout",34,38,-4,0.300897588378055,"Manhattan","Rider",3,4,1,0,-1,400917580,2017-01-13
+202,2,"18:03",1083,1083,"Zavier Turner missed Three Point Jumper.",34,38,-4,0.300897588378055,"Manhattan","Rider",3,4,1,0,-1,400917580,2017-01-13
+203,2,"18:03",1083,1083,"Jimmie Taylor Defensive Rebound.",34,38,-4,0.300897588378055,"Manhattan","Rider",3,4,1,0,-1,400917580,2017-01-13
+204,2,"17:51",1071,1071,"Stevie Jordan Turnover.",34,38,-4,0.330163248835258,"Manhattan","Rider",3,4,1,0,-1,400917580,2017-01-13
+205,2,"17:51",1071,1071,"Zavier Turner Steal.",34,38,-4,0.330163248835258,"Manhattan","Rider",3,4,1,0,-1,400917580,2017-01-13
+206,2,"17:40",1060,1060,"Samson Usilo missed Layup.",34,38,-4,0.33293911305743,"Manhattan","Rider",3,4,1,0,-1,400917580,2017-01-13
+207,2,"17:40",1060,1060,"Xavier Lundy Block.",34,38,-4,0.33293911305743,"Manhattan","Rider",3,4,1,0,-1,400917580,2017-01-13
+208,2,"17:40",1060,1060,"Rider Defensive Rebound.",34,38,-4,0.33293911305743,"Manhattan","Rider",3,4,1,0,-1,400917580,2017-01-13
+209,2,"17:26",1046,1046,"Jimmie Taylor missed Jumper.",34,38,-4,0.325440694901796,"Manhattan","Rider",3,4,1,0,-1,400917580,2017-01-13
+210,2,"17:26",1046,1046,"Jimmie Taylor Offensive Rebound.",34,38,-4,0.325440694901796,"Manhattan","Rider",3,4,1,0,-1,400917580,2017-01-13
+211,2,"17:26",1046,1046,"Foul on Ahmed Ismail.",34,38,-4,0.325440694901796,"Manhattan","Rider",3,4,1,0,-1,400917580,2017-01-13
+212,2,"17:26",1046,1046,"Jimmie Taylor made Free Throw.",34,39,-5,0.288215094039999,"Manhattan","Rider",3,4,1,0,-1,400917580,2017-01-13
+213,2,"17:26",1046,1046,"Jimmie Taylor made Free Throw.",34,40,-6,0.253646444710098,"Manhattan","Rider",3,4,1,0,-1,400917580,2017-01-13
+214,2,"17:01",1021,1021,"Foul on Tyler Wilson.",34,40,-6,0.243577410120159,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+215,2,"17:01",1021,1021,"Tyler Wilson Turnover.",34,40,-6,0.243577410120159,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+216,2,"16:52",1012,1012,"Stevie Jordan Turnover.",34,40,-6,0.216577852782316,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+217,2,"16:30",990,990,"Zane Waterman made Jumper.",36,40,-4,0.295963973202023,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+218,2,"16:17",977,977,"Anthony Durham missed Jumper.",36,40,-4,0.315442180311615,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+219,2,"16:17",977,977,"Ahmed Ismail Block.",36,40,-4,0.315442180311615,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+220,2,"16:17",977,977,"Jimmie Taylor Offensive Rebound.",36,40,-4,0.315442180311615,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+221,2,"16:14",974,974,"Foul on Zavier Turner.",36,40,-4,0.315442180311615,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+222,2,"15:53",953,953,"Kahlil Thomas Turnover.",36,40,-4,0.282716587545151,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+223,2,"15:53",953,953,"Official TV Timeout",36,40,-4,0.282716587545151,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+224,2,"15:46",946,946,"Zane Waterman made Layup. Assisted by Aaron Walker Jr..",38,40,-2,0.399621979547648,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+225,2,"15:28",928,928,"Jimmie Taylor made Jumper.",38,42,-4,0.278493028099976,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+226,2,"15:06",906,906,"Aaron Walker Jr. made Layup.",40,42,-2,0.385521443307876,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+227,2,"14:51",891,891,"Jimmie Taylor missed Jumper.",40,42,-2,0.395114654972531,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+228,2,"14:51",891,891,"Kahlil Thomas Offensive Rebound.",40,42,-2,0.395114654972531,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+229,2,"14:41",881,881,"Foul on Ahmed Ismail.",40,42,-2,0.387591817114315,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+230,2,"14:41",881,881,"Kahlil Thomas missed Free Throw.",40,42,-2,0.387591817114315,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+231,2,"14:41",881,881,"Rider Deadball Team Rebound.",40,42,-2,0.387591817114315,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+232,2,"14:41",881,881,"Kahlil Thomas made Free Throw.",40,43,-3,0.347215683391985,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+233,2,"14:30",870,870,"Foul on Norville Carey.",40,43,-3,0.343641847654116,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+234,2,"14:30",870,870,"Zane Waterman made Free Throw.",41,43,-2,0.388295200913196,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+235,2,"14:30",870,870,"Zane Waterman missed Free Throw.",41,43,-2,0.388295200913196,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+236,2,"14:30",870,870,"Tyere Marshall Defensive Rebound.",41,43,-2,0.388295200913196,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+237,2,"14:18",858,858,"Kahlil Thomas made Layup. Assisted by Tyere Marshall.",41,45,-4,0.302693087135505,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+238,2,"14:04",844,844,"Calvin Crawford Turnover.",41,45,-4,0.281820047293424,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+239,2,"14:04",844,844,"Tyere Marshall Steal.",41,45,-4,0.281820047293424,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+240,2,"13:52",832,832,"Jimmie Taylor missed Jumper.",41,45,-4,0.280942654281856,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+241,2,"13:52",832,832,"Rider Offensive Rebound.",41,45,-4,0.280942654281856,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+242,2,"13:48",828,828,"Tyere Marshall missed Jumper.",41,45,-4,0.29870178696203,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+243,2,"13:48",828,828,"Kahlil Thomas Offensive Rebound.",41,45,-4,0.29870178696203,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+244,2,"13:48",828,828,"Kahlil Thomas made Two Point Tip Shot.",41,47,-6,0.226174536614366,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+245,2,"13:21",801,801,"Zane Waterman missed Three Point Jumper.",41,47,-6,0.223223968775716,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+246,2,"13:21",801,801,"Tyere Marshall Defensive Rebound.",41,47,-6,0.223223968775716,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+247,2,"13:15",795,795,"Foul on Samson Usilo.",41,47,-6,0.193196202961437,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+248,2,"13:05",785,785,"Anthony Durham missed Jumper.",41,47,-6,0.208736792330263,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+249,2,"13:05",785,785,"Tyler Wilson Defensive Rebound.",41,47,-6,0.208736792330263,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+250,2,"12:54",774,774,"Flagrant-1 Foul on Tyere Marshall.",41,47,-6,0.207550877417182,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+251,2,"12:54",774,774,"Zavier Turner made Free Throw.",42,47,-5,0.244234157653507,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+252,2,"12:54",774,774,"Zavier Turner made Free Throw.",43,47,-4,0.285068642306466,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+253,2,"12:37",757,757,"Foul on Tyere Marshall.",43,47,-4,0.27484012205581,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+254,2,"12:31",751,751,"Foul on Zane Waterman.",43,47,-4,0.27484012205581,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+255,2,"12:31",751,751,"Zane Waterman Turnover.",43,47,-4,0.27484012205581,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+256,2,"12:15",735,735,"Kealen Washington-Ives missed Three Point Jumper.",43,47,-4,0.294867038548735,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+257,2,"12:15",735,735,"Thomas Capuano Defensive Rebound.",43,47,-4,0.294867038548735,"Manhattan","Rider",3,4,0,0,-1,400917580,2017-01-13
+258,2,"12:00",720,720,"Foul on Kealen Washington-Ives.",43,47,-4,0.297225479717847,"Manhattan","Rider",3,4,0,1,-1,400917580,2017-01-13
+259,2,"12:00",720,720,"Rider  Timeout",43,47,-4,0.297225479717847,"Manhattan","Rider",3,3,0,1,-1,400917580,2017-01-13
+260,2,"12:00",720,720,"Zavier Turner made Free Throw.",44,47,-3,0.345141668697575,"Manhattan","Rider",3,3,0,1,-1,400917580,2017-01-13
+261,2,"12:00",720,720,"Zavier Turner made Free Throw.",45,47,-2,0.396425139768671,"Manhattan","Rider",3,3,0,1,-1,400917580,2017-01-13
+262,2,"11:40",700,700,"Xavier Lundy missed Jumper.",45,47,-2,0.395428573220749,"Manhattan","Rider",3,3,0,1,-1,400917580,2017-01-13
+263,2,"11:40",700,700,"Calvin Crawford Defensive Rebound.",45,47,-2,0.395428573220749,"Manhattan","Rider",3,3,0,1,-1,400917580,2017-01-13
+264,2,"11:23",683,683,"Zavier Peart missed Jumper.",45,47,-2,0.363262760647771,"Manhattan","Rider",3,3,0,1,-1,400917580,2017-01-13
+265,2,"11:23",683,683,"Stevie Jordan Defensive Rebound.",45,47,-2,0.363262760647771,"Manhattan","Rider",3,3,0,1,-1,400917580,2017-01-13
+266,2,"11:15",675,675,"Foul on Zavier Turner.",45,47,-2,0.358735583496227,"Manhattan","Rider",3,3,0,1,-1,400917580,2017-01-13
+267,2,"11:15",675,675,"Stevie Jordan made Free Throw.",45,48,-3,0.307182717994706,"Manhattan","Rider",3,3,0,1,-1,400917580,2017-01-13
+268,2,"11:15",675,675,"Stevie Jordan made Free Throw.",45,49,-4,0.260034197584009,"Manhattan","Rider",3,3,0,1,-1,400917580,2017-01-13
+269,2,"10:59",659,659,"Calvin Crawford missed Jumper.",45,49,-4,0.27797796111288,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+270,2,"10:59",659,659,"Stevie Jordan Defensive Rebound.",45,49,-4,0.27797796111288,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+271,2,"10:52",652,652,"Jimmie Taylor made Layup. Assisted by Stevie Jordan.",45,51,-6,0.193045679867548,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+272,2,"10:43",643,643,"Zavier Turner made Jumper.",47,51,-4,0.270242416930083,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+273,2,"10:27",627,627,"Xavier Lundy made Jumper. Assisted by Stevie Jordan.",47,53,-6,0.167697495730493,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+274,2,"10:09",609,609,"Foul on Kahlil Thomas.",47,53,-6,0.178606493247809,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+275,2,"10:09",609,609,"Zane Waterman made Free Throw.",48,53,-5,0.217344802200304,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+276,2,"10:09",609,609,"Zane Waterman made Free Throw.",49,53,-4,0.26180711546449,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+277,2,"9:54",594,594,"Foul on Ak Ojo.",49,53,-4,0.266227539708615,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+278,2,"9:54",594,594,"Kahlil Thomas made Free Throw.",49,54,-5,0.222091138292141,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+279,2,"9:54",594,594,"Kahlil Thomas made Free Throw.",49,55,-6,0.183442590765722,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+280,2,"9:47",587,587,"Jump Ball won by Manhattan",49,55,-6,0.179279992646737,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+281,2,"9:27",567,567,"Zane Waterman made Three Point Jumper. Assisted by Tyler Wilson.",52,55,-3,0.307437699068306,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+282,2,"9:17",557,557,"Foul on Thomas Capuano.",52,55,-3,0.292302214112697,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+283,2,"9:17",557,557,"Stevie Jordan missed Free Throw.",52,55,-3,0.292302214112697,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+284,2,"9:17",557,557,"Rider Deadball Team Rebound.",52,55,-3,0.292302214112697,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+285,2,"9:17",557,557,"Stevie Jordan made Free Throw.",52,56,-4,0.241487506717555,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+286,2,"8:59",539,539,"Zavier Turner missed Jumper.",52,56,-4,0.253940019900614,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+287,2,"8:59",539,539,"Samson Usilo Offensive Rebound.",52,56,-4,0.253940019900614,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+288,2,"8:41",521,521,"Zane Waterman Turnover.",52,56,-4,0.257055840354493,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+289,2,"8:39",519,519,"Foul on Aaron Walker Jr..",52,56,-4,0.244249571034749,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+290,2,"8:39",519,519,"Kealen Washington-Ives missed Free Throw.",52,56,-4,0.244249571034749,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+291,2,"8:39",519,519,"Rider Deadball Team Rebound.",52,56,-4,0.244249571034749,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+292,2,"8:39",519,519,"Kealen Washington-Ives missed Free Throw.",52,56,-4,0.244249571034749,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+293,2,"8:39",519,519,"Zane Waterman Defensive Rebound.",52,56,-4,0.244249571034749,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+294,2,"8:29",509,509,"Foul on Kealen Washington-Ives.",52,56,-4,0.261663336170229,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+295,2,"8:29",509,509,"Zavier Turner made Free Throw.",53,56,-3,0.317244306283583,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+296,2,"8:29",509,509,"Zavier Turner missed Free Throw.",53,56,-3,0.317244306283583,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+297,2,"8:29",509,509,"Manhattan Offensive Rebound.",53,56,-3,0.317244306283583,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+298,2,"8:16",496,496,"Zane Waterman made Jumper. Assisted by Zavier Turner.",55,56,-1,0.449877368556254,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+299,2,"8:16",496,496,"Foul on Xavier Lundy.",55,56,-1,0.449877368556254,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+300,2,"8:16",496,496,"Zane Waterman made Free Throw.",56,56,0,0.517710568731439,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+301,2,"8:09",489,489,"Stevie Jordan made Layup. Assisted by Jimmie Taylor.",56,58,-2,0.356372904408917,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+302,2,"8:09",489,489,"Foul on Ak Ojo.",56,58,-2,0.356372904408917,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+303,2,"8:09",489,489,"Stevie Jordan missed Free Throw.",56,58,-2,0.356372904408917,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+304,2,"8:09",489,489,"Ak Ojo Defensive Rebound.",56,58,-2,0.356372904408917,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+305,2,"7:55",475,475,"Zavier Turner missed Three Point Jumper.",56,58,-2,0.342447214594746,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+306,2,"7:55",475,475,"Kahlil Thomas Defensive Rebound.",56,58,-2,0.342447214594746,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+307,2,"7:36",456,456,"Kahlil Thomas Turnover.",56,58,-2,0.332176064590969,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+308,2,"7:36",456,456,"Official TV Timeout",56,58,-2,0.332176064590969,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+309,2,"7:25",445,445,"Zane Waterman Turnover.",56,58,-2,0.365817681398674,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+310,2,"7:14",434,434,"Kahlil Thomas Turnover.",56,58,-2,0.348742187542472,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+311,2,"6:56",416,416,"Zane Waterman made Jumper. Assisted by Zavier Turner.",58,58,0,0.480088882767592,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+312,2,"6:56",416,416,"Foul on Norville Carey.",58,58,0,0.480088882767592,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+313,2,"6:56",416,416,"Zane Waterman made Free Throw.",59,58,1,0.555187563157838,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+314,2,"6:37",397,397,"Jimmie Taylor made Layup.",59,60,-1,0.427162266040573,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+315,2,"6:22",382,382,"Zavier Turner missed Jumper.",59,60,-1,0.411749336690394,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+316,2,"6:22",382,382,"Kahlil Thomas Defensive Rebound.",59,60,-1,0.411749336690394,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+317,2,"6:16",376,376,"Foul on Tyler Wilson.",59,60,-1,0.396291133572588,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+318,2,"6:16",376,376,"Stevie Jordan made Free Throw.",59,61,-2,0.325061332169588,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+319,2,"6:16",376,376,"Stevie Jordan missed Free Throw.",59,61,-2,0.325061332169588,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+320,2,"6:16",376,376,"Samson Usilo Defensive Rebound.",59,61,-2,0.325061332169588,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+321,2,"5:55",355,355,"Zane Waterman missed Jumper.",59,61,-2,0.287882267095033,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+322,2,"5:55",355,355,"Kahlil Thomas Defensive Rebound.",59,61,-2,0.287882267095033,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+323,2,"5:32",332,332,"Anthony Durham missed Jumper.",59,61,-2,0.333906084552046,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+324,2,"5:32",332,332,"Calvin Crawford Defensive Rebound.",59,61,-2,0.333906084552046,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+325,2,"5:22",322,322,"Zavier Turner made Layup.",61,61,0,0.467058640913305,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+326,2,"5:03",303,303,"Jimmie Taylor missed Jumper.",61,61,0,0.498390263543238,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+327,2,"5:03",303,303,"Calvin Crawford Block.",61,61,0,0.498390263543238,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+328,2,"5:03",303,303,"Kahlil Thomas Offensive Rebound.",61,61,0,0.498390263543238,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+329,2,"4:48",288,288,"Kahlil Thomas made Layup.",61,63,-2,0.309856075038868,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+330,2,"4:31",271,271,"Calvin Crawford made Jumper. Assisted by Tyler Wilson.",63,63,0,0.465620105946409,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+331,2,"4:12",252,252,"Xavier Lundy missed Jumper.",63,63,0,0.509578924550776,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+332,2,"4:12",252,252,"Rider Offensive Rebound.",63,63,0,0.509578924550776,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+333,2,"4:03",243,243,"Kahlil Thomas missed Layup.",63,63,0,0.487416465944331,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+334,2,"4:03",243,243,"Zavier Turner Defensive Rebound.",63,63,0,0.487416465944331,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+335,2,"3:56",236,236,"Zavier Turner missed Layup.",63,63,0,0.506681684992422,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+336,2,"3:56",236,236,"Ahmed Ismail Offensive Rebound.",63,63,0,0.506681684992422,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+337,2,"3:35",215,215,"Zane Waterman missed Jumper.",63,63,0,0.478088342043213,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+338,2,"3:35",215,215,"Xavier Lundy Defensive Rebound.",63,63,0,0.478088342043213,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+339,2,"3:25",205,205,"Stevie Jordan missed Jumper.",63,63,0,0.502791360464152,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+340,2,"3:25",205,205,"Xavier Lundy Offensive Rebound.",63,63,0,0.502791360464152,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+341,2,"3:25",205,205,"Xavier Lundy made Two Point Tip Shot.",63,65,-2,0.290510988393526,"Manhattan","Rider",3,3,0,0,-1,400917580,2017-01-13
+342,2,"3:21",201,201,"Rider  Timeout",63,65,-2,0.290510988393526,"Manhattan","Rider",3,2,0,1,-1,400917580,2017-01-13
+343,2,"3:21",201,201,"Official TV Timeout",63,65,-2,0.290510988393526,"Manhattan","Rider",3,2,0,1,-1,400917580,2017-01-13
+344,2,"3:04",184,184,"Calvin Crawford missed Three Point Jumper.",63,65,-2,0.253942202262644,"Manhattan","Rider",3,2,0,1,-1,400917580,2017-01-13
+345,2,"3:04",184,184,"Zane Waterman Offensive Rebound.",63,65,-2,0.253942202262644,"Manhattan","Rider",3,2,0,1,-1,400917580,2017-01-13
+346,2,"2:54",174,174,"Zane Waterman Turnover.",63,65,-2,0.286205265315092,"Manhattan","Rider",3,2,0,1,-1,400917580,2017-01-13
+347,2,"2:54",174,174,"Stevie Jordan Steal.",63,65,-2,0.286205265315092,"Manhattan","Rider",3,2,0,1,-1,400917580,2017-01-13
+348,2,"2:51",171,171,"Stevie Jordan missed Layup.",63,65,-2,0.286205265315092,"Manhattan","Rider",3,2,0,1,-1,400917580,2017-01-13
+349,2,"2:51",171,171,"Tyler Wilson Block.",63,65,-2,0.286205265315092,"Manhattan","Rider",3,2,0,1,-1,400917580,2017-01-13
+350,2,"2:51",171,171,"Xavier Lundy Offensive Rebound.",63,65,-2,0.286205265315092,"Manhattan","Rider",3,2,0,1,-1,400917580,2017-01-13
+351,2,"2:44",164,164,"Xavier Lundy missed Layup.",63,65,-2,0.262043202381136,"Manhattan","Rider",3,2,0,1,-1,400917580,2017-01-13
+352,2,"2:44",164,164,"Zavier Turner Defensive Rebound.",63,65,-2,0.262043202381136,"Manhattan","Rider",3,2,0,1,-1,400917580,2017-01-13
+353,2,"2:44",164,164,"Zavier Turner made Jumper.",65,65,0,0.498058968240802,"Manhattan","Rider",3,2,0,1,-1,400917580,2017-01-13
+354,2,"2:38",158,158,"Foul on Samson Usilo.",65,65,0,0.50916358384681,"Manhattan","Rider",3,2,0,1,-1,400917580,2017-01-13
+355,2,"2:38",158,158,"Xavier Lundy made Free Throw.",65,66,-1,0.376640417543902,"Manhattan","Rider",3,2,0,1,-1,400917580,2017-01-13
+356,2,"2:38",158,158,"Xavier Lundy made Free Throw.",65,67,-2,0.260316607153937,"Manhattan","Rider",3,2,0,1,-1,400917580,2017-01-13
+357,2,"2:19",139,139,"Zane Waterman made Three Point Jumper. Assisted by Tyler Wilson.",68,67,1,0.674267731743888,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+358,2,"1:53",113,113,"Jump Ball won by Rider",68,67,1,0.663322627182043,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+359,2,"1:40",100,100,"Stevie Jordan missed Three Point Jumper.",68,67,1,0.608737689029045,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+360,2,"1:40",100,100,"Zavier Turner Defensive Rebound.",68,67,1,0.608737689029045,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+361,2,"1:08",68,68,"Zane Waterman made Jumper.",70,67,3,0.890640607384,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+362,2,"1:08",68,68,"Foul on Kealen Washington-Ives.",70,67,3,0.890640607384,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+363,2,"1:08",68,68,"Zane Waterman made Free Throw.",71,67,4,0.944775830019617,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+364,2,"0:59",59,59,"Anthony Durham missed Three Point Jumper.",71,67,4,0.977367854456646,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+365,2,"0:59",59,59,"Anthony Durham Offensive Rebound.",71,67,4,0.977367854456646,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+366,2,"0:51",51,51,"Anthony Durham missed Jumper.",71,67,4,0.974000346942977,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+367,2,"0:51",51,51,"Zane Waterman Defensive Rebound.",71,67,4,0.974000346942977,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+368,2,"0:49",49,49,"Foul on Kahlil Thomas.",71,67,4,0.978460738950469,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+369,2,"0:49",49,49,"Zane Waterman made Free Throw.",72,67,5,0.991572804719773,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+370,2,"0:49",49,49,"Zane Waterman made Free Throw.",73,67,6,0.996729555060748,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+371,2,"0:38",38,38,"Anthony Durham missed Jumper.",73,67,6,0.99721963239873,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+372,2,"0:38",38,38,"Kahlil Thomas Offensive Rebound.",73,67,6,0.99721963239873,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+373,2,"0:35",35,35,"Kahlil Thomas missed Jumper.",73,67,6,0.993157817735329,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+374,2,"0:35",35,35,"Kahlil Thomas Offensive Rebound.",73,67,6,0.993157817735329,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+375,2,"0:34",34,34,"Kahlil Thomas missed Two Point Tip Shot.",73,67,6,0.993157817735329,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+376,2,"0:34",34,34,"Zane Waterman Defensive Rebound.",73,67,6,0.993157817735329,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+377,2,"0:32",32,32,"Foul on Anthony Durham.",73,67,6,0.99889669824075,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+378,2,"0:32",32,32,"Zane Waterman missed Free Throw.",73,67,6,0.99889669824075,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+379,2,"0:32",32,32,"Manhattan Deadball Team Rebound.",73,67,6,0.99889669824075,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+380,2,"0:32",32,32,"Zane Waterman made Free Throw.",74,67,7,0.99964476141989,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+381,2,"0:26",26,26,"Kahlil Thomas made Three Point Jumper. Assisted by Jimmie Taylor.",74,70,4,0.989551629259094,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+382,2,"0:21",21,21,"Zavier Turner Turnover.",74,70,4,0.997998309116893,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+383,2,"0:20",20,20,"Jimmie Taylor made Three Point Jumper. Assisted by Kahlil Thomas.",74,73,1,0.797738454883911,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+384,2,"0:19",19,19,"Foul on Anthony Durham.",74,73,1,0.806640117756442,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+385,2,"0:18",18,18,"Zavier Turner missed Free Throw.",74,73,1,0.714031134239888,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+386,2,"0:18",18,18,"Manhattan Deadball Team Rebound.",74,73,1,0.714031134239888,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+387,2,"0:18",18,18,"Zavier Turner made Free Throw.",75,73,2,0.878689957592765,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+388,2,"0:04",4,4,"Kahlil Thomas missed Jumper.",75,73,2,0.925192623295854,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+389,2,"0:04",4,4,"Zane Waterman Defensive Rebound.",75,73,2,0.925192623295854,"Manhattan","Rider",3,2,0,0,-1,400917580,2017-01-13
+390,2,"0:01",1,1,"Foul on Kahlil Thomas.",75,73,2,0.925192623295854,"Manhattan","Rider",3,2,1,0,-1,400917580,2017-01-13
+391,2,"0:01",1,1,"Zane Waterman missed Free Throw.",75,73,2,0.925192623295854,"Manhattan","Rider",3,2,1,0,-1,400917580,2017-01-13
+392,2,"0:01",1,1,"Manhattan Deadball Team Rebound.",75,73,2,0.925192623295854,"Manhattan","Rider",3,2,1,0,-1,400917580,2017-01-13
+393,2,"0:01",1,1,"Zane Waterman made Free Throw.",76,73,3,0.985768320856347,"Manhattan","Rider",3,2,1,0,-1,400917580,2017-01-13
+394,2,"0:01",1,1,"Manhattan  Timeout",76,73,3,0.985768320856347,"Manhattan","Rider",2,2,1,0,-1,400917580,2017-01-13
+395,2,"0:00",0,0,"End of Game",76,73,3,1,"Manhattan","Rider",2,2,1,0,-1,400917580,2017-01-13

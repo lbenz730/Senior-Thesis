@@ -1,0 +1,371 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.832330513098003,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+2,1,"19:42",2382,2382,"Zach Thomas missed Layup.",0,0,0,0.828116915177041,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+3,1,"19:42",2382,2382,"Saul Phiri Defensive Rebound.",0,0,0,0.828116915177041,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+4,1,"19:19",2359,2359,"Tony Washington made Layup.",0,2,-2,0.804394176755859,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+5,1,"18:58",2338,2338,"Nana Foulland made Jumper.",2,2,0,0.821196346354831,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+6,1,"18:30",2310,2310,"Tony Washington missed Jumper.",2,2,0,0.80693012530496,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+7,1,"18:30",2310,2310,"La Salle Offensive Rebound.",2,2,0,0.80693012530496,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+8,1,"18:22",2302,2302,"Pookie Powell missed Layup.",2,2,0,0.809419998312053,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+9,1,"18:22",2302,2302,"Nana Foulland Defensive Rebound.",2,2,0,0.809419998312053,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+10,1,"18:16",2296,2296,"Zach Thomas missed Three Point Jumper.",2,2,0,0.821153326080792,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+11,1,"18:16",2296,2296,"Tony Washington Defensive Rebound.",2,2,0,0.821153326080792,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+12,1,"18:01",2281,2281,"Johnnie Shuler missed Three Point Jumper.",2,2,0,0.813927618129404,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+13,1,"18:01",2281,2281,"Zach Thomas Defensive Rebound.",2,2,0,0.813927618129404,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+14,1,"17:48",2268,2268,"Jimmy Sotos made Layup.",4,2,2,0.857331719078329,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+15,1,"17:23",2243,2243,"Amar Stukes made Jumper.",4,4,0,0.80720980772121,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+16,1,"17:08",2228,2228,"Nana Foulland made Dunk. Assisted by Zach Thomas.",6,4,2,0.846562657821673,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+17,1,"16:56",2216,2216,"Saul Phiri made Three Point Jumper. Assisted by Johnnie Shuler.",6,7,-1,0.792209096410499,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+18,1,"16:38",2198,2198,"Nana Foulland made Jumper. Assisted by Stephen Brown.",8,7,1,0.839455352339026,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+19,1,"16:25",2185,2185,"Pookie Powell made Layup.",8,9,-1,0.796395424710006,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+20,1,"16:12",2172,2172,"Nana Foulland missed Jumper.",8,9,-1,0.791759221040232,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+21,1,"16:12",2172,2172,"Amar Stukes Defensive Rebound.",8,9,-1,0.791759221040232,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+22,1,"16:01",2161,2161,"Saul Phiri missed Three Point Jumper.",8,9,-1,0.791497239166647,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+23,1,"16:01",2161,2161,"Jimmy Sotos Defensive Rebound.",8,9,-1,0.791497239166647,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+24,1,"15:51",2151,2151,"Jimmy Sotos missed Layup.",8,9,-1,0.787681229059702,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+25,1,"15:51",2151,2151,"Tony Washington Block.",8,9,-1,0.787681229059702,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+26,1,"15:49",2149,2149,"Tony Washington Defensive Rebound.",8,9,-1,0.801306460036276,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+27,1,"15:32",2132,2132,"Pookie Powell made Three Point Jumper. Assisted by Amar Stukes.",8,12,-4,0.725616887018022,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+28,1,"15:18",2118,2118,"Nana Foulland missed Jumper.",8,12,-4,0.735988500095808,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+29,1,"15:18",2118,2118,"Tony Washington Defensive Rebound.",8,12,-4,0.735988500095808,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+30,1,"15:05",2105,2105,"Amar Stukes made Layup.",8,14,-6,0.678523842527457,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+31,1,"14:42",2082,2082,"Foul on Amar Stukes.",8,14,-6,0.683054480049898,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+32,1,"14:42",2082,2082,"Official TV Timeout",8,14,-6,0.683054480049898,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+33,1,"14:33",2073,2073,"Stephen Brown Turnover.",8,14,-6,0.691554110467145,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+34,1,"14:15",2055,2055,"Foul on John Meeks.",8,14,-6,0.684472641700032,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+35,1,"14:15",2055,2055,"Pookie Powell missed Free Throw.",8,14,-6,0.684472641700032,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+36,1,"14:15",2055,2055,"La Salle Deadball Team Rebound.",8,14,-6,0.684472641700032,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+37,1,"14:15",2055,2055,"Pookie Powell missed Free Throw.",8,14,-6,0.684472641700032,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+38,1,"14:15",2055,2055,"Zach Thomas Defensive Rebound.",8,14,-6,0.684472641700032,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+39,1,"14:05",2045,2045,"Foul on Nate Sestina.",8,14,-6,0.669436900910838,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+40,1,"14:05",2045,2045,"Nate Sestina Turnover.",8,14,-6,0.669436900910838,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+41,1,"13:54",2034,2034,"Pookie Powell Turnover.",8,14,-6,0.701677674656918,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+42,1,"13:43",2023,2023,"Foul on Tony Washington.",8,14,-6,0.651371220389907,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+43,1,"13:43",2023,2023,"Jimmy Sotos missed Free Throw.",8,14,-6,0.651371220389907,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+44,1,"13:43",2023,2023,"Bucknell Deadball Team Rebound.",8,14,-6,0.651371220389907,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+45,1,"13:43",2023,2023,"Jimmy Sotos made Free Throw.",9,14,-5,0.680690508803152,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+46,1,"13:27",2007,2007,"Amar Stukes missed Three Point Jumper.",9,14,-5,0.698740353079246,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+47,1,"13:27",2007,2007,"Nate Sestina Defensive Rebound.",9,14,-5,0.698740353079246,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+48,1,"13:06",1986,1986,"Nana Foulland Turnover.",9,14,-5,0.668158124753126,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+49,1,"13:04",1984,1984,"Isiah Deas Steal.",9,14,-5,0.668158124753126,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+50,1,"12:45",1965,1965,"Saul Phiri missed Layup.",9,14,-5,0.707951066938918,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+51,1,"12:45",1965,1965,"Nate Sestina Defensive Rebound.",9,14,-5,0.707951066938918,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+52,1,"12:35",1955,1955,"John Meeks missed Three Point Jumper.",9,14,-5,0.684291055751408,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+53,1,"12:35",1955,1955,"Tony Washington Defensive Rebound.",9,14,-5,0.684291055751408,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+54,1,"12:22",1942,1942,"Pookie Powell missed Three Point Jumper.",9,14,-5,0.680796382858891,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+55,1,"12:22",1942,1942,"Jimmy Sotos Defensive Rebound.",9,14,-5,0.680796382858891,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+56,1,"11:57",1917,1917,"Nate Jones made Layup.",11,14,-3,0.744617988037228,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+57,1,"11:35",1895,1895,"Amar Stukes missed Jumper.",11,14,-3,0.725865794576478,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+58,1,"11:35",1895,1895,"Nate Sestina Defensive Rebound.",11,14,-3,0.725865794576478,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+59,1,"11:24",1884,1884,"Nana Foulland made Jumper. Assisted by Nate Sestina.",13,14,-1,0.779915775927165,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+60,1,"11:06",1866,1866,"Isiah Deas missed Layup.",13,14,-1,0.775923795261119,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+61,1,"11:06",1866,1866,"Jimmy Sotos Defensive Rebound.",13,14,-1,0.775923795261119,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+62,1,"11:00",1860,1860,"Jimmy Sotos Turnover.",13,14,-1,0.775923795261119,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+63,1,"10:59",1859,1859,"Amar Stukes Steal.",13,14,-1,0.777306630009518,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+64,1,"10:57",1857,1857,"Isiah Deas made Layup. Assisted by Amar Stukes.",13,16,-3,0.729889544052151,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+65,1,"10:57",1857,1857,"Foul on John Meeks.",13,16,-3,0.729889544052151,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+66,1,"10:57",1857,1857,"Official TV Timeout",13,16,-3,0.729889544052151,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+67,1,"10:57",1857,1857,"Isiah Deas made Free Throw.",13,17,-4,0.703928083554909,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+68,1,"10:36",1836,1836,"Ben Robertson missed Layup.",13,17,-4,0.698578696671071,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+69,1,"10:36",1836,1836,"Cian Sullivan Block.",13,17,-4,0.698578696671071,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+70,1,"10:35",1835,1835,"Cian Sullivan Defensive Rebound.",13,17,-4,0.698578696671071,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+71,1,"10:20",1820,1820,"Saul Phiri Turnover.",13,17,-4,0.728973014658441,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+72,1,"10:18",1818,1818,"Zach Thomas Steal.",13,17,-4,0.692518087781339,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+73,1,"10:11",1811,1811,"Foul on Cian Sullivan.",13,17,-4,0.692518087781339,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+74,1,"10:11",1811,1811,"Nana Foulland made Free Throw.",14,17,-3,0.721396811195488,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+75,1,"10:11",1811,1811,"Nana Foulland made Free Throw.",15,17,-2,0.748548070531701,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+76,1,"9:59",1799,1799,"Amar Stukes Turnover.",15,17,-2,0.738154439790383,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+77,1,"9:58",1798,1798,"Bruce Moore Steal.",15,17,-2,0.738154439790383,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+78,1,"9:54",1794,1794,"Stephen Brown missed Layup.",15,17,-2,0.738154439790383,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+79,1,"9:54",1794,1794,"Isiah Deas Block.",15,17,-2,0.738154439790383,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+80,1,"9:53",1793,1793,"Nana Foulland Offensive Rebound.",15,17,-2,0.738154439790383,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+81,1,"9:50",1790,1790,"Nana Foulland made Dunk.",17,17,0,0.785250956686419,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+82,1,"9:50",1790,1790,"Foul on Cian Sullivan.",17,17,0,0.785250956686419,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+83,1,"9:50",1790,1790,"Nana Foulland made Free Throw.",18,17,1,0.806371124283975,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+84,1,"9:38",1778,1778,"Cian Sullivan missed Layup.",18,17,1,0.804623017955958,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+85,1,"9:38",1778,1778,"Ben Robertson Block.",18,17,1,0.804623017955958,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+86,1,"9:35",1775,1775,"Cian Sullivan Offensive Rebound.",18,17,1,0.804623017955958,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+87,1,"9:31",1771,1771,"Cian Sullivan missed Layup.",18,17,1,0.804623017955958,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+88,1,"9:31",1771,1771,"Zach Thomas Block.",18,17,1,0.804623017955958,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+89,1,"9:30",1770,1770,"Zach Thomas Defensive Rebound.",18,17,1,0.804623017955958,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+90,1,"9:23",1763,1763,"Nana Foulland made Layup. Assisted by Ben Robertson.",20,17,3,0.858446031080912,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+91,1,"9:02",1742,1742,"Cian Sullivan missed Jumper.",20,17,3,0.846374945286614,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+92,1,"9:02",1742,1742,"Zach Thomas Defensive Rebound.",20,17,3,0.846374945286614,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+93,1,"8:50",1730,1730,"Nana Foulland missed Layup.",20,17,3,0.852242243034999,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+94,1,"8:50",1730,1730,"Cian Sullivan Block.",20,17,3,0.852242243034999,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+95,1,"8:47",1727,1727,"Amar Stukes Defensive Rebound.",20,17,3,0.842909570951182,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+96,1,"8:43",1723,1723,"Amar Stukes missed Layup.",20,17,3,0.842909570951182,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+97,1,"8:43",1723,1723,"Zach Thomas Defensive Rebound.",20,17,3,0.842909570951182,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+98,1,"8:37",1717,1717,"Stephen Brown made Jumper.",22,17,5,0.886951964630542,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+99,1,"8:35",1715,1715,"La Salle  Timeout",22,17,5,0.886951964630542,"Bucknell","La Salle",4,3,0,1,7.9,400990073,2017-12-22
+100,1,"8:22",1702,1702,"Saul Phiri Turnover.",22,17,5,0.87324868320782,"Bucknell","La Salle",4,3,0,1,7.9,400990073,2017-12-22
+101,1,"8:05",1685,1685,"Stephen Brown made Three Point Jumper. Assisted by Nate Sestina.",25,17,8,0.927028357947162,"Bucknell","La Salle",4,3,0,1,7.9,400990073,2017-12-22
+102,1,"7:53",1673,1673,"Foul on Bruce Moore.",25,17,8,0.920509402923588,"Bucknell","La Salle",4,3,0,1,7.9,400990073,2017-12-22
+103,1,"7:53",1673,1673,"Official TV Timeout",25,17,8,0.920509402923588,"Bucknell","La Salle",4,3,0,1,7.9,400990073,2017-12-22
+104,1,"7:53",1673,1673,"Pookie Powell missed Free Throw.",25,17,8,0.920509402923588,"Bucknell","La Salle",4,3,0,1,7.9,400990073,2017-12-22
+105,1,"7:53",1673,1673,"La Salle Deadball Team Rebound.",25,17,8,0.920509402923588,"Bucknell","La Salle",4,3,0,1,7.9,400990073,2017-12-22
+106,1,"7:53",1673,1673,"Pookie Powell made Free Throw.",25,18,7,0.909761226996321,"Bucknell","La Salle",4,3,0,1,7.9,400990073,2017-12-22
+107,1,"7:28",1648,1648,"Nate Sestina made Jumper. Assisted by Zach Thomas.",27,18,9,0.930393144152824,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+108,1,"7:10",1630,1630,"Pookie Powell made Jumper.",27,20,7,0.904557515536185,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+109,1,"6:55",1615,1615,"Zach Thomas Turnover.",27,20,7,0.899363953026011,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+110,1,"6:33",1593,1593,"Pookie Powell Turnover.",27,20,7,0.903948601479776,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+111,1,"6:32",1592,1592,"Nate Jones Steal.",27,20,7,0.903948601479776,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+112,1,"6:28",1588,1588,"Nate Jones missed Three Point Jumper.",27,20,7,0.901572744431273,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+113,1,"6:28",1588,1588,"Zach Thomas Offensive Rebound.",27,20,7,0.901572744431273,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+114,1,"6:22",1582,1582,"Matt O'Reilly missed Three Point Jumper.",27,20,7,0.901572744431273,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+115,1,"6:22",1582,1582,"Tony Washington Block.",27,20,7,0.901572744431273,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+116,1,"6:18",1578,1578,"Pookie Powell Defensive Rebound.",27,20,7,0.916542556362174,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+117,1,"6:14",1574,1574,"Pookie Powell Turnover.",27,20,7,0.916542556362174,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+118,1,"6:12",1572,1572,"Nate Sestina Steal.",27,20,7,0.916542556362174,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+119,1,"6:10",1570,1570,"Matt O'Reilly made Three Point Jumper. Assisted by Stephen Brown.",30,20,10,0.945919356761189,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+120,1,"5:52",1552,1552,"Foul on Matt O'Reilly.",30,20,10,0.934274663903047,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+121,1,"5:48",1548,1548,"Pookie Powell made Jumper.",30,22,8,0.918841979865946,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+122,1,"5:37",1537,1537,"Foul on Jamir Moultrie.",30,22,8,0.91874823952823,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+123,1,"5:29",1529,1529,"Matt O'Reilly Turnover.",30,22,8,0.916268849075353,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+124,1,"5:28",1528,1528,"Pookie Powell Steal.",30,22,8,0.916268849075353,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+125,1,"5:23",1523,1523,"Pookie Powell Turnover.",30,22,8,0.916268849075353,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+126,1,"5:22",1522,1522,"Matt O'Reilly Steal.",30,22,8,0.916268849075353,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+127,1,"5:19",1519,1519,"Foul on Jimmy Sotos.",30,22,8,0.925852671697833,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+128,1,"5:19",1519,1519,"Jimmy Sotos Turnover.",30,22,8,0.925852671697833,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+129,1,"5:01",1501,1501,"Isiah Deas missed Jumper.",30,22,8,0.917174145129627,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+130,1,"5:01",1501,1501,"Bucknell Deadball Team Rebound.",30,22,8,0.917174145129627,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+131,1,"5:01",1501,1501,"Foul on Tony Washington.",30,22,8,0.917174145129627,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+132,1,"4:50",1490,1490,"Matt O'Reilly Turnover.",30,22,8,0.919766669449774,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+133,1,"4:49",1489,1489,"Pookie Powell Steal.",30,22,8,0.919255504089726,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+134,1,"4:43",1483,1483,"Isiah Deas made Three Point Jumper. Assisted by Jamir Moultrie.",30,25,5,0.878879287461398,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+135,1,"4:33",1473,1473,"Foul on Jamir Moultrie.",30,25,5,0.892513780308507,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+136,1,"4:33",1473,1473,"Jimmy Sotos made Free Throw.",31,25,6,0.906321296258159,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+137,1,"4:33",1473,1473,"Jimmy Sotos missed Free Throw.",31,25,6,0.906321296258159,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+138,1,"4:33",1473,1473,"Tony Washington Defensive Rebound.",31,25,6,0.906321296258159,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+139,1,"4:18",1458,1458,"Pookie Powell missed Layup.",31,25,6,0.891539604786494,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+140,1,"4:18",1458,1458,"Stephen Brown Block.",31,25,6,0.891539604786494,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+141,1,"4:17",1457,1457,"Nate Jones Defensive Rebound.",31,25,6,0.891539604786494,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+142,1,"4:10",1450,1450,"Stephen Brown made Three Point Jumper. Assisted by Nana Foulland.",34,25,9,0.927497610881084,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+143,1,"3:56",1436,1436,"Isiah Deas missed Jumper.",34,25,9,0.928983067531688,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+144,1,"3:56",1436,1436,"Nana Foulland Defensive Rebound.",34,25,9,0.928983067531688,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+145,1,"3:40",1420,1420,"Stephen Brown missed Three Point Jumper.",34,25,9,0.921779421646026,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+146,1,"3:40",1420,1420,"Isiah Deas Defensive Rebound.",34,25,9,0.921779421646026,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+147,1,"3:28",1408,1408,"Tony Washington made Dunk. Assisted by Amar Stukes.",34,27,7,0.916418757427288,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+148,1,"3:11",1391,1391,"Nana Foulland made Jumper.",36,27,9,0.934962952003619,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+149,1,"2:55",1375,1375,"Pookie Powell made Layup.",36,29,7,0.90003857025438,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+150,1,"2:42",1362,1362,"Nana Foulland made Jumper.",38,29,9,0.930693736735548,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+151,1,"2:28",1348,1348,"Pookie Powell made Jumper.",38,31,7,0.904173351975111,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+152,1,"2:07",1327,1327,"Stephen Brown missed Three Point Jumper.",38,31,7,0.909252960436867,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+153,1,"2:07",1327,1327,"Tony Washington Defensive Rebound.",38,31,7,0.909252960436867,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+154,1,"1:58",1318,1318,"Pookie Powell missed Three Point Jumper.",38,31,7,0.912492330655911,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+155,1,"1:58",1318,1318,"Jimmy Sotos Defensive Rebound.",38,31,7,0.912492330655911,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+156,1,"1:38",1298,1298,"Stephen Brown made Three Point Jumper.",41,31,10,0.946290784599477,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+157,1,"1:19",1279,1279,"Isiah Deas made Three Point Jumper. Assisted by Saul Phiri.",41,34,7,0.898870785236476,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+158,1,"1:01",1261,1261,"Foul on Nana Foulland.",41,34,7,0.915505697091886,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+159,1,"1:01",1261,1261,"Nana Foulland Turnover.",41,34,7,0.915505697091886,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+160,1,"1:01",1261,1261,"Official TV Timeout",41,34,7,0.915505697091886,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+161,1,"0:39",1239,1239,"Pookie Powell missed Jumper.",41,34,7,0.903576267221397,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+162,1,"0:39",1239,1239,"Jimmy Sotos Defensive Rebound.",41,34,7,0.903576267221397,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+163,1,"0:13",1213,1213,"Stephen Brown missed Jumper.",41,34,7,0.906265283830336,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+164,1,"0:13",1213,1213,"Cian Sullivan Defensive Rebound.",41,34,7,0.906265283830336,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+165,1,"0:00",1200,1200,"Isiah Deas missed Three Point Jumper.",41,34,7,0.907281409411065,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+166,1,"0:00",1200,1200,"Johnnie Shuler Offensive Rebound.",41,34,7,0.907281409411065,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+167,1,"0:00",1200,1200,"End of 1st half",41,34,7,0.907281409411065,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+168,2,"20:00",1200,1200,"PLAY",41,34,7,0.907281409411065,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+169,2,"19:38",1178,1178,"Foul on Saul Phiri.",41,34,7,0.9055231690634,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+170,2,"19:38",1178,1178,"Nana Foulland made Free Throw.",42,34,8,0.918692828672324,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+171,2,"19:38",1178,1178,"Nana Foulland made Free Throw.",43,34,9,0.930168266863188,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+172,2,"19:25",1165,1165,"Amar Stukes missed Jumper.",43,34,9,0.931554642397884,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+173,2,"19:25",1165,1165,"Nana Foulland Block.",43,34,9,0.931554642397884,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+174,2,"19:25",1165,1165,"La Salle Offensive Rebound.",43,34,9,0.931554642397884,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+175,2,"19:08",1148,1148,"Saul Phiri missed Three Point Jumper.",43,34,9,0.93291568020158,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+176,2,"19:08",1148,1148,"Bucknell Deadball Team Rebound.",43,34,9,0.93291568020158,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+177,2,"18:52",1132,1132,"Bruce Moore missed Three Point Jumper.",43,34,9,0.934115842699961,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+178,2,"18:52",1132,1132,"Pookie Powell Defensive Rebound.",43,34,9,0.934115842699961,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+179,2,"18:46",1126,1126,"Pookie Powell Turnover.",43,34,9,0.942270821106079,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+180,2,"18:25",1105,1105,"Stephen Brown missed Three Point Jumper.",43,34,9,0.933250506250001,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+181,2,"18:25",1105,1105,"Pookie Powell Defensive Rebound.",43,34,9,0.933250506250001,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+182,2,"18:15",1095,1095,"Pookie Powell made Layup.",43,36,7,0.915316418892887,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+183,2,"17:55",1075,1075,"Foul on Tony Washington.",43,36,7,0.907521738515991,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+184,2,"17:55",1075,1075,"Nana Foulland missed Free Throw.",43,36,7,0.907521738515991,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+185,2,"17:55",1075,1075,"Bucknell Deadball Team Rebound.",43,36,7,0.907521738515991,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+186,2,"17:55",1075,1075,"Nana Foulland missed Free Throw.",43,36,7,0.907521738515991,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+187,2,"17:55",1075,1075,"Zach Thomas Offensive Rebound.",43,36,7,0.907521738515991,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+188,2,"17:51",1071,1071,"Zach Thomas made Layup.",45,36,9,0.932174109985736,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+189,2,"17:38",1058,1058,"Amar Stukes missed Layup.",45,36,9,0.940106102138674,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+190,2,"17:38",1058,1058,"Nana Foulland Block.",45,36,9,0.940106102138674,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+191,2,"17:37",1057,1057,"Johnnie Shuler Offensive Rebound.",45,36,9,0.940106102138674,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+192,2,"17:30",1050,1050,"Foul on Nana Foulland.",45,36,9,0.940106102138674,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+193,2,"17:30",1050,1050,"Amar Stukes made Free Throw.",45,37,8,0.92912326936966,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+194,2,"17:30",1050,1050,"Amar Stukes missed Free Throw.",45,37,8,0.92912326936966,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+195,2,"17:30",1050,1050,"Zach Thomas Defensive Rebound.",45,37,8,0.92912326936966,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+196,2,"17:12",1032,1032,"Foul on Bruce Moore.",45,37,8,0.921905247667059,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+197,2,"17:12",1032,1032,"Bruce Moore Turnover.",45,37,8,0.921905247667059,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+198,2,"16:51",1011,1011,"Johnnie Shuler Turnover.",45,37,8,0.918764350147098,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+199,2,"16:31",991,991,"Zach Thomas made Jumper.",47,37,10,0.943551703648855,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+200,2,"16:20",980,980,"Isiah Deas missed Jumper.",47,37,10,0.955069987503915,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+201,2,"16:20",980,980,"Jimmy Sotos Defensive Rebound.",47,37,10,0.955069987503915,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+202,2,"16:13",973,973,"Foul on Saul Phiri.",47,37,10,0.949059630479694,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+203,2,"16:01",961,961,"Jimmy Sotos missed Three Point Jumper.",47,37,10,0.944744154585334,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+204,2,"16:01",961,961,"Saul Phiri Defensive Rebound.",47,37,10,0.944744154585334,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+205,2,"15:52",952,952,"Isiah Deas made Dunk.",47,39,8,0.932054256394739,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+206,2,"15:34",934,934,"Jimmy Sotos missed Three Point Jumper.",47,39,8,0.928468094616234,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+207,2,"15:34",934,934,"Nate Sestina Offensive Rebound.",47,39,8,0.928468094616234,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+208,2,"15:31",931,931,"Nate Sestina made Jumper.",49,39,10,0.950081823047521,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+209,2,"15:26",926,926,"Dajour Joseph made Three Point Jumper. Assisted by Saul Phiri.",49,42,7,0.907815071312308,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+210,2,"15:11",911,911,"Zach Thomas Turnover.",49,42,7,0.922719017002016,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+211,2,"15:10",910,910,"Isiah Deas Steal.",49,42,7,0.922719017002016,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+212,2,"15:05",905,905,"Isiah Deas made Three Point Jumper. Assisted by Amar Stukes.",49,45,4,0.85503196401124,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+213,2,"14:32",872,872,"Jimmy Sotos Turnover.",49,45,4,0.860723857432261,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+214,2,"14:32",872,872,"Official TV Timeout",49,45,4,0.860723857432261,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+215,2,"14:22",862,862,"Isiah Deas missed Jumper.",49,45,4,0.854108496270106,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+216,2,"14:22",862,862,"Nana Foulland Defensive Rebound.",49,45,4,0.854108496270106,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+217,2,"14:07",847,847,"Ben Robertson made Dunk.",51,45,6,0.904848318662962,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+218,2,"14:07",847,847,"Foul on Dajour Joseph.",51,45,6,0.904848318662962,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+219,2,"14:07",847,847,"Ben Robertson made Free Throw.",52,45,7,0.921627195439372,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+220,2,"13:57",837,837,"Pookie Powell missed Three Point Jumper.",52,45,7,0.92777578244239,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+221,2,"13:57",837,837,"Ben Robertson Defensive Rebound.",52,45,7,0.92777578244239,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+222,2,"13:46",826,826,"Foul on Saul Phiri.",52,45,7,0.914015733984416,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+223,2,"13:30",810,810,"Stephen Brown missed Layup.",52,45,7,0.916179716017004,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+224,2,"13:30",810,810,"Stephen Brown Offensive Rebound.",52,45,7,0.916179716017004,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+225,2,"13:27",807,807,"Stephen Brown made Layup.",54,45,9,0.949184362308363,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+226,2,"13:27",807,807,"Foul on Tony Washington.",54,45,9,0.949184362308363,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+227,2,"13:27",807,807,"Stephen Brown made Free Throw.",55,45,10,0.9581396421423,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+228,2,"13:17",797,797,"Foul on Stephen Brown.",55,45,10,0.960025501051499,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+229,2,"13:17",797,797,"Foul on Nate Jones.",55,45,10,0.960025501051499,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+230,2,"13:10",790,790,"Pookie Powell missed Layup.",55,45,10,0.960025501051499,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+231,2,"13:10",790,790,"Ben Robertson Defensive Rebound.",55,45,10,0.960025501051499,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+232,2,"13:03",783,783,"Nate Jones missed Layup.",55,45,10,0.95506126254129,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+233,2,"13:03",783,783,"Saul Phiri Block.",55,45,10,0.95506126254129,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+234,2,"13:03",783,783,"Cian Sullivan Defensive Rebound.",55,45,10,0.95506126254129,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+235,2,"12:56",776,776,"Isiah Deas made Dunk. Assisted by Pookie Powell.",55,47,8,0.936073288419411,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+236,2,"12:34",754,754,"Foul on Cian Sullivan.",55,47,8,0.940010574161716,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+237,2,"12:34",754,754,"Nana Foulland missed Free Throw.",55,47,8,0.940010574161716,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+238,2,"12:34",754,754,"Bucknell Deadball Team Rebound.",55,47,8,0.940010574161716,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+239,2,"12:34",754,754,"Nana Foulland made Free Throw.",56,47,9,0.951151455656019,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+240,2,"12:14",734,734,"Isiah Deas missed Jumper.",56,47,9,0.944736030398225,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+241,2,"12:14",734,734,"Saul Phiri Offensive Rebound.",56,47,9,0.944736030398225,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+242,2,"12:04",724,724,"Johnnie Shuler missed Three Point Jumper.",56,47,9,0.952383925422803,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+243,2,"12:04",724,724,"Cian Sullivan Offensive Rebound.",56,47,9,0.952383925422803,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+244,2,"12:01",721,721,"Foul on Zach Thomas.",56,47,9,0.952383925422803,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+245,2,"11:52",712,712,"Saul Phiri missed Three Point Jumper.",56,47,9,0.947909347729412,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+246,2,"11:52",712,712,"Zach Thomas Defensive Rebound.",56,47,9,0.947909347729412,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+247,2,"11:46",706,706,"Foul on Isiah Deas.",56,47,9,0.945393687705257,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+248,2,"11:46",706,706,"Official TV Timeout",56,47,9,0.945393687705257,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+249,2,"11:46",706,706,"Zach Thomas made Free Throw.",57,47,10,0.955389253700948,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+250,2,"11:46",706,706,"Zach Thomas made Free Throw.",58,47,11,0.963625550455092,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+251,2,"11:31",691,691,"Pookie Powell missed Jumper.",58,47,11,0.975287897926896,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+252,2,"11:31",691,691,"Ben Robertson Defensive Rebound.",58,47,11,0.975287897926896,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+253,2,"11:21",681,681,"Foul on Zach Thomas.",58,47,11,0.967522021281444,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+254,2,"11:21",681,681,"Zach Thomas Turnover.",58,47,11,0.967522021281444,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+255,2,"11:15",675,675,"Foul on Jimmy Sotos.",58,47,11,0.970554521003368,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+256,2,"11:15",675,675,"Saul Phiri made Free Throw.",58,48,10,0.963132476733597,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+257,2,"11:15",675,675,"Saul Phiri missed Free Throw.",58,48,10,0.963132476733597,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+258,2,"11:15",675,675,"Zach Thomas Defensive Rebound.",58,48,10,0.963132476733597,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+259,2,"11:10",670,670,"Stephen Brown made Layup. Assisted by Zach Thomas.",60,48,12,0.976518812741039,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+260,2,"11:01",661,661,"Isiah Deas missed Layup.",60,48,12,0.975267012689274,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+261,2,"11:01",661,661,"Nana Foulland Block.",60,48,12,0.975267012689274,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+262,2,"10:59",659,659,"Stephen Brown Defensive Rebound.",60,48,12,0.97836184632933,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+263,2,"10:52",652,652,"Foul on Saul Phiri.",60,48,12,0.97836184632933,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+264,2,"10:52",652,652,"Zach Thomas made Free Throw.",61,48,13,0.982864764743928,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+265,2,"10:52",652,652,"Zach Thomas made Free Throw.",62,48,14,0.986443606081546,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+266,2,"10:37",637,637,"Tony Washington missed Jumper.",62,48,14,0.984053112555198,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+267,2,"10:37",637,637,"Zach Thomas Defensive Rebound.",62,48,14,0.984053112555198,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+268,2,"10:07",607,607,"Zach Thomas Turnover.",62,48,14,0.987552770565273,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+269,2,"10:05",605,605,"Pookie Powell Steal.",62,48,14,0.987552770565273,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+270,2,"10:03",603,603,"Foul on Bruce Moore.",62,48,14,0.987552770565273,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+271,2,"10:03",603,603,"Pookie Powell made Free Throw.",62,49,13,0.984157999727365,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+272,2,"10:03",603,603,"Pookie Powell made Free Throw.",62,50,12,0.979856248178509,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+273,2,"9:48",588,588,"Bruce Moore missed Three Point Jumper.",62,50,12,0.976760132663414,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+274,2,"9:48",588,588,"Zach Thomas Offensive Rebound.",62,50,12,0.976760132663414,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+275,2,"9:45",585,585,"Foul on Pookie Powell.",62,50,12,0.976760132663414,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+276,2,"9:45",585,585,"Zach Thomas made Free Throw.",63,50,13,0.981664362695137,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+277,2,"9:45",585,585,"Zach Thomas made Free Throw.",64,50,14,0.985548981299622,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+278,2,"9:36",576,576,"Johnnie Shuler missed Three Point Jumper.",64,50,14,0.989370862876394,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+279,2,"9:36",576,576,"Stephen Brown Defensive Rebound.",64,50,14,0.989370862876394,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+280,2,"9:23",563,563,"Foul on Pookie Powell.",64,50,14,0.990264039208295,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+281,2,"9:23",563,563,"Zach Thomas made Free Throw.",65,50,15,0.992461032987216,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+282,2,"9:23",563,563,"Zach Thomas made Free Throw.",66,50,16,0.994165179530082,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+283,2,"9:20",560,560,"Isiah Deas missed Three Point Jumper.",66,50,16,0.994165179530082,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+284,2,"9:20",560,560,"Nate Jones Defensive Rebound.",66,50,16,0.994165179530082,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+285,2,"9:04",544,544,"Zach Thomas missed Jumper.",66,50,16,0.993804760731487,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+286,2,"9:04",544,544,"Isiah Deas Defensive Rebound.",66,50,16,0.993804760731487,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+287,2,"8:58",538,538,"Foul on Bruce Moore.",66,50,16,0.995856771291877,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+288,2,"8:58",538,538,"Isiah Deas made Free Throw.",66,51,15,0.994517877037848,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+289,2,"8:58",538,538,"Isiah Deas made Free Throw.",66,52,14,0.992749466024936,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+290,2,"8:45",525,525,"Nate Jones made Three Point Jumper. Assisted by Stephen Brown.",69,52,17,0.995659099389096,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+291,2,"8:35",515,515,"Foul on Nate Jones.",69,52,17,0.995408108833364,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+292,2,"8:35",515,515,"Pookie Powell made Free Throw.",69,53,16,0.993990102067362,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+293,2,"8:35",515,515,"Pookie Powell made Free Throw.",69,54,15,0.992137664029186,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+294,2,"8:18",498,498,"Stephen Brown made Layup.",71,54,17,0.995966252400098,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+295,2,"8:10",490,490,"Saul Phiri made Three Point Jumper. Assisted by Amar Stukes.",71,57,14,0.990923090616068,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+296,2,"7:53",473,473,"Zach Thomas made Jumper. Assisted by Stephen Brown.",73,57,16,0.995984884917153,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+297,2,"7:43",463,463,"Pookie Powell missed Layup.",73,57,16,0.99521852392834,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+298,2,"7:43",463,463,"Zach Thomas Defensive Rebound.",73,57,16,0.99521852392834,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+299,2,"7:26",446,446,"Official TV Timeout",73,57,16,0.994203609687151,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+300,2,"7:26",446,446,"Zach Thomas made Free Throw.",74,57,17,0.995595101956896,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+301,2,"7:26",446,446,"Zach Thomas missed Free Throw.",73,57,16,0.994203609687151,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+302,2,"7:26",446,446,"Foul on Dajour Joseph.",73,57,16,0.994203609687151,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+303,2,"7:26",446,446,"Bucknell Deadball Team Rebound.",73,57,16,0.994203609687151,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+304,2,"7:26",446,446,"Official TV Timeout",73,57,16,0.994203609687151,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+305,2,"7:15",435,435,"Pookie Powell made Layup.",74,59,15,0.995924146950238,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+306,2,"6:49",409,409,"Nana Foulland made Jumper. Assisted by Stephen Brown.",76,59,17,0.998247664042011,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+307,2,"6:37",397,397,"Tony Washington made Layup. Assisted by Pookie Powell.",76,61,15,0.995909519248643,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+308,2,"6:15",375,375,"Nana Foulland made Jumper. Assisted by Nate Sestina.",78,61,17,0.99755579670646,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+309,2,"6:02",362,362,"Tony Washington made Dunk. Assisted by Pookie Powell.",78,63,15,0.996189525766468,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+310,2,"5:39",339,339,"Nana Foulland made Jumper. Assisted by Stephen Brown.",80,63,17,0.998892419285248,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+311,2,"5:27",327,327,"Pookie Powell made Three Point Jumper.",80,66,14,0.994365474348425,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+312,2,"4:57",297,297,"Nana Foulland Turnover.",80,66,14,0.996287219354471,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+313,2,"4:55",295,295,"Saul Phiri Steal.",80,66,14,0.996287219354471,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+314,2,"4:45",285,285,"Isiah Deas missed Three Point Jumper.",80,66,14,0.996431303871199,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+315,2,"4:45",285,285,"Nate Jones Defensive Rebound.",80,66,14,0.996431303871199,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+316,2,"4:16",256,256,"Stephen Brown missed Three Point Jumper.",80,66,14,0.998589003731376,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+317,2,"4:16",256,256,"Pookie Powell Defensive Rebound.",80,66,14,0.998589003731376,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+318,2,"4:09",249,249,"Pookie Powell Turnover.",80,66,14,0.998160585224329,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+319,2,"4:09",249,249,"Nate Jones Steal.",80,66,14,0.998160585224329,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+320,2,"3:50",230,230,"Nana Foulland made Jumper. Assisted by Stephen Brown.",82,66,16,0.999202178999779,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+321,2,"3:37",217,217,"Isiah Deas made Jumper. Assisted by Amar Stukes.",82,68,14,0.998860123985202,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+322,2,"3:07",187,187,"Foul on Saul Phiri.",82,68,14,0.999345913972792,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+323,2,"3:07",187,187,"Official TV Timeout",82,68,14,0.999345913972792,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+324,2,"3:07",187,187,"Nana Foulland missed Free Throw.",82,68,14,0.999345913972792,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+325,2,"3:07",187,187,"Bucknell Deadball Team Rebound.",82,68,14,0.999345913972792,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+326,2,"3:07",187,187,"Nana Foulland missed Free Throw.",82,68,14,0.999345913972792,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+327,2,"3:07",187,187,"Isiah Deas Defensive Rebound.",82,68,14,0.999345913972792,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+328,2,"2:42",162,162,"Jamir Moultrie made Three Point Jumper. Assisted by Dajour Joseph.",82,71,11,0.998482977385547,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+329,2,"2:20",140,140,"Zach Thomas Turnover.",82,71,11,0.998204598183036,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+330,2,"2:19",139,139,"Jamir Moultrie Steal.",82,71,11,0.998721906007069,"Bucknell","La Salle",4,4,0,0,7.9,400990073,2017-12-22
+331,2,"2:02",122,122,"Foul on Nana Foulland.",82,71,11,0.998779971615559,"Bucknell","La Salle",4,4,0,1,7.9,400990073,2017-12-22
+332,2,"2:02",122,122,"Isiah Deas made Free Throw.",82,72,10,0.997852177345246,"Bucknell","La Salle",4,4,0,1,7.9,400990073,2017-12-22
+333,2,"2:02",122,122,"Isiah Deas made Free Throw.",82,73,9,0.996221493126752,"Bucknell","La Salle",4,4,0,1,7.9,400990073,2017-12-22
+334,2,"2:02",122,122,"La Salle  Timeout",82,73,9,0.996221493126752,"Bucknell","La Salle",4,3,0,1,7.9,400990073,2017-12-22
+335,2,"1:59",119,119,"Foul on Tony Washington.",82,73,9,0.997548884591186,"Bucknell","La Salle",4,3,0,1,7.9,400990073,2017-12-22
+336,2,"1:59",119,119,"Stephen Brown made Free Throw.",83,73,10,0.998654435383597,"Bucknell","La Salle",4,3,0,1,7.9,400990073,2017-12-22
+337,2,"1:59",119,119,"Stephen Brown made Free Throw.",84,73,11,0.999261707734801,"Bucknell","La Salle",4,3,0,1,7.9,400990073,2017-12-22
+338,2,"1:54",114,114,"Foul on Stephen Brown.",84,73,11,0.999261707734801,"Bucknell","La Salle",4,3,0,1,7.9,400990073,2017-12-22
+339,2,"1:54",114,114,"Pookie Powell made Free Throw.",84,74,10,0.998654435383597,"Bucknell","La Salle",4,3,0,1,7.9,400990073,2017-12-22
+340,2,"1:54",114,114,"Pookie Powell made Free Throw.",84,75,9,0.997548884591186,"Bucknell","La Salle",4,3,0,1,7.9,400990073,2017-12-22
+341,2,"1:53",113,113,"Foul on Johnnie Shuler.",84,75,9,0.997548884591186,"Bucknell","La Salle",4,3,0,1,7.9,400990073,2017-12-22
+342,2,"1:53",113,113,"Jimmy Sotos made Free Throw.",85,75,10,0.998654435383597,"Bucknell","La Salle",4,3,0,1,7.9,400990073,2017-12-22
+343,2,"1:53",113,113,"Jimmy Sotos made Free Throw.",86,75,11,0.999261707734801,"Bucknell","La Salle",4,3,0,1,7.9,400990073,2017-12-22
+344,2,"1:42",102,102,"Dajour Joseph missed Layup.",86,75,11,0.999275165108335,"Bucknell","La Salle",4,3,0,1,7.9,400990073,2017-12-22
+345,2,"1:42",102,102,"Zach Thomas Defensive Rebound.",86,75,11,0.999275165108335,"Bucknell","La Salle",4,3,0,1,7.9,400990073,2017-12-22
+346,2,"1:13",73,73,"Stephen Brown missed Jumper.",86,75,11,0.999792292529787,"Bucknell","La Salle",4,3,0,1,7.9,400990073,2017-12-22
+347,2,"1:13",73,73,"Johnnie Shuler Defensive Rebound.",86,75,11,0.999792292529787,"Bucknell","La Salle",4,3,0,1,7.9,400990073,2017-12-22
+348,2,"1:03",63,63,"Isiah Deas missed Three Point Jumper.",86,75,11,0.999761579701825,"Bucknell","La Salle",4,3,0,1,7.9,400990073,2017-12-22
+349,2,"1:03",63,63,"Dajour Joseph Offensive Rebound.",86,75,11,0.999761579701825,"Bucknell","La Salle",4,3,0,1,7.9,400990073,2017-12-22
+350,2,"0:49",49,49,"Foul on Nana Foulland.",86,75,11,0.999981058998357,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+351,2,"0:49",49,49,"Pookie Powell made Free Throw.",86,76,10,0.999950940987036,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+352,2,"0:49",49,49,"Pookie Powell made Free Throw.",86,77,9,0.999872938530947,"Bucknell","La Salle",4,3,0,0,7.9,400990073,2017-12-22
+353,2,"0:41",41,41,"Zach Thomas Turnover.",86,77,9,0.999860858749786,"Bucknell","La Salle",4,3,0,1,7.9,400990073,2017-12-22
+354,2,"0:41",41,41,"Isiah Deas Steal.",86,77,9,0.999860858749786,"Bucknell","La Salle",4,3,0,1,7.9,400990073,2017-12-22
+355,2,"0:41",41,41,"La Salle  Timeout",86,77,9,0.999860858749786,"Bucknell","La Salle",4,2,0,1,7.9,400990073,2017-12-22
+356,2,"0:36",36,36,"Dajour Joseph made Layup.",86,79,7,0.998682476281735,"Bucknell","La Salle",4,2,0,1,7.9,400990073,2017-12-22
+357,2,"0:34",34,34,"Foul on Dajour Joseph.",86,79,7,0.996381103880801,"Bucknell","La Salle",4,2,0,1,7.9,400990073,2017-12-22
+358,2,"0:34",34,34,"Stephen Brown made Free Throw.",87,79,8,0.998415062007246,"Bucknell","La Salle",4,2,0,1,7.9,400990073,2017-12-22
+359,2,"0:34",34,34,"Stephen Brown missed Free Throw.",87,79,8,0.998415062007246,"Bucknell","La Salle",4,2,0,1,7.9,400990073,2017-12-22
+360,2,"0:34",34,34,"Isiah Deas Defensive Rebound.",87,79,8,0.998415062007246,"Bucknell","La Salle",4,2,0,1,7.9,400990073,2017-12-22
+361,2,"0:24",24,24,"Isiah Deas made Jumper.",87,81,6,0.996827453531551,"Bucknell","La Salle",4,2,0,1,7.9,400990073,2017-12-22
+362,2,"0:13",13,13,"Foul on Johnnie Shuler.",87,81,6,0.99992256752868,"Bucknell","La Salle",4,2,0,1,7.9,400990073,2017-12-22
+363,2,"0:13",13,13,"Zach Thomas missed Free Throw.",87,81,6,0.99992256752868,"Bucknell","La Salle",4,2,0,1,7.9,400990073,2017-12-22
+364,2,"0:13",13,13,"Bucknell Deadball Team Rebound.",87,81,6,0.99992256752868,"Bucknell","La Salle",4,2,0,1,7.9,400990073,2017-12-22
+365,2,"0:13",13,13,"Zach Thomas made Free Throw.",88,81,7,0.999981410594146,"Bucknell","La Salle",4,2,0,1,7.9,400990073,2017-12-22
+366,2,"0:09",9,9,"Jamir Moultrie missed Three Point Jumper.",88,81,7,0.999992721291484,"Bucknell","La Salle",4,2,0,1,7.9,400990073,2017-12-22
+367,2,"0:09",9,9,"Amar Stukes Offensive Rebound.",88,81,7,0.999992721291484,"Bucknell","La Salle",4,2,0,1,7.9,400990073,2017-12-22
+368,2,"0:05",5,5,"Isiah Deas missed Three Point Jumper.",88,81,7,0.999992721291484,"Bucknell","La Salle",4,2,0,1,7.9,400990073,2017-12-22
+369,2,"0:05",5,5,"Nate Jones Defensive Rebound.",88,81,7,0.999992721291484,"Bucknell","La Salle",4,2,0,1,7.9,400990073,2017-12-22
+370,2,"0:00",0,0,"End of Game",88,81,7,1,"Bucknell","La Salle",4,2,0,1,7.9,400990073,2017-12-22

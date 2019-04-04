@@ -1,0 +1,326 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.188206135120096,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+2,1,"19:43",2383,2383,"Jeremy Senglin Turnover.",0,0,0,0.194636807114288,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+3,1,"19:32",2372,2372,"Robert Jones III missed Three Point Jumper.",0,0,0,0.213212322719257,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+4,1,"19:32",2372,2372,"Jeremy Senglin Defensive Rebound.",0,0,0,0.213212322719257,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+5,1,"19:16",2356,2356,"Ryan Richardson made Three Point Jumper. Assisted by Jeremy Senglin.",0,3,-3,0.173617150747037,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+6,1,"18:44",2324,2324,"Novak Topalovic missed Jumper.",0,3,-3,0.172778075678025,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+7,1,"18:44",2324,2324,"Cody John Defensive Rebound.",0,3,-3,0.172778075678025,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+8,1,"18:34",2314,2314,"Cody John made Layup.",0,5,-5,0.140231333571175,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+9,1,"18:10",2290,2290,"Ethan Telfair Turnover.",0,5,-5,0.14322732812143,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+10,1,"17:59",2279,2279,"Ryan Richardson missed Layup.",0,5,-5,0.140702965713711,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+11,1,"17:59",2279,2279,"Novak Topalovic Defensive Rebound.",0,5,-5,0.140702965713711,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+12,1,"17:52",2272,2272,"Foul on Kyndahl Hill.",0,5,-5,0.140702965713711,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+13,1,"17:52",2272,2272,"Stephen Lennox made Free Throw.",1,5,-4,0.153685469261856,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+14,1,"17:52",2272,2272,"Stephen Lennox made Free Throw.",2,5,-3,0.167632170418255,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+15,1,"17:31",2251,2251,"Cody John Turnover.",2,5,-3,0.177814840311207,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+16,1,"17:29",2249,2249,"Geno Luzcando Steal.",2,5,-3,0.192452473935151,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+17,1,"17:25",2245,2245,"Foul on Zach Braxton.",2,5,-3,0.192452473935151,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+18,1,"17:05",2225,2225,"Novak Topalovic missed Layup.",2,5,-3,0.167247963079254,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+19,1,"17:05",2225,2225,"Kyndahl Hill Defensive Rebound.",2,5,-3,0.167247963079254,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+20,1,"16:49",2209,2209,"Ryan Richardson Turnover.",2,5,-3,0.167387726755372,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+21,1,"16:48",2208,2208,"Geno Luzcando Steal.",2,5,-3,0.167387726755372,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+22,1,"16:46",2206,2206,"Geno Luzcando missed Layup.",2,5,-3,0.167387726755372,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+23,1,"16:46",2206,2206,"Ryan Richardson Defensive Rebound.",2,5,-3,0.167387726755372,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+24,1,"16:40",2200,2200,"Ryan Richardson made Three Point Jumper.",2,8,-6,0.125239173484491,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+25,1,"16:24",2184,2184,"Ethan Telfair Turnover.",2,8,-6,0.127119418111691,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+26,1,"16:22",2182,2182,"Zach Braxton Steal.",2,8,-6,0.127119418111691,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+27,1,"16:15",2175,2175,"Ryan Richardson made Three Point Jumper.",2,11,-9,0.0922669705722071,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+28,1,"16:10",2170,2170,"Idaho State  Timeout",2,11,-9,0.0922669705722071,"Idaho State","Weber State",3,4,1,0,-7.5,400916377,2017-01-25
+29,1,"15:41",2141,2141,"Idaho State  Turnover.",2,11,-9,0.10264609201584,"Idaho State","Weber State",3,4,1,0,-7.5,400916377,2017-01-25
+30,1,"15:25",2125,2125,"Cody John missed Three Point Jumper.",2,11,-9,0.087513603446162,"Idaho State","Weber State",3,4,1,0,-7.5,400916377,2017-01-25
+31,1,"15:25",2125,2125,"Hayes Garrity Defensive Rebound.",2,11,-9,0.087513603446162,"Idaho State","Weber State",3,4,1,0,-7.5,400916377,2017-01-25
+32,1,"15:16",2116,2116,"Foul on Cody John.",2,11,-9,0.0796726559256831,"Idaho State","Weber State",3,4,1,0,-7.5,400916377,2017-01-25
+33,1,"15:07",2107,2107,"Robert Jones III Turnover.",2,11,-9,0.0920463213184554,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+34,1,"15:05",2105,2105,"Jeremy Senglin Steal.",2,11,-9,0.0920463213184554,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+35,1,"15:01",2101,2101,"Jeremy Senglin made Dunk.",2,13,-11,0.0749473873243262,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+36,1,"14:42",2082,2082,"Geno Luzcando made Jumper.",4,13,-9,0.101111850657625,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+37,1,"14:24",2064,2064,"Ryan Richardson missed Three Point Jumper.",4,13,-9,0.0836479458641469,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+38,1,"14:24",2064,2064,"Geno Luzcando Defensive Rebound.",4,13,-9,0.0836479458641469,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+39,1,"14:16",2056,2056,"Geno Luzcando missed Layup.",4,13,-9,0.0783392840857984,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+40,1,"14:16",2056,2056,"Jordan Dallas Block.",4,13,-9,0.0783392840857984,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+41,1,"14:16",2056,2056,"Idaho State Offensive Rebound.",4,13,-9,0.0783392840857984,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+42,1,"14:13",2053,2053,"Novak Topalovic made Jumper.",6,13,-7,0.0970173596480457,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+43,1,"13:45",2025,2025,"Jeremy Senglin made Three Point Jumper. Assisted by Cody John.",6,16,-10,0.0667351087523321,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+44,1,"13:25",2005,2005,"Stephen Lennox missed Jumper.",6,16,-10,0.0850298162704001,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+45,1,"13:25",2005,2005,"Jordan Dallas Defensive Rebound.",6,16,-10,0.0850298162704001,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+46,1,"13:09",1989,1989,"Cody John missed Three Point Jumper.",6,16,-10,0.0765689919961582,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+47,1,"13:09",1989,1989,"Stephen Lennox Defensive Rebound.",6,16,-10,0.0765689919961582,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+48,1,"12:42",1962,1962,"Geno Luzcando made Jumper.",8,16,-8,0.107056204365036,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+49,1,"12:20",1940,1940,"Jeremy Senglin made Three Point Jumper. Assisted by Cody John.",8,19,-11,0.0666535573667544,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+50,1,"12:05",1925,1925,"Foul on Stephen Lennox.",8,19,-11,0.0594472038973788,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+51,1,"12:05",1925,1925,"Stephen Lennox Turnover.",8,19,-11,0.0594472038973788,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+52,1,"11:54",1914,1914,"Jordan Dallas Turnover.",8,19,-11,0.0712637028880772,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+53,1,"11:54",1914,1914,"Robert Jones III Steal.",8,19,-11,0.0712637028880772,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+54,1,"11:54",1914,1914,"Official TV Timeout",8,19,-11,0.0712637028880772,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+55,1,"11:47",1907,1907,"Robert Jones III made Layup.",10,19,-9,0.0883119582492212,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+56,1,"11:24",1884,1884,"Zach Braxton made Dunk. Assisted by Cody John.",10,21,-11,0.0647268350525823,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+57,1,"10:57",1857,1857,"Foul on Geno Luzcando.",10,21,-11,0.071052892542072,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+58,1,"10:57",1857,1857,"Geno Luzcando Turnover.",10,21,-11,0.071052892542072,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+59,1,"10:43",1843,1843,"Ryan Richardson Turnover.",10,21,-11,0.0632527240028765,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+60,1,"10:17",1817,1817,"Novak Topalovic missed Jumper.",10,21,-11,0.0624049836388645,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+61,1,"10:17",1817,1817,"Kyndahl Hill Defensive Rebound.",10,21,-11,0.0624049836388645,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+62,1,"10:07",1807,1807,"Ryan Richardson missed Three Point Jumper.",10,21,-11,0.0653335423078707,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+63,1,"10:07",1807,1807,"Geno Luzcando Defensive Rebound.",10,21,-11,0.0653335423078707,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+64,1,"10:00",1800,1800,"Geno Luzcando Turnover.",10,21,-11,0.0653335423078707,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+65,1,"9:49",1789,1789,"Ryan Richardson made Three Point Jumper. Assisted by Zach Braxton.",10,24,-14,0.0410067792826269,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+66,1,"9:31",1771,1771,"Novak Topalovic made Jumper.",12,24,-12,0.0609940742022337,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+67,1,"9:04",1744,1744,"Jeremy Senglin made Three Point Jumper.",12,27,-15,0.0497136626407389,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+68,1,"8:38",1718,1718,"Robert Jones III missed Jumper.",12,27,-15,0.0378179295840506,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+69,1,"8:38",1718,1718,"Kyndahl Hill Defensive Rebound.",12,27,-15,0.0378179295840506,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+70,1,"8:29",1709,1709,"Kyndahl Hill missed Jumper.",12,27,-15,0.0412435745895787,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+71,1,"8:29",1709,1709,"Zach Braxton Offensive Rebound.",12,27,-15,0.0412435745895787,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+72,1,"8:16",1696,1696,"Kyndahl Hill Turnover.",12,27,-15,0.0384927944279556,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+73,1,"8:14",1694,1694,"Robert Jones III Steal.",12,27,-15,0.0384927944279556,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+74,1,"8:12",1692,1692,"Geno Luzcando Turnover.",12,27,-15,0.0384927944279556,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+75,1,"8:10",1690,1690,"Ryan Richardson Steal.",12,27,-15,0.0384927944279556,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+76,1,"8:08",1688,1688,"Cody John made Jumper. Assisted by Ryan Richardson.",12,29,-17,0.0238600504054737,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+77,1,"7:44",1664,1664,"Geno Luzcando missed Three Point Jumper.",12,29,-17,0.0329889433596625,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+78,1,"7:44",1664,1664,"Cody John Defensive Rebound.",12,29,-17,0.0329889433596625,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+79,1,"7:30",1650,1650,"Ryan Richardson missed Jumper.",12,29,-17,0.0341718711254216,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+80,1,"7:30",1650,1650,"Ethan Telfair Defensive Rebound.",12,29,-17,0.0341718711254216,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+81,1,"7:20",1640,1640,"Ethan Telfair made Jumper.",14,29,-15,0.0384689808216944,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+82,1,"7:00",1620,1620,"Foul on Brandon Boyd.",14,29,-15,0.0350034721272874,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+83,1,"7:00",1620,1620,"Official TV Timeout",14,29,-15,0.0350034721272874,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+84,1,"6:48",1608,1608,"Jeremy Senglin made Three Point Jumper. Assisted by McKay Cannon.",14,32,-18,0.0265579730356749,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+85,1,"6:25",1585,1585,"Foul on Jeremy Senglin.",14,32,-18,0.0246610735582897,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+86,1,"6:19",1579,1579,"Brandon Boyd Turnover.",14,32,-18,0.0195327978919928,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+87,1,"6:17",1577,1577,"McKay Cannon Steal.",14,32,-18,0.0195327978919928,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+88,1,"6:14",1574,1574,"Dusty Baker made Three Point Jumper. Assisted by Jerrick Harding.",14,35,-21,0.0123540109751757,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+89,1,"5:48",1548,1548,"Ethan Telfair missed Three Point Jumper.",14,35,-21,0.0168824307500549,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+90,1,"5:48",1548,1548,"Jerrick Harding Block.",14,35,-21,0.0168824307500549,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+91,1,"5:43",1543,1543,"Geno Luzcando Offensive Rebound.",14,35,-21,0.0168824307500549,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+92,1,"5:41",1541,1541,"Geno Luzcando made Layup.",16,35,-19,0.0221702115314356,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+93,1,"5:26",1526,1526,"Foul on Geno Luzcando.",16,35,-19,0.0219163675044432,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+94,1,"5:21",1521,1521,"McKay Cannon missed Jumper.",16,35,-19,0.0219163675044432,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+95,1,"5:21",1521,1521,"Stephen Lennox Defensive Rebound.",16,35,-19,0.0219163675044432,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+96,1,"5:00",1500,1500,"Balint Mocsan missed Jumper.",16,35,-19,0.0212090473080409,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+97,1,"5:00",1500,1500,"Jordan Dallas Defensive Rebound.",16,35,-19,0.0212090473080409,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+98,1,"4:51",1491,1491,"Jordan Dallas missed Three Point Jumper.",16,35,-19,0.0252259156395678,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+99,1,"4:51",1491,1491,"Ethan Telfair Defensive Rebound.",16,35,-19,0.0252259156395678,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+100,1,"4:35",1475,1475,"Robert Jones III missed Three Point Jumper.",16,35,-19,0.0155794640371709,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+101,1,"4:35",1475,1475,"Ryan Richardson Defensive Rebound.",16,35,-19,0.0155794640371709,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+102,1,"4:31",1471,1471,"Foul on Robert Jones III.",16,35,-19,0.0155794640371709,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+103,1,"4:20",1460,1460,"McKay Cannon missed Three Point Jumper.",16,35,-19,0.0275738615194365,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+104,1,"4:20",1460,1460,"Robert Jones III Defensive Rebound.",16,35,-19,0.0275738615194365,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+105,1,"3:55",1435,1435,"Ethan Telfair made Three Point Jumper.",19,35,-16,0.0337175238954928,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+106,1,"3:34",1414,1414,"Ryan Richardson missed Jumper.",19,35,-16,0.0289022040356861,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+107,1,"3:34",1414,1414,"Erik Nakken Defensive Rebound.",19,35,-16,0.0289022040356861,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+108,1,"3:24",1404,1404,"Foul on Ryan Richardson.",19,35,-16,0.0287178460617632,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+109,1,"3:24",1404,1404,"Official TV Timeout",19,35,-16,0.0287178460617632,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+110,1,"3:24",1404,1404,"Ethan Telfair made Free Throw.",20,35,-15,0.033371845851251,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+111,1,"3:24",1404,1404,"Ethan Telfair made Free Throw.",21,35,-14,0.0387499801935159,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+112,1,"2:59",1379,1379,"Cody John missed Jumper.",21,35,-14,0.0400591375622264,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+113,1,"2:59",1379,1379,"Kyndahl Hill Offensive Rebound.",21,35,-14,0.0400591375622264,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+114,1,"2:55",1375,1375,"Kyndahl Hill made Two Point Tip Shot.",21,37,-16,0.0303180345763,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+115,1,"2:35",1355,1355,"Stephen Lennox made Jumper. Assisted by Balint Mocsan.",23,37,-14,0.0408739955338678,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+116,1,"2:09",1329,1329,"Kyndahl Hill made Jumper. Assisted by McKay Cannon.",23,39,-16,0.0271019350486847,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+117,1,"1:51",1311,1311,"Robert Jones III made Jumper.",25,39,-14,0.0413561459197411,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+118,1,"1:33",1293,1293,"McKay Cannon made Three Point Jumper. Assisted by Kyndahl Hill.",25,42,-17,0.0246077231414289,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+119,1,"1:09",1269,1269,"Foul on Kyndahl Hill.",25,42,-17,0.0245045909274845,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+120,1,"1:01",1261,1261,"Ethan Telfair missed Jumper.",25,42,-17,0.0245045909274845,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+121,1,"1:01",1261,1261,"Ryan Richardson Defensive Rebound.",25,42,-17,0.0245045909274845,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+122,1,"0:46",1246,1246,"Jeremy Senglin missed Three Point Jumper.",25,42,-17,0.0242851362540742,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+123,1,"0:46",1246,1246,"Balint Mocsan Defensive Rebound.",25,42,-17,0.0242851362540742,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+124,1,"0:36",1236,1236,"Foul on Zach Braxton.",25,42,-17,0.023029920131221,"Idaho State","Weber State",3,4,0,1,-7.5,400916377,2017-01-25
+125,1,"0:36",1236,1236,"Ethan Telfair made Free Throw.",26,42,-16,0.0269446979226253,"Idaho State","Weber State",3,4,0,1,-7.5,400916377,2017-01-25
+126,1,"0:36",1236,1236,"Ethan Telfair made Free Throw.",27,42,-15,0.0315034769920079,"Idaho State","Weber State",3,4,0,1,-7.5,400916377,2017-01-25
+127,1,"0:36",1236,1236,"Weber State  Timeout",27,42,-15,0.0315034769920079,"Idaho State","Weber State",3,3,0,1,-7.5,400916377,2017-01-25
+128,1,"0:11",1211,1211,"Ryan Richardson missed Three Point Jumper.",27,42,-15,0.0299288821112671,"Idaho State","Weber State",3,3,0,1,-7.5,400916377,2017-01-25
+129,1,"0:11",1211,1211,"Dusty Baker Offensive Rebound.",27,42,-15,0.0299288821112671,"Idaho State","Weber State",3,3,0,1,-7.5,400916377,2017-01-25
+130,1,"0:05",1205,1205,"Ryan Richardson made Three Point Jumper. Assisted by Cody John.",27,45,-18,0.0200091646596257,"Idaho State","Weber State",3,3,0,1,-7.5,400916377,2017-01-25
+131,1,"0:00",1200,1200,"End of 1st half",27,45,-18,0.0200091646596257,"Idaho State","Weber State",3,3,0,1,-7.5,400916377,2017-01-25
+132,2,"20:00",1200,1200,"PLAY",27,45,-18,0.0200091646596257,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+133,2,"19:48",1188,1188,"Kyndahl Hill missed Jumper.",27,45,-18,0.0177164659669115,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+134,2,"19:48",1188,1188,"Novak Topalovic Defensive Rebound.",27,45,-18,0.0177164659669115,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+135,2,"19:35",1175,1175,"Foul on Kyndahl Hill.",27,45,-18,0.0197617306186693,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+136,2,"19:35",1175,1175,"Ethan Telfair Turnover.",27,45,-18,0.0197617306186693,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+137,2,"19:26",1166,1166,"Cody John missed Jumper.",27,45,-18,0.0160291440217581,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+138,2,"19:26",1166,1166,"Robert Jones III Defensive Rebound.",27,45,-18,0.0160291440217581,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+139,2,"19:17",1157,1157,"Robert Jones III made Three Point Jumper. Assisted by Ethan Telfair.",30,45,-15,0.0337821530504473,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+140,2,"18:56",1136,1136,"Dusty Baker missed Three Point Jumper.",30,45,-15,0.0311282505773489,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+141,2,"18:56",1136,1136,"Jeremy Senglin Defensive Rebound.",30,45,-15,0.0311282505773489,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+142,2,"18:42",1122,1122,"Jeremy Senglin missed Three Point Jumper.",30,45,-15,0.0216702737378676,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+143,2,"18:42",1122,1122,"Novak Topalovic Defensive Rebound.",30,45,-15,0.0216702737378676,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+144,2,"18:20",1100,1100,"Robert Jones III made Jumper.",32,45,-13,0.0409337986479189,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+145,2,"18:20",1100,1100,"Foul on Dusty Baker.",32,45,-13,0.0409337986479189,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+146,2,"18:20",1100,1100,"Robert Jones III missed Free Throw.",32,45,-13,0.0409337986479189,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+147,2,"18:20",1100,1100,"Ryan Richardson Defensive Rebound.",32,45,-13,0.0409337986479189,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+148,2,"18:17",1097,1097,"Dusty Baker Turnover.",32,45,-13,0.0395114229190029,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+149,2,"17:46",1066,1066,"Balint Mocsan missed Jumper.",32,45,-13,0.0454715717757682,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+150,2,"17:46",1066,1066,"Ryan Richardson Defensive Rebound.",32,45,-13,0.0454715717757682,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+151,2,"17:33",1053,1053,"Foul on Robert Jones III.",32,45,-13,0.0373784495669725,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+152,2,"17:33",1053,1053,"Cody John made Free Throw.",32,46,-14,0.0314109186874575,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+153,2,"17:33",1053,1053,"Cody John made Free Throw.",32,47,-15,0.0263700149767998,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+154,2,"17:22",1042,1042,"Foul on Ryan Richardson.",32,47,-15,0.0289655498825781,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+155,2,"17:22",1042,1042,"Robert Jones III made Free Throw.",33,47,-14,0.0343212875083951,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+156,2,"17:22",1042,1042,"Robert Jones III made Free Throw.",34,47,-13,0.0406258714521678,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+157,2,"17:04",1024,1024,"Ryan Richardson missed Three Point Jumper.",34,47,-13,0.0382045406409507,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+158,2,"17:04",1024,1024,"Brandon Boyd Defensive Rebound.",34,47,-13,0.0382045406409507,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+159,2,"16:54",1014,1014,"Foul on Dusty Baker.",34,47,-13,0.032752018925654,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+160,2,"16:52",1012,1012,"Foul on Dusty Baker.",34,47,-13,0.032752018925654,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+161,2,"16:52",1012,1012,"Novak Topalovic made Free Throw.",35,47,-12,0.0390592147830869,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+162,2,"16:52",1012,1012,"Novak Topalovic missed Free Throw.",35,47,-12,0.0390592147830869,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+163,2,"16:52",1012,1012,"Jordan Dallas Defensive Rebound.",35,47,-12,0.0390592147830869,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+164,2,"16:36",996,996,"Cody John made Jumper.",35,49,-14,0.0294862041802661,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+165,2,"16:27",987,987,"Ethan Telfair missed Jumper.",35,49,-14,0.027855322397539,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+166,2,"16:27",987,987,"Novak Topalovic Offensive Rebound.",35,49,-14,0.027855322397539,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+167,2,"15:59",959,959,"Novak Topalovic missed Dunk.",35,49,-14,0.023289798663305,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+168,2,"15:59",959,959,"Jordan Dallas Block.",35,49,-14,0.023289798663305,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+169,2,"15:56",956,956,"Robert Jones III Offensive Rebound.",35,49,-14,0.023289798663305,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+170,2,"15:53",953,953,"Robert Jones III made Layup.",37,49,-12,0.033773829512593,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+171,2,"15:38",938,938,"Zach Braxton made Jumper.",37,51,-14,0.027499295217848,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+172,2,"15:38",938,938,"Foul on Novak Topalovic.",37,51,-14,0.027499295217848,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+173,2,"15:38",938,938,"Official TV Timeout",37,51,-14,0.027499295217848,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+174,2,"15:38",938,938,"Zach Braxton made Free Throw.",37,52,-15,0.0228186145866314,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+175,2,"15:22",922,922,"Ethan Telfair missed Jumper.",37,52,-15,0.0204205054877174,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+176,2,"15:22",922,922,"Idaho State Deadball Team Rebound.",37,52,-15,0.0204205054877174,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+177,2,"15:19",919,919,"Foul on Cody John.",37,52,-15,0.0191375145533866,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+178,2,"15:08",908,908,"Brandon Boyd Turnover.",37,52,-15,0.0234103688570207,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+179,2,"14:54",894,894,"Jordan Dallas missed Layup.",37,52,-15,0.0234386596998769,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+180,2,"14:54",894,894,"Zach Braxton Offensive Rebound.",37,52,-15,0.0234386596998769,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+181,2,"14:50",890,890,"Zach Braxton missed Jumper.",37,52,-15,0.0234386596998769,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+182,2,"14:50",890,890,"Ethan Telfair Defensive Rebound.",37,52,-15,0.0234386596998769,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+183,2,"14:44",884,884,"Foul on Stephen Lennox.",37,52,-15,0.0293694460919882,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+184,2,"14:44",884,884,"Stephen Lennox Turnover.",37,52,-15,0.0293694460919882,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+185,2,"14:34",874,874,"Foul on Stephen Lennox.",37,52,-15,0.0228551124499752,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+186,2,"14:25",865,865,"Foul on Cody John.",37,52,-15,0.0212979234017386,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+187,2,"14:25",865,865,"Cody John Turnover.",37,52,-15,0.0212979234017386,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+188,2,"14:15",855,855,"Ethan Telfair Turnover.",37,52,-15,0.020736475593757,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+189,2,"14:11",851,851,"Jeremy Senglin Steal.",37,52,-15,0.020736475593757,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+190,2,"14:10",850,850,"Foul on Balint Mocsan.",37,52,-15,0.020736475593757,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+191,2,"13:47",827,827,"Jeremy Senglin made Jumper.",37,54,-17,0.0160399069695947,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+192,2,"13:32",812,812,"Balint Mocsan made Three Point Jumper. Assisted by Robert Jones III.",40,54,-14,0.0224189963139792,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+193,2,"13:07",787,787,"Jordan Dallas missed Jumper.",40,54,-14,0.0228077867779206,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+194,2,"13:07",787,787,"Robert Jones III Block.",40,54,-14,0.0228077867779206,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+195,2,"13:03",783,783,"Ethan Telfair made Free Throw.",41,54,-13,0.0278846885498645,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+196,2,"13:03",783,783,"Foul on Jordan Dallas.",40,54,-14,0.0228077867779206,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+197,2,"13:03",783,783,"Ethan Telfair made Free Throw.",42,54,-12,0.0340523033544389,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+198,2,"13:03",783,783,"Ethan Telfair Offensive Rebound.",40,54,-14,0.0228077867779206,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+199,2,"12:45",765,765,"Ryan Richardson missed Three Point Jumper.",42,54,-12,0.0316386089002522,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+200,2,"12:45",765,765,"Dusty Baker Offensive Rebound.",42,54,-12,0.0316386089002522,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+201,2,"12:38",758,758,"Jeremy Senglin missed Jumper.",42,54,-12,0.0292712418012926,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+202,2,"12:38",758,758,"Keshawn Liggins Defensive Rebound.",42,54,-12,0.0292712418012926,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+203,2,"12:31",751,751,"Foul on Jeremy Senglin.",42,54,-12,0.0292712418012926,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+204,2,"12:31",751,751,"Ethan Telfair made Free Throw.",43,54,-11,0.036116672915316,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+205,2,"12:31",751,751,"Ethan Telfair made Free Throw.",44,54,-10,0.0444896197690647,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+206,2,"12:09",729,729,"Dusty Baker Turnover.",44,54,-10,0.0526929935941383,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+207,2,"12:07",727,727,"Keshawn Liggins Steal.",44,54,-10,0.0526929935941383,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+208,2,"12:02",722,722,"Keshawn Liggins made Layup.",46,54,-8,0.0795132795877323,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+209,2,"11:41",701,701,"Foul on Novak Topalovic.",46,54,-8,0.0857313273578559,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+210,2,"11:41",701,701,"Official TV Timeout",46,54,-8,0.0857313273578559,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+211,2,"11:41",701,701,"McKay Cannon missed Free Throw.",46,54,-8,0.0857313273578559,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+212,2,"11:41",701,701,"Weber State Deadball Team Rebound.",46,54,-8,0.0857313273578559,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+213,2,"11:41",701,701,"McKay Cannon made Free Throw.",46,55,-9,0.0704630372824278,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+214,2,"11:33",693,693,"Novak Topalovic made Dunk. Assisted by Ethan Telfair.",48,55,-7,0.0697494868676896,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+215,2,"11:20",680,680,"Foul on Keshawn Liggins.",48,55,-7,0.0812504206317834,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+216,2,"11:20",680,680,"Dusty Baker missed Free Throw.",48,55,-7,0.0812504206317834,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+217,2,"11:20",680,680,"Robert Jones III Defensive Rebound.",48,55,-7,0.0812504206317834,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+218,2,"11:11",671,671,"Foul on Kyndahl Hill.",48,55,-7,0.0763397752177516,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+219,2,"11:11",671,671,"Ethan Telfair made Layup.",50,55,-5,0.116272143179835,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+220,2,"11:11",671,671,"Ethan Telfair missed Free Throw.",50,55,-5,0.116272143179835,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+221,2,"11:11",671,671,"Zach Braxton Defensive Rebound.",50,55,-5,0.116272143179835,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+222,2,"11:00",660,660,"Zach Braxton missed Jumper.",50,55,-5,0.145062672098158,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+223,2,"11:00",660,660,"Robert Jones III Defensive Rebound.",50,55,-5,0.145062672098158,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+224,2,"10:45",645,645,"Robert Jones III made Jumper.",52,55,-3,0.19223825182634,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+225,2,"10:34",634,634,"Jerrick Harding made Jumper.",52,57,-5,0.134727392802232,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+226,2,"10:18",618,618,"Foul on Brandon Boyd.",52,57,-5,0.113070448188906,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+227,2,"10:18",618,618,"Brandon Boyd Turnover.",52,57,-5,0.113070448188906,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+228,2,"9:38",578,578,"Jeremy Senglin missed Layup.",52,57,-5,0.13236716296842,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+229,2,"9:38",578,578,"Novak Topalovic Defensive Rebound.",52,57,-5,0.13236716296842,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+230,2,"9:33",573,573,"Brandon Boyd Turnover.",52,57,-5,0.13236716296842,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+231,2,"9:24",564,564,"Jeremy Senglin made Jumper.",52,59,-7,0.0697669038037205,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+232,2,"9:09",549,549,"Foul on Jeremy Senglin.",52,59,-7,0.0661170224339016,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+233,2,"9:09",549,549,"Ethan Telfair made Free Throw.",53,59,-6,0.0847176473439892,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+234,2,"9:09",549,549,"Ethan Telfair made Free Throw.",54,59,-5,0.107946301295838,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+235,2,"8:56",536,536,"Foul on Novak Topalovic.",54,59,-5,0.116853517625993,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+236,2,"8:56",536,536,"Zach Braxton made Free Throw.",54,60,-6,0.0907978090153789,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+237,2,"8:56",536,536,"Zach Braxton missed Free Throw.",54,60,-6,0.0907978090153789,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+238,2,"8:56",536,536,"Ethan Telfair Defensive Rebound.",54,60,-6,0.0907978090153789,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+239,2,"8:49",529,529,"Foul on Ryan Richardson.",54,60,-6,0.103475938871823,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+240,2,"8:49",529,529,"Ethan Telfair made Free Throw.",55,60,-5,0.13160441488751,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+241,2,"8:49",529,529,"Ethan Telfair made Free Throw.",56,60,-4,0.165963738975839,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+242,2,"8:33",513,513,"Jeremy Senglin made Layup.",56,62,-6,0.0945767566483424,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+243,2,"8:33",513,513,"Foul on Balint Mocsan.",56,62,-6,0.0945767566483424,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+244,2,"8:33",513,513,"Jeremy Senglin made Free Throw.",56,63,-7,0.0738136260159495,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+245,2,"8:22",502,502,"Ethan Telfair missed Three Point Jumper.",56,63,-7,0.0786202802519841,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+246,2,"8:22",502,502,"Jeremy Senglin Defensive Rebound.",56,63,-7,0.0786202802519841,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+247,2,"8:15",495,495,"Jeremy Senglin missed Three Point Jumper.",56,63,-7,0.0822496119305564,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+248,2,"8:15",495,495,"Ethan Telfair Defensive Rebound.",56,63,-7,0.0822496119305564,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+249,2,"7:55",475,475,"Ethan Telfair Turnover.",56,63,-7,0.059116026597846,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+250,2,"7:47",467,467,"Dusty Baker made Three Point Jumper. Assisted by Jerrick Harding.",56,66,-10,0.0279963449633318,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+251,2,"7:23",443,443,"Ethan Telfair made Three Point Jumper. Assisted by Robert Jones III.",59,66,-7,0.0795836770590279,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+252,2,"6:58",418,418,"Jerrick Harding made Three Point Jumper. Assisted by Zach Braxton.",59,69,-10,0.0234882765606131,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+253,2,"6:39",399,399,"Robert Jones III missed Jumper.",59,69,-10,0.0248984884970311,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+254,2,"6:39",399,399,"Zach Braxton Defensive Rebound.",59,69,-10,0.0248984884970311,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+255,2,"6:33",393,393,"Jerrick Harding made Dunk.",59,71,-12,0.013492787392329,"Idaho State","Weber State",4,4,0,0,-7.5,400916377,2017-01-25
+256,2,"6:24",384,384,"Idaho State  Timeout",59,71,-12,0.0136798424032094,"Idaho State","Weber State",3,4,1,0,-7.5,400916377,2017-01-25
+257,2,"6:13",373,373,"Robert Jones III made Layup.",61,71,-10,0.0214833151394899,"Idaho State","Weber State",3,4,1,0,-7.5,400916377,2017-01-25
+258,2,"5:56",356,356,"Jerrick Harding missed Three Point Jumper.",61,71,-10,0.01393113638413,"Idaho State","Weber State",3,4,1,0,-7.5,400916377,2017-01-25
+259,2,"5:56",356,356,"Robert Jones III Defensive Rebound.",61,71,-10,0.01393113638413,"Idaho State","Weber State",3,4,1,0,-7.5,400916377,2017-01-25
+260,2,"5:35",335,335,"Robert Jones III made Three Point Jumper.",64,71,-7,0.0472692028578198,"Idaho State","Weber State",3,4,1,0,-7.5,400916377,2017-01-25
+261,2,"5:12",312,312,"Dusty Baker made Three Point Jumper. Assisted by Jeremy Senglin.",64,74,-10,0.0154325845497612,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+262,2,"4:49",289,289,"Robert Jones III made Jumper.",66,74,-8,0.0299381617243163,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+263,2,"4:31",271,271,"Jeremy Senglin missed Three Point Jumper.",66,74,-8,0.0216005394474546,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+264,2,"4:31",271,271,"Zach Braxton Offensive Rebound.",66,74,-8,0.0216005394474546,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+265,2,"4:22",262,262,"Jerrick Harding missed Layup.",66,74,-8,0.0285794338519313,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+266,2,"4:22",262,262,"Weber State Deadball Team Rebound.",66,74,-8,0.0285794338519313,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+267,2,"4:22",262,262,"Foul on Robert Jones III.",66,74,-8,0.0285794338519313,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+268,2,"4:22",262,262,"Official TV Timeout",66,74,-8,0.0285794338519313,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+269,2,"4:22",262,262,"Jerrick Harding made Free Throw.",66,75,-9,0.019853439209431,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+270,2,"4:22",262,262,"Jerrick Harding made Free Throw.",66,76,-10,0.0137539802393075,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+271,2,"4:15",255,255,"Balint Mocsan made Three Point Jumper. Assisted by Robert Jones III.",69,76,-7,0.0337121333557032,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+272,2,"3:54",234,234,"Foul on Robert Jones III.",69,76,-7,0.0373196446521631,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+273,2,"3:54",234,234,"Official TV Timeout",69,76,-7,0.0373196446521631,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+274,2,"3:54",234,234,"Kyndahl Hill made Free Throw.",69,77,-8,0.0251848893219727,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+275,2,"3:54",234,234,"Kyndahl Hill made Free Throw.",69,78,-9,0.0169264625115832,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+276,2,"3:47",227,227,"Robert Jones III missed Jumper.",69,78,-9,0.0120114432419054,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+277,2,"3:47",227,227,"Ryan Richardson Defensive Rebound.",69,78,-9,0.0120114432419054,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+278,2,"3:17",197,197,"Kyndahl Hill missed Jumper.",69,78,-9,0.00999632371882133,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+279,2,"3:17",197,197,"Novak Topalovic Defensive Rebound.",69,78,-9,0.00999632371882133,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+280,2,"3:12",192,192,"Balint Mocsan missed Three Point Jumper.",69,78,-9,0.00999632371882133,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+281,2,"3:12",192,192,"Brandon Boyd Offensive Rebound.",69,78,-9,0.00999632371882133,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+282,2,"3:05",185,185,"Brandon Boyd Turnover.",69,78,-9,0.00716342508776573,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+283,2,"2:48",168,168,"Cody John missed Jumper.",69,78,-9,0.00530663288152608,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+284,2,"2:48",168,168,"Idaho State Defensive Rebound.",69,78,-9,0.00530663288152608,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+285,2,"2:34",154,154,"Foul on Zach Braxton.",69,78,-9,0.00544800501335191,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+286,2,"2:34",154,154,"Novak Topalovic made Free Throw.",70,78,-8,0.00931701905100438,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+287,2,"2:34",154,154,"Novak Topalovic made Free Throw.",71,78,-7,0.0158897949261484,"Idaho State","Weber State",3,4,0,0,-7.5,400916377,2017-01-25
+288,2,"2:20",140,140,"Foul on Ethan Telfair.",71,78,-7,0.0120782246541162,"Idaho State","Weber State",3,4,0,1,-7.5,400916377,2017-01-25
+289,2,"2:20",140,140,"Ryan Richardson missed Free Throw.",71,78,-7,0.0120782246541162,"Idaho State","Weber State",3,4,0,1,-7.5,400916377,2017-01-25
+290,2,"2:20",140,140,"Weber State Deadball Team Rebound.",71,78,-7,0.0120782246541162,"Idaho State","Weber State",3,4,0,1,-7.5,400916377,2017-01-25
+291,2,"2:20",140,140,"Ryan Richardson made Free Throw.",71,79,-8,0.00722940605684325,"Idaho State","Weber State",3,4,0,1,-7.5,400916377,2017-01-25
+292,2,"2:20",140,140,"Weber State  Timeout",71,79,-8,0.00722940605684325,"Idaho State","Weber State",3,3,0,1,-7.5,400916377,2017-01-25
+293,2,"2:08",128,128,"Robert Jones III Turnover.",71,79,-8,0.00617483101172,"Idaho State","Weber State",3,3,0,1,-7.5,400916377,2017-01-25
+294,2,"2:06",126,126,"Jordan Dallas Steal.",71,79,-8,0.00617483101172,"Idaho State","Weber State",3,3,0,1,-7.5,400916377,2017-01-25
+295,2,"1:44",104,104,"Jeremy Senglin missed Three Point Jumper.",71,79,-8,0.00385802270204983,"Idaho State","Weber State",3,3,0,1,-7.5,400916377,2017-01-25
+296,2,"1:44",104,104,"Robert Jones III Defensive Rebound.",71,79,-8,0.00385802270204983,"Idaho State","Weber State",3,3,0,1,-7.5,400916377,2017-01-25
+297,2,"1:33",93,93,"Ethan Telfair missed Jumper.",71,79,-8,0.00482840344428792,"Idaho State","Weber State",3,3,0,1,-7.5,400916377,2017-01-25
+298,2,"1:33",93,93,"Ethan Telfair Offensive Rebound.",71,79,-8,0.00482840344428792,"Idaho State","Weber State",3,3,0,1,-7.5,400916377,2017-01-25
+299,2,"1:29",89,89,"Ethan Telfair missed Jumper.",71,79,-8,0.00247319175356039,"Idaho State","Weber State",3,3,0,1,-7.5,400916377,2017-01-25
+300,2,"1:29",89,89,"Zach Braxton Defensive Rebound.",71,79,-8,0.00247319175356039,"Idaho State","Weber State",3,3,0,1,-7.5,400916377,2017-01-25
+301,2,"1:25",85,85,"Foul on Brandon Boyd.",71,79,-8,0.00247319175356039,"Idaho State","Weber State",3,3,1,1,-7.5,400916377,2017-01-25
+302,2,"1:25",85,85,"Cody John made Free Throw.",71,80,-9,0.0012096240655452,"Idaho State","Weber State",3,3,1,1,-7.5,400916377,2017-01-25
+303,2,"1:25",85,85,"Idaho State  Timeout",71,80,-9,0.0012096240655452,"Idaho State","Weber State",2,3,1,1,-7.5,400916377,2017-01-25
+304,2,"1:25",85,85,"Cody John made Free Throw.",71,81,-10,0.000591237644817862,"Idaho State","Weber State",2,3,1,1,-7.5,400916377,2017-01-25
+305,2,"1:11",71,71,"Novak Topalovic missed Jumper.",71,81,-10,0.000381072085197356,"Idaho State","Weber State",2,3,1,0,-7.5,400916377,2017-01-25
+306,2,"1:11",71,71,"Kyndahl Hill Defensive Rebound.",71,81,-10,0.000381072085197356,"Idaho State","Weber State",2,3,1,0,-7.5,400916377,2017-01-25
+307,2,"0:45",45,45,"Foul on Brandon Boyd.",71,81,-10,0.000243429028013572,"Idaho State","Weber State",2,3,1,0,-7.5,400916377,2017-01-25
+308,2,"0:45",45,45,"Cody John missed Free Throw.",71,81,-10,0.000243429028013572,"Idaho State","Weber State",2,3,1,0,-7.5,400916377,2017-01-25
+309,2,"0:45",45,45,"Weber State Deadball Team Rebound.",71,81,-10,0.000243429028013572,"Idaho State","Weber State",2,3,1,0,-7.5,400916377,2017-01-25
+310,2,"0:45",45,45,"Cody John missed Free Throw.",71,81,-10,0.000243429028013572,"Idaho State","Weber State",2,3,1,0,-7.5,400916377,2017-01-25
+311,2,"0:45",45,45,"Novak Topalovic Defensive Rebound.",71,81,-10,0.000243429028013572,"Idaho State","Weber State",2,3,1,0,-7.5,400916377,2017-01-25
+312,2,"0:35",35,35,"Ethan Telfair missed Layup.",71,81,-10,0.000294058682429438,"Idaho State","Weber State",2,3,1,0,-7.5,400916377,2017-01-25
+313,2,"0:35",35,35,"Robert Jones III Offensive Rebound.",71,81,-10,0.000294058682429438,"Idaho State","Weber State",2,3,1,0,-7.5,400916377,2017-01-25
+314,2,"0:30",30,30,"Robert Jones III Turnover.",71,81,-10,6.15198593297647e-05,"Idaho State","Weber State",2,3,1,0,-7.5,400916377,2017-01-25
+315,2,"0:28",28,28,"Cody John Steal.",71,81,-10,6.63472972473688e-06,"Idaho State","Weber State",2,3,1,0,-7.5,400916377,2017-01-25
+316,2,"0:26",26,26,"Cody John made Layup.",71,83,-12,1.0822801429036e-07,"Idaho State","Weber State",2,3,1,0,-7.5,400916377,2017-01-25
+317,2,"0:14",14,14,"Foul on Zach Braxton.",71,83,-12,7.17112113161969e-09,"Idaho State","Weber State",2,3,0,0,-7.5,400916377,2017-01-25
+318,2,"0:14",14,14,"Novak Topalovic made Free Throw.",72,83,-11,3.68010910370674e-08,"Idaho State","Weber State",2,3,0,0,-7.5,400916377,2017-01-25
+319,2,"0:14",14,14,"Novak Topalovic made Free Throw.",73,83,-10,1.88857517654006e-07,"Idaho State","Weber State",2,3,0,0,-7.5,400916377,2017-01-25
+320,2,"0:07",7,7,"Foul on Robert Jones III.",73,83,-10,2.09607617229876e-07,"Idaho State","Weber State",2,3,0,0,-7.5,400916377,2017-01-25
+321,2,"0:07",7,7,"Dusty Baker made Free Throw.",73,84,-11,4.15962992117437e-08,"Idaho State","Weber State",2,3,0,0,-7.5,400916377,2017-01-25
+322,2,"0:07",7,7,"Dusty Baker made Free Throw.",73,85,-12,8.25471849719439e-09,"Idaho State","Weber State",2,3,0,0,-7.5,400916377,2017-01-25
+323,2,"0:06",6,6,"Ethan Telfair missed Three Point Jumper.",73,85,-12,8.25471849719439e-09,"Idaho State","Weber State",2,3,0,0,-7.5,400916377,2017-01-25
+324,2,"0:06",6,6,"Cody John Defensive Rebound.",73,85,-12,8.25471849719439e-09,"Idaho State","Weber State",2,3,0,0,-7.5,400916377,2017-01-25
+325,2,"0:00",0,0,"End of Game",73,85,-12,1.45946234697924e-101,"Idaho State","Weber State",2,3,0,0,-7.5,400916377,2017-01-25

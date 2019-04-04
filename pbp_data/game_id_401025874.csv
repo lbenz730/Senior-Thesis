@@ -1,0 +1,359 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.785623304600368,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+2,1,"20:00",2400,2400,"Jump Ball won by Gonzaga",0,0,0,0.785623304600368,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+3,1,"19:46",2386,2386,"Rui Hachimura missed Jumper.",0,0,0,0.781755240149815,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+4,1,"19:46",2386,2386,"CJ Walker Defensive Rebound.",0,0,0,0.781755240149815,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+5,1,"19:38",2378,2378,"Braian Angola Turnover.",0,0,0,0.78107514336136,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+6,1,"19:38",2378,2378,"Josh Perkins Steal.",0,0,0,0.78107514336136,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+7,1,"19:21",2361,2361,"Johnathan Williams made Jumper.",2,0,2,0.778858554791581,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+8,1,"19:02",2342,2342,"Christ Koumadje made Jumper. Assisted by Braian Angola.",2,2,0,0.769890320092506,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+9,1,"18:42",2322,2322,"Silas Melson missed Three Point Jumper.",2,2,0,0.780568572675143,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+10,1,"18:42",2322,2322,"Florida State Defensive Rebound.",2,2,0,0.780568572675143,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+11,1,"18:24",2304,2304,"Terance Mann missed Three Point Jumper.",2,2,0,0.763541434828042,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+12,1,"18:24",2304,2304,"Rui Hachimura Defensive Rebound.",2,2,0,0.763541434828042,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+13,1,"18:08",2288,2288,"Josh Perkins made Layup.",4,2,2,0.803118642676268,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+14,1,"17:51",2271,2271,"Terance Mann made Dunk. Assisted by CJ Walker.",4,4,0,0.774691426858747,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+15,1,"17:30",2250,2250,"Silas Melson missed Three Point Jumper.",4,4,0,0.767963929482333,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+16,1,"17:30",2250,2250,"Rui Hachimura Offensive Rebound.",4,4,0,0.767963929482333,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+17,1,"17:18",2238,2238,"Zach Norvell Jr. missed Three Point Jumper.",4,4,0,0.771276512812066,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+18,1,"17:18",2238,2238,"Braian Angola Defensive Rebound.",4,4,0,0.771276512812066,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+19,1,"17:12",2232,2232,"Jump Ball won by Florida State",4,4,0,0.771276512812066,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+20,1,"17:03",2223,2223,"Foul on Johnathan Williams.",4,4,0,0.773081184668549,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+21,1,"17:03",2223,2223,"Braian Angola made Free Throw.",4,5,-1,0.754637200839959,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+22,1,"17:03",2223,2223,"Braian Angola missed Free Throw.",4,5,-1,0.754637200839959,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+23,1,"17:03",2223,2223,"Zach Norvell Jr. Defensive Rebound.",4,5,-1,0.754637200839959,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+24,1,"16:48",2208,2208,"Foul on Ike Obiagu.",4,5,-1,0.748509123355737,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+25,1,"16:48",2208,2208,"Zach Norvell Jr. made Free Throw.",5,5,0,0.769206010872465,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+26,1,"16:48",2208,2208,"Zach Norvell Jr. made Free Throw.",6,5,1,0.788680484296315,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+27,1,"16:37",2197,2197,"Braian Angola Turnover.",6,5,1,0.798611957450924,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+28,1,"16:37",2197,2197,"Silas Melson Steal.",6,5,1,0.798611957450924,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+29,1,"16:22",2182,2182,"Foul on Braian Angola.",6,5,1,0.787309486250813,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+30,1,"16:21",2181,2181,"Jeremy Jones Turnover.",6,5,1,0.787309486250813,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+31,1,"16:10",2170,2170,"Foul on Mfiondu Kabengele.",6,5,1,0.782477133618885,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+32,1,"16:10",2170,2170,"Mfiondu Kabengele Turnover.",6,5,1,0.782477133618885,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+33,1,"15:52",2152,2152,"Rui Hachimura missed Layup.",6,5,1,0.781667244965925,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+34,1,"15:52",2152,2152,"Mfiondu Kabengele Block.",6,5,1,0.781667244965925,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+35,1,"15:52",2152,2152,"Gonzaga Offensive Rebound.",6,5,1,0.781667244965925,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+36,1,"15:52",2152,2152,"Official TV Timeout",6,5,1,0.781667244965925,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+37,1,"15:50",2150,2150,"Zach Norvell Jr. missed Layup.",6,5,1,0.781667244965925,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+38,1,"15:50",2150,2150,"Mfiondu Kabengele Block.",6,5,1,0.781667244965925,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+39,1,"15:50",2150,2150,"Gonzaga Offensive Rebound.",6,5,1,0.781667244965925,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+40,1,"15:48",2148,2148,"Gonzaga  Turnover.",6,5,1,0.789932036125967,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+41,1,"15:37",2137,2137,"Foul on Silas Melson.",6,5,1,0.786547904542313,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+42,1,"15:37",2137,2137,"M.J. Walker made Free Throw.",6,6,0,0.765519847828611,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+43,1,"15:37",2137,2137,"M.J. Walker made Free Throw.",6,7,-1,0.743096845262502,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+44,1,"15:19",2119,2119,"Josh Perkins missed Three Point Jumper.",6,7,-1,0.748968656193253,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+45,1,"15:19",2119,2119,"Ike Obiagu Defensive Rebound.",6,7,-1,0.748968656193253,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+46,1,"15:11",2111,2111,"PJ Savoy made Three Point Jumper. Assisted by Trent Forrest.",6,10,-4,0.676921487576645,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+47,1,"14:56",2096,2096,"Johnathan Williams missed Three Point Jumper.",6,10,-4,0.654192343495847,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+48,1,"14:56",2096,2096,"Ike Obiagu Defensive Rebound.",6,10,-4,0.654192343495847,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+49,1,"14:46",2086,2086,"Terance Mann made Layup.",6,12,-6,0.624344953342076,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+50,1,"14:46",2086,2086,"Foul on Josh Perkins.",6,12,-6,0.624344953342076,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+51,1,"14:46",2086,2086,"Terance Mann missed Free Throw.",6,12,-6,0.624344953342076,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+52,1,"14:46",2086,2086,"Corey Kispert Defensive Rebound.",6,12,-6,0.624344953342076,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+53,1,"14:33",2073,2073,"Zach Norvell Jr. Turnover.",6,12,-6,0.629511073394966,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+54,1,"14:33",2073,2073,"Trent Forrest Steal.",6,12,-6,0.629511073394966,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+55,1,"14:28",2068,2068,"Trent Forrest made Layup.",6,14,-8,0.541116971448618,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+56,1,"14:23",2063,2063,"Corey Kispert missed Three Point Jumper.",6,14,-8,0.541116971448618,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+57,1,"14:23",2063,2063,"Ike Obiagu Defensive Rebound.",6,14,-8,0.541116971448618,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+58,1,"14:15",2055,2055,"Ike Obiagu made Dunk. Assisted by Trent Forrest.",6,16,-10,0.50492577271391,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+59,1,"13:49",2029,2029,"Rui Hachimura made Layup. Assisted by Josh Perkins.",8,16,-8,0.522574710855074,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+60,1,"13:49",2029,2029,"Foul on Trent Forrest.",8,16,-8,0.522574710855074,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+61,1,"13:49",2029,2029,"Rui Hachimura made Free Throw.",9,16,-7,0.555331251379441,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+62,1,"13:36",2016,2016,"PJ Savoy missed Three Point Jumper.",9,16,-7,0.590537665578528,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+63,1,"13:36",2016,2016,"Rui Hachimura Defensive Rebound.",9,16,-7,0.590537665578528,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+64,1,"13:19",1999,1999,"Rui Hachimura made Layup. Assisted by Johnathan Williams.",11,16,-5,0.625128202837496,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+65,1,"12:50",1970,1970,"Ike Obiagu made Dunk. Assisted by M.J. Walker.",11,18,-7,0.574017223216856,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+66,1,"12:21",1941,1941,"Zach Norvell Jr. Turnover.",11,18,-7,0.560555887926935,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+67,1,"12:21",1941,1941,"Trent Forrest Steal.",11,18,-7,0.560555887926935,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+68,1,"12:14",1934,1934,"Trent Forrest missed Layup.",11,18,-7,0.544438494661786,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+69,1,"12:14",1934,1934,"Ike Obiagu Offensive Rebound.",11,18,-7,0.544438494661786,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+70,1,"12:12",1932,1932,"Foul on Rui Hachimura.",11,18,-7,0.544438494661786,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+71,1,"12:00",1920,1920,"CJ Walker missed Layup.",11,18,-7,0.565677799599277,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+72,1,"12:00",1920,1920,"Johnathan Williams Defensive Rebound.",11,18,-7,0.565677799599277,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+73,1,"11:47",1907,1907,"Josh Perkins missed Three Point Jumper.",11,18,-7,0.57926365507647,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+74,1,"11:47",1907,1907,"Ike Obiagu Defensive Rebound.",11,18,-7,0.57926365507647,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+75,1,"11:37",1897,1897,"Foul on Corey Kispert.",11,18,-7,0.546348752930115,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+76,1,"11:37",1897,1897,"Official TV Timeout",11,18,-7,0.546348752930115,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+77,1,"11:37",1897,1897,"M.J. Walker made Free Throw.",11,19,-8,0.512882561075046,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+78,1,"11:37",1897,1897,"M.J. Walker made Free Throw.",11,20,-9,0.479300466220325,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+79,1,"11:19",1879,1879,"Johnathan Williams Turnover.",11,20,-9,0.498058014700359,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+80,1,"11:19",1879,1879,"Christ Koumadje Steal.",11,20,-9,0.498058014700359,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+81,1,"11:06",1866,1866,"CJ Walker made Three Point Jumper. Assisted by Braian Angola.",11,23,-12,0.382079062375243,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+82,1,"10:33",1833,1833,"Johnathan Williams made Layup.",13,23,-10,0.457839342927084,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+83,1,"10:33",1833,1833,"Foul on Christ Koumadje.",13,23,-10,0.457839342927084,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+84,1,"10:33",1833,1833,"Johnathan Williams made Free Throw.",14,23,-9,0.489498356692589,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+85,1,"10:14",1814,1814,"CJ Walker missed Three Point Jumper.",14,23,-9,0.46565267477479,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+86,1,"10:14",1814,1814,"Braian Angola Offensive Rebound.",14,23,-9,0.46565267477479,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+87,1,"10:06",1806,1806,"Phil Cofer missed Jumper.",14,23,-9,0.485072008785115,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+88,1,"10:06",1806,1806,"Johnathan Williams Defensive Rebound.",14,23,-9,0.485072008785115,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+89,1,"10:04",1804,1804,"Foul on Christ Koumadje.",14,23,-9,0.485072008785115,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+90,1,"9:58",1798,1798,"Foul on Mfiondu Kabengele.",14,23,-9,0.4696773337471,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+91,1,"9:58",1798,1798,"Johnathan Williams made Free Throw.",15,23,-8,0.502156944626578,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+92,1,"9:58",1798,1798,"Johnathan Williams missed Free Throw.",15,23,-8,0.502156944626578,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+93,1,"9:58",1798,1798,"Ike Obiagu Defensive Rebound.",15,23,-8,0.502156944626578,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+94,1,"9:54",1794,1794,"M.J. Walker missed Three Point Jumper.",15,23,-8,0.502156944626578,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+95,1,"9:54",1794,1794,"Silas Melson Defensive Rebound.",15,23,-8,0.502156944626578,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+96,1,"9:44",1784,1784,"Zach Norvell Jr. missed Layup.",15,23,-8,0.470446047767327,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+97,1,"9:44",1784,1784,"Rui Hachimura Offensive Rebound.",15,23,-8,0.470446047767327,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+98,1,"9:40",1780,1780,"Rui Hachimura made Layup.",17,23,-6,0.539475749772988,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+99,1,"9:17",1757,1757,"Phil Cofer Turnover.",17,23,-6,0.550094747082,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+100,1,"9:17",1757,1757,"Josh Perkins Steal.",17,23,-6,0.550094747082,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+101,1,"9:12",1752,1752,"Foul on CJ Walker.",17,23,-6,0.550094747082,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+102,1,"9:12",1752,1752,"Josh Perkins made Free Throw.",18,23,-5,0.584477077115921,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+103,1,"9:12",1752,1752,"Josh Perkins made Free Throw.",19,23,-4,0.618056229818408,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+104,1,"8:54",1734,1734,"Braian Angola missed Three Point Jumper.",19,23,-4,0.632572380673657,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+105,1,"8:54",1734,1734,"Zach Norvell Jr. Defensive Rebound.",19,23,-4,0.632572380673657,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+106,1,"8:36",1716,1716,"Silas Melson made Jumper.",21,23,-2,0.703793363865264,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+107,1,"8:09",1689,1689,"Braian Angola Turnover.",21,23,-2,0.696120001084785,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+108,1,"7:59",1679,1679,"Zach Norvell Jr. missed Layup.",21,23,-2,0.693163009130217,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+109,1,"7:59",1679,1679,"Ike Obiagu Block.",21,23,-2,0.693163009130217,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+110,1,"7:59",1679,1679,"PJ Savoy Defensive Rebound.",21,23,-2,0.693163009130217,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+111,1,"7:49",1669,1669,"PJ Savoy missed Three Point Jumper.",21,23,-2,0.692762478084474,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+112,1,"7:49",1669,1669,"Josh Perkins Defensive Rebound.",21,23,-2,0.692762478084474,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+113,1,"7:29",1649,1649,"Foul on Braian Angola.",21,23,-2,0.693454549075614,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+114,1,"7:29",1649,1649,"Official TV Timeout",21,23,-2,0.693454549075614,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+115,1,"7:29",1649,1649,"Rui Hachimura missed Free Throw.",21,23,-2,0.693454549075614,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+116,1,"7:29",1649,1649,"PJ Savoy Defensive Rebound.",21,23,-2,0.693454549075614,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+117,1,"7:08",1628,1628,"M.J. Walker missed Three Point Jumper.",21,23,-2,0.68200541182748,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+118,1,"7:08",1628,1628,"Gonzaga Defensive Rebound.",21,23,-2,0.68200541182748,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+119,1,"6:54",1614,1614,"Johnathan Williams made Layup.",23,23,0,0.724942815612966,"Gonzaga","Florida State",4,4,1,0,6,401025874,2018-03-22
+120,1,"6:54",1614,1614,"Foul on Ike Obiagu.",23,23,0,0.724942815612966,"Gonzaga","Florida State",4,4,1,0,6,401025874,2018-03-22
+121,1,"6:54",1614,1614,"Florida State  Timeout",23,23,0,0.724942815612966,"Gonzaga","Florida State",3,4,1,0,6,401025874,2018-03-22
+122,1,"6:54",1614,1614,"Johnathan Williams missed Free Throw.",23,23,0,0.724942815612966,"Gonzaga","Florida State",3,4,1,0,6,401025874,2018-03-22
+123,1,"6:54",1614,1614,"PJ Savoy Defensive Rebound.",23,23,0,0.724942815612966,"Gonzaga","Florida State",3,4,1,0,6,401025874,2018-03-22
+124,1,"6:39",1599,1599,"PJ Savoy missed Jumper.",23,23,0,0.744266681955921,"Gonzaga","Florida State",3,4,1,0,6,401025874,2018-03-22
+125,1,"6:39",1599,1599,"Josh Perkins Defensive Rebound.",23,23,0,0.744266681955921,"Gonzaga","Florida State",3,4,1,0,6,401025874,2018-03-22
+126,1,"6:30",1590,1590,"Josh Perkins made Three Point Jumper.",26,23,3,0.813573709398503,"Gonzaga","Florida State",3,4,1,0,6,401025874,2018-03-22
+127,1,"6:16",1576,1576,"Phil Cofer missed Three Point Jumper.",26,23,3,0.822685889381666,"Gonzaga","Florida State",3,4,1,0,6,401025874,2018-03-22
+128,1,"6:16",1576,1576,"Silas Melson Defensive Rebound.",26,23,3,0.822685889381666,"Gonzaga","Florida State",3,4,1,0,6,401025874,2018-03-22
+129,1,"6:09",1569,1569,"Josh Perkins Turnover.",26,23,3,0.805418552574495,"Gonzaga","Florida State",3,4,1,0,6,401025874,2018-03-22
+130,1,"6:09",1569,1569,"CJ Walker Steal.",26,23,3,0.805418552574495,"Gonzaga","Florida State",3,4,1,0,6,401025874,2018-03-22
+131,1,"6:04",1564,1564,"Trent Forrest made Layup. Assisted by Terance Mann.",26,25,1,0.756907467142319,"Gonzaga","Florida State",3,4,1,0,6,401025874,2018-03-22
+132,1,"5:35",1535,1535,"Silas Melson missed Three Point Jumper.",26,25,1,0.769666080078351,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+133,1,"5:35",1535,1535,"Florida State Defensive Rebound.",26,25,1,0.769666080078351,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+134,1,"5:18",1518,1518,"Trent Forrest missed Layup.",26,25,1,0.773360786973413,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+135,1,"5:18",1518,1518,"Trent Forrest Offensive Rebound.",26,25,1,0.773360786973413,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+136,1,"5:15",1515,1515,"Foul on Johnathan Williams.",26,25,1,0.773360786973413,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+137,1,"5:15",1515,1515,"Trent Forrest made Free Throw.",26,26,0,0.745531185847476,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+138,1,"5:15",1515,1515,"Trent Forrest missed Free Throw.",26,26,0,0.745531185847476,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+139,1,"5:15",1515,1515,"Silas Melson Defensive Rebound.",26,26,0,0.745531185847476,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+140,1,"5:01",1501,1501,"Foul on Braian Angola.",26,26,0,0.736536664361093,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+141,1,"5:01",1501,1501,"Silas Melson missed Free Throw.",26,26,0,0.736536664361093,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+142,1,"5:01",1501,1501,"Gonzaga Deadball Team Rebound.",26,26,0,0.736536664361093,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+143,1,"5:01",1501,1501,"Silas Melson made Free Throw.",27,26,1,0.763239417037335,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+144,1,"4:34",1474,1474,"Foul on Rui Hachimura.",27,26,1,0.777007008719034,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+145,1,"4:34",1474,1474,"Terance Mann made Free Throw.",27,27,0,0.749409482907787,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+146,1,"4:34",1474,1474,"Terance Mann made Free Throw.",27,28,-1,0.719628914163862,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+147,1,"4:23",1463,1463,"Zach Norvell Jr. missed Three Point Jumper.",27,28,-1,0.698848035156959,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+148,1,"4:23",1463,1463,"Rui Hachimura Offensive Rebound.",27,28,-1,0.698848035156959,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+149,1,"4:21",1461,1461,"Foul on M.J. Walker.",27,28,-1,0.698848035156959,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+150,1,"4:21",1461,1461,"Rui Hachimura made Free Throw.",28,28,0,0.72735335149707,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+151,1,"4:21",1461,1461,"Rui Hachimura made Free Throw.",29,28,1,0.754109863917015,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+152,1,"3:57",1437,1437,"Trent Forrest made Layup. Assisted by M.J. Walker.",29,30,-1,0.703141687382617,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+153,1,"3:31",1411,1411,"Silas Melson missed Jumper.",29,30,-1,0.687498808086005,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+154,1,"3:31",1411,1411,"Trent Forrest Defensive Rebound.",29,30,-1,0.687498808086005,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+155,1,"3:20",1400,1400,"Foul on Phil Cofer.",29,30,-1,0.715413390451528,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+156,1,"3:20",1400,1400,"Phil Cofer Turnover.",29,30,-1,0.715413390451528,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+157,1,"3:20",1400,1400,"Official TV Timeout",29,30,-1,0.715413390451528,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+158,1,"2:56",1376,1376,"Silas Melson made Jumper.",31,30,1,0.750160758853143,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+159,1,"2:31",1351,1351,"CJ Walker made Three Point Jumper. Assisted by M.J. Walker.",31,33,-2,0.675083028159274,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+160,1,"2:18",1338,1338,"Zach Norvell Jr. missed Layup.",31,33,-2,0.646366811263465,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+161,1,"2:18",1338,1338,"Josh Perkins Offensive Rebound.",31,33,-2,0.646366811263465,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+162,1,"2:12",1332,1332,"Jacob Larsen missed Layup.",31,33,-2,0.646366811263465,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+163,1,"2:12",1332,1332,"CJ Walker Block.",31,33,-2,0.646366811263465,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+164,1,"2:12",1332,1332,"Gonzaga Offensive Rebound.",31,33,-2,0.646366811263465,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+165,1,"2:08",1328,1328,"Foul on Phil Cofer.",31,33,-2,0.659756894355004,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+166,1,"2:08",1328,1328,"Corey Kispert made Free Throw.",32,33,-1,0.694197344670955,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+167,1,"2:08",1328,1328,"Corey Kispert missed Free Throw.",32,33,-1,0.694197344670955,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+168,1,"2:08",1328,1328,"Zach Norvell Jr. Offensive Rebound.",32,33,-1,0.694197344670955,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+169,1,"2:05",1325,1325,"Zach Norvell Jr. missed Layup.",32,33,-1,0.694197344670955,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+170,1,"2:05",1325,1325,"Terance Mann Block.",32,33,-1,0.694197344670955,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+171,1,"2:05",1325,1325,"Terance Mann Defensive Rebound.",32,33,-1,0.694197344670955,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+172,1,"1:57",1317,1317,"Terance Mann missed Layup.",32,33,-1,0.704241854658718,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+173,1,"1:57",1317,1317,"Brandon Allen Offensive Rebound.",32,33,-1,0.704241854658718,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+174,1,"1:40",1300,1300,"CJ Walker made Three Point Jumper. Assisted by Brandon Allen.",32,36,-4,0.586995223910584,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+175,1,"1:23",1283,1283,"Silas Melson missed Layup.",32,36,-4,0.600229775418637,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+176,1,"1:23",1283,1283,"Terance Mann Defensive Rebound.",32,36,-4,0.600229775418637,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+177,1,"1:13",1273,1273,"PJ Savoy made Three Point Jumper. Assisted by Trent Forrest.",32,39,-7,0.465854377438937,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+178,1,"0:49",1249,1249,"Foul on Trent Forrest.",32,39,-7,0.473475575154702,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+179,1,"0:49",1249,1249,"Zach Norvell Jr. missed Free Throw.",32,39,-7,0.473475575154702,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+180,1,"0:49",1249,1249,"Gonzaga Deadball Team Rebound.",32,39,-7,0.473475575154702,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+181,1,"0:49",1249,1249,"Zach Norvell Jr. missed Free Throw.",32,39,-7,0.473475575154702,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+182,1,"0:49",1249,1249,"Trent Forrest Defensive Rebound.",32,39,-7,0.473475575154702,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+183,1,"0:30",1230,1230,"Terance Mann missed Jumper.",32,39,-7,0.443592238452316,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+184,1,"0:30",1230,1230,"Zach Norvell Jr. Defensive Rebound.",32,39,-7,0.443592238452316,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+185,1,"0:25",1225,1225,"Zach Norvell Jr. Turnover.",32,39,-7,0.446606435273861,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+186,1,"0:25",1225,1225,"CJ Walker Steal.",32,39,-7,0.446606435273861,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+187,1,"0:01",1201,1201,"Brandon Allen made Jumper. Assisted by Trent Forrest.",32,41,-9,0.381273256520323,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+188,1,"0:00",1200,1200,"End of 1st half",32,41,-9,0.381273256520323,"Gonzaga","Florida State",3,4,0,0,6,401025874,2018-03-22
+189,2,"20:00",1200,1200,"PLAY",32,41,-9,0.381273256520323,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+190,2,"20:00",1200,1200,"Jump Ball won by Florida State",32,41,-9,0.381273256520323,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+191,2,"19:39",1179,1179,"Terance Mann made Layup.",32,43,-11,0.288025999032517,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+192,2,"19:16",1156,1156,"Rui Hachimura missed Layup.",32,43,-11,0.296537052845594,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+193,2,"19:16",1156,1156,"Christ Koumadje Defensive Rebound.",32,43,-11,0.296537052845594,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+194,2,"19:05",1145,1145,"CJ Walker missed Jumper.",32,43,-11,0.267255076090007,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+195,2,"19:05",1145,1145,"Johnathan Williams Defensive Rebound.",32,43,-11,0.267255076090007,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+196,2,"19:02",1142,1142,"Foul on CJ Walker.",32,43,-11,0.267255076090007,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+197,2,"18:42",1122,1122,"Rui Hachimura missed Layup.",32,43,-11,0.241597190398174,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+198,2,"18:42",1122,1122,"Phil Cofer Block.",32,43,-11,0.241597190398174,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+199,2,"18:42",1122,1122,"CJ Walker Defensive Rebound.",32,43,-11,0.241597190398174,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+200,2,"18:35",1115,1115,"Terance Mann made Dunk. Assisted by CJ Walker.",32,45,-13,0.206259165506433,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+201,2,"18:12",1092,1092,"Johnathan Williams Turnover.",32,45,-13,0.220802836267828,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+202,2,"17:59",1079,1079,"Christ Koumadje missed Jumper.",32,45,-13,0.217959511171074,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+203,2,"17:59",1079,1079,"Johnathan Williams Defensive Rebound.",32,45,-13,0.217959511171074,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+204,2,"17:48",1068,1068,"Josh Perkins missed Layup.",32,45,-13,0.21150529107454,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+205,2,"17:48",1068,1068,"Rui Hachimura Offensive Rebound.",32,45,-13,0.21150529107454,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+206,2,"17:45",1065,1065,"Foul on Christ Koumadje.",32,45,-13,0.21150529107454,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+207,2,"17:45",1065,1065,"Rui Hachimura missed Free Throw.",32,45,-13,0.21150529107454,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+208,2,"17:45",1065,1065,"Gonzaga Deadball Team Rebound.",32,45,-13,0.21150529107454,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+209,2,"17:45",1065,1065,"Rui Hachimura made Free Throw.",33,45,-12,0.241686430610821,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+210,2,"17:34",1054,1054,"Terance Mann missed Jumper.",33,45,-12,0.225991847670529,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+211,2,"17:34",1054,1054,"Rui Hachimura Defensive Rebound.",33,45,-12,0.225991847670529,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+212,2,"17:25",1045,1045,"Rui Hachimura missed Layup.",33,45,-12,0.244002351362739,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+213,2,"17:25",1045,1045,"Christ Koumadje Block.",33,45,-12,0.244002351362739,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+214,2,"17:25",1045,1045,"PJ Savoy Defensive Rebound.",33,45,-12,0.244002351362739,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+215,2,"17:18",1038,1038,"CJ Walker missed Layup.",33,45,-12,0.23689221630194,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+216,2,"17:18",1038,1038,"Johnathan Williams Defensive Rebound.",33,45,-12,0.23689221630194,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+217,2,"17:10",1030,1030,"Josh Perkins missed Three Point Jumper.",33,45,-12,0.23689221630194,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+218,2,"17:10",1030,1030,"Silas Melson Offensive Rebound.",33,45,-12,0.23689221630194,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+219,2,"17:05",1025,1025,"Silas Melson made Jumper.",35,45,-10,0.294590707193362,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+220,2,"16:34",994,994,"Phil Cofer missed Three Point Jumper.",35,45,-10,0.278016497898904,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+221,2,"16:34",994,994,"Rui Hachimura Defensive Rebound.",35,45,-10,0.278016497898904,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+222,2,"16:24",984,984,"Zach Norvell Jr. made Three Point Jumper. Assisted by Josh Perkins.",38,45,-7,0.372928535216105,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+223,2,"15:48",948,948,"Florida State  Turnover.",38,45,-7,0.403889758492695,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+224,2,"15:46",946,946,"Official TV Timeout",38,47,-9,0.315867538953833,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+225,2,"15:46",946,946,"Official TV Timeout",38,45,-7,0.403889758492695,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+226,2,"15:29",929,929,"Josh Perkins made Jumper.",40,45,-5,0.444531592402227,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+227,2,"14:54",894,894,"Trent Forrest missed Three Point Jumper.",40,45,-5,0.474865849128092,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+228,2,"14:54",894,894,"Christ Koumadje Offensive Rebound.",40,45,-5,0.474865849128092,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+229,2,"14:50",890,890,"Foul on Johnathan Williams.",40,45,-5,0.474865849128092,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+230,2,"14:45",885,885,"Braian Angola made Three Point Jumper. Assisted by Terance Mann.",40,48,-8,0.356730759192604,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+231,2,"14:21",861,861,"Foul on Phil Cofer.",40,48,-8,0.326182279876847,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+232,2,"14:21",861,861,"Rui Hachimura made Free Throw.",41,48,-7,0.369604860882635,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+233,2,"14:21",861,861,"Rui Hachimura made Free Throw.",42,48,-6,0.415245689498359,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+234,2,"14:05",845,845,"Terance Mann made Layup. Assisted by Braian Angola.",42,50,-8,0.288793265305381,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+235,2,"13:50",830,830,"Silas Melson missed Three Point Jumper.",42,50,-8,0.32119968386994,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+236,2,"13:50",830,830,"Trent Forrest Defensive Rebound.",42,50,-8,0.32119968386994,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+237,2,"13:37",817,817,"PJ Savoy missed Three Point Jumper.",42,50,-8,0.320139592132762,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+238,2,"13:37",817,817,"Florida State Offensive Rebound.",42,50,-8,0.320139592132762,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+239,2,"13:28",808,808,"Foul on Trent Forrest.",42,50,-8,0.327668273049201,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+240,2,"13:28",808,808,"Trent Forrest Turnover.",42,50,-8,0.327668273049201,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+241,2,"13:06",786,786,"Rui Hachimura made Jumper. Assisted by Silas Melson.",44,50,-6,0.394777254193493,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+242,2,"12:59",779,779,"CJ Walker Turnover.",44,50,-6,0.391389396395082,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+243,2,"12:35",755,755,"Silas Melson missed Jumper.",44,50,-6,0.382607154906505,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+244,2,"12:35",755,755,"Terance Mann Defensive Rebound.",44,50,-6,0.382607154906505,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+245,2,"12:20",740,740,"Mfiondu Kabengele Turnover.",44,50,-6,0.362181402064046,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+246,2,"12:10",730,730,"Johnathan Williams missed Jumper.",44,50,-6,0.374945756906592,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+247,2,"12:10",730,730,"Braian Angola Defensive Rebound.",44,50,-6,0.374945756906592,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+248,2,"11:53",713,713,"Terance Mann missed Three Point Jumper.",44,50,-6,0.360385836246849,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+249,2,"11:53",713,713,"Josh Perkins Defensive Rebound.",44,50,-6,0.360385836246849,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+250,2,"11:48",708,708,"Rui Hachimura missed Layup.",44,50,-6,0.378088129623427,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+251,2,"11:48",708,708,"Mfiondu Kabengele Block.",44,50,-6,0.378088129623427,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+252,2,"11:48",708,708,"Braian Angola Defensive Rebound.",44,50,-6,0.378088129623427,"Gonzaga","Florida State",4,4,0,0,6,401025874,2018-03-22
+253,2,"11:42",702,702,"Terance Mann made Dunk. Assisted by Braian Angola.",44,52,-8,0.284335761557048,"Gonzaga","Florida State",4,4,0,1,6,401025874,2018-03-22
+254,2,"11:42",702,702,"Gonzaga  Timeout",44,52,-8,0.284335761557048,"Gonzaga","Florida State",4,3,0,1,6,401025874,2018-03-22
+255,2,"11:29",689,689,"Zach Norvell Jr. missed Jumper.",44,52,-8,0.262855041229737,"Gonzaga","Florida State",4,3,0,1,6,401025874,2018-03-22
+256,2,"11:29",689,689,"Rui Hachimura Offensive Rebound.",44,52,-8,0.262855041229737,"Gonzaga","Florida State",4,3,0,1,6,401025874,2018-03-22
+257,2,"11:29",689,689,"Rui Hachimura missed Two Point Tip Shot.",44,52,-8,0.262855041229737,"Gonzaga","Florida State",4,3,0,1,6,401025874,2018-03-22
+258,2,"11:29",689,689,"Mfiondu Kabengele Defensive Rebound.",44,52,-8,0.262855041229737,"Gonzaga","Florida State",4,3,0,1,6,401025874,2018-03-22
+259,2,"11:13",673,673,"Foul on Rui Hachimura.",44,52,-8,0.249693307880169,"Gonzaga","Florida State",4,3,0,1,6,401025874,2018-03-22
+260,2,"11:13",673,673,"Official TV Timeout",44,52,-8,0.249693307880169,"Gonzaga","Florida State",4,3,0,1,6,401025874,2018-03-22
+261,2,"11:13",673,673,"Mfiondu Kabengele made Free Throw.",44,53,-9,0.208710476508657,"Gonzaga","Florida State",4,3,0,1,6,401025874,2018-03-22
+262,2,"11:13",673,673,"Mfiondu Kabengele missed Free Throw.",44,53,-9,0.208710476508657,"Gonzaga","Florida State",4,3,0,1,6,401025874,2018-03-22
+263,2,"11:13",673,673,"Johnathan Williams Defensive Rebound.",44,53,-9,0.208710476508657,"Gonzaga","Florida State",4,3,0,1,6,401025874,2018-03-22
+264,2,"10:50",650,650,"Rui Hachimura made Jumper.",46,53,-7,0.294930073955258,"Gonzaga","Florida State",4,3,0,1,6,401025874,2018-03-22
+265,2,"10:43",643,643,"M.J. Walker missed Layup.",46,53,-7,0.285599979792559,"Gonzaga","Florida State",4,3,0,1,6,401025874,2018-03-22
+266,2,"10:43",643,643,"Rui Hachimura Block.",46,53,-7,0.285599979792559,"Gonzaga","Florida State",4,3,0,1,6,401025874,2018-03-22
+267,2,"10:43",643,643,"Josh Perkins Defensive Rebound.",46,53,-7,0.285599979792559,"Gonzaga","Florida State",4,3,0,1,6,401025874,2018-03-22
+268,2,"10:37",637,637,"Josh Perkins Turnover.",46,53,-7,0.271148376114399,"Gonzaga","Florida State",4,3,0,0,6,401025874,2018-03-22
+269,2,"10:22",622,622,"Mfiondu Kabengele missed Layup.",46,53,-7,0.279765055017763,"Gonzaga","Florida State",4,3,0,0,6,401025874,2018-03-22
+270,2,"10:22",622,622,"Rui Hachimura Block.",46,53,-7,0.279765055017763,"Gonzaga","Florida State",4,3,0,0,6,401025874,2018-03-22
+271,2,"10:22",622,622,"Florida State Offensive Rebound.",46,53,-7,0.279765055017763,"Gonzaga","Florida State",4,3,0,0,6,401025874,2018-03-22
+272,2,"10:15",615,615,"M.J. Walker missed Layup.",46,53,-7,0.256159408144344,"Gonzaga","Florida State",4,3,0,0,6,401025874,2018-03-22
+273,2,"10:15",615,615,"Florida State Offensive Rebound.",46,53,-7,0.256159408144344,"Gonzaga","Florida State",4,3,0,0,6,401025874,2018-03-22
+274,2,"10:13",613,613,"Foul on Zach Norvell Jr..",46,53,-7,0.256159408144344,"Gonzaga","Florida State",4,3,0,0,6,401025874,2018-03-22
+275,2,"10:11",611,611,"CJ Walker missed Three Point Jumper.",46,53,-7,0.256159408144344,"Gonzaga","Florida State",4,3,0,0,6,401025874,2018-03-22
+276,2,"10:11",611,611,"Johnathan Williams Defensive Rebound.",46,53,-7,0.256159408144344,"Gonzaga","Florida State",4,3,0,0,6,401025874,2018-03-22
+277,2,"10:02",602,602,"Zach Norvell Jr. made Three Point Jumper. Assisted by Johnathan Williams.",49,53,-4,0.450161018744993,"Gonzaga","Florida State",4,3,0,0,6,401025874,2018-03-22
+278,2,"9:35",575,575,"CJ Walker Turnover.",49,53,-4,0.45427035939561,"Gonzaga","Florida State",4,3,0,0,6,401025874,2018-03-22
+279,2,"9:35",575,575,"Corey Kispert Steal.",49,53,-4,0.45427035939561,"Gonzaga","Florida State",4,3,0,0,6,401025874,2018-03-22
+280,2,"9:28",568,568,"Corey Kispert Turnover.",49,53,-4,0.45043401670028,"Gonzaga","Florida State",4,3,0,0,6,401025874,2018-03-22
+281,2,"9:28",568,568,"M.J. Walker Steal.",49,53,-4,0.45043401670028,"Gonzaga","Florida State",4,3,0,0,6,401025874,2018-03-22
+282,2,"9:18",558,558,"Florida State  Timeout",49,53,-4,0.413992203542704,"Gonzaga","Florida State",3,3,1,0,6,401025874,2018-03-22
+283,2,"9:09",549,549,"Braian Angola made Jumper.",49,55,-6,0.274233240218229,"Gonzaga","Florida State",3,3,1,0,6,401025874,2018-03-22
+284,2,"8:48",528,528,"Foul on Terance Mann.",49,55,-6,0.276820234565906,"Gonzaga","Florida State",3,3,1,0,6,401025874,2018-03-22
+285,2,"8:30",510,510,"Corey Kispert made Layup.",51,55,-4,0.391096064470364,"Gonzaga","Florida State",3,3,1,0,6,401025874,2018-03-22
+286,2,"8:10",490,490,"Braian Angola made Layup.",51,57,-6,0.291984077603765,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+287,2,"7:46",466,466,"Zach Norvell Jr. missed Jumper.",51,57,-6,0.265473239112038,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+288,2,"7:46",466,466,"Johnathan Williams Offensive Rebound.",51,57,-6,0.265473239112038,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+289,2,"7:41",461,461,"Johnathan Williams Turnover.",51,57,-6,0.265473239112038,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+290,2,"7:41",461,461,"Official TV Timeout",51,57,-6,0.265473239112038,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+291,2,"7:13",433,433,"Braian Angola missed Jumper.",51,57,-6,0.247357611593868,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+292,2,"7:13",433,433,"Johnathan Williams Defensive Rebound.",51,57,-6,0.247357611593868,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+293,2,"6:51",411,411,"Zach Norvell Jr. missed Three Point Jumper.",51,57,-6,0.241000239402555,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+294,2,"6:51",411,411,"Gonzaga Offensive Rebound.",51,57,-6,0.241000239402555,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+295,2,"6:25",385,385,"Josh Perkins missed Three Point Jumper.",51,57,-6,0.252391929668839,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+296,2,"6:25",385,385,"Mfiondu Kabengele Defensive Rebound.",51,57,-6,0.252391929668839,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+297,2,"6:18",378,378,"Terance Mann Turnover.",51,57,-6,0.221619445916161,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+298,2,"6:18",378,378,"Corey Kispert Steal.",51,57,-6,0.221619445916161,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+299,2,"6:16",376,376,"Foul on Terance Mann.",51,57,-6,0.221619445916161,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+300,2,"6:04",364,364,"Johnathan Williams missed Jumper.",51,57,-6,0.207415083880558,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+301,2,"6:04",364,364,"Braian Angola Defensive Rebound.",51,57,-6,0.207415083880558,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+302,2,"5:39",339,339,"Terance Mann made Dunk.",51,59,-8,0.100947366079477,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+303,2,"5:22",322,322,"Corey Kispert made Three Point Jumper. Assisted by Josh Perkins.",54,59,-5,0.279791986014042,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+304,2,"5:06",306,306,"Foul on Josh Perkins.",54,59,-5,0.242998944162824,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+305,2,"4:52",292,292,"Foul on Rui Hachimura.",54,59,-5,0.254577339107498,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+306,2,"4:52",292,292,"Mfiondu Kabengele made Free Throw.",54,60,-6,0.195085805838364,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+307,2,"4:52",292,292,"Mfiondu Kabengele made Free Throw.",54,61,-7,0.146759574469475,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+308,2,"4:51",291,291,"Corey Kispert Turnover.",54,61,-7,0.146759574469475,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+309,2,"4:51",291,291,"Phil Cofer Steal.",54,61,-7,0.146759574469475,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+310,2,"4:50",290,290,"Foul on Corey Kispert.",54,61,-7,0.146759574469475,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+311,2,"4:50",290,290,"Phil Cofer made Free Throw.",54,62,-8,0.108786657752697,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+312,2,"4:50",290,290,"Phil Cofer missed Free Throw.",54,62,-8,0.108786657752697,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+313,2,"4:50",290,290,"Johnathan Williams Defensive Rebound.",54,62,-8,0.108786657752697,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+314,2,"4:34",274,274,"Foul on Christ Koumadje.",54,62,-8,0.0703206152653345,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+315,2,"4:34",274,274,"Zach Norvell Jr. missed Free Throw.",54,62,-8,0.0703206152653345,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+316,2,"4:34",274,274,"Gonzaga Deadball Team Rebound.",54,62,-8,0.0703206152653345,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+317,2,"4:34",274,274,"Zach Norvell Jr. made Free Throw.",55,62,-7,0.100347850435616,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+318,2,"4:20",260,260,"Terance Mann made Layup.",55,64,-9,0.0587109191131059,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+319,2,"4:08",248,248,"Zach Norvell Jr. Turnover.",55,64,-9,0.0421914844095587,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+320,2,"4:08",248,248,"Terance Mann Steal.",55,64,-9,0.0421914844095587,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+321,2,"4:03",243,243,"Braian Angola missed Layup.",55,64,-9,0.0421914844095587,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+322,2,"4:03",243,243,"Phil Cofer Offensive Rebound.",55,64,-9,0.0421914844095587,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+323,2,"4:03",243,243,"Phil Cofer made Dunk.",55,66,-11,0.0192392068080503,"Gonzaga","Florida State",3,3,0,0,6,401025874,2018-03-22
+324,2,"4:00",240,240,"Gonzaga  Timeout",55,66,-11,0.0192392068080503,"Gonzaga","Florida State",3,2,0,1,6,401025874,2018-03-22
+325,2,"4:00",240,240,"Official TV Timeout",55,66,-11,0.0192392068080503,"Gonzaga","Florida State",3,2,0,1,6,401025874,2018-03-22
+326,2,"3:53",233,233,"Johnathan Williams missed Layup.",55,66,-11,0.0193070028331399,"Gonzaga","Florida State",3,2,0,1,6,401025874,2018-03-22
+327,2,"3:53",233,233,"Terance Mann Defensive Rebound.",55,66,-11,0.0193070028331399,"Gonzaga","Florida State",3,2,0,1,6,401025874,2018-03-22
+328,2,"3:32",212,212,"Foul on Silas Melson.",55,66,-11,0.0130263580504954,"Gonzaga","Florida State",3,2,0,1,6,401025874,2018-03-22
+329,2,"3:32",212,212,"Braian Angola made Free Throw.",55,67,-12,0.00843439882954028,"Gonzaga","Florida State",3,2,0,1,6,401025874,2018-03-22
+330,2,"3:32",212,212,"Braian Angola missed Free Throw.",55,67,-12,0.00843439882954028,"Gonzaga","Florida State",3,2,0,1,6,401025874,2018-03-22
+331,2,"3:32",212,212,"Johnathan Williams Defensive Rebound.",55,67,-12,0.00843439882954028,"Gonzaga","Florida State",3,2,0,1,6,401025874,2018-03-22
+332,2,"3:19",199,199,"Silas Melson missed Three Point Jumper.",55,67,-12,0.0053591121599239,"Gonzaga","Florida State",3,2,0,1,6,401025874,2018-03-22
+333,2,"3:19",199,199,"Terance Mann Defensive Rebound.",55,67,-12,0.0053591121599239,"Gonzaga","Florida State",3,2,0,1,6,401025874,2018-03-22
+334,2,"2:50",170,170,"Phil Cofer missed Three Point Jumper.",55,67,-12,0.00475093427661801,"Gonzaga","Florida State",3,2,0,0,6,401025874,2018-03-22
+335,2,"2:50",170,170,"Josh Perkins Defensive Rebound.",55,67,-12,0.00475093427661801,"Gonzaga","Florida State",3,2,0,0,6,401025874,2018-03-22
+336,2,"2:43",163,163,"Zach Norvell Jr. missed Layup.",55,67,-12,0.00418788944287549,"Gonzaga","Florida State",3,2,0,0,6,401025874,2018-03-22
+337,2,"2:43",163,163,"Mfiondu Kabengele Block.",55,67,-12,0.00418788944287549,"Gonzaga","Florida State",3,2,0,0,6,401025874,2018-03-22
+338,2,"2:43",163,163,"Silas Melson Offensive Rebound.",55,67,-12,0.00418788944287549,"Gonzaga","Florida State",3,2,0,0,6,401025874,2018-03-22
+339,2,"2:36",156,156,"Zach Norvell Jr. made Three Point Jumper. Assisted by Josh Perkins.",58,67,-9,0.0123090843075753,"Gonzaga","Florida State",3,2,0,0,6,401025874,2018-03-22
+340,2,"2:29",149,149,"Foul on Josh Perkins.",58,67,-9,0.0150583561033312,"Gonzaga","Florida State",3,2,0,0,6,401025874,2018-03-22
+341,2,"2:29",149,149,"Trent Forrest missed Free Throw.",58,67,-9,0.0150583561033312,"Gonzaga","Florida State",3,2,0,0,6,401025874,2018-03-22
+342,2,"2:29",149,149,"Trent Forrest Offensive Rebound.",58,67,-9,0.0150583561033312,"Gonzaga","Florida State",3,2,0,0,6,401025874,2018-03-22
+343,2,"2:05",125,125,"Mfiondu Kabengele made Layup. Assisted by Trent Forrest.",58,69,-11,0.00285139744280794,"Gonzaga","Florida State",3,2,0,0,6,401025874,2018-03-22
+344,2,"1:56",116,116,"Zach Norvell Jr. made Layup.",60,69,-9,0.00742736759496891,"Gonzaga","Florida State",3,2,0,0,6,401025874,2018-03-22
+345,2,"1:36",96,96,"Phil Cofer made Layup. Assisted by Braian Angola.",60,71,-11,0.00138720051140915,"Gonzaga","Florida State",3,2,1,0,6,401025874,2018-03-22
+346,2,"1:36",96,96,"Foul on Zach Norvell Jr..",60,71,-11,0.00138720051140915,"Gonzaga","Florida State",3,2,1,0,6,401025874,2018-03-22
+347,2,"1:36",96,96,"Phil Cofer made Free Throw.",60,72,-12,0.000740141321753603,"Gonzaga","Florida State",3,2,1,0,6,401025874,2018-03-22
+348,2,"1:36",96,96,"Phil Cofer made Free Throw.",60,73,-13,0.000394783343831571,"Gonzaga","Florida State",3,2,1,0,6,401025874,2018-03-22
+349,2,"1:36",96,96,"Florida State  Timeout",60,73,-13,0.000394783343831571,"Gonzaga","Florida State",2,2,1,0,6,401025874,2018-03-22
+350,2,"1:35",95,95,"Mfiondu Kabengele made Dunk. Assisted by Trent Forrest.",60,75,-15,0.000112271555801856,"Gonzaga","Florida State",2,2,1,0,6,401025874,2018-03-22
+351,2,"1:24",84,84,"Josh Perkins missed Layup.",60,75,-15,3.72755200924385e-05,"Gonzaga","Florida State",2,2,1,0,6,401025874,2018-03-22
+352,2,"1:24",84,84,"Trent Forrest Defensive Rebound.",60,75,-15,3.72755200924385e-05,"Gonzaga","Florida State",2,2,1,0,6,401025874,2018-03-22
+353,2,"0:58",58,58,"Trent Forrest missed Layup.",60,75,-15,4.95168179699177e-06,"Gonzaga","Florida State",2,2,1,0,6,401025874,2018-03-22
+354,2,"0:58",58,58,"Gonzaga Defensive Rebound.",60,75,-15,4.95168179699177e-06,"Gonzaga","Florida State",2,2,1,0,6,401025874,2018-03-22
+355,2,"0:48",48,48,"Zach Norvell Jr. missed Three Point Jumper.",60,75,-15,8.84875245914112e-07,"Gonzaga","Florida State",2,2,1,0,6,401025874,2018-03-22
+356,2,"0:48",48,48,"Braian Angola Defensive Rebound.",60,75,-15,8.84875245914112e-07,"Gonzaga","Florida State",2,2,1,0,6,401025874,2018-03-22
+357,2,"0:14",14,14,"Florida State  Turnover.",60,75,-15,3.18062052152752e-11,"Gonzaga","Florida State",2,2,0,0,6,401025874,2018-03-22
+358,2,"0:00",0,0,"End of Game",60,75,-15,8.48444446562298e-127,"Gonzaga","Florida State",2,2,0,0,6,401025874,2018-03-22

@@ -1,0 +1,395 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2700,"PLAY",0,0,0,0.693838407515773,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+2,1,"19:42",2382,2682,"J.T. Adenrele missed Layup.",0,0,0,0.691366371404101,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+3,1,"19:42",2382,2682,"Justin Bibbins Defensive Rebound.",0,0,0,0.691366371404101,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+4,1,"19:31",2371,2671,"Justin Bibbins Turnover.",0,0,0,0.694906670230839,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+5,1,"19:23",2363,2663,"J.T. Adenrele made Jumper. Assisted by Lawrence White.",0,2,-2,0.664672088027155,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+6,1,"19:09",2349,2649,"Temidayo Yussuf missed Layup.",0,2,-2,0.642218131802009,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+7,1,"19:09",2349,2649,"Chima Moneke Defensive Rebound.",0,2,-2,0.642218131802009,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+8,1,"18:49",2329,2629,"Lawrence White missed Jumper.",0,2,-2,0.649270420969168,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+9,1,"18:49",2329,2629,"Temidayo Yussuf Block.",0,2,-2,0.649270420969168,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+10,1,"18:46",2326,2626,"Roschon Prince Defensive Rebound.",0,2,-2,0.649270420969168,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+11,1,"18:35",2315,2615,"Justin Bibbins missed Three Point Jumper.",0,2,-2,0.629331493620865,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+12,1,"18:35",2315,2615,"Chima Moneke Defensive Rebound.",0,2,-2,0.629331493620865,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+13,1,"18:22",2302,2602,"Chima Moneke missed Jumper.",0,2,-2,0.631619041120065,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+14,1,"18:22",2302,2602,"Justin Bibbins Defensive Rebound.",0,2,-2,0.631619041120065,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+15,1,"18:03",2283,2583,"Temidayo Yussuf made Layup. Assisted by Evan Payne.",2,2,0,0.679957023601996,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+16,1,"17:38",2258,2558,"Darius Graham made Jumper.",2,4,-2,0.640897183105716,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+17,1,"17:03",2223,2523,"Roschon Prince missed Jumper.",2,4,-2,0.641464921179591,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+18,1,"17:03",2223,2523,"Chima Moneke Block.",2,4,-2,0.641464921179591,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+19,1,"17:03",2223,2523,"UC Davis Defensive Rebound.",2,4,-2,0.641464921179591,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+20,1,"16:46",2206,2506,"Chima Moneke made Jumper.",2,6,-4,0.579665519123929,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+21,1,"16:28",2188,2488,"Temidayo Yussuf missed Layup.",2,6,-4,0.582997094438926,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+22,1,"16:28",2188,2488,"Chima Moneke Defensive Rebound.",2,6,-4,0.582997094438926,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+23,1,"16:15",2175,2475,"Lawrence White made Jumper.",2,8,-6,0.521966611393558,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+24,1,"16:03",2163,2463,"Temidayo Yussuf made Layup. Assisted by Justin Bibbins.",4,8,-4,0.576380367153294,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+25,1,"15:35",2135,2435,"Brynton Lemar Turnover.",4,8,-4,0.566054523451071,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+26,1,"15:34",2134,2434,"Roschon Prince Steal.",4,8,-4,0.566054523451071,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+27,1,"15:29",2129,2429,"Roschon Prince missed Layup.",4,8,-4,0.567263046880389,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+28,1,"15:29",2129,2429,"Chima Moneke Block.",4,8,-4,0.567263046880389,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+29,1,"15:28",2128,2428,"Anson Moye Offensive Rebound.",4,8,-4,0.567263046880389,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+30,1,"15:17",2117,2417,"Anson Moye missed Three Point Jumper.",4,8,-4,0.571368823189541,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+31,1,"15:17",2117,2417,"Brynton Lemar Defensive Rebound.",4,8,-4,0.571368823189541,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+32,1,"15:10",2110,2410,"Lawrence White missed Layup.",4,8,-4,0.571368823189541,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+33,1,"15:10",2110,2410,"Roschon Prince Defensive Rebound.",4,8,-4,0.571368823189541,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+34,1,"14:39",2079,2379,"Evan Payne made Layup.",6,8,-2,0.627042291253809,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+35,1,"14:14",2054,2354,"Foul on Roschon Prince.",6,8,-2,0.623383612925202,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+36,1,"14:14",2054,2354,"Official TV Timeout",6,8,-2,0.623383612925202,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+37,1,"14:14",2054,2354,"Lawrence White made Free Throw.",6,9,-3,0.595506747138448,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+38,1,"14:14",2054,2354,"Lawrence White missed Free Throw.",6,9,-3,0.595506747138448,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+39,1,"14:14",2054,2354,"Chima Moneke Offensive Rebound.",6,9,-3,0.595506747138448,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+40,1,"13:59",2039,2339,"Lawrence White missed Three Point Jumper.",6,9,-3,0.6144078624392,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+41,1,"13:59",2039,2339,"Long Beach St Defensive Rebound.",6,9,-3,0.6144078624392,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+42,1,"13:57",2037,2337,"Foul on Chima Moneke.",6,9,-3,0.6144078624392,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+43,1,"13:44",2024,2324,"Roschon Prince missed Layup.",6,9,-3,0.579478672247466,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+44,1,"13:44",2024,2324,"Mason Riggins Offensive Rebound.",6,9,-3,0.579478672247466,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+45,1,"13:41",2021,2321,"Mason Riggins missed Layup.",6,9,-3,0.579478672247466,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+46,1,"13:41",2021,2321,"Mason Riggins Offensive Rebound.",6,9,-3,0.579478672247466,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+47,1,"13:38",2018,2318,"Mason Riggins missed Layup.",6,9,-3,0.600915630848127,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+48,1,"13:38",2018,2318,"Mason Riggins Offensive Rebound.",6,9,-3,0.600915630848127,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+49,1,"13:34",2014,2314,"Mason Riggins made Two Point Tip Shot.",8,9,-1,0.654864955162039,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+50,1,"13:13",1993,2293,"Arell Hennings missed Layup.",8,9,-1,0.647000458905816,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+51,1,"13:13",1993,2293,"Roschon Prince Defensive Rebound.",8,9,-1,0.647000458905816,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+52,1,"13:01",1981,2281,"Mason Riggins made Layup. Assisted by Roschon Prince.",10,9,1,0.688117039351468,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+53,1,"12:39",1959,2259,"Mikey Henn missed Jumper.",10,9,1,0.704471710450391,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+54,1,"12:39",1959,2259,"Anson Moye Defensive Rebound.",10,9,1,0.704471710450391,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+55,1,"12:27",1947,2247,"Roschon Prince missed Jumper.",10,9,1,0.69847230246648,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+56,1,"12:27",1947,2247,"Arell Hennings Defensive Rebound.",10,9,1,0.69847230246648,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+57,1,"12:16",1936,2236,"Foul on Anson Moye.",10,9,1,0.690703081925474,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+58,1,"11:48",1908,2208,"Siler Schneider missed Three Point Jumper.",10,9,1,0.697266428843656,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+59,1,"11:48",1908,2208,"J.T. Adenrele Offensive Rebound.",10,9,1,0.697266428843656,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+60,1,"11:33",1893,2193,"Siler Schneider Turnover.",10,9,1,0.703640230641469,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+61,1,"11:32",1892,2192,"Javonntie Jackson Steal.",10,9,1,0.703640230641469,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+62,1,"11:24",1884,2184,"Loren Jackson missed Jumper.",10,9,1,0.694651237709712,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+63,1,"11:24",1884,2184,"Mason Riggins Offensive Rebound.",10,9,1,0.694651237709712,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+64,1,"11:19",1879,2179,"Justin Bibbins missed Three Point Jumper.",10,9,1,0.695450969493393,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+65,1,"11:19",1879,2179,"Mason Riggins Offensive Rebound.",10,9,1,0.695450969493393,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+66,1,"11:13",1873,2173,"Mason Riggins made Layup.",12,9,3,0.745359005932533,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+67,1,"10:52",1852,2152,"Arell Hennings missed Three Point Jumper.",12,9,3,0.752458722504001,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+68,1,"10:52",1852,2152,"Justin Bibbins Defensive Rebound.",12,9,3,0.752458722504001,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+69,1,"10:51",1851,2151,"Foul on Mikey Henn.",12,9,3,0.752458722504001,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+70,1,"10:51",1851,2151,"Official TV Timeout",12,9,3,0.752458722504001,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+71,1,"10:42",1842,2142,"Loren Jackson Turnover.",12,9,3,0.734337290608413,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+72,1,"10:37",1837,2137,"J.T. Adenrele Steal.",12,9,3,0.74849135631623,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+73,1,"10:31",1831,2131,"J.T. Adenrele Turnover.",12,9,3,0.74849135631623,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+74,1,"10:15",1815,2115,"Loren Jackson made Three Point Jumper. Assisted by Evan Payne.",15,9,6,0.825690548197757,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+75,1,"9:59",1799,2099,"Foul on Evan Payne.",15,9,6,0.808119996563015,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+76,1,"9:47",1787,2087,"Foul on Mason Riggins.",15,9,6,0.807525167233003,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+77,1,"9:47",1787,2087,"Chima Moneke missed Free Throw.",15,9,6,0.807525167233003,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+78,1,"9:47",1787,2087,"UC Davis Deadball Team Rebound.",15,9,6,0.807525167233003,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+79,1,"9:47",1787,2087,"Chima Moneke missed Free Throw.",15,9,6,0.807525167233003,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+80,1,"9:47",1787,2087,"LaRond Williams Defensive Rebound.",15,9,6,0.807525167233003,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+81,1,"9:19",1759,2059,"Loren Jackson missed Three Point Jumper.",15,9,6,0.811111771054642,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+82,1,"9:19",1759,2059,"UC Davis Defensive Rebound.",15,9,6,0.811111771054642,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+83,1,"8:47",1727,2027,"Siler Schneider made Three Point Jumper. Assisted by Lawrence White.",15,12,3,0.750229160351908,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+84,1,"8:36",1716,2016,"Roschon Prince made Layup. Assisted by Barry Ogalue.",17,12,5,0.800231176137658,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+85,1,"8:36",1716,2016,"Foul on Lawrence White.",17,12,5,0.800231176137658,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+86,1,"8:36",1716,2016,"Roschon Prince missed Free Throw.",17,12,5,0.800231176137658,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+87,1,"8:36",1716,2016,"Siler Schneider Defensive Rebound.",17,12,5,0.800231176137658,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+88,1,"8:17",1697,1997,"Foul on Roschon Prince.",17,12,5,0.805092014503886,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+89,1,"8:17",1697,1997,"J.T. Adenrele made Free Throw.",17,13,4,0.781721478922321,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+90,1,"8:17",1697,1997,"J.T. Adenrele made Free Throw.",17,14,3,0.756396589821834,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+91,1,"7:43",1663,1963,"Barry Ogalue missed Three Point Jumper.",17,14,3,0.744332663171263,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+92,1,"7:43",1663,1963,"Lawrence White Defensive Rebound.",17,14,3,0.744332663171263,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+93,1,"7:30",1650,1950,"Lawrence White made Layup.",17,16,1,0.694619207821828,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+94,1,"7:21",1641,1941,"Foul on J.T. Adenrele.",17,16,1,0.69988863877515,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+95,1,"7:21",1641,1941,"Official TV Timeout",17,16,1,0.69988863877515,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+96,1,"7:10",1630,1930,"LaRond Williams Turnover.",17,16,1,0.699433054028137,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+97,1,"7:10",1630,1930,"Brynton Lemar Steal.",17,16,1,0.699433054028137,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+98,1,"7:10",1630,1930,"Foul on LaRond Williams.",17,16,1,0.699433054028137,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+99,1,"7:01",1621,1921,"Brynton Lemar Turnover.",17,16,1,0.689418036674511,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+100,1,"6:50",1610,1910,"Loren Jackson Turnover.",17,16,1,0.676190497381716,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+101,1,"6:48",1608,1908,"Brynton Lemar Steal.",17,16,1,0.688083038003583,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+102,1,"6:43",1603,1903,"Chima Moneke Turnover.",17,16,1,0.688083038003583,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+103,1,"6:41",1601,1901,"Temidayo Yussuf Steal.",17,16,1,0.688083038003583,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+104,1,"6:29",1589,1889,"Temidayo Yussuf missed Jumper.",17,16,1,0.681530502430305,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+105,1,"6:29",1589,1889,"Chima Moneke Defensive Rebound.",17,16,1,0.681530502430305,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+106,1,"6:23",1583,1883,"Chima Moneke Turnover.",17,16,1,0.681530502430305,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+107,1,"6:16",1576,1876,"Loren Jackson made Layup.",19,16,3,0.760036840141198,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+108,1,"6:02",1562,1862,"Siler Schneider Turnover.",19,16,3,0.738776619692314,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+109,1,"6:02",1562,1862,"Loren Jackson Steal.",19,16,3,0.738776619692314,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+110,1,"6:02",1562,1862,"Foul on Brynton Lemar.",19,16,3,0.738776619692314,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+111,1,"5:43",1543,1843,"LaRond Williams missed Jumper.",19,16,3,0.750627754361532,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+112,1,"5:43",1543,1843,"Chima Moneke Defensive Rebound.",19,16,3,0.750627754361532,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+113,1,"5:30",1530,1830,"Lawrence White missed Three Point Jumper.",19,16,3,0.750593194304587,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+114,1,"5:30",1530,1830,"Brynton Lemar Offensive Rebound.",19,16,3,0.750593194304587,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+115,1,"5:24",1524,1824,"Siler Schneider made Three Point Jumper. Assisted by Brynton Lemar.",19,19,0,0.657731615636931,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+116,1,"4:59",1499,1799,"Evan Payne Turnover.",19,19,0,0.674291012538136,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+117,1,"4:41",1481,1781,"Siler Schneider missed Three Point Jumper.",19,19,0,0.64984633927422,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+118,1,"4:41",1481,1781,"LaRond Williams Defensive Rebound.",19,19,0,0.64984633927422,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+119,1,"4:29",1469,1769,"Anson Moye missed Jumper.",19,19,0,0.657294591103609,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+120,1,"4:29",1469,1769,"Chima Moneke Defensive Rebound.",19,19,0,0.657294591103609,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+121,1,"4:22",1462,1762,"Foul on Evan Payne.",19,19,0,0.657294591103609,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+122,1,"4:22",1462,1762,"Brynton Lemar missed Free Throw.",19,19,0,0.657294591103609,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+123,1,"4:22",1462,1762,"Javonntie Jackson Defensive Rebound.",19,19,0,0.657294591103609,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+124,1,"4:03",1443,1743,"Foul on Lawrence White.",19,19,0,0.67611882991725,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+125,1,"3:46",1426,1726,"Foul on Darius Graham.",19,19,0,0.643672969116801,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+126,1,"3:46",1426,1726,"Javonntie Jackson missed Free Throw.",19,19,0,0.643672969116801,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+127,1,"3:46",1426,1726,"Mason Riggins Offensive Rebound.",19,19,0,0.643672969116801,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+128,1,"3:30",1410,1710,"Justin Bibbins missed Three Point Jumper.",19,19,0,0.645507447131826,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+129,1,"3:30",1410,1710,"Chima Moneke Defensive Rebound.",19,19,0,0.645507447131826,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+130,1,"3:13",1393,1693,"J.T. Adenrele missed Layup.",19,19,0,0.653443624062149,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+131,1,"3:13",1393,1693,"Mason Riggins Defensive Rebound.",19,19,0,0.653443624062149,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+132,1,"3:13",1393,1693,"Justin Bibbins missed Three Point Jumper.",19,19,0,0.653443624062149,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+133,1,"3:13",1393,1693,"Mason Riggins Offensive Rebound.",19,19,0,0.653443624062149,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+134,1,"3:13",1393,1693,"Mason Riggins made Jumper.",21,19,2,0.71971932814483,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+135,1,"3:13",1393,1693,"Darius Graham missed Three Point Jumper.",21,19,2,0.71971932814483,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+136,1,"3:13",1393,1693,"J.T. Adenrele Offensive Rebound.",21,19,2,0.71971932814483,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+137,1,"2:16",1336,1636,"Foul on Mason Riggins.",21,19,2,0.706139886141245,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+138,1,"2:16",1336,1636,"J.T. Adenrele made Free Throw.",21,20,1,0.672857254739712,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+139,1,"2:16",1336,1636,"J.T. Adenrele missed Free Throw.",21,20,1,0.672857254739712,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+140,1,"2:16",1336,1636,"Temidayo Yussuf Defensive Rebound.",21,20,1,0.672857254739712,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+141,1,"1:45",1305,1605,"Jordan Griffin missed Jumper.",21,20,1,0.681438818214101,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+142,1,"1:45",1305,1605,"Temidayo Yussuf Offensive Rebound.",21,20,1,0.681438818214101,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+143,1,"1:42",1302,1602,"Temidayo Yussuf missed Jumper.",21,20,1,0.681438818214101,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+144,1,"1:41",1301,1601,"J.T. Adenrele Block.",21,20,1,0.681438818214101,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+145,1,"1:41",1301,1601,"Temidayo Yussuf Offensive Rebound.",21,20,1,0.681438818214101,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+146,1,"1:38",1298,1598,"Temidayo Yussuf made Layup.",23,20,3,0.764574552793313,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+147,1,"1:20",1280,1580,"Siler Schneider missed Three Point Jumper.",23,20,3,0.748009395829246,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+148,1,"1:20",1280,1580,"Temidayo Yussuf Defensive Rebound.",23,20,3,0.748009395829246,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+149,1,"1:18",1278,1578,"Foul on Garrison Goode.",23,20,3,0.732470436235407,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+150,1,"1:18",1278,1578,"Temidayo Yussuf made Free Throw.",24,20,4,0.760792956627654,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+151,1,"1:18",1278,1578,"Temidayo Yussuf missed Free Throw.",24,20,4,0.760792956627654,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+152,1,"1:18",1278,1578,"Siler Schneider Defensive Rebound.",24,20,4,0.760792956627654,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+153,1,"1:14",1274,1574,"UC Davis  Timeout",24,20,4,0.760792956627654,"Long Beach State","UC Davis",3,4,1,0,3.5,400918949,2017-02-16
+154,1,"1:01",1261,1561,"Chima Moneke missed Jumper.",24,20,4,0.790380957241691,"Long Beach State","UC Davis",3,4,1,0,3.5,400918949,2017-02-16
+155,1,"1:01",1261,1561,"UC Davis Offensive Rebound.",24,20,4,0.790380957241691,"Long Beach State","UC Davis",3,4,1,0,3.5,400918949,2017-02-16
+156,1,"0:31",1231,1531,"Siler Schneider made Jumper.",24,22,2,0.708838988809363,"Long Beach State","UC Davis",3,4,1,0,3.5,400918949,2017-02-16
+157,1,"0:22",1222,1522,"Long Beach St  Timeout",24,22,2,0.724284398973756,"Long Beach State","UC Davis",3,3,1,1,3.5,400918949,2017-02-16
+158,1,"0:00",1200,1500,"Jordan Griffin missed Three Point Jumper.",24,22,2,0.715841854048977,"Long Beach State","UC Davis",3,3,0,1,3.5,400918949,2017-02-16
+159,1,"0:00",1200,1500,"Chima Moneke Defensive Rebound.",24,22,2,0.715841854048977,"Long Beach State","UC Davis",3,3,0,1,3.5,400918949,2017-02-16
+160,1,"0:00",1200,1500,"End of 1st half",24,22,2,0.715841854048977,"Long Beach State","UC Davis",3,3,0,1,3.5,400918949,2017-02-16
+161,2,"20:00",1200,1500,"PLAY",24,22,2,0.715841854048977,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+162,2,"19:35",1175,1475,"Temidayo Yussuf made Layup. Assisted by Anson Moye.",26,22,4,0.775876759654135,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+163,2,"19:35",1175,1475,"Foul on Garrison Goode.",26,22,4,0.775876759654135,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+164,2,"19:35",1175,1475,"Temidayo Yussuf missed Free Throw.",26,22,4,0.775876759654135,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+165,2,"19:35",1175,1475,"Garrison Goode Defensive Rebound.",26,22,4,0.775876759654135,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+166,2,"19:16",1156,1456,"Brynton Lemar made Layup.",26,24,2,0.714667381675891,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+167,2,"18:45",1125,1425,"Justin Bibbins made Jumper.",28,24,4,0.788444412702658,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+168,2,"18:26",1106,1406,"Darius Graham made Three Point Jumper. Assisted by Lawrence White.",28,27,1,0.682964232391588,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+169,2,"18:16",1096,1396,"Temidayo Yussuf Turnover.",28,27,1,0.690705503831202,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+170,2,"18:16",1096,1396,"Foul on Temidayo Yussuf.",28,27,1,0.690705503831202,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+171,2,"18:06",1086,1386,"Lawrence White Turnover.",28,27,1,0.683946154002352,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+172,2,"18:06",1086,1386,"Foul on Lawrence White.",28,27,1,0.683946154002352,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+173,2,"17:51",1071,1371,"Roschon Prince made Layup.",30,27,3,0.752386247602618,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+174,2,"17:51",1071,1371,"Foul on Darius Graham.",30,27,3,0.752386247602618,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+175,2,"17:51",1071,1371,"Roschon Prince made Free Throw.",31,27,4,0.782414980155247,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+176,2,"17:37",1057,1357,"Darius Graham missed Three Point Jumper.",31,27,4,0.790992577133354,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+177,2,"17:37",1057,1357,"Brynton Lemar Offensive Rebound.",31,27,4,0.790992577133354,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+178,2,"17:31",1051,1351,"Siler Schneider made Three Point Jumper. Assisted by Darius Graham.",31,30,1,0.687952031111177,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+179,2,"17:12",1032,1332,"Temidayo Yussuf made Layup. Assisted by Roschon Prince.",33,30,3,0.745480909805991,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+180,2,"16:54",1014,1314,"Brynton Lemar missed Jumper.",33,30,3,0.73240595889661,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+181,2,"16:54",1014,1314,"Evan Payne Defensive Rebound.",33,30,3,0.73240595889661,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+182,2,"16:26",986,1286,"Evan Payne missed Three Point Jumper.",33,30,3,0.767429822847507,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+183,2,"16:26",986,1286,"Chima Moneke Defensive Rebound.",33,30,3,0.767429822847507,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+184,2,"16:11",971,1271,"Foul on Justin Bibbins.",33,30,3,0.759200863790439,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+185,2,"16:10",970,1270,"Foul on Temidayo Yussuf.",33,30,3,0.759200863790439,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+186,2,"16:10",970,1270,"J.T. Adenrele missed Free Throw.",33,30,3,0.759200863790439,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+187,2,"16:10",970,1270,"UC Davis Deadball Team Rebound.",33,30,3,0.759200863790439,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+188,2,"16:10",970,1270,"J.T. Adenrele made Free Throw.",33,31,2,0.724814361727916,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+189,2,"16:02",962,1262,"Foul on Chima Moneke.",33,31,2,0.706485219725035,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+190,2,"15:55",955,1255,"Roschon Prince Turnover.",33,31,2,0.715377766650497,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+191,2,"15:54",954,1254,"Chima Moneke Steal.",33,31,2,0.715377766650497,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+192,2,"15:41",941,1241,"Siler Schneider made Jumper.",33,33,0,0.654169339787436,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+193,2,"15:19",919,1219,"Loren Jackson Turnover.",33,33,0,0.638630807421199,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+194,2,"15:19",919,1219,"Official TV Timeout",33,33,0,0.638630807421199,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+195,2,"15:10",910,1210,"Brynton Lemar missed Jumper.",33,33,0,0.638630807421199,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+196,2,"15:10",910,1210,"Javonntie Jackson Defensive Rebound.",33,33,0,0.638630807421199,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+197,2,"15:00",900,1200,"Roschon Prince Turnover.",33,33,0,0.629640417281722,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+198,2,"14:58",898,1198,"J.T. Adenrele Steal.",33,33,0,0.64044128925558,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+199,2,"14:56",896,1196,"Siler Schneider missed Jumper.",33,33,0,0.64044128925558,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+200,2,"14:56",896,1196,"Barry Ogalue Defensive Rebound.",33,33,0,0.64044128925558,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+201,2,"14:49",889,1189,"Roschon Prince made Layup. Assisted by Justin Bibbins.",35,33,2,0.70150407543229,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+202,2,"14:21",861,1161,"Brynton Lemar made Three Point Jumper. Assisted by Siler Schneider.",35,36,-1,0.576649181881516,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+203,2,"13:57",837,1137,"Loren Jackson missed Three Point Jumper.",35,36,-1,0.590706712641626,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+204,2,"13:57",837,1137,"Mason Riggins Offensive Rebound.",35,36,-1,0.590706712641626,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+205,2,"13:48",828,1128,"Foul on J.T. Adenrele.",35,36,-1,0.587946276463534,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+206,2,"13:19",799,1099,"Temidayo Yussuf made Jumper. Assisted by Justin Bibbins.",37,36,1,0.673182244010565,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+207,2,"13:02",782,1082,"Siler Schneider Turnover.",37,36,1,0.67334914209351,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+208,2,"13:00",780,1080,"Justin Bibbins Steal.",37,36,1,0.67334914209351,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+209,2,"12:59",779,1079,"Foul on Siler Schneider.",37,36,1,0.67681578138024,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+210,2,"12:56",776,1076,"Foul on Garrison Goode.",37,36,1,0.67681578138024,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+211,2,"12:56",776,1076,"Justin Bibbins made Free Throw.",38,36,2,0.720979261666064,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+212,2,"12:56",776,1076,"Justin Bibbins made Free Throw.",39,36,3,0.761236742788923,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+213,2,"12:30",750,1050,"Foul on LaRond Williams.",39,36,3,0.764433580480377,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+214,2,"12:25",745,1045,"Foul on LaRond Williams.",39,36,3,0.759405823036784,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+215,2,"12:25",745,1045,"Chima Moneke made Free Throw.",39,37,2,0.716357331387313,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+216,2,"12:25",745,1045,"Chima Moneke missed Free Throw.",39,37,2,0.716357331387313,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+217,2,"12:25",745,1045,"Evan Payne Defensive Rebound.",39,37,2,0.716357331387313,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+218,2,"12:13",733,1033,"Evan Payne missed Three Point Jumper.",39,37,2,0.718259258994076,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+219,2,"12:13",733,1033,"UC Davis Defensive Rebound.",39,37,2,0.718259258994076,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+220,2,"11:46",706,1006,"Darius Graham made Three Point Jumper. Assisted by Siler Schneider.",39,40,-1,0.577959748738415,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+221,2,"11:25",685,985,"Justin Bibbins missed Three Point Jumper.",39,40,-1,0.56266907177659,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+222,2,"11:25",685,985,"Lawrence White Defensive Rebound.",39,40,-1,0.56266907177659,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+223,2,"11:20",680,980,"Foul on Temidayo Yussuf.",39,40,-1,0.56266907177659,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+224,2,"11:20",680,980,"Official TV Timeout",39,40,-1,0.56266907177659,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+225,2,"10:58",658,958,"J.T. Adenrele made Jumper.",39,42,-3,0.455753707700274,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+226,2,"10:58",658,958,"Foul on Mason Riggins.",39,42,-3,0.455753707700274,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+227,2,"10:58",658,958,"J.T. Adenrele made Free Throw.",39,43,-4,0.397626986055241,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+228,2,"10:36",636,936,"Evan Payne missed Jumper.",39,43,-4,0.374330535654316,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+229,2,"10:36",636,936,"Chima Moneke Block.",39,43,-4,0.374330535654316,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+230,2,"10:36",636,936,"Long Beach St Offensive Rebound.",39,43,-4,0.374330535654316,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+231,2,"10:32",632,932,"Justin Bibbins Turnover.",39,43,-4,0.374330535654316,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+232,2,"10:12",612,912,"Siler Schneider missed Jumper.",39,43,-4,0.360380595639423,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+233,2,"10:12",612,912,"Siler Schneider Offensive Rebound.",39,43,-4,0.360380595639423,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+234,2,"9:56",596,896,"J.T. Adenrele Turnover.",39,43,-4,0.381812376828911,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+235,2,"9:56",596,896,"Foul on J.T. Adenrele.",39,43,-4,0.381812376828911,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+236,2,"9:41",581,881,"Roschon Prince missed Layup.",39,43,-4,0.370598890998069,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+237,2,"9:41",581,881,"J.T. Adenrele Defensive Rebound.",39,43,-4,0.370598890998069,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+238,2,"9:34",574,874,"Chima Moneke missed Layup.",39,43,-4,0.392990175127998,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+239,2,"9:34",574,874,"Mason Riggins Block.",39,43,-4,0.392990175127998,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+240,2,"9:32",572,872,"Justin Bibbins Defensive Rebound.",39,43,-4,0.392990175127998,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+241,2,"9:27",567,867,"Foul on Siler Schneider.",39,43,-4,0.382125907184296,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+242,2,"9:27",567,867,"Mason Riggins missed Free Throw.",39,43,-4,0.382125907184296,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+243,2,"9:27",567,867,"J.T. Adenrele Defensive Rebound.",39,43,-4,0.382125907184296,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+244,2,"9:07",547,847,"J.T. Adenrele made Jumper.",39,45,-6,0.228260368825941,"Long Beach State","UC Davis",4,4,0,0,3.5,400918949,2017-02-16
+245,2,"8:59",539,839,"Long Beach St  Timeout",39,45,-6,0.246696775643714,"Long Beach State","UC Davis",4,3,0,1,3.5,400918949,2017-02-16
+246,2,"8:45",525,825,"Temidayo Yussuf missed Jumper.",39,45,-6,0.23703090798433,"Long Beach State","UC Davis",4,3,0,1,3.5,400918949,2017-02-16
+247,2,"8:45",525,825,"Chima Moneke Block.",39,45,-6,0.23703090798433,"Long Beach State","UC Davis",4,3,0,1,3.5,400918949,2017-02-16
+248,2,"8:43",523,823,"LaRond Williams Offensive Rebound.",39,45,-6,0.23703090798433,"Long Beach State","UC Davis",4,3,0,1,3.5,400918949,2017-02-16
+249,2,"8:39",519,819,"Evan Payne missed Three Point Jumper.",39,45,-6,0.230442787462379,"Long Beach State","UC Davis",4,3,0,1,3.5,400918949,2017-02-16
+250,2,"8:39",519,819,"Brynton Lemar Defensive Rebound.",39,45,-6,0.230442787462379,"Long Beach State","UC Davis",4,3,0,1,3.5,400918949,2017-02-16
+251,2,"8:24",504,804,"Foul on Anson Moye.",39,45,-6,0.250447873103205,"Long Beach State","UC Davis",4,3,0,1,3.5,400918949,2017-02-16
+252,2,"8:24",504,804,"Brynton Lemar made Free Throw.",39,46,-7,0.203088575547977,"Long Beach State","UC Davis",4,3,0,1,3.5,400918949,2017-02-16
+253,2,"8:24",504,804,"Brynton Lemar missed Free Throw.",39,46,-7,0.203088575547977,"Long Beach State","UC Davis",4,3,0,1,3.5,400918949,2017-02-16
+254,2,"8:24",504,804,"Roschon Prince Defensive Rebound.",39,46,-7,0.203088575547977,"Long Beach State","UC Davis",4,3,0,1,3.5,400918949,2017-02-16
+255,2,"8:14",494,794,"Loren Jackson made Jumper.",41,46,-5,0.303196246506979,"Long Beach State","UC Davis",4,3,0,1,3.5,400918949,2017-02-16
+256,2,"7:56",476,776,"Brynton Lemar Turnover.",41,46,-5,0.268066519448203,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+257,2,"7:56",476,776,"Foul on Brynton Lemar.",41,46,-5,0.268066519448203,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+258,2,"7:56",476,776,"Official TV Timeout",41,46,-5,0.268066519448203,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+259,2,"7:37",457,757,"Loren Jackson missed Layup.",41,46,-5,0.231619468782231,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+260,2,"7:37",457,757,"Temidayo Yussuf Offensive Rebound.",41,46,-5,0.231619468782231,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+261,2,"7:33",453,753,"Temidayo Yussuf made Layup.",43,46,-3,0.362364843172064,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+262,2,"7:16",436,736,"Brynton Lemar Turnover.",43,46,-3,0.394157515197511,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+263,2,"7:16",436,736,"Foul on Brynton Lemar.",43,46,-3,0.394157515197511,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+264,2,"6:58",418,718,"Foul on J.T. Adenrele.",43,46,-3,0.381645741083744,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+265,2,"6:58",418,718,"Roschon Prince missed Free Throw.",43,46,-3,0.381645741083744,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+266,2,"6:58",418,718,"Long Beach St Deadball Team Rebound.",43,46,-3,0.381645741083744,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+267,2,"6:58",418,718,"Roschon Prince missed Free Throw.",43,46,-3,0.381645741083744,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+268,2,"6:58",418,718,"Chima Moneke Defensive Rebound.",43,46,-3,0.381645741083744,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+269,2,"6:38",398,698,"Siler Schneider made Jumper.",43,48,-5,0.250554168202536,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+270,2,"6:17",377,677,"Roschon Prince missed Jumper.",43,48,-5,0.235577398678618,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+271,2,"6:17",377,677,"Mason Riggins Offensive Rebound.",43,48,-5,0.235577398678618,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+272,2,"6:12",372,672,"Mason Riggins made Dunk.",45,48,-3,0.364067933448451,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+273,2,"5:48",348,648,"Chima Moneke missed Jumper.",45,48,-3,0.325247984225838,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+274,2,"5:48",348,648,"Mason Riggins Defensive Rebound.",45,48,-3,0.325247984225838,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+275,2,"5:35",335,635,"Loren Jackson missed Three Point Jumper.",45,48,-3,0.350196852002499,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+276,2,"5:35",335,635,"Darius Graham Defensive Rebound.",45,48,-3,0.350196852002499,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+277,2,"5:28",328,628,"Darius Graham Turnover.",45,48,-3,0.36306985464418,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+278,2,"5:28",328,628,"Foul on Darius Graham.",45,48,-3,0.36306985464418,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+279,2,"5:08",308,608,"Loren Jackson made Jumper.",47,48,-1,0.509037863677471,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+280,2,"4:54",294,594,"Brynton Lemar Turnover.",47,48,-1,0.514750577203199,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+281,2,"4:54",294,594,"Foul on Brynton Lemar.",47,48,-1,0.514750577203199,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+282,2,"4:38",278,578,"Roschon Prince made Dunk. Assisted by Justin Bibbins.",49,48,1,0.668078563514535,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+283,2,"4:24",264,564,"Foul on Loren Jackson.",49,48,1,0.681805877076073,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+284,2,"4:24",264,564,"Darius Graham missed Free Throw.",49,48,1,0.681805877076073,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+285,2,"4:24",264,564,"Temidayo Yussuf Defensive Rebound.",49,48,1,0.681805877076073,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+286,2,"4:11",251,551,"Foul on Garrison Goode.",49,48,1,0.692253978319679,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+287,2,"4:11",251,551,"Temidayo Yussuf made Free Throw.",50,48,2,0.774177212583744,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+288,2,"4:11",251,551,"Temidayo Yussuf missed Free Throw.",50,48,2,0.774177212583744,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+289,2,"4:11",251,551,"Chima Moneke Defensive Rebound.",50,48,2,0.774177212583744,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+290,2,"3:49",229,529,"Siler Schneider missed Free Throw.",50,48,2,0.784795203967632,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+291,2,"3:49",229,529,"Foul on Temidayo Yussuf.",50,48,2,0.784795203967632,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+292,2,"3:49",229,529,"Official TV Timeout",50,48,2,0.784795203967632,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+293,2,"3:49",229,529,"Siler Schneider missed Free Throw.",50,48,2,0.784795203967632,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+294,2,"3:49",229,529,"UC Davis Deadball Team Rebound.",50,48,2,0.784795203967632,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+295,2,"3:49",229,529,"Mason Riggins Defensive Rebound.",50,48,2,0.784795203967632,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+296,2,"3:26",206,506,"Justin Bibbins Turnover.",50,48,2,0.793974743036773,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+297,2,"3:24",204,504,"Chima Moneke Steal.",50,48,2,0.793974743036773,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+298,2,"3:20",200,500,"Foul on Mason Riggins.",50,48,2,0.793974743036773,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+299,2,"3:20",200,500,"J.T. Adenrele made Free Throw.",50,49,1,0.710336377235997,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+300,2,"3:20",200,500,"J.T. Adenrele missed Free Throw.",50,49,1,0.710336377235997,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+301,2,"3:20",200,500,"UC Davis Deadball Team Rebound.",50,49,1,0.710336377235997,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+302,2,"3:17",197,497,"Chima Moneke made Jumper.",50,51,-1,0.447412543288676,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+303,2,"2:47",167,467,"Evan Payne made Three Point Jumper.",53,51,2,0.816822311608978,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+304,2,"2:14",134,434,"Chima Moneke missed Jumper.",53,51,2,0.82222660144824,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+305,2,"2:14",134,434,"Roschon Prince Defensive Rebound.",53,51,2,0.82222660144824,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+306,2,"1:54",114,414,"Evan Payne missed Jumper.",53,51,2,0.828271344994708,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+307,2,"1:54",114,414,"Darius Graham Defensive Rebound.",53,51,2,0.828271344994708,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+308,2,"1:45",105,405,"Brynton Lemar made Jumper.",53,53,0,0.539420533251826,"Long Beach State","UC Davis",4,3,0,0,3.5,400918949,2017-02-16
+309,2,"1:31",91,391,"Long Beach St  Timeout",53,53,0,0.556644815260012,"Long Beach State","UC Davis",4,2,0,1,3.5,400918949,2017-02-16
+310,2,"1:16",76,376,"Temidayo Yussuf missed Jumper.",53,53,0,0.539833606582545,"Long Beach State","UC Davis",4,2,0,1,3.5,400918949,2017-02-16
+311,2,"1:16",76,376,"Brynton Lemar Defensive Rebound.",53,53,0,0.539833606582545,"Long Beach State","UC Davis",4,2,0,1,3.5,400918949,2017-02-16
+312,2,"0:55",55,355,"Brynton Lemar made Jumper.",53,55,-2,0.221616308193147,"Long Beach State","UC Davis",4,2,0,1,3.5,400918949,2017-02-16
+313,2,"0:38",38,338,"Foul on Chima Moneke.",53,55,-2,0.15801367703496,"Long Beach State","UC Davis",4,2,0,1,3.5,400918949,2017-02-16
+314,2,"0:38",38,338,"Temidayo Yussuf missed Free Throw.",53,55,-2,0.15801367703496,"Long Beach State","UC Davis",4,2,0,1,3.5,400918949,2017-02-16
+315,2,"0:38",38,338,"Long Beach St Deadball Team Rebound.",53,55,-2,0.15801367703496,"Long Beach State","UC Davis",4,2,0,1,3.5,400918949,2017-02-16
+316,2,"0:38",38,338,"Temidayo Yussuf missed Free Throw.",53,55,-2,0.15801367703496,"Long Beach State","UC Davis",4,2,0,1,3.5,400918949,2017-02-16
+317,2,"0:38",38,338,"Siler Schneider Defensive Rebound.",53,55,-2,0.15801367703496,"Long Beach State","UC Davis",4,2,0,1,3.5,400918949,2017-02-16
+318,2,"0:35",35,335,"UC Davis  Timeout",53,55,-2,0.148187244223722,"Long Beach State","UC Davis",3,2,1,1,3.5,400918949,2017-02-16
+319,2,"0:11",11,311,"Brynton Lemar missed Three Point Jumper.",53,55,-2,0.0880826126394448,"Long Beach State","UC Davis",3,2,1,0,3.5,400918949,2017-02-16
+320,2,"0:11",11,311,"Long Beach St Defensive Rebound.",53,55,-2,0.0880826126394448,"Long Beach State","UC Davis",3,2,1,0,3.5,400918949,2017-02-16
+321,2,"0:11",11,311,"UC Davis  Timeout",53,55,-2,0.0880826126394448,"Long Beach State","UC Davis",2,2,1,0,3.5,400918949,2017-02-16
+322,2,"0:01",1,301,"Evan Payne made Jumper. Assisted by Roschon Prince.",55,55,0,0.44755784579777,"Long Beach State","UC Davis",2,2,1,0,3.5,400918949,2017-02-16
+323,2,"0:01",1,301,"UC Davis  Timeout",55,55,0,0.44755784579777,"Long Beach State","UC Davis",1,2,1,0,3.5,400918949,2017-02-16
+324,2,"0:00",300,300,"Darius Graham missed Three Point Jumper.",55,55,0,0.592618035324966,"Long Beach State","UC Davis",1,2,0,0,3.5,400918949,2017-02-16
+325,2,"0:00",300,300,"Long Beach St Defensive Rebound.",55,55,0,0.592618035324966,"Long Beach State","UC Davis",1,2,0,0,3.5,400918949,2017-02-16
+326,2,"0:00",300,300,"End of 2nd half",55,55,0,0.592618035324966,"Long Beach State","UC Davis",1,2,0,0,3.5,400918949,2017-02-16
+327,3,"5:00",300,300,"PLAY",55,55,0,0.592618035324966,"Long Beach State","UC Davis",2,3,0,0,3.5,400918949,2017-02-16
+328,3,"4:37",277,277,"Evan Payne Turnover.",55,55,0,0.577153304048871,"Long Beach State","UC Davis",2,3,0,0,3.5,400918949,2017-02-16
+329,3,"4:21",261,261,"Foul on Mason Riggins.",55,55,0,0.596001161190273,"Long Beach State","UC Davis",2,3,0,0,3.5,400918949,2017-02-16
+330,3,"4:21",261,261,"Siler Schneider made Free Throw.",55,56,-1,0.50389439366102,"Long Beach State","UC Davis",2,3,0,0,3.5,400918949,2017-02-16
+331,3,"4:21",261,261,"Siler Schneider missed Free Throw.",55,56,-1,0.50389439366102,"Long Beach State","UC Davis",2,3,0,0,3.5,400918949,2017-02-16
+332,3,"4:21",261,261,"Siler Schneider Offensive Rebound.",55,56,-1,0.50389439366102,"Long Beach State","UC Davis",2,3,0,0,3.5,400918949,2017-02-16
+333,3,"4:11",251,251,"Chima Moneke Turnover.",55,56,-1,0.491984120676739,"Long Beach State","UC Davis",2,3,0,0,3.5,400918949,2017-02-16
+334,3,"4:10",250,250,"Evan Payne Steal.",55,56,-1,0.491984120676739,"Long Beach State","UC Davis",2,3,0,0,3.5,400918949,2017-02-16
+335,3,"3:48",228,228,"Justin Bibbins made Three Point Jumper. Assisted by Temidayo Yussuf.",58,56,2,0.784795203967632,"Long Beach State","UC Davis",2,3,0,0,3.5,400918949,2017-02-16
+336,3,"3:37",217,217,"Siler Schneider Turnover.",58,56,2,0.767050945836987,"Long Beach State","UC Davis",2,3,0,0,3.5,400918949,2017-02-16
+337,3,"3:36",216,216,"Justin Bibbins Steal.",58,56,2,0.767050945836987,"Long Beach State","UC Davis",2,3,0,0,3.5,400918949,2017-02-16
+338,3,"3:33",213,213,"Justin Bibbins made Layup.",60,56,4,0.887985770223646,"Long Beach State","UC Davis",2,3,0,0,3.5,400918949,2017-02-16
+339,3,"3:31",211,211,"UC Davis  Timeout",60,56,4,0.887985770223646,"Long Beach State","UC Davis",1,3,1,0,3.5,400918949,2017-02-16
+340,3,"3:18",198,198,"Brynton Lemar made Layup.",60,58,2,0.767230568707405,"Long Beach State","UC Davis",1,3,1,0,3.5,400918949,2017-02-16
+341,3,"3:02",182,182,"Evan Payne made Three Point Jumper. Assisted by Justin Bibbins.",63,58,5,0.935885683537996,"Long Beach State","UC Davis",1,3,1,0,3.5,400918949,2017-02-16
+342,3,"2:47",167,167,"Brynton Lemar missed Three Point Jumper.",63,58,5,0.954190966846776,"Long Beach State","UC Davis",1,3,1,0,3.5,400918949,2017-02-16
+343,3,"2:47",167,167,"Justin Bibbins Defensive Rebound.",63,58,5,0.954190966846776,"Long Beach State","UC Davis",1,3,1,0,3.5,400918949,2017-02-16
+344,3,"2:19",139,139,"Roschon Prince made Layup. Assisted by Temidayo Yussuf.",65,58,7,0.986216017152227,"Long Beach State","UC Davis",1,3,0,0,3.5,400918949,2017-02-16
+345,3,"2:19",139,139,"Foul on Chima Moneke.",65,58,7,0.986216017152227,"Long Beach State","UC Davis",1,3,0,0,3.5,400918949,2017-02-16
+346,3,"2:19",139,139,"Roschon Prince missed Free Throw.",65,58,7,0.986216017152227,"Long Beach State","UC Davis",1,3,0,0,3.5,400918949,2017-02-16
+347,3,"2:19",139,139,"Chima Moneke Defensive Rebound.",65,58,7,0.986216017152227,"Long Beach State","UC Davis",1,3,0,0,3.5,400918949,2017-02-16
+348,3,"2:10",130,130,"Foul on Anson Moye.",65,58,7,0.986216017152227,"Long Beach State","UC Davis",1,3,0,0,3.5,400918949,2017-02-16
+349,3,"2:10",130,130,"Brynton Lemar made Free Throw.",65,59,6,0.976399312562615,"Long Beach State","UC Davis",1,3,0,0,3.5,400918949,2017-02-16
+350,3,"2:10",130,130,"Brynton Lemar made Free Throw.",65,60,5,0.959875768060218,"Long Beach State","UC Davis",1,3,0,0,3.5,400918949,2017-02-16
+351,3,"1:41",101,101,"Temidayo Yussuf made Layup.",67,60,7,0.988919875088005,"Long Beach State","UC Davis",1,3,0,0,3.5,400918949,2017-02-16
+352,3,"1:23",83,83,"Siler Schneider missed Jumper.",67,60,7,0.995604239798934,"Long Beach State","UC Davis",1,3,0,0,3.5,400918949,2017-02-16
+353,3,"1:23",83,83,"Temidayo Yussuf Defensive Rebound.",67,60,7,0.995604239798934,"Long Beach State","UC Davis",1,3,0,0,3.5,400918949,2017-02-16
+354,3,"1:14",74,74,"Roschon Prince missed Layup.",67,60,7,0.995056245746455,"Long Beach State","UC Davis",1,3,0,0,3.5,400918949,2017-02-16
+355,3,"1:14",74,74,"J.T. Adenrele Defensive Rebound.",67,60,7,0.995056245746455,"Long Beach State","UC Davis",1,3,0,0,3.5,400918949,2017-02-16
+356,3,"1:09",69,69,"Foul on Lawrence White.",67,61,6,0.988969477962376,"Long Beach State","UC Davis",1,3,0,1,3.5,400918949,2017-02-16
+357,3,"1:09",69,69,"Evan Payne made Free Throw.",68,61,7,0.994718464739691,"Long Beach State","UC Davis",1,3,0,1,3.5,400918949,2017-02-16
+358,3,"1:09",69,69,"Evan Payne made Free Throw.",69,61,8,0.997478781440312,"Long Beach State","UC Davis",1,3,0,1,3.5,400918949,2017-02-16
+359,3,"1:09",69,69,"Long Beach St  Timeout",69,61,8,0.997478781440312,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+360,3,"1:08",68,68,"Foul on Justin Bibbins.",67,60,7,0.994718464739691,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+361,3,"1:08",68,68,"Siler Schneider missed Free Throw.",67,60,7,0.994718464739691,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+362,3,"1:08",68,68,"UC Davis Deadball Team Rebound.",67,60,7,0.994718464739691,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+363,3,"1:08",68,68,"Siler Schneider made Free Throw.",67,61,6,0.988969477962376,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+364,3,"1:04",64,64,"Darius Graham made Layup.",69,63,6,0.988969477962376,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+365,3,"1:04",64,64,"Foul on Loren Jackson.",69,63,6,0.988969477962376,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+366,3,"1:04",64,64,"Darius Graham made Free Throw.",69,64,5,0.977106702861457,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+367,3,"1:02",62,62,"Foul on Garrison Goode.",69,64,5,0.977106702861457,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+368,3,"1:02",62,62,"Evan Payne made Free Throw.",70,64,6,0.988969477962376,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+369,3,"1:02",62,62,"Evan Payne made Free Throw.",71,64,7,0.994718464739691,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+370,3,"0:56",56,56,"Foul on Temidayo Yussuf.",71,64,7,0.998424445379586,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+371,3,"0:56",56,56,"Siler Schneider made Free Throw.",71,65,6,0.996242460123537,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+372,3,"0:56",56,56,"Siler Schneider made Free Throw.",71,66,5,0.991065684548704,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+373,3,"0:55",55,55,"Foul on Michael Onyebalu.",71,66,5,0.983037452814623,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+374,3,"0:55",55,55,"Evan Payne made Free Throw.",72,66,6,0.991990262753765,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+375,3,"0:55",55,55,"Evan Payne made Free Throw.",73,66,7,0.996235884877087,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+376,3,"0:50",50,50,"Siler Schneider made Layup.",73,68,5,0.992481126191212,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+377,3,"0:48",48,48,"Foul on Siler Schneider.",73,68,5,0.993242862726774,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+378,3,"0:48",48,48,"Evan Payne made Free Throw.",74,68,6,0.997380374783453,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+379,3,"0:48",48,48,"Evan Payne made Free Throw.",75,68,7,0.998987000488923,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+380,3,"0:45",45,45,"Siler Schneider Turnover.",75,68,7,0.997231678738355,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+381,3,"0:40",40,40,"Foul on Siler Schneider.",75,68,7,0.998931769052124,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+382,3,"0:40",40,40,"Roschon Prince missed Free Throw.",75,68,7,0.998931769052124,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+383,3,"0:40",40,40,"Long Beach St Deadball Team Rebound.",75,68,7,0.998931769052124,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+384,3,"0:40",40,40,"Roschon Prince made Free Throw.",76,68,8,0.999607085399992,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+385,3,"0:34",34,34,"Siler Schneider Turnover.",76,68,8,0.998539828432845,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+386,3,"0:34",34,34,"Foul on Siler Schneider.",76,68,8,0.998539828432845,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+387,3,"0:30",30,30,"Jordan Griffin made Layup. Assisted by Justin Bibbins.",78,68,10,0.999930284384518,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+388,3,"0:24",24,24,"Mikey Henn missed Three Point Jumper.",78,68,10,0.999913138794204,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+389,3,"0:24",24,24,"UC Davis Offensive Rebound.",78,68,10,0.999913138794204,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+390,3,"0:14",14,14,"Foul on Roschon Prince.",78,68,10,0.999999949655659,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+391,3,"0:14",14,14,"Brynton Lemar missed Free Throw.",78,68,10,0.999999949655659,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+392,3,"0:14",14,14,"UC Davis Deadball Team Rebound.",78,68,10,0.999999949655659,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+393,3,"0:14",14,14,"Brynton Lemar made Free Throw.",78,69,9,0.999999741640629,"Long Beach State","UC Davis",1,2,0,1,3.5,400918949,2017-02-16
+394,3,"0:00",0,0,"End of Game",78,69,9,1,"Long Beach State","UC Davis",1,2,0,0,3.5,400918949,2017-02-16

@@ -1,0 +1,367 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.301635908369574,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+2,1,"19:38",2378,2378,"Patrick Steeves made Jumper.",2,0,2,0.369480903383839,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+3,1,"19:13",2353,2353,"Charles Cooke Turnover.",2,0,2,0.369532126479636,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+4,1,"19:12",2352,2352,"Patrick Steeves Steal.",2,0,2,0.369532126479636,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+5,1,"18:52",2332,2332,"Matt Hart made Three Point Jumper. Assisted by Tyler Cavanaugh.",5,0,5,0.429466648755616,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+6,1,"18:32",2312,2312,"Foul on Patrick Steeves.",5,0,5,0.432360640742676,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+7,1,"18:32",2312,2312,"Kendall Pollard made Free Throw.",5,1,4,0.408432976903924,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+8,1,"18:32",2312,2312,"Kendall Pollard missed Free Throw.",5,1,4,0.408432976903924,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+9,1,"18:32",2312,2312,"Tyler Cavanaugh Defensive Rebound.",5,1,4,0.408432976903924,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+10,1,"18:17",2297,2297,"Tyler Cavanaugh made Three Point Jumper. Assisted by Yuta Watanabe.",8,1,7,0.48874488653791,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+11,1,"17:59",2279,2279,"Kendall Pollard missed Layup.",8,1,7,0.500471638219391,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+12,1,"17:59",2279,2279,"Tyler Cavanaugh Defensive Rebound.",8,1,7,0.500471638219391,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+13,1,"17:44",2264,2264,"Tyler Cavanaugh made Layup. Assisted by Yuta Watanabe.",10,1,9,0.589768863639984,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+14,1,"17:43",2263,2263,"Dayton  Timeout",10,1,9,0.589768863639984,"George Washington","Dayton",3,4,1,0,-4,400918318,2017-03-04
+15,1,"17:31",2251,2251,"Scoochie Smith Turnover.",10,1,9,0.54401785959155,"George Washington","Dayton",3,4,1,0,-4,400918318,2017-03-04
+16,1,"17:30",2250,2250,"Matt Hart Steal.",10,1,9,0.54401785959155,"George Washington","Dayton",3,4,1,0,-4,400918318,2017-03-04
+17,1,"17:14",2234,2234,"Yuta Watanabe made Jumper.",12,1,11,0.622597930922325,"George Washington","Dayton",3,4,1,0,-4,400918318,2017-03-04
+18,1,"16:59",2219,2219,"Kendall Pollard Turnover.",12,1,11,0.686615170654421,"George Washington","Dayton",3,4,1,0,-4,400918318,2017-03-04
+19,1,"16:58",2218,2218,"Patrick Steeves Steal.",12,1,11,0.686615170654421,"George Washington","Dayton",3,4,1,0,-4,400918318,2017-03-04
+20,1,"16:55",2215,2215,"Matt Hart made Layup.",14,1,13,0.740023128345744,"George Washington","Dayton",3,4,1,0,-4,400918318,2017-03-04
+21,1,"16:33",2193,2193,"Charles Cooke missed Three Point Jumper.",14,1,13,0.695639382614085,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+22,1,"16:33",2193,2193,"Matt Hart Defensive Rebound.",14,1,13,0.695639382614085,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+23,1,"16:11",2171,2171,"Foul on Kendall Pollard.",14,1,13,0.659859643242006,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+24,1,"16:08",2168,2168,"Tyler Cavanaugh made Layup. Assisted by Jaren Sina.",16,1,15,0.719299740872282,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+25,1,"15:53",2153,2153,"Darrell Davis missed Three Point Jumper.",16,1,15,0.733751079299248,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+26,1,"15:53",2153,2153,"Kendall Pollard Offensive Rebound.",16,1,15,0.733751079299248,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+27,1,"15:49",2149,2149,"Kendall Pollard made Layup.",16,3,13,0.650154535092999,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+28,1,"15:32",2132,2132,"Yuta Watanabe made Three Point Jumper.",19,3,16,0.767251888157006,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+29,1,"15:13",2113,2113,"Kendall Pollard made Layup. Assisted by Charles Cooke.",19,5,14,0.700248661162443,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+30,1,"14:53",2093,2093,"Patrick Steeves made Jumper.",21,5,16,0.782117618400947,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+31,1,"14:33",2073,2073,"Foul on Tyler Cavanaugh.",21,5,16,0.717779397031284,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+32,1,"14:33",2073,2073,"Official TV Timeout",21,5,16,0.717779397031284,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+33,1,"14:33",2073,2073,"Darrell Davis missed Free Throw.",21,5,16,0.717779397031284,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+34,1,"14:33",2073,2073,"Dayton Deadball Team Rebound.",21,5,16,0.717779397031284,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+35,1,"14:33",2073,2073,"Darrell Davis missed Free Throw.",21,5,16,0.717779397031284,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+36,1,"14:33",2073,2073,"Dayton Deadball Team Rebound.",21,5,16,0.717779397031284,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+37,1,"14:33",2073,2073,"Darrell Davis made Free Throw.",21,6,15,0.695580762190291,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+38,1,"14:21",2061,2061,"Patrick Steeves missed Three Point Jumper.",21,6,15,0.739990582639147,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+39,1,"14:21",2061,2061,"Josh Cunningham Defensive Rebound.",21,6,15,0.739990582639147,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+40,1,"14:05",2045,2045,"Ryan Mikesell Turnover.",21,6,15,0.707523546907657,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+41,1,"13:39",2019,2019,"Tyler Cavanaugh made Three Point Jumper. Assisted by Jaren Sina.",24,6,18,0.80070954847514,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+42,1,"13:24",2004,2004,"Ryan Mikesell made Layup.",24,8,16,0.737787781776643,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+43,1,"13:06",1986,1986,"Foul on Ryan Mikesell.",24,8,16,0.781334938834893,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+44,1,"12:58",1978,1978,"Tyler Cavanaugh made Three Point Jumper. Assisted by Matt Hart.",27,8,19,0.842358661635757,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+45,1,"12:42",1962,1962,"Darrell Davis made Three Point Jumper. Assisted by Scoochie Smith.",27,11,16,0.724788008374927,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+46,1,"12:26",1946,1946,"Yuta Watanabe made Jumper.",29,11,18,0.826324999990788,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+47,1,"11:58",1918,1918,"Scoochie Smith missed Three Point Jumper.",29,11,18,0.845676250622133,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+48,1,"11:54",1914,1914,"Dayton Offensive Rebound.",29,11,18,0.845676250622133,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+49,1,"11:53",1913,1913,"Official TV Timeout",29,11,18,0.845676250622133,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+50,1,"11:36",1896,1896,"Kendall Pollard made Dunk. Assisted by Kyle Davis.",29,13,16,0.819586544068112,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+51,1,"11:20",1880,1880,"Collin Smith missed Dunk.",29,13,16,0.771636218967811,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+52,1,"11:20",1880,1880,"Collin Smith Offensive Rebound.",29,13,16,0.771636218967811,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+53,1,"11:16",1876,1876,"Collin Smith made Layup.",31,13,18,0.821892807152961,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+54,1,"11:03",1863,1863,"Kendall Pollard made Layup. Assisted by Kyle Davis.",31,15,16,0.827737512616563,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+55,1,"10:40",1840,1840,"Jair Bolden missed Jumper.",31,15,16,0.766505551582057,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+56,1,"10:40",1840,1840,"Kyle Davis Defensive Rebound.",31,15,16,0.766505551582057,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+57,1,"10:31",1831,1831,"Charles Cooke made Layup.",31,17,14,0.757068982847092,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+58,1,"10:06",1806,1806,"Jordan Roland missed Three Point Jumper.",31,17,14,0.746864892503071,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+59,1,"10:06",1806,1806,"Josh Cunningham Defensive Rebound.",31,17,14,0.746864892503071,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+60,1,"9:36",1776,1776,"Kyle Davis missed Layup.",31,17,14,0.724730465876946,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+61,1,"9:36",1776,1776,"Arnaldo Toro Defensive Rebound.",31,17,14,0.724730465876946,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+62,1,"9:18",1758,1758,"Foul on Charles Cooke.",31,17,14,0.752378589822961,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+63,1,"9:13",1753,1753,"Tyler Cavanaugh Turnover.",31,17,14,0.752378589822961,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+64,1,"8:53",1733,1733,"John Crosby made Layup.",31,19,12,0.723651610283565,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+65,1,"8:40",1720,1720,"Jair Bolden missed Three Point Jumper.",31,19,12,0.748990179165037,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+66,1,"8:40",1720,1720,"Kendall Pollard Defensive Rebound.",31,19,12,0.748990179165037,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+67,1,"8:29",1709,1709,"Foul on Patrick Steeves.",31,19,12,0.692934647207969,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+68,1,"8:29",1709,1709,"Kendall Pollard made Free Throw.",31,20,11,0.665115982921893,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+69,1,"8:29",1709,1709,"Kendall Pollard missed Free Throw.",31,20,11,0.665115982921893,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+70,1,"8:29",1709,1709,"Tyler Cavanaugh Defensive Rebound.",31,20,11,0.665115982921893,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+71,1,"8:03",1683,1683,"Tyler Cavanaugh made Three Point Jumper. Assisted by Jaren Sina.",34,20,14,0.790272306160452,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+72,1,"7:54",1674,1674,"Kendall Pollard made Dunk. Assisted by John Crosby.",34,22,12,0.731598615559727,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+73,1,"7:42",1662,1662,"Tyler Cavanaugh missed Three Point Jumper.",34,22,12,0.707392084415466,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+74,1,"7:42",1662,1662,"Dayton Defensive Rebound.",34,22,12,0.707392084415466,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+75,1,"7:40",1660,1660,"Official TV Timeout",34,22,12,0.707392084415466,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+76,1,"7:27",1647,1647,"John Crosby missed Jumper.",34,22,12,0.739374300545078,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+77,1,"7:27",1647,1647,"Collin Smith Defensive Rebound.",34,22,12,0.739374300545078,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+78,1,"7:06",1626,1626,"Yuta Watanabe missed Jumper.",34,22,12,0.732711981139474,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+79,1,"7:06",1626,1626,"Xeyrius Williams Defensive Rebound.",34,22,12,0.732711981139474,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+80,1,"6:40",1600,1600,"Foul on Collin Smith.",34,22,12,0.702063800927696,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+81,1,"6:40",1600,1600,"Kendall Pollard missed Free Throw.",34,22,12,0.702063800927696,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+82,1,"6:40",1600,1600,"Dayton Deadball Team Rebound.",34,22,12,0.702063800927696,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+83,1,"6:40",1600,1600,"Kendall Pollard made Free Throw.",34,23,11,0.673877963600679,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+84,1,"6:16",1576,1576,"Jaren Sina missed Three Point Jumper.",34,23,11,0.745972921030415,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+85,1,"6:16",1576,1576,"Yuta Watanabe Offensive Rebound.",34,23,11,0.745972921030415,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+86,1,"5:58",1558,1558,"Tyler Cavanaugh missed Jumper.",34,23,11,0.715651882794601,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+87,1,"5:58",1558,1558,"Collin Smith Offensive Rebound.",34,23,11,0.715651882794601,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+88,1,"5:58",1558,1558,"Foul on Xeyrius Williams.",34,23,11,0.715651882794601,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+89,1,"5:32",1532,1532,"Tyler Cavanaugh missed Jumper.",34,23,11,0.709841218612311,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+90,1,"5:32",1532,1532,"Collin Smith Offensive Rebound.",34,23,11,0.709841218612311,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+91,1,"5:08",1508,1508,"Yuta Watanabe missed Jumper.",34,23,11,0.716603870440218,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+92,1,"5:08",1508,1508,"Kyle Davis Defensive Rebound.",34,23,11,0.716603870440218,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+93,1,"5:00",1500,1500,"Foul on Collin Smith.",34,23,11,0.716603870440218,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+94,1,"5:00",1500,1500,"John Crosby missed Free Throw.",34,23,11,0.716603870440218,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+95,1,"5:00",1500,1500,"Dayton Deadball Team Rebound.",34,23,11,0.716603870440218,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+96,1,"5:00",1500,1500,"John Crosby made Free Throw.",34,24,10,0.686799750308095,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+97,1,"4:45",1485,1485,"Jordan Roland made Three Point Jumper. Assisted by Matt Hart.",37,24,13,0.781539093145367,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+98,1,"4:40",1480,1480,"Kyle Davis made Layup. Assisted by Scoochie Smith.",37,26,11,0.725992022742635,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+99,1,"4:40",1480,1480,"Foul on Matt Hart.",37,26,11,0.725992022742635,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+100,1,"4:40",1480,1480,"Kyle Davis made Free Throw.",37,27,10,0.69513640925237,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+101,1,"4:16",1456,1456,"Jordan Roland Turnover.",37,27,10,0.686772780140282,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+102,1,"4:15",1455,1455,"Kyle Davis Steal.",37,27,10,0.686772780140282,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+103,1,"4:10",1450,1450,"Scoochie Smith missed Layup.",37,27,10,0.686772780140282,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+104,1,"4:10",1450,1450,"Tyler Cavanaugh Defensive Rebound.",37,27,10,0.686772780140282,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+105,1,"4:09",1449,1449,"Foul on Xeyrius Williams.",37,27,10,0.733140676859652,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+106,1,"3:47",1427,1427,"Jair Bolden made Three Point Jumper.",40,27,13,0.779402573222134,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+107,1,"3:31",1411,1411,"Charles Cooke missed Three Point Jumper.",40,27,13,0.806631915543402,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+108,1,"3:31",1411,1411,"Yuta Watanabe Defensive Rebound.",40,27,13,0.806631915543402,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+109,1,"3:19",1399,1399,"Foul on Scoochie Smith.",40,27,13,0.783416356809531,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+110,1,"3:19",1399,1399,"Official TV Timeout",40,27,13,0.783416356809531,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+111,1,"3:04",1384,1384,"Tyler Cavanaugh made Three Point Jumper. Assisted by Yuta Watanabe.",43,27,16,0.861661046436098,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+112,1,"2:57",1377,1377,"Foul on Jair Bolden.",43,27,16,0.836152089033067,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+113,1,"2:57",1377,1377,"Kendall Pollard made Free Throw.",43,28,15,0.815404389472765,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+114,1,"2:57",1377,1377,"Kendall Pollard made Free Throw.",43,29,14,0.79268086250934,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+115,1,"2:46",1366,1366,"Tyler Cavanaugh missed Jumper.",43,29,14,0.825726440346269,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+116,1,"2:46",1366,1366,"Yuta Watanabe Offensive Rebound.",43,29,14,0.825726440346269,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+117,1,"2:44",1364,1364,"Yuta Watanabe missed Layup.",43,29,14,0.825726440346269,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+118,1,"2:44",1364,1364,"Yuta Watanabe Offensive Rebound.",43,29,14,0.825726440346269,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+119,1,"2:39",1359,1359,"Foul on Kendall Pollard.",43,29,14,0.835911055864667,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+120,1,"2:39",1359,1359,"Yuta Watanabe missed Free Throw.",43,29,14,0.835911055864667,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+121,1,"2:39",1359,1359,"George Washington Deadball Team Rebound.",43,29,14,0.835911055864667,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+122,1,"2:39",1359,1359,"Yuta Watanabe made Free Throw.",44,29,15,0.856016673415299,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+123,1,"2:24",1344,1344,"Scoochie Smith missed Three Point Jumper.",44,29,15,0.856283055705761,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+124,1,"2:24",1344,1344,"Josh Cunningham Offensive Rebound.",44,29,15,0.856283055705761,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+125,1,"2:20",1340,1340,"Josh Cunningham missed Jumper.",44,29,15,0.856283055705761,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+126,1,"2:20",1340,1340,"Tyler Cavanaugh Defensive Rebound.",44,29,15,0.856283055705761,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+127,1,"2:02",1322,1322,"Foul on Scoochie Smith.",44,29,15,0.853720336104947,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+128,1,"2:02",1322,1322,"Jaren Sina made Free Throw.",45,29,16,0.872326618932496,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+129,1,"2:02",1322,1322,"Jaren Sina made Free Throw.",46,29,17,0.888874304140184,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+130,1,"1:46",1306,1306,"Charles Cooke missed Layup.",46,29,17,0.879457471193659,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+131,1,"1:46",1306,1306,"Ryan Mikesell Offensive Rebound.",46,29,17,0.879457471193659,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+132,1,"1:43",1303,1303,"Ryan Mikesell made Two Point Tip Shot.",46,31,15,0.844627472669018,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+133,1,"1:30",1290,1290,"Foul on Josh Cunningham.",46,31,15,0.889914623488358,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+134,1,"1:30",1290,1290,"Arnaldo Toro missed Free Throw.",46,31,15,0.889914623488358,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+135,1,"1:30",1290,1290,"Josh Cunningham Defensive Rebound.",46,31,15,0.889914623488358,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+136,1,"1:14",1274,1274,"Kyle Davis missed Three Point Jumper.",46,31,15,0.829619459725071,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+137,1,"1:14",1274,1274,"Jaren Sina Defensive Rebound.",46,31,15,0.829619459725071,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+138,1,"1:00",1260,1260,"Foul on Ryan Mikesell.",46,31,15,0.862842281244542,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+139,1,"1:00",1260,1260,"Arnaldo Toro made Free Throw.",47,31,16,0.880512593504676,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+140,1,"1:00",1260,1260,"Arnaldo Toro missed Free Throw.",47,31,16,0.880512593504676,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+141,1,"1:00",1260,1260,"Josh Cunningham Defensive Rebound.",47,31,16,0.880512593504676,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+142,1,"0:53",1253,1253,"John Crosby missed Layup.",47,31,16,0.868341942111875,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+143,1,"0:53",1253,1253,"Arnaldo Toro Defensive Rebound.",47,31,16,0.868341942111875,"George Washington","Dayton",3,4,0,0,-4,400918318,2017-03-04
+144,1,"0:46",1246,1246,"George Washington  Timeout",47,31,16,0.867152159562032,"George Washington","Dayton",3,3,0,1,-4,400918318,2017-03-04
+145,1,"0:29",1229,1229,"Matt Hart made Three Point Jumper. Assisted by Jaren Sina.",50,31,19,0.93502986970658,"George Washington","Dayton",3,3,0,1,-4,400918318,2017-03-04
+146,1,"0:15",1215,1215,"Josh Cunningham made Layup. Assisted by Ryan Mikesell.",50,33,17,0.902794552235871,"George Washington","Dayton",3,3,0,1,-4,400918318,2017-03-04
+147,1,"0:02",1202,1202,"Jaren Sina Turnover.",50,33,17,0.893531587873066,"George Washington","Dayton",3,3,0,1,-4,400918318,2017-03-04
+148,1,"0:00",1200,1200,"End of 1st half",50,33,17,0.893531587873066,"George Washington","Dayton",3,3,0,1,-4,400918318,2017-03-04
+149,2,"20:00",1200,1200,"PLAY",50,33,17,0.893531587873066,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+150,2,"19:46",1186,1186,"Scoochie Smith Turnover.",50,33,17,0.9026262977149,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+151,2,"19:44",1184,1184,"Jaren Sina Steal.",50,33,17,0.9026262977149,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+152,2,"19:31",1171,1171,"Tyler Cavanaugh missed Jumper.",50,33,17,0.906519854300708,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+153,2,"19:31",1171,1171,"Kendall Pollard Defensive Rebound.",50,33,17,0.906519854300708,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+154,2,"19:14",1154,1154,"Foul on Scoochie Smith.",50,33,17,0.903611490949294,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+155,2,"19:14",1154,1154,"Jaren Sina Steal.",50,33,17,0.903611490949294,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+156,2,"19:14",1154,1154,"Scoochie Smith Turnover.",50,33,17,0.903611490949294,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+157,2,"19:03",1143,1143,"Patrick Steeves made Layup.",52,33,19,0.941125876628132,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+158,2,"18:49",1129,1129,"Xeyrius Williams made Three Point Jumper. Assisted by Kyle Davis.",52,36,16,0.916616844986496,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+159,2,"18:23",1103,1103,"Jaren Sina Turnover.",52,36,16,0.884907339666688,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+160,2,"18:21",1101,1101,"Kendall Pollard Steal.",52,36,16,0.884907339666688,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+161,2,"18:11",1091,1091,"Scoochie Smith made Three Point Jumper. Assisted by Xeyrius Williams.",52,39,13,0.845801490191538,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+162,2,"17:49",1069,1069,"Yuta Watanabe made Layup.",54,39,15,0.897813563915895,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+163,2,"17:26",1046,1046,"Charles Cooke made Three Point Jumper. Assisted by Kyle Davis.",54,42,12,0.83701036784483,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+164,2,"17:02",1022,1022,"Matt Hart missed Three Point Jumper.",54,42,12,0.841138754435863,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+165,2,"17:02",1022,1022,"Kendall Pollard Defensive Rebound.",54,42,12,0.841138754435863,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+166,2,"16:54",1014,1014,"Charles Cooke Turnover.",54,42,12,0.829495351703644,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+167,2,"16:52",1012,1012,"Yuta Watanabe Steal.",54,42,12,0.829495351703644,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+168,2,"16:50",1010,1010,"Yuta Watanabe made Dunk.",56,42,14,0.875159322934494,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+169,2,"16:34",994,994,"Xeyrius Williams made Three Point Jumper. Assisted by Kyle Davis.",56,45,11,0.798990252021549,"George Washington","Dayton",4,4,0,0,-4,400918318,2017-03-04
+170,2,"16:31",991,991,"Dayton  Timeout",56,45,11,0.798990252021549,"George Washington","Dayton",3,4,1,0,-4,400918318,2017-03-04
+171,2,"16:31",991,991,"Official TV Timeout",56,45,11,0.798990252021549,"George Washington","Dayton",3,4,1,0,-4,400918318,2017-03-04
+172,2,"16:17",977,977,"Tyler Cavanaugh made Three Point Jumper.",59,45,14,0.884123997439418,"George Washington","Dayton",3,4,1,0,-4,400918318,2017-03-04
+173,2,"16:01",961,961,"Kyle Davis Turnover.",59,45,14,0.890684263083166,"George Washington","Dayton",3,4,1,0,-4,400918318,2017-03-04
+174,2,"16:01",961,961,"Yuta Watanabe Steal.",59,45,14,0.890684263083166,"George Washington","Dayton",3,4,1,0,-4,400918318,2017-03-04
+175,2,"15:41",941,941,"Patrick Steeves missed Jumper.",59,45,14,0.903205500312296,"George Washington","Dayton",3,4,1,0,-4,400918318,2017-03-04
+176,2,"15:40",940,940,"Patrick Steeves Offensive Rebound.",59,45,14,0.903205500312296,"George Washington","Dayton",3,4,1,0,-4,400918318,2017-03-04
+177,2,"15:39",939,939,"Foul on Kendall Pollard.",59,45,14,0.898684071955582,"George Washington","Dayton",3,4,1,1,-4,400918318,2017-03-04
+178,2,"15:39",939,939,"Official TV Timeout",59,45,14,0.898684071955582,"George Washington","Dayton",3,4,1,1,-4,400918318,2017-03-04
+179,2,"15:39",939,939,"George Washington  Timeout",59,45,14,0.898684071955582,"George Washington","Dayton",3,3,1,1,-4,400918318,2017-03-04
+180,2,"15:18",918,918,"Jaren Sina missed Three Point Jumper.",59,45,14,0.897677980721959,"George Washington","Dayton",3,3,0,1,-4,400918318,2017-03-04
+181,2,"15:18",918,918,"Dayton Defensive Rebound.",59,45,14,0.897677980721959,"George Washington","Dayton",3,3,0,1,-4,400918318,2017-03-04
+182,2,"14:58",898,898,"Charles Cooke missed Three Point Jumper.",59,45,14,0.907617186476253,"George Washington","Dayton",3,3,0,1,-4,400918318,2017-03-04
+183,2,"14:58",898,898,"Jaren Sina Defensive Rebound.",59,45,14,0.907617186476253,"George Washington","Dayton",3,3,0,1,-4,400918318,2017-03-04
+184,2,"14:39",879,879,"Tyler Cavanaugh made Layup. Assisted by Patrick Steeves.",61,45,16,0.931189940770517,"George Washington","Dayton",3,3,0,1,-4,400918318,2017-03-04
+185,2,"14:32",872,872,"John Crosby missed Layup.",61,45,16,0.931189940770517,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+186,2,"14:32",872,872,"Patrick Steeves Block.",61,45,16,0.931189940770517,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+187,2,"14:32",872,872,"Dayton Offensive Rebound.",61,45,16,0.931189940770517,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+188,2,"14:13",853,853,"John Crosby missed Layup.",61,45,16,0.94670237021436,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+189,2,"14:13",853,853,"Josh Cunningham Offensive Rebound.",61,45,16,0.94670237021436,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+190,2,"14:13",853,853,"Foul on Patrick Steeves.",61,45,16,0.94670237021436,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+191,2,"14:11",851,851,"Foul on Collin Smith.",61,45,16,0.94670237021436,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+192,2,"14:03",843,843,"Scoochie Smith made Jumper.",61,47,14,0.924138711214398,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+193,2,"13:46",826,826,"Jaren Sina missed Three Point Jumper.",61,47,14,0.892676789038546,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+194,2,"13:46",826,826,"Kyle Davis Defensive Rebound.",61,47,14,0.892676789038546,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+195,2,"13:35",815,815,"Josh Cunningham missed Layup.",61,47,14,0.893983146616106,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+196,2,"13:35",815,815,"Arnaldo Toro Block.",61,47,14,0.893983146616106,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+197,2,"13:33",813,813,"John Crosby Offensive Rebound.",61,47,14,0.893983146616106,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+198,2,"13:32",812,812,"John Crosby made Layup.",61,49,12,0.850668083512605,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+199,2,"13:32",812,812,"Foul on Arnaldo Toro.",61,49,12,0.850668083512605,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+200,2,"13:32",812,812,"John Crosby made Free Throw.",61,50,11,0.824006509960124,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+201,2,"13:24",804,804,"Jair Bolden Turnover.",61,50,11,0.857997705680095,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+202,2,"13:10",790,790,"Kyle Davis missed Layup.",61,50,11,0.870940229681719,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+203,2,"13:10",790,790,"Yuta Watanabe Defensive Rebound.",61,50,11,0.870940229681719,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+204,2,"12:53",773,773,"Yuta Watanabe made Three Point Jumper. Assisted by Jordan Roland.",64,50,14,0.921980978350521,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+205,2,"12:53",773,773,"Foul on Ryan Mikesell.",64,50,14,0.921980978350521,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+206,2,"12:53",773,773,"Ryan Mikesell Turnover.",64,50,14,0.921980978350521,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+207,2,"12:42",762,762,"Yuta Watanabe made Jumper. Assisted by Jair Bolden.",66,50,16,0.95342528113697,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+208,2,"12:42",762,762,"Foul on Kyle Davis.",66,50,16,0.95342528113697,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+209,2,"12:42",762,762,"Yuta Watanabe made Free Throw.",67,50,17,0.962127043654405,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+210,2,"12:27",747,747,"Foul on Arnaldo Toro.",67,50,17,0.963248575617411,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+211,2,"12:23",743,743,"Foul on Tyler Cavanaugh.",67,50,17,0.963248575617411,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+212,2,"12:23",743,743,"Kendall Pollard missed Free Throw.",67,50,17,0.963248575617411,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+213,2,"12:23",743,743,"Dayton Deadball Team Rebound.",67,50,17,0.963248575617411,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+214,2,"12:23",743,743,"Kendall Pollard made Free Throw.",67,51,16,0.954486898104089,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+215,2,"12:10",730,730,"Jair Bolden made Three Point Jumper. Assisted by Arnaldo Toro.",70,51,19,0.975254938287557,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+216,2,"11:55",715,715,"Josh Cunningham missed Layup.",70,51,19,0.972300781081589,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+217,2,"11:55",715,715,"Josh Cunningham Offensive Rebound.",70,51,19,0.972300781081589,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+218,2,"11:53",713,713,"Josh Cunningham missed Layup.",70,51,19,0.972300781081589,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+219,2,"11:53",713,713,"Dayton Offensive Rebound.",70,51,19,0.972300781081589,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+220,2,"11:52",712,712,"Official TV Timeout",70,51,19,0.972300781081589,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+221,2,"11:46",706,706,"Xeyrius Williams made Three Point Jumper. Assisted by Kyle Davis.",70,54,16,0.95534642991972,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+222,2,"11:20",680,680,"Jair Bolden Turnover.",70,54,16,0.956096710810684,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+223,2,"11:20",680,680,"Charles Cooke Steal.",70,54,16,0.956096710810684,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+224,2,"11:19",679,679,"Foul on Jair Bolden.",70,54,16,0.961577980811174,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+225,2,"11:06",666,666,"Xeyrius Williams missed Three Point Jumper.",70,54,16,0.964496578742578,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+226,2,"11:06",666,666,"Arnaldo Toro Defensive Rebound.",70,54,16,0.964496578742578,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+227,2,"10:44",644,644,"Arnaldo Toro missed Layup.",70,54,16,0.969366674579116,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+228,2,"10:44",644,644,"Arnaldo Toro Offensive Rebound.",70,54,16,0.969366674579116,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+229,2,"10:42",642,642,"Arnaldo Toro missed Layup.",70,54,16,0.969366674579116,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+230,2,"10:42",642,642,"Charles Cooke Defensive Rebound.",70,54,16,0.969366674579116,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+231,2,"10:28",628,628,"Charles Cooke missed Three Point Jumper.",70,54,16,0.971584579231649,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+232,2,"10:28",628,628,"Xeyrius Williams Offensive Rebound.",70,54,16,0.971584579231649,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+233,2,"10:18",618,618,"Xeyrius Williams made Three Point Jumper. Assisted by Kyle Davis.",70,57,13,0.942324155389992,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+234,2,"9:56",596,596,"Jordan Roland Turnover.",70,57,13,0.93797198076968,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+235,2,"9:54",594,594,"Charles Cooke Steal.",70,57,13,0.93797198076968,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+236,2,"9:44",584,584,"Charles Cooke missed Layup.",70,57,13,0.93984107242294,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+237,2,"9:44",584,584,"Tyler Cavanaugh Defensive Rebound.",70,57,13,0.93984107242294,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+238,2,"9:16",556,556,"Jordan Roland missed Three Point Jumper.",70,57,13,0.949381786010643,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+239,2,"9:16",556,556,"Xeyrius Williams Defensive Rebound.",70,57,13,0.949381786010643,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+240,2,"9:05",545,545,"Xeyrius Williams made Three Point Jumper. Assisted by Scoochie Smith.",70,60,10,0.902507653124279,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+241,2,"8:42",522,522,"Yuta Watanabe missed Three Point Jumper.",70,60,10,0.921901360094743,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+242,2,"8:42",522,522,"Scoochie Smith Defensive Rebound.",70,60,10,0.921901360094743,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+243,2,"8:36",516,516,"Scoochie Smith missed Layup.",70,60,10,0.91349641272944,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+244,2,"8:36",516,516,"Josh Cunningham Offensive Rebound.",70,60,10,0.91349641272944,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+245,2,"8:32",512,512,"Josh Cunningham missed Layup.",70,60,10,0.91349641272944,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+246,2,"8:32",512,512,"Jordan Roland Block.",70,60,10,0.91349641272944,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+247,2,"8:31",511,511,"Josh Cunningham Offensive Rebound.",70,60,10,0.91349641272944,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+248,2,"8:31",511,511,"Foul on Tyler Cavanaugh.",70,60,10,0.91349641272944,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+249,2,"8:31",511,511,"Josh Cunningham made Free Throw.",70,61,9,0.889589235879438,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+250,2,"8:31",511,511,"Josh Cunningham missed Free Throw.",70,61,9,0.889589235879438,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+251,2,"8:31",511,511,"Jordan Roland Defensive Rebound.",70,61,9,0.889589235879438,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+252,2,"8:11",491,491,"Jaren Sina missed Three Point Jumper.",70,61,9,0.902310829990242,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+253,2,"8:11",491,491,"Josh Cunningham Defensive Rebound.",70,61,9,0.902310829990242,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+254,2,"7:54",474,474,"Foul on Yuta Watanabe.",70,61,9,0.901295212792215,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+255,2,"7:54",474,474,"Official TV Timeout",70,61,9,0.901295212792215,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+256,2,"7:54",474,474,"Charles Cooke made Free Throw.",70,62,8,0.872211009680792,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+257,2,"7:54",474,474,"Charles Cooke missed Free Throw.",70,62,8,0.872211009680792,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+258,2,"7:54",474,474,"Yuta Watanabe Defensive Rebound.",70,62,8,0.872211009680792,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+259,2,"7:38",458,458,"Tyler Cavanaugh missed Three Point Jumper.",70,62,8,0.898479516507613,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+260,2,"7:38",458,458,"Charles Cooke Defensive Rebound.",70,62,8,0.898479516507613,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+261,2,"7:23",443,443,"Charles Cooke Turnover.",70,62,8,0.87477863749672,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+262,2,"7:22",442,442,"Patrick Steeves Steal.",70,62,8,0.87477863749672,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+263,2,"7:00",420,420,"Tyler Cavanaugh missed Layup.",70,62,8,0.879053230756929,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+264,2,"7:00",420,420,"Kendall Pollard Defensive Rebound.",70,62,8,0.879053230756929,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+265,2,"6:54",414,414,"Xeyrius Williams missed Three Point Jumper.",70,62,8,0.881481203850453,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+266,2,"6:54",414,414,"Jaren Sina Defensive Rebound.",70,62,8,0.881481203850453,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+267,2,"6:26",386,386,"Yuta Watanabe missed Jumper.",70,62,8,0.879539325137106,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+268,2,"6:26",386,386,"Tyler Cavanaugh Offensive Rebound.",70,62,8,0.879539325137106,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+269,2,"6:25",385,385,"Foul on Xeyrius Williams.",70,62,8,0.879539325137106,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+270,2,"6:25",385,385,"Tyler Cavanaugh made Free Throw.",71,62,9,0.907670650775228,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+271,2,"6:25",385,385,"Tyler Cavanaugh made Free Throw.",72,62,10,0.929757099476471,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+272,2,"6:16",376,376,"Kendall Pollard made Jumper. Assisted by Scoochie Smith.",72,64,8,0.886310450472225,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+273,2,"5:45",345,345,"Foul on Josh Cunningham.",72,64,8,0.899689465854226,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+274,2,"5:45",345,345,"Patrick Steeves missed Free Throw.",72,64,8,0.899689465854226,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+275,2,"5:45",345,345,"George Washington Deadball Team Rebound.",72,64,8,0.899689465854226,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+276,2,"5:45",345,345,"Patrick Steeves missed Free Throw.",72,64,8,0.899689465854226,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+277,2,"5:45",345,345,"Kendall Pollard Defensive Rebound.",72,64,8,0.899689465854226,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+278,2,"5:20",320,320,"Charles Cooke Turnover.",72,64,8,0.885750971624388,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+279,2,"5:19",319,319,"Jaren Sina Steal.",72,64,8,0.936043703981457,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+280,2,"5:09",309,309,"Foul on Kyle Davis.",72,64,8,0.92098794116108,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+281,2,"5:09",309,309,"Tyler Cavanaugh missed Free Throw.",72,64,8,0.92098794116108,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+282,2,"5:09",309,309,"George Washington Deadball Team Rebound.",72,64,8,0.92098794116108,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+283,2,"5:09",309,309,"Tyler Cavanaugh made Free Throw.",73,64,9,0.942377341454381,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+284,2,"5:09",309,309,"Tyler Cavanaugh made Free Throw.",74,64,10,0.958238960329458,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+285,2,"4:52",292,292,"Kendall Pollard made Layup. Assisted by Scoochie Smith.",74,66,8,0.910781451353204,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+286,2,"4:50",290,290,"Foul on Tyler Cavanaugh.",74,66,8,0.910781451353204,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+287,2,"4:50",290,290,"Kendall Pollard made Free Throw.",74,67,7,0.878709358192556,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+288,2,"4:23",263,263,"Yuta Watanabe missed Three Point Jumper.",74,67,7,0.911025348552596,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+289,2,"4:23",263,263,"Scoochie Smith Defensive Rebound.",74,67,7,0.911025348552596,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+290,2,"4:15",255,255,"Foul on Patrick Steeves.",74,67,7,0.940512159517607,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+291,2,"4:15",255,255,"Kendall Pollard made Free Throw.",74,68,6,0.912078402928465,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+292,2,"4:15",255,255,"Kendall Pollard missed Free Throw.",74,68,6,0.912078402928465,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+293,2,"4:15",255,255,"George Washington Defensive Rebound.",74,68,6,0.912078402928465,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+294,2,"3:55",235,235,"Jordan Roland Turnover.",74,68,6,0.903641905097626,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+295,2,"3:55",235,235,"Scoochie Smith Steal.",74,68,6,0.903641905097626,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+296,2,"3:55",235,235,"Official TV Timeout",74,68,6,0.903641905097626,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+297,2,"3:44",224,224,"Kendall Pollard missed Layup.",74,68,6,0.902690464929936,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+298,2,"3:44",224,224,"Jair Bolden Defensive Rebound.",74,68,6,0.902690464929936,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+299,2,"3:39",219,219,"Foul on Kyle Davis.",74,68,6,0.907922738767273,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+300,2,"3:39",219,219,"Matt Hart made Free Throw.",75,68,7,0.938648960178942,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+301,2,"3:39",219,219,"Matt Hart made Free Throw.",76,68,8,0.959578318517823,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+302,2,"3:26",206,206,"Foul on Patrick Steeves.",76,68,8,0.965991116145271,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+303,2,"3:26",206,206,"Kendall Pollard missed Free Throw.",76,68,8,0.965991116145271,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+304,2,"3:26",206,206,"Dayton Deadball Team Rebound.",76,68,8,0.965991116145271,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+305,2,"3:26",206,206,"Kendall Pollard missed Free Throw.",76,68,8,0.965991116145271,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+306,2,"3:26",206,206,"Collin Smith Defensive Rebound.",76,68,8,0.965991116145271,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+307,2,"2:59",179,179,"Collin Smith missed Jumper.",76,68,8,0.977955990809338,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+308,2,"2:59",179,179,"Jair Bolden Offensive Rebound.",76,68,8,0.977955990809338,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+309,2,"2:59",179,179,"Jair Bolden made Two Point Tip Shot.",78,68,10,0.991646376531437,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+310,2,"2:59",179,179,"Foul on Kendall Pollard.",78,68,10,0.991646376531437,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+311,2,"2:59",179,179,"Jair Bolden made Free Throw.",79,68,11,0.99487657164159,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+312,2,"2:51",171,171,"Charles Cooke made Layup.",79,70,9,0.986407447722589,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+313,2,"2:30",150,150,"Yuta Watanabe missed Jumper.",79,70,9,0.991049649475449,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+314,2,"2:30",150,150,"Charles Cooke Block.",79,70,9,0.991049649475449,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+315,2,"2:29",149,149,"Charles Cooke Defensive Rebound.",79,70,9,0.984783702854165,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+316,2,"2:25",145,145,"Foul on Collin Smith.",79,70,9,0.984783702854165,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+317,2,"2:25",145,145,"Charles Cooke missed Free Throw.",79,70,9,0.984783702854165,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+318,2,"2:25",145,145,"Dayton Deadball Team Rebound.",79,70,9,0.984783702854165,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+319,2,"2:25",145,145,"Charles Cooke missed Free Throw.",79,70,9,0.984783702854165,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+320,2,"2:25",145,145,"Tyler Cavanaugh Defensive Rebound.",79,70,9,0.984783702854165,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+321,2,"1:55",115,115,"Yuta Watanabe missed Jumper.",79,70,9,0.995004291122335,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+322,2,"1:55",115,115,"Charles Cooke Block.",79,70,9,0.995004291122335,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+323,2,"1:54",114,114,"George Washington Deadball Team Rebound.",79,70,9,0.995004291122335,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+324,2,"1:53",113,113,"George Washington  Turnover.",79,70,9,0.995004291122335,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+325,2,"1:44",104,104,"Kendall Pollard made Dunk. Assisted by Scoochie Smith.",79,72,7,0.980912155099269,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+326,2,"1:12",72,72,"Foul on Kyle Davis.",79,72,7,0.991909453682813,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+327,2,"1:12",72,72,"Jair Bolden missed Free Throw.",79,72,7,0.991909453682813,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+328,2,"1:12",72,72,"George Washington Deadball Team Rebound.",79,72,7,0.991909453682813,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+329,2,"1:12",72,72,"Jair Bolden made Free Throw.",80,72,8,0.996104133847609,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+330,2,"1:09",69,69,"Scoochie Smith Turnover.",80,72,8,0.996655810400047,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+331,2,"1:02",62,62,"Yuta Watanabe Turnover.",80,72,8,0.996655810400047,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+332,2,"1:01",61,61,"Charles Cooke Steal.",80,72,8,0.996655810400047,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+333,2,"0:58",58,58,"Charles Cooke made Layup.",80,74,6,0.99494403129397,"George Washington","Dayton",3,3,0,0,-4,400918318,2017-03-04
+334,2,"0:54",54,54,"George Washington  Timeout",80,74,6,0.986577071348968,"George Washington","Dayton",3,2,0,1,-4,400918318,2017-03-04
+335,2,"0:50",50,50,"Tyler Cavanaugh Turnover.",80,74,6,0.99442091056696,"George Washington","Dayton",3,2,0,1,-4,400918318,2017-03-04
+336,2,"0:50",50,50,"Kyle Davis Steal.",80,74,6,0.99442091056696,"George Washington","Dayton",3,2,0,1,-4,400918318,2017-03-04
+337,2,"0:49",49,49,"Dayton  Timeout",80,74,6,0.996224529679577,"George Washington","Dayton",2,2,1,1,-4,400918318,2017-03-04
+338,2,"0:43",43,43,"Xeyrius Williams missed Three Point Jumper.",80,74,6,0.995108198976408,"George Washington","Dayton",2,2,1,1,-4,400918318,2017-03-04
+339,2,"0:37",37,37,"Charles Cooke Offensive Rebound.",80,74,6,0.997006870449487,"George Washington","Dayton",2,2,1,1,-4,400918318,2017-03-04
+340,2,"0:30",30,30,"Kyle Davis missed Jumper.",80,74,6,0.996656032964685,"George Washington","Dayton",2,2,1,1,-4,400918318,2017-03-04
+341,2,"0:30",30,30,"Jair Bolden Block.",80,74,6,0.996656032964685,"George Washington","Dayton",2,2,1,1,-4,400918318,2017-03-04
+342,2,"0:30",30,30,"Jair Bolden Defensive Rebound.",80,74,6,0.996656032964685,"George Washington","Dayton",2,2,1,1,-4,400918318,2017-03-04
+343,2,"0:30",30,30,"Foul on Charles Cooke.",80,74,6,0.996656032964685,"George Washington","Dayton",2,2,1,1,-4,400918318,2017-03-04
+344,2,"0:30",30,30,"Jair Bolden made Free Throw.",81,74,7,0.998718795972553,"George Washington","Dayton",2,2,1,1,-4,400918318,2017-03-04
+345,2,"0:30",30,30,"Jair Bolden made Free Throw.",82,74,8,0.999509746740826,"George Washington","Dayton",2,2,1,1,-4,400918318,2017-03-04
+346,2,"0:26",26,26,"Scoochie Smith made Layup.",82,76,6,0.998826676620644,"George Washington","Dayton",2,2,1,1,-4,400918318,2017-03-04
+347,2,"0:26",26,26,"Foul on Jair Bolden.",82,76,6,0.998826676620644,"George Washington","Dayton",2,2,1,1,-4,400918318,2017-03-04
+348,2,"0:26",26,26,"Scoochie Smith made Free Throw.",82,77,5,0.995917573296607,"George Washington","Dayton",2,2,1,1,-4,400918318,2017-03-04
+349,2,"0:24",24,24,"Foul on Charles Cooke.",82,77,5,0.991620618111853,"George Washington","Dayton",2,2,1,1,-4,400918318,2017-03-04
+350,2,"0:24",24,24,"Jaren Sina made Free Throw.",83,77,6,0.996596349268027,"George Washington","Dayton",2,2,1,1,-4,400918318,2017-03-04
+351,2,"0:24",24,24,"Jaren Sina made Free Throw.",84,77,7,0.998621566249982,"George Washington","Dayton",2,2,1,1,-4,400918318,2017-03-04
+352,2,"0:21",21,21,"Foul on Matt Hart.",84,77,7,0.9999810467654,"George Washington","Dayton",2,2,1,1,-4,400918318,2017-03-04
+353,2,"0:21",21,21,"Scoochie Smith made Free Throw.",84,78,6,0.999903003631831,"George Washington","Dayton",2,2,1,1,-4,400918318,2017-03-04
+354,2,"0:21",21,21,"Scoochie Smith made Free Throw.",84,79,5,0.999503764231241,"George Washington","Dayton",2,2,1,1,-4,400918318,2017-03-04
+355,2,"0:17",17,17,"Foul on Xeyrius Williams.",84,79,5,0.997755777395807,"George Washington","Dayton",2,2,1,1,-4,400918318,2017-03-04
+356,2,"0:17",17,17,"Jaren Sina missed Free Throw.",84,79,5,0.997755777395807,"George Washington","Dayton",2,2,1,1,-4,400918318,2017-03-04
+357,2,"0:17",17,17,"George Washington Deadball Team Rebound.",84,79,5,0.997755777395807,"George Washington","Dayton",2,2,1,1,-4,400918318,2017-03-04
+358,2,"0:17",17,17,"Jaren Sina made Free Throw.",85,79,6,0.999260244349593,"George Washington","Dayton",2,2,1,1,-4,400918318,2017-03-04
+359,2,"0:11",11,11,"Xeyrius Williams made Layup. Assisted by Scoochie Smith.",85,81,4,0.997537187822802,"George Washington","Dayton",2,2,1,1,-4,400918318,2017-03-04
+360,2,"0:11",11,11,"Dayton  Timeout",85,81,4,0.997537187822802,"George Washington","Dayton",1,2,1,1,-4,400918318,2017-03-04
+361,2,"0:06",6,6,"Foul on Charles Cooke.",85,81,4,0.999257995915515,"George Washington","Dayton",1,2,1,1,-4,400918318,2017-03-04
+362,2,"0:06",6,6,"Tyler Cavanaugh made Free Throw.",86,81,5,0.999852662861519,"George Washington","Dayton",1,2,1,1,-4,400918318,2017-03-04
+363,2,"0:06",6,6,"Tyler Cavanaugh made Free Throw.",87,81,6,0.999970757729987,"George Washington","Dayton",1,2,1,1,-4,400918318,2017-03-04
+364,2,"0:01",1,1,"Scoochie Smith missed Three Point Jumper.",87,81,6,0.999869010306505,"George Washington","Dayton",1,2,1,1,-4,400918318,2017-03-04
+365,2,"0:01",1,1,"Jaren Sina Defensive Rebound.",87,81,6,0.999869010306505,"George Washington","Dayton",1,2,1,1,-4,400918318,2017-03-04
+366,2,"0:00",0,0,"End of Game",87,81,6,1,"George Washington","Dayton",1,2,1,1,-4,400918318,2017-03-04

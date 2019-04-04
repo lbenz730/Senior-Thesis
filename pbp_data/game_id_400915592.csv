@@ -1,0 +1,342 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.915023273919708,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+2,1,"19:39",2379,2379,"Derrick White Turnover.",0,0,0,0.907070762236319,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+3,1,"19:19",2359,2359,"Luka Vulikic made Jumper. Assisted by Jacob Wiley.",0,2,-2,0.895051263186075,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+4,1,"18:59",2339,2339,"George King missed Jumper.",0,2,-2,0.886862949812713,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+5,1,"18:59",2339,2339,"Mason Peatling Defensive Rebound.",0,2,-2,0.886862949812713,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+6,1,"18:41",2321,2321,"Jacob Wiley missed Layup.",0,2,-2,0.884272514649567,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+7,1,"18:41",2321,2321,"Derrick White Defensive Rebound.",0,2,-2,0.884272514649567,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+8,1,"18:32",2312,2312,"Foul on Luka Vulikic.",0,2,-2,0.873178328921148,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+9,1,"18:32",2312,2312,"Derrick White made Free Throw.",1,2,-1,0.883662401989176,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+10,1,"18:32",2312,2312,"Derrick White missed Free Throw.",1,2,-1,0.883662401989176,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+11,1,"18:32",2312,2312,"Mason Peatling Defensive Rebound.",1,2,-1,0.883662401989176,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+12,1,"18:06",2286,2286,"Bogdan Bliznyuk missed Three Point Jumper.",1,2,-1,0.889343924693992,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+13,1,"18:06",2286,2286,"Josh Fortune Defensive Rebound.",1,2,-1,0.889343924693992,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+14,1,"17:57",2277,2277,"Josh Fortune missed Three Point Jumper.",1,2,-1,0.892660712452502,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+15,1,"17:57",2277,2277,"Bogdan Bliznyuk Defensive Rebound.",1,2,-1,0.892660712452502,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+16,1,"17:41",2261,2261,"Felix Von Hofe missed Three Point Jumper.",1,2,-1,0.895721472738013,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+17,1,"17:41",2261,2261,"Wesley Gordon Defensive Rebound.",1,2,-1,0.895721472738013,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+18,1,"17:21",2241,2241,"George King missed Three Point Jumper.",1,2,-1,0.879838787742937,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+19,1,"17:21",2241,2241,"Jacob Wiley Defensive Rebound.",1,2,-1,0.879838787742937,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+20,1,"17:19",2239,2239,"Foul on Xavier Johnson.",1,2,-1,0.889398466515053,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+21,1,"17:02",2222,2222,"Luka Vulikic made Jumper.",1,4,-3,0.870398564135446,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+22,1,"16:49",2209,2209,"Foul on Mason Peatling.",1,4,-3,0.86155258274075,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+23,1,"16:43",2203,2203,"George King missed Three Point Jumper.",1,4,-3,0.86155258274075,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+24,1,"16:43",2203,2203,"Jacob Wiley Defensive Rebound.",1,4,-3,0.86155258274075,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+25,1,"16:17",2177,2177,"Bogdan Bliznyuk made Layup.",1,6,-5,0.831559652773366,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+26,1,"15:59",2159,2159,"Josh Fortune missed Jumper.",1,6,-5,0.822531288853622,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+27,1,"15:59",2159,2159,"Luka Vulikic Defensive Rebound.",1,6,-5,0.822531288853622,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+28,1,"15:48",2148,2148,"Bogdan Bliznyuk made Three Point Jumper. Assisted by Luka Vulikic.",1,9,-8,0.799114616007926,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+29,1,"15:45",2145,2145,"Colorado  Timeout",1,9,-8,0.799114616007926,"Colorado","Eastern Washington",3,4,1,0,17,400915592,2016-12-22
+30,1,"15:29",2129,2129,"Xavier Johnson Turnover.",1,9,-8,0.769964611679746,"Colorado","Eastern Washington",3,4,1,0,17,400915592,2016-12-22
+31,1,"15:29",2129,2129,"Foul on Xavier Johnson.",1,9,-8,0.769964611679746,"Colorado","Eastern Washington",3,4,1,0,17,400915592,2016-12-22
+32,1,"15:04",2104,2104,"Bogdan Bliznyuk made Jumper.",1,11,-10,0.727295148325113,"Colorado","Eastern Washington",3,4,1,0,17,400915592,2016-12-22
+33,1,"14:39",2079,2079,"Derrick White Turnover.",1,11,-10,0.74768688026047,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+34,1,"14:38",2078,2078,"Bogdan Bliznyuk Steal.",1,11,-10,0.74768688026047,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+35,1,"14:25",2065,2065,"Jacob Wiley Turnover.",1,11,-10,0.705992628516368,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+36,1,"14:25",2065,2065,"Derrick White missed Jumper.",1,11,-10,0.705992628516368,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+37,1,"14:25",2065,2065,"Jacob Wiley Defensive Rebound.",1,11,-10,0.705992628516368,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+38,1,"14:25",2065,2065,"Bogdan Bliznyuk made Jumper.",1,13,-12,0.653657263730993,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+39,1,"14:25",2065,2065,"George King missed Layup.",1,13,-12,0.653657263730993,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+40,1,"14:25",2065,2065,"Colorado Offensive Rebound.",1,13,-12,0.653657263730993,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+41,1,"13:30",2010,2010,"Foul on Jacob Wiley.",1,13,-12,0.67448647149853,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+42,1,"13:30",2010,2010,"Dominique Collier made Free Throw.",2,13,-11,0.699339243871999,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+43,1,"13:30",2010,2010,"Dominique Collier missed Free Throw.",2,13,-11,0.699339243871999,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+44,1,"13:30",2010,2010,"Jacob Wiley Defensive Rebound.",2,13,-11,0.699339243871999,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+45,1,"13:18",1998,1998,"Bogdan Bliznyuk made Three Point Jumper. Assisted by Luka Vulikic.",2,16,-14,0.573363393528427,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+46,1,"13:03",1983,1983,"Dominique Collier missed Jumper.",2,16,-14,0.556288490885545,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+47,1,"13:03",1983,1983,"Felix Von Hofe Defensive Rebound.",2,16,-14,0.556288490885545,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+48,1,"12:46",1966,1966,"Bogdan Bliznyuk made Layup.",2,18,-16,0.59848870401259,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+49,1,"12:46",1966,1966,"Foul on George King.",2,18,-16,0.59848870401259,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+50,1,"12:46",1966,1966,"Bogdan Bliznyuk made Free Throw.",2,19,-17,0.572777384239573,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+51,1,"12:34",1954,1954,"Foul on Luka Vulikic.",2,19,-17,0.480015890753876,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+52,1,"12:19",1939,1939,"Deleon Brown made Three Point Jumper. Assisted by George King.",5,19,-14,0.547213124887534,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+53,1,"11:46",1906,1906,"Sir Washington missed Three Point Jumper.",5,19,-14,0.609635147787236,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+54,1,"11:46",1906,1906,"George King Defensive Rebound.",5,19,-14,0.609635147787236,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+55,1,"11:34",1894,1894,"Tory Miller made Jumper. Assisted by Dominique Collier.",7,19,-12,0.599362106781599,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+56,1,"11:17",1877,1877,"Bogdan Bliznyuk missed Jumper.",7,19,-12,0.630556137311815,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+57,1,"11:17",1877,1877,"Thomas Akyazili Defensive Rebound.",7,19,-12,0.630556137311815,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+58,1,"11:09",1869,1869,"Dominique Collier missed Layup.",7,19,-12,0.594802027903526,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+59,1,"11:09",1869,1869,"Jesse Hunt Defensive Rebound.",7,19,-12,0.594802027903526,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+60,1,"10:49",1849,1849,"Felix Von Hofe missed Three Point Jumper.",7,19,-12,0.625044846006521,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+61,1,"10:49",1849,1849,"Tory Miller Defensive Rebound.",7,19,-12,0.625044846006521,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+62,1,"10:47",1847,1847,"Foul on Jacob Wiley.",7,19,-12,0.625044846006521,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+63,1,"10:47",1847,1847,"Official TV Timeout",7,19,-12,0.625044846006521,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+64,1,"10:35",1835,1835,"Foul on Jesse Hunt.",7,19,-12,0.61194579342989,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+65,1,"10:35",1835,1835,"Derrick White made Free Throw.",8,19,-11,0.641649338951273,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+66,1,"10:35",1835,1835,"Derrick White made Free Throw.",9,19,-10,0.670304199191307,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+67,1,"10:10",1810,1810,"Jesse Hunt missed Three Point Jumper.",9,19,-10,0.64982315857058,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+68,1,"10:10",1810,1810,"Thomas Akyazili Defensive Rebound.",9,19,-10,0.64982315857058,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+69,1,"10:03",1803,1803,"Foul on Bogdan Bliznyuk.",9,19,-10,0.674112301338556,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+70,1,"10:03",1803,1803,"George King missed Free Throw.",9,19,-10,0.674112301338556,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+71,1,"10:03",1803,1803,"Colorado Deadball Team Rebound.",9,19,-10,0.674112301338556,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+72,1,"10:03",1803,1803,"George King missed Free Throw.",9,19,-10,0.674112301338556,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+73,1,"10:03",1803,1803,"Derrick White Offensive Rebound.",9,19,-10,0.674112301338556,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+74,1,"9:58",1798,1798,"Thomas Akyazili made Layup.",11,19,-8,0.708296839268098,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+75,1,"9:37",1777,1777,"Bogdan Bliznyuk made Three Point Jumper. Assisted by Sir Washington.",11,22,-11,0.644068104058879,"Colorado","Eastern Washington",3,4,0,0,17,400915592,2016-12-22
+76,1,"9:14",1754,1754,"Josh Fortune Turnover.",11,22,-11,0.611646759818592,"Colorado","Eastern Washington",3,4,0,1,17,400915592,2016-12-22
+77,1,"9:14",1754,1754,"Eastern Washington  Timeout",11,22,-11,0.611646759818592,"Colorado","Eastern Washington",3,3,0,1,17,400915592,2016-12-22
+78,1,"8:54",1734,1734,"Sir Washington made Jumper.",11,24,-13,0.550810833135628,"Colorado","Eastern Washington",3,3,0,1,17,400915592,2016-12-22
+79,1,"8:39",1719,1719,"Foul on Mason Peatling.",11,24,-13,0.579617430516609,"Colorado","Eastern Washington",3,3,0,1,17,400915592,2016-12-22
+80,1,"8:39",1719,1719,"Derrick White made Free Throw.",12,24,-12,0.611752047000061,"Colorado","Eastern Washington",3,3,0,1,17,400915592,2016-12-22
+81,1,"8:39",1719,1719,"Derrick White made Free Throw.",13,24,-11,0.642943452303456,"Colorado","Eastern Washington",3,3,0,1,17,400915592,2016-12-22
+82,1,"8:39",1719,1719,"Luka Vulikic missed Layup.",13,24,-11,0.642943452303456,"Colorado","Eastern Washington",3,3,0,1,17,400915592,2016-12-22
+83,1,"8:39",1719,1719,"Wesley Gordon Block.",13,24,-11,0.642943452303456,"Colorado","Eastern Washington",3,3,0,1,17,400915592,2016-12-22
+84,1,"8:38",1718,1718,"Colorado Defensive Rebound.",13,24,-11,0.642943452303456,"Colorado","Eastern Washington",3,3,0,1,17,400915592,2016-12-22
+85,1,"8:20",1700,1700,"Lucas Siewert missed Three Point Jumper.",13,24,-11,0.628140005299417,"Colorado","Eastern Washington",3,3,0,1,17,400915592,2016-12-22
+86,1,"8:20",1700,1700,"Wesley Gordon Offensive Rebound.",13,24,-11,0.628140005299417,"Colorado","Eastern Washington",3,3,0,1,17,400915592,2016-12-22
+87,1,"8:16",1696,1696,"Wesley Gordon made Layup.",15,24,-9,0.654530836986463,"Colorado","Eastern Washington",3,3,0,1,17,400915592,2016-12-22
+88,1,"7:40",1660,1660,"Foul on Josh Fortune.",15,24,-9,0.686823717779647,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+89,1,"7:40",1660,1660,"Official TV Timeout",15,24,-9,0.686823717779647,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+90,1,"7:40",1660,1660,"Luka Vulikic made Free Throw.",15,25,-10,0.65833231121019,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+91,1,"7:40",1660,1660,"Luka Vulikic made Free Throw.",15,26,-11,0.628650328245856,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+92,1,"7:24",1644,1644,"Bryce Peters missed Jumper.",15,26,-11,0.606258805270983,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+93,1,"7:24",1644,1644,"Sir Washington Defensive Rebound.",15,26,-11,0.606258805270983,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+94,1,"7:04",1624,1624,"Ty Gibson made Three Point Jumper. Assisted by Bogdan Bliznyuk.",15,29,-14,0.484983917563441,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+95,1,"6:48",1608,1608,"Josh Fortune missed Layup.",15,29,-14,0.529266774471691,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+96,1,"6:48",1608,1608,"Wesley Gordon Offensive Rebound.",15,29,-14,0.529266774471691,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+97,1,"6:44",1604,1604,"Foul on Ty Gibson.",15,29,-14,0.529266774471691,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+98,1,"6:44",1604,1604,"Wesley Gordon made Free Throw.",16,29,-13,0.56182415653491,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+99,1,"6:44",1604,1604,"Wesley Gordon missed Free Throw.",16,29,-13,0.56182415653491,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+100,1,"6:44",1604,1604,"Wesley Gordon Offensive Rebound.",16,29,-13,0.56182415653491,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+101,1,"6:30",1590,1590,"Derrick White missed Jumper.",16,29,-13,0.530832574821658,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+102,1,"6:30",1590,1590,"Mason Peatling Block.",16,29,-13,0.530832574821658,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+103,1,"6:29",1589,1589,"Mason Peatling Defensive Rebound.",16,29,-13,0.533952429268934,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+104,1,"6:12",1572,1572,"Sir Washington missed Layup.",16,29,-13,0.47717216349714,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+105,1,"6:12",1572,1572,"Derrick White Block.",16,29,-13,0.47717216349714,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+106,1,"6:12",1572,1572,"Colorado Defensive Rebound.",16,29,-13,0.47717216349714,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+107,1,"6:12",1572,1572,"Foul on Mason Peatling.",16,29,-13,0.47717216349714,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+108,1,"6:12",1572,1572,"Wesley Gordon missed Free Throw.",16,29,-13,0.47717216349714,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+109,1,"6:12",1572,1572,"Colorado Deadball Team Rebound.",16,29,-13,0.47717216349714,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+110,1,"6:12",1572,1572,"Wesley Gordon made Free Throw.",17,29,-12,0.515934995723581,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+111,1,"5:54",1554,1554,"Bogdan Bliznyuk missed Jumper.",17,29,-12,0.522539339961329,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+112,1,"5:54",1554,1554,"Eastern Washington Offensive Rebound.",17,29,-12,0.522539339961329,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+113,1,"5:37",1537,1537,"Bogdan Bliznyuk made Jumper.",17,31,-14,0.493487281814667,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+114,1,"5:24",1524,1524,"Bryce Peters made Layup.",19,31,-12,0.535254326432975,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+115,1,"5:24",1524,1524,"Foul on Ty Gibson.",19,31,-12,0.535254326432975,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+116,1,"5:24",1524,1524,"Bryce Peters made Free Throw.",20,31,-11,0.570408435959982,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+117,1,"5:02",1502,1502,"Foul on George King.",20,31,-11,0.574781206744703,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+118,1,"4:41",1481,1481,"Sir Washington missed Layup.",20,31,-11,0.546073449933598,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+119,1,"4:41",1481,1481,"Thomas Akyazili Block.",20,31,-11,0.546073449933598,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+120,1,"4:40",1480,1480,"Geremy McKay Offensive Rebound.",20,31,-11,0.546073449933598,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+121,1,"4:34",1474,1474,"Felix Von Hofe missed Layup.",20,31,-11,0.581001178572521,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+122,1,"4:34",1474,1474,"Tory Miller Defensive Rebound.",20,31,-11,0.581001178572521,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+123,1,"4:23",1463,1463,"Thomas Akyazili Turnover.",20,31,-11,0.546773812547133,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+124,1,"4:05",1445,1445,"Bogdan Bliznyuk missed Jumper.",20,31,-11,0.55837468246887,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+125,1,"4:05",1445,1445,"Derrick White Block.",20,31,-11,0.55837468246887,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+126,1,"4:04",1444,1444,"Eastern Washington Offensive Rebound.",20,31,-11,0.55837468246887,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+127,1,"3:52",1432,1432,"Felix Von Hofe missed Three Point Jumper.",20,31,-11,0.53613732334206,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+128,1,"3:52",1432,1432,"Thomas Akyazili Defensive Rebound.",20,31,-11,0.53613732334206,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+129,1,"3:39",1419,1419,"Derrick White made Three Point Jumper.",23,31,-8,0.616512281080406,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+130,1,"3:18",1398,1398,"Cody Benzel missed Three Point Jumper.",23,31,-8,0.662337195621581,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+131,1,"3:18",1398,1398,"Josh Fortune Defensive Rebound.",23,31,-8,0.662337195621581,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+132,1,"3:07",1387,1387,"Derrick White missed Three Point Jumper.",23,31,-8,0.65812693299321,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+133,1,"3:07",1387,1387,"Deleon Brown Offensive Rebound.",23,31,-8,0.65812693299321,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+134,1,"3:04",1384,1384,"Foul on Cody Benzel.",23,31,-8,0.65812693299321,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+135,1,"3:04",1384,1384,"Official TV Timeout",23,31,-8,0.65812693299321,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+136,1,"3:04",1384,1384,"Deleon Brown made Free Throw.",24,31,-7,0.690916283104826,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+137,1,"3:04",1384,1384,"Deleon Brown made Free Throw.",25,31,-6,0.721889725805842,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+138,1,"2:44",1364,1364,"Foul on Tory Miller.",25,31,-6,0.704270026973904,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+139,1,"2:44",1364,1364,"Geremy McKay missed Free Throw.",25,31,-6,0.704270026973904,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+140,1,"2:44",1364,1364,"Eastern Washington Deadball Team Rebound.",25,31,-6,0.704270026973904,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+141,1,"2:44",1364,1364,"Geremy McKay made Free Throw.",25,32,-7,0.671316442145261,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+142,1,"2:28",1348,1348,"Josh Fortune made Layup. Assisted by Thomas Akyazili.",27,32,-5,0.71006713491035,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+143,1,"2:01",1321,1321,"Cody Benzel missed Three Point Jumper.",27,32,-5,0.728004253322822,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+144,1,"2:01",1321,1321,"Geremy McKay Offensive Rebound.",27,32,-5,0.728004253322822,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+145,1,"1:58",1318,1318,"Foul on Thomas Akyazili.",27,32,-5,0.731606483479207,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+146,1,"1:58",1318,1318,"Geremy McKay missed Free Throw.",27,32,-5,0.731606483479207,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+147,1,"1:58",1318,1318,"Eastern Washington Deadball Team Rebound.",27,32,-5,0.731606483479207,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+148,1,"1:58",1318,1318,"Geremy McKay missed Free Throw.",27,32,-5,0.731606483479207,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+149,1,"1:58",1318,1318,"Tory Miller Defensive Rebound.",27,32,-5,0.731606483479207,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+150,1,"1:45",1305,1305,"Foul on Geremy McKay.",27,32,-5,0.71853432926611,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+151,1,"1:45",1305,1305,"Thomas Akyazili missed Free Throw.",27,32,-5,0.71853432926611,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+152,1,"1:45",1305,1305,"Colorado Deadball Team Rebound.",27,32,-5,0.71853432926611,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+153,1,"1:45",1305,1305,"Thomas Akyazili made Free Throw.",28,32,-4,0.747310494089704,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+154,1,"1:28",1288,1288,"Foul on Thomas Akyazili.",28,32,-4,0.773691249788806,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+155,1,"1:28",1288,1288,"Luka Vulikic missed Free Throw.",28,32,-4,0.773691249788806,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+156,1,"1:28",1288,1288,"Eastern Washington Deadball Team Rebound.",28,32,-4,0.773691249788806,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+157,1,"1:28",1288,1288,"Luka Vulikic missed Free Throw.",28,32,-4,0.773691249788806,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+158,1,"1:28",1288,1288,"Josh Fortune Defensive Rebound.",28,32,-4,0.773691249788806,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+159,1,"1:21",1281,1281,"Foul on Mason Peatling.",28,32,-4,0.773691249788806,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+160,1,"1:21",1281,1281,"Josh Fortune made Free Throw.",29,32,-3,0.798840179334388,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+161,1,"1:21",1281,1281,"Josh Fortune made Free Throw.",30,32,-2,0.821837947285917,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+162,1,"0:59",1259,1259,"Foul on Bryce Peters.",30,32,-2,0.791236435150531,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+163,1,"0:59",1259,1259,"Bogdan Bliznyuk missed Free Throw.",30,32,-2,0.791236435150531,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+164,1,"0:59",1259,1259,"Eastern Washington Deadball Team Rebound.",30,32,-2,0.791236435150531,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+165,1,"0:59",1259,1259,"Bogdan Bliznyuk made Free Throw.",30,33,-3,0.765105057532432,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+166,1,"0:42",1242,1242,"Dominique Collier made Layup.",32,33,-1,0.834639271830723,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+167,1,"0:23",1223,1223,"Felix Von Hofe made Layup.",32,35,-3,0.772116452592857,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+168,1,"0:02",1202,1202,"Deleon Brown missed Three Point Jumper.",32,35,-3,0.775928104387616,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+169,1,"0:02",1202,1202,"Eastern Washington Defensive Rebound.",32,35,-3,0.775928104387616,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+170,1,"0:00",1200,1200,"End of 1st half",32,35,-3,0.775928104387616,"Colorado","Eastern Washington",3,3,0,0,17,400915592,2016-12-22
+171,2,"20:00",1200,1200,"PLAY",32,35,-3,0.775928104387616,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+172,2,"19:52",1192,1192,"Jacob Wiley Turnover.",32,35,-3,0.803641747526316,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+173,2,"19:52",1192,1192,"Foul on Jacob Wiley.",32,35,-3,0.803641747526316,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+174,2,"19:42",1182,1182,"Xavier Johnson missed Layup.",32,35,-3,0.774135823977942,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+175,2,"19:42",1182,1182,"Jacob Wiley Block.",32,35,-3,0.774135823977942,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+176,2,"19:40",1180,1180,"Mason Peatling Defensive Rebound.",32,35,-3,0.774135823977942,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+177,2,"19:31",1171,1171,"Bogdan Bliznyuk missed Layup.",32,35,-3,0.756338384527344,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+178,2,"19:31",1171,1171,"George King Defensive Rebound.",32,35,-3,0.756338384527344,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+179,2,"19:21",1161,1161,"George King missed Three Point Jumper.",32,35,-3,0.769924953732517,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+180,2,"19:21",1161,1161,"Wesley Gordon Offensive Rebound.",32,35,-3,0.769924953732517,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+181,2,"19:08",1148,1148,"George King missed Layup.",32,35,-3,0.744172880859506,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+182,2,"19:08",1148,1148,"Derrick White Offensive Rebound.",32,35,-3,0.744172880859506,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+183,2,"19:03",1143,1143,"Xavier Johnson missed Three Point Jumper.",32,35,-3,0.744172880859506,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+184,2,"19:03",1143,1143,"Bogdan Bliznyuk Defensive Rebound.",32,35,-3,0.744172880859506,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+185,2,"18:38",1118,1118,"Jacob Wiley made Jumper.",32,37,-5,0.675020845277262,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+186,2,"18:21",1101,1101,"Josh Fortune made Three Point Jumper. Assisted by Derrick White.",35,37,-2,0.800505538944931,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+187,2,"17:53",1073,1073,"Luka Vulikic missed Jumper.",35,37,-2,0.779109940473872,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+188,2,"17:53",1073,1073,"Derrick White Defensive Rebound.",35,37,-2,0.779109940473872,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+189,2,"17:48",1068,1068,"Foul on Luka Vulikic.",35,37,-2,0.77825851967165,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+190,2,"17:41",1061,1061,"Derrick White made Jumper. Assisted by Josh Fortune.",37,37,0,0.8320723616253,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+191,2,"17:24",1044,1044,"Bogdan Bliznyuk missed Jumper.",37,37,0,0.845015104705143,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+192,2,"17:24",1044,1044,"Derrick White Defensive Rebound.",37,37,0,0.845015104705143,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+193,2,"17:18",1038,1038,"Josh Fortune made Three Point Jumper. Assisted by Derrick White.",40,37,3,0.894759801761576,"Colorado","Eastern Washington",4,4,0,0,17,400915592,2016-12-22
+194,2,"17:16",1036,1036,"Eastern Washington  Timeout",40,37,3,0.894759801761576,"Colorado","Eastern Washington",4,3,0,1,17,400915592,2016-12-22
+195,2,"17:00",1020,1020,"Luka Vulikic made Three Point Jumper. Assisted by Bogdan Bliznyuk.",40,40,0,0.836000310608432,"Colorado","Eastern Washington",4,3,0,1,17,400915592,2016-12-22
+196,2,"16:33",993,993,"George King made Three Point Jumper. Assisted by Josh Fortune.",43,40,3,0.888840090565747,"Colorado","Eastern Washington",4,3,0,1,17,400915592,2016-12-22
+197,2,"16:18",978,978,"Felix Von Hofe missed Three Point Jumper.",43,40,3,0.898183907844345,"Colorado","Eastern Washington",4,3,0,1,17,400915592,2016-12-22
+198,2,"16:18",978,978,"Wesley Gordon Defensive Rebound.",43,40,3,0.898183907844345,"Colorado","Eastern Washington",4,3,0,1,17,400915592,2016-12-22
+199,2,"16:01",961,961,"Wesley Gordon Turnover.",43,40,3,0.881908000266996,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+200,2,"15:40",940,940,"Luka Vulikic missed Jumper.",43,40,3,0.903474787245914,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+201,2,"15:40",940,940,"Jacob Wiley Offensive Rebound.",43,40,3,0.903474787245914,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+202,2,"15:36",936,936,"Jacob Wiley made Layup.",43,42,1,0.846652308495391,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+203,2,"15:21",921,921,"Josh Fortune missed Three Point Jumper.",43,42,1,0.832983829141177,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+204,2,"15:21",921,921,"Felix Von Hofe Defensive Rebound.",43,42,1,0.832983829141177,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+205,2,"15:04",904,904,"Luka Vulikic missed Jumper.",43,42,1,0.8420240827388,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+206,2,"15:04",904,904,"Mason Peatling Offensive Rebound.",43,42,1,0.8420240827388,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+207,2,"14:46",886,886,"Felix Von Hofe missed Three Point Jumper.",43,42,1,0.83692610603194,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+208,2,"14:46",886,886,"Jacob Wiley Offensive Rebound.",43,42,1,0.83692610603194,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+209,2,"14:42",882,882,"Jacob Wiley made Layup.",43,44,-1,0.783778584895962,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+210,2,"14:27",867,867,"George King missed Three Point Jumper.",43,44,-1,0.786375430978918,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+211,2,"14:27",867,867,"Bogdan Bliznyuk Defensive Rebound.",43,44,-1,0.786375430978918,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+212,2,"14:05",845,845,"Felix Von Hofe made Three Point Jumper. Assisted by Bogdan Bliznyuk.",43,47,-4,0.643100126171491,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+213,2,"13:46",826,826,"Foul on Bogdan Bliznyuk.",43,47,-4,0.687484768772994,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+214,2,"13:46",826,826,"Official TV Timeout",43,47,-4,0.687484768772994,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+215,2,"13:37",817,817,"Xavier Johnson made Layup. Assisted by Wesley Gordon.",45,47,-2,0.758431607364119,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+216,2,"13:21",801,801,"Foul on Wesley Gordon.",45,47,-2,0.764663996847029,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+217,2,"13:21",801,801,"Bogdan Bliznyuk made Free Throw.",45,48,-3,0.72614816623408,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+218,2,"13:21",801,801,"Bogdan Bliznyuk made Free Throw.",45,49,-4,0.683934248900034,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+219,2,"13:05",785,785,"Wesley Gordon missed Layup.",45,49,-4,0.655065571347277,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+220,2,"13:05",785,785,"Jacob Wiley Block.",45,49,-4,0.655065571347277,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+221,2,"13:04",784,784,"Felix Von Hofe Defensive Rebound.",45,49,-4,0.655065571347277,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+222,2,"12:43",763,763,"Bogdan Bliznyuk missed Jumper.",45,49,-4,0.677416085214775,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+223,2,"12:43",763,763,"Xavier Johnson Defensive Rebound.",45,49,-4,0.677416085214775,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+224,2,"12:34",754,754,"Derrick White missed Layup.",45,49,-4,0.651894166269639,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+225,2,"12:34",754,754,"Wesley Gordon Offensive Rebound.",45,49,-4,0.651894166269639,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+226,2,"12:30",750,750,"Wesley Gordon missed Two Point Tip Shot.",45,49,-4,0.651894166269639,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+227,2,"12:30",750,750,"Jacob Wiley Defensive Rebound.",45,49,-4,0.651894166269639,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+228,2,"12:09",729,729,"Felix Von Hofe missed Layup.",45,49,-4,0.637663138774635,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+229,2,"12:09",729,729,"Xavier Johnson Defensive Rebound.",45,49,-4,0.637663138774635,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+230,2,"11:49",709,709,"Josh Fortune made Three Point Jumper. Assisted by Derrick White.",48,49,-1,0.755755277085089,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+231,2,"11:19",679,679,"Luka Vulikic missed Three Point Jumper.",48,49,-1,0.761633127301655,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+232,2,"11:19",679,679,"Xavier Johnson Defensive Rebound.",48,49,-1,0.761633127301655,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+233,2,"11:10",670,670,"Wesley Gordon made Layup. Assisted by Josh Fortune.",50,49,1,0.835701766048743,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+234,2,"11:10",670,670,"Foul on Bogdan Bliznyuk.",50,49,1,0.835701766048743,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+235,2,"11:10",670,670,"Official TV Timeout",50,49,1,0.835701766048743,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+236,2,"11:10",670,670,"Wesley Gordon made Free Throw.",51,49,2,0.86518685541196,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+237,2,"10:58",658,658,"Foul on Tory Miller.",51,49,2,0.863801090660722,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+238,2,"10:58",658,658,"Jacob Wiley made Free Throw.",51,50,1,0.833315975728955,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+239,2,"10:58",658,658,"Jacob Wiley made Free Throw.",51,51,0,0.797606209865187,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+240,2,"10:42",642,642,"Deleon Brown missed Layup.",51,51,0,0.792346764101593,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+241,2,"10:42",642,642,"Jesse Hunt Defensive Rebound.",51,51,0,0.792346764101593,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+242,2,"10:24",624,624,"Jacob Wiley missed Layup.",51,51,0,0.813461513058705,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+243,2,"10:24",624,624,"Josh Fortune Defensive Rebound.",51,51,0,0.813461513058705,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+244,2,"10:21",621,621,"Foul on Jesse Hunt.",51,51,0,0.813461513058705,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+245,2,"10:08",608,608,"Josh Fortune missed Three Point Jumper.",51,51,0,0.799776650425418,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+246,2,"10:08",608,608,"Jesse Hunt Defensive Rebound.",51,51,0,0.799776650425418,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+247,2,"9:47",587,587,"Jesse Hunt made Layup.",51,53,-2,0.677112315045529,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+248,2,"9:47",587,587,"Foul on Lucas Siewert.",51,53,-2,0.677112315045529,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+249,2,"9:47",587,587,"Jesse Hunt missed Free Throw.",51,53,-2,0.677112315045529,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+250,2,"9:47",587,587,"George King Defensive Rebound.",51,53,-2,0.677112315045529,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+251,2,"9:33",573,573,"George King made Jumper.",53,53,0,0.801091677662732,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+252,2,"9:16",556,556,"Foul on George King.",53,53,0,0.781015193882621,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+253,2,"9:16",556,556,"Jesse Hunt made Free Throw.",53,54,-1,0.73327049917564,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+254,2,"9:16",556,556,"Jesse Hunt made Free Throw.",53,55,-2,0.6793893658888,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+255,2,"8:58",538,538,"Foul on Jacob Wiley.",53,55,-2,0.69444357151586,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+256,2,"8:58",538,538,"Xavier Johnson made Free Throw.",54,55,-1,0.750698082862857,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+257,2,"8:58",538,538,"Xavier Johnson missed Free Throw.",54,55,-1,0.750698082862857,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+258,2,"8:58",538,538,"Jesse Hunt Defensive Rebound.",54,55,-1,0.750698082862857,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+259,2,"8:56",536,536,"Foul on George King.",54,55,-1,0.750698082862857,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+260,2,"8:39",519,519,"Bogdan Bliznyuk missed Jumper.",54,55,-1,0.70408443126555,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+261,2,"8:39",519,519,"Tory Miller Defensive Rebound.",54,55,-1,0.70408443126555,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+262,2,"8:25",505,505,"Foul on Ty Gibson.",54,55,-1,0.732253812900851,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+263,2,"8:25",505,505,"Xavier Johnson made Free Throw.",55,55,0,0.781932536753136,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+264,2,"8:25",505,505,"Xavier Johnson made Free Throw.",56,55,1,0.824601577995689,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+265,2,"8:09",489,489,"Sir Washington Turnover.",56,55,1,0.816836637995812,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+266,2,"8:09",489,489,"Foul on Sir Washington.",56,55,1,0.816836637995812,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+267,2,"7:50",470,470,"Tory Miller made Dunk. Assisted by Derrick White.",58,55,3,0.893887442278819,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+268,2,"7:41",461,461,"Luka Vulikic Turnover.",58,55,3,0.887633162994143,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+269,2,"7:41",461,461,"Deleon Brown Steal.",58,55,3,0.887633162994143,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+270,2,"7:41",461,461,"Foul on Luka Vulikic.",58,55,3,0.887633162994143,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+271,2,"7:41",461,461,"Official TV Timeout",58,55,3,0.887633162994143,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+272,2,"7:29",449,449,"Deleon Brown missed Three Point Jumper.",58,55,3,0.866787017258819,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+273,2,"7:29",449,449,"Eastern Washington Defensive Rebound.",58,55,3,0.866787017258819,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+274,2,"7:08",428,428,"Jesse Hunt missed Three Point Jumper.",58,55,3,0.877667912489914,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+275,2,"7:08",428,428,"Tory Miller Defensive Rebound.",58,55,3,0.877667912489914,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+276,2,"6:52",412,412,"Tory Miller made Layup. Assisted by Derrick White.",60,55,5,0.93728457075522,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+277,2,"6:25",385,385,"Foul on Thomas Akyazili.",60,55,5,0.939092446780594,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+278,2,"6:25",385,385,"Felix Von Hofe missed Free Throw.",60,55,5,0.939092446780594,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+279,2,"6:25",385,385,"Eastern Washington Deadball Team Rebound.",60,55,5,0.939092446780594,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+280,2,"6:25",385,385,"Felix Von Hofe made Free Throw.",60,56,4,0.919687756305586,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+281,2,"6:14",374,374,"Derrick White made Layup.",62,56,6,0.951507006738523,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+282,2,"5:56",356,356,"Felix Von Hofe missed Three Point Jumper.",62,56,6,0.956415406390138,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+283,2,"5:56",356,356,"Jacob Wiley Offensive Rebound.",62,56,6,0.956415406390138,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+284,2,"5:39",339,339,"Jacob Wiley made Layup. Assisted by Bogdan Bliznyuk.",62,58,4,0.925844448937208,"Colorado","Eastern Washington",4,3,0,0,17,400915592,2016-12-22
+285,2,"5:38",338,338,"Eastern Washington  Timeout",62,58,4,0.925844448937208,"Colorado","Eastern Washington",4,2,0,1,17,400915592,2016-12-22
+286,2,"5:22",322,322,"Foul on Cody Benzel.",62,58,4,0.918923852603615,"Colorado","Eastern Washington",4,2,0,1,17,400915592,2016-12-22
+287,2,"5:22",322,322,"Wesley Gordon made Free Throw.",63,58,5,0.939444473301995,"Colorado","Eastern Washington",4,2,0,1,17,400915592,2016-12-22
+288,2,"5:22",322,322,"Wesley Gordon made Free Throw.",64,58,6,0.955025461905507,"Colorado","Eastern Washington",4,2,0,1,17,400915592,2016-12-22
+289,2,"5:11",311,311,"Bogdan Bliznyuk missed Jumper.",64,58,6,0.960496003920598,"Colorado","Eastern Washington",4,2,0,1,17,400915592,2016-12-22
+290,2,"5:04",304,304,"Derrick White Block.",64,58,6,0.952446180788882,"Colorado","Eastern Washington",4,2,0,1,17,400915592,2016-12-22
+291,2,"5:04",304,304,"Wesley Gordon Defensive Rebound.",64,58,6,0.952446180788882,"Colorado","Eastern Washington",4,2,0,1,17,400915592,2016-12-22
+292,2,"5:03",303,303,"Xavier Johnson made Layup. Assisted by Derrick White.",66,58,8,0.975264237640578,"Colorado","Eastern Washington",4,2,0,1,17,400915592,2016-12-22
+293,2,"5:03",303,303,"Foul on Cody Benzel.",66,58,8,0.975264237640578,"Colorado","Eastern Washington",4,2,0,1,17,400915592,2016-12-22
+294,2,"5:03",303,303,"Xavier Johnson made Free Throw.",67,58,9,0.982243748182097,"Colorado","Eastern Washington",4,2,0,1,17,400915592,2016-12-22
+295,2,"4:39",279,279,"Josh Fortune missed Three Point Jumper.",67,58,9,0.989034738357928,"Colorado","Eastern Washington",4,2,0,1,17,400915592,2016-12-22
+296,2,"4:39",279,279,"Felix Von Hofe Defensive Rebound.",67,58,9,0.989034738357928,"Colorado","Eastern Washington",4,2,0,1,17,400915592,2016-12-22
+297,2,"4:28",268,268,"Foul on Jacob Wiley.",67,58,9,0.987667014681243,"Colorado","Eastern Washington",4,2,0,0,17,400915592,2016-12-22
+298,2,"4:28",268,268,"Derrick White made Free Throw.",68,58,10,0.991476100565208,"Colorado","Eastern Washington",4,2,0,0,17,400915592,2016-12-22
+299,2,"4:28",268,268,"Derrick White missed Free Throw.",68,58,10,0.991476100565208,"Colorado","Eastern Washington",4,2,0,0,17,400915592,2016-12-22
+300,2,"4:28",268,268,"Bogdan Bliznyuk Defensive Rebound.",68,58,10,0.991476100565208,"Colorado","Eastern Washington",4,2,0,0,17,400915592,2016-12-22
+301,2,"4:14",254,254,"Luka Vulikic missed Jumper.",68,58,10,0.994214975187984,"Colorado","Eastern Washington",4,2,0,0,17,400915592,2016-12-22
+302,2,"4:14",254,254,"Wesley Gordon Defensive Rebound.",68,58,10,0.994214975187984,"Colorado","Eastern Washington",4,2,0,0,17,400915592,2016-12-22
+303,2,"4:06",246,246,"Derrick White made Layup.",70,58,12,0.996931342046748,"Colorado","Eastern Washington",4,2,0,0,17,400915592,2016-12-22
+304,2,"3:38",218,218,"Mason Peatling made Layup. Assisted by Felix Von Hofe.",70,60,10,0.995164835394263,"Colorado","Eastern Washington",4,2,0,0,17,400915592,2016-12-22
+305,2,"3:15",195,195,"Deleon Brown Turnover.",70,60,10,0.995387516616858,"Colorado","Eastern Washington",4,2,0,0,17,400915592,2016-12-22
+306,2,"3:13",193,193,"Ty Gibson Steal.",70,60,10,0.995387516616858,"Colorado","Eastern Washington",4,2,0,0,17,400915592,2016-12-22
+307,2,"3:02",182,182,"Bogdan Bliznyuk made Layup.",70,62,8,0.990927437142666,"Colorado","Eastern Washington",4,2,0,0,17,400915592,2016-12-22
+308,2,"2:54",174,174,"Derrick White Turnover.",70,62,8,0.992258518669151,"Colorado","Eastern Washington",4,2,0,0,17,400915592,2016-12-22
+309,2,"2:54",174,174,"Foul on Derrick White.",70,62,8,0.992258518669151,"Colorado","Eastern Washington",4,2,0,0,17,400915592,2016-12-22
+310,2,"2:54",174,174,"Official TV Timeout",70,62,8,0.992258518669151,"Colorado","Eastern Washington",4,2,0,0,17,400915592,2016-12-22
+311,2,"2:43",163,163,"Foul on Xavier Johnson.",70,62,8,0.99510057186031,"Colorado","Eastern Washington",4,2,0,0,17,400915592,2016-12-22
+312,2,"2:43",163,163,"Luka Vulikic missed Free Throw.",70,62,8,0.99510057186031,"Colorado","Eastern Washington",4,2,0,0,17,400915592,2016-12-22
+313,2,"2:43",163,163,"Eastern Washington Deadball Team Rebound.",70,62,8,0.99510057186031,"Colorado","Eastern Washington",4,2,0,0,17,400915592,2016-12-22
+314,2,"2:43",163,163,"Luka Vulikic made Free Throw.",70,63,7,0.991836776701131,"Colorado","Eastern Washington",4,2,0,0,17,400915592,2016-12-22
+315,2,"2:18",138,138,"Xavier Johnson Turnover.",70,63,7,0.990688756751396,"Colorado","Eastern Washington",4,2,0,0,17,400915592,2016-12-22
+316,2,"2:18",138,138,"Foul on Xavier Johnson.",70,63,7,0.990688756751396,"Colorado","Eastern Washington",4,2,0,0,17,400915592,2016-12-22
+317,2,"2:01",121,121,"Felix Von Hofe missed Jumper.",70,63,7,0.990992757364788,"Colorado","Eastern Washington",4,2,0,0,17,400915592,2016-12-22
+318,2,"2:01",121,121,"Mason Peatling Offensive Rebound.",70,63,7,0.990992757364788,"Colorado","Eastern Washington",4,2,0,0,17,400915592,2016-12-22
+319,2,"1:55",115,115,"Foul on Derrick White.",70,63,7,0.993527484329093,"Colorado","Eastern Washington",4,2,0,0,17,400915592,2016-12-22
+320,2,"1:55",115,115,"Luka Vulikic made Free Throw.",70,64,6,0.988259022314186,"Colorado","Eastern Washington",4,2,0,0,17,400915592,2016-12-22
+321,2,"1:55",115,115,"Luka Vulikic made Free Throw.",70,65,5,0.978793700529451,"Colorado","Eastern Washington",4,2,0,0,17,400915592,2016-12-22
+322,2,"1:50",110,110,"Colorado  Timeout",70,65,5,0.978793700529451,"Colorado","Eastern Washington",3,2,1,0,17,400915592,2016-12-22
+323,2,"1:28",88,88,"Xavier Johnson made Layup. Assisted by Josh Fortune.",72,65,7,0.997225374604327,"Colorado","Eastern Washington",3,2,1,0,17,400915592,2016-12-22
+324,2,"1:18",78,78,"Felix Von Hofe made Three Point Jumper. Assisted by Bogdan Bliznyuk.",72,68,4,0.972501640325072,"Colorado","Eastern Washington",3,2,1,0,17,400915592,2016-12-22
+325,2,"1:17",77,77,"Eastern Washington  Timeout",72,68,4,0.972501640325072,"Colorado","Eastern Washington",3,1,1,1,17,400915592,2016-12-22
+326,2,"0:46",46,46,"Wesley Gordon made Dunk. Assisted by Derrick White.",74,68,6,0.998452982048398,"Colorado","Eastern Washington",3,1,0,1,17,400915592,2016-12-22
+327,2,"0:36",36,36,"Bogdan Bliznyuk missed Layup.",74,68,6,0.99651883831629,"Colorado","Eastern Washington",3,1,0,1,17,400915592,2016-12-22
+328,2,"0:36",36,36,"Wesley Gordon Block.",74,68,6,0.99651883831629,"Colorado","Eastern Washington",3,1,0,1,17,400915592,2016-12-22
+329,2,"0:35",35,35,"Wesley Gordon Defensive Rebound.",74,68,6,0.991068548715911,"Colorado","Eastern Washington",3,1,0,1,17,400915592,2016-12-22
+330,2,"0:35",35,35,"Derrick White made Free Throw.",75,68,7,0.996076608932498,"Colorado","Eastern Washington",3,1,0,1,17,400915592,2016-12-22
+331,2,"0:35",35,35,"Derrick White made Free Throw.",76,68,8,0.998281409689916,"Colorado","Eastern Washington",3,1,0,1,17,400915592,2016-12-22
+332,2,"0:32",32,32,"Foul on Mason Peatling.",74,68,6,0.999312851937671,"Colorado","Eastern Washington",3,1,0,1,17,400915592,2016-12-22
+333,2,"0:22",22,22,"Felix Von Hofe missed Three Point Jumper.",76,68,8,0.999985300852829,"Colorado","Eastern Washington",3,1,0,1,17,400915592,2016-12-22
+334,2,"0:22",22,22,"Derrick White Block.",76,68,8,0.999985300852829,"Colorado","Eastern Washington",3,1,0,1,17,400915592,2016-12-22
+335,2,"0:21",21,21,"Eastern Washington Offensive Rebound.",76,68,8,0.999998848122123,"Colorado","Eastern Washington",3,1,0,1,17,400915592,2016-12-22
+336,2,"0:19",19,19,"Felix Von Hofe missed Three Point Jumper.",76,68,8,0.999971582542453,"Colorado","Eastern Washington",3,1,0,1,17,400915592,2016-12-22
+337,2,"0:19",19,19,"Deleon Brown Block.",76,68,8,0.999971582542453,"Colorado","Eastern Washington",3,1,0,1,17,400915592,2016-12-22
+338,2,"0:17",17,17,"Bogdan Bliznyuk Offensive Rebound.",76,68,8,0.999874000228841,"Colorado","Eastern Washington",3,1,0,1,17,400915592,2016-12-22
+339,2,"0:15",15,15,"Bogdan Bliznyuk missed Three Point Jumper.",76,68,8,0.99998209506299,"Colorado","Eastern Washington",3,1,0,0,17,400915592,2016-12-22
+340,2,"0:15",15,15,"Josh Fortune Defensive Rebound.",76,68,8,0.99998209506299,"Colorado","Eastern Washington",3,1,0,0,17,400915592,2016-12-22
+341,2,"0:00",0,0,"End of Game",76,68,8,1,"Colorado","Eastern Washington",3,1,0,0,17,400915592,2016-12-22

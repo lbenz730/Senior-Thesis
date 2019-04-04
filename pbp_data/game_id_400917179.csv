@@ -1,0 +1,321 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.852225761633161,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+2,1,"20:00",2400,2400,"Jump Ball won by Akron",0,0,0,0.852225761633161,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+3,1,"19:50",2390,2390,"Antino Jackson made Jumper. Assisted by Isaiah Johnson.",2,0,2,0.870804920116635,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+4,1,"19:27",2367,2367,"Jaylin Walker made Three Point Jumper. Assisted by Mitch Peterson.",2,3,-1,0.828393314732922,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+5,1,"18:54",2334,2334,"Kwan Cheatham Jr. missed Three Point Jumper.",2,3,-1,0.827849974186297,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+6,1,"18:54",2334,2334,"Deon Edwin Defensive Rebound.",2,3,-1,0.827849974186297,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+7,1,"18:23",2303,2303,"Jalen Avery missed Layup.",2,3,-1,0.814892053536264,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+8,1,"18:23",2303,2303,"Jimmy Hall Offensive Rebound.",2,3,-1,0.814892053536264,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+9,1,"18:20",2300,2300,"Jimmy Hall missed Layup.",2,3,-1,0.814892053536264,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+10,1,"18:20",2300,2300,"Kwan Cheatham Jr. Defensive Rebound.",2,3,-1,0.814892053536264,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+11,1,"18:12",2292,2292,"Foul on Jaylin Walker.",2,3,-1,0.8270617264906,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+12,1,"18:05",2285,2285,"Isaiah Johnson made Layup.",4,3,1,0.847956388566351,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+13,1,"17:40",2260,2260,"Jimmy Hall missed Jumper.",4,3,1,0.859450204014758,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+14,1,"17:40",2260,2260,"Jimond Ivey Defensive Rebound.",4,3,1,0.859450204014758,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+15,1,"17:24",2244,2244,"Kwan Cheatham Jr. missed Jumper.",4,3,1,0.83922966370723,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+16,1,"17:24",2244,2244,"Mitch Peterson Defensive Rebound.",4,3,1,0.83922966370723,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+17,1,"17:16",2236,2236,"Deon Edwin made Three Point Jumper.",4,6,-2,0.802875423129374,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+18,1,"16:50",2210,2210,"Isaiah Johnson Turnover.",4,6,-2,0.792138784305729,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+19,1,"16:33",2193,2193,"Jimmy Hall missed Layup.",4,6,-2,0.808680787957416,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+20,1,"16:33",2193,2193,"Jimond Ivey Defensive Rebound.",4,6,-2,0.808680787957416,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+21,1,"16:18",2178,2178,"Kwan Cheatham Jr. missed Three Point Jumper.",4,6,-2,0.796024853784894,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+22,1,"16:18",2178,2178,"Deon Edwin Defensive Rebound.",4,6,-2,0.796024853784894,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+23,1,"16:07",2167,2167,"Jaylin Walker missed Three Point Jumper.",4,6,-2,0.795135458849133,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+24,1,"16:07",2167,2167,"Antino Jackson Defensive Rebound.",4,6,-2,0.795135458849133,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+25,1,"15:54",2154,2154,"Jimond Ivey made Dunk.",6,6,0,0.827229646307782,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+26,1,"15:35",2135,2135,"Jimmy Hall missed Jumper.",6,6,0,0.830877496731215,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+27,1,"15:35",2135,2135,"Jimond Ivey Defensive Rebound.",6,6,0,0.830877496731215,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+28,1,"15:28",2128,2128,"Antino Jackson Turnover.",6,6,0,0.827176633995454,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+29,1,"15:28",2128,2128,"Jalen Avery Steal.",6,6,0,0.827176633995454,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+30,1,"15:22",2122,2122,"Mitch Peterson missed Three Point Jumper.",6,6,0,0.827176633995454,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+31,1,"15:22",2122,2122,"Jaylin Walker Offensive Rebound.",6,6,0,0.827176633995454,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+32,1,"15:22",2122,2122,"Jaylin Walker missed Two Point Tip Shot.",6,6,0,0.827176633995454,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+33,1,"15:22",2122,2122,"Kwan Cheatham Jr. Defensive Rebound.",6,6,0,0.827176633995454,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+34,1,"15:09",2109,2109,"Noah Robotham missed Three Point Jumper.",6,6,0,0.825143177522012,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+35,1,"15:09",2109,2109,"Jalen Avery Defensive Rebound.",6,6,0,0.825143177522012,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+36,1,"14:58",2098,2098,"Jimmy Hall made Layup.",6,8,-2,0.781742561908408,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+37,1,"14:29",2069,2069,"Antino Jackson missed Three Point Jumper.",6,8,-2,0.783786169083444,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+38,1,"14:29",2069,2069,"Jalen Avery Defensive Rebound.",6,8,-2,0.783786169083444,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+39,1,"14:18",2058,2058,"Official TV Timeout",6,8,-2,0.799689777944646,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+40,1,"14:16",2056,2056,"Jaylin Walker missed Three Point Jumper.",6,8,-2,0.799689777944646,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+41,1,"14:16",2056,2056,"Jimond Ivey Defensive Rebound.",6,8,-2,0.799689777944646,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+42,1,"13:46",2026,2026,"Josh Williams Turnover.",6,8,-2,0.783542637668316,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+43,1,"13:29",2009,2009,"Foul on Emmanuel Olojakpoke.",6,8,-2,0.786304206569467,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+44,1,"13:29",2009,2009,"Adonis De La Rosa missed Free Throw.",6,8,-2,0.786304206569467,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+45,1,"13:29",2009,2009,"Kent State Deadball Team Rebound.",6,8,-2,0.786304206569467,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+46,1,"13:29",2009,2009,"Adonis De La Rosa made Free Throw.",6,9,-3,0.767177042867467,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+47,1,"13:09",1989,1989,"Kwan Cheatham Jr. missed Jumper.",6,9,-3,0.745517549234779,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+48,1,"13:09",1989,1989,"Emmanuel Olojakpoke Offensive Rebound.",6,9,-3,0.745517549234779,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+49,1,"13:07",1987,1987,"Foul on Danny Pippen.",6,9,-3,0.745517549234779,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+50,1,"13:07",1987,1987,"Emmanuel Olojakpoke missed Free Throw.",6,9,-3,0.745517549234779,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+51,1,"13:07",1987,1987,"Akron Deadball Team Rebound.",6,9,-3,0.745517549234779,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+52,1,"13:07",1987,1987,"Emmanuel Olojakpoke made Free Throw.",7,9,-2,0.768444432161043,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+53,1,"12:53",1973,1973,"Kevin Zabo missed Layup.",7,9,-2,0.793111806711944,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+54,1,"12:53",1973,1973,"Jimond Ivey Defensive Rebound.",7,9,-2,0.793111806711944,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+55,1,"12:48",1968,1968,"Tavian Dunn-Martin missed Three Point Jumper.",7,9,-2,0.791660178551855,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+56,1,"12:48",1968,1968,"Mitch Peterson Defensive Rebound.",7,9,-2,0.791660178551855,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+57,1,"12:29",1949,1949,"Kevin Zabo made Three Point Jumper. Assisted by Adonis De La Rosa.",7,12,-5,0.708179923508516,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+58,1,"12:12",1932,1932,"Foul on Kevin Zabo.",7,12,-5,0.69458706460498,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+59,1,"12:05",1925,1925,"Isaiah Johnson made Dunk. Assisted by Tavian Dunn-Martin.",9,12,-3,0.765345759627439,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+60,1,"11:35",1895,1895,"Kevin Zabo missed Three Point Jumper.",9,12,-3,0.749769897554553,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+61,1,"11:35",1895,1895,"Tavian Dunn-Martin Defensive Rebound.",9,12,-3,0.749769897554553,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+62,1,"11:20",1880,1880,"Antino Jackson made Layup.",11,12,-1,0.801744726151928,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+63,1,"10:57",1857,1857,"Kevin Zabo missed Three Point Jumper.",11,12,-1,0.798085212379544,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+64,1,"10:57",1857,1857,"Isaiah Johnson Defensive Rebound.",11,12,-1,0.798085212379544,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+65,1,"10:49",1849,1849,"Daniel Utomi made Three Point Jumper. Assisted by Tavian Dunn-Martin.",14,12,2,0.84596142294796,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+66,1,"10:43",1843,1843,"Kent State  Timeout",14,12,2,0.84596142294796,"Akron","Kent State",3,4,1,0,9,400917179,2017-02-17
+67,1,"10:17",1817,1817,"Foul on Josh Williams.",14,12,2,0.854875252049971,"Akron","Kent State",3,4,1,0,9,400917179,2017-02-17
+68,1,"10:17",1817,1817,"Adonis De La Rosa made Free Throw.",14,13,1,0.83670034437356,"Akron","Kent State",3,4,1,0,9,400917179,2017-02-17
+69,1,"10:17",1817,1817,"Adonis De La Rosa missed Free Throw.",14,13,1,0.83670034437356,"Akron","Kent State",3,4,1,0,9,400917179,2017-02-17
+70,1,"10:17",1817,1817,"Daniel Utomi Defensive Rebound.",14,13,1,0.83670034437356,"Akron","Kent State",3,4,1,0,9,400917179,2017-02-17
+71,1,"9:59",1799,1799,"Isaiah Johnson made Layup.",16,13,3,0.859233581941138,"Akron","Kent State",3,4,1,0,9,400917179,2017-02-17
+72,1,"9:40",1780,1780,"Jaylin Walker Turnover.",16,13,3,0.853821981131164,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+73,1,"9:40",1780,1780,"Josh Williams Steal.",16,13,3,0.853821981131164,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+74,1,"9:33",1773,1773,"Antino Jackson made Layup. Assisted by Josh Williams.",18,13,5,0.883937459758285,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+75,1,"9:09",1749,1749,"Jaylin Walker made Three Point Jumper. Assisted by Jalen Avery.",18,16,2,0.845111565198574,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+76,1,"8:53",1733,1733,"Daniel Utomi made Three Point Jumper. Assisted by Tavian Dunn-Martin.",21,16,5,0.895674551044621,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+77,1,"8:28",1708,1708,"Jimmy Hall missed Jumper.",21,16,5,0.886292072492991,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+78,1,"8:28",1708,1708,"Tavian Dunn-Martin Defensive Rebound.",21,16,5,0.886292072492991,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+79,1,"8:20",1700,1700,"Antino Jackson made Layup. Assisted by Tavian Dunn-Martin.",23,16,7,0.909603993702148,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+80,1,"8:12",1692,1692,"Jaylin Walker made Jumper.",23,18,5,0.89554507461363,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+81,1,"7:50",1670,1670,"Foul on Adonis De La Rosa.",23,18,5,0.896269697362734,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+82,1,"7:50",1670,1670,"Official TV Timeout",23,18,5,0.896269697362734,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+83,1,"7:40",1660,1660,"Emmanuel Olojakpoke made Dunk. Assisted by Jimond Ivey.",25,18,7,0.912737195189072,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+84,1,"7:10",1630,1630,"Jaylin Walker missed Three Point Jumper.",25,18,7,0.91423608113393,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+85,1,"7:10",1630,1630,"Kent State Offensive Rebound.",25,18,7,0.91423608113393,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+86,1,"7:08",1628,1628,"Foul on Emmanuel Olojakpoke.",25,18,7,0.91716046808859,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+87,1,"7:05",1625,1625,"Foul on Emmanuel Olojakpoke.",25,18,7,0.91716046808859,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+88,1,"7:00",1620,1620,"Jimmy Hall made Layup.",25,20,5,0.892966159228335,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+89,1,"6:45",1605,1605,"Jimond Ivey missed Layup.",25,20,5,0.89029056804698,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+90,1,"6:45",1605,1605,"Kevin Zabo Defensive Rebound.",25,20,5,0.89029056804698,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+91,1,"6:41",1601,1601,"Kevin Zabo made Layup.",25,22,3,0.861878129255063,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+92,1,"6:35",1595,1595,"Michael Hughes missed Layup.",25,22,3,0.859904262006265,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+93,1,"6:35",1595,1595,"Deon Edwin Block.",25,22,3,0.859904262006265,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+94,1,"6:35",1595,1595,"Jimmy Hall Defensive Rebound.",25,22,3,0.859904262006265,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+95,1,"6:26",1586,1586,"Jaylin Walker missed Three Point Jumper.",25,22,3,0.857542765577797,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+96,1,"6:26",1586,1586,"Noah Robotham Defensive Rebound.",25,22,3,0.857542765577797,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+97,1,"6:14",1574,1574,"Antino Jackson made Layup.",27,22,5,0.900706018077916,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+98,1,"6:07",1567,1567,"Foul on Noah Robotham.",27,22,5,0.887410994736582,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+99,1,"5:47",1547,1547,"Jalen Avery made Jumper.",27,24,3,0.864422919162878,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+100,1,"5:25",1525,1525,"Foul on Jimmy Hall.",27,24,3,0.857704920091362,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+101,1,"5:25",1525,1525,"Isaiah Johnson made Free Throw.",28,24,4,0.874200815616526,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+102,1,"5:25",1525,1525,"Isaiah Johnson missed Free Throw.",28,24,4,0.874200815616526,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+103,1,"5:25",1525,1525,"Jimmy Hall Defensive Rebound.",28,24,4,0.874200815616526,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+104,1,"5:08",1508,1508,"Jimmy Hall missed Layup.",28,24,4,0.87561852676976,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+105,1,"5:08",1508,1508,"Akron Deadball Team Rebound.",28,24,4,0.87561852676976,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+106,1,"4:47",1487,1487,"Daniel Utomi made Three Point Jumper. Assisted by Isaiah Johnson.",31,24,7,0.916774808165639,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+107,1,"4:16",1456,1456,"Deon Edwin missed Layup.",31,24,7,0.914616756762398,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+108,1,"4:16",1456,1456,"Noah Robotham Defensive Rebound.",31,24,7,0.914616756762398,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+109,1,"4:06",1446,1446,"Antino Jackson Turnover.",31,24,7,0.924413213395039,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+110,1,"4:06",1446,1446,"Deon Edwin Steal.",31,24,7,0.924413213395039,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+111,1,"4:03",1443,1443,"Deon Edwin made Layup.",31,26,5,0.900207972646141,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+112,1,"4:03",1443,1443,"Foul on Daniel Utomi.",31,26,5,0.900207972646141,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+113,1,"4:03",1443,1443,"Deon Edwin made Free Throw.",31,27,4,0.885681343073438,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+114,1,"3:49",1429,1429,"Daniel Utomi missed Jumper.",31,27,4,0.864429046695981,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+115,1,"3:49",1429,1429,"Isaiah Johnson Offensive Rebound.",31,27,4,0.864429046695981,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+116,1,"3:48",1428,1428,"Foul on Desmond Ridenour.",31,27,4,0.864429046695981,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+117,1,"3:48",1428,1428,"Official TV Timeout",31,27,4,0.864429046695981,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+118,1,"3:48",1428,1428,"Isaiah Johnson made Free Throw.",32,27,5,0.880515094547963,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+119,1,"3:48",1428,1428,"Isaiah Johnson made Free Throw.",33,27,6,0.894924475762257,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+120,1,"3:21",1401,1401,"Jaylin Walker missed Jumper.",33,27,6,0.913306476190131,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+121,1,"3:21",1401,1401,"Josh Williams Defensive Rebound.",33,27,6,0.913306476190131,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+122,1,"2:57",1377,1377,"Foul on Mitch Peterson.",33,27,6,0.897332962305779,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+123,1,"2:57",1377,1377,"Daniel Utomi made Free Throw.",34,27,7,0.909889883517333,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+124,1,"2:57",1377,1377,"Daniel Utomi made Free Throw.",35,27,8,0.921046133482034,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+125,1,"2:44",1364,1364,"Jimmy Hall missed Jumper.",35,27,8,0.927904704383794,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+126,1,"2:44",1364,1364,"Jaylin Walker Offensive Rebound.",35,27,8,0.927904704383794,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+127,1,"2:35",1355,1355,"Jaylin Walker made Jumper.",35,29,6,0.908963000506265,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+128,1,"1:58",1318,1318,"Isaiah Johnson Turnover.",35,29,6,0.908323019115436,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+129,1,"1:58",1318,1318,"Jaylin Walker Steal.",35,29,6,0.908323019115436,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+130,1,"1:46",1306,1306,"Deon Edwin missed Jumper.",35,29,6,0.893877978699265,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+131,1,"1:46",1306,1306,"Akron Defensive Rebound.",35,29,6,0.893877978699265,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+132,1,"1:25",1285,1285,"Kwan Cheatham Jr. missed Layup.",35,29,6,0.904690690548582,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+133,1,"1:25",1285,1285,"Isaiah Johnson Offensive Rebound.",35,29,6,0.904690690548582,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+134,1,"1:25",1285,1285,"Isaiah Johnson missed Two Point Tip Shot.",35,29,6,0.904690690548582,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+135,1,"1:25",1285,1285,"Jimond Ivey Offensive Rebound.",35,29,6,0.904690690548582,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+136,1,"1:13",1273,1273,"Josh Williams missed Layup.",35,29,6,0.895243622736324,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+137,1,"1:13",1273,1273,"Isaiah Johnson Offensive Rebound.",35,29,6,0.895243622736324,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+138,1,"1:12",1272,1272,"Kwan Cheatham Jr. missed Three Point Jumper.",35,29,6,0.895243622736324,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+139,1,"1:12",1272,1272,"Kent State Defensive Rebound.",35,29,6,0.895243622736324,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+140,1,"0:55",1255,1255,"Deon Edwin missed Three Point Jumper.",35,29,6,0.89307955122533,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+141,1,"0:55",1255,1255,"Kevin Zabo Offensive Rebound.",35,29,6,0.89307955122533,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+142,1,"0:49",1249,1249,"Jaylin Walker missed Three Point Jumper.",35,29,6,0.903925704236774,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+143,1,"0:49",1249,1249,"Deon Edwin Offensive Rebound.",35,29,6,0.903925704236774,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+144,1,"0:40",1240,1240,"Foul on Isaiah Johnson.",35,29,6,0.903925704236774,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+145,1,"0:40",1240,1240,"Deon Edwin missed Free Throw.",35,29,6,0.903925704236774,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+146,1,"0:40",1240,1240,"Kent State Deadball Team Rebound.",35,29,6,0.903925704236774,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+147,1,"0:40",1240,1240,"Deon Edwin missed Free Throw.",35,29,6,0.903925704236774,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+148,1,"0:40",1240,1240,"Kent State Offensive Rebound.",35,29,6,0.903925704236774,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+149,1,"0:21",1221,1221,"Jimmy Hall made Layup. Assisted by Jaylin Walker.",35,31,4,0.876709219712137,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+150,1,"0:02",1202,1202,"Foul on Kevin Zabo.",35,31,4,0.871057889591864,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+151,1,"0:02",1202,1202,"Isaiah Johnson made Free Throw.",36,31,5,0.887912706454727,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+152,1,"0:02",1202,1202,"Isaiah Johnson missed Free Throw.",36,31,5,0.887912706454727,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+153,1,"0:02",1202,1202,"Mitch Peterson Defensive Rebound.",36,31,5,0.887912706454727,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+154,1,"0:00",1200,1200,"End of 1st half",36,31,5,0.887912706454727,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+155,2,"20:00",1200,1200,"PLAY",36,31,5,0.887912706454727,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+156,2,"20:00",1200,1200,"Jump Ball won by Kent State",36,31,5,0.887912706454727,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+157,2,"19:40",1180,1180,"Jimmy Hall made Layup.",36,33,3,0.855132758835678,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+158,2,"19:18",1158,1158,"Kwan Cheatham Jr. Turnover.",36,33,3,0.845976396507794,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+159,2,"19:18",1158,1158,"Jimmy Hall Steal.",36,33,3,0.845976396507794,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+160,2,"19:04",1144,1144,"Jaylin Walker made Layup.",36,35,1,0.794433893302517,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+161,2,"18:41",1121,1121,"Foul on Mitch Peterson.",36,35,1,0.803252636136139,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+162,2,"18:30",1110,1110,"Jimond Ivey made Jumper. Assisted by Kwan Cheatham Jr..",38,35,3,0.847115430819613,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+163,2,"18:09",1089,1089,"Deon Edwin missed Layup.",38,35,3,0.858576845619934,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+164,2,"18:09",1089,1089,"Kwan Cheatham Jr. Defensive Rebound.",38,35,3,0.858576845619934,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+165,2,"17:59",1079,1079,"Jimond Ivey missed Three Point Jumper.",38,35,3,0.846243628622212,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+166,2,"17:59",1079,1079,"Jaylin Walker Defensive Rebound.",38,35,3,0.846243628622212,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+167,2,"17:35",1055,1055,"Jaylin Walker made Three Point Jumper. Assisted by Mitch Peterson.",38,38,0,0.774193362697717,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+168,2,"17:17",1037,1037,"Isaiah Johnson missed Layup.",38,38,0,0.768298151948663,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+169,2,"17:17",1037,1037,"Deon Edwin Block.",38,38,0,0.768298151948663,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+170,2,"17:17",1037,1037,"Jimmy Hall Defensive Rebound.",38,38,0,0.768298151948663,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+171,2,"17:05",1025,1025,"Jalen Avery missed Jumper.",38,38,0,0.771764360158159,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+172,2,"17:05",1025,1025,"Jimond Ivey Defensive Rebound.",38,38,0,0.771764360158159,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+173,2,"16:54",1014,1014,"Kwan Cheatham Jr. missed Three Point Jumper.",38,38,0,0.742898428889853,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+174,2,"16:54",1014,1014,"Jaylin Walker Defensive Rebound.",38,38,0,0.742898428889853,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+175,2,"16:43",1003,1003,"Jimmy Hall made Layup. Assisted by Deon Edwin.",38,40,-2,0.673150990592398,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+176,2,"16:09",969,969,"Akron  Turnover.",38,40,-2,0.668999360696571,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+177,2,"15:55",955,955,"Jimmy Hall missed Jumper.",38,40,-2,0.692421803866679,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+178,2,"15:55",955,955,"Noah Robotham Defensive Rebound.",38,40,-2,0.692421803866679,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+179,2,"15:46",946,946,"Noah Robotham missed Jumper.",38,40,-2,0.704209103060402,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+180,2,"15:46",946,946,"Mitch Peterson Defensive Rebound.",38,40,-2,0.704209103060402,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+181,2,"15:35",935,935,"Jimmy Hall made Layup. Assisted by Jalen Avery.",38,42,-4,0.589199143666235,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+182,2,"15:10",910,910,"Official TV Timeout",38,42,-4,0.60546854752051,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+183,2,"15:05",905,905,"Kwan Cheatham Jr. missed Three Point Jumper.",38,42,-4,0.583118004837901,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+184,2,"15:05",905,905,"Mitch Peterson Defensive Rebound.",38,42,-4,0.583118004837901,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+185,2,"14:48",888,888,"Foul on Kwan Cheatham Jr..",38,42,-4,0.594756549347384,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+186,2,"14:48",888,888,"Adonis De La Rosa Turnover.",38,42,-4,0.594756549347384,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+187,2,"14:48",888,888,"Foul on Adonis De La Rosa.",38,42,-4,0.594756549347384,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+188,2,"14:23",863,863,"Tavian Dunn-Martin missed Layup.",38,42,-4,0.581786911508713,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+189,2,"14:23",863,863,"Kevin Zabo Block.",38,42,-4,0.581786911508713,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+190,2,"14:23",863,863,"Akron Offensive Rebound.",38,42,-4,0.581786911508713,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+191,2,"14:19",859,859,"Josh Williams missed Three Point Jumper.",38,42,-4,0.581607144415143,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+192,2,"14:19",859,859,"Jimmy Hall Defensive Rebound.",38,42,-4,0.581607144415143,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+193,2,"14:03",843,843,"Foul on Isaiah Johnson.",38,42,-4,0.554216245152403,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+194,2,"14:03",843,843,"Jaylin Walker missed Free Throw.",38,42,-4,0.554216245152403,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+195,2,"14:03",843,843,"Kent State Deadball Team Rebound.",38,42,-4,0.554216245152403,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+196,2,"14:03",843,843,"Jaylin Walker made Free Throw.",38,43,-5,0.501338050576486,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+197,2,"13:36",816,816,"Foul on Kevin Zabo.",38,43,-5,0.534528637723184,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+198,2,"13:26",806,806,"Foul on Adonis De La Rosa.",38,43,-5,0.543908295863617,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+199,2,"13:25",805,805,"Jimond Ivey missed Three Point Jumper.",38,43,-5,0.543908295863617,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+200,2,"13:25",805,805,"Deon Edwin Defensive Rebound.",38,43,-5,0.543908295863617,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+201,2,"13:15",795,795,"Foul on Jaylin Walker.",38,43,-5,0.493419297133974,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+202,2,"13:15",795,795,"Jaylin Walker Turnover.",38,43,-5,0.493419297133974,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+203,2,"13:11",791,791,"Antino Jackson missed Three Point Jumper.",38,43,-5,0.493419297133974,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+204,2,"13:11",791,791,"Mitch Peterson Defensive Rebound.",38,43,-5,0.493419297133974,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+205,2,"12:57",777,777,"Deon Edwin made Layup.",38,45,-7,0.406688470319028,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+206,2,"12:57",777,777,"Foul on Daniel Utomi.",38,45,-7,0.406688470319028,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+207,2,"12:57",777,777,"Deon Edwin made Free Throw.",38,46,-8,0.357135254706702,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+208,2,"12:44",764,764,"Tavian Dunn-Martin missed Three Point Jumper.",38,46,-8,0.37332684040125,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+209,2,"12:44",764,764,"Deon Edwin Defensive Rebound.",38,46,-8,0.37332684040125,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+210,2,"12:34",754,754,"Kevin Zabo missed Three Point Jumper.",38,46,-8,0.347398476979246,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+211,2,"12:34",754,754,"Jimond Ivey Defensive Rebound.",38,46,-8,0.347398476979246,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+212,2,"12:21",741,741,"Foul on Jimmy Hall.",38,46,-8,0.323660734855932,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+213,2,"12:21",741,741,"Daniel Utomi made Free Throw.",39,46,-7,0.374247372588858,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+214,2,"12:21",741,741,"Daniel Utomi made Free Throw.",40,46,-6,0.427740150706792,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+215,2,"12:04",724,724,"Jimmy Hall missed Jumper.",40,46,-6,0.444710838810221,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+216,2,"12:04",724,724,"Mitch Peterson Offensive Rebound.",40,46,-6,0.444710838810221,"Akron","Kent State",4,4,0,0,9,400917179,2017-02-17
+217,2,"11:57",717,717,"Kent State  Timeout",40,46,-6,0.428228510642426,"Akron","Kent State",3,4,1,0,9,400917179,2017-02-17
+218,2,"11:54",714,714,"Mitch Peterson missed Jumper.",40,46,-6,0.428228510642426,"Akron","Kent State",3,4,1,0,9,400917179,2017-02-17
+219,2,"11:54",714,714,"Isaiah Johnson Defensive Rebound.",40,46,-6,0.428228510642426,"Akron","Kent State",3,4,1,0,9,400917179,2017-02-17
+220,2,"11:45",705,705,"Noah Robotham missed Layup.",40,46,-6,0.435238671832127,"Akron","Kent State",3,4,1,0,9,400917179,2017-02-17
+221,2,"11:45",705,705,"Deon Edwin Defensive Rebound.",40,46,-6,0.435238671832127,"Akron","Kent State",3,4,1,0,9,400917179,2017-02-17
+222,2,"11:29",689,689,"Jimmy Hall missed Jumper.",40,46,-6,0.42108147870784,"Akron","Kent State",3,4,1,0,9,400917179,2017-02-17
+223,2,"11:29",689,689,"Akron Defensive Rebound.",40,46,-6,0.42108147870784,"Akron","Kent State",3,4,1,0,9,400917179,2017-02-17
+224,2,"11:25",685,685,"Official TV Timeout",40,46,-6,0.42108147870784,"Akron","Kent State",3,4,1,0,9,400917179,2017-02-17
+225,2,"11:18",678,678,"Daniel Utomi made Three Point Jumper. Assisted by Jimond Ivey.",43,46,-3,0.581532016093783,"Akron","Kent State",3,4,1,0,9,400917179,2017-02-17
+226,2,"10:51",651,651,"Jaylin Walker missed Three Point Jumper.",43,46,-3,0.580071168970183,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+227,2,"10:51",651,651,"Isaiah Johnson Defensive Rebound.",43,46,-3,0.580071168970183,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+228,2,"10:39",639,639,"Technical Foul on Kevin Zabo.",43,46,-3,0.544217848153871,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+229,2,"10:39",639,639,"Foul on Kevin Zabo.",43,46,-3,0.544217848153871,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+230,2,"10:39",639,639,"Technical Foul on Jimond Ivey.",43,46,-3,0.544217848153871,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+231,2,"10:39",639,639,"Foul on Jimond Ivey.",43,46,-3,0.544217848153871,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+232,2,"10:35",635,635,"Josh Williams made Layup. Assisted by Kwan Cheatham Jr..",45,46,-1,0.657021274001189,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+233,2,"10:10",610,610,"Jimmy Hall missed Layup.",45,46,-1,0.66485772445364,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+234,2,"10:10",610,610,"Kwan Cheatham Jr. Defensive Rebound.",45,46,-1,0.66485772445364,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+235,2,"9:46",586,586,"Josh Williams missed Three Point Jumper.",45,46,-1,0.660964998660452,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+236,2,"9:46",586,586,"Isaiah Johnson Offensive Rebound.",45,46,-1,0.660964998660452,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+237,2,"9:33",573,573,"Isaiah Johnson made Layup.",47,46,1,0.789155625233317,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+238,2,"9:19",559,559,"Deon Edwin made Layup. Assisted by Jimmy Hall.",47,48,-1,0.662964563147318,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+239,2,"8:49",529,529,"Isaiah Johnson Turnover.",47,48,-1,0.645274977105024,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+240,2,"8:26",506,506,"Foul on Noah Robotham.",47,48,-1,0.669610033149526,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+241,2,"8:02",482,482,"Deon Edwin made Jumper.",47,50,-3,0.523294696903271,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+242,2,"8:02",482,482,"Foul on Kwan Cheatham Jr..",47,50,-3,0.523294696903271,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+243,2,"8:02",482,482,"Deon Edwin made Free Throw.",47,51,-4,0.455084683565517,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+244,2,"7:41",461,461,"Isaiah Johnson made Layup.",49,51,-2,0.58423170275554,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+245,2,"7:41",461,461,"Foul on Adonis De La Rosa.",49,51,-2,0.58423170275554,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+246,2,"7:41",461,461,"Official TV Timeout",49,51,-2,0.58423170275554,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+247,2,"7:41",461,461,"Isaiah Johnson made Free Throw.",50,51,-1,0.650688960889665,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+248,2,"7:24",444,444,"Jalen Avery made Three Point Jumper. Assisted by Jimmy Hall.",50,54,-4,0.422473386015295,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+249,2,"7:07",427,427,"Foul on Deon Edwin.",50,54,-4,0.402159954501724,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+250,2,"7:07",427,427,"Kwan Cheatham Jr. missed Free Throw.",50,54,-4,0.402159954501724,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+251,2,"7:07",427,427,"Kwan Cheatham Jr. Offensive Rebound.",50,54,-4,0.402159954501724,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+252,2,"6:57",417,417,"Noah Robotham missed Three Point Jumper.",50,54,-4,0.420996670073001,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+253,2,"6:57",417,417,"Jimond Ivey Offensive Rebound.",50,54,-4,0.420996670073001,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+254,2,"6:50",410,410,"Kwan Cheatham Jr. made Layup. Assisted by Jimond Ivey.",52,54,-2,0.57052575161887,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+255,2,"6:28",388,388,"Jimmy Hall missed Jumper.",52,54,-2,0.582993271327043,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+256,2,"6:28",388,388,"Kwan Cheatham Jr. Defensive Rebound.",52,54,-2,0.582993271327043,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+257,2,"6:05",365,365,"Isaiah Johnson missed Jumper.",52,54,-2,0.53515807673742,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+258,2,"6:05",365,365,"Jaylin Walker Defensive Rebound.",52,54,-2,0.53515807673742,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+259,2,"5:58",358,358,"Deon Edwin made Three Point Jumper. Assisted by Jaylin Walker.",52,57,-5,0.276039721423045,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+260,2,"5:34",334,334,"Kwan Cheatham Jr. made Jumper.",54,57,-3,0.444758585991568,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+261,2,"5:09",309,309,"Jimmy Hall made Jumper.",54,59,-5,0.275977994009824,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+262,2,"4:44",284,284,"Foul on Mitch Peterson.",54,59,-5,0.267931037322093,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+263,2,"4:44",284,284,"Jimond Ivey made Free Throw.",55,59,-4,0.342460345723573,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+264,2,"4:44",284,284,"Jimond Ivey made Free Throw.",56,59,-3,0.425666685172337,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+265,2,"4:31",271,271,"Jimmy Hall made Dunk. Assisted by Deon Edwin.",56,61,-5,0.22894515257885,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+266,2,"4:05",245,245,"Kwan Cheatham Jr. made Three Point Jumper. Assisted by Isaiah Johnson.",59,61,-2,0.470577447160912,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+267,2,"3:47",227,227,"Deon Edwin Turnover.",59,61,-2,0.507082832774115,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+268,2,"3:47",227,227,"Noah Robotham Steal.",59,61,-2,0.507082832774115,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+269,2,"3:41",221,221,"Noah Robotham made Layup.",61,61,0,0.705839136435176,"Akron","Kent State",3,4,0,0,9,400917179,2017-02-17
+270,2,"3:36",216,216,"Kent State  Timeout",61,61,0,0.664909918271974,"Akron","Kent State",2,4,1,0,9,400917179,2017-02-17
+271,2,"3:15",195,195,"Foul on Isaiah Johnson.",61,61,0,0.626989148996736,"Akron","Kent State",2,4,1,0,9,400917179,2017-02-17
+272,2,"3:15",195,195,"Jimmy Hall made Free Throw.",61,62,-1,0.512838475203483,"Akron","Kent State",2,4,1,0,9,400917179,2017-02-17
+273,2,"3:15",195,195,"Jimmy Hall made Free Throw.",61,63,-2,0.397332699235389,"Akron","Kent State",2,4,1,0,9,400917179,2017-02-17
+274,2,"2:59",179,179,"Jump Ball won by Kent State",61,63,-2,0.431966180706282,"Akron","Kent State",2,4,1,0,9,400917179,2017-02-17
+275,2,"2:51",171,171,"Isaiah Johnson Turnover.",61,63,-2,0.431966180706282,"Akron","Kent State",2,4,1,0,9,400917179,2017-02-17
+276,2,"2:51",171,171,"Jimmy Hall Steal.",61,63,-2,0.431966180706282,"Akron","Kent State",2,4,1,0,9,400917179,2017-02-17
+277,2,"2:40",160,160,"Jaylin Walker missed Three Point Jumper.",61,63,-2,0.470238021541611,"Akron","Kent State",2,4,1,0,9,400917179,2017-02-17
+278,2,"2:40",160,160,"Jaylin Walker Offensive Rebound.",61,63,-2,0.470238021541611,"Akron","Kent State",2,4,1,0,9,400917179,2017-02-17
+279,2,"2:19",139,139,"Foul on Isaiah Johnson.",61,63,-2,0.39609589564409,"Akron","Kent State",2,4,0,0,9,400917179,2017-02-17
+280,2,"2:19",139,139,"Jalen Avery missed Free Throw.",61,63,-2,0.39609589564409,"Akron","Kent State",2,4,0,0,9,400917179,2017-02-17
+281,2,"2:19",139,139,"Kent State Deadball Team Rebound.",61,63,-2,0.39609589564409,"Akron","Kent State",2,4,0,0,9,400917179,2017-02-17
+282,2,"2:19",139,139,"Jalen Avery missed Free Throw.",61,63,-2,0.39609589564409,"Akron","Kent State",2,4,0,0,9,400917179,2017-02-17
+283,2,"2:19",139,139,"Jimond Ivey Defensive Rebound.",61,63,-2,0.39609589564409,"Akron","Kent State",2,4,0,0,9,400917179,2017-02-17
+284,2,"2:03",123,123,"Foul on Jimmy Hall.",61,63,-2,0.352787746783004,"Akron","Kent State",2,4,0,0,9,400917179,2017-02-17
+285,2,"2:03",123,123,"Isaiah Johnson made Free Throw.",62,63,-1,0.489926897904927,"Akron","Kent State",2,4,0,0,9,400917179,2017-02-17
+286,2,"2:03",123,123,"Isaiah Johnson made Free Throw.",63,63,0,0.628599184952521,"Akron","Kent State",2,4,0,0,9,400917179,2017-02-17
+287,2,"1:41",101,101,"Jimmy Hall Turnover.",63,63,0,0.615162180402039,"Akron","Kent State",2,4,0,0,9,400917179,2017-02-17
+288,2,"1:41",101,101,"Antino Jackson Steal.",63,63,0,0.615162180402039,"Akron","Kent State",2,4,0,0,9,400917179,2017-02-17
+289,2,"1:17",77,77,"Kwan Cheatham Jr. missed Three Point Jumper.",63,63,0,0.608022743028836,"Akron","Kent State",2,4,0,0,9,400917179,2017-02-17
+290,2,"1:17",77,77,"Jimmy Hall Defensive Rebound.",63,63,0,0.608022743028836,"Akron","Kent State",2,4,0,0,9,400917179,2017-02-17
+291,2,"0:48",48,48,"Deon Edwin made Jumper.",63,65,-2,0.187688509297056,"Akron","Kent State",2,4,0,0,9,400917179,2017-02-17
+292,2,"0:30",30,30,"Foul on Deon Edwin.",63,65,-2,0.124524031294371,"Akron","Kent State",2,4,0,0,9,400917179,2017-02-17
+293,2,"0:30",30,30,"Isaiah Johnson made Free Throw.",64,65,-1,0.271140492917982,"Akron","Kent State",2,4,0,0,9,400917179,2017-02-17
+294,2,"0:30",30,30,"Isaiah Johnson missed Free Throw.",64,65,-1,0.271140492917982,"Akron","Kent State",2,4,0,0,9,400917179,2017-02-17
+295,2,"0:30",30,30,"Jalen Avery Defensive Rebound.",64,65,-1,0.271140492917982,"Akron","Kent State",2,4,0,0,9,400917179,2017-02-17
+296,2,"0:24",24,24,"Foul on Jimond Ivey.",64,65,-1,0.357291196990877,"Akron","Kent State",2,4,0,1,9,400917179,2017-02-17
+297,2,"0:24",24,24,"Jalen Avery made Free Throw.",64,66,-2,0.183461174091414,"Akron","Kent State",2,4,0,1,9,400917179,2017-02-17
+298,2,"0:24",24,24,"Jalen Avery made Free Throw.",64,67,-3,0.083248816588803,"Akron","Kent State",2,4,0,1,9,400917179,2017-02-17
+299,2,"0:24",24,24,"Akron  Timeout",64,65,-1,0.357291196990877,"Akron","Kent State",2,3,0,1,9,400917179,2017-02-17
+300,2,"0:21",21,21,"Akron  Timeout",64,67,-3,0.0108448139897855,"Akron","Kent State",2,2,0,1,9,400917179,2017-02-17
+301,2,"0:12",12,12,"Antino Jackson missed Layup.",64,67,-3,0.0461174182035992,"Akron","Kent State",2,2,0,1,9,400917179,2017-02-17
+302,2,"0:12",12,12,"Akron Offensive Rebound.",64,67,-3,0.0461174182035992,"Akron","Kent State",2,2,0,1,9,400917179,2017-02-17
+303,2,"0:12",12,12,"Akron  Timeout",64,67,-3,0.0461174182035992,"Akron","Kent State",2,1,0,1,9,400917179,2017-02-17
+304,2,"0:11",11,11,"Jimond Ivey missed Three Point Jumper.",64,67,-3,0.0216517371897212,"Akron","Kent State",2,1,0,1,9,400917179,2017-02-17
+305,2,"0:11",11,11,"Deon Edwin Defensive Rebound.",64,67,-3,0.0216517371897212,"Akron","Kent State",2,1,0,1,9,400917179,2017-02-17
+306,2,"0:06",6,6,"Foul on Kwan Cheatham Jr..",64,67,-3,0.0126718040756639,"Akron","Kent State",2,1,1,1,9,400917179,2017-02-17
+307,2,"0:06",6,6,"Deon Edwin made Free Throw.",64,68,-4,0.00254050315696195,"Akron","Kent State",2,1,1,1,9,400917179,2017-02-17
+308,2,"0:06",6,6,"Kent State  Timeout",64,68,-4,0.00254050315696195,"Akron","Kent State",1,1,1,1,9,400917179,2017-02-17
+309,2,"0:06",6,6,"Deon Edwin made Free Throw.",64,69,-5,0.000505187473371885,"Akron","Kent State",1,1,1,1,9,400917179,2017-02-17
+310,2,"0:04",4,4,"Kwan Cheatham Jr. Turnover.",64,69,-5,0.000286819252193697,"Akron","Kent State",1,1,1,1,9,400917179,2017-02-17
+311,2,"0:04",4,4,"Mitch Peterson Steal.",64,69,-5,0.000286819252193697,"Akron","Kent State",1,1,1,1,9,400917179,2017-02-17
+312,2,"0:04",4,4,"Foul on Isaiah Johnson.",64,69,-5,0.000286819252193697,"Akron","Kent State",1,1,1,1,9,400917179,2017-02-17
+313,2,"0:04",4,4,"Mitch Peterson missed Free Throw.",64,69,-5,0.000286819252193697,"Akron","Kent State",1,1,1,1,9,400917179,2017-02-17
+314,2,"0:04",4,4,"Kent State Deadball Team Rebound.",64,69,-5,0.000286819252193697,"Akron","Kent State",1,1,1,1,9,400917179,2017-02-17
+315,2,"0:04",4,4,"Mitch Peterson made Free Throw.",64,70,-6,5.12247274570913e-05,"Akron","Kent State",1,1,1,1,9,400917179,2017-02-17
+316,2,"0:01",1,1,"Foul on Deon Edwin.",64,70,-6,5.12247274570913e-05,"Akron","Kent State",1,1,1,1,9,400917179,2017-02-17
+317,2,"0:01",1,1,"Noah Robotham made Free Throw.",65,70,-5,0.000286819252193697,"Akron","Kent State",1,1,1,1,9,400917179,2017-02-17
+318,2,"0:01",1,1,"Noah Robotham made Free Throw.",66,70,-4,0.0016042298421555,"Akron","Kent State",1,1,1,1,9,400917179,2017-02-17
+319,2,"0:01",1,1,"Noah Robotham made Free Throw.",67,70,-3,0.00891875214561812,"Akron","Kent State",1,1,1,1,9,400917179,2017-02-17
+320,2,"0:00",0,0,"End of Game",67,70,-3,6.6413049975609e-26,"Akron","Kent State",1,1,1,1,9,400917179,2017-02-17

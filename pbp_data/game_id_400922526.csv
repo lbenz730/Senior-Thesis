@@ -1,0 +1,290 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.5,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+2,1,"19:48",2388,2388,"Mladen Djordjevic Turnover.",0,0,0,0.511793930844357,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+3,1,"19:35",2375,2375,"Nick Calcaterra missed Jumper.",0,0,0,0.524279741327167,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+4,1,"19:35",2375,2375,"Mladen Djordjevic Defensive Rebound.",0,0,0,0.524279741327167,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+5,1,"19:23",2363,2363,"Ronnie Boyce missed Three Point Jumper.",0,0,0,0.50956003899291,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+6,1,"19:23",2363,2363,"Nick Calcaterra Defensive Rebound.",0,0,0,0.50956003899291,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+7,1,"19:15",2355,2355,"Derrick Brown missed Three Point Jumper.",0,0,0,0.529703192727122,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+8,1,"19:15",2355,2355,"Nate Renfro Defensive Rebound.",0,0,0,0.529703192727122,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+9,1,"19:02",2342,2342,"Chase Foster missed Three Point Jumper.",0,0,0,0.511940955014241,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+10,1,"19:02",2342,2342,"Chiefy Ugbaja Defensive Rebound.",0,0,0,0.511940955014241,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+11,1,"18:52",2332,2332,"Chiefy Ugbaja Turnover.",0,0,0,0.516919265248255,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+12,1,"18:49",2329,2329,"Mladen Djordjevic Steal.",0,0,0,0.531092628062381,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+13,1,"18:48",2328,2328,"Mladen Djordjevic made Layup. Assisted by Chase Foster.",2,0,2,0.584304921955032,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+14,1,"18:42",2322,2322,"Ronnie Boyce missed Three Point Jumper.",2,0,2,0.584304921955032,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+15,1,"18:42",2322,2322,"Ryne Williams Defensive Rebound.",2,0,2,0.584304921955032,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+16,1,"18:20",2300,2300,"Nick Calcaterra made Three Point Jumper.",2,3,-1,0.484166293095397,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+17,1,"18:04",2284,2284,"Jimbo Lull made Dunk. Assisted by Charles Minlend.",4,3,1,0.535534327076653,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+18,1,"17:58",2278,2278,"Foul on Jimbo Lull.",4,3,1,0.546557030718172,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+19,1,"17:33",2253,2253,"Foul on Matt McCarthy.",4,3,1,0.545373191046402,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+20,1,"15:55",2155,2155,"Official TV Timeout",4,3,1,0.534268526741651,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+21,1,"15:55",2155,2155,"Derrick Brown Turnover.",4,3,1,0.534268526741651,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+22,1,"15:55",2155,2155,"Jordan Ratinho Steal.",4,3,1,0.534268526741651,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+23,1,"15:55",2155,2155,"Chase Foster missed Layup.",4,3,1,0.534268526741651,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+24,1,"15:55",2155,2155,"Nick Calcaterra Defensive Rebound.",4,3,1,0.534268526741651,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+25,1,"15:31",2131,2131,"Foul on Aj Kahlon.",4,3,1,0.542478451673532,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+26,1,"15:01",2101,2101,"Coley Apsay missed Three Point Jumper.",4,3,1,0.538837057841269,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+27,1,"15:00",2100,2100,"Coley Apsay Offensive Rebound.",4,3,1,0.538837057841269,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+28,1,"14:59",2099,2099,"Charles Minlend made Three Point Jumper.",7,3,4,0.633457865416939,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+29,1,"14:59",2099,2099,"Chase Foster made Free Throw.",8,3,5,0.661754569564271,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+30,1,"14:59",2099,2099,"Parker U'u missed Three Point Jumper.",8,3,5,0.661754569564271,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+31,1,"14:59",2099,2099,"Jimbo Lull Defensive Rebound.",8,3,5,0.661754569564271,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+32,1,"14:52",2092,2092,"Chase Foster missed Free Throw.",8,3,5,0.661754569564271,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+33,1,"14:51",2091,2091,"San Francisco Deadball Team Rebound.",8,3,5,0.661754569564271,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+34,1,"14:29",2069,2069,"Aj Kahlon made Jumper.",8,5,3,0.593458369870199,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+35,1,"14:09",2049,2049,"Foul on Jash Kahlon.",8,5,3,0.582042615795634,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+36,1,"14:07",2047,2047,"Mladen Djordjevic made Three Point Jumper.",11,5,6,0.659649868446711,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+37,1,"14:01",2041,2041,"Coley Apsay made Jumper.",11,7,4,0.60858166931948,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+38,1,"13:50",2030,2030,"Jordan Ratinho missed Three Point Jumper.",11,7,4,0.628784761810913,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+39,1,"13:50",2030,2030,"San Francisco St Defensive Rebound.",11,7,4,0.628784761810913,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+40,1,"13:37",2017,2017,"Foul on Jash Kahlon.",11,7,4,0.631859380147202,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+41,1,"13:37",2017,2017,"Jash Kahlon Turnover.",11,7,4,0.631859380147202,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+42,1,"13:24",2004,2004,"Charles Minlend made Layup. Assisted by Matt McCarthy.",13,7,6,0.667455685001387,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+43,1,"13:07",1987,1987,"Ryne Williams made Layup.",13,9,4,0.625804633906427,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+44,1,"12:51",1971,1971,"Jordan Ratinho Turnover.",13,9,4,0.636920390078671,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+45,1,"12:50",1970,1970,"Derrick Brown Steal.",13,9,4,0.636920390078671,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+46,1,"12:39",1959,1959,"Matt McCarthy missed Layup.",13,9,4,0.644335603869815,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+47,1,"12:39",1959,1959,"Ryne Williams Defensive Rebound.",13,9,4,0.644335603869815,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+48,1,"12:35",1955,1955,"Parker U'u made Jumper.",13,11,2,0.585197454987135,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+49,1,"12:21",1941,1941,"Matt McCarthy made Layup.",15,11,4,0.633997911913013,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+50,1,"12:03",1923,1923,"Derrick Brown missed Jumper.",15,11,4,0.622501798363161,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+51,1,"12:03",1923,1923,"Nick Calcaterra Offensive Rebound.",15,11,4,0.622501798363161,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+52,1,"11:57",1917,1917,"Coley Apsay made Jumper.",15,13,2,0.595474414447852,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+53,1,"11:39",1899,1899,"Official TV Timeout",15,13,2,0.588546670542641,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+54,1,"11:22",1882,1882,"Foul on Ryne Williams.",15,13,2,0.564852654975876,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+55,1,"11:19",1879,1879,"Matt McCarthy made Jumper.",17,13,4,0.631415164571798,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+56,1,"10:55",1855,1855,"Parker U'u missed Three Point Jumper.",17,13,4,0.644522374416071,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+57,1,"10:55",1855,1855,"San Francisco St Offensive Rebound.",17,13,4,0.644522374416071,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+58,1,"10:51",1851,1851,"Parker U'u made Jumper.",17,15,2,0.583964686330712,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+59,1,"10:31",1831,1831,"Ronnie Boyce made Layup.",19,15,4,0.641954738706852,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+60,1,"10:18",1818,1818,"Foul on Ronnie Boyce.",19,15,4,0.652622858380148,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+61,1,"10:16",1816,1816,"Coley Apsay missed Three Point Jumper.",19,15,4,0.652622858380148,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+62,1,"10:16",1816,1816,"Chase Foster Defensive Rebound.",19,15,4,0.652622858380148,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+63,1,"10:03",1803,1803,"Ronnie Boyce Turnover.",19,15,4,0.632638073881812,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+64,1,"9:52",1792,1792,"Foul on Chiefy Ugbaja.",19,15,4,0.632748696993942,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+65,1,"9:52",1792,1792,"Chiefy Ugbaja Turnover.",19,15,4,0.632748696993942,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+66,1,"9:48",1788,1788,"Ronnie Boyce missed Jumper.",19,15,4,0.631038291969364,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+67,1,"9:48",1788,1788,"Matt McCarthy Offensive Rebound.",19,15,4,0.631038291969364,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+68,1,"9:43",1783,1783,"Matt McCarthy made Layup.",21,15,6,0.692803705835719,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+69,1,"9:22",1762,1762,"Coley Apsay Turnover.",21,15,6,0.69712031282971,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+70,1,"9:20",1760,1760,"Matt McCarthy Steal.",21,15,6,0.69712031282971,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+71,1,"9:16",1756,1756,"Ronnie Boyce Turnover.",21,15,6,0.683357170387094,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+72,1,"8:58",1738,1738,"Aj Kahlon Turnover.",21,15,6,0.704792227007149,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+73,1,"8:58",1738,1738,"Chase Foster Turnover.",21,15,6,0.704792227007149,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+74,1,"8:58",1738,1738,"Coley Apsay Steal.",21,15,6,0.704792227007149,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+75,1,"8:58",1738,1738,"Chiefy Ugbaja made Layup.",21,17,4,0.64486926794655,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+76,1,"8:54",1734,1734,"Foul on Aj Kahlon.",21,17,4,0.64486926794655,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+77,1,"8:43",1723,1723,"Charles Minlend missed Free Throw.",21,17,4,0.659283973369358,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+78,1,"8:43",1723,1723,"San Francisco Deadball Team Rebound.",21,17,4,0.659283973369358,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+79,1,"8:36",1716,1716,"Charles Minlend made Free Throw.",22,17,5,0.672871736204913,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+80,1,"8:19",1699,1699,"Ryne Williams missed Three Point Jumper.",22,17,5,0.692236953833057,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+81,1,"8:19",1699,1699,"Ronnie Boyce Defensive Rebound.",22,17,5,0.692236953833057,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+82,1,"8:04",1684,1684,"Charles Minlend missed Three Point Jumper.",22,17,5,0.683702737622812,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+83,1,"8:04",1684,1684,"Chiefy Ugbaja Defensive Rebound.",22,17,5,0.683702737622812,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+84,1,"7:42",1662,1662,"Nick Calcaterra missed Jumper.",22,17,5,0.666842173496685,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+85,1,"7:42",1662,1662,"Chase Foster Defensive Rebound.",22,17,5,0.666842173496685,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+86,1,"7:31",1651,1651,"Ronnie Boyce made Layup.",24,17,7,0.73324476760442,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+87,1,"7:12",1632,1632,"San Francisco St  Timeout",24,17,7,0.735832191311413,"San Francisco","San Francisco State",4,3,0,1,NA,400922526,2016-12-06
+88,1,"7:12",1632,1632,"Official TV Timeout",24,17,7,0.735832191311413,"San Francisco","San Francisco State",4,3,0,1,NA,400922526,2016-12-06
+89,1,"6:56",1616,1616,"Foul on Jordan Ratinho.",24,17,7,0.726418200025289,"San Francisco","San Francisco State",4,3,0,1,NA,400922526,2016-12-06
+90,1,"6:49",1609,1609,"Coley Apsay made Three Point Jumper. Assisted by Nick Calcaterra.",24,20,4,0.63145677612399,"San Francisco","San Francisco State",4,3,0,1,NA,400922526,2016-12-06
+91,1,"6:16",1576,1576,"Charles Minlend missed Jumper.",24,20,4,0.666068227882467,"San Francisco","San Francisco State",4,3,0,1,NA,400922526,2016-12-06
+92,1,"6:16",1576,1576,"Ryne Williams Defensive Rebound.",24,20,4,0.666068227882467,"San Francisco","San Francisco State",4,3,0,1,NA,400922526,2016-12-06
+93,1,"5:59",1559,1559,"Chiefy Ugbaja missed Jumper.",24,20,4,0.644239758207834,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+94,1,"5:59",1559,1559,"Jimbo Lull Block.",24,20,4,0.644239758207834,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+95,1,"5:58",1558,1558,"Charles Minlend Defensive Rebound.",24,20,4,0.644239758207834,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+96,1,"5:54",1554,1554,"Charles Minlend Turnover.",24,20,4,0.644239758207834,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+97,1,"5:54",1554,1554,"Nick Calcaterra Steal.",24,20,4,0.644239758207834,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+98,1,"5:46",1546,1546,"Ryne Williams missed Three Point Jumper.",24,20,4,0.649344916642477,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+99,1,"5:46",1546,1546,"Charles Minlend Defensive Rebound.",24,20,4,0.649344916642477,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+100,1,"5:25",1525,1525,"Chase Foster made Layup.",26,20,6,0.713108480964161,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+101,1,"5:00",1500,1500,"Foul on Mladen Djordjevic.",26,20,6,0.711307525010252,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+102,1,"4:54",1494,1494,"Israel Hakim missed Layup.",26,20,6,0.725967168433452,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+103,1,"4:54",1494,1494,"Ryne Williams Offensive Rebound.",26,20,6,0.725967168433452,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+104,1,"4:51",1491,1491,"Ryne Williams missed Jumper.",26,20,6,0.725967168433452,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+105,1,"4:51",1491,1491,"Nate Renfro Defensive Rebound.",26,20,6,0.725967168433452,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+106,1,"4:34",1474,1474,"Jimbo Lull made Dunk. Assisted by Nate Renfro.",28,20,8,0.777798527522949,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+107,1,"3:58",1438,1438,"Foul on Nate Renfro.",28,20,8,0.786060020938678,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+108,1,"3:58",1438,1438,"Official TV Timeout",28,20,8,0.786060020938678,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+109,1,"3:58",1438,1438,"Israel Hakim made Free Throw.",28,21,7,0.759918409898612,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+110,1,"3:58",1438,1438,"Israel Hakim made Free Throw.",28,22,6,0.731672909829511,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+111,1,"3:39",1419,1419,"Chase Foster missed Layup.",28,22,6,0.725727964923585,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+112,1,"3:39",1419,1419,"Ryne Williams Block.",28,22,6,0.725727964923585,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+113,1,"3:37",1417,1417,"San Francisco Offensive Rebound.",28,22,6,0.725727964923585,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+114,1,"3:35",1415,1415,"Chase Foster made Layup.",30,22,8,0.782995334603153,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+115,1,"3:20",1400,1400,"Warren Jackson made Jumper.",30,24,6,0.739146707970182,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+116,1,"2:57",1377,1377,"Nate Renfro missed Layup.",30,24,6,0.702517414889675,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+117,1,"2:57",1377,1377,"Matt McCarthy Offensive Rebound.",30,24,6,0.702517414889675,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+118,1,"2:52",1372,1372,"Matt McCarthy made Layup.",32,24,8,0.759149996921652,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+119,1,"2:48",1368,1368,"Parker U'u missed Three Point Jumper.",32,24,8,0.783559667643773,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+120,1,"2:48",1368,1368,"Chase Foster Defensive Rebound.",32,24,8,0.783559667643773,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+121,1,"2:27",1347,1347,"Chase Foster made Three Point Jumper. Assisted by Matt McCarthy.",35,24,11,0.854976954353455,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+122,1,"2:03",1323,1323,"Chiefy Ugbaja made Jumper.",35,26,9,0.812718798706751,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+123,1,"1:51",1311,1311,"Charles Minlend Turnover.",35,26,9,0.824946488162469,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+124,1,"1:41",1301,1301,"Foul on Nate Renfro.",35,26,9,0.803571348362702,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+125,1,"1:41",1301,1301,"Warren Jackson made Free Throw.",35,27,8,0.7793100902188,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+126,1,"1:41",1301,1301,"Warren Jackson made Free Throw.",35,28,7,0.752973452735739,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+127,1,"1:22",1282,1282,"Ronnie Boyce missed Jumper.",35,28,7,0.749066515494416,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+128,1,"1:22",1282,1282,"Coley Apsay Defensive Rebound.",35,28,7,0.749066515494416,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+129,1,"1:13",1273,1273,"Warren Jackson missed Three Point Jumper.",35,28,7,0.737547393255522,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+130,1,"1:13",1273,1273,"Matt McCarthy Defensive Rebound.",35,28,7,0.737547393255522,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+131,1,"1:04",1264,1264,"Chase Foster missed Three Point Jumper.",35,28,7,0.773071738603552,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+132,1,"1:04",1264,1264,"Matt McCarthy Offensive Rebound.",35,28,7,0.773071738603552,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+133,1,"0:59",1259,1259,"Matt McCarthy missed Jumper.",35,28,7,0.753527093915001,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+134,1,"0:59",1259,1259,"Coley Apsay Block.",35,28,7,0.753527093915001,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+135,1,"0:57",1257,1257,"San Francisco St Defensive Rebound.",35,28,7,0.753527093915001,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+136,1,"0:43",1243,1243,"Foul on Remu Raitanen.",35,28,7,0.756294691148,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+137,1,"0:43",1243,1243,"Jash Kahlon made Free Throw.",35,29,6,0.726637433169275,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+138,1,"0:43",1243,1243,"Jash Kahlon made Free Throw.",35,30,5,0.694827393275147,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+139,1,"0:31",1231,1231,"Chase Foster made Layup. Assisted by Ronnie Boyce.",37,30,7,0.760709467862035,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+140,1,"0:06",1206,1206,"Jash Kahlon made Jumper.",37,32,5,0.699671155637656,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+141,1,"0:00",1200,1200,"End of 1st half",37,32,5,0.699671155637656,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+142,2,"20:00",1200,1200,"PLAY",37,32,5,0.699671155637656,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+143,2,"19:53",1193,1193,"Nick Calcaterra Turnover.",37,32,5,0.736334011795759,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+144,2,"19:37",1177,1177,"Ronnie Boyce missed Layup.",37,32,5,0.708089627401884,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+145,2,"19:37",1177,1177,"Nick Calcaterra Block.",37,32,5,0.708089627401884,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+146,2,"19:36",1176,1176,"San Francisco Offensive Rebound.",37,32,5,0.708089627401884,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+147,2,"19:35",1175,1175,"Nate Renfro made Layup. Assisted by Mladen Djordjevic.",39,32,7,0.771225251454466,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+148,2,"19:35",1175,1175,"Foul on Coley Apsay.",39,32,7,0.771225251454466,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+149,2,"19:35",1175,1175,"Nate Renfro made Free Throw.",40,32,8,0.798959192710038,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+150,2,"19:21",1161,1161,"Derrick Brown made Jumper.",40,34,6,0.722292312878288,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+151,2,"19:06",1146,1146,"Chase Foster missed Three Point Jumper.",40,34,6,0.750912492616099,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+152,2,"19:06",1146,1146,"Derrick Brown Defensive Rebound.",40,34,6,0.750912492616099,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+153,2,"18:36",1116,1116,"Nick Calcaterra missed Jumper.",40,34,6,0.755403938473268,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+154,2,"18:36",1116,1116,"Matt McCarthy Defensive Rebound.",40,34,6,0.755403938473268,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+155,2,"18:28",1108,1108,"Chase Foster missed Layup.",40,34,6,0.737082692210535,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+156,2,"18:28",1108,1108,"Matt McCarthy Offensive Rebound.",40,34,6,0.737082692210535,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+157,2,"18:24",1104,1104,"Matt McCarthy made Two Point Tip Shot.",42,34,8,0.795498903246105,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+158,2,"18:04",1084,1084,"Chiefy Ugbaja made Layup.",42,36,6,0.749006497381603,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+159,2,"17:47",1067,1067,"Foul on Derrick Brown.",42,36,6,0.763587430542304,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+160,2,"17:31",1051,1051,"Mladen Djordjevic missed Three Point Jumper.",42,36,6,0.763809098160814,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+161,2,"17:31",1051,1051,"Matt McCarthy Offensive Rebound.",42,36,6,0.763809098160814,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+162,2,"17:23",1043,1043,"Matt McCarthy made Layup.",44,36,8,0.82158656277393,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+163,2,"17:05",1025,1025,"Chiefy Ugbaja missed Jumper.",44,36,8,0.821707623256124,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+164,2,"17:05",1025,1025,"Nate Renfro Block.",44,36,8,0.821707623256124,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+165,2,"17:05",1025,1025,"Nate Renfro Defensive Rebound.",44,36,8,0.821707623256124,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+166,2,"16:54",1014,1014,"Foul on Matt McCarthy.",44,36,8,0.805166324298185,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+167,2,"16:54",1014,1014,"Matt McCarthy Turnover.",44,36,8,0.805166324298185,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+168,2,"16:35",995,995,"Coley Apsay missed Jumper.",44,36,8,0.806372009535741,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+169,2,"16:35",995,995,"Mladen Djordjevic Defensive Rebound.",44,36,8,0.806372009535741,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+170,2,"16:29",989,989,"Nate Renfro made Dunk. Assisted by Ronnie Boyce.",46,36,10,0.893997398350328,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+171,2,"16:12",972,972,"Derrick Brown missed Three Point Jumper.",46,36,10,0.869194010369352,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+172,2,"16:12",972,972,"Matt McCarthy Defensive Rebound.",46,36,10,0.869194010369352,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+173,2,"16:10",970,970,"Foul on Coley Apsay.",46,36,10,0.869194010369352,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+174,2,"16:10",970,970,"Chase Foster made Dunk.",48,36,12,0.904953588327613,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+175,2,"16:06",966,966,"Parker U'u made Three Point Jumper.",48,39,9,0.84615980019307,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+176,2,"15:57",957,957,"Jordan Ratinho made Layup.",50,39,11,0.890683981516628,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+177,2,"15:43",943,943,"Coley Apsay made Three Point Jumper.",50,42,8,0.840358851808088,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+178,2,"15:18",918,918,"Foul on Coley Apsay.",50,42,8,0.832264715931183,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+179,2,"14:53",893,893,"Official TV Timeout",50,42,8,0.839800836584168,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+180,2,"14:53",893,893,"Chase Foster made Three Point Jumper.",53,42,11,0.903751918073867,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+181,2,"14:53",893,893,"Jash Kahlon Turnover.",53,42,11,0.903751918073867,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+182,2,"14:52",892,892,"Charles Minlend Steal.",53,42,11,0.903751918073867,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+183,2,"14:50",890,890,"Charles Minlend missed Layup.",53,42,11,0.903751918073867,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+184,2,"14:50",890,890,"Jash Kahlon Defensive Rebound.",53,42,11,0.903751918073867,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+185,2,"14:47",887,887,"Parker U'u missed Jumper.",53,42,11,0.87465747889625,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+186,2,"14:47",887,887,"Chase Foster Defensive Rebound.",53,42,11,0.87465747889625,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+187,2,"14:41",881,881,"Chase Foster made Layup.",55,42,13,0.908086434365372,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+188,2,"14:21",861,861,"Nick Calcaterra missed Three Point Jumper.",55,42,13,0.923814507189225,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+189,2,"14:21",861,861,"Charles Minlend Defensive Rebound.",55,42,13,0.923814507189225,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+190,2,"14:12",852,852,"Chase Foster made Three Point Jumper.",58,42,16,0.967863585295271,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+191,2,"13:41",821,821,"Warren Jackson missed Jumper.",58,42,16,0.955145317356692,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+192,2,"13:41",821,821,"Chase Foster Block.",58,42,16,0.955145317356692,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+193,2,"13:39",819,819,"San Francisco Defensive Rebound.",58,42,16,0.957414427515447,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+194,2,"13:19",799,799,"Ronnie Boyce made Three Point Jumper. Assisted by Jordan Ratinho.",61,42,19,0.985287457694745,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+195,2,"12:58",778,778,"Foul on Nate Renfro.",61,42,19,0.982911361498224,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+196,2,"12:34",754,754,"Jash Kahlon made Three Point Jumper. Assisted by Parker U'u.",61,45,16,0.971161187021432,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+197,2,"12:15",735,735,"Charles Minlend made Three Point Jumper. Assisted by Jordan Ratinho.",64,45,19,0.984317942016019,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+198,2,"11:55",715,715,"Ryne Williams made Layup. Assisted by Nick Calcaterra.",64,47,17,0.975224519298485,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+199,2,"11:33",693,693,"Foul on Ryne Williams.",64,47,17,0.983511456683229,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+200,2,"11:33",693,693,"Official TV Timeout",64,47,17,0.983511456683229,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+201,2,"11:33",693,693,"Jordan Ratinho Turnover.",64,47,17,0.983511456683229,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+202,2,"11:33",693,693,"Ryne Williams missed Three Point Jumper.",64,47,17,0.983511456683229,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+203,2,"11:33",693,693,"Nate Renfro Defensive Rebound.",64,47,17,0.983511456683229,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+204,2,"11:30",690,690,"Charles Minlend missed Layup.",64,47,17,0.983511456683229,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+205,2,"11:30",690,690,"Ryne Williams Defensive Rebound.",64,47,17,0.983511456683229,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+206,2,"11:14",674,674,"Nick Calcaterra made Jumper. Assisted by Jash Kahlon.",64,49,15,0.970850544293986,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+207,2,"11:02",662,662,"Remu Raitanen missed Three Point Jumper.",64,49,15,0.971701691932525,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+208,2,"11:02",662,662,"Matt McCarthy Offensive Rebound.",64,49,15,0.971701691932525,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+209,2,"10:52",652,652,"Ronnie Boyce made Jumper.",66,49,17,0.984695790345314,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+210,2,"10:41",641,641,"Ryne Williams missed Jumper.",66,49,17,0.984717928718532,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+211,2,"10:41",641,641,"Remu Raitanen Defensive Rebound.",66,49,17,0.984717928718532,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+212,2,"10:33",633,633,"Ronnie Boyce missed Three Point Jumper.",66,49,17,0.983231855645596,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+213,2,"10:33",633,633,"Ryne Williams Defensive Rebound.",66,49,17,0.983231855645596,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+214,2,"10:21",621,621,"Josh Douglas missed Layup.",66,49,17,0.986886467002575,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+215,2,"10:21",621,621,"Remu Raitanen Defensive Rebound.",66,49,17,0.986886467002575,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+216,2,"10:11",611,611,"Foul on Nick Calcaterra.",66,49,17,0.986264820450521,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+217,2,"10:09",609,609,"Foul on Ryne Williams.",66,49,17,0.985640648619447,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+218,2,"10:09",609,609,"Chase Foster made Free Throw.",67,49,18,0.988721344781931,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+219,2,"10:09",609,609,"Chase Foster made Free Throw.",68,49,19,0.991147036145719,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+220,2,"9:48",588,588,"Derrick Brown made Jumper. Assisted by Israel Hakim.",68,51,17,0.984644893865844,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+221,2,"9:27",567,567,"Remu Raitanen missed Layup.",68,51,17,0.988804849234192,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+222,2,"9:27",567,567,"Remu Raitanen Offensive Rebound.",68,51,17,0.988804849234192,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+223,2,"9:25",565,565,"Remu Raitanen made Layup.",70,51,19,0.993286714338378,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+224,2,"9:04",544,544,"Israel Hakim missed Jumper.",70,51,19,0.993855723355626,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+225,2,"9:04",544,544,"Chase Foster Defensive Rebound.",70,51,19,0.993855723355626,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+226,2,"8:39",519,519,"Jimbo Lull missed Jumper.",70,51,19,0.994505900416139,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+227,2,"8:39",519,519,"Ryne Williams Block.",70,51,19,0.994505900416139,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+228,2,"8:37",517,517,"Jimbo Lull Offensive Rebound.",70,51,19,0.994505900416139,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+229,2,"8:35",515,515,"Chase Foster missed Jumper.",70,51,19,0.994505900416139,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+230,2,"8:35",515,515,"Jase Wickliffe Defensive Rebound.",70,51,19,0.994505900416139,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+231,2,"7:53",473,473,"Official TV Timeout",70,51,19,0.996234296025986,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+232,2,"7:47",467,467,"Derrick Brown made Jumper.",70,53,17,0.992053336081467,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+233,2,"7:31",451,451,"Remu Raitanen missed Three Point Jumper.",70,53,17,0.995625992007315,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+234,2,"7:31",451,451,"San Francisco Offensive Rebound.",70,53,17,0.995625992007315,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+235,2,"7:19",439,439,"Chase Foster missed Three Point Jumper.",70,53,17,0.995199402926019,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+236,2,"7:19",439,439,"Ryne Williams Defensive Rebound.",70,53,17,0.995199402926019,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+237,2,"7:08",428,428,"Israel Hakim made Jumper.",70,55,15,0.988656253638425,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+238,2,"6:52",412,412,"Marquill Smith made Three Point Jumper.",73,55,18,0.995757425679116,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+239,2,"6:41",401,401,"Jase Wickliffe made Layup.",73,57,16,0.99497398703078,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+240,2,"6:08",368,368,"Marquill Smith missed Jumper.",73,57,16,0.994697720960633,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+241,2,"6:08",368,368,"Remu Raitanen Offensive Rebound.",73,57,16,0.994697720960633,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+242,2,"6:02",362,362,"Remu Raitanen made Two Point Tip Shot.",75,57,18,0.997212921603638,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+243,2,"5:46",346,346,"Israel Hakim missed Jumper.",75,57,18,0.997379583985071,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+244,2,"5:46",346,346,"Nate Renfro Block.",75,57,18,0.997379583985071,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+245,2,"5:43",343,343,"Mladen Djordjevic Defensive Rebound.",75,57,18,0.997379583985071,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+246,2,"5:40",340,340,"Marquill Smith missed Layup.",75,57,18,0.997379583985071,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+247,2,"5:40",340,340,"Chase Foster Offensive Rebound.",75,57,18,0.997379583985071,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+248,2,"5:32",332,332,"Marquill Smith made Three Point Jumper.",78,57,21,0.999479345857725,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+249,2,"5:01",301,301,"Foul on Mladen Djordjevic.",78,57,21,0.999247775595962,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+250,2,"4:59",299,299,"Josh Douglas missed Jumper.",78,57,21,0.999267426316743,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+251,2,"4:59",299,299,"Ronnie Boyce Block.",78,57,21,0.999267426316743,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+252,2,"4:57",297,297,"San Francisco St Offensive Rebound.",78,57,21,0.999267426316743,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+253,2,"4:37",277,277,"Nick Calcaterra missed Three Point Jumper.",78,57,21,0.999702818758634,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+254,2,"4:37",277,277,"Marquill Smith Defensive Rebound.",78,57,21,0.999702818758634,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+255,2,"4:16",256,256,"Marquill Smith made Three Point Jumper. Assisted by Matt McCarthy.",81,57,24,0.999963966538358,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+256,2,"4:07",247,247,"Nick Calcaterra missed Three Point Jumper.",81,57,24,0.999941383519608,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+257,2,"4:07",247,247,"Ronnie Boyce Defensive Rebound.",81,57,24,0.999941383519608,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+258,2,"3:57",237,237,"Ronnie Boyce missed Layup.",81,57,24,0.999946954894945,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+259,2,"3:57",237,237,"Jase Wickliffe Defensive Rebound.",81,57,24,0.999946954894945,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+260,2,"3:51",231,231,"Jase Wickliffe Turnover.",81,57,24,0.999946954894945,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+261,2,"3:50",230,230,"Marquill Smith Steal.",81,57,24,0.999946954894945,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+262,2,"3:47",227,227,"Jordan Ratinho missed Three Point Jumper.",81,57,24,0.999964766812974,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+263,2,"3:47",227,227,"Nate Renfro Offensive Rebound.",81,57,24,0.999964766812974,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+264,2,"3:43",223,223,"Nate Renfro made Layup.",83,57,26,0.999984894163095,"San Francisco","San Francisco State",4,4,0,0,NA,400922526,2016-12-06
+265,2,"3:31",211,211,"San Francisco St  Timeout",83,57,26,0.999989082746265,"San Francisco","San Francisco State",4,3,0,1,NA,400922526,2016-12-06
+266,2,"3:31",211,211,"Official TV Timeout",83,57,26,0.999989082746265,"San Francisco","San Francisco State",4,3,0,1,NA,400922526,2016-12-06
+267,2,"3:25",205,205,"San Francisco St  Turnover.",83,57,26,0.999992951336773,"San Francisco","San Francisco State",4,3,0,1,NA,400922526,2016-12-06
+268,2,"2:49",169,169,"Marquill Smith missed Three Point Jumper.",83,57,26,0.999998571916652,"San Francisco","San Francisco State",4,3,0,1,NA,400922526,2016-12-06
+269,2,"2:49",169,169,"Nate Renfro Offensive Rebound.",83,57,26,0.999998571916652,"San Francisco","San Francisco State",4,3,0,1,NA,400922526,2016-12-06
+270,2,"2:34",154,154,"Ronnie Boyce missed Three Point Jumper.",83,57,26,0.99999928966087,"San Francisco","San Francisco State",4,3,0,1,NA,400922526,2016-12-06
+271,2,"2:34",154,154,"Josh Douglas Defensive Rebound.",83,57,26,0.99999928966087,"San Francisco","San Francisco State",4,3,0,1,NA,400922526,2016-12-06
+272,2,"2:18",138,138,"Josh Douglas missed Three Point Jumper.",83,57,26,0.999999485509037,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+273,2,"2:18",138,138,"Chance Anderson Defensive Rebound.",83,57,26,0.999999485509037,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+274,2,"2:02",122,122,"Marquill Smith missed Three Point Jumper.",83,57,26,0.999999579945046,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+275,2,"2:02",122,122,"Israel Hakim Defensive Rebound.",83,57,26,0.999999579945046,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+276,2,"1:47",107,107,"Foul on Jordan Ratinho.",83,57,26,0.999999886875082,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+277,2,"1:41",101,101,"Israel Hakim made Free Throw.",83,58,25,0.99999978990561,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+278,2,"1:26",86,86,"Charles Minlend made Three Point Jumper. Assisted by Jordan Ratinho.",86,58,28,0.999999998375617,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+279,2,"1:06",66,66,"Ryne Williams missed Layup.",86,58,28,0.999999998968782,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+280,2,"1:06",66,66,"Chance Anderson Defensive Rebound.",86,58,28,0.999999998968782,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+281,2,"0:51",51,51,"Chance Anderson missed Jumper.",86,58,28,0.999999999989057,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+282,2,"0:51",51,51,"Remu Raitanen Offensive Rebound.",86,58,28,0.999999999989057,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+283,2,"0:46",46,46,"Chance Anderson made Jumper.",88,58,30,0.999999999999979,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+284,2,"0:30",30,30,"Israel Hakim made Free Throw.",88,59,29,0.999999999999176,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+285,2,"0:22",22,22,"Marquill Smith made Three Point Jumper.",91,59,32,1,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+286,2,"0:07",7,7,"Israel Hakim missed Layup.",91,59,32,1,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+287,2,"0:07",7,7,"Chance Anderson Defensive Rebound.",91,59,32,1,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+288,2,"0:00",0,0,"Official TV Timeout",91,59,32,1,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06
+289,2,"0:00",0,0,"End of Game",91,59,32,1,"San Francisco","San Francisco State",4,3,0,0,NA,400922526,2016-12-06

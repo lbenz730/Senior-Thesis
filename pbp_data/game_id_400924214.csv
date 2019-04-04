@@ -1,0 +1,306 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.5,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+2,1,"19:49",2389,2389,"Foul on Moe Blackmon.",0,0,0,0.511793930844357,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+3,1,"19:49",2389,2389,"Garret Covington missed Free Throw.",0,0,0,0.511793930844357,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+4,1,"19:49",2389,2389,"Western Illinois Deadball Team Rebound.",0,0,0,0.511793930844357,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+5,1,"19:49",2389,2389,"Garret Covington made Free Throw.",1,0,1,0.519882247327017,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+6,1,"19:43",2383,2383,"Michael Wolfe Turnover.",1,0,1,0.519882247327017,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+7,1,"19:35",2375,2375,"Garret Covington made Three Point Jumper. Assisted by C.J. Duff.",4,0,4,0.6172023574937,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+8,1,"19:18",2358,2358,"Moe Blackmon missed Three Point Jumper.",4,0,4,0.615587090479315,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+9,1,"19:18",2358,2358,"Western Illinois Defensive Rebound.",4,0,4,0.615587090479315,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+10,1,"19:06",2346,2346,"Jabari Sandifer made Layup.",6,0,6,0.642557253400897,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+11,1,"18:43",2323,2323,"Colin Tyrone missed Layup.",6,0,6,0.684029135342614,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+12,1,"18:43",2323,2323,"Brandon Gilbeck Block.",6,0,6,0.684029135342614,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+13,1,"18:41",2321,2321,"Dalan Ancrum Defensive Rebound.",6,0,6,0.684029135342614,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+14,1,"18:28",2308,2308,"Garret Covington missed Three Point Jumper.",6,0,6,0.653227313834245,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+15,1,"18:28",2308,2308,"Colin Tyrone Defensive Rebound.",6,0,6,0.653227313834245,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+16,1,"18:11",2291,2291,"Blake Dragt made Jumper. Assisted by Moe Blackmon.",6,2,4,0.616366443722003,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+17,1,"17:55",2275,2275,"Brandon Gilbeck Turnover.",6,2,4,0.621803700392713,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+18,1,"17:53",2273,2273,"Colin Tyrone Steal.",6,2,4,0.621803700392713,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+19,1,"17:45",2265,2265,"Moe Blackmon missed Three Point Jumper.",6,2,4,0.639412116640542,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+20,1,"17:45",2265,2265,"Jabari Sandifer Block.",6,2,4,0.639412116640542,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+21,1,"17:42",2262,2262,"Garret Covington Defensive Rebound.",6,2,4,0.639412116640542,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+22,1,"17:39",2259,2259,"Garret Covington Turnover.",6,2,4,0.615744190833305,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+23,1,"17:37",2257,2257,"Duke Abalos Steal.",6,2,4,0.615744190833305,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+24,1,"17:35",2255,2255,"Colin Tyrone missed Layup.",6,2,4,0.615744190833305,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+25,1,"17:35",2255,2255,"Dalan Ancrum Defensive Rebound.",6,2,4,0.615744190833305,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+26,1,"17:28",2248,2248,"Garret Covington made Three Point Jumper. Assisted by Dalan Ancrum.",9,2,7,0.68432024003261,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+27,1,"16:55",2215,2215,"Duke Abalos missed Three Point Jumper.",9,2,7,0.736265637358338,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+28,1,"16:55",2215,2215,"Dalan Ancrum Defensive Rebound.",9,2,7,0.736265637358338,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+29,1,"16:45",2205,2205,"Dalan Ancrum missed Jumper.",9,2,7,0.704923915975682,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+30,1,"16:45",2205,2205,"Michael Wolfe Defensive Rebound.",9,2,7,0.704923915975682,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+31,1,"16:29",2189,2189,"Blake Dragt missed Jumper.",9,2,7,0.696700624254145,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+32,1,"16:29",2189,2189,"Brandon Gilbeck Block.",9,2,7,0.696700624254145,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+33,1,"16:29",2189,2189,"Western Illinois Defensive Rebound.",9,2,7,0.696700624254145,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+34,1,"16:19",2179,2179,"Garret Covington made Three Point Jumper. Assisted by Jabari Sandifer.",12,2,10,0.755388357527622,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+35,1,"15:55",2155,2155,"Foul on Jabari Sandifer.",12,2,10,0.770759203528342,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+36,1,"15:54",2154,2154,"Official TV Timeout",12,2,10,0.770759203528342,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+37,1,"15:51",2151,2151,"Blake Dragt missed Jumper.",12,2,10,0.770759203528342,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+38,1,"15:51",2151,2151,"Garret Covington Defensive Rebound.",12,2,10,0.770759203528342,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+39,1,"15:44",2144,2144,"Foul on Blake Dragt.",12,2,10,0.751450035241367,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+40,1,"15:38",2138,2138,"Chris Snyder made Jumper.",14,2,12,0.817865339933418,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+41,1,"15:27",2127,2127,"Michael Wolfe missed Three Point Jumper.",14,2,12,0.803473826053847,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+42,1,"15:27",2127,2127,"Jabari Sandifer Defensive Rebound.",14,2,12,0.803473826053847,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+43,1,"15:15",2115,2115,"Dalan Ancrum made Three Point Jumper. Assisted by C.J. Duff.",17,2,15,0.857476531040571,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+44,1,"14:52",2092,2092,"Blake Dragt missed Jumper.",17,2,15,0.871193496836932,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+45,1,"14:52",2092,2092,"Chris Snyder Block.",17,2,15,0.871193496836932,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+46,1,"14:49",2089,2089,"Dalan Ancrum Defensive Rebound.",17,2,15,0.850640214973529,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+47,1,"14:44",2084,2084,"Foul on Colin Tyrone.",17,2,15,0.850640214973529,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+48,1,"14:44",2084,2084,"Dalan Ancrum missed Free Throw.",17,2,15,0.850640214973529,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+49,1,"14:44",2084,2084,"Western Illinois Deadball Team Rebound.",17,2,15,0.850640214973529,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+50,1,"14:44",2084,2084,"Dalan Ancrum made Free Throw.",18,2,16,0.864076025808036,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+51,1,"14:25",2065,2065,"Colin Tyrone missed Layup.",18,2,16,0.874766554354118,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+52,1,"14:25",2065,2065,"Chris Snyder Defensive Rebound.",18,2,16,0.874766554354118,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+53,1,"14:18",2058,2058,"Dalan Ancrum made Dunk. Assisted by Delo Bruster.",20,2,18,0.892280598500333,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+54,1,"14:05",2045,2045,"Moe Blackmon missed Jumper.",20,2,18,0.879108487365971,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+55,1,"14:05",2045,2045,"Garret Covington Defensive Rebound.",20,2,18,0.879108487365971,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+56,1,"13:53",2033,2033,"Foul on Blake Dragt.",20,2,18,0.889188333078373,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+57,1,"13:53",2033,2033,"Chris Snyder missed Free Throw.",20,2,18,0.889188333078373,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+58,1,"13:53",2033,2033,"Western Illinois Deadball Team Rebound.",20,2,18,0.889188333078373,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+59,1,"13:53",2033,2033,"Chris Snyder made Free Throw.",21,2,19,0.899671689886126,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+60,1,"13:40",2020,2020,"Ronnie Jackson missed Three Point Jumper.",21,2,19,0.9260647792525,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+61,1,"13:40",2020,2020,"C.J. Duff Defensive Rebound.",21,2,19,0.9260647792525,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+62,1,"13:30",2010,2010,"Dalan Ancrum made Three Point Jumper. Assisted by Delo Bruster.",24,2,22,0.932207634468552,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+63,1,"13:00",1980,1980,"Colin Tyrone missed Layup.",24,2,22,0.940413387209681,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+64,1,"13:00",1980,1980,"Dalan Ancrum Block.",24,2,22,0.940413387209681,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+65,1,"13:00",1980,1980,"Dalan Ancrum Defensive Rebound.",24,2,22,0.940413387209681,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+66,1,"12:44",1964,1964,"C.J. Duff Turnover.",24,2,22,0.915025637629898,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+67,1,"12:34",1954,1954,"Moe Blackmon missed Jumper.",24,2,22,0.945059701184475,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+68,1,"12:34",1954,1954,"Chris Snyder Defensive Rebound.",24,2,22,0.945059701184475,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+69,1,"12:24",1944,1944,"Dalan Ancrum missed Three Point Jumper.",24,2,22,0.943912828590249,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+70,1,"12:24",1944,1944,"Ronnie Jackson Defensive Rebound.",24,2,22,0.943912828590249,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+71,1,"11:46",1906,1906,"Moe Blackmon missed Jumper.",24,2,22,0.931471947352238,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+72,1,"11:46",1906,1906,"C.J. Duff Defensive Rebound.",24,2,22,0.931471947352238,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+73,1,"11:36",1896,1896,"Brandon Gilbeck made Jumper.",26,2,24,0.964922153562716,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+74,1,"11:17",1877,1877,"Duke Abalos missed Three Point Jumper.",26,2,24,0.953519257514344,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+75,1,"11:17",1877,1877,"Jeremiah Usiosefe Defensive Rebound.",26,2,24,0.953519257514344,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+76,1,"11:09",1869,1869,"Foul on Ronnie Jackson.",26,2,24,0.966157704669826,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+77,1,"11:09",1869,1869,"Official TV Timeout",26,2,24,0.966157704669826,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+78,1,"11:07",1867,1867,"C.J. Duff missed Three Point Jumper.",26,2,24,0.966157704669826,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+79,1,"11:07",1867,1867,"Ronnie Jackson Defensive Rebound.",26,2,24,0.966157704669826,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+80,1,"10:46",1846,1846,"Bernachi Dismond missed Jumper.",26,2,24,0.94994123170377,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+81,1,"10:46",1846,1846,"Delo Bruster Defensive Rebound.",26,2,24,0.94994123170377,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+82,1,"10:37",1837,1837,"Brandon Gilbeck made Layup. Assisted by Delo Bruster.",28,2,26,0.967027291437539,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+83,1,"10:14",1814,1814,"Duke Abalos made Three Point Jumper. Assisted by Michael Wolfe.",28,5,23,0.963762854631238,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+84,1,"9:50",1790,1790,"Lynrick Moxey Turnover.",28,5,23,0.953261004541352,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+85,1,"9:50",1790,1790,"Foul on Lynrick Moxey.",28,5,23,0.953261004541352,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+86,1,"9:37",1777,1777,"Colin Tyrone missed Jumper.",28,5,23,0.942924809574571,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+87,1,"9:37",1777,1777,"Delo Bruster Defensive Rebound.",28,5,23,0.942924809574571,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+88,1,"9:30",1770,1770,"Jeremiah Usiosefe missed Three Point Jumper.",28,5,23,0.942924809574571,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+89,1,"9:30",1770,1770,"Jeremiah Usiosefe Offensive Rebound.",28,5,23,0.942924809574571,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+90,1,"9:26",1766,1766,"Jeremiah Usiosefe made Jumper.",30,5,25,0.96445733319617,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+91,1,"9:07",1747,1747,"Foul on Brandon Gilbeck.",30,5,25,0.963405704532116,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+92,1,"9:02",1742,1742,"Ronnie Jackson missed Three Point Jumper.",30,5,25,0.963405704532116,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+93,1,"9:02",1742,1742,"Jabari Sandifer Defensive Rebound.",30,5,25,0.963405704532116,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+94,1,"8:47",1727,1727,"Brandon Gilbeck Turnover.",30,5,25,0.9708783792427,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+95,1,"8:45",1725,1725,"Moe Blackmon Steal.",30,5,25,0.9708783792427,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+96,1,"8:42",1722,1722,"Moe Blackmon made Layup.",30,7,23,0.962152721070714,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+97,1,"8:29",1709,1709,"Jabari Sandifer missed Three Point Jumper.",30,7,23,0.949936548280962,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+98,1,"8:29",1709,1709,"Michael Wolfe Defensive Rebound.",30,7,23,0.949936548280962,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+99,1,"8:20",1700,1700,"Bernachi Dismond missed Three Point Jumper.",30,7,23,0.949936548280962,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+100,1,"8:20",1700,1700,"Michael Wolfe Offensive Rebound.",30,7,23,0.949936548280962,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+101,1,"8:15",1695,1695,"Moe Blackmon missed Three Point Jumper.",30,7,23,0.967049412050919,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+102,1,"8:15",1695,1695,"Brandon Gilbeck Defensive Rebound.",30,7,23,0.967049412050919,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+103,1,"8:07",1687,1687,"Lynrick Moxey made Layup. Assisted by Delo Bruster.",32,7,25,0.975348830327955,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+104,1,"7:52",1672,1672,"Colin Tyrone made Layup. Assisted by Moe Blackmon.",32,9,23,0.962608514539768,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+105,1,"7:37",1657,1657,"Brandon Gilbeck Turnover.",32,9,23,0.95820179408333,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+106,1,"7:37",1657,1657,"Foul on Brandon Gilbeck.",32,9,23,0.95820179408333,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+107,1,"7:14",1634,1634,"Moe Blackmon missed Jumper.",32,9,23,0.958099452513296,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+108,1,"7:14",1634,1634,"Western Illinois Defensive Rebound.",32,9,23,0.958099452513296,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+109,1,"7:01",1621,1621,"Delo Bruster missed Three Point Jumper.",32,9,23,0.963705860342745,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+110,1,"7:01",1621,1621,"Ronnie Jackson Defensive Rebound.",32,9,23,0.963705860342745,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+111,1,"6:34",1594,1594,"Duke Abalos missed Three Point Jumper.",32,9,23,0.961870907468203,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+112,1,"6:34",1594,1594,"Delo Bruster Defensive Rebound.",32,9,23,0.961870907468203,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+113,1,"6:18",1578,1578,"Jabari Sandifer made Jumper. Assisted by Brandon Gilbeck.",34,9,25,0.981077890075899,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+114,1,"5:42",1542,1542,"Blake Dragt made Three Point Jumper. Assisted by Ronnie Jackson.",34,12,22,0.957587892324823,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+115,1,"5:27",1527,1527,"Garret Covington missed Three Point Jumper.",34,12,22,0.960333984739684,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+116,1,"5:27",1527,1527,"Garret Covington Offensive Rebound.",34,12,22,0.960333984739684,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+117,1,"5:21",1521,1521,"Jeremiah Usiosefe missed Three Point Jumper.",34,12,22,0.960333984739684,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+118,1,"5:21",1521,1521,"Brandon Gilbeck Offensive Rebound.",34,12,22,0.960333984739684,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+119,1,"5:17",1517,1517,"Foul on Blake Dragt.",34,12,22,0.969990542873891,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+120,1,"5:17",1517,1517,"Brandon Gilbeck made Free Throw.",35,12,23,0.974124470418578,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+121,1,"5:02",1502,1502,"Ronnie Jackson made Three Point Jumper. Assisted by Colin Tyrone.",35,15,20,0.947669591645919,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+122,1,"4:48",1488,1488,"C.J. Duff missed Jumper.",35,15,20,0.953181104463881,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+123,1,"4:48",1488,1488,"C.J. Duff Offensive Rebound.",35,15,20,0.953181104463881,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+124,1,"4:44",1484,1484,"C.J. Duff missed Jumper.",35,15,20,0.953181104463881,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+125,1,"4:44",1484,1484,"Oak Hills Christian Defensive Rebound.",35,15,20,0.953181104463881,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+126,1,"4:22",1462,1462,"Moe Blackmon missed Jumper.",35,15,20,0.948134063073159,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+127,1,"4:22",1462,1462,"C.J. Duff Defensive Rebound.",35,15,20,0.948134063073159,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+128,1,"4:11",1451,1451,"Foul on Colin Tyrone.",35,15,20,0.95018662448334,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+129,1,"4:11",1451,1451,"James Claar made Free Throw.",36,15,21,0.956719588235866,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+130,1,"4:11",1451,1451,"James Claar missed Free Throw.",36,15,21,0.956719588235866,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+131,1,"4:11",1451,1451,"Bernachi Dismond Defensive Rebound.",36,15,21,0.956719588235866,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+132,1,"3:57",1437,1437,"Moe Blackmon made Three Point Jumper. Assisted by Michael Wolfe.",36,18,18,0.942263295809042,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+133,1,"3:43",1423,1423,"James Claar Turnover.",36,18,18,0.93269394017382,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+134,1,"3:43",1423,1423,"Official TV Timeout",36,18,18,0.93269394017382,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+135,1,"3:19",1399,1399,"Bernachi Dismond missed Layup.",36,18,18,0.941470316999137,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+136,1,"3:19",1399,1399,"C.J. Duff Defensive Rebound.",36,18,18,0.941470316999137,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+137,1,"3:12",1392,1392,"Foul on Colin Tyrone.",36,18,18,0.941470316999137,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+138,1,"3:12",1392,1392,"C.J. Duff missed Free Throw.",36,18,18,0.941470316999137,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+139,1,"3:12",1392,1392,"Western Illinois Deadball Team Rebound.",36,18,18,0.941470316999137,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+140,1,"3:12",1392,1392,"C.J. Duff made Free Throw.",37,18,19,0.949422078890207,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+141,1,"2:43",1363,1363,"Duke Abalos missed Jumper.",37,18,19,0.951468851871008,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+142,1,"2:43",1363,1363,"C.J. Duff Defensive Rebound.",37,18,19,0.951468851871008,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+143,1,"2:36",1356,1356,"C.J. Duff made Three Point Jumper.",40,18,22,0.971032731093564,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+144,1,"2:03",1323,1323,"Ronnie Jackson made Three Point Jumper.",40,21,19,0.954515248591607,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+145,1,"1:51",1311,1311,"Jabari Sandifer missed Jumper.",40,21,19,0.957983562227834,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+146,1,"1:51",1311,1311,"James Claar Offensive Rebound.",40,21,19,0.957983562227834,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+147,1,"1:49",1309,1309,"James Claar missed Jumper.",40,21,19,0.946845312579866,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+148,1,"1:49",1309,1309,"Bernachi Dismond Defensive Rebound.",40,21,19,0.946845312579866,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+149,1,"1:41",1301,1301,"Bernachi Dismond missed Three Point Jumper.",40,21,19,0.946845312579866,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+150,1,"1:41",1301,1301,"James Claar Defensive Rebound.",40,21,19,0.946845312579866,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+151,1,"1:31",1291,1291,"Jabari Sandifer made Three Point Jumper. Assisted by Garret Covington.",43,21,22,0.979051257086452,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+152,1,"1:17",1277,1277,"Foul on James Claar.",43,21,22,0.963765737510367,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+153,1,"1:10",1270,1270,"Moe Blackmon Turnover.",43,21,22,0.963765737510367,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+154,1,"1:08",1268,1268,"Jabari Sandifer Steal.",43,21,22,0.973367522914473,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+155,1,"1:07",1267,1267,"Foul on Ronnie Jackson.",43,21,22,0.973367522914473,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+156,1,"1:07",1267,1267,"Jabari Sandifer missed Free Throw.",43,21,22,0.973367522914473,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+157,1,"1:07",1267,1267,"Dalan Ancrum Offensive Rebound.",43,21,22,0.973367522914473,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+158,1,"1:06",1266,1266,"Dalan Ancrum made Jumper.",45,21,24,0.980449609143455,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+159,1,"0:45",1245,1245,"Bernachi Dismond Turnover.",45,21,24,0.977352492824946,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+160,1,"0:31",1231,1231,"C.J. Duff missed Three Point Jumper.",45,21,24,0.980036788490911,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+161,1,"0:31",1231,1231,"Moe Blackmon Defensive Rebound.",45,21,24,0.980036788490911,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+162,1,"0:06",1206,1206,"Michael Wolfe Turnover.",45,21,24,0.979597678113644,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+163,1,"0:04",1204,1204,"Delo Bruster Steal.",45,21,24,0.979597678113644,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+164,1,"0:01",1201,1201,"Delo Bruster made Layup.",47,21,26,0.985079619624278,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+165,1,"0:00",1200,1200,"End of 1st half",47,21,26,0.985079619624278,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+166,2,"20:00",1200,1200,"PLAY",47,21,26,0.985079619624278,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+167,2,"19:33",1173,1173,"Blake Dragt Turnover.",47,21,26,0.987154975965378,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+168,2,"19:31",1171,1171,"Dalan Ancrum Steal.",47,21,26,0.987154975965378,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+169,2,"19:25",1165,1165,"C.J. Duff made Jumper. Assisted by Jabari Sandifer.",49,21,28,0.989877267445436,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+170,2,"18:59",1139,1139,"Colin Tyrone Turnover.",49,21,28,0.990360557129332,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+171,2,"18:58",1138,1138,"C.J. Duff Steal.",49,21,28,0.990360557129332,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+172,2,"18:53",1133,1133,"Garret Covington made Three Point Jumper. Assisted by C.J. Duff.",52,21,31,0.994062852700696,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+173,2,"18:20",1100,1100,"Duke Abalos missed Jumper.",52,21,31,0.994089257925879,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+174,2,"18:20",1100,1100,"Dalan Ancrum Block.",52,21,31,0.994089257925879,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+175,2,"18:17",1097,1097,"C.J. Duff Defensive Rebound.",52,21,31,0.995519998016083,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+176,2,"18:11",1091,1091,"Brandon Gilbeck made Jumper. Assisted by Dalan Ancrum.",54,21,33,0.996816414350017,"Western Illinois","Oak Hills Christian",4,4,0,0,NA,400924214,2016-11-13
+177,2,"18:09",1089,1089,"Western Illinois  Timeout",54,21,33,0.997195249099089,"Western Illinois","Oak Hills Christian",3,4,1,0,NA,400924214,2016-11-13
+178,2,"17:39",1059,1059,"Moe Blackmon missed Jumper.",54,21,33,0.997616709694242,"Western Illinois","Oak Hills Christian",3,4,1,0,NA,400924214,2016-11-13
+179,2,"17:39",1059,1059,"Jabari Sandifer Defensive Rebound.",54,21,33,0.997616709694242,"Western Illinois","Oak Hills Christian",3,4,1,0,NA,400924214,2016-11-13
+180,2,"17:27",1047,1047,"Garret Covington missed Three Point Jumper.",54,21,33,0.997286686926313,"Western Illinois","Oak Hills Christian",3,4,1,0,NA,400924214,2016-11-13
+181,2,"17:27",1047,1047,"Garret Covington Offensive Rebound.",54,21,33,0.997286686926313,"Western Illinois","Oak Hills Christian",3,4,1,0,NA,400924214,2016-11-13
+182,2,"17:18",1038,1038,"Garret Covington made Layup.",56,21,35,0.99760575762582,"Western Illinois","Oak Hills Christian",3,4,1,0,NA,400924214,2016-11-13
+183,2,"17:01",1021,1021,"Michael Wolfe made Three Point Jumper. Assisted by Moe Blackmon.",56,24,32,0.997076902623739,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+184,2,"16:46",1006,1006,"Jabari Sandifer made Three Point Jumper. Assisted by C.J. Duff.",59,24,35,0.998521315903908,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+185,2,"16:30",990,990,"Duke Abalos missed Three Point Jumper.",59,24,35,0.998065598325906,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+186,2,"16:30",990,990,"C.J. Duff Defensive Rebound.",59,24,35,0.998065598325906,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+187,2,"16:21",981,981,"Garret Covington missed Three Point Jumper.",59,24,35,0.999197813336156,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+188,2,"16:21",981,981,"Blake Dragt Defensive Rebound.",59,24,35,0.999197813336156,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+189,2,"15:56",956,956,"Moe Blackmon missed Three Point Jumper.",59,24,35,0.998754909013317,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+190,2,"15:56",956,956,"Dalan Ancrum Defensive Rebound.",59,24,35,0.998754909013317,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+191,2,"15:40",940,940,"Dalan Ancrum missed Three Point Jumper.",59,24,35,0.998929712860636,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+192,2,"15:40",940,940,"Blake Dragt Defensive Rebound.",59,24,35,0.998929712860636,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+193,2,"15:29",929,929,"Foul on Brandon Gilbeck.",59,24,35,0.998813404652339,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+194,2,"15:29",929,929,"Official TV Timeout",59,24,35,0.998813404652339,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+195,2,"15:29",929,929,"Blake Dragt made Free Throw.",59,25,34,0.998560480070536,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+196,2,"15:29",929,929,"Blake Dragt made Free Throw.",59,26,33,0.998253738488968,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+197,2,"15:18",918,918,"Brandon Gilbeck made Jumper. Assisted by Jabari Sandifer.",61,26,35,0.9989836791425,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+198,2,"14:58",898,898,"Duke Abalos made Three Point Jumper. Assisted by Colin Tyrone.",61,29,32,0.998202892530248,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+199,2,"14:36",876,876,"Brandon Gilbeck Turnover.",61,29,32,0.998049586603336,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+200,2,"14:19",859,859,"Michael Wolfe missed Three Point Jumper.",61,29,32,0.998754586691219,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+201,2,"14:19",859,859,"Western Illinois Defensive Rebound.",61,29,32,0.998754586691219,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+202,2,"14:06",846,846,"Garret Covington missed Three Point Jumper.",61,29,32,0.998937156157471,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+203,2,"14:06",846,846,"Ronnie Jackson Defensive Rebound.",61,29,32,0.998937156157471,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+204,2,"13:40",820,820,"Moe Blackmon Turnover.",61,29,32,0.997696111529667,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+205,2,"13:23",803,803,"Foul on Colin Tyrone.",61,29,32,0.998669010970902,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+206,2,"13:20",800,800,"C.J. Duff missed Jumper.",61,29,32,0.998669010970902,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+207,2,"13:20",800,800,"Blake Dragt Defensive Rebound.",61,29,32,0.998669010970902,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+208,2,"13:03",783,783,"Duke Abalos made Three Point Jumper.",61,32,29,0.997583825682138,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+209,2,"12:41",761,761,"C.J. Duff missed Three Point Jumper.",61,32,29,0.998315124397878,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+210,2,"12:41",761,761,"Garret Covington Offensive Rebound.",61,32,29,0.998315124397878,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+211,2,"12:35",755,755,"Garret Covington missed Jumper.",61,32,29,0.998240047948464,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+212,2,"12:35",755,755,"Bernachi Dismond Defensive Rebound.",61,32,29,0.998240047948464,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+213,2,"12:28",748,748,"Bernachi Dismond Turnover.",61,32,29,0.998461132365915,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+214,2,"12:27",747,747,"Jabari Sandifer Steal.",61,32,29,0.998461132365915,"Western Illinois","Oak Hills Christian",3,4,0,0,NA,400924214,2016-11-13
+215,2,"12:18",738,738,"Dalan Ancrum made Jumper. Assisted by Jabari Sandifer.",63,32,31,0.99875942465024,"Western Illinois","Oak Hills Christian",3,4,1,0,NA,400924214,2016-11-13
+216,2,"12:18",738,738,"Western Illinois  Timeout",63,32,31,0.99875942465024,"Western Illinois","Oak Hills Christian",2,4,1,0,NA,400924214,2016-11-13
+217,2,"11:49",709,709,"Moe Blackmon made Jumper.",63,34,29,0.998145932903446,"Western Illinois","Oak Hills Christian",2,4,1,0,NA,400924214,2016-11-13
+218,2,"11:24",684,684,"Lynrick Moxey made Jumper. Assisted by Jalen Morgan.",65,34,31,0.999042291861546,"Western Illinois","Oak Hills Christian",2,4,1,0,NA,400924214,2016-11-13
+219,2,"11:14",674,674,"Ronnie Jackson Turnover.",65,34,31,0.999272531760559,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+220,2,"11:10",670,670,"Lynrick Moxey Steal.",65,34,31,0.999272531760559,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+221,2,"11:09",669,669,"Lynrick Moxey missed Layup.",65,34,31,0.999220089439829,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+222,2,"11:09",669,669,"Blake Dragt Defensive Rebound.",65,34,31,0.999220089439829,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+223,2,"10:58",658,658,"Foul on Jalen Morgan.",65,34,31,0.999444446280682,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+224,2,"10:50",650,650,"Blake Dragt Turnover.",65,34,31,0.999444446280682,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+225,2,"10:48",648,648,"Chris Snyder Steal.",65,34,31,0.999460012392696,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+226,2,"10:40",640,640,"Jeremiah Usiosefe missed Jumper.",65,34,31,0.999460012392696,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+227,2,"10:40",640,640,"Ronnie Jackson Defensive Rebound.",65,34,31,0.999460012392696,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+228,2,"10:28",628,628,"Ronnie Jackson missed Three Point Jumper.",65,34,31,0.999606950908862,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+229,2,"10:28",628,628,"Jeremiah Usiosefe Defensive Rebound.",65,34,31,0.999606950908862,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+230,2,"10:12",612,612,"Jeremiah Usiosefe missed Three Point Jumper.",65,34,31,0.99958488980358,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+231,2,"10:12",612,612,"Oak Hills Christian Defensive Rebound.",65,34,31,0.99958488980358,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+232,2,"9:59",599,599,"Duke Abalos made Layup. Assisted by Moe Blackmon.",65,36,29,0.999103669299439,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+233,2,"9:43",583,583,"Lynrick Moxey made Layup.",67,36,31,0.999473781263701,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+234,2,"9:31",571,571,"Foul on Lynrick Moxey.",67,36,31,0.999671892499599,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+235,2,"9:04",544,544,"Ronnie Jackson missed Layup.",67,36,31,0.999752107090251,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+236,2,"9:04",544,544,"Dalan Ancrum Defensive Rebound.",67,36,31,0.999752107090251,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+237,2,"8:58",538,538,"Lynrick Moxey Turnover.",67,36,31,0.999862135793048,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+238,2,"8:56",536,536,"Moe Blackmon Steal.",67,36,31,0.999862135793048,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+239,2,"8:54",534,534,"Foul on Lynrick Moxey.",67,36,31,0.999862135793048,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+240,2,"8:42",522,522,"Duke Abalos missed Three Point Jumper.",67,36,31,0.999810297699633,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+241,2,"8:42",522,522,"Chris Snyder Defensive Rebound.",67,36,31,0.999810297699633,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+242,2,"8:27",507,507,"Chris Snyder made Layup. Assisted by Dalan Ancrum.",69,36,33,0.999887767964807,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+243,2,"8:17",497,497,"Bernachi Dismond Turnover.",69,36,33,0.999894008295298,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+244,2,"8:06",486,486,"Jalen Morgan made Jumper. Assisted by Delo Bruster.",71,36,35,0.999934754984794,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+245,2,"7:38",458,458,"Colin Tyrone missed Jumper.",71,36,35,0.999985398375563,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+246,2,"7:38",458,458,"Jalen Morgan Block.",71,36,35,0.999985398375563,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+247,2,"7:36",456,456,"Delo Bruster Defensive Rebound.",71,36,35,0.999985398375563,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+248,2,"7:33",453,453,"Foul on Duke Abalos.",71,36,35,0.999985398375563,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+249,2,"7:33",453,453,"Lynrick Moxey missed Free Throw.",71,36,35,0.999985398375563,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+250,2,"7:33",453,453,"Western Illinois Deadball Team Rebound.",71,36,35,0.999985398375563,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+251,2,"7:33",453,453,"Lynrick Moxey made Free Throw.",72,36,36,0.999989365542237,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+252,2,"7:20",440,440,"Moe Blackmon missed Jumper.",72,36,36,0.999955841650639,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+253,2,"7:20",440,440,"Jalen Morgan Defensive Rebound.",72,36,36,0.999955841650639,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+254,2,"7:03",423,423,"Delo Bruster Turnover.",72,36,36,0.99997769086113,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+255,2,"7:01",421,421,"Bernachi Dismond Steal.",72,36,36,0.99997769086113,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+256,2,"6:38",398,398,"Colin Tyrone missed Jumper.",72,36,36,0.999988315140359,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+257,2,"6:38",398,398,"Delo Bruster Defensive Rebound.",72,36,36,0.999988315140359,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+258,2,"6:22",382,382,"Jalen Morgan made Layup. Assisted by Jeremiah Usiosefe.",74,36,38,0.999988350095585,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+259,2,"5:50",350,350,"Colin Tyrone missed Jumper.",74,36,38,0.99999729002962,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+260,2,"5:50",350,350,"Jalen Morgan Block.",74,36,38,0.99999729002962,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+261,2,"5:49",349,349,"Lynrick Moxey Defensive Rebound.",74,36,38,0.999996740179947,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+262,2,"5:45",345,345,"Lynrick Moxey Turnover.",74,36,38,0.999996740179947,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+263,2,"5:30",330,330,"Duke Abalos made Three Point Jumper. Assisted by Moe Blackmon.",74,39,35,0.999996357628106,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+264,2,"5:15",315,315,"Jalen Morgan made Layup. Assisted by Lynrick Moxey.",76,39,37,0.999998825877923,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+265,2,"5:15",315,315,"Foul on Duke Abalos.",76,39,37,0.999998825877923,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+266,2,"5:15",315,315,"Jalen Morgan missed Free Throw.",76,39,37,0.999998825877923,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+267,2,"5:15",315,315,"Ronnie Jackson Defensive Rebound.",76,39,37,0.999998825877923,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+268,2,"4:51",291,291,"Colin Tyrone Turnover.",76,39,37,0.999996965331805,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+269,2,"4:49",289,289,"Delo Bruster Steal.",76,39,37,0.999997868984056,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+270,2,"4:46",286,286,"C.J. Duff made Layup. Assisted by Delo Bruster.",78,39,39,0.99999894766856,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+271,2,"4:27",267,267,"Ronnie Jackson missed Jumper.",78,39,39,0.99999955665793,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+272,2,"4:27",267,267,"C.J. Duff Defensive Rebound.",78,39,39,0.99999955665793,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+273,2,"4:12",252,252,"Jalen Morgan missed Jumper.",78,39,39,0.999999935177243,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+274,2,"4:12",252,252,"Blake Dragt Defensive Rebound.",78,39,39,0.999999935177243,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+275,2,"4:11",251,251,"Foul on Jalen Morgan.",78,39,39,0.999999935177243,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+276,2,"3:59",239,239,"Blake Dragt missed Jumper.",78,39,39,0.999999879467447,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+277,2,"3:59",239,239,"C.J. Duff Defensive Rebound.",78,39,39,0.999999879467447,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+278,2,"3:50",230,230,"Jalen Morgan made Layup. Assisted by Jeremiah Usiosefe.",80,39,41,0.999999946466062,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+279,2,"3:19",199,199,"Moe Blackmon made Jumper.",80,41,39,0.999999988588441,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+280,2,"3:19",199,199,"Foul on Lynrick Moxey.",80,41,39,0.999999988588441,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+281,2,"3:19",199,199,"Official TV Timeout",80,41,39,0.999999988588441,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+282,2,"3:19",199,199,"Moe Blackmon made Free Throw.",80,42,38,0.999999981778845,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+283,2,"3:10",190,190,"Delo Bruster made Layup.",82,42,40,0.99999999285316,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+284,2,"2:51",171,171,"Bernachi Dismond missed Jumper.",82,42,40,0.999999997558735,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+285,2,"2:51",171,171,"Jeremiah Usiosefe Defensive Rebound.",82,42,40,0.999999997558735,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+286,2,"2:41",161,161,"Delo Bruster made Jumper.",84,42,42,0.999999999615881,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+287,2,"2:20",140,140,"Moe Blackmon missed Three Point Jumper.",84,42,42,0.999999999612186,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+288,2,"2:20",140,140,"Noah Wells Defensive Rebound.",84,42,42,0.999999999612186,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+289,2,"2:05",125,125,"Jalen Morgan made Jumper. Assisted by Noah Wells.",86,42,44,0.999999999984342,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+290,2,"1:47",107,107,"Michael Wolfe made Jumper. Assisted by Moe Blackmon.",86,44,42,0.999999999994353,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+291,2,"1:29",89,89,"Lynrick Moxey missed Layup.",86,44,42,0.999999999999929,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+292,2,"1:29",89,89,"Jordan Hughes Offensive Rebound.",86,44,42,0.999999999999929,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+293,2,"1:27",87,87,"Jordan Hughes made Jumper.",88,44,44,0.999999999999983,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+294,2,"1:14",74,74,"Duke Abalos Turnover.",88,44,44,0.99999999999999,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+295,2,"1:06",66,66,"Lynrick Moxey made Layup.",90,44,46,0.999999999999998,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+296,2,"0:59",59,59,"Michael Wolfe Turnover.",90,44,46,1,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+297,2,"0:48",48,48,"Ryan Maas made Jumper.",92,44,48,1,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+298,2,"0:31",31,31,"Ronnie Jackson made Jumper.",92,46,46,1,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+299,2,"0:12",12,12,"Foul on Ronnie Jackson.",92,46,46,1,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+300,2,"0:12",12,12,"Lynrick Moxey made Free Throw.",93,46,47,1,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+301,2,"0:12",12,12,"Lynrick Moxey missed Free Throw.",93,46,47,1,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+302,2,"0:12",12,12,"Lynrick Moxey Offensive Rebound.",93,46,47,1,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+303,2,"0:09",9,9,"Jordan Hughes made Jumper. Assisted by Lynrick Moxey.",95,46,49,1,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+304,2,"0:04",4,4,"Moe Blackmon made Jumper. Assisted by Duke Abalos.",95,48,47,1,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13
+305,2,"0:00",0,0,"End of Game",95,48,47,NA,"Western Illinois","Oak Hills Christian",2,4,0,0,NA,400924214,2016-11-13

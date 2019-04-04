@@ -1,0 +1,435 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","play_length","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,15,0.916517480126628,"Memphis","Tennessee State",4,4,0,0,17.5,"401084741",2018-12-22
+2,1,"19:45",2385,2385,"Foul on Donte Fitzpatrick-Dorsey.",0,0,0,0,0.912738569721904,"Memphis","Tennessee State",4,4,0,0,17.5,"401084741",2018-12-22
+3,1,"19:45",2385,2385,"Raynere Thornton made Free Throw.",1,0,1,0,0.915283805855054,"Memphis","Tennessee State",4,4,0,0,17.5,"401084741",2018-12-22
+4,1,"19:45",2385,2385,"Raynere Thornton missed Free Throw.",1,0,1,1,0.915283805855054,"Memphis","Tennessee State",4,4,0,0,17.5,"401084741",2018-12-22
+5,1,"19:44",2384,2384,"Donte Fitzpatrick-Dorsey Defensive Rebound.",1,0,1,8,0.915283805855054,"Memphis","Tennessee State",4,4,0,0,17.5,"401084741",2018-12-22
+6,1,"19:36",2376,2376,"Armani Chaney Turnover.",1,0,1,0,0.91618409942612,"Memphis","Tennessee State",4,4,0,0,17.5,"401084741",2018-12-22
+7,1,"19:36",2376,2376,"Jeremiah Martin Steal.",1,0,1,4,0.91618409942612,"Memphis","Tennessee State",4,4,0,0,17.5,"401084741",2018-12-22
+8,1,"19:32",2372,2372,"Antwann Jones made Layup.",3,0,3,0,0.929683786413779,"Memphis","Tennessee State",4,4,0,0,17.5,"401084741",2018-12-22
+9,1,"19:32",2372,2372,"Foul on Donte Fitzpatrick-Dorsey.",3,0,3,0,0.929683786413779,"Memphis","Tennessee State",4,4,0,0,17.5,"401084741",2018-12-22
+10,1,"19:32",2372,2372,"Antwann Jones made Free Throw.",4,0,4,30,0.935653692146612,"Memphis","Tennessee State",4,4,0,0,17.5,"401084741",2018-12-22
+11,1,"19:02",2342,2342,"Stokley Chaffee Jr. Turnover.",4,0,4,7,0.92946016855395,"Memphis","Tennessee State",4,4,0,0,17.5,"401084741",2018-12-22
+12,1,"18:55",2335,2335,"Raynere Thornton Turnover.",4,0,4,12,0.933418447346928,"Memphis","Tennessee State",4,4,0,0,17.5,"401084741",2018-12-22
+13,1,"18:43",2323,2323,"Donte Fitzpatrick-Dorsey missed Layup.",4,0,4,2,0.936965757586661,"Memphis","Tennessee State",4,4,0,0,17.5,"401084741",2018-12-22
+14,1,"18:41",2321,2321,"Donte Fitzpatrick-Dorsey Offensive Rebound.",4,0,4,2,0.936965757586661,"Memphis","Tennessee State",4,4,0,0,17.5,"401084741",2018-12-22
+15,1,"18:39",2319,2319,"Donte Fitzpatrick-Dorsey missed Jumper.",4,0,4,4,0.926633167271849,"Memphis","Tennessee State",4,4,0,0,17.5,"401084741",2018-12-22
+16,1,"18:35",2315,2315,"Armani Chaney Offensive Rebound.",4,0,4,0,0.926633167271849,"Memphis","Tennessee State",4,4,0,0,17.5,"401084741",2018-12-22
+17,1,"18:35",2315,2315,"Kamar McKnight missed Three Point Jumper.",4,0,4,0,0.926633167271849,"Memphis","Tennessee State",4,4,0,0,17.5,"401084741",2018-12-22
+18,1,"18:35",2315,2315,"Memphis Defensive Rebound.",4,0,4,7,0.926633167271849,"Memphis","Tennessee State",4,4,0,0,17.5,"401084741",2018-12-22
+19,1,"18:28",2308,2308,"Foul on Armani Chaney.",4,0,4,15,0.92831061373573,"Memphis","Tennessee State",4,4,0,0,17.5,"401084741",2018-12-22
+20,1,"18:13",2293,2293,"Jeremiah Martin made Three Point Jumper. Assisted by Mike Parks Jr..",7,0,7,20,0.949720952772038,"Memphis","Tennessee State",4,4,0,0,17.5,"401084741",2018-12-22
+21,1,"17:53",2273,2273,"Armani Chaney missed Three Point Jumper.",7,0,7,3,0.950911250240969,"Memphis","Tennessee State",4,4,0,0,17.5,"401084741",2018-12-22
+22,1,"17:50",2270,2270,"Tyler Harris Defensive Rebound.",7,0,7,3,0.950911250240969,"Memphis","Tennessee State",4,4,0,0,17.5,"401084741",2018-12-22
+23,1,"17:47",2267,2267,"Tyler Harris made Layup.",9,0,9,3,0.967810400061421,"Memphis","Tennessee State",4,4,0,0,17.5,"401084741",2018-12-22
+24,1,"17:44",2264,2264,"Tennessee State  Timeout",9,0,9,7,0.967810400061421,"Memphis","Tennessee State",3,4,1,0,17.5,"401084741",2018-12-22
+25,1,"17:37",2257,2257,"Tripp Davis missed Layup.",9,0,9,0,0.954116960358405,"Memphis","Tennessee State",3,4,1,0,17.5,"401084741",2018-12-22
+26,1,"17:37",2257,2257,"Raynere Thornton Block.",9,0,9,0,0.954116960358405,"Memphis","Tennessee State",3,4,1,0,17.5,"401084741",2018-12-22
+27,1,"17:37",2257,2257,"Tennessee State Offensive Rebound.",9,0,9,5,0.954116960358405,"Memphis","Tennessee State",3,4,1,0,17.5,"401084741",2018-12-22
+28,1,"17:32",2252,2252,"Tripp Davis missed Layup.",9,0,9,4,0.954116960358405,"Memphis","Tennessee State",3,4,1,0,17.5,"401084741",2018-12-22
+29,1,"17:28",2248,2248,"Antwann Jones Defensive Rebound.",9,0,9,1,0.950174310689403,"Memphis","Tennessee State",3,4,1,0,17.5,"401084741",2018-12-22
+30,1,"17:27",2247,2247,"Antwann Jones Turnover.",9,0,9,16,0.950174310689403,"Memphis","Tennessee State",3,4,1,0,17.5,"401084741",2018-12-22
+31,1,"17:11",2231,2231,"Tripp Davis missed Three Point Jumper.",9,0,9,2,0.961637374293228,"Memphis","Tennessee State",3,4,1,0,17.5,"401084741",2018-12-22
+32,1,"17:09",2229,2229,"Memphis Defensive Rebound.",9,0,9,31,0.958897371769393,"Memphis","Tennessee State",3,4,1,0,17.5,"401084741",2018-12-22
+33,1,"16:38",2198,2198,"Jeremiah Martin Turnover.",9,0,9,16,0.964735090639022,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+34,1,"16:22",2182,2182,"Armani Chaney missed Three Point Jumper.",9,0,9,3,0.959342235472369,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+35,1,"16:19",2179,2179,"Antwann Jones Defensive Rebound.",9,0,9,10,0.958313351879353,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+36,1,"16:09",2169,2169,"Jeremiah Martin Turnover.",9,0,9,0,0.958613371825073,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+37,1,"16:09",2169,2169,"Armani Chaney Steal.",9,0,9,3,0.958613371825073,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+38,1,"16:06",2166,2166,"Kamar McKnight Turnover.",9,0,9,0,0.958613371825073,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+39,1,"16:06",2166,2166,"Kyvon Davenport Steal.",9,0,9,5,0.958613371825073,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+40,1,"16:01",2161,2161,"Isaiah Maurice Turnover.",9,0,9,0,0.958613371825073,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+41,1,"16:01",2161,2161,"Stokley Chaffee Jr. Steal.",9,0,9,2,0.958613371825073,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+42,1,"15:59",2159,2159,"Foul on Kareem Brewton Jr..",9,0,9,0,0.96172115310788,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+43,1,"15:59",2159,2159,"Official TV Timeout",9,0,9,1,0.96172115310788,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+44,1,"15:58",2158,2158,"Kamar McKnight Turnover.",9,0,9,0,0.96172115310788,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+45,1,"15:58",2158,2158,"Kareem Brewton Jr. Steal.",9,0,9,5,0.96172115310788,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+46,1,"15:53",2153,2153,"Jeremiah Martin made Layup. Assisted by Kareem Brewton Jr..",11,0,11,17,0.969610158603691,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+47,1,"15:36",2136,2136,"Foul on Michael Littlejohn.",11,0,11,0,0.970793707814571,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+48,1,"15:36",2136,2136,"Michael Littlejohn Turnover.",11,0,11,2,0.970793707814571,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+49,1,"15:34",2134,2134,"Kareem Brewton Jr. missed Jumper.",11,0,11,2,0.970793707814571,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+50,1,"15:32",2132,2132,"Emmanuel Egbuta Defensive Rebound.",11,0,11,9,0.970793707814571,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+51,1,"15:23",2123,2123,"Foul on Isaiah Maurice.",11,0,11,0,0.967801715693793,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+52,1,"15:23",2123,2123,"Donte Fitzpatrick-Dorsey missed Free Throw.",11,0,11,0,0.967801715693793,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+53,1,"15:23",2123,2123,"Tennessee State Offensive Rebound.",11,0,11,0,0.967801715693793,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+54,1,"15:23",2123,2123,"Donte Fitzpatrick-Dorsey missed Free Throw.",11,0,11,1,0.967801715693793,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+55,1,"15:22",2122,2122,"Isaiah Maurice Defensive Rebound.",11,0,11,11,0.967801715693793,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+56,1,"15:11",2111,2111,"Isaiah Maurice made Layup. Assisted by Alex Lomax.",13,0,13,25,0.977576676332428,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+57,1,"14:46",2086,2086,"Donte Fitzpatrick-Dorsey missed Three Point Jumper.",13,0,13,5,0.971696676178763,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+58,1,"14:41",2081,2081,"DaJion Henderson Offensive Rebound.",13,0,13,0,0.971696676178763,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+59,1,"14:41",2081,2081,"DaJion Henderson missed Layup.",13,0,13,0,0.971696676178763,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+60,1,"14:41",2081,2081,"Memphis Defensive Rebound.",13,0,13,19,0.971696676178763,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+61,1,"14:22",2062,2062,"Foul on Dave Morris.",13,0,13,0,0.974982290383803,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+62,1,"14:22",2062,2062,"Kyvon Davenport made Free Throw.",14,0,14,0,0.977757529687379,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+63,1,"14:22",2062,2062,"Kyvon Davenport made Free Throw.",15,0,15,0,0.980231151150938,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+64,1,"14:22",2062,2062,"Foul on Kareem Brewton Jr..",15,0,15,2,0.980231151150938,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+65,1,"14:20",2060,2060,"Foul on Tyler Harris.",15,0,15,18,0.980231151150938,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+66,1,"14:02",2042,2042,"Dave Morris missed Three Point Jumper.",15,0,15,3,0.976201130128868,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+67,1,"13:59",2039,2039,"Alex Lomax Defensive Rebound.",15,0,15,6,0.980546616607243,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+68,1,"13:53",2033,2033,"Foul on DaJion Henderson.",15,0,15,0,0.980546616607243,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+69,1,"13:53",2033,2033,"Kyvon Davenport missed Free Throw.",15,0,15,0,0.980546616607243,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+70,1,"13:53",2033,2033,"Memphis Offensive Rebound.",15,0,15,0,0.980546616607243,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+71,1,"13:53",2033,2033,"Kyvon Davenport made Free Throw.",16,0,16,22,0.982556558628376,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+72,1,"13:31",2011,2011,"Emmanuel Egbuta missed Layup.",16,0,16,0,0.98170047394608,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+73,1,"13:31",2011,2011,"Kyvon Davenport Block.",16,0,16,4,0.98170047394608,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+74,1,"13:27",2007,2007,"Emmanuel Egbuta Offensive Rebound.",16,0,16,1,0.979146414487739,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+75,1,"13:26",2006,2006,"Emmanuel Egbuta Turnover.",16,0,16,3,0.979146414487739,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+76,1,"13:23",2003,2003,"Tyler Harris missed Three Point Jumper.",16,0,16,4,0.979146414487739,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+77,1,"13:19",1999,1999,"Donte Fitzpatrick-Dorsey Defensive Rebound.",16,0,16,1,0.985315114222153,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+78,1,"13:18",1998,1998,"Foul on Jeremiah Martin.",16,0,16,0,0.985315114222153,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+79,1,"13:18",1998,1998,"Kamar McKnight missed Free Throw.",16,0,16,0,0.985315114222153,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+80,1,"13:18",1998,1998,"Tennessee State Offensive Rebound.",16,0,16,0,0.985315114222153,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+81,1,"13:18",1998,1998,"Kamar McKnight missed Free Throw.",16,0,16,0,0.985315114222153,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+82,1,"13:18",1998,1998,"Alex Lomax Defensive Rebound.",16,0,16,23,0.985315114222153,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+83,1,"12:55",1975,1975,"Tyler Harris missed Three Point Jumper.",16,0,16,4,0.985445651764114,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+84,1,"12:51",1971,1971,"Armani Chaney Defensive Rebound.",16,0,16,6,0.985445651764114,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+85,1,"12:45",1965,1965,"Armani Chaney Turnover.",16,0,16,16,0.978279388441689,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+86,1,"12:29",1949,1949,"Tyler Harris Turnover.",16,0,16,0,0.983595880273681,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+87,1,"12:29",1949,1949,"Stokley Chaffee Jr. Steal.",16,0,16,5,0.983595880273681,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+88,1,"12:24",1944,1944,"Kamar McKnight made Layup.",16,2,14,9,0.978980209958738,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+89,1,"12:15",1935,1935,"Foul on Stokley Chaffee Jr..",16,2,14,0,0.978598299061645,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+90,1,"12:15",1935,1935,"Jeremiah Martin missed Free Throw.",16,2,14,0,0.978598299061645,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+91,1,"12:15",1935,1935,"Memphis Offensive Rebound.",16,2,14,0,0.978598299061645,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+92,1,"12:15",1935,1935,"Jeremiah Martin made Free Throw.",17,2,15,11,0.981142770515942,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+93,1,"12:04",1924,1924,"Armani Chaney missed Three Point Jumper.",17,2,15,3,0.982658999565528,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+94,1,"12:01",1921,1921,"Jeremiah Martin Defensive Rebound.",17,2,15,6,0.982658999565528,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+95,1,"11:55",1915,1915,"Antwann Jones missed Jumper.",17,2,15,4,0.983145726313952,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+96,1,"11:51",1911,1911,"Stokley Chaffee Jr. Defensive Rebound.",17,2,15,3,0.983145726313952,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+97,1,"11:48",1908,1908,"Kamar McKnight missed Three Point Jumper.",17,2,15,3,0.979276302525394,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+98,1,"11:45",1905,1905,"Raynere Thornton Defensive Rebound.",17,2,15,11,0.979276302525394,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+99,1,"11:34",1894,1894,"Jeremiah Martin Turnover.",17,2,15,0,0.982829371781336,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+100,1,"11:34",1894,1894,"Armani Chaney Steal.",17,2,15,4,0.982829371781336,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+101,1,"11:30",1890,1890,"Donte Fitzpatrick-Dorsey made Layup. Assisted by Armani Chaney.",17,4,13,7,0.977652962232581,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+102,1,"11:23",1883,1883,"Raynere Thornton missed Layup.",17,4,13,2,0.975784210960535,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+103,1,"11:21",1881,1881,"Memphis Offensive Rebound.",17,4,13,0,0.975784210960535,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+104,1,"11:21",1881,1881,"Official TV Timeout",17,4,13,0,0.975784210960535,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+105,1,"11:21",1881,1881,"Foul on Raynere Thornton.",17,4,13,0,0.975784210960535,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+106,1,"11:21",1881,1881,"Raynere Thornton Turnover.",17,4,13,9,0.975784210960535,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+107,1,"11:12",1872,1872,"Foul on Tyler Harris.",17,4,13,0,0.974780161053099,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+108,1,"11:12",1872,1872,"Armani Chaney made Free Throw.",17,5,12,0,0.97154156865872,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+109,1,"11:12",1872,1872,"Armani Chaney made Free Throw.",17,6,11,17,0.967900788991314,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+110,1,"10:55",1855,1855,"Alex Lomax made Jumper.",19,6,13,24,0.975874439842055,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+111,1,"10:31",1831,1831,"Foul on Alex Lomax.",19,6,13,0,0.97459489497767,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+112,1,"10:31",1831,1831,"Kamar McKnight made Free Throw.",19,7,12,0,0.971252634203767,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+113,1,"10:31",1831,1831,"Kamar McKnight missed Free Throw.",19,7,12,0,0.971252634203767,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+114,1,"10:31",1831,1831,"Kyvon Davenport Defensive Rebound.",19,7,12,7,0.971252634203767,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+115,1,"10:24",1824,1824,"Antwann Jones made Layup.",21,7,14,16,0.978907983585272,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+116,1,"10:08",1808,1808,"Foul on Donte Fitzpatrick-Dorsey.",21,7,14,0,0.978732598471712,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+117,1,"10:08",1808,1808,"Donte Fitzpatrick-Dorsey Turnover.",21,7,14,13,0.978732598471712,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+118,1,"9:55",1795,1795,"Memphis  Timeout",21,7,14,9,0.977343718842226,"Memphis","Tennessee State",3,3,0,1,17.5,"401084741",2018-12-22
+119,1,"9:46",1786,1786,"Foul on Kamar McKnight.",21,7,14,0,0.978121607516501,"Memphis","Tennessee State",3,3,0,1,17.5,"401084741",2018-12-22
+120,1,"9:46",1786,1786,"Kyvon Davenport made Free Throw.",22,7,15,0,0.980893354664076,"Memphis","Tennessee State",3,3,0,1,17.5,"401084741",2018-12-22
+121,1,"9:46",1786,1786,"Kyvon Davenport missed Free Throw.",22,7,15,0,0.980893354664076,"Memphis","Tennessee State",3,3,0,1,17.5,"401084741",2018-12-22
+122,1,"9:46",1786,1786,"Damarri Moore Defensive Rebound.",22,7,15,8,0.980893354664076,"Memphis","Tennessee State",3,3,0,1,17.5,"401084741",2018-12-22
+123,1,"9:38",1778,1778,"Foul on Kyvon Davenport.",22,7,15,0,0.977943579914511,"Memphis","Tennessee State",3,3,0,1,17.5,"401084741",2018-12-22
+124,1,"9:38",1778,1778,"Kamar McKnight made Free Throw.",22,8,14,0,0.975142890770817,"Memphis","Tennessee State",3,3,0,1,17.5,"401084741",2018-12-22
+125,1,"9:38",1778,1778,"Kamar McKnight made Free Throw.",22,9,13,17,0.971996757891913,"Memphis","Tennessee State",3,3,0,1,17.5,"401084741",2018-12-22
+126,1,"9:21",1761,1761,"Isaiah Maurice made Jumper. Assisted by Antwann Jones.",24,9,15,29,0.982894692781318,"Memphis","Tennessee State",3,3,0,1,17.5,"401084741",2018-12-22
+127,1,"8:52",1732,1732,"Armani Chaney Turnover.",24,9,15,0,0.982896991439049,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+128,1,"8:52",1732,1732,"Antwann Jones Steal.",24,9,15,3,0.982896991439049,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+129,1,"8:49",1729,1729,"Foul on Antwann Jones.",24,9,15,0,0.980042329734906,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+130,1,"8:49",1729,1729,"Antwann Jones Turnover.",24,9,15,16,0.980042329734906,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+131,1,"8:33",1713,1713,"Emmanuel Egbuta Turnover.",24,9,15,19,0.983295706625111,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+132,1,"8:14",1694,1694,"Isaiah Maurice made Three Point Jumper. Assisted by Tyler Harris.",27,9,18,24,0.98909019919703,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+133,1,"7:50",1670,1670,"Michael Littlejohn made Three Point Jumper.",27,12,15,12,0.983203096604415,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+134,1,"7:38",1658,1658,"Tyler Harris Turnover.",27,12,15,0,0.980308584186201,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+135,1,"7:38",1658,1658,"Michael Littlejohn Steal.",27,12,15,5,0.980308584186201,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+136,1,"7:33",1653,1653,"Tripp Davis Turnover.",27,12,15,0,0.980308584186201,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+137,1,"7:33",1653,1653,"Official TV Timeout",27,12,15,20,0.980308584186201,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+138,1,"7:13",1633,1633,"Isaiah Maurice missed Layup.",27,12,15,3,0.980619686172566,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+139,1,"7:10",1630,1630,"Emmanuel Egbuta Defensive Rebound.",27,12,15,8,0.980619686172566,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+140,1,"7:02",1622,1622,"Michael Littlejohn Turnover.",27,12,15,5,0.983022687431956,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+141,1,"6:57",1617,1617,"Foul on Tripp Davis.",27,12,15,0,0.98079097100087,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+142,1,"6:57",1617,1617,"Jeremiah Martin missed Free Throw.",27,12,15,0,0.98079097100087,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+143,1,"6:57",1617,1617,"Memphis Offensive Rebound.",27,12,15,0,0.98079097100087,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+144,1,"6:57",1617,1617,"Jeremiah Martin made Free Throw.",28,12,16,7,0.983270657999303,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+145,1,"6:50",1610,1610,"Michael Littlejohn missed Three Point Jumper.",28,12,16,5,0.983270657999303,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+146,1,"6:45",1605,1605,"Kyvon Davenport Defensive Rebound.",28,12,16,8,0.983280908924229,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+147,1,"6:37",1597,1597,"Kyvon Davenport Turnover.",28,12,16,0,0.982949492972268,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+148,1,"6:37",1597,1597,"Michael Littlejohn Steal.",28,12,16,5,0.982949492972268,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+149,1,"6:32",1592,1592,"Kamar McKnight missed Layup.",28,12,16,0,0.982949492972268,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+150,1,"6:32",1592,1592,"Kyvon Davenport Block.",28,12,16,6,0.982949492972268,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+151,1,"6:26",1586,1586,"Emmanuel Egbuta Offensive Rebound.",28,12,16,1,0.983428908633602,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+152,1,"6:25",1585,1585,"Emmanuel Egbuta missed Layup.",28,12,16,0,0.983428908633602,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+153,1,"6:25",1585,1585,"Isaiah Maurice Block.",28,12,16,5,0.983428908633602,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+154,1,"6:20",1580,1580,"Emmanuel Egbuta Offensive Rebound.",28,12,16,1,0.983428908633602,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+155,1,"6:19",1579,1579,"Emmanuel Egbuta Turnover.",28,12,16,0,0.988143711357054,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+156,1,"6:19",1579,1579,"Isaiah Maurice Steal.",28,12,16,3,0.988143711357054,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+157,1,"6:16",1576,1576,"Kareem Brewton Jr. made Layup. Assisted by Kyvon Davenport.",30,12,18,5,0.991278831455222,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+158,1,"6:11",1571,1571,"Tennessee State  Timeout",30,12,18,17,0.991278831455222,"Memphis","Tennessee State",2,3,1,0,17.5,"401084741",2018-12-22
+159,1,"5:54",1554,1554,"Michael Littlejohn missed Layup.",30,12,18,0,0.98801825327719,"Memphis","Tennessee State",2,3,1,0,17.5,"401084741",2018-12-22
+160,1,"5:54",1554,1554,"Raynere Thornton Block.",30,12,18,4,0.98801825327719,"Memphis","Tennessee State",2,3,1,0,17.5,"401084741",2018-12-22
+161,1,"5:50",1550,1550,"Raynere Thornton Defensive Rebound.",30,12,18,2,0.98801825327719,"Memphis","Tennessee State",2,3,1,0,17.5,"401084741",2018-12-22
+162,1,"5:48",1548,1548,"Isaiah Maurice made Dunk. Assisted by Alex Lomax.",32,12,20,22,0.991265704956296,"Memphis","Tennessee State",2,3,1,0,17.5,"401084741",2018-12-22
+163,1,"5:26",1526,1526,"Michael Littlejohn missed Three Point Jumper.",32,12,20,3,0.991063394486633,"Memphis","Tennessee State",2,3,1,0,17.5,"401084741",2018-12-22
+164,1,"5:23",1523,1523,"Memphis Defensive Rebound.",32,12,20,0,0.991063394486633,"Memphis","Tennessee State",2,3,1,0,17.5,"401084741",2018-12-22
+165,1,"5:23",1523,1523,"Foul on Emmanuel Egbuta.",32,12,20,0,0.991063394486633,"Memphis","Tennessee State",2,3,1,0,17.5,"401084741",2018-12-22
+166,1,"5:23",1523,1523,"Raynere Thornton missed Free Throw.",32,12,20,0,0.991063394486633,"Memphis","Tennessee State",2,3,1,0,17.5,"401084741",2018-12-22
+167,1,"5:23",1523,1523,"Memphis Offensive Rebound.",32,12,20,0,0.991063394486633,"Memphis","Tennessee State",2,3,1,0,17.5,"401084741",2018-12-22
+168,1,"5:23",1523,1523,"Raynere Thornton made Free Throw.",33,12,21,28,0.992239276663345,"Memphis","Tennessee State",2,3,1,0,17.5,"401084741",2018-12-22
+169,1,"4:55",1495,1495,"Armani Chaney missed Jumper.",33,12,21,1,0.992274868380927,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+170,1,"4:54",1494,1494,"Tennessee State Offensive Rebound.",33,12,21,5,0.992274868380927,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+171,1,"4:49",1489,1489,"Dave Morris missed Layup.",33,12,21,0,0.993336193188491,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+172,1,"4:49",1489,1489,"Isaiah Maurice Block.",33,12,21,4,0.993336193188491,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+173,1,"4:45",1485,1485,"Isaiah Maurice Defensive Rebound.",33,12,21,19,0.993336193188491,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+174,1,"4:26",1466,1466,"Raynere Thornton made Three Point Jumper. Assisted by Tyler Harris.",36,12,24,32,0.993821947533463,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+175,1,"3:54",1434,1434,"Daniel Cummings missed Three Point Jumper.",36,12,24,3,0.995401398359484,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+176,1,"3:51",1431,1431,"Dave Morris Offensive Rebound.",36,12,24,0,0.995401398359484,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+177,1,"3:51",1431,1431,"Dave Morris missed Layup.",36,12,24,0,0.995401398359484,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+178,1,"3:51",1431,1431,"Memphis Defensive Rebound.",36,12,24,1,0.995401398359484,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+179,1,"3:50",1430,1430,"Official TV Timeout",36,12,24,6,0.995401398359484,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+180,1,"3:44",1424,1424,"Alex Lomax made Jumper.",38,12,26,6,0.995958784419498,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+181,1,"3:38",1418,1418,"Daniel Cummings missed Three Point Jumper.",38,12,26,3,0.996862684801226,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+182,1,"3:35",1415,1415,"Isaiah Maurice Defensive Rebound.",38,12,26,11,0.996862684801226,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+183,1,"3:24",1404,1404,"Isaiah Maurice Turnover.",38,12,26,0,0.997397230632429,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+184,1,"3:24",1404,1404,"Kamar McKnight Steal.",38,12,26,5,0.997397230632429,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+185,1,"3:19",1399,1399,"Kamar McKnight made Layup.",38,14,24,11,0.996428955956678,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+186,1,"3:08",1388,1388,"Foul on Stokley Chaffee Jr..",38,14,24,0,0.995729872349329,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+187,1,"3:08",1388,1388,"Isaiah Maurice made Free Throw.",39,14,25,0,0.99632045733061,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+188,1,"3:08",1388,1388,"Isaiah Maurice made Free Throw.",40,14,26,17,0.996829620839773,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+189,1,"2:51",1371,1371,"Armani Chaney missed Three Point Jumper.",40,14,26,4,0.996117079980725,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+190,1,"2:47",1367,1367,"Jeremiah Martin Defensive Rebound.",40,14,26,12,0.996970453639049,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+191,1,"2:35",1355,1355,"Alex Lomax missed Three Point Jumper.",40,14,26,4,0.997170299547811,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+192,1,"2:31",1351,1351,"Raynere Thornton Offensive Rebound.",40,14,26,0,0.997170299547811,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+193,1,"2:31",1351,1351,"Raynere Thornton missed Layup.",40,14,26,1,0.997170299547811,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+194,1,"2:30",1350,1350,"Stokley Chaffee Jr. Defensive Rebound.",40,14,26,10,0.997170299547811,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+195,1,"2:20",1340,1340,"Daniel Cummings made Three Point Jumper. Assisted by Dave Morris.",40,17,23,31,0.995187029123332,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+196,1,"1:49",1309,1309,"Alex Lomax missed Jumper.",40,17,23,3,0.993754497217999,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+197,1,"1:46",1306,1306,"Daniel Cummings Defensive Rebound.",40,17,23,5,0.993754497217999,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+198,1,"1:41",1301,1301,"Daniel Cummings missed Three Point Jumper.",40,17,23,5,0.993754497217999,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+199,1,"1:36",1296,1296,"Raynere Thornton Defensive Rebound.",40,17,23,6,0.996207570679186,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+200,1,"1:30",1290,1290,"Antwann Jones Turnover.",40,17,23,14,0.996207570679186,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+201,1,"1:16",1276,1276,"Kamar McKnight missed Jumper.",40,17,23,3,0.994333117795406,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+202,1,"1:13",1273,1273,"Kyvon Davenport Defensive Rebound.",40,17,23,5,0.994333117795406,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+203,1,"1:08",1268,1268,"Jeremiah Martin missed Layup.",40,17,23,2,0.995937887398112,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+204,1,"1:06",1266,1266,"Kyvon Davenport Offensive Rebound.",40,17,23,2,0.995937887398112,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+205,1,"1:04",1264,1264,"Kyvon Davenport made Layup.",42,17,25,16,0.99703635517805,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+206,1,"0:48",1248,1248,"Dave Morris missed Three Point Jumper.",42,17,25,3,0.996526412378343,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+207,1,"0:45",1245,1245,"Jeremiah Martin Defensive Rebound.",42,17,25,5,0.996526412378343,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+208,1,"0:40",1240,1240,"Antwann Jones made Layup. Assisted by Jeremiah Martin.",44,17,27,24,0.997449146422309,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+209,1,"0:16",1216,1216,"Armani Chaney missed Three Point Jumper.",44,17,27,5,0.997797458864057,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+210,1,"0:11",1211,1211,"Antwann Jones Defensive Rebound.",44,17,27,8,0.997797458864057,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+211,1,"0:03",1203,1203,"Jeremiah Martin made Three Point Jumper.",47,17,30,3,0.99851553327972,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+212,1,"0:00",1200,1200,"End of 1st half",47,17,30,0,0.99851553327972,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+213,2,"20:00",1200,1200,"PLAY",47,17,30,10,0.99851553327972,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+214,2,"19:50",1190,1190,"Foul on Stokley Chaffee Jr..",47,17,30,0,0.998250274139969,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+215,2,"19:50",1190,1190,"Raynere Thornton made Free Throw.",48,17,31,0,0.998492456318062,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+216,2,"19:50",1190,1190,"Raynere Thornton made Free Throw.",49,17,32,23,0.99870116131242,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+217,2,"19:27",1167,1167,"Donte Fitzpatrick-Dorsey Turnover.",49,17,32,0,0.999082012675161,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+218,2,"19:27",1167,1167,"Jeremiah Martin Steal.",49,17,32,9,0.999082012675161,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+219,2,"19:18",1158,1158,"Mike Parks Jr. Turnover.",49,17,32,21,0.99891381900433,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+220,2,"18:57",1137,1137,"Armani Chaney missed Jumper.",49,17,32,4,0.999053023887465,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+221,2,"18:53",1133,1133,"Mike Parks Jr. Defensive Rebound.",49,17,32,8,0.999053023887465,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+222,2,"18:45",1125,1125,"Foul on Mike Parks Jr..",49,17,32,0,0.999514050928393,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+223,2,"18:45",1125,1125,"Mike Parks Jr. Turnover.",49,17,32,9,0.999514050928393,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+224,2,"18:36",1116,1116,"Stokley Chaffee Jr. missed Layup.",49,17,32,0,0.99921041263808,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+225,2,"18:36",1116,1116,"Mike Parks Jr. Block.",49,17,32,4,0.99921041263808,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+226,2,"18:32",1112,1112,"Tyler Harris Defensive Rebound.",49,17,32,4,0.99921041263808,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+227,2,"18:28",1108,1108,"Tyler Harris Turnover.",49,17,32,0,0.999062542499307,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+228,2,"18:28",1108,1108,"Stokley Chaffee Jr. Steal.",49,17,32,5,0.999062542499307,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+229,2,"18:23",1103,1103,"Foul on Tyler Harris.",49,17,32,0,0.999062542499307,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+230,2,"18:23",1103,1103,"Kamar McKnight made Free Throw.",49,18,31,0,0.998895914764609,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+231,2,"18:23",1103,1103,"Kamar McKnight made Free Throw.",49,19,30,16,0.998699708445564,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+232,2,"18:07",1087,1087,"Raynere Thornton made Layup. Assisted by Tyler Harris.",51,19,32,9,0.999392079438307,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+233,2,"17:58",1078,1078,"Foul on Raynere Thornton.",51,19,32,0,0.999087989711139,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+234,2,"17:58",1078,1078,"Kamar McKnight missed Free Throw.",51,19,32,0,0.999087989711139,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+235,2,"17:58",1078,1078,"Tennessee State Offensive Rebound.",51,19,32,0,0.999087989711139,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+236,2,"17:58",1078,1078,"Kamar McKnight missed Free Throw.",51,19,32,1,0.999087989711139,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+237,2,"17:57",1077,1077,"Memphis Defensive Rebound.",51,19,32,19,0.999087989711139,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+238,2,"17:38",1058,1058,"Mike Parks Jr. made Layup.",53,19,34,5,0.999584114568109,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+239,2,"17:33",1053,1053,"Tripp Davis missed Three Point Jumper.",53,19,34,3,0.999584114568109,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+240,2,"17:30",1050,1050,"Stokley Chaffee Jr. Offensive Rebound.",53,19,34,0,0.999584114568109,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+241,2,"17:30",1050,1050,"Foul on Raynere Thornton.",53,19,34,0,0.999584114568109,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+242,2,"17:30",1050,1050,"Kamar McKnight missed Layup.",53,19,34,0,0.999584114568109,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+243,2,"17:30",1050,1050,"Mike Parks Jr. Defensive Rebound.",53,19,34,12,0.999584114568109,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+244,2,"17:18",1038,1038,"Foul on Armani Chaney.",53,19,34,0,0.999431122711343,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+245,2,"17:18",1038,1038,"Technical Foul on Donte Fitzpatrick-Dorsey.",53,19,34,0,0.999431122711343,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+246,2,"17:18",1038,1038,"Antwann Jones made Free Throw.",54,19,35,0,0.999520753510726,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+247,2,"17:18",1038,1038,"Antwann Jones made Free Throw.",55,19,36,0,0.999596268023418,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+248,2,"17:18",1038,1038,"Antwann Jones made Free Throw.",56,19,37,0,0.999659887819394,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+249,2,"17:18",1038,1038,"Antwann Jones made Free Throw.",57,19,38,20,0.999713485326959,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+250,2,"16:58",1018,1018,"Damarri Moore missed Layup.",57,19,38,2,0.999778990703623,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+251,2,"16:56",1016,1016,"Stokley Chaffee Jr. Offensive Rebound.",57,19,38,2,0.999778990703623,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+252,2,"16:54",1014,1014,"Foul on Mike Parks Jr..",57,19,38,10,0.999778990703623,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+253,2,"16:44",1004,1004,"Damarri Moore Turnover.",57,19,38,0,0.999812734052971,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+254,2,"16:44",1004,1004,"Jeremiah Martin Steal.",57,19,38,6,0.999812734052971,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+255,2,"16:38",998,998,"Jeremiah Martin Turnover.",57,19,38,12,0.999761081238277,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+256,2,"16:26",986,986,"Foul on Mike Parks Jr..",57,19,38,0,0.999890676791468,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+257,2,"16:26",986,986,"Emmanuel Egbuta missed Free Throw.",57,19,38,0,0.999890676791468,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+258,2,"16:26",986,986,"Tennessee State Offensive Rebound.",57,19,38,0,0.999890676791468,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+259,2,"16:26",986,986,"Emmanuel Egbuta made Free Throw.",57,20,37,13,0.999866501581394,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+260,2,"16:13",973,973,"Tyler Harris missed Layup.",57,20,37,0,0.999752620314586,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+261,2,"16:13",973,973,"Emmanuel Egbuta Block.",57,20,37,3,0.999752620314586,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+262,2,"16:10",970,970,"Emmanuel Egbuta Defensive Rebound.",57,20,37,7,0.999752620314586,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+263,2,"16:03",963,963,"Damarri Moore Turnover.",57,20,37,0,0.999758983093815,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+264,2,"16:03",963,963,"Jeremiah Martin Steal.",57,20,37,3,0.999758983093815,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+265,2,"16:00",960,960,"Alex Lomax made Layup. Assisted by Kareem Brewton Jr..",59,20,39,19,0.999833685206003,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+266,2,"15:41",941,941,"Michael Littlejohn missed Three Point Jumper.",59,20,39,3,0.999894107272905,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+267,2,"15:38",938,938,"Kyvon Davenport Defensive Rebound.",59,20,39,5,0.999875782427289,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+268,2,"15:33",933,933,"Foul on Kamar McKnight.",59,20,39,0,0.999875782427289,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+269,2,"15:33",933,933,"Official TV Timeout",59,20,39,21,0.999875782427289,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+270,2,"15:12",912,912,"Jeremiah Martin missed Three Point Jumper.",59,20,39,3,0.99990802978936,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+271,2,"15:09",909,909,"Kyvon Davenport Offensive Rebound.",59,20,39,4,0.999870975731603,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+272,2,"15:05",905,905,"Isaiah Maurice Turnover.",59,20,39,29,0.999870975731603,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+273,2,"14:36",876,876,"Michael Littlejohn missed Jumper.",59,20,39,3,0.999883754538327,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+274,2,"14:33",873,873,"Kyvon Davenport Defensive Rebound.",59,20,39,8,0.999883754538327,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+275,2,"14:25",865,865,"Foul on Emmanuel Egbuta.",59,20,39,4,0.999874013418156,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+276,2,"14:21",861,861,"Kareem Brewton Jr. Turnover.",59,20,39,0,0.999874013418156,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+277,2,"14:21",861,861,"Kamar McKnight Steal.",59,20,39,24,0.999874013418156,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+278,2,"13:57",837,837,"Michael Littlejohn made Three Point Jumper. Assisted by Kamar McKnight.",59,23,36,9,0.999885747865775,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+279,2,"13:48",828,828,"Isaiah Maurice missed Three Point Jumper.",59,23,36,4,0.999759325800434,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+280,2,"13:44",824,824,"Kareem Brewton Jr. Offensive Rebound.",59,23,36,6,0.999759325800434,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+281,2,"13:38",818,818,"Kyvon Davenport made Jumper. Assisted by Alex Lomax.",61,23,38,22,0.999876829207637,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+282,2,"13:16",796,796,"Michael Littlejohn missed Three Point Jumper.",61,23,38,4,0.999945443693907,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+283,2,"13:12",792,792,"Jeremiah Martin Defensive Rebound.",61,23,38,4,0.999945443693907,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+284,2,"13:08",788,788,"Isaiah Maurice missed Layup.",61,23,38,1,0.999909758678976,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+285,2,"13:07",787,787,"Kyvon Davenport Offensive Rebound.",61,23,38,0,0.999909758678976,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+286,2,"13:07",787,787,"Kyvon Davenport missed Layup.",61,23,38,0,0.999909758678976,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+287,2,"13:07",787,787,"Kyvon Davenport Offensive Rebound.",61,23,38,0,0.999909758678976,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+288,2,"13:07",787,787,"Foul on Michael Littlejohn.",61,23,38,0,0.999909758678976,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+289,2,"13:07",787,787,"Kyvon Davenport missed Free Throw.",61,23,38,0,0.999909758678976,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+290,2,"13:07",787,787,"Memphis Offensive Rebound.",61,23,38,0,0.999909758678976,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+291,2,"13:07",787,787,"Kyvon Davenport made Free Throw.",62,23,39,19,0.999926570955254,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+292,2,"12:48",768,768,"Foul on Donte Fitzpatrick-Dorsey.",62,23,39,0,0.999956302468316,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+293,2,"12:48",768,768,"Donte Fitzpatrick-Dorsey Turnover.",62,23,39,11,0.999956302468316,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+294,2,"12:37",757,757,"Foul on Armani Chaney.",62,23,39,0,0.999953692368541,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+295,2,"12:37",757,757,"Kyvon Davenport made Free Throw.",63,23,40,0,0.999962733682615,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+296,2,"12:37",757,757,"Kyvon Davenport missed Free Throw.",63,23,40,0,0.999962733682615,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+297,2,"12:37",757,757,"DaJion Henderson Defensive Rebound.",63,23,40,7,0.999962733682615,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+298,2,"12:30",750,750,"Emmanuel Egbuta missed Layup.",63,23,40,1,0.999962733682615,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+299,2,"12:29",749,749,"Emmanuel Egbuta Offensive Rebound.",63,23,40,1,0.999968178354602,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+300,2,"12:28",748,748,"Emmanuel Egbuta missed Layup.",63,23,40,3,0.999968178354602,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+301,2,"12:25",745,745,"Tyler Harris Defensive Rebound.",63,23,40,3,0.999968178354602,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+302,2,"12:22",742,742,"Foul on Emmanuel Egbuta.",63,23,40,0,0.999968178354602,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+303,2,"12:22",742,742,"Tyler Harris made Free Throw.",64,23,41,0,0.999974537870058,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+304,2,"12:22",742,742,"Tyler Harris made Free Throw.",65,23,42,17,0.999979626470313,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+305,2,"12:05",725,725,"Foul on Isaiah Maurice.",65,23,42,0,0.999977449623105,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+306,2,"12:05",725,725,"DaJion Henderson made Free Throw.",65,24,41,1,0.999971898377075,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+307,2,"12:04",724,724,"DaJion Henderson missed Free Throw.",65,24,41,4,0.999971898377075,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+308,2,"12:00",720,720,"Kyvon Davenport Defensive Rebound.",65,24,41,9,0.999971898377075,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+309,2,"11:51",711,711,"Kareem Brewton Jr. made Jumper. Assisted by Isaiah Maurice.",67,24,43,14,0.999980484104029,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+310,2,"11:37",697,697,"Armani Chaney Turnover.",67,24,43,4,0.999992466555151,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+311,2,"11:33",693,693,"Tyler Harris made Layup. Assisted by Kareem Brewton Jr..",69,24,45,7,0.999995316746318,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+312,2,"11:26",686,686,"Foul on Armani Chaney.",69,24,45,0,0.999989457858856,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+313,2,"11:26",686,686,"Armani Chaney Turnover.",69,24,45,0,0.999989457858856,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+314,2,"11:26",686,686,"Official TV Timeout",69,24,45,8,0.999989457858856,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+315,2,"11:18",678,678,"Foul on Tripp Davis.",69,24,45,0,0.999992978693742,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+316,2,"11:18",678,678,"Kareem Brewton Jr. made Free Throw.",70,24,46,0,0.999994435075197,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+317,2,"11:18",678,678,"Kareem Brewton Jr. made Free Throw.",71,24,47,24,0.999995589370757,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+318,2,"10:54",654,654,"Dave Morris made Three Point Jumper. Assisted by Tripp Davis.",71,27,44,24,0.999992861215322,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+319,2,"10:30",630,630,"Raynere Thornton missed Jumper.",71,27,44,2,0.999990829121789,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+320,2,"10:28",628,628,"Memphis Offensive Rebound.",71,27,44,0,0.999996448738246,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+321,2,"10:28",628,628,"Foul on Tripp Davis.",71,27,44,0,0.999996448738246,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+322,2,"10:28",628,628,"Kareem Brewton Jr. made Free Throw.",72,27,45,0,0.999997238274387,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+323,2,"10:28",628,628,"Kareem Brewton Jr. made Free Throw.",73,27,46,12,0.999997852276866,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+324,2,"10:16",616,616,"Michael Littlejohn made Three Point Jumper.",73,30,43,10,0.999994290396683,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+325,2,"10:06",606,606,"Tyler Harris missed Three Point Jumper.",73,30,43,4,0.999993304261023,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+326,2,"10:02",602,602,"DaJion Henderson Defensive Rebound.",73,30,43,2,0.999993304261023,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+327,2,"10:00",600,600,"Foul on Victor Enoh.",73,30,43,1,0.999993304261023,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+328,2,"9:59",599,599,"DaJion Henderson missed Free Throw.",73,30,43,2,0.999990989070499,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+329,2,"9:57",597,597,"Raynere Thornton Defensive Rebound.",73,30,43,5,0.999990989070499,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+330,2,"9:52",592,592,"Foul on Kareem Brewton Jr..",73,30,43,0,0.999990989070499,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+331,2,"9:52",592,592,"Kareem Brewton Jr. Turnover.",73,30,43,9,0.999990989070499,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+332,2,"9:43",583,583,"Foul on DaJion Henderson.",73,30,43,0,0.999991208355358,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+333,2,"9:43",583,583,"DaJion Henderson Turnover.",73,30,43,6,0.999991208355358,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+334,2,"9:37",577,577,"Foul on Raynere Thornton.",73,30,43,0,0.999995413025157,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+335,2,"9:37",577,577,"Raynere Thornton Turnover.",73,30,43,10,0.999995413025157,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+336,2,"9:27",567,567,"Dave Morris missed Three Point Jumper.",73,30,43,2,0.999996518279554,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+337,2,"9:25",565,565,"Memphis Defensive Rebound.",73,30,43,2,0.999996518279554,"Memphis","Tennessee State",3,4,0,0,17.5,"401084741",2018-12-22
+338,2,"9:23",563,563,"Memphis  Timeout",73,30,43,0,0.999996518279554,"Memphis","Tennessee State",3,3,0,1,17.5,"401084741",2018-12-22
+339,2,"9:23",563,563,"Official TV Timeout",73,30,43,18,0.999996518279554,"Memphis","Tennessee State",3,3,0,1,17.5,"401084741",2018-12-22
+340,2,"9:05",545,545,"Antwann Jones missed Jumper.",73,30,43,3,0.99999700526758,"Memphis","Tennessee State",3,3,0,1,17.5,"401084741",2018-12-22
+341,2,"9:02",542,542,"Tripp Davis Defensive Rebound.",73,30,43,4,0.99999700526758,"Memphis","Tennessee State",3,3,0,1,17.5,"401084741",2018-12-22
+342,2,"8:58",538,538,"Foul on Kareem Brewton Jr..",73,30,43,0,0.999998618552254,"Memphis","Tennessee State",3,3,0,1,17.5,"401084741",2018-12-22
+343,2,"8:58",538,538,"Michael Littlejohn made Free Throw.",73,31,42,0,0.999998169674127,"Memphis","Tennessee State",3,3,0,1,17.5,"401084741",2018-12-22
+344,2,"8:58",538,538,"Michael Littlejohn made Free Throw.",73,32,41,13,0.999997574940983,"Memphis","Tennessee State",3,3,0,1,17.5,"401084741",2018-12-22
+345,2,"8:45",525,525,"Jeremiah Martin made Layup. Assisted by Antwann Jones.",75,32,43,30,0.999997402244837,"Memphis","Tennessee State",3,3,0,1,17.5,"401084741",2018-12-22
+346,2,"8:15",495,495,"Michael Littlejohn missed Three Point Jumper.",75,32,43,3,0.999997606313043,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+347,2,"8:12",492,492,"Antwann Jones Defensive Rebound.",75,32,43,0,0.999997606313043,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+348,2,"8:12",492,492,"Antwann Jones Turnover.",75,32,43,2,0.999997606313043,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+349,2,"8:10",490,490,"Kamar McKnight missed Three Point Jumper.",75,32,43,3,0.999997606313043,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+350,2,"8:07",487,487,"Daniel Cummings Offensive Rebound.",75,32,43,2,0.999997710413282,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+351,2,"8:05",485,485,"Kamar McKnight missed Layup.",75,32,43,1,0.999997710413282,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+352,2,"8:04",484,484,"Memphis Defensive Rebound.",75,32,43,0,0.999997710413282,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+353,2,"8:04",484,484,"Foul on Michael Littlejohn.",75,32,43,0,0.999997710413282,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+354,2,"8:04",484,484,"Victor Enoh missed Free Throw.",75,32,43,0,0.999997710413282,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+355,2,"8:04",484,484,"Memphis Offensive Rebound.",75,32,43,2,0.999997710413282,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+356,2,"8:02",482,482,"Victor Enoh missed Free Throw.",75,32,43,1,0.999997710413282,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+357,2,"8:01",481,481,"Daniel Cummings Defensive Rebound.",75,32,43,2,0.999997710413282,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+358,2,"7:59",479,479,"Michael Littlejohn missed Three Point Jumper.",75,32,43,3,0.999998967007085,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+359,2,"7:56",476,476,"Tennessee State Offensive Rebound.",75,32,43,0,0.999998967007085,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+360,2,"7:56",476,476,"Foul on Antwann Jones.",75,32,43,0,0.999998967007085,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+361,2,"7:56",476,476,"Official TV Timeout",75,32,43,0,0.999998967007085,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+362,2,"7:56",476,476,"Daniel Cummings made Free Throw.",75,33,42,0,0.999998618032234,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+363,2,"7:56",476,476,"Daniel Cummings made Free Throw.",75,34,41,19,0.999998151163813,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+364,2,"7:37",457,457,"Jeremiah Martin Turnover.",75,34,41,0,0.999999240536277,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+365,2,"7:37",457,457,"Michael Littlejohn Steal.",75,34,41,4,0.999999240536277,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+366,2,"7:33",453,453,"Michael Littlejohn missed Layup.",75,34,41,3,0.999999240536277,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+367,2,"7:30",450,450,"Kyvon Davenport Defensive Rebound.",75,34,41,12,0.999999240536277,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+368,2,"7:18",438,438,"Jeremiah Martin made Layup. Assisted by Antwann Jones.",77,34,43,0,0.999999499647752,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+369,2,"7:18",438,438,"Foul on Kamar McKnight.",77,34,43,0,0.999999499647752,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+370,2,"7:18",438,438,"Jeremiah Martin missed Free Throw.",77,34,43,2,0.999999499647752,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+371,2,"7:16",436,436,"Damarri Moore Defensive Rebound.",77,34,43,10,0.999999499647752,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+372,2,"7:06",426,426,"Tripp Davis missed Three Point Jumper.",77,34,43,4,0.999999053481035,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+373,2,"7:02",422,422,"Antwann Jones Defensive Rebound.",77,34,43,6,0.999999053481035,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+374,2,"6:56",416,416,"Mike Parks Jr. made Layup. Assisted by Antwann Jones.",79,34,45,16,0.999999614075886,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+375,2,"6:40",400,400,"Tripp Davis missed Three Point Jumper.",79,34,45,3,0.999999881562837,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+376,2,"6:37",397,397,"Jeremiah Martin Defensive Rebound.",79,34,45,4,0.999999752365044,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+377,2,"6:33",393,393,"Kareem Brewton Jr. made Layup. Assisted by Jeremiah Martin.",81,34,47,28,0.999999867355191,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+378,2,"6:05",365,365,"Kamar McKnight missed Three Point Jumper.",81,34,47,3,0.999999910556012,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+379,2,"6:02",362,362,"Kyvon Davenport Defensive Rebound.",81,34,47,2,0.999999910556012,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+380,2,"6:00",360,360,"Foul on Stokley Chaffee Jr..",81,34,47,0,0.999999910556012,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+381,2,"6:00",360,360,"Kyvon Davenport made Free Throw.",82,34,48,0,0.999999935234148,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+382,2,"6:00",360,360,"Kyvon Davenport made Free Throw.",83,34,49,4,0.999999953103438,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+383,2,"5:56",356,356,"Dave Morris missed Three Point Jumper.",83,34,49,3,0.999999980044225,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+384,2,"5:53",353,353,"Raynere Thornton Defensive Rebound.",83,34,49,10,0.999999980044225,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+385,2,"5:43",343,343,"Mike Parks Jr. made Dunk. Assisted by Antwann Jones.",85,34,51,13,0.999999985647867,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+386,2,"5:30",330,330,"Stokley Chaffee Jr. Turnover.",85,34,51,0,0.99999999538592,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+387,2,"5:30",330,330,"Antwann Jones Steal.",85,34,51,8,0.99999999538592,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+388,2,"5:22",322,322,"Mike Parks Jr. made Dunk. Assisted by Kareem Brewton Jr..",87,34,53,4,0.999999981755964,"Memphis","Tennessee State",3,3,0,0,17.5,"401084741",2018-12-22
+389,2,"5:18",318,318,"Tennessee State  Timeout",87,34,53,10,0.999999998658651,"Memphis","Tennessee State",2,3,1,0,17.5,"401084741",2018-12-22
+390,2,"5:08",308,308,"Armani Chaney missed Three Point Jumper.",87,34,53,4,0.999999993935135,"Memphis","Tennessee State",2,3,1,0,17.5,"401084741",2018-12-22
+391,2,"5:04",304,304,"Alex Lomax Defensive Rebound.",87,34,53,15,0.999999993935135,"Memphis","Tennessee State",2,3,1,0,17.5,"401084741",2018-12-22
+392,2,"4:49",289,289,"Mike Parks Jr. made Layup. Assisted by Alex Lomax.",89,34,55,0,0.999999998680468,"Memphis","Tennessee State",2,3,1,0,17.5,"401084741",2018-12-22
+393,2,"4:49",289,289,"Foul on Damarri Moore.",89,34,55,0,0.999999998680468,"Memphis","Tennessee State",2,3,1,0,17.5,"401084741",2018-12-22
+394,2,"4:49",289,289,"Mike Parks Jr. made Free Throw.",90,34,56,20,0.999999999072738,"Memphis","Tennessee State",2,3,1,0,17.5,"401084741",2018-12-22
+395,2,"4:29",269,269,"Armani Chaney missed Jumper.",90,34,56,2,0.999999999701974,"Memphis","Tennessee State",2,3,1,0,17.5,"401084741",2018-12-22
+396,2,"4:27",267,267,"Antwann Jones Defensive Rebound.",90,34,56,23,0.999999999701974,"Memphis","Tennessee State",2,3,1,0,17.5,"401084741",2018-12-22
+397,2,"4:04",244,244,"Alex Lomax missed Three Point Jumper.",90,34,56,3,0.999999999942986,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+398,2,"4:01",241,241,"Kareem Brewton Jr. Offensive Rebound.",90,34,56,7,0.999999999942986,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+399,2,"3:54",234,234,"Raynere Thornton Turnover.",90,34,56,0,0.999999999945717,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+400,2,"3:54",234,234,"Emmanuel Egbuta Steal.",90,34,56,22,0.999999999945717,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+401,2,"3:32",212,212,"Foul on Raynere Thornton.",90,34,56,0,0.999999999991926,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+402,2,"3:32",212,212,"Official TV Timeout",90,34,56,0,0.999999999991926,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+403,2,"3:32",212,212,"Emmanuel Egbuta missed Free Throw.",90,34,56,0,0.999999999991926,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+404,2,"3:32",212,212,"Tennessee State Offensive Rebound.",90,34,56,0,0.999999999991926,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+405,2,"3:32",212,212,"Emmanuel Egbuta made Free Throw.",90,35,55,12,0.999999999987473,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+406,2,"3:20",200,200,"Foul on Dave Morris.",90,35,55,0,0.999999999994825,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+407,2,"3:20",200,200,"Isaiah Maurice made Free Throw.",91,35,56,0,0.999999999996707,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+408,2,"3:20",200,200,"Isaiah Maurice made Free Throw.",92,35,57,14,0.999999999997905,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+409,2,"3:06",186,186,"Damarri Moore made Jumper. Assisted by Kamar McKnight.",92,37,55,23,0.999999999998892,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+410,2,"2:43",163,163,"Evin Olds Turnover.",92,37,55,0,0.999999999999841,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+411,2,"2:43",163,163,"Kamar McKnight Steal.",92,37,55,5,0.999999999999841,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+412,2,"2:38",158,158,"Kamar McKnight Turnover.",92,37,55,0,0.999999999999945,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+413,2,"2:38",158,158,"Victor Enoh Steal.",92,37,55,6,0.999999999999945,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+414,2,"2:32",152,152,"Evin Olds made Three Point Jumper. Assisted by Alex Lomax.",95,37,58,20,0.999999999999989,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+415,2,"2:12",132,132,"Armani Chaney missed Three Point Jumper.",95,37,58,2,0.999999999999993,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+416,2,"2:10",130,130,"Emmanuel Egbuta Offensive Rebound.",95,37,58,2,0.999999999999993,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+417,2,"2:08",128,128,"Foul on Victor Enoh.",95,37,58,0,0.999999999999997,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+418,2,"2:08",128,128,"Emmanuel Egbuta made Free Throw.",95,38,57,0,0.999999999999995,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+419,2,"2:08",128,128,"Emmanuel Egbuta missed Free Throw.",95,38,57,1,0.999999999999995,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+420,2,"2:07",127,127,"Victor Enoh Defensive Rebound.",95,38,57,1,0.999999999999995,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+421,2,"2:06",126,126,"Foul on Damarri Moore.",95,38,57,0,0.999999999999995,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+422,2,"2:06",126,126,"Victor Enoh made Free Throw.",96,38,58,0,0.999999999999997,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+423,2,"2:06",126,126,"Victor Enoh made Free Throw.",97,38,59,27,0.999999999999999,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+424,2,"1:39",99,99,"Kamar McKnight Turnover.",97,38,59,12,1,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+425,2,"1:27",87,87,"Foul on Emmanuel Egbuta.",97,38,59,0,1,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+426,2,"1:27",87,87,"Evin Olds made Free Throw.",98,38,60,0,1,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+427,2,"1:27",87,87,"Evin Olds made Free Throw.",99,38,61,36,1,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+428,2,"0:51",51,51,"Tennessee State  Turnover.",99,38,61,9,1,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+429,2,"0:42",42,42,"Isaiah Maurice missed Jumper.",99,38,61,3,1,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+430,2,"0:39",39,39,"Emmanuel Egbuta Defensive Rebound.",99,38,61,7,1,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+431,2,"0:32",32,32,"Daniel Cummings made Three Point Jumper. Assisted by Michael Littlejohn.",99,41,58,31,1,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+432,2,"0:01",1,1,"Memphis  Turnover.",99,41,58,1,1,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+433,2,"0:00",0,0,"End of 2nd half",99,41,58,0,NA,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22
+434,2,"0:00",0,0,"End of Game",99,41,58,0,NA,"Memphis","Tennessee State",2,3,0,0,17.5,"401084741",2018-12-22

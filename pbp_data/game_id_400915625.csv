@@ -1,0 +1,348 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.770231956908983,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+2,1,"19:40",2380,2380,"Marcus Allen Turnover.",0,0,0,0.766540941658563,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+3,1,"19:39",2379,2379,"Matisse Thybulle Steal.",0,0,0,0.766512861726686,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+4,1,"19:36",2376,2376,"Matisse Thybulle made Dunk. Assisted by David Crisp.",0,2,-2,0.730759027409188,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+5,1,"19:15",2355,2355,"Reid Travis missed Jumper.",0,2,-2,0.739649625940898,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+6,1,"19:15",2355,2355,"Noah Dickerson Defensive Rebound.",0,2,-2,0.739649625940898,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+7,1,"18:58",2338,2338,"Matthew Atewe Turnover.",0,2,-2,0.725210032565526,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+8,1,"18:48",2328,2328,"Foul on Markelle Fultz.",0,2,-2,0.725512156589187,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+9,1,"18:33",2313,2313,"Robert Cartwright missed Three Point Jumper.",0,2,-2,0.70703857824226,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+10,1,"18:33",2313,2313,"Washington Defensive Rebound.",0,2,-2,0.70703857824226,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+11,1,"18:15",2295,2295,"Markelle Fultz made Jumper.",0,4,-4,0.68398456678802,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+12,1,"17:52",2272,2272,"Marcus Allen made Layup.",2,4,-2,0.720399992841335,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+13,1,"17:44",2264,2264,"Markelle Fultz Turnover.",2,4,-2,0.717179082470995,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+14,1,"17:43",2263,2263,"Dorian Pickens Steal.",2,4,-2,0.717179082470995,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+15,1,"17:31",2251,2251,"Dorian Pickens missed Jumper.",2,4,-2,0.716080469569986,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+16,1,"17:31",2251,2251,"Stanford Deadball Team Rebound.",2,4,-2,0.716080469569986,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+17,1,"17:29",2249,2249,"Foul on Noah Dickerson.",2,4,-2,0.713554235232236,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+18,1,"17:11",2231,2231,"Dorian Pickens missed Jumper.",2,4,-2,0.713113800727233,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+19,1,"17:11",2231,2231,"Matthew Atewe Block.",2,4,-2,0.713113800727233,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+20,1,"17:06",2226,2226,"Matisse Thybulle Defensive Rebound.",2,4,-2,0.719041801478486,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+21,1,"17:01",2221,2221,"David Crisp missed Jumper.",2,4,-2,0.719041801478486,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+22,1,"17:01",2221,2221,"Stanford Deadball Team Rebound.",2,4,-2,0.719041801478486,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+23,1,"17:01",2221,2221,"Foul on Matthew Atewe.",2,4,-2,0.719041801478486,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+24,1,"16:48",2208,2208,"Michael Humphrey made Jumper.",4,4,0,0.754754705855337,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+25,1,"16:33",2193,2193,"David Crisp Turnover.",4,4,0,0.764945939611481,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+26,1,"16:32",2192,2192,"Marcus Allen Steal.",4,4,0,0.764945939611481,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+27,1,"16:29",2189,2189,"Marcus Allen missed Layup.",4,4,0,0.754048871978084,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+28,1,"16:29",2189,2189,"Reid Travis Offensive Rebound.",4,4,0,0.754048871978084,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+29,1,"16:28",2188,2188,"Foul on Noah Dickerson.",4,4,0,0.754048871978084,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+30,1,"16:28",2188,2188,"Reid Travis missed Free Throw.",4,4,0,0.754048871978084,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+31,1,"16:28",2188,2188,"Stanford Deadball Team Rebound.",4,4,0,0.754048871978084,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+32,1,"16:28",2188,2188,"Reid Travis missed Free Throw.",4,4,0,0.754048871978084,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+33,1,"16:28",2188,2188,"Matthew Atewe Defensive Rebound.",4,4,0,0.754048871978084,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+34,1,"16:21",2181,2181,"Dominic Green missed Three Point Jumper.",4,4,0,0.754048871978084,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+35,1,"16:21",2181,2181,"Markelle Fultz Offensive Rebound.",4,4,0,0.754048871978084,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+36,1,"16:16",2176,2176,"Markelle Fultz made Layup.",4,6,-2,0.705616920733935,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+37,1,"16:03",2163,2163,"Marcus Allen made Layup.",6,6,0,0.749677134183722,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+38,1,"15:45",2145,2145,"Official TV Timeout",6,6,0,0.758256838933367,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+39,1,"15:31",2131,2131,"Matisse Thybulle missed Jumper.",6,6,0,0.750795278795363,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+40,1,"15:31",2131,2131,"Reid Travis Defensive Rebound.",6,6,0,0.750795278795363,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+41,1,"15:14",2114,2114,"Michael Humphrey made Jumper. Assisted by Marcus Sheffield.",8,6,2,0.796201857315218,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+42,1,"14:57",2097,2097,"Markelle Fultz missed Jumper.",8,6,2,0.786687521131849,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+43,1,"14:57",2097,2097,"Matthew Atewe Offensive Rebound.",8,6,2,0.786687521131849,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+44,1,"14:52",2092,2092,"Matthew Atewe made Dunk.",8,8,0,0.742114341588799,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+45,1,"14:39",2079,2079,"Robert Cartwright missed Three Point Jumper.",8,8,0,0.74866198907146,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+46,1,"14:39",2079,2079,"Washington Defensive Rebound.",8,8,0,0.74866198907146,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+47,1,"14:15",2055,2055,"Matisse Thybulle made Jumper.",8,10,-2,0.705360559087467,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+48,1,"13:55",2035,2035,"Reid Travis made Layup.",10,10,0,0.761341149864492,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+49,1,"13:41",2021,2021,"Markelle Fultz Turnover.",10,10,0,0.743795601107998,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+50,1,"13:40",2020,2020,"Robert Cartwright Steal.",10,10,0,0.743795601107998,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+51,1,"13:39",2019,2019,"Robert Cartwright made Layup.",12,10,2,0.790655932170606,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+52,1,"13:15",1995,1995,"Matisse Thybulle missed Three Point Jumper.",12,10,2,0.79267157501838,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+53,1,"13:15",1995,1995,"Marcus Sheffield Defensive Rebound.",12,10,2,0.79267157501838,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+54,1,"13:07",1987,1987,"Foul on Marcus Sheffield.",12,10,2,0.776248506837213,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+55,1,"13:07",1987,1987,"Marcus Sheffield Turnover.",12,10,2,0.776248506837213,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+56,1,"12:51",1971,1971,"Foul on Grant Verhoeven.",12,10,2,0.796231248881603,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+57,1,"12:51",1971,1971,"Dominic Green made Free Throw.",12,11,1,0.774809446743029,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+58,1,"12:51",1971,1971,"Dominic Green made Free Throw.",12,12,0,0.751837507005277,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+59,1,"12:41",1961,1961,"Marcus Sheffield made Three Point Jumper. Assisted by Marcus Allen.",15,12,3,0.800395262736508,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+60,1,"12:21",1941,1941,"Foul on Marcus Sheffield.",15,12,3,0.80687658476914,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+61,1,"12:21",1941,1941,"Markelle Fultz made Free Throw.",15,13,2,0.786427385336062,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+62,1,"12:21",1941,1941,"Markelle Fultz made Free Throw.",15,14,1,0.764445012709829,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+63,1,"12:02",1922,1922,"Dorian Pickens made Jumper.",17,14,3,0.80879076742105,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+64,1,"11:49",1909,1909,"Markelle Fultz missed Jumper.",17,14,3,0.804008294083116,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+65,1,"11:49",1909,1909,"Grant Verhoeven Block.",17,14,3,0.804008294083116,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+66,1,"11:48",1908,1908,"Michael Humphrey Defensive Rebound.",17,14,3,0.804008294083116,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+67,1,"11:30",1890,1890,"Marcus Allen made Layup.",19,14,5,0.848782272595846,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+68,1,"11:08",1868,1868,"David Crisp Turnover.",19,14,5,0.849929910019864,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+69,1,"11:08",1868,1868,"Official TV Timeout",19,14,5,0.849929910019864,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+70,1,"10:51",1851,1851,"Michael Humphrey missed Jumper.",19,14,5,0.844538744004062,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+71,1,"10:51",1851,1851,"Markelle Fultz Defensive Rebound.",19,14,5,0.844538744004062,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+72,1,"10:20",1820,1820,"Markelle Fultz made Three Point Jumper. Assisted by Carlos Johnson.",19,17,2,0.798074091917791,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+73,1,"10:08",1808,1808,"Marcus Allen missed Three Point Jumper.",19,17,2,0.782266122261628,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+74,1,"10:08",1808,1808,"Markelle Fultz Defensive Rebound.",19,17,2,0.782266122261628,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+75,1,"9:55",1795,1795,"Dominic Green missed Jumper.",19,17,2,0.7749827344404,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+76,1,"9:55",1795,1795,"Stanford Defensive Rebound.",19,17,2,0.7749827344404,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+77,1,"9:36",1776,1776,"Dorian Pickens Turnover.",19,17,2,0.770307006838841,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+78,1,"9:36",1776,1776,"Matisse Thybulle Steal.",19,17,2,0.770307006838841,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+79,1,"9:33",1773,1773,"Matisse Thybulle missed Dunk.",19,17,2,0.770307006838841,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+80,1,"9:33",1773,1773,"Stanford Defensive Rebound.",19,17,2,0.770307006838841,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+81,1,"9:21",1761,1761,"Foul on Dominic Green.",19,17,2,0.791016302094554,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+82,1,"9:03",1743,1743,"Reid Travis missed Layup.",19,17,2,0.781552332557181,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+83,1,"9:03",1743,1743,"Michael Humphrey Offensive Rebound.",19,17,2,0.781552332557181,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+84,1,"8:56",1736,1736,"Michael Humphrey Turnover.",19,17,2,0.784229338812192,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+85,1,"8:56",1736,1736,"Sam Timmins Steal.",19,17,2,0.784229338812192,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+86,1,"8:44",1724,1724,"Foul on Marcus Allen.",19,17,2,0.777986273099914,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+87,1,"8:42",1722,1722,"David Crisp missed Three Point Jumper.",19,17,2,0.777986273099914,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+88,1,"8:42",1722,1722,"Reid Travis Defensive Rebound.",19,17,2,0.777986273099914,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+89,1,"8:19",1699,1699,"Reid Travis made Dunk. Assisted by Michael Humphrey.",21,17,4,0.829459897512412,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+90,1,"8:04",1684,1684,"Matthew Atewe Turnover.",21,17,4,0.835461184048388,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+91,1,"7:47",1667,1667,"Michael Humphrey made Layup. Assisted by Marcus Allen.",23,17,6,0.855197580022577,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+92,1,"7:34",1654,1654,"Matisse Thybulle missed Three Point Jumper.",23,17,6,0.856904810085005,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+93,1,"7:34",1654,1654,"Michael Humphrey Defensive Rebound.",23,17,6,0.856904810085005,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+94,1,"7:23",1643,1643,"Dorian Pickens made Three Point Jumper. Assisted by Robert Cartwright.",26,17,9,0.906898359968174,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+95,1,"7:19",1639,1639,"Washington  Timeout",26,17,9,0.900626792498332,"Stanford","Washington",3,4,1,0,5.5,400915625,2017-01-14
+96,1,"7:07",1627,1627,"David Crisp missed Jumper.",26,17,9,0.904393800556347,"Stanford","Washington",3,4,1,0,5.5,400915625,2017-01-14
+97,1,"7:07",1627,1627,"Stanford Defensive Rebound.",26,17,9,0.904393800556347,"Stanford","Washington",3,4,1,0,5.5,400915625,2017-01-14
+98,1,"6:51",1611,1611,"Foul on Reid Travis.",26,17,9,0.897202485439495,"Stanford","Washington",3,4,1,0,5.5,400915625,2017-01-14
+99,1,"6:51",1611,1611,"Reid Travis Turnover.",26,17,9,0.897202485439495,"Stanford","Washington",3,4,1,0,5.5,400915625,2017-01-14
+100,1,"6:35",1595,1595,"Matisse Thybulle Turnover.",26,17,9,0.901733023179093,"Stanford","Washington",3,4,1,0,5.5,400915625,2017-01-14
+101,1,"6:35",1595,1595,"Dorian Pickens Steal.",26,17,9,0.901733023179093,"Stanford","Washington",3,4,1,0,5.5,400915625,2017-01-14
+102,1,"6:26",1586,1586,"Michael Humphrey made Layup. Assisted by Robert Cartwright.",28,17,11,0.919557836224975,"Stanford","Washington",3,4,1,0,5.5,400915625,2017-01-14
+103,1,"6:02",1562,1562,"Dominic Green missed Layup.",28,17,11,0.923348088919583,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+104,1,"6:02",1562,1562,"Matthew Atewe Offensive Rebound.",28,17,11,0.923348088919583,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+105,1,"5:59",1559,1559,"Matthew Atewe made Dunk.",28,19,9,0.901077036803991,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+106,1,"5:39",1539,1539,"Foul on Carlos Johnson.",28,19,9,0.904783144257867,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+107,1,"5:39",1539,1539,"Marcus Allen made Free Throw.",29,19,10,0.916143909435645,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+108,1,"5:39",1539,1539,"Marcus Allen made Free Throw.",30,19,11,0.926259643473235,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+109,1,"5:11",1511,1511,"David Crisp made Layup.",30,21,9,0.915257384515482,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+110,1,"4:58",1498,1498,"Robert Cartwright made Layup. Assisted by Michael Humphrey.",32,21,11,0.928211226525982,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+111,1,"4:35",1475,1475,"Matthew Atewe missed Layup.",32,21,11,0.937102044666712,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+112,1,"4:35",1475,1475,"Michael Humphrey Block.",32,21,11,0.937102044666712,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+113,1,"4:34",1474,1474,"Michael Humphrey Defensive Rebound.",32,21,11,0.937102044666712,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+114,1,"4:12",1452,1452,"Foul on Noah Dickerson.",32,21,11,0.926656665975658,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+115,1,"4:12",1452,1452,"Marcus Allen made Free Throw.",33,21,12,0.936067922730073,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+116,1,"4:12",1452,1452,"Marcus Allen made Free Throw.",34,21,13,0.944344079107667,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+117,1,"4:01",1441,1441,"Markelle Fultz missed Three Point Jumper.",34,21,13,0.952967065131097,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+118,1,"4:01",1441,1441,"Josh Sharma Defensive Rebound.",34,21,13,0.952967065131097,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+119,1,"3:35",1415,1415,"Grant Verhoeven made Jumper. Assisted by Robert Cartwright.",36,21,15,0.9610540186189,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+120,1,"3:21",1401,1401,"David Crisp made Three Point Jumper. Assisted by Markelle Fultz.",36,24,12,0.946262303415676,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+121,1,"3:03",1383,1383,"Robert Cartwright made Jumper.",38,24,14,0.95552898446367,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+122,1,"2:44",1364,1364,"Dominic Green missed Jumper.",38,24,14,0.955819051106287,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+123,1,"2:44",1364,1364,"Grant Verhoeven Defensive Rebound.",38,24,14,0.955819051106287,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+124,1,"2:24",1344,1344,"Robert Cartwright missed Layup.",38,24,14,0.955763476522717,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+125,1,"2:24",1344,1344,"Devenir Duruisseau Defensive Rebound.",38,24,14,0.955763476522717,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+126,1,"2:16",1336,1336,"Devenir Duruisseau missed Jumper.",38,24,14,0.953806233995541,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+127,1,"2:16",1336,1336,"Dorian Pickens Defensive Rebound.",38,24,14,0.953806233995541,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+128,1,"1:54",1314,1314,"Josh Sharma made Three Point Jumper. Assisted by Robert Cartwright.",41,24,17,0.974469863354475,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+129,1,"1:33",1293,1293,"David Crisp Turnover.",41,24,17,0.977710674047419,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+130,1,"1:26",1286,1286,"Josh Sharma missed Layup.",41,24,17,0.970227434076499,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+131,1,"1:26",1286,1286,"Markelle Fultz Block.",41,24,17,0.970227434076499,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+132,1,"1:24",1284,1284,"Devenir Duruisseau Defensive Rebound.",41,24,17,0.970227434076499,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+133,1,"1:21",1281,1281,"Markelle Fultz missed Layup.",41,24,17,0.970227434076499,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+134,1,"1:21",1281,1281,"Stanford Defensive Rebound.",41,24,17,0.970227434076499,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+135,1,"1:19",1279,1279,"Official TV Timeout",41,24,17,0.967504578305841,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+136,1,"0:50",1250,1250,"Marcus Allen missed Jumper.",41,24,17,0.96840545658874,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+137,1,"0:50",1250,1250,"Washington Deadball Team Rebound.",41,24,17,0.96840545658874,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+138,1,"0:46",1246,1246,"Foul on Josh Sharma.",41,24,17,0.97191981044989,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+139,1,"0:38",1238,1238,"David Crisp missed Three Point Jumper.",41,24,17,0.972771516166425,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+140,1,"0:38",1238,1238,"Stanford Defensive Rebound.",41,24,17,0.972771516166425,"Stanford","Washington",3,4,0,0,5.5,400915625,2017-01-14
+141,1,"0:28",1228,1228,"Stanford  Timeout",41,24,17,0.977539265224278,"Stanford","Washington",3,3,0,1,5.5,400915625,2017-01-14
+142,1,"0:08",1208,1208,"Marcus Allen made Layup.",43,24,19,0.980375165357324,"Stanford","Washington",3,3,0,1,5.5,400915625,2017-01-14
+143,1,"0:00",1200,1200,"End of 1st half",43,24,19,0.980375165357324,"Stanford","Washington",3,3,0,1,5.5,400915625,2017-01-14
+144,2,"20:00",1200,1200,"PLAY",43,24,19,0.980375165357324,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+145,2,"19:49",1189,1189,"Foul on Matthew Atewe.",43,24,19,0.982595496548084,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+146,2,"19:26",1166,1166,"Robert Cartwright missed Three Point Jumper.",43,24,19,0.98143398345319,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+147,2,"19:26",1166,1166,"Markelle Fultz Defensive Rebound.",43,24,19,0.98143398345319,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+148,2,"19:18",1158,1158,"Markelle Fultz missed Layup.",43,24,19,0.980721890528629,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+149,2,"19:18",1158,1158,"Michael Humphrey Defensive Rebound.",43,24,19,0.980721890528629,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+150,2,"19:14",1154,1154,"Foul on Matisse Thybulle.",43,24,19,0.980721890528629,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+151,2,"19:07",1147,1147,"Foul on Matthew Atewe.",43,24,19,0.983697132402059,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+152,2,"19:06",1146,1146,"Foul on Carlos Johnson.",43,24,19,0.983697132402059,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+153,2,"18:53",1133,1133,"Robert Cartwright missed Layup.",43,24,19,0.982011777429735,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+154,2,"18:53",1133,1133,"Markelle Fultz Block.",43,24,19,0.982011777429735,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+155,2,"18:51",1131,1131,"David Crisp Defensive Rebound.",43,24,19,0.982011777429735,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+156,2,"18:48",1128,1128,"Matisse Thybulle missed Three Point Jumper.",43,24,19,0.987653565843277,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+157,2,"18:48",1128,1128,"Michael Humphrey Defensive Rebound.",43,24,19,0.987653565843277,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+158,2,"18:37",1117,1117,"Marcus Allen made Layup.",45,24,21,0.988746521127754,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+159,2,"18:26",1106,1106,"Foul on Grant Verhoeven.",45,24,21,0.986906545389338,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+160,2,"18:26",1106,1106,"Matthew Atewe made Free Throw.",45,25,20,0.984612536623542,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+161,2,"18:26",1106,1106,"Matthew Atewe missed Free Throw.",45,25,20,0.984612536623542,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+162,2,"18:26",1106,1106,"Markelle Fultz Offensive Rebound.",45,25,20,0.984612536623542,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+163,2,"18:21",1101,1101,"Foul on Michael Humphrey.",45,25,20,0.984612536623542,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+164,2,"18:21",1101,1101,"Carlos Johnson made Free Throw.",45,26,19,0.981923972740496,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+165,2,"18:21",1101,1101,"Carlos Johnson made Free Throw.",45,27,18,0.978775777445919,"Stanford","Washington",4,4,0,0,5.5,400915625,2017-01-14
+166,2,"18:01",1081,1081,"Stanford  Timeout",45,27,18,0.983138921500172,"Stanford","Washington",4,3,0,1,5.5,400915625,2017-01-14
+167,2,"17:53",1073,1073,"Michael Humphrey missed Jumper.",45,27,18,0.979897669821515,"Stanford","Washington",4,3,0,1,5.5,400915625,2017-01-14
+168,2,"17:53",1073,1073,"Matthew Atewe Defensive Rebound.",45,27,18,0.979897669821515,"Stanford","Washington",4,3,0,1,5.5,400915625,2017-01-14
+169,2,"17:43",1063,1063,"Foul on Michael Humphrey.",45,27,18,0.981536851300522,"Stanford","Washington",4,3,0,1,5.5,400915625,2017-01-14
+170,2,"17:28",1048,1048,"Markelle Fultz made Jumper. Assisted by David Crisp.",45,29,16,0.976212646265834,"Stanford","Washington",4,3,0,1,5.5,400915625,2017-01-14
+171,2,"16:59",1019,1019,"Michael Humphrey missed Three Point Jumper.",45,29,16,0.974264231134219,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+172,2,"16:59",1019,1019,"Markelle Fultz Defensive Rebound.",45,29,16,0.974264231134219,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+173,2,"16:51",1011,1011,"Markelle Fultz made Three Point Jumper.",45,32,13,0.956304520442446,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+174,2,"16:31",991,991,"Foul on David Crisp.",45,32,13,0.956568439506131,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+175,2,"16:28",988,988,"Foul on Josh Sharma.",45,32,13,0.968436117442248,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+176,2,"16:28",988,988,"Josh Sharma Turnover.",45,32,13,0.968436117442248,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+177,2,"16:08",968,968,"Carlos Johnson missed Jumper.",45,32,13,0.959184660593291,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+178,2,"16:08",968,968,"Josh Sharma Block.",45,32,13,0.959184660593291,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+179,2,"16:07",967,967,"Dorian Pickens Defensive Rebound.",45,32,13,0.959184660593291,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+180,2,"16:06",966,966,"Foul on Matisse Thybulle.",45,32,13,0.959184660593291,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+181,2,"16:06",966,966,"Marcus Sheffield made Free Throw.",46,32,14,0.9658602039328,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+182,2,"16:06",966,966,"Marcus Sheffield made Free Throw.",47,32,15,0.971476398067984,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+183,2,"15:57",957,957,"Carlos Johnson missed Layup.",47,32,15,0.975447604881392,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+184,2,"15:57",957,957,"Marcus Sheffield Defensive Rebound.",47,32,15,0.975447604881392,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+185,2,"15:45",945,945,"Robert Cartwright missed Layup.",47,32,15,0.977493094085222,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+186,2,"15:45",945,945,"Matthew Atewe Defensive Rebound.",47,32,15,0.977493094085222,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+187,2,"15:44",944,944,"Foul on Grant Verhoeven.",47,32,15,0.977493094085222,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+188,2,"15:44",944,944,"Official TV Timeout",47,32,15,0.977493094085222,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+189,2,"15:37",937,937,"Markelle Fultz missed Three Point Jumper.",47,32,15,0.974845354742067,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+190,2,"15:37",937,937,"Matisse Thybulle Offensive Rebound.",47,32,15,0.974845354742067,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+191,2,"15:32",932,932,"David Crisp missed Three Point Jumper.",47,32,15,0.974845354742067,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+192,2,"15:32",932,932,"David Crisp Offensive Rebound.",47,32,15,0.974845354742067,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+193,2,"15:28",928,928,"David Crisp made Layup.",47,34,13,0.961001383284993,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+194,2,"15:14",914,914,"Foul on Matisse Thybulle.",47,34,13,0.967236761820686,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+195,2,"15:14",914,914,"Dorian Pickens made Free Throw.",48,34,14,0.97290710698972,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+196,2,"15:14",914,914,"Dorian Pickens made Free Throw.",49,34,15,0.977618791733891,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+197,2,"14:57",897,897,"Foul on Michael Humphrey.",49,34,15,0.97658767915926,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+198,2,"14:56",896,896,"Markelle Fultz made Jumper.",49,36,13,0.965849018084402,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+199,2,"14:33",873,873,"Dorian Pickens missed Layup.",49,36,13,0.964745879890198,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+200,2,"14:33",873,873,"Washington Defensive Rebound.",49,36,13,0.964745879890198,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+201,2,"14:18",858,858,"David Crisp missed Layup.",49,36,13,0.970429831711872,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+202,2,"14:18",858,858,"Carlos Johnson Offensive Rebound.",49,36,13,0.970429831711872,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+203,2,"14:15",855,855,"Carlos Johnson made Layup.",49,38,11,0.956090863620612,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+204,2,"14:02",842,842,"Dorian Pickens missed Three Point Jumper.",49,38,11,0.95609309823041,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+205,2,"14:02",842,842,"Grant Verhoeven Offensive Rebound.",49,38,11,0.95609309823041,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+206,2,"13:56",836,836,"Foul on Carlos Johnson.",49,38,11,0.957286247737086,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+207,2,"13:56",836,836,"Josh Sharma missed Free Throw.",49,38,11,0.957286247737086,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+208,2,"13:56",836,836,"Noah Dickerson Defensive Rebound.",49,38,11,0.957286247737086,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+209,2,"13:55",835,835,"Foul on Grant Verhoeven.",49,38,11,0.957286247737086,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+210,2,"13:55",835,835,"Noah Dickerson made Free Throw.",49,39,10,0.948010802768379,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+211,2,"13:55",835,835,"Noah Dickerson missed Free Throw.",49,39,10,0.948010802768379,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+212,2,"13:55",835,835,"Josh Sharma Defensive Rebound.",49,39,10,0.948010802768379,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+213,2,"13:45",825,825,"Foul on Dominic Green.",49,39,10,0.935665153520528,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+214,2,"13:45",825,825,"Marcus Sheffield made Free Throw.",50,39,11,0.946110931585548,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+215,2,"13:45",825,825,"Marcus Sheffield made Free Throw.",51,39,12,0.954942346586829,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+216,2,"13:32",812,812,"Carlos Johnson missed Three Point Jumper.",51,39,12,0.957290110459491,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+217,2,"13:32",812,812,"Noah Dickerson Offensive Rebound.",51,39,12,0.957290110459491,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+218,2,"13:28",808,808,"Noah Dickerson made Layup.",51,41,10,0.947040526804119,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+219,2,"13:10",790,790,"Josh Sharma missed Layup.",51,41,10,0.949753884442347,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+220,2,"13:10",790,790,"Josh Sharma Offensive Rebound.",51,41,10,0.949753884442347,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+221,2,"12:50",770,770,"Josh Sharma missed Three Point Jumper.",51,41,10,0.946192886701813,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+222,2,"12:50",770,770,"Noah Dickerson Defensive Rebound.",51,41,10,0.946192886701813,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+223,2,"12:40",760,760,"Carlos Johnson missed Layup.",51,41,10,0.953647581292292,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+224,2,"12:40",760,760,"Josh Sharma Block.",51,41,10,0.953647581292292,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+225,2,"12:40",760,760,"Washington Offensive Rebound.",51,41,10,0.953647581292292,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+226,2,"12:36",756,756,"Foul on Marcus Allen.",51,41,10,0.949865018257772,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+227,2,"12:36",756,756,"Markelle Fultz missed Free Throw.",51,41,10,0.949865018257772,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+228,2,"12:36",756,756,"Dominic Green Offensive Rebound.",51,41,10,0.949865018257772,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+229,2,"12:25",745,745,"Foul on Marcus Sheffield.",51,41,10,0.950142643377569,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+230,2,"12:25",745,745,"Markelle Fultz made Free Throw.",51,42,9,0.938456093294007,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+231,2,"12:25",745,745,"Markelle Fultz made Free Throw.",51,43,8,0.924248615468835,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+232,2,"12:10",730,730,"Foul on Markelle Fultz.",51,43,8,0.91823335992111,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+233,2,"12:10",730,730,"Marcus Allen missed Free Throw.",51,43,8,0.91823335992111,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+234,2,"12:10",730,730,"Stanford Deadball Team Rebound.",51,43,8,0.91823335992111,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+235,2,"12:10",730,730,"Marcus Allen made Free Throw.",52,43,9,0.932843254079932,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+236,2,"12:03",723,723,"Markelle Fultz made Layup.",52,45,7,0.911924466649175,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+237,2,"11:46",706,706,"Michael Humphrey made Layup.",54,45,9,0.933769956833363,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+238,2,"11:34",694,694,"Matisse Thybulle made Layup.",54,47,7,0.922012375006864,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+239,2,"11:19",679,679,"Marcus Allen Turnover.",54,47,7,0.911676997779128,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+240,2,"11:18",678,678,"Markelle Fultz Steal.",54,47,7,0.911676997779128,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+241,2,"11:15",675,675,"Markelle Fultz made Layup.",54,49,5,0.866383125576949,"Stanford","Washington",4,3,0,0,5.5,400915625,2017-01-14
+242,2,"11:04",664,664,"Stanford  Timeout",54,49,5,0.868267801151756,"Stanford","Washington",4,2,0,1,5.5,400915625,2017-01-14
+243,2,"11:04",664,664,"Official TV Timeout",54,49,5,0.868267801151756,"Stanford","Washington",4,2,0,1,5.5,400915625,2017-01-14
+244,2,"10:49",649,649,"Dorian Pickens missed Three Point Jumper.",54,49,5,0.871412007222206,"Stanford","Washington",4,2,0,1,5.5,400915625,2017-01-14
+245,2,"10:49",649,649,"Matisse Thybulle Defensive Rebound.",54,49,5,0.871412007222206,"Stanford","Washington",4,2,0,1,5.5,400915625,2017-01-14
+246,2,"10:26",626,626,"Markelle Fultz missed Three Point Jumper.",54,49,5,0.882604578417721,"Stanford","Washington",4,2,0,1,5.5,400915625,2017-01-14
+247,2,"10:26",626,626,"Josh Sharma Defensive Rebound.",54,49,5,0.882604578417721,"Stanford","Washington",4,2,0,1,5.5,400915625,2017-01-14
+248,2,"10:11",611,611,"Michael Humphrey Turnover.",54,49,5,0.86949247539656,"Stanford","Washington",4,2,0,1,5.5,400915625,2017-01-14
+249,2,"10:09",609,609,"David Crisp Steal.",54,49,5,0.875590864023791,"Stanford","Washington",4,2,0,1,5.5,400915625,2017-01-14
+250,2,"10:05",605,605,"Dominic Green missed Three Point Jumper.",54,49,5,0.875590864023791,"Stanford","Washington",4,2,0,1,5.5,400915625,2017-01-14
+251,2,"10:05",605,605,"Marcus Allen Defensive Rebound.",54,49,5,0.875590864023791,"Stanford","Washington",4,2,0,1,5.5,400915625,2017-01-14
+252,2,"9:34",574,574,"Foul on Matisse Thybulle.",54,49,5,0.885852863870463,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+253,2,"9:34",574,574,"Dorian Pickens made Free Throw.",55,49,6,0.909066989148713,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+254,2,"9:34",574,574,"Dorian Pickens made Free Throw.",56,49,7,0.927944067887702,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+255,2,"9:17",557,557,"Foul on Grant Verhoeven.",56,49,7,0.921880420043105,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+256,2,"9:16",556,556,"Markelle Fultz made Free Throw.",56,50,6,0.900953317002415,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+257,2,"9:16",556,556,"Markelle Fultz made Free Throw.",56,51,5,0.875179196982342,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+258,2,"8:57",537,537,"Robert Cartwright missed Jumper.",56,51,5,0.898677785074484,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+259,2,"8:57",537,537,"Markelle Fultz Defensive Rebound.",56,51,5,0.898677785074484,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+260,2,"8:49",529,529,"Markelle Fultz made Layup.",56,53,3,0.810314832335161,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+261,2,"8:22",502,502,"Robert Cartwright made Jumper.",58,53,5,0.888082316999837,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+262,2,"8:00",480,480,"Markelle Fultz missed Three Point Jumper.",58,53,5,0.88210966963591,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+263,2,"8:00",480,480,"Noah Dickerson Offensive Rebound.",58,53,5,0.88210966963591,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+264,2,"7:50",470,470,"Carlos Johnson made Layup.",58,55,3,0.821522268290342,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+265,2,"7:27",447,447,"Robert Cartwright missed Layup.",58,55,3,0.801873233654494,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+266,2,"7:27",447,447,"Noah Dickerson Defensive Rebound.",58,55,3,0.801873233654494,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+267,2,"7:25",445,445,"Foul on Josh Sharma.",58,55,3,0.801873233654494,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+268,2,"7:25",445,445,"Official TV Timeout",58,55,3,0.801873233654494,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+269,2,"7:25",445,445,"Noah Dickerson missed Free Throw.",58,55,3,0.801873233654494,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+270,2,"7:25",445,445,"Washington Deadball Team Rebound.",58,55,3,0.801873233654494,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+271,2,"7:25",445,445,"Noah Dickerson missed Free Throw.",58,55,3,0.801873233654494,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+272,2,"7:25",445,445,"Robert Cartwright Defensive Rebound.",58,55,3,0.801873233654494,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+273,2,"7:11",431,431,"Robert Cartwright made Layup.",60,55,5,0.902601543516573,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+274,2,"6:43",403,403,"Markelle Fultz Turnover.",60,55,5,0.90067065200174,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+275,2,"6:41",401,401,"Marcus Sheffield Steal.",60,55,5,0.90067065200174,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+276,2,"6:19",379,379,"Marcus Sheffield missed Jumper.",60,55,5,0.891612677531364,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+277,2,"6:19",379,379,"Michael Humphrey Offensive Rebound.",60,55,5,0.891612677531364,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+278,2,"6:15",375,375,"Michael Humphrey Turnover.",60,55,5,0.891612677531364,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+279,2,"6:14",374,374,"Markelle Fultz Steal.",60,55,5,0.891612677531364,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+280,2,"6:10",370,370,"Markelle Fultz made Layup.",60,57,3,0.815776494576285,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+281,2,"5:50",350,350,"Dorian Pickens made Jumper.",62,57,5,0.897469647556153,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+282,2,"5:23",323,323,"Dominic Green made Three Point Jumper. Assisted by Markelle Fultz.",62,60,2,0.76969360730231,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+283,2,"4:57",297,297,"Foul on Markelle Fultz.",62,60,2,0.782804815034176,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+284,2,"4:57",297,297,"Josh Sharma made Free Throw.",63,60,3,0.835488546442411,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+285,2,"4:57",297,297,"Josh Sharma missed Free Throw.",63,60,3,0.835488546442411,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+286,2,"4:57",297,297,"Matisse Thybulle Defensive Rebound.",63,60,3,0.835488546442411,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+287,2,"4:35",275,275,"Markelle Fultz missed Three Point Jumper.",63,60,3,0.83902214472567,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+288,2,"4:35",275,275,"Stanford Defensive Rebound.",63,60,3,0.83902214472567,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+289,2,"4:16",256,256,"Robert Cartwright missed Layup.",63,60,3,0.856926404187118,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+290,2,"4:16",256,256,"Dominic Green Defensive Rebound.",63,60,3,0.856926404187118,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+291,2,"4:15",255,255,"David Crisp made Three Point Jumper. Assisted by Markelle Fultz.",63,63,0,0.628520830922075,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+292,2,"3:38",218,218,"Marcus Sheffield missed Jumper.",63,63,0,0.615172180118861,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+293,2,"3:38",218,218,"Michael Humphrey Offensive Rebound.",63,63,0,0.615172180118861,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+294,2,"3:36",216,216,"Michael Humphrey made Layup.",65,63,2,0.793753768322279,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+295,2,"3:36",216,216,"Foul on Matthew Atewe.",65,63,2,0.793753768322279,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+296,2,"3:36",216,216,"Michael Humphrey made Free Throw.",66,63,3,0.856559162651481,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+297,2,"3:22",202,202,"Matisse Thybulle missed Layup.",66,63,3,0.877599147276285,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+298,2,"3:22",202,202,"Josh Sharma Defensive Rebound.",66,63,3,0.877599147276285,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+299,2,"2:56",176,176,"Marcus Sheffield missed Layup.",66,63,3,0.881613922442548,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+300,2,"2:56",176,176,"Noah Dickerson Defensive Rebound.",66,63,3,0.881613922442548,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+301,2,"2:43",163,163,"Noah Dickerson missed Layup.",66,63,3,0.899677076988602,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+302,2,"2:42",162,162,"Josh Sharma Block.",66,63,3,0.899677076988602,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+303,2,"2:41",161,161,"Josh Sharma Defensive Rebound.",66,63,3,0.899677076988602,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+304,2,"2:26",146,146,"Michael Humphrey missed Layup.",66,63,3,0.880418362939468,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+305,2,"2:26",146,146,"David Crisp Defensive Rebound.",66,63,3,0.880418362939468,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+306,2,"2:18",138,138,"Dominic Green missed Three Point Jumper.",66,63,3,0.898344207037574,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+307,2,"2:18",138,138,"Washington Offensive Rebound.",66,63,3,0.898344207037574,"Stanford","Washington",4,2,0,0,5.5,400915625,2017-01-14
+308,2,"2:14",134,134,"Washington  Timeout",66,63,3,0.898344207037574,"Stanford","Washington",3,2,1,0,5.5,400915625,2017-01-14
+309,2,"2:13",133,133,"David Crisp missed Three Point Jumper.",66,63,3,0.898344207037574,"Stanford","Washington",3,2,1,0,5.5,400915625,2017-01-14
+310,2,"2:13",133,133,"Stanford Defensive Rebound.",66,63,3,0.898344207037574,"Stanford","Washington",3,2,1,0,5.5,400915625,2017-01-14
+311,2,"1:47",107,107,"Michael Humphrey made Dunk.",68,63,5,0.967191455388945,"Stanford","Washington",3,2,1,0,5.5,400915625,2017-01-14
+312,2,"1:32",92,92,"Markelle Fultz missed Jumper.",68,63,5,0.969586550356507,"Stanford","Washington",3,2,1,0,5.5,400915625,2017-01-14
+313,2,"1:32",92,92,"Michael Humphrey Block.",68,63,5,0.969586550356507,"Stanford","Washington",3,2,1,0,5.5,400915625,2017-01-14
+314,2,"1:30",90,90,"Josh Sharma Defensive Rebound.",68,63,5,0.969586550356507,"Stanford","Washington",3,2,1,0,5.5,400915625,2017-01-14
+315,2,"1:26",86,86,"Foul on David Crisp.",68,63,5,0.983789835936702,"Stanford","Washington",3,2,1,0,5.5,400915625,2017-01-14
+316,2,"1:26",86,86,"Michael Humphrey made Free Throw.",69,63,6,0.992015524298963,"Stanford","Washington",3,2,1,0,5.5,400915625,2017-01-14
+317,2,"1:26",86,86,"Michael Humphrey made Free Throw.",70,63,7,0.996083783789901,"Stanford","Washington",3,2,1,0,5.5,400915625,2017-01-14
+318,2,"1:10",70,70,"Noah Dickerson missed Layup.",70,63,7,0.995600063764996,"Stanford","Washington",3,2,0,0,5.5,400915625,2017-01-14
+319,2,"1:10",70,70,"Michael Humphrey Block.",70,63,7,0.995600063764996,"Stanford","Washington",3,2,0,0,5.5,400915625,2017-01-14
+320,2,"1:09",69,69,"Marcus Sheffield Defensive Rebound.",70,63,7,0.995058601296818,"Stanford","Washington",3,2,0,0,5.5,400915625,2017-01-14
+321,2,"1:06",66,66,"Foul on David Crisp.",70,63,7,0.995058601296818,"Stanford","Washington",3,2,0,0,5.5,400915625,2017-01-14
+322,2,"1:06",66,66,"Robert Cartwright made Free Throw.",71,63,8,0.997641572107592,"Stanford","Washington",3,2,0,0,5.5,400915625,2017-01-14
+323,2,"1:06",66,66,"Robert Cartwright made Free Throw.",72,63,9,0.998875896180865,"Stanford","Washington",3,2,0,0,5.5,400915625,2017-01-14
+324,2,"0:57",57,57,"Dominic Green missed Three Point Jumper.",72,63,9,0.999761544547455,"Stanford","Washington",3,2,0,0,5.5,400915625,2017-01-14
+325,2,"0:57",57,57,"Michael Humphrey Defensive Rebound.",72,63,9,0.999761544547455,"Stanford","Washington",3,2,0,0,5.5,400915625,2017-01-14
+326,2,"0:48",48,48,"Stanford  Timeout",72,63,9,0.999861412584629,"Stanford","Washington",3,1,0,1,5.5,400915625,2017-01-14
+327,2,"0:38",38,38,"Foul on Markelle Fultz.",72,63,9,0.999862559514203,"Stanford","Washington",3,1,0,1,5.5,400915625,2017-01-14
+328,2,"0:38",38,38,"Robert Cartwright missed Free Throw.",72,63,9,0.999862559514203,"Stanford","Washington",3,1,0,1,5.5,400915625,2017-01-14
+329,2,"0:38",38,38,"Stanford Deadball Team Rebound.",72,63,9,0.999862559514203,"Stanford","Washington",3,1,0,1,5.5,400915625,2017-01-14
+330,2,"0:38",38,38,"Robert Cartwright made Free Throw.",73,63,10,0.999947209246345,"Stanford","Washington",3,1,0,1,5.5,400915625,2017-01-14
+331,2,"0:30",30,30,"Dan Kingma missed Three Point Jumper.",73,63,10,0.999930744971117,"Stanford","Washington",3,1,0,1,5.5,400915625,2017-01-14
+332,2,"0:30",30,30,"Michael Humphrey Defensive Rebound.",73,63,10,0.999930744971117,"Stanford","Washington",3,1,0,1,5.5,400915625,2017-01-14
+333,2,"0:27",27,27,"Foul on Dominic Green.",73,63,10,0.999996509496331,"Stanford","Washington",3,1,0,1,5.5,400915625,2017-01-14
+334,2,"0:27",27,27,"Michael Humphrey made Free Throw.",74,63,11,0.999998937959978,"Stanford","Washington",3,1,0,1,5.5,400915625,2017-01-14
+335,2,"0:27",27,27,"Michael Humphrey missed Free Throw.",74,63,11,0.999998937959978,"Stanford","Washington",3,1,0,1,5.5,400915625,2017-01-14
+336,2,"0:27",27,27,"Carlos Johnson Defensive Rebound.",74,63,11,0.999998937959978,"Stanford","Washington",3,1,0,1,5.5,400915625,2017-01-14
+337,2,"0:22",22,22,"Markelle Fultz missed Three Point Jumper.",74,63,11,0.999999637621455,"Stanford","Washington",3,1,0,1,5.5,400915625,2017-01-14
+338,2,"0:22",22,22,"Robert Cartwright Defensive Rebound.",74,63,11,0.999999637621455,"Stanford","Washington",3,1,0,1,5.5,400915625,2017-01-14
+339,2,"0:18",18,18,"Robert Cartwright Turnover.",74,63,11,0.999993755906779,"Stanford","Washington",3,1,0,1,5.5,400915625,2017-01-14
+340,2,"0:18",18,18,"Dominic Green Steal.",74,63,11,0.999993755906779,"Stanford","Washington",3,1,0,1,5.5,400915625,2017-01-14
+341,2,"0:17",17,17,"Markelle Fultz made Three Point Jumper. Assisted by David Crisp.",74,66,8,0.999893055420281,"Stanford","Washington",3,1,0,1,5.5,400915625,2017-01-14
+342,2,"0:16",16,16,"Washington  Timeout",74,66,8,0.999998612268619,"Stanford","Washington",2,1,1,1,5.5,400915625,2017-01-14
+343,2,"0:12",12,12,"Foul on Carlos Johnson.",74,66,8,0.999985326165411,"Stanford","Washington",2,1,1,1,5.5,400915625,2017-01-14
+344,2,"0:12",12,12,"Dorian Pickens made Free Throw.",75,66,9,0.999995972264211,"Stanford","Washington",2,1,1,1,5.5,400915625,2017-01-14
+345,2,"0:12",12,12,"Dorian Pickens made Free Throw.",76,66,10,0.999998894458692,"Stanford","Washington",2,1,1,1,5.5,400915625,2017-01-14
+346,2,"0:08",8,8,"Markelle Fultz made Three Point Jumper.",76,69,7,0.999992981653885,"Stanford","Washington",2,1,1,1,5.5,400915625,2017-01-14
+347,2,"0:00",0,0,"End of Game",76,69,7,1,"Stanford","Washington",2,1,1,1,5.5,400915625,2017-01-14

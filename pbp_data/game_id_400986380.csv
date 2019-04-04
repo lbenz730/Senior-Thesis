@@ -1,0 +1,393 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2700,"PLAY",0,0,0,0.834331373184416,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+2,1,"20:00",2400,2700,"Jump Ball won by Tennessee",0,0,0,0.834331373184416,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+3,1,"19:42",2382,2682,"Admiral Schofield missed Jumper.",0,0,0,0.830110427792434,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+4,1,"19:42",2382,2682,"Kyle Alexander Offensive Rebound.",0,0,0,0.830110427792434,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+5,1,"19:29",2369,2669,"Kyle Alexander missed Jumper.",0,0,0,0.815103488131537,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+6,1,"19:29",2369,2669,"Isaac Haas Defensive Rebound.",0,0,0,0.815103488131537,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+7,1,"19:14",2354,2654,"Carsen Edwards made Three Point Jumper. Assisted by Isaac Haas.",3,0,3,0.866161941465825,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+8,1,"18:47",2327,2627,"Grant Williams missed Jumper.",3,0,3,0.867849802040902,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+9,1,"18:47",2327,2627,"Carsen Edwards Defensive Rebound.",3,0,3,0.867849802040902,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+10,1,"18:35",2315,2615,"Isaac Haas made Layup. Assisted by Dakota Mathias.",5,0,5,0.873717003001128,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+11,1,"18:19",2299,2599,"Jordan Bone missed Jumper.",5,0,5,0.883391586252464,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+12,1,"18:19",2299,2599,"Kyle Alexander Offensive Rebound.",5,0,5,0.883391586252464,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+13,1,"18:11",2291,2591,"Kyle Alexander made Layup.",5,2,3,0.861756316332246,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+14,1,"17:46",2266,2566,"Carsen Edwards missed Three Point Jumper.",5,2,3,0.873282925716577,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+15,1,"17:46",2266,2566,"Tennessee Defensive Rebound.",5,2,3,0.873282925716577,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+16,1,"17:42",2262,2562,"Foul on Isaac Haas.",5,2,3,0.873282925716577,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+17,1,"17:40",2260,2560,"Jordan Bowden made Layup. Assisted by Admiral Schofield.",5,4,1,0.843351283427382,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+18,1,"17:06",2226,2526,"Dakota Mathias Turnover.",5,4,1,0.834625764139516,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+19,1,"17:06",2226,2526,"Kyle Alexander Steal.",5,4,1,0.834625764139516,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+20,1,"17:06",2226,2526,"Jordan Bone Turnover.",5,4,1,0.834625764139516,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+21,1,"17:06",2226,2526,"Matt Haarms Steal.",5,4,1,0.834625764139516,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+22,1,"16:49",2209,2509,"Foul on James Daniel III.",5,4,1,0.832197265430231,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+23,1,"16:44",2204,2504,"Vince Edwards made Three Point Jumper.",8,4,4,0.874434558963332,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+24,1,"16:31",2191,2491,"Foul on Grant Williams.",8,4,4,0.882533548847225,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+25,1,"16:31",2191,2491,"Grant Williams Turnover.",8,4,4,0.882533548847225,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+26,1,"16:30",2190,2490,"Carsen Edwards made Layup.",10,4,6,0.904610393784084,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+27,1,"16:11",2171,2471,"Lamonte Turner made Three Point Jumper. Assisted by James Daniel III.",10,7,3,0.856071733182924,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+28,1,"16:01",2161,2461,"Vince Edwards missed Jumper.",10,7,3,0.856807537495011,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+29,1,"16:01",2161,2461,"Kyle Alexander Defensive Rebound.",10,7,3,0.856807537495011,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+30,1,"15:47",2147,2447,"John Fulkerson missed Jumper.",10,7,3,0.859687416088587,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+31,1,"15:47",2147,2447,"Kyle Alexander Offensive Rebound.",10,7,3,0.859687416088587,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+32,1,"15:38",2138,2438,"Kyle Alexander made Layup.",10,9,1,0.830723882833081,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+33,1,"15:31",2131,2431,"P.J. Thompson missed Jumper.",10,9,1,0.830723882833081,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+34,1,"15:31",2131,2431,"Vince Edwards Offensive Rebound.",10,9,1,0.830723882833081,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+35,1,"15:20",2120,2420,"Carsen Edwards missed Three Point Jumper.",10,9,1,0.826206147579315,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+36,1,"15:20",2120,2420,"Tennessee Defensive Rebound.",10,9,1,0.826206147579315,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+37,1,"15:11",2111,2411,"Official TV Timeout",10,9,1,0.835878448656688,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+38,1,"14:55",2095,2395,"John Fulkerson Turnover.",10,9,1,0.822201957334873,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+39,1,"14:41",2081,2381,"Vince Edwards missed Layup.",10,9,1,0.82487248161981,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+40,1,"14:41",2081,2381,"Derrick Walker Block.",10,9,1,0.82487248161981,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+41,1,"14:41",2081,2381,"Matt Haarms Offensive Rebound.",10,9,1,0.82487248161981,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+42,1,"14:30",2070,2370,"Matt Haarms made Layup.",12,9,3,0.856281667826946,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+43,1,"14:14",2054,2354,"Lamonte Turner missed Three Point Jumper.",12,9,3,0.863232077212996,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+44,1,"14:14",2054,2354,"Vince Edwards Defensive Rebound.",12,9,3,0.863232077212996,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+45,1,"14:14",2054,2354,"Foul on John Fulkerson.",12,9,3,0.863232077212996,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+46,1,"14:00",2040,2340,"P.J. Thompson made Three Point Jumper. Assisted by Vince Edwards.",15,9,6,0.884986561460027,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+47,1,"13:42",2022,2322,"Chris Darrington Turnover.",15,9,6,0.902069429182048,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+48,1,"13:27",2007,2307,"Carsen Edwards missed Jumper.",15,9,6,0.887723938291088,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+49,1,"13:27",2007,2307,"Derrick Walker Defensive Rebound.",15,9,6,0.887723938291088,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+50,1,"13:04",1984,2284,"Foul on Matt Haarms.",15,9,6,0.889303839944142,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+51,1,"13:04",1984,2284,"Jordan Bone missed Free Throw.",15,9,6,0.889303839944142,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+52,1,"13:04",1984,2284,"Tennessee Deadball Team Rebound.",15,9,6,0.889303839944142,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+53,1,"13:04",1984,2284,"Jordan Bone made Free Throw.",15,10,5,0.876419081110134,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+54,1,"12:51",1971,2271,"Vince Edwards Turnover.",15,10,5,0.892070604969902,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+55,1,"12:31",1951,2251,"Chris Darrington missed Layup.",15,10,5,0.884528025351286,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+56,1,"12:31",1951,2251,"Isaac Haas Block.",15,10,5,0.884528025351286,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+57,1,"12:31",1951,2251,"Admiral Schofield Offensive Rebound.",15,10,5,0.884528025351286,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+58,1,"12:22",1942,2242,"Admiral Schofield missed Layup.",15,10,5,0.884220514294444,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+59,1,"12:22",1942,2242,"Tennessee Offensive Rebound.",15,10,5,0.884220514294444,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+60,1,"12:13",1933,2233,"Admiral Schofield missed Three Point Jumper.",15,10,5,0.880614373581714,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+61,1,"12:13",1933,2233,"Tennessee Offensive Rebound.",15,10,5,0.880614373581714,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+62,1,"12:13",1933,2233,"Tennessee  Turnover.",15,10,5,0.880614373581714,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+63,1,"12:00",1920,2220,"Ryan Cline missed Three Point Jumper.",15,10,5,0.887542899889665,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+64,1,"12:00",1920,2220,"Vince Edwards Offensive Rebound.",15,10,5,0.887542899889665,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+65,1,"12:00",1920,2220,"Vince Edwards missed Two Point Tip Shot.",15,10,5,0.887542899889665,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+66,1,"12:00",1920,2220,"Jordan Bone Defensive Rebound.",15,10,5,0.887542899889665,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+67,1,"12:00",1920,2220,"Admiral Schofield made Layup. Assisted by Jordan Bone.",15,12,3,0.859846360406181,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+68,1,"12:00",1920,2220,"Foul on Nojel Eastern.",15,12,3,0.859846360406181,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+69,1,"11:58",1918,2218,"Official TV Timeout",15,12,3,0.864832042175836,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+70,1,"11:57",1917,2217,"Admiral Schofield made Free Throw.",15,13,2,0.849037892951958,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+71,1,"11:50",1910,2210,"Isaac Haas missed Jumper.",15,13,2,0.849037892951958,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+72,1,"11:50",1910,2210,"Jordan Bowden Defensive Rebound.",15,13,2,0.849037892951958,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+73,1,"11:27",1887,2187,"Jordan Bone missed Three Point Jumper.",15,13,2,0.838755750808278,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+74,1,"11:27",1887,2187,"Vince Edwards Defensive Rebound.",15,13,2,0.838755750808278,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+75,1,"11:06",1866,2166,"Dakota Mathias missed Three Point Jumper.",15,13,2,0.839846191836188,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+76,1,"11:06",1866,2166,"Jordan Bowden Defensive Rebound.",15,13,2,0.839846191836188,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+77,1,"10:57",1857,2157,"Jordan Bowden missed Three Point Jumper.",15,13,2,0.838343030869976,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+78,1,"10:57",1857,2157,"Isaac Haas Defensive Rebound.",15,13,2,0.838343030869976,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+79,1,"10:45",1845,2145,"Dakota Mathias made Three Point Jumper. Assisted by Vince Edwards.",18,13,5,0.876235945452365,"Purdue","Tennessee",4,4,0,0,8,400986380,2017-11-22
+80,1,"10:38",1838,2138,"Tennessee  Timeout",18,13,5,0.880330511266327,"Purdue","Tennessee",3,4,1,0,8,400986380,2017-11-22
+81,1,"10:35",1835,2135,"Admiral Schofield made Three Point Jumper. Assisted by Grant Williams.",18,16,2,0.834031048924433,"Purdue","Tennessee",3,4,1,0,8,400986380,2017-11-22
+82,1,"10:19",1819,2119,"Carsen Edwards missed Jumper.",18,16,2,0.840342916656984,"Purdue","Tennessee",3,4,1,0,8,400986380,2017-11-22
+83,1,"10:19",1819,2119,"Tennessee Defensive Rebound.",18,16,2,0.840342916656984,"Purdue","Tennessee",3,4,1,0,8,400986380,2017-11-22
+84,1,"9:53",1793,2093,"Derrick Walker missed Jumper.",18,16,2,0.827556856217189,"Purdue","Tennessee",3,4,1,0,8,400986380,2017-11-22
+85,1,"9:53",1793,2093,"Admiral Schofield Offensive Rebound.",18,16,2,0.827556856217189,"Purdue","Tennessee",3,4,1,0,8,400986380,2017-11-22
+86,1,"9:31",1771,2071,"Derrick Walker Turnover.",18,16,2,0.824896275923428,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+87,1,"9:31",1771,2071,"Dakota Mathias Steal.",18,16,2,0.824896275923428,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+88,1,"9:03",1743,2043,"Grady Eifert Turnover.",18,16,2,0.830805002835328,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+89,1,"8:50",1730,2030,"Foul on Grady Eifert.",18,16,2,0.835811803468528,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+90,1,"8:48",1728,2028,"Grant Williams missed Jumper.",18,16,2,0.825655563625732,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+91,1,"8:48",1728,2028,"Carsen Edwards Defensive Rebound.",18,16,2,0.825655563625732,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+92,1,"8:40",1720,2020,"Carsen Edwards made Layup.",20,16,4,0.861314514662393,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+93,1,"8:40",1720,2020,"Foul on Jordan Bowden.",20,16,4,0.861314514662393,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+94,1,"8:40",1720,2020,"Carsen Edwards made Free Throw.",21,16,5,0.87672807185341,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+95,1,"8:16",1696,1996,"Jordan Bowden missed Layup.",21,16,5,0.885210091730177,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+96,1,"8:16",1696,1996,"Dakota Mathias Defensive Rebound.",21,16,5,0.885210091730177,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+97,1,"8:09",1689,1989,"Carsen Edwards missed Three Point Jumper.",21,16,5,0.892655721322715,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+98,1,"8:09",1689,1989,"Jordan Bowden Defensive Rebound.",21,16,5,0.892655721322715,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+99,1,"8:02",1682,1982,"Jordan Bowden missed Jumper.",21,16,5,0.892655721322715,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+100,1,"8:02",1682,1982,"Grant Williams Offensive Rebound.",21,16,5,0.892655721322715,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+101,1,"7:56",1676,1976,"Lamonte Turner missed Three Point Jumper.",21,16,5,0.88548164266255,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+102,1,"7:56",1676,1976,"Purdue Defensive Rebound.",21,16,5,0.88548164266255,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+103,1,"7:54",1674,1974,"Official TV Timeout",21,16,5,0.88548164266255,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+104,1,"7:54",1674,1974,"Foul on Jordan Bowden.",21,16,5,0.88548164266255,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+105,1,"7:44",1664,1964,"Dakota Mathias missed Three Point Jumper.",21,16,5,0.878489555417883,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+106,1,"7:44",1664,1964,"Lamonte Turner Defensive Rebound.",21,16,5,0.878489555417883,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+107,1,"7:17",1637,1937,"James Daniel III missed Layup.",21,16,5,0.880488503194623,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+108,1,"7:17",1637,1937,"Vince Edwards Defensive Rebound.",21,16,5,0.880488503194623,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+109,1,"7:17",1637,1937,"Vince Edwards Turnover.",21,16,5,0.880488503194623,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+110,1,"7:12",1632,1932,"Admiral Schofield missed Three Point Jumper.",21,16,5,0.880488503194623,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+111,1,"7:12",1632,1932,"Vince Edwards Defensive Rebound.",21,16,5,0.880488503194623,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+112,1,"6:59",1619,1919,"Foul on Grant Williams.",21,16,5,0.872126295660634,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+113,1,"6:59",1619,1919,"Dakota Mathias missed Free Throw.",21,16,5,0.872126295660634,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+114,1,"6:59",1619,1919,"Purdue Deadball Team Rebound.",21,16,5,0.872126295660634,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+115,1,"6:59",1619,1919,"Dakota Mathias made Free Throw.",22,16,6,0.887017569210269,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+116,1,"6:45",1605,1905,"Foul on Dakota Mathias.",22,16,6,0.892095919730971,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+117,1,"6:28",1588,1888,"Chris Darrington missed Three Point Jumper.",22,16,6,0.890027487190078,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+118,1,"6:28",1588,1888,"Vince Edwards Defensive Rebound.",22,16,6,0.890027487190078,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+119,1,"6:21",1581,1881,"Foul on James Daniel III.",22,16,6,0.890027487190078,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+120,1,"6:21",1581,1881,"Carsen Edwards made Free Throw.",23,16,7,0.902612217975193,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+121,1,"6:21",1581,1881,"Carsen Edwards made Free Throw.",24,16,8,0.913896135123633,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+122,1,"6:15",1575,1875,"Admiral Schofield missed Three Point Jumper.",24,16,8,0.928432154121784,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+123,1,"6:15",1575,1875,"Lamonte Turner Offensive Rebound.",24,16,8,0.928432154121784,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+124,1,"5:43",1543,1843,"Jordan Bone missed Layup.",24,16,8,0.919701062072123,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+125,1,"5:33",1533,1833,"Dakota Mathias Defensive Rebound.",24,16,8,0.919602707098149,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+126,1,"5:25",1525,1825,"P.J. Thompson made Three Point Jumper. Assisted by Dakota Mathias.",27,16,11,0.94430430756396,"Purdue","Tennessee",3,4,1,0,8,400986380,2017-11-22
+127,1,"5:25",1525,1825,"Tennessee  Timeout",27,16,11,0.94430430756396,"Purdue","Tennessee",2,4,1,0,8,400986380,2017-11-22
+128,1,"5:01",1501,1801,"Lamonte Turner made Layup.",27,18,9,0.92812713478372,"Purdue","Tennessee",2,4,1,0,8,400986380,2017-11-22
+129,1,"5:01",1501,1801,"Foul on Matt Haarms.",27,18,9,0.92812713478372,"Purdue","Tennessee",2,4,1,0,8,400986380,2017-11-22
+130,1,"5:01",1501,1801,"Lamonte Turner made Free Throw.",27,19,8,0.918023652341667,"Purdue","Tennessee",2,4,1,0,8,400986380,2017-11-22
+131,1,"4:47",1487,1787,"Vince Edwards missed Three Point Jumper.",27,19,8,0.920087256744153,"Purdue","Tennessee",2,4,1,0,8,400986380,2017-11-22
+132,1,"4:47",1487,1787,"Lamonte Turner Defensive Rebound.",27,19,8,0.920087256744153,"Purdue","Tennessee",2,4,1,0,8,400986380,2017-11-22
+133,1,"4:29",1469,1769,"Foul on Kyle Alexander.",27,19,8,0.910098108785255,"Purdue","Tennessee",2,4,1,0,8,400986380,2017-11-22
+134,1,"4:29",1469,1769,"Kyle Alexander Turnover.",27,19,8,0.910098108785255,"Purdue","Tennessee",2,4,1,0,8,400986380,2017-11-22
+135,1,"4:20",1460,1760,"Foul on Vince Edwards.",27,19,8,0.910098108785255,"Purdue","Tennessee",2,4,0,0,8,400986380,2017-11-22
+136,1,"4:20",1460,1760,"Vince Edwards Turnover.",27,19,8,0.910098108785255,"Purdue","Tennessee",2,4,0,0,8,400986380,2017-11-22
+137,1,"4:15",1455,1755,"Lamonte Turner made Three Point Jumper. Assisted by Jordan Bone.",27,22,5,0.877654670902011,"Purdue","Tennessee",2,4,0,0,8,400986380,2017-11-22
+138,1,"3:53",1433,1733,"Grady Eifert made Layup. Assisted by Dakota Mathias.",29,22,7,0.907484527002862,"Purdue","Tennessee",2,4,0,0,8,400986380,2017-11-22
+139,1,"3:41",1421,1721,"Kyle Alexander missed Jumper.",29,22,7,0.899149506743029,"Purdue","Tennessee",2,4,0,0,8,400986380,2017-11-22
+140,1,"3:41",1421,1721,"Isaac Haas Defensive Rebound.",29,22,7,0.899149506743029,"Purdue","Tennessee",2,4,0,0,8,400986380,2017-11-22
+141,1,"3:27",1407,1707,"Isaac Haas made Layup. Assisted by P.J. Thompson.",31,22,9,0.937946817542222,"Purdue","Tennessee",2,4,0,0,8,400986380,2017-11-22
+142,1,"3:05",1385,1685,"Lamonte Turner made Three Point Jumper.",31,25,6,0.898180441685028,"Purdue","Tennessee",2,4,0,0,8,400986380,2017-11-22
+143,1,"2:49",1369,1669,"P.J. Thompson missed Three Point Jumper.",31,25,6,0.895421994250737,"Purdue","Tennessee",2,4,0,0,8,400986380,2017-11-22
+144,1,"2:49",1369,1669,"Chris Darrington Defensive Rebound.",31,25,6,0.895421994250737,"Purdue","Tennessee",2,4,0,0,8,400986380,2017-11-22
+145,1,"2:25",1345,1645,"Kyle Alexander made Layup. Assisted by Chris Darrington.",31,27,4,0.855800101274299,"Purdue","Tennessee",2,4,0,0,8,400986380,2017-11-22
+146,1,"2:15",1335,1635,"Purdue  Timeout",31,27,4,0.854106730538673,"Purdue","Tennessee",2,3,0,1,8,400986380,2017-11-22
+147,1,"1:48",1308,1608,"Vince Edwards missed Layup.",31,27,4,0.85127177159901,"Purdue","Tennessee",2,3,0,1,8,400986380,2017-11-22
+148,1,"1:48",1308,1608,"Purdue Offensive Rebound.",31,27,4,0.85127177159901,"Purdue","Tennessee",2,3,0,1,8,400986380,2017-11-22
+149,1,"1:48",1308,1608,"Purdue  Turnover.",31,27,4,0.85127177159901,"Purdue","Tennessee",2,3,0,1,8,400986380,2017-11-22
+150,1,"1:20",1280,1580,"Jordan Bone missed Jumper.",31,27,4,0.863824442134806,"Purdue","Tennessee",2,3,0,1,8,400986380,2017-11-22
+151,1,"1:20",1280,1580,"Tennessee Offensive Rebound.",31,27,4,0.863824442134806,"Purdue","Tennessee",2,3,0,1,8,400986380,2017-11-22
+152,1,"0:45",1245,1545,"Chris Darrington made Jumper.",31,29,2,0.820857093017761,"Purdue","Tennessee",2,3,0,0,8,400986380,2017-11-22
+153,1,"0:33",1233,1533,"Isaac Haas Turnover.",31,29,2,0.808848321860189,"Purdue","Tennessee",2,3,0,0,8,400986380,2017-11-22
+154,1,"0:10",1210,1510,"Jordan Bone missed Jumper.",31,29,2,0.810664167031136,"Purdue","Tennessee",2,3,0,0,8,400986380,2017-11-22
+155,1,"0:10",1210,1510,"Kyle Alexander Offensive Rebound.",31,29,2,0.810664167031136,"Purdue","Tennessee",2,3,0,0,8,400986380,2017-11-22
+156,1,"0:05",1205,1505,"Admiral Schofield made Dunk. Assisted by Kyle Alexander.",31,31,0,0.764305532450514,"Purdue","Tennessee",2,3,0,0,8,400986380,2017-11-22
+157,1,"0:00",1200,1500,"End of 1st half",31,31,0,0.764305532450514,"Purdue","Tennessee",2,3,0,0,8,400986380,2017-11-22
+158,2,"20:00",1200,1500,"PLAY",31,31,0,0.764305532450514,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+159,2,"20:00",1200,1500,"Jump Ball won by Tennessee",31,31,0,0.764305532450514,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+160,2,"19:36",1176,1476,"Kyle Alexander missed Jumper.",31,31,0,0.753595729703664,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+161,2,"19:36",1176,1476,"Jordan Bone Offensive Rebound.",31,31,0,0.753595729703664,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+162,2,"19:27",1167,1467,"Grant Williams made Three Point Jumper. Assisted by Jordan Bone.",31,34,-3,0.655475366195968,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+163,2,"19:16",1156,1456,"Dakota Mathias missed Three Point Jumper.",31,34,-3,0.655294258247617,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+164,2,"19:16",1156,1456,"Kyle Alexander Defensive Rebound.",31,34,-3,0.655294258247617,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+165,2,"18:52",1132,1432,"Admiral Schofield missed Jumper.",31,34,-3,0.670070061836936,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+166,2,"18:52",1132,1432,"Vince Edwards Defensive Rebound.",31,34,-3,0.670070061836936,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+167,2,"18:41",1121,1421,"Carsen Edwards missed Layup.",31,34,-3,0.638159591251748,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+168,2,"18:41",1121,1421,"Tennessee Defensive Rebound.",31,34,-3,0.638159591251748,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+169,2,"18:21",1101,1401,"Admiral Schofield missed Jumper.",31,34,-3,0.664364428973258,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+170,2,"18:21",1101,1401,"P.J. Thompson Defensive Rebound.",31,34,-3,0.664364428973258,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+171,2,"18:07",1087,1387,"Foul on Kyle Alexander.",31,34,-3,0.655416097724758,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+172,2,"18:03",1083,1383,"Isaac Haas Turnover.",31,34,-3,0.655416097724758,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+173,2,"18:03",1083,1383,"Jordan Bone Steal.",31,34,-3,0.655416097724758,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+174,2,"17:58",1078,1378,"Jordan Bone missed Layup.",31,34,-3,0.647655105413051,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+175,2,"17:58",1078,1378,"Kyle Alexander Offensive Rebound.",31,34,-3,0.647655105413051,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+176,2,"17:58",1078,1378,"Kyle Alexander made Two Point Tip Shot.",31,36,-5,0.567563240244036,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+177,2,"17:42",1062,1362,"Foul on Isaac Haas.",31,36,-5,0.565253666276835,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+178,2,"17:42",1062,1362,"Isaac Haas Turnover.",31,36,-5,0.565253666276835,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+179,2,"17:26",1046,1346,"Jordan Bowden made Layup.",31,38,-7,0.489703106962103,"Purdue","Tennessee",3,4,0,0,8,400986380,2017-11-22
+180,2,"17:21",1041,1341,"Purdue  Timeout",31,38,-7,0.489703106962103,"Purdue","Tennessee",3,3,0,1,8,400986380,2017-11-22
+181,2,"17:21",1041,1341,"Official TV Timeout",31,38,-7,0.489703106962103,"Purdue","Tennessee",3,3,0,1,8,400986380,2017-11-22
+182,2,"17:17",1037,1337,"Carsen Edwards made Layup.",33,38,-5,0.561772460936237,"Purdue","Tennessee",3,3,0,1,8,400986380,2017-11-22
+183,2,"16:48",1008,1308,"Grant Williams missed Three Point Jumper.",33,38,-5,0.519252866081874,"Purdue","Tennessee",3,3,0,1,8,400986380,2017-11-22
+184,2,"16:48",1008,1308,"Matt Haarms Defensive Rebound.",33,38,-5,0.519252866081874,"Purdue","Tennessee",3,3,0,1,8,400986380,2017-11-22
+185,2,"16:36",996,1296,"Carsen Edwards Turnover.",33,38,-5,0.537032291642982,"Purdue","Tennessee",3,3,0,1,8,400986380,2017-11-22
+186,2,"16:36",996,1296,"Admiral Schofield Steal.",33,38,-5,0.537032291642982,"Purdue","Tennessee",3,3,0,1,8,400986380,2017-11-22
+187,2,"16:10",970,1270,"John Fulkerson Turnover.",33,38,-5,0.558930556985208,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+188,2,"16:01",961,1261,"Foul on Admiral Schofield.",33,38,-5,0.516180725844548,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+189,2,"15:55",955,1255,"Matt Haarms missed Layup.",33,38,-5,0.535632376145826,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+190,2,"15:55",955,1255,"Admiral Schofield Block.",33,38,-5,0.535632376145826,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+191,2,"15:55",955,1255,"Grant Williams Defensive Rebound.",33,38,-5,0.535632376145826,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+192,2,"15:33",933,1233,"Official TV Timeout",33,38,-5,0.521088850924724,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+193,2,"15:22",922,1222,"Grant Williams missed Jumper.",33,38,-5,0.49362201874278,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+194,2,"15:22",922,1222,"Matt Haarms Block.",33,38,-5,0.49362201874278,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+195,2,"15:22",922,1222,"Carsen Edwards Defensive Rebound.",33,38,-5,0.49362201874278,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+196,2,"15:15",915,1215,"Carsen Edwards missed Three Point Jumper.",33,38,-5,0.534747264896738,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+197,2,"15:15",915,1215,"Tennessee Defensive Rebound.",33,38,-5,0.534747264896738,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+198,2,"14:52",892,1192,"James Daniel III Turnover.",33,38,-5,0.523371149209548,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+199,2,"14:52",892,1192,"Nojel Eastern Steal.",33,38,-5,0.523371149209548,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+200,2,"14:42",882,1182,"Vince Edwards missed Three Point Jumper.",33,38,-5,0.531649853459289,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+201,2,"14:42",882,1182,"Admiral Schofield Defensive Rebound.",33,38,-5,0.531649853459289,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+202,2,"14:26",866,1166,"Grant Williams missed Jumper.",33,38,-5,0.513013763001847,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+203,2,"14:26",866,1166,"Vince Edwards Defensive Rebound.",33,38,-5,0.513013763001847,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+204,2,"14:26",866,1166,"Foul on Admiral Schofield.",33,38,-5,0.513013763001847,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+205,2,"14:15",855,1155,"Nojel Eastern Turnover.",33,38,-5,0.510736903114346,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+206,2,"14:15",855,1155,"James Daniel III Steal.",33,38,-5,0.510736903114346,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+207,2,"14:11",851,1151,"James Daniel III missed Layup.",33,38,-5,0.510736903114346,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+208,2,"14:11",851,1151,"Lamonte Turner Offensive Rebound.",33,38,-5,0.510736903114346,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+209,2,"14:04",844,1144,"Lamonte Turner made Layup.",33,40,-7,0.377555665370832,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+210,2,"14:04",844,1144,"Vince Edwards missed Layup.",33,40,-7,0.377555665370832,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+211,2,"14:04",844,1144,"Tennessee Defensive Rebound.",33,40,-7,0.377555665370832,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+212,2,"14:02",842,1142,"Foul on James Daniel III.",33,40,-7,0.377555665370832,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+213,2,"13:55",835,1135,"Vince Edwards made Three Point Jumper. Assisted by Carsen Edwards.",36,40,-4,0.572998900179547,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+214,2,"13:41",821,1121,"Foul on Nojel Eastern.",36,40,-4,0.574899881597295,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+215,2,"13:30",810,1110,"Lamonte Turner missed Jumper.",36,40,-4,0.560664001663749,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+216,2,"13:30",810,1110,"Tennessee Offensive Rebound.",36,40,-4,0.560664001663749,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+217,2,"13:30",810,1110,"Foul on Isaac Haas.",36,40,-4,0.560664001663749,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+218,2,"13:26",806,1106,"Lamonte Turner missed Three Point Jumper.",36,40,-4,0.573008543575078,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+219,2,"13:26",806,1106,"Purdue Defensive Rebound.",36,40,-4,0.573008543575078,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+220,2,"13:25",805,1105,"Foul on Derrick Walker.",36,40,-4,0.573008543575078,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+221,2,"13:20",800,1100,"Dakota Mathias Turnover.",36,40,-4,0.573008543575078,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+222,2,"13:20",800,1100,"Jordan Bone Steal.",36,40,-4,0.573008543575078,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+223,2,"13:20",800,1100,"Jordan Bone missed Layup.",36,40,-4,0.573008543575078,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+224,2,"13:20",800,1100,"Carsen Edwards Defensive Rebound.",36,40,-4,0.573008543575078,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+225,2,"13:12",792,1092,"Foul on Derrick Walker.",36,40,-4,0.527668435577266,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+226,2,"13:12",792,1092,"Carsen Edwards made Free Throw.",37,40,-3,0.581893787551858,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+227,2,"13:12",792,1092,"Carsen Edwards made Free Throw.",38,40,-2,0.634209356859274,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+228,2,"13:01",781,1081,"Derrick Walker missed Layup.",38,40,-2,0.643601680833236,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+229,2,"13:01",781,1081,"Vince Edwards Defensive Rebound.",38,40,-2,0.643601680833236,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+230,2,"12:53",773,1073,"Vince Edwards missed Three Point Jumper.",38,40,-2,0.643636790494091,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+231,2,"12:53",773,1073,"Lamonte Turner Defensive Rebound.",38,40,-2,0.643636790494091,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+232,2,"12:28",748,1048,"Jordan Bone missed Layup.",38,40,-2,0.626825270616651,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+233,2,"12:28",748,1048,"Derrick Walker Offensive Rebound.",38,40,-2,0.626825270616651,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+234,2,"12:22",742,1042,"Derrick Walker made Layup.",38,42,-4,0.518166846317029,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+235,2,"12:06",726,1026,"Dakota Mathias made Three Point Jumper. Assisted by Carsen Edwards.",41,42,-1,0.690614971594814,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+236,2,"11:44",704,1004,"Lamonte Turner Turnover.",41,42,-1,0.675258455976603,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+237,2,"11:44",704,1004,"Official TV Timeout",41,42,-1,0.675258455976603,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+238,2,"11:29",689,989,"Vince Edwards missed Jumper.",41,42,-1,0.672606104709191,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+239,2,"11:29",689,989,"Kyle Alexander Defensive Rebound.",41,42,-1,0.672606104709191,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+240,2,"11:11",671,971,"Lamonte Turner missed Layup.",41,42,-1,0.67132909017599,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+241,2,"11:11",671,971,"Matt Haarms Block.",41,42,-1,0.67132909017599,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+242,2,"11:11",671,971,"Dakota Mathias Defensive Rebound.",41,42,-1,0.67132909017599,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+243,2,"11:00",660,960,"P.J. Thompson made Layup.",43,42,1,0.767426863353302,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+244,2,"10:34",634,934,"Lamonte Turner Turnover.",43,42,1,0.742077043647662,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+245,2,"10:34",634,934,"Dakota Mathias Steal.",43,42,1,0.742077043647662,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+246,2,"10:28",628,928,"Foul on Lamonte Turner.",43,42,1,0.779038930551146,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+247,2,"10:28",628,928,"Dakota Mathias made Free Throw.",44,42,2,0.819286737162024,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+248,2,"10:28",628,928,"Dakota Mathias missed Free Throw.",44,42,2,0.819286737162024,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+249,2,"10:28",628,928,"Kyle Alexander Defensive Rebound.",44,42,2,0.819286737162024,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+250,2,"10:27",627,927,"Foul on Vince Edwards.",44,42,2,0.819286737162024,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+251,2,"9:59",599,899,"Foul on Matt Haarms.",44,42,2,0.798731641853778,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+252,2,"9:59",599,899,"Chris Darrington made Free Throw.",44,43,1,0.757443077025687,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+253,2,"9:59",599,899,"Chris Darrington made Free Throw.",44,44,0,0.71075178249519,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+254,2,"9:47",587,887,"Dakota Mathias missed Jumper.",44,44,0,0.698731892662006,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+255,2,"9:47",587,887,"Kyle Alexander Defensive Rebound.",44,44,0,0.698731892662006,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+256,2,"9:38",578,878,"James Daniel III Turnover.",44,44,0,0.730220209416436,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+257,2,"9:38",578,878,"P.J. Thompson Steal.",44,44,0,0.730220209416436,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+258,2,"9:34",574,874,"P.J. Thompson missed Layup.",44,44,0,0.730220209416436,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+259,2,"9:34",574,874,"Kyle Alexander Defensive Rebound.",44,44,0,0.730220209416436,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+260,2,"9:15",555,855,"Chris Darrington missed Three Point Jumper.",44,44,0,0.703535505469282,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+261,2,"9:15",555,855,"Dakota Mathias Defensive Rebound.",44,44,0,0.703535505469282,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+262,2,"9:04",544,844,"Foul on Kyle Alexander.",44,44,0,0.689298329814329,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+263,2,"9:04",544,844,"Isaac Haas made Free Throw.",45,44,1,0.743617668919496,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+264,2,"9:04",544,844,"Isaac Haas made Free Throw.",46,44,2,0.791315537680977,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+265,2,"8:46",526,826,"Foul on P.J. Thompson.",46,44,2,0.795188861452413,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+266,2,"8:44",524,824,"Grant Williams made Dunk. Assisted by James Daniel III.",46,46,0,0.692495688449339,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+267,2,"8:22",502,802,"Foul on Kyle Alexander.",46,46,0,0.713461772906284,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+268,2,"8:22",502,802,"Isaac Haas made Free Throw.",47,46,1,0.765510687749979,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+269,2,"8:22",502,802,"Isaac Haas missed Free Throw.",47,46,1,0.765510687749979,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+270,2,"8:22",502,802,"Ryan Cline Offensive Rebound.",47,46,1,0.765510687749979,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+271,2,"8:17",497,797,"Isaac Haas missed Layup.",47,46,1,0.76186904360069,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+272,2,"8:17",497,797,"Grant Williams Block.",47,46,1,0.76186904360069,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+273,2,"8:17",497,797,"Grant Williams Defensive Rebound.",47,46,1,0.76186904360069,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+274,2,"7:56",476,776,"Official TV Timeout",47,46,1,0.760496049198231,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+275,2,"7:55",475,775,"James Daniel III Turnover.",47,46,1,0.760496049198231,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+276,2,"7:55",475,775,"Dakota Mathias Steal.",47,46,1,0.760496049198231,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+277,2,"7:50",470,770,"Carsen Edwards Turnover.",47,46,1,0.760496049198231,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+278,2,"7:38",458,758,"Grant Williams Turnover.",47,46,1,0.742766352934448,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+279,2,"7:22",442,742,"Dakota Mathias Turnover.",47,46,1,0.733375194950423,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+280,2,"7:22",442,742,"Admiral Schofield Steal.",47,46,1,0.733375194950423,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+281,2,"7:05",425,725,"Grant Williams made Three Point Jumper. Assisted by Lamonte Turner.",47,49,-2,0.533945451545781,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+282,2,"6:48",408,708,"Carsen Edwards Turnover.",47,49,-2,0.521405990850539,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+283,2,"6:48",408,708,"Chris Darrington Steal.",47,49,-2,0.521405990850539,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+284,2,"6:42",402,702,"Foul on P.J. Thompson.",47,49,-2,0.521405990850539,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+285,2,"6:42",402,702,"Grant Williams made Free Throw.",47,50,-3,0.439271895973394,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+286,2,"6:42",402,702,"Grant Williams made Free Throw.",47,51,-4,0.360334772471573,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+287,2,"6:26",386,686,"Vince Edwards missed Three Point Jumper.",47,51,-4,0.418504153108845,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+288,2,"6:26",386,686,"Admiral Schofield Defensive Rebound.",47,51,-4,0.418504153108845,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+289,2,"6:06",366,666,"Admiral Schofield made Jumper. Assisted by Jordan Bowden.",47,53,-6,0.230180380915749,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+290,2,"5:43",343,643,"Dakota Mathias missed Jumper.",47,53,-6,0.202803584043482,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+291,2,"5:43",343,643,"Vince Edwards Offensive Rebound.",47,53,-6,0.202803584043482,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+292,2,"5:35",335,635,"Vince Edwards made Layup.",49,53,-4,0.3466333859092,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+293,2,"5:27",327,627,"Chris Darrington missed Jumper.",49,53,-4,0.384633805704852,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+294,2,"5:27",327,627,"Vince Edwards Defensive Rebound.",49,53,-4,0.384633805704852,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+295,2,"5:27",327,627,"Foul on Admiral Schofield.",49,53,-4,0.384633805704852,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+296,2,"5:27",327,627,"Vince Edwards made Free Throw.",50,53,-3,0.46107584798203,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+297,2,"5:27",327,627,"Vince Edwards missed Free Throw.",50,53,-3,0.46107584798203,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+298,2,"5:27",327,627,"Purdue Offensive Rebound.",50,53,-3,0.46107584798203,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+299,2,"5:25",325,625,"Dakota Mathias missed Three Point Jumper.",50,53,-3,0.46107584798203,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+300,2,"5:25",325,625,"Chris Darrington Defensive Rebound.",50,53,-3,0.46107584798203,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+301,2,"5:15",315,615,"Jordan Bowden missed Jumper.",50,53,-3,0.400900964375462,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+302,2,"5:15",315,615,"Carsen Edwards Defensive Rebound.",50,53,-3,0.400900964375462,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+303,2,"5:13",313,613,"Foul on Jordan Bowden.",50,53,-3,0.400900964375462,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+304,2,"5:13",313,613,"Carsen Edwards made Free Throw.",51,53,-2,0.491227394404405,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+305,2,"5:13",313,613,"Carsen Edwards made Free Throw.",52,53,-1,0.582130251923328,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+306,2,"5:05",305,605,"Grant Williams made Layup.",52,55,-3,0.416157967038537,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+307,2,"4:45",285,585,"Matt Haarms missed Jumper.",52,55,-3,0.411151063401509,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+308,2,"4:45",285,585,"Vince Edwards Offensive Rebound.",52,55,-3,0.411151063401509,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+309,2,"4:39",279,579,"Foul on Admiral Schofield.",52,55,-3,0.378030655104713,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+310,2,"4:39",279,579,"Vince Edwards made Free Throw.",53,55,-2,0.472650756238002,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+311,2,"4:39",279,579,"Vince Edwards made Free Throw.",54,55,-1,0.569277251595609,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+312,2,"4:24",264,564,"Jordan Bone made Three Point Jumper. Assisted by Lamonte Turner.",54,58,-4,0.314570266359115,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+313,2,"4:04",244,544,"Foul on Derrick Walker.",54,58,-4,0.273176036498522,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+314,2,"4:04",244,544,"Isaac Haas made Free Throw.",55,58,-3,0.360292821038885,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+315,2,"4:04",244,544,"Isaac Haas made Free Throw.",56,58,-2,0.457696627150443,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+316,2,"3:47",227,527,"Jordan Bone missed Jumper.",56,58,-2,0.491546037754806,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+317,2,"3:47",227,527,"P.J. Thompson Defensive Rebound.",56,58,-2,0.491546037754806,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+318,2,"3:37",217,517,"Vince Edwards Turnover.",56,58,-2,0.438479233554307,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+319,2,"3:37",217,517,"Official TV Timeout",56,58,-2,0.438479233554307,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+320,2,"3:15",195,495,"Grant Williams missed Three Point Jumper.",56,58,-2,0.388249052805621,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+321,2,"3:15",195,495,"Matt Haarms Defensive Rebound.",56,58,-2,0.388249052805621,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+322,2,"2:54",174,474,"Carsen Edwards made Three Point Jumper. Assisted by Vince Edwards.",59,58,1,0.760937961219394,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+323,2,"2:27",147,447,"Foul on Matt Haarms.",59,58,1,0.758755737126745,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+324,2,"2:27",147,447,"Grant Williams made Free Throw.",59,59,0,0.651973778326166,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+325,2,"2:27",147,447,"Grant Williams made Free Throw.",59,60,-1,0.527368390303033,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+326,2,"2:13",133,433,"Foul on Grant Williams.",59,60,-1,0.522860590159907,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+327,2,"2:13",133,433,"Isaac Haas made Free Throw.",60,60,0,0.654590351864743,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+328,2,"2:13",133,433,"Isaac Haas made Free Throw.",61,60,1,0.766213203455169,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+329,2,"1:50",110,410,"Grant Williams missed Jumper.",61,60,1,0.769639537100033,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+330,2,"1:50",110,410,"Admiral Schofield Offensive Rebound.",61,60,1,0.769639537100033,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+331,2,"1:50",110,410,"Admiral Schofield missed Two Point Tip Shot.",61,60,1,0.769639537100033,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+332,2,"1:50",110,410,"Matt Haarms Defensive Rebound.",61,60,1,0.769639537100033,"Purdue","Tennessee",3,3,0,0,8,400986380,2017-11-22
+333,2,"1:43",103,403,"Purdue  Timeout",61,60,1,0.739427642068863,"Purdue","Tennessee",3,2,0,1,8,400986380,2017-11-22
+334,2,"1:27",87,387,"Carsen Edwards missed Jumper.",61,60,1,0.795841991160172,"Purdue","Tennessee",3,2,0,1,8,400986380,2017-11-22
+335,2,"1:27",87,387,"Grant Williams Defensive Rebound.",61,60,1,0.795841991160172,"Purdue","Tennessee",3,2,0,1,8,400986380,2017-11-22
+336,2,"1:06",66,366,"Lamonte Turner missed Three Point Jumper.",61,60,1,0.715295317077469,"Purdue","Tennessee",3,2,0,1,8,400986380,2017-11-22
+337,2,"1:06",66,366,"Dakota Mathias Defensive Rebound.",61,60,1,0.715295317077469,"Purdue","Tennessee",3,2,0,1,8,400986380,2017-11-22
+338,2,"0:41",41,341,"Carsen Edwards missed Three Point Jumper.",61,60,1,0.705541790770186,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+339,2,"0:41",41,341,"Grant Williams Defensive Rebound.",61,60,1,0.705541790770186,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+340,2,"0:30",30,330,"Tennessee  Timeout",61,60,1,0.717422389531349,"Purdue","Tennessee",2,2,1,0,8,400986380,2017-11-22
+341,2,"0:23",23,323,"Grant Williams missed Jumper.",61,60,1,0.860078147661471,"Purdue","Tennessee",2,2,1,0,8,400986380,2017-11-22
+342,2,"0:23",23,323,"Dakota Mathias Defensive Rebound.",61,60,1,0.860078147661471,"Purdue","Tennessee",2,2,1,0,8,400986380,2017-11-22
+343,2,"0:18",18,318,"Foul on Grant Williams.",61,60,1,0.810818346788326,"Purdue","Tennessee",2,2,1,0,8,400986380,2017-11-22
+344,2,"0:18",18,318,"Carsen Edwards made Free Throw.",62,60,2,0.925557913811053,"Purdue","Tennessee",2,2,1,0,8,400986380,2017-11-22
+345,2,"0:18",18,318,"Carsen Edwards made Free Throw.",63,60,3,0.97302276556087,"Purdue","Tennessee",2,2,1,0,8,400986380,2017-11-22
+346,2,"0:05",5,305,"Lamonte Turner made Three Point Jumper.",63,63,0,0.624485126919107,"Purdue","Tennessee",2,2,1,1,8,400986380,2017-11-22
+347,2,"0:05",5,305,"Purdue  Timeout",63,63,0,0.624485126919107,"Purdue","Tennessee",2,1,1,1,8,400986380,2017-11-22
+348,2,"0:01",1,301,"Carsen Edwards missed Three Point Jumper.",63,63,0,0.58927280639781,"Purdue","Tennessee",2,1,1,1,8,400986380,2017-11-22
+349,2,"0:01",1,301,"Tennessee Defensive Rebound.",63,63,0,0.58927280639781,"Purdue","Tennessee",2,1,1,1,8,400986380,2017-11-22
+350,2,"0:00",300,300,"End of 2nd half",63,63,0,0.663150292265017,"Purdue","Tennessee",2,1,0,0,8,400986380,2017-11-22
+351,3,"5:00",300,300,"PLAY",63,63,0,0.663150292265017,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+352,3,"5:00",300,300,"Jump Ball won by Tennessee",63,63,0,0.663150292265017,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+353,3,"4:40",280,280,"Grant Williams missed Layup.",63,63,0,0.668005656350634,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+354,3,"4:40",280,280,"Grant Williams Offensive Rebound.",63,63,0,0.668005656350634,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+355,3,"4:32",272,272,"Grant Williams made Layup.",63,65,-2,0.472650756238002,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+356,3,"4:19",259,259,"Dakota Mathias made Three Point Jumper. Assisted by Carsen Edwards.",66,65,1,0.748237558740396,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+357,3,"4:19",259,259,"Jordan Bowden missed Jumper.",66,65,1,0.748237558740396,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+358,3,"4:19",259,259,"Dakota Mathias Block.",66,65,1,0.748237558740396,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+359,3,"4:19",259,259,"Dakota Mathias Defensive Rebound.",66,65,1,0.748237558740396,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+360,3,"3:56",236,236,"Dakota Mathias made Layup.",68,65,3,0.865569032927298,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+361,3,"3:42",222,222,"Jordan Bone Turnover.",68,65,3,0.889289026036373,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+362,3,"3:42",222,222,"Carsen Edwards Steal.",68,65,3,0.889289026036373,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+363,3,"3:35",215,215,"Carsen Edwards missed Layup.",68,65,3,0.875354429830518,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+364,3,"3:35",215,215,"Kyle Alexander Block.",68,65,3,0.875354429830518,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+365,3,"3:35",215,215,"Dakota Mathias Offensive Rebound.",68,65,3,0.875354429830518,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+366,3,"3:30",210,210,"Dakota Mathias made Layup.",70,65,5,0.944157140882282,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+367,3,"3:11",191,191,"Kyle Alexander made Three Point Jumper. Assisted by James Daniel III.",70,68,2,0.804890908041281,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+368,3,"2:49",169,169,"P.J. Thompson made Three Point Jumper. Assisted by Vince Edwards.",73,68,5,0.96812240578201,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+369,3,"2:24",144,144,"Admiral Schofield missed Three Point Jumper.",73,68,5,0.961522475686641,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+370,3,"2:24",144,144,"Grant Williams Offensive Rebound.",73,68,5,0.961522475686641,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+371,3,"2:17",137,137,"Grant Williams missed Layup.",73,68,5,0.967014338433156,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+372,3,"2:17",137,137,"Grant Williams Offensive Rebound.",73,68,5,0.967014338433156,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+373,3,"2:11",131,131,"Grant Williams made Layup.",73,70,3,0.907425321812986,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+374,3,"2:01",121,121,"Carsen Edwards missed Three Point Jumper.",73,70,3,0.898475679360992,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+375,3,"2:01",121,121,"Admiral Schofield Defensive Rebound.",73,70,3,0.898475679360992,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+376,3,"1:32",92,92,"Grant Williams made Jumper.",73,72,1,0.738916236151879,"Purdue","Tennessee",3,2,0,0,8,400986380,2017-11-22
+377,3,"1:04",64,64,"Isaac Haas Turnover.",73,72,1,0.715295317077469,"Purdue","Tennessee",3,2,1,0,8,400986380,2017-11-22
+378,3,"1:04",64,64,"Tennessee  Timeout",73,72,1,0.715295317077469,"Purdue","Tennessee",2,2,1,0,8,400986380,2017-11-22
+379,3,"1:04",64,64,"Official TV Timeout",73,72,1,0.715295317077469,"Purdue","Tennessee",2,2,1,0,8,400986380,2017-11-22
+380,3,"0:48",48,48,"Kyle Alexander made Dunk. Assisted by Grant Williams.",73,74,-1,0.367408242618085,"Purdue","Tennessee",2,2,1,0,8,400986380,2017-11-22
+381,3,"0:40",40,40,"Purdue  Timeout",73,74,-1,0.244556872468712,"Purdue","Tennessee",2,1,1,1,8,400986380,2017-11-22
+382,3,"0:35",35,35,"Isaac Haas made Layup. Assisted by Vince Edwards.",75,74,1,0.657117262023013,"Purdue","Tennessee",2,1,1,1,8,400986380,2017-11-22
+383,3,"0:27",27,27,"Tennessee  Timeout",75,74,1,0.884364184622609,"Purdue","Tennessee",1,1,1,1,8,400986380,2017-11-22
+384,3,"0:14",14,14,"Grant Williams made Jumper.",75,76,-1,0.208535193283006,"Purdue","Tennessee",1,1,1,1,8,400986380,2017-11-22
+385,3,"0:09",9,9,"P.J. Thompson missed Jumper.",75,76,-1,0.248132576226733,"Purdue","Tennessee",1,1,1,1,8,400986380,2017-11-22
+386,3,"0:09",9,9,"Admiral Schofield Defensive Rebound.",75,76,-1,0.248132576226733,"Purdue","Tennessee",1,1,1,1,8,400986380,2017-11-22
+387,3,"0:02",2,2,"Foul on Vince Edwards.",75,76,-1,0.203930786186191,"Purdue","Tennessee",1,1,1,1,8,400986380,2017-11-22
+388,3,"0:02",2,2,"James Daniel III made Free Throw.",75,77,-2,0.0437398264743473,"Purdue","Tennessee",1,1,1,1,8,400986380,2017-11-22
+389,3,"0:02",2,2,"James Daniel III made Free Throw.",75,78,-3,0.00810097835185793,"Purdue","Tennessee",1,1,1,1,8,400986380,2017-11-22
+390,3,"0:01",1,1,"Dakota Mathias Turnover.",75,78,-3,0.00810097835185793,"Purdue","Tennessee",1,1,1,1,8,400986380,2017-11-22
+391,3,"0:01",1,1,"Kyle Alexander Steal.",75,78,-3,0.00810097835185793,"Purdue","Tennessee",1,1,1,1,8,400986380,2017-11-22
+392,3,"0:00",0,0,"End of Game",75,78,-3,6.65008149090581e-26,"Purdue","Tennessee",1,1,1,1,8,400986380,2017-11-22

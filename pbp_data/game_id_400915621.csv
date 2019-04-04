@@ -1,0 +1,298 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.785623304600368,"Stanford","Washington State",6,6,0,0,6,400915621,2017-01-12
+2,1,"20:00",2400,2400,"Jump Ball won by Stanford",0,0,0,0.785623304600368,"Stanford","Washington State",6,6,0,0,6,400915621,2017-01-12
+3,1,"19:40",2380,2380,"Reid Travis missed Jumper.",0,0,0,0.781755240149815,"Stanford","Washington State",6,6,0,0,6,400915621,2017-01-12
+4,1,"19:40",2380,2380,"Conor Clifford Block.",0,0,0,0.781755240149815,"Stanford","Washington State",6,6,0,0,6,400915621,2017-01-12
+5,1,"19:40",2380,2380,"Stanford Offensive Rebound.",0,0,0,0.781755240149815,"Stanford","Washington State",6,6,0,0,6,400915621,2017-01-12
+6,1,"19:36",2376,2376,"Dorian Pickens made Layup. Assisted by Robert Cartwright.",2,0,2,0.811867450503024,"Stanford","Washington State",6,6,0,0,6,400915621,2017-01-12
+7,1,"19:17",2357,2357,"Conor Clifford Turnover.",2,0,2,0.814573537339989,"Stanford","Washington State",6,6,0,0,6,400915621,2017-01-12
+8,1,"19:17",2357,2357,"Marcus Allen Steal.",2,0,2,0.814573537339989,"Stanford","Washington State",6,6,0,0,6,400915621,2017-01-12
+9,1,"19:09",2349,2349,"Dorian Pickens missed Three Point Jumper.",2,0,2,0.800154660863186,"Stanford","Washington State",6,6,0,0,6,400915621,2017-01-12
+10,1,"19:09",2349,2349,"Michael Humphrey Offensive Rebound.",2,0,2,0.800154660863186,"Stanford","Washington State",6,6,0,0,6,400915621,2017-01-12
+11,1,"19:04",2344,2344,"Michael Humphrey made Layup.",4,0,4,0.827331307901244,"Stanford","Washington State",6,6,0,0,6,400915621,2017-01-12
+12,1,"18:38",2318,2318,"Conor Clifford missed Jumper.",4,0,4,0.824975929185089,"Stanford","Washington State",6,6,0,0,6,400915621,2017-01-12
+13,1,"18:38",2318,2318,"Reid Travis Defensive Rebound.",4,0,4,0.824975929185089,"Stanford","Washington State",6,6,0,0,6,400915621,2017-01-12
+14,1,"18:20",2300,2300,"Foul on Charles Callison.",4,0,4,0.827820418131586,"Stanford","Washington State",6,6,0,0,6,400915621,2017-01-12
+15,1,"18:15",2295,2295,"Dorian Pickens missed Three Point Jumper.",4,0,4,0.836757628141531,"Stanford","Washington State",6,6,0,0,6,400915621,2017-01-12
+16,1,"18:15",2295,2295,"Josh Hawkinson Defensive Rebound.",4,0,4,0.836757628141531,"Stanford","Washington State",6,6,0,0,6,400915621,2017-01-12
+17,1,"17:57",2277,2277,"Charles Callison missed Jumper.",4,0,4,0.838744552642886,"Stanford","Washington State",6,6,0,0,6,400915621,2017-01-12
+18,1,"17:57",2277,2277,"Michael Humphrey Defensive Rebound.",4,0,4,0.838744552642886,"Stanford","Washington State",6,6,0,0,6,400915621,2017-01-12
+19,1,"17:45",2265,2265,"Robert Cartwright made Three Point Jumper.",7,0,7,0.893349609692336,"Stanford","Washington State",6,6,0,0,6,400915621,2017-01-12
+20,1,"17:22",2242,2242,"Ike Iroegbu made Three Point Jumper. Assisted by Conor Clifford.",7,3,4,0.825258781666534,"Stanford","Washington State",6,6,0,0,6,400915621,2017-01-12
+21,1,"17:03",2223,2223,"Reid Travis made Layup.",9,3,6,0.862895150944867,"Stanford","Washington State",6,6,0,0,6,400915621,2017-01-12
+22,1,"16:50",2210,2210,"Foul on Michael Humphrey.",9,3,6,0.87978072506685,"Stanford","Washington State",6,6,0,0,6,400915621,2017-01-12
+23,1,"16:40",2200,2200,"Conor Clifford Turnover.",9,3,6,0.867929347081245,"Stanford","Washington State",6,6,0,0,6,400915621,2017-01-12
+24,1,"16:29",2189,2189,"Reid Travis made Layup. Assisted by Michael Humphrey.",11,3,8,0.887802463874087,"Stanford","Washington State",6,6,0,0,6,400915621,2017-01-12
+25,1,"16:26",2186,2186,"Washington St  Timeout",11,3,8,0.887802463874087,"Stanford","Washington State",6,5,0,1,6,400915621,2017-01-12
+26,1,"16:07",2167,2167,"Josh Hawkinson missed Layup.",11,3,8,0.886993604937224,"Stanford","Washington State",6,5,0,1,6,400915621,2017-01-12
+27,1,"16:07",2167,2167,"Michael Humphrey Defensive Rebound.",11,3,8,0.886993604937224,"Stanford","Washington State",6,5,0,1,6,400915621,2017-01-12
+28,1,"15:59",2159,2159,"Foul on Conor Clifford.",11,3,8,0.892041324099905,"Stanford","Washington State",6,5,0,1,6,400915621,2017-01-12
+29,1,"15:59",2159,2159,"Reid Travis made Free Throw.",12,3,9,0.903020289522244,"Stanford","Washington State",6,5,0,1,6,400915621,2017-01-12
+30,1,"15:59",2159,2159,"Reid Travis missed Free Throw.",12,3,9,0.903020289522244,"Stanford","Washington State",6,5,0,1,6,400915621,2017-01-12
+31,1,"15:59",2159,2159,"Josh Hawkinson Defensive Rebound.",12,3,9,0.903020289522244,"Stanford","Washington State",6,5,0,1,6,400915621,2017-01-12
+32,1,"15:46",2146,2146,"Josh Hawkinson missed Jumper.",12,3,9,0.894265238312605,"Stanford","Washington State",6,5,0,1,6,400915621,2017-01-12
+33,1,"15:46",2146,2146,"Reid Travis Defensive Rebound.",12,3,9,0.894265238312605,"Stanford","Washington State",6,5,0,1,6,400915621,2017-01-12
+34,1,"15:26",2126,2126,"Foul on Charles Callison.",12,3,9,0.899451483394617,"Stanford","Washington State",6,5,0,1,6,400915621,2017-01-12
+35,1,"15:26",2126,2126,"Dorian Pickens made Free Throw.",13,3,10,0.909352792633095,"Stanford","Washington State",6,5,0,1,6,400915621,2017-01-12
+36,1,"15:26",2126,2126,"Dorian Pickens made Free Throw.",14,3,11,0.918367580786673,"Stanford","Washington State",6,5,0,1,6,400915621,2017-01-12
+37,1,"15:07",2107,2107,"Ike Iroegbu Turnover.",14,3,11,0.915674144224726,"Stanford","Washington State",6,5,0,0,6,400915621,2017-01-12
+38,1,"14:42",2082,2082,"Dorian Pickens missed Three Point Jumper.",14,3,11,0.915049314182133,"Stanford","Washington State",6,5,0,0,6,400915621,2017-01-12
+39,1,"14:42",2082,2082,"Dorian Pickens Offensive Rebound.",14,3,11,0.915049314182133,"Stanford","Washington State",6,5,0,0,6,400915621,2017-01-12
+40,1,"14:36",2076,2076,"Dorian Pickens made Layup.",16,3,13,0.928616328904581,"Stanford","Washington State",6,5,0,0,6,400915621,2017-01-12
+41,1,"14:04",2044,2044,"Malachi Flynn missed Three Point Jumper.",16,3,13,0.926472895236234,"Stanford","Washington State",6,5,0,0,6,400915621,2017-01-12
+42,1,"14:04",2044,2044,"Robert Cartwright Defensive Rebound.",16,3,13,0.926472895236234,"Stanford","Washington State",6,5,0,0,6,400915621,2017-01-12
+43,1,"13:57",2037,2037,"Michael Humphrey made Dunk. Assisted by Robert Cartwright.",18,3,15,0.948278129254213,"Stanford","Washington State",6,5,0,0,6,400915621,2017-01-12
+44,1,"13:42",2022,2022,"Viont'e Daniels missed Three Point Jumper.",18,3,15,0.957851058891395,"Stanford","Washington State",6,5,0,0,6,400915621,2017-01-12
+45,1,"13:42",2022,2022,"Robert Cartwright Defensive Rebound.",18,3,15,0.957851058891395,"Stanford","Washington State",6,5,0,0,6,400915621,2017-01-12
+46,1,"13:36",2016,2016,"Robert Cartwright Turnover.",18,3,15,0.948314834078247,"Stanford","Washington State",6,5,0,0,6,400915621,2017-01-12
+47,1,"13:36",2016,2016,"Viont'e Daniels Steal.",18,3,15,0.948314834078247,"Stanford","Washington State",6,5,0,0,6,400915621,2017-01-12
+48,1,"13:29",2009,2009,"Malachi Flynn missed Three Point Jumper.",18,3,15,0.941821898844845,"Stanford","Washington State",6,5,0,0,6,400915621,2017-01-12
+49,1,"13:21",2001,2001,"Reid Travis Defensive Rebound.",18,3,15,0.941821898844845,"Stanford","Washington State",6,5,0,0,6,400915621,2017-01-12
+50,1,"13:21",2001,2001,"Foul on Viont'e Daniels.",18,3,15,0.941821898844845,"Stanford","Washington State",6,5,0,0,6,400915621,2017-01-12
+51,1,"12:58",1978,1978,"Marcus Allen made Jumper.",20,3,17,0.966165996750906,"Stanford","Washington State",6,5,0,0,6,400915621,2017-01-12
+52,1,"12:41",1961,1961,"Ike Iroegbu made Layup.",20,5,15,0.939273900158169,"Stanford","Washington State",6,5,0,0,6,400915621,2017-01-12
+53,1,"12:15",1935,1935,"Robert Cartwright made Three Point Jumper. Assisted by Grant Verhoeven.",23,5,18,0.967937913077129,"Stanford","Washington State",6,5,0,0,6,400915621,2017-01-12
+54,1,"12:05",1925,1925,"Washington St  Timeout",23,5,18,0.968096624134906,"Stanford","Washington State",6,4,0,1,6,400915621,2017-01-12
+55,1,"11:59",1919,1919,"Robert Franks missed Jumper.",23,5,18,0.971244934913869,"Stanford","Washington State",6,4,0,1,6,400915621,2017-01-12
+56,1,"11:59",1919,1919,"Dorian Pickens Defensive Rebound.",23,5,18,0.971244934913869,"Stanford","Washington State",6,4,0,1,6,400915621,2017-01-12
+57,1,"11:34",1894,1894,"Marcus Allen missed Jumper.",23,5,18,0.971957945941242,"Stanford","Washington State",6,4,0,1,6,400915621,2017-01-12
+58,1,"11:34",1894,1894,"Grant Verhoeven Offensive Rebound.",23,5,18,0.971957945941242,"Stanford","Washington State",6,4,0,1,6,400915621,2017-01-12
+59,1,"11:26",1886,1886,"Grant Verhoeven made Layup.",25,5,20,0.973294110949575,"Stanford","Washington State",6,4,0,1,6,400915621,2017-01-12
+60,1,"11:20",1880,1880,"Foul on Christian Sanders.",25,5,20,0.973294110949575,"Stanford","Washington State",6,4,0,1,6,400915621,2017-01-12
+61,1,"11:20",1880,1880,"Conor Clifford made Free Throw.",25,6,19,0.969883146035337,"Stanford","Washington State",6,4,0,1,6,400915621,2017-01-12
+62,1,"11:20",1880,1880,"Conor Clifford made Free Throw.",25,7,18,0.966051717061393,"Stanford","Washington State",6,4,0,1,6,400915621,2017-01-12
+63,1,"11:10",1870,1870,"Foul on Josh Hawkinson.",25,7,18,0.965909485808072,"Stanford","Washington State",6,4,0,1,6,400915621,2017-01-12
+64,1,"11:10",1870,1870,"Marcus Sheffield made Free Throw.",26,7,19,0.969769070121604,"Stanford","Washington State",6,4,0,1,6,400915621,2017-01-12
+65,1,"11:10",1870,1870,"Marcus Sheffield made Free Throw.",27,7,20,0.973203810843225,"Stanford","Washington State",6,4,0,1,6,400915621,2017-01-12
+66,1,"10:50",1850,1850,"Josh Hawkinson made Three Point Jumper. Assisted by Charles Callison.",27,10,17,0.96450281159233,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+67,1,"10:25",1825,1825,"Dorian Pickens made Dunk.",29,10,19,0.970598315739629,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+68,1,"10:15",1815,1815,"Foul on Grant Verhoeven.",29,10,19,0.977421302298535,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+69,1,"10:11",1811,1811,"Viont'e Daniels missed Jumper.",29,10,19,0.977421302298535,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+70,1,"10:11",1811,1811,"Reid Travis Defensive Rebound.",29,10,19,0.977421302298535,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+71,1,"9:59",1799,1799,"Reid Travis missed Jumper.",29,10,19,0.971264092601885,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+72,1,"9:59",1799,1799,"Josh Hawkinson Defensive Rebound.",29,10,19,0.971264092601885,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+73,1,"9:52",1792,1792,"Malachi Flynn missed Jumper.",29,10,19,0.971264092601885,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+74,1,"9:52",1792,1792,"Grant Verhoeven Defensive Rebound.",29,10,19,0.971264092601885,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+75,1,"9:38",1778,1778,"Dorian Pickens missed Three Point Jumper.",29,10,19,0.966605280153875,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+76,1,"9:38",1778,1778,"Washington St Defensive Rebound.",29,10,19,0.966605280153875,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+77,1,"9:37",1777,1777,"Foul on Reid Travis.",29,10,19,0.966605280153875,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+78,1,"9:10",1750,1750,"Ike Iroegbu missed Three Point Jumper.",29,10,19,0.975971905201147,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+79,1,"9:10",1750,1750,"Marcus Sheffield Defensive Rebound.",29,10,19,0.975971905201147,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+80,1,"8:50",1730,1730,"Christian Sanders missed Jumper.",29,10,19,0.975645465569923,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+81,1,"8:50",1730,1730,"Washington St Deadball Team Rebound.",29,10,19,0.975645465569923,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+82,1,"8:49",1729,1729,"Foul on Reid Travis.",29,10,19,0.974025395222373,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+83,1,"8:49",1729,1729,"Reid Travis Turnover.",29,10,19,0.974025395222373,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+84,1,"8:40",1720,1720,"Conor Clifford made Jumper.",29,12,17,0.966209854113327,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+85,1,"8:30",1710,1710,"Josh Sharma missed Jumper.",29,12,17,0.967752716068181,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+86,1,"8:30",1710,1710,"Conor Clifford Block.",29,12,17,0.967752716068181,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+87,1,"8:30",1710,1710,"Conor Clifford Defensive Rebound.",29,12,17,0.967752716068181,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+88,1,"8:19",1699,1699,"Conor Clifford made Jumper.",29,14,15,0.961624568476086,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+89,1,"7:52",1672,1672,"Foul on Marcus Allen.",29,14,15,0.959711316149955,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+90,1,"7:52",1672,1672,"Marcus Allen Turnover.",29,14,15,0.959711316149955,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+91,1,"7:52",1672,1672,"Official TV Timeout",29,14,15,0.959711316149955,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+92,1,"7:43",1663,1663,"Malachi Flynn Turnover.",29,14,15,0.953182496051169,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+93,1,"7:43",1663,1663,"Michael Humphrey Steal.",29,14,15,0.953182496051169,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+94,1,"7:39",1659,1659,"Robert Cartwright made Layup. Assisted by Michael Humphrey.",31,14,17,0.965024850394257,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+95,1,"7:23",1643,1643,"Josh Hawkinson missed Jumper.",31,14,17,0.969593706306242,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+96,1,"7:23",1643,1643,"Marcus Allen Defensive Rebound.",31,14,17,0.969593706306242,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+97,1,"7:10",1630,1630,"Marcus Sheffield made Three Point Jumper. Assisted by Marcus Allen.",34,14,20,0.97637271187347,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+98,1,"6:42",1602,1602,"Josh Hawkinson missed Three Point Jumper.",34,14,20,0.975565054160596,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+99,1,"6:42",1602,1602,"Marcus Allen Defensive Rebound.",34,14,20,0.975565054160596,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+100,1,"6:20",1580,1580,"Grant Verhoeven missed Jumper.",34,14,20,0.976553227252,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+101,1,"6:20",1580,1580,"Ike Iroegbu Defensive Rebound.",34,14,20,0.976553227252,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+102,1,"6:10",1570,1570,"Foul on Grant Verhoeven.",34,14,20,0.984812390852478,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+103,1,"6:10",1570,1570,"Josh Hawkinson made Free Throw.",34,15,19,0.982308737867593,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+104,1,"6:10",1570,1570,"Josh Hawkinson missed Free Throw.",34,15,19,0.982308737867593,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+105,1,"6:10",1570,1570,"Robert Cartwright Defensive Rebound.",34,15,19,0.982308737867593,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+106,1,"5:52",1552,1552,"Josh Sharma missed Jumper.",34,15,19,0.976186967845347,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+107,1,"5:52",1552,1552,"Robert Franks Defensive Rebound.",34,15,19,0.976186967845347,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+108,1,"5:46",1546,1546,"Ike Iroegbu Turnover.",34,15,19,0.976133458970471,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+109,1,"5:46",1546,1546,"Josh Sharma Steal.",34,15,19,0.976133458970471,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+110,1,"5:16",1516,1516,"Robert Cartwright made Jumper.",36,15,21,0.98630234980397,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+111,1,"4:54",1494,1494,"Malachi Flynn missed Three Point Jumper.",36,15,21,0.982402866816297,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+112,1,"4:54",1494,1494,"Stanford Defensive Rebound.",36,15,21,0.982402866816297,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+113,1,"4:38",1478,1478,"Michael Humphrey missed Jumper.",36,15,21,0.986681362966524,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+114,1,"4:38",1478,1478,"Josh Hawkinson Defensive Rebound.",36,15,21,0.986681362966524,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+115,1,"4:10",1450,1450,"Ike Iroegbu missed Jumper.",36,15,21,0.983382509279117,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+116,1,"4:10",1450,1450,"Josh Sharma Block.",36,15,21,0.983382509279117,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+117,1,"4:10",1450,1450,"Josh Hawkinson Offensive Rebound.",36,15,21,0.983382509279117,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+118,1,"4:10",1450,1450,"Josh Hawkinson Turnover.",36,15,21,0.983382509279117,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+119,1,"3:57",1437,1437,"Michael Humphrey missed Layup.",36,15,21,0.984367115873267,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+120,1,"3:57",1437,1437,"Conor Clifford Defensive Rebound.",36,15,21,0.984367115873267,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+121,1,"3:45",1425,1425,"Malachi Flynn missed Jumper.",36,15,21,0.981693185158269,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+122,1,"3:45",1425,1425,"Marcus Sheffield Defensive Rebound.",36,15,21,0.981693185158269,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+123,1,"3:38",1418,1418,"Josh Sharma made Dunk. Assisted by Marcus Sheffield.",38,15,23,0.989124297740031,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+124,1,"3:10",1390,1390,"Foul on Josh Sharma.",38,15,23,0.989841948438617,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+125,1,"3:10",1390,1390,"Official TV Timeout",38,15,23,0.989841948438617,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+126,1,"3:10",1390,1390,"Conor Clifford made Free Throw.",38,16,22,0.988165709393797,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+127,1,"3:10",1390,1390,"Conor Clifford made Free Throw.",38,17,21,0.986216716078923,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+128,1,"2:49",1369,1369,"Robert Cartwright made Three Point Jumper.",41,17,24,0.990769991828308,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+129,1,"2:19",1339,1339,"Ike Iroegbu missed Layup.",41,17,24,0.990510199413732,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+130,1,"2:19",1339,1339,"Josh Hawkinson Offensive Rebound.",41,17,24,0.990510199413732,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+131,1,"2:16",1336,1336,"Foul on Michael Humphrey.",41,17,24,0.990510199413732,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+132,1,"2:16",1336,1336,"Josh Hawkinson made Free Throw.",41,18,23,0.988930491014326,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+133,1,"2:16",1336,1336,"Josh Hawkinson made Free Throw.",41,19,22,0.987091245393371,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+134,1,"2:09",1329,1329,"Marcus Sheffield missed Three Point Jumper.",41,19,22,0.988396041396585,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+135,1,"2:09",1329,1329,"Josh Sharma Offensive Rebound.",41,19,22,0.988396041396585,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+136,1,"1:55",1315,1315,"Robert Cartwright made Layup.",43,19,24,0.991909465349108,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+137,1,"1:43",1303,1303,"Josh Hawkinson Turnover.",43,19,24,0.988691337684337,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+138,1,"1:43",1303,1303,"Trevor Stanback Steal.",43,19,24,0.988691337684337,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+139,1,"1:37",1297,1297,"Robert Cartwright made Three Point Jumper. Assisted by Marcus Sheffield.",46,19,27,0.995987867629017,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+140,1,"1:15",1275,1275,"Charles Callison missed Three Point Jumper.",46,19,27,0.993020171853498,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+141,1,"1:15",1275,1275,"Dorian Pickens Defensive Rebound.",46,19,27,0.993020171853498,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+142,1,"0:53",1253,1253,"Dorian Pickens made Jumper.",48,19,29,0.995038775623616,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+143,1,"0:40",1240,1240,"Conor Clifford made Dunk. Assisted by Ike Iroegbu.",48,21,27,0.994282302993599,"Stanford","Washington State",6,4,0,0,6,400915621,2017-01-12
+144,1,"0:29",1229,1229,"Stanford  Timeout",48,21,27,0.996025109697701,"Stanford","Washington State",6,3,0,1,6,400915621,2017-01-12
+145,1,"0:08",1208,1208,"Robert Cartwright missed Three Point Jumper.",48,21,27,0.99477401917274,"Stanford","Washington State",6,3,0,1,6,400915621,2017-01-12
+146,1,"0:08",1208,1208,"Washington St Defensive Rebound.",48,21,27,0.99477401917274,"Stanford","Washington State",6,3,0,1,6,400915621,2017-01-12
+147,1,"0:04",1204,1204,"Ike Iroegbu made Layup.",48,23,25,0.992827993428198,"Stanford","Washington State",6,3,0,1,6,400915621,2017-01-12
+148,1,"0:00",1200,1200,"End of 1st half",48,23,25,0.992827993428198,"Stanford","Washington State",6,3,0,1,6,400915621,2017-01-12
+149,2,"20:00",1200,1200,"PLAY",48,23,25,0.992827993428198,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+150,2,"20:00",1200,1200,"Jump Ball won by Washington St",48,23,25,0.992827993428198,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+151,2,"19:41",1181,1181,"Conor Clifford made Dunk. Assisted by Josh Hawkinson.",48,25,23,0.991505688282748,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+152,2,"19:25",1165,1165,"Dorian Pickens missed Jumper.",48,25,23,0.990927104064968,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+153,2,"19:25",1165,1165,"Josh Hawkinson Defensive Rebound.",48,25,23,0.990927104064968,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+154,2,"19:19",1159,1159,"Foul on Marcus Allen.",48,25,23,0.990395065012416,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+155,2,"19:19",1159,1159,"Ike Iroegbu made Free Throw.",48,26,22,0.988727714685361,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+156,2,"19:19",1159,1159,"Ike Iroegbu made Free Throw.",48,27,21,0.986774788900843,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+157,2,"19:10",1150,1150,"Dorian Pickens made Three Point Jumper. Assisted by Robert Cartwright.",51,27,24,0.99181782865632,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+158,2,"18:39",1119,1119,"Foul on Michael Humphrey.",51,27,24,0.993644854660087,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+159,2,"18:39",1119,1119,"Conor Clifford made Free Throw.",51,28,23,0.992453896112781,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+160,2,"18:39",1119,1119,"Conor Clifford made Free Throw.",51,29,22,0.991041763270331,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+161,2,"18:19",1099,1099,"Dorian Pickens made Jumper.",53,29,24,0.993836734895445,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+162,2,"18:05",1085,1085,"Charles Callison made Layup. Assisted by Ike Iroegbu.",53,31,22,0.992143886656838,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+163,2,"17:40",1060,1060,"Reid Travis made Layup. Assisted by Robert Cartwright.",55,31,24,0.99371733541558,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+164,2,"17:11",1031,1031,"Conor Clifford missed Jumper.",55,31,24,0.993344429703611,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+165,2,"17:11",1031,1031,"Ike Iroegbu Offensive Rebound.",55,31,24,0.993344429703611,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+166,2,"17:11",1031,1031,"Ike Iroegbu made Two Point Tip Shot.",55,33,22,0.990645920132737,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+167,2,"17:00",1020,1020,"Robert Cartwright missed Layup.",55,33,22,0.992353067756825,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+168,2,"17:00",1020,1020,"Conor Clifford Block.",55,33,22,0.992353067756825,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+169,2,"17:00",1020,1020,"Conor Clifford Defensive Rebound.",55,33,22,0.992353067756825,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+170,2,"16:50",1010,1010,"Malachi Flynn missed Three Point Jumper.",55,33,22,0.991733120450179,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+171,2,"16:50",1010,1010,"Grant Verhoeven Defensive Rebound.",55,33,22,0.991733120450179,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+172,2,"16:42",1002,1002,"Reid Travis made Layup. Assisted by Robert Cartwright.",57,33,24,0.994898200141989,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+173,2,"16:16",976,976,"Conor Clifford missed Jumper.",57,33,24,0.994738781292334,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+174,2,"16:16",976,976,"Reid Travis Defensive Rebound.",57,33,24,0.994738781292334,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+175,2,"15:58",958,958,"Foul on Reid Travis.",57,33,24,0.995788189996877,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+176,2,"15:58",958,958,"Reid Travis Turnover.",57,33,24,0.995788189996877,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+177,2,"15:58",958,958,"Official TV Timeout",57,33,24,0.995788189996877,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+178,2,"15:32",932,932,"Ike Iroegbu missed Jumper.",57,33,24,0.995659910241966,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+179,2,"15:32",932,932,"Dorian Pickens Defensive Rebound.",57,33,24,0.995659910241966,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+180,2,"15:12",912,912,"Grant Verhoeven made Three Point Jumper. Assisted by Robert Cartwright.",60,33,27,0.997951842108085,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+181,2,"15:00",900,900,"Malachi Flynn missed Jumper.",60,33,27,0.997501923632135,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+182,2,"14:54",894,894,"Malachi Flynn Offensive Rebound.",60,33,27,0.997799249156231,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+183,2,"14:49",889,889,"Ike Iroegbu missed Three Point Jumper.",60,33,27,0.995910850909299,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+184,2,"14:49",889,889,"Josh Sharma Defensive Rebound.",60,33,27,0.995910850909299,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+185,2,"14:35",875,875,"Marcus Sheffield missed Jumper.",60,33,27,0.997675118048905,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+186,2,"14:35",875,875,"Ike Iroegbu Defensive Rebound.",60,33,27,0.997675118048905,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+187,2,"14:26",866,866,"Josh Hawkinson missed Layup.",60,33,27,0.997478003359227,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+188,2,"14:26",866,866,"Josh Sharma Block.",60,33,27,0.997478003359227,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+189,2,"14:26",866,866,"Viont'e Daniels Offensive Rebound.",60,33,27,0.997478003359227,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+190,2,"14:10",850,850,"Viont'e Daniels missed Jumper.",60,33,27,0.998367702501905,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+191,2,"14:10",850,850,"Grant Verhoeven Defensive Rebound.",60,33,27,0.998367702501905,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+192,2,"13:57",837,837,"Robert Cartwright made Three Point Jumper.",63,33,30,0.999166710530276,"Stanford","Washington State",6,3,0,0,6,400915621,2017-01-12
+193,2,"13:47",827,827,"Washington St  Timeout",63,33,30,0.998498414747569,"Stanford","Washington State",6,2,0,1,6,400915621,2017-01-12
+194,2,"13:33",813,813,"Viont'e Daniels missed Three Point Jumper.",63,33,30,0.998769860731882,"Stanford","Washington State",6,2,0,1,6,400915621,2017-01-12
+195,2,"13:33",813,813,"Marcus Sheffield Defensive Rebound.",63,33,30,0.998769860731882,"Stanford","Washington State",6,2,0,1,6,400915621,2017-01-12
+196,2,"13:11",791,791,"Marcus Sheffield made Three Point Jumper. Assisted by Dorian Pickens.",66,33,33,0.999680434989755,"Stanford","Washington State",6,2,0,1,6,400915621,2017-01-12
+197,2,"12:51",771,771,"Josh Hawkinson made Three Point Jumper. Assisted by Charles Callison.",66,36,30,0.999194980856739,"Stanford","Washington State",6,2,0,1,6,400915621,2017-01-12
+198,2,"12:17",737,737,"Josh Sharma Turnover.",66,36,30,0.999210612742118,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+199,2,"12:17",737,737,"KJ Langston Steal.",66,36,30,0.999210612742118,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+200,2,"12:14",734,734,"Foul on Grant Verhoeven.",66,36,30,0.999210612742118,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+201,2,"12:10",730,730,"Charles Callison Turnover.",66,36,30,0.999210612742118,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+202,2,"12:03",723,723,"Marcus Sheffield missed Jumper.",66,36,30,0.999418184187298,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+203,2,"12:03",723,723,"Josh Hawkinson Defensive Rebound.",66,36,30,0.999418184187298,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+204,2,"11:54",714,714,"Charles Callison Turnover.",66,36,30,0.999330979743501,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+205,2,"11:54",714,714,"Christian Sanders Steal.",66,36,30,0.999330979743501,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+206,2,"11:49",709,709,"Christian Sanders Turnover.",66,36,30,0.999222962961278,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+207,2,"11:49",709,709,"Official TV Timeout",66,36,30,0.999222962961278,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+208,2,"11:22",682,682,"Robert Franks made Jumper. Assisted by Viont'e Daniels.",66,38,28,0.999104012612978,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+209,2,"11:04",664,664,"Robert Cartwright missed Three Point Jumper.",66,38,28,0.999203990776966,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+210,2,"11:04",664,664,"Washington St Defensive Rebound.",66,38,28,0.999203990776966,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+211,2,"10:37",637,637,"Robert Franks made Layup.",66,40,26,0.998899583654887,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+212,2,"10:20",620,620,"Josh Sharma made Jumper. Assisted by Marcus Sheffield.",68,40,28,0.99961236332084,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+213,2,"10:06",606,606,"Robert Franks missed Three Point Jumper.",68,40,28,0.999513361526624,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+214,2,"10:06",606,606,"Marcus Sheffield Defensive Rebound.",68,40,28,0.999513361526624,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+215,2,"9:42",582,582,"Robert Cartwright missed Layup.",68,40,28,0.999423396602442,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+216,2,"9:42",582,582,"Jeff Pollard Block.",68,40,28,0.999423396602442,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+217,2,"9:42",582,582,"Washington St Defensive Rebound.",68,40,28,0.999423396602442,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+218,2,"9:26",566,566,"Robert Franks missed Jumper.",68,40,28,0.99968281754233,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+219,2,"9:26",566,566,"Michael Humphrey Defensive Rebound.",68,40,28,0.99968281754233,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+220,2,"9:10",550,550,"Reid Travis made Layup. Assisted by Marcus Allen.",70,40,30,0.999797211357089,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+221,2,"9:00",540,540,"KJ Langston missed Three Point Jumper.",70,40,30,0.999829283339407,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+222,2,"9:00",540,540,"Michael Humphrey Defensive Rebound.",70,40,30,0.999829283339407,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+223,2,"8:49",529,529,"Michael Humphrey Turnover.",70,40,30,0.999855765067956,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+224,2,"8:49",529,529,"Josh Hawkinson Steal.",70,40,30,0.999855765067956,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+225,2,"8:36",516,516,"Foul on Robert Cartwright.",70,40,30,0.999842464050166,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+226,2,"8:32",512,512,"Josh Hawkinson made Three Point Jumper. Assisted by Ike Iroegbu.",70,43,27,0.999645367992917,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+227,2,"8:13",493,493,"Reid Travis made Layup. Assisted by Robert Cartwright.",72,43,29,0.999822358717352,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+228,2,"8:04",484,484,"Ike Iroegbu made Layup.",72,45,27,0.999687691472167,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+229,2,"8:04",484,484,"Foul on Robert Cartwright.",72,45,27,0.999687691472167,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+230,2,"8:04",484,484,"Ike Iroegbu missed Free Throw.",72,45,27,0.999687691472167,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+231,2,"8:04",484,484,"Michael Humphrey Defensive Rebound.",72,45,27,0.999687691472167,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+232,2,"7:53",473,473,"Dorian Pickens Turnover.",72,45,27,0.999808036767789,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+233,2,"7:49",469,469,"Official TV Timeout",72,45,27,0.999747783317467,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+234,2,"7:28",448,448,"Josh Hawkinson made Jumper. Assisted by Ike Iroegbu.",72,47,25,0.999449688600587,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+235,2,"7:06",426,426,"Dorian Pickens missed Jumper.",72,47,25,0.999670241949683,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+236,2,"7:06",426,426,"Michael Humphrey Offensive Rebound.",72,47,25,0.999670241949683,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+237,2,"6:55",415,415,"Reid Travis made Layup.",74,47,27,0.999848838962947,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+238,2,"6:35",395,395,"Robert Franks missed Jumper.",74,47,27,0.99988901948015,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+239,2,"6:35",395,395,"Robert Cartwright Defensive Rebound.",74,47,27,0.99988901948015,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+240,2,"6:12",372,372,"Foul on Ike Iroegbu.",74,47,27,0.999871915357229,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+241,2,"6:12",372,372,"Marcus Allen missed Free Throw.",74,47,27,0.999871915357229,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+242,2,"6:12",372,372,"Stanford Deadball Team Rebound.",74,47,27,0.999871915357229,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+243,2,"6:12",372,372,"Marcus Allen made Free Throw.",75,47,28,0.99990602202675,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+244,2,"5:57",357,357,"Josh Hawkinson Turnover.",75,47,28,0.999956375822516,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+245,2,"5:37",337,337,"Reid Travis missed Jumper.",75,47,28,0.999974458374053,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+246,2,"5:37",337,337,"Reid Travis Offensive Rebound.",75,47,28,0.999974458374053,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+247,2,"5:31",331,331,"Reid Travis missed Layup.",75,47,28,0.999974458374053,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+248,2,"5:31",331,331,"Conor Clifford Defensive Rebound.",75,47,28,0.999974458374053,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+249,2,"5:25",325,325,"Charles Callison Turnover.",75,47,28,0.999918404304314,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+250,2,"5:25",325,325,"Marcus Allen Steal.",75,47,28,0.999918404304314,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+251,2,"5:25",325,325,"Foul on Charles Callison.",75,47,28,0.999918404304314,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+252,2,"5:13",313,313,"Foul on Conor Clifford.",75,47,28,0.999980416615755,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+253,2,"5:12",312,312,"Foul on Viont'e Daniels.",75,47,28,0.999980416615755,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+254,2,"5:12",312,312,"Dorian Pickens missed Free Throw.",75,47,28,0.999980416615755,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+255,2,"5:12",312,312,"Stanford Deadball Team Rebound.",75,47,28,0.999980416615755,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+256,2,"5:12",312,312,"Dorian Pickens made Free Throw.",76,47,29,0.99998642718352,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+257,2,"4:58",298,298,"Foul on Reid Travis.",76,47,29,0.999974731722365,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+258,2,"4:58",298,298,"Conor Clifford missed Free Throw.",76,47,29,0.999974731722365,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+259,2,"4:58",298,298,"Washington St Deadball Team Rebound.",76,47,29,0.999974731722365,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+260,2,"4:58",298,298,"Conor Clifford made Free Throw.",76,48,28,0.999964394899464,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+261,2,"4:32",272,272,"Christian Sanders missed Jumper.",76,48,28,0.999988815359867,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+262,2,"4:32",272,272,"Michael Humphrey Offensive Rebound.",76,48,28,0.999988815359867,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+263,2,"4:32",272,272,"Michael Humphrey missed Two Point Tip Shot.",76,48,28,0.999988815359867,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+264,2,"4:32",272,272,"Robert Franks Defensive Rebound.",76,48,28,0.999988815359867,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+265,2,"4:22",262,262,"Malachi Flynn missed Jumper.",76,48,28,0.999983884713357,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+266,2,"4:22",262,262,"Michael Humphrey Block.",76,48,28,0.999983884713357,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+267,2,"4:22",262,262,"Michael Humphrey Defensive Rebound.",76,48,28,0.999983884713357,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+268,2,"4:14",254,254,"Dorian Pickens made Layup. Assisted by Michael Humphrey.",78,48,30,0.999998145939794,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+269,2,"4:06",246,246,"Malachi Flynn missed Three Point Jumper.",78,48,30,0.999996799096146,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+270,2,"4:06",246,246,"Marcus Sheffield Defensive Rebound.",78,48,30,0.999996799096146,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+271,2,"3:52",232,232,"Reid Travis made Layup. Assisted by Dorian Pickens.",80,48,32,0.999998658468131,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+272,2,"3:31",211,211,"Robert Franks missed Jumper.",80,48,32,0.99999952604513,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+273,2,"3:31",211,211,"Marcus Sheffield Defensive Rebound.",80,48,32,0.99999952604513,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+274,2,"3:23",203,203,"Marcus Sheffield made Layup.",82,48,34,0.999999889846084,"Stanford","Washington State",6,2,0,0,6,400915621,2017-01-12
+275,2,"3:14",194,194,"Washington St  Timeout",82,48,34,0.999999916833162,"Stanford","Washington State",6,1,0,1,6,400915621,2017-01-12
+276,2,"2:59",179,179,"KJ Langston missed Dunk.",82,48,34,0.999999969116322,"Stanford","Washington State",6,1,0,1,6,400915621,2017-01-12
+277,2,"2:59",179,179,"Malcolm Allen Defensive Rebound.",82,48,34,0.999999969116322,"Stanford","Washington State",6,1,0,1,6,400915621,2017-01-12
+278,2,"2:51",171,171,"Malcolm Allen made Layup.",84,48,36,0.999999988458139,"Stanford","Washington State",6,1,0,1,6,400915621,2017-01-12
+279,2,"2:42",162,162,"Robert Franks missed Three Point Jumper.",84,48,36,0.999999995372828,"Stanford","Washington State",6,1,0,1,6,400915621,2017-01-12
+280,2,"2:42",162,162,"Michael Humphrey Defensive Rebound.",84,48,36,0.999999995372828,"Stanford","Washington State",6,1,0,1,6,400915621,2017-01-12
+281,2,"2:23",143,143,"Josh Sharma Turnover.",84,48,36,0.999999995108686,"Stanford","Washington State",6,1,0,1,6,400915621,2017-01-12
+282,2,"2:07",127,127,"Robert Franks made Three Point Jumper. Assisted by Steven Shpreyregin.",84,51,33,0.999999994772552,"Stanford","Washington State",6,1,0,0,6,400915621,2017-01-12
+283,2,"1:43",103,103,"Michael Humphrey missed Jumper.",84,51,33,0.999999999023638,"Stanford","Washington State",6,1,0,0,6,400915621,2017-01-12
+284,2,"1:43",103,103,"Robert Franks Defensive Rebound.",84,51,33,0.999999999023638,"Stanford","Washington State",6,1,0,0,6,400915621,2017-01-12
+285,2,"1:27",87,87,"Robert Franks made Three Point Jumper. Assisted by Viont'e Daniels.",84,54,30,0.999999999733014,"Stanford","Washington State",6,1,0,0,6,400915621,2017-01-12
+286,2,"1:06",66,66,"Malcolm Allen missed Jumper.",84,54,30,0.999999999811521,"Stanford","Washington State",6,1,0,0,6,400915621,2017-01-12
+287,2,"1:06",66,66,"KJ Langston Defensive Rebound.",84,54,30,0.999999999811521,"Stanford","Washington State",6,1,0,0,6,400915621,2017-01-12
+288,2,"0:49",49,49,"Robert Franks missed Three Point Jumper.",84,54,30,0.999999999999716,"Stanford","Washington State",6,1,0,0,6,400915621,2017-01-12
+289,2,"0:49",49,49,"Stanford Defensive Rebound.",84,54,30,0.999999999999716,"Stanford","Washington State",6,1,0,0,6,400915621,2017-01-12
+290,2,"0:24",24,24,"Foul on Jeff Pollard.",84,54,30,0.999999999998841,"Stanford","Washington State",6,1,0,0,6,400915621,2017-01-12
+291,2,"0:24",24,24,"Rodney Herenton missed Free Throw.",84,54,30,0.999999999998841,"Stanford","Washington State",6,1,0,0,6,400915621,2017-01-12
+292,2,"0:24",24,24,"Stanford Deadball Team Rebound.",84,54,30,0.999999999998841,"Stanford","Washington State",6,1,0,0,6,400915621,2017-01-12
+293,2,"0:24",24,24,"Rodney Herenton missed Free Throw.",84,54,30,0.999999999998841,"Stanford","Washington State",6,1,0,0,6,400915621,2017-01-12
+294,2,"0:24",24,24,"Steven Shpreyregin Defensive Rebound.",84,54,30,0.999999999998841,"Stanford","Washington State",6,1,0,0,6,400915621,2017-01-12
+295,2,"0:07",7,7,"Robert Franks missed Three Point Jumper.",84,54,30,1,"Stanford","Washington State",6,1,0,0,6,400915621,2017-01-12
+296,2,"0:07",7,7,"Stanford Defensive Rebound.",84,54,30,1,"Stanford","Washington State",6,1,0,0,6,400915621,2017-01-12
+297,2,"0:00",0,0,"End of Game",84,54,30,1,"Stanford","Washington State",6,1,0,0,6,400915621,2017-01-12

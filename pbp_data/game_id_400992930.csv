@@ -1,0 +1,436 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.3670165327453,"Savannah State","Hampton",6,6,0,0,-2.6,400992930,2018-01-20
+2,1,"19:53",2393,2393,"Dexter McClanahan made Layup.",2,0,2,0.403931877682309,"Savannah State","Hampton",6,6,0,0,-2.6,400992930,2018-01-20
+3,1,"19:41",2381,2381,"Kalin Fisher missed Three Point Jumper.",2,0,2,0.386964706536747,"Savannah State","Hampton",6,6,0,0,-2.6,400992930,2018-01-20
+4,1,"19:41",2381,2381,"Trevond Barnes Offensive Rebound.",2,0,2,0.386964706536747,"Savannah State","Hampton",6,6,0,0,-2.6,400992930,2018-01-20
+5,1,"19:34",2374,2374,"Trevond Barnes made Dunk.",2,2,0,0.389428656426221,"Savannah State","Hampton",6,6,0,0,-2.6,400992930,2018-01-20
+6,1,"19:19",2359,2359,"Foul on Trevond Barnes.",2,2,0,0.393463428327575,"Savannah State","Hampton",6,6,0,0,-2.6,400992930,2018-01-20
+7,1,"19:19",2359,2359,"Dexter McClanahan missed Free Throw.",2,2,0,0.393463428327575,"Savannah State","Hampton",6,6,0,0,-2.6,400992930,2018-01-20
+8,1,"19:19",2359,2359,"Savannah State Deadball Team Rebound.",2,2,0,0.393463428327575,"Savannah State","Hampton",6,6,0,0,-2.6,400992930,2018-01-20
+9,1,"19:19",2359,2359,"Dexter McClanahan made Free Throw.",3,2,1,0.414643895680873,"Savannah State","Hampton",6,6,0,0,-2.6,400992930,2018-01-20
+10,1,"19:00",2340,2340,"Kalin Fisher missed Jumper.",3,2,1,0.400724098200384,"Savannah State","Hampton",6,6,0,0,-2.6,400992930,2018-01-20
+11,1,"19:00",2340,2340,"Alante Fenner Defensive Rebound.",3,2,1,0.400724098200384,"Savannah State","Hampton",6,6,0,0,-2.6,400992930,2018-01-20
+12,1,"18:53",2333,2333,"Alante Fenner missed Layup.",3,2,1,0.404965615128014,"Savannah State","Hampton",6,6,0,0,-2.6,400992930,2018-01-20
+13,1,"18:53",2333,2333,"Greg Heckstall Defensive Rebound.",3,2,1,0.404965615128014,"Savannah State","Hampton",6,6,0,0,-2.6,400992930,2018-01-20
+14,1,"18:46",2326,2326,"Jermaine Marrow missed Jumper.",3,2,1,0.425483064486638,"Savannah State","Hampton",6,6,0,0,-2.6,400992930,2018-01-20
+15,1,"18:46",2326,2326,"Dexter McClanahan Defensive Rebound.",3,2,1,0.425483064486638,"Savannah State","Hampton",6,6,0,0,-2.6,400992930,2018-01-20
+16,1,"18:41",2321,2321,"Javaris Jenkins made Layup. Assisted by Dexter McClanahan.",5,2,3,0.478921335197248,"Savannah State","Hampton",6,6,0,0,-2.6,400992930,2018-01-20
+17,1,"18:17",2297,2297,"Trevond Barnes missed Three Point Jumper.",5,2,3,0.459227265932343,"Savannah State","Hampton",6,6,0,0,-2.6,400992930,2018-01-20
+18,1,"18:17",2297,2297,"Javaris Jenkins Defensive Rebound.",5,2,3,0.459227265932343,"Savannah State","Hampton",6,6,0,0,-2.6,400992930,2018-01-20
+19,1,"18:08",2288,2288,"Alante Fenner missed Three Point Jumper.",5,2,3,0.453293266574868,"Savannah State","Hampton",6,6,0,0,-2.6,400992930,2018-01-20
+20,1,"18:08",2288,2288,"Trevond Barnes Defensive Rebound.",5,2,3,0.453293266574868,"Savannah State","Hampton",6,6,0,0,-2.6,400992930,2018-01-20
+21,1,"17:56",2276,2276,"Trevond Barnes made Layup. Assisted by Akim Mitchell.",5,4,1,0.413524680183372,"Savannah State","Hampton",6,6,0,0,-2.6,400992930,2018-01-20
+22,1,"17:39",2259,2259,"Dexter McClanahan Turnover.",5,4,1,0.41692509623614,"Savannah State","Hampton",6,6,0,0,-2.6,400992930,2018-01-20
+23,1,"17:16",2236,2236,"Greg Heckstall missed Three Point Jumper.",5,4,1,0.413214772087366,"Savannah State","Hampton",6,6,0,0,-2.6,400992930,2018-01-20
+24,1,"17:16",2236,2236,"Savannah State Defensive Rebound.",5,4,1,0.413214772087366,"Savannah State","Hampton",6,6,0,0,-2.6,400992930,2018-01-20
+25,1,"17:05",2225,2225,"Zach Sellers made Jumper.",7,4,3,0.461751485191681,"Savannah State","Hampton",6,6,0,0,-2.6,400992930,2018-01-20
+26,1,"16:53",2213,2213,"Hampton  Timeout",7,4,3,0.498391900651791,"Savannah State","Hampton",5,6,1,0,-2.6,400992930,2018-01-20
+27,1,"16:50",2210,2210,"Trevond Barnes Turnover.",7,4,3,0.498391900651791,"Savannah State","Hampton",5,6,1,0,-2.6,400992930,2018-01-20
+28,1,"16:49",2209,2209,"Zach Sellers Steal.",7,4,3,0.473636016773276,"Savannah State","Hampton",5,6,1,0,-2.6,400992930,2018-01-20
+29,1,"16:47",2207,2207,"Zach Sellers made Layup.",9,4,5,0.530153237739166,"Savannah State","Hampton",5,6,1,0,-2.6,400992930,2018-01-20
+30,1,"16:34",2194,2194,"Trevond Barnes made Jumper. Assisted by Akim Mitchell.",9,6,3,0.48263068277718,"Savannah State","Hampton",5,6,1,0,-2.6,400992930,2018-01-20
+31,1,"16:23",2183,2183,"Javaris Jenkins missed Three Point Jumper.",9,6,3,0.468098729395426,"Savannah State","Hampton",5,6,1,0,-2.6,400992930,2018-01-20
+32,1,"16:23",2183,2183,"Hampton Defensive Rebound.",9,6,3,0.468098729395426,"Savannah State","Hampton",5,6,1,0,-2.6,400992930,2018-01-20
+33,1,"16:09",2169,2169,"Jermaine Marrow made Layup.",9,8,1,0.414286538769843,"Savannah State","Hampton",5,6,1,0,-2.6,400992930,2018-01-20
+34,1,"16:09",2169,2169,"Foul on Ralueke Orizu.",9,8,1,0.414286538769843,"Savannah State","Hampton",5,6,1,0,-2.6,400992930,2018-01-20
+35,1,"16:09",2169,2169,"Jermaine Marrow missed Free Throw.",9,8,1,0.414286538769843,"Savannah State","Hampton",5,6,1,0,-2.6,400992930,2018-01-20
+36,1,"16:09",2169,2169,"Ty'lik Evans Defensive Rebound.",9,8,1,0.414286538769843,"Savannah State","Hampton",5,6,1,0,-2.6,400992930,2018-01-20
+37,1,"16:03",2163,2163,"Isaiah Felder made Three Point Jumper. Assisted by Alante Fenner.",12,8,4,0.496361798225234,"Savannah State","Hampton",5,6,1,0,-2.6,400992930,2018-01-20
+38,1,"15:55",2155,2155,"Jermaine Marrow made Layup. Assisted by Malique Trent-Street.",12,10,2,0.432148927801357,"Savannah State","Hampton",5,6,1,0,-2.6,400992930,2018-01-20
+39,1,"15:55",2155,2155,"Official TV Timeout",12,10,2,0.432148927801357,"Savannah State","Hampton",5,6,1,0,-2.6,400992930,2018-01-20
+40,1,"15:42",2142,2142,"Foul on Trevond Barnes.",12,10,2,0.442682536958715,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+41,1,"15:42",2142,2142,"Ralueke Orizu missed Free Throw.",12,10,2,0.442682536958715,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+42,1,"15:42",2142,2142,"Savannah State Deadball Team Rebound.",12,10,2,0.442682536958715,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+43,1,"15:42",2142,2142,"Ralueke Orizu missed Free Throw.",12,10,2,0.442682536958715,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+44,1,"15:42",2142,2142,"Charles Wilson-Fisher Defensive Rebound.",12,10,2,0.442682536958715,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+45,1,"15:22",2122,2122,"Foul on Austin Dasent.",12,10,2,0.434727691531886,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+46,1,"15:13",2113,2113,"Jermaine Marrow missed Three Point Jumper.",12,10,2,0.428427236004727,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+47,1,"15:13",2113,2113,"Ralueke Orizu Defensive Rebound.",12,10,2,0.428427236004727,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+48,1,"15:07",2107,2107,"Isaiah Felder missed Three Point Jumper.",12,10,2,0.438236301313764,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+49,1,"15:07",2107,2107,"Hampton Defensive Rebound.",12,10,2,0.438236301313764,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+50,1,"14:40",2080,2080,"Malique Trent-Street missed Layup.",12,10,2,0.452415195443533,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+51,1,"14:40",2080,2080,"Charles Wilson-Fisher Offensive Rebound.",12,10,2,0.452415195443533,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+52,1,"14:36",2076,2076,"Charles Wilson-Fisher made Layup.",12,12,0,0.374819940430664,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+53,1,"14:31",2071,2071,"Ty'lik Evans missed Three Point Jumper.",12,12,0,0.374819940430664,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+54,1,"14:31",2071,2071,"Greg Heckstall Defensive Rebound.",12,12,0,0.374819940430664,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+55,1,"14:24",2064,2064,"Foul on Dexter McClanahan.",12,12,0,0.377466013875885,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+56,1,"14:10",2050,2050,"Charles Wilson-Fisher missed Jumper.",12,12,0,0.366639146984124,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+57,1,"14:10",2050,2050,"Jermaine Marrow Offensive Rebound.",12,12,0,0.366639146984124,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+58,1,"14:01",2041,2041,"Malique Trent-Street missed Layup.",12,12,0,0.374765364621902,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+59,1,"14:01",2041,2041,"Javaris Jenkins Defensive Rebound.",12,12,0,0.374765364621902,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+60,1,"13:53",2033,2033,"Isaiah Felder missed Three Point Jumper.",12,12,0,0.387632855397162,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+61,1,"13:53",2033,2033,"Savannah State Offensive Rebound.",12,12,0,0.387632855397162,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+62,1,"13:47",2027,2027,"Ty'lik Evans missed Jumper.",12,12,0,0.377354446236468,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+63,1,"13:47",2027,2027,"Malique Trent-Street Defensive Rebound.",12,12,0,0.377354446236468,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+64,1,"13:41",2021,2021,"Charles Wilson-Fisher made Dunk. Assisted by Malique Trent-Street.",12,14,-2,0.317660901515095,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+65,1,"13:34",2014,2014,"Zach Sellers made Layup.",14,14,0,0.393353361642116,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+66,1,"13:34",2014,2014,"Foul on Charles Wilson-Fisher.",14,14,0,0.393353361642116,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+67,1,"13:34",2014,2014,"Zach Sellers missed Free Throw.",14,14,0,0.393353361642116,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+68,1,"13:34",2014,2014,"Greg Heckstall Defensive Rebound.",14,14,0,0.393353361642116,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+69,1,"13:13",1993,1993,"Greg Heckstall missed Jumper.",14,14,0,0.384930225800489,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+70,1,"13:13",1993,1993,"Hampton Offensive Rebound.",14,14,0,0.384930225800489,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+71,1,"13:13",1993,1993,"Foul on Maricus Glenn.",14,14,0,0.384930225800489,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+72,1,"13:07",1987,1987,"Jermaine Marrow missed Layup.",14,14,0,0.383406717491833,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+73,1,"13:07",1987,1987,"Charles Wilson-Fisher Offensive Rebound.",14,14,0,0.383406717491833,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+74,1,"13:04",1984,1984,"Charles Wilson-Fisher made Layup.",14,16,-2,0.32639921133054,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+75,1,"12:59",1979,1979,"Zach Sellers missed Layup.",14,16,-2,0.32515930871172,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+76,1,"12:59",1979,1979,"Lysander Bracey Block.",14,16,-2,0.32515930871172,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+77,1,"12:59",1979,1979,"Savannah State Offensive Rebound.",14,16,-2,0.32515930871172,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+78,1,"12:52",1972,1972,"Foul on Charles Wilson-Fisher.",14,16,-2,0.32515930871172,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+79,1,"12:40",1960,1960,"Alante Fenner made Three Point Jumper.",17,16,1,0.410246061981412,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+80,1,"12:26",1946,1946,"Malique Trent-Street made Layup.",17,18,-1,0.357411931084014,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+81,1,"12:16",1936,1936,"Alante Fenner missed Layup.",17,18,-1,0.351454441393445,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+82,1,"12:16",1936,1936,"Lysander Bracey Block.",17,18,-1,0.351454441393445,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+83,1,"12:16",1936,1936,"Savannah State Offensive Rebound.",17,18,-1,0.351454441393445,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+84,1,"12:15",1935,1935,"Alante Fenner missed Three Point Jumper.",17,18,-1,0.351454441393445,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+85,1,"12:15",1935,1935,"Maricus Glenn Offensive Rebound.",17,18,-1,0.351454441393445,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+86,1,"12:07",1927,1927,"Foul on Kalin Fisher.",17,18,-1,0.339711632635552,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+87,1,"12:07",1927,1927,"Dexter McClanahan made Free Throw.",18,18,0,0.368503018568539,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+88,1,"12:07",1927,1927,"Dexter McClanahan made Free Throw.",19,18,1,0.39826273776482,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+89,1,"11:52",1912,1912,"Malique Trent-Street Turnover.",19,18,1,0.440171941694401,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+90,1,"11:52",1912,1912,"Official TV Timeout",19,18,1,0.440171941694401,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+91,1,"11:46",1906,1906,"Javaris Jenkins made Jumper.",21,18,3,0.468333246479489,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+92,1,"11:33",1893,1893,"Lysander Bracey missed Three Point Jumper.",21,18,3,0.502339059822701,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+93,1,"11:33",1893,1893,"Austin Dasent Defensive Rebound.",21,18,3,0.502339059822701,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+94,1,"11:12",1872,1872,"Dexter McClanahan made Layup. Assisted by Javaris Jenkins.",23,18,5,0.541237215066593,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+95,1,"10:56",1856,1856,"Malique Trent-Street missed Jumper.",23,18,5,0.559057859793597,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+96,1,"10:56",1856,1856,"Hampton Offensive Rebound.",23,18,5,0.559057859793597,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+97,1,"10:52",1852,1852,"Kalin Fisher missed Three Point Jumper.",23,18,5,0.559057859793597,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+98,1,"10:52",1852,1852,"Javaris Jenkins Defensive Rebound.",23,18,5,0.559057859793597,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+99,1,"10:22",1822,1822,"Dexter McClanahan made Three Point Jumper.",26,18,8,0.643191511885363,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+100,1,"9:57",1797,1797,"Austin Colbert missed Three Point Jumper.",26,18,8,0.642656183530541,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+101,1,"9:57",1797,1797,"Savannah State Defensive Rebound.",26,18,8,0.642656183530541,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+102,1,"9:44",1784,1784,"Dexter McClanahan Turnover.",26,18,8,0.650718884390408,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+103,1,"9:44",1784,1784,"Kalin Fisher Steal.",26,18,8,0.650718884390408,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+104,1,"9:39",1779,1779,"Kalin Fisher Turnover.",26,18,8,0.617623560272904,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+105,1,"9:38",1778,1778,"Ty'lik Evans Steal.",26,18,8,0.617623560272904,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+106,1,"9:34",1774,1774,"Ty'lik Evans missed Three Point Jumper.",26,18,8,0.617623560272904,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+107,1,"9:34",1774,1774,"Akim Mitchell Defensive Rebound.",26,18,8,0.617623560272904,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+108,1,"9:28",1768,1768,"Akim Mitchell Turnover.",26,18,8,0.641949451215604,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+109,1,"9:19",1759,1759,"Foul on Jermaine Marrow.",26,18,8,0.629758573147386,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+110,1,"9:19",1759,1759,"Ty'lik Evans missed Free Throw.",26,18,8,0.629758573147386,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+111,1,"9:19",1759,1759,"Savannah State Deadball Team Rebound.",26,18,8,0.629758573147386,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+112,1,"9:19",1759,1759,"Ty'lik Evans made Free Throw.",27,18,9,0.661795866596182,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+113,1,"8:47",1727,1727,"Malique Trent-Street made Layup.",27,20,7,0.653253493295618,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+114,1,"8:29",1709,1709,"Zach Sellers Turnover.",27,20,7,0.602956122481788,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+115,1,"8:05",1685,1685,"Kalin Fisher made Jumper.",27,22,5,0.567121276761298,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+116,1,"8:00",1680,1680,"Foul on Greg Heckstall.",27,22,5,0.567121276761298,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+117,1,"8:00",1680,1680,"Official TV Timeout",27,22,5,0.567121276761298,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+118,1,"8:00",1680,1680,"Zach Sellers made Free Throw.",28,22,6,0.602399250592615,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+119,1,"8:00",1680,1680,"Zach Sellers made Free Throw.",29,22,7,0.636644235258206,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+120,1,"7:48",1668,1668,"Kalin Fisher Turnover.",29,22,7,0.616690696272153,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+121,1,"7:32",1652,1652,"Javaris Jenkins missed Jumper.",29,22,7,0.635196264724907,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+122,1,"7:32",1652,1652,"Greg Heckstall Defensive Rebound.",29,22,7,0.635196264724907,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+123,1,"7:20",1640,1640,"Greg Heckstall missed Three Point Jumper.",29,22,7,0.641929753510772,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+124,1,"7:20",1640,1640,"Javaris Jenkins Defensive Rebound.",29,22,7,0.641929753510772,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+125,1,"7:17",1637,1637,"Foul on Akim Mitchell.",29,22,7,0.637640420669991,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+126,1,"7:17",1637,1637,"Javaris Jenkins made Free Throw.",30,22,8,0.667458973470759,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+127,1,"7:17",1637,1637,"Javaris Jenkins made Free Throw.",31,22,9,0.695993635984747,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+128,1,"7:03",1623,1623,"Akim Mitchell missed Jumper.",31,22,9,0.694865285727826,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+129,1,"7:03",1623,1623,"Dexter McClanahan Defensive Rebound.",31,22,9,0.694865285727826,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+130,1,"6:50",1610,1610,"Foul on Malique Trent-Street.",31,22,9,0.690572735611752,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+131,1,"6:50",1610,1610,"Javaris Jenkins made Free Throw.",32,22,10,0.719814076689549,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+132,1,"6:49",1609,1609,"Javaris Jenkins made Layup. Assisted by Dexter McClanahan.",34,22,12,0.750660527155587,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+133,1,"6:35",1595,1595,"Jermaine Marrow Turnover.",34,22,12,0.786137417287827,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+134,1,"6:30",1590,1590,"Dexter McClanahan made Three Point Jumper. Assisted by Alante Fenner.",37,22,15,0.846438224808649,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+135,1,"6:06",1566,1566,"Malique Trent-Street made Layup.",37,24,13,0.799450990716118,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+136,1,"5:50",1550,1550,"Dexter McClanahan missed Jumper.",37,24,13,0.807874343422528,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+137,1,"5:50",1550,1550,"Akim Mitchell Defensive Rebound.",37,24,13,0.807874343422528,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+138,1,"5:44",1544,1544,"Kalin Fisher missed Three Point Jumper.",37,24,13,0.801536120048899,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+139,1,"5:44",1544,1544,"Akim Mitchell Offensive Rebound.",37,24,13,0.801536120048899,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+140,1,"5:38",1538,1538,"Akim Mitchell missed Layup.",37,24,13,0.803574660166016,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+141,1,"5:38",1538,1538,"Akim Mitchell Offensive Rebound.",37,24,13,0.803574660166016,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+142,1,"5:38",1538,1538,"Foul on Austin Dasent.",37,24,13,0.803574660166016,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+143,1,"5:38",1538,1538,"Akim Mitchell missed Free Throw.",37,24,13,0.803574660166016,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+144,1,"5:38",1538,1538,"Hampton Deadball Team Rebound.",37,24,13,0.803574660166016,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+145,1,"5:38",1538,1538,"Akim Mitchell made Free Throw.",37,25,12,0.780615132477143,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+146,1,"5:31",1531,1531,"Zach Sellers Turnover.",37,25,12,0.780615132477143,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+147,1,"5:16",1516,1516,"Greg Heckstall made Layup. Assisted by Malique Trent-Street.",37,27,10,0.768931338722535,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+148,1,"5:03",1503,1503,"Foul on Greg Heckstall.",37,27,10,0.733971235767573,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+149,1,"5:03",1503,1503,"Alante Fenner made Free Throw.",38,27,11,0.760849576582415,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+150,1,"5:03",1503,1503,"Alante Fenner made Free Throw.",39,27,12,0.785804765890279,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+151,1,"5:03",1503,1503,"Alante Fenner missed Free Throw.",39,27,12,0.785804765890279,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+152,1,"5:03",1503,1503,"Malique Trent-Street Defensive Rebound.",39,27,12,0.785804765890279,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+153,1,"5:01",1501,1501,"Foul on Isaiah Felder.",39,27,12,0.785804765890279,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+154,1,"4:48",1488,1488,"Malique Trent-Street made Layup.",39,29,10,0.741617169729978,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+155,1,"4:33",1473,1473,"Alante Fenner missed Layup.",39,29,10,0.743187004485467,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+156,1,"4:33",1473,1473,"Jahir Cabeza Offensive Rebound.",39,29,10,0.743187004485467,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+157,1,"4:30",1470,1470,"Dexter McClanahan missed Three Point Jumper.",39,29,10,0.743187004485467,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+158,1,"4:30",1470,1470,"Kalin Fisher Defensive Rebound.",39,29,10,0.743187004485467,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+159,1,"4:21",1461,1461,"Jermaine Marrow made Jumper. Assisted by Kalin Fisher.",39,31,8,0.696502951043147,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+160,1,"4:08",1448,1448,"Alante Fenner Turnover.",39,31,8,0.716632862573281,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+161,1,"4:07",1447,1447,"Malique Trent-Street Steal.",39,31,8,0.716632862573281,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+162,1,"4:03",1443,1443,"Malique Trent-Street made Layup.",39,33,6,0.651009637550265,"Savannah State","Hampton",5,6,0,0,-2.6,400992930,2018-01-20
+163,1,"4:02",1442,1442,"Official TV Timeout",39,33,6,0.651009637550265,"Savannah State","Hampton",5,6,0,1,-2.6,400992930,2018-01-20
+164,1,"4:02",1442,1442,"Savannah State  Timeout",39,33,6,0.651009637550265,"Savannah State","Hampton",5,5,0,1,-2.6,400992930,2018-01-20
+165,1,"3:53",1433,1433,"Javaris Jenkins Turnover.",39,33,6,0.641704593799325,"Savannah State","Hampton",5,5,0,1,-2.6,400992930,2018-01-20
+166,1,"3:40",1420,1420,"Malique Trent-Street made Three Point Jumper.",39,36,3,0.507464649909606,"Savannah State","Hampton",5,5,0,1,-2.6,400992930,2018-01-20
+167,1,"3:31",1411,1411,"Isaiah Felder missed Three Point Jumper.",39,36,3,0.522083404005537,"Savannah State","Hampton",5,5,0,1,-2.6,400992930,2018-01-20
+168,1,"3:31",1411,1411,"Jermaine Marrow Defensive Rebound.",39,36,3,0.522083404005537,"Savannah State","Hampton",5,5,0,1,-2.6,400992930,2018-01-20
+169,1,"3:20",1400,1400,"Jermaine Marrow missed Jumper.",39,36,3,0.531748173792012,"Savannah State","Hampton",5,5,0,1,-2.6,400992930,2018-01-20
+170,1,"3:20",1400,1400,"Savannah State Defensive Rebound.",39,36,3,0.531748173792012,"Savannah State","Hampton",5,5,0,1,-2.6,400992930,2018-01-20
+171,1,"3:19",1399,1399,"Foul on Akim Mitchell.",39,36,3,0.495576617833091,"Savannah State","Hampton",5,5,0,1,-2.6,400992930,2018-01-20
+172,1,"3:19",1399,1399,"Isaiah Felder made Free Throw.",40,36,4,0.534130723879628,"Savannah State","Hampton",5,5,0,1,-2.6,400992930,2018-01-20
+173,1,"3:19",1399,1399,"Isaiah Felder made Free Throw.",41,36,5,0.572281336908514,"Savannah State","Hampton",5,5,0,1,-2.6,400992930,2018-01-20
+174,1,"3:05",1385,1385,"Foul on Javaris Jenkins.",41,36,5,0.600159995225176,"Savannah State","Hampton",5,5,0,1,-2.6,400992930,2018-01-20
+175,1,"3:05",1385,1385,"Malique Trent-Street made Free Throw.",41,37,4,0.563820874600302,"Savannah State","Hampton",5,5,0,1,-2.6,400992930,2018-01-20
+176,1,"3:05",1385,1385,"Malique Trent-Street made Free Throw.",41,38,3,0.526783192006734,"Savannah State","Hampton",5,5,0,1,-2.6,400992930,2018-01-20
+177,1,"2:56",1376,1376,"Javaris Jenkins missed Jumper.",41,38,3,0.494604289210822,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+178,1,"2:56",1376,1376,"Malique Trent-Street Defensive Rebound.",41,38,3,0.494604289210822,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+179,1,"2:48",1368,1368,"Malique Trent-Street Turnover.",41,38,3,0.521140431809575,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+180,1,"2:46",1366,1366,"Alante Fenner Steal.",41,38,3,0.521140431809575,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+181,1,"2:45",1365,1365,"Alante Fenner Turnover.",41,38,3,0.521140431809575,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+182,1,"2:44",1364,1364,"Trey Carver Steal.",41,38,3,0.521140431809575,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+183,1,"2:34",1354,1354,"Malique Trent-Street made Three Point Jumper.",41,41,0,0.421235130607945,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+184,1,"2:22",1342,1342,"Ty'lik Evans made Three Point Jumper.",44,41,3,0.524315073517103,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+185,1,"2:12",1332,1332,"Jermaine Marrow made Layup. Assisted by Malique Trent-Street.",44,43,1,0.433436620065811,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+186,1,"2:05",1325,1325,"Ty'lik Evans Turnover.",44,43,1,0.443949668288043,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+187,1,"1:49",1309,1309,"Malique Trent-Street made Three Point Jumper.",44,46,-2,0.352583387293223,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+188,1,"1:35",1295,1295,"Jahir Cabeza made Three Point Jumper. Assisted by Ty'lik Evans.",47,46,1,0.485192616531921,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+189,1,"1:19",1279,1279,"Trey Carver Turnover.",47,46,1,0.426128616761372,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+190,1,"1:19",1279,1279,"Trey Carver Turnover.",47,46,1,0.426128616761372,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+191,1,"1:03",1263,1263,"Javaris Jenkins missed Layup.",47,46,1,0.460730947290381,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+192,1,"1:03",1263,1263,"Trey Carver Defensive Rebound.",47,46,1,0.460730947290381,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+193,1,"0:53",1253,1253,"Malique Trent-Street Turnover.",47,46,1,0.453283543101403,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+194,1,"0:52",1252,1252,"Alante Fenner Steal.",47,46,1,0.453283543101403,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+195,1,"0:48",1248,1248,"Jahir Cabeza missed Dunk.",47,46,1,0.442962847752939,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+196,1,"0:48",1248,1248,"Hampton Deadball Team Rebound.",47,46,1,0.442962847752939,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+197,1,"0:33",1233,1233,"Jermaine Marrow made Layup.",47,48,-1,0.368896320276624,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+198,1,"0:25",1225,1225,"Foul on Greg Heckstall.",47,48,-1,0.377258409100493,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+199,1,"0:25",1225,1225,"Dexter McClanahan made Free Throw.",48,48,0,0.417649084341464,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+200,1,"0:25",1225,1225,"Dexter McClanahan made Free Throw.",49,48,1,0.459175576928143,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+201,1,"0:05",1205,1205,"Kalin Fisher missed Three Point Jumper.",49,48,1,0.447668228956418,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+202,1,"0:05",1205,1205,"Isaiah Felder Defensive Rebound.",49,48,1,0.447668228956418,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+203,1,"0:01",1201,1201,"Isaiah Felder missed Three Point Jumper.",49,48,1,0.447668228956418,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+204,1,"0:00",1200,1200,"Savannah State Deadball Team Rebound.",49,48,1,0.447668228956418,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+205,1,"0:00",1200,1200,"End of 1st half",49,48,1,0.447668228956418,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+206,2,"20:00",1200,1200,"PLAY",49,48,1,0.447668228956418,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+207,2,"19:53",1193,1193,"Zach Sellers missed Three Point Jumper.",49,48,1,0.5087395310278,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+208,2,"19:53",1193,1193,"Akim Mitchell Defensive Rebound.",49,48,1,0.5087395310278,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+209,2,"19:35",1175,1175,"Jermaine Marrow made Layup. Assisted by Trevond Barnes.",49,50,-1,0.379151029279625,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+210,2,"19:25",1165,1165,"Zach Sellers Turnover.",49,50,-1,0.34674192137977,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+211,2,"19:12",1152,1152,"Jermaine Marrow made Three Point Jumper.",49,53,-4,0.276422695229451,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+212,2,"18:58",1138,1138,"Maricus Glenn Turnover.",49,53,-4,0.270064876966376,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+213,2,"18:57",1137,1137,"Malique Trent-Street Steal.",49,53,-4,0.270064876966376,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+214,2,"18:54",1134,1134,"Foul on Maricus Glenn.",49,53,-4,0.270064876966376,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+215,2,"18:54",1134,1134,"Malique Trent-Street made Free Throw.",49,54,-5,0.239197890895382,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+216,2,"18:54",1134,1134,"Malique Trent-Street made Free Throw.",49,55,-6,0.21083980393162,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+217,2,"18:47",1127,1127,"Javaris Jenkins missed Three Point Jumper.",49,55,-6,0.183075627761841,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+218,2,"18:47",1127,1127,"Jermaine Marrow Defensive Rebound.",49,55,-6,0.183075627761841,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+219,2,"18:41",1121,1121,"Lysander Bracey made Layup.",49,57,-8,0.133752978357645,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+220,2,"18:36",1116,1116,"Foul on Akim Mitchell.",49,57,-8,0.158226586583057,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+221,2,"18:30",1110,1110,"Ty'lik Evans missed Layup.",49,57,-8,0.158226586583057,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+222,2,"18:30",1110,1110,"Javaris Jenkins Offensive Rebound.",49,57,-8,0.158226586583057,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+223,2,"18:30",1110,1110,"Foul on Trevond Barnes.",49,57,-8,0.158226586583057,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+224,2,"18:30",1110,1110,"Javaris Jenkins made Free Throw.",50,57,-7,0.182646832147707,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+225,2,"18:30",1110,1110,"Javaris Jenkins missed Free Throw.",50,57,-7,0.182646832147707,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+226,2,"18:30",1110,1110,"Dexter McClanahan Offensive Rebound.",50,57,-7,0.182646832147707,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+227,2,"18:26",1106,1106,"Dexter McClanahan missed Layup.",50,57,-7,0.179971611738652,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+228,2,"18:26",1106,1106,"Hampton Defensive Rebound.",50,57,-7,0.179971611738652,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+229,2,"18:09",1089,1089,"Foul on Maricus Glenn.",50,57,-7,0.163403408969134,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+230,2,"18:07",1087,1087,"Lysander Bracey missed Three Point Jumper.",50,57,-7,0.163403408969134,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+231,2,"18:07",1087,1087,"Hampton Offensive Rebound.",50,57,-7,0.163403408969134,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+232,2,"18:03",1083,1083,"Lysander Bracey made Three Point Jumper.",50,60,-10,0.103005658148299,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+233,2,"17:51",1071,1071,"Alante Fenner missed Layup.",50,60,-10,0.125098330811782,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+234,2,"17:51",1071,1071,"Akim Mitchell Defensive Rebound.",50,60,-10,0.125098330811782,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+235,2,"17:41",1061,1061,"Lysander Bracey made Layup.",50,62,-12,0.0913050206584311,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+236,2,"17:29",1049,1049,"Ty'lik Evans missed Three Point Jumper.",50,62,-12,0.0854565464651337,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+237,2,"17:29",1049,1049,"Ty'lik Evans Offensive Rebound.",50,62,-12,0.0854565464651337,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+238,2,"17:20",1040,1040,"Ralueke Orizu missed Layup.",50,62,-12,0.0854565464651337,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+239,2,"17:20",1040,1040,"Alante Fenner Offensive Rebound.",50,62,-12,0.0854565464651337,"Savannah State","Hampton",5,5,0,0,-2.6,400992930,2018-01-20
+240,2,"17:19",1039,1039,"Savannah State  Timeout",50,62,-12,0.0808718264833528,"Savannah State","Hampton",5,4,0,1,-2.6,400992930,2018-01-20
+241,2,"17:19",1039,1039,"Official TV Timeout",50,62,-12,0.0808718264833528,"Savannah State","Hampton",5,4,0,1,-2.6,400992930,2018-01-20
+242,2,"17:18",1038,1038,"Alante Fenner made Layup.",52,62,-10,0.110319537192324,"Savannah State","Hampton",5,4,0,1,-2.6,400992930,2018-01-20
+243,2,"16:58",1018,1018,"Malique Trent-Street made Layup.",52,64,-12,0.0683803858986714,"Savannah State","Hampton",5,4,0,1,-2.6,400992930,2018-01-20
+244,2,"16:58",1018,1018,"Foul on Javaris Jenkins.",52,64,-12,0.0683803858986714,"Savannah State","Hampton",5,4,0,1,-2.6,400992930,2018-01-20
+245,2,"16:58",1018,1018,"Malique Trent-Street made Free Throw.",52,65,-13,0.0576223872617665,"Savannah State","Hampton",5,4,0,1,-2.6,400992930,2018-01-20
+246,2,"16:42",1002,1002,"Dexter McClanahan made Jumper.",54,65,-11,0.0812737241003789,"Savannah State","Hampton",5,4,0,1,-2.6,400992930,2018-01-20
+247,2,"16:33",993,993,"Malique Trent-Street missed Jumper.",54,65,-11,0.0868924719496163,"Savannah State","Hampton",5,4,0,1,-2.6,400992930,2018-01-20
+248,2,"16:33",993,993,"Austin Colbert Offensive Rebound.",54,65,-11,0.0868924719496163,"Savannah State","Hampton",5,4,0,1,-2.6,400992930,2018-01-20
+249,2,"16:29",989,989,"Austin Colbert missed Layup.",54,65,-11,0.0823829810608386,"Savannah State","Hampton",5,4,0,1,-2.6,400992930,2018-01-20
+250,2,"16:29",989,989,"Ralueke Orizu Defensive Rebound.",54,65,-11,0.0823829810608386,"Savannah State","Hampton",5,4,0,1,-2.6,400992930,2018-01-20
+251,2,"16:26",986,986,"Dexter McClanahan made Layup.",56,65,-9,0.118074579744008,"Savannah State","Hampton",5,4,0,1,-2.6,400992930,2018-01-20
+252,2,"16:22",982,982,"Official TV Timeout",56,65,-9,0.118074579744008,"Savannah State","Hampton",5,4,1,1,-2.6,400992930,2018-01-20
+253,2,"16:22",982,982,"Hampton  Timeout",56,65,-9,0.118074579744008,"Savannah State","Hampton",4,4,1,1,-2.6,400992930,2018-01-20
+254,2,"16:22",982,982,"Charles Wilson-Fisher missed Layup.",56,65,-9,0.118074579744008,"Savannah State","Hampton",4,4,1,1,-2.6,400992930,2018-01-20
+255,2,"16:22",982,982,"Charles Wilson-Fisher Offensive Rebound.",56,65,-9,0.118074579744008,"Savannah State","Hampton",4,4,1,1,-2.6,400992930,2018-01-20
+256,2,"16:22",982,982,"Charles Wilson-Fisher missed Layup.",56,65,-9,0.118074579744008,"Savannah State","Hampton",4,4,1,1,-2.6,400992930,2018-01-20
+257,2,"16:22",982,982,"Dexter McClanahan Defensive Rebound.",56,65,-9,0.118074579744008,"Savannah State","Hampton",4,4,1,1,-2.6,400992930,2018-01-20
+258,2,"15:37",937,937,"Javaris Jenkins made Jumper. Assisted by Austin Dasent.",58,65,-7,0.160839045813138,"Savannah State","Hampton",4,4,1,0,-2.6,400992930,2018-01-20
+259,2,"15:19",919,919,"Jermaine Marrow missed Jumper.",58,65,-7,0.149404615140551,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+260,2,"15:19",919,919,"Jahir Cabeza Defensive Rebound.",58,65,-7,0.149404615140551,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+261,2,"15:12",912,912,"Austin Dasent made Layup. Assisted by Ty'lik Evans.",60,65,-5,0.206276693419086,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+262,2,"14:57",897,897,"Malique Trent-Street Turnover.",60,65,-5,0.226739709354816,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+263,2,"14:57",897,897,"Austin Dasent Steal.",60,65,-5,0.226739709354816,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+264,2,"14:55",895,895,"Ty'lik Evans missed Three Point Jumper.",60,65,-5,0.226739709354816,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+265,2,"14:55",895,895,"Hampton Defensive Rebound.",60,65,-5,0.226739709354816,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+266,2,"14:33",873,873,"Foul on Ty'lik Evans.",60,65,-5,0.221711295865007,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+267,2,"14:30",870,870,"Foul on Ty'lik Evans.",60,65,-5,0.221711295865007,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+268,2,"14:30",870,870,"Khalen Pinkett missed Jumper.",60,65,-5,0.221711295865007,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+269,2,"14:30",870,870,"Charles Wilson-Fisher Block.",60,65,-5,0.221711295865007,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+270,2,"14:30",870,870,"Savannah State Offensive Rebound.",60,65,-5,0.221711295865007,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+271,2,"14:16",856,856,"Jermaine Marrow made Three Point Jumper.",60,68,-8,0.133638640776524,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+272,2,"14:03",843,843,"Dexter McClanahan made Layup.",62,68,-6,0.171875979116269,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+273,2,"13:42",822,822,"Malique Trent-Street Turnover.",62,68,-6,0.188680257515178,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+274,2,"13:32",812,812,"Austin Dasent made Three Point Jumper. Assisted by Javaris Jenkins.",65,68,-3,0.267944065404578,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+275,2,"13:21",801,801,"Akim Mitchell missed Jumper.",65,68,-3,0.296989897483933,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+276,2,"13:21",801,801,"Jermaine Marrow Offensive Rebound.",65,68,-3,0.296989897483933,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+277,2,"13:14",794,794,"Kalin Fisher made Layup. Assisted by Malique Trent-Street.",65,70,-5,0.193511825840032,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+278,2,"13:07",787,787,"Jahir Cabeza missed Three Point Jumper.",65,70,-5,0.206892178659678,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+279,2,"13:07",787,787,"Akim Mitchell Defensive Rebound.",65,70,-5,0.206892178659678,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+280,2,"12:58",778,778,"Foul on Khalen Pinkett.",65,70,-5,0.206637960400654,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+281,2,"12:47",767,767,"Foul on Kalin Fisher.",65,70,-5,0.209468057479472,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+282,2,"12:47",767,767,"Kalin Fisher Turnover.",65,70,-5,0.209468057479472,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+283,2,"12:43",763,763,"Ty'lik Evans missed Three Point Jumper.",65,70,-5,0.209468057479472,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+284,2,"12:43",763,763,"Akim Mitchell Defensive Rebound.",65,70,-5,0.209468057479472,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+285,2,"12:37",757,757,"Jermaine Marrow missed Layup.",65,70,-5,0.196260704520794,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+286,2,"12:37",757,757,"Zach Sellers Block.",65,70,-5,0.196260704520794,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+287,2,"12:37",757,757,"Hampton Offensive Rebound.",65,70,-5,0.196260704520794,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+288,2,"12:25",745,745,"Foul on Jahir Cabeza.",65,70,-5,0.188389245433545,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+289,2,"12:25",745,745,"Jermaine Marrow missed Free Throw.",65,70,-5,0.188389245433545,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+290,2,"12:25",745,745,"Hampton Deadball Team Rebound.",65,70,-5,0.188389245433545,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+291,2,"12:25",745,745,"Jermaine Marrow made Free Throw.",65,71,-6,0.15663634200063,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+292,2,"12:15",735,735,"Austin Dasent missed Jumper.",65,71,-6,0.184542085418327,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+293,2,"12:15",735,735,"Malique Trent-Street Defensive Rebound.",65,71,-6,0.184542085418327,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+294,2,"11:56",716,716,"Foul on Zach Sellers.",65,71,-6,0.150459030845505,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+295,2,"11:56",716,716,"Official TV Timeout",65,71,-6,0.150459030845505,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+296,2,"11:56",716,716,"Trevond Barnes missed Free Throw.",65,71,-6,0.150459030845505,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+297,2,"11:56",716,716,"Hampton Deadball Team Rebound.",65,71,-6,0.150459030845505,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+298,2,"11:56",716,716,"Trevond Barnes missed Free Throw.",65,71,-6,0.150459030845505,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+299,2,"11:56",716,716,"Zach Sellers Defensive Rebound.",65,71,-6,0.150459030845505,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+300,2,"11:49",709,709,"Austin Dasent missed Three Point Jumper.",65,71,-6,0.188152742460867,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+301,2,"11:49",709,709,"Javaris Jenkins Offensive Rebound.",65,71,-6,0.188152742460867,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+302,2,"11:45",705,705,"Javaris Jenkins made Layup.",67,71,-4,0.261792279652246,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+303,2,"11:36",696,696,"Foul on Kalin Fisher.",67,71,-4,0.217071774264554,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+304,2,"11:36",696,696,"Kalin Fisher Turnover.",67,71,-4,0.217071774264554,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+305,2,"11:30",690,690,"Zach Sellers Turnover.",67,71,-4,0.217071774264554,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+306,2,"11:28",688,688,"Jermaine Marrow Steal.",67,71,-4,0.228362899187488,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+307,2,"11:25",685,685,"Jermaine Marrow made Layup.",67,73,-6,0.159134467121222,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+308,2,"11:20",680,680,"Foul on Lysander Bracey.",67,73,-6,0.159134467121222,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+309,2,"11:08",668,668,"Dexter McClanahan missed Three Point Jumper.",67,73,-6,0.179387105825912,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+310,2,"11:08",668,668,"Malique Trent-Street Defensive Rebound.",67,73,-6,0.179387105825912,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+311,2,"10:44",644,644,"Jermaine Marrow made Jumper.",67,75,-8,0.104901542635143,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+312,2,"10:44",644,644,"Foul on Ty'lik Evans.",67,75,-8,0.104901542635143,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+313,2,"10:44",644,644,"Jermaine Marrow missed Free Throw.",67,75,-8,0.104901542635143,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+314,2,"10:44",644,644,"Javaris Jenkins Defensive Rebound.",67,75,-8,0.104901542635143,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+315,2,"10:33",633,633,"Dexter McClanahan missed Layup.",67,75,-8,0.106914338511866,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+316,2,"10:33",633,633,"Savannah State Offensive Rebound.",67,75,-8,0.106914338511866,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+317,2,"10:27",627,627,"Javaris Jenkins made Three Point Jumper. Assisted by Zach Sellers.",70,75,-5,0.172416976263921,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+318,2,"10:18",618,618,"Jermaine Marrow missed Jumper.",70,75,-5,0.173197852042678,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+319,2,"10:18",618,618,"Savannah State Defensive Rebound.",70,75,-5,0.173197852042678,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+320,2,"10:18",618,618,"Foul on Trevond Barnes.",70,75,-5,0.173197852042678,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+321,2,"10:10",610,610,"Zach Sellers made Layup.",72,75,-3,0.257054854112416,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+322,2,"10:10",610,610,"Foul on Trey Carver.",72,75,-3,0.257054854112416,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+323,2,"10:10",610,610,"Zach Sellers made Free Throw.",73,75,-2,0.30779809474893,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+324,2,"9:58",598,598,"Foul on Dexter McClanahan.",73,75,-2,0.326673122798413,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+325,2,"9:58",598,598,"Kalin Fisher missed Free Throw.",73,75,-2,0.326673122798413,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+326,2,"9:58",598,598,"Hampton Deadball Team Rebound.",73,75,-2,0.326673122798413,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+327,2,"9:58",598,598,"Kalin Fisher made Free Throw.",73,76,-3,0.276288987616965,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+328,2,"9:52",592,592,"Dexter McClanahan made Layup.",75,76,-1,0.38140311841761,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+329,2,"9:34",574,574,"Foul on Malique Trent-Street.",75,76,-1,0.404222679811891,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+330,2,"9:34",574,574,"Malique Trent-Street Turnover.",75,76,-1,0.404222679811891,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+331,2,"9:22",562,562,"Javaris Jenkins missed Jumper.",75,76,-1,0.376270557032584,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+332,2,"9:22",562,562,"Javaris Jenkins Offensive Rebound.",75,76,-1,0.376270557032584,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+333,2,"9:19",559,559,"Javaris Jenkins missed Layup.",75,76,-1,0.364704154824299,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+334,2,"9:19",559,559,"Charles Wilson-Fisher Defensive Rebound.",75,76,-1,0.364704154824299,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+335,2,"9:06",546,546,"Jermaine Marrow Turnover.",75,76,-1,0.360610791106091,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+336,2,"8:53",533,533,"Alante Fenner made Layup.",77,76,1,0.535719614562237,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+337,2,"8:44",524,524,"Jermaine Marrow missed Layup.",77,76,1,0.536263641506967,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+338,2,"8:44",524,524,"Dexter McClanahan Defensive Rebound.",77,76,1,0.536263641506967,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+339,2,"8:41",521,521,"Zach Sellers Turnover.",77,76,1,0.536263641506967,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+340,2,"8:35",515,515,"Foul on Javaris Jenkins.",77,76,1,0.514560507740011,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+341,2,"8:35",515,515,"Charles Wilson-Fisher missed Free Throw.",77,76,1,0.514560507740011,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+342,2,"8:35",515,515,"Hampton Deadball Team Rebound.",77,76,1,0.514560507740011,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+343,2,"8:35",515,515,"Charles Wilson-Fisher made Free Throw.",77,77,0,0.447127687241157,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+344,2,"8:25",505,505,"Alante Fenner made Layup.",79,77,2,0.602663114598625,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+345,2,"8:06",486,486,"Foul on Charles Wilson-Fisher.",79,77,2,0.580830809089509,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+346,2,"8:06",486,486,"Charles Wilson-Fisher Turnover.",79,77,2,0.580830809089509,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+347,2,"7:59",479,479,"Ty'lik Evans made Three Point Jumper.",82,77,5,0.768528944510592,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+348,2,"7:44",464,464,"Malique Trent-Street missed Three Point Jumper.",82,77,5,0.758919420964376,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+349,2,"7:44",464,464,"Javaris Jenkins Defensive Rebound.",82,77,5,0.758919420964376,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+350,2,"7:38",458,458,"Foul on Akim Mitchell.",82,77,5,0.79594203109573,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+351,2,"7:38",458,458,"Official TV Timeout",82,77,5,0.79594203109573,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+352,2,"7:38",458,458,"Alante Fenner made Free Throw.",83,77,6,0.842660669308759,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+353,2,"7:38",458,458,"Alante Fenner made Free Throw.",84,77,7,0.880291852389944,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+354,2,"7:13",433,433,"Kalin Fisher Turnover.",84,77,7,0.877146621170689,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+355,2,"7:12",432,432,"Dexter McClanahan Turnover.",84,77,7,0.877146621170689,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+356,2,"7:11",431,431,"Malique Trent-Street Steal.",84,77,7,0.877146621170689,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+357,2,"7:06",426,426,"Jermaine Marrow made Layup.",84,79,5,0.773219196197136,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+358,2,"6:49",409,409,"Foul on Trevond Barnes.",84,79,5,0.800211187873663,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+359,2,"6:49",409,409,"Alante Fenner missed Free Throw.",84,79,5,0.800211187873663,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+360,2,"6:49",409,409,"Savannah State Deadball Team Rebound.",84,79,5,0.800211187873663,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+361,2,"6:49",409,409,"Alante Fenner made Free Throw.",85,79,6,0.847794758379307,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+362,2,"6:35",395,395,"Charles Wilson-Fisher made Layup. Assisted by Akim Mitchell.",85,81,4,0.751920734177513,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+363,2,"6:24",384,384,"Foul on Akim Mitchell.",85,81,4,0.720802703131514,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+364,2,"6:24",384,384,"Khalen Pinkett missed Free Throw.",85,81,4,0.720802703131514,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+365,2,"6:24",384,384,"Savannah State Deadball Team Rebound.",85,81,4,0.720802703131514,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+366,2,"6:24",384,384,"Khalen Pinkett made Free Throw.",86,81,5,0.776587826910551,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+367,2,"6:08",368,368,"Lysander Bracey Turnover.",86,81,5,0.808076459898012,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+368,2,"6:06",366,366,"Ty'lik Evans Steal.",86,81,5,0.808076459898012,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+369,2,"6:02",362,362,"Alante Fenner made Three Point Jumper. Assisted by Dexter McClanahan.",89,81,8,0.917288397123593,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+370,2,"5:42",342,342,"Jermaine Marrow missed Layup.",89,81,8,0.911191903584855,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+371,2,"5:42",342,342,"Charles Wilson-Fisher Offensive Rebound.",89,81,8,0.911191903584855,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+372,2,"5:38",338,338,"Charles Wilson-Fisher made Layup.",89,83,6,0.880158326747572,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+373,2,"5:32",332,332,"Ty'lik Evans missed Three Point Jumper.",89,83,6,0.880158326747572,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+374,2,"5:32",332,332,"Hampton Defensive Rebound.",89,83,6,0.880158326747572,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+375,2,"5:17",317,317,"Malique Trent-Street Turnover.",89,83,6,0.887338779573256,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+376,2,"5:15",315,315,"Dexter McClanahan Steal.",89,83,6,0.887338779573256,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+377,2,"5:13",313,313,"Dexter McClanahan made Layup.",91,83,8,0.942517748657095,"Savannah State","Hampton",4,4,0,0,-2.6,400992930,2018-01-20
+378,2,"5:01",301,301,"Hampton  Timeout",91,83,8,0.928735723212184,"Savannah State","Hampton",3,4,1,0,-2.6,400992930,2018-01-20
+379,2,"4:46",286,286,"Lysander Bracey missed Three Point Jumper.",91,83,8,0.928906464038946,"Savannah State","Hampton",3,4,1,0,-2.6,400992930,2018-01-20
+380,2,"4:46",286,286,"Khalen Pinkett Defensive Rebound.",91,83,8,0.928906464038946,"Savannah State","Hampton",3,4,1,0,-2.6,400992930,2018-01-20
+381,2,"4:40",280,280,"Foul on Jermaine Marrow.",91,83,8,0.928906464038946,"Savannah State","Hampton",3,4,1,0,-2.6,400992930,2018-01-20
+382,2,"4:40",280,280,"Khalen Pinkett made Free Throw.",92,83,9,0.948962446790984,"Savannah State","Hampton",3,4,1,0,-2.6,400992930,2018-01-20
+383,2,"4:40",280,280,"Khalen Pinkett made Free Throw.",93,83,10,0.963582315494747,"Savannah State","Hampton",3,4,1,0,-2.6,400992930,2018-01-20
+384,2,"4:34",274,274,"Charles Wilson-Fisher made Dunk. Assisted by Greg Heckstall.",93,85,8,0.943228335708944,"Savannah State","Hampton",3,4,1,0,-2.6,400992930,2018-01-20
+385,2,"4:19",259,259,"Dexter McClanahan missed Three Point Jumper.",93,85,8,0.963902029471821,"Savannah State","Hampton",3,4,1,0,-2.6,400992930,2018-01-20
+386,2,"4:19",259,259,"Hampton Defensive Rebound.",93,85,8,0.963902029471821,"Savannah State","Hampton",3,4,1,0,-2.6,400992930,2018-01-20
+387,2,"4:17",257,257,"Foul on Jahir Cabeza.",93,85,8,0.963902029471821,"Savannah State","Hampton",3,4,1,0,-2.6,400992930,2018-01-20
+388,2,"4:17",257,257,"Greg Heckstall made Free Throw.",93,86,7,0.946006248467735,"Savannah State","Hampton",3,4,1,0,-2.6,400992930,2018-01-20
+389,2,"4:17",257,257,"Greg Heckstall made Free Throw.",93,87,6,0.919975093415752,"Savannah State","Hampton",3,4,1,0,-2.6,400992930,2018-01-20
+390,2,"4:03",243,243,"Austin Dasent missed Three Point Jumper.",93,87,6,0.903789758284891,"Savannah State","Hampton",3,4,1,0,-2.6,400992930,2018-01-20
+391,2,"4:03",243,243,"Malique Trent-Street Defensive Rebound.",93,87,6,0.903789758284891,"Savannah State","Hampton",3,4,1,0,-2.6,400992930,2018-01-20
+392,2,"3:57",237,237,"Malique Trent-Street missed Layup.",93,87,6,0.912075113808877,"Savannah State","Hampton",3,4,0,0,-2.6,400992930,2018-01-20
+393,2,"3:57",237,237,"Savannah State Defensive Rebound.",93,87,6,0.912075113808877,"Savannah State","Hampton",3,4,0,0,-2.6,400992930,2018-01-20
+394,2,"3:55",235,235,"Official TV Timeout",93,87,6,0.912075113808877,"Savannah State","Hampton",3,4,0,0,-2.6,400992930,2018-01-20
+395,2,"3:46",226,226,"Zach Sellers missed Layup.",93,87,6,0.913925343083375,"Savannah State","Hampton",3,4,0,0,-2.6,400992930,2018-01-20
+396,2,"3:46",226,226,"Charles Wilson-Fisher Defensive Rebound.",93,87,6,0.913925343083375,"Savannah State","Hampton",3,4,0,0,-2.6,400992930,2018-01-20
+397,2,"3:38",218,218,"Jermaine Marrow missed Layup.",93,87,6,0.917272391675459,"Savannah State","Hampton",3,4,0,0,-2.6,400992930,2018-01-20
+398,2,"3:38",218,218,"Charles Wilson-Fisher Offensive Rebound.",93,87,6,0.917272391675459,"Savannah State","Hampton",3,4,0,0,-2.6,400992930,2018-01-20
+399,2,"3:36",216,216,"Charles Wilson-Fisher made Layup.",93,89,4,0.821604293488032,"Savannah State","Hampton",3,4,0,0,-2.6,400992930,2018-01-20
+400,2,"3:23",203,203,"Alante Fenner made Layup.",95,89,6,0.928868424815106,"Savannah State","Hampton",3,4,0,0,-2.6,400992930,2018-01-20
+401,2,"3:23",203,203,"Foul on Charles Wilson-Fisher.",95,89,6,0.928868424815106,"Savannah State","Hampton",3,4,0,0,-2.6,400992930,2018-01-20
+402,2,"3:23",203,203,"Alante Fenner made Free Throw.",96,89,7,0.953534714519605,"Savannah State","Hampton",3,4,0,0,-2.6,400992930,2018-01-20
+403,2,"3:02",182,182,"Lysander Bracey made Three Point Jumper. Assisted by Jermaine Marrow.",96,92,4,0.846741790321787,"Savannah State","Hampton",3,4,0,0,-2.6,400992930,2018-01-20
+404,2,"2:36",156,156,"Dexter McClanahan missed Three Point Jumper.",96,92,4,0.890153316569583,"Savannah State","Hampton",3,4,0,0,-2.6,400992930,2018-01-20
+405,2,"2:36",156,156,"Alante Fenner Offensive Rebound.",96,92,4,0.890153316569583,"Savannah State","Hampton",3,4,0,0,-2.6,400992930,2018-01-20
+406,2,"2:09",129,129,"Alante Fenner missed Jumper.",96,92,4,0.88326449261859,"Savannah State","Hampton",3,4,0,0,-2.6,400992930,2018-01-20
+407,2,"2:09",129,129,"Javaris Jenkins Offensive Rebound.",96,92,4,0.88326449261859,"Savannah State","Hampton",3,4,0,0,-2.6,400992930,2018-01-20
+408,2,"2:06",126,126,"Javaris Jenkins made Layup.",98,92,6,0.959173227208893,"Savannah State","Hampton",3,4,0,0,-2.6,400992930,2018-01-20
+409,2,"1:56",116,116,"Jermaine Marrow made Layup.",98,94,4,0.914991511636976,"Savannah State","Hampton",3,4,0,0,-2.6,400992930,2018-01-20
+410,2,"1:31",91,91,"Ty'lik Evans missed Layup.",98,94,4,0.919008444237455,"Savannah State","Hampton",3,4,0,0,-2.6,400992930,2018-01-20
+411,2,"1:31",91,91,"Charles Wilson-Fisher Defensive Rebound.",98,94,4,0.919008444237455,"Savannah State","Hampton",3,4,0,0,-2.6,400992930,2018-01-20
+412,2,"1:25",85,85,"Lysander Bracey made Three Point Jumper. Assisted by Jermaine Marrow.",98,97,1,0.672612097108237,"Savannah State","Hampton",3,4,0,0,-2.6,400992930,2018-01-20
+413,2,"1:08",68,68,"Alante Fenner Turnover.",98,97,1,0.634551167625544,"Savannah State","Hampton",3,4,0,0,-2.6,400992930,2018-01-20
+414,2,"1:06",66,66,"Malique Trent-Street Steal.",98,97,1,0.634551167625544,"Savannah State","Hampton",3,4,0,0,-2.6,400992930,2018-01-20
+415,2,"1:01",61,61,"Hampton  Timeout",98,97,1,0.634551167625544,"Savannah State","Hampton",2,4,1,0,-2.6,400992930,2018-01-20
+416,2,"0:50",50,50,"Jermaine Marrow made Layup.",98,99,-1,0.270677783196645,"Savannah State","Hampton",2,4,1,0,-2.6,400992930,2018-01-20
+417,2,"0:44",44,44,"Savannah State  Timeout",98,99,-1,0.301115258588761,"Savannah State","Hampton",2,3,1,1,-2.6,400992930,2018-01-20
+418,2,"0:25",25,25,"Dexter McClanahan missed Three Point Jumper.",98,99,-1,0.312794767194614,"Savannah State","Hampton",2,3,1,1,-2.6,400992930,2018-01-20
+419,2,"0:25",25,25,"Austin Dasent Offensive Rebound.",98,99,-1,0.312794767194614,"Savannah State","Hampton",2,3,1,1,-2.6,400992930,2018-01-20
+420,2,"0:21",21,21,"Alante Fenner made Layup. Assisted by Austin Dasent.",100,99,1,0.765628055853807,"Savannah State","Hampton",2,3,1,1,-2.6,400992930,2018-01-20
+421,2,"0:12",12,12,"Jermaine Marrow Turnover.",100,99,1,0.867171045898247,"Savannah State","Hampton",2,3,1,1,-2.6,400992930,2018-01-20
+422,2,"0:11",11,11,"Foul on Lysander Bracey.",100,99,1,0.870007107229752,"Savannah State","Hampton",2,3,1,1,-2.6,400992930,2018-01-20
+423,2,"0:11",11,11,"Zach Sellers Steal.",100,99,1,0.870007107229752,"Savannah State","Hampton",2,3,1,1,-2.6,400992930,2018-01-20
+424,2,"0:11",11,11,"Zach Sellers made Free Throw.",101,99,2,0.962896896073444,"Savannah State","Hampton",2,3,1,1,-2.6,400992930,2018-01-20
+425,2,"0:11",11,11,"Zach Sellers made Free Throw.",102,99,3,0.990160574670786,"Savannah State","Hampton",2,3,1,1,-2.6,400992930,2018-01-20
+426,2,"0:07",7,7,"Foul on Jahir Cabeza.",102,99,3,0.996169284519081,"Savannah State","Hampton",2,3,1,1,-2.6,400992930,2018-01-20
+427,2,"0:07",7,7,"Malique Trent-Street made Free Throw.",102,100,2,0.980990787763439,"Savannah State","Hampton",2,3,1,1,-2.6,400992930,2018-01-20
+428,2,"0:07",7,7,"Malique Trent-Street made Free Throw.",102,101,1,0.911041063284228,"Savannah State","Hampton",2,3,1,1,-2.6,400992930,2018-01-20
+429,2,"0:07",7,7,"Hampton  Timeout",102,101,1,0.911041063284228,"Savannah State","Hampton",1,3,1,1,-2.6,400992930,2018-01-20
+430,2,"0:06",6,6,"Foul on Charles Wilson-Fisher.",102,101,1,0.911041063284228,"Savannah State","Hampton",1,3,1,1,-2.6,400992930,2018-01-20
+431,2,"0:06",6,6,"Javaris Jenkins missed Free Throw.",102,101,1,0.911041063284228,"Savannah State","Hampton",1,3,1,1,-2.6,400992930,2018-01-20
+432,2,"0:06",6,6,"Savannah State Deadball Team Rebound.",102,101,1,0.911041063284228,"Savannah State","Hampton",1,3,1,1,-2.6,400992930,2018-01-20
+433,2,"0:06",6,6,"Javaris Jenkins made Free Throw.",103,101,2,0.980990787763439,"Savannah State","Hampton",1,3,1,1,-2.6,400992930,2018-01-20
+434,2,"0:06",6,6,"Savannah State  Timeout",103,101,2,0.980990787763439,"Savannah State","Hampton",1,2,1,1,-2.6,400992930,2018-01-20
+435,2,"0:00",0,0,"End of Game",103,101,2,1,"Savannah State","Hampton",1,2,1,1,-2.6,400992930,2018-01-20

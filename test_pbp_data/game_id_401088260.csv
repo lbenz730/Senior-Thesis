@@ -1,0 +1,356 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","play_length","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,20,0.753398478938886,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+2,1,"19:40",2380,2380,"Deion Holmes made Three Point Jumper. Assisted by Dalvin White.",3,0,3,26,0.767706144638404,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+3,1,"19:14",2354,2354,"Rayshawn Neal made Layup.",3,2,1,22,0.772179697973382,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+4,1,"18:52",2332,2332,"Malik Moore made Three Point Jumper. Assisted by Deion Holmes.",6,2,4,2,0.809558661070277,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+5,1,"18:50",2330,2330,"Foul on Allen Hatchett Jr..",6,2,4,0,0.809558661070277,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+6,1,"18:50",2330,2330,"Malik Moore made Free Throw.",7,2,5,25,0.823613290719148,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+7,1,"18:25",2305,2305,"Lavar Harewood Turnover.",7,2,5,18,0.818393298690417,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+8,1,"18:07",2287,2287,"Deion Holmes made Three Point Jumper. Assisted by Dalvin White.",10,2,8,3,0.866156398442069,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+9,1,"18:04",2284,2284,"South Carolina State  Timeout",10,2,8,14,0.866156398442069,"South Carolina Upstate","South Carolina State",3,4,1,0,5,"401088260",2018-12-15
+10,1,"17:50",2270,2270,"Rayshawn Neal missed Layup.",10,2,8,0,0.869472005931679,"South Carolina Upstate","South Carolina State",3,4,1,0,5,"401088260",2018-12-15
+11,1,"17:50",2270,2270,"Dalvin White Block.",10,2,8,0,0.869472005931679,"South Carolina Upstate","South Carolina State",3,4,1,0,5,"401088260",2018-12-15
+12,1,"17:50",2270,2270,"South Carolina State Offensive Rebound.",10,2,8,9,0.869472005931679,"South Carolina Upstate","South Carolina State",3,4,1,0,5,"401088260",2018-12-15
+13,1,"17:41",2261,2261,"Lavar Harewood made Jumper. Assisted by Rayshawn Neal.",10,4,6,11,0.861881543960691,"South Carolina Upstate","South Carolina State",3,4,1,0,5,"401088260",2018-12-15
+14,1,"17:30",2250,2250,"Malik Moore missed Jumper.",10,4,6,0,0.834132339680533,"South Carolina Upstate","South Carolina State",3,4,1,0,5,"401088260",2018-12-15
+15,1,"17:30",2250,2250,"South Carolina Upstate Offensive Rebound.",10,4,6,12,0.834132339680533,"South Carolina Upstate","South Carolina State",3,4,1,0,5,"401088260",2018-12-15
+16,1,"17:18",2238,2238,"Malik Moore missed Layup.",10,4,6,0,0.848326994190365,"South Carolina Upstate","South Carolina State",3,4,1,0,5,"401088260",2018-12-15
+17,1,"17:18",2238,2238,"Ian Kinard Defensive Rebound.",10,4,6,11,0.848326994190365,"South Carolina Upstate","South Carolina State",3,4,1,0,5,"401088260",2018-12-15
+18,1,"17:07",2227,2227,"Allen Hatchett Jr. missed Jumper.",10,4,6,0,0.842001540285881,"South Carolina Upstate","South Carolina State",3,4,1,0,5,"401088260",2018-12-15
+19,1,"17:07",2227,2227,"Allen Hatchett Jr. Offensive Rebound.",10,4,6,2,0.842001540285881,"South Carolina Upstate","South Carolina State",3,4,1,0,5,"401088260",2018-12-15
+20,1,"17:05",2225,2225,"Foul on Nevin Zink.",10,4,6,0,0.842001540285881,"South Carolina Upstate","South Carolina State",3,4,1,0,5,"401088260",2018-12-15
+21,1,"17:05",2225,2225,"Allen Hatchett Jr. missed Free Throw.",10,4,6,0,0.842001540285881,"South Carolina Upstate","South Carolina State",3,4,1,0,5,"401088260",2018-12-15
+22,1,"17:05",2225,2225,"South Carolina State Deadball Team Rebound.",10,4,6,0,0.842001540285881,"South Carolina Upstate","South Carolina State",3,4,1,0,5,"401088260",2018-12-15
+23,1,"17:05",2225,2225,"Allen Hatchett Jr. missed Free Throw.",10,4,6,0,0.842001540285881,"South Carolina Upstate","South Carolina State",3,4,1,0,5,"401088260",2018-12-15
+24,1,"17:05",2225,2225,"Josh Aldrich Defensive Rebound.",10,4,6,13,0.842001540285881,"South Carolina Upstate","South Carolina State",3,4,1,0,5,"401088260",2018-12-15
+25,1,"16:52",2212,2212,"Deion Holmes missed Jumper.",10,4,6,0,0.862008762077462,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+26,1,"16:52",2212,2212,"Ian Kinard Defensive Rebound.",10,4,6,12,0.862008762077462,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+27,1,"16:40",2200,2200,"Damni Applewhite made Jumper. Assisted by Rayshawn Neal.",10,6,4,17,0.816643523625017,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+28,1,"16:23",2183,2183,"Malik Moore made Three Point Jumper. Assisted by Deion Holmes.",13,6,7,18,0.857758888201214,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+29,1,"16:05",2165,2165,"Rayshawn Neal missed Layup.",13,6,7,0,0.85677142486415,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+30,1,"16:05",2165,2165,"Damni Applewhite Offensive Rebound.",13,6,7,2,0.85677142486415,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+31,1,"16:03",2163,2163,"Foul on Malik Moore.",13,6,7,0,0.85677142486415,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+32,1,"16:03",2163,2163,"Jahmari Etienne missed Three Point Jumper.",13,6,7,0,0.85677142486415,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+33,1,"16:03",2163,2163,"Nevin Zink Defensive Rebound.",13,6,7,0,0.85677142486415,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+34,1,"16:03",2163,2163,"Foul on Ian Kinard.",13,6,7,6,0.85677142486415,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+35,1,"15:57",2157,2157,"Deion Holmes missed Three Point Jumper.",13,6,7,0,0.861488529692666,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+36,1,"15:57",2157,2157,"Jahmari Etienne Defensive Rebound.",13,6,7,12,0.861488529692666,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+37,1,"15:45",2145,2145,"Damni Applewhite missed Jumper.",13,6,7,0,0.854336334782685,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+38,1,"15:45",2145,2145,"Malik Moore Defensive Rebound.",13,6,7,10,0.854336334782685,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+39,1,"15:35",2135,2135,"Josh Aldrich missed Layup.",13,6,7,0,0.866066106576133,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+40,1,"15:35",2135,2135,"Damni Applewhite Block.",13,6,7,2,0.866066106576133,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+41,1,"15:33",2133,2133,"Janai Raynor-Powell Defensive Rebound.",13,6,7,8,0.866066106576133,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+42,1,"15:25",2125,2125,"Janai Raynor-Powell missed Jumper.",13,6,7,0,0.858023985606782,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+43,1,"15:25",2125,2125,"South Carolina Upstate Defensive Rebound.",13,6,7,6,0.858023985606782,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+44,1,"15:19",2119,2119,"Official TV Timeout",13,6,7,16,0.865821005432424,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+45,1,"15:03",2103,2103,"Malik Moore Turnover.",13,6,7,11,0.855246072957821,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+46,1,"14:52",2092,2092,"Ozante Fields missed Jumper.",13,6,7,0,0.863588151966765,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+47,1,"14:52",2092,2092,"Nevin Zink Block.",13,6,7,2,0.863588151966765,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+48,1,"14:50",2090,2090,"Ozante Fields Offensive Rebound.",13,6,7,2,0.863588151966765,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+49,1,"14:48",2088,2088,"Ozante Fields made Layup.",13,8,5,17,0.826577723272906,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+50,1,"14:31",2071,2071,"Nevin Zink missed Jumper.",13,8,5,0,0.823808152948699,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+51,1,"14:31",2071,2071,"Allen Hatchett Jr. Defensive Rebound.",13,8,5,8,0.823808152948699,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+52,1,"14:23",2063,2063,"Allen Hatchett Jr. missed Three Point Jumper.",13,8,5,0,0.827733991306181,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+53,1,"14:23",2063,2063,"Aramani Hill Offensive Rebound.",13,8,5,20,0.827733991306181,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+54,1,"14:03",2043,2043,"Ozante Fields missed Jumper.",13,8,5,0,0.816535654579141,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+55,1,"14:03",2043,2043,"Dalvin White Defensive Rebound.",13,8,5,12,0.816535654579141,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+56,1,"13:51",2031,2031,"Deion Holmes Turnover.",13,8,5,1,0.836174318278328,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+57,1,"13:50",2030,2030,"Jahmari Etienne Steal.",13,8,5,13,0.836174318278328,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+58,1,"13:37",2017,2017,"Ozante Fields made Layup. Assisted by Aramani Hill.",13,10,3,11,0.796331566783096,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+59,1,"13:26",2006,2006,"Pat Welch missed Three Point Jumper.",13,10,3,0,0.786143513232042,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+60,1,"13:26",2006,2006,"Ozante Fields Defensive Rebound.",13,10,3,12,0.786143513232042,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+61,1,"13:14",1994,1994,"Aramani Hill Turnover.",13,10,3,24,0.80041624991543,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+62,1,"12:50",1970,1970,"Deion Holmes made Jumper.",15,10,5,22,0.84034845504428,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+63,1,"12:28",1948,1948,"Foul on Bryson Mozone.",15,10,5,0,0.832374879822912,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+64,1,"12:28",1948,1948,"Ozante Fields made Free Throw.",15,11,4,0,0.814003237414912,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+65,1,"12:28",1948,1948,"Ozante Fields made Free Throw.",15,12,3,12,0.794116106223174,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+66,1,"12:16",1936,1936,"Brandon Martin Turnover.",15,12,3,1,0.788419977615052,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+67,1,"12:15",1935,1935,"Janai Raynor-Powell Steal.",15,12,3,4,0.788419977615052,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+68,1,"12:11",1931,1931,"Lavar Harewood missed Three Point Jumper.",15,12,3,0,0.788419977615052,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+69,1,"12:11",1931,1931,"Deion Holmes Defensive Rebound.",15,12,3,8,0.788419977615052,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+70,1,"12:03",1923,1923,"Deion Holmes made Three Point Jumper. Assisted by Everette Hammond.",18,12,6,33,0.850076010150999,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+71,1,"11:30",1890,1890,"Lavar Harewood missed Three Point Jumper.",18,12,6,0,0.856059806788031,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+72,1,"11:30",1890,1890,"Ozante Fields Offensive Rebound.",18,12,6,4,0.856059806788031,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+73,1,"11:26",1886,1886,"Ozante Fields made Layup.",18,14,4,13,0.810947748674824,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+74,1,"11:13",1873,1873,"Deion Holmes made Three Point Jumper. Assisted by Everette Hammond.",21,14,7,10,0.861056251924672,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+75,1,"11:03",1863,1863,"Lavar Harewood made Layup.",21,16,5,2,0.84018574583366,"South Carolina Upstate","South Carolina State",3,4,0,0,5,"401088260",2018-12-15
+76,1,"11:01",1861,1861,"South Carolina Upstate  Timeout",21,16,5,0,0.84018574583366,"South Carolina Upstate","South Carolina State",3,3,0,1,5,"401088260",2018-12-15
+77,1,"11:01",1861,1861,"Official TV Timeout",21,16,5,21,0.84018574583366,"South Carolina Upstate","South Carolina State",3,3,0,1,5,"401088260",2018-12-15
+78,1,"10:40",1840,1840,"Malik Moore missed Three Point Jumper.",21,16,5,0,0.821068970411464,"South Carolina Upstate","South Carolina State",3,3,0,1,5,"401088260",2018-12-15
+79,1,"10:40",1840,1840,"Jahmari Etienne Defensive Rebound.",21,16,5,9,0.821068970411464,"South Carolina Upstate","South Carolina State",3,3,0,1,5,"401088260",2018-12-15
+80,1,"10:31",1831,1831,"Jahmari Etienne made Three Point Jumper.",21,19,2,15,0.769773961704866,"South Carolina Upstate","South Carolina State",3,3,0,1,5,"401088260",2018-12-15
+81,1,"10:16",1816,1816,"Everette Hammond made Jumper.",23,19,4,27,0.821207117238783,"South Carolina Upstate","South Carolina State",3,3,0,1,5,"401088260",2018-12-15
+82,1,"9:49",1789,1789,"Janai Raynor-Powell missed Jumper.",23,19,4,0,0.801534089511635,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+83,1,"9:49",1789,1789,"Bryson Mozone Defensive Rebound.",23,19,4,10,0.801534089511635,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+84,1,"9:39",1779,1779,"Malik Moore made Three Point Jumper. Assisted by Bryson Mozone.",26,19,7,15,0.851270831368027,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+85,1,"9:24",1764,1764,"Jahmari Etienne missed Three Point Jumper.",26,19,7,0,0.869846489492454,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+86,1,"9:24",1764,1764,"Malik Moore Defensive Rebound.",26,19,7,16,0.869846489492454,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+87,1,"9:08",1748,1748,"Bryson Mozone missed Three Point Jumper.",26,19,7,0,0.862249522857113,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+88,1,"9:08",1748,1748,"Damni Applewhite Block.",26,19,7,2,0.862249522857113,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+89,1,"9:06",1746,1746,"Ozante Fields Defensive Rebound.",26,19,7,5,0.862249522857113,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+90,1,"9:01",1741,1741,"Janai Raynor-Powell missed Jumper.",26,19,7,0,0.862249522857113,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+91,1,"9:01",1741,1741,"Damni Applewhite Offensive Rebound.",26,19,7,4,0.862249522857113,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+92,1,"8:57",1737,1737,"Damni Applewhite made Two Point Tip Shot.",26,21,5,16,0.835368564327355,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+93,1,"8:41",1721,1721,"Pat Welch missed Three Point Jumper.",26,21,5,0,0.830891788450407,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+94,1,"8:41",1721,1721,"Malik Moore Offensive Rebound.",26,21,5,4,0.830891788450407,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+95,1,"8:37",1717,1717,"Foul on Ozante Fields.",26,21,5,0,0.838053899396917,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+96,1,"8:37",1717,1717,"Malik Moore made Free Throw.",27,21,6,0,0.855362977343063,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+97,1,"8:37",1717,1717,"Malik Moore missed Free Throw.",27,21,6,0,0.855362977343063,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+98,1,"8:37",1717,1717,"Ian Kinard Defensive Rebound.",27,21,6,24,0.855362977343063,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+99,1,"8:13",1693,1693,"Ian Kinard made Three Point Jumper. Assisted by Rayshawn Neal.",27,24,3,14,0.796821961403333,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+100,1,"7:59",1679,1679,"Foul on Ian Kinard.",27,24,3,0,0.795549452782803,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+101,1,"7:59",1679,1679,"Official TV Timeout",27,24,3,0,0.795549452782803,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+102,1,"7:59",1679,1679,"Malik Moore made Free Throw.",28,24,4,0,0.817167308658902,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+103,1,"7:59",1679,1679,"Malik Moore made Free Throw.",29,24,5,18,0.83696779957086,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+104,1,"7:41",1661,1661,"Damni Applewhite Turnover.",29,24,5,17,0.827911643725518,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+105,1,"7:24",1644,1644,"Josh Aldrich missed Three Point Jumper.",29,24,5,0,0.838148695996444,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+106,1,"7:24",1644,1644,"Damni Applewhite Defensive Rebound.",29,24,5,24,0.838148695996444,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+107,1,"7:00",1620,1620,"Jahmari Etienne missed Three Point Jumper.",29,24,5,0,0.832822459592859,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+108,1,"7:00",1620,1620,"Nevin Zink Defensive Rebound.",29,24,5,13,0.832822459592859,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+109,1,"6:47",1607,1607,"Dalvin White made Jumper. Assisted by Malik Moore.",31,24,7,18,0.861508408148169,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+110,1,"6:29",1589,1589,"David Bottenberg made Layup. Assisted by Rayshawn Neal.",31,26,5,0,0.82449702614318,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+111,1,"6:29",1589,1589,"Foul on Josh Aldrich.",31,26,5,0,0.82449702614318,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+112,1,"6:29",1589,1589,"David Bottenberg made Free Throw.",31,27,4,23,0.804009859987193,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+113,1,"6:06",1566,1566,"Deion Holmes missed Layup.",31,27,4,0,0.805133446069074,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+114,1,"6:06",1566,1566,"Rayshawn Neal Defensive Rebound.",31,27,4,9,0.805133446069074,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+115,1,"5:57",1557,1557,"Aramani Hill missed Layup.",31,27,4,0,0.805357681189761,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+116,1,"5:57",1557,1557,"Nevin Zink Block.",31,27,4,0,0.805357681189761,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+117,1,"5:57",1557,1557,"South Carolina State Offensive Rebound.",31,27,4,8,0.805357681189761,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+118,1,"5:49",1549,1549,"Rayshawn Neal missed Layup.",31,27,4,0,0.8147110765415,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+119,1,"5:49",1549,1549,"Josh Aldrich Block.",31,27,4,0,0.8147110765415,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+120,1,"5:49",1549,1549,"South Carolina State Offensive Rebound.",31,27,4,2,0.8147110765415,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+121,1,"5:47",1547,1547,"Damni Applewhite made Dunk. Assisted by Rayshawn Neal.",31,29,2,6,0.769066562348661,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+122,1,"5:41",1541,1541,"Foul on Janai Raynor-Powell.",31,29,2,14,0.769066562348661,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+123,1,"5:27",1527,1527,"Deion Holmes missed Three Point Jumper.",31,29,2,0,0.762569043039493,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+124,1,"5:27",1527,1527,"Damni Applewhite Defensive Rebound.",31,29,2,3,0.762569043039493,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+125,1,"5:24",1524,1524,"Foul on Malik Moore.",31,29,2,19,0.762569043039493,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+126,1,"5:05",1505,1505,"Foul on Pat Welch.",31,29,2,0,0.763347344464308,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+127,1,"5:05",1505,1505,"Jahmari Etienne made Free Throw.",31,30,1,0,0.736652564275352,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+128,1,"5:05",1505,1505,"Jahmari Etienne missed Free Throw.",31,30,1,0,0.736652564275352,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+129,1,"5:05",1505,1505,"Nevin Zink Defensive Rebound.",31,30,1,17,0.736652564275352,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+130,1,"4:48",1488,1488,"Deion Holmes made Layup.",33,30,3,14,0.786207903935967,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+131,1,"4:34",1474,1474,"Damni Applewhite missed Jumper.",33,30,3,0,0.802175275404728,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+132,1,"4:34",1474,1474,"Dalvin White Defensive Rebound.",33,30,3,20,0.802175275404728,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+133,1,"4:14",1454,1454,"Deion Holmes missed Three Point Jumper.",33,30,3,0,0.783182728496167,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+134,1,"4:14",1454,1454,"Nevin Zink Offensive Rebound.",33,30,3,4,0.783182728496167,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+135,1,"4:10",1450,1450,"Nevin Zink made Jumper.",35,30,5,20,0.829088599085711,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+136,1,"3:50",1430,1430,"Jahmari Etienne missed Jumper.",35,30,5,0,0.835671935983162,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+137,1,"3:50",1430,1430,"Pat Welch Defensive Rebound.",35,30,5,9,0.835671935983162,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+138,1,"3:41",1421,1421,"Foul on Janai Raynor-Powell.",35,30,5,0,0.822479153412345,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+139,1,"3:41",1421,1421,"Official TV Timeout",35,30,5,2,0.822479153412345,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+140,1,"3:39",1419,1419,"Deion Holmes missed Three Point Jumper.",35,30,5,0,0.830423696713761,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+141,1,"3:39",1419,1419,"Deion Holmes Offensive Rebound.",35,30,5,6,0.830423696713761,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+142,1,"3:33",1413,1413,"Deion Holmes made Layup.",37,30,7,23,0.869754079273341,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+143,1,"3:10",1390,1390,"Ozante Fields made Layup.",37,32,5,20,0.838988066985448,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+144,1,"2:50",1370,1370,"Bryson Mozone missed Three Point Jumper.",37,32,5,0,0.823143554460759,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+145,1,"2:50",1370,1370,"Damni Applewhite Defensive Rebound.",37,32,5,30,0.823143554460759,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+146,1,"2:20",1340,1340,"Janai Raynor-Powell missed Jumper.",37,32,5,0,0.830057478329331,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+147,1,"2:20",1340,1340,"South Carolina Upstate Defensive Rebound.",37,32,5,23,0.830057478329331,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+148,1,"1:57",1317,1317,"Brandon Martin missed Jumper.",37,32,5,0,0.843465831861459,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+149,1,"1:57",1317,1317,"Jahmari Etienne Defensive Rebound.",37,32,5,11,0.843465831861459,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+150,1,"1:46",1306,1306,"Damni Applewhite made Layup. Assisted by Rayshawn Neal.",37,34,3,12,0.778628498445522,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+151,1,"1:34",1294,1294,"Pat Welch missed Three Point Jumper.",37,34,3,0,0.798289523803905,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+152,1,"1:34",1294,1294,"Rayshawn Neal Defensive Rebound.",37,34,3,18,0.798289523803905,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+153,1,"1:16",1276,1276,"Jahmari Etienne missed Three Point Jumper.",37,34,3,0,0.773371315635423,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+154,1,"1:16",1276,1276,"Everette Hammond Defensive Rebound.",37,34,3,5,0.773371315635423,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+155,1,"1:11",1271,1271,"Deion Holmes made Dunk. Assisted by Everette Hammond.",39,34,5,18,0.821585150919363,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+156,1,"0:53",1253,1253,"Rayshawn Neal Turnover.",39,34,5,0,0.823714201652155,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+157,1,"0:53",1253,1253,"Foul on Rayshawn Neal.",39,34,5,22,0.823714201652155,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+158,1,"0:31",1231,1231,"Everette Hammond missed Jumper.",39,34,5,0,0.829141200382668,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+159,1,"0:31",1231,1231,"Brandon Martin Offensive Rebound.",39,34,5,1,0.829141200382668,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+160,1,"0:30",1230,1230,"Foul on David Bottenberg.",39,34,5,0,0.829141200382668,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+161,1,"0:30",1230,1230,"Brandon Martin made Free Throw.",40,34,6,0,0.850758231310946,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+162,1,"0:30",1230,1230,"Brandon Martin missed Free Throw.",40,34,6,0,0.850758231310946,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+163,1,"0:30",1230,1230,"Pat Welch Offensive Rebound.",40,34,6,19,0.850758231310946,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+164,1,"0:11",1211,1211,"Deion Holmes missed Three Point Jumper.",40,34,6,0,0.85422833891723,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+165,1,"0:11",1211,1211,"Brandon Martin Offensive Rebound.",40,34,6,5,0.85422833891723,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+166,1,"0:06",1206,1206,"Brandon Martin made Two Point Tip Shot.",42,34,8,3,0.89022319198856,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+167,1,"0:03",1203,1203,"Allen Hatchett Jr. missed Jumper.",42,34,8,0,0.89022319198856,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+168,1,"0:03",1203,1203,"Pat Welch Defensive Rebound.",42,34,8,3,0.89022319198856,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+169,1,"0:00",1200,1200,"End of 1st half",42,34,8,0,0.89022319198856,"South Carolina Upstate","South Carolina State",3,3,0,0,5,"401088260",2018-12-15
+170,2,"20:00",1200,1200,"PLAY",42,34,8,11,0.89022319198856,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+171,2,"19:49",1189,1189,"Rayshawn Neal missed Layup.",42,34,8,0,0.895260811292725,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+172,2,"19:49",1189,1189,"Ozante Fields Offensive Rebound.",42,34,8,5,0.895260811292725,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+173,2,"19:44",1184,1184,"Ozante Fields Turnover.",42,34,8,1,0.895260811292725,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+174,2,"19:43",1183,1183,"Deion Holmes Steal.",42,34,8,17,0.895260811292725,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+175,2,"19:26",1166,1166,"Dalvin White missed Jumper.",42,34,8,0,0.889461744112941,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+176,2,"19:26",1166,1166,"Damni Applewhite Defensive Rebound.",42,34,8,24,0.889461744112941,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+177,2,"19:02",1142,1142,"Jahmari Etienne missed Jumper.",42,34,8,0,0.895247146820105,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+178,2,"19:02",1142,1142,"Nevin Zink Defensive Rebound.",42,34,8,12,0.895247146820105,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+179,2,"18:50",1130,1130,"Josh Aldrich Turnover.",42,34,8,2,0.895022098015581,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+180,2,"18:48",1128,1128,"Ian Kinard Steal.",42,34,8,3,0.906232889962802,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+181,2,"18:45",1125,1125,"Ian Kinard made Layup.",42,36,6,20,0.86943290134803,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+182,2,"18:25",1105,1105,"Nevin Zink Turnover.",42,36,6,0,0.858106342092093,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+183,2,"18:25",1105,1105,"Foul on Nevin Zink.",42,36,6,10,0.858106342092093,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+184,2,"18:15",1095,1095,"Ian Kinard missed Three Point Jumper.",42,36,6,0,0.866404091568984,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+185,2,"18:15",1095,1095,"Malik Moore Defensive Rebound.",42,36,6,12,0.866404091568984,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+186,2,"18:03",1083,1083,"Nevin Zink made Jumper. Assisted by Malik Moore.",44,36,8,14,0.902731386095896,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+187,2,"17:49",1069,1069,"Ozante Fields missed Jumper.",44,36,8,0,0.899442355909099,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+188,2,"17:49",1069,1069,"Nevin Zink Defensive Rebound.",44,36,8,1,0.899442355909099,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+189,2,"17:48",1068,1068,"Foul on Ian Kinard.",44,36,8,10,0.899442355909099,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+190,2,"17:38",1058,1058,"Malik Moore made Layup. Assisted by Dalvin White.",46,36,10,25,0.931530713668718,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+191,2,"17:13",1033,1033,"Ozante Fields made Layup.",46,38,8,27,0.894409570571932,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+192,2,"16:46",1006,1006,"Josh Aldrich made Jumper. Assisted by Dalvin White.",48,38,10,17,0.927556166518844,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+193,2,"16:29",989,989,"Ozante Fields made Layup. Assisted by Damni Applewhite.",48,40,8,26,0.914487865994638,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+194,2,"16:03",963,963,"Deion Holmes made Jumper. Assisted by Josh Aldrich.",50,40,10,19,0.927173584240915,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+195,2,"15:44",944,944,"Ozante Fields made Layup.",50,42,8,16,0.914338923686228,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+196,2,"15:28",928,928,"Dalvin White made Jumper.",52,42,10,6,0.928669979080078,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+197,2,"15:22",922,922,"Jahmari Etienne made Layup.",52,44,8,0,0.898392215344039,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+198,2,"15:22",922,922,"Foul on Josh Aldrich.",52,44,8,0,0.898392215344039,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+199,2,"15:22",922,922,"Official TV Timeout",52,44,8,0,0.898392215344039,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+200,2,"15:22",922,922,"Jahmari Etienne made Free Throw.",52,45,7,10,0.879320566619496,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+201,2,"15:12",912,912,"Malik Moore made Jumper. Assisted by Deion Holmes.",54,45,9,13,0.926748740043224,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+202,2,"14:59",899,899,"Janai Raynor-Powell missed Jumper.",54,45,9,0,0.924725881913338,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+203,2,"14:59",899,899,"Damni Applewhite Offensive Rebound.",54,45,9,3,0.924725881913338,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+204,2,"14:56",896,896,"Damni Applewhite made Layup.",54,47,7,18,0.892810404532177,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+205,2,"14:38",878,878,"Brandon Martin Turnover.",54,47,7,8,0.890463631968668,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+206,2,"14:30",870,870,"Foul on Malik Moore.",54,47,7,20,0.890463631968668,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+207,2,"14:10",850,850,"Rayshawn Neal missed Jumper.",54,47,7,0,0.90065966997278,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+208,2,"14:10",850,850,"Ozante Fields Offensive Rebound.",54,47,7,3,0.90065966997278,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+209,2,"14:07",847,847,"Ozante Fields made Layup.",54,49,5,29,0.852131037187868,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+210,2,"13:38",818,818,"Malik Moore Turnover.",54,49,5,1,0.842215502182179,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+211,2,"13:37",817,817,"Rayshawn Neal Steal.",54,49,5,5,0.842215502182179,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+212,2,"13:32",812,812,"Janai Raynor-Powell missed Layup.",54,49,5,0,0.842215502182179,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+213,2,"13:32",812,812,"Damni Applewhite Offensive Rebound.",54,49,5,2,0.842215502182179,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+214,2,"13:30",810,810,"Foul on Brandon Martin.",54,49,5,1,0.842215502182179,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+215,2,"13:29",809,809,"Damni Applewhite made Layup. Assisted by Rayshawn Neal.",54,51,3,0,0.802609258138398,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+216,2,"13:29",809,809,"Foul on Everette Hammond.",54,51,3,0,0.802609258138398,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+217,2,"13:29",809,809,"Damni Applewhite made Free Throw.",54,52,2,13,0.768422908290783,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+218,2,"13:16",796,796,"Deion Holmes made Jumper. Assisted by Malik Moore.",56,52,4,14,0.826937852115563,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+219,2,"13:02",782,782,"Ozante Fields made Layup. Assisted by Allen Hatchett Jr..",56,54,2,12,0.752395756604558,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+220,2,"12:50",770,770,"Malik Moore made Jumper. Assisted by Deion Holmes.",58,54,4,10,0.824926166323104,"South Carolina Upstate","South Carolina State",4,4,0,0,5,"401088260",2018-12-15
+221,2,"12:40",760,760,"Rayshawn Neal Turnover.",58,54,4,0,0.841534490493458,"South Carolina Upstate","South Carolina State",4,4,0,1,5,"401088260",2018-12-15
+222,2,"12:40",760,760,"Josh Aldrich Steal.",58,54,4,0,0.841534490493458,"South Carolina Upstate","South Carolina State",4,4,0,1,5,"401088260",2018-12-15
+223,2,"12:40",760,760,"South Carolina Upstate  Timeout",58,54,4,0,0.841534490493458,"South Carolina Upstate","South Carolina State",4,3,0,1,5,"401088260",2018-12-15
+224,2,"12:40",760,760,"Official TV Timeout",58,54,4,12,0.841534490493458,"South Carolina Upstate","South Carolina State",4,3,0,1,5,"401088260",2018-12-15
+225,2,"12:28",748,748,"Deion Holmes missed Three Point Jumper.",58,54,4,0,0.825408864375624,"South Carolina Upstate","South Carolina State",4,3,0,1,5,"401088260",2018-12-15
+226,2,"12:28",748,748,"Jahmari Etienne Defensive Rebound.",58,54,4,18,0.825408864375624,"South Carolina Upstate","South Carolina State",4,3,0,1,5,"401088260",2018-12-15
+227,2,"12:10",730,730,"Damni Applewhite missed Jumper.",58,54,4,0,0.820393481274889,"South Carolina Upstate","South Carolina State",4,3,0,1,5,"401088260",2018-12-15
+228,2,"12:10",730,730,"Ozante Fields Offensive Rebound.",58,54,4,4,0.820393481274889,"South Carolina Upstate","South Carolina State",4,3,0,1,5,"401088260",2018-12-15
+229,2,"12:06",726,726,"Ozante Fields Turnover.",58,54,4,0,0.835555888249019,"South Carolina Upstate","South Carolina State",4,3,0,1,5,"401088260",2018-12-15
+230,2,"12:06",726,726,"Foul on Ozante Fields.",58,54,4,8,0.835555888249019,"South Carolina Upstate","South Carolina State",4,3,0,1,5,"401088260",2018-12-15
+231,2,"11:58",718,718,"Foul on David Bottenberg.",58,54,4,0,0.817837367252027,"South Carolina Upstate","South Carolina State",4,3,0,1,5,"401088260",2018-12-15
+232,2,"11:58",718,718,"Official TV Timeout",58,54,4,0,0.817837367252027,"South Carolina Upstate","South Carolina State",4,3,0,1,5,"401088260",2018-12-15
+233,2,"11:58",718,718,"Josh Aldrich missed Free Throw.",58,54,4,0,0.817837367252027,"South Carolina Upstate","South Carolina State",4,3,0,1,5,"401088260",2018-12-15
+234,2,"11:58",718,718,"South Carolina Upstate Deadball Team Rebound.",58,54,4,0,0.817837367252027,"South Carolina Upstate","South Carolina State",4,3,0,1,5,"401088260",2018-12-15
+235,2,"11:58",718,718,"Josh Aldrich missed Free Throw.",58,54,4,0,0.817837367252027,"South Carolina Upstate","South Carolina State",4,3,0,1,5,"401088260",2018-12-15
+236,2,"11:58",718,718,"Ian Kinard Defensive Rebound.",58,54,4,2,0.817837367252027,"South Carolina Upstate","South Carolina State",4,3,0,1,5,"401088260",2018-12-15
+237,2,"11:56",716,716,"Foul on Dalvin White.",58,54,4,26,0.817837367252027,"South Carolina Upstate","South Carolina State",4,3,0,1,5,"401088260",2018-12-15
+238,2,"11:30",690,690,"Jahmari Etienne made Three Point Jumper. Assisted by Allen Hatchett Jr..",58,57,1,14,0.7278452605419,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+239,2,"11:16",676,676,"Deion Holmes missed Jumper.",58,57,1,0,0.707824169754966,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+240,2,"11:16",676,676,"David Bottenberg Defensive Rebound.",58,57,1,9,0.707824169754966,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+241,2,"11:07",667,667,"Foul on Josh Aldrich.",58,57,1,0,0.717552531527946,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+242,2,"11:07",667,667,"Rayshawn Neal missed Free Throw.",58,57,1,0,0.717552531527946,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+243,2,"11:07",667,667,"South Carolina State Deadball Team Rebound.",58,57,1,0,0.717552531527946,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+244,2,"11:07",667,667,"Rayshawn Neal made Free Throw.",58,58,0,30,0.669549243207452,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+245,2,"10:37",637,637,"Foul on Jahmari Etienne.",58,58,0,0,0.640408739488968,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+246,2,"10:37",637,637,"Deion Holmes made Free Throw.",59,58,1,0,0.69285382778424,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+247,2,"10:37",637,637,"Deion Holmes made Free Throw.",60,58,2,20,0.740746466757109,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+248,2,"10:17",617,617,"Ian Kinard made Jumper.",60,60,0,22,0.643756687912805,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+249,2,"9:55",595,595,"Bryson Mozone made Jumper.",62,60,2,15,0.752894896534161,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+250,2,"9:40",580,580,"Allen Hatchett Jr. Turnover.",62,60,2,0,0.745206245079537,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+251,2,"9:40",580,580,"Foul on Allen Hatchett Jr..",62,60,2,16,0.745206245079537,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+252,2,"9:24",564,564,"Foul on Lavar Harewood.",62,60,2,3,0.775951804254338,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+253,2,"9:21",561,561,"Foul on Ian Kinard.",62,60,2,0,0.775951804254338,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+254,2,"9:21",561,561,"Malik Moore made Free Throw.",63,60,3,0,0.817602292652348,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+255,2,"9:21",561,561,"Malik Moore made Free Throw.",64,60,4,0,0.852977032901805,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+256,2,"9:21",561,561,"Malik Moore made Free Throw.",65,60,5,21,0.882477252536955,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+257,2,"9:00",540,540,"Ozante Fields missed Jumper.",65,60,5,0,0.867866566458937,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+258,2,"9:00",540,540,"Ozante Fields Offensive Rebound.",65,60,5,8,0.867866566458937,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+259,2,"8:52",532,532,"Damni Applewhite made Jumper.",65,62,3,18,0.828004693007544,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+260,2,"8:34",514,514,"Nevin Zink made Layup. Assisted by Deion Holmes.",67,62,5,13,0.870808402136169,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+261,2,"8:21",501,501,"Foul on Bryson Mozone.",67,62,5,0,0.883578578853437,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+262,2,"8:21",501,501,"Damni Applewhite made Free Throw.",67,63,4,0,0.852693839565516,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+263,2,"8:21",501,501,"Damni Applewhite missed Free Throw.",67,63,4,0,0.852693839565516,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+264,2,"8:21",501,501,"Ozante Fields Offensive Rebound.",67,63,4,0,0.852693839565516,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+265,2,"8:21",501,501,"Foul on Nevin Zink.",67,63,4,0,0.852693839565516,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+266,2,"8:21",501,501,"Ozante Fields made Free Throw.",67,64,3,0,0.81532829287961,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+267,2,"8:21",501,501,"Ozante Fields made Free Throw.",67,65,2,25,0.771029752302115,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+268,2,"7:56",476,476,"Malik Moore missed Layup.",67,65,2,0,0.766308608308762,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+269,2,"7:56",476,476,"Ozante Fields Defensive Rebound.",67,65,2,12,0.766308608308762,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+270,2,"7:44",464,464,"Damni Applewhite made Layup. Assisted by Jahmari Etienne.",67,67,0,27,0.641364158495507,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+271,2,"7:17",437,437,"Bryson Mozone made Three Point Jumper. Assisted by Dalvin White.",70,67,3,4,0.827057982922337,"South Carolina Upstate","South Carolina State",4,3,0,0,5,"401088260",2018-12-15
+272,2,"7:13",433,433,"South Carolina Upstate  Timeout",70,67,3,0,0.827057982922337,"South Carolina Upstate","South Carolina State",4,2,0,1,5,"401088260",2018-12-15
+273,2,"7:13",433,433,"Official TV Timeout",70,67,3,15,0.827057982922337,"South Carolina Upstate","South Carolina State",4,2,0,1,5,"401088260",2018-12-15
+274,2,"6:58",418,418,"Foul on Nevin Zink.",70,67,3,0,0.813701615329129,"South Carolina Upstate","South Carolina State",4,2,0,1,5,"401088260",2018-12-15
+275,2,"6:58",418,418,"Damni Applewhite missed Free Throw.",70,67,3,0,0.813701615329129,"South Carolina Upstate","South Carolina State",4,2,0,1,5,"401088260",2018-12-15
+276,2,"6:58",418,418,"South Carolina State Deadball Team Rebound.",70,67,3,0,0.813701615329129,"South Carolina Upstate","South Carolina State",4,2,0,1,5,"401088260",2018-12-15
+277,2,"6:58",418,418,"Damni Applewhite made Free Throw.",70,68,2,26,0.763669564324622,"South Carolina Upstate","South Carolina State",4,2,0,1,5,"401088260",2018-12-15
+278,2,"6:32",392,392,"Deion Holmes Turnover.",70,68,2,1,0.772385455143,"South Carolina Upstate","South Carolina State",4,2,0,1,5,"401088260",2018-12-15
+279,2,"6:31",391,391,"Jahmari Etienne Steal.",70,68,2,2,0.772385455143,"South Carolina Upstate","South Carolina State",4,2,0,1,5,"401088260",2018-12-15
+280,2,"6:29",389,389,"Janai Raynor-Powell missed Layup.",70,68,2,0,0.768685366802669,"South Carolina Upstate","South Carolina State",4,2,0,1,5,"401088260",2018-12-15
+281,2,"6:29",389,389,"Bryson Mozone Defensive Rebound.",70,68,2,8,0.768685366802669,"South Carolina Upstate","South Carolina State",4,2,0,1,5,"401088260",2018-12-15
+282,2,"6:21",381,381,"Deion Holmes made Layup. Assisted by Malik Moore.",72,68,4,14,0.857635938718198,"South Carolina Upstate","South Carolina State",4,2,0,1,5,"401088260",2018-12-15
+283,2,"6:07",367,367,"Lavar Harewood missed Layup.",72,68,4,0,0.859541806067571,"South Carolina Upstate","South Carolina State",4,2,0,0,5,"401088260",2018-12-15
+284,2,"6:07",367,367,"South Carolina State Offensive Rebound.",72,68,4,13,0.859541806067571,"South Carolina Upstate","South Carolina State",4,2,0,0,5,"401088260",2018-12-15
+285,2,"5:54",354,354,"Lavar Harewood missed Three Point Jumper.",72,68,4,0,0.856081825283509,"South Carolina Upstate","South Carolina State",4,2,0,0,5,"401088260",2018-12-15
+286,2,"5:54",354,354,"Bryson Mozone Defensive Rebound.",72,68,4,26,0.856081825283509,"South Carolina Upstate","South Carolina State",4,2,0,0,5,"401088260",2018-12-15
+287,2,"5:28",328,328,"Foul on Damni Applewhite.",72,68,4,0,0.856585961777312,"South Carolina Upstate","South Carolina State",4,2,0,0,5,"401088260",2018-12-15
+288,2,"5:28",328,328,"Bryson Mozone missed Free Throw.",72,68,4,0,0.856585961777312,"South Carolina Upstate","South Carolina State",4,2,0,0,5,"401088260",2018-12-15
+289,2,"5:28",328,328,"South Carolina Upstate Deadball Team Rebound.",72,68,4,0,0.856585961777312,"South Carolina Upstate","South Carolina State",4,2,0,0,5,"401088260",2018-12-15
+290,2,"5:28",328,328,"Bryson Mozone made Free Throw.",73,68,5,0,0.891013191063594,"South Carolina Upstate","South Carolina State",4,2,0,0,5,"401088260",2018-12-15
+291,2,"5:28",328,328,"Bryson Mozone made Free Throw.",74,68,6,26,0.917967456158134,"South Carolina Upstate","South Carolina State",4,2,0,0,5,"401088260",2018-12-15
+292,2,"5:02",302,302,"Ian Kinard missed Three Point Jumper.",74,68,6,0,0.925520891753958,"South Carolina Upstate","South Carolina State",4,2,0,0,5,"401088260",2018-12-15
+293,2,"5:02",302,302,"Bryson Mozone Defensive Rebound.",74,68,6,7,0.925520891753958,"South Carolina Upstate","South Carolina State",4,2,0,0,5,"401088260",2018-12-15
+294,2,"4:55",295,295,"Dalvin White missed Three Point Jumper.",74,68,6,0,0.931364879984394,"South Carolina Upstate","South Carolina State",4,2,0,0,5,"401088260",2018-12-15
+295,2,"4:55",295,295,"Ian Kinard Defensive Rebound.",74,68,6,10,0.931364879984394,"South Carolina Upstate","South Carolina State",4,2,0,0,5,"401088260",2018-12-15
+296,2,"4:45",285,285,"Janai Raynor-Powell made Jumper.",74,70,4,2,0.868795403550526,"South Carolina Upstate","South Carolina State",4,2,0,0,5,"401088260",2018-12-15
+297,2,"4:43",283,283,"South Carolina State  Timeout",74,70,4,3,0.868795403550526,"South Carolina Upstate","South Carolina State",3,2,1,0,5,"401088260",2018-12-15
+298,2,"4:40",280,280,"Deion Holmes Turnover.",74,70,4,1,0.868795403550526,"South Carolina Upstate","South Carolina State",3,2,1,0,5,"401088260",2018-12-15
+299,2,"4:39",279,279,"Ian Kinard Steal.",74,70,4,11,0.880584981792039,"South Carolina Upstate","South Carolina State",3,2,1,0,5,"401088260",2018-12-15
+300,2,"4:28",268,268,"Ian Kinard Turnover.",74,70,4,0,0.881168215426664,"South Carolina Upstate","South Carolina State",3,2,1,0,5,"401088260",2018-12-15
+301,2,"4:28",268,268,"Foul on Ian Kinard.",74,70,4,0,0.881168215426664,"South Carolina Upstate","South Carolina State",3,2,1,0,5,"401088260",2018-12-15
+302,2,"4:28",268,268,"Technical Foul on Ian Kinard.",74,70,4,0,0.881168215426664,"South Carolina Upstate","South Carolina State",3,2,1,0,5,"401088260",2018-12-15
+303,2,"4:28",268,268,"Deion Holmes made Free Throw.",75,70,5,0,0.915040398494549,"South Carolina Upstate","South Carolina State",3,2,1,0,5,"401088260",2018-12-15
+304,2,"4:28",268,268,"Deion Holmes made Free Throw.",76,70,6,29,0.93991589519044,"South Carolina Upstate","South Carolina State",3,2,1,0,5,"401088260",2018-12-15
+305,2,"3:59",239,239,"Bryson Mozone made Three Point Jumper. Assisted by Dalvin White.",79,70,9,17,0.984108167436757,"South Carolina Upstate","South Carolina State",3,2,1,0,5,"401088260",2018-12-15
+306,2,"3:42",222,222,"Ozante Fields missed Layup.",79,70,9,0,0.987812248945921,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+307,2,"3:42",222,222,"Brandon Martin Block.",79,70,9,2,0.987812248945921,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+308,2,"3:40",220,220,"Ozante Fields Offensive Rebound.",79,70,9,3,0.987812248945921,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+309,2,"3:37",217,217,"Ozante Fields made Layup.",79,72,7,10,0.970892565421396,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+310,2,"3:27",207,207,"Deion Holmes Turnover.",79,72,7,2,0.976752006211584,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+311,2,"3:25",205,205,"Janai Raynor-Powell Steal.",79,72,7,2,0.976752006211584,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+312,2,"3:23",203,203,"Official TV Timeout",79,72,7,13,0.976752006211584,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+313,2,"3:10",190,190,"Damni Applewhite made Jumper.",79,74,5,9,0.935869232451603,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+314,2,"3:01",181,181,"Bryson Mozone Turnover.",79,74,5,6,0.941984834140599,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+315,2,"2:55",175,175,"Foul on Bryson Mozone.",79,74,5,0,0.950801215519514,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+316,2,"2:55",175,175,"Damni Applewhite made Free Throw.",79,75,4,0,0.921962308421551,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+317,2,"2:55",175,175,"Damni Applewhite made Free Throw.",79,76,3,9,0.878381158633001,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+318,2,"2:46",166,166,"Bryson Mozone Turnover.",79,76,3,0,0.895651907673663,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+319,2,"2:46",166,166,"Foul on Bryson Mozone.",79,76,3,13,0.895651907673663,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+320,2,"2:33",153,153,"Damni Applewhite made Layup.",79,78,1,0,0.724262608819011,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+321,2,"2:33",153,153,"Foul on Josh Aldrich.",79,78,1,0,0.724262608819011,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+322,2,"2:33",153,153,"Damni Applewhite made Free Throw.",79,79,0,26,0.60473025674367,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+323,2,"2:07",127,127,"Deion Holmes Turnover.",79,79,0,0,0.577777150462847,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+324,2,"2:07",127,127,"Foul on Deion Holmes.",79,79,0,14,0.577777150462847,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+325,2,"1:53",113,113,"Foul on Nevin Zink.",79,79,0,0,0.612816108618815,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+326,2,"1:53",113,113,"Damni Applewhite missed Free Throw.",79,79,0,0,0.612816108618815,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+327,2,"1:53",113,113,"South Carolina State Deadball Team Rebound.",79,79,0,0,0.612816108618815,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+328,2,"1:53",113,113,"Damni Applewhite made Free Throw.",79,80,-1,22,0.46464112672249,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+329,2,"1:31",91,91,"Deion Holmes made Three Point Jumper. Assisted by Dalvin White.",82,80,2,23,0.82549926633222,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+330,2,"1:08",68,68,"Foul on Bryson Mozone.",82,80,2,0,0.828930239979879,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+331,2,"1:08",68,68,"Jahmari Etienne missed Free Throw.",82,80,2,0,0.828930239979879,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+332,2,"1:08",68,68,"South Carolina State Deadball Team Rebound.",82,80,2,0,0.828930239979879,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+333,2,"1:08",68,68,"Jahmari Etienne made Free Throw.",82,81,1,25,0.69758391090989,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+334,2,"0:43",43,43,"Dalvin White made Three Point Jumper.",85,81,4,4,0.971958218266693,"South Carolina Upstate","South Carolina State",3,2,0,0,5,"401088260",2018-12-15
+335,2,"0:39",39,39,"South Carolina State  Timeout",85,81,4,6,0.983669515157772,"South Carolina Upstate","South Carolina State",2,2,1,0,5,"401088260",2018-12-15
+336,2,"0:33",33,33,"Foul on Dalvin White.",85,81,4,0,0.991685716998008,"South Carolina Upstate","South Carolina State",2,2,1,0,5,"401088260",2018-12-15
+337,2,"0:33",33,33,"Janai Raynor-Powell made Free Throw.",85,82,3,0,0.974603263786795,"South Carolina Upstate","South Carolina State",2,2,1,0,5,"401088260",2018-12-15
+338,2,"0:33",33,33,"Janai Raynor-Powell made Free Throw.",85,83,2,13,0.925075073183241,"South Carolina Upstate","South Carolina State",2,2,1,0,5,"401088260",2018-12-15
+339,2,"0:20",20,20,"Foul on Janai Raynor-Powell.",85,83,2,0,0.965004845069522,"South Carolina Upstate","South Carolina State",2,2,1,0,5,"401088260",2018-12-15
+340,2,"0:20",20,20,"Dalvin White missed Free Throw.",85,83,2,0,0.965004845069522,"South Carolina Upstate","South Carolina State",2,2,1,0,5,"401088260",2018-12-15
+341,2,"0:20",20,20,"South Carolina Upstate Deadball Team Rebound.",85,83,2,0,0.965004845069522,"South Carolina Upstate","South Carolina State",2,2,1,0,5,"401088260",2018-12-15
+342,2,"0:20",20,20,"Dalvin White made Free Throw.",86,83,3,4,0.993120021609409,"South Carolina Upstate","South Carolina State",2,2,1,0,5,"401088260",2018-12-15
+343,2,"0:16",16,16,"South Carolina State  Timeout",86,83,3,6,0.994118633250112,"South Carolina Upstate","South Carolina State",1,2,1,0,5,"401088260",2018-12-15
+344,2,"0:10",10,10,"Foul on Josh Aldrich.",86,83,3,0,0.995533531884452,"South Carolina Upstate","South Carolina State",1,2,1,0,5,"401088260",2018-12-15
+345,2,"0:10",10,10,"Janai Raynor-Powell missed Free Throw.",86,83,3,0,0.995533531884452,"South Carolina Upstate","South Carolina State",1,2,1,0,5,"401088260",2018-12-15
+346,2,"0:10",10,10,"South Carolina State Deadball Team Rebound.",86,83,3,0,0.995533531884452,"South Carolina Upstate","South Carolina State",1,2,1,0,5,"401088260",2018-12-15
+347,2,"0:10",10,10,"Janai Raynor-Powell made Free Throw.",86,84,2,1,0.977891889327213,"South Carolina Upstate","South Carolina State",1,2,1,0,5,"401088260",2018-12-15
+348,2,"0:09",9,9,"Foul on Janai Raynor-Powell.",86,84,2,0,0.977891889327213,"South Carolina Upstate","South Carolina State",1,2,1,0,5,"401088260",2018-12-15
+349,2,"0:09",9,9,"Deion Holmes made Free Throw.",87,84,3,0,0.995533531884452,"South Carolina Upstate","South Carolina State",1,2,1,0,5,"401088260",2018-12-15
+350,2,"0:09",9,9,"Deion Holmes made Free Throw.",88,84,4,6,0.999110451959826,"South Carolina Upstate","South Carolina State",1,2,1,0,5,"401088260",2018-12-15
+351,2,"0:03",3,3,"Deion Holmes missed Three Point Jumper.",88,84,4,0,0.998987881330356,"South Carolina Upstate","South Carolina State",1,2,1,0,5,"401088260",2018-12-15
+352,2,"0:03",3,3,"South Carolina Upstate Offensive Rebound.",88,84,4,2,0.998987881330356,"South Carolina Upstate","South Carolina State",1,2,1,0,5,"401088260",2018-12-15
+353,2,"0:01",1,1,"Jordan Furlough missed Three Point Jumper.",88,84,4,0,0.998987881330356,"South Carolina Upstate","South Carolina State",1,2,1,0,5,"401088260",2018-12-15
+354,2,"0:01",1,1,"Dwayne Banks Defensive Rebound.",88,84,4,1,0.998987881330356,"South Carolina Upstate","South Carolina State",1,2,1,0,5,"401088260",2018-12-15
+355,2,"0:00",0,0,"End of Game",88,84,4,0,1,"South Carolina Upstate","South Carolina State",1,2,1,0,5,"401088260",2018-12-15

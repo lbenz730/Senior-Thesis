@@ -1,0 +1,352 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.5,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+2,1,"19:38",2378,2378,"Reggie Lynch Turnover.",0,0,0,0.524279741327167,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+3,1,"19:38",2378,2378,"Marin Maric Steal.",0,0,0,0.524279741327167,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+4,1,"19:12",2352,2352,"Dontel Highsmith made Layup.",0,2,-2,0.485753774023953,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+5,1,"18:55",2335,2335,"Jordan Murphy missed Jumper.",0,2,-2,0.470023074839075,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+6,1,"18:55",2335,2335,"Marin Maric Block.",0,2,-2,0.470023074839075,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+7,1,"18:54",2334,2334,"Minnesota Offensive Rebound.",0,2,-2,0.470023074839075,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+8,1,"18:41",2321,2321,"Jordan Murphy Turnover.",0,2,-2,0.477163756270389,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+9,1,"18:23",2303,2303,"Foul on Nate Mason.",0,2,-2,0.459371780952129,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+10,1,"18:22",2302,2302,"Dontel Highsmith missed Jumper.",0,2,-2,0.459371780952129,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+11,1,"18:19",2299,2299,"Dupree McBrayer Defensive Rebound.",0,2,-2,0.472322362910744,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+12,1,"17:57",2277,2277,"Dupree McBrayer made Three Point Jumper. Assisted by Nate Mason.",3,2,1,0.546557030718172,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+13,1,"17:32",2252,2252,"Jaylen Key Turnover.",3,2,1,0.545373191046402,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+14,1,"17:19",2239,2239,"Reggie Lynch missed Jumper.",3,2,1,0.545473881201166,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+15,1,"17:19",2239,2239,"Marin Maric Block.",3,2,1,0.545473881201166,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+16,1,"17:16",2236,2236,"Jaylen Key Defensive Rebound.",3,2,1,0.545473881201166,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+17,1,"17:12",2232,2232,"Justin Thomas missed Jumper.",3,2,1,0.545473881201166,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+18,1,"17:09",2229,2229,"Dupree McBrayer Defensive Rebound.",3,2,1,0.54430657440003,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+19,1,"17:06",2226,2226,"Nate Mason missed Three Point Jumper.",3,2,1,0.54430657440003,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+20,1,"17:03",2223,2223,"Reggie Lynch Offensive Rebound.",3,2,1,0.54430657440003,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+21,1,"16:54",2214,2214,"Amir Coffey missed Three Point Jumper.",3,2,1,0.560060707068937,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+22,1,"16:51",2211,2211,"Marin Maric Defensive Rebound.",3,2,1,0.560060707068937,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+23,1,"16:25",2185,2185,"Aaric Armstead missed Jumper.",3,2,1,0.544992909230217,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+24,1,"16:23",2183,2183,"Dupree McBrayer Defensive Rebound.",3,2,1,0.544992909230217,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+25,1,"16:23",2183,2183,"Foul on Dontel Highsmith.",3,2,1,0.544992909230217,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+26,1,"16:13",2173,2173,"Dupree McBrayer missed Jumper.",3,2,1,0.537394834362527,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+27,1,"16:11",2171,2171,"Jordan Murphy Offensive Rebound.",3,2,1,0.537394834362527,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+28,1,"16:10",2170,2170,"Jordan Murphy made Layup.",5,2,3,0.590764350796782,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+29,1,"15:47",2147,2147,"Marin Maric missed Jumper.",5,2,3,0.597997203147922,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+30,1,"15:44",2144,2144,"Reggie Lynch Defensive Rebound.",5,2,3,0.597997203147922,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+31,1,"15:36",2136,2136,"Jordan Murphy made Jumper. Assisted by Nate Mason.",7,2,5,0.658035598128874,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+32,1,"15:15",2115,2115,"Justin Thomas missed Jumper.",7,2,5,0.6493740997925,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+33,1,"15:12",2112,2112,"Jaylen Key Offensive Rebound.",7,2,5,0.6493740997925,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+34,1,"15:11",2111,2111,"Jaylen Key made Jumper.",7,4,3,0.594029752705195,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+35,1,"14:54",2094,2094,"Amir Coffey missed Jumper.",7,4,3,0.604209754567576,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+36,1,"14:51",2091,2091,"Jaylen Key Defensive Rebound.",7,4,3,0.604209754567576,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+37,1,"14:46",2086,2086,"Marin Maric missed Jumper.",7,4,3,0.603584968585935,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+38,1,"14:44",2084,2084,"Minnesota Defensive Rebound.",7,4,3,0.603584968585935,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+39,1,"14:44",2084,2084,"Official TV Timeout",7,4,3,0.603584968585935,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+40,1,"14:44",2084,2084,"Foul on Jaylen Key.",7,4,3,0.603584968585935,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+41,1,"14:28",2068,2068,"Amir Coffey missed Jumper.",7,4,3,0.593458369870199,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+42,1,"14:26",2066,2066,"Bakary Konate Offensive Rebound.",7,4,3,0.593458369870199,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+43,1,"14:24",2064,2064,"Jordan Murphy missed Jumper.",7,4,3,0.593458369870199,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+44,1,"14:22",2062,2062,"Amir Coffey Offensive Rebound.",7,4,3,0.593458369870199,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+45,1,"14:21",2061,2061,"Amir Coffey missed Jumper.",7,4,3,0.593458369870199,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+46,1,"14:21",2061,2061,"Marin Maric Block.",7,4,3,0.593458369870199,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+47,1,"14:19",2059,2059,"Marin Maric Defensive Rebound.",7,4,3,0.588287772017782,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+48,1,"14:05",2045,2045,"Austin Pauga missed Three Point Jumper.",7,4,3,0.582042615795634,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+49,1,"14:04",2044,2044,"Northern Illinois Offensive Rebound.",7,4,3,0.582042615795634,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+50,1,"13:52",2032,2032,"Marshawn Wilson missed Three Point Jumper.",7,4,3,0.602502208546342,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+51,1,"13:49",2029,2029,"Jordan Murphy Defensive Rebound.",7,4,3,0.602946309729211,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+52,1,"13:35",2015,2015,"Akeem Springs missed Three Point Jumper.",7,4,3,0.604582531883636,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+53,1,"13:31",2011,2011,"Laytwan Porter Defensive Rebound.",7,4,3,0.604582531883636,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+54,1,"13:19",1999,1999,"Marin Maric made Jumper. Assisted by Marshawn Wilson.",7,6,1,0.544523943142662,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+55,1,"13:04",1984,1984,"Akeem Springs missed Three Point Jumper.",7,6,1,0.534981622577747,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+56,1,"13:01",1981,1981,"Marshawn Wilson Defensive Rebound.",7,6,1,0.534981622577747,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+57,1,"12:56",1976,1976,"Marshawn Wilson missed Jumper.",7,6,1,0.544958604380564,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+58,1,"12:55",1975,1975,"Jordan Murphy Defensive Rebound.",7,6,1,0.544958604380564,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+59,1,"12:40",1960,1960,"Nate Mason missed Three Point Jumper.",7,6,1,0.537683622922412,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+60,1,"12:37",1957,1957,"Levi Bradley Defensive Rebound.",7,6,1,0.554557911621918,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+61,1,"12:10",1930,1930,"Marin Maric Turnover.",7,6,1,0.535719302115517,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+62,1,"12:10",1930,1930,"Amir Coffey Steal.",7,6,1,0.535719302115517,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+63,1,"12:08",1928,1928,"Amir Coffey made Layup. Assisted by Nate Mason.",9,6,3,0.592484424227419,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+64,1,"11:46",1906,1906,"Laytwan Porter missed Jumper.",9,6,3,0.595481171069104,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+65,1,"11:44",1904,1904,"Bakary Konate Defensive Rebound.",9,6,3,0.595481171069104,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+66,1,"11:23",1883,1883,"Bakary Konate missed Layup.",9,6,3,0.594980102141047,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+67,1,"11:21",1881,1881,"Marin Maric Defensive Rebound.",9,6,3,0.594980102141047,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+68,1,"11:10",1870,1870,"Marin Maric Turnover.",9,6,3,0.602082851182261,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+69,1,"11:10",1870,1870,"Amir Coffey Steal.",9,6,3,0.602082851182261,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+70,1,"11:05",1865,1865,"Nate Mason missed Jumper.",9,6,3,0.628875469548304,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+71,1,"11:01",1861,1861,"Jordan Murphy Offensive Rebound.",9,6,3,0.628875469548304,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+72,1,"10:59",1859,1859,"Nate Mason missed Jumper.",9,6,3,0.614687377428729,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+73,1,"10:57",1857,1857,"Marin Maric Defensive Rebound.",9,6,3,0.614687377428729,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+74,1,"10:51",1851,1851,"Levi Bradley made Layup. Assisted by Laytwan Porter.",9,8,1,0.552575418226477,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+75,1,"10:23",1823,1823,"Akeem Springs made Three Point Jumper. Assisted by Amir Coffey.",12,8,4,0.648151679528179,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+76,1,"10:07",1807,1807,"Foul on Laytwan Porter.",12,8,4,0.632638073881812,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+77,1,"10:07",1807,1807,"Laytwan Porter Turnover.",12,8,4,0.632638073881812,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+78,1,"10:07",1807,1807,"Official TV Timeout",12,8,4,0.632638073881812,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+79,1,"9:51",1791,1791,"Eric Curry missed Layup.",12,8,4,0.632748696993942,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+80,1,"9:49",1789,1789,"Reggie Lynch Offensive Rebound.",12,8,4,0.631038291969364,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+81,1,"9:49",1789,1789,"Foul on Noah McCarty.",12,8,4,0.631038291969364,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+82,1,"9:49",1789,1789,"Minnesota Deadball Team Rebound.",12,8,4,0.631038291969364,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+83,1,"9:49",1789,1789,"Reggie Lynch missed Free Throw.",12,8,4,0.631038291969364,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+84,1,"9:49",1789,1789,"Reggie Lynch made Free Throw.",13,8,5,0.662614398060552,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+85,1,"9:30",1770,1770,"Noah McCarty missed Jumper.",13,8,5,0.645947326446956,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+86,1,"9:27",1767,1767,"Minnesota Defensive Rebound.",13,8,5,0.669022928817916,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+87,1,"9:14",1754,1754,"Foul on Noah McCarty.",13,8,5,0.652289214819349,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+88,1,"9:03",1743,1743,"Dupree McBrayer made Jumper. Assisted by Akeem Springs.",15,8,7,0.730467351060399,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+89,1,"8:46",1726,1726,"Foul on Michael Hurt.",15,8,7,0.743981093423169,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+90,1,"8:37",1717,1717,"Jaylen Key missed Jumper.",15,8,7,0.728724708774293,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+91,1,"8:34",1714,1714,"Aaric Armstead Offensive Rebound.",15,8,7,0.728724708774293,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+92,1,"8:18",1698,1698,"Jaylen Key made Jumper.",15,10,5,0.692236953833057,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+93,1,"7:55",1675,1675,"Foul on Justin Thomas.",15,10,5,0.68005508493025,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+94,1,"7:55",1675,1675,"Official TV Timeout",15,10,5,0.68005508493025,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+95,1,"7:42",1662,1662,"Dupree McBrayer Turnover.",15,10,5,0.666842173496685,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+96,1,"7:42",1662,1662,"Justin Thomas Steal.",15,10,5,0.666842173496685,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+97,1,"7:37",1657,1657,"Aaric Armstead missed Jumper.",15,10,5,0.678309976189431,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+98,1,"7:36",1656,1656,"Minnesota Defensive Rebound.",15,10,5,0.678309976189431,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+99,1,"7:21",1641,1641,"Foul on Marin Maric.",15,10,5,0.685087015769208,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+100,1,"7:21",1641,1641,"Eric Curry made Free Throw.",16,10,6,0.714330013460249,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+101,1,"7:21",1641,1641,"Eric Curry missed Free Throw.",16,10,6,0.714330013460249,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+102,1,"7:21",1641,1641,"Aaric Armstead Defensive Rebound.",16,10,6,0.714330013460249,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+103,1,"7:02",1622,1622,"Aaric Armstead missed Jumper.",16,10,6,0.705547347606679,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+104,1,"7:00",1620,1620,"Akeem Springs Defensive Rebound.",16,10,6,0.705547347606679,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+105,1,"7:00",1620,1620,"Foul on Aaric Armstead.",16,10,6,0.705547347606679,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+106,1,"7:00",1620,1620,"Akeem Springs made Free Throw.",17,10,7,0.734064359197681,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+107,1,"7:00",1620,1620,"Akeem Springs made Free Throw.",18,10,8,0.760756067709807,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+108,1,"6:34",1594,1594,"Marin Maric Turnover.",18,10,8,0.76891963371798,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+109,1,"6:34",1594,1594,"Akeem Springs Steal.",18,10,8,0.76891963371798,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+110,1,"6:31",1591,1591,"Dupree McBrayer Turnover.",18,10,8,0.76891963371798,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+111,1,"6:16",1576,1576,"Foul on Jordan Murphy.",18,10,8,0.787680644091265,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+112,1,"6:07",1567,1567,"Marshawn Wilson made Layup. Assisted by Marin Maric.",18,12,6,0.70068188687883,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+113,1,"6:07",1567,1567,"Foul on Amir Coffey.",18,12,6,0.70068188687883,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+114,1,"6:07",1567,1567,"Marshawn Wilson missed Free Throw.",18,12,6,0.70068188687883,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+115,1,"6:07",1567,1567,"Jordan Murphy Defensive Rebound.",18,12,6,0.70068188687883,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+116,1,"5:51",1551,1551,"Jordan Murphy missed Three Point Jumper.",18,12,6,0.707021570706946,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+117,1,"5:48",1548,1548,"Justin Thomas Defensive Rebound.",18,12,6,0.709721152878214,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+118,1,"5:33",1533,1533,"Foul on Amir Coffey.",18,12,6,0.710881740857042,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+119,1,"5:23",1523,1523,"Marin Maric made Layup. Assisted by Marshawn Wilson.",18,14,4,0.65158130350135,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+120,1,"5:06",1506,1506,"Foul on Marin Maric.",18,14,4,0.649487626316572,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+121,1,"5:06",1506,1506,"Reggie Lynch made Free Throw.",19,14,5,0.681194202931982,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+122,1,"5:06",1506,1506,"Reggie Lynch made Free Throw.",20,14,6,0.711307525010252,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+123,1,"4:50",1490,1490,"Jaylen Key made Jumper. Assisted by Levi Bradley.",20,16,4,0.667133002413877,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+124,1,"4:34",1474,1474,"Akeem Springs Turnover.",20,16,4,0.655094326725645,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+125,1,"4:34",1474,1474,"Laytwan Porter Steal.",20,16,4,0.655094326725645,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+126,1,"4:32",1472,1472,"Foul on Jordan Murphy.",20,16,4,0.655094326725645,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+127,1,"4:32",1472,1472,"Laytwan Porter made Free Throw.",20,17,3,0.61979179044072,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+128,1,"4:32",1472,1472,"Laytwan Porter missed Free Throw.",20,17,3,0.61979179044072,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+129,1,"4:32",1472,1472,"Reggie Lynch Defensive Rebound.",20,17,3,0.61979179044072,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+130,1,"4:12",1452,1452,"Reggie Lynch made Jumper. Assisted by Eric Curry.",22,17,5,0.676305612135289,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+131,1,"4:04",1444,1444,"Marshawn Wilson missed Jumper.",22,17,5,0.713398160073051,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+132,1,"4:04",1444,1444,"Reggie Lynch Block.",22,17,5,0.713398160073051,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+133,1,"4:02",1442,1442,"Dupree McBrayer Defensive Rebound.",22,17,5,0.713398160073051,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+134,1,"3:57",1437,1437,"Reggie Lynch missed Jumper.",22,17,5,0.701410051826483,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+135,1,"3:53",1433,1433,"Laytwan Porter Defensive Rebound.",22,17,5,0.701410051826483,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+136,1,"3:48",1428,1428,"Laytwan Porter missed Jumper.",22,17,5,0.678561446501567,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+137,1,"3:45",1425,1425,"Eric Curry Defensive Rebound.",22,17,5,0.678561446501567,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+138,1,"3:37",1417,1417,"Dupree McBrayer Turnover.",22,17,5,0.693807011239625,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+139,1,"3:37",1417,1417,"Official TV Timeout",22,17,5,0.693807011239625,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+140,1,"3:08",1388,1388,"Levi Bradley missed Three Point Jumper.",22,17,5,0.699622142648079,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+141,1,"3:06",1386,1386,"Aaric Armstead Offensive Rebound.",22,17,5,0.699622142648079,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+142,1,"2:55",1375,1375,"Levi Bradley missed Jumper.",22,17,5,0.671496042903933,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+143,1,"2:52",1372,1372,"Akeem Springs Defensive Rebound.",22,17,5,0.671496042903933,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+144,1,"2:42",1362,1362,"Reggie Lynch made Jumper. Assisted by Dupree McBrayer.",24,17,7,0.756385187450649,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+145,1,"2:16",1336,1336,"Marshawn Wilson made Jumper.",24,19,5,0.685546173357559,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+146,1,"1:57",1317,1317,"Eric Curry Turnover.",24,19,5,0.714962563814039,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+147,1,"1:57",1317,1317,"Noah McCarty Steal.",24,19,5,0.714962563814039,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+148,1,"1:54",1314,1314,"Marshawn Wilson made Layup.",24,21,3,0.646639707576656,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+149,1,"1:51",1311,1311,"Technical Foul on Marshawn Wilson.",24,21,3,0.646639707576656,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+150,1,"1:51",1311,1311,"Nate Mason made Free Throw.",25,21,4,0.681778114578703,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+151,1,"1:51",1311,1311,"Nate Mason made Free Throw.",26,21,5,0.714962563814039,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+152,1,"1:38",1298,1298,"Foul on Aaric Armstead.",26,21,5,0.730698627105891,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+153,1,"1:38",1298,1298,"Dupree McBrayer made Free Throw.",27,21,6,0.762349045007628,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+154,1,"1:38",1298,1298,"Dupree McBrayer missed Free Throw.",27,21,6,0.762349045007628,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+155,1,"1:35",1295,1295,"Minnesota Offensive Rebound.",27,21,6,0.762349045007628,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+156,1,"1:27",1287,1287,"Nate Mason made Jumper.",29,21,8,0.776160211291191,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+157,1,"1:04",1264,1264,"Dontel Highsmith made Layup.",29,23,6,0.744129778449487,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+158,1,"0:50",1250,1250,"Nate Mason missed Jumper.",29,23,6,0.724320139335697,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+159,1,"0:47",1247,1247,"Justin Thomas Defensive Rebound.",29,23,6,0.726637433169275,"Minnesota","Northern Illinois",4,4,1,0,NA,400915091,2016-12-11
+160,1,"0:47",1247,1247,"Northern Illinois  Timeout",29,23,6,0.726637433169275,"Minnesota","Northern Illinois",3,4,1,0,NA,400915091,2016-12-11
+161,1,"0:22",1222,1222,"Jaylen Key missed Jumper.",29,23,6,0.748940267231627,"Minnesota","Northern Illinois",3,4,1,0,NA,400915091,2016-12-11
+162,1,"0:19",1219,1219,"Eric Curry Defensive Rebound.",29,23,6,0.735688860935114,"Minnesota","Northern Illinois",3,4,1,0,NA,400915091,2016-12-11
+163,1,"0:16",1216,1216,"Akeem Springs missed Dunk.",29,23,6,0.735688860935114,"Minnesota","Northern Illinois",3,4,1,0,NA,400915091,2016-12-11
+164,1,"0:14",1214,1214,"Nate Mason Offensive Rebound.",29,23,6,0.735688860935114,"Minnesota","Northern Illinois",3,4,1,0,NA,400915091,2016-12-11
+165,1,"0:01",1201,1201,"Nate Mason missed Three Point Jumper.",29,23,6,0.732037166009673,"Minnesota","Northern Illinois",3,4,1,0,NA,400915091,2016-12-11
+166,1,"0:01",1201,1201,"Minnesota Offensive Rebound.",29,23,6,0.732037166009673,"Minnesota","Northern Illinois",3,4,1,0,NA,400915091,2016-12-11
+167,1,"0:00",1200,1200,"End of 1st half",29,23,6,0.732037166009673,"Minnesota","Northern Illinois",3,4,1,0,NA,400915091,2016-12-11
+168,2,"20:00",1200,1200,"PLAY",29,23,6,0.732037166009673,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+169,2,"19:42",1182,1182,"Marin Maric missed Layup.",29,23,6,0.738771319311185,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+170,2,"19:42",1182,1182,"Dontel Highsmith Offensive Rebound.",29,23,6,0.738771319311185,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+171,2,"19:42",1182,1182,"Foul on Jordan Murphy.",29,23,6,0.738771319311185,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+172,2,"19:42",1182,1182,"Dontel Highsmith made Free Throw.",29,24,5,0.705587066561815,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+173,2,"19:42",1182,1182,"Dontel Highsmith made Free Throw.",29,25,4,0.670069957783265,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+174,2,"19:18",1158,1158,"Dupree McBrayer Turnover.",29,25,4,0.673205609578874,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+175,2,"19:18",1158,1158,"Dontel Highsmith Steal.",29,25,4,0.673205609578874,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+176,2,"19:14",1154,1154,"Dontel Highsmith made Layup.",29,27,2,0.598497743712728,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+177,2,"18:57",1137,1137,"Jordan Murphy made Jumper. Assisted by Dupree McBrayer.",31,27,4,0.673768316101695,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+178,2,"18:29",1109,1109,"Dontel Highsmith missed Jumper.",31,27,4,0.66892453618685,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+179,2,"18:27",1107,1107,"Jordan Murphy Defensive Rebound.",31,27,4,0.66892453618685,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+180,2,"18:18",1098,1098,"Reggie Lynch missed Layup.",31,27,4,0.68444285237282,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+181,2,"18:17",1097,1097,"Jordan Murphy Offensive Rebound.",31,27,4,0.68444285237282,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+182,2,"18:17",1097,1097,"Jordan Murphy missed Jumper.",31,27,4,0.68444285237282,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+183,2,"18:15",1095,1095,"Justin Thomas Defensive Rebound.",31,27,4,0.68444285237282,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+184,2,"18:10",1090,1090,"Justin Thomas made Layup.",31,29,2,0.606195652288225,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+185,2,"17:49",1069,1069,"Dupree McBrayer missed Jumper.",31,29,2,0.618401707611544,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+186,2,"17:46",1066,1066,"Jordan Murphy Offensive Rebound.",31,29,2,0.618401707611544,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+187,2,"17:44",1064,1064,"Jordan Murphy made Layup.",33,29,4,0.695849230914263,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+188,2,"17:34",1054,1054,"Foul on Reggie Lynch.",33,29,4,0.692842009856606,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+189,2,"17:34",1054,1054,"Aaric Armstead missed Free Throw.",33,29,4,0.692842009856606,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+190,2,"17:34",1054,1054,"Northern Illinois Deadball Team Rebound.",33,29,4,0.692842009856606,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+191,2,"17:34",1054,1054,"Aaric Armstead made Free Throw.",33,30,3,0.653242079157423,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+192,2,"17:21",1041,1041,"Jordan Murphy made Layup. Assisted by Reggie Lynch.",35,30,5,0.731366297609327,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+193,2,"17:05",1025,1025,"Aaric Armstead missed Jumper.",35,30,5,0.72907446026536,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+194,2,"17:02",1022,1022,"Nate Mason Defensive Rebound.",35,30,5,0.72907446026536,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+195,2,"16:57",1017,1017,"Foul on Justin Thomas.",35,30,5,0.704939928257287,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+196,2,"16:57",1017,1017,"Nate Mason missed Free Throw.",35,30,5,0.704939928257287,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+197,2,"16:57",1017,1017,"Nate Mason made Free Throw.",36,30,6,0.741463673010755,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+198,2,"16:57",1017,1017,"Minnesota Deadball Team Rebound.",35,30,5,0.704939928257287,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+199,2,"16:57",1017,1017,"Nate Mason made Free Throw.",37,30,7,0.774909950556952,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+200,2,"16:29",989,989,"Marshawn Wilson missed Jumper.",37,30,7,0.822419112964038,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+201,2,"16:28",988,988,"Marin Maric Offensive Rebound.",37,30,7,0.822419112964038,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+202,2,"16:28",988,988,"Foul on Bakary Konate.",37,30,7,0.822419112964038,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+203,2,"16:21",981,981,"Foul on Amir Coffey.",37,30,7,0.822419112964038,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+204,2,"16:11",971,971,"Levi Bradley Turnover.",37,30,7,0.794839939662762,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+205,2,"16:11",971,971,"Bakary Konate Steal.",37,30,7,0.794839939662762,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+206,2,"16:04",964,964,"Amir Coffey Turnover.",37,30,7,0.791457673184575,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+207,2,"16:04",964,964,"Aaric Armstead Steal.",37,30,7,0.791457673184575,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+208,2,"16:00",960,960,"Marshawn Wilson made Layup. Assisted by Aaric Armstead.",37,32,5,0.723657048435448,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+209,2,"15:46",946,946,"Akeem Springs made Three Point Jumper. Assisted by Nate Mason.",40,32,8,0.840358851808088,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+210,2,"15:38",938,938,"Aaric Armstead Turnover.",40,32,8,0.829988441511941,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+211,2,"15:38",938,938,"Official TV Timeout",40,32,8,0.829988441511941,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+212,2,"15:14",914,914,"Amir Coffey Turnover.",40,32,8,0.832264715931183,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+213,2,"15:14",914,914,"Marin Maric Steal.",40,32,8,0.832264715931183,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+214,2,"15:09",909,909,"Foul on Nate Mason.",40,32,8,0.830141706255538,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+215,2,"15:09",909,909,"Justin Thomas missed Free Throw.",40,32,8,0.830141706255538,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+216,2,"15:09",909,909,"Northern Illinois Deadball Team Rebound.",40,32,8,0.830141706255538,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+217,2,"15:09",909,909,"Justin Thomas made Free Throw.",40,33,7,0.801438780209186,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+218,2,"14:54",894,894,"Akeem Springs made Layup.",42,33,9,0.864249155075487,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+219,2,"14:38",878,878,"Dontel Highsmith made Layup.",42,35,7,0.805682172570246,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+220,2,"14:24",864,864,"Akeem Springs missed Three Point Jumper.",42,35,7,0.793441258837916,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+221,2,"14:22",862,862,"Jordan Murphy Offensive Rebound.",42,35,7,0.793441258837916,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+222,2,"14:15",855,855,"Amir Coffey missed Three Point Jumper.",42,35,7,0.826211239799024,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+223,2,"14:14",854,854,"Justin Thomas Defensive Rebound.",42,35,7,0.826211239799024,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+224,2,"14:14",854,854,"Foul on Bakary Konate.",42,35,7,0.826211239799024,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+225,2,"14:13",853,853,"Amir Coffey missed Three Point Jumper.",42,35,7,0.826211239799024,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+226,2,"13:44",824,824,"Justin Thomas missed Three Point Jumper.",42,35,7,0.796401270988109,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+227,2,"13:41",821,821,"Reggie Lynch Defensive Rebound.",42,35,7,0.796401270988109,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+228,2,"13:29",809,809,"Reggie Lynch made Layup. Assisted by Nate Mason.",44,35,9,0.874969138710662,"Minnesota","Northern Illinois",4,4,0,0,NA,400915091,2016-12-11
+229,2,"13:23",803,803,"Northern Illinois  Timeout",44,35,9,0.874969138710662,"Minnesota","Northern Illinois",3,4,1,0,NA,400915091,2016-12-11
+230,2,"13:23",803,803,"Official TV Timeout",44,35,9,0.874969138710662,"Minnesota","Northern Illinois",3,4,1,0,NA,400915091,2016-12-11
+231,2,"12:59",779,779,"Jaylen Key missed Dunk.",44,35,9,0.875515186454093,"Minnesota","Northern Illinois",3,4,1,0,NA,400915091,2016-12-11
+232,2,"12:57",777,777,"Akeem Springs Defensive Rebound.",44,35,9,0.875515186454093,"Minnesota","Northern Illinois",3,4,1,0,NA,400915091,2016-12-11
+233,2,"12:35",755,755,"Foul on Jaylen Key.",44,35,9,0.880396354878733,"Minnesota","Northern Illinois",3,4,1,0,NA,400915091,2016-12-11
+234,2,"12:35",755,755,"Reggie Lynch made Free Throw.",45,35,10,0.901447713495175,"Minnesota","Northern Illinois",3,4,1,0,NA,400915091,2016-12-11
+235,2,"12:35",755,755,"Reggie Lynch made Free Throw.",46,35,11,0.919134168285119,"Minnesota","Northern Illinois",3,4,1,0,NA,400915091,2016-12-11
+236,2,"12:31",751,751,"Dontel Highsmith Turnover.",46,35,11,0.919134168285119,"Minnesota","Northern Illinois",3,4,1,0,NA,400915091,2016-12-11
+237,2,"12:31",751,751,"Dupree McBrayer Steal.",46,35,11,0.919134168285119,"Minnesota","Northern Illinois",3,4,1,0,NA,400915091,2016-12-11
+238,2,"12:19",739,739,"Foul on Aaric Armstead.",46,35,11,0.91971101409059,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+239,2,"12:12",732,732,"Akeem Springs Turnover.",46,35,11,0.91971101409059,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+240,2,"12:12",732,732,"Marin Maric Steal.",46,35,11,0.91971101409059,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+241,2,"12:10",730,730,"Marin Maric made Layup. Assisted by Dontel Highsmith.",46,37,9,0.882173536298256,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+242,2,"12:10",730,730,"Foul on Amir Coffey.",46,37,9,0.882173536298256,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+243,2,"12:10",730,730,"Marin Maric made Free Throw.",46,38,8,0.858215911223508,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+244,2,"11:51",711,711,"Reggie Lynch missed Jumper.",46,38,8,0.845813244589367,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+245,2,"11:48",708,708,"Aaric Armstead Defensive Rebound.",46,38,8,0.860803941655284,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+246,2,"11:47",707,707,"Official TV Timeout",46,38,8,0.860803941655284,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+247,2,"11:29",689,689,"Marin Maric missed Three Point Jumper.",46,38,8,0.859158078519269,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+248,2,"11:29",689,689,"Reggie Lynch Block.",46,38,8,0.859158078519269,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+249,2,"11:28",688,688,"Michael Hurt Defensive Rebound.",46,38,8,0.859158078519269,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+250,2,"11:28",688,688,"Foul on Austin Pauga.",46,38,8,0.859158078519269,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+251,2,"11:11",671,671,"Foul on Marin Maric.",46,38,8,0.86743476711495,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+252,2,"11:11",671,671,"Reggie Lynch made Free Throw.",47,38,9,0.891961249566059,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+253,2,"11:11",671,671,"Reggie Lynch made Free Throw.",48,38,10,0.912408191742049,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+254,2,"10:42",642,642,"Aaric Armstead missed Three Point Jumper.",48,38,10,0.92321127139545,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+255,2,"10:39",639,639,"Michael Hurt Defensive Rebound.",48,38,10,0.918104520661518,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+256,2,"10:33",633,633,"Eric Curry missed Layup.",48,38,10,0.918104520661518,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+257,2,"10:32",632,632,"Reggie Lynch Offensive Rebound.",48,38,10,0.918104520661518,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+258,2,"10:32",632,632,"Foul on Marin Maric.",48,38,10,0.918104520661518,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+259,2,"10:23",623,623,"Akeem Springs missed Jumper.",48,38,10,0.92829399052529,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+260,2,"10:21",621,621,"Eric Curry Offensive Rebound.",48,38,10,0.92829399052529,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+261,2,"10:21",621,621,"Eric Curry missed Layup.",48,38,10,0.92829399052529,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+262,2,"10:18",618,618,"Levi Bradley Defensive Rebound.",48,38,10,0.925371381399876,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+263,2,"10:11",611,611,"Jaylen Key missed Jumper.",48,38,10,0.925371381399876,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+264,2,"10:08",608,608,"Reggie Lynch Defensive Rebound.",48,38,10,0.925298755044254,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+265,2,"10:00",600,600,"Dupree McBrayer made Jumper.",50,38,12,0.952837264918936,"Minnesota","Northern Illinois",3,4,0,0,NA,400915091,2016-12-11
+266,2,"9:54",594,594,"Northern Illinois  Timeout",50,38,12,0.949876775563333,"Minnesota","Northern Illinois",2,4,1,0,NA,400915091,2016-12-11
+267,2,"9:39",579,579,"Marshawn Wilson Turnover.",50,38,12,0.961224224148543,"Minnesota","Northern Illinois",2,4,1,0,NA,400915091,2016-12-11
+268,2,"9:39",579,579,"Akeem Springs Steal.",50,38,12,0.961224224148543,"Minnesota","Northern Illinois",2,4,1,0,NA,400915091,2016-12-11
+269,2,"9:37",577,577,"Foul on Akeem Springs.",50,38,12,0.961224224148543,"Minnesota","Northern Illinois",2,4,1,0,NA,400915091,2016-12-11
+270,2,"9:37",577,577,"Akeem Springs Turnover.",50,38,12,0.961224224148543,"Minnesota","Northern Illinois",2,4,1,0,NA,400915091,2016-12-11
+271,2,"9:32",572,572,"Levi Bradley missed Three Point Jumper.",50,38,12,0.961224224148543,"Minnesota","Northern Illinois",2,4,1,0,NA,400915091,2016-12-11
+272,2,"9:29",569,569,"Reggie Lynch Defensive Rebound.",50,38,12,0.960502902163174,"Minnesota","Northern Illinois",2,4,1,0,NA,400915091,2016-12-11
+273,2,"9:13",553,553,"Eric Curry made Jumper. Assisted by Michael Hurt.",52,38,14,0.975002955107627,"Minnesota","Northern Illinois",2,4,1,0,NA,400915091,2016-12-11
+274,2,"8:52",532,532,"Marshawn Wilson made Three Point Jumper. Assisted by Noah McCarty.",52,41,11,0.963096771332496,"Minnesota","Northern Illinois",2,4,0,0,NA,400915091,2016-12-11
+275,2,"8:40",520,520,"Minnesota  Timeout",52,41,11,0.957834803900549,"Minnesota","Northern Illinois",2,3,0,1,NA,400915091,2016-12-11
+276,2,"8:26",506,506,"Foul on Marshawn Wilson.",52,41,11,0.958335642911876,"Minnesota","Northern Illinois",2,3,0,1,NA,400915091,2016-12-11
+277,2,"8:26",506,506,"Reggie Lynch made Free Throw.",53,41,12,0.967904833286084,"Minnesota","Northern Illinois",2,3,0,1,NA,400915091,2016-12-11
+278,2,"8:26",506,506,"Reggie Lynch missed Free Throw.",53,41,12,0.967904833286084,"Minnesota","Northern Illinois",2,3,0,1,NA,400915091,2016-12-11
+279,2,"8:25",505,505,"Northern Illinois Defensive Rebound.",53,41,12,0.967904833286084,"Minnesota","Northern Illinois",2,3,0,1,NA,400915091,2016-12-11
+280,2,"8:08",488,488,"Noah McCarty Turnover.",53,41,12,0.966080355362281,"Minnesota","Northern Illinois",2,3,0,1,NA,400915091,2016-12-11
+281,2,"8:08",488,488,"Akeem Springs Steal.",53,41,12,0.966080355362281,"Minnesota","Northern Illinois",2,3,0,1,NA,400915091,2016-12-11
+282,2,"8:07",487,487,"Foul on Levi Bradley.",53,41,12,0.966080355362281,"Minnesota","Northern Illinois",2,3,0,1,NA,400915091,2016-12-11
+283,2,"8:07",487,487,"Dupree McBrayer made Free Throw.",54,41,13,0.97398305508832,"Minnesota","Northern Illinois",2,3,0,1,NA,400915091,2016-12-11
+284,2,"8:07",487,487,"Dupree McBrayer made Free Throw.",55,41,14,0.980082519848447,"Minnesota","Northern Illinois",2,3,0,1,NA,400915091,2016-12-11
+285,2,"7:45",465,465,"Dontel Highsmith missed Three Point Jumper.",55,41,14,0.981680975782677,"Minnesota","Northern Illinois",2,3,0,1,NA,400915091,2016-12-11
+286,2,"7:43",463,463,"Jordan Murphy Defensive Rebound.",55,41,14,0.981680975782677,"Minnesota","Northern Illinois",2,3,0,1,NA,400915091,2016-12-11
+287,2,"7:35",455,455,"Official TV Timeout",55,41,14,0.988755634440195,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+288,2,"7:35",455,455,"Foul on Justin Thomas.",55,41,14,0.988755634440195,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+289,2,"7:35",455,455,"Nate Mason made Free Throw.",56,41,15,0.99178559268127,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+290,2,"7:35",455,455,"Nate Mason made Free Throw.",57,41,16,0.994004035674389,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+291,2,"7:20",440,440,"Jaylen Key missed Jumper.",57,41,16,0.98911415940259,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+292,2,"7:17",437,437,"Reggie Lynch Defensive Rebound.",57,41,16,0.99348163470552,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+293,2,"6:59",419,419,"Nate Mason missed Jumper.",57,41,16,0.992275882613942,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+294,2,"6:56",416,416,"Justin Thomas Defensive Rebound.",57,41,16,0.992275882613942,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+295,2,"6:54",414,414,"Justin Thomas Turnover.",57,41,16,0.992275882613942,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+296,2,"6:54",414,414,"Akeem Springs Steal.",57,41,16,0.992275882613942,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+297,2,"6:51",411,411,"Foul on Marshawn Wilson.",57,41,16,0.992275882613942,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+298,2,"6:51",411,411,"Jordan Murphy made Free Throw.",58,41,17,0.994273988116787,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+299,2,"6:51",411,411,"Jordan Murphy made Free Throw.",59,41,18,0.995757425679116,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+300,2,"6:33",393,393,"Marin Maric made Jumper. Assisted by Aaric Armstead.",59,43,16,0.994026293778058,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+301,2,"6:14",374,374,"Jordan Murphy missed Jumper.",59,43,16,0.992987560524673,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+302,2,"6:12",372,372,"Reggie Lynch Offensive Rebound.",59,43,16,0.992987560524673,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+303,2,"6:11",371,371,"Reggie Lynch made Dunk.",61,43,18,0.996212907777507,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+304,2,"5:49",349,349,"Justin Thomas made Jumper.",61,45,16,0.9948959033874,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+305,2,"5:28",328,328,"Amir Coffey made Layup. Assisted by Nate Mason.",63,45,18,0.9964412245952,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+306,2,"5:11",311,311,"Foul on Reggie Lynch.",63,45,18,0.998757315354078,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+307,2,"5:11",311,311,"Aaric Armstead made Free Throw.",63,46,17,0.998207981965108,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+308,2,"5:11",311,311,"Aaric Armstead made Free Throw.",63,47,16,0.99741644185849,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+309,2,"4:59",299,299,"Reggie Lynch made Dunk. Assisted by Amir Coffey.",65,47,18,0.997953070437379,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+310,2,"4:35",275,275,"Justin Thomas made Jumper.",65,49,16,0.997931425681409,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+311,2,"4:28",268,268,"Nate Mason made Layup.",67,49,18,0.998876987236364,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+312,2,"4:28",268,268,"Foul on Levi Bradley.",67,49,18,0.998876987236364,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+313,2,"4:28",268,268,"Nate Mason made Free Throw.",68,49,19,0.999226545002559,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+314,2,"3:58",238,238,"Marin Maric missed Jumper.",68,49,19,0.999596650869497,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+315,2,"3:58",238,238,"Reggie Lynch Block.",68,49,19,0.999596650869497,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+316,2,"3:56",236,236,"Reggie Lynch Defensive Rebound.",68,49,19,0.999596650869497,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+317,2,"3:37",217,217,"Official TV Timeout",68,49,19,0.999763675402163,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+318,2,"3:37",217,217,"Foul on Marin Maric.",68,49,19,0.999763675402163,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+319,2,"3:37",217,217,"Amir Coffey made Free Throw.",69,49,20,0.999847678698714,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+320,2,"3:37",217,217,"Amir Coffey made Free Throw.",70,49,21,0.999901825344888,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+321,2,"3:20",200,200,"Jaylen Key missed Jumper.",70,49,21,0.999932444438668,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+322,2,"3:17",197,197,"Bakary Konate Defensive Rebound.",70,49,21,0.999948062703415,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+323,2,"3:06",186,186,"Eric Curry Turnover.",70,49,21,0.999961889027659,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+324,2,"3:06",186,186,"Austin Pauga Steal.",70,49,21,0.999961889027659,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+325,2,"3:00",180,180,"Jaylen Key missed Layup.",70,49,21,0.999961889027659,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+326,2,"2:57",177,177,"Ahmad Gilbert Defensive Rebound.",70,49,21,0.999971919280626,"Minnesota","Northern Illinois",2,3,0,0,NA,400915091,2016-12-11
+327,2,"2:53",173,173,"Minnesota  Timeout",70,49,21,0.999971919280626,"Minnesota","Northern Illinois",2,2,0,1,NA,400915091,2016-12-11
+328,2,"2:47",167,167,"Bakary Konate made Dunk. Assisted by Amir Coffey.",72,49,23,0.999993329161361,"Minnesota","Northern Illinois",2,2,0,1,NA,400915091,2016-12-11
+329,2,"2:34",154,154,"Foul on Ahmad Gilbert.",72,49,23,0.999996405311078,"Minnesota","Northern Illinois",2,2,0,1,NA,400915091,2016-12-11
+330,2,"2:34",154,154,"Marshawn Wilson made Free Throw.",72,50,22,0.999993828475324,"Minnesota","Northern Illinois",2,2,0,1,NA,400915091,2016-12-11
+331,2,"2:34",154,154,"Marshawn Wilson made Free Throw.",72,51,21,0.999989404466619,"Minnesota","Northern Illinois",2,2,0,1,NA,400915091,2016-12-11
+332,2,"2:22",142,142,"Eric Curry missed Three Point Jumper.",72,51,21,0.999979385240849,"Minnesota","Northern Illinois",2,2,0,1,NA,400915091,2016-12-11
+333,2,"2:18",138,138,"Justin Thomas Defensive Rebound.",72,51,21,0.999992041209055,"Minnesota","Northern Illinois",2,2,0,1,NA,400915091,2016-12-11
+334,2,"2:13",133,133,"Justin Thomas missed Jumper.",72,51,21,0.999992041209055,"Minnesota","Northern Illinois",2,2,0,1,NA,400915091,2016-12-11
+335,2,"2:13",133,133,"Eric Curry Block.",72,51,21,0.999992041209055,"Minnesota","Northern Illinois",2,2,0,1,NA,400915091,2016-12-11
+336,2,"2:11",131,131,"Amir Coffey Defensive Rebound.",72,51,21,0.999992041209055,"Minnesota","Northern Illinois",2,2,0,1,NA,400915091,2016-12-11
+337,2,"2:07",127,127,"Eric Curry made Layup. Assisted by Amir Coffey.",74,51,23,0.999997701727107,"Minnesota","Northern Illinois",2,2,0,1,NA,400915091,2016-12-11
+338,2,"1:58",118,118,"Marshawn Wilson missed Jumper.",74,51,23,0.999999137541524,"Minnesota","Northern Illinois",2,2,0,1,NA,400915091,2016-12-11
+339,2,"1:55",115,115,"Northern Illinois Offensive Rebound.",74,51,23,0.999999137541524,"Minnesota","Northern Illinois",2,2,0,1,NA,400915091,2016-12-11
+340,2,"1:34",94,94,"Marshawn Wilson made Three Point Jumper.",74,54,20,0.999996712764457,"Minnesota","Northern Illinois",2,2,0,0,NA,400915091,2016-12-11
+341,2,"1:21",81,81,"Ahmad Gilbert missed Three Point Jumper.",74,54,20,0.999999498875837,"Minnesota","Northern Illinois",2,2,0,0,NA,400915091,2016-12-11
+342,2,"1:19",79,79,"Marshawn Wilson Defensive Rebound.",74,54,20,0.999999555879051,"Minnesota","Northern Illinois",2,2,0,0,NA,400915091,2016-12-11
+343,2,"1:16",76,76,"Marshawn Wilson Turnover.",74,54,20,0.999999555879051,"Minnesota","Northern Illinois",2,2,0,0,NA,400915091,2016-12-11
+344,2,"1:16",76,76,"Amir Coffey Steal.",74,54,20,0.999999555879051,"Minnesota","Northern Illinois",2,2,0,0,NA,400915091,2016-12-11
+345,2,"1:12",72,72,"Amir Coffey Turnover.",74,54,20,0.999999555879051,"Minnesota","Northern Illinois",2,2,0,0,NA,400915091,2016-12-11
+346,2,"1:12",72,72,"Austin Pauga Steal.",74,54,20,0.999999555879051,"Minnesota","Northern Illinois",2,2,0,0,NA,400915091,2016-12-11
+347,2,"1:09",69,69,"Marshawn Wilson made Jumper. Assisted by Austin Pauga.",74,56,18,0.999998274633719,"Minnesota","Northern Illinois",2,2,0,0,NA,400915091,2016-12-11
+348,2,"0:51",51,51,"Ahmad Gilbert made Three Point Jumper. Assisted by Michael Hurt.",77,56,21,0.999999994156594,"Minnesota","Northern Illinois",2,2,0,0,NA,400915091,2016-12-11
+349,2,"0:26",26,26,"Marshawn Wilson missed Three Point Jumper.",77,56,21,0.999999999994373,"Minnesota","Northern Illinois",2,2,0,0,NA,400915091,2016-12-11
+350,2,"0:23",23,23,"Amir Coffey Defensive Rebound.",77,56,21,0.999999999996417,"Minnesota","Northern Illinois",2,2,0,0,NA,400915091,2016-12-11
+351,2,"0:00",0,0,"End of Game",77,56,21,1,"Minnesota","Northern Illinois",2,2,0,0,NA,400915091,2016-12-11

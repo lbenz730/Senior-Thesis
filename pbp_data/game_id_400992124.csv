@@ -1,0 +1,375 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.5,"Green Bay","Rockford University",4,4,0,0,NA,400992124,2017-12-18
+2,1,"19:49",2389,2389,"PJ Pipes Turnover.",0,0,0,0.511793930844357,"Green Bay","Rockford University",4,4,0,0,NA,400992124,2017-12-18
+3,1,"19:48",2388,2388,"Brandon Emerick Steal.",0,0,0,0.511793930844357,"Green Bay","Rockford University",4,4,0,0,NA,400992124,2017-12-18
+4,1,"19:45",2385,2385,"Ben Temrowski made Three Point Jumper. Assisted by Brandon Emerick.",0,3,-3,0.48750886527648,"Green Bay","Rockford University",4,4,0,0,NA,400992124,2017-12-18
+5,1,"19:28",2368,2368,"Khalil Small missed Three Point Jumper.",0,3,-3,0.484425417414485,"Green Bay","Rockford University",4,4,0,0,NA,400992124,2017-12-18
+6,1,"19:28",2368,2368,"Tony Diemer Defensive Rebound.",0,3,-3,0.484425417414485,"Green Bay","Rockford University",4,4,0,0,NA,400992124,2017-12-18
+7,1,"19:07",2347,2347,"Trae Blumhorst missed Jumper.",0,3,-3,0.444830291539119,"Green Bay","Rockford University",4,4,0,0,NA,400992124,2017-12-18
+8,1,"19:07",2347,2347,"Manny Patterson Defensive Rebound.",0,3,-3,0.444830291539119,"Green Bay","Rockford University",4,4,0,0,NA,400992124,2017-12-18
+9,1,"19:00",2340,2340,"Kameron Hankerson missed Three Point Jumper.",0,3,-3,0.444830291539119,"Green Bay","Rockford University",4,4,0,0,NA,400992124,2017-12-18
+10,1,"19:00",2340,2340,"Brandon Emerick Defensive Rebound.",0,3,-3,0.444830291539119,"Green Bay","Rockford University",4,4,0,0,NA,400992124,2017-12-18
+11,1,"18:52",2332,2332,"Brandon Emerick made Jumper.",0,5,-5,0.400907913082031,"Green Bay","Rockford University",4,4,0,0,NA,400992124,2017-12-18
+12,1,"18:32",2312,2312,"David Jesperson missed Three Point Jumper.",0,5,-5,0.386100752365677,"Green Bay","Rockford University",4,4,0,0,NA,400992124,2017-12-18
+13,1,"18:32",2312,2312,"Rockford Defensive Rebound.",0,5,-5,0.386100752365677,"Green Bay","Rockford University",4,4,0,0,NA,400992124,2017-12-18
+14,1,"18:20",2300,2300,"Taylor Krocker made Layup. Assisted by Brandon Emerick.",0,7,-7,0.340638137498119,"Green Bay","Rockford University",4,4,0,0,NA,400992124,2017-12-18
+15,1,"18:17",2297,2297,"Green Bay  Timeout",0,7,-7,0.354731523962116,"Green Bay","Rockford University",3,4,1,0,NA,400992124,2017-12-18
+16,1,"18:11",2291,2291,"PJ Pipes missed Jumper.",0,7,-7,0.354731523962116,"Green Bay","Rockford University",3,4,1,0,NA,400992124,2017-12-18
+17,1,"18:11",2291,2291,"Manny Patterson Offensive Rebound.",0,7,-7,0.354731523962116,"Green Bay","Rockford University",3,4,1,0,NA,400992124,2017-12-18
+18,1,"18:07",2287,2287,"Foul on Taylor Krocker.",0,7,-7,0.332623003459668,"Green Bay","Rockford University",3,4,1,0,NA,400992124,2017-12-18
+19,1,"18:07",2287,2287,"Manny Patterson made Free Throw.",1,7,-6,0.356289604393977,"Green Bay","Rockford University",3,4,1,0,NA,400992124,2017-12-18
+20,1,"18:07",2287,2287,"Manny Patterson made Free Throw.",2,7,-5,0.380679594525955,"Green Bay","Rockford University",3,4,1,0,NA,400992124,2017-12-18
+21,1,"17:54",2274,2274,"Brandon Emerick Turnover.",2,7,-5,0.393144210212496,"Green Bay","Rockford University",3,4,1,0,NA,400992124,2017-12-18
+22,1,"17:52",2272,2272,"Hunter Crist Steal.",2,7,-5,0.393144210212496,"Green Bay","Rockford University",3,4,1,0,NA,400992124,2017-12-18
+23,1,"17:49",2269,2269,"Foul on Brandon Emerick.",2,7,-5,0.368571730582408,"Green Bay","Rockford University",3,4,1,0,NA,400992124,2017-12-18
+24,1,"17:49",2269,2269,"Hunter Crist made Free Throw.",3,7,-4,0.397741010458475,"Green Bay","Rockford University",3,4,1,0,NA,400992124,2017-12-18
+25,1,"17:49",2269,2269,"Hunter Crist made Free Throw.",4,7,-3,0.427655282974081,"Green Bay","Rockford University",3,4,1,0,NA,400992124,2017-12-18
+26,1,"17:44",2264,2264,"Ben Temrowski made Three Point Jumper. Assisted by Tony Diemer.",4,10,-6,0.34033280137431,"Green Bay","Rockford University",3,4,1,0,NA,400992124,2017-12-18
+27,1,"17:37",2257,2257,"Khalil Small missed Jumper.",4,10,-6,0.379051563644493,"Green Bay","Rockford University",3,4,1,0,NA,400992124,2017-12-18
+28,1,"17:37",2257,2257,"Manny Patterson Offensive Rebound.",4,10,-6,0.379051563644493,"Green Bay","Rockford University",3,4,1,0,NA,400992124,2017-12-18
+29,1,"17:31",2251,2251,"Manny Patterson made Layup.",6,10,-4,0.42542156568587,"Green Bay","Rockford University",3,4,1,0,NA,400992124,2017-12-18
+30,1,"17:13",2233,2233,"Foul on Manny Patterson.",6,10,-4,0.40678893398887,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+31,1,"17:09",2229,2229,"Tony Diemer missed Jumper.",6,10,-4,0.41732347992743,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+32,1,"17:09",2229,2229,"Green Bay Defensive Rebound.",6,10,-4,0.41732347992743,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+33,1,"16:50",2210,2210,"Hunter Crist made Jumper.",8,10,-2,0.462268957118807,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+34,1,"16:48",2208,2208,"Foul on Tony Diemer.",8,10,-2,0.463178462166371,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+35,1,"16:48",2208,2208,"Hunter Crist made Free Throw.",9,10,-1,0.491401692155629,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+36,1,"16:45",2205,2205,"Tony Diemer Turnover.",9,10,-1,0.491401692155629,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+37,1,"16:29",2189,2189,"Kameron Hankerson missed Layup.",9,10,-1,0.490851328062098,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+38,1,"16:29",2189,2189,"Taylor Krocker Defensive Rebound.",9,10,-1,0.490851328062098,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+39,1,"16:19",2179,2179,"Taylor Krocker Turnover.",9,10,-1,0.4831544472012,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+40,1,"16:00",2160,2160,"Khalil Small made Jumper.",11,10,1,0.542984542474778,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+41,1,"15:43",2143,2143,"Trae Blumhorst made Layup. Assisted by Taylor Krocker.",11,12,-1,0.49796265494707,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+42,1,"15:36",2136,2136,"Kameron Hankerson missed Layup.",11,12,-1,0.482060298377712,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+43,1,"15:36",2136,2136,"Trae Blumhorst Block.",11,12,-1,0.482060298377712,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+44,1,"15:34",2134,2134,"Tony Diemer Defensive Rebound.",11,12,-1,0.482060298377712,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+45,1,"15:19",2119,2119,"Tony Diemer made Jumper. Assisted by Trae Blumhorst.",11,14,-3,0.419148644162552,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+46,1,"15:04",2104,2104,"Khalil Small missed Three Point Jumper.",11,14,-3,0.427351832271263,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+47,1,"15:04",2104,2104,"Kameron Hankerson Offensive Rebound.",11,14,-3,0.427351832271263,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+48,1,"14:58",2098,2098,"Kameron Hankerson made Dunk.",13,14,-1,0.481724420078486,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+49,1,"14:47",2087,2087,"Brandon Emerick Turnover.",13,14,-1,0.495172584026204,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+50,1,"14:45",2085,2085,"Hunter Crist Steal.",13,14,-1,0.495172584026204,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+51,1,"14:44",2084,2084,"Hunter Crist made Layup.",15,14,1,0.549971963938746,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+52,1,"14:24",2064,2064,"Taylor Krocker made Jumper.",15,16,-1,0.474170369351743,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+53,1,"14:15",2055,2055,"Hunter Crist made Jumper.",17,16,1,0.53060594522532,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+54,1,"14:07",2047,2047,"Tony Diemer Turnover.",17,16,1,0.52766773758448,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+55,1,"14:07",2047,2047,"Official TV Timeout",17,16,1,0.52766773758448,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+56,1,"13:59",2039,2039,"Kameron Hankerson made Three Point Jumper. Assisted by PJ Pipes.",20,16,4,0.628784761810913,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+57,1,"13:42",2022,2022,"Foul on Hunter Crist.",20,16,4,0.634050099415106,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+58,1,"13:27",2007,2007,"Will Adams Turnover.",20,16,4,0.616802387732139,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+59,1,"13:26",2006,2006,"Trevian Bell Steal.",20,16,4,0.616802387732139,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+60,1,"13:22",2002,2002,"Foul on Will Adams.",20,16,4,0.616802387732139,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+61,1,"13:22",2002,2002,"PJ Pipes missed Free Throw.",20,16,4,0.616802387732139,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+62,1,"13:22",2002,2002,"Green Bay Deadball Team Rebound.",20,16,4,0.616802387732139,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+63,1,"13:22",2002,2002,"PJ Pipes made Free Throw.",21,16,5,0.642526969986873,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+64,1,"12:43",1963,1963,"PJ Pipes made Three Point Jumper. Assisted by Kameron Hankerson.",24,16,8,0.709484436519777,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+65,1,"12:38",1958,1958,"Brandon Emerick Turnover.",24,16,8,0.749209926318233,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+66,1,"12:37",1957,1957,"Hunter Crist Steal.",24,16,8,0.749209926318233,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+67,1,"12:34",1954,1954,"Hunter Crist missed Layup.",24,16,8,0.749209926318233,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+68,1,"12:34",1954,1954,"Brandon Emerick Defensive Rebound.",24,16,8,0.749209926318233,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+69,1,"12:26",1946,1946,"Tony Diemer missed Three Point Jumper.",24,16,8,0.741672143807706,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+70,1,"12:26",1946,1946,"PJ Pipes Defensive Rebound.",24,16,8,0.741672143807706,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+71,1,"12:18",1938,1938,"Trevian Bell missed Layup.",24,16,8,0.740259253365224,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+72,1,"12:18",1938,1938,"Trae Blumhorst Block.",24,16,8,0.740259253365224,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+73,1,"12:16",1936,1936,"Kevin Diemer Defensive Rebound.",24,16,8,0.740259253365224,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+74,1,"12:04",1924,1924,"Foul on Sukhjot Bains.",24,16,8,0.731828960755733,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+75,1,"12:01",1921,1921,"Trae Blumhorst made Layup.",24,18,6,0.679625497993765,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+76,1,"11:44",1904,1904,"Khalil Small made Jumper. Assisted by Kameron Hankerson.",26,18,8,0.72544474617462,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+77,1,"11:37",1897,1897,"Kevin Diemer Turnover.",26,18,8,0.762110169316946,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+78,1,"11:35",1895,1895,"Khalil Small Steal.",26,18,8,0.762110169316946,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+79,1,"11:33",1893,1893,"PJ Pipes made Layup. Assisted by Khalil Small.",28,18,10,0.807377298315628,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+80,1,"11:28",1888,1888,"Foul on Kevin Diemer.",28,18,10,0.77739897448655,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+81,1,"11:28",1888,1888,"Official TV Timeout",28,18,10,0.77739897448655,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+82,1,"11:28",1888,1888,"PJ Pipes missed Free Throw.",28,18,10,0.77739897448655,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+83,1,"11:28",1888,1888,"PJ Pipes made Free Throw.",29,18,11,0.798071450139064,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+84,1,"11:12",1872,1872,"Tony Diemer missed Jumper.",29,18,11,0.803337013811735,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+85,1,"11:12",1872,1872,"PJ Pipes Defensive Rebound.",29,18,11,0.803337013811735,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+86,1,"10:58",1858,1858,"David Jesperson missed Jumper.",29,18,11,0.816223256013751,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+87,1,"10:58",1858,1858,"Brandon Emerick Defensive Rebound.",29,18,11,0.816223256013751,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+88,1,"10:51",1851,1851,"Will Adams made Layup. Assisted by Brandon Emerick.",29,20,9,0.77469063949153,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+89,1,"10:46",1846,1846,"Green Bay  Timeout",29,20,9,0.747504622327512,"Green Bay","Rockford University",2,4,1,0,NA,400992124,2017-12-18
+90,1,"10:36",1836,1836,"Khalil Small made Layup. Assisted by Sukhjot Bains.",31,20,11,0.813524676103591,"Green Bay","Rockford University",2,4,1,0,NA,400992124,2017-12-18
+91,1,"10:32",1832,1832,"Foul on Trae Blumhorst.",31,20,11,0.813524676103591,"Green Bay","Rockford University",2,4,1,0,NA,400992124,2017-12-18
+92,1,"10:32",1832,1832,"Khalil Small missed Free Throw.",31,20,11,0.813524676103591,"Green Bay","Rockford University",2,4,1,0,NA,400992124,2017-12-18
+93,1,"10:32",1832,1832,"Tony Diemer Defensive Rebound.",31,20,11,0.813524676103591,"Green Bay","Rockford University",2,4,1,0,NA,400992124,2017-12-18
+94,1,"10:32",1832,1832,"Foul on Sukhjot Bains.",31,20,11,0.813524676103591,"Green Bay","Rockford University",2,4,1,0,NA,400992124,2017-12-18
+95,1,"10:32",1832,1832,"Kevin Diemer Turnover.",31,20,11,0.813524676103591,"Green Bay","Rockford University",2,4,1,0,NA,400992124,2017-12-18
+96,1,"10:22",1822,1822,"David Jesperson made Jumper. Assisted by T.J. Parham.",33,20,13,0.844763330635779,"Green Bay","Rockford University",2,4,1,0,NA,400992124,2017-12-18
+97,1,"10:03",1803,1803,"Tony Diemer made Jumper. Assisted by Trae Blumhorst.",33,22,11,0.809007402557143,"Green Bay","Rockford University",2,4,1,0,NA,400992124,2017-12-18
+98,1,"9:49",1789,1789,"PJ Pipes made Three Point Jumper. Assisted by T.J. Parham.",36,22,14,0.872094282114309,"Green Bay","Rockford University",2,4,1,0,NA,400992124,2017-12-18
+99,1,"9:29",1769,1769,"Foul on Khalil Small.",36,22,14,0.866741203412493,"Green Bay","Rockford University",2,4,0,0,NA,400992124,2017-12-18
+100,1,"9:24",1764,1764,"Will Adams missed Jumper.",36,22,14,0.866741203412493,"Green Bay","Rockford University",2,4,0,0,NA,400992124,2017-12-18
+101,1,"9:24",1764,1764,"David Jesperson Defensive Rebound.",36,22,14,0.866741203412493,"Green Bay","Rockford University",2,4,0,0,NA,400992124,2017-12-18
+102,1,"9:13",1753,1753,"Khalil Small Turnover.",36,22,14,0.868784412861122,"Green Bay","Rockford University",2,4,0,0,NA,400992124,2017-12-18
+103,1,"9:11",1751,1751,"Kevin Diemer Steal.",36,22,14,0.868784412861122,"Green Bay","Rockford University",2,4,0,0,NA,400992124,2017-12-18
+104,1,"9:10",1750,1750,"Brandon Emerick made Layup. Assisted by Kevin Diemer.",36,24,12,0.833411499251282,"Green Bay","Rockford University",2,4,0,0,NA,400992124,2017-12-18
+105,1,"8:54",1734,1734,"Khalil Small made Three Point Jumper. Assisted by Sukhjot Bains.",39,24,15,0.891068551221225,"Green Bay","Rockford University",2,4,0,0,NA,400992124,2017-12-18
+106,1,"8:40",1720,1720,"Will Adams Turnover.",39,24,15,0.895779852353788,"Green Bay","Rockford University",2,4,0,0,NA,400992124,2017-12-18
+107,1,"8:38",1718,1718,"Sukhjot Bains Steal.",39,24,15,0.886552473491832,"Green Bay","Rockford University",2,4,0,0,NA,400992124,2017-12-18
+108,1,"8:10",1690,1690,"Foul on Trae Blumhorst.",39,24,15,0.903577444966768,"Green Bay","Rockford University",2,4,0,1,NA,400992124,2017-12-18
+109,1,"8:10",1690,1690,"Khalil Small made Free Throw.",40,24,16,0.915314554215326,"Green Bay","Rockford University",2,4,0,1,NA,400992124,2017-12-18
+110,1,"8:10",1690,1690,"Khalil Small made Free Throw.",41,24,17,0.925740371883036,"Green Bay","Rockford University",2,4,0,1,NA,400992124,2017-12-18
+111,1,"8:10",1690,1690,"Foul on T.J. Parham.",41,24,17,0.925740371883036,"Green Bay","Rockford University",2,4,0,1,NA,400992124,2017-12-18
+112,1,"8:10",1690,1690,"Rockford  Timeout",41,24,17,0.925740371883036,"Green Bay","Rockford University",2,3,0,1,NA,400992124,2017-12-18
+113,1,"8:06",1686,1686,"Ben Temrowski missed Three Point Jumper.",41,24,17,0.925194930916226,"Green Bay","Rockford University",2,3,0,1,NA,400992124,2017-12-18
+114,1,"8:06",1686,1686,"T.J. Parham Defensive Rebound.",41,24,17,0.925194930916226,"Green Bay","Rockford University",2,3,0,1,NA,400992124,2017-12-18
+115,1,"7:54",1674,1674,"T.J. Parham missed Three Point Jumper.",41,24,17,0.91810026450262,"Green Bay","Rockford University",2,3,0,1,NA,400992124,2017-12-18
+116,1,"7:54",1674,1674,"Taylor Krocker Defensive Rebound.",41,24,17,0.91810026450262,"Green Bay","Rockford University",2,3,0,1,NA,400992124,2017-12-18
+117,1,"7:37",1657,1657,"Trae Blumhorst Turnover.",41,24,17,0.911879980410386,"Green Bay","Rockford University",2,3,0,1,NA,400992124,2017-12-18
+118,1,"7:35",1655,1655,"T.J. Parham Steal.",41,24,17,0.911879980410386,"Green Bay","Rockford University",2,3,0,1,NA,400992124,2017-12-18
+119,1,"7:31",1651,1651,"David Jesperson missed Layup.",41,24,17,0.911879980410386,"Green Bay","Rockford University",2,3,0,1,NA,400992124,2017-12-18
+120,1,"7:31",1651,1651,"Trae Blumhorst Defensive Rebound.",41,24,17,0.911879980410386,"Green Bay","Rockford University",2,3,0,1,NA,400992124,2017-12-18
+121,1,"7:25",1645,1645,"Brandon Emerick made Three Point Jumper.",41,27,14,0.883969991917189,"Green Bay","Rockford University",2,3,0,1,NA,400992124,2017-12-18
+122,1,"6:54",1614,1614,"Hunter Crist missed Three Point Jumper.",41,27,14,0.876718366469146,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+123,1,"6:54",1614,1614,"T.J. Parham Offensive Rebound.",41,27,14,0.876718366469146,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+124,1,"6:49",1609,1609,"T.J. Parham made Layup.",43,27,16,0.892341238079914,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+125,1,"6:24",1584,1584,"Taylor Krocker missed Jumper.",43,27,16,0.896526808242528,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+126,1,"6:24",1584,1584,"T.J. Parham Defensive Rebound.",43,27,16,0.896526808242528,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+127,1,"6:08",1568,1568,"Manny Patterson Turnover.",43,27,16,0.906709945938918,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+128,1,"6:06",1566,1566,"Taylor Krocker Steal.",43,27,16,0.906709945938918,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+129,1,"5:38",1538,1538,"Brandon Emerick missed Three Point Jumper.",43,27,16,0.908462136742142,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+130,1,"5:38",1538,1538,"Tony Diemer Offensive Rebound.",43,27,16,0.908462136742142,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+131,1,"5:30",1530,1530,"Taylor Krocker made Layup. Assisted by Trae Blumhorst.",43,29,14,0.882459969887129,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+132,1,"5:15",1515,1515,"Hunter Crist Turnover.",43,29,14,0.905169643994176,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+133,1,"5:14",1514,1514,"Brandon Emerick Steal.",43,29,14,0.905169643994176,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+134,1,"5:12",1512,1512,"Foul on Hunter Crist.",43,29,14,0.905169643994176,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+135,1,"5:12",1512,1512,"Brandon Emerick made Free Throw.",43,30,13,0.891249213885733,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+136,1,"5:12",1512,1512,"Brandon Emerick made Free Throw.",43,31,12,0.875566271686897,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+137,1,"5:01",1501,1501,"Kameron Hankerson missed Three Point Jumper.",43,31,12,0.852784330856217,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+138,1,"5:01",1501,1501,"Khalil Small Offensive Rebound.",43,31,12,0.852784330856217,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+139,1,"4:47",1487,1487,"Will Chevalier made Layup. Assisted by PJ Pipes.",45,31,14,0.892130398261017,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+140,1,"4:40",1480,1480,"Foul on PJ Pipes.",45,31,14,0.892130398261017,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+141,1,"4:40",1480,1480,"Trae Blumhorst made Free Throw.",45,32,13,0.876808770622375,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+142,1,"4:40",1480,1480,"Trae Blumhorst made Free Throw.",45,33,12,0.859653244606624,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+143,1,"4:33",1473,1473,"Kameron Hankerson Turnover.",45,33,12,0.86579245581731,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+144,1,"4:22",1462,1462,"Tony Diemer missed Jumper.",45,33,12,0.856987829097681,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+145,1,"4:22",1462,1462,"Khalil Small Defensive Rebound.",45,33,12,0.856987829097681,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+146,1,"4:13",1453,1453,"Will Chevalier missed Three Point Jumper.",45,33,12,0.854319876711415,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+147,1,"4:13",1453,1453,"Trae Blumhorst Defensive Rebound.",45,33,12,0.854319876711415,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+148,1,"4:03",1443,1443,"Ben Temrowski missed Three Point Jumper.",45,33,12,0.878375561317907,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+149,1,"4:03",1443,1443,"Kameron Hankerson Defensive Rebound.",45,33,12,0.878375561317907,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+150,1,"3:57",1437,1437,"Khalil Small missed Jumper.",45,33,12,0.869637706583306,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+151,1,"3:56",1436,1436,"PJ Pipes Offensive Rebound.",45,33,12,0.869637706583306,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+152,1,"3:55",1435,1435,"Khalil Small made Jumper.",47,33,14,0.899887035813748,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+153,1,"3:35",1415,1415,"Taylor Krocker missed Jumper.",47,33,14,0.901470128890359,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+154,1,"3:35",1415,1415,"Kameron Hankerson Defensive Rebound.",47,33,14,0.901470128890359,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+155,1,"3:26",1406,1406,"PJ Pipes made Jumper. Assisted by Khalil Small.",49,33,16,0.930313052171983,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+156,1,"3:10",1390,1390,"Tony Diemer Turnover.",49,33,16,0.921943407619671,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+157,1,"3:10",1390,1390,"Official TV Timeout",49,33,16,0.921943407619671,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+158,1,"3:00",1380,1380,"Trevian Bell made Jumper. Assisted by Khalil Small.",51,33,18,0.942041697174404,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+159,1,"2:36",1356,1356,"Brandon Emerick made Layup. Assisted by Taylor Krocker.",51,35,16,0.929910874838771,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+160,1,"2:22",1342,1342,"Khalil Small made Jumper. Assisted by PJ Pipes.",53,35,18,0.946835804564358,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+161,1,"2:08",1328,1328,"Trae Blumhorst Turnover.",53,35,18,0.947161084708478,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+162,1,"1:48",1308,1308,"Khalil Small made Three Point Jumper. Assisted by PJ Pipes.",56,35,21,0.95985028543965,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+163,1,"1:39",1299,1299,"Foul on PJ Pipes.",56,35,21,0.975327254953684,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+164,1,"1:39",1299,1299,"Tony Diemer missed Free Throw.",56,35,21,0.975327254953684,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+165,1,"1:39",1299,1299,"Trevian Bell Defensive Rebound.",56,35,21,0.975327254953684,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+166,1,"1:23",1283,1283,"Khalil Small made Three Point Jumper. Assisted by Kameron Hankerson.",59,35,24,0.974420320725997,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+167,1,"1:04",1264,1264,"Trae Blumhorst made Layup.",59,37,22,0.973367522914473,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+168,1,"1:03",1263,1263,"Foul on Kameron Hankerson.",59,37,22,0.973367522914473,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+169,1,"1:03",1263,1263,"Trae Blumhorst made Free Throw.",59,38,21,0.968944683033334,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+170,1,"0:53",1253,1253,"PJ Pipes missed Three Point Jumper.",59,38,21,0.962268150632594,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+171,1,"0:53",1253,1253,"Khalil Small Offensive Rebound.",59,38,21,0.962268150632594,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+172,1,"0:47",1247,1247,"Foul on Tony Diemer.",59,38,21,0.964438052673281,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+173,1,"0:47",1247,1247,"Khalil Small missed Free Throw.",59,38,21,0.964438052673281,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+174,1,"0:47",1247,1247,"Green Bay Deadball Team Rebound.",59,38,21,0.964438052673281,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+175,1,"0:47",1247,1247,"Khalil Small missed Free Throw.",59,38,21,0.964438052673281,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+176,1,"0:47",1247,1247,"Tony Diemer Defensive Rebound.",59,38,21,0.964438052673281,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+177,1,"0:29",1229,1229,"Ben Temrowski made Three Point Jumper. Assisted by Tony Diemer.",59,41,18,0.957637417954707,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+178,1,"0:06",1206,1206,"Will Chevalier Turnover.",59,41,18,0.948631234460828,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+179,1,"0:02",1202,1202,"Brandon Emerick missed Three Point Jumper.",59,41,18,0.948631234460828,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+180,1,"0:02",1202,1202,"Khalil Small Defensive Rebound.",59,41,18,0.948631234460828,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+181,1,"0:00",1200,1200,"End of 1st half",59,41,18,0.948631234460828,"Green Bay","Rockford University",2,3,0,0,NA,400992124,2017-12-18
+182,2,"20:00",1200,1200,"PLAY",59,41,18,0.948631234460828,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+183,2,"19:48",1188,1188,"Tony Diemer Turnover.",59,41,18,0.953741027376803,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+184,2,"19:46",1186,1186,"Manny Patterson Steal.",59,41,18,0.953741027376803,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+185,2,"19:43",1183,1183,"Kameron Hankerson made Layup. Assisted by PJ Pipes.",61,41,20,0.966340713172951,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+186,2,"19:25",1165,1165,"Tony Diemer Turnover.",61,41,20,0.963169791866717,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+187,2,"19:24",1164,1164,"Manny Patterson Steal.",61,41,20,0.963169791866717,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+188,2,"19:19",1159,1159,"Kameron Hankerson made Layup.",63,41,22,0.974276985726539,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+189,2,"19:18",1158,1158,"Foul on Tony Diemer.",63,41,22,0.974276985726539,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+190,2,"19:18",1158,1158,"Kameron Hankerson made Free Throw.",64,41,23,0.97803434204346,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+191,2,"18:58",1138,1138,"Taylor Krocker missed Three Point Jumper.",64,41,23,0.978506199567261,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+192,2,"18:58",1138,1138,"Tony Diemer Offensive Rebound.",64,41,23,0.978506199567261,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+193,2,"18:47",1127,1127,"Trae Blumhorst Turnover.",64,41,23,0.98679132244266,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+194,2,"18:45",1125,1125,"PJ Pipes Steal.",64,41,23,0.98679132244266,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+195,2,"18:42",1122,1122,"Khalil Small missed Three Point Jumper.",64,41,23,0.98679132244266,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+196,2,"18:42",1122,1122,"Taylor Krocker Defensive Rebound.",64,41,23,0.98679132244266,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+197,2,"18:32",1112,1112,"Ben Temrowski missed Three Point Jumper.",64,41,23,0.983177376809931,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+198,2,"18:32",1112,1112,"Khalil Small Defensive Rebound.",64,41,23,0.983177376809931,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+199,2,"18:21",1101,1101,"Foul on Taylor Krocker.",64,41,23,0.978435642657271,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+200,2,"18:21",1101,1101,"Kameron Hankerson made Free Throw.",65,41,24,0.981633343513362,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+201,2,"18:21",1101,1101,"Kameron Hankerson missed Free Throw.",65,41,24,0.981633343513362,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+202,2,"18:21",1101,1101,"Tony Diemer Defensive Rebound.",65,41,24,0.981633343513362,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+203,2,"18:13",1093,1093,"Foul on Kameron Hankerson.",65,41,24,0.985275855578408,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+204,2,"18:00",1080,1080,"Tony Diemer Turnover.",65,41,24,0.986348963716801,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+205,2,"17:59",1079,1079,"Kameron Hankerson Steal.",65,41,24,0.984535777213894,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+206,2,"17:57",1077,1077,"David Jesperson made Layup. Assisted by Kameron Hankerson.",67,41,26,0.988909048898983,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+207,2,"17:36",1056,1056,"Trae Blumhorst missed Jumper.",67,41,26,0.99164127072039,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+208,2,"17:36",1056,1056,"Kameron Hankerson Block.",67,41,26,0.99164127072039,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+209,2,"17:33",1053,1053,"Rockford Offensive Rebound.",67,41,26,0.99164127072039,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+210,2,"17:30",1050,1050,"Kevin Diemer Turnover.",67,41,26,0.99164127072039,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+211,2,"17:30",1050,1050,"PJ Pipes Steal.",67,41,26,0.99164127072039,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+212,2,"17:17",1037,1037,"Khalil Small missed Jumper.",67,41,26,0.988886697895657,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+213,2,"17:17",1037,1037,"Kameron Hankerson Offensive Rebound.",67,41,26,0.988886697895657,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+214,2,"17:11",1031,1031,"David Jesperson missed Jumper.",67,41,26,0.988886697895657,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+215,2,"17:11",1031,1031,"Taylor Krocker Defensive Rebound.",67,41,26,0.988886697895657,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+216,2,"16:54",1014,1014,"Brandon Emerick missed Jumper.",67,41,26,0.991046497087619,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+217,2,"16:54",1014,1014,"Manny Patterson Defensive Rebound.",67,41,26,0.991046497087619,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+218,2,"16:48",1008,1008,"PJ Pipes made Jumper.",69,41,28,0.994577447202473,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+219,2,"16:15",975,975,"Brandon Emerick missed Three Point Jumper.",69,41,28,0.994123242761248,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+220,2,"16:15",975,975,"Manny Patterson Defensive Rebound.",69,41,28,0.994123242761248,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+221,2,"16:06",966,966,"Khalil Small missed Jumper.",69,41,28,0.994674233675412,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+222,2,"16:06",966,966,"Rockford Defensive Rebound.",69,41,28,0.994674233675412,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+223,2,"15:58",958,958,"Kameron Hankerson Turnover.",69,41,28,0.995268078972677,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+224,2,"15:57",957,957,"Kevin Diemer Steal.",69,41,28,0.995268078972677,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+225,2,"15:54",954,954,"Foul on Hunter Crist.",69,41,28,0.995268078972677,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+226,2,"15:54",954,954,"Official TV Timeout",69,41,28,0.995268078972677,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+227,2,"15:54",954,954,"Brandon Emerick made Free Throw.",69,42,27,0.994276583200423,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+228,2,"15:54",954,954,"Brandon Emerick missed Free Throw.",69,42,27,0.994276583200423,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+229,2,"15:54",954,954,"Khalil Small Defensive Rebound.",69,42,27,0.994276583200423,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+230,2,"15:33",933,933,"Khalil Small missed Layup.",69,42,27,0.994631719008346,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+231,2,"15:33",933,933,"Khalil Small Offensive Rebound.",69,42,27,0.994631719008346,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+232,2,"15:29",929,929,"Khalil Small made Layup.",71,42,29,0.996221457222322,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+233,2,"15:23",923,923,"Foul on Khalil Small.",71,42,29,0.996221457222322,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+234,2,"15:15",915,915,"Ben Temrowski made Three Point Jumper. Assisted by Kevin Diemer.",71,45,26,0.994104310958555,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+235,2,"15:04",904,904,"Hunter Crist made Jumper.",73,45,28,0.995561751351466,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+236,2,"14:42",882,882,"Kevin Diemer made Jumper. Assisted by Trae Blumhorst.",73,47,26,0.98954947679221,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+237,2,"14:17",857,857,"Foul on Taylor Krocker.",73,47,26,0.99574888597695,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+238,2,"14:17",857,857,"Manny Patterson made Free Throw.",74,47,27,0.996534529222601,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+239,2,"14:17",857,857,"Manny Patterson made Free Throw.",75,47,28,0.997175390555988,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+240,2,"14:12",852,852,"Taylor Krocker made Layup.",75,49,26,0.99574888597695,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+241,2,"13:53",833,833,"Khalil Small missed Jumper.",75,49,26,0.995522095407912,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+242,2,"13:53",833,833,"Green Bay Offensive Rebound.",75,49,26,0.995522095407912,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+243,2,"13:33",813,813,"Daniel Rosenstiel Turnover.",75,49,26,0.993781027793856,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+244,2,"13:31",811,811,"T.J. Parham Steal.",75,49,26,0.993781027793856,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+245,2,"13:21",801,801,"David Jesperson missed Jumper.",75,49,26,0.995508062041323,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+246,2,"12:56",776,776,"Foul on Nicolas Ramos.",75,49,26,0.996022587926471,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+247,2,"12:53",773,773,"Khalil Small made Three Point Jumper. Assisted by PJ Pipes.",78,49,29,0.997878655224802,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+248,2,"12:53",773,773,"Foul on Hunter Crist.",78,49,29,0.997878655224802,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+249,2,"12:51",771,771,"Trae Blumhorst missed Layup.",78,49,29,0.997878655224802,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+250,2,"12:51",771,771,"Khalil Small Defensive Rebound.",78,49,29,0.997878655224802,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+251,2,"12:43",763,763,"PJ Pipes Turnover.",78,49,29,0.998315124397878,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+252,2,"12:42",762,762,"Ben Temrowski Steal.",78,49,29,0.998315124397878,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+253,2,"12:33",753,753,"Ben Temrowski Turnover.",78,49,29,0.998240047948464,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+254,2,"12:31",751,751,"PJ Pipes Steal.",78,49,29,0.998240047948464,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+255,2,"12:29",749,749,"Khalil Small made Three Point Jumper.",81,49,32,0.999211075669079,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+256,2,"12:14",734,734,"Will Adams missed Jumper.",81,49,32,0.998996807582454,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+257,2,"12:14",734,734,"Sukhjot Bains Defensive Rebound.",81,49,32,0.998996807582454,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+258,2,"12:01",721,721,"Khalil Small missed Three Point Jumper.",81,49,32,0.999246110193277,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+259,2,"12:01",721,721,"Rockford Defensive Rebound.",81,49,32,0.999246110193277,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+260,2,"11:44",704,704,"Taylor Krocker missed Jumper.",81,49,32,0.999019624647877,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+261,2,"11:44",704,704,"Trae Blumhorst Offensive Rebound.",81,49,32,0.999019624647877,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+262,2,"11:41",701,701,"Taylor Krocker missed Jumper.",81,49,32,0.999019624647877,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+263,2,"11:41",701,701,"T.J. Parham Defensive Rebound.",81,49,32,0.999019624647877,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+264,2,"11:31",691,691,"Kameron Hankerson made Three Point Jumper. Assisted by T.J. Parham.",84,49,35,0.999767577908666,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+265,2,"11:30",690,690,"Foul on Hunter Crist.",84,49,35,0.999767577908666,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+266,2,"11:26",686,686,"Official TV Timeout",84,49,35,0.999608141203138,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+267,2,"11:13",673,673,"Foul on T.J. Parham.",84,49,35,0.999712810637889,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+268,2,"10:53",653,653,"Nicolas Ramos made Jumper.",84,51,33,0.999654722206777,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+269,2,"10:35",635,635,"PJ Pipes Turnover.",84,51,33,0.9996115938616,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+270,2,"10:33",633,633,"Talon Hardin Steal.",84,51,33,0.9996115938616,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+271,2,"10:31",631,631,"Talon Hardin Turnover.",84,51,33,0.9996115938616,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+272,2,"10:30",630,630,"PJ Pipes Steal.",84,51,33,0.9996115938616,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+273,2,"10:27",627,627,"PJ Pipes missed Layup.",84,51,33,0.999762256163226,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+274,2,"10:27",627,627,"Taylor Krocker Defensive Rebound.",84,51,33,0.999762256163226,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+275,2,"10:20",620,620,"Talon Hardin Turnover.",84,51,33,0.999762256163226,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+276,2,"10:18",618,618,"Kameron Hankerson Steal.",84,51,33,0.999748634087067,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+277,2,"10:16",616,616,"PJ Pipes missed Three Point Jumper.",84,51,33,0.999748634087067,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+278,2,"10:16",616,616,"Sukhjot Bains Offensive Rebound.",84,51,33,0.999748634087067,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+279,2,"10:11",611,611,"Trevian Bell made Layup. Assisted by PJ Pipes.",86,51,35,0.999847797668772,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+280,2,"9:51",591,591,"Trae Blumhorst made Free Throw.",86,52,34,0.999729420498385,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+281,2,"9:51",591,591,"Trae Blumhorst made Free Throw.",86,53,33,0.999656163381355,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+282,2,"9:42",582,582,"Foul on Andrew Squires.",86,53,33,0.99967563906727,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+283,2,"9:40",580,580,"Foul on Sukhjot Bains.",86,53,33,0.99967563906727,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+284,2,"9:38",578,578,"Trevian Bell made Dunk. Assisted by PJ Pipes.",88,53,35,0.999880822040734,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+285,2,"9:15",555,555,"Taylor Krocker Turnover.",88,53,35,0.999891673035884,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+286,2,"9:13",553,553,"Kameron Hankerson Steal.",88,53,35,0.999891673035884,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+287,2,"9:11",551,551,"Trevian Bell missed Layup.",88,53,35,0.999891673035884,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+288,2,"9:11",551,551,"Sukhjot Bains Offensive Rebound.",88,53,35,0.999891673035884,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+289,2,"9:07",547,547,"Sukhjot Bains missed Layup.",88,53,35,0.999915132181784,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+290,2,"9:07",547,547,"Green Bay Offensive Rebound.",88,53,35,0.999915132181784,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+291,2,"8:49",529,529,"Trevian Bell Turnover.",88,53,35,0.999936169893955,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+292,2,"8:47",527,527,"Ryan Fiorucci Steal.",88,53,35,0.999936169893955,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+293,2,"8:44",524,524,"Ryan Fiorucci Turnover.",88,53,35,0.999936169893955,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+294,2,"8:44",524,524,"Foul on Ryan Fiorucci.",88,53,35,0.999936169893955,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+295,2,"8:44",524,524,"Technical Foul on Ryan Fiorucci.",88,53,35,0.999936169893955,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+296,2,"8:44",524,524,"PJ Pipes made Free Throw.",89,53,36,0.999951386515784,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+297,2,"8:44",524,524,"PJ Pipes made Free Throw.",90,53,37,0.999962975742629,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+298,2,"8:35",515,515,"Will Chevalier missed Three Point Jumper.",90,53,37,0.999957599839053,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+299,2,"8:35",515,515,"T.J. Parham Offensive Rebound.",90,53,37,0.999957599839053,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+300,2,"8:30",510,510,"T.J. Parham missed Layup.",90,53,37,0.999957599839053,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+301,2,"8:30",510,510,"T.J. Parham Offensive Rebound.",90,53,37,0.999957599839053,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+302,2,"8:25",505,505,"T.J. Parham made Layup.",92,53,39,0.999977903901963,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+303,2,"8:12",492,492,"Ajibola Oke-Diran Turnover.",92,53,39,0.999979277554651,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+304,2,"7:59",479,479,"Will Chevalier Turnover.",92,53,39,0.999988793619128,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+305,2,"7:57",477,477,"Talon Hardin Steal.",92,53,39,0.999988793619128,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+306,2,"7:55",475,475,"Talon Hardin made Layup.",92,55,37,0.99997994313833,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+307,2,"7:38",458,458,"Will Chevalier made Three Point Jumper. Assisted by Trevian Bell.",95,55,40,0.999997007952491,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+308,2,"7:24",444,444,"Official TV Timeout",95,55,40,0.999985354340255,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+309,2,"7:07",427,427,"Ryan Fiorucci made Three Point Jumper. Assisted by Andrew Squires.",95,58,37,0.999983427819824,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+310,2,"6:51",411,411,"T.J. Parham missed Jumper.",95,58,37,0.999986102557368,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+311,2,"6:51",411,411,"Ryan Fiorucci Defensive Rebound.",95,58,37,0.999986102557368,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+312,2,"6:38",398,398,"Andrew Squires missed Three Point Jumper.",95,58,37,0.999991448072903,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+313,2,"6:38",398,398,"T.J. Parham Defensive Rebound.",95,58,37,0.999991448072903,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+314,2,"6:29",389,389,"PJ Pipes Turnover.",95,58,37,0.999984314471444,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+315,2,"6:21",381,381,"Ryan Fiorucci missed Three Point Jumper.",95,58,37,0.999984314471444,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+316,2,"6:21",381,381,"Green Bay Defensive Rebound.",95,58,37,0.999984314471444,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+317,2,"6:19",379,379,"Foul on Ajibola Oke-Diran.",95,58,37,0.999989414316453,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+318,2,"6:19",379,379,"T.J. Parham made Free Throw.",96,58,38,0.999992233339338,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+319,2,"6:19",379,379,"T.J. Parham made Free Throw.",97,58,39,0.999994301645966,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+320,2,"6:04",364,364,"PJ Pipes Turnover.",97,58,39,0.99999682273722,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+321,2,"5:54",354,354,"PJ Pipes Turnover.",97,58,39,0.99999807164454,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+322,2,"5:50",350,350,"Ryan Fiorucci made Three Point Jumper. Assisted by Andrew Squires.",97,61,36,0.999994647964573,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+323,2,"5:35",335,335,"Will Chevalier missed Three Point Jumper.",97,61,36,0.999997444779661,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+324,2,"5:35",335,335,"Ryan Fiorucci Defensive Rebound.",97,61,36,0.999997444779661,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+325,2,"5:25",325,325,"Talon Hardin Turnover.",97,61,36,0.999987442965675,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+326,2,"5:16",316,316,"Trevian Bell made Jumper.",99,61,38,0.999999186246196,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+327,2,"4:47",287,287,"Ryan Fiorucci missed Three Point Jumper.",99,61,38,0.999998502490234,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+328,2,"4:47",287,287,"Talon Hardin Offensive Rebound.",99,61,38,0.999998502490234,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+329,2,"4:35",275,275,"Ryan Fiorucci Turnover.",99,61,38,0.999999596798204,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+330,2,"4:34",274,274,"T.J. Parham Steal.",99,61,38,0.999999596798204,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+331,2,"4:31",271,271,"Will Chevalier Turnover.",99,61,38,0.999999596798204,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+332,2,"4:23",263,263,"Talon Hardin missed Three Point Jumper.",99,61,38,0.999999356067337,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+333,2,"4:23",263,263,"T.J. Parham Defensive Rebound.",99,61,38,0.999999356067337,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+334,2,"4:09",249,249,"T.J. Parham missed Three Point Jumper.",99,61,38,0.999999796393895,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+335,2,"4:09",249,249,"Jacob Hilliker Defensive Rebound.",99,61,38,0.999999796393895,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+336,2,"3:39",219,219,"Sawyer Myers missed Three Point Jumper.",99,61,38,0.99999994393384,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+337,2,"3:39",219,219,"Trevian Bell Defensive Rebound.",99,61,38,0.99999994393384,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+338,2,"3:22",202,202,"Trevian Bell missed Layup.",99,61,38,0.999999968931784,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+339,2,"3:22",202,202,"Manny Patterson Offensive Rebound.",99,61,38,0.999999968931784,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+340,2,"3:22",202,202,"Foul on Andrew Squires.",99,61,38,0.999999968931784,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+341,2,"3:22",202,202,"Official TV Timeout",99,61,38,0.999999968931784,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+342,2,"3:22",202,202,"Manny Patterson missed Free Throw.",99,61,38,0.999999968931784,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+343,2,"3:22",202,202,"Green Bay Deadball Team Rebound.",99,61,38,0.999999968931784,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+344,2,"3:22",202,202,"Manny Patterson made Free Throw.",100,61,39,0.999999980230295,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+345,2,"3:11",191,191,"Josh Carrasquillo made Three Point Jumper. Assisted by Jacob Siewert.",100,64,36,0.999999953544432,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+346,2,"2:56",176,176,"T.J. Parham made Three Point Jumper. Assisted by Tyrone Powell.",103,64,39,0.999999996006611,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+347,2,"2:42",162,162,"Damon Hofmann missed Three Point Jumper.",103,64,39,0.999999998205702,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+348,2,"2:42",162,162,"Manny Patterson Defensive Rebound.",103,64,39,0.999999998205702,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+349,2,"2:31",151,151,"Tyrone Powell missed Three Point Jumper.",103,64,39,0.99999999936912,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+350,2,"2:31",151,151,"Damon Hofmann Defensive Rebound.",103,64,39,0.99999999936912,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+351,2,"2:15",135,135,"Sawyer Myers missed Jumper.",103,64,39,0.999999999584329,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+352,2,"2:15",135,135,"Manny Patterson Block.",103,64,39,0.999999999584329,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+353,2,"2:13",133,133,"Tyrone Powell Defensive Rebound.",103,64,39,0.999999999584329,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+354,2,"2:02",122,122,"Will Chevalier missed Three Point Jumper.",103,64,39,0.999999999733995,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+355,2,"2:02",122,122,"Manny Patterson Offensive Rebound.",103,64,39,0.999999999733995,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+356,2,"1:58",118,118,"Manny Patterson made Layup.",105,64,41,0.999999999982669,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+357,2,"1:45",105,105,"Jacob Hilliker missed Jumper.",105,64,41,0.999999999989512,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+358,2,"1:45",105,105,"Will Chevalier Defensive Rebound.",105,64,41,0.999999999989512,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+359,2,"1:37",97,97,"Foul on Josh Carrasquillo.",105,64,41,0.999999999993952,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+360,2,"1:37",97,97,"Tyrone Powell missed Free Throw.",105,64,41,0.999999999993952,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+361,2,"1:37",97,97,"Green Bay Deadball Team Rebound.",105,64,41,0.999999999993952,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+362,2,"1:37",97,97,"Tyrone Powell missed Free Throw.",105,64,41,0.999999999993952,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+363,2,"1:37",97,97,"Dante Cameron Defensive Rebound.",105,64,41,0.999999999993952,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+364,2,"1:27",87,87,"Daniel Rosenstiel Turnover.",105,64,41,0.999999999999854,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+365,2,"1:26",86,86,"Tyrone Powell Steal.",105,64,41,0.999999999999854,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+366,2,"1:18",78,78,"T.J. Parham made Layup. Assisted by Manny Patterson.",107,64,43,0.99999999999998,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+367,2,"1:18",78,78,"Foul on Jacob Heaver.",107,64,43,0.99999999999998,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+368,2,"1:18",78,78,"T.J. Parham made Free Throw.",108,64,44,0.99999999999999,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+369,2,"0:56",56,56,"Damon Hofmann missed Three Point Jumper.",108,64,44,1,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+370,2,"0:56",56,56,"Manny Patterson Defensive Rebound.",108,64,44,1,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+371,2,"0:39",39,39,"Tyrone Powell Turnover.",108,64,44,1,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+372,2,"0:38",38,38,"Dante Cameron Steal.",108,64,44,1,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+373,2,"0:27",27,27,"Dante Cameron Turnover.",108,64,44,1,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18
+374,2,"0:00",0,0,"End of Game",108,64,44,NA,"Green Bay","Rockford University",3,4,0,0,NA,400992124,2017-12-18

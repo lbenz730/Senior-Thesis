@@ -1,0 +1,333 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.646704862624161,"California","Arizona",4,4,0,0,2.5,400915601,2016-12-30
+2,1,"20:00",2400,2400,"Jump Ball won by California",0,0,0,0.646704862624161,"California","Arizona",4,4,0,0,2.5,400915601,2016-12-30
+3,1,"19:47",2387,2387,"Charlie Moore made Layup.",2,0,2,0.659872811694962,"California","Arizona",4,4,0,0,2.5,400915601,2016-12-30
+4,1,"19:29",2369,2369,"Lauri Markkanen missed Three Point Jumper.",2,0,2,0.650773068384648,"California","Arizona",4,4,0,0,2.5,400915601,2016-12-30
+5,1,"19:29",2369,2369,"Jabari Bird Defensive Rebound.",2,0,2,0.650773068384648,"California","Arizona",4,4,0,0,2.5,400915601,2016-12-30
+6,1,"19:12",2352,2352,"Sam Singer missed Layup.",2,0,2,0.695532843448027,"California","Arizona",4,4,0,0,2.5,400915601,2016-12-30
+7,1,"19:12",2352,2352,"Dusan Ristic Defensive Rebound.",2,0,2,0.695532843448027,"California","Arizona",4,4,0,0,2.5,400915601,2016-12-30
+8,1,"18:57",2337,2337,"Kobi Simmons missed Layup.",2,0,2,0.686010274160274,"California","Arizona",4,4,0,0,2.5,400915601,2016-12-30
+9,1,"18:57",2337,2337,"Rawle Alkins Offensive Rebound.",2,0,2,0.686010274160274,"California","Arizona",4,4,0,0,2.5,400915601,2016-12-30
+10,1,"18:57",2337,2337,"Rawle Alkins missed Jumper.",2,0,2,0.686010274160274,"California","Arizona",4,4,0,0,2.5,400915601,2016-12-30
+11,1,"18:57",2337,2337,"Arizona Offensive Rebound.",2,0,2,0.686010274160274,"California","Arizona",4,4,0,0,2.5,400915601,2016-12-30
+12,1,"18:57",2337,2337,"Lauri Markkanen missed Three Point Jumper.",2,0,2,0.686010274160274,"California","Arizona",4,4,0,0,2.5,400915601,2016-12-30
+13,1,"18:57",2337,2337,"Arizona Offensive Rebound.",2,0,2,0.686010274160274,"California","Arizona",4,4,0,0,2.5,400915601,2016-12-30
+14,1,"18:57",2337,2337,"Foul on Jabari Bird.",2,0,2,0.686010274160274,"California","Arizona",4,4,0,0,2.5,400915601,2016-12-30
+15,1,"18:37",2317,2317,"Sam Singer made Layup.",4,0,4,0.716434785469852,"California","Arizona",4,4,0,0,2.5,400915601,2016-12-30
+16,1,"18:34",2314,2314,"Arizona  Timeout",4,0,4,0.716434785469852,"California","Arizona",3,4,1,0,2.5,400915601,2016-12-30
+17,1,"18:27",2307,2307,"Kadeem Allen missed Layup.",4,0,4,0.719793899165928,"California","Arizona",3,4,1,0,2.5,400915601,2016-12-30
+18,1,"18:27",2307,2307,"Ivan Rabb Defensive Rebound.",4,0,4,0.719793899165928,"California","Arizona",3,4,1,0,2.5,400915601,2016-12-30
+19,1,"18:17",2297,2297,"Jabari Bird missed Jumper.",4,0,4,0.729912107537738,"California","Arizona",3,4,1,0,2.5,400915601,2016-12-30
+20,1,"18:17",2297,2297,"Kadeem Allen Defensive Rebound.",4,0,4,0.729912107537738,"California","Arizona",3,4,1,0,2.5,400915601,2016-12-30
+21,1,"18:10",2290,2290,"Kobi Simmons Turnover.",4,0,4,0.729912107537738,"California","Arizona",3,4,1,0,2.5,400915601,2016-12-30
+22,1,"17:55",2275,2275,"Ivan Rabb missed Jumper.",4,0,4,0.733695000108853,"California","Arizona",3,4,1,0,2.5,400915601,2016-12-30
+23,1,"17:55",2275,2275,"Kobi Simmons Defensive Rebound.",4,0,4,0.733695000108853,"California","Arizona",3,4,1,0,2.5,400915601,2016-12-30
+24,1,"17:46",2266,2266,"Rawle Alkins missed Layup.",4,0,4,0.750771617241806,"California","Arizona",3,4,1,0,2.5,400915601,2016-12-30
+25,1,"17:46",2266,2266,"Kingsley Okoroh Block.",4,0,4,0.750771617241806,"California","Arizona",3,4,1,0,2.5,400915601,2016-12-30
+26,1,"17:46",2266,2266,"Ivan Rabb Defensive Rebound.",4,0,4,0.750771617241806,"California","Arizona",3,4,1,0,2.5,400915601,2016-12-30
+27,1,"17:32",2252,2252,"Foul on Sam Singer.",4,0,4,0.725056035487294,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+28,1,"17:32",2252,2252,"Sam Singer Turnover.",4,0,4,0.725056035487294,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+29,1,"17:14",2234,2234,"Dusan Ristic made Jumper.",4,2,2,0.691596575395542,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+30,1,"16:58",2218,2218,"Foul on Ivan Rabb.",4,2,2,0.703269539935858,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+31,1,"16:58",2218,2218,"Ivan Rabb Turnover.",4,2,2,0.703269539935858,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+32,1,"16:31",2191,2191,"Dusan Ristic made Jumper. Assisted by Kobi Simmons.",4,4,0,0.652191564966755,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+33,1,"16:14",2174,2174,"Charlie Moore missed Jumper.",4,4,0,0.633641678581643,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+34,1,"16:14",2174,2174,"Kadeem Allen Defensive Rebound.",4,4,0,0.633641678581643,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+35,1,"15:53",2153,2153,"Kadeem Allen missed Jumper.",4,4,0,0.629007275926915,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+36,1,"15:53",2153,2153,"Kingsley Okoroh Defensive Rebound.",4,4,0,0.629007275926915,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+37,1,"15:36",2136,2136,"Kingsley Okoroh Turnover.",4,4,0,0.635881741896225,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+38,1,"15:36",2136,2136,"Official TV Timeout",4,4,0,0.635881741896225,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+39,1,"15:30",2130,2130,"Lauri Markkanen made Jumper.",4,6,-2,0.578207643606738,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+40,1,"15:05",2105,2105,"Charlie Moore made Three Point Jumper. Assisted by Ivan Rabb.",7,6,1,0.657581207374059,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+41,1,"14:42",2082,2082,"Kadeem Allen Turnover.",7,6,1,0.664478523663114,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+42,1,"14:42",2082,2082,"Charlie Moore Steal.",7,6,1,0.664478523663114,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+43,1,"14:12",2052,2052,"Charlie Moore made Jumper.",9,6,3,0.70856808292544,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+44,1,"13:55",2035,2035,"Parker Jackson-Cartwright missed Jumper.",9,6,3,0.718226819831137,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+45,1,"13:50",2030,2030,"Ivan Rabb Defensive Rebound.",9,6,3,0.718226819831137,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+46,1,"13:42",2022,2022,"Ivan Rabb missed Jumper.",9,6,3,0.715293017901753,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+47,1,"13:42",2022,2022,"Arizona Defensive Rebound.",9,6,3,0.715293017901753,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+48,1,"13:27",2007,2007,"Chance Comanche Turnover.",9,6,3,0.70187073355126,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+49,1,"13:03",1983,1983,"Ivan Rabb missed Jumper.",9,6,3,0.70305327082697,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+50,1,"13:03",1983,1983,"Chance Comanche Block.",9,6,3,0.70305327082697,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+51,1,"13:03",1983,1983,"Parker Jackson-Cartwright Defensive Rebound.",9,6,3,0.70305327082697,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+52,1,"12:48",1968,1968,"Kobi Simmons missed Three Point Jumper.",9,6,3,0.702207890649891,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+53,1,"12:48",1968,1968,"Roger Moute A Bidias Defensive Rebound.",9,6,3,0.702207890649891,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+54,1,"12:38",1958,1958,"Foul on Keanu Pinder.",9,6,3,0.719170989037542,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+55,1,"12:22",1942,1942,"Grant Mullins missed Three Point Jumper.",9,6,3,0.712746324444979,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+56,1,"12:22",1942,1942,"Kadeem Allen Defensive Rebound.",9,6,3,0.712746324444979,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+57,1,"12:11",1931,1931,"Rawle Alkins missed Jumper.",9,6,3,0.706903652058273,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+58,1,"12:11",1931,1931,"Arizona Deadball Team Rebound.",9,6,3,0.706903652058273,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+59,1,"12:09",1929,1929,"Foul on Kingsley Okoroh.",9,6,3,0.708772047364109,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+60,1,"12:08",1928,1928,"Kadeem Allen missed Three Point Jumper.",9,6,3,0.708772047364109,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+61,1,"12:08",1928,1928,"Grant Mullins Defensive Rebound.",9,6,3,0.708772047364109,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+62,1,"11:58",1918,1918,"Foul on Chance Comanche.",9,6,3,0.730118259027225,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+63,1,"11:58",1918,1918,"Official TV Timeout",9,6,3,0.730118259027225,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+64,1,"11:58",1918,1918,"Jabari Bird made Free Throw.",10,6,4,0.754760440322218,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+65,1,"11:58",1918,1918,"Jabari Bird made Free Throw.",11,6,5,0.777837250704573,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+66,1,"11:58",1918,1918,"Jabari Bird made Free Throw.",12,6,6,0.799319927658464,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+67,1,"11:45",1905,1905,"Kobi Simmons missed Layup.",12,6,6,0.774178420636656,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+68,1,"11:45",1905,1905,"Rawle Alkins Offensive Rebound.",12,6,6,0.774178420636656,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+69,1,"11:40",1900,1900,"Kobi Simmons missed Jumper.",12,6,6,0.774178420636656,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+70,1,"11:40",1900,1900,"Ivan Rabb Block.",12,6,6,0.774178420636656,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+71,1,"11:40",1900,1900,"Ivan Rabb Defensive Rebound.",12,6,6,0.774178420636656,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+72,1,"11:35",1895,1895,"Jabari Bird made Dunk. Assisted by Charlie Moore.",14,6,8,0.83607520312831,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+73,1,"11:14",1874,1874,"Lauri Markkanen missed Three Point Jumper.",14,6,8,0.819576218954303,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+74,1,"11:14",1874,1874,"Kingsley Okoroh Defensive Rebound.",14,6,8,0.819576218954303,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+75,1,"10:47",1847,1847,"Ivan Rabb made Jumper. Assisted by Sam Singer.",16,6,10,0.845334749341895,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+76,1,"10:25",1825,1825,"Rawle Alkins missed Layup.",16,6,10,0.860257282104722,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+77,1,"10:25",1825,1825,"California Defensive Rebound.",16,6,10,0.860257282104722,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+78,1,"10:09",1809,1809,"Kingsley Okoroh made Dunk. Assisted by Ivan Rabb.",18,6,12,0.886043878153886,"California","Arizona",3,4,0,0,2.5,400915601,2016-12-30
+79,1,"10:03",1803,1803,"Arizona  Timeout",18,6,12,0.886043878153886,"California","Arizona",2,4,1,0,2.5,400915601,2016-12-30
+80,1,"9:46",1786,1786,"Foul on Kingsley Okoroh.",18,6,12,0.890247327475279,"California","Arizona",2,4,1,0,2.5,400915601,2016-12-30
+81,1,"9:38",1778,1778,"Dusan Ristic missed Jumper.",18,6,12,0.873134587021189,"California","Arizona",2,4,1,0,2.5,400915601,2016-12-30
+82,1,"9:38",1778,1778,"Jabari Bird Defensive Rebound.",18,6,12,0.873134587021189,"California","Arizona",2,4,1,0,2.5,400915601,2016-12-30
+83,1,"9:23",1763,1763,"Foul on Parker Jackson-Cartwright.",18,6,12,0.891222006926834,"California","Arizona",2,4,1,0,2.5,400915601,2016-12-30
+84,1,"9:23",1763,1763,"Jabari Bird made Free Throw.",19,6,13,0.903186064969772,"California","Arizona",2,4,1,0,2.5,400915601,2016-12-30
+85,1,"9:23",1763,1763,"Jabari Bird missed Free Throw.",19,6,13,0.903186064969772,"California","Arizona",2,4,1,0,2.5,400915601,2016-12-30
+86,1,"9:23",1763,1763,"Lauri Markkanen Defensive Rebound.",19,6,13,0.903186064969772,"California","Arizona",2,4,1,0,2.5,400915601,2016-12-30
+87,1,"9:09",1749,1749,"Lauri Markkanen made Layup.",19,8,11,0.874450073865314,"California","Arizona",2,4,1,0,2.5,400915601,2016-12-30
+88,1,"8:51",1731,1731,"Ivan Rabb missed Three Point Jumper.",19,8,11,0.883000395038474,"California","Arizona",2,4,0,0,2.5,400915601,2016-12-30
+89,1,"8:51",1731,1731,"Lauri Markkanen Defensive Rebound.",19,8,11,0.883000395038474,"California","Arizona",2,4,0,0,2.5,400915601,2016-12-30
+90,1,"8:41",1721,1721,"Lauri Markkanen made Layup. Assisted by Parker Jackson-Cartwright.",19,10,9,0.852600465461248,"California","Arizona",2,4,0,0,2.5,400915601,2016-12-30
+91,1,"8:41",1721,1721,"Foul on Cole Welle.",19,10,9,0.852600465461248,"California","Arizona",2,4,0,0,2.5,400915601,2016-12-30
+92,1,"8:41",1721,1721,"Lauri Markkanen made Free Throw.",19,11,8,0.834738732149998,"California","Arizona",2,4,0,0,2.5,400915601,2016-12-30
+93,1,"8:29",1709,1709,"Jabari Bird missed Three Point Jumper.",19,11,8,0.816354687593994,"California","Arizona",2,4,0,0,2.5,400915601,2016-12-30
+94,1,"8:29",1709,1709,"Rawle Alkins Defensive Rebound.",19,11,8,0.816354687593994,"California","Arizona",2,4,0,0,2.5,400915601,2016-12-30
+95,1,"8:00",1680,1680,"Rawle Alkins made Layup. Assisted by Parker Jackson-Cartwright.",19,13,6,0.801913786850983,"California","Arizona",2,4,0,0,2.5,400915601,2016-12-30
+96,1,"7:31",1651,1651,"Charlie Moore missed Three Point Jumper.",19,13,6,0.788877747598773,"California","Arizona",2,4,0,0,2.5,400915601,2016-12-30
+97,1,"7:31",1651,1651,"Dusan Ristic Defensive Rebound.",19,13,6,0.788877747598773,"California","Arizona",2,4,0,0,2.5,400915601,2016-12-30
+98,1,"7:24",1644,1644,"Dusan Ristic made Layup. Assisted by Kadeem Allen.",19,15,4,0.748843111277153,"California","Arizona",2,4,0,0,2.5,400915601,2016-12-30
+99,1,"7:14",1634,1634,"California  Timeout",19,15,4,0.744955000904862,"California","Arizona",2,3,0,1,2.5,400915601,2016-12-30
+100,1,"7:14",1634,1634,"Official TV Timeout",19,15,4,0.744955000904862,"California","Arizona",2,3,0,1,2.5,400915601,2016-12-30
+101,1,"6:54",1614,1614,"Stephen Domingo missed Three Point Jumper.",19,15,4,0.729597232935414,"California","Arizona",2,3,0,1,2.5,400915601,2016-12-30
+102,1,"6:54",1614,1614,"Parker Jackson-Cartwright Defensive Rebound.",19,15,4,0.729597232935414,"California","Arizona",2,3,0,1,2.5,400915601,2016-12-30
+103,1,"6:44",1604,1604,"Parker Jackson-Cartwright missed Layup.",19,15,4,0.7325544598829,"California","Arizona",2,3,0,1,2.5,400915601,2016-12-30
+104,1,"6:44",1604,1604,"Jabari Bird Defensive Rebound.",19,15,4,0.7325544598829,"California","Arizona",2,3,0,1,2.5,400915601,2016-12-30
+105,1,"6:38",1598,1598,"Jabari Bird made Layup. Assisted by Charlie Moore.",21,15,6,0.79516537393193,"California","Arizona",2,3,0,1,2.5,400915601,2016-12-30
+106,1,"6:38",1598,1598,"Foul on Parker Jackson-Cartwright.",21,15,6,0.79516537393193,"California","Arizona",2,3,0,1,2.5,400915601,2016-12-30
+107,1,"6:38",1598,1598,"Jabari Bird made Free Throw.",22,15,7,0.816287203829598,"California","Arizona",2,3,0,1,2.5,400915601,2016-12-30
+108,1,"6:26",1586,1586,"Lauri Markkanen missed Jumper.",22,15,7,0.802149416164347,"California","Arizona",2,3,0,1,2.5,400915601,2016-12-30
+109,1,"6:26",1586,1586,"Sam Singer Defensive Rebound.",22,15,7,0.802149416164347,"California","Arizona",2,3,0,1,2.5,400915601,2016-12-30
+110,1,"6:07",1567,1567,"Stephen Domingo missed Layup.",22,15,7,0.80842568285426,"California","Arizona",2,3,0,0,2.5,400915601,2016-12-30
+111,1,"6:07",1567,1567,"Ivan Rabb Offensive Rebound.",22,15,7,0.80842568285426,"California","Arizona",2,3,0,0,2.5,400915601,2016-12-30
+112,1,"5:55",1555,1555,"Ivan Rabb made Layup.",24,15,9,0.851280789439726,"California","Arizona",2,3,0,0,2.5,400915601,2016-12-30
+113,1,"5:41",1541,1541,"Kadeem Allen missed Three Point Jumper.",24,15,9,0.853707205968359,"California","Arizona",2,3,0,0,2.5,400915601,2016-12-30
+114,1,"5:41",1541,1541,"Rawle Alkins Offensive Rebound.",24,15,9,0.853707205968359,"California","Arizona",2,3,0,0,2.5,400915601,2016-12-30
+115,1,"5:36",1536,1536,"Rawle Alkins missed Layup.",24,15,9,0.854269904754112,"California","Arizona",2,3,0,0,2.5,400915601,2016-12-30
+116,1,"5:36",1536,1536,"Jabari Bird Defensive Rebound.",24,15,9,0.854269904754112,"California","Arizona",2,3,0,0,2.5,400915601,2016-12-30
+117,1,"5:10",1510,1510,"Ivan Rabb missed Jumper.",24,15,9,0.87225670428766,"California","Arizona",2,3,0,0,2.5,400915601,2016-12-30
+118,1,"5:10",1510,1510,"Kadeem Allen Defensive Rebound.",24,15,9,0.87225670428766,"California","Arizona",2,3,0,0,2.5,400915601,2016-12-30
+119,1,"5:06",1506,1506,"Kobi Simmons made Dunk. Assisted by Kadeem Allen.",24,17,7,0.815178774554121,"California","Arizona",2,3,0,0,2.5,400915601,2016-12-30
+120,1,"4:44",1484,1484,"Foul on Charlie Moore.",24,17,7,0.817938538146193,"California","Arizona",2,3,0,0,2.5,400915601,2016-12-30
+121,1,"4:44",1484,1484,"Charlie Moore Turnover.",24,17,7,0.817938538146193,"California","Arizona",2,3,0,0,2.5,400915601,2016-12-30
+122,1,"4:24",1464,1464,"Keanu Pinder missed Layup.",24,17,7,0.814659309966706,"California","Arizona",2,3,0,0,2.5,400915601,2016-12-30
+123,1,"4:24",1464,1464,"Ivan Rabb Defensive Rebound.",24,17,7,0.814659309966706,"California","Arizona",2,3,0,0,2.5,400915601,2016-12-30
+124,1,"4:02",1442,1442,"California  Timeout",24,17,7,0.837607430815727,"California","Arizona",2,2,0,1,2.5,400915601,2016-12-30
+125,1,"3:56",1436,1436,"Grant Mullins missed Three Point Jumper.",24,17,7,0.825915884063069,"California","Arizona",2,2,0,1,2.5,400915601,2016-12-30
+126,1,"3:56",1436,1436,"Ivan Rabb Offensive Rebound.",24,17,7,0.825915884063069,"California","Arizona",2,2,0,1,2.5,400915601,2016-12-30
+127,1,"3:44",1424,1424,"Charlie Moore missed Three Point Jumper.",24,17,7,0.809777377422376,"California","Arizona",2,2,0,1,2.5,400915601,2016-12-30
+128,1,"3:44",1424,1424,"California Deadball Team Rebound.",24,17,7,0.809777377422376,"California","Arizona",2,2,0,1,2.5,400915601,2016-12-30
+129,1,"3:44",1424,1424,"Foul on Rawle Alkins.",24,17,7,0.809777377422376,"California","Arizona",2,2,0,1,2.5,400915601,2016-12-30
+130,1,"3:30",1410,1410,"Ivan Rabb made Jumper.",26,17,9,0.863199039904235,"California","Arizona",2,2,0,1,2.5,400915601,2016-12-30
+131,1,"3:19",1399,1399,"Kadeem Allen made Three Point Jumper.",26,20,6,0.799967729809616,"California","Arizona",2,2,0,1,2.5,400915601,2016-12-30
+132,1,"2:54",1374,1374,"Roger Moute A Bidias missed Three Point Jumper.",26,20,6,0.784230193864498,"California","Arizona",2,2,0,0,2.5,400915601,2016-12-30
+133,1,"2:54",1374,1374,"California Offensive Rebound.",26,20,6,0.784230193864498,"California","Arizona",2,2,0,0,2.5,400915601,2016-12-30
+134,1,"2:45",1365,1365,"Foul on Lauri Markkanen.",26,20,6,0.801758047092443,"California","Arizona",2,2,0,0,2.5,400915601,2016-12-30
+135,1,"2:36",1356,1356,"Foul on Lauri Markkanen.",26,20,6,0.810897986596786,"California","Arizona",2,2,0,0,2.5,400915601,2016-12-30
+136,1,"2:36",1356,1356,"Roger Moute A Bidias made Free Throw.",27,20,7,0.833457807357012,"California","Arizona",2,2,0,0,2.5,400915601,2016-12-30
+137,1,"2:36",1356,1356,"Roger Moute A Bidias made Free Throw.",28,20,8,0.853811449056247,"California","Arizona",2,2,0,0,2.5,400915601,2016-12-30
+138,1,"2:25",1345,1345,"Kobi Simmons Turnover.",28,20,8,0.845318619777182,"California","Arizona",2,2,0,0,2.5,400915601,2016-12-30
+139,1,"2:25",1345,1345,"Ivan Rabb Steal.",28,20,8,0.845318619777182,"California","Arizona",2,2,0,0,2.5,400915601,2016-12-30
+140,1,"2:07",1327,1327,"Ivan Rabb made Jumper. Assisted by Sam Singer.",30,20,10,0.88507454472093,"California","Arizona",2,2,0,0,2.5,400915601,2016-12-30
+141,1,"1:44",1304,1304,"Dusan Ristic made Jumper. Assisted by Kobi Simmons.",30,22,8,0.838218331951306,"California","Arizona",2,2,0,0,2.5,400915601,2016-12-30
+142,1,"1:21",1281,1281,"Charlie Moore Turnover.",30,22,8,0.842100820389131,"California","Arizona",2,2,0,0,2.5,400915601,2016-12-30
+143,1,"1:21",1281,1281,"Kobi Simmons Steal.",30,22,8,0.842100820389131,"California","Arizona",2,2,0,0,2.5,400915601,2016-12-30
+144,1,"1:16",1276,1276,"Kobi Simmons made Layup. Assisted by Chance Comanche.",30,24,6,0.785708402829566,"California","Arizona",2,2,0,0,2.5,400915601,2016-12-30
+145,1,"0:59",1259,1259,"Jabari Bird made Jumper. Assisted by Sam Singer.",32,24,8,0.838907046485716,"California","Arizona",2,2,0,0,2.5,400915601,2016-12-30
+146,1,"0:30",1230,1230,"Dusan Ristic made Layup. Assisted by Rawle Alkins.",32,26,6,0.799945421704008,"California","Arizona",2,2,0,0,2.5,400915601,2016-12-30
+147,1,"0:01",1201,1201,"Roger Moute A Bidias missed Three Point Jumper.",32,26,6,0.803486939925448,"California","Arizona",2,2,0,0,2.5,400915601,2016-12-30
+148,1,"0:01",1201,1201,"Jabari Bird Offensive Rebound.",32,26,6,0.803486939925448,"California","Arizona",2,2,0,0,2.5,400915601,2016-12-30
+149,1,"0:01",1201,1201,"Jabari Bird missed Dunk.",32,26,6,0.803486939925448,"California","Arizona",2,2,0,0,2.5,400915601,2016-12-30
+150,1,"0:01",1201,1201,"Rawle Alkins Defensive Rebound.",32,26,6,0.803486939925448,"California","Arizona",2,2,0,0,2.5,400915601,2016-12-30
+151,1,"0:00",1200,1200,"End of 1st half",32,26,6,0.803486939925448,"California","Arizona",2,2,0,0,2.5,400915601,2016-12-30
+152,2,"20:00",1200,1200,"PLAY",32,26,6,0.803486939925448,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+153,2,"20:00",1200,1200,"Jump Ball won by Arizona",32,26,6,0.803486939925448,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+154,2,"19:45",1185,1185,"Foul on Ivan Rabb.",32,26,6,0.809332909903409,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+155,2,"19:40",1180,1180,"Lauri Markkanen missed Jumper.",32,26,6,0.809332909903409,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+156,2,"19:40",1180,1180,"Ivan Rabb Defensive Rebound.",32,26,6,0.809332909903409,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+157,2,"19:40",1180,1180,"Foul on Dusan Ristic.",32,26,6,0.809332909903409,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+158,2,"19:21",1161,1161,"Ivan Rabb made Jumper.",34,26,8,0.846137413514612,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+159,2,"19:01",1141,1141,"Kobi Simmons missed Jumper.",34,26,8,0.859778763248572,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+160,2,"19:01",1141,1141,"Dusan Ristic Offensive Rebound.",34,26,8,0.859778763248572,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+161,2,"18:57",1137,1137,"Dusan Ristic made Layup.",34,28,6,0.810398125766915,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+162,2,"18:38",1118,1118,"Jabari Bird missed Jumper.",34,28,6,0.816259014396869,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+163,2,"18:38",1118,1118,"Ivan Rabb Offensive Rebound.",34,28,6,0.816259014396869,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+164,2,"18:35",1115,1115,"Ivan Rabb missed Layup.",34,28,6,0.816259014396869,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+165,2,"18:35",1115,1115,"Ivan Rabb Offensive Rebound.",34,28,6,0.816259014396869,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+166,2,"18:32",1112,1112,"Jabari Bird missed Layup.",34,28,6,0.816259014396869,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+167,2,"18:32",1112,1112,"Dusan Ristic Block.",34,28,6,0.816259014396869,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+168,2,"18:32",1112,1112,"Rawle Alkins Defensive Rebound.",34,28,6,0.816259014396869,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+169,2,"18:25",1105,1105,"Kadeem Allen made Layup.",34,30,4,0.751416518517365,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+170,2,"18:13",1093,1093,"Foul on Ivan Rabb.",34,30,4,0.762875053000204,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+171,2,"18:13",1093,1093,"Ivan Rabb Turnover.",34,30,4,0.762875053000204,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+172,2,"17:56",1076,1076,"Foul on Sam Singer.",34,30,4,0.758410030709197,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+173,2,"17:51",1071,1071,"Kobi Simmons made Jumper.",34,32,2,0.691501963944835,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+174,2,"17:37",1057,1057,"Jabari Bird made Dunk. Assisted by Kingsley Okoroh.",36,32,4,0.766523898722981,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+175,2,"17:14",1034,1034,"Kobi Simmons made Layup.",36,34,2,0.680723137948991,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+176,2,"17:05",1025,1025,"Charlie Moore missed Jumper.",36,34,2,0.694789176186198,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+177,2,"17:05",1025,1025,"Jabari Bird Offensive Rebound.",36,34,2,0.694789176186198,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+178,2,"16:51",1011,1011,"Foul on Rawle Alkins.",36,34,2,0.665195537044586,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+179,2,"16:48",1008,1008,"Kingsley Okoroh missed Jumper.",36,34,2,0.675238168366999,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+180,2,"16:48",1008,1008,"Lauri Markkanen Defensive Rebound.",36,34,2,0.675238168366999,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+181,2,"16:27",987,987,"Kobi Simmons made Layup.",36,36,0,0.614916286953749,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+182,2,"16:00",960,960,"Charlie Moore missed Jumper.",36,36,0,0.593292759994782,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+183,2,"16:00",960,960,"Lauri Markkanen Defensive Rebound.",36,36,0,0.593292759994782,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+184,2,"15:52",952,952,"Rawle Alkins missed Jumper.",36,36,0,0.59616181077132,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+185,2,"15:52",952,952,"Arizona Offensive Rebound.",36,36,0,0.59616181077132,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+186,2,"15:52",952,952,"Official TV Timeout",36,36,0,0.59616181077132,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+187,2,"15:42",942,942,"Kobi Simmons made Layup.",36,38,-2,0.528370088527685,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+188,2,"15:16",916,916,"Charlie Moore Turnover.",36,38,-2,0.507699131492617,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+189,2,"15:16",916,916,"Chance Comanche Steal.",36,38,-2,0.507699131492617,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+190,2,"15:09",909,909,"Kadeem Allen missed Layup.",36,38,-2,0.504418688805289,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+191,2,"15:09",909,909,"Kobi Simmons Offensive Rebound.",36,38,-2,0.504418688805289,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+192,2,"15:09",909,909,"Foul on Jabari Bird.",36,38,-2,0.504418688805289,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+193,2,"15:09",909,909,"Kobi Simmons made Free Throw.",36,39,-3,0.456697364493181,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+194,2,"15:09",909,909,"Kobi Simmons made Free Throw.",36,40,-4,0.409757892440913,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+195,2,"14:56",896,896,"Sam Singer missed Three Point Jumper.",36,40,-4,0.418161974488928,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+196,2,"14:56",896,896,"Lauri Markkanen Defensive Rebound.",36,40,-4,0.418161974488928,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+197,2,"14:49",889,889,"Kadeem Allen Turnover.",36,40,-4,0.42079776505638,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+198,2,"14:34",874,874,"Stephen Domingo missed Jumper.",36,40,-4,0.414876672875156,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+199,2,"14:34",874,874,"Lauri Markkanen Defensive Rebound.",36,40,-4,0.414876672875156,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+200,2,"14:03",843,843,"Foul on Grant Mullins.",36,40,-4,0.385952453447033,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+201,2,"14:03",843,843,"Lauri Markkanen missed Free Throw.",36,40,-4,0.385952453447033,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+202,2,"14:03",843,843,"Arizona Deadball Team Rebound.",36,40,-4,0.385952453447033,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+203,2,"14:03",843,843,"Lauri Markkanen made Free Throw.",36,41,-5,0.336992209386339,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+204,2,"13:47",827,827,"Foul on Kadeem Allen.",36,41,-5,0.369507047839424,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+205,2,"13:31",811,811,"Foul on Charlie Moore.",36,41,-5,0.347780895635163,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+206,2,"13:31",811,811,"Charlie Moore Turnover.",36,41,-5,0.347780895635163,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+207,2,"13:23",803,803,"Kadeem Allen missed Layup.",36,41,-5,0.366930915168226,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+208,2,"13:23",803,803,"Kingsley Okoroh Block.",36,41,-5,0.366930915168226,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+209,2,"13:23",803,803,"Ivan Rabb Defensive Rebound.",36,41,-5,0.366930915168226,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+210,2,"13:09",789,789,"Charlie Moore missed Three Point Jumper.",36,41,-5,0.344397168667957,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+211,2,"13:09",789,789,"Kingsley Okoroh Offensive Rebound.",36,41,-5,0.344397168667957,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+212,2,"13:09",789,789,"Foul on Lauri Markkanen.",36,41,-5,0.344397168667957,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+213,2,"13:05",785,785,"Ivan Rabb made Jumper.",38,41,-3,0.442409164536993,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+214,2,"12:39",759,759,"Chance Comanche Turnover.",38,41,-3,0.435551704678868,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+215,2,"12:24",744,744,"Grant Mullins made Layup.",40,41,-1,0.531993566097618,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+216,2,"12:03",723,723,"Chance Comanche missed Dunk.",40,41,-1,0.559798571593865,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+217,2,"12:03",723,723,"Jabari Bird Defensive Rebound.",40,41,-1,0.559798571593865,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+218,2,"11:32",692,692,"Ivan Rabb made Jumper. Assisted by Charlie Moore.",42,41,1,0.657327515113751,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+219,2,"11:15",675,675,"Rawle Alkins made Jumper.",42,43,-1,0.529540325893079,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+220,2,"10:55",655,655,"Foul on Rawle Alkins.",42,43,-1,0.54585814356025,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+221,2,"10:55",655,655,"Official TV Timeout",42,43,-1,0.54585814356025,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+222,2,"10:55",655,655,"Kingsley Okoroh missed Free Throw.",42,43,-1,0.54585814356025,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+223,2,"10:55",655,655,"California Deadball Team Rebound.",42,43,-1,0.54585814356025,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+224,2,"10:55",655,655,"Kingsley Okoroh made Free Throw.",43,43,0,0.603928895813134,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+225,2,"10:33",633,633,"Chance Comanche made Layup. Assisted by Parker Jackson-Cartwright.",43,45,-2,0.463834729800939,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+226,2,"10:33",633,633,"Foul on Ivan Rabb.",43,45,-2,0.463834729800939,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+227,2,"10:33",633,633,"Chance Comanche made Free Throw.",43,46,-3,0.405820430613707,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+228,2,"10:24",624,624,"Kingsley Okoroh made Dunk. Assisted by Jabari Bird.",45,46,-1,0.534741457450124,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+229,2,"10:05",605,605,"Kadeem Allen made Jumper.",45,48,-3,0.414352321492378,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+230,2,"9:45",585,585,"Roger Moute A Bidias missed Jumper.",45,48,-3,0.402434341299614,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+231,2,"9:45",585,585,"Chance Comanche Block.",45,48,-3,0.402434341299614,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+232,2,"9:45",585,585,"Dusan Ristic Defensive Rebound.",45,48,-3,0.402434341299614,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+233,2,"9:27",567,567,"Parker Jackson-Cartwright made Layup. Assisted by Dusan Ristic.",45,50,-5,0.296584520895024,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+234,2,"8:59",539,539,"Grant Mullins made Three Point Jumper. Assisted by Roger Moute A Bidias.",48,50,-2,0.474498015992261,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+235,2,"8:35",515,515,"Dusan Ristic made Layup. Assisted by Kadeem Allen.",48,52,-4,0.317913869469208,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+236,2,"8:15",495,495,"Grant Mullins missed Jumper.",48,52,-4,0.341387115253832,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+237,2,"8:15",495,495,"Chance Comanche Defensive Rebound.",48,52,-4,0.341387115253832,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+238,2,"7:49",469,469,"Rawle Alkins made Layup.",48,54,-6,0.202577857800249,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+239,2,"7:27",447,447,"Sam Singer missed Layup.",48,54,-6,0.208931050435216,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+240,2,"7:27",447,447,"Parker Jackson-Cartwright Defensive Rebound.",48,54,-6,0.208931050435216,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+241,2,"7:01",421,421,"Rawle Alkins missed Layup.",48,54,-6,0.179936469132123,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+242,2,"7:01",421,421,"Kingsley Okoroh Block.",48,54,-6,0.179936469132123,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+243,2,"7:01",421,421,"Rawle Alkins Offensive Rebound.",48,54,-6,0.179936469132123,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+244,2,"6:56",416,416,"Rawle Alkins missed Jumper.",48,54,-6,0.183479643815497,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+245,2,"6:56",416,416,"California Deadball Team Rebound.",48,54,-6,0.183479643815497,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+246,2,"6:56",416,416,"Foul on Rawle Alkins.",48,54,-6,0.183479643815497,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+247,2,"6:56",416,416,"Official TV Timeout",48,54,-6,0.183479643815497,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+248,2,"6:40",400,400,"Kingsley Okoroh made Jumper. Assisted by Charlie Moore.",50,54,-4,0.260149767733058,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+249,2,"6:24",384,384,"Lauri Markkanen made Jumper.",50,56,-6,0.191571513013232,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+250,2,"6:05",365,365,"Charlie Moore missed Layup.",50,56,-6,0.163609198901244,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+251,2,"6:05",365,365,"Dusan Ristic Block.",50,56,-6,0.163609198901244,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+252,2,"6:05",365,365,"California Offensive Rebound.",50,56,-6,0.163609198901244,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+253,2,"6:05",365,365,"Ivan Rabb Turnover.",50,56,-6,0.163609198901244,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+254,2,"5:36",336,336,"Kobi Simmons missed Jumper.",50,56,-6,0.14526028951953,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+255,2,"5:36",336,336,"Ivan Rabb Defensive Rebound.",50,56,-6,0.14526028951953,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+256,2,"5:26",326,326,"Foul on Parker Jackson-Cartwright.",50,56,-6,0.166256738343069,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+257,2,"5:26",326,326,"Charlie Moore missed Free Throw.",50,56,-6,0.166256738343069,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+258,2,"5:26",326,326,"Chance Comanche Defensive Rebound.",50,56,-6,0.166256738343069,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+259,2,"5:00",300,300,"Lauri Markkanen missed Layup.",50,56,-6,0.149570411633375,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+260,2,"5:00",300,300,"Kingsley Okoroh Block.",50,56,-6,0.149570411633375,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+261,2,"5:00",300,300,"Ivan Rabb Defensive Rebound.",50,56,-6,0.149570411633375,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+262,2,"4:52",292,292,"Jabari Bird Turnover.",50,56,-6,0.146582045834716,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+263,2,"4:52",292,292,"Kadeem Allen Steal.",50,56,-6,0.146582045834716,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+264,2,"4:52",292,292,"Foul on Charlie Moore.",50,56,-6,0.146582045834716,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+265,2,"4:52",292,292,"Kadeem Allen missed Free Throw.",50,56,-6,0.146582045834716,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+266,2,"4:52",292,292,"Lauri Markkanen Offensive Rebound.",50,56,-6,0.146582045834716,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+267,2,"4:39",279,279,"Lauri Markkanen made Three Point Jumper. Assisted by Parker Jackson-Cartwright.",50,59,-9,0.0362691650707376,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+268,2,"4:17",257,257,"Kingsley Okoroh missed Jumper.",50,59,-9,0.0299582168133247,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+269,2,"4:17",257,257,"Sam Singer Offensive Rebound.",50,59,-9,0.0299582168133247,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+270,2,"4:16",256,256,"Foul on Kobi Simmons.",50,59,-9,0.0299582168133247,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+271,2,"4:16",256,256,"Sam Singer made Free Throw.",51,59,-8,0.0449521290956794,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+272,2,"4:16",256,256,"Sam Singer made Free Throw.",52,59,-7,0.0669326076903315,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+273,2,"3:53",233,233,"Lauri Markkanen missed Three Point Jumper.",52,59,-7,0.0729405422355568,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+274,2,"3:53",233,233,"Ivan Rabb Defensive Rebound.",52,59,-7,0.0729405422355568,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+275,2,"3:41",221,221,"Foul on Lauri Markkanen.",52,59,-7,0.0681620569248717,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+276,2,"3:41",221,221,"Official TV Timeout",52,59,-7,0.0681620569248717,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+277,2,"3:41",221,221,"Ivan Rabb made Free Throw.",53,59,-6,0.100488623519331,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+278,2,"3:41",221,221,"Ivan Rabb missed Free Throw.",53,59,-6,0.100488623519331,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+279,2,"3:41",221,221,"Lauri Markkanen Defensive Rebound.",53,59,-6,0.100488623519331,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+280,2,"3:20",200,200,"Kobi Simmons missed Three Point Jumper.",53,59,-6,0.0863297249733205,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+281,2,"3:20",200,200,"Ivan Rabb Block.",53,59,-6,0.0863297249733205,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+282,2,"3:20",200,200,"Kingsley Okoroh Defensive Rebound.",53,59,-6,0.0863297249733205,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+283,2,"2:53",173,173,"Foul on Parker Jackson-Cartwright.",53,59,-6,0.0678049367344629,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+284,2,"2:53",173,173,"Charlie Moore made Free Throw.",54,59,-5,0.106330543580634,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+285,2,"2:53",173,173,"Charlie Moore made Free Throw.",55,59,-4,0.162920089795576,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+286,2,"2:31",151,151,"Rawle Alkins made Layup. Assisted by Kobi Simmons.",55,61,-6,0.0487873810166454,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+287,2,"2:31",151,151,"Foul on Kingsley Okoroh.",55,61,-6,0.0487873810166454,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+288,2,"2:31",151,151,"Rawle Alkins missed Free Throw.",55,61,-6,0.0487873810166454,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+289,2,"2:31",151,151,"Arizona Offensive Rebound.",55,61,-6,0.0487873810166454,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+290,2,"2:07",127,127,"Kobi Simmons missed Three Point Jumper.",55,61,-6,0.0370842393358713,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+291,2,"2:07",127,127,"Rawle Alkins Offensive Rebound.",55,61,-6,0.0370842393358713,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+292,2,"2:07",127,127,"Foul on Jabari Bird.",55,61,-6,0.0370842393358713,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+293,2,"2:07",127,127,"Rawle Alkins missed Free Throw.",55,61,-6,0.0370842393358713,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+294,2,"2:07",127,127,"Arizona Deadball Team Rebound.",55,61,-6,0.0370842393358713,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+295,2,"2:07",127,127,"Rawle Alkins made Free Throw.",55,62,-7,0.0213884502316922,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+296,2,"1:58",118,118,"Charlie Moore missed Layup.",55,62,-7,0.0199064864778182,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+297,2,"1:58",118,118,"Lauri Markkanen Defensive Rebound.",55,62,-7,0.0199064864778182,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+298,2,"1:27",87,87,"Dusan Ristic missed Jumper.",55,62,-7,0.00927530174657223,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+299,2,"1:27",87,87,"Charlie Moore Defensive Rebound.",55,62,-7,0.00927530174657223,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+300,2,"1:16",76,76,"Grant Mullins missed Layup.",55,62,-7,0.0063736416174377,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+301,2,"1:16",76,76,"Ivan Rabb Offensive Rebound.",55,62,-7,0.0063736416174377,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+302,2,"1:12",72,72,"Foul on Dusan Ristic.",55,62,-7,0.0063736416174377,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+303,2,"1:12",72,72,"Ivan Rabb missed Free Throw.",55,62,-7,0.0063736416174377,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+304,2,"1:12",72,72,"California Deadball Team Rebound.",55,62,-7,0.0063736416174377,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+305,2,"1:12",72,72,"Ivan Rabb made Free Throw.",56,62,-6,0.0132007882256749,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+306,2,"0:46",46,46,"Dusan Ristic made Jumper. Assisted by Kadeem Allen.",56,64,-8,0.000231908020616743,"California","Arizona",3,3,0,0,2.5,400915601,2016-12-30
+307,2,"0:40",40,40,"Foul on Kobi Simmons.",56,64,-8,0.000279514948149384,"California","Arizona",3,3,0,1,2.5,400915601,2016-12-30
+308,2,"0:40",40,40,"Charlie Moore made Free Throw.",57,64,-7,0.000760075466641431,"California","Arizona",3,3,0,1,2.5,400915601,2016-12-30
+309,2,"0:40",40,40,"Charlie Moore made Free Throw.",58,64,-6,0.00206514057721431,"California","Arizona",3,3,0,1,2.5,400915601,2016-12-30
+310,2,"0:40",40,40,"California  Timeout",58,64,-6,0.00206514057721431,"California","Arizona",3,2,0,1,2.5,400915601,2016-12-30
+311,2,"0:40",40,40,"Charlie Moore missed Free Throw.",58,64,-6,0.00206514057721431,"California","Arizona",3,2,0,1,2.5,400915601,2016-12-30
+312,2,"0:40",40,40,"Lauri Markkanen Defensive Rebound.",58,64,-6,0.00206514057721431,"California","Arizona",3,2,0,1,2.5,400915601,2016-12-30
+313,2,"0:34",34,34,"Foul on Sam Singer.",58,64,-6,0.00645016135115792,"California","Arizona",3,2,0,1,2.5,400915601,2016-12-30
+314,2,"0:34",34,34,"Kadeem Allen made Free Throw.",58,65,-7,0.0028294425889964,"California","Arizona",3,2,0,1,2.5,400915601,2016-12-30
+315,2,"0:34",34,34,"Kadeem Allen made Free Throw.",58,66,-8,0.00123863597885188,"California","Arizona",3,2,0,1,2.5,400915601,2016-12-30
+316,2,"0:21",21,21,"Foul on Keanu Pinder.",58,66,-8,2.0580362268552e-06,"California","Arizona",3,2,0,1,2.5,400915601,2016-12-30
+317,2,"0:21",21,21,"Charlie Moore missed Free Throw.",58,66,-8,2.0580362268552e-06,"California","Arizona",3,2,0,1,2.5,400915601,2016-12-30
+318,2,"0:21",21,21,"California Deadball Team Rebound.",58,66,-8,2.0580362268552e-06,"California","Arizona",3,2,0,1,2.5,400915601,2016-12-30
+319,2,"0:21",21,21,"Charlie Moore made Free Throw.",59,66,-7,1.05330795759236e-05,"California","Arizona",3,2,0,1,2.5,400915601,2016-12-30
+320,2,"0:18",18,18,"Lauri Markkanen Turnover.",59,66,-7,0.000630748767707427,"California","Arizona",3,2,0,1,2.5,400915601,2016-12-30
+321,2,"0:18",18,18,"Jabari Bird made Three Point Jumper. Assisted by Sam Singer.",62,66,-4,0.0151743919509262,"California","Arizona",3,2,0,1,2.5,400915601,2016-12-30
+322,2,"0:12",12,12,"Kadeem Allen Turnover.",62,66,-4,0.0114858598268027,"California","Arizona",3,2,0,1,2.5,400915601,2016-12-30
+323,2,"0:12",12,12,"Jabari Bird Steal.",62,66,-4,0.0114858598268027,"California","Arizona",3,2,0,1,2.5,400915601,2016-12-30
+324,2,"0:08",8,8,"Jabari Bird missed Three Point Jumper.",62,66,-4,0.00282511069860452,"California","Arizona",3,2,0,1,2.5,400915601,2016-12-30
+325,2,"0:08",8,8,"Rawle Alkins Defensive Rebound.",62,66,-4,0.00282511069860452,"California","Arizona",3,2,0,1,2.5,400915601,2016-12-30
+326,2,"0:06",6,6,"Foul on Charlie Moore.",62,66,-4,0.00282511069860452,"California","Arizona",3,2,0,1,2.5,400915601,2016-12-30
+327,2,"0:06",6,6,"Rawle Alkins made Free Throw.",62,67,-5,0.000561911075383407,"California","Arizona",3,2,0,1,2.5,400915601,2016-12-30
+328,2,"0:06",6,6,"Rawle Alkins missed Free Throw.",62,67,-5,0.000561911075383407,"California","Arizona",3,2,0,1,2.5,400915601,2016-12-30
+329,2,"0:06",6,6,"Ivan Rabb Defensive Rebound.",62,67,-5,0.000561911075383407,"California","Arizona",3,2,0,1,2.5,400915601,2016-12-30
+330,2,"0:01",1,1,"Charlie Moore missed Layup.",62,67,-5,0.000126176533448016,"California","Arizona",3,2,0,1,2.5,400915601,2016-12-30
+331,2,"0:01",1,1,"Kadeem Allen Defensive Rebound.",62,67,-5,0.000126176533448016,"California","Arizona",3,2,0,1,2.5,400915601,2016-12-30
+332,2,"0:00",0,0,"End of Game",62,67,-5,1.02608934030778e-42,"California","Arizona",3,2,0,1,2.5,400915601,2016-12-30

@@ -1,0 +1,331 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.888091376675671,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+2,1,"20:00",2400,2400,"Jump Ball won by Duke",0,0,0,0.888091376675671,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+3,1,"19:49",2389,2389,"Grayson Allen missed Jumper.",0,0,0,0.88396822034469,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+4,1,"19:49",2389,2389,"Amile Jefferson Offensive Rebound.",0,0,0,0.88396822034469,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+5,1,"19:49",2389,2389,"Amile Jefferson missed Two Point Tip Shot.",0,0,0,0.88396822034469,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+6,1,"19:49",2389,2389,"Amile Jefferson Offensive Rebound.",0,0,0,0.88396822034469,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+7,1,"19:42",2382,2382,"Luke Kennard missed Three Point Jumper.",0,0,0,0.88396822034469,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+8,1,"19:42",2382,2382,"Kenny Goins Defensive Rebound.",0,0,0,0.88396822034469,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+9,1,"19:38",2378,2378,"Foul on Amile Jefferson.",0,0,0,0.880104026359134,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+10,1,"19:17",2357,2357,"Matt McQuaid missed Jumper.",0,0,0,0.884104285946633,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+11,1,"19:17",2357,2357,"Kenny Goins Offensive Rebound.",0,0,0,0.884104285946633,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+12,1,"19:09",2349,2349,"Eron Harris Turnover.",0,0,0,0.872144900974951,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+13,1,"18:57",2337,2337,"Matt Jones missed Three Point Jumper.",0,0,0,0.876764981965039,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+14,1,"18:57",2337,2337,"Eron Harris Defensive Rebound.",0,0,0,0.876764981965039,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+15,1,"18:37",2317,2317,"Lourawls Nairn Jr. made Layup. Assisted by Kenny Goins.",0,2,-2,0.839593096817556,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+16,1,"18:22",2302,2302,"Grayson Allen missed Jumper.",0,2,-2,0.841690407276569,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+17,1,"18:22",2302,2302,"Miles Bridges Defensive Rebound.",0,2,-2,0.841690407276569,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+18,1,"18:06",2286,2286,"Lourawls Nairn Jr. made Layup.",0,4,-4,0.815847955456427,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+19,1,"17:44",2264,2264,"Luke Kennard missed Jumper.",0,4,-4,0.816587615872098,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+20,1,"17:44",2264,2264,"Kenny Goins Defensive Rebound.",0,4,-4,0.816587615872098,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+21,1,"17:26",2246,2246,"Foul on Eron Harris.",0,4,-4,0.810195208612972,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+22,1,"17:26",2246,2246,"Eron Harris Turnover.",0,4,-4,0.810195208612972,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+23,1,"17:16",2236,2236,"Grayson Allen missed Jumper.",0,4,-4,0.813217234736172,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+24,1,"17:16",2236,2236,"Lourawls Nairn Jr. Defensive Rebound.",0,4,-4,0.813217234736172,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+25,1,"16:54",2214,2214,"Miles Bridges missed Three Point Jumper.",0,4,-4,0.794759930323515,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+26,1,"16:54",2214,2214,"Grayson Allen Defensive Rebound.",0,4,-4,0.794759930323515,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+27,1,"16:44",2204,2204,"Amile Jefferson made Jumper.",2,4,-2,0.841373784546147,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+28,1,"16:17",2177,2177,"Kenny Goins made Jumper. Assisted by Lourawls Nairn Jr..",2,6,-4,0.807083524449995,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+29,1,"15:59",2159,2159,"Grayson Allen made Three Point Jumper. Assisted by Matt Jones.",5,6,-1,0.850105401607082,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+30,1,"15:29",2129,2129,"Lourawls Nairn Jr. missed Jumper.",5,6,-1,0.850313237364694,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+31,1,"15:29",2129,2129,"Frank Jackson Defensive Rebound.",5,6,-1,0.850313237364694,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+32,1,"15:19",2119,2119,"Frank Jackson made Layup.",7,6,1,0.886528351449371,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+33,1,"14:46",2086,2086,"Matt McQuaid missed Three Point Jumper.",7,6,1,0.874244069017799,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+34,1,"14:46",2086,2086,"Amile Jefferson Defensive Rebound.",7,6,1,0.874244069017799,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+35,1,"14:41",2081,2081,"Official TV Timeout",7,6,1,0.874244069017799,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+36,1,"14:32",2072,2072,"Grayson Allen missed Three Point Jumper.",7,6,1,0.879313736795245,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+37,1,"14:32",2072,2072,"Frank Jackson Offensive Rebound.",7,6,1,0.879313736795245,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+38,1,"14:23",2063,2063,"Foul on Matt McQuaid.",7,6,1,0.873370805594632,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+39,1,"14:21",2061,2061,"Foul on Kyle Ahrens.",7,6,1,0.873370805594632,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+40,1,"14:18",2058,2058,"Luke Kennard made Jumper.",9,6,3,0.906450372658511,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+41,1,"13:53",2033,2033,"Joshua Langford made Jumper.",9,8,1,0.887501493634009,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+42,1,"13:35",2015,2015,"Chase Jeter made Jumper.",11,8,3,0.899923045593176,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+43,1,"13:15",1995,1995,"Nick Ward made Layup. Assisted by Kyle Ahrens.",11,10,1,0.87789925109961,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+44,1,"12:46",1966,1966,"Matt Jones missed Three Point Jumper.",11,10,1,0.873584471472942,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+45,1,"12:46",1966,1966,"Cassius Winston Defensive Rebound.",11,10,1,0.873584471472942,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+46,1,"12:33",1953,1953,"Nick Ward missed Jumper.",11,10,1,0.871670130050217,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+47,1,"12:33",1953,1953,"Amile Jefferson Block.",11,10,1,0.871670130050217,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+48,1,"12:33",1953,1953,"Amile Jefferson Defensive Rebound.",11,10,1,0.871670130050217,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+49,1,"12:23",1943,1943,"Amile Jefferson missed Layup.",11,10,1,0.872071321054885,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+50,1,"12:23",1943,1943,"Alvin Ellis III Defensive Rebound.",11,10,1,0.872071321054885,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+51,1,"12:14",1934,1934,"Nick Ward made Dunk. Assisted by Cassius Winston.",11,12,-1,0.833335149019244,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+52,1,"12:04",1924,1924,"Grayson Allen Turnover.",11,12,-1,0.848864379012954,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+53,1,"11:50",1910,1910,"Eron Harris made Layup.",11,14,-3,0.812927896722688,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+54,1,"11:35",1895,1895,"Foul on Alvin Ellis III.",11,14,-3,0.795862108387712,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+55,1,"11:35",1895,1895,"Official TV Timeout",11,14,-3,0.795862108387712,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+56,1,"11:33",1893,1893,"Luke Kennard made Jumper. Assisted by Frank Jackson.",13,14,-1,0.836088046313099,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+57,1,"11:07",1867,1867,"Eron Harris missed Jumper.",13,14,-1,0.834574988567309,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+58,1,"11:07",1867,1867,"Luke Kennard Defensive Rebound.",13,14,-1,0.834574988567309,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+59,1,"10:56",1856,1856,"Foul on Grayson Allen.",13,14,-1,0.837410890264597,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+60,1,"10:56",1856,1856,"Grayson Allen Turnover.",13,14,-1,0.837410890264597,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+61,1,"10:44",1844,1844,"Eron Harris Turnover.",13,14,-1,0.833225968598529,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+62,1,"10:44",1844,1844,"Matt Jones Steal.",13,14,-1,0.833225968598529,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+63,1,"10:41",1841,1841,"Matt Jones Turnover.",13,14,-1,0.833225968598529,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+64,1,"10:41",1841,1841,"Miles Bridges Steal.",13,14,-1,0.833225968598529,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+65,1,"10:38",1838,1838,"Foul on Frank Jackson.",13,14,-1,0.832586674441147,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+66,1,"10:38",1838,1838,"Miles Bridges missed Free Throw.",13,14,-1,0.832586674441147,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+67,1,"10:38",1838,1838,"Michigan St Deadball Team Rebound.",13,14,-1,0.832586674441147,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+68,1,"10:38",1838,1838,"Miles Bridges made Free Throw.",13,15,-2,0.814125118295611,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+69,1,"10:20",1820,1820,"Luke Kennard Turnover.",13,15,-2,0.836595419394575,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+70,1,"10:13",1813,1813,"Lourawls Nairn Jr. Turnover.",13,15,-2,0.814664914843643,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+71,1,"10:13",1813,1813,"Matt Jones Steal.",13,15,-2,0.814664914843643,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+72,1,"10:08",1808,1808,"Frank Jackson made Layup. Assisted by Matt Jones.",15,15,0,0.852390208547318,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+73,1,"9:51",1791,1791,"Eron Harris made Layup.",15,17,-2,0.805148766478503,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+74,1,"9:36",1776,1776,"Luke Kennard missed Three Point Jumper.",15,17,-2,0.808444258288483,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+75,1,"9:36",1776,1776,"Kenny Goins Defensive Rebound.",15,17,-2,0.808444258288483,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+76,1,"9:32",1772,1772,"Foul on Chase Jeter.",15,17,-2,0.808444258288483,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+77,1,"9:20",1760,1760,"Eron Harris missed Three Point Jumper.",15,17,-2,0.826538137195289,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+78,1,"9:20",1760,1760,"Amile Jefferson Defensive Rebound.",15,17,-2,0.826538137195289,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+79,1,"8:55",1735,1735,"Amile Jefferson made Layup.",17,17,0,0.849430551770119,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+80,1,"8:48",1728,1728,"Kenny Goins made Dunk. Assisted by Eron Harris.",17,19,-2,0.794035832117623,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+81,1,"8:21",1701,1701,"Luke Kennard made Jumper. Assisted by Amile Jefferson.",19,19,0,0.842600327573496,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+82,1,"7:57",1677,1677,"Miles Bridges missed Jumper.",19,19,0,0.848797063175025,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+83,1,"7:57",1677,1677,"Frank Jackson Defensive Rebound.",19,19,0,0.848797063175025,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+84,1,"7:50",1670,1670,"Foul on Frank Jackson.",19,19,0,0.848797063175025,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+85,1,"7:50",1670,1670,"Frank Jackson Turnover.",19,19,0,0.848797063175025,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+86,1,"7:50",1670,1670,"Official TV Timeout",19,19,0,0.848797063175025,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+87,1,"7:35",1655,1655,"Eron Harris missed Layup.",19,19,0,0.841067986183264,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+88,1,"7:35",1655,1655,"Chase Jeter Block.",19,19,0,0.841067986183264,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+89,1,"7:35",1655,1655,"Grayson Allen Defensive Rebound.",19,19,0,0.841067986183264,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+90,1,"7:21",1641,1641,"Amile Jefferson made Layup. Assisted by Matt Jones.",21,19,2,0.880379384575728,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+91,1,"7:21",1641,1641,"Foul on Matt McQuaid.",21,19,2,0.880379384575728,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+92,1,"7:21",1641,1641,"Amile Jefferson made Free Throw.",22,19,3,0.894285786760669,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+93,1,"7:07",1627,1627,"Nick Ward made Layup.",22,21,1,0.85990936302536,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+94,1,"6:46",1606,1606,"Matt Jones missed Three Point Jumper.",22,21,1,0.862216295777581,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+95,1,"6:46",1606,1606,"Chase Jeter Offensive Rebound.",22,21,1,0.862216295777581,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+96,1,"6:42",1602,1602,"Chase Jeter made Dunk.",24,21,3,0.890568004157515,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+97,1,"6:27",1587,1587,"Miles Bridges made Three Point Jumper. Assisted by Nick Ward.",24,24,0,0.838771200904912,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+98,1,"6:04",1564,1564,"Foul on Alvin Ellis III.",24,24,0,0.832823527741925,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+99,1,"6:04",1564,1564,"Grayson Allen made Free Throw.",25,24,1,0.851716532291587,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+100,1,"6:04",1564,1564,"Grayson Allen made Free Throw.",26,24,2,0.868810729293624,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+101,1,"5:48",1548,1548,"Cassius Winston missed Three Point Jumper.",26,24,2,0.877622410699325,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+102,1,"5:48",1548,1548,"Joshua Langford Offensive Rebound.",26,24,2,0.877622410699325,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+103,1,"5:41",1541,1541,"Foul on Joshua Langford.",26,24,2,0.877622410699325,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+104,1,"5:41",1541,1541,"Joshua Langford Turnover.",26,24,2,0.877622410699325,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+105,1,"5:28",1528,1528,"Grayson Allen Turnover.",26,24,2,0.869769254288972,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+106,1,"5:28",1528,1528,"Kyle Ahrens Steal.",26,24,2,0.869769254288972,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+107,1,"5:23",1523,1523,"Eron Harris made Layup. Assisted by Cassius Winston.",26,26,0,0.834019710015219,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+108,1,"4:58",1498,1498,"Foul on Amile Jefferson.",26,26,0,0.842829665346799,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+109,1,"4:58",1498,1498,"Amile Jefferson Turnover.",26,26,0,0.842829665346799,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+110,1,"4:45",1485,1485,"Joshua Langford made Three Point Jumper.",26,29,-3,0.75903853227854,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+111,1,"4:32",1472,1472,"Grayson Allen made Three Point Jumper. Assisted by Matt Jones.",29,29,0,0.851920059824429,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+112,1,"4:22",1462,1462,"Cassius Winston Turnover.",29,29,0,0.819314474495138,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+113,1,"4:02",1442,1442,"Luke Kennard made Jumper. Assisted by Grayson Allen.",31,29,2,0.879020478759518,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+114,1,"3:48",1428,1428,"Miles Bridges missed Jumper.",31,29,2,0.857693539864927,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+115,1,"3:48",1428,1428,"Nick Ward Offensive Rebound.",31,29,2,0.857693539864927,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+116,1,"3:41",1421,1421,"Joshua Langford missed Three Point Jumper.",31,29,2,0.857693539864927,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+117,1,"3:41",1421,1421,"Luke Kennard Defensive Rebound.",31,29,2,0.857693539864927,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+118,1,"3:22",1402,1402,"Grayson Allen missed Three Point Jumper.",31,29,2,0.878641911925319,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+119,1,"3:22",1402,1402,"Lourawls Nairn Jr. Defensive Rebound.",31,29,2,0.878641911925319,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+120,1,"3:12",1392,1392,"Nick Ward missed Jumper.",31,29,2,0.877434510956521,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+121,1,"3:12",1392,1392,"Miles Bridges Offensive Rebound.",31,29,2,0.877434510956521,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+122,1,"3:08",1388,1388,"Miles Bridges missed Dunk.",31,29,2,0.872195134449476,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+123,1,"3:08",1388,1388,"Lourawls Nairn Jr. Offensive Rebound.",31,29,2,0.872195134449476,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+124,1,"3:03",1383,1383,"Joshua Langford Turnover.",31,29,2,0.872195134449476,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+125,1,"3:03",1383,1383,"Official TV Timeout",31,29,2,0.872195134449476,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+126,1,"2:45",1365,1365,"Foul on Joshua Langford.",31,29,2,0.866470122856819,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+127,1,"2:45",1365,1365,"Grayson Allen missed Free Throw.",31,29,2,0.866470122856819,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+128,1,"2:45",1365,1365,"Duke Deadball Team Rebound.",31,29,2,0.866470122856819,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+129,1,"2:45",1365,1365,"Grayson Allen missed Free Throw.",31,29,2,0.866470122856819,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+130,1,"2:45",1365,1365,"Cassius Winston Defensive Rebound.",31,29,2,0.866470122856819,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+131,1,"2:35",1355,1355,"Miles Bridges missed Dunk.",31,29,2,0.871941011452606,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+132,1,"2:35",1355,1355,"Chase Jeter Defensive Rebound.",31,29,2,0.871941011452606,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+133,1,"2:12",1332,1332,"Grayson Allen missed Three Point Jumper.",31,29,2,0.856431051660813,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+134,1,"2:12",1332,1332,"Eron Harris Defensive Rebound.",31,29,2,0.856431051660813,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+135,1,"2:00",1320,1320,"Eron Harris made Jumper.",31,31,0,0.824539688088018,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+136,1,"1:42",1302,1302,"Grayson Allen missed Jumper.",31,31,0,0.812343148931959,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+137,1,"1:42",1302,1302,"Amile Jefferson Offensive Rebound.",31,31,0,0.812343148931959,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+138,1,"1:35",1295,1295,"Amile Jefferson made Layup.",33,31,2,0.862955706337327,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+139,1,"1:17",1277,1277,"Cassius Winston Turnover.",33,31,2,0.855881517288001,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+140,1,"1:17",1277,1277,"Matt Jones Steal.",33,31,2,0.855881517288001,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+141,1,"1:13",1273,1273,"Luke Kennard missed Three Point Jumper.",33,31,2,0.855881517288001,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+142,1,"1:13",1273,1273,"Michigan St Deadball Team Rebound.",33,31,2,0.855881517288001,"Duke","Michigan State",6,6,0,0,12,400915066,2016-11-29
+143,1,"1:02",1262,1262,"Michigan St  Timeout",33,31,2,0.874292083461895,"Duke","Michigan State",6,5,0,1,12,400915066,2016-11-29
+144,1,"0:55",1255,1255,"Miles Bridges made Jumper. Assisted by Cassius Winston.",33,33,0,0.806776506080487,"Duke","Michigan State",6,5,0,1,12,400915066,2016-11-29
+145,1,"0:41",1241,1241,"Luke Kennard missed Layup.",33,33,0,0.824672078064075,"Duke","Michigan State",6,5,0,1,12,400915066,2016-11-29
+146,1,"0:41",1241,1241,"Amile Jefferson Offensive Rebound.",33,33,0,0.824672078064075,"Duke","Michigan State",6,5,0,1,12,400915066,2016-11-29
+147,1,"0:38",1238,1238,"Amile Jefferson made Layup.",35,33,2,0.852878327037745,"Duke","Michigan State",6,5,0,1,12,400915066,2016-11-29
+148,1,"0:15",1215,1215,"Cassius Winston made Layup.",35,35,0,0.808319308800611,"Duke","Michigan State",6,5,0,1,12,400915066,2016-11-29
+149,1,"0:15",1215,1215,"Duke  Timeout",35,35,0,0.808319308800611,"Duke","Michigan State",6,4,0,1,12,400915066,2016-11-29
+150,1,"0:07",1207,1207,"Grayson Allen missed Jumper.",35,35,0,0.817815322171224,"Duke","Michigan State",6,4,0,1,12,400915066,2016-11-29
+151,1,"0:07",1207,1207,"Lourawls Nairn Jr. Defensive Rebound.",35,35,0,0.817815322171224,"Duke","Michigan State",6,4,0,1,12,400915066,2016-11-29
+152,1,"0:00",1200,1200,"End of 1st half",35,35,0,0.817815322171224,"Duke","Michigan State",6,4,0,1,12,400915066,2016-11-29
+153,2,"20:00",1200,1200,"PLAY",35,35,0,0.817815322171224,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+154,2,"20:00",1200,1200,"Jump Ball won by Michigan St",35,35,0,0.817815322171224,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+155,2,"19:51",1191,1191,"Lourawls Nairn Jr. missed Jumper.",35,35,0,0.839022939152089,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+156,2,"19:51",1191,1191,"Amile Jefferson Defensive Rebound.",35,35,0,0.839022939152089,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+157,2,"19:19",1159,1159,"Luke Kennard made Layup.",37,35,2,0.852546288981219,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+158,2,"19:19",1159,1159,"Foul on Matt McQuaid.",37,35,2,0.852546288981219,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+159,2,"19:19",1159,1159,"Luke Kennard made Free Throw.",38,35,3,0.871744074246968,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+160,2,"19:13",1153,1153,"Eron Harris made Three Point Jumper. Assisted by Lourawls Nairn Jr..",38,38,0,0.807088720195692,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+161,2,"19:00",1140,1140,"Grayson Allen missed Three Point Jumper.",38,38,0,0.800045805973868,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+162,2,"19:00",1140,1140,"Duke Offensive Rebound.",38,38,0,0.800045805973868,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+163,2,"18:51",1131,1131,"Luke Kennard missed Three Point Jumper.",38,38,0,0.820661857459675,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+164,2,"18:51",1131,1131,"Miles Bridges Defensive Rebound.",38,38,0,0.820661857459675,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+165,2,"18:33",1113,1113,"Joshua Langford made Layup.",38,40,-2,0.741375493595701,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+166,2,"18:15",1095,1095,"Grayson Allen made Layup.",40,40,0,0.818784151835209,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+167,2,"17:49",1069,1069,"Lourawls Nairn Jr. Turnover.",40,40,0,0.803658677418138,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+168,2,"17:49",1069,1069,"Grayson Allen Steal.",40,40,0,0.803658677418138,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+169,2,"17:42",1062,1062,"Grayson Allen missed Layup.",40,40,0,0.803658677418138,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+170,2,"17:42",1062,1062,"Lourawls Nairn Jr. Defensive Rebound.",40,40,0,0.803658677418138,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+171,2,"17:09",1029,1029,"Michigan St  Turnover.",40,40,0,0.806612785690852,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+172,2,"16:53",1013,1013,"Frank Jackson missed Three Point Jumper.",40,40,0,0.780211499422368,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+173,2,"16:53",1013,1013,"Miles Bridges Defensive Rebound.",40,40,0,0.780211499422368,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+174,2,"16:47",1007,1007,"Miles Bridges made Layup.",40,42,-2,0.716467721424105,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+175,2,"16:24",984,984,"Grayson Allen made Three Point Jumper.",43,42,1,0.822907408786549,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+176,2,"16:08",968,968,"Nick Ward made Layup. Assisted by Eron Harris.",43,44,-1,0.747083018232663,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+177,2,"15:49",949,949,"Grayson Allen made Three Point Jumper. Assisted by Amile Jefferson.",46,44,2,0.86344529643728,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+178,2,"15:29",929,929,"Foul on Matt Jones.",46,44,2,0.833552064386671,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+179,2,"15:29",929,929,"Official TV Timeout",46,44,2,0.833552064386671,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+180,2,"15:29",929,929,"Miles Bridges made Free Throw.",46,45,1,0.804952291809596,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+181,2,"15:29",929,929,"Miles Bridges missed Free Throw.",46,45,1,0.804952291809596,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+182,2,"15:29",929,929,"Amile Jefferson Defensive Rebound.",46,45,1,0.804952291809596,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+183,2,"15:12",912,912,"Amile Jefferson made Layup. Assisted by Grayson Allen.",48,45,3,0.882780000085222,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+184,2,"15:12",912,912,"Foul on Cassius Winston.",48,45,3,0.882780000085222,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+185,2,"15:12",912,912,"Amile Jefferson missed Free Throw.",48,45,3,0.882780000085222,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+186,2,"15:12",912,912,"Nick Ward Defensive Rebound.",48,45,3,0.882780000085222,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+187,2,"14:58",898,898,"Cassius Winston missed Jumper.",48,45,3,0.872768377685709,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+188,2,"14:58",898,898,"Amile Jefferson Defensive Rebound.",48,45,3,0.872768377685709,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+189,2,"14:41",881,881,"Grayson Allen missed Three Point Jumper.",48,45,3,0.857691369856493,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+190,2,"14:41",881,881,"Kyle Ahrens Defensive Rebound.",48,45,3,0.857691369856493,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+191,2,"14:26",866,866,"Foul on Amile Jefferson.",48,45,3,0.867023538337877,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+192,2,"14:26",866,866,"Nick Ward missed Free Throw.",48,45,3,0.867023538337877,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+193,2,"14:26",866,866,"Michigan St Deadball Team Rebound.",48,45,3,0.867023538337877,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+194,2,"14:26",866,866,"Nick Ward made Free Throw.",48,46,2,0.843341416231913,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+195,2,"14:04",844,844,"Amile Jefferson missed Layup.",48,46,2,0.843125512061854,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+196,2,"14:04",844,844,"Nick Ward Block.",48,46,2,0.843125512061854,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+197,2,"14:04",844,844,"Alvin Ellis III Defensive Rebound.",48,46,2,0.843125512061854,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+198,2,"13:59",839,839,"Cassius Winston made Layup. Assisted by Alvin Ellis III.",48,48,0,0.806905649797307,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+199,2,"13:36",816,816,"Grayson Allen made Layup. Assisted by Frank Jackson.",50,48,2,0.848716217370669,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+200,2,"13:36",816,816,"Foul on Miles Bridges.",50,48,2,0.848716217370669,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+201,2,"13:36",816,816,"Grayson Allen made Free Throw.",51,48,3,0.872214977618817,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+202,2,"13:22",802,802,"Foul on Nick Ward.",51,48,3,0.881093860023599,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+203,2,"13:22",802,802,"Nick Ward Turnover.",51,48,3,0.881093860023599,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+204,2,"13:16",796,796,"Frank Jackson made Jumper.",53,48,5,0.91419931727626,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+205,2,"13:09",789,789,"Foul on Frank Jackson.",53,48,5,0.909802021393957,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+206,2,"13:03",783,783,"Foul on Matt Jones.",53,48,5,0.909802021393957,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+207,2,"13:01",781,781,"Nick Ward Turnover.",53,48,5,0.909802021393957,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+208,2,"12:52",772,772,"Frank Jackson made Layup.",55,48,7,0.940322411078808,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+209,2,"12:42",762,762,"Miles Bridges Turnover.",55,48,7,0.948981988614287,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+210,2,"12:42",762,762,"Matt Jones Steal.",55,48,7,0.948981988614287,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+211,2,"12:21",741,741,"Luke Kennard made Jumper.",57,48,9,0.962558913043089,"Duke","Michigan State",6,4,0,0,12,400915066,2016-11-29
+212,2,"12:10",730,730,"Michigan St  Timeout",57,48,9,0.956346212315414,"Duke","Michigan State",6,3,0,1,12,400915066,2016-11-29
+213,2,"11:51",711,711,"Foul on Miles Bridges.",57,48,9,0.960674285310635,"Duke","Michigan State",6,3,0,1,12,400915066,2016-11-29
+214,2,"11:51",711,711,"Miles Bridges Turnover.",57,48,9,0.960674285310635,"Duke","Michigan State",6,3,0,1,12,400915066,2016-11-29
+215,2,"11:51",711,711,"Official TV Timeout",57,48,9,0.960674285310635,"Duke","Michigan State",6,3,0,1,12,400915066,2016-11-29
+216,2,"11:38",698,698,"Luke Kennard missed Jumper.",57,48,9,0.970813883589027,"Duke","Michigan State",6,3,0,1,12,400915066,2016-11-29
+217,2,"11:38",698,698,"Duke Offensive Rebound.",57,48,9,0.970813883589027,"Duke","Michigan State",6,3,0,1,12,400915066,2016-11-29
+218,2,"11:37",697,697,"Foul on Kenny Goins.",57,48,9,0.970813883589027,"Duke","Michigan State",6,3,0,1,12,400915066,2016-11-29
+219,2,"11:32",692,692,"Foul on Kenny Goins.",57,48,9,0.970813883589027,"Duke","Michigan State",6,3,0,1,12,400915066,2016-11-29
+220,2,"11:32",692,692,"Grayson Allen made Free Throw.",58,48,10,0.976845123929358,"Duke","Michigan State",6,3,0,1,12,400915066,2016-11-29
+221,2,"11:32",692,692,"Grayson Allen made Free Throw.",59,48,11,0.981653576380409,"Duke","Michigan State",6,3,0,1,12,400915066,2016-11-29
+222,2,"11:17",677,677,"Miles Bridges missed Jumper.",59,48,11,0.977501901159419,"Duke","Michigan State",6,3,0,1,12,400915066,2016-11-29
+223,2,"11:17",677,677,"Chase Jeter Defensive Rebound.",59,48,11,0.977501901159419,"Duke","Michigan State",6,3,0,1,12,400915066,2016-11-29
+224,2,"11:01",661,661,"Grayson Allen missed Jumper.",59,48,11,0.975726803630596,"Duke","Michigan State",6,3,0,0,12,400915066,2016-11-29
+225,2,"11:01",661,661,"Miles Bridges Defensive Rebound.",59,48,11,0.975726803630596,"Duke","Michigan State",6,3,0,0,12,400915066,2016-11-29
+226,2,"10:50",650,650,"Foul on Chase Jeter.",59,48,11,0.978645582792221,"Duke","Michigan State",6,3,0,0,12,400915066,2016-11-29
+227,2,"10:50",650,650,"Kenny Goins made Free Throw.",59,49,10,0.973064303400707,"Duke","Michigan State",6,3,0,0,12,400915066,2016-11-29
+228,2,"10:50",650,650,"Kenny Goins made Free Throw.",59,50,9,0.966074845638185,"Duke","Michigan State",6,3,0,0,12,400915066,2016-11-29
+229,2,"10:31",631,631,"Matt Jones missed Three Point Jumper.",59,50,9,0.959651026898127,"Duke","Michigan State",6,3,0,0,12,400915066,2016-11-29
+230,2,"10:31",631,631,"Eron Harris Defensive Rebound.",59,50,9,0.959651026898127,"Duke","Michigan State",6,3,0,0,12,400915066,2016-11-29
+231,2,"10:20",620,620,"Matt McQuaid made Three Point Jumper. Assisted by Lourawls Nairn Jr..",59,53,6,0.942404926708722,"Duke","Michigan State",6,3,0,0,12,400915066,2016-11-29
+232,2,"10:00",600,600,"Amile Jefferson missed Layup.",59,53,6,0.935886488887922,"Duke","Michigan State",6,3,0,0,12,400915066,2016-11-29
+233,2,"10:00",600,600,"Miles Bridges Defensive Rebound.",59,53,6,0.935886488887922,"Duke","Michigan State",6,3,0,0,12,400915066,2016-11-29
+234,2,"9:57",597,597,"Miles Bridges Turnover.",59,53,6,0.929401079781224,"Duke","Michigan State",6,3,0,0,12,400915066,2016-11-29
+235,2,"9:57",597,597,"Luke Kennard Steal.",59,53,6,0.929401079781224,"Duke","Michigan State",6,3,0,0,12,400915066,2016-11-29
+236,2,"9:53",593,593,"Luke Kennard missed Three Point Jumper.",59,53,6,0.929401079781224,"Duke","Michigan State",6,3,0,0,12,400915066,2016-11-29
+237,2,"9:53",593,593,"Frank Jackson Offensive Rebound.",59,53,6,0.929401079781224,"Duke","Michigan State",6,3,0,0,12,400915066,2016-11-29
+238,2,"9:49",589,589,"Frank Jackson made Three Point Jumper. Assisted by Grayson Allen.",62,53,9,0.9626347648756,"Duke","Michigan State",6,3,0,0,12,400915066,2016-11-29
+239,2,"9:28",568,568,"Miles Bridges missed Layup.",62,53,9,0.973590355586392,"Duke","Michigan State",6,3,0,0,12,400915066,2016-11-29
+240,2,"9:28",568,568,"Luke Kennard Block.",62,53,9,0.973590355586392,"Duke","Michigan State",6,3,0,0,12,400915066,2016-11-29
+241,2,"9:28",568,568,"Luke Kennard Defensive Rebound.",62,53,9,0.973590355586392,"Duke","Michigan State",6,3,0,0,12,400915066,2016-11-29
+242,2,"9:22",562,562,"Amile Jefferson missed Layup.",62,53,9,0.973590355586392,"Duke","Michigan State",6,3,0,0,12,400915066,2016-11-29
+243,2,"9:22",562,562,"Amile Jefferson Offensive Rebound.",62,53,9,0.973590355586392,"Duke","Michigan State",6,3,0,0,12,400915066,2016-11-29
+244,2,"9:22",562,562,"Foul on Miles Bridges.",62,53,9,0.973590355586392,"Duke","Michigan State",6,3,0,0,12,400915066,2016-11-29
+245,2,"9:22",562,562,"Amile Jefferson made Free Throw.",63,53,10,0.979471895923917,"Duke","Michigan State",6,3,0,0,12,400915066,2016-11-29
+246,2,"9:22",562,562,"Amile Jefferson missed Free Throw.",63,53,10,0.979471895923917,"Duke","Michigan State",6,3,0,0,12,400915066,2016-11-29
+247,2,"9:22",562,562,"Kyle Ahrens Defensive Rebound.",63,53,10,0.979471895923917,"Duke","Michigan State",6,3,0,0,12,400915066,2016-11-29
+248,2,"9:13",553,553,"Foul on Frank Jackson.",63,53,10,0.976133196828618,"Duke","Michigan State",6,3,0,1,12,400915066,2016-11-29
+249,2,"9:13",553,553,"Duke  Timeout",63,53,10,0.976133196828618,"Duke","Michigan State",6,2,0,1,12,400915066,2016-11-29
+250,2,"8:50",530,530,"Foul on Matt Jones.",63,53,10,0.982678771470303,"Duke","Michigan State",6,2,0,1,12,400915066,2016-11-29
+251,2,"8:50",530,530,"Matt McQuaid made Free Throw.",63,54,9,0.977178962858916,"Duke","Michigan State",6,2,0,1,12,400915066,2016-11-29
+252,2,"8:50",530,530,"Matt McQuaid made Free Throw.",63,55,8,0.969986200532785,"Duke","Michigan State",6,2,0,1,12,400915066,2016-11-29
+253,2,"8:39",519,519,"Foul on Grayson Allen.",63,55,8,0.95932894463331,"Duke","Michigan State",6,2,0,1,12,400915066,2016-11-29
+254,2,"8:39",519,519,"Grayson Allen Turnover.",63,55,8,0.95932894463331,"Duke","Michigan State",6,2,0,1,12,400915066,2016-11-29
+255,2,"8:23",503,503,"Nick Ward Turnover.",63,55,8,0.964343346855363,"Duke","Michigan State",6,2,0,1,12,400915066,2016-11-29
+256,2,"8:05",485,485,"Foul on Kyle Ahrens.",63,55,8,0.962965190687251,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+257,2,"8:05",485,485,"Amile Jefferson made Free Throw.",64,55,9,0.971572314081666,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+258,2,"8:05",485,485,"Amile Jefferson missed Free Throw.",64,55,9,0.971572314081666,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+259,2,"8:05",485,485,"Kyle Ahrens Defensive Rebound.",64,55,9,0.971572314081666,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+260,2,"7:47",467,467,"Cassius Winston Turnover.",64,55,9,0.973485517676805,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+261,2,"7:47",467,467,"Amile Jefferson Steal.",64,55,9,0.973485517676805,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+262,2,"7:28",448,448,"Luke Kennard made Three Point Jumper. Assisted by Amile Jefferson.",67,55,12,0.985683554325976,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+263,2,"7:08",428,428,"Foul on Grayson Allen.",67,55,12,0.98908027480738,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+264,2,"7:08",428,428,"Official TV Timeout",67,55,12,0.98908027480738,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+265,2,"7:08",428,428,"Matt McQuaid made Free Throw.",67,56,11,0.9853553598859,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+266,2,"7:08",428,428,"Matt McQuaid made Free Throw.",67,57,10,0.980385008069882,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+267,2,"6:46",406,406,"Foul on Joshua Langford.",67,57,10,0.986005046290015,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+268,2,"6:46",406,406,"Luke Kennard made Free Throw.",68,57,11,0.989896900523693,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+269,2,"6:46",406,406,"Luke Kennard missed Free Throw.",68,57,11,0.989896900523693,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+270,2,"6:46",406,406,"Joshua Langford Defensive Rebound.",68,57,11,0.989896900523693,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+271,2,"6:26",386,386,"Miles Bridges missed Three Point Jumper.",68,57,11,0.987440260737551,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+272,2,"6:26",386,386,"Joshua Langford Offensive Rebound.",68,57,11,0.987440260737551,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+273,2,"6:23",383,383,"Joshua Langford missed Layup.",68,57,11,0.987440260737551,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+274,2,"6:23",383,383,"Chase Jeter Defensive Rebound.",68,57,11,0.987440260737551,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+275,2,"6:05",365,365,"Grayson Allen missed Jumper.",68,57,11,0.988699572193999,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+276,2,"6:05",365,365,"Miles Bridges Defensive Rebound.",68,57,11,0.988699572193999,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+277,2,"5:59",359,359,"Cassius Winston missed Three Point Jumper.",68,57,11,0.99042023867313,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+278,2,"5:59",359,359,"Luke Kennard Defensive Rebound.",68,57,11,0.99042023867313,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+279,2,"5:31",331,331,"Matt Jones made Layup.",70,57,13,0.996262285501332,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+280,2,"5:23",323,323,"Kenny Goins made Layup. Assisted by Cassius Winston.",70,59,11,0.988682489395249,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+281,2,"4:59",299,299,"Luke Kennard missed Jumper.",70,59,11,0.991806222892633,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+282,2,"4:59",299,299,"Joshua Langford Defensive Rebound.",70,59,11,0.991806222892633,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+283,2,"4:51",291,291,"Matt McQuaid missed Three Point Jumper.",70,59,11,0.991806222892633,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+284,2,"4:51",291,291,"Grayson Allen Defensive Rebound.",70,59,11,0.991806222892633,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+285,2,"4:22",262,262,"Luke Kennard missed Three Point Jumper.",70,59,11,0.993341849012893,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+286,2,"4:22",262,262,"Miles Bridges Defensive Rebound.",70,59,11,0.993341849012893,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+287,2,"4:13",253,253,"Matt McQuaid Turnover.",70,59,11,0.995771173597828,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+288,2,"4:13",253,253,"Grayson Allen Steal.",70,59,11,0.995771173597828,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+289,2,"3:53",233,233,"Matt Jones missed Three Point Jumper.",70,59,11,0.994854796913901,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+290,2,"3:53",233,233,"Michigan St Defensive Rebound.",70,59,11,0.994854796913901,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+291,2,"3:50",230,230,"Official TV Timeout",70,59,11,0.994854796913901,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+292,2,"3:40",220,220,"Miles Bridges missed Three Point Jumper.",70,59,11,0.996597239783933,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+293,2,"3:40",220,220,"Matt McQuaid Offensive Rebound.",70,59,11,0.996597239783933,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+294,2,"3:31",211,211,"Eron Harris missed Jumper.",70,59,11,0.99647628567209,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+295,2,"3:31",211,211,"Luke Kennard Defensive Rebound.",70,59,11,0.99647628567209,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+296,2,"3:06",186,186,"Grayson Allen made Three Point Jumper. Assisted by Frank Jackson.",73,59,14,0.999446575583933,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+297,2,"2:48",168,168,"Kenny Goins missed Jumper.",73,59,14,0.999739448432632,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+298,2,"2:48",168,168,"Miles Bridges Offensive Rebound.",73,59,14,0.999739448432632,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+299,2,"2:44",164,164,"Miles Bridges made Dunk.",73,61,12,0.9992722590777,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+300,2,"2:14",134,134,"Grayson Allen missed Three Point Jumper.",73,61,12,0.999343764921049,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+301,2,"2:14",134,134,"Lourawls Nairn Jr. Defensive Rebound.",73,61,12,0.999343764921049,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+302,2,"2:09",129,129,"Foul on Grayson Allen.",73,61,12,0.999407832317569,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+303,2,"2:09",129,129,"Matt McQuaid made Free Throw.",73,62,11,0.998957008302882,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+304,2,"2:09",129,129,"Matt McQuaid missed Free Throw.",73,62,11,0.998957008302882,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+305,2,"2:09",129,129,"Matt Jones Defensive Rebound.",73,62,11,0.998957008302882,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+306,2,"2:08",128,128,"Foul on Miles Bridges.",73,62,11,0.998957008302882,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+307,2,"2:08",128,128,"Matt Jones missed Free Throw.",73,62,11,0.998957008302882,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+308,2,"2:08",128,128,"Duke Deadball Team Rebound.",73,62,11,0.998957008302882,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+309,2,"2:08",128,128,"Matt Jones missed Free Throw.",73,62,11,0.998957008302882,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+310,2,"2:08",128,128,"Nick Ward Defensive Rebound.",73,62,11,0.998957008302882,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+311,2,"1:58",118,118,"Joshua Langford missed Three Point Jumper.",73,62,11,0.99935636382181,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+312,2,"1:58",118,118,"Amile Jefferson Defensive Rebound.",73,62,11,0.99935636382181,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+313,2,"1:30",90,90,"Amile Jefferson made Layup. Assisted by Grayson Allen.",75,62,13,0.999831985102692,"Duke","Michigan State",6,2,0,0,12,400915066,2016-11-29
+314,2,"1:22",82,82,"Nick Ward made Dunk. Assisted by Cassius Winston.",75,64,11,0.999826628848428,"Duke","Michigan State",6,2,0,1,12,400915066,2016-11-29
+315,2,"1:22",82,82,"Michigan St  Timeout",75,64,11,0.999826628848428,"Duke","Michigan State",6,1,0,1,12,400915066,2016-11-29
+316,2,"0:56",56,56,"Matt Jones missed Three Point Jumper.",75,64,11,0.999969780187524,"Duke","Michigan State",6,1,0,1,12,400915066,2016-11-29
+317,2,"0:56",56,56,"Luke Kennard Offensive Rebound.",75,64,11,0.999969780187524,"Duke","Michigan State",6,1,0,1,12,400915066,2016-11-29
+318,2,"0:52",52,52,"Luke Kennard made Layup.",77,64,13,0.999986869199824,"Duke","Michigan State",6,1,0,1,12,400915066,2016-11-29
+319,2,"0:43",43,43,"Kenny Goins made Layup. Assisted by Cassius Winston.",77,66,11,0.999949110481319,"Duke","Michigan State",6,1,0,1,12,400915066,2016-11-29
+320,2,"0:41",41,41,"Luke Kennard Turnover.",77,66,11,0.99998161602831,"Duke","Michigan State",6,1,0,1,12,400915066,2016-11-29
+321,2,"0:41",41,41,"Cassius Winston Steal.",77,66,11,0.99998161602831,"Duke","Michigan State",6,1,0,1,12,400915066,2016-11-29
+322,2,"0:21",21,21,"Eron Harris made Three Point Jumper. Assisted by Cassius Winston.",77,69,8,0.999998713133872,"Duke","Michigan State",6,1,0,0,12,400915066,2016-11-29
+323,2,"0:20",20,20,"Michigan St  Timeout",77,69,8,0.999998573816793,"Duke","Michigan State",6,0,0,1,12,400915066,2016-11-29
+324,2,"0:12",12,12,"Foul on Miles Bridges.",77,69,8,0.999986719543786,"Duke","Michigan State",6,0,0,1,12,400915066,2016-11-29
+325,2,"0:12",12,12,"Luke Kennard made Free Throw.",78,69,9,0.999996354728249,"Duke","Michigan State",6,0,0,1,12,400915066,2016-11-29
+326,2,"0:12",12,12,"Luke Kennard missed Free Throw.",78,69,9,0.999996354728249,"Duke","Michigan State",6,0,0,1,12,400915066,2016-11-29
+327,2,"0:12",12,12,"Kenny Goins Defensive Rebound.",78,69,9,0.999996354728249,"Duke","Michigan State",6,0,0,1,12,400915066,2016-11-29
+328,2,"0:04",4,4,"Eron Harris missed Three Point Jumper.",78,69,9,0.999999907144195,"Duke","Michigan State",6,0,0,1,12,400915066,2016-11-29
+329,2,"0:04",4,4,"Amile Jefferson Defensive Rebound.",78,69,9,0.999999907144195,"Duke","Michigan State",6,0,0,1,12,400915066,2016-11-29
+330,2,"0:00",0,0,"End of Game",78,69,9,1,"Duke","Michigan State",6,0,0,1,12,400915066,2016-11-29

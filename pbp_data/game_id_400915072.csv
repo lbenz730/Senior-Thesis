@@ -1,0 +1,415 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2700,"PLAY",0,0,0,0.799643314952009,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+2,1,"20:00",2400,2700,"Jump Ball won by Michigan St",0,0,0,0.799643314952009,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+3,1,"19:52",2392,2692,"Matt McQuaid missed Three Point Jumper.",0,0,0,0.799643314952009,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+4,1,"19:52",2392,2692,"Joshua Langford Offensive Rebound.",0,0,0,0.799643314952009,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+5,1,"19:37",2377,2677,"Nick Ward Turnover.",0,0,0,0.794393576906825,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+6,1,"19:37",2377,2677,"Jordan Murphy Steal.",0,0,0,0.794393576906825,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+7,1,"19:27",2367,2667,"Foul on Matt Van Dyk.",0,0,0,0.780782533273461,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+8,1,"19:12",2352,2652,"Dupree McBrayer Turnover.",0,0,0,0.799701175863046,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+9,1,"19:12",2352,2652,"Matt Van Dyk Steal.",0,0,0,0.799701175863046,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+10,1,"19:05",2345,2645,"Cassius Winston missed Jumper.",0,0,0,0.783530236280954,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+11,1,"19:05",2345,2645,"Nick Ward Offensive Rebound.",0,0,0,0.783530236280954,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+12,1,"19:01",2341,2641,"Nick Ward made Layup.",0,2,-2,0.751530090819625,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+13,1,"18:53",2333,2633,"Dupree McBrayer made Jumper. Assisted by Jordan Murphy.",2,2,0,0.789339208806725,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+14,1,"18:47",2327,2627,"Foul on Nate Mason.",2,2,0,0.793573307342922,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+15,1,"18:40",2320,2620,"Nick Ward missed Jumper.",2,2,0,0.793573307342922,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+16,1,"18:40",2320,2620,"Jordan Murphy Defensive Rebound.",2,2,0,0.793573307342922,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+17,1,"18:32",2312,2612,"Foul on Kyle Ahrens.",2,2,0,0.774552211597534,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+18,1,"18:22",2302,2602,"Dupree McBrayer made Layup. Assisted by Nate Mason.",4,2,2,0.809732537539785,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+19,1,"18:16",2296,2596,"Nick Ward missed Jumper.",4,2,2,0.820242000811726,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+20,1,"18:16",2296,2596,"Reggie Lynch Block.",4,2,2,0.820242000811726,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+21,1,"18:16",2296,2596,"Jordan Murphy Defensive Rebound.",4,2,2,0.820242000811726,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+22,1,"18:08",2288,2588,"Amir Coffey Turnover.",4,2,2,0.815248926371816,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+23,1,"18:08",2288,2588,"Cassius Winston Steal.",4,2,2,0.815248926371816,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+24,1,"17:57",2277,2577,"Cassius Winston missed Jumper.",4,2,2,0.820548035486672,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+25,1,"17:57",2277,2577,"Jordan Murphy Block.",4,2,2,0.820548035486672,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+26,1,"17:57",2277,2577,"Nate Mason Defensive Rebound.",4,2,2,0.820548035486672,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+27,1,"17:51",2271,2571,"Amir Coffey Turnover.",4,2,2,0.820548035486672,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+28,1,"17:41",2261,2561,"Joshua Langford made Jumper. Assisted by Cassius Winston.",4,4,0,0.792714115883476,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+29,1,"17:20",2240,2540,"Foul on Kenny Goins.",4,4,0,0.776952822330275,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+30,1,"17:20",2240,2540,"Reggie Lynch missed Free Throw.",4,4,0,0.776952822330275,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+31,1,"17:20",2240,2540,"Minnesota Deadball Team Rebound.",4,4,0,0.776952822330275,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+32,1,"17:20",2240,2540,"Reggie Lynch made Free Throw.",5,4,1,0.792832396873008,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+33,1,"17:01",2221,2521,"Eron Harris missed Jumper.",5,4,1,0.803150868664044,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+34,1,"17:01",2221,2521,"Reggie Lynch Block.",5,4,1,0.803150868664044,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+35,1,"17:01",2221,2521,"Jordan Murphy Defensive Rebound.",5,4,1,0.803150868664044,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+36,1,"16:52",2212,2512,"Dupree McBrayer missed Jumper.",5,4,1,0.803801267777168,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+37,1,"16:52",2212,2512,"Cassius Winston Defensive Rebound.",5,4,1,0.803801267777168,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+38,1,"16:46",2206,2506,"Eron Harris missed Jumper.",5,4,1,0.801117510717069,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+39,1,"16:46",2206,2506,"Kyle Ahrens Offensive Rebound.",5,4,1,0.801117510717069,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+40,1,"16:46",2206,2506,"Kyle Ahrens made Two Point Tip Shot.",5,6,-1,0.762598735601484,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+41,1,"16:28",2188,2488,"Jordan Murphy made Jumper.",7,6,1,0.799842012474345,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+42,1,"16:09",2169,2469,"Cassius Winston missed Three Point Jumper.",7,6,1,0.796073876242147,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+43,1,"16:09",2169,2469,"Jordan Murphy Defensive Rebound.",7,6,1,0.796073876242147,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+44,1,"15:50",2150,2450,"Nate Mason made Three Point Jumper.",10,6,4,0.846970485600089,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+45,1,"15:37",2137,2437,"Foul on Eron Harris.",10,6,4,0.851234382570501,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+46,1,"15:37",2137,2437,"Eron Harris Turnover.",10,6,4,0.851234382570501,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+47,1,"15:37",2137,2437,"Official TV Timeout",10,6,4,0.851234382570501,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+48,1,"15:20",2120,2420,"Foul on Lourawls Nairn Jr..",10,6,4,0.844815237453199,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+49,1,"15:11",2111,2411,"Jordan Murphy Turnover.",10,6,4,0.853522649606811,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+50,1,"15:03",2103,2403,"Eron Harris missed Jumper.",10,6,4,0.842318542202981,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+51,1,"15:03",2103,2403,"Bakary Konate Defensive Rebound.",10,6,4,0.842318542202981,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+52,1,"14:52",2092,2392,"Foul on Bakary Konate.",10,6,4,0.845964962817447,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+53,1,"14:52",2092,2392,"Bakary Konate Turnover.",10,6,4,0.845964962817447,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+54,1,"14:39",2079,2379,"Eron Harris Turnover.",10,6,4,0.842824050976799,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+55,1,"14:39",2079,2379,"Amir Coffey Steal.",10,6,4,0.842824050976799,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+56,1,"14:34",2074,2374,"Foul on Eron Harris.",10,6,4,0.842824050976799,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+57,1,"14:34",2074,2374,"Amir Coffey missed Free Throw.",10,6,4,0.842824050976799,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+58,1,"14:34",2074,2374,"Minnesota Deadball Team Rebound.",10,6,4,0.842824050976799,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+59,1,"14:34",2074,2374,"Amir Coffey made Free Throw.",11,6,5,0.856500613473627,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+60,1,"14:07",2047,2347,"Lourawls Nairn Jr. missed Three Point Jumper.",11,6,5,0.849010154662469,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+61,1,"14:07",2047,2347,"Nick Ward Offensive Rebound.",11,6,5,0.849010154662469,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+62,1,"14:04",2044,2344,"Foul on Bakary Konate.",11,6,5,0.849010154662469,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+63,1,"13:50",2030,2330,"Matt McQuaid missed Jumper.",11,6,5,0.867192765320973,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+64,1,"13:50",2030,2330,"Akeem Springs Block.",11,6,5,0.867192765320973,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+65,1,"13:50",2030,2330,"Reggie Lynch Defensive Rebound.",11,6,5,0.867192765320973,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+66,1,"13:39",2019,2319,"Nate Mason missed Three Point Jumper.",11,6,5,0.861511551377075,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+67,1,"13:39",2019,2319,"Nick Ward Defensive Rebound.",11,6,5,0.861511551377075,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+68,1,"13:09",1989,2289,"Matt McQuaid missed Three Point Jumper.",11,6,5,0.853728801616147,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+69,1,"13:09",1989,2289,"Nick Ward Offensive Rebound.",11,6,5,0.853728801616147,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+70,1,"13:03",1983,2283,"Nick Ward missed Jumper.",11,6,5,0.853728801616147,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+71,1,"13:03",1983,2283,"Reggie Lynch Defensive Rebound.",11,6,5,0.853728801616147,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+72,1,"12:58",1978,2278,"Akeem Springs missed Three Point Jumper.",11,6,5,0.870128624237128,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+73,1,"12:58",1978,2278,"Alvin Ellis III Defensive Rebound.",11,6,5,0.870128624237128,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+74,1,"12:54",1974,2274,"Foul on Reggie Lynch.",11,6,5,0.870128624237128,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+75,1,"12:31",1951,2251,"Foul on Reggie Lynch.",11,6,5,0.863150427686502,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+76,1,"12:31",1951,2251,"Nick Ward made Free Throw.",11,7,4,0.847698634081531,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+77,1,"12:31",1951,2251,"Nick Ward missed Free Throw.",11,7,4,0.847698634081531,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+78,1,"12:31",1951,2251,"Jordan Murphy Defensive Rebound.",11,7,4,0.847698634081531,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+79,1,"12:20",1940,2240,"Amir Coffey missed Jumper.",11,7,4,0.846368565787822,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+80,1,"12:20",1940,2240,"Nick Ward Block.",11,7,4,0.846368565787822,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+81,1,"12:20",1940,2240,"Cassius Winston Defensive Rebound.",11,7,4,0.846368565787822,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+82,1,"12:13",1933,2233,"Cassius Winston Turnover.",11,7,4,0.841784682271735,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+83,1,"12:13",1933,2233,"Eric Curry Steal.",11,7,4,0.841784682271735,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+84,1,"12:09",1929,2229,"Dupree McBrayer made Layup.",13,7,6,0.878611463758435,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+85,1,"12:09",1929,2229,"Foul on Cassius Winston.",13,7,6,0.878611463758435,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+86,1,"12:09",1929,2229,"Dupree McBrayer missed Free Throw.",13,7,6,0.878611463758435,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+87,1,"12:09",1929,2229,"Nick Ward Defensive Rebound.",13,7,6,0.878611463758435,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+88,1,"11:53",1913,2213,"Alvin Ellis III made Jumper. Assisted by Cassius Winston.",13,9,4,0.856576906958626,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+89,1,"11:28",1888,2188,"Jordan Murphy made Jumper. Assisted by Dupree McBrayer.",15,9,6,0.874241553297844,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+90,1,"11:28",1888,2188,"Foul on Nick Ward.",15,9,6,0.874241553297844,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+91,1,"11:28",1888,2188,"Official TV Timeout",15,9,6,0.874241553297844,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+92,1,"11:28",1888,2188,"Jordan Murphy missed Free Throw.",15,9,6,0.874241553297844,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+93,1,"11:28",1888,2188,"Kenny Goins Defensive Rebound.",15,9,6,0.874241553297844,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+94,1,"11:00",1860,2160,"Cassius Winston missed Jumper.",15,9,6,0.881683518429364,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+95,1,"11:00",1860,2160,"Eric Curry Defensive Rebound.",15,9,6,0.881683518429364,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+96,1,"10:55",1855,2155,"Eric Curry Turnover.",15,9,6,0.877077526738812,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+97,1,"10:55",1855,2155,"Cassius Winston Steal.",15,9,6,0.877077526738812,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+98,1,"10:23",1823,2123,"Michigan St  Turnover.",15,9,6,0.881379131718302,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+99,1,"10:04",1804,2104,"Foul on Matt McQuaid.",15,9,6,0.874498776612164,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+100,1,"10:04",1804,2104,"Akeem Springs missed Free Throw.",15,9,6,0.874498776612164,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+101,1,"10:04",1804,2104,"Minnesota Deadball Team Rebound.",15,9,6,0.874498776612164,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+102,1,"10:04",1804,2104,"Akeem Springs made Free Throw.",16,9,7,0.887944009083799,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+103,1,"9:49",1789,2089,"Joshua Langford Turnover.",16,9,7,0.883311226741282,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+104,1,"9:39",1779,2079,"Foul on Eric Curry.",16,9,7,0.877367678366195,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+105,1,"9:39",1779,2079,"Eric Curry Turnover.",16,9,7,0.877367678366195,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+106,1,"9:27",1767,2067,"Joshua Langford Turnover.",16,9,7,0.893981796785031,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+107,1,"9:18",1758,2058,"Dupree McBrayer missed Three Point Jumper.",16,9,7,0.890728266501767,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+108,1,"9:18",1758,2058,"Kenny Goins Defensive Rebound.",16,9,7,0.890728266501767,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+109,1,"8:56",1736,2036,"Alvin Ellis III made Three Point Jumper. Assisted by Lourawls Nairn Jr..",16,12,4,0.846647066301771,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+110,1,"8:39",1719,2019,"Foul on Lourawls Nairn Jr..",16,12,4,0.850618019339946,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+111,1,"8:39",1719,2019,"Dupree McBrayer made Free Throw.",17,12,5,0.866797662324485,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+112,1,"8:39",1719,2019,"Dupree McBrayer made Free Throw.",18,12,6,0.881469074432748,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+113,1,"8:33",1713,2013,"Alvin Ellis III made Three Point Jumper. Assisted by Cassius Winston.",18,15,3,0.832852063080276,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+114,1,"8:22",1702,2002,"Dupree McBrayer Turnover.",18,15,3,0.816828415463992,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+115,1,"8:22",1702,2002,"Joshua Langford Steal.",18,15,3,0.816828415463992,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+116,1,"8:15",1695,1995,"Alvin Ellis III Turnover.",18,15,3,0.828564286241018,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+117,1,"8:15",1695,1995,"Amir Coffey Steal.",18,15,3,0.828564286241018,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+118,1,"8:09",1689,1989,"Amir Coffey made Layup. Assisted by Nate Mason.",20,15,5,0.872063598768148,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+119,1,"7:59",1679,1979,"Foul on Kenny Goins.",20,15,5,0.864692309318949,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+120,1,"7:59",1679,1979,"Kenny Goins Turnover.",20,15,5,0.864692309318949,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+121,1,"7:59",1679,1979,"Official TV Timeout",20,15,5,0.864692309318949,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+122,1,"7:37",1657,1957,"Amir Coffey missed Layup.",20,15,5,0.857323542633754,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+123,1,"7:37",1657,1957,"Matt Van Dyk Defensive Rebound.",20,15,5,0.857323542633754,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+124,1,"7:31",1651,1951,"Foul on Amir Coffey.",20,15,5,0.857323542633754,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+125,1,"7:31",1651,1951,"Matt Van Dyk made Free Throw.",20,16,4,0.840327893732129,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+126,1,"7:31",1651,1951,"Matt Van Dyk missed Free Throw.",20,16,4,0.840327893732129,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+127,1,"7:31",1651,1951,"Jordan Murphy Defensive Rebound.",20,16,4,0.840327893732129,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+128,1,"7:16",1636,1936,"Nate Mason made Jumper.",22,16,6,0.87503914317439,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+129,1,"6:54",1614,1914,"Cassius Winston Turnover.",22,16,6,0.867596811248413,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+130,1,"6:54",1614,1914,"Jordan Murphy Steal.",22,16,6,0.867596811248413,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+131,1,"6:46",1606,1906,"Nate Mason missed Jumper.",22,16,6,0.872009215219088,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+132,1,"6:46",1606,1906,"Alvin Ellis III Block.",22,16,6,0.872009215219088,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+133,1,"6:46",1606,1906,"Minnesota Offensive Rebound.",22,16,6,0.872009215219088,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+134,1,"6:35",1595,1895,"Nate Mason missed Jumper.",22,16,6,0.874651003560923,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+135,1,"6:35",1595,1895,"Nate Mason Offensive Rebound.",22,16,6,0.874651003560923,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+136,1,"6:31",1591,1891,"Foul on Alvin Ellis III.",22,16,6,0.874651003560923,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+137,1,"6:31",1591,1891,"Nate Mason made Free Throw.",23,16,7,0.888723551257113,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+138,1,"6:31",1591,1891,"Nate Mason made Free Throw.",24,16,8,0.901394328539154,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+139,1,"6:13",1573,1873,"Nick Ward missed Jumper.",24,16,8,0.915142744132402,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+140,1,"6:13",1573,1873,"Eric Curry Block.",24,16,8,0.915142744132402,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+141,1,"6:13",1573,1873,"Jordan Murphy Defensive Rebound.",24,16,8,0.915142744132402,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+142,1,"6:04",1564,1864,"Amir Coffey made Layup. Assisted by Jordan Murphy.",26,16,10,0.923056877057586,"Minnesota","Michigan State",6,6,0,0,6.5,400915072,2016-12-27
+143,1,"6:00",1560,1860,"Michigan St  Timeout",26,16,10,0.923056877057586,"Minnesota","Michigan State",6,5,0,1,6.5,400915072,2016-12-27
+144,1,"5:45",1545,1845,"Alvin Ellis III missed Jumper.",26,16,10,0.92616868854608,"Minnesota","Michigan State",6,5,0,1,6.5,400915072,2016-12-27
+145,1,"5:45",1545,1845,"Eric Curry Defensive Rebound.",26,16,10,0.92616868854608,"Minnesota","Michigan State",6,5,0,1,6.5,400915072,2016-12-27
+146,1,"5:45",1545,1845,"Foul on Kenny Goins.",26,16,10,0.92616868854608,"Minnesota","Michigan State",6,5,0,1,6.5,400915072,2016-12-27
+147,1,"5:45",1545,1845,"Eric Curry made Free Throw.",27,16,11,0.935124405165863,"Minnesota","Michigan State",6,5,0,1,6.5,400915072,2016-12-27
+148,1,"5:45",1545,1845,"Eric Curry made Free Throw.",28,16,12,0.94306058159401,"Minnesota","Michigan State",6,5,0,1,6.5,400915072,2016-12-27
+149,1,"5:20",1520,1820,"Lourawls Nairn Jr. made Layup.",28,18,10,0.924833475241348,"Minnesota","Michigan State",6,5,0,1,6.5,400915072,2016-12-27
+150,1,"5:03",1503,1803,"Nate Mason missed Jumper.",28,18,10,0.925488192788502,"Minnesota","Michigan State",6,5,0,1,6.5,400915072,2016-12-27
+151,1,"5:03",1503,1803,"Matt Van Dyk Defensive Rebound.",28,18,10,0.925488192788502,"Minnesota","Michigan State",6,5,0,1,6.5,400915072,2016-12-27
+152,1,"4:32",1472,1772,"Lourawls Nairn Jr. missed Three Point Jumper.",28,18,10,0.936799319331689,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+153,1,"4:32",1472,1772,"Jordan Murphy Defensive Rebound.",28,18,10,0.936799319331689,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+154,1,"4:19",1459,1759,"Foul on Matt Van Dyk.",28,18,10,0.925912945576091,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+155,1,"4:19",1459,1759,"Jordan Murphy made Free Throw.",29,18,11,0.935412983358357,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+156,1,"4:19",1459,1759,"Jordan Murphy made Free Throw.",30,18,12,0.943768830081073,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+157,1,"4:04",1444,1744,"Foul on Eric Curry.",30,18,12,0.952019936801747,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+158,1,"4:04",1444,1744,"Nick Ward made Free Throw.",30,19,11,0.944571125010501,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+159,1,"4:04",1444,1744,"Nick Ward missed Free Throw.",30,19,11,0.944571125010501,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+160,1,"4:04",1444,1744,"Eric Curry Defensive Rebound.",30,19,11,0.944571125010501,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+161,1,"3:52",1432,1732,"Akeem Springs Turnover.",30,19,11,0.937778007459077,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+162,1,"3:52",1432,1732,"Joshua Langford Steal.",30,19,11,0.937778007459077,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+163,1,"3:48",1428,1728,"Nick Ward made Layup. Assisted by Joshua Langford.",30,21,9,0.90948922047055,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+164,1,"3:16",1396,1696,"Amir Coffey made Jumper.",32,21,11,0.942455333747046,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+165,1,"2:57",1377,1677,"Foul on Nate Mason.",32,21,11,0.931391393092541,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+166,1,"2:57",1377,1677,"Official TV Timeout",32,21,11,0.931391393092541,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+167,1,"2:57",1377,1677,"Nick Ward missed Free Throw.",32,21,11,0.931391393092541,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+168,1,"2:57",1377,1677,"Michigan St Deadball Team Rebound.",32,21,11,0.931391393092541,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+169,1,"2:57",1377,1677,"Nick Ward made Free Throw.",32,22,10,0.921572464803584,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+170,1,"2:42",1362,1662,"Nate Mason made Jumper. Assisted by Amir Coffey.",34,22,12,0.947669085281332,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+171,1,"2:23",1343,1643,"Matt McQuaid made Jumper.",34,24,10,0.928529881628617,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+172,1,"2:04",1324,1624,"Akeem Springs Turnover.",34,24,10,0.931910791390451,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+173,1,"2:04",1324,1624,"Matt McQuaid Steal.",34,24,10,0.931910791390451,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+174,1,"1:55",1315,1615,"Foul on Bakary Konate.",34,24,10,0.934771267582054,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+175,1,"1:55",1315,1615,"Nick Ward missed Free Throw.",34,24,10,0.934771267582054,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+176,1,"1:55",1315,1615,"Michigan St Deadball Team Rebound.",34,24,10,0.934771267582054,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+177,1,"1:55",1315,1615,"Nick Ward missed Free Throw.",34,24,10,0.934771267582054,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+178,1,"1:55",1315,1615,"Jordan Murphy Defensive Rebound.",34,24,10,0.934771267582054,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+179,1,"1:43",1303,1603,"Foul on Cassius Winston.",34,24,10,0.921953698381342,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+180,1,"1:43",1303,1603,"Dupree McBrayer made Free Throw.",35,24,11,0.93190385309606,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+181,1,"1:43",1303,1603,"Dupree McBrayer made Free Throw.",36,24,12,0.940667096818524,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+182,1,"1:29",1289,1589,"Matt McQuaid missed Jumper.",36,24,12,0.946250741967515,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+183,1,"1:29",1289,1589,"Jordan Murphy Defensive Rebound.",36,24,12,0.946250741967515,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+184,1,"1:08",1268,1568,"Amir Coffey made Three Point Jumper.",39,24,15,0.970306441106215,"Minnesota","Michigan State",6,5,0,0,6.5,400915072,2016-12-27
+185,1,"1:02",1262,1562,"Minnesota  Timeout",39,24,15,0.970306441106215,"Minnesota","Michigan State",6,4,0,1,6.5,400915072,2016-12-27
+186,1,"0:40",1240,1540,"Nick Ward made Jumper. Assisted by Matt McQuaid.",39,26,13,0.954940766869686,"Minnesota","Michigan State",6,4,0,1,6.5,400915072,2016-12-27
+187,1,"0:10",1210,1510,"Jordan Murphy missed Three Point Jumper.",39,26,13,0.957194234034555,"Minnesota","Michigan State",6,4,0,1,6.5,400915072,2016-12-27
+188,1,"0:10",1210,1510,"Matt McQuaid Defensive Rebound.",39,26,13,0.957194234034555,"Minnesota","Michigan State",6,4,0,1,6.5,400915072,2016-12-27
+189,1,"0:02",1202,1502,"Lourawls Nairn Jr. missed Jumper.",39,26,13,0.956076091982987,"Minnesota","Michigan State",6,4,0,1,6.5,400915072,2016-12-27
+190,1,"0:02",1202,1502,"Eric Curry Defensive Rebound.",39,26,13,0.956076091982987,"Minnesota","Michigan State",6,4,0,1,6.5,400915072,2016-12-27
+191,1,"0:00",1200,1500,"End of 1st half",39,26,13,0.956076091982987,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+192,2,"20:00",1200,1500,"PLAY",39,26,13,0.956076091982987,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+193,2,"20:00",1200,1500,"Jump Ball won by Minnesota",39,26,13,0.956076091982987,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+194,2,"19:49",1189,1489,"Nate Mason missed Jumper.",39,26,13,0.959527472700262,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+195,2,"19:49",1189,1489,"Nick Ward Block.",39,26,13,0.959527472700262,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+196,2,"19:49",1189,1489,"Matt Van Dyk Defensive Rebound.",39,26,13,0.959527472700262,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+197,2,"19:17",1157,1457,"Matt McQuaid missed Three Point Jumper.",39,26,13,0.955859380123319,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+198,2,"19:17",1157,1457,"Jordan Murphy Defensive Rebound.",39,26,13,0.955859380123319,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+199,2,"19:07",1147,1447,"Nate Mason Turnover.",39,26,13,0.960066545593351,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+200,2,"19:07",1147,1447,"Matt McQuaid Steal.",39,26,13,0.960066545593351,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+201,2,"19:03",1143,1443,"Foul on Reggie Lynch.",39,26,13,0.960066545593351,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+202,2,"19:03",1143,1443,"Nick Ward missed Free Throw.",39,26,13,0.960066545593351,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+203,2,"19:03",1143,1443,"Michigan St Deadball Team Rebound.",39,26,13,0.960066545593351,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+204,2,"19:03",1143,1443,"Nick Ward made Free Throw.",39,27,12,0.952915249198758,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+205,2,"18:48",1128,1428,"Jordan Murphy missed Jumper.",39,27,12,0.960815694870593,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+206,2,"18:48",1128,1428,"Nick Ward Block.",39,27,12,0.960815694870593,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+207,2,"18:48",1128,1428,"Reggie Lynch Offensive Rebound.",39,27,12,0.960815694870593,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+208,2,"18:36",1116,1416,"Reggie Lynch missed Jumper.",39,27,12,0.953978508537792,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+209,2,"18:36",1116,1416,"Alvin Ellis III Defensive Rebound.",39,27,12,0.953978508537792,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+210,2,"18:17",1097,1397,"Alvin Ellis III missed Jumper.",39,27,12,0.95627461902687,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+211,2,"18:17",1097,1397,"Alvin Ellis III Offensive Rebound.",39,27,12,0.95627461902687,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+212,2,"18:17",1097,1397,"Alvin Ellis III made Jumper.",39,29,10,0.939471299480116,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+213,2,"17:53",1073,1373,"Jordan Murphy Turnover.",39,29,10,0.934025431983431,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+214,2,"17:53",1073,1373,"Nick Ward Steal.",39,29,10,0.934025431983431,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+215,2,"17:44",1064,1364,"Matt McQuaid Turnover.",39,29,10,0.937215208479142,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+216,2,"17:32",1052,1352,"Amir Coffey missed Jumper.",39,29,10,0.942041580564675,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+217,2,"17:32",1052,1352,"Lourawls Nairn Jr. Defensive Rebound.",39,29,10,0.942041580564675,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+218,2,"17:27",1047,1347,"Eron Harris missed Three Point Jumper.",39,29,10,0.941622178252312,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+219,2,"17:27",1047,1347,"Amir Coffey Defensive Rebound.",39,29,10,0.941622178252312,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+220,2,"17:19",1039,1339,"Nate Mason Turnover.",39,29,10,0.934772138306191,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+221,2,"17:19",1039,1339,"Matt Van Dyk Steal.",39,29,10,0.934772138306191,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+222,2,"17:14",1034,1334,"Lourawls Nairn Jr. made Layup.",39,31,8,0.91046593775569,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+223,2,"16:56",1016,1316,"Nate Mason missed Three Point Jumper.",39,31,8,0.907628628099364,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+224,2,"16:56",1016,1316,"Lourawls Nairn Jr. Defensive Rebound.",39,31,8,0.907628628099364,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+225,2,"16:47",1007,1307,"Alvin Ellis III made Layup. Assisted by Lourawls Nairn Jr..",39,33,6,0.878274315616922,"Minnesota","Michigan State",6,4,0,0,6.5,400915072,2016-12-27
+226,2,"16:45",1005,1305,"Minnesota  Timeout",39,33,6,0.878274315616922,"Minnesota","Michigan State",6,3,0,1,6.5,400915072,2016-12-27
+227,2,"16:33",993,1293,"Amir Coffey missed Jumper.",39,33,6,0.876322358709588,"Minnesota","Michigan State",6,3,0,1,6.5,400915072,2016-12-27
+228,2,"16:33",993,1293,"Jordan Murphy Offensive Rebound.",39,33,6,0.876322358709588,"Minnesota","Michigan State",6,3,0,1,6.5,400915072,2016-12-27
+229,2,"16:33",993,1293,"Foul on Kenny Goins.",39,33,6,0.876322358709588,"Minnesota","Michigan State",6,3,0,1,6.5,400915072,2016-12-27
+230,2,"16:33",993,1293,"Jordan Murphy missed Free Throw.",39,33,6,0.876322358709588,"Minnesota","Michigan State",6,3,0,1,6.5,400915072,2016-12-27
+231,2,"16:33",993,1293,"Minnesota Deadball Team Rebound.",39,33,6,0.876322358709588,"Minnesota","Michigan State",6,3,0,1,6.5,400915072,2016-12-27
+232,2,"16:33",993,1293,"Jordan Murphy made Free Throw.",40,33,7,0.894405440217426,"Minnesota","Michigan State",6,3,0,1,6.5,400915072,2016-12-27
+233,2,"16:09",969,1269,"Lourawls Nairn Jr. missed Layup.",40,33,7,0.895651828103403,"Minnesota","Michigan State",6,3,0,1,6.5,400915072,2016-12-27
+234,2,"16:09",969,1269,"Jordan Murphy Defensive Rebound.",40,33,7,0.895651828103403,"Minnesota","Michigan State",6,3,0,1,6.5,400915072,2016-12-27
+235,2,"15:59",959,1259,"Amir Coffey made Layup. Assisted by Nate Mason.",42,33,9,0.934439970314832,"Minnesota","Michigan State",6,3,0,1,6.5,400915072,2016-12-27
+236,2,"15:27",927,1227,"Lourawls Nairn Jr. made Three Point Jumper. Assisted by Matt Van Dyk.",42,36,6,0.876357648985352,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+237,2,"15:15",915,1215,"Foul on Eron Harris.",42,36,6,0.894159131372775,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+238,2,"15:15",915,1215,"Official TV Timeout",42,36,6,0.894159131372775,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+239,2,"15:03",903,1203,"Foul on Kyle Ahrens.",42,36,6,0.883302625387218,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+240,2,"15:03",903,1203,"Amir Coffey made Free Throw.",43,36,7,0.901624344541298,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+241,2,"15:03",903,1203,"Amir Coffey made Free Throw.",44,36,8,0.917338710621934,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+242,2,"14:50",890,1190,"Joshua Langford made Jumper. Assisted by Matt McQuaid.",44,38,6,0.889801736715329,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+243,2,"14:27",867,1167,"Foul on Alvin Ellis III.",44,38,6,0.881968049690236,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+244,2,"14:27",867,1167,"Jordan Murphy made Free Throw.",45,38,7,0.900499900023186,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+245,2,"14:27",867,1167,"Jordan Murphy missed Free Throw.",45,38,7,0.900499900023186,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+246,2,"14:27",867,1167,"Alvin Ellis III Defensive Rebound.",45,38,7,0.900499900023186,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+247,2,"14:20",860,1160,"Joshua Langford missed Jumper.",45,38,7,0.900499900023186,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+248,2,"14:20",860,1160,"Jordan Murphy Defensive Rebound.",45,38,7,0.900499900023186,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+249,2,"14:12",852,1152,"Akeem Springs made Three Point Jumper. Assisted by Nate Mason.",48,38,10,0.951674139680174,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+250,2,"13:50",830,1130,"Matt Van Dyk made Layup. Assisted by Cassius Winston.",48,40,8,0.931508726475224,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+251,2,"13:27",807,1107,"Foul on Matt Van Dyk.",48,40,8,0.930018875349783,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+252,2,"13:27",807,1107,"Nate Mason made Free Throw.",49,40,9,0.942145837540573,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+253,2,"13:27",807,1107,"Nate Mason made Free Throw.",50,40,10,0.952279160006828,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+254,2,"13:20",800,1100,"Alvin Ellis III missed Three Point Jumper.",50,40,10,0.952279160006828,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+255,2,"13:20",800,1100,"Nate Mason Defensive Rebound.",50,40,10,0.952279160006828,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+256,2,"12:51",771,1071,"Reggie Lynch made Layup. Assisted by Eric Curry.",52,40,12,0.967476652919449,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+257,2,"12:32",752,1052,"Foul on Eric Curry.",52,40,12,0.970249900283409,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+258,2,"12:27",747,1047,"Kyle Ahrens missed Layup.",52,40,12,0.970662249087756,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+259,2,"12:27",747,1047,"Nate Mason Defensive Rebound.",52,40,12,0.970662249087756,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+260,2,"12:02",722,1022,"Reggie Lynch missed Jumper.",52,40,12,0.971660519293876,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+261,2,"12:02",722,1022,"Eron Harris Defensive Rebound.",52,40,12,0.971660519293876,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+262,2,"11:55",715,1015,"Foul on Reggie Lynch.",52,40,12,0.968361329231234,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+263,2,"11:55",715,1015,"Official TV Timeout",52,40,12,0.968361329231234,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+264,2,"11:52",712,1012,"Eron Harris missed Jumper.",52,40,12,0.968361329231234,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+265,2,"11:52",712,1012,"Kyle Ahrens Offensive Rebound.",52,40,12,0.968361329231234,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+266,2,"11:34",694,994,"Nick Ward Turnover.",52,40,12,0.97750223628501,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+267,2,"11:22",682,982,"Dupree McBrayer made Layup.",54,40,14,0.980865970419326,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+268,2,"11:09",669,969,"Eron Harris made Layup.",54,42,12,0.972359325834066,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+269,2,"11:09",669,969,"Foul on Eric Curry.",54,42,12,0.972359325834066,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+270,2,"11:09",669,969,"Eron Harris made Free Throw.",54,43,11,0.965584630734347,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+271,2,"10:51",651,951,"Jordan Murphy missed Jumper.",54,43,11,0.969427372881456,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+272,2,"10:51",651,951,"Kyle Ahrens Defensive Rebound.",54,43,11,0.969427372881456,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+273,2,"10:44",644,944,"Lourawls Nairn Jr. made Layup. Assisted by Kyle Ahrens.",54,45,9,0.951026479709109,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+274,2,"10:20",620,920,"Foul on Kyle Ahrens.",54,45,9,0.95809904446043,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+275,2,"10:20",620,920,"Amir Coffey missed Free Throw.",54,45,9,0.95809904446043,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+276,2,"10:20",620,920,"Minnesota Deadball Team Rebound.",54,45,9,0.95809904446043,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+277,2,"10:20",620,920,"Amir Coffey made Free Throw.",55,45,10,0.967108313862325,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+278,2,"9:56",596,896,"Alvin Ellis III missed Three Point Jumper.",55,45,10,0.959798007444354,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+279,2,"9:56",596,896,"Akeem Springs Defensive Rebound.",55,45,10,0.959798007444354,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+280,2,"9:38",578,878,"Foul on Kyle Ahrens.",55,45,10,0.967905533600171,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+281,2,"9:38",578,878,"Jordan Murphy missed Free Throw.",55,45,10,0.967905533600171,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+282,2,"9:38",578,878,"Nick Ward Defensive Rebound.",55,45,10,0.967905533600171,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+283,2,"9:27",567,867,"Nick Ward made Jumper. Assisted by Cassius Winston.",55,47,8,0.950100927080666,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+284,2,"9:27",567,867,"Foul on Bakary Konate.",55,47,8,0.950100927080666,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+285,2,"9:27",567,867,"Nick Ward missed Free Throw.",55,47,8,0.950100927080666,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+286,2,"9:27",567,867,"Jordan Murphy Defensive Rebound.",55,47,8,0.950100927080666,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+287,2,"9:06",546,846,"Amir Coffey missed Three Point Jumper.",55,47,8,0.943877336147612,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+288,2,"9:06",546,846,"Lourawls Nairn Jr. Defensive Rebound.",55,47,8,0.943877336147612,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+289,2,"8:59",539,839,"Foul on Dupree McBrayer.",55,47,8,0.957612070790311,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+290,2,"8:59",539,839,"Lourawls Nairn Jr. missed Free Throw.",55,47,8,0.957612070790311,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+291,2,"8:59",539,839,"Michigan St Deadball Team Rebound.",55,47,8,0.957612070790311,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+292,2,"8:59",539,839,"Lourawls Nairn Jr. made Free Throw.",55,48,7,0.944601817445871,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+293,2,"8:37",517,817,"Bakary Konate missed Layup.",55,48,7,0.929081390257612,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+294,2,"8:37",517,817,"Alvin Ellis III Block.",55,48,7,0.929081390257612,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+295,2,"8:37",517,817,"Amir Coffey Offensive Rebound.",55,48,7,0.929081390257612,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+296,2,"8:30",510,810,"Amir Coffey missed Three Point Jumper.",55,48,7,0.929081390257612,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+297,2,"8:30",510,810,"Nick Ward Defensive Rebound.",55,48,7,0.929081390257612,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+298,2,"8:23",503,803,"Lourawls Nairn Jr. missed Layup.",55,48,7,0.936835973886636,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+299,2,"8:23",503,803,"Jordan Murphy Block.",55,48,7,0.936835973886636,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+300,2,"8:23",503,803,"Michigan St Offensive Rebound.",55,48,7,0.936835973886636,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+301,2,"8:17",497,797,"Nick Ward made Dunk. Assisted by Eron Harris.",55,50,5,0.89524034349091,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+302,2,"7:59",479,779,"Dupree McBrayer Turnover.",55,50,5,0.900172278324373,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+303,2,"7:59",479,779,"Official TV Timeout",55,50,5,0.900172278324373,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+304,2,"7:31",451,751,"Alvin Ellis III made Three Point Jumper. Assisted by Lourawls Nairn Jr..",55,53,2,0.781315522815193,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+305,2,"7:13",433,733,"Foul on Cassius Winston.",55,53,2,0.800708699126577,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+306,2,"7:13",433,733,"Dupree McBrayer missed Free Throw.",55,53,2,0.800708699126577,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+307,2,"7:13",433,733,"Alvin Ellis III Defensive Rebound.",55,53,2,0.800708699126577,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+308,2,"6:55",415,715,"Alvin Ellis III made Layup. Assisted by Cassius Winston.",55,55,0,0.668926539222659,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+309,2,"6:39",399,699,"Foul on Cassius Winston.",55,55,0,0.671748541681405,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+310,2,"6:39",399,699,"Amir Coffey made Free Throw.",56,55,1,0.736575425802636,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+311,2,"6:39",399,699,"Amir Coffey made Free Throw.",57,55,2,0.792553247543948,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+312,2,"6:33",393,693,"Alvin Ellis III missed Three Point Jumper.",57,55,2,0.792553247543948,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+313,2,"6:33",393,693,"Amir Coffey Defensive Rebound.",57,55,2,0.792553247543948,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+314,2,"6:21",381,681,"Jordan Murphy missed Jumper.",57,55,2,0.792023484622936,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+315,2,"6:21",381,681,"Kenny Goins Block.",57,55,2,0.792023484622936,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+316,2,"6:21",381,681,"Jordan Murphy Offensive Rebound.",57,55,2,0.792023484622936,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+317,2,"6:19",379,679,"Foul on Kenny Goins.",57,55,2,0.779367706409166,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+318,2,"6:19",379,679,"Jordan Murphy missed Free Throw.",57,55,2,0.779367706409166,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+319,2,"6:19",379,679,"Minnesota Deadball Team Rebound.",57,55,2,0.779367706409166,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+320,2,"6:19",379,679,"Jordan Murphy missed Free Throw.",57,55,2,0.779367706409166,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+321,2,"6:19",379,679,"Nick Ward Defensive Rebound.",57,55,2,0.779367706409166,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+322,2,"6:01",361,661,"Nick Ward made Jumper.",57,57,0,0.652988314324054,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+323,2,"5:29",329,629,"Amir Coffey missed Jumper.",57,57,0,0.660934610220785,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+324,2,"5:29",329,629,"Michigan St Defensive Rebound.",57,57,0,0.660934610220785,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+325,2,"5:29",329,629,"Foul on Jordan Murphy.",57,57,0,0.660934610220785,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+326,2,"5:29",329,629,"Alvin Ellis III made Free Throw.",57,58,-1,0.587477794308598,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+327,2,"5:29",329,629,"Alvin Ellis III missed Free Throw.",57,58,-1,0.587477794308598,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+328,2,"5:29",329,629,"Jordan Murphy Defensive Rebound.",57,58,-1,0.587477794308598,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+329,2,"5:09",309,609,"Nate Mason made Jumper.",59,58,1,0.716645643843764,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+330,2,"4:41",281,581,"Nick Ward made Jumper. Assisted by Joshua Langford.",59,60,-1,0.560700985298353,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+331,2,"4:41",281,581,"Foul on Reggie Lynch.",59,60,-1,0.560700985298353,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+332,2,"4:41",281,581,"Nick Ward missed Free Throw.",59,60,-1,0.560700985298353,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+333,2,"4:41",281,581,"Jordan Murphy Defensive Rebound.",59,60,-1,0.560700985298353,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+334,2,"4:21",261,561,"Foul on Lourawls Nairn Jr..",59,60,-1,0.561231369016186,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+335,2,"4:21",261,561,"Nate Mason made Free Throw.",60,60,0,0.650085198264232,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+336,2,"4:21",261,561,"Nate Mason made Free Throw.",61,60,1,0.729614274177298,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+337,2,"3:54",234,534,"Nick Ward made Jumper. Assisted by Alvin Ellis III.",61,62,-1,0.539780124259544,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+338,2,"3:32",212,512,"Nate Mason missed Three Point Jumper.",61,62,-1,0.524806059271655,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+339,2,"3:32",212,512,"Lourawls Nairn Jr. Defensive Rebound.",61,62,-1,0.524806059271655,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+340,2,"3:02",182,482,"Nick Ward made Layup.",61,64,-3,0.268335086051786,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+341,2,"2:51",171,471,"Dupree McBrayer missed Jumper.",61,64,-3,0.291648574838183,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+342,2,"2:51",171,471,"Nick Ward Block.",61,64,-3,0.291648574838183,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+343,2,"2:51",171,471,"Minnesota Offensive Rebound.",61,64,-3,0.291648574838183,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+344,2,"2:46",166,466,"Official TV Timeout",61,64,-3,0.308569082211323,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+345,2,"2:43",163,463,"Amir Coffey missed Jumper.",61,64,-3,0.308569082211323,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+346,2,"2:43",163,463,"Eric Curry Offensive Rebound.",61,64,-3,0.308569082211323,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+347,2,"2:39",159,459,"Foul on Joshua Langford.",61,64,-3,0.246627967150387,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+348,2,"2:39",159,459,"Eric Curry made Free Throw.",62,64,-2,0.359810403919495,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+349,2,"2:39",159,459,"Eric Curry made Free Throw.",63,64,-1,0.491076922268066,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+350,2,"2:22",142,442,"Nick Ward missed Jumper.",63,64,-1,0.500859717805926,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+351,2,"2:22",142,442,"Bakary Konate Block.",63,64,-1,0.500859717805926,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+352,2,"2:22",142,442,"Michigan St Offensive Rebound.",63,64,-1,0.500859717805926,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+353,2,"2:13",133,433,"Cassius Winston made Layup.",63,66,-3,0.25668764187051,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+354,2,"1:51",111,411,"Nate Mason made Jumper. Assisted by Amir Coffey.",65,66,-1,0.484140010099576,"Minnesota","Michigan State",6,3,0,0,6.5,400915072,2016-12-27
+355,2,"1:36",96,396,"Michigan St  Timeout",65,66,-1,0.432678964909623,"Minnesota","Michigan State",6,2,0,1,6.5,400915072,2016-12-27
+356,2,"1:29",89,389,"Joshua Langford missed Three Point Jumper.",65,66,-1,0.464725037333482,"Minnesota","Michigan State",6,2,0,1,6.5,400915072,2016-12-27
+357,2,"1:29",89,389,"Jordan Murphy Defensive Rebound.",65,66,-1,0.464725037333482,"Minnesota","Michigan State",6,2,0,1,6.5,400915072,2016-12-27
+358,2,"1:11",71,371,"Dupree McBrayer missed Jumper.",65,66,-1,0.399853353256755,"Minnesota","Michigan State",6,2,0,1,6.5,400915072,2016-12-27
+359,2,"1:11",71,371,"Eron Harris Defensive Rebound.",65,66,-1,0.399853353256755,"Minnesota","Michigan State",6,2,0,1,6.5,400915072,2016-12-27
+360,2,"0:51",51,351,"Eron Harris missed Jumper.",65,66,-1,0.426389870083746,"Minnesota","Michigan State",6,2,0,1,6.5,400915072,2016-12-27
+361,2,"0:51",51,351,"Bakary Konate Block.",65,66,-1,0.426389870083746,"Minnesota","Michigan State",6,2,0,1,6.5,400915072,2016-12-27
+362,2,"0:51",51,351,"Nate Mason Defensive Rebound.",65,66,-1,0.426389870083746,"Minnesota","Michigan State",6,2,0,1,6.5,400915072,2016-12-27
+363,2,"0:45",45,345,"Foul on Cassius Winston.",65,66,-1,0.364417772601691,"Minnesota","Michigan State",6,2,0,1,6.5,400915072,2016-12-27
+364,2,"0:45",45,345,"Nate Mason made Free Throw.",66,66,0,0.564540704176153,"Minnesota","Michigan State",6,2,0,1,6.5,400915072,2016-12-27
+365,2,"0:45",45,345,"Nate Mason missed Free Throw.",66,66,0,0.564540704176153,"Minnesota","Michigan State",6,2,0,1,6.5,400915072,2016-12-27
+366,2,"0:45",45,345,"Nick Ward Defensive Rebound.",66,66,0,0.564540704176153,"Minnesota","Michigan State",6,2,0,1,6.5,400915072,2016-12-27
+367,2,"0:34",34,334,"Michigan St  Timeout",66,66,0,0.461866063608609,"Minnesota","Michigan State",6,1,0,1,6.5,400915072,2016-12-27
+368,2,"0:26",26,326,"Foul on Nate Mason.",66,66,0,0.570605846505203,"Minnesota","Michigan State",6,1,0,1,6.5,400915072,2016-12-27
+369,2,"0:26",26,326,"Nick Ward missed Free Throw.",66,66,0,0.570605846505203,"Minnesota","Michigan State",6,1,0,1,6.5,400915072,2016-12-27
+370,2,"0:26",26,326,"Bakary Konate Defensive Rebound.",66,66,0,0.570605846505203,"Minnesota","Michigan State",6,1,0,1,6.5,400915072,2016-12-27
+371,2,"0:03",3,303,"Amir Coffey missed Jumper.",66,66,0,0.548473465523307,"Minnesota","Michigan State",6,1,0,1,6.5,400915072,2016-12-27
+372,2,"0:03",3,303,"Alvin Ellis III Defensive Rebound.",66,66,0,0.548473465523307,"Minnesota","Michigan State",6,1,0,1,6.5,400915072,2016-12-27
+373,2,"0:00",300,300,"End of 2nd half",66,66,0,0.643190701264392,"Minnesota","Michigan State",6,1,0,0,6.5,400915072,2016-12-27
+374,3,"5:00",300,300,"PLAY",66,66,0,0.643190701264392,"Minnesota","Michigan State",7,2,0,0,6.5,400915072,2016-12-27
+375,3,"5:00",300,300,"Jump Ball won by Minnesota",66,66,0,0.643190701264392,"Minnesota","Michigan State",7,2,0,0,6.5,400915072,2016-12-27
+376,3,"4:34",274,274,"Dupree McBrayer missed Jumper.",66,66,0,0.637276261942971,"Minnesota","Michigan State",7,2,0,0,6.5,400915072,2016-12-27
+377,3,"4:34",274,274,"Bakary Konate Offensive Rebound.",66,66,0,0.637276261942971,"Minnesota","Michigan State",7,2,0,0,6.5,400915072,2016-12-27
+378,3,"4:30",270,270,"Bakary Konate Turnover.",66,66,0,0.637276261942971,"Minnesota","Michigan State",7,2,0,0,6.5,400915072,2016-12-27
+379,3,"4:22",262,262,"Alvin Ellis III missed Three Point Jumper.",66,66,0,0.650085198264232,"Minnesota","Michigan State",7,2,0,0,6.5,400915072,2016-12-27
+380,3,"4:22",262,262,"Michigan St Offensive Rebound.",66,66,0,0.650085198264232,"Minnesota","Michigan State",7,2,0,0,6.5,400915072,2016-12-27
+381,3,"3:58",238,238,"Joshua Langford made Layup.",66,68,-2,0.43872343384544,"Minnesota","Michigan State",7,2,0,0,6.5,400915072,2016-12-27
+382,3,"3:38",218,218,"Dupree McBrayer missed Three Point Jumper.",66,68,-2,0.415811319886844,"Minnesota","Michigan State",7,2,0,0,6.5,400915072,2016-12-27
+383,3,"3:38",218,218,"Jordan Murphy Offensive Rebound.",66,68,-2,0.415811319886844,"Minnesota","Michigan State",7,2,0,0,6.5,400915072,2016-12-27
+384,3,"3:33",213,213,"Foul on Alvin Ellis III.",66,68,-2,0.415811319886844,"Minnesota","Michigan State",7,2,0,0,6.5,400915072,2016-12-27
+385,3,"3:33",213,213,"Jordan Murphy made Free Throw.",67,68,-1,0.524806059271655,"Minnesota","Michigan State",7,2,0,0,6.5,400915072,2016-12-27
+386,3,"3:33",213,213,"Jordan Murphy made Free Throw.",68,68,0,0.631487600401349,"Minnesota","Michigan State",7,2,0,0,6.5,400915072,2016-12-27
+387,3,"3:17",197,197,"Eron Harris missed Jumper.",68,68,0,0.602495457612115,"Minnesota","Michigan State",7,2,0,0,6.5,400915072,2016-12-27
+388,3,"3:17",197,197,"Jordan Murphy Defensive Rebound.",68,68,0,0.602495457612115,"Minnesota","Michigan State",7,2,0,0,6.5,400915072,2016-12-27
+389,3,"3:02",182,182,"Nate Mason missed Jumper.",68,68,0,0.611595036034917,"Minnesota","Michigan State",7,2,0,0,6.5,400915072,2016-12-27
+390,3,"3:02",182,182,"Eron Harris Defensive Rebound.",68,68,0,0.611595036034917,"Minnesota","Michigan State",7,2,0,0,6.5,400915072,2016-12-27
+391,3,"2:33",153,153,"Lourawls Nairn Jr. made Three Point Jumper.",68,71,-3,0.246627967150387,"Minnesota","Michigan State",7,2,0,0,6.5,400915072,2016-12-27
+392,3,"2:22",142,142,"Minnesota  Timeout",68,71,-3,0.262532336518283,"Minnesota","Michigan State",7,1,0,1,6.5,400915072,2016-12-27
+393,3,"2:12",132,132,"Jordan Murphy made Layup. Assisted by Amir Coffey.",70,71,-1,0.508071378443291,"Minnesota","Michigan State",7,1,0,1,6.5,400915072,2016-12-27
+394,3,"2:12",132,132,"Foul on Alvin Ellis III.",70,71,-1,0.508071378443291,"Minnesota","Michigan State",7,1,0,1,6.5,400915072,2016-12-27
+395,3,"2:12",132,132,"Jordan Murphy missed Free Throw.",70,71,-1,0.508071378443291,"Minnesota","Michigan State",7,1,0,1,6.5,400915072,2016-12-27
+396,3,"2:12",132,132,"Nick Ward Defensive Rebound.",70,71,-1,0.508071378443291,"Minnesota","Michigan State",7,1,0,1,6.5,400915072,2016-12-27
+397,3,"1:47",107,107,"Lourawls Nairn Jr. missed Three Point Jumper.",70,71,-1,0.432272648762716,"Minnesota","Michigan State",7,1,0,1,6.5,400915072,2016-12-27
+398,3,"1:47",107,107,"Bakary Konate Defensive Rebound.",70,71,-1,0.432272648762716,"Minnesota","Michigan State",7,1,0,1,6.5,400915072,2016-12-27
+399,3,"1:32",92,92,"Amir Coffey missed Three Point Jumper.",70,71,-1,0.432678964909623,"Minnesota","Michigan State",7,1,0,1,6.5,400915072,2016-12-27
+400,3,"1:32",92,92,"Bakary Konate Offensive Rebound.",70,71,-1,0.432678964909623,"Minnesota","Michigan State",7,1,0,1,6.5,400915072,2016-12-27
+401,3,"1:27",87,87,"Bakary Konate made Dunk.",72,71,1,0.784417367297518,"Minnesota","Michigan State",7,1,0,1,6.5,400915072,2016-12-27
+402,3,"1:04",64,64,"Eron Harris made Layup.",72,73,-1,0.353658240863341,"Minnesota","Michigan State",7,1,0,0,6.5,400915072,2016-12-27
+403,3,"0:34",34,34,"Foul on Eron Harris.",72,73,-1,0.272793465270444,"Minnesota","Michigan State",7,1,0,0,6.5,400915072,2016-12-27
+404,3,"0:34",34,34,"Dupree McBrayer made Free Throw.",73,73,0,0.461866063608609,"Minnesota","Michigan State",7,1,0,0,6.5,400915072,2016-12-27
+405,3,"0:34",34,34,"Dupree McBrayer made Free Throw.",74,73,1,0.662583939519917,"Minnesota","Michigan State",7,1,0,0,6.5,400915072,2016-12-27
+406,3,"0:24",24,24,"Michigan St  Timeout",74,73,1,0.771021122980448,"Minnesota","Michigan State",7,0,0,1,6.5,400915072,2016-12-27
+407,3,"0:11",11,11,"Foul on Nate Mason.",74,73,1,0.83979862044587,"Minnesota","Michigan State",7,0,0,1,6.5,400915072,2016-12-27
+408,3,"0:11",11,11,"Minnesota  Timeout",74,73,1,0.83979862044587,"Minnesota","Michigan State",7,-1,0,1,6.5,400915072,2016-12-27
+409,3,"0:11",11,11,"Alvin Ellis III made Free Throw.",74,74,0,0.574810720497633,"Minnesota","Michigan State",7,-1,0,1,6.5,400915072,2016-12-27
+410,3,"0:11",11,11,"Alvin Ellis III made Free Throw.",74,75,-1,0.258511832681437,"Minnesota","Michigan State",7,-1,0,1,6.5,400915072,2016-12-27
+411,3,"0:11",11,11,"Michigan St  Timeout",74,75,-1,0.258511832681437,"Minnesota","Michigan State",7,-2,0,1,6.5,400915072,2016-12-27
+412,3,"0:02",2,2,"Nate Mason missed Jumper.",74,75,-1,0.178233656661828,"Minnesota","Michigan State",7,-2,0,1,6.5,400915072,2016-12-27
+413,3,"0:02",2,2,"Minnesota Offensive Rebound.",74,75,-1,0.178233656661828,"Minnesota","Michigan State",7,-2,0,1,6.5,400915072,2016-12-27
+414,3,"0:00",0,0,"End of Game",74,75,-1,4.36250603236329e-09,"Minnesota","Michigan State",7,-2,0,1,6.5,400915072,2016-12-27

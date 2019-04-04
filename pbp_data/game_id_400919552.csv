@@ -1,0 +1,387 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.812374559801713,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+2,1,"20:00",2400,2400,"Jump Ball won by Ohio",0,0,0,0.812374559801713,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+3,1,"19:51",2391,2391,"Antonio Campbell Turnover.",0,0,0,0.812374559801713,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+4,1,"19:51",2391,2391,"Foul on Antonio Campbell.",0,0,0,0.812374559801713,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+5,1,"19:33",2373,2373,"Foul on Adonis De La Rosa.",0,0,0,0.806537687201043,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+6,1,"19:33",2373,2373,"Adonis De La Rosa Turnover.",0,0,0,0.806537687201043,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+7,1,"19:30",2370,2370,"Antonio Campbell missed Three Point Jumper.",0,0,0,0.806537687201043,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+8,1,"19:30",2370,2370,"Kenny Kaminski Offensive Rebound.",0,0,0,0.806537687201043,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+9,1,"19:30",2370,2370,"Kenny Kaminski missed Layup.",0,0,0,0.806537687201043,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+10,1,"19:30",2370,2370,"Kent State Deadball Team Rebound.",0,0,0,0.806537687201043,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+11,1,"18:55",2335,2335,"Deon Edwin made Layup.",0,2,-2,0.770152712867531,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+12,1,"18:24",2304,2304,"Foul on Kevin Zabo.",0,2,-2,0.75468470790595,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+13,1,"18:24",2304,2304,"Jaaron Simmons missed Free Throw.",0,2,-2,0.75468470790595,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+14,1,"18:24",2304,2304,"Ohio Deadball Team Rebound.",0,2,-2,0.75468470790595,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+15,1,"18:24",2304,2304,"Jaaron Simmons made Free Throw.",1,2,-1,0.772638799662112,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+16,1,"18:07",2287,2287,"Jaylin Walker made Jumper.",1,4,-3,0.73794117428992,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+17,1,"17:54",2274,2274,"Kenny Kaminski missed Three Point Jumper.",1,4,-3,0.745968025892881,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+18,1,"17:54",2274,2274,"Kevin Zabo Defensive Rebound.",1,4,-3,0.745968025892881,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+19,1,"17:44",2264,2264,"Kevin Zabo Turnover.",1,4,-3,0.740296985172898,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+20,1,"17:44",2264,2264,"Kenny Kaminski Steal.",1,4,-3,0.740296985172898,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+21,1,"17:35",2255,2255,"Antonio Campbell made Layup. Assisted by Gavin Block.",3,4,-1,0.776895106974611,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+22,1,"17:26",2246,2246,"Jaylin Walker made Three Point Jumper. Assisted by Deon Edwin.",3,7,-4,0.719166834814288,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+23,1,"17:10",2230,2230,"Antonio Campbell made Three Point Jumper. Assisted by Jaaron Simmons.",6,7,-1,0.778231919028402,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+24,1,"16:57",2217,2217,"Jimmy Hall made Jumper. Assisted by Deon Edwin.",6,9,-3,0.722639663785461,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+25,1,"16:28",2188,2188,"Kenny Kaminski missed Jumper.",6,9,-3,0.735797153269634,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+26,1,"16:28",2188,2188,"Jaaron Simmons Offensive Rebound.",6,9,-3,0.735797153269634,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+27,1,"16:21",2181,2181,"Kenny Kaminski made Three Point Jumper. Assisted by Antonio Campbell.",9,9,0,0.794101038783123,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+28,1,"15:59",2159,2159,"Jimmy Hall made Layup.",9,11,-2,0.744186042520908,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+29,1,"15:39",2139,2139,"Jordan Dartis made Layup.",11,11,0,0.791418452461754,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+30,1,"15:28",2128,2128,"Kevin Zabo made Layup.",11,13,-2,0.74645100167992,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+31,1,"15:14",2114,2114,"Jaaron Simmons made Layup.",13,13,0,0.79703377551991,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+32,1,"15:02",2102,2102,"Jimmy Hall missed Three Point Jumper.",13,13,0,0.785669879029813,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+33,1,"15:02",2102,2102,"Kent State Offensive Rebound.",13,13,0,0.785669879029813,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+34,1,"14:59",2099,2099,"Official TV Timeout",13,13,0,0.781977006727327,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+35,1,"14:58",2098,2098,"Jaylin Walker made Three Point Jumper. Assisted by Jalen Avery.",13,16,-3,0.711995576944248,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+36,1,"14:37",2077,2077,"Kenny Kaminski made Three Point Jumper. Assisted by Rodney Culver.",16,16,0,0.790058177805968,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+37,1,"14:22",2062,2062,"Jimmy Hall missed Layup.",16,16,0,0.781687131268521,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+38,1,"14:22",2062,2062,"Rodney Culver Defensive Rebound.",16,16,0,0.781687131268521,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+39,1,"14:12",2052,2052,"Jaaron Simmons missed Three Point Jumper.",16,16,0,0.793880097207868,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+40,1,"14:12",2052,2052,"Desmond Ridenour Defensive Rebound.",16,16,0,0.793880097207868,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+41,1,"13:42",2022,2022,"Jaylin Walker made Jumper.",16,18,-2,0.737013825266984,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+42,1,"13:23",2003,2003,"Kenny Kaminski made Three Point Jumper. Assisted by Jaaron Simmons.",19,18,1,0.799708558588712,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+43,1,"13:11",1991,1991,"Jimmy Hall missed Jumper.",19,18,1,0.80805182453718,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+44,1,"13:11",1991,1991,"Rodney Culver Defensive Rebound.",19,18,1,0.80805182453718,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+45,1,"13:03",1983,1983,"Rodney Culver Turnover.",19,18,1,0.791429309701443,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+46,1,"12:56",1976,1976,"Foul on Jordan Dartis.",19,18,1,0.812554287703338,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+47,1,"12:45",1965,1965,"Desmond Ridenour missed Jumper.",19,18,1,0.802399314352776,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+48,1,"12:45",1965,1965,"Alonzo Walker Offensive Rebound.",19,18,1,0.802399314352776,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+49,1,"12:45",1965,1965,"Alonzo Walker Turnover.",19,18,1,0.802399314352776,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+50,1,"12:45",1965,1965,"Jordan Dartis Steal.",19,18,1,0.802399314352776,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+51,1,"12:22",1942,1942,"Rodney Culver missed Layup.",19,18,1,0.801801327231827,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+52,1,"12:22",1942,1942,"Danny Pippen Block.",19,18,1,0.801801327231827,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+53,1,"12:22",1942,1942,"Danny Pippen Defensive Rebound.",19,18,1,0.801801327231827,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+54,1,"12:14",1934,1934,"Jaylin Walker missed Three Point Jumper.",19,18,1,0.794656752198049,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+55,1,"12:14",1934,1934,"Rodney Culver Defensive Rebound.",19,18,1,0.794656752198049,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+56,1,"11:56",1916,1916,"Foul on Danny Pippen.",19,18,1,0.812995485132378,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+57,1,"11:56",1916,1916,"Official TV Timeout",19,18,1,0.812995485132378,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+58,1,"11:56",1916,1916,"Kenny Kaminski made Free Throw.",20,18,2,0.831813533924567,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+59,1,"11:56",1916,1916,"Kenny Kaminski made Free Throw.",21,18,3,0.849089446775869,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+60,1,"11:44",1904,1904,"Foul on Danny Pippen.",21,18,3,0.836974583637258,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+61,1,"11:44",1904,1904,"Danny Pippen Turnover.",21,18,3,0.836974583637258,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+62,1,"11:20",1880,1880,"Antonio Campbell missed Three Point Jumper.",21,18,3,0.837480215918103,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+63,1,"11:20",1880,1880,"Gavin Block Offensive Rebound.",21,18,3,0.837480215918103,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+64,1,"11:10",1870,1870,"Gavin Block made Jumper.",23,18,5,0.86666149179964,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+65,1,"10:47",1847,1847,"Deon Edwin Turnover.",23,18,5,0.861301036563316,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+66,1,"10:47",1847,1847,"Jaaron Simmons Steal.",23,18,5,0.861301036563316,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+67,1,"10:39",1839,1839,"Jason Carter missed Layup.",23,18,5,0.866732340217777,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+68,1,"10:39",1839,1839,"Jimmy Hall Defensive Rebound.",23,18,5,0.866732340217777,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+69,1,"10:34",1834,1834,"Jimmy Hall Turnover.",23,18,5,0.866732340217777,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+70,1,"10:34",1834,1834,"Foul on Jimmy Hall.",23,18,5,0.866732340217777,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+71,1,"10:24",1824,1824,"Foul on Jaaron Simmons.",23,18,5,0.876008393901894,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+72,1,"10:24",1824,1824,"Jaaron Simmons Turnover.",23,18,5,0.876008393901894,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+73,1,"10:11",1811,1811,"Deon Edwin missed Layup.",23,18,5,0.875848325014116,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+74,1,"10:11",1811,1811,"Gavin Block Defensive Rebound.",23,18,5,0.875848325014116,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+75,1,"10:04",1804,1804,"Mike Laster missed Three Point Jumper.",23,18,5,0.867830920007271,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+76,1,"10:04",1804,1804,"Jimmy Hall Defensive Rebound.",23,18,5,0.867830920007271,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+77,1,"9:39",1779,1779,"Jimmy Hall Turnover.",23,18,5,0.857040325865647,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+78,1,"9:39",1779,1779,"Mike Laster Steal.",23,18,5,0.857040325865647,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+79,1,"9:23",1763,1763,"Jaaron Simmons missed Three Point Jumper.",23,18,5,0.874705236001302,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+80,1,"9:23",1763,1763,"Deon Edwin Block.",23,18,5,0.874705236001302,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+81,1,"9:23",1763,1763,"Mike Laster Offensive Rebound.",23,18,5,0.874705236001302,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+82,1,"9:13",1753,1753,"Mike Laster Turnover.",23,18,5,0.868758420534879,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+83,1,"9:13",1753,1753,"Desmond Ridenour Steal.",23,18,5,0.868758420534879,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+84,1,"9:07",1747,1747,"Mitch Peterson missed Three Point Jumper.",23,18,5,0.864445842875118,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+85,1,"9:07",1747,1747,"Antonio Campbell Defensive Rebound.",23,18,5,0.864445842875118,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+86,1,"9:01",1741,1741,"Jason Carter missed Three Point Jumper.",23,18,5,0.864445842875118,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+87,1,"9:01",1741,1741,"Deon Edwin Defensive Rebound.",23,18,5,0.864445842875118,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+88,1,"8:39",1719,1719,"Mitch Peterson missed Jumper.",23,18,5,0.874655406034476,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+89,1,"8:39",1719,1719,"Jason Carter Defensive Rebound.",23,18,5,0.874655406034476,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+90,1,"8:25",1705,1705,"Mike Laster made Layup.",25,18,7,0.88823552143316,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+91,1,"8:05",1685,1685,"Mitch Peterson missed Three Point Jumper.",25,18,7,0.907179460343145,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+92,1,"8:05",1685,1685,"Jordan Dartis Defensive Rebound.",25,18,7,0.907179460343145,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+93,1,"7:50",1670,1670,"Kenny Kaminski made Three Point Jumper.",28,18,10,0.931781888626768,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+94,1,"7:38",1658,1658,"Jimmy Hall missed Layup.",28,18,10,0.925501496434019,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+95,1,"7:38",1658,1658,"Antonio Campbell Block.",28,18,10,0.925501496434019,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+96,1,"7:38",1658,1658,"Jimmy Hall Offensive Rebound.",28,18,10,0.925501496434019,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+97,1,"7:34",1654,1654,"Foul on Antonio Campbell.",28,18,10,0.925501496434019,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+98,1,"7:31",1651,1651,"Official TV Timeout",28,18,10,0.925501496434019,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+99,1,"7:31",1651,1651,"Jimmy Hall missed Free Throw.",28,18,10,0.925501496434019,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+100,1,"7:31",1651,1651,"Kent State Offensive Rebound.",28,18,10,0.925501496434019,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+101,1,"7:31",1651,1651,"Jimmy Hall made Free Throw.",28,19,9,0.91582988116206,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+102,1,"7:16",1636,1636,"Doug Taylor made Dunk. Assisted by Gavin Block.",30,19,11,0.935113055987014,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+103,1,"6:53",1613,1613,"Jimmy Hall missed Jumper.",30,19,11,0.933818604657293,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+104,1,"6:53",1613,1613,"Doug Taylor Defensive Rebound.",30,19,11,0.933818604657293,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+105,1,"6:46",1606,1606,"Jordan Dartis made Jumper.",32,19,13,0.948150807986433,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+106,1,"6:30",1590,1590,"Jimmy Hall Turnover.",32,19,13,0.950230927453261,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+107,1,"6:30",1590,1590,"Jordan Dartis Steal.",32,19,13,0.950230927453261,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+108,1,"6:26",1586,1586,"Jordan Dartis made Layup.",34,19,15,0.960368398392559,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+109,1,"6:21",1581,1581,"Kent State  Timeout",34,19,15,0.960368398392559,"Ohio","Kent State",3,4,1,0,7,400919552,2017-01-06
+110,1,"6:11",1571,1571,"Jaylin Walker made Layup. Assisted by Deon Edwin.",34,21,13,0.961524122174943,"Ohio","Kent State",3,4,1,0,7,400919552,2017-01-06
+111,1,"5:54",1554,1554,"Jordan Dartis missed Three Point Jumper.",34,21,13,0.951663711909313,"Ohio","Kent State",3,4,1,0,7,400919552,2017-01-06
+112,1,"5:54",1554,1554,"Jimmy Hall Defensive Rebound.",34,21,13,0.951663711909313,"Ohio","Kent State",3,4,1,0,7,400919552,2017-01-06
+113,1,"5:50",1550,1550,"Jimmy Hall Turnover.",34,21,13,0.951663711909313,"Ohio","Kent State",3,4,1,0,7,400919552,2017-01-06
+114,1,"5:49",1549,1549,"Jordan Dartis missed Three Point Jumper.",34,21,13,0.953092089371843,"Ohio","Kent State",3,4,1,0,7,400919552,2017-01-06
+115,1,"5:49",1549,1549,"Jimmy Hall Defensive Rebound.",34,21,13,0.953092089371843,"Ohio","Kent State",3,4,1,0,7,400919552,2017-01-06
+116,1,"5:41",1541,1541,"Foul on Doug Taylor.",34,21,13,0.953092089371843,"Ohio","Kent State",3,4,1,0,7,400919552,2017-01-06
+117,1,"5:41",1541,1541,"Kevin Zabo made Free Throw.",34,22,12,0.946474740785675,"Ohio","Kent State",3,4,1,0,7,400919552,2017-01-06
+118,1,"5:41",1541,1541,"Kevin Zabo missed Free Throw.",34,22,12,0.946474740785675,"Ohio","Kent State",3,4,1,0,7,400919552,2017-01-06
+119,1,"5:41",1541,1541,"Deon Edwin Offensive Rebound.",34,22,12,0.946474740785675,"Ohio","Kent State",3,4,1,0,7,400919552,2017-01-06
+120,1,"5:40",1540,1540,"Deon Edwin made Layup.",34,24,10,0.930521085659408,"Ohio","Kent State",3,4,1,0,7,400919552,2017-01-06
+121,1,"5:17",1517,1517,"Jaaron Simmons made Layup.",36,24,12,0.95395149680077,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+122,1,"5:03",1503,1503,"Jaylin Walker missed Three Point Jumper.",36,24,12,0.946233520897124,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+123,1,"5:03",1503,1503,"Kenny Kaminski Defensive Rebound.",36,24,12,0.946233520897124,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+124,1,"4:47",1487,1487,"Jaaron Simmons Turnover.",36,24,12,0.949115645758452,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+125,1,"4:47",1487,1487,"Kevin Zabo Steal.",36,24,12,0.949115645758452,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+126,1,"4:42",1482,1482,"Foul on Gavin Block.",36,24,12,0.949115645758452,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+127,1,"4:42",1482,1482,"Kevin Zabo missed Free Throw.",36,24,12,0.949115645758452,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+128,1,"4:42",1482,1482,"Kent State Deadball Team Rebound.",36,24,12,0.949115645758452,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+129,1,"4:42",1482,1482,"Kevin Zabo made Free Throw.",36,25,11,0.941356049444467,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+130,1,"4:12",1452,1452,"Jaaron Simmons made Jumper.",38,25,13,0.953981310573869,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+131,1,"3:48",1428,1428,"Kevin Zabo missed Three Point Jumper.",38,25,13,0.950068326367081,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+132,1,"3:48",1428,1428,"Doug Taylor Defensive Rebound.",38,25,13,0.950068326367081,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+133,1,"3:46",1426,1426,"Foul on Alonzo Walker.",38,25,13,0.950068326367081,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+134,1,"3:44",1424,1424,"Official TV Timeout",38,25,13,0.950068326367081,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+135,1,"3:32",1412,1412,"Antonio Campbell Turnover.",38,25,13,0.956016117588308,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+136,1,"3:32",1412,1412,"Desmond Ridenour Steal.",38,25,13,0.956016117588308,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+137,1,"3:23",1403,1403,"Jaylin Walker Turnover.",38,25,13,0.961570277838731,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+138,1,"3:23",1403,1403,"Jordan Dartis Steal.",38,25,13,0.961570277838731,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+139,1,"3:16",1396,1396,"Antonio Campbell made Layup. Assisted by Jason Carter.",40,25,15,0.970121338691184,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+140,1,"3:03",1383,1383,"Foul on Jimmy Hall.",40,25,15,0.967979483294989,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+141,1,"3:03",1383,1383,"Jimmy Hall Turnover.",40,25,15,0.967979483294989,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+142,1,"2:47",1367,1367,"Antonio Campbell made Layup. Assisted by Gavin Block.",42,25,17,0.976446117428455,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+143,1,"2:25",1345,1345,"Desmond Ridenour missed Three Point Jumper.",42,25,17,0.976508886775282,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+144,1,"2:25",1345,1345,"Jaylin Walker Offensive Rebound.",42,25,17,0.976508886775282,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+145,1,"2:16",1336,1336,"Jaylin Walker missed Jumper.",42,25,17,0.975397218943927,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+146,1,"2:16",1336,1336,"Antonio Campbell Defensive Rebound.",42,25,17,0.975397218943927,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+147,1,"2:07",1327,1327,"Jaaron Simmons Turnover.",42,25,17,0.977680880062077,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+148,1,"2:07",1327,1327,"Desmond Ridenour Steal.",42,25,17,0.977680880062077,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+149,1,"2:00",1320,1320,"Deon Edwin missed Three Point Jumper.",42,25,17,0.977680880062077,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+150,1,"2:00",1320,1320,"Jordan Dartis Defensive Rebound.",42,25,17,0.977680880062077,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+151,1,"1:51",1311,1311,"Antonio Campbell missed Three Point Jumper.",42,25,17,0.978623447030248,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+152,1,"1:51",1311,1311,"Deon Edwin Defensive Rebound.",42,25,17,0.978623447030248,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+153,1,"1:37",1297,1297,"Desmond Ridenour missed Layup.",42,25,17,0.981118061411767,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+154,1,"1:37",1297,1297,"Ohio Defensive Rebound.",42,25,17,0.981118061411767,"Ohio","Kent State",3,4,0,0,7,400919552,2017-01-06
+155,1,"1:34",1294,1294,"Ohio  Timeout",42,25,17,0.981118061411767,"Ohio","Kent State",3,3,0,1,7,400919552,2017-01-06
+156,1,"1:22",1282,1282,"Gavin Block made Three Point Jumper. Assisted by Jaaron Simmons.",45,25,20,0.984150881046707,"Ohio","Kent State",3,3,0,1,7,400919552,2017-01-06
+157,1,"1:02",1262,1262,"Jaylin Walker Turnover.",45,25,20,0.987105739276395,"Ohio","Kent State",3,3,0,1,7,400919552,2017-01-06
+158,1,"1:02",1262,1262,"Jaaron Simmons Steal.",45,25,20,0.987105739276395,"Ohio","Kent State",3,3,0,1,7,400919552,2017-01-06
+159,1,"0:55",1255,1255,"Kenny Kaminski missed Three Point Jumper.",45,25,20,0.982878534561693,"Ohio","Kent State",3,3,0,1,7,400919552,2017-01-06
+160,1,"0:55",1255,1255,"Adonis De La Rosa Defensive Rebound.",45,25,20,0.982878534561693,"Ohio","Kent State",3,3,0,1,7,400919552,2017-01-06
+161,1,"0:45",1245,1245,"Deon Edwin made Three Point Jumper. Assisted by Jaylin Walker.",45,28,17,0.97664229867183,"Ohio","Kent State",3,3,0,1,7,400919552,2017-01-06
+162,1,"0:14",1214,1214,"Gavin Block Turnover.",45,28,17,0.978611402660978,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+163,1,"0:06",1206,1206,"Deon Edwin missed Three Point Jumper.",45,28,17,0.977590864865316,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+164,1,"0:06",1206,1206,"Ohio Defensive Rebound.",45,28,17,0.977590864865316,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+165,1,"0:02",1202,1202,"Antonio Campbell Turnover.",45,28,17,0.977590864865316,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+166,1,"0:00",1200,1200,"End of 1st half",45,28,17,0.977590864865316,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+167,2,"20:00",1200,1200,"PLAY",45,28,17,0.977590864865316,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+168,2,"20:00",1200,1200,"Jump Ball won by Kent State",45,28,17,0.977590864865316,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+169,2,"19:44",1184,1184,"Kevin Zabo missed Three Point Jumper.",45,28,17,0.979898425733517,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+170,2,"19:44",1184,1184,"Jordan Dartis Defensive Rebound.",45,28,17,0.979898425733517,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+171,2,"19:20",1160,1160,"Jordan Dartis Turnover.",45,28,17,0.97871233433769,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+172,2,"19:05",1145,1145,"Jimmy Hall made Three Point Jumper. Assisted by Kevin Zabo.",45,31,14,0.967854074880174,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+173,2,"18:46",1126,1126,"Kenny Kaminski made Jumper.",47,31,16,0.98203566675879,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+174,2,"18:30",1110,1110,"Kevin Zabo missed Three Point Jumper.",47,31,16,0.977597063286934,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+175,2,"18:30",1110,1110,"Antonio Campbell Defensive Rebound.",47,31,16,0.977597063286934,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+176,2,"18:07",1087,1087,"Antonio Campbell made Layup. Assisted by Gavin Block.",49,31,18,0.985954947760878,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+177,2,"17:52",1072,1072,"Deon Edwin made Jumper.",49,33,16,0.97616626120186,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+178,2,"17:40",1060,1060,"Foul on Adonis De La Rosa.",49,33,16,0.977875816628171,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+179,2,"17:40",1060,1060,"Jaaron Simmons made Free Throw.",50,33,17,0.981314244625824,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+180,2,"17:40",1060,1060,"Jaaron Simmons made Free Throw.",51,33,18,0.984226909213298,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+181,2,"17:23",1043,1043,"Jaylin Walker missed Three Point Jumper.",51,33,18,0.985754120539282,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+182,2,"17:23",1043,1043,"Jordan Dartis Defensive Rebound.",51,33,18,0.985754120539282,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+183,2,"17:12",1032,1032,"Kenny Kaminski made Three Point Jumper. Assisted by Jordan Dartis.",54,33,21,0.990097756803015,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+184,2,"16:58",1018,1018,"Jimmy Hall Turnover.",54,33,21,0.991093796756914,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+185,2,"16:58",1018,1018,"Jordan Dartis Steal.",54,33,21,0.991093796756914,"Ohio","Kent State",4,4,0,0,7,400919552,2017-01-06
+186,2,"16:55",1015,1015,"Ohio  Timeout",54,33,21,0.991093796756914,"Ohio","Kent State",4,3,0,1,7,400919552,2017-01-06
+187,2,"16:41",1001,1001,"Jordan Dartis made Layup.",56,33,23,0.994479249266803,"Ohio","Kent State",4,3,0,1,7,400919552,2017-01-06
+188,2,"16:41",1001,1001,"Foul on Kevin Zabo.",56,33,23,0.994479249266803,"Ohio","Kent State",4,3,0,1,7,400919552,2017-01-06
+189,2,"16:41",1001,1001,"Jordan Dartis missed Free Throw.",56,33,23,0.994479249266803,"Ohio","Kent State",4,3,0,1,7,400919552,2017-01-06
+190,2,"16:41",1001,1001,"Jimmy Hall Defensive Rebound.",56,33,23,0.994479249266803,"Ohio","Kent State",4,3,0,1,7,400919552,2017-01-06
+191,2,"16:23",983,983,"Jimmy Hall missed Jumper.",56,33,23,0.996216092013025,"Ohio","Kent State",4,3,0,1,7,400919552,2017-01-06
+192,2,"16:23",983,983,"Desmond Ridenour Offensive Rebound.",56,33,23,0.996216092013025,"Ohio","Kent State",4,3,0,1,7,400919552,2017-01-06
+193,2,"16:19",979,979,"Desmond Ridenour Turnover.",56,33,23,0.994360969082107,"Ohio","Kent State",4,3,0,1,7,400919552,2017-01-06
+194,2,"16:19",979,979,"Gavin Block Steal.",56,33,23,0.994360969082107,"Ohio","Kent State",4,3,0,1,7,400919552,2017-01-06
+195,2,"16:12",972,972,"Antonio Campbell made Layup. Assisted by Jaaron Simmons.",58,33,25,0.996057756537629,"Ohio","Kent State",4,3,0,1,7,400919552,2017-01-06
+196,2,"15:59",959,959,"Deon Edwin made Three Point Jumper. Assisted by Kevin Zabo.",58,36,22,0.99451415181481,"Ohio","Kent State",4,3,0,1,7,400919552,2017-01-06
+197,2,"15:35",935,935,"Antonio Campbell missed Three Point Jumper.",58,36,22,0.994275001910283,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+198,2,"15:35",935,935,"Kevin Zabo Defensive Rebound.",58,36,22,0.994275001910283,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+199,2,"15:27",927,927,"Kevin Zabo missed Jumper.",58,36,22,0.993967368947898,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+200,2,"15:27",927,927,"Jimmy Hall Offensive Rebound.",58,36,22,0.993967368947898,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+201,2,"15:24",924,924,"Foul on Antonio Campbell.",58,36,22,0.993967368947898,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+202,2,"15:24",924,924,"Official TV Timeout",58,36,22,0.993967368947898,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+203,2,"15:06",906,906,"Foul on Doug Taylor.",58,36,22,0.99414703395078,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+204,2,"15:06",906,906,"Adonis De La Rosa made Free Throw.",58,37,21,0.992921684214381,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+205,2,"15:06",906,906,"Adonis De La Rosa made Free Throw.",58,38,20,0.991442009295891,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+206,2,"14:45",885,885,"Jordan Dartis missed Jumper.",58,38,20,0.987636022243394,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+207,2,"14:45",885,885,"Deon Edwin Defensive Rebound.",58,38,20,0.987636022243394,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+208,2,"14:38",878,878,"Foul on Gavin Block.",58,38,20,0.991979799202584,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+209,2,"14:33",873,873,"Deon Edwin Turnover.",58,38,20,0.991979799202584,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+210,2,"14:33",873,873,"Kenny Kaminski Steal.",58,38,20,0.991979799202584,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+211,2,"14:04",844,844,"Doug Taylor missed Jumper.",58,38,20,0.994200663797094,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+212,2,"14:04",844,844,"Deon Edwin Defensive Rebound.",58,38,20,0.994200663797094,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+213,2,"13:53",833,833,"Desmond Ridenour made Layup.",58,40,18,0.991236019577096,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+214,2,"13:30",810,810,"Jaaron Simmons missed Layup.",58,40,18,0.98854096699055,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+215,2,"13:30",810,810,"Adonis De La Rosa Block.",58,40,18,0.98854096699055,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+216,2,"13:30",810,810,"Desmond Ridenour Defensive Rebound.",58,40,18,0.98854096699055,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+217,2,"13:07",787,787,"Deon Edwin missed Layup.",58,40,18,0.990269422316834,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+218,2,"13:07",787,787,"Deon Edwin Offensive Rebound.",58,40,18,0.990269422316834,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+219,2,"13:01",781,781,"Deon Edwin made Layup.",58,42,16,0.985375641883841,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+220,2,"13:01",781,781,"Technical Foul on Adonis De La Rosa.",58,42,16,0.985375641883841,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+221,2,"13:01",781,781,"Foul on Adonis De La Rosa.",58,42,16,0.985375641883841,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+222,2,"13:01",781,781,"Jordan Dartis made Free Throw.",59,42,17,0.988067899215559,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+223,2,"13:01",781,781,"Jordan Dartis made Free Throw.",60,42,18,0.990269422316834,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+224,2,"12:47",767,767,"Foul on Rodney Culver.",60,42,18,0.992708058585407,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+225,2,"12:47",767,767,"Rodney Culver Turnover.",60,42,18,0.992708058585407,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+226,2,"12:35",755,755,"Jaylin Walker missed Three Point Jumper.",60,42,18,0.992145734783829,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+227,2,"12:35",755,755,"Rodney Culver Defensive Rebound.",60,42,18,0.992145734783829,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+228,2,"12:27",747,747,"Jordan Dartis made Three Point Jumper. Assisted by Jaaron Simmons.",63,42,21,0.996147290100445,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+229,2,"12:19",739,739,"Jalen Avery missed Three Point Jumper.",63,42,21,0.995121399383673,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+230,2,"12:19",739,739,"Antonio Campbell Defensive Rebound.",63,42,21,0.995121399383673,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+231,2,"12:16",736,736,"Foul on Jimmy Hall.",63,42,21,0.995121399383673,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+232,2,"12:00",720,720,"Foul on Antonio Campbell.",63,42,21,0.996168885577182,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+233,2,"12:00",720,720,"Antonio Campbell Turnover.",63,42,21,0.996168885577182,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+234,2,"11:57",717,717,"Official TV Timeout",63,42,21,0.995692272471688,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+235,2,"11:48",708,708,"Mitch Peterson made Jumper.",63,44,19,0.992658630087665,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+236,2,"11:20",680,680,"Jaaron Simmons Turnover.",63,44,19,0.99395500816871,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+237,2,"11:20",680,680,"Mitch Peterson Steal.",63,44,19,0.99395500816871,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+238,2,"11:12",672,672,"Kevin Zabo missed Three Point Jumper.",63,44,19,0.994905890099934,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+239,2,"11:12",672,672,"Deon Edwin Offensive Rebound.",63,44,19,0.994905890099934,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+240,2,"11:03",663,663,"Deon Edwin missed Layup.",63,44,19,0.994439506496624,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+241,2,"11:03",663,663,"Deon Edwin Offensive Rebound.",63,44,19,0.994439506496624,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+242,2,"10:56",656,656,"Deon Edwin made Layup.",63,46,17,0.99280911414387,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+243,2,"10:53",653,653,"Foul on Jimmy Hall.",63,46,17,0.99280911414387,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+244,2,"10:35",635,635,"Mike Laster made Jumper. Assisted by Jaaron Simmons.",65,46,19,0.994715338338875,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+245,2,"10:18",618,618,"Deon Edwin missed Layup.",65,46,19,0.996118714873782,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+246,2,"10:18",618,618,"Jason Carter Block.",65,46,19,0.996118714873782,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+247,2,"10:18",618,618,"Mike Laster Defensive Rebound.",65,46,19,0.996118714873782,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+248,2,"10:10",610,610,"Foul on Desmond Ridenour.",65,46,19,0.996118714873782,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+249,2,"10:10",610,610,"Jaaron Simmons missed Free Throw.",65,46,19,0.996118714873782,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+250,2,"10:10",610,610,"Ohio Deadball Team Rebound.",65,46,19,0.996118714873782,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+251,2,"10:10",610,610,"Jaaron Simmons made Free Throw.",66,46,20,0.996977365258732,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+252,2,"9:54",594,594,"Jaylin Walker missed Jumper.",66,46,20,0.996361757743832,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+253,2,"9:54",594,594,"Danny Pippen Offensive Rebound.",66,46,20,0.996361757743832,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+254,2,"9:49",589,589,"Danny Pippen missed Layup.",66,46,20,0.996336457813395,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+255,2,"9:49",589,589,"Alonzo Walker Offensive Rebound.",66,46,20,0.996336457813395,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+256,2,"9:43",583,583,"Foul on Jaaron Simmons.",66,46,20,0.996336457813395,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+257,2,"9:38",578,578,"Mitch Peterson missed Layup.",66,46,20,0.997481005452134,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+258,2,"9:38",578,578,"Danny Pippen Offensive Rebound.",66,46,20,0.997481005452134,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+259,2,"9:32",572,572,"Danny Pippen Turnover.",66,46,20,0.997481005452134,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+260,2,"9:32",572,572,"Jaaron Simmons Steal.",66,46,20,0.997481005452134,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+261,2,"9:27",567,567,"Jason Carter missed Three Point Jumper.",66,46,20,0.997739209417872,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+262,2,"9:27",567,567,"Doug Taylor Offensive Rebound.",66,46,20,0.997739209417872,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+263,2,"9:24",564,564,"Foul on Danny Pippen.",66,46,20,0.997739209417872,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+264,2,"9:24",564,564,"Doug Taylor missed Free Throw.",66,46,20,0.997739209417872,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+265,2,"9:24",564,564,"Mitch Peterson Defensive Rebound.",66,46,20,0.997739209417872,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+266,2,"9:23",563,563,"Foul on Jason Carter.",66,46,20,0.997739209417872,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+267,2,"9:23",563,563,"Mitch Peterson missed Free Throw.",66,46,20,0.997739209417872,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+268,2,"9:23",563,563,"Mitch Peterson Offensive Rebound.",66,46,20,0.997739209417872,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+269,2,"9:18",558,558,"Desmond Ridenour missed Three Point Jumper.",66,46,20,0.99750115261693,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+270,2,"9:18",558,558,"Ohio Defensive Rebound.",66,46,20,0.99750115261693,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+271,2,"9:15",555,555,"Foul on Alonzo Walker.",66,46,20,0.99750115261693,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+272,2,"9:15",555,555,"Kenny Kaminski made Free Throw.",67,46,21,0.998072758276491,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+273,2,"9:15",555,555,"Kenny Kaminski made Free Throw.",68,46,22,0.998513805252522,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+274,2,"9:03",543,543,"Jaylin Walker missed Jumper.",68,46,22,0.998663264629699,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+275,2,"9:03",543,543,"Danny Pippen Offensive Rebound.",68,46,22,0.998663264629699,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+276,2,"8:54",534,534,"Mitch Peterson Turnover.",68,46,22,0.999174818085282,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+277,2,"8:40",520,520,"Gavin Block made Jumper. Assisted by Jordan Dartis.",70,46,24,0.999312882685036,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+278,2,"8:25",505,505,"Danny Pippen made Three Point Jumper. Assisted by Alonzo Walker.",70,49,21,0.998540395741238,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+279,2,"8:06",486,486,"Kenny Kaminski missed Three Point Jumper.",70,49,21,0.998518437176029,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+280,2,"8:06",486,486,"Doug Taylor Offensive Rebound.",70,49,21,0.998518437176029,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+281,2,"7:54",474,474,"Gavin Block missed Three Point Jumper.",70,49,21,0.998991314350199,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+282,2,"7:54",474,474,"Alonzo Walker Defensive Rebound.",70,49,21,0.998991314350199,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+283,2,"7:54",474,474,"Foul on Kenny Kaminski.",70,49,21,0.998991314350199,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+284,2,"7:51",471,471,"Official TV Timeout",70,49,21,0.998991314350199,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+285,2,"7:51",471,471,"Alonzo Walker missed Free Throw.",70,49,21,0.998991314350199,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+286,2,"7:50",470,470,"Antonio Campbell Defensive Rebound.",70,49,21,0.998991314350199,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+287,2,"7:39",459,459,"Foul on Alonzo Walker.",70,49,21,0.999347148666871,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+288,2,"7:38",458,458,"Jaaron Simmons missed Free Throw.",70,49,21,0.999347148666871,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+289,2,"7:37",457,457,"Mitch Peterson Defensive Rebound.",70,49,21,0.999347148666871,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+290,2,"7:14",434,434,"Jaylin Walker Turnover.",70,49,21,0.999308529619574,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+291,2,"7:14",434,434,"Gavin Block Steal.",70,49,21,0.999308529619574,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+292,2,"7:08",428,428,"Foul on Danny Pippen.",70,49,21,0.998997363344459,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+293,2,"7:08",428,428,"Antonio Campbell made Free Throw.",71,49,22,0.999255010899843,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+294,2,"7:08",428,428,"Antonio Campbell made Free Throw.",72,49,23,0.999446487442892,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+295,2,"6:47",407,407,"Jimmy Hall missed Jumper.",72,49,23,0.999741446344842,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+296,2,"6:47",407,407,"Jaaron Simmons Defensive Rebound.",72,49,23,0.999741446344842,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+297,2,"6:37",397,397,"Jordan Dartis missed Three Point Jumper.",72,49,23,0.99964086954322,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+298,2,"6:37",397,397,"Deon Edwin Defensive Rebound.",72,49,23,0.99964086954322,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+299,2,"6:28",388,388,"Deon Edwin Turnover.",72,49,23,0.999512157841872,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+300,2,"6:28",388,388,"Jaaron Simmons Steal.",72,49,23,0.999512157841872,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+301,2,"6:18",378,378,"Antonio Campbell made Dunk. Assisted by Jaaron Simmons.",74,49,25,0.999780368701494,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+302,2,"6:18",378,378,"Foul on Danny Pippen.",74,49,25,0.999780368701494,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+303,2,"6:18",378,378,"Antonio Campbell missed Free Throw.",74,49,25,0.999780368701494,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+304,2,"6:18",378,378,"Ohio Deadball Team Rebound.",74,49,25,0.999780368701494,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+305,2,"6:18",378,378,"Antonio Campbell made Free Throw.",75,49,26,0.999838848693452,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+306,2,"6:06",366,366,"Kenny Kaminski missed Three Point Jumper.",75,49,26,0.999883794783567,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+307,2,"6:06",366,366,"Jimmy Hall Defensive Rebound.",75,49,26,0.999883794783567,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+308,2,"5:59",359,359,"Jimmy Hall Turnover.",75,49,26,0.999920687108823,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+309,2,"5:59",359,359,"Jordan Dartis Steal.",75,49,26,0.999920687108823,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+310,2,"5:53",353,353,"Kenny Kaminski made Layup. Assisted by Jordan Dartis.",77,49,28,0.999959838936679,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+311,2,"5:41",341,341,"Jimmy Hall made Jumper.",77,51,26,0.999905741267381,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+312,2,"5:22",322,322,"Antonio Campbell missed Three Point Jumper.",77,51,26,0.999859565669885,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+313,2,"5:22",322,322,"Jimmy Hall Defensive Rebound.",77,51,26,0.999859565669885,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+314,2,"5:11",311,311,"Jimmy Hall missed Layup.",77,51,26,0.999961772444091,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+315,2,"5:11",311,311,"Jimmy Hall Offensive Rebound.",77,51,26,0.999961772444091,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+316,2,"5:10",310,310,"Foul on Antonio Campbell.",77,51,26,0.999961772444091,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+317,2,"5:10",310,310,"Jimmy Hall missed Free Throw.",77,51,26,0.999961772444091,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+318,2,"5:10",310,310,"Kent State Deadball Team Rebound.",77,51,26,0.999961772444091,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+319,2,"5:10",310,310,"Jimmy Hall made Free Throw.",77,52,25,0.999944844406933,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+320,2,"4:57",297,297,"Doug Taylor made Layup. Assisted by Jaaron Simmons.",79,52,27,0.999953813231552,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+321,2,"4:47",287,287,"Alonzo Walker missed Layup.",79,52,27,0.999961242374144,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+322,2,"4:47",287,287,"Leo Edwards Offensive Rebound.",79,52,27,0.999961242374144,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+323,2,"4:39",279,279,"Leo Edwards missed Jumper.",79,52,27,0.999984689319469,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+324,2,"4:39",279,279,"Jordan Dartis Defensive Rebound.",79,52,27,0.999984689319469,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+325,2,"4:29",269,269,"Doug Taylor made Dunk. Assisted by Jaaron Simmons.",81,52,29,0.999989633565179,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+326,2,"4:23",263,263,"Jalen Avery made Three Point Jumper. Assisted by Alonzo Walker.",81,55,26,0.999968236750847,"Ohio","Kent State",4,3,0,0,7,400919552,2017-01-06
+327,2,"4:19",259,259,"Kent State  Timeout",81,55,26,0.999990562585608,"Ohio","Kent State",3,3,1,0,7,400919552,2017-01-06
+328,2,"4:06",246,246,"Jason Carter made Three Point Jumper. Assisted by Jaaron Simmons.",84,55,29,0.999995499572302,"Ohio","Kent State",3,3,1,0,7,400919552,2017-01-06
+329,2,"3:53",233,233,"Rosel Hurley made Layup.",84,57,27,0.999990362274444,"Ohio","Kent State",3,3,1,0,7,400919552,2017-01-06
+330,2,"3:53",233,233,"Foul on Jordan Dartis.",84,57,27,0.999990362274444,"Ohio","Kent State",3,3,1,0,7,400919552,2017-01-06
+331,2,"3:53",233,233,"Rosel Hurley missed Free Throw.",84,57,27,0.999990362274444,"Ohio","Kent State",3,3,1,0,7,400919552,2017-01-06
+332,2,"3:53",233,233,"Doug Taylor Defensive Rebound.",84,57,27,0.999990362274444,"Ohio","Kent State",3,3,1,0,7,400919552,2017-01-06
+333,2,"3:42",222,222,"Rodney Culver Turnover.",84,57,27,0.999994854176337,"Ohio","Kent State",3,3,1,0,7,400919552,2017-01-06
+334,2,"3:42",222,222,"Rosel Hurley Steal.",84,57,27,0.999994854176337,"Ohio","Kent State",3,3,1,0,7,400919552,2017-01-06
+335,2,"3:36",216,216,"Desmond Ridenour made Layup. Assisted by Rosel Hurley.",84,59,25,0.999990397778754,"Ohio","Kent State",3,3,1,0,7,400919552,2017-01-06
+336,2,"3:36",216,216,"Foul on Doug Taylor.",84,59,25,0.999990397778754,"Ohio","Kent State",3,3,1,0,7,400919552,2017-01-06
+337,2,"3:36",216,216,"Desmond Ridenour missed Free Throw.",84,59,25,0.999990397778754,"Ohio","Kent State",3,3,1,0,7,400919552,2017-01-06
+338,2,"3:36",216,216,"Desmond Ridenour Offensive Rebound.",84,59,25,0.999990397778754,"Ohio","Kent State",3,3,1,0,7,400919552,2017-01-06
+339,2,"3:32",212,212,"Desmond Ridenour missed Layup.",84,59,25,0.999990397778754,"Ohio","Kent State",3,3,1,0,7,400919552,2017-01-06
+340,2,"3:32",212,212,"Rosel Hurley Offensive Rebound.",84,59,25,0.999990397778754,"Ohio","Kent State",3,3,1,0,7,400919552,2017-01-06
+341,2,"3:25",205,205,"Rosel Hurley missed Three Point Jumper.",84,59,25,0.999994007420555,"Ohio","Kent State",3,3,1,0,7,400919552,2017-01-06
+342,2,"3:25",205,205,"Rodney Culver Defensive Rebound.",84,59,25,0.999994007420555,"Ohio","Kent State",3,3,1,0,7,400919552,2017-01-06
+343,2,"3:07",187,187,"Doug Taylor Turnover.",84,59,25,0.999996713280105,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+344,2,"2:50",170,170,"Alonzo Walker missed Layup.",84,59,25,0.999997548827056,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+345,2,"2:50",170,170,"Mitch Peterson Offensive Rebound.",84,59,25,0.999997548827056,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+346,2,"2:46",166,166,"Mitch Peterson made Layup.",84,61,23,0.999996596135848,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+347,2,"2:37",157,157,"Foul on Rosel Hurley.",84,61,23,0.999997648235496,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+348,2,"2:37",157,157,"Gavin Block made Free Throw.",85,61,24,0.999998630184797,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+349,2,"2:37",157,157,"Gavin Block missed Free Throw.",85,61,24,0.999998630184797,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+350,2,"2:37",157,157,"Leo Edwards Defensive Rebound.",85,61,24,0.999998630184797,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+351,2,"2:25",145,145,"Foul on Doug Taylor.",85,61,24,0.999997726518961,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+352,2,"2:25",145,145,"Mitch Peterson missed Free Throw.",85,61,24,0.999997726518961,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+353,2,"2:25",145,145,"Kent State Deadball Team Rebound.",85,61,24,0.999997726518961,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+354,2,"2:25",145,145,"Mitch Peterson missed Free Throw.",85,61,24,0.999997726518961,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+355,2,"2:25",145,145,"Rodney Culver Defensive Rebound.",85,61,24,0.999997726518961,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+356,2,"2:24",144,144,"Foul on Leo Edwards.",85,61,24,0.999997726518961,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+357,2,"2:24",144,144,"Rodney Culver missed Free Throw.",85,61,24,0.999997726518961,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+358,2,"2:24",144,144,"Ohio Deadball Team Rebound.",85,61,24,0.999997726518961,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+359,2,"2:24",144,144,"Rodney Culver missed Free Throw.",85,61,24,0.999997726518961,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+360,2,"2:24",144,144,"Mitch Peterson Defensive Rebound.",85,61,24,0.999997726518961,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+361,2,"2:15",135,135,"Rosel Hurley missed Jumper.",85,61,24,0.999998929448425,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+362,2,"2:15",135,135,"Rosel Hurley Offensive Rebound.",85,61,24,0.999998929448425,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+363,2,"2:11",131,131,"Rosel Hurley missed Layup.",85,61,24,0.999998929448425,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+364,2,"2:11",131,131,"Jason Carter Block.",85,61,24,0.999998929448425,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+365,2,"2:11",131,131,"Kent State Offensive Rebound.",85,61,24,0.999998929448425,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+366,2,"2:08",128,128,"Leo Edwards Turnover.",85,61,24,0.999999190256798,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+367,2,"2:08",128,128,"Gavin Block Steal.",85,61,24,0.999999190256798,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+368,2,"1:58",118,118,"Drew Crabtree missed Three Point Jumper.",85,61,24,0.999999688324485,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+369,2,"1:58",118,118,"Leo Edwards Defensive Rebound.",85,61,24,0.999999688324485,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+370,2,"1:49",109,109,"Mitch Peterson missed Jumper.",85,61,24,0.999999757229,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+371,2,"1:49",109,109,"Drew Crabtree Defensive Rebound.",85,61,24,0.999999757229,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+372,2,"1:36",96,96,"Ellis Dozier Turnover.",85,61,24,0.999999808632796,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+373,2,"1:27",87,87,"Rosel Hurley missed Layup.",85,61,24,0.999999981294391,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+374,2,"1:27",87,87,"Jaylin McDonald Defensive Rebound.",85,61,24,0.999999981294391,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+375,2,"1:19",79,79,"Ellis Dozier missed Jumper.",85,61,24,0.999999984667434,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+376,2,"1:19",79,79,"Alonzo Walker Defensive Rebound.",85,61,24,0.999999984667434,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+377,2,"1:07",67,67,"Rosel Hurley made Layup.",85,63,22,0.999999930543969,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+378,2,"0:46",46,46,"Antonio Bisutti Turnover.",85,63,22,0.999999999917315,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+379,2,"0:46",46,46,"Jalen Avery Steal.",85,63,22,0.999999999917315,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+380,2,"0:41",41,41,"Foul on Drew Crabtree.",85,63,22,0.999999999686837,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+381,2,"0:41",41,41,"Jon Fleming made Free Throw.",85,64,21,0.999999999148016,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+382,2,"0:41",41,41,"Jon Fleming made Free Throw.",85,65,20,0.999999997682116,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+383,2,"0:30",30,30,"Sam Frayer Turnover.",85,65,20,0.999999995395489,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+384,2,"0:30",30,30,"Alonzo Walker Steal.",85,65,20,0.999999995395489,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+385,2,"0:22",22,22,"Alonzo Walker made Layup. Assisted by Rosel Hurley.",85,67,18,0.999999999963148,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06
+386,2,"0:00",0,0,"End of Game",85,67,18,1,"Ohio","Kent State",3,3,0,0,7,400919552,2017-01-06

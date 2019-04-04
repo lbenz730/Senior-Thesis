@@ -1,0 +1,363 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.5,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+2,1,"19:30",2370,2370,"Terry Taylor Turnover.",0,0,0,0.524279741327167,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+3,1,"19:28",2368,2368,"Tai Odiase Steal.",0,0,0,0.50956003899291,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+4,1,"19:17",2357,2357,"Jordan Blount missed Three Point Jumper.",0,0,0,0.529703192727122,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+5,1,"19:17",2357,2357,"Tarkus Ferguson Offensive Rebound.",0,0,0,0.529703192727122,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+6,1,"19:10",2350,2350,"Tarkus Ferguson Turnover.",0,0,0,0.529703192727122,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+7,1,"19:06",2346,2346,"Tre' Ivory Steal.",0,0,0,0.511940955014241,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+8,1,"19:02",2342,2342,"Tre' Ivory missed Layup.",0,0,0,0.511940955014241,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+9,1,"19:02",2342,2342,"Tai Odiase Defensive Rebound.",0,0,0,0.511940955014241,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+10,1,"18:56",2336,2336,"Tarkus Ferguson made Layup.",0,2,-2,0.470023074839075,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+11,1,"18:49",2329,2329,"Chris Porter-Bunton Turnover.",0,2,-2,0.477163756270389,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+12,1,"18:40",2320,2320,"Foul on Tai Odiase.",0,2,-2,0.477163756270389,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+13,1,"18:40",2320,2320,"Tai Odiase Turnover.",0,2,-2,0.477163756270389,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+14,1,"18:24",2304,2304,"Terry Taylor missed Three Point Jumper.",0,2,-2,0.459371780952129,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+15,1,"18:24",2304,2304,"Tai Odiase Defensive Rebound.",0,2,-2,0.459371780952129,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+16,1,"18:13",2293,2293,"Marcus Ottey missed Layup.",0,2,-2,0.472322362910744,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+17,1,"18:13",2293,2293,"Terry Taylor Defensive Rebound.",0,2,-2,0.472322362910744,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+18,1,"17:52",2272,2272,"Foul on Jordan Blount.",0,2,-2,0.469121155148497,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+19,1,"17:52",2272,2272,"Chris Porter-Bunton made Free Throw.",1,2,-1,0.494952139403203,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+20,1,"17:52",2272,2272,"Chris Porter-Bunton missed Free Throw.",1,2,-1,0.494952139403203,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+21,1,"17:52",2272,2272,"Jordan Blount Defensive Rebound.",1,2,-1,0.494952139403203,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+22,1,"17:41",2261,2261,"Tai Odiase made Jumper.",1,4,-3,0.427655282974081,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+23,1,"17:36",2256,2256,"Averyl Ugba made Jumper. Assisted by Tre' Ivory.",3,4,-1,0.497243441001101,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+24,1,"17:20",2240,2240,"Foul on Tre' Ivory.",3,4,-1,0.505249473860308,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+25,1,"17:06",2226,2226,"Tarkus Ferguson Turnover.",3,4,-1,0.493277208501321,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+26,1,"16:42",2202,2202,"Foul on Tai Odiase.",3,4,-1,0.491401692155629,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+27,1,"16:41",2201,2201,"Foul on Jordan Blount.",3,4,-1,0.491401692155629,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+28,1,"16:26",2186,2186,"Averyl Ugba missed Three Point Jumper.",3,4,-1,0.490851328062098,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+29,1,"16:26",2186,2186,"Chris Porter-Bunton Offensive Rebound.",3,4,-1,0.490851328062098,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+30,1,"16:23",2183,2183,"Chris Porter-Bunton made Layup.",5,4,1,0.544992909230217,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+31,1,"16:10",2170,2170,"Michael Diggins missed Jumper.",5,4,1,0.537394834362527,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+32,1,"16:10",2170,2170,"Terry Taylor Defensive Rebound.",5,4,1,0.537394834362527,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+33,1,"15:35",2135,2135,"Zach Glotta missed Three Point Jumper.",5,4,1,0.542478451673532,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+34,1,"15:35",2135,2135,"Terry Taylor Offensive Rebound.",5,4,1,0.542478451673532,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+35,1,"15:31",2131,2131,"Terry Taylor made Layup.",7,4,3,0.601672413127025,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+36,1,"15:07",2107,2107,"Tarkus Ferguson missed Three Point Jumper.",7,4,3,0.593830801780221,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+37,1,"15:07",2107,2107,"Averyl Ugba Defensive Rebound.",7,4,3,0.593830801780221,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+38,1,"14:38",2078,2078,"Terry Taylor missed Three Point Jumper.",7,4,3,0.585382693035368,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+39,1,"14:38",2078,2078,"Steve Harris Offensive Rebound.",7,4,3,0.585382693035368,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+40,1,"14:33",2073,2073,"Steve Harris made Jumper.",9,4,5,0.636261333921056,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+41,1,"14:16",2056,2056,"Godwin Boahen Turnover.",9,4,5,0.643641852675831,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+42,1,"14:05",2045,2045,"Terry Taylor missed Jumper.",9,4,5,0.634493798670566,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+43,1,"14:05",2045,2045,"Clint Robinson Defensive Rebound.",9,4,5,0.634493798670566,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+44,1,"13:54",2034,2034,"Jacob Wiley made Jumper.",9,6,3,0.602502208546342,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+45,1,"13:46",2026,2026,"Steve Harris missed Layup.",9,6,3,0.602946309729211,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+46,1,"13:46",2026,2026,"Averyl Ugba Offensive Rebound.",9,6,3,0.602946309729211,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+47,1,"13:42",2022,2022,"Averyl Ugba made Layup.",11,6,5,0.664074832107328,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+48,1,"13:31",2011,2011,"Foul on Clint Robinson.",11,6,5,0.658318011571019,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+49,1,"13:31",2011,2011,"Clint Robinson Turnover.",11,6,5,0.658318011571019,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+50,1,"13:06",1986,1986,"Zach Glotta Turnover.",11,6,5,0.654518732846693,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+51,1,"13:05",1985,1985,"Godwin Boahen Steal.",11,6,5,0.654518732846693,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+52,1,"13:02",1982,1982,"Foul on Steve Harris.",11,6,5,0.654518732846693,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+53,1,"13:02",1982,1982,"Godwin Boahen made Free Throw.",11,7,4,0.625804633906427,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+54,1,"13:02",1982,1982,"Godwin Boahen made Free Throw.",11,8,3,0.596176443240929,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+55,1,"13:02",1982,1982,"Steve Harris missed Jumper.",11,8,3,0.596176443240929,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+56,1,"13:02",1982,1982,"Clint Robinson Block.",11,8,3,0.596176443240929,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+57,1,"13:02",1982,1982,"UIC Defensive Rebound.",11,8,3,0.596176443240929,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+58,1,"12:41",1961,1961,"Dominique Matthews made Layup.",11,10,1,0.537683622922412,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+59,1,"12:21",1941,1941,"Zach Glotta missed Three Point Jumper.",11,10,1,0.542510442564747,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+60,1,"12:21",1941,1941,"Jacob Wiley Defensive Rebound.",11,10,1,0.542510442564747,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+61,1,"12:11",1931,1931,"Dominique Matthews missed Three Point Jumper.",11,10,1,0.535719302115517,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+62,1,"12:11",1931,1931,"Richard Henderson Defensive Rebound.",11,10,1,0.535719302115517,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+63,1,"11:55",1915,1915,"Zach Glotta Turnover.",11,10,1,0.564071115903241,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+64,1,"11:54",1914,1914,"Godwin Boahen Steal.",11,10,1,0.564071115903241,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+65,1,"11:51",1911,1911,"Godwin Boahen Turnover.",11,10,1,0.564071115903241,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+66,1,"11:50",1910,1910,"Zach Glotta Steal.",11,10,1,0.564071115903241,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+67,1,"11:47",1907,1907,"Steve Harris made Dunk. Assisted by Zach Glotta.",13,10,3,0.595481171069104,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+68,1,"11:26",1886,1886,"Jacob Wiley missed Layup.",13,10,3,0.594980102141047,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+69,1,"11:26",1886,1886,"Richard Henderson Defensive Rebound.",13,10,3,0.594980102141047,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+70,1,"11:10",1870,1870,"Chris Porter-Bunton made Jumper.",15,10,5,0.659806970297697,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+71,1,"10:49",1849,1849,"Dominique Matthews missed Jumper.",15,10,5,0.64334669226587,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+72,1,"10:49",1849,1849,"Austin Peay Defensive Rebound.",15,10,5,0.64334669226587,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+73,1,"10:43",1843,1843,"Official TV Timeout",15,10,5,0.64334669226587,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+74,1,"10:43",1843,1843,"Averyl Ugba missed Layup.",15,10,5,0.64334669226587,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+75,1,"10:43",1843,1843,"Tarkus Ferguson Defensive Rebound.",15,10,5,0.64334669226587,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+76,1,"9:55",1795,1795,"Marcus Ottey Turnover.",15,10,5,0.662419379026163,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+77,1,"9:55",1795,1795,"Tre' Ivory Steal.",15,10,5,0.662419379026163,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+78,1,"9:42",1782,1782,"Marcus Ottey missed Layup.",15,10,5,0.662614398060552,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+79,1,"9:42",1782,1782,"Terry Taylor Defensive Rebound.",15,10,5,0.662614398060552,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+80,1,"9:37",1777,1777,"Dayton Gumm made Dunk.",17,10,7,0.699745941056217,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+81,1,"9:35",1775,1775,"Official TV Timeout",17,10,7,0.699745941056217,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+82,1,"9:19",1759,1759,"Marcus Ottey Turnover.",17,10,7,0.712871127449637,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+83,1,"9:19",1759,1759,"Chris Porter-Bunton Steal.",17,10,7,0.712871127449637,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+84,1,"9:19",1759,1759,"Terry Taylor made Layup.",19,10,9,0.766673457852711,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+85,1,"9:17",1757,1757,"Foul on Michael Diggins.",19,10,9,0.766673457852711,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+86,1,"9:16",1756,1756,"Averyl Ugba missed Free Throw.",19,10,9,0.766673457852711,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+87,1,"9:16",1756,1756,"Austin Peay Deadball Team Rebound.",19,10,9,0.766673457852711,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+88,1,"9:16",1756,1756,"Averyl Ugba missed Free Throw.",19,10,9,0.766673457852711,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+89,1,"9:16",1756,1756,"Jacob Wiley Defensive Rebound.",19,10,9,0.766673457852711,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+90,1,"9:13",1753,1753,"Tarkus Ferguson missed Jumper.",19,10,9,0.766673457852711,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+91,1,"9:13",1753,1753,"Averyl Ugba Defensive Rebound.",19,10,9,0.766673457852711,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+92,1,"8:09",1689,1689,"Terry Taylor made Jumper.",21,10,11,0.837939988490122,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+93,1,"8:09",1689,1689,"Marcus Ottey made Jumper.",21,12,9,0.794499970173687,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+94,1,"8:07",1687,1687,"Terry Taylor missed Jumper.",21,12,9,0.794499970173687,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+95,1,"8:07",1687,1687,"Tarkus Ferguson Defensive Rebound.",21,12,9,0.794499970173687,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+96,1,"8:07",1687,1687,"Foul on Steve Harris.",21,12,9,0.794499970173687,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+97,1,"8:07",1687,1687,"Michael Diggins made Free Throw.",21,13,8,0.769751799608224,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+98,1,"8:07",1687,1687,"Michael Diggins made Free Throw.",21,14,7,0.742987359186747,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+99,1,"7:18",1638,1638,"Foul on Godwin Boahen.",21,14,7,0.735832191311413,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+100,1,"7:18",1638,1638,"Averyl Ugba missed Free Throw.",21,14,7,0.735832191311413,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+101,1,"7:18",1638,1638,"Austin Peay Deadball Team Rebound.",21,14,7,0.735832191311413,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+102,1,"7:18",1638,1638,"Averyl Ugba missed Free Throw.",21,14,7,0.735832191311413,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+103,1,"7:18",1638,1638,"Michael Diggins Defensive Rebound.",21,14,7,0.735832191311413,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+104,1,"7:12",1632,1632,"Godwin Boahen missed Three Point Jumper.",21,14,7,0.735832191311413,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+105,1,"7:12",1632,1632,"Austin Peay Defensive Rebound.",21,14,7,0.735832191311413,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+106,1,"6:53",1613,1613,"Chris Porter-Bunton missed Jumper.",21,14,7,0.726418200025289,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+107,1,"6:53",1613,1613,"Terry Taylor Offensive Rebound.",21,14,7,0.726418200025289,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+108,1,"6:46",1606,1606,"Terry Taylor missed Layup.",21,14,7,0.717597226431133,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+109,1,"6:46",1606,1606,"Tai Odiase Block.",21,14,7,0.717597226431133,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+110,1,"6:44",1604,1604,"Godwin Boahen Defensive Rebound.",21,14,7,0.717597226431133,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+111,1,"6:41",1601,1601,"Godwin Boahen Turnover.",21,14,7,0.717597226431133,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+112,1,"6:40",1600,1600,"Terry Taylor Steal.",21,14,7,0.717597226431133,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+113,1,"6:38",1598,1598,"Terry Taylor made Layup.",23,14,9,0.792040034609773,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+114,1,"6:25",1585,1585,"Godwin Boahen missed Jumper.",23,14,9,0.770338416035518,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+115,1,"6:25",1585,1585,"Terry Taylor Defensive Rebound.",23,14,9,0.770338416035518,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+116,1,"6:14",1574,1574,"Terry Taylor missed Layup.",23,14,9,0.812469616798079,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+117,1,"6:14",1574,1574,"Tarkus Ferguson Defensive Rebound.",23,14,9,0.812469616798079,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+118,1,"6:03",1563,1563,"Foul on Chris Porter-Bunton.",23,14,9,0.782043637151575,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+119,1,"5:55",1555,1555,"Michael Diggins made Free Throw.",23,15,8,0.762803301351131,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+120,1,"5:55",1555,1555,"Michael Diggins made Free Throw.",23,16,7,0.735855277446788,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+121,1,"5:42",1542,1542,"Chris Porter-Bunton made Three Point Jumper. Assisted by Zach Glotta.",26,16,10,0.809962806183653,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+122,1,"5:19",1519,1519,"Marcus Ottey made Jumper.",26,18,8,0.792691665415467,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+123,1,"5:19",1519,1519,"Foul on Tre' Ivory.",26,18,8,0.792691665415467,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+124,1,"5:19",1519,1519,"Marcus Ottey made Free Throw.",26,19,7,0.766519125454937,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+125,1,"5:05",1505,1505,"Terry Taylor made Jumper.",28,19,9,0.790704209408762,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+126,1,"4:53",1493,1493,"Foul on Terry Taylor.",28,19,9,0.801034493302921,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+127,1,"4:50",1490,1490,"Tarkus Ferguson missed Three Point Jumper.",28,19,9,0.801034493302921,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+128,1,"4:50",1490,1490,"Zach Glotta Defensive Rebound.",28,19,9,0.801034493302921,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+129,1,"4:44",1484,1484,"Averyl Ugba made Dunk. Assisted by Zach Glotta.",30,19,11,0.840543128667925,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+130,1,"4:25",1465,1465,"Marcus Ottey made Dunk. Assisted by Tarkus Ferguson.",30,21,9,0.797742076385093,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+131,1,"4:15",1455,1455,"Terry Taylor made Jumper. Assisted by Chris Porter-Bunton.",32,21,11,0.834995983069117,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+132,1,"4:00",1440,1440,"Official TV Timeout",32,21,11,0.861160970368591,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+133,1,"3:40",1420,1420,"UIC  Turnover.",32,21,11,0.834191054867613,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+134,1,"3:22",1402,1402,"Dayton Gumm missed Jumper.",32,21,11,0.860148414208845,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+135,1,"3:22",1402,1402,"Tarkus Ferguson Defensive Rebound.",32,21,11,0.860148414208845,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+136,1,"3:14",1394,1394,"Tarkus Ferguson Turnover.",32,21,11,0.84512969669669,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+137,1,"3:13",1393,1393,"Chris Porter-Bunton Steal.",32,21,11,0.84512969669669,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+138,1,"3:07",1387,1387,"Averyl Ugba Turnover.",32,21,11,0.850964813054889,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+139,1,"3:06",1386,1386,"Jacob Wiley Steal.",32,21,11,0.850964813054889,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+140,1,"3:04",1384,1384,"Foul on Terry Taylor.",32,21,11,0.850964813054889,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+141,1,"3:04",1384,1384,"Tarkus Ferguson made Free Throw.",32,22,10,0.831001274394658,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+142,1,"3:04",1384,1384,"Tarkus Ferguson made Free Throw.",32,23,9,0.808963912842702,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+143,1,"2:42",1362,1362,"Richard Henderson missed Layup.",32,23,9,0.808470477016748,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+144,1,"2:42",1362,1362,"Clint Robinson Defensive Rebound.",32,23,9,0.808470477016748,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+145,1,"2:28",1348,1348,"Jordan Blount missed Three Point Jumper.",32,23,9,0.811273741764421,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+146,1,"2:28",1348,1348,"Clint Robinson Offensive Rebound.",32,23,9,0.811273741764421,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+147,1,"2:23",1343,1343,"Tarkus Ferguson made Three Point Jumper. Assisted by Clint Robinson.",32,26,6,0.727999621226033,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+148,1,"2:20",1340,1340,"Austin Peay  Timeout",32,26,6,0.727999621226033,"Austin Peay","UIC",3,4,1,0,NA,401026677,2018-03-21
+149,1,"2:12",1332,1332,"Zach Glotta missed Jumper.",32,26,6,0.718078759078223,"Austin Peay","UIC",3,4,1,0,NA,401026677,2018-03-21
+150,1,"2:12",1332,1332,"Tarkus Ferguson Defensive Rebound.",32,26,6,0.718078759078223,"Austin Peay","UIC",3,4,1,0,NA,401026677,2018-03-21
+151,1,"2:04",1324,1324,"Foul on Zach Glotta.",32,26,6,0.730066139777933,"Austin Peay","UIC",3,4,1,0,NA,401026677,2018-03-21
+152,1,"2:04",1324,1324,"Tarkus Ferguson missed Free Throw.",32,26,6,0.730066139777933,"Austin Peay","UIC",3,4,1,0,NA,401026677,2018-03-21
+153,1,"2:04",1324,1324,"Michael Diggins Offensive Rebound.",32,26,6,0.730066139777933,"Austin Peay","UIC",3,4,1,0,NA,401026677,2018-03-21
+154,1,"1:48",1308,1308,"Tarkus Ferguson made Three Point Jumper.",32,29,3,0.628565818993744,"Austin Peay","UIC",3,4,1,0,NA,401026677,2018-03-21
+155,1,"1:29",1289,1289,"Dayton Gumm missed Three Point Jumper.",32,29,3,0.621162614875612,"Austin Peay","UIC",3,4,1,0,NA,401026677,2018-03-21
+156,1,"1:29",1289,1289,"Jacob Wiley Defensive Rebound.",32,29,3,0.621162614875612,"Austin Peay","UIC",3,4,1,0,NA,401026677,2018-03-21
+157,1,"1:18",1278,1278,"Jacob Wiley missed Layup.",32,29,3,0.606805589858637,"Austin Peay","UIC",3,4,0,0,NA,401026677,2018-03-21
+158,1,"1:18",1278,1278,"Averyl Ugba Defensive Rebound.",32,29,3,0.606805589858637,"Austin Peay","UIC",3,4,0,0,NA,401026677,2018-03-21
+159,1,"1:11",1271,1271,"Foul on Clint Robinson.",32,29,3,0.606805589858637,"Austin Peay","UIC",3,4,0,0,NA,401026677,2018-03-21
+160,1,"1:11",1271,1271,"Dayton Gumm made Free Throw.",33,29,4,0.641928254769973,"Austin Peay","UIC",3,4,0,0,NA,401026677,2018-03-21
+161,1,"1:11",1271,1271,"Dayton Gumm made Free Throw.",34,29,5,0.675590837801214,"Austin Peay","UIC",3,4,0,0,NA,401026677,2018-03-21
+162,1,"0:59",1259,1259,"Foul on Tarkus Ferguson.",34,29,5,0.693061963210894,"Austin Peay","UIC",3,4,0,0,NA,401026677,2018-03-21
+163,1,"0:59",1259,1259,"Tarkus Ferguson Turnover.",34,29,5,0.693061963210894,"Austin Peay","UIC",3,4,0,0,NA,401026677,2018-03-21
+164,1,"0:38",1238,1238,"Dayton Gumm missed Jumper.",34,29,5,0.697317888472829,"Austin Peay","UIC",3,4,0,0,NA,401026677,2018-03-21
+165,1,"0:38",1238,1238,"Richard Henderson Offensive Rebound.",34,29,5,0.697317888472829,"Austin Peay","UIC",3,4,0,0,NA,401026677,2018-03-21
+166,1,"0:34",1234,1234,"Foul on Godwin Boahen.",34,29,5,0.697317888472829,"Austin Peay","UIC",3,4,0,0,NA,401026677,2018-03-21
+167,1,"0:34",1234,1234,"Richard Henderson made Free Throw.",35,29,6,0.730185844534566,"Austin Peay","UIC",3,4,0,0,NA,401026677,2018-03-21
+168,1,"0:34",1234,1234,"Richard Henderson made Free Throw.",36,29,7,0.760709467862035,"Austin Peay","UIC",3,4,0,0,NA,401026677,2018-03-21
+169,1,"0:04",1204,1204,"Godwin Boahen missed Three Point Jumper.",36,29,7,0.762101124106847,"Austin Peay","UIC",3,4,0,0,NA,401026677,2018-03-21
+170,1,"0:04",1204,1204,"Michael Diggins Offensive Rebound.",36,29,7,0.762101124106847,"Austin Peay","UIC",3,4,0,0,NA,401026677,2018-03-21
+171,1,"0:00",1200,1200,"Godwin Boahen missed Layup.",36,29,7,0.762101124106847,"Austin Peay","UIC",3,4,0,0,NA,401026677,2018-03-21
+172,1,"0:00",1200,1200,"Averyl Ugba Defensive Rebound.",36,29,7,0.762101124106847,"Austin Peay","UIC",3,4,0,0,NA,401026677,2018-03-21
+173,1,"0:00",1200,1200,"Marcus Ottey made Jumper.",36,31,5,0.699671155637656,"Austin Peay","UIC",3,4,0,0,NA,401026677,2018-03-21
+174,1,"0:00",1200,1200,"End of 1st half",36,31,5,0.699671155637656,"Austin Peay","UIC",3,4,0,0,NA,401026677,2018-03-21
+175,2,"20:00",1200,1200,"PLAY",36,31,5,0.699671155637656,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+176,2,"19:52",1192,1192,"Godwin Boahen missed Three Point Jumper.",36,31,5,0.736334011795759,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+177,2,"19:52",1192,1192,"Averyl Ugba Defensive Rebound.",36,31,5,0.736334011795759,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+178,2,"19:37",1177,1177,"Terry Taylor made Three Point Jumper. Assisted by Tre' Ivory.",39,31,8,0.798959192710038,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+179,2,"19:16",1156,1156,"Tai Odiase made Jumper.",39,33,6,0.740050220448428,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+180,2,"19:01",1141,1141,"Averyl Ugba missed Jumper.",39,33,6,0.750912492616099,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+181,2,"19:01",1141,1141,"Marcus Ottey Defensive Rebound.",39,33,6,0.750912492616099,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+182,2,"18:54",1134,1134,"Marcus Ottey missed Jumper.",39,33,6,0.740939195496294,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+183,2,"18:54",1134,1134,"Dayton Gumm Defensive Rebound.",39,33,6,0.740939195496294,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+184,2,"18:43",1123,1123,"Terry Taylor made Jumper.",41,33,8,0.820482894543537,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+185,2,"18:30",1110,1110,"Tarkus Ferguson missed Three Point Jumper.",41,33,8,0.813600360538394,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+186,2,"18:30",1110,1110,"Chris Porter-Bunton Defensive Rebound.",41,33,8,0.813600360538394,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+187,2,"18:24",1104,1104,"Foul on Godwin Boahen.",41,33,8,0.795498903246105,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+188,2,"18:23",1103,1103,"Terry Taylor missed Three Point Jumper.",41,33,8,0.795498903246105,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+189,2,"18:23",1103,1103,"Jordan Blount Defensive Rebound.",41,33,8,0.795498903246105,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+190,2,"18:06",1086,1086,"Tarkus Ferguson Turnover.",41,33,8,0.809600702764257,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+191,2,"18:04",1084,1084,"Dayton Gumm Steal.",41,33,8,0.809600702764257,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+192,2,"17:56",1076,1076,"Chris Porter-Bunton made Layup. Assisted by Averyl Ugba.",43,33,10,0.857639231976918,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+193,2,"17:41",1061,1061,"Jordan Blount missed Layup.",43,33,10,0.865544856082534,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+194,2,"17:41",1061,1061,"Terry Taylor Block.",43,33,10,0.865544856082534,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+195,2,"17:39",1059,1059,"Dayton Gumm Defensive Rebound.",43,33,10,0.869228328518648,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+196,2,"17:29",1049,1049,"Dayton Gumm missed Three Point Jumper.",43,33,10,0.867325144858611,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+197,2,"17:29",1049,1049,"Jordan Blount Defensive Rebound.",43,33,10,0.867325144858611,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+198,2,"17:07",1027,1027,"Tai Odiase missed Jumper.",43,33,10,0.868372547946882,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+199,2,"17:07",1027,1027,"Dayton Gumm Defensive Rebound.",43,33,10,0.868372547946882,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+200,2,"16:46",1006,1006,"Averyl Ugba made Layup.",45,33,12,0.90314044607781,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+201,2,"16:32",992,992,"Jordan Blount missed Jumper.",45,33,12,0.894786523756305,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+202,2,"16:32",992,992,"Averyl Ugba Defensive Rebound.",45,33,12,0.894786523756305,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+203,2,"16:23",983,983,"Averyl Ugba missed Three Point Jumper.",45,33,12,0.926344639789256,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+204,2,"16:23",983,983,"Terry Taylor Offensive Rebound.",45,33,12,0.926344639789256,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+205,2,"16:18",978,978,"Terry Taylor made Layup.",47,33,14,0.931705373794457,"Austin Peay","UIC",4,4,0,0,NA,401026677,2018-03-21
+206,2,"16:09",969,969,"UIC  Timeout",47,33,14,0.932920560525155,"Austin Peay","UIC",4,3,0,1,NA,401026677,2018-03-21
+207,2,"15:52",952,952,"Godwin Boahen made Three Point Jumper. Assisted by Jordan Blount.",47,36,11,0.890683981516628,"Austin Peay","UIC",4,3,0,1,NA,401026677,2018-03-21
+208,2,"15:30",930,930,"Averyl Ugba missed Three Point Jumper.",47,36,11,0.896571830020703,"Austin Peay","UIC",4,3,0,1,NA,401026677,2018-03-21
+209,2,"15:30",930,930,"Tarkus Ferguson Defensive Rebound.",47,36,11,0.896571830020703,"Austin Peay","UIC",4,3,0,1,NA,401026677,2018-03-21
+210,2,"15:21",921,921,"Godwin Boahen missed Jumper.",47,36,11,0.890131512468582,"Austin Peay","UIC",4,3,0,1,NA,401026677,2018-03-21
+211,2,"15:21",921,921,"Dayton Gumm Defensive Rebound.",47,36,11,0.890131512468582,"Austin Peay","UIC",4,3,0,1,NA,401026677,2018-03-21
+212,2,"15:16",916,916,"Dayton Gumm made Layup.",49,36,13,0.929639725262172,"Austin Peay","UIC",4,3,0,1,NA,401026677,2018-03-21
+213,2,"14:57",897,897,"Marcus Ottey missed Jumper.",49,36,13,0.932655319514754,"Austin Peay","UIC",4,3,0,0,NA,401026677,2018-03-21
+214,2,"14:57",897,897,"Dayton Gumm Defensive Rebound.",49,36,13,0.932655319514754,"Austin Peay","UIC",4,3,0,0,NA,401026677,2018-03-21
+215,2,"14:45",885,885,"Tre' Ivory missed Layup.",49,36,13,0.908086434365372,"Austin Peay","UIC",4,3,0,0,NA,401026677,2018-03-21
+216,2,"14:45",885,885,"Clint Robinson Defensive Rebound.",49,36,13,0.908086434365372,"Austin Peay","UIC",4,3,0,0,NA,401026677,2018-03-21
+217,2,"14:35",875,875,"Tarkus Ferguson made Three Point Jumper.",49,39,10,0.880803620931199,"Austin Peay","UIC",4,3,0,0,NA,401026677,2018-03-21
+218,2,"14:12",852,852,"Tre' Ivory missed Layup.",49,39,10,0.897924544892593,"Austin Peay","UIC",4,3,0,0,NA,401026677,2018-03-21
+219,2,"14:12",852,852,"Clint Robinson Block.",49,39,10,0.897924544892593,"Austin Peay","UIC",4,3,0,0,NA,401026677,2018-03-21
+220,2,"14:11",851,851,"Austin Peay Offensive Rebound.",49,39,10,0.897924544892593,"Austin Peay","UIC",4,3,0,0,NA,401026677,2018-03-21
+221,2,"14:11",851,851,"Official TV Timeout",49,39,10,0.897924544892593,"Austin Peay","UIC",4,3,0,0,NA,401026677,2018-03-21
+222,2,"14:00",840,840,"Terry Taylor missed Jumper.",49,39,10,0.89785646496996,"Austin Peay","UIC",4,3,0,0,NA,401026677,2018-03-21
+223,2,"14:00",840,840,"Michael Diggins Defensive Rebound.",49,39,10,0.89785646496996,"Austin Peay","UIC",4,3,0,0,NA,401026677,2018-03-21
+224,2,"13:47",827,827,"Marcus Ottey made Jumper.",49,41,8,0.82523529954578,"Austin Peay","UIC",4,3,0,0,NA,401026677,2018-03-21
+225,2,"13:23",803,803,"Averyl Ugba missed Three Point Jumper.",49,41,8,0.850988187559426,"Austin Peay","UIC",4,3,0,0,NA,401026677,2018-03-21
+226,2,"13:23",803,803,"Dominique Matthews Defensive Rebound.",49,41,8,0.850988187559426,"Austin Peay","UIC",4,3,0,0,NA,401026677,2018-03-21
+227,2,"13:14",794,794,"Tarkus Ferguson made Three Point Jumper. Assisted by Marcus Ottey.",49,44,5,0.75538015624633,"Austin Peay","UIC",4,3,0,0,NA,401026677,2018-03-21
+228,2,"12:48",768,768,"Foul on Steve Harris.",49,44,5,0.76899280515247,"Austin Peay","UIC",4,3,0,0,NA,401026677,2018-03-21
+229,2,"12:48",768,768,"Steve Harris Turnover.",49,44,5,0.76899280515247,"Austin Peay","UIC",4,3,0,0,NA,401026677,2018-03-21
+230,2,"12:26",746,746,"Marcus Ottey missed Three Point Jumper.",49,44,5,0.754749941742742,"Austin Peay","UIC",4,3,0,0,NA,401026677,2018-03-21
+231,2,"12:26",746,746,"Michael Diggins Offensive Rebound.",49,44,5,0.754749941742742,"Austin Peay","UIC",4,3,0,0,NA,401026677,2018-03-21
+232,2,"12:20",740,740,"Dominique Matthews made Three Point Jumper. Assisted by Tarkus Ferguson.",49,47,2,0.611880952853907,"Austin Peay","UIC",4,3,0,0,NA,401026677,2018-03-21
+233,2,"12:17",737,737,"Austin Peay  Timeout",49,47,2,0.628268739655249,"Austin Peay","UIC",3,3,1,0,NA,401026677,2018-03-21
+234,2,"12:02",722,722,"Foul on Michael Diggins.",49,47,2,0.642694219758522,"Austin Peay","UIC",3,3,1,0,NA,401026677,2018-03-21
+235,2,"11:54",714,714,"Richard Henderson missed Jumper.",49,47,2,0.595884920174051,"Austin Peay","UIC",3,3,1,0,NA,401026677,2018-03-21
+236,2,"11:54",714,714,"Dayton Gumm Offensive Rebound.",49,47,2,0.595884920174051,"Austin Peay","UIC",3,3,1,0,NA,401026677,2018-03-21
+237,2,"11:51",711,711,"Dayton Gumm missed Layup.",49,47,2,0.595884920174051,"Austin Peay","UIC",3,3,1,0,NA,401026677,2018-03-21
+238,2,"11:51",711,711,"Chris Porter-Bunton Offensive Rebound.",49,47,2,0.595884920174051,"Austin Peay","UIC",3,3,1,0,NA,401026677,2018-03-21
+239,2,"11:46",706,706,"Terry Taylor made Layup. Assisted by Chris Porter-Bunton.",51,47,4,0.725361579289574,"Austin Peay","UIC",3,3,1,0,NA,401026677,2018-03-21
+240,2,"11:36",696,696,"Tarkus Ferguson missed Three Point Jumper.",51,47,4,0.730785078183089,"Austin Peay","UIC",3,3,1,0,NA,401026677,2018-03-21
+241,2,"11:36",696,696,"Terry Taylor Defensive Rebound.",51,47,4,0.730785078183089,"Austin Peay","UIC",3,3,1,0,NA,401026677,2018-03-21
+242,2,"11:20",680,680,"Terry Taylor made Layup. Assisted by Tre' Ivory.",53,47,6,0.795956433874942,"Austin Peay","UIC",3,3,1,0,NA,401026677,2018-03-21
+243,2,"11:02",662,662,"Marcus Ottey missed Layup.",53,47,6,0.817632366792722,"Austin Peay","UIC",3,3,0,0,NA,401026677,2018-03-21
+244,2,"11:02",662,662,"Richard Henderson Block.",53,47,6,0.817632366792722,"Austin Peay","UIC",3,3,0,0,NA,401026677,2018-03-21
+245,2,"11:00",660,660,"Richard Henderson Defensive Rebound.",53,47,6,0.817632366792722,"Austin Peay","UIC",3,3,0,0,NA,401026677,2018-03-21
+246,2,"10:55",655,655,"Richard Henderson made Layup. Assisted by Chris Porter-Bunton.",55,47,8,0.883189422335641,"Austin Peay","UIC",3,3,0,0,NA,401026677,2018-03-21
+247,2,"10:47",647,647,"UIC  Timeout",55,47,8,0.881542791865708,"Austin Peay","UIC",3,2,0,1,NA,401026677,2018-03-21
+248,2,"10:37",637,637,"Tai Odiase made Jumper.",55,49,6,0.813276285602667,"Austin Peay","UIC",3,2,0,1,NA,401026677,2018-03-21
+249,2,"10:22",622,622,"Foul on Tai Odiase.",55,49,6,0.825632085056839,"Austin Peay","UIC",3,2,0,1,NA,401026677,2018-03-21
+250,2,"10:22",622,622,"Chris Porter-Bunton missed Free Throw.",55,49,6,0.825632085056839,"Austin Peay","UIC",3,2,0,1,NA,401026677,2018-03-21
+251,2,"10:22",622,622,"Austin Peay Deadball Team Rebound.",55,49,6,0.825632085056839,"Austin Peay","UIC",3,2,0,1,NA,401026677,2018-03-21
+252,2,"10:22",622,622,"Chris Porter-Bunton made Free Throw.",56,49,7,0.858929827420796,"Austin Peay","UIC",3,2,0,1,NA,401026677,2018-03-21
+253,2,"10:12",612,612,"Tarkus Ferguson missed Three Point Jumper.",56,49,7,0.853831513546588,"Austin Peay","UIC",3,2,0,1,NA,401026677,2018-03-21
+254,2,"10:12",612,612,"Chris Porter-Bunton Defensive Rebound.",56,49,7,0.853831513546588,"Austin Peay","UIC",3,2,0,1,NA,401026677,2018-03-21
+255,2,"10:01",601,601,"Dayton Gumm missed Layup.",56,49,7,0.856040992756562,"Austin Peay","UIC",3,2,0,1,NA,401026677,2018-03-21
+256,2,"10:01",601,601,"Averyl Ugba Offensive Rebound.",56,49,7,0.856040992756562,"Austin Peay","UIC",3,2,0,1,NA,401026677,2018-03-21
+257,2,"9:58",598,598,"Averyl Ugba missed Layup.",56,49,7,0.851128325155118,"Austin Peay","UIC",3,2,0,1,NA,401026677,2018-03-21
+258,2,"9:58",598,598,"Jordan Blount Defensive Rebound.",56,49,7,0.851128325155118,"Austin Peay","UIC",3,2,0,1,NA,401026677,2018-03-21
+259,2,"9:55",595,595,"Foul on Averyl Ugba.",56,49,7,0.851128325155118,"Austin Peay","UIC",3,2,0,1,NA,401026677,2018-03-21
+260,2,"9:48",588,588,"Foul on Dayton Gumm.",56,49,7,0.850753462735622,"Austin Peay","UIC",3,2,0,1,NA,401026677,2018-03-21
+261,2,"9:48",588,588,"Tarkus Ferguson made Free Throw.",56,50,6,0.817349428169226,"Austin Peay","UIC",3,2,0,1,NA,401026677,2018-03-21
+262,2,"9:48",588,588,"Tarkus Ferguson made Free Throw.",56,51,5,0.778416252544846,"Austin Peay","UIC",3,2,0,1,NA,401026677,2018-03-21
+263,2,"9:35",575,575,"Terry Taylor made Layup.",58,51,7,0.874817917449016,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+264,2,"9:21",561,561,"Jordan Blount made Layup.",58,53,5,0.799877474673858,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+265,2,"9:21",561,561,"Foul on Chris Porter-Bunton.",58,53,5,0.799877474673858,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+266,2,"9:21",561,561,"Jordan Blount missed Free Throw.",58,53,5,0.799877474673858,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+267,2,"9:21",561,561,"Terry Taylor Defensive Rebound.",58,53,5,0.799877474673858,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+268,2,"9:10",550,550,"Chris Porter-Bunton made Layup.",60,53,7,0.863125360580659,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+269,2,"9:04",544,544,"Foul on Steve Harris.",60,53,7,0.866443958729138,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+270,2,"9:04",544,544,"Tai Odiase made Free Throw.",60,54,6,0.832278188933879,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+271,2,"9:04",544,544,"Tai Odiase made Free Throw.",60,55,5,0.791475732838382,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+272,2,"9:00",540,540,"Foul on Tarkus Ferguson.",60,55,5,0.791475732838382,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+273,2,"8:52",532,532,"Terry Taylor made Dunk. Assisted by Chris Porter-Bunton.",62,55,7,0.894391536355843,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+274,2,"8:35",515,515,"Tarkus Ferguson missed Layup.",62,55,7,0.875672708417943,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+275,2,"8:35",515,515,"Averyl Ugba Defensive Rebound.",62,55,7,0.875672708417943,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+276,2,"8:30",510,510,"Averyl Ugba Turnover.",62,55,7,0.875672708417943,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+277,2,"8:29",509,509,"Tarkus Ferguson Steal.",62,55,7,0.886154293769437,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+278,2,"8:27",507,507,"Godwin Boahen missed Three Point Jumper.",62,55,7,0.886154293769437,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+279,2,"8:27",507,507,"Godwin Boahen Offensive Rebound.",62,55,7,0.886154293769437,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+280,2,"8:18",498,498,"Marcus Ottey made Dunk.",62,57,5,0.82273327767296,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+281,2,"8:07",487,487,"Foul on Jordan Blount.",62,57,5,0.807756905878013,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+282,2,"8:04",484,484,"Chris Porter-Bunton missed Three Point Jumper.",62,57,5,0.807756905878013,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+283,2,"8:04",484,484,"Jordan Blount Defensive Rebound.",62,57,5,0.807756905878013,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+284,2,"7:50",470,470,"Marcus Ottey missed Layup.",62,57,5,0.818076529999341,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+285,2,"7:50",470,470,"Tre' Ivory Defensive Rebound.",62,57,5,0.818076529999341,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+286,2,"7:36",456,456,"Terry Taylor missed Jumper.",62,57,5,0.835242090720123,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+287,2,"7:36",456,456,"Averyl Ugba Offensive Rebound.",62,57,5,0.835242090720123,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+288,2,"7:24",444,444,"Foul on Clint Robinson.",62,57,5,0.813704202192634,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+289,2,"7:24",444,444,"Official TV Timeout",62,57,5,0.813704202192634,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+290,2,"7:24",444,444,"Chris Porter-Bunton made Free Throw.",63,57,6,0.851975260093636,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+291,2,"7:24",444,444,"Chris Porter-Bunton missed Free Throw.",63,57,6,0.851975260093636,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+292,2,"7:24",444,444,"Tarkus Ferguson Defensive Rebound.",63,57,6,0.851975260093636,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+293,2,"7:05",425,425,"Tarkus Ferguson made Three Point Jumper.",63,60,3,0.711023290503288,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+294,2,"6:55",415,415,"Chris Porter-Bunton Turnover.",63,60,3,0.718742942092055,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+295,2,"6:54",414,414,"Godwin Boahen Steal.",63,60,3,0.718742942092055,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+296,2,"6:51",411,411,"Foul on Tre' Ivory.",63,60,3,0.718742942092055,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+297,2,"6:51",411,411,"Marcus Ottey made Free Throw.",63,61,2,0.654051191211942,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+298,2,"6:51",411,411,"Marcus Ottey missed Free Throw.",63,61,2,0.654051191211942,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+299,2,"6:51",411,411,"Averyl Ugba Defensive Rebound.",63,61,2,0.654051191211942,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+300,2,"6:30",390,390,"Foul on Chris Porter-Bunton.",63,61,2,0.677963805078769,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+301,2,"6:30",390,390,"Chris Porter-Bunton Turnover.",63,61,2,0.677963805078769,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+302,2,"6:19",379,379,"Foul on Averyl Ugba.",63,61,2,0.649700389652051,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+303,2,"6:19",379,379,"Clint Robinson made Free Throw.",63,62,1,0.576411048233225,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+304,2,"6:19",379,379,"Clint Robinson made Free Throw.",63,63,0,0.499598125127465,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+305,2,"6:02",362,362,"Averyl Ugba made Layup. Assisted by Tre' Ivory.",65,63,2,0.671422140375406,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+306,2,"5:47",347,347,"Tarkus Ferguson missed Jumper.",65,63,2,0.642944863811367,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+307,2,"5:47",347,347,"Tre' Ivory Defensive Rebound.",65,63,2,0.642944863811367,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+308,2,"5:24",324,324,"Averyl Ugba made Jumper. Assisted by Terry Taylor.",67,63,4,0.775561298981177,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+309,2,"5:07",307,307,"Foul on Tre' Ivory.",67,63,4,0.807645754051674,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+310,2,"5:07",307,307,"Jordan Blount made Free Throw.",67,64,3,0.749536421025948,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+311,2,"5:07",307,307,"Jordan Blount made Free Throw.",67,65,2,0.680810265514365,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+312,2,"4:56",296,296,"Foul on Tarkus Ferguson.",67,65,2,0.668669536045268,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+313,2,"4:56",296,296,"Steve Harris made Free Throw.",68,65,3,0.739837318902842,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+314,2,"4:56",296,296,"Steve Harris made Free Throw.",69,65,4,0.800284377389802,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+315,2,"4:40",280,280,"Jordan Blount made Layup.",69,67,2,0.670633843534014,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+316,2,"4:25",265,265,"Steve Harris missed Jumper.",69,67,2,0.693933352617978,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+317,2,"4:25",265,265,"Tarkus Ferguson Defensive Rebound.",69,67,2,0.693933352617978,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+318,2,"4:15",255,255,"Tarkus Ferguson missed Layup.",69,67,2,0.723289722110163,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+319,2,"4:15",255,255,"Terry Taylor Defensive Rebound.",69,67,2,0.723289722110163,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+320,2,"4:03",243,243,"Steve Harris made Layup.",71,67,4,0.839558534011338,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+321,2,"4:03",243,243,"Foul on Marcus Ottey.",71,67,4,0.839558534011338,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+322,2,"4:03",243,243,"Steve Harris made Free Throw.",72,67,5,0.8868961499909,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+323,2,"3:46",226,226,"Godwin Boahen made Three Point Jumper. Assisted by Tarkus Ferguson.",72,70,2,0.718551097629222,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+324,2,"3:42",222,222,"Official TV Timeout",72,70,2,0.718551097629222,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+325,2,"3:42",222,222,"Steve Harris Turnover.",72,70,2,0.718551097629222,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+326,2,"3:28",208,208,"Godwin Boahen made Three Point Jumper.",72,73,-1,0.415258607184101,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+327,2,"3:01",181,181,"Foul on Godwin Boahen.",72,73,-1,0.37507909483356,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+328,2,"3:01",181,181,"Dayton Gumm missed Free Throw.",72,73,-1,0.37507909483356,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+329,2,"3:01",181,181,"Jordan Blount Defensive Rebound.",72,73,-1,0.37507909483356,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+330,2,"2:43",163,163,"Godwin Boahen made Three Point Jumper. Assisted by Tarkus Ferguson.",72,76,-4,0.124009172669664,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+331,2,"2:11",131,131,"Terry Taylor missed Layup.",72,76,-4,0.124217507103148,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+332,2,"2:11",131,131,"Terry Taylor Offensive Rebound.",72,76,-4,0.124217507103148,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+333,2,"2:11",131,131,"Foul on Jordan Blount.",72,76,-4,0.124217507103148,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+334,2,"2:11",131,131,"Terry Taylor made Free Throw.",73,76,-3,0.196974644057166,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+335,2,"2:11",131,131,"Terry Taylor made Free Throw.",74,76,-2,0.297853793390122,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+336,2,"2:00",120,120,"Marcus Ottey made Layup.",74,78,-4,0.0900999224488552,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+337,2,"1:47",107,107,"Dayton Gumm made Layup.",76,78,-2,0.207669932205721,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+338,2,"1:39",99,99,"Tarkus Ferguson Turnover.",76,78,-2,0.229837245602563,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+339,2,"1:29",89,89,"Chris Porter-Bunton missed Three Point Jumper.",76,78,-2,0.221691499984056,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+340,2,"1:29",89,89,"Jordan Blount Defensive Rebound.",76,78,-2,0.221691499984056,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+341,2,"1:11",71,71,"Tai Odiase made Dunk. Assisted by Jordan Blount.",76,80,-4,0.0468493207564767,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+342,2,"0:47",47,47,"Terry Taylor missed Three Point Jumper.",76,80,-4,0.0146761798896518,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+343,2,"0:47",47,47,"Averyl Ugba Offensive Rebound.",76,80,-4,0.0146761798896518,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+344,2,"0:43",43,43,"Foul on Tai Odiase.",76,80,-4,0.0241262742434183,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+345,2,"0:43",43,43,"Averyl Ugba made Free Throw.",77,80,-3,0.0574947084402258,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+346,2,"0:43",43,43,"Averyl Ugba made Free Throw.",78,80,-2,0.130827096096996,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+347,2,"0:36",36,36,"Foul on Chris Porter-Bunton.",78,80,-2,0.150408678999076,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+348,2,"0:36",36,36,"Marcus Ottey made Free Throw.",78,81,-3,0.0648460655480296,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+349,2,"0:36",36,36,"Marcus Ottey missed Free Throw.",78,81,-3,0.0648460655480296,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+350,2,"0:36",36,36,"Averyl Ugba Defensive Rebound.",78,81,-3,0.0648460655480296,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+351,2,"0:19",19,19,"Terry Taylor missed Jumper.",78,81,-3,0.0264793348471543,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+352,2,"0:19",19,19,"Terry Taylor Offensive Rebound.",78,81,-3,0.0264793348471543,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+353,2,"0:16",16,16,"Terry Taylor made Jumper.",80,81,-1,0.146938330536515,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+354,2,"0:12",12,12,"Marcus Ottey Turnover.",80,81,-1,0.34484903576735,"Austin Peay","UIC",3,2,0,0,NA,401026677,2018-03-21
+355,2,"0:10",10,10,"Tre' Ivory Steal.",80,81,-1,0.276401893494181,"Austin Peay","UIC",3,2,1,0,NA,401026677,2018-03-21
+356,2,"0:10",10,10,"Foul on Jordan Blount.",80,81,-1,0.276401893494181,"Austin Peay","UIC",3,2,1,0,NA,401026677,2018-03-21
+357,2,"0:10",10,10,"Dayton Gumm missed Free Throw.",80,81,-1,0.276401893494181,"Austin Peay","UIC",3,2,1,0,NA,401026677,2018-03-21
+358,2,"0:10",10,10,"Austin Peay Deadball Team Rebound.",80,81,-1,0.276401893494181,"Austin Peay","UIC",3,2,1,0,NA,401026677,2018-03-21
+359,2,"0:10",10,10,"Dayton Gumm made Free Throw.",81,81,0,0.658101679960043,"Austin Peay","UIC",3,2,1,0,NA,401026677,2018-03-21
+360,2,"0:10",10,10,"Austin Peay  Timeout",81,81,0,0.658101679960043,"Austin Peay","UIC",2,2,1,0,NA,401026677,2018-03-21
+361,2,"0:01",1,1,"Godwin Boahen made Jumper.",81,83,-2,0.0145902039750984,"Austin Peay","UIC",2,2,1,0,NA,401026677,2018-03-21
+362,2,"0:00",0,0,"End of Game",81,83,-2,1.72766253572816e-17,"Austin Peay","UIC",2,2,1,0,NA,401026677,2018-03-21

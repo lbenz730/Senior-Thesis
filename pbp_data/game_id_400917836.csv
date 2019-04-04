@@ -1,0 +1,394 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2700,"PLAY",0,0,0,0.715215894060012,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+2,1,"19:38",2378,2678,"Foul on Terrell Miller Jr..",0,0,0,0.714855166811093,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+3,1,"19:38",2378,2678,"Terrell Miller Jr. Turnover.",0,0,0,0.714855166811093,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+4,1,"19:24",2364,2664,"DeJuan Marrero Turnover.",0,0,0,0.699608586913225,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+5,1,"19:23",2363,2663,"Jonathan Stark Steal.",0,0,0,0.699608586913225,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+6,1,"19:22",2362,2662,"Foul on Xavier Moon.",0,0,0,0.699608586913225,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+7,1,"19:22",2362,2662,"Jonathan Stark missed Free Throw.",0,0,0,0.699608586913225,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+8,1,"19:22",2362,2662,"Murray St Deadball Team Rebound.",0,0,0,0.699608586913225,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+9,1,"19:22",2362,2662,"Jonathan Stark made Free Throw.",0,1,-1,0.692517126621679,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+10,1,"19:11",2351,2651,"Xavier Moon missed Jumper.",0,1,-1,0.702682961800778,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+11,1,"19:11",2351,2651,"Ronnye Beamon Offensive Rebound.",0,1,-1,0.702682961800778,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+12,1,"19:06",2346,2646,"Ronnye Beamon missed Layup.",0,1,-1,0.683412997858913,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+13,1,"19:06",2346,2646,"Terrell Miller Jr. Block.",0,1,-1,0.683412997858913,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+14,1,"19:05",2345,2645,"Morehead St Offensive Rebound.",0,1,-1,0.683412997858913,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+15,1,"18:52",2332,2632,"Miguel Dicent missed Three Point Jumper.",0,1,-1,0.688891602901623,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+16,1,"18:52",2332,2632,"Jonathan Stark Defensive Rebound.",0,1,-1,0.688891602901623,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+17,1,"18:47",2327,2627,"Bryce Jones made Layup. Assisted by Jonathan Stark.",0,3,-3,0.645956653700975,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+18,1,"18:32",2312,2612,"Treshaad Williams made Layup. Assisted by Xavier Moon.",2,3,-1,0.672574927990511,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+19,1,"18:06",2286,2586,"Jonathan Stark made Jumper.",2,5,-3,0.630337393974491,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+20,1,"17:52",2272,2572,"DeJuan Marrero missed Jumper.",2,5,-3,0.64074820351658,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+21,1,"17:52",2272,2572,"Morehead St Offensive Rebound.",2,5,-3,0.64074820351658,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+22,1,"17:48",2268,2568,"Foul on Brion Sanchious.",2,5,-3,0.63080970040674,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+23,1,"17:44",2264,2564,"DeJuan Marrero made Layup.",4,5,-1,0.68624386301896,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+24,1,"17:14",2234,2534,"Damarcus Croaker Turnover.",4,5,-1,0.681279439712876,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+25,1,"17:12",2232,2532,"DeJuan Marrero Steal.",4,5,-1,0.681279439712876,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+26,1,"17:10",2230,2530,"Miguel Dicent made Layup. Assisted by Xavier Moon.",6,5,1,0.727806095973371,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+27,1,"17:03",2223,2523,"Damarcus Croaker missed Dunk.",6,5,1,0.727611900244966,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+28,1,"17:03",2223,2523,"DeJuan Marrero Defensive Rebound.",6,5,1,0.727611900244966,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+29,1,"16:55",2215,2515,"Miguel Dicent made Three Point Jumper. Assisted by Treshaad Williams.",9,5,4,0.802156666664281,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+30,1,"16:42",2202,2502,"Jonathan Stark missed Three Point Jumper.",9,5,4,0.78893545774093,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+31,1,"16:42",2202,2502,"Murray St Offensive Rebound.",9,5,4,0.78893545774093,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+32,1,"16:32",2192,2492,"Terrell Miller Jr. missed Layup.",9,5,4,0.799415886103863,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+33,1,"16:32",2192,2492,"Xavier Moon Defensive Rebound.",9,5,4,0.799415886103863,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+34,1,"16:24",2184,2484,"Treshaad Williams missed Layup.",9,5,4,0.78506914562071,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+35,1,"16:24",2184,2484,"Brion Sanchious Block.",9,5,4,0.78506914562071,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+36,1,"16:23",2183,2483,"Jonathan Stark Defensive Rebound.",9,5,4,0.78506914562071,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+37,1,"16:05",2165,2465,"Foul on Xavier Moon.",9,5,4,0.783041893021029,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+38,1,"16:05",2165,2465,"Jonathan Stark made Free Throw.",9,6,3,0.763670367210552,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+39,1,"16:05",2165,2465,"Jonathan Stark made Free Throw.",9,7,2,0.743136590573672,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+40,1,"15:47",2147,2447,"Treshaad Williams made Layup. Assisted by Ronnye Beamon.",11,7,4,0.783985631047272,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+41,1,"15:23",2123,2423,"Terrell Miller Jr. made Layup.",11,9,2,0.740848490451847,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+42,1,"15:11",2111,2411,"DeJuan Marrero missed Jumper.",11,9,2,0.748572770704329,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+43,1,"15:11",2111,2411,"Jonathan Stark Defensive Rebound.",11,9,2,0.748572770704329,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+44,1,"15:03",2103,2403,"Bryce Jones missed Three Point Jumper.",11,9,2,0.739482230963616,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+45,1,"15:03",2103,2403,"Ronnye Beamon Defensive Rebound.",11,9,2,0.739482230963616,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+46,1,"14:40",2080,2380,"DeJuan Marrero made Layup. Assisted by Ronnye Beamon.",13,9,4,0.783107337074748,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+47,1,"14:17",2057,2357,"Terrell Miller Jr. missed Jumper.",13,9,4,0.786458493067218,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+48,1,"14:17",2057,2357,"Morehead St Deadball Team Rebound.",13,9,4,0.786458493067218,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+49,1,"14:16",2056,2356,"Foul on Brion Sanchious.",13,9,4,0.786458493067218,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+50,1,"14:16",2056,2356,"Official TV Timeout",13,9,4,0.786458493067218,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+51,1,"13:53",2033,2333,"Jordan Walker made Three Point Jumper.",16,9,7,0.84179106476008,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+52,1,"13:32",2012,2312,"Jonathan Stark made Jumper. Assisted by Jalen Dupree.",16,11,5,0.805926496014794,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+53,1,"13:06",1986,2286,"DeJuan Marrero missed Jumper.",16,11,5,0.798376496927363,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+54,1,"13:06",1986,2286,"Morehead St Offensive Rebound.",16,11,5,0.798376496927363,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+55,1,"13:01",1981,2281,"Miguel Dicent missed Three Point Jumper.",16,11,5,0.798376496927363,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+56,1,"13:01",1981,2281,"Jalen Dupree Defensive Rebound.",16,11,5,0.798376496927363,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+57,1,"12:52",1972,2272,"Foul on Treshaad Williams.",16,11,5,0.815161065232409,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+58,1,"12:52",1972,2272,"Gee McGhee made Free Throw.",16,12,4,0.795217495493436,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+59,1,"12:52",1972,2272,"Gee McGhee missed Free Throw.",16,12,4,0.795217495493436,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+60,1,"12:52",1972,2272,"DeJuan Marrero Defensive Rebound.",16,12,4,0.795217495493436,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+61,1,"12:23",1943,2243,"Jordan Walker made Three Point Jumper. Assisted by Lamontray Harris.",19,12,7,0.843751868228013,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+62,1,"12:02",1922,2222,"Jonathan Stark Turnover.",19,12,7,0.843182656271736,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+63,1,"11:45",1905,2205,"Jordan Walker missed Layup.",19,12,7,0.835666555659453,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+64,1,"11:45",1905,2205,"Damarcus Croaker Defensive Rebound.",19,12,7,0.835666555659453,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+65,1,"11:38",1898,2198,"Damarcus Croaker made Layup.",19,14,5,0.815620613000847,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+66,1,"11:38",1898,2198,"Foul on DeJuan Marrero.",19,14,5,0.815620613000847,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+67,1,"11:38",1898,2198,"Official TV Timeout",19,14,5,0.815620613000847,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+68,1,"11:38",1898,2198,"Damarcus Croaker missed Free Throw.",19,14,5,0.815620613000847,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+69,1,"11:38",1898,2198,"Lamontray Harris Defensive Rebound.",19,14,5,0.815620613000847,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+70,1,"11:18",1878,2178,"DeJuan Marrero missed Layup.",19,14,5,0.803684324471642,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+71,1,"11:18",1878,2178,"Lamontray Harris Offensive Rebound.",19,14,5,0.803684324471642,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+72,1,"11:16",1876,2176,"Lamontray Harris made Layup.",21,14,7,0.83993781888661,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+73,1,"11:16",1876,2176,"Foul on Jalen Dupree.",21,14,7,0.83993781888661,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+74,1,"11:16",1876,2176,"Lamontray Harris made Free Throw.",22,14,8,0.855932174008261,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+75,1,"11:08",1868,2168,"Damarcus Croaker Turnover.",22,14,8,0.870554970484278,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+76,1,"10:48",1848,2148,"Lamontray Harris missed Jumper.",22,14,8,0.848791438005597,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+77,1,"10:48",1848,2148,"Jordan Walker Offensive Rebound.",22,14,8,0.848791438005597,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+78,1,"10:43",1843,2143,"Lamontray Harris made Three Point Jumper. Assisted by Jordan Walker.",25,14,11,0.890584398931261,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+79,1,"10:23",1823,2123,"Foul on Terrell Miller Jr..",25,14,11,0.901094193686997,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+80,1,"10:23",1823,2123,"Terrell Miller Jr. Turnover.",25,14,11,0.901094193686997,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+81,1,"10:08",1808,2108,"DeJuan Marrero made Jumper. Assisted by Ronnye Beamon.",27,14,13,0.920419395499965,"Morehead State","Murray State",6,6,0,0,4,400917836,2017-02-08
+82,1,"10:06",1806,2106,"Murray St  Timeout",27,14,13,0.920419395499965,"Morehead State","Murray State",6,5,0,1,4,400917836,2017-02-08
+83,1,"9:57",1797,2097,"Jonathan Stark made Three Point Jumper.",27,17,10,0.885120438940323,"Morehead State","Murray State",6,5,0,1,4,400917836,2017-02-08
+84,1,"9:34",1774,2074,"Jordan Walker missed Layup.",27,17,10,0.875251115413516,"Morehead State","Murray State",6,5,0,1,4,400917836,2017-02-08
+85,1,"9:34",1774,2074,"Gee McGhee Defensive Rebound.",27,17,10,0.875251115413516,"Morehead State","Murray State",6,5,0,1,4,400917836,2017-02-08
+86,1,"9:14",1754,2054,"Jalen Dupree missed Layup.",27,17,10,0.891742328819921,"Morehead State","Murray State",6,5,0,1,4,400917836,2017-02-08
+87,1,"9:14",1754,2054,"DeJuan Marrero Defensive Rebound.",27,17,10,0.891742328819921,"Morehead State","Murray State",6,5,0,1,4,400917836,2017-02-08
+88,1,"9:00",1740,2040,"Foul on Brion Sanchious.",27,17,10,0.887013832640404,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+89,1,"9:00",1740,2040,"DeJuan Marrero made Free Throw.",28,17,11,0.899067449401068,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+90,1,"9:00",1740,2040,"DeJuan Marrero made Free Throw.",29,17,12,0.909965682431891,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+91,1,"8:45",1725,2025,"Foul on Jalen Dupree.",29,17,12,0.916508457732524,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+92,1,"8:45",1725,2025,"Jalen Dupree Turnover.",29,17,12,0.916508457732524,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+93,1,"8:28",1708,2008,"Lamontray Harris made Jumper. Assisted by Miguel Dicent.",31,17,14,0.925419954381625,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+94,1,"8:15",1695,1995,"Jonathan Stark missed Three Point Jumper.",31,17,14,0.941753736693641,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+95,1,"8:15",1695,1995,"Lamontray Harris Defensive Rebound.",31,17,14,0.941753736693641,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+96,1,"8:03",1683,1983,"Treshaad Williams Turnover.",31,17,14,0.944356106918839,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+97,1,"7:46",1666,1966,"Foul on Jordan Walker.",31,17,14,0.929311794373484,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+98,1,"7:46",1666,1966,"Official TV Timeout",31,17,14,0.929311794373484,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+99,1,"7:46",1666,1966,"Bryce Jones made Free Throw.",31,18,13,0.920321654408451,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+100,1,"7:46",1666,1966,"Bryce Jones missed Free Throw.",31,18,13,0.920321654408451,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+101,1,"7:46",1666,1966,"Ronnye Beamon Defensive Rebound.",31,18,13,0.920321654408451,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+102,1,"7:36",1656,1956,"Treshaad Williams missed Layup.",31,18,13,0.923626763521156,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+103,1,"7:36",1656,1956,"Gilbert Thomas Jr. Defensive Rebound.",31,18,13,0.923626763521156,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+104,1,"7:21",1641,1941,"Jonathan Stark made Jumper.",31,20,11,0.910693976824029,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+105,1,"7:10",1630,1930,"Miguel Dicent Turnover.",31,20,11,0.903864863000472,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+106,1,"6:58",1618,1918,"Foul on Lamontray Harris.",31,20,11,0.902346407104341,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+107,1,"6:44",1604,1904,"Bryce Jones made Three Point Jumper.",31,23,8,0.857686780284204,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+108,1,"6:19",1579,1879,"Lamontray Harris made Jumper.",33,23,10,0.910555472539781,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+109,1,"5:53",1553,1853,"Jonathan Stark missed Three Point Jumper.",33,23,10,0.893889101833583,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+110,1,"5:53",1553,1853,"Morehead St Defensive Rebound.",33,23,10,0.893889101833583,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+111,1,"5:36",1536,1836,"Foul on Treshaad Williams.",33,23,10,0.896648188506312,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+112,1,"5:36",1536,1836,"Treshaad Williams Turnover.",33,23,10,0.896648188506312,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+113,1,"5:21",1521,1821,"Terrell Miller Jr. missed Jumper.",33,23,10,0.896102351956319,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+114,1,"5:21",1521,1821,"Ty'Quan Bitting Defensive Rebound.",33,23,10,0.896102351956319,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+115,1,"5:06",1506,1806,"Ronnye Beamon made Three Point Jumper. Assisted by Miguel Dicent.",36,23,13,0.929925044642327,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+116,1,"4:50",1490,1790,"Foul on Miguel Dicent.",36,23,13,0.932089623107722,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+117,1,"4:50",1490,1790,"Gilbert Thomas Jr. missed Free Throw.",36,23,13,0.932089623107722,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+118,1,"4:50",1490,1790,"Murray St Deadball Team Rebound.",36,23,13,0.932089623107722,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+119,1,"4:50",1490,1790,"Gilbert Thomas Jr. made Free Throw.",36,24,12,0.922708893937342,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+120,1,"4:38",1478,1778,"Jordan Walker Turnover.",36,24,12,0.931476537172092,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+121,1,"4:37",1477,1777,"Damarcus Croaker Steal.",36,24,12,0.931476537172092,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+122,1,"4:32",1472,1772,"Damarcus Croaker missed Jumper.",36,24,12,0.931476537172092,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+123,1,"4:32",1472,1772,"Ty'Quan Bitting Block.",36,24,12,0.931476537172092,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+124,1,"4:31",1471,1771,"Murray St Offensive Rebound.",36,24,12,0.931476537172092,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+125,1,"4:20",1460,1760,"Jonathan Stark missed Jumper.",36,24,12,0.916429872238938,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+126,1,"4:20",1460,1760,"Ronnye Beamon Defensive Rebound.",36,24,12,0.916429872238938,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+127,1,"3:58",1438,1738,"Lamontray Harris missed Jumper.",36,24,12,0.926181738152278,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+128,1,"3:58",1438,1738,"Gilbert Thomas Jr. Defensive Rebound.",36,24,12,0.926181738152278,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+129,1,"3:50",1430,1730,"Bryce Jones missed Layup.",36,24,12,0.926181738152278,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+130,1,"3:50",1430,1730,"Lamontray Harris Defensive Rebound.",36,24,12,0.926181738152278,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+131,1,"3:36",1416,1716,"Jordan Walker Turnover.",36,24,12,0.926479848465864,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+132,1,"3:36",1416,1716,"Official TV Timeout",36,24,12,0.926479848465864,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+133,1,"3:19",1399,1699,"Jonathan Stark made Three Point Jumper. Assisted by Bryce Jones.",36,27,9,0.89168957897361,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+134,1,"2:48",1368,1668,"Jordan Walker missed Three Point Jumper.",36,27,9,0.890163922321276,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+135,1,"2:48",1368,1668,"Gee McGhee Defensive Rebound.",36,27,9,0.890163922321276,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+136,1,"2:40",1360,1660,"Jonathan Stark made Three Point Jumper. Assisted by Damarcus Croaker.",36,30,6,0.836403332489992,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+137,1,"2:15",1335,1635,"Miguel Dicent missed Layup.",36,30,6,0.828286250121083,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+138,1,"2:15",1335,1635,"Ty'Quan Bitting Offensive Rebound.",36,30,6,0.828286250121083,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+139,1,"2:11",1331,1631,"Ty'Quan Bitting made Jumper.",38,30,8,0.868147273209566,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+140,1,"1:54",1314,1614,"Gee McGhee missed Layup.",38,30,8,0.882670729522974,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+141,1,"1:54",1314,1614,"Lamontray Harris Defensive Rebound.",38,30,8,0.882670729522974,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+142,1,"1:31",1291,1591,"Ty'Quan Bitting made Layup. Assisted by Ronnye Beamon.",40,30,10,0.918185358127675,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+143,1,"1:22",1282,1582,"Foul on Ronnye Beamon.",40,30,10,0.901585652035041,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+144,1,"1:22",1282,1582,"Damarcus Croaker made Free Throw.",40,31,9,0.88747250373592,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+145,1,"1:22",1282,1582,"Damarcus Croaker made Free Throw.",40,32,8,0.871623636261127,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+146,1,"1:15",1275,1575,"Foul on Jonathan Stark.",40,32,8,0.862016097694097,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+147,1,"1:15",1275,1575,"Jordan Walker made Free Throw.",41,32,9,0.878891626211123,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+148,1,"1:15",1275,1575,"Jordan Walker made Free Throw.",42,32,10,0.893957159625554,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+149,1,"0:59",1259,1559,"Damarcus Croaker missed Three Point Jumper.",42,32,10,0.89723607407987,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+150,1,"0:59",1259,1559,"Ty'Quan Bitting Defensive Rebound.",42,32,10,0.89723607407987,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+151,1,"0:36",1236,1536,"Ronnye Beamon Turnover.",42,32,10,0.904557905663062,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+152,1,"0:35",1235,1535,"Damarcus Croaker Steal.",42,32,10,0.904557905663062,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+153,1,"0:10",1210,1510,"Jonathan Stark missed Jumper.",42,32,10,0.908227850944137,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+154,1,"0:10",1210,1510,"DeJuan Marrero Defensive Rebound.",42,32,10,0.908227850944137,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+155,1,"0:01",1201,1501,"Ty'Quan Bitting made Layup. Assisted by Miguel Dicent.",44,32,12,0.930208226882096,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+156,1,"0:00",1200,1500,"End of 1st half",44,32,12,0.930208226882096,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+157,2,"20:00",1200,1500,"PLAY",44,32,12,0.930208226882096,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+158,2,"19:44",1184,1484,"Treshaad Williams made Layup. Assisted by Xavier Moon.",46,32,14,0.952474373698961,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+159,2,"19:27",1167,1467,"Terrell Miller Jr. missed Three Point Jumper.",46,32,14,0.949251855774458,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+160,2,"19:27",1167,1467,"Murray St Offensive Rebound.",46,32,14,0.949251855774458,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+161,2,"19:23",1163,1463,"Foul on Treshaad Williams.",46,32,14,0.949251855774458,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+162,2,"19:19",1159,1459,"Jonathan Stark made Jumper. Assisted by Damarcus Croaker.",46,34,12,0.931136630714431,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+163,2,"19:00",1140,1440,"Xavier Moon missed Jumper.",46,34,12,0.937456665027357,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+164,2,"19:00",1140,1440,"Terrell Miller Jr. Defensive Rebound.",46,34,12,0.937456665027357,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+165,2,"18:52",1132,1432,"Foul on Ronnye Beamon.",46,34,12,0.934296609705555,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+166,2,"18:52",1132,1432,"Brion Sanchious made Free Throw.",46,35,11,0.923568834426706,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+167,2,"18:52",1132,1432,"Brion Sanchious made Free Throw.",46,36,10,0.911255847195672,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+168,2,"18:25",1105,1405,"Treshaad Williams made Layup. Assisted by Miguel Dicent.",48,36,12,0.933532365998518,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+169,2,"18:13",1093,1393,"Bryce Jones missed Layup.",48,36,12,0.940547213047097,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+170,2,"18:13",1093,1393,"Brion Sanchious Offensive Rebound.",48,36,12,0.940547213047097,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+171,2,"18:10",1090,1390,"Brion Sanchious missed Two Point Tip Shot.",48,36,12,0.940547213047097,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+172,2,"18:10",1090,1390,"Treshaad Williams Defensive Rebound.",48,36,12,0.940547213047097,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+173,2,"18:10",1090,1390,"Treshaad Williams Turnover.",48,36,12,0.940547213047097,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+174,2,"18:07",1087,1387,"Jonathan Stark made Three Point Jumper. Assisted by Damarcus Croaker.",48,39,9,0.905754284399355,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+175,2,"17:42",1062,1362,"Foul on Brion Sanchious.",48,39,9,0.903851657345868,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+176,2,"17:42",1062,1362,"Treshaad Williams missed Free Throw.",48,39,9,0.903851657345868,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+177,2,"17:42",1062,1362,"Morehead St Deadball Team Rebound.",48,39,9,0.903851657345868,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+178,2,"17:42",1062,1362,"Treshaad Williams missed Free Throw.",48,39,9,0.903851657345868,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+179,2,"17:42",1062,1362,"Treshaad Williams Offensive Rebound.",48,39,9,0.903851657345868,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+180,2,"17:24",1044,1344,"Foul on Gee McGhee.",48,39,9,0.908384267626503,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+181,2,"17:06",1026,1326,"Miguel Dicent missed Three Point Jumper.",48,39,9,0.907703171888278,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+182,2,"17:06",1026,1326,"Murray St Deadball Team Rebound.",48,39,9,0.907703171888278,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+183,2,"17:04",1024,1324,"Foul on Treshaad Williams.",48,39,9,0.907703171888278,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+184,2,"16:49",1009,1309,"Terrell Miller Jr. missed Three Point Jumper.",48,39,9,0.90360907787117,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+185,2,"16:49",1009,1309,"Ronnye Beamon Defensive Rebound.",48,39,9,0.90360907787117,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+186,2,"16:35",995,1295,"DeJuan Marrero made Layup. Assisted by Ronnye Beamon.",50,39,11,0.92718279955603,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+187,2,"16:13",973,1273,"Gee McGhee made Three Point Jumper. Assisted by Terrell Miller Jr..",50,42,8,0.892380698908821,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+188,2,"16:04",964,1264,"Miguel Dicent Turnover.",50,42,8,0.886346834937922,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+189,2,"16:03",963,1263,"Jonathan Stark Steal.",50,42,8,0.886346834937922,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+190,2,"16:00",960,1260,"Damarcus Croaker made Layup. Assisted by Jonathan Stark.",50,44,6,0.843287824115029,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+191,2,"15:39",939,1239,"DeJuan Marrero missed Jumper.",50,44,6,0.852449529921877,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+192,2,"15:39",939,1239,"Bryce Jones Defensive Rebound.",50,44,6,0.852449529921877,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+193,2,"15:33",933,1233,"Damarcus Croaker made Layup. Assisted by Bryce Jones.",50,46,4,0.797569643605669,"Morehead State","Murray State",6,5,0,0,4,400917836,2017-02-08
+194,2,"15:26",926,1226,"Morehead St  Timeout",50,46,4,0.783125906580938,"Morehead State","Murray State",6,4,0,1,4,400917836,2017-02-08
+195,2,"15:26",926,1226,"Official TV Timeout",50,46,4,0.783125906580938,"Morehead State","Murray State",6,4,0,1,4,400917836,2017-02-08
+196,2,"15:04",904,1204,"Xavier Moon Turnover.",50,46,4,0.795543200850843,"Morehead State","Murray State",6,4,0,1,4,400917836,2017-02-08
+197,2,"15:03",903,1203,"Damarcus Croaker Steal.",50,46,4,0.795543200850843,"Morehead State","Murray State",6,4,0,1,4,400917836,2017-02-08
+198,2,"14:53",893,1193,"Terrell Miller Jr. missed Layup.",50,46,4,0.804898792333514,"Morehead State","Murray State",6,4,0,1,4,400917836,2017-02-08
+199,2,"14:53",893,1193,"DeJuan Marrero Defensive Rebound.",50,46,4,0.804898792333514,"Morehead State","Murray State",6,4,0,1,4,400917836,2017-02-08
+200,2,"14:47",887,1187,"Ronnye Beamon missed Layup.",50,46,4,0.779906868795722,"Morehead State","Murray State",6,4,0,1,4,400917836,2017-02-08
+201,2,"14:47",887,1187,"DeJuan Marrero Offensive Rebound.",50,46,4,0.779906868795722,"Morehead State","Murray State",6,4,0,1,4,400917836,2017-02-08
+202,2,"14:44",884,1184,"DeJuan Marrero made Two Point Tip Shot.",52,46,6,0.833804266265574,"Morehead State","Murray State",6,4,0,1,4,400917836,2017-02-08
+203,2,"14:34",874,1174,"Terrell Miller Jr. made Three Point Jumper. Assisted by Jonathan Stark.",52,49,3,0.768949431828403,"Morehead State","Murray State",6,4,0,1,4,400917836,2017-02-08
+204,2,"14:10",850,1150,"Ronnye Beamon missed Three Point Jumper.",52,49,3,0.780148732385889,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+205,2,"14:10",850,1150,"Morehead St Offensive Rebound.",52,49,3,0.780148732385889,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+206,2,"14:07",847,1147,"Official TV Timeout",52,49,3,0.770334417650462,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+207,2,"13:56",836,1136,"Xavier Moon made Three Point Jumper.",55,49,6,0.867712822262237,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+208,2,"13:43",823,1123,"Foul on Ronnye Beamon.",55,49,6,0.850582906317849,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+209,2,"13:24",804,1104,"Gee McGhee made Layup.",55,51,4,0.814984844094238,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+210,2,"13:24",804,1104,"Foul on Lamontray Harris.",55,51,4,0.814984844094238,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+211,2,"13:24",804,1104,"Gee McGhee made Free Throw.",55,52,3,0.782360638287425,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+212,2,"13:08",788,1088,"DeJuan Marrero Turnover.",55,52,3,0.768220724453385,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+213,2,"12:50",770,1070,"Jonathan Stark made Jumper.",55,54,1,0.69024024492634,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+214,2,"12:33",753,1053,"DeJuan Marrero missed Layup.",55,54,1,0.691402209386646,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+215,2,"12:33",753,1053,"Terrell Miller Jr. Defensive Rebound.",55,54,1,0.691402209386646,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+216,2,"12:32",752,1052,"Foul on DeJuan Marrero.",55,54,1,0.691402209386646,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+217,2,"12:13",733,1033,"Foul on Terrell Miller Jr..",55,54,1,0.685147524208474,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+218,2,"12:13",733,1033,"Terrell Miller Jr. Turnover.",55,54,1,0.685147524208474,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+219,2,"12:00",720,1020,"Miguel Dicent made Three Point Jumper. Assisted by Xavier Moon.",58,54,4,0.820034092672002,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+220,2,"11:41",701,1001,"Gee McGhee made Three Point Jumper. Assisted by Damarcus Croaker.",58,57,1,0.688586433895119,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+221,2,"11:27",687,987,"Miguel Dicent missed Three Point Jumper.",58,57,1,0.681204276866859,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+222,2,"11:27",687,987,"Lamontray Harris Offensive Rebound.",58,57,1,0.681204276866859,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+223,2,"11:22",682,982,"Foul on Gee McGhee.",58,57,1,0.681204276866859,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+224,2,"11:22",682,982,"Official TV Timeout",58,57,1,0.681204276866859,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+225,2,"11:17",677,977,"Xavier Moon Turnover.",58,57,1,0.683402606185382,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+226,2,"11:16",676,976,"Gee McGhee Steal.",58,57,1,0.683402606185382,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+227,2,"11:13",673,973,"Gee McGhee missed Layup.",58,57,1,0.683402606185382,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+228,2,"11:13",673,973,"Bryce Jones Offensive Rebound.",58,57,1,0.683402606185382,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+229,2,"11:06",666,966,"Bryce Jones made Two Point Tip Shot.",58,59,-1,0.593250378109343,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+230,2,"11:03",663,963,"Lamontray Harris Turnover.",58,59,-1,0.593250378109343,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+231,2,"11:02",662,962,"Bryce Jones Steal.",58,59,-1,0.593250378109343,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+232,2,"11:00",660,960,"Jonathan Stark made Three Point Jumper. Assisted by Bryce Jones.",58,62,-4,0.425263956061508,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+233,2,"10:35",635,935,"Miguel Dicent made Jumper. Assisted by DeJuan Marrero.",60,62,-2,0.502258623908707,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+234,2,"10:10",610,910,"Gee McGhee Turnover.",60,62,-2,0.495935029628515,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+235,2,"10:10",610,910,"Technical Foul on Murray St.",60,62,-2,0.495935029628515,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+236,2,"10:10",610,910,"Foul on Murray St.",60,62,-2,0.495935029628515,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+237,2,"10:10",610,910,"Xavier Moon made Free Throw.",61,62,-1,0.558392050799064,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+238,2,"10:10",610,910,"Xavier Moon made Free Throw.",62,62,0,0.619054708917283,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+239,2,"9:58",598,898,"Foul on Bryce Jones.",62,62,0,0.629750976082266,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+240,2,"9:54",594,894,"Foul on Jonathan Stark.",62,62,0,0.629750976082266,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+241,2,"9:54",594,894,"Miguel Dicent made Free Throw.",63,62,1,0.683698804291816,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+242,2,"9:54",594,894,"Miguel Dicent made Free Throw.",64,62,2,0.733117300433192,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+243,2,"9:41",581,881,"Terrell Miller Jr. missed Layup.",64,62,2,0.725986838427984,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+244,2,"9:41",581,881,"Murray St Offensive Rebound.",64,62,2,0.725986838427984,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+245,2,"9:36",576,876,"Foul on Xavier Moon.",64,62,2,0.757377931389205,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+246,2,"9:36",576,876,"Damarcus Croaker missed Free Throw.",64,62,2,0.757377931389205,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+247,2,"9:36",576,876,"Murray St Deadball Team Rebound.",64,62,2,0.757377931389205,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+248,2,"9:36",576,876,"Damarcus Croaker made Free Throw.",64,63,1,0.707882976925243,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+249,2,"9:11",551,851,"DeJuan Marrero missed Jumper.",64,63,1,0.679503145784416,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+250,2,"9:11",551,851,"Gee McGhee Defensive Rebound.",64,63,1,0.679503145784416,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+251,2,"8:55",535,835,"Gee McGhee missed Three Point Jumper.",64,63,1,0.71233307243677,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+252,2,"8:55",535,835,"Morehead St Defensive Rebound.",64,63,1,0.71233307243677,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+253,2,"8:35",515,815,"DeJuan Marrero made Layup. Assisted by Miguel Dicent.",66,63,3,0.781855932998053,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+254,2,"8:18",498,798,"Foul on DeJuan Marrero.",66,63,3,0.800729658984051,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+255,2,"8:17",497,797,"Terrell Miller Jr. made Free Throw.",66,64,2,0.753770306050645,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+256,2,"8:17",497,797,"Terrell Miller Jr. made Free Throw.",66,65,1,0.699892237656075,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+257,2,"7:55",475,775,"Miguel Dicent made Three Point Jumper. Assisted by Ronnye Beamon.",69,65,4,0.841333740608354,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+258,2,"7:44",464,764,"Jonathan Stark made Three Point Jumper.",69,68,1,0.682148178927052,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+259,2,"7:35",455,755,"Foul on Gee McGhee.",69,68,1,0.678962563375006,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+260,2,"7:35",455,755,"Official TV Timeout",69,68,1,0.678962563375006,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+261,2,"7:35",455,755,"DeJuan Marrero made Free Throw.",70,68,2,0.743844159963605,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+262,2,"7:35",455,755,"DeJuan Marrero made Free Throw.",71,68,3,0.799485660297336,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+263,2,"7:22",442,742,"Terrell Miller Jr. made Layup.",71,70,1,0.674523819146712,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+264,2,"7:02",422,722,"Lamontray Harris missed Three Point Jumper.",71,70,1,0.67019198514504,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+265,2,"7:02",422,722,"Damarcus Croaker Defensive Rebound.",71,70,1,0.67019198514504,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+266,2,"6:42",402,702,"Foul on Lamontray Harris.",71,70,1,0.679408238334373,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+267,2,"6:42",402,702,"Terrell Miller Jr. made Free Throw.",71,71,0,0.603784658669214,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+268,2,"6:42",402,702,"Terrell Miller Jr. missed Free Throw.",71,71,0,0.603784658669214,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+269,2,"6:42",402,702,"Ronnye Beamon Defensive Rebound.",71,71,0,0.603784658669214,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+270,2,"6:22",382,682,"Lamontray Harris Turnover.",71,71,0,0.623890408341508,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+271,2,"6:18",378,678,"Bryce Jones made Layup. Assisted by Jonathan Stark.",71,73,-2,0.450457890897262,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+272,2,"6:03",363,663,"Miguel Dicent missed Three Point Jumper.",71,73,-2,0.448266267545902,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+273,2,"6:03",363,663,"Jonathan Stark Defensive Rebound.",71,73,-2,0.448266267545902,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+274,2,"5:41",341,641,"Jonathan Stark missed Jumper.",71,73,-2,0.41380983097124,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+275,2,"5:41",341,641,"Miguel Dicent Defensive Rebound.",71,73,-2,0.41380983097124,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+276,2,"5:25",325,625,"Xavier Moon missed Jumper.",71,73,-2,0.451177671259367,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+277,2,"5:25",325,625,"Bryce Jones Defensive Rebound.",71,73,-2,0.451177671259367,"Morehead State","Murray State",6,4,0,0,4,400917836,2017-02-08
+278,2,"5:23",323,623,"Murray St  Timeout",71,73,-2,0.451177671259367,"Morehead State","Murray State",6,3,0,1,4,400917836,2017-02-08
+279,2,"4:56",296,596,"Terrell Miller Jr. missed Jumper.",71,73,-2,0.442020089990947,"Morehead State","Murray State",6,3,0,1,4,400917836,2017-02-08
+280,2,"4:56",296,596,"Damarcus Croaker Offensive Rebound.",71,73,-2,0.442020089990947,"Morehead State","Murray State",6,3,0,1,4,400917836,2017-02-08
+281,2,"4:55",295,595,"Foul on Miguel Dicent.",71,73,-2,0.442020089990947,"Morehead State","Murray State",6,3,0,1,4,400917836,2017-02-08
+282,2,"4:55",295,595,"Damarcus Croaker missed Free Throw.",71,73,-2,0.442020089990947,"Morehead State","Murray State",6,3,0,1,4,400917836,2017-02-08
+283,2,"4:55",295,595,"Murray St Deadball Team Rebound.",71,73,-2,0.442020089990947,"Morehead State","Murray State",6,3,0,1,4,400917836,2017-02-08
+284,2,"4:55",295,595,"Damarcus Croaker made Free Throw.",71,74,-3,0.35987260848081,"Morehead State","Murray State",6,3,0,1,4,400917836,2017-02-08
+285,2,"4:43",283,583,"Xavier Moon made Jumper.",73,74,-1,0.51002583635914,"Morehead State","Murray State",6,3,0,1,4,400917836,2017-02-08
+286,2,"4:20",260,560,"Jonathan Stark Turnover.",73,74,-1,0.514354134712488,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+287,2,"4:18",258,558,"Ronnye Beamon Steal.",73,74,-1,0.500942337681841,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+288,2,"4:03",243,543,"Treshaad Williams made Layup. Assisted by Xavier Moon.",75,74,1,0.685227175975205,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+289,2,"4:03",243,543,"Foul on Gee McGhee.",75,74,1,0.685227175975205,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+290,2,"4:03",243,543,"Treshaad Williams missed Free Throw.",75,74,1,0.685227175975205,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+291,2,"4:03",243,543,"Ronnye Beamon Offensive Rebound.",75,74,1,0.685227175975205,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+292,2,"4:01",241,541,"Ronnye Beamon missed Layup.",75,74,1,0.685227175975205,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+293,2,"4:01",241,541,"Ronnye Beamon Offensive Rebound.",75,74,1,0.685227175975205,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+294,2,"3:58",238,538,"Ronnye Beamon made Jumper.",77,74,3,0.835344345302109,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+295,2,"3:31",211,511,"Foul on Treshaad Williams.",77,74,3,0.841836615530825,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+296,2,"3:31",211,511,"Official TV Timeout",77,74,3,0.841836615530825,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+297,2,"3:31",211,511,"Terrell Miller Jr. made Free Throw.",77,75,2,0.774283656559834,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+298,2,"3:31",211,511,"Terrell Miller Jr. made Free Throw.",77,76,1,0.688552549536217,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+299,2,"3:16",196,496,"Miguel Dicent missed Three Point Jumper.",77,76,1,0.679973952815965,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+300,2,"3:16",196,496,"Terrell Miller Jr. Defensive Rebound.",77,76,1,0.679973952815965,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+301,2,"3:12",192,492,"Terrell Miller Jr. Turnover.",77,76,1,0.679973952815965,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+302,2,"3:10",190,490,"Foul on Jonathan Stark.",77,76,1,0.679973952815965,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+303,2,"3:10",190,490,"Ronnye Beamon missed Free Throw.",77,76,1,0.679973952815965,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+304,2,"3:10",190,490,"Morehead St Deadball Team Rebound.",77,76,1,0.679973952815965,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+305,2,"3:10",190,490,"Ronnye Beamon missed Free Throw.",77,76,1,0.679973952815965,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+306,2,"3:10",190,490,"Jalen Dupree Defensive Rebound.",77,76,1,0.679973952815965,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+307,2,"2:56",176,476,"Jonathan Stark missed Layup.",77,76,1,0.716728847278435,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+308,2,"2:56",176,476,"DeJuan Marrero Defensive Rebound.",77,76,1,0.716728847278435,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+309,2,"2:38",158,458,"Xavier Moon missed Layup.",77,76,1,0.712457520481164,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+310,2,"2:38",158,458,"Terrell Miller Jr. Defensive Rebound.",77,76,1,0.712457520481164,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+311,2,"2:11",131,431,"Jonathan Stark missed Jumper.",77,76,1,0.732998659738612,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+312,2,"2:11",131,431,"DeJuan Marrero Defensive Rebound.",77,76,1,0.732998659738612,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+313,2,"1:49",109,409,"Miguel Dicent missed Jumper.",77,76,1,0.692383165993318,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+314,2,"1:49",109,409,"DeJuan Marrero Offensive Rebound.",77,76,1,0.692383165993318,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+315,2,"1:46",106,406,"DeJuan Marrero made Jumper.",79,76,3,0.885888312514612,"Morehead State","Murray State",6,3,0,0,4,400917836,2017-02-08
+316,2,"1:37",97,397,"Murray St  Timeout",79,76,3,0.894520198337544,"Morehead State","Murray State",6,2,0,1,4,400917836,2017-02-08
+317,2,"1:15",75,375,"Jonathan Stark missed Three Point Jumper.",79,76,3,0.916475486944545,"Morehead State","Murray State",6,2,0,1,4,400917836,2017-02-08
+318,2,"1:15",75,375,"DeJuan Marrero Defensive Rebound.",79,76,3,0.916475486944545,"Morehead State","Murray State",6,2,0,1,4,400917836,2017-02-08
+319,2,"0:56",56,356,"Foul on Damarcus Croaker.",79,76,3,0.952786849174411,"Morehead State","Murray State",6,2,0,1,4,400917836,2017-02-08
+320,2,"0:56",56,356,"Xavier Moon made Free Throw.",80,76,4,0.979688822991135,"Morehead State","Murray State",6,2,0,1,4,400917836,2017-02-08
+321,2,"0:56",56,356,"Xavier Moon made Free Throw.",81,76,5,0.991400449397297,"Morehead State","Murray State",6,2,0,1,4,400917836,2017-02-08
+322,2,"0:47",47,347,"Terrell Miller Jr. made Three Point Jumper. Assisted by Jonathan Stark.",81,79,2,0.896737563475809,"Morehead State","Murray State",6,2,0,1,4,400917836,2017-02-08
+323,2,"0:17",17,317,"Ronnye Beamon made Layup. Assisted by DeJuan Marrero.",83,79,4,0.991323887006302,"Morehead State","Murray State",6,2,0,0,4,400917836,2017-02-08
+324,2,"0:12",12,312,"Terrell Miller Jr. made Three Point Jumper. Assisted by Jonathan Stark.",83,82,1,0.885531817464045,"Morehead State","Murray State",6,2,0,1,4,400917836,2017-02-08
+325,2,"0:12",12,312,"Murray St  Timeout",83,82,1,0.885531817464045,"Morehead State","Murray State",6,1,0,1,4,400917836,2017-02-08
+326,2,"0:10",10,310,"Foul on Jonathan Stark.",83,82,1,0.89938500476733,"Morehead State","Murray State",6,1,0,1,4,400917836,2017-02-08
+327,2,"0:10",10,310,"Xavier Moon made Free Throw.",84,82,2,0.978281566452345,"Morehead State","Murray State",6,1,0,1,4,400917836,2017-02-08
+328,2,"0:10",10,310,"Xavier Moon missed Free Throw.",84,82,2,0.978281566452345,"Morehead State","Murray State",6,1,0,1,4,400917836,2017-02-08
+329,2,"0:10",10,310,"Terrell Miller Jr. Defensive Rebound.",84,82,2,0.978281566452345,"Morehead State","Murray State",6,1,0,1,4,400917836,2017-02-08
+330,2,"0:03",3,303,"Foul on Xavier Moon.",84,82,2,0.964726427117974,"Morehead State","Murray State",6,1,0,1,4,400917836,2017-02-08
+331,2,"0:03",3,303,"Morehead St  Timeout",84,82,2,0.964726427117974,"Morehead State","Murray State",6,0,0,1,4,400917836,2017-02-08
+332,2,"0:03",3,303,"Jonathan Stark made Free Throw.",84,83,1,0.830030724769338,"Morehead State","Murray State",6,0,0,1,4,400917836,2017-02-08
+333,2,"0:03",3,303,"Jonathan Stark made Free Throw.",84,84,0,0.465798377510233,"Morehead State","Murray State",6,0,0,1,4,400917836,2017-02-08
+334,2,"0:00",300,300,"Xavier Moon missed Three Point Jumper.",84,84,0,0.601980298733025,"Morehead State","Murray State",6,0,0,1,4,400917836,2017-02-08
+335,2,"0:00",300,300,"Terrell Miller Jr. Defensive Rebound.",84,84,0,0.601980298733025,"Morehead State","Murray State",6,0,0,1,4,400917836,2017-02-08
+336,2,"0:00",300,300,"End of 2nd half",84,84,0,0.601980298733025,"Morehead State","Murray State",6,0,0,1,4,400917836,2017-02-08
+337,3,"5:00",300,300,"PLAY",84,84,0,0.601980298733025,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+338,3,"4:48",288,288,"Miguel Dicent missed Layup.",84,84,0,0.596981730851575,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+339,3,"4:48",288,288,"Ty'Quan Bitting Offensive Rebound.",84,84,0,0.596981730851575,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+340,3,"4:46",286,286,"Ty'Quan Bitting made Two Point Tip Shot.",86,84,2,0.749978272045708,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+341,3,"4:27",267,267,"Terrell Miller Jr. Turnover.",86,84,2,0.764442269726116,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+342,3,"4:25",265,265,"DeJuan Marrero Steal.",86,84,2,0.764442269726116,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+343,3,"4:05",245,245,"DeJuan Marrero made Layup.",88,84,4,0.879882991508053,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+344,3,"3:58",238,238,"Damarcus Croaker missed Jumper.",88,84,4,0.883889500858709,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+345,3,"3:58",238,238,"Ty'Quan Bitting Defensive Rebound.",88,84,4,0.883889500858709,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+346,3,"3:36",216,216,"Foul on Damarcus Croaker.",88,84,4,0.891992355411311,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+347,3,"3:36",216,216,"Miguel Dicent made Free Throw.",89,84,5,0.927610706215737,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+348,3,"3:36",216,216,"Miguel Dicent made Free Throw.",90,84,6,0.952113558899871,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+349,3,"3:24",204,204,"Terrell Miller Jr. made Three Point Jumper. Assisted by Jonathan Stark.",90,87,3,0.863583784111994,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+350,3,"3:09",189,189,"Xavier Moon made Three Point Jumper. Assisted by Miguel Dicent.",93,87,6,0.960952334541457,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+351,3,"2:52",172,172,"Foul on Ronnye Beamon.",93,87,6,0.967356188137178,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+352,3,"2:52",172,172,"Terrell Miller Jr. made Free Throw.",93,88,5,0.947687416477246,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+353,3,"2:52",172,172,"Terrell Miller Jr. made Free Throw.",93,89,4,0.917182272506643,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+354,3,"2:49",169,169,"Foul on Jonathan Stark.",93,89,4,0.928977391001322,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+355,3,"2:49",169,169,"Xavier Moon made Free Throw.",94,89,5,0.956265235473993,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+356,3,"2:49",169,169,"Xavier Moon made Free Throw.",95,89,6,0.973369274041831,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+357,3,"2:37",157,157,"Foul on DeJuan Marrero.",95,89,6,0.973655675921333,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+358,3,"2:37",157,157,"Terrell Miller Jr. made Free Throw.",95,90,5,0.955609074357282,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+359,3,"2:37",157,157,"Terrell Miller Jr. made Free Throw.",95,91,4,0.926137865741127,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+360,3,"2:15",135,135,"Foul on Terrell Miller Jr..",95,91,4,0.934208395329621,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+361,3,"2:15",135,135,"DeJuan Marrero missed Free Throw.",95,91,4,0.934208395329621,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+362,3,"2:15",135,135,"Morehead St Deadball Team Rebound.",95,91,4,0.934208395329621,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+363,3,"2:15",135,135,"DeJuan Marrero made Free Throw.",96,91,5,0.960871126865313,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+364,3,"1:53",113,113,"Bryce Jones missed Layup.",96,91,5,0.967891527006297,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+365,3,"1:53",113,113,"DeJuan Marrero Block.",96,91,5,0.967891527006297,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+366,3,"1:51",111,111,"Terrell Miller Jr. Offensive Rebound.",96,91,5,0.967891527006297,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+367,3,"1:48",108,108,"Terrell Miller Jr. made Layup.",96,93,3,0.885888312514612,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+368,3,"1:29",89,89,"Xavier Moon made Three Point Jumper. Assisted by Ronnye Beamon.",99,93,6,0.991308502275158,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+369,3,"1:16",76,76,"Foul on DeJuan Marrero.",99,93,6,0.990052096913649,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+370,3,"1:16",76,76,"Bryce Jones made Free Throw.",99,94,5,0.979475452655925,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+371,3,"1:16",76,76,"Bryce Jones made Free Throw.",99,95,4,0.9581292570445,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+372,3,"1:16",76,76,"Xavier Moon Turnover.",99,95,4,0.9581292570445,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+373,3,"1:15",75,75,"Terrell Miller Jr. Steal.",99,95,4,0.9581292570445,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+374,3,"1:11",71,71,"Bryce Jones missed Layup.",99,95,4,0.9581292570445,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+375,3,"1:11",71,71,"Jalen Dupree Offensive Rebound.",99,95,4,0.9581292570445,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+376,3,"1:08",68,68,"Foul on Ty'Quan Bitting.",99,95,4,0.953869965214517,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+377,3,"1:08",68,68,"Jalen Dupree made Free Throw.",99,96,3,0.907779368777585,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+378,3,"1:08",68,68,"Jalen Dupree missed Free Throw.",99,96,3,0.907779368777585,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+379,3,"1:08",68,68,"Ty'Quan Bitting Defensive Rebound.",99,96,3,0.907779368777585,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+380,3,"0:58",58,58,"Xavier Moon Turnover.",99,96,3,0.9633564819399,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+381,3,"0:57",57,57,"Jalen Dupree Steal.",99,96,3,0.952786849174411,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+382,3,"0:55",55,55,"Damarcus Croaker made Dunk. Assisted by Jalen Dupree.",99,98,1,0.741601903917568,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+383,3,"0:33",33,33,"Miguel Dicent missed Three Point Jumper.",99,98,1,0.793007877234195,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+384,3,"0:33",33,33,"Bryce Jones Defensive Rebound.",99,98,1,0.793007877234195,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+385,3,"0:29",29,29,"Foul on Xavier Moon.",99,98,1,0.710708156770833,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+386,3,"0:29",29,29,"Bryce Jones made Free Throw.",99,99,0,0.472149063125182,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+387,3,"0:29",29,29,"Bryce Jones made Free Throw.",99,100,-1,0.245665653652917,"Morehead State","Murray State",7,1,0,0,4,400917836,2017-02-08
+388,3,"0:09",9,9,"Morehead St  Timeout",99,100,-1,0.260370720823761,"Morehead State","Murray State",7,0,0,1,4,400917836,2017-02-08
+389,3,"0:05",5,5,"Miguel Dicent made Layup.",101,100,1,0.89938500476733,"Morehead State","Murray State",7,0,0,1,4,400917836,2017-02-08
+390,3,"0:05",5,5,"Murray St  Timeout",101,100,1,0.89938500476733,"Morehead State","Murray State",7,-1,0,1,4,400917836,2017-02-08
+391,3,"0:00",0,0,"Bryce Jones missed Three Point Jumper.",101,100,1,0.999999996513587,"Morehead State","Murray State",7,-1,0,1,4,400917836,2017-02-08
+392,3,"0:00",0,0,"Morehead St Defensive Rebound.",101,100,1,0.999999996513587,"Morehead State","Murray State",7,-1,0,1,4,400917836,2017-02-08
+393,3,"0:00",0,0,"End of Game",101,100,1,0.999999996513587,"Morehead State","Murray State",7,-1,0,1,4,400917836,2017-02-08

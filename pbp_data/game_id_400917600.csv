@@ -1,0 +1,336 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.281069072883444,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+2,1,"19:45",2385,2385,"Dominic Robb missed Jumper.",0,0,0,0.287040960520554,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+3,1,"19:45",2385,2385,"Kassius Robertson Defensive Rebound.",0,0,0,0.287040960520554,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+4,1,"19:21",2361,2361,"Kassius Robertson missed Layup.",0,0,0,0.297271214814211,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+5,1,"19:21",2361,2361,"Jermaine Crumpton Offensive Rebound.",0,0,0,0.297271214814211,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+6,1,"19:18",2358,2358,"Jermaine Crumpton missed Two Point Tip Shot.",0,0,0,0.309161425567027,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+7,1,"19:18",2358,2358,"Dominic Robb Defensive Rebound.",0,0,0,0.309161425567027,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+8,1,"19:13",2353,2353,"Marvin Prochet made Three Point Jumper. Assisted by Kahlil Dukes.",3,0,3,0.368161323853722,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+9,1,"18:54",2334,2334,"Kiefer Douse Turnover.",3,0,3,0.362451457318581,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+10,1,"18:52",2332,2332,"Matt Scott Steal.",3,0,3,0.362451457318581,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+11,1,"18:44",2324,2324,"Marvin Prochet missed Jumper.",3,0,3,0.391051115868306,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+12,1,"18:44",2324,2324,"Malik Johnson Defensive Rebound.",3,0,3,0.391051115868306,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+13,1,"18:20",2300,2300,"Jermaine Crumpton missed Three Point Jumper.",3,0,3,0.365847353145135,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+14,1,"18:20",2300,2300,"Kiefer Douse Offensive Rebound.",3,0,3,0.365847353145135,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+15,1,"18:16",2296,2296,"Jermaine Crumpton missed Dunk.",3,0,3,0.371239847119786,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+16,1,"18:16",2296,2296,"Matt Scott Defensive Rebound.",3,0,3,0.371239847119786,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+17,1,"18:09",2289,2289,"Marvin Prochet made Jumper. Assisted by Matt Scott.",5,0,5,0.41564370999888,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+18,1,"17:43",2263,2263,"Phil Valenti missed Layup.",5,0,5,0.444115242069817,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+19,1,"17:43",2263,2263,"Matt Scott Defensive Rebound.",5,0,5,0.444115242069817,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+20,1,"17:36",2256,2256,"Matt Scott made Layup.",7,0,7,0.473894696096267,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+21,1,"17:22",2242,2242,"Kiefer Douse made Layup.",7,2,5,0.440093092011893,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+22,1,"17:00",2220,2220,"Matt Scott made Layup. Assisted by Marvin Prochet.",9,2,7,0.473894861937704,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+23,1,"16:52",2212,2212,"Kiefer Douse missed Layup.",9,2,7,0.543428607556077,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+24,1,"16:52",2212,2212,"Marvin Prochet Block.",9,2,7,0.543428607556077,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+25,1,"16:50",2210,2210,"Matt Scott Defensive Rebound.",9,2,7,0.543428607556077,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+26,1,"16:43",2203,2203,"Foul on Phil Valenti.",9,2,7,0.498653057202788,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+27,1,"16:33",2193,2193,"Dominic Robb made Layup. Assisted by Matt Scott.",11,2,9,0.567102999428928,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+28,1,"16:11",2171,2171,"Kassius Robertson missed Layup.",11,2,9,0.534597217659974,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+29,1,"16:11",2171,2171,"Phil Valenti Offensive Rebound.",11,2,9,0.534597217659974,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+30,1,"16:09",2169,2169,"Phil Valenti missed Two Point Tip Shot.",11,2,9,0.547188235955161,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+31,1,"16:09",2169,2169,"Dominic Robb Defensive Rebound.",11,2,9,0.547188235955161,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+32,1,"15:44",2144,2144,"Chris Barton made Jumper. Assisted by Kahlil Dukes.",13,2,11,0.581169809089089,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+33,1,"15:35",2135,2135,"Jermaine Crumpton made Jumper. Assisted by Phil Valenti.",13,4,9,0.563566258922451,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+34,1,"15:09",2109,2109,"Matt Scott missed Jumper.",13,4,9,0.547104783379552,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+35,1,"15:09",2109,2109,"Malik Johnson Defensive Rebound.",13,4,9,0.547104783379552,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+36,1,"14:56",2096,2096,"Jermaine Crumpton missed Dunk.",13,4,9,0.580295834230498,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+37,1,"14:56",2096,2096,"Dominic Robb Block.",13,4,9,0.580295834230498,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+38,1,"14:56",2096,2096,"Jermaine Crumpton Offensive Rebound.",13,4,9,0.580295834230498,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+39,1,"14:53",2093,2093,"Jermaine Crumpton missed Layup.",13,4,9,0.580295834230498,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+40,1,"14:53",2093,2093,"Jermaine Crumpton Offensive Rebound.",13,4,9,0.580295834230498,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+41,1,"14:51",2091,2091,"Jermaine Crumpton made Layup.",13,6,7,0.51896638864639,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+42,1,"14:33",2073,2073,"Marvin Prochet missed Three Point Jumper.",13,6,7,0.469599733632934,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+43,1,"14:33",2073,2073,"Kassius Robertson Defensive Rebound.",13,6,7,0.469599733632934,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+44,1,"14:25",2065,2065,"Foul on Marvin Prochet.",13,6,7,0.498631109943085,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+45,1,"14:25",2065,2065,"Official TV Timeout",13,6,7,0.498631109943085,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+46,1,"14:25",2065,2065,"Kiefer Douse made Free Throw.",13,7,6,0.468566907546273,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+47,1,"14:25",2065,2065,"Kiefer Douse made Free Throw.",13,8,5,0.438729176038961,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+48,1,"14:05",2045,2045,"Chris Barton missed Three Point Jumper.",13,8,5,0.4241668572023,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+49,1,"14:05",2045,2045,"Matt Scott Offensive Rebound.",13,8,5,0.4241668572023,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+50,1,"14:00",2040,2040,"Foul on Malik Johnson.",13,8,5,0.4241668572023,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+51,1,"14:00",2040,2040,"Matt Scott made Free Throw.",14,8,6,0.451279830208039,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+52,1,"14:00",2040,2040,"Matt Scott made Free Throw.",15,8,7,0.478685187855936,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+53,1,"13:48",2028,2028,"Jermaine Crumpton missed Three Point Jumper.",15,8,7,0.517605072071031,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+54,1,"13:48",2028,2028,"Kahlil Dukes Defensive Rebound.",15,8,7,0.517605072071031,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+55,1,"13:41",2021,2021,"Dantai St. Louis Defensive Rebound.",15,8,7,0.517605072071031,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+56,1,"13:41",2021,2021,"Shane Gatling missed Three Point Jumper.",15,8,7,0.517605072071031,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+57,1,"13:17",1997,1997,"Isaiah Reese made Jumper. Assisted by Jermaine Crumpton.",15,10,5,0.458105282887661,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+58,1,"12:59",1979,1979,"Dominic Robb missed Jumper.",15,10,5,0.451317410197283,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+59,1,"12:59",1979,1979,"Dominic Robb Offensive Rebound.",15,10,5,0.451317410197283,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+60,1,"12:56",1976,1976,"Dominic Robb made Layup.",17,10,7,0.514775240893004,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+61,1,"12:49",1969,1969,"Kiefer Douse made Layup. Assisted by Malik Johnson.",17,12,5,0.429256780094919,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+62,1,"12:30",1950,1950,"Kevin Larkin made Layup.",19,12,7,0.537602791836908,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+63,1,"12:22",1942,1942,"Foul on Malik Johnson.",19,12,7,0.521109558918224,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+64,1,"12:22",1942,1942,"Shane Gatling Turnover.",19,12,7,0.521109558918224,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+65,1,"12:20",1940,1940,"Phil Valenti Steal.",19,12,7,0.521109558918224,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+66,1,"12:19",1939,1939,"Phil Valenti Turnover.",19,12,7,0.521483317288922,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+67,1,"12:17",1937,1937,"Marvin Prochet Steal.",19,12,7,0.521483317288922,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+68,1,"12:15",1935,1935,"Kevin Larkin made Three Point Jumper. Assisted by Marvin Prochet.",22,12,10,0.616211480057424,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+69,1,"12:09",1929,1929,"Isaiah Reese missed Three Point Jumper.",22,12,10,0.589196335896676,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+70,1,"12:09",1929,1929,"Dantai St. Louis Offensive Rebound.",22,12,10,0.589196335896676,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+71,1,"12:04",1924,1924,"Dantai St. Louis Turnover.",22,12,10,0.589196335896676,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+72,1,"12:03",1923,1923,"Kevin Larkin Steal.",22,12,10,0.589196335896676,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+73,1,"11:56",1916,1916,"Phil Valenti made Free Throw.",22,13,9,0.612029650180067,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+74,1,"11:56",1916,1916,"Foul on Shane Gatling.",22,13,9,0.612029650180067,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+75,1,"11:33",1893,1893,"Kahlil Dukes Defensive Rebound.",22,13,9,0.620263838920462,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+76,1,"11:33",1893,1893,"Phil Valenti missed Free Throw.",22,13,9,0.620263838920462,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+77,1,"11:33",1893,1893,"Official TV Timeout",22,13,9,0.620263838920462,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+78,1,"11:12",1872,1872,"Kahlil Dukes missed Jumper.",22,13,9,0.58112148561627,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+79,1,"11:12",1872,1872,"Kahlil Dukes Offensive Rebound.",22,13,9,0.58112148561627,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+80,1,"11:10",1870,1870,"Kahlil Dukes made Two Point Tip Shot.",24,13,11,0.640068572466471,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+81,1,"11:10",1870,1870,"Foul on Isaiah Reese.",24,13,11,0.640068572466471,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+82,1,"11:10",1870,1870,"Kahlil Dukes made Free Throw.",25,13,12,0.668144142754151,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+83,1,"10:44",1844,1844,"Isaiah Reese made Jumper.",25,15,10,0.588819709042404,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+84,1,"10:33",1833,1833,"Ali Tew missed Layup.",25,15,10,0.63351474922404,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+85,1,"10:33",1833,1833,"Dantai St. Louis Defensive Rebound.",25,15,10,0.63351474922404,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+86,1,"10:14",1814,1814,"Isaiah Reese missed Three Point Jumper.",25,15,10,0.657807933360786,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+87,1,"10:14",1814,1814,"Kevin Larkin Defensive Rebound.",25,15,10,0.657807933360786,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+88,1,"10:07",1807,1807,"Kahlil Dukes made Layup.",27,15,12,0.677041020378163,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+89,1,"9:50",1790,1790,"Spencer Foley made Jumper. Assisted by Dantai St. Louis.",27,17,10,0.628504840942906,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+90,1,"9:24",1764,1764,"Marvin Prochet made Jumper. Assisted by Kahlil Dukes.",29,17,12,0.681441361145371,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+91,1,"9:03",1743,1743,"Spencer Foley missed Jumper.",29,17,12,0.703989276062931,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+92,1,"9:03",1743,1743,"Isaiah Reese Offensive Rebound.",29,17,12,0.703989276062931,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+93,1,"8:55",1735,1735,"Isaiah Reese missed Layup.",29,17,12,0.706857042427034,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+94,1,"8:55",1735,1735,"Ali Tew Block.",29,17,12,0.706857042427034,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+95,1,"8:55",1735,1735,"Niagara Defensive Rebound.",29,17,12,0.706857042427034,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+96,1,"8:33",1713,1713,"Matt Scott missed Three Point Jumper.",29,17,12,0.693285412368477,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+97,1,"8:33",1713,1713,"Canisius Deadball Team Rebound.",29,17,12,0.693285412368477,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+98,1,"8:03",1683,1683,"Kiefer Douse Turnover.",29,17,12,0.72124928880341,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+99,1,"8:01",1681,1681,"Matt Scott Steal.",29,17,12,0.72124928880341,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+100,1,"7:58",1678,1678,"Foul on Isaiah Reese.",29,17,12,0.715265829787831,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+101,1,"7:58",1678,1678,"Official TV Timeout",29,17,12,0.715265829787831,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+102,1,"7:58",1678,1678,"Kevin Larkin made Free Throw.",30,17,13,0.74262628125501,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+103,1,"7:58",1678,1678,"Kevin Larkin made Free Throw.",31,17,14,0.768209624477434,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+104,1,"7:58",1678,1678,"Kevin Larkin made Free Throw.",32,17,15,0.791962340994304,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+105,1,"7:29",1649,1649,"Chris Atkinson missed Three Point Jumper.",32,17,15,0.799021592776604,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+106,1,"7:29",1649,1649,"Niagara Defensive Rebound.",32,17,15,0.799021592776604,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+107,1,"7:19",1639,1639,"Matt Scott made Layup.",34,17,17,0.828047784969585,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+108,1,"6:59",1619,1619,"Kiefer Douse made Layup.",34,19,15,0.792642831718097,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+109,1,"6:47",1607,1607,"Foul on Chris Atkinson.",34,19,15,0.762846355221017,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+110,1,"6:47",1607,1607,"James Towns made Free Throw.",35,19,16,0.785787176165442,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+111,1,"6:47",1607,1607,"James Towns made Free Throw.",36,19,17,0.807070082287732,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+112,1,"6:33",1593,1593,"Kassius Robertson made Jumper.",36,21,15,0.803836267312335,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+113,1,"6:01",1561,1561,"Chris Barton missed Jumper.",36,21,15,0.794983460278265,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+114,1,"6:01",1561,1561,"Phil Valenti Block.",36,21,15,0.794983460278265,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+115,1,"6:01",1561,1561,"Niagara Offensive Rebound.",36,21,15,0.794983460278265,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+116,1,"6:01",1561,1561,"Niagara  Turnover.",36,21,15,0.794983460278265,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+117,1,"5:50",1550,1550,"Kassius Robertson made Three Point Jumper. Assisted by Chris Atkinson.",36,24,12,0.729099345221089,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+118,1,"5:22",1522,1522,"Maurice Taylor Jr. made Layup. Assisted by Chris Barton.",38,24,14,0.785360154768105,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+119,1,"5:10",1510,1510,"Kiefer Douse missed Three Point Jumper.",38,24,14,0.819574584353089,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+120,1,"5:10",1510,1510,"Dominic Robb Defensive Rebound.",38,24,14,0.819574584353089,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+121,1,"4:55",1495,1495,"Maurice Taylor Jr. missed Layup.",38,24,14,0.793504046443778,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+122,1,"4:55",1495,1495,"Kiefer Douse Defensive Rebound.",38,24,14,0.793504046443778,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+123,1,"4:40",1480,1480,"Foul on Dominic Robb.",38,24,14,0.793625732987463,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+124,1,"4:36",1476,1476,"Jermaine Crumpton made Three Point Jumper. Assisted by Kassius Robertson.",38,27,11,0.707174028560567,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+125,1,"4:08",1448,1448,"Chris Barton Turnover.",38,27,11,0.747971247145632,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+126,1,"4:07",1447,1447,"Kassius Robertson Steal.",38,27,11,0.747971247145632,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+127,1,"4:06",1446,1446,"Kassius Robertson missed Layup.",38,27,11,0.747971247145632,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+128,1,"4:06",1446,1446,"Niagara Defensive Rebound.",38,27,11,0.747971247145632,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+129,1,"4:04",1444,1444,"Foul on Phil Valenti.",38,27,11,0.747971247145632,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+130,1,"4:03",1443,1443,"Marvin Prochet made Free Throw.",39,27,12,0.775562524032918,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+131,1,"4:03",1443,1443,"Marvin Prochet made Free Throw.",40,27,13,0.800937093194328,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+132,1,"3:41",1421,1421,"Martin Dixon-Green missed Jumper.",40,27,13,0.766634373028914,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+133,1,"3:41",1421,1421,"Kahlil Dukes Defensive Rebound.",40,27,13,0.766634373028914,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+134,1,"3:30",1410,1410,"Marvin Prochet made Jumper.",42,27,15,0.8411844256703,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+135,1,"3:17",1397,1397,"Jermaine Crumpton made Layup. Assisted by Chris Atkinson.",42,29,13,0.76926554966332,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+136,1,"3:08",1388,1388,"Kahlil Dukes missed Three Point Jumper.",42,29,13,0.786853377277633,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+137,1,"3:08",1388,1388,"Kiefer Douse Defensive Rebound.",42,29,13,0.786853377277633,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+138,1,"2:57",1377,1377,"Chris Atkinson made Three Point Jumper.",42,32,10,0.665421969826392,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+139,1,"2:45",1365,1365,"Dominic Robb missed Jumper.",42,32,10,0.704227301594583,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+140,1,"2:45",1365,1365,"Marvin Prochet Offensive Rebound.",42,32,10,0.704227301594583,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+141,1,"2:43",1363,1363,"Marvin Prochet made Layup.",44,32,12,0.76398444464032,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+142,1,"2:24",1344,1344,"Jermaine Crumpton missed Three Point Jumper.",44,32,12,0.775672257392306,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+143,1,"2:24",1344,1344,"Matt Scott Defensive Rebound.",44,32,12,0.775672257392306,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+144,1,"2:14",1334,1334,"Foul on Chris Atkinson.",44,32,12,0.760881383728434,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+145,1,"2:14",1334,1334,"Official TV Timeout",44,32,12,0.760881383728434,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+146,1,"2:14",1334,1334,"Marvin Prochet made Free Throw.",45,32,13,0.788029874355167,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+147,1,"2:14",1334,1334,"Marvin Prochet made Free Throw.",46,32,14,0.812854168746259,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+148,1,"1:52",1312,1312,"Chris Atkinson missed Three Point Jumper.",46,32,14,0.837847993387641,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+149,1,"1:52",1312,1312,"Matt Scott Defensive Rebound.",46,32,14,0.837847993387641,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+150,1,"1:45",1305,1305,"Dominic Robb made Layup. Assisted by Kahlil Dukes.",48,32,16,0.854761188016677,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+151,1,"1:18",1278,1278,"Kiefer Douse made Layup.",48,34,14,0.795697431068074,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+152,1,"1:12",1272,1272,"Chris Barton made Three Point Jumper. Assisted by Kahlil Dukes.",51,34,17,0.859257127116176,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+153,1,"0:56",1256,1256,"Kiefer Douse Turnover.",51,34,17,0.877671153509169,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+154,1,"0:31",1231,1231,"Marvin Prochet missed Three Point Jumper.",51,34,17,0.889764133105171,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+155,1,"0:31",1231,1231,"Kiefer Douse Defensive Rebound.",51,34,17,0.889764133105171,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+156,1,"0:22",1222,1222,"Canisius  Timeout",51,34,17,0.905414236349566,"Niagara","Canisius",3,4,1,0,-4.5,400917600,2017-01-23
+157,1,"0:04",1204,1204,"Chris Atkinson Turnover.",51,34,17,0.886560428268139,"Niagara","Canisius",3,4,1,1,-4.5,400917600,2017-01-23
+158,1,"0:04",1204,1204,"Niagara  Timeout",51,34,17,0.886560428268139,"Niagara","Canisius",3,3,1,1,-4.5,400917600,2017-01-23
+159,1,"0:00",1200,1200,"End of 1st half",51,34,17,0.886560428268139,"Niagara","Canisius",3,3,1,1,-4.5,400917600,2017-01-23
+160,2,"20:00",1200,1200,"PLAY",51,34,17,0.886560428268139,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+161,2,"19:32",1172,1172,"Kassius Robertson made Layup.",51,36,15,0.867158861246625,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+162,2,"19:06",1146,1146,"Marvin Prochet missed Three Point Jumper.",51,36,15,0.882698637909038,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+163,2,"19:06",1146,1146,"Malik Johnson Defensive Rebound.",51,36,15,0.882698637909038,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+164,2,"19:00",1140,1140,"Foul on Dominic Robb.",51,36,15,0.882698637909038,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+165,2,"19:00",1140,1140,"Malik Johnson missed Free Throw.",51,36,15,0.882698637909038,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+166,2,"19:00",1140,1140,"Canisius Deadball Team Rebound.",51,36,15,0.882698637909038,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+167,2,"19:00",1140,1140,"Malik Johnson missed Free Throw.",51,36,15,0.882698637909038,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+168,2,"19:00",1140,1140,"Matt Scott Defensive Rebound.",51,36,15,0.882698637909038,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+169,2,"18:43",1123,1123,"Dominic Robb made Layup.",53,36,17,0.925129085450837,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+170,2,"18:32",1112,1112,"Phil Valenti made Layup. Assisted by Kassius Robertson.",53,38,15,0.886213940084366,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+171,2,"18:21",1101,1101,"Kahlil Dukes missed Jumper.",53,38,15,0.858731335851556,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+172,2,"18:21",1101,1101,"Canisius Defensive Rebound.",53,38,15,0.858731335851556,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+173,2,"18:03",1083,1083,"Jermaine Crumpton missed Jumper.",53,38,15,0.878263645435595,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+174,2,"18:03",1083,1083,"Kassius Robertson Offensive Rebound.",53,38,15,0.878263645435595,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+175,2,"17:45",1065,1065,"Malik Johnson missed Three Point Jumper.",53,38,15,0.891946348488362,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+176,2,"17:45",1065,1065,"Kiefer Douse Offensive Rebound.",53,38,15,0.891946348488362,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+177,2,"17:41",1061,1061,"Kassius Robertson made Three Point Jumper. Assisted by Kiefer Douse.",53,41,12,0.831110565401948,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+178,2,"17:11",1031,1031,"Matt Scott Turnover.",53,41,12,0.80484927283838,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+179,2,"17:10",1030,1030,"Malik Johnson Steal.",53,41,12,0.80484927283838,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+180,2,"17:08",1028,1028,"Malik Johnson made Layup.",53,43,10,0.776005287752601,"Niagara","Canisius",4,4,0,0,-4.5,400917600,2017-01-23
+181,2,"17:06",1026,1026,"Niagara  Timeout",53,43,10,0.776005287752601,"Niagara","Canisius",4,3,0,1,-4.5,400917600,2017-01-23
+182,2,"16:57",1017,1017,"Kahlil Dukes Turnover.",53,43,10,0.75996712672868,"Niagara","Canisius",4,3,0,1,-4.5,400917600,2017-01-23
+183,2,"16:56",1016,1016,"Kassius Robertson Steal.",53,43,10,0.75996712672868,"Niagara","Canisius",4,3,0,1,-4.5,400917600,2017-01-23
+184,2,"16:54",1014,1014,"Foul on Marvin Prochet.",53,43,10,0.75996712672868,"Niagara","Canisius",4,3,0,1,-4.5,400917600,2017-01-23
+185,2,"16:54",1014,1014,"Kassius Robertson made Free Throw.",53,44,9,0.725088195154748,"Niagara","Canisius",4,3,0,1,-4.5,400917600,2017-01-23
+186,2,"16:54",1014,1014,"Kassius Robertson made Free Throw.",53,45,8,0.687226925772035,"Niagara","Canisius",4,3,0,1,-4.5,400917600,2017-01-23
+187,2,"16:25",985,985,"Matt Scott made Three Point Jumper.",56,45,11,0.852203598744394,"Niagara","Canisius",4,3,0,1,-4.5,400917600,2017-01-23
+188,2,"16:12",972,972,"Phil Valenti made Three Point Jumper. Assisted by Kassius Robertson.",56,48,8,0.708330256892992,"Niagara","Canisius",4,3,0,1,-4.5,400917600,2017-01-23
+189,2,"15:49",949,949,"Kahlil Dukes made Jumper. Assisted by Marvin Prochet.",58,48,10,0.802313250528846,"Niagara","Canisius",4,3,0,0,-4.5,400917600,2017-01-23
+190,2,"15:30",930,930,"Foul on Chris Barton.",58,48,10,0.794905072320994,"Niagara","Canisius",4,3,0,0,-4.5,400917600,2017-01-23
+191,2,"15:30",930,930,"Official TV Timeout",58,48,10,0.794905072320994,"Niagara","Canisius",4,3,0,0,-4.5,400917600,2017-01-23
+192,2,"15:19",919,919,"Kiefer Douse missed Dunk.",58,48,10,0.789120182580524,"Niagara","Canisius",4,3,0,0,-4.5,400917600,2017-01-23
+193,2,"15:19",919,919,"Niagara Deadball Team Rebound.",58,48,10,0.789120182580524,"Niagara","Canisius",4,3,0,0,-4.5,400917600,2017-01-23
+194,2,"15:06",906,906,"Dominic Robb missed Jumper.",58,48,10,0.797561762225637,"Niagara","Canisius",4,3,0,0,-4.5,400917600,2017-01-23
+195,2,"15:06",906,906,"Kiefer Douse Defensive Rebound.",58,48,10,0.797561762225637,"Niagara","Canisius",4,3,0,0,-4.5,400917600,2017-01-23
+196,2,"14:47",887,887,"Jermaine Crumpton made Three Point Jumper. Assisted by Kiefer Douse.",58,51,7,0.656331068992503,"Niagara","Canisius",4,3,0,0,-4.5,400917600,2017-01-23
+197,2,"14:19",859,859,"Foul on Kassius Robertson.",58,51,7,0.725363844430313,"Niagara","Canisius",4,3,0,0,-4.5,400917600,2017-01-23
+198,2,"14:09",849,849,"Foul on Phil Valenti.",58,51,7,0.721948832633319,"Niagara","Canisius",4,3,0,0,-4.5,400917600,2017-01-23
+199,2,"14:09",849,849,"Chris Barton made Free Throw.",59,51,8,0.762515026884792,"Niagara","Canisius",4,3,0,0,-4.5,400917600,2017-01-23
+200,2,"14:09",849,849,"Chris Barton made Free Throw.",60,51,9,0.798812126240573,"Niagara","Canisius",4,3,0,0,-4.5,400917600,2017-01-23
+201,2,"13:52",832,832,"Spencer Foley missed Jumper.",60,51,9,0.773450920077248,"Niagara","Canisius",4,3,0,0,-4.5,400917600,2017-01-23
+202,2,"13:52",832,832,"Marvin Prochet Defensive Rebound.",60,51,9,0.773450920077248,"Niagara","Canisius",4,3,0,0,-4.5,400917600,2017-01-23
+203,2,"13:45",825,825,"Marvin Prochet made Layup. Assisted by Kahlil Dukes.",62,51,11,0.816041973362718,"Niagara","Canisius",4,3,0,0,-4.5,400917600,2017-01-23
+204,2,"13:28",808,808,"Kiefer Douse missed Layup.",62,51,11,0.850192367456027,"Niagara","Canisius",4,3,0,0,-4.5,400917600,2017-01-23
+205,2,"13:28",808,808,"Matt Scott Defensive Rebound.",62,51,11,0.850192367456027,"Niagara","Canisius",4,3,0,0,-4.5,400917600,2017-01-23
+206,2,"13:17",797,797,"Marvin Prochet made Jumper.",64,51,13,0.907883079704269,"Niagara","Canisius",4,3,0,0,-4.5,400917600,2017-01-23
+207,2,"13:15",795,795,"Canisius  Timeout",64,51,13,0.907883079704269,"Niagara","Canisius",3,3,1,0,-4.5,400917600,2017-01-23
+208,2,"12:57",777,777,"Kassius Robertson Turnover.",64,51,13,0.900179477988347,"Niagara","Canisius",3,3,1,0,-4.5,400917600,2017-01-23
+209,2,"12:38",758,758,"Chris Barton missed Layup.",64,51,13,0.905056774037473,"Niagara","Canisius",3,3,1,0,-4.5,400917600,2017-01-23
+210,2,"12:38",758,758,"Chris Barton Offensive Rebound.",64,51,13,0.905056774037473,"Niagara","Canisius",3,3,1,0,-4.5,400917600,2017-01-23
+211,2,"12:36",756,756,"Chris Barton made Layup.",66,51,15,0.936384582480788,"Niagara","Canisius",3,3,1,0,-4.5,400917600,2017-01-23
+212,2,"12:22",742,742,"Kassius Robertson missed Layup.",66,51,15,0.940465302872048,"Niagara","Canisius",3,3,1,0,-4.5,400917600,2017-01-23
+213,2,"12:22",742,742,"Matt Scott Defensive Rebound.",66,51,15,0.940465302872048,"Niagara","Canisius",3,3,1,0,-4.5,400917600,2017-01-23
+214,2,"12:03",723,723,"Kahlil Dukes missed Three Point Jumper.",66,51,15,0.948013995604409,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+215,2,"12:03",723,723,"Malik Johnson Defensive Rebound.",66,51,15,0.948013995604409,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+216,2,"11:52",712,712,"Jermaine Crumpton made Layup. Assisted by Malik Johnson.",66,53,13,0.898614958658499,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+217,2,"11:40",700,700,"Matt Scott made Layup. Assisted by Kahlil Dukes.",68,53,15,0.942585431477358,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+218,2,"11:19",679,679,"Malik Johnson missed Three Point Jumper.",68,53,15,0.949252198101691,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+219,2,"11:19",679,679,"Marvin Prochet Defensive Rebound.",68,53,15,0.949252198101691,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+220,2,"11:12",672,672,"Matt Scott made Three Point Jumper. Assisted by Kahlil Dukes.",71,53,18,0.97407316775397,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+221,2,"10:52",652,652,"Phil Valenti made Layup.",71,55,16,0.967743227722901,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+222,2,"10:40",640,640,"Matt Scott missed Three Point Jumper.",71,55,16,0.967742055963463,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+223,2,"10:40",640,640,"Kassius Robertson Defensive Rebound.",71,55,16,0.967742055963463,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+224,2,"10:29",629,629,"Foul on Dominic Robb.",71,55,16,0.969855670232251,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+225,2,"10:29",629,629,"Official TV Timeout",71,55,16,0.969855670232251,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+226,2,"10:11",611,611,"Phil Valenti made Layup. Assisted by Isaiah Reese.",71,57,14,0.952139701283553,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+227,2,"9:51",591,591,"Kevin Larkin made Three Point Jumper. Assisted by Kahlil Dukes.",74,57,17,0.973970322337905,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+228,2,"9:39",579,579,"Phil Valenti made Three Point Jumper. Assisted by Kassius Robertson.",74,60,14,0.961003054781869,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+229,2,"9:30",570,570,"Marvin Prochet Turnover.",74,60,14,0.961003054781869,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+230,2,"9:29",569,569,"Phil Valenti Steal.",74,60,14,0.958234112759602,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+231,2,"9:20",560,560,"Isaiah Reese made Layup. Assisted by Phil Valenti.",74,62,12,0.931953880539269,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+232,2,"9:12",552,552,"Shane Gatling Turnover.",74,62,12,0.931996314607039,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+233,2,"9:12",552,552,"Foul on Shane Gatling.",74,62,12,0.931996314607039,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+234,2,"8:55",535,535,"Jermaine Crumpton missed Layup.",74,62,12,0.954034026241289,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+235,2,"8:55",535,535,"Kevin Larkin Block.",74,62,12,0.954034026241289,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+236,2,"8:53",533,533,"Shane Gatling Defensive Rebound.",74,62,12,0.954034026241289,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+237,2,"8:48",528,528,"Foul on Kiefer Douse.",74,62,12,0.951194107062381,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+238,2,"8:46",526,526,"Shane Gatling missed Three Point Jumper.",74,62,12,0.951194107062381,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+239,2,"8:46",526,526,"Phil Valenti Defensive Rebound.",74,62,12,0.951194107062381,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+240,2,"8:32",512,512,"Foul on Shane Gatling.",74,62,12,0.94542945259879,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+241,2,"8:26",506,506,"Isaiah Reese missed Jumper.",74,62,12,0.949606540774285,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+242,2,"8:26",506,506,"Kevin Larkin Defensive Rebound.",74,62,12,0.949606540774285,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+243,2,"8:21",501,501,"Kahlil Dukes made Three Point Jumper. Assisted by Marvin Prochet.",77,62,15,0.97699601545176,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+244,2,"8:02",482,482,"Foul on Maurice Taylor Jr..",77,62,15,0.975534770572951,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+245,2,"8:02",482,482,"Jermaine Crumpton missed Free Throw.",77,62,15,0.975534770572951,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+246,2,"8:02",482,482,"Marvin Prochet Defensive Rebound.",77,62,15,0.975534770572951,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+247,2,"7:55",475,475,"James Towns Turnover.",77,62,15,0.980283424364821,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+248,2,"7:55",475,475,"Foul on James Towns.",77,62,15,0.980283424364821,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+249,2,"7:55",475,475,"Official TV Timeout",77,62,15,0.980283424364821,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+250,2,"7:41",461,461,"Phil Valenti missed Three Point Jumper.",77,62,15,0.97737002363543,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+251,2,"7:41",461,461,"Kassius Robertson Offensive Rebound.",77,62,15,0.97737002363543,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+252,2,"7:24",444,444,"Isaiah Reese missed Three Point Jumper.",77,62,15,0.978850509383422,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+253,2,"7:24",444,444,"Jermaine Crumpton Offensive Rebound.",77,62,15,0.978850509383422,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+254,2,"7:24",444,444,"Foul on Maurice Taylor Jr..",77,62,15,0.978850509383422,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+255,2,"7:24",444,444,"Jermaine Crumpton made Free Throw.",77,63,14,0.972316538623037,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+256,2,"7:24",444,444,"Jermaine Crumpton made Free Throw.",77,64,13,0.963838521830807,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+257,2,"7:13",433,433,"Foul on Kiefer Douse.",77,64,13,0.973777893220318,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+258,2,"6:55",415,415,"Kahlil Dukes made Jumper.",79,64,15,0.983147837078597,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+259,2,"6:41",401,401,"Foul on Maurice Taylor Jr..",79,64,15,0.989035009053787,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+260,2,"6:41",401,401,"Jermaine Crumpton made Free Throw.",79,65,14,0.984816234908009,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+261,2,"6:41",401,401,"Jermaine Crumpton made Free Throw.",79,66,13,0.979008739914767,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+262,2,"6:19",379,379,"Matt Scott missed Jumper.",79,66,13,0.972189401042105,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+263,2,"6:19",379,379,"Kevin Larkin Offensive Rebound.",79,66,13,0.972189401042105,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+264,2,"6:18",378,378,"Kevin Larkin made Layup.",81,66,15,0.984834693280757,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+265,2,"6:05",365,365,"Jermaine Crumpton missed Jumper.",81,66,15,0.989020182424134,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+266,2,"6:05",365,365,"Matt Scott Defensive Rebound.",81,66,15,0.989020182424134,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+267,2,"5:54",354,354,"Kevin Larkin made Three Point Jumper. Assisted by James Towns.",84,66,18,0.996038501681938,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+268,2,"5:43",343,343,"Jermaine Crumpton Turnover.",84,66,18,0.995906639955063,"Niagara","Canisius",3,3,0,0,-4.5,400917600,2017-01-23
+269,2,"5:39",339,339,"Foul on Malik Johnson.",84,66,18,0.997718593329636,"Niagara","Canisius",3,3,1,0,-4.5,400917600,2017-01-23
+270,2,"5:39",339,339,"Canisius  Timeout",84,66,18,0.997718593329636,"Niagara","Canisius",2,3,1,0,-4.5,400917600,2017-01-23
+271,2,"5:27",327,327,"James Towns Turnover.",84,66,18,0.994156240895003,"Niagara","Canisius",2,3,1,0,-4.5,400917600,2017-01-23
+272,2,"5:26",326,326,"Phil Valenti Steal.",84,66,18,0.994156240895003,"Niagara","Canisius",2,3,1,0,-4.5,400917600,2017-01-23
+273,2,"5:24",324,324,"Phil Valenti made Layup.",84,68,16,0.989107117813484,"Niagara","Canisius",2,3,1,0,-4.5,400917600,2017-01-23
+274,2,"5:15",315,315,"James Towns Turnover.",84,68,16,0.996233986919403,"Niagara","Canisius",2,3,1,0,-4.5,400917600,2017-01-23
+275,2,"5:13",313,313,"Phil Valenti Steal.",84,68,16,0.996233986919403,"Niagara","Canisius",2,3,1,0,-4.5,400917600,2017-01-23
+276,2,"5:12",312,312,"Phil Valenti made Dunk.",84,70,14,0.992191694174064,"Niagara","Canisius",2,3,1,0,-4.5,400917600,2017-01-23
+277,2,"5:11",311,311,"Niagara  Timeout",84,70,14,0.992191694174064,"Niagara","Canisius",2,2,1,1,-4.5,400917600,2017-01-23
+278,2,"5:04",304,304,"Marvin Prochet Turnover.",84,70,14,0.988455683531693,"Niagara","Canisius",2,2,1,1,-4.5,400917600,2017-01-23
+279,2,"5:03",303,303,"Jermaine Crumpton Steal.",84,70,14,0.988455683531693,"Niagara","Canisius",2,2,1,1,-4.5,400917600,2017-01-23
+280,2,"4:58",298,298,"Foul on Kahlil Dukes.",84,70,14,0.987022522022968,"Niagara","Canisius",2,2,1,1,-4.5,400917600,2017-01-23
+281,2,"4:58",298,298,"Phil Valenti missed Free Throw.",84,70,14,0.987022522022968,"Niagara","Canisius",2,2,1,1,-4.5,400917600,2017-01-23
+282,2,"4:58",298,298,"Canisius Deadball Team Rebound.",84,70,14,0.987022522022968,"Niagara","Canisius",2,2,1,1,-4.5,400917600,2017-01-23
+283,2,"4:58",298,298,"Phil Valenti made Free Throw.",84,71,13,0.981810038826911,"Niagara","Canisius",2,2,1,1,-4.5,400917600,2017-01-23
+284,2,"4:44",284,284,"Phil Valenti made Jumper. Assisted by Malik Johnson.",84,73,11,0.969377263230314,"Niagara","Canisius",2,2,1,1,-4.5,400917600,2017-01-23
+285,2,"4:16",256,256,"Kevin Larkin missed Jumper.",84,73,11,0.988007168605889,"Niagara","Canisius",2,2,0,1,-4.5,400917600,2017-01-23
+286,2,"4:16",256,256,"Jermaine Crumpton Defensive Rebound.",84,73,11,0.988007168605889,"Niagara","Canisius",2,2,0,1,-4.5,400917600,2017-01-23
+287,2,"4:07",247,247,"Foul on Kahlil Dukes.",84,73,11,0.983885846560254,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+288,2,"4:07",247,247,"Jermaine Crumpton made Free Throw.",84,74,10,0.976045136227101,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+289,2,"4:07",247,247,"Jermaine Crumpton made Free Throw.",84,75,9,0.964526897855884,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+290,2,"3:52",232,232,"Kahlil Dukes made Layup.",86,75,11,0.985702047258329,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+291,2,"3:52",232,232,"Foul on Jermaine Crumpton.",86,75,11,0.985702047258329,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+292,2,"3:52",232,232,"Official TV Timeout",86,75,11,0.985702047258329,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+293,2,"3:52",232,232,"Kahlil Dukes made Free Throw.",87,75,12,0.990425580518315,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+294,2,"3:38",218,218,"Kiefer Douse made Layup.",87,77,10,0.982119919015283,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+295,2,"3:10",190,190,"Kahlil Dukes missed Layup.",87,77,10,0.988370754720884,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+296,2,"3:10",190,190,"Dominic Robb Offensive Rebound.",87,77,10,0.988370754720884,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+297,2,"3:07",187,187,"Dominic Robb missed Two Point Tip Shot.",87,77,10,0.98882695107097,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+298,2,"3:07",187,187,"Jermaine Crumpton Defensive Rebound.",87,77,10,0.98882695107097,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+299,2,"3:05",185,185,"Foul on Matt Scott.",87,77,10,0.98882695107097,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+300,2,"3:05",185,185,"Kiefer Douse made Free Throw.",87,78,9,0.981966253881939,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+301,2,"3:05",185,185,"Kiefer Douse made Free Throw.",87,79,8,0.971016295785825,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+302,2,"2:53",173,173,"Ali Tew Turnover.",87,79,8,0.977236083955523,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+303,2,"2:50",170,170,"Foul on Marvin Prochet.",87,79,8,0.977236083955523,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+304,2,"2:50",170,170,"Kassius Robertson made Free Throw.",87,80,7,0.963294335585957,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+305,2,"2:50",170,170,"Kassius Robertson made Free Throw.",87,81,6,0.941326630321254,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+306,2,"2:25",145,145,"Chris Barton Turnover.",87,81,6,0.928915466450468,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+307,2,"2:23",143,143,"Phil Valenti Steal.",87,81,6,0.928915466450468,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+308,2,"2:03",123,123,"Foul on Matt Scott.",87,81,6,0.953685413598906,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+309,2,"2:03",123,123,"Kiefer Douse missed Free Throw.",87,81,6,0.953685413598906,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+310,2,"2:03",123,123,"Canisius Deadball Team Rebound.",87,81,6,0.953685413598906,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+311,2,"2:03",123,123,"Kiefer Douse made Free Throw.",87,82,5,0.921171168968423,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+312,2,"1:37",97,97,"Chris Barton missed Three Point Jumper.",87,82,5,0.951061435109566,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+313,2,"1:37",97,97,"Phil Valenti Defensive Rebound.",87,82,5,0.951061435109566,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+314,2,"1:21",81,81,"Jermaine Crumpton missed Three Point Jumper.",87,82,5,0.969795969380158,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+315,2,"1:21",81,81,"Marvin Prochet Defensive Rebound.",87,82,5,0.969795969380158,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+316,2,"0:51",51,51,"Kahlil Dukes missed Three Point Jumper.",87,82,5,0.985937256888342,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+317,2,"0:51",51,51,"Marvin Prochet Offensive Rebound.",87,82,5,0.985937256888342,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+318,2,"0:51",51,51,"Niagara  Turnover.",87,82,5,0.985937256888342,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+319,2,"0:39",39,39,"Jermaine Crumpton missed Layup.",87,82,5,0.99223826189822,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+320,2,"0:39",39,39,"Matt Scott Defensive Rebound.",87,82,5,0.99223826189822,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+321,2,"0:30",30,30,"Foul on Kassius Robertson.",87,82,5,0.991286547306502,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+322,2,"0:30",30,30,"Kahlil Dukes made Free Throw.",88,82,6,0.996650405019534,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+323,2,"0:30",30,30,"Kahlil Dukes made Free Throw.",89,82,7,0.998716635217187,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+324,2,"0:18",18,18,"Kassius Robertson missed Layup.",89,82,7,0.999159263928551,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+325,2,"0:18",18,18,"Matt Scott Defensive Rebound.",89,82,7,0.999159263928551,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+326,2,"0:13",13,13,"Chris Barton missed Layup.",89,82,7,0.999778543344846,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+327,2,"0:13",13,13,"Phil Valenti Defensive Rebound.",89,82,7,0.999778543344846,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+328,2,"0:06",6,6,"Kassius Robertson missed Three Point Jumper.",89,82,7,0.999994250185541,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+329,2,"0:06",6,6,"Phil Valenti Offensive Rebound.",89,82,7,0.999994250185541,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+330,2,"0:04",4,4,"Phil Valenti missed Two Point Tip Shot.",89,82,7,0.999974879716587,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+331,2,"0:04",4,4,"Jermaine Crumpton Offensive Rebound.",89,82,7,0.999974879716587,"Niagara","Canisius",2,2,0,0,-4.5,400917600,2017-01-23
+332,2,"0:03",3,3,"Jermaine Crumpton made Layup.",89,84,5,0.999212672659366,"Niagara","Canisius",2,2,1,0,-4.5,400917600,2017-01-23
+333,2,"0:03",3,3,"Canisius  Timeout",89,84,5,0.999212672659366,"Niagara","Canisius",1,2,1,0,-4.5,400917600,2017-01-23
+334,2,"0:02",2,2,"Matt Scott made Layup. Assisted by Marvin Prochet.",91,84,7,0.999974879716587,"Niagara","Canisius",1,2,1,0,-4.5,400917600,2017-01-23
+335,2,"0:00",0,0,"End of Game",91,84,7,1,"Niagara","Canisius",1,2,1,0,-4.5,400917600,2017-01-23

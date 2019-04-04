@@ -1,0 +1,329 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.753398478938886,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+2,1,"19:36",2376,2376,"Cornell Johnston made Layup.",0,2,-2,0.713373006370023,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+3,1,"19:18",2358,2358,"Elliott Welmer made Jumper. Assisted by Davell Roby.",2,2,0,0.756333796698914,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+4,1,"18:55",2335,2335,"Demetrius McReynolds made Jumper.",2,4,-2,0.707625866133861,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+5,1,"18:30",2310,2310,"Jermaine Bishop made Three Point Jumper. Assisted by Davell Roby.",5,4,1,0.748822235627658,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+6,1,"17:57",2277,2277,"Montell Goodwin Turnover.",5,4,1,0.763494405246922,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+7,1,"17:56",2276,2276,"Davell Roby Steal.",5,4,1,0.763494405246922,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+8,1,"17:50",2270,2270,"Jermaine Bishop Turnover.",5,4,1,0.763494405246922,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+9,1,"17:48",2268,2268,"Patrick Muldoon Steal.",5,4,1,0.770951847020731,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+10,1,"17:42",2262,2262,"Foul on Elliott Welmer.",5,4,1,0.770951847020731,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+11,1,"17:41",2261,2261,"Montell Goodwin missed Jumper.",5,4,1,0.770951847020731,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+12,1,"17:41",2261,2261,"Saint Louis Defensive Rebound.",5,4,1,0.770951847020731,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+13,1,"17:24",2244,2244,"Davell Roby missed Jumper.",5,4,1,0.753378115732273,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+14,1,"17:24",2244,2244,"Reggie Agbeko Offensive Rebound.",5,4,1,0.753378115732273,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+15,1,"17:20",2240,2240,"Reggie Agbeko made Layup.",7,4,3,0.786656086396397,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+16,1,"17:04",2224,2224,"Foul on Davell Roby.",7,4,3,0.796784752427323,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+17,1,"17:00",2220,2220,"Demetrius McReynolds made Jumper.",7,6,1,0.76164758723547,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+18,1,"16:37",2197,2197,"Foul on Elliott Welmer.",7,6,1,0.770630637212078,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+19,1,"16:37",2197,2197,"Elliott Welmer Turnover.",7,6,1,0.770630637212078,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+20,1,"16:21",2181,2181,"Patrick Muldoon Turnover.",7,6,1,0.758710677756733,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+21,1,"16:11",2171,2171,"Davell Roby made Three Point Jumper. Assisted by Austin Gillmann.",10,6,4,0.808859353824809,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+22,1,"15:55",2155,2155,"Patrick Muldoon made Layup. Assisted by Ray Crossland.",10,8,2,0.773873194385448,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+23,1,"15:44",2144,2144,"Jermaine Bishop missed Jumper.",10,8,2,0.779443976812303,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+24,1,"15:43",2143,2143,"Ray Crossland Defensive Rebound.",10,8,2,0.779443976812303,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+25,1,"15:36",2136,2136,"Cornell Johnston made Three Point Jumper. Assisted by Ray Crossland.",10,11,-1,0.710571005593429,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+26,1,"15:11",2111,2111,"Davell Roby made Layup.",12,11,1,0.7608935668654,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+27,1,"15:11",2111,2111,"Foul on Patrick Muldoon.",12,11,1,0.7608935668654,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+28,1,"15:11",2111,2111,"Official TV Timeout",12,11,1,0.7608935668654,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+29,1,"15:11",2111,2111,"Davell Roby made Free Throw.",13,11,2,0.781666506797425,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+30,1,"14:45",2085,2085,"Ray Crossland missed Jumper.",13,11,2,0.774126974247019,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+31,1,"14:45",2085,2085,"Mike Crawford Defensive Rebound.",13,11,2,0.774126974247019,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+32,1,"14:30",2070,2070,"Austin Gillmann missed Three Point Jumper.",13,11,2,0.77223393449323,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+33,1,"14:30",2070,2070,"Muusa Dama Defensive Rebound.",13,11,2,0.77223393449323,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+34,1,"14:12",2052,2052,"Ray Crossland made Jumper. Assisted by Cornell Johnston.",13,13,0,0.734933171200316,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+35,1,"13:50",2030,2030,"Aaron Hines Turnover.",13,13,0,0.745453484476162,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+36,1,"13:39",2019,2019,"Casey Teson made Three Point Jumper. Assisted by Cornell Johnston.",13,16,-3,0.661477989443507,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+37,1,"13:23",2003,2003,"Davell Roby Turnover.",13,16,-3,0.654692022396197,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+38,1,"13:22",2002,2002,"Cornell Johnston Steal.",13,16,-3,0.654692022396197,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+39,1,"13:07",1987,1987,"Cornell Johnston made Three Point Jumper. Assisted by Patrick Muldoon.",13,19,-6,0.542049678759429,"Saint Louis","Eastern Illinois",4,4,0,0,5,400917677,2016-11-17
+40,1,"13:05",1985,1985,"Saint Louis  Timeout",13,19,-6,0.542049678759429,"Saint Louis","Eastern Illinois",3,4,1,0,5,400917677,2016-11-17
+41,1,"12:50",1970,1970,"Foul on Cornell Johnston.",13,19,-6,0.56494411197269,"Saint Louis","Eastern Illinois",3,4,1,0,5,400917677,2016-11-17
+42,1,"12:42",1962,1962,"Aaron Hines Turnover.",13,19,-6,0.587468703377658,"Saint Louis","Eastern Illinois",3,4,1,0,5,400917677,2016-11-17
+43,1,"12:27",1947,1947,"Patrick Muldoon Turnover.",13,19,-6,0.553063735750873,"Saint Louis","Eastern Illinois",3,4,1,0,5,400917677,2016-11-17
+44,1,"12:08",1928,1928,"Foul on Demetrius McReynolds.",13,19,-6,0.555760581575849,"Saint Louis","Eastern Illinois",3,4,1,0,5,400917677,2016-11-17
+45,1,"12:08",1928,1928,"Davell Roby missed Free Throw.",13,19,-6,0.555760581575849,"Saint Louis","Eastern Illinois",3,4,1,0,5,400917677,2016-11-17
+46,1,"12:08",1928,1928,"Saint Louis Deadball Team Rebound.",13,19,-6,0.555760581575849,"Saint Louis","Eastern Illinois",3,4,1,0,5,400917677,2016-11-17
+47,1,"12:08",1928,1928,"Davell Roby made Free Throw.",14,19,-5,0.5865955667188,"Saint Louis","Eastern Illinois",3,4,1,0,5,400917677,2016-11-17
+48,1,"11:48",1908,1908,"Demetrius McReynolds missed Three Point Jumper.",14,19,-5,0.597302455960424,"Saint Louis","Eastern Illinois",3,4,0,0,5,400917677,2016-11-17
+49,1,"11:48",1908,1908,"Davell Roby Defensive Rebound.",14,19,-5,0.597302455960424,"Saint Louis","Eastern Illinois",3,4,0,0,5,400917677,2016-11-17
+50,1,"11:45",1905,1905,"Foul on Ray Crossland.",14,19,-5,0.597302455960424,"Saint Louis","Eastern Illinois",3,4,0,0,5,400917677,2016-11-17
+51,1,"11:45",1905,1905,"Official TV Timeout",14,19,-5,0.597302455960424,"Saint Louis","Eastern Illinois",3,4,0,0,5,400917677,2016-11-17
+52,1,"11:30",1890,1890,"Davell Roby missed Layup.",14,19,-5,0.575587119638344,"Saint Louis","Eastern Illinois",3,4,0,0,5,400917677,2016-11-17
+53,1,"11:30",1890,1890,"Patrick Muldoon Block.",14,19,-5,0.575587119638344,"Saint Louis","Eastern Illinois",3,4,0,0,5,400917677,2016-11-17
+54,1,"11:28",1888,1888,"Reggie Agbeko Offensive Rebound.",14,19,-5,0.584864734116144,"Saint Louis","Eastern Illinois",3,4,0,0,5,400917677,2016-11-17
+55,1,"11:27",1887,1887,"Reggie Agbeko made Layup.",16,19,-3,0.6434108726548,"Saint Louis","Eastern Illinois",3,4,0,0,5,400917677,2016-11-17
+56,1,"11:04",1864,1864,"Patrick Muldoon Turnover.",16,19,-3,0.641922326614186,"Saint Louis","Eastern Illinois",3,4,0,0,5,400917677,2016-11-17
+57,1,"11:02",1862,1862,"Zeke Moore Steal.",16,19,-3,0.641922326614186,"Saint Louis","Eastern Illinois",3,4,0,0,5,400917677,2016-11-17
+58,1,"10:59",1859,1859,"Davell Roby made Three Point Jumper. Assisted by Zeke Moore.",19,19,0,0.72621372218327,"Saint Louis","Eastern Illinois",3,4,0,0,5,400917677,2016-11-17
+59,1,"10:57",1857,1857,"Eastern Illinois  Timeout",19,19,0,0.72621372218327,"Saint Louis","Eastern Illinois",3,3,0,1,5,400917677,2016-11-17
+60,1,"10:30",1830,1830,"Demetrius McReynolds missed Three Point Jumper.",19,19,0,0.721712630484359,"Saint Louis","Eastern Illinois",3,3,0,1,5,400917677,2016-11-17
+61,1,"10:30",1830,1830,"Ray Crossland Offensive Rebound.",19,19,0,0.721712630484359,"Saint Louis","Eastern Illinois",3,3,0,1,5,400917677,2016-11-17
+62,1,"10:23",1823,1823,"Montell Goodwin missed Three Point Jumper.",19,19,0,0.741519581434792,"Saint Louis","Eastern Illinois",3,3,0,1,5,400917677,2016-11-17
+63,1,"10:23",1823,1823,"Saint Louis Defensive Rebound.",19,19,0,0.741519581434792,"Saint Louis","Eastern Illinois",3,3,0,1,5,400917677,2016-11-17
+64,1,"10:20",1820,1820,"Foul on Ray Crossland.",19,19,0,0.741519581434792,"Saint Louis","Eastern Illinois",3,3,0,1,5,400917677,2016-11-17
+65,1,"10:02",1802,1802,"Jalen Johnson missed Jumper.",19,19,0,0.719700820173059,"Saint Louis","Eastern Illinois",3,3,0,1,5,400917677,2016-11-17
+66,1,"10:02",1802,1802,"Reggie Agbeko Offensive Rebound.",19,19,0,0.719700820173059,"Saint Louis","Eastern Illinois",3,3,0,1,5,400917677,2016-11-17
+67,1,"9:59",1799,1799,"Reggie Agbeko made Layup.",21,19,2,0.761518921009264,"Saint Louis","Eastern Illinois",3,3,0,1,5,400917677,2016-11-17
+68,1,"9:43",1783,1783,"Patrick Muldoon missed Layup.",21,19,2,0.753863315739389,"Saint Louis","Eastern Illinois",3,3,0,0,5,400917677,2016-11-17
+69,1,"9:43",1783,1783,"Jalen Johnson Block.",21,19,2,0.753863315739389,"Saint Louis","Eastern Illinois",3,3,0,0,5,400917677,2016-11-17
+70,1,"9:41",1781,1781,"Muusa Dama Offensive Rebound.",21,19,2,0.753863315739389,"Saint Louis","Eastern Illinois",3,3,0,0,5,400917677,2016-11-17
+71,1,"9:38",1778,1778,"Cornell Johnston missed Three Point Jumper.",21,19,2,0.756311605136942,"Saint Louis","Eastern Illinois",3,3,0,0,5,400917677,2016-11-17
+72,1,"9:38",1778,1778,"Davell Roby Defensive Rebound.",21,19,2,0.756311605136942,"Saint Louis","Eastern Illinois",3,3,0,0,5,400917677,2016-11-17
+73,1,"9:29",1769,1769,"Zeke Moore missed Three Point Jumper.",21,19,2,0.777358108402966,"Saint Louis","Eastern Illinois",3,3,0,0,5,400917677,2016-11-17
+74,1,"9:29",1769,1769,"Muusa Dama Defensive Rebound.",21,19,2,0.777358108402966,"Saint Louis","Eastern Illinois",3,3,0,0,5,400917677,2016-11-17
+75,1,"9:14",1754,1754,"Montell Goodwin missed Jumper.",21,19,2,0.761527608629101,"Saint Louis","Eastern Illinois",3,3,0,0,5,400917677,2016-11-17
+76,1,"9:14",1754,1754,"Reggie Agbeko Defensive Rebound.",21,19,2,0.761527608629101,"Saint Louis","Eastern Illinois",3,3,0,0,5,400917677,2016-11-17
+77,1,"8:48",1728,1728,"Jermaine Bishop made Three Point Jumper. Assisted by Davell Roby.",24,19,5,0.830891788450407,"Saint Louis","Eastern Illinois",3,3,0,0,5,400917677,2016-11-17
+78,1,"8:25",1705,1705,"Montell Goodwin made Jumper.",24,21,3,0.781599875746049,"Saint Louis","Eastern Illinois",3,3,0,0,5,400917677,2016-11-17
+79,1,"8:10",1690,1690,"Jermaine Bishop missed Jumper.",24,21,3,0.796821961403333,"Saint Louis","Eastern Illinois",3,3,0,0,5,400917677,2016-11-17
+80,1,"8:10",1690,1690,"Patrick Muldoon Defensive Rebound.",24,21,3,0.796821961403333,"Saint Louis","Eastern Illinois",3,3,0,0,5,400917677,2016-11-17
+81,1,"7:57",1677,1677,"Demetrius McReynolds missed Three Point Jumper.",24,21,3,0.795549452782803,"Saint Louis","Eastern Illinois",3,3,0,0,5,400917677,2016-11-17
+82,1,"7:57",1677,1677,"Davell Roby Defensive Rebound.",24,21,3,0.795549452782803,"Saint Louis","Eastern Illinois",3,3,0,0,5,400917677,2016-11-17
+83,1,"7:50",1670,1670,"Davell Roby made Layup.",26,21,5,0.83696779957086,"Saint Louis","Eastern Illinois",3,3,0,0,5,400917677,2016-11-17
+84,1,"7:20",1640,1640,"Demetrius McReynolds made Jumper.",26,23,3,0.796733266140822,"Saint Louis","Eastern Illinois",3,3,0,0,5,400917677,2016-11-17
+85,1,"7:00",1620,1620,"Reggie Agbeko missed Layup.",26,23,3,0.789645629849963,"Saint Louis","Eastern Illinois",3,3,0,0,5,400917677,2016-11-17
+86,1,"7:00",1620,1620,"Demetrius McReynolds Defensive Rebound.",26,23,3,0.789645629849963,"Saint Louis","Eastern Illinois",3,3,0,0,5,400917677,2016-11-17
+87,1,"6:51",1611,1611,"Demetrius McReynolds missed Jumper.",26,23,3,0.777290794877614,"Saint Louis","Eastern Illinois",3,3,0,0,5,400917677,2016-11-17
+88,1,"6:51",1611,1611,"Muusa Dama Offensive Rebound.",26,23,3,0.777290794877614,"Saint Louis","Eastern Illinois",3,3,0,0,5,400917677,2016-11-17
+89,1,"6:44",1604,1604,"Demetrius McReynolds made Jumper. Assisted by Muusa Dama.",26,25,1,0.738786316991363,"Saint Louis","Eastern Illinois",3,3,0,0,5,400917677,2016-11-17
+90,1,"6:27",1587,1587,"Davell Roby missed Jumper.",26,25,1,0.732008346822851,"Saint Louis","Eastern Illinois",3,3,0,0,5,400917677,2016-11-17
+91,1,"6:27",1587,1587,"Muusa Dama Defensive Rebound.",26,25,1,0.732008346822851,"Saint Louis","Eastern Illinois",3,3,0,0,5,400917677,2016-11-17
+92,1,"6:18",1578,1578,"Montell Goodwin made Three Point Jumper. Assisted by Cornell Johnston.",26,28,-2,0.648958075037446,"Saint Louis","Eastern Illinois",3,3,0,0,5,400917677,2016-11-17
+93,1,"6:15",1575,1575,"Saint Louis  Timeout",26,28,-2,0.648958075037446,"Saint Louis","Eastern Illinois",2,3,1,0,5,400917677,2016-11-17
+94,1,"6:15",1575,1575,"Official TV Timeout",26,28,-2,0.648958075037446,"Saint Louis","Eastern Illinois",2,3,1,0,5,400917677,2016-11-17
+95,1,"5:51",1551,1551,"Jermaine Bishop missed Three Point Jumper.",26,28,-2,0.636146623454059,"Saint Louis","Eastern Illinois",2,3,1,0,5,400917677,2016-11-17
+96,1,"5:51",1551,1551,"Jalen Johnson Offensive Rebound.",26,28,-2,0.636146623454059,"Saint Louis","Eastern Illinois",2,3,1,0,5,400917677,2016-11-17
+97,1,"5:47",1547,1547,"Jalen Johnson made Layup.",28,28,0,0.716096149179399,"Saint Louis","Eastern Illinois",2,3,1,0,5,400917677,2016-11-17
+98,1,"5:47",1547,1547,"Foul on Muusa Dama.",28,28,0,0.716096149179399,"Saint Louis","Eastern Illinois",2,3,1,0,5,400917677,2016-11-17
+99,1,"5:47",1547,1547,"Jalen Johnson missed Free Throw.",28,28,0,0.716096149179399,"Saint Louis","Eastern Illinois",2,3,1,0,5,400917677,2016-11-17
+100,1,"5:47",1547,1547,"Marshawn Blackmon Defensive Rebound.",28,28,0,0.716096149179399,"Saint Louis","Eastern Illinois",2,3,1,0,5,400917677,2016-11-17
+101,1,"5:28",1528,1528,"Marshawn Blackmon missed Jumper.",28,28,0,0.707295310840001,"Saint Louis","Eastern Illinois",2,3,1,0,5,400917677,2016-11-17
+102,1,"5:28",1528,1528,"Mike Crawford Defensive Rebound.",28,28,0,0.707295310840001,"Saint Louis","Eastern Illinois",2,3,1,0,5,400917677,2016-11-17
+103,1,"5:11",1511,1511,"Jermaine Bishop missed Jumper.",28,28,0,0.718503187821324,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+104,1,"5:11",1511,1511,"Muusa Dama Defensive Rebound.",28,28,0,0.718503187821324,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+105,1,"4:53",1493,1493,"Casey Teson missed Three Point Jumper.",28,28,0,0.722018719091583,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+106,1,"4:53",1493,1493,"Austin Gillmann Defensive Rebound.",28,28,0,0.722018719091583,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+107,1,"4:19",1459,1459,"Jermaine Bishop made Layup. Assisted by Zeke Moore.",30,28,2,0.75710556991813,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+108,1,"4:09",1449,1449,"Demetrius McReynolds missed Jumper.",30,28,2,0.779893450315098,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+109,1,"4:09",1449,1449,"Austin Gillmann Defensive Rebound.",30,28,2,0.779893450315098,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+110,1,"3:44",1424,1424,"Jalen Johnson Turnover.",30,28,2,0.750073865069393,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+111,1,"3:43",1423,1423,"Demetrius McReynolds Steal.",30,28,2,0.750073865069393,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+112,1,"3:29",1409,1409,"Demetrius McReynolds made Three Point Jumper. Assisted by Cornell Johnston.",30,31,-1,0.686163211906443,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+113,1,"3:10",1390,1390,"Austin Gillmann missed Jumper.",30,31,-1,0.673518203134257,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+114,1,"3:10",1390,1390,"Muusa Dama Defensive Rebound.",30,31,-1,0.673518203134257,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+115,1,"2:56",1376,1376,"Muusa Dama made Layup. Assisted by Patrick Muldoon.",30,33,-3,0.594584440067231,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+116,1,"2:30",1350,1350,"Zeke Moore missed Layup.",30,33,-3,0.608926747682074,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+117,1,"2:30",1350,1350,"Muusa Dama Defensive Rebound.",30,33,-3,0.608926747682074,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+118,1,"2:24",1344,1344,"Cornell Johnston made Three Point Jumper. Assisted by Demetrius McReynolds.",30,36,-6,0.462253991778423,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+119,1,"2:07",1327,1327,"Aaron Hines missed Layup.",30,36,-6,0.4744184251397,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+120,1,"2:07",1327,1327,"Muusa Dama Defensive Rebound.",30,36,-6,0.4744184251397,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+121,1,"2:01",1321,1321,"Cornell Johnston made Three Point Jumper.",30,39,-9,0.360030564069265,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+122,1,"1:47",1307,1307,"Saint Louis  Timeout",30,39,-9,0.375732024446584,"Saint Louis","Eastern Illinois",1,3,1,0,5,400917677,2016-11-17
+123,1,"1:47",1307,1307,"Official TV Timeout",30,39,-9,0.375732024446584,"Saint Louis","Eastern Illinois",1,3,1,0,5,400917677,2016-11-17
+124,1,"1:36",1296,1296,"Reggie Agbeko made Layup. Assisted by Jermaine Bishop.",32,39,-7,0.425880944471161,"Saint Louis","Eastern Illinois",1,3,1,0,5,400917677,2016-11-17
+125,1,"1:17",1277,1277,"Montell Goodwin made Three Point Jumper. Assisted by Cornell Johnston.",32,42,-10,0.327291884407972,"Saint Louis","Eastern Illinois",1,3,1,0,5,400917677,2016-11-17
+126,1,"1:16",1276,1276,"Foul on Austin Gillmann.",32,42,-10,0.327291884407972,"Saint Louis","Eastern Illinois",1,3,1,0,5,400917677,2016-11-17
+127,1,"1:14",1274,1274,"Demetrius McReynolds missed Layup.",32,42,-10,0.327291884407972,"Saint Louis","Eastern Illinois",1,3,1,0,5,400917677,2016-11-17
+128,1,"1:14",1274,1274,"Mike Crawford Defensive Rebound.",32,42,-10,0.327291884407972,"Saint Louis","Eastern Illinois",1,3,1,0,5,400917677,2016-11-17
+129,1,"1:03",1263,1263,"Reggie Agbeko missed Layup.",32,42,-10,0.33935796480394,"Saint Louis","Eastern Illinois",1,3,1,0,5,400917677,2016-11-17
+130,1,"1:03",1263,1263,"Aboubacar Diallo Defensive Rebound.",32,42,-10,0.33935796480394,"Saint Louis","Eastern Illinois",1,3,1,0,5,400917677,2016-11-17
+131,1,"0:52",1252,1252,"Demetrius McReynolds missed Three Point Jumper.",32,42,-10,0.324958145963005,"Saint Louis","Eastern Illinois",1,3,1,0,5,400917677,2016-11-17
+132,1,"0:52",1252,1252,"Reggie Agbeko Defensive Rebound.",32,42,-10,0.324958145963005,"Saint Louis","Eastern Illinois",1,3,1,0,5,400917677,2016-11-17
+133,1,"0:36",1236,1236,"Foul on Aboubacar Diallo.",32,42,-10,0.302471127051191,"Saint Louis","Eastern Illinois",1,3,0,0,5,400917677,2016-11-17
+134,1,"0:36",1236,1236,"Mike Crawford made Free Throw.",33,42,-9,0.337478617935057,"Saint Louis","Eastern Illinois",1,3,0,0,5,400917677,2016-11-17
+135,1,"0:36",1236,1236,"Mike Crawford missed Free Throw.",33,42,-9,0.337478617935057,"Saint Louis","Eastern Illinois",1,3,0,0,5,400917677,2016-11-17
+136,1,"0:36",1236,1236,"Muusa Dama Defensive Rebound.",33,42,-9,0.337478617935057,"Saint Louis","Eastern Illinois",1,3,0,0,5,400917677,2016-11-17
+137,1,"0:09",1209,1209,"Cornell Johnston missed Three Point Jumper.",33,42,-9,0.351093343279742,"Saint Louis","Eastern Illinois",1,3,0,0,5,400917677,2016-11-17
+138,1,"0:09",1209,1209,"Demetrius McReynolds Offensive Rebound.",33,42,-9,0.351093343279742,"Saint Louis","Eastern Illinois",1,3,0,0,5,400917677,2016-11-17
+139,1,"0:00",1200,1200,"Demetrius McReynolds made Two Point Tip Shot.",33,44,-11,0.28236958516991,"Saint Louis","Eastern Illinois",1,3,0,0,5,400917677,2016-11-17
+140,1,"0:00",1200,1200,"End of 1st half",33,44,-11,0.28236958516991,"Saint Louis","Eastern Illinois",1,3,0,0,5,400917677,2016-11-17
+141,2,"20:00",1200,1200,"PLAY",33,44,-11,0.28236958516991,"Saint Louis","Eastern Illinois",2,4,0,0,5,400917677,2016-11-17
+142,2,"19:50",1190,1190,"Reggie Agbeko made Layup. Assisted by Davell Roby.",35,44,-9,0.41677459482976,"Saint Louis","Eastern Illinois",2,4,0,0,5,400917677,2016-11-17
+143,2,"19:18",1158,1158,"Cornell Johnston missed Three Point Jumper.",35,44,-9,0.340343108877171,"Saint Louis","Eastern Illinois",2,4,0,0,5,400917677,2016-11-17
+144,2,"19:18",1158,1158,"Mike Crawford Defensive Rebound.",35,44,-9,0.340343108877171,"Saint Louis","Eastern Illinois",2,4,0,0,5,400917677,2016-11-17
+145,2,"19:07",1147,1147,"Elliott Welmer made Three Point Jumper. Assisted by Jermaine Bishop.",38,44,-6,0.434021156720949,"Saint Louis","Eastern Illinois",2,4,0,0,5,400917677,2016-11-17
+146,2,"18:38",1118,1118,"Montell Goodwin missed Jumper.",38,44,-6,0.436802854528676,"Saint Louis","Eastern Illinois",2,4,0,0,5,400917677,2016-11-17
+147,2,"18:38",1118,1118,"Jermaine Bishop Block.",38,44,-6,0.436802854528676,"Saint Louis","Eastern Illinois",2,4,0,0,5,400917677,2016-11-17
+148,2,"18:37",1117,1117,"Davell Roby Defensive Rebound.",38,44,-6,0.436802854528676,"Saint Louis","Eastern Illinois",2,4,0,0,5,400917677,2016-11-17
+149,2,"18:32",1112,1112,"Jermaine Bishop missed Jumper.",38,44,-6,0.436802854528676,"Saint Louis","Eastern Illinois",2,4,0,0,5,400917677,2016-11-17
+150,2,"18:32",1112,1112,"Montell Goodwin Defensive Rebound.",38,44,-6,0.436802854528676,"Saint Louis","Eastern Illinois",2,4,0,0,5,400917677,2016-11-17
+151,2,"18:24",1104,1104,"Montell Goodwin missed Layup.",38,44,-6,0.458703414931034,"Saint Louis","Eastern Illinois",2,4,0,0,5,400917677,2016-11-17
+152,2,"18:24",1104,1104,"Davell Roby Defensive Rebound.",38,44,-6,0.458703414931034,"Saint Louis","Eastern Illinois",2,4,0,0,5,400917677,2016-11-17
+153,2,"18:15",1095,1095,"Foul on Patrick Muldoon.",38,44,-6,0.453145668404352,"Saint Louis","Eastern Illinois",2,4,0,0,5,400917677,2016-11-17
+154,2,"18:03",1083,1083,"Reggie Agbeko missed Layup.",38,44,-6,0.437643525551227,"Saint Louis","Eastern Illinois",2,4,0,0,5,400917677,2016-11-17
+155,2,"18:03",1083,1083,"Muusa Dama Defensive Rebound.",38,44,-6,0.437643525551227,"Saint Louis","Eastern Illinois",2,4,0,0,5,400917677,2016-11-17
+156,2,"17:53",1073,1073,"Ray Crossland Turnover.",38,44,-6,0.446606744053665,"Saint Louis","Eastern Illinois",2,4,0,0,5,400917677,2016-11-17
+157,2,"17:40",1060,1060,"Reggie Agbeko made Layup. Assisted by Jermaine Bishop.",40,44,-4,0.530463641490653,"Saint Louis","Eastern Illinois",2,4,0,0,5,400917677,2016-11-17
+158,2,"17:12",1032,1032,"Muusa Dama missed Layup.",40,44,-4,0.519520976581781,"Saint Louis","Eastern Illinois",2,4,0,0,5,400917677,2016-11-17
+159,2,"17:12",1032,1032,"Reggie Agbeko Block.",40,44,-4,0.519520976581781,"Saint Louis","Eastern Illinois",2,4,0,0,5,400917677,2016-11-17
+160,2,"17:10",1030,1030,"Jermaine Bishop Defensive Rebound.",40,44,-4,0.519520976581781,"Saint Louis","Eastern Illinois",2,4,0,0,5,400917677,2016-11-17
+161,2,"17:08",1028,1028,"Davell Roby made Three Point Jumper. Assisted by Jermaine Bishop.",43,44,-1,0.650514908417878,"Saint Louis","Eastern Illinois",2,4,0,0,5,400917677,2016-11-17
+162,2,"16:55",1015,1015,"Eastern Illinois  Timeout",43,44,-1,0.615102670317073,"Saint Louis","Eastern Illinois",2,3,0,1,5,400917677,2016-11-17
+163,2,"16:55",1015,1015,"Official TV Timeout",43,44,-1,0.615102670317073,"Saint Louis","Eastern Illinois",2,3,0,1,5,400917677,2016-11-17
+164,2,"16:43",1003,1003,"Foul on Reggie Agbeko.",43,44,-1,0.622832052011081,"Saint Louis","Eastern Illinois",2,3,0,1,5,400917677,2016-11-17
+165,2,"16:39",999,999,"Muusa Dama missed Layup.",43,44,-1,0.629911565086134,"Saint Louis","Eastern Illinois",2,3,0,1,5,400917677,2016-11-17
+166,2,"16:39",999,999,"Saint Louis Defensive Rebound.",43,44,-1,0.629911565086134,"Saint Louis","Eastern Illinois",2,3,0,1,5,400917677,2016-11-17
+167,2,"16:17",977,977,"Elliott Welmer made Three Point Jumper. Assisted by Jermaine Bishop.",46,44,2,0.762361648832718,"Saint Louis","Eastern Illinois",2,3,0,1,5,400917677,2016-11-17
+168,2,"15:43",943,943,"Ray Crossland missed Jumper.",46,44,2,0.77156476993408,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+169,2,"15:43",943,943,"Patrick Muldoon Offensive Rebound.",46,44,2,0.77156476993408,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+170,2,"15:39",939,939,"Foul on Reggie Agbeko.",46,44,2,0.752337243166017,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+171,2,"15:39",939,939,"Official TV Timeout",46,44,2,0.752337243166017,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+172,2,"15:24",924,924,"Demetrius McReynolds Turnover.",46,44,2,0.734707196583775,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+173,2,"15:23",923,923,"Jermaine Bishop Steal.",46,44,2,0.734707196583775,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+174,2,"15:20",920,920,"Jermaine Bishop missed Layup.",46,44,2,0.734707196583775,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+175,2,"15:20",920,920,"Muusa Dama Block.",46,44,2,0.734707196583775,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+176,2,"15:18",918,918,"Saint Louis Offensive Rebound.",46,44,2,0.762533582821,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+177,2,"15:09",909,909,"Jermaine Bishop Turnover.",46,44,2,0.749445552105308,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+178,2,"15:08",908,908,"Muusa Dama Steal.",46,44,2,0.749445552105308,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+179,2,"14:54",894,894,"Ray Crossland missed Jumper.",46,44,2,0.759202137686891,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+180,2,"14:54",894,894,"Mike Crawford Defensive Rebound.",46,44,2,0.759202137686891,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+181,2,"14:33",873,873,"Reggie Agbeko Turnover.",46,44,2,0.756276407800539,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+182,2,"14:32",872,872,"Ray Crossland Steal.",46,44,2,0.756276407800539,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+183,2,"14:28",868,868,"Foul on Mike Crawford.",46,44,2,0.745423698827898,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+184,2,"14:19",859,859,"Montell Goodwin missed Jumper.",46,44,2,0.764762464645177,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+185,2,"14:19",859,859,"Elliott Welmer Defensive Rebound.",46,44,2,0.764762464645177,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+186,2,"14:00",840,840,"Reggie Agbeko made Layup. Assisted by Jermaine Bishop.",48,44,4,0.823325863542061,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+187,2,"13:33",813,813,"Casey Teson made Jumper. Assisted by Patrick Muldoon.",48,46,2,0.747712330092401,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+188,2,"13:12",792,792,"Elliott Welmer made Layup. Assisted by Mike Crawford.",50,46,4,0.826937852115563,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+189,2,"12:58",778,778,"Montell Goodwin missed Layup.",50,46,4,0.824926166323104,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+190,2,"12:58",778,778,"Elliott Welmer Defensive Rebound.",50,46,4,0.824926166323104,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+191,2,"12:52",772,772,"Mike Crawford missed Three Point Jumper.",50,46,4,0.824926166323104,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+192,2,"12:52",772,772,"Patrick Muldoon Defensive Rebound.",50,46,4,0.824926166323104,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+193,2,"12:44",764,764,"Foul on Elliott Welmer.",50,46,4,0.841534490493458,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+194,2,"12:44",764,764,"Ray Crossland made Free Throw.",50,47,3,0.81058011457707,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+195,2,"12:44",764,764,"Ray Crossland made Free Throw.",50,48,2,0.775194432573252,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+196,2,"12:34",754,754,"Jermaine Bishop made Jumper.",52,48,4,0.829266286356959,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+197,2,"12:11",731,731,"Casey Teson missed Three Point Jumper.",52,48,4,0.820393481274889,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+198,2,"12:11",731,731,"Jermaine Bishop Defensive Rebound.",52,48,4,0.820393481274889,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+199,2,"11:55",715,715,"Jalen Johnson missed Layup.",52,48,4,0.817837367252027,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+200,2,"11:55",715,715,"Ray Crossland Defensive Rebound.",52,48,4,0.817837367252027,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+201,2,"11:48",708,708,"Ray Crossland Turnover.",52,48,4,0.822604806812103,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+202,2,"11:48",708,708,"Official TV Timeout",52,48,4,0.822604806812103,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+203,2,"11:37",697,697,"Foul on Ray Crossland.",52,48,4,0.84511121991957,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+204,2,"11:22",682,682,"Davell Roby missed Three Point Jumper.",52,48,4,0.824164358271153,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+205,2,"11:22",682,682,"Jalen Johnson Offensive Rebound.",52,48,4,0.824164358271153,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+206,2,"11:17",677,677,"Jalen Johnson made Layup.",54,48,6,0.885661982805574,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+207,2,"11:05",665,665,"Montell Goodwin missed Jumper.",54,48,6,0.887293243547016,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+208,2,"11:05",665,665,"Muusa Dama Offensive Rebound.",54,48,6,0.887293243547016,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+209,2,"11:01",661,661,"Muusa Dama made Layup.",54,50,4,0.833546448471258,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+210,2,"10:40",640,640,"Jermaine Bishop Turnover.",54,50,4,0.835342397679267,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+211,2,"10:40",640,640,"Ray Crossland Steal.",54,50,4,0.835342397679267,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+212,2,"10:40",640,640,"Foul on Davell Roby.",54,50,4,0.835342397679267,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+213,2,"10:19",619,619,"Cornell Johnston made Jumper. Assisted by Ray Crossland.",54,52,2,0.749041161567844,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+214,2,"10:08",608,608,"Foul on Reggie Agbeko.",54,52,2,0.762289955809673,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+215,2,"10:08",608,608,"Reggie Agbeko Turnover.",54,52,2,0.762289955809673,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+216,2,"9:51",591,591,"Patrick Muldoon missed Jumper.",54,52,2,0.752894896534161,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+217,2,"9:51",591,591,"Zeke Moore Defensive Rebound.",54,52,2,0.752894896534161,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+218,2,"9:37",577,577,"Jermaine Bishop made Layup.",56,52,4,0.851612059795881,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+219,2,"9:20",560,560,"Ray Crossland made Jumper. Assisted by Montell Goodwin.",56,54,2,0.775951804254338,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+220,2,"8:56",536,536,"Matt Neufeld missed Jumper.",56,54,2,0.784179211305904,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+221,2,"8:56",536,536,"Jalen Johnson Offensive Rebound.",56,54,2,0.784179211305904,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+222,2,"8:55",535,535,"Foul on Patrick Muldoon.",56,54,2,0.784179211305904,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+223,2,"8:55",535,535,"Jalen Johnson missed Free Throw.",56,54,2,0.784179211305904,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+224,2,"8:55",535,535,"Saint Louis Deadball Team Rebound.",56,54,2,0.784179211305904,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+225,2,"8:55",535,535,"Jalen Johnson made Free Throw.",57,54,3,0.828004693007544,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+226,2,"8:39",519,519,"Casey Teson made Three Point Jumper. Assisted by Demetrius McReynolds.",57,57,0,0.635391823386823,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+227,2,"8:24",504,504,"Davell Roby Turnover.",57,57,0,0.662036404751069,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+228,2,"8:22",502,502,"Cornell Johnston Steal.",57,57,0,0.662036404751069,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+229,2,"8:19",499,499,"Demetrius McReynolds missed Three Point Jumper.",57,57,0,0.660112394014141,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+230,2,"8:19",499,499,"Aboubacar Diallo Offensive Rebound.",57,57,0,0.660112394014141,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+231,2,"7:53",473,473,"Casey Teson missed Three Point Jumper.",57,57,0,0.646910577708138,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+232,2,"7:53",473,473,"Reggie Agbeko Defensive Rebound.",57,57,0,0.646910577708138,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+233,2,"7:45",465,465,"Jermaine Bishop missed Layup.",57,57,0,0.641364158495507,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+234,2,"7:45",465,465,"Patrick Muldoon Defensive Rebound.",57,57,0,0.641364158495507,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+235,2,"7:41",461,461,"Patrick Muldoon Turnover.",57,57,0,0.641364158495507,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+236,2,"7:40",460,460,"Jermaine Bishop Steal.",57,57,0,0.641364158495507,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+237,2,"7:38",458,458,"Mike Crawford missed Three Point Jumper.",57,57,0,0.62707129090487,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+238,2,"7:38",458,458,"Demetrius McReynolds Defensive Rebound.",57,57,0,0.62707129090487,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+239,2,"7:21",441,441,"Demetrius McReynolds missed Three Point Jumper.",57,57,0,0.630074089196664,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+240,2,"7:21",441,441,"Aboubacar Diallo Offensive Rebound.",57,57,0,0.630074089196664,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+241,2,"7:16",436,436,"Aboubacar Diallo Turnover.",57,57,0,0.655224811746662,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+242,2,"7:15",435,435,"Mike Crawford Steal.",57,57,0,0.655224811746662,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+243,2,"6:54",414,414,"Elliott Welmer missed Three Point Jumper.",57,57,0,0.638814948535538,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+244,2,"6:54",414,414,"Patrick Muldoon Defensive Rebound.",57,57,0,0.638814948535538,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+245,2,"6:27",387,387,"Aboubacar Diallo missed Layup.",57,57,0,0.64703093964801,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+246,2,"6:27",387,387,"Patrick Muldoon Offensive Rebound.",57,57,0,0.64703093964801,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+247,2,"6:23",383,383,"Patrick Muldoon made Layup.",57,59,-2,0.502781098490712,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+248,2,"6:11",371,371,"Mike Crawford missed Layup.",57,59,-2,0.47381412154018,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+249,2,"6:11",371,371,"Patrick Muldoon Defensive Rebound.",57,59,-2,0.47381412154018,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+250,2,"5:48",348,348,"Casey Teson missed Jumper.",57,59,-2,0.435674695774059,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+251,2,"5:44",344,344,"Saint Louis Defensive Rebound.",57,59,-2,0.435674695774059,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+252,2,"5:44",344,344,"Official TV Timeout",57,59,-2,0.435674695774059,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+253,2,"5:30",330,330,"Foul on Muusa Dama.",57,59,-2,0.465817508978616,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+254,2,"5:29",329,329,"Davell Roby made Three Point Jumper. Assisted by Mike Crawford.",60,59,1,0.699617753893238,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+255,2,"5:07",307,307,"Montell Goodwin Turnover.",60,59,1,0.695639948816589,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+256,2,"5:06",306,306,"Mike Crawford Steal.",60,59,1,0.695639948816589,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+257,2,"5:02",302,302,"Mike Crawford made Dunk. Assisted by Jermaine Bishop.",62,59,3,0.818156575261052,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+258,2,"4:49",289,289,"Muusa Dama missed Jumper.",62,59,3,0.823108845988259,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+259,2,"4:49",289,289,"Reggie Agbeko Defensive Rebound.",62,59,3,0.823108845988259,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+260,2,"4:19",259,259,"Jermaine Bishop missed Three Point Jumper.",62,59,3,0.852911322050843,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+261,2,"4:19",259,259,"Muusa Dama Defensive Rebound.",62,59,3,0.852911322050843,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+262,2,"4:00",240,240,"Ray Crossland made Jumper. Assisted by Cornell Johnston.",62,61,1,0.701152277899376,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+263,2,"3:46",226,226,"Foul on Demetrius McReynolds.",62,61,1,0.732501566897445,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+264,2,"3:46",226,226,"Official TV Timeout",62,61,1,0.732501566897445,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+265,2,"3:40",220,220,"Reggie Agbeko made Jumper. Assisted by Mike Crawford.",64,61,3,0.864628739664134,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+266,2,"3:23",203,203,"Montell Goodwin missed Three Point Jumper.",64,61,3,0.873235651962942,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+267,2,"3:23",203,203,"Elliott Welmer Defensive Rebound.",64,61,3,0.873235651962942,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+268,2,"3:05",185,185,"Reggie Agbeko Turnover.",64,61,3,0.860070953975096,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+269,2,"2:53",173,173,"Ray Crossland missed Jumper.",64,61,3,0.878381158633001,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+270,2,"2:53",173,173,"Muusa Dama Offensive Rebound.",64,61,3,0.878381158633001,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+271,2,"2:49",169,169,"Muusa Dama missed Two Point Tip Shot.",64,61,3,0.895651907673663,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+272,2,"2:49",169,169,"Muusa Dama Offensive Rebound.",64,61,3,0.895651907673663,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+273,2,"2:48",168,168,"Foul on Reggie Agbeko.",64,61,3,0.895651907673663,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+274,2,"2:48",168,168,"Muusa Dama missed Free Throw.",64,61,3,0.895651907673663,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+275,2,"2:48",168,168,"Eastern Illinois Deadball Team Rebound.",64,61,3,0.895651907673663,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+276,2,"2:48",168,168,"Muusa Dama made Free Throw.",64,62,2,0.836991780397763,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+277,2,"2:36",156,156,"Reggie Agbeko made Layup. Assisted by Jermaine Bishop.",66,62,4,0.930031819799617,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+278,2,"2:22",142,142,"Cornell Johnston missed Three Point Jumper.",66,62,4,0.922168959001105,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+279,2,"2:21",141,141,"Jermaine Bishop Block.",66,62,4,0.922168959001105,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+280,2,"2:20",140,140,"Patrick Muldoon Offensive Rebound.",66,62,4,0.922168959001105,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+281,2,"2:18",138,138,"Foul on Reggie Agbeko.",66,62,4,0.937209572333959,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+282,2,"2:18",138,138,"Muusa Dama made Free Throw.",66,63,3,0.896165974380619,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+283,2,"2:18",138,138,"Muusa Dama made Free Throw.",66,64,2,0.833072286618267,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+284,2,"2:06",126,126,"Elliott Welmer made Layup. Assisted by Mike Crawford.",68,64,4,0.929543255107275,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+285,2,"2:06",126,126,"Foul on Muusa Dama.",68,64,4,0.929543255107275,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+286,2,"2:06",126,126,"Elliott Welmer made Free Throw.",69,64,5,0.958758896425822,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+287,2,"1:55",115,115,"Muusa Dama missed Layup.",69,64,5,0.969626805463047,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+288,2,"1:55",115,115,"Jalen Johnson Block.",69,64,5,0.969626805463047,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+289,2,"1:52",112,112,"Jermaine Bishop Defensive Rebound.",69,64,5,0.969626805463047,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+290,2,"1:36",96,96,"Davell Roby missed Layup.",69,64,5,0.968949818423043,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+291,2,"1:36",96,96,"Casey Teson Defensive Rebound.",69,64,5,0.968949818423043,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+292,2,"1:27",87,87,"Ray Crossland Turnover.",69,64,5,0.98334546379513,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+293,2,"1:26",86,86,"Elliott Welmer Steal.",69,64,5,0.98334546379513,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+294,2,"1:24",84,84,"Jermaine Bishop Turnover.",69,64,5,0.98334546379513,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+295,2,"1:23",83,83,"Ray Crossland Steal.",69,64,5,0.98334546379513,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+296,2,"1:21",81,81,"Ray Crossland missed Layup.",69,64,5,0.98334546379513,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+297,2,"1:21",81,81,"Mike Crawford Defensive Rebound.",69,64,5,0.98334546379513,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+298,2,"0:55",55,55,"Jermaine Bishop missed Layup.",69,64,5,0.984536059840826,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+299,2,"0:55",55,55,"Demetrius McReynolds Defensive Rebound.",69,64,5,0.984536059840826,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+300,2,"0:47",47,47,"Ray Crossland missed Three Point Jumper.",69,64,5,0.995169365774103,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+301,2,"0:47",47,47,"Mike Crawford Defensive Rebound.",69,64,5,0.995169365774103,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+302,2,"0:36",36,36,"Foul on Montell Goodwin.",69,64,5,0.991665344414365,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+303,2,"0:36",36,36,"Jermaine Bishop missed Free Throw.",69,64,5,0.991665344414365,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+304,2,"0:36",36,36,"Montell Goodwin Defensive Rebound.",69,64,5,0.991665344414365,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+305,2,"0:30",30,30,"Montell Goodwin made Three Point Jumper.",69,67,2,0.868146998666736,"Saint Louis","Eastern Illinois",2,3,0,0,5,400917677,2016-11-17
+306,2,"0:29",29,29,"Eastern Illinois  Timeout",69,67,2,0.876778582082191,"Saint Louis","Eastern Illinois",2,2,0,1,5,400917677,2016-11-17
+307,2,"0:21",21,21,"Mike Crawford Turnover.",69,67,2,0.968324236085671,"Saint Louis","Eastern Illinois",2,2,0,1,5,400917677,2016-11-17
+308,2,"0:20",20,20,"Cornell Johnston Steal.",69,67,2,0.965004845069522,"Saint Louis","Eastern Illinois",2,2,0,1,5,400917677,2016-11-17
+309,2,"0:16",16,16,"Casey Teson missed Three Point Jumper.",69,67,2,0.969594884386432,"Saint Louis","Eastern Illinois",2,2,0,1,5,400917677,2016-11-17
+310,2,"0:16",16,16,"Elliott Welmer Defensive Rebound.",69,67,2,0.969594884386432,"Saint Louis","Eastern Illinois",2,2,0,1,5,400917677,2016-11-17
+311,2,"0:12",12,12,"Foul on Cornell Johnston.",69,67,2,0.966477863003636,"Saint Louis","Eastern Illinois",2,2,1,1,5,400917677,2016-11-17
+312,2,"0:12",12,12,"Elliott Welmer made Free Throw.",70,67,3,0.990569440866478,"Saint Louis","Eastern Illinois",2,2,1,1,5,400917677,2016-11-17
+313,2,"0:12",12,12,"Elliott Welmer made Free Throw.",71,67,4,0.997393655319191,"Saint Louis","Eastern Illinois",2,2,1,1,5,400917677,2016-11-17
+314,2,"0:12",12,12,"Saint Louis  Timeout",71,67,4,0.997393655319191,"Saint Louis","Eastern Illinois",1,2,1,1,5,400917677,2016-11-17
+315,2,"0:08",8,8,"Foul on Jermaine Bishop.",71,67,4,0.999110451959826,"Saint Louis","Eastern Illinois",1,2,1,1,5,400917677,2016-11-17
+316,2,"0:08",8,8,"Cornell Johnston made Free Throw.",71,68,3,0.995533531884452,"Saint Louis","Eastern Illinois",1,2,1,1,5,400917677,2016-11-17
+317,2,"0:08",8,8,"Cornell Johnston made Free Throw.",71,69,2,0.977891889327213,"Saint Louis","Eastern Illinois",1,2,1,1,5,400917677,2016-11-17
+318,2,"0:04",4,4,"Foul on Muusa Dama.",71,69,2,0.969200284562769,"Saint Louis","Eastern Illinois",1,2,1,1,5,400917677,2016-11-17
+319,2,"0:04",4,4,"Mike Crawford made Free Throw.",72,69,3,0.994357846482838,"Saint Louis","Eastern Illinois",1,2,1,1,5,400917677,2016-11-17
+320,2,"0:04",4,4,"Mike Crawford missed Free Throw.",72,69,3,0.994357846482838,"Saint Louis","Eastern Illinois",1,2,1,1,5,400917677,2016-11-17
+321,2,"0:04",4,4,"Saint Louis Deadball Team Rebound.",72,69,3,0.994357846482838,"Saint Louis","Eastern Illinois",1,2,1,1,5,400917677,2016-11-17
+322,2,"0:04",4,4,"Eastern Illinois  Timeout",72,69,3,0.994357846482838,"Saint Louis","Eastern Illinois",1,1,1,1,5,400917677,2016-11-17
+323,2,"0:04",4,4,"Foul on Patrick Muldoon.",72,69,3,0.994357846482838,"Saint Louis","Eastern Illinois",1,1,1,1,5,400917677,2016-11-17
+324,2,"0:04",4,4,"Jermaine Bishop made Free Throw.",73,69,4,0.998987881330356,"Saint Louis","Eastern Illinois",1,1,1,1,5,400917677,2016-11-17
+325,2,"0:04",4,4,"Jermaine Bishop made Free Throw.",74,69,5,0.999819132022775,"Saint Louis","Eastern Illinois",1,1,1,1,5,400917677,2016-11-17
+326,2,"0:03",3,3,"Casey Teson Turnover.",74,69,5,0.999819132022775,"Saint Louis","Eastern Illinois",1,1,1,1,5,400917677,2016-11-17
+327,2,"0:02",2,2,"Jalen Johnson Steal.",74,69,5,0.999819132022775,"Saint Louis","Eastern Illinois",1,1,1,1,5,400917677,2016-11-17
+328,2,"0:00",0,0,"End of Game",74,69,5,1,"Saint Louis","Eastern Illinois",1,1,1,1,5,400917677,2016-11-17

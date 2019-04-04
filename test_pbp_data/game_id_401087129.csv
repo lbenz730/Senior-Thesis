@@ -1,0 +1,327 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","play_length","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,20,0.670974856387565,"Oregon State","Washington",4,4,0,0,3,"401087129",2019-01-26
+2,1,"19:40",2380,2380,"Tres Tinkle Turnover.",0,0,0,0,0.66895160869708,"Oregon State","Washington",4,4,0,0,3,"401087129",2019-01-26
+3,1,"19:40",2380,2380,"Matisse Thybulle Steal.",0,0,0,4,0.66895160869708,"Oregon State","Washington",4,4,0,0,3,"401087129",2019-01-26
+4,1,"19:36",2376,2376,"Matisse Thybulle Turnover.",0,0,0,0,0.673623769121956,"Oregon State","Washington",4,4,0,0,3,"401087129",2019-01-26
+5,1,"19:36",2376,2376,"Kylor Kelley Steal.",0,0,0,5,0.673623769121956,"Oregon State","Washington",4,4,0,0,3,"401087129",2019-01-26
+6,1,"19:31",2371,2371,"Stephen Thompson Jr. missed Three Point Jumper.",0,0,0,1,0.673623769121956,"Oregon State","Washington",4,4,0,0,3,"401087129",2019-01-26
+7,1,"19:30",2370,2370,"Ethan Thompson Offensive Rebound.",0,0,0,10,0.673623769121956,"Oregon State","Washington",4,4,0,0,3,"401087129",2019-01-26
+8,1,"19:20",2360,2360,"Ethan Thompson Turnover.",0,0,0,0,0.658012645056712,"Oregon State","Washington",4,4,0,0,3,"401087129",2019-01-26
+9,1,"19:20",2360,2360,"Matisse Thybulle Steal.",0,0,0,5,0.658012645056712,"Oregon State","Washington",4,4,0,0,3,"401087129",2019-01-26
+10,1,"19:15",2355,2355,"David Crisp made Layup. Assisted by Matisse Thybulle.",0,2,-2,14,0.640136040498348,"Oregon State","Washington",4,4,0,0,3,"401087129",2019-01-26
+11,1,"19:01",2341,2341,"Alfred Hollins Turnover.",0,2,-2,0,0.61956669216188,"Oregon State","Washington",4,4,0,0,3,"401087129",2019-01-26
+12,1,"19:01",2341,2341,"Jaylen Nowell Steal.",0,2,-2,4,0.61956669216188,"Oregon State","Washington",4,4,0,0,3,"401087129",2019-01-26
+13,1,"18:57",2337,2337,"David Crisp made Layup.",0,4,-4,22,0.579088120642615,"Oregon State","Washington",4,4,0,0,3,"401087129",2019-01-26
+14,1,"18:35",2315,2315,"Ethan Thompson missed Jumper.",0,4,-4,3,0.559247354946648,"Oregon State","Washington",4,4,0,0,3,"401087129",2019-01-26
+15,1,"18:32",2312,2312,"Hameir Wright Defensive Rebound.",0,4,-4,4,0.559247354946648,"Oregon State","Washington",4,4,0,0,3,"401087129",2019-01-26
+16,1,"18:28",2308,2308,"Jaylen Nowell made Three Point Jumper. Assisted by Matisse Thybulle.",0,7,-7,1,0.486577583218136,"Oregon State","Washington",4,4,0,0,3,"401087129",2019-01-26
+17,1,"18:27",2307,2307,"Oregon State  Timeout",0,7,-7,20,0.486577583218136,"Oregon State","Washington",3,4,1,0,3,"401087129",2019-01-26
+18,1,"18:07",2287,2287,"Foul on David Crisp.",0,7,-7,5,0.480634822823782,"Oregon State","Washington",3,4,1,0,3,"401087129",2019-01-26
+19,1,"18:02",2282,2282,"Stephen Thompson Jr. missed Layup.",0,7,-7,4,0.480634822823782,"Oregon State","Washington",3,4,1,0,3,"401087129",2019-01-26
+20,1,"17:58",2278,2278,"Matisse Thybulle Defensive Rebound.",0,7,-7,7,0.49351110479087,"Oregon State","Washington",3,4,1,0,3,"401087129",2019-01-26
+21,1,"17:51",2271,2271,"Jaylen Nowell missed Jumper.",0,7,-7,4,0.49351110479087,"Oregon State","Washington",3,4,1,0,3,"401087129",2019-01-26
+22,1,"17:47",2267,2267,"Tres Tinkle Defensive Rebound.",0,7,-7,5,0.461611476333046,"Oregon State","Washington",3,4,1,0,3,"401087129",2019-01-26
+23,1,"17:42",2262,2262,"Foul on Alfred Hollins.",0,7,-7,0,0.461611476333046,"Oregon State","Washington",3,4,1,0,3,"401087129",2019-01-26
+24,1,"17:42",2262,2262,"Alfred Hollins Turnover.",0,7,-7,13,0.461611476333046,"Oregon State","Washington",3,4,1,0,3,"401087129",2019-01-26
+25,1,"17:29",2249,2249,"Foul on Kylor Kelley.",0,7,-7,0,0.505780805598098,"Oregon State","Washington",3,4,1,0,3,"401087129",2019-01-26
+26,1,"17:29",2249,2249,"Noah Dickerson made Free Throw.",0,8,-8,0,0.482266659117339,"Oregon State","Washington",3,4,1,0,3,"401087129",2019-01-26
+27,1,"17:29",2249,2249,"Noah Dickerson made Free Throw.",0,9,-9,22,0.458830790229976,"Oregon State","Washington",3,4,1,0,3,"401087129",2019-01-26
+28,1,"17:07",2227,2227,"Zach Reichle Turnover.",0,9,-9,0,0.442550835027193,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+29,1,"17:07",2227,2227,"Matisse Thybulle Steal.",0,9,-9,6,0.442550835027193,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+30,1,"17:01",2221,2221,"Matisse Thybulle made Dunk.",0,11,-11,18,0.392837330507032,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+31,1,"16:43",2203,2203,"Foul on Matisse Thybulle.",0,11,-11,8,0.362375566223539,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+32,1,"16:35",2195,2195,"Stephen Thompson Jr. made Three Point Jumper. Assisted by Zach Reichle.",3,11,-8,17,0.449062992233332,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+33,1,"16:18",2178,2178,"Matisse Thybulle missed Three Point Jumper.",3,11,-8,4,0.44419482651424,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+34,1,"16:14",2174,2174,"Ethan Thompson Defensive Rebound.",3,11,-8,3,0.44419482651424,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+35,1,"16:11",2171,2171,"Stephen Thompson Jr. made Layup. Assisted by Ethan Thompson.",5,11,-6,19,0.498278089391333,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+36,1,"15:52",2152,2152,"Noah Dickerson missed Layup.",5,11,-6,0,0.47721505028945,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+37,1,"15:52",2152,2152,"Ethan Thompson Block.",5,11,-6,3,0.47721505028945,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+38,1,"15:49",2149,2149,"Zach Reichle Defensive Rebound.",5,11,-6,0,0.522184336661554,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+39,1,"15:49",2149,2149,"Official TV Timeout",5,11,-6,23,0.522184336661554,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+40,1,"15:26",2126,2126,"Ethan Thompson Turnover.",5,11,-6,0,0.486739761409026,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+41,1,"15:26",2126,2126,"Matisse Thybulle Steal.",5,11,-6,23,0.486739761409026,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+42,1,"15:03",2103,2103,"Nahziah Carter made Jumper.",5,13,-8,29,0.435110570392498,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+43,1,"14:34",2074,2074,"Kylor Kelley missed Jumper.",5,13,-8,3,0.445305957688732,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+44,1,"14:31",2071,2071,"Hameir Wright Defensive Rebound.",5,13,-8,23,0.445305957688732,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+45,1,"14:08",2048,2048,"Jaylen Nowell made Jumper.",5,15,-10,30,0.374385786383335,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+46,1,"13:38",2018,2018,"Kylor Kelley made Jumper. Assisted by Stephen Thompson Jr..",7,15,-8,30,0.435162363553224,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+47,1,"13:08",1988,1988,"Nahziah Carter made Dunk.",7,17,-10,0,0.338771461446799,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+48,1,"13:08",1988,1988,"Foul on Kylor Kelley.",7,17,-10,0,0.338771461446799,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+49,1,"13:08",1988,1988,"Nahziah Carter made Free Throw.",7,18,-11,22,0.311422925417594,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+50,1,"12:46",1966,1966,"Zach Reichle Turnover.",7,18,-11,0,0.370259255249801,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+51,1,"12:46",1966,1966,"Nahziah Carter Steal.",7,18,-11,5,0.370259255249801,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+52,1,"12:41",1961,1961,"Nahziah Carter made Layup.",7,20,-13,13,0.322334293439749,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+53,1,"12:28",1948,1948,"Foul on Matisse Thybulle.",7,20,-13,19,0.265163602601432,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+54,1,"12:09",1929,1929,"Foul on Jamal Bey.",7,20,-13,4,0.263693193114498,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+55,1,"12:05",1925,1925,"Tres Tinkle missed Three Point Jumper.",7,20,-13,5,0.263693193114498,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+56,1,"12:00",1920,1920,"Gligorije Rakocevic Offensive Rebound.",7,20,-13,1,0.263693193114498,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+57,1,"11:59",1919,1919,"Gligorije Rakocevic missed Layup.",7,20,-13,0,0.273689205572168,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+58,1,"11:59",1919,1919,"Sam Timmins Block.",7,20,-13,5,0.273689205572168,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+59,1,"11:54",1914,1914,"Dominic Green Defensive Rebound.",7,20,-13,16,0.273689205572168,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+60,1,"11:38",1898,1898,"Dominic Green made Jumper.",7,22,-15,17,0.202212426344951,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+61,1,"11:21",1881,1881,"Foul on Nahziah Carter.",7,22,-15,0,0.222634506738476,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+62,1,"11:21",1881,1881,"Official TV Timeout",7,22,-15,0,0.222634506738476,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+63,1,"11:21",1881,1881,"Stephen Thompson Jr. made Free Throw.",8,22,-14,0,0.24477660193717,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+64,1,"11:21",1881,1881,"Stephen Thompson Jr. made Free Throw.",9,22,-13,5,0.268360618685274,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+65,1,"11:16",1876,1876,"Jaylen Nowell Turnover.",9,22,-13,0,0.268584138946946,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+66,1,"11:16",1876,1876,"Ethan Thompson Steal.",9,22,-13,1,0.268584138946946,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+67,1,"11:15",1875,1875,"Foul on Dominic Green.",9,22,-13,0,0.268584138946946,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+68,1,"11:15",1875,1875,"Ethan Thompson missed Free Throw.",9,22,-13,0,0.268584138946946,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+69,1,"11:15",1875,1875,"Oregon State Deadball Team Rebound.",9,22,-13,0,0.268584138946946,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+70,1,"11:15",1875,1875,"Ethan Thompson made Free Throw.",10,22,-12,7,0.293659492815315,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+71,1,"11:08",1868,1868,"Nahziah Carter made Dunk. Assisted by David Crisp.",10,24,-14,31,0.227956622281548,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+72,1,"10:37",1837,1837,"Stephen Thompson Jr. made Three Point Jumper.",13,24,-11,19,0.315640721080421,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+73,1,"10:18",1818,1818,"Dominic Green missed Jumper.",13,24,-11,0,0.288335639419715,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+74,1,"10:18",1818,1818,"Stephen Thompson Jr. Block.",13,24,-11,5,0.288335639419715,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+75,1,"10:13",1813,1813,"Tres Tinkle Defensive Rebound.",13,24,-11,20,0.288335639419715,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+76,1,"9:53",1793,1793,"Stephen Thompson Jr. missed Three Point Jumper.",13,24,-11,8,0.297481451614765,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+77,1,"9:45",1785,1785,"Ethan Thompson Offensive Rebound.",13,24,-11,0,0.268699579941592,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+78,1,"9:45",1785,1785,"Ethan Thompson made Layup.",15,24,-9,22,0.326371096355423,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+79,1,"9:23",1763,1763,"Nahziah Carter made Jumper.",15,26,-11,11,0.312301736961075,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+80,1,"9:12",1752,1752,"Tres Tinkle made Layup.",17,26,-9,28,0.323435025346949,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+81,1,"8:44",1724,1724,"David Crisp missed Three Point Jumper.",17,26,-9,5,0.353226059878204,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+82,1,"8:39",1719,1719,"Sam Timmins Offensive Rebound.",17,26,-9,3,0.360902489649441,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+83,1,"8:36",1716,1716,"Dominic Green missed Three Point Jumper.",17,26,-9,4,0.360902489649441,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+84,1,"8:32",1712,1712,"Stephen Thompson Jr. Defensive Rebound.",17,26,-9,4,0.360902489649441,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+85,1,"8:28",1708,1708,"Tres Tinkle missed Three Point Jumper.",17,26,-9,3,0.356609830415301,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+86,1,"8:25",1705,1705,"Washington Defensive Rebound.",17,26,-9,15,0.356609830415301,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+87,1,"8:10",1690,1690,"Jaylen Nowell made Three Point Jumper. Assisted by Nahziah Carter.",17,29,-12,21,0.251615458636447,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+88,1,"7:49",1669,1669,"Official TV Timeout",17,29,-12,0,0.277080973422656,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+89,1,"7:49",1669,1669,"Ethan Thompson Turnover.",17,29,-12,0,0.277080973422656,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+90,1,"7:49",1669,1669,"Official TV Timeout",17,29,-12,25,0.277080973422656,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+91,1,"7:24",1644,1644,"Foul on Noah Dickerson.",17,29,-12,0,0.259487227759017,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+92,1,"7:24",1644,1644,"Noah Dickerson Turnover.",17,29,-12,26,0.259487227759017,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+93,1,"6:58",1618,1618,"Warren Washington made Layup. Assisted by Tres Tinkle.",19,29,-10,24,0.290315591628787,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+94,1,"6:34",1594,1594,"Nahziah Carter missed Jumper.",19,29,-10,1,0.3267047787417,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+95,1,"6:33",1593,1593,"Noah Dickerson Offensive Rebound.",19,29,-10,0,0.3267047787417,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+96,1,"6:33",1593,1593,"Foul on Warren Washington.",19,29,-10,12,0.3267047787417,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+97,1,"6:21",1581,1581,"Foul on Warren Washington.",19,29,-10,2,0.306470461583453,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+98,1,"6:19",1579,1579,"Foul on Zach Reichle.",19,29,-10,0,0.279344137085775,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+99,1,"6:19",1579,1579,"Foul on Hameir Wright.",19,29,-10,0,0.279344137085775,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+100,1,"6:19",1579,1579,"Hameir Wright Turnover.",19,29,-10,22,0.279344137085775,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+101,1,"5:57",1557,1557,"Tres Tinkle missed Jumper.",19,29,-10,8,0.288990565895785,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+102,1,"5:49",1549,1549,"Noah Dickerson Defensive Rebound.",19,29,-10,2,0.312386585516471,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+103,1,"5:47",1547,1547,"Hameir Wright made Three Point Jumper. Assisted by David Crisp.",19,32,-13,21,0.230446972013367,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+104,1,"5:26",1526,1526,"Foul on Jaylen Nowell.",19,32,-13,0,0.218028655727463,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+105,1,"5:26",1526,1526,"Ethan Thompson made Free Throw.",20,32,-12,0,0.243253256899211,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+106,1,"5:26",1526,1526,"Ethan Thompson made Free Throw.",21,32,-11,16,0.270387101744613,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+107,1,"5:10",1510,1510,"Foul on Kylor Kelley.",21,32,-11,2,0.259910256537641,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+108,1,"5:08",1508,1508,"Noah Dickerson missed Free Throw.",21,32,-11,1,0.269661686556976,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+109,1,"5:07",1507,1507,"Ethan Thompson Defensive Rebound.",21,32,-11,15,0.269661686556976,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+110,1,"4:52",1492,1492,"Zach Reichle missed Three Point Jumper.",21,32,-11,4,0.291720568747045,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+111,1,"4:48",1488,1488,"Noah Dickerson Defensive Rebound.",21,32,-11,21,0.246822858500665,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+112,1,"4:27",1467,1467,"Noah Dickerson made Layup. Assisted by Hameir Wright.",21,34,-13,19,0.225548797988688,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+113,1,"4:08",1448,1448,"Ethan Thompson Turnover.",21,34,-13,18,0.21055056722538,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+114,1,"3:50",1430,1430,"Foul on Ethan Thompson.",21,34,-13,0,0.206257357160859,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+115,1,"3:50",1430,1430,"Official TV Timeout",21,34,-13,0,0.206257357160859,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+116,1,"3:50",1430,1430,"Noah Dickerson missed Free Throw.",21,34,-13,0,0.206257357160859,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+117,1,"3:50",1430,1430,"Washington Deadball Team Rebound.",21,34,-13,0,0.206257357160859,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+118,1,"3:50",1430,1430,"Noah Dickerson missed Free Throw.",21,34,-13,1,0.206257357160859,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+119,1,"3:49",1429,1429,"Ethan Thompson Defensive Rebound.",21,34,-13,17,0.203040453468816,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+120,1,"3:32",1412,1412,"Ethan Thompson Turnover.",21,34,-13,24,0.183589244357729,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+121,1,"3:08",1388,1388,"David Crisp made Three Point Jumper.",21,37,-16,2,0.1432122836699,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+122,1,"3:06",1386,1386,"Oregon State  Timeout",21,37,-16,22,0.1432122836699,"Oregon State","Washington",2,4,1,0,3,"401087129",2019-01-26
+123,1,"2:44",1364,1364,"Ethan Thompson missed Three Point Jumper.",21,37,-16,3,0.129976009435627,"Oregon State","Washington",2,4,1,0,3,"401087129",2019-01-26
+124,1,"2:41",1361,1361,"David Crisp Defensive Rebound.",21,37,-16,5,0.129976009435627,"Oregon State","Washington",2,4,1,0,3,"401087129",2019-01-26
+125,1,"2:36",1356,1356,"Jaylen Nowell missed Three Point Jumper.",21,37,-16,2,0.134338917051512,"Oregon State","Washington",2,4,1,0,3,"401087129",2019-01-26
+126,1,"2:34",1354,1354,"Oregon State Defensive Rebound.",21,37,-16,18,0.134338917051512,"Oregon State","Washington",2,4,1,0,3,"401087129",2019-01-26
+127,1,"2:16",1336,1336,"Stephen Thompson Jr. missed Jumper.",21,37,-16,4,0.119185686309671,"Oregon State","Washington",2,4,1,0,3,"401087129",2019-01-26
+128,1,"2:12",1332,1332,"Alfred Hollins Offensive Rebound.",21,37,-16,1,0.119185686309671,"Oregon State","Washington",2,4,1,0,3,"401087129",2019-01-26
+129,1,"2:11",1331,1331,"Alfred Hollins missed Layup.",21,37,-16,0,0.119185686309671,"Oregon State","Washington",2,4,1,0,3,"401087129",2019-01-26
+130,1,"2:11",1331,1331,"Hameir Wright Block.",21,37,-16,5,0.119185686309671,"Oregon State","Washington",2,4,1,0,3,"401087129",2019-01-26
+131,1,"2:06",1326,1326,"Stephen Thompson Jr. Offensive Rebound.",21,37,-16,12,0.121674531186378,"Oregon State","Washington",2,4,1,0,3,"401087129",2019-01-26
+132,1,"1:54",1314,1314,"Tres Tinkle made Layup.",23,37,-14,20,0.168205718315535,"Oregon State","Washington",2,4,0,0,3,"401087129",2019-01-26
+133,1,"1:34",1294,1294,"Nahziah Carter missed Jumper.",23,37,-14,5,0.149533843121587,"Oregon State","Washington",2,4,0,0,3,"401087129",2019-01-26
+134,1,"1:29",1289,1289,"Tres Tinkle Defensive Rebound.",23,37,-14,5,0.176688720614694,"Oregon State","Washington",2,4,0,0,3,"401087129",2019-01-26
+135,1,"1:24",1284,1284,"Ethan Thompson Turnover.",23,37,-14,0,0.176688720614694,"Oregon State","Washington",2,4,0,0,3,"401087129",2019-01-26
+136,1,"1:24",1284,1284,"Nahziah Carter Steal.",23,37,-14,8,0.176688720614694,"Oregon State","Washington",2,4,0,0,3,"401087129",2019-01-26
+137,1,"1:16",1276,1276,"Jaylen Nowell made Three Point Jumper. Assisted by Nahziah Carter.",23,40,-17,3,0.112305959854214,"Oregon State","Washington",2,4,0,0,3,"401087129",2019-01-26
+138,1,"1:13",1273,1273,"Washington  Timeout",23,40,-17,21,0.112305959854214,"Oregon State","Washington",2,3,0,1,3,"401087129",2019-01-26
+139,1,"0:52",1252,1252,"Stephen Thompson Jr. made Three Point Jumper. Assisted by Ethan Thompson.",26,40,-14,23,0.166543771974393,"Oregon State","Washington",2,3,0,1,3,"401087129",2019-01-26
+140,1,"0:29",1229,1229,"Hameir Wright missed Three Point Jumper.",26,40,-14,4,0.140774481164244,"Oregon State","Washington",2,3,0,1,3,"401087129",2019-01-26
+141,1,"0:25",1225,1225,"Tres Tinkle Defensive Rebound.",26,40,-14,0,0.140774481164244,"Oregon State","Washington",2,3,0,1,3,"401087129",2019-01-26
+142,1,"0:25",1225,1225,"Foul on Nahziah Carter.",26,40,-14,0,0.140774481164244,"Oregon State","Washington",2,3,0,1,3,"401087129",2019-01-26
+143,1,"0:25",1225,1225,"Tres Tinkle made Free Throw.",27,40,-13,0,0.162451099463491,"Oregon State","Washington",2,3,0,1,3,"401087129",2019-01-26
+144,1,"0:25",1225,1225,"Tres Tinkle missed Free Throw.",27,40,-13,2,0.162451099463491,"Oregon State","Washington",2,3,0,1,3,"401087129",2019-01-26
+145,1,"0:23",1223,1223,"Hameir Wright Defensive Rebound.",27,40,-13,19,0.162451099463491,"Oregon State","Washington",2,3,0,1,3,"401087129",2019-01-26
+146,1,"0:04",1204,1204,"David Crisp missed Three Point Jumper.",27,40,-13,4,0.176492855889624,"Oregon State","Washington",2,3,0,0,3,"401087129",2019-01-26
+147,1,"0:00",1200,1200,"Tres Tinkle Defensive Rebound.",27,40,-13,0,0.176492855889624,"Oregon State","Washington",2,3,0,0,3,"401087129",2019-01-26
+148,1,"0:00",1200,1200,"End of 1st half",27,40,-13,0,0.176492855889624,"Oregon State","Washington",2,3,0,0,3,"401087129",2019-01-26
+149,2,"20:00",1200,1200,"PLAY",27,40,-13,13,0.176492855889624,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+150,2,"19:47",1187,1187,"Foul on Alfred Hollins.",27,40,-13,0,0.164943037225717,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+151,2,"19:47",1187,1187,"Matisse Thybulle made Free Throw.",27,41,-14,0,0.14338624365132,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+152,2,"19:47",1187,1187,"Matisse Thybulle made Free Throw.",27,42,-15,14,0.124227639989607,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+153,2,"19:33",1173,1173,"Foul on Hameir Wright.",27,42,-15,0,0.123960931696963,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+154,2,"19:33",1173,1173,"Tres Tinkle made Free Throw.",28,42,-14,0,0.142964269616138,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+155,2,"19:33",1173,1173,"Tres Tinkle made Free Throw.",29,42,-13,31,0.164334351725846,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+156,2,"19:02",1142,1142,"Noah Dickerson made Layup. Assisted by Hameir Wright.",29,44,-15,32,0.111313614474116,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+157,2,"18:30",1110,1110,"Stephen Thompson Jr. made Jumper.",31,44,-13,25,0.151162475159025,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+158,2,"18:05",1085,1085,"Hameir Wright missed Three Point Jumper.",31,44,-13,5,0.143901939750976,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+159,2,"18:00",1080,1080,"Alfred Hollins Defensive Rebound.",31,44,-13,9,0.143901939750976,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+160,2,"17:51",1071,1071,"Foul on David Crisp.",31,44,-13,2,0.161056090146563,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+161,2,"17:49",1069,1069,"Foul on Jaylen Nowell.",31,44,-13,2,0.156718771872564,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+162,2,"17:47",1067,1067,"Foul on Noah Dickerson.",31,44,-13,0,0.156718771872564,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+163,2,"17:47",1067,1067,"Alfred Hollins made Free Throw.",32,44,-12,0,0.180875413202256,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+164,2,"17:47",1067,1067,"Alfred Hollins missed Free Throw.",32,44,-12,3,0.180875413202256,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+165,2,"17:44",1064,1064,"Noah Dickerson Defensive Rebound.",32,44,-12,10,0.180875413202256,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+166,2,"17:34",1054,1054,"David Crisp made Jumper. Assisted by Jaylen Nowell.",32,46,-14,23,0.121163178402251,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+167,2,"17:11",1031,1031,"Gligorije Rakocevic made Layup. Assisted by Ethan Thompson.",34,46,-12,18,0.172131345724628,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+168,2,"16:53",1013,1013,"David Crisp made Three Point Jumper. Assisted by Matisse Thybulle.",34,49,-15,23,0.0871463747028028,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+169,2,"16:30",990,990,"Stephen Thompson Jr. Turnover.",34,49,-15,0,0.0966995349579997,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+170,2,"16:30",990,990,"Jaylen Nowell Steal.",34,49,-15,5,0.0966995349579997,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+171,2,"16:25",985,985,"Matisse Thybulle made Dunk. Assisted by Jaylen Nowell.",34,51,-17,22,0.0539254279897688,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+172,2,"16:03",963,963,"Alfred Hollins missed Jumper.",34,51,-17,4,0.0623392656900028,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+173,2,"15:59",959,959,"Noah Dickerson Defensive Rebound.",34,51,-17,17,0.0581005999852284,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+174,2,"15:42",942,942,"Foul on Jaylen Nowell.",34,51,-17,0,0.0634450185910894,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+175,2,"15:42",942,942,"Jaylen Nowell Turnover.",34,51,-17,0,0.0634450185910894,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+176,2,"15:42",942,942,"Official TV Timeout",34,51,-17,16,0.0634450185910894,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+177,2,"15:26",926,926,"Stephen Thompson Jr. made Layup.",36,51,-15,26,0.0743797133088909,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+178,2,"15:00",900,900,"David Crisp missed Jumper.",36,51,-15,4,0.0829017736218427,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+179,2,"14:56",896,896,"Tres Tinkle Defensive Rebound.",36,51,-15,8,0.0830529042013083,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+180,2,"14:48",888,888,"Stephen Thompson Jr. missed Three Point Jumper.",36,51,-15,4,0.102871820801673,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+181,2,"14:44",884,884,"Alfred Hollins Offensive Rebound.",36,51,-15,2,0.102871820801673,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+182,2,"14:42",882,882,"Alfred Hollins made Layup.",38,51,-13,27,0.1396732781897,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+183,2,"14:15",855,855,"Nahziah Carter missed Jumper.",38,51,-13,3,0.10523776144887,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+184,2,"14:12",852,852,"Matisse Thybulle Offensive Rebound.",38,51,-13,3,0.10523776144887,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+185,2,"14:09",849,849,"Matisse Thybulle made Layup.",38,53,-15,33,0.0608698267786001,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+186,2,"13:36",816,816,"Tres Tinkle missed Layup.",38,53,-15,0,0.0746200537972572,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+187,2,"13:36",816,816,"Gligorije Rakocevic Offensive Rebound.",38,53,-15,0,0.0746200537972572,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+188,2,"13:36",816,816,"Foul on Dominic Green.",38,53,-15,1,0.0746200537972572,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+189,2,"13:35",815,815,"Ethan Thompson Turnover.",38,53,-15,12,0.0746200537972572,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+190,2,"13:23",803,803,"Foul on Stephen Thompson Jr..",38,53,-15,13,0.0751565008778343,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+191,2,"13:10",790,790,"Dominic Green made Three Point Jumper. Assisted by David Crisp.",38,56,-18,20,0.0288242157373864,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+192,2,"12:50",770,770,"Stephen Thompson Jr. made Jumper. Assisted by Ethan Thompson.",40,56,-16,17,0.0522975092324653,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+193,2,"12:33",753,753,"Matisse Thybulle missed Three Point Jumper.",40,56,-16,4,0.0467132503264593,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+194,2,"12:29",749,749,"Tres Tinkle Defensive Rebound.",40,56,-16,11,0.0410599691239831,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+195,2,"12:18",738,738,"Tres Tinkle missed Three Point Jumper.",40,56,-16,5,0.0498685122213644,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+196,2,"12:13",733,733,"Sam Timmins Defensive Rebound.",40,56,-16,25,0.0498685122213644,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+197,2,"11:48",708,708,"David Crisp missed Three Point Jumper.",40,56,-16,4,0.0506338206640086,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+198,2,"11:44",704,704,"Alfred Hollins Defensive Rebound.",40,56,-16,14,0.0506338206640086,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+199,2,"11:30",690,690,"Tres Tinkle missed Jumper.",40,56,-16,3,0.0349217539112253,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+200,2,"11:27",687,687,"Alfred Hollins Offensive Rebound.",40,56,-16,0,0.0405771882233543,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+201,2,"11:27",687,687,"Alfred Hollins missed Layup.",40,56,-16,0,0.0405771882233543,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+202,2,"11:27",687,687,"Oregon State Offensive Rebound.",40,56,-16,0,0.0405771882233543,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+203,2,"11:27",687,687,"Official TV Timeout",40,56,-16,2,0.0405771882233543,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+204,2,"11:25",685,685,"Ethan Thompson Turnover.",40,56,-16,0,0.0405771882233543,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+205,2,"11:25",685,685,"Matisse Thybulle Steal.",40,56,-16,6,0.0405771882233543,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+206,2,"11:19",679,679,"David Crisp made Layup. Assisted by Nahziah Carter.",40,58,-18,13,0.0225316096178576,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+207,2,"11:06",666,666,"Stephen Thompson Jr. missed Three Point Jumper.",40,58,-18,3,0.0271978572299909,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+208,2,"11:03",663,663,"Nahziah Carter Defensive Rebound.",40,58,-18,10,0.0271978572299909,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+209,2,"10:53",653,653,"Matisse Thybulle made Layup.",40,60,-20,0,0.0136735750697224,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+210,2,"10:53",653,653,"Foul on Stephen Thompson Jr..",40,60,-20,0,0.0136735750697224,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+211,2,"10:53",653,653,"Matisse Thybulle made Free Throw.",40,61,-21,18,0.0108097795527492,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+212,2,"10:35",635,635,"Foul on Dominic Green.",40,61,-21,0,0.0101195583719024,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+213,2,"10:35",635,635,"Tres Tinkle made Free Throw.",41,61,-20,0,0.0127832046932771,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+214,2,"10:35",635,635,"Tres Tinkle made Free Throw.",42,61,-19,19,0.0161365404362229,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+215,2,"10:16",616,616,"Foul on Zach Reichle.",42,61,-19,0,0.012196068436107,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+216,2,"10:16",616,616,"Nahziah Carter made Free Throw.",42,62,-20,1,0.00951552376906383,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+217,2,"10:15",615,615,"Nahziah Carter missed Free Throw.",42,62,-20,3,0.00951552376906383,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+218,2,"10:12",612,612,"Matisse Thybulle Offensive Rebound.",42,62,-20,20,0.00951552376906383,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+219,2,"9:52",592,592,"Dominic Green missed Three Point Jumper.",42,62,-20,5,0.0124630913243332,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+220,2,"9:47",587,587,"Kylor Kelley Defensive Rebound.",42,62,-20,8,0.0114825713744552,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+221,2,"9:39",579,579,"Stephen Thompson Jr. missed Jumper.",42,62,-20,0,0.010543207717153,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+222,2,"9:39",579,579,"Sam Timmins Block.",42,62,-20,2,0.010543207717153,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+223,2,"9:37",577,577,"Kylor Kelley Offensive Rebound.",42,62,-20,0,0.010543207717153,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+224,2,"9:37",577,577,"Foul on Sam Timmins.",42,62,-20,0,0.010543207717153,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+225,2,"9:37",577,577,"Kylor Kelley missed Free Throw.",42,62,-20,0,0.010543207717153,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+226,2,"9:37",577,577,"Oregon State Deadball Team Rebound.",42,62,-20,1,0.010543207717153,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+227,2,"9:36",576,576,"Kylor Kelley made Free Throw.",43,62,-19,10,0.013540445548336,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+228,2,"9:26",566,566,"Jaylen Nowell Turnover.",43,62,-19,10,0.0119887141343346,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+229,2,"9:16",556,556,"Foul on Sam Timmins.",43,62,-19,0,0.0102882663042997,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+230,2,"9:16",556,556,"Tres Tinkle made Free Throw.",44,62,-18,0,0.0133066283593188,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+231,2,"9:16",556,556,"Tres Tinkle made Free Throw.",45,62,-17,26,0.0171951296935094,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+232,2,"8:50",530,530,"Foul on Zach Reichle.",45,62,-17,0,0.0138398429434616,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+233,2,"8:50",530,530,"Jaylen Nowell missed Free Throw.",45,62,-17,0,0.0138398429434616,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+234,2,"8:50",530,530,"Washington Deadball Team Rebound.",45,62,-17,0,0.0138398429434616,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+235,2,"8:50",530,530,"Jaylen Nowell made Free Throw.",45,63,-18,20,0.0104812620810867,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+236,2,"8:30",510,510,"Antoine Vernon made Layup.",47,63,-16,21,0.0187069560354662,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+237,2,"8:09",489,489,"Dominic Green missed Three Point Jumper.",47,63,-16,5,0.0184502696375172,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+238,2,"8:04",484,484,"Sam Timmins Offensive Rebound.",47,63,-16,1,0.0184502696375172,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+239,2,"8:03",483,483,"Nahziah Carter made Dunk. Assisted by Sam Timmins.",47,65,-18,0,0.010762782491632,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+240,2,"8:03",483,483,"Foul on Stephen Thompson Jr..",47,65,-18,0,0.010762782491632,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+241,2,"8:03",483,483,"Nahziah Carter missed Free Throw.",47,65,-18,3,0.010762782491632,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+242,2,"8:00",480,480,"Stephen Thompson Jr. Defensive Rebound.",47,65,-18,22,0.010762782491632,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+243,2,"7:38",458,458,"Alfred Hollins missed Three Point Jumper.",47,65,-18,4,0.00464225652403344,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+244,2,"7:34",454,454,"Nahziah Carter Defensive Rebound.",47,65,-18,22,0.00464225652403344,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+245,2,"7:12",432,432,"David Crisp missed Layup.",47,65,-18,3,0.00607960520861753,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+246,2,"7:09",429,429,"Sam Timmins Offensive Rebound.",47,65,-18,2,0.00646661558514103,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+247,2,"7:07",427,427,"Sam Timmins made Layup.",47,67,-20,13,0.0035787080881634,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+248,2,"6:54",414,414,"Foul on Sam Timmins.",47,67,-20,0,0.00347767072936926,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+249,2,"6:54",414,414,"Official TV Timeout",47,67,-20,0,0.00347767072936926,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+250,2,"6:54",414,414,"Kylor Kelley missed Free Throw.",47,67,-20,0,0.00347767072936926,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+251,2,"6:54",414,414,"Oregon State Deadball Team Rebound.",47,67,-20,0,0.00347767072936926,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+252,2,"6:54",414,414,"Kylor Kelley missed Free Throw.",47,67,-20,2,0.00347767072936926,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+253,2,"6:52",412,412,"Sam Timmins Defensive Rebound.",47,67,-20,27,0.00347767072936926,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+254,2,"6:25",385,385,"David Crisp Turnover.",47,67,-20,0,0.00387632899677007,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+255,2,"6:25",385,385,"Tres Tinkle Steal.",47,67,-20,7,0.00387632899677007,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+256,2,"6:18",378,378,"Tres Tinkle made Layup. Assisted by Antoine Vernon.",49,67,-18,24,0.00520283460407388,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+257,2,"5:54",354,354,"Nahziah Carter made Jumper. Assisted by David Crisp.",49,69,-20,19,0.00138057653407699,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+258,2,"5:35",335,335,"Foul on David Crisp.",49,69,-20,0,0.00124247108509638,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+259,2,"5:35",335,335,"Tres Tinkle made Free Throw.",50,69,-19,0,0.00177016265360884,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+260,2,"5:35",335,335,"Tres Tinkle made Free Throw.",51,69,-18,0,0.00252140502744028,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+261,2,"5:35",335,335,"Matisse Thybulle Turnover.",51,69,-18,16,0.00252140502744028,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+262,2,"5:19",319,319,"Stephen Thompson Jr. made Jumper. Assisted by Antoine Vernon.",53,69,-16,27,0.00400360699256133,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+263,2,"4:52",292,292,"Nahziah Carter made Layup.",53,71,-18,24,0.00294859386308165,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+264,2,"4:28",268,268,"Tres Tinkle missed Layup.",53,71,-18,3,0.00170460764796916,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+265,2,"4:25",265,265,"Antoine Vernon Offensive Rebound.",53,71,-18,2,0.00170460764796916,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+266,2,"4:23",263,263,"Ethan Thompson made Three Point Jumper. Assisted by Antoine Vernon.",56,71,-15,2,0.00520479754041821,"Oregon State","Washington",3,4,0,0,3,"401087129",2019-01-26
+267,2,"4:21",261,261,"Oregon State  Timeout",56,71,-15,21,0.00520479754041821,"Oregon State","Washington",2,4,1,0,3,"401087129",2019-01-26
+268,2,"4:00",240,240,"Foul on Warren Washington.",56,71,-15,0,0.00309990293029561,"Oregon State","Washington",2,4,1,0,3,"401087129",2019-01-26
+269,2,"4:00",240,240,"Official TV Timeout",56,71,-15,0,0.00309990293029561,"Oregon State","Washington",2,4,1,0,3,"401087129",2019-01-26
+270,2,"4:00",240,240,"Jaylen Nowell missed Free Throw.",56,71,-15,0,0.00309990293029561,"Oregon State","Washington",2,4,1,0,3,"401087129",2019-01-26
+271,2,"4:00",240,240,"Washington Deadball Team Rebound.",56,71,-15,0,0.00309990293029561,"Oregon State","Washington",2,4,1,0,3,"401087129",2019-01-26
+272,2,"4:00",240,240,"Jaylen Nowell made Free Throw.",56,72,-16,28,0.00207078576452829,"Oregon State","Washington",2,4,1,0,3,"401087129",2019-01-26
+273,2,"3:32",212,212,"Gligorije Rakocevic missed Layup.",56,72,-16,0,0.00116057824474621,"Oregon State","Washington",2,4,1,0,3,"401087129",2019-01-26
+274,2,"3:32",212,212,"Sam Timmins Block.",56,72,-16,4,0.00116057824474621,"Oregon State","Washington",2,4,1,0,3,"401087129",2019-01-26
+275,2,"3:28",208,208,"Sam Timmins Defensive Rebound.",56,72,-16,1,0.00107638471606509,"Oregon State","Washington",2,4,1,0,3,"401087129",2019-01-26
+276,2,"3:27",207,207,"Sam Timmins Turnover.",56,72,-16,0,0.00107638471606509,"Oregon State","Washington",2,4,1,0,3,"401087129",2019-01-26
+277,2,"3:27",207,207,"Antoine Vernon Steal.",56,72,-16,2,0.00107638471606509,"Oregon State","Washington",2,4,1,0,3,"401087129",2019-01-26
+278,2,"3:25",205,205,"Tres Tinkle Turnover.",56,72,-16,0,0.00107638471606509,"Oregon State","Washington",2,4,1,0,3,"401087129",2019-01-26
+279,2,"3:25",205,205,"Nahziah Carter Steal.",56,72,-16,25,0.00107638471606509,"Oregon State","Washington",2,4,1,0,3,"401087129",2019-01-26
+280,2,"3:00",180,180,"Foul on Sam Timmins.",56,72,-16,0,0.000522406499002682,"Oregon State","Washington",2,4,0,0,3,"401087129",2019-01-26
+281,2,"3:00",180,180,"Sam Timmins Turnover.",56,72,-16,11,0.000522406499002682,"Oregon State","Washington",2,4,0,0,3,"401087129",2019-01-26
+282,2,"2:49",169,169,"Antoine Vernon missed Three Point Jumper.",56,72,-16,4,0.000408188554313683,"Oregon State","Washington",2,4,0,0,3,"401087129",2019-01-26
+283,2,"2:45",165,165,"Nahziah Carter Defensive Rebound.",56,72,-16,24,0.000408188554313683,"Oregon State","Washington",2,4,0,0,3,"401087129",2019-01-26
+284,2,"2:21",141,141,"Foul on Jaylen Nowell.",56,72,-16,0,0.000311075758231546,"Oregon State","Washington",2,4,0,0,3,"401087129",2019-01-26
+285,2,"2:21",141,141,"Jaylen Nowell Turnover.",56,72,-16,11,0.000311075758231546,"Oregon State","Washington",2,4,0,0,3,"401087129",2019-01-26
+286,2,"2:10",130,130,"Stephen Thompson Jr. made Three Point Jumper. Assisted by Ethan Thompson.",59,72,-13,26,0.00121481404497568,"Oregon State","Washington",2,4,0,0,3,"401087129",2019-01-26
+287,2,"1:44",104,104,"David Crisp missed Three Point Jumper.",59,72,-13,3,0.000361470244910853,"Oregon State","Washington",2,4,0,0,3,"401087129",2019-01-26
+288,2,"1:41",101,101,"Kylor Kelley Defensive Rebound.",59,72,-13,7,0.000361470244910853,"Oregon State","Washington",2,4,0,0,3,"401087129",2019-01-26
+289,2,"1:34",94,94,"Tres Tinkle missed Jumper.",59,72,-13,4,0.000344939387721692,"Oregon State","Washington",2,4,0,0,3,"401087129",2019-01-26
+290,2,"1:30",90,90,"Jaylen Nowell Defensive Rebound.",59,72,-13,5,0.000344939387721692,"Oregon State","Washington",2,4,0,0,3,"401087129",2019-01-26
+291,2,"1:25",85,85,"Foul on Antoine Vernon.",59,72,-13,0,0.000131302723136726,"Oregon State","Washington",2,4,0,0,3,"401087129",2019-01-26
+292,2,"1:25",85,85,"Jaylen Nowell made Free Throw.",59,73,-14,0,6.41424817448047e-05,"Oregon State","Washington",2,4,0,0,3,"401087129",2019-01-26
+293,2,"1:25",85,85,"Jaylen Nowell made Free Throw.",59,74,-15,13,3.13330639290434e-05,"Oregon State","Washington",2,4,0,0,3,"401087129",2019-01-26
+294,2,"1:12",72,72,"Tres Tinkle made Jumper.",61,74,-13,0,8.05228174811861e-05,"Oregon State","Washington",2,4,1,0,3,"401087129",2019-01-26
+295,2,"1:12",72,72,"Oregon State  Timeout",61,74,-13,2,8.05228174811861e-05,"Oregon State","Washington",1,4,1,0,3,"401087129",2019-01-26
+296,2,"1:10",70,70,"Foul on Ethan Thompson.",61,74,-13,0,8.05228174811861e-05,"Oregon State","Washington",1,4,1,0,3,"401087129",2019-01-26
+297,2,"1:10",70,70,"Matisse Thybulle missed Free Throw.",61,74,-13,1,8.05228174811861e-05,"Oregon State","Washington",1,4,1,0,3,"401087129",2019-01-26
+298,2,"1:09",69,69,"Kylor Kelley Defensive Rebound.",61,74,-13,11,6.60716191672218e-05,"Oregon State","Washington",1,4,1,0,3,"401087129",2019-01-26
+299,2,"0:58",58,58,"Stephen Thompson Jr. made Three Point Jumper. Assisted by Ethan Thompson.",64,74,-10,3,0.000311006264192709,"Oregon State","Washington",1,4,1,0,3,"401087129",2019-01-26
+300,2,"0:55",55,55,"Foul on Kylor Kelley.",64,74,-10,0,0.000632740841704956,"Oregon State","Washington",1,4,1,0,3,"401087129",2019-01-26
+301,2,"0:55",55,55,"Jaylen Nowell made Free Throw.",64,75,-11,0,0.000296184247193863,"Oregon State","Washington",1,4,1,0,3,"401087129",2019-01-26
+302,2,"0:55",55,55,"Jaylen Nowell made Free Throw.",64,76,-12,11,0.000138618200742952,"Oregon State","Washington",1,4,1,0,3,"401087129",2019-01-26
+303,2,"0:44",44,44,"Stephen Thompson Jr. made Three Point Jumper. Assisted by Antoine Vernon.",67,76,-9,13,0.000759176542215603,"Oregon State","Washington",1,4,1,0,3,"401087129",2019-01-26
+304,2,"0:31",31,31,"Foul on Stephen Thompson Jr..",67,76,-9,0,0.00016691694621745,"Oregon State","Washington",1,4,1,0,3,"401087129",2019-01-26
+305,2,"0:31",31,31,"Jaylen Nowell made Free Throw.",67,77,-10,0,6.38268764391416e-05,"Oregon State","Washington",1,4,1,0,3,"401087129",2019-01-26
+306,2,"0:31",31,31,"Jaylen Nowell made Free Throw.",67,78,-11,12,2.44050160223878e-05,"Oregon State","Washington",1,4,1,0,3,"401087129",2019-01-26
+307,2,"0:19",19,19,"Foul on Noah Dickerson.",67,78,-11,0,1.17589781656148e-06,"Oregon State","Washington",1,4,1,0,3,"401087129",2019-01-26
+308,2,"0:19",19,19,"Ethan Thompson missed Free Throw.",67,78,-11,0,1.17589781656148e-06,"Oregon State","Washington",1,4,1,0,3,"401087129",2019-01-26
+309,2,"0:19",19,19,"Oregon State Deadball Team Rebound.",67,78,-11,0,1.17589781656148e-06,"Oregon State","Washington",1,4,1,0,3,"401087129",2019-01-26
+310,2,"0:19",19,19,"Ethan Thompson made Free Throw.",68,78,-10,5,4.15675318932903e-06,"Oregon State","Washington",1,4,1,0,3,"401087129",2019-01-26
+311,2,"0:14",14,14,"Matisse Thybulle Turnover.",68,78,-10,0,1.2620390346444e-07,"Oregon State","Washington",1,4,1,0,3,"401087129",2019-01-26
+312,2,"0:14",14,14,"Tres Tinkle Steal.",68,78,-10,5,1.2620390346444e-07,"Oregon State","Washington",1,4,1,0,3,"401087129",2019-01-26
+313,2,"0:09",9,9,"Antoine Vernon missed Jumper.",68,78,-10,0,1.7131575254286e-07,"Oregon State","Washington",1,4,0,0,3,"401087129",2019-01-26
+314,2,"0:09",9,9,"Tres Tinkle Offensive Rebound.",68,78,-10,1,1.7131575254286e-07,"Oregon State","Washington",1,4,0,0,3,"401087129",2019-01-26
+315,2,"0:08",8,8,"Tres Tinkle missed Free Throw.",69,78,-9,0,8.63275544950293e-07,"Oregon State","Washington",1,4,0,0,3,"401087129",2019-01-26
+316,2,"0:08",8,8,"Foul on Matisse Thybulle.",68,78,-10,0,1.7131575254286e-07,"Oregon State","Washington",1,4,0,0,3,"401087129",2019-01-26
+317,2,"0:08",8,8,"Tres Tinkle made Free Throw.",69,78,-9,0,8.63275544950293e-07,"Oregon State","Washington",1,4,0,0,3,"401087129",2019-01-26
+318,2,"0:08",8,8,"Noah Dickerson Defensive Rebound.",69,78,-9,1,8.63275544950293e-07,"Oregon State","Washington",1,4,0,0,3,"401087129",2019-01-26
+319,2,"0:07",7,7,"Foul on Ethan Thompson.",69,78,-9,0,8.63275544950293e-07,"Oregon State","Washington",1,4,0,0,3,"401087129",2019-01-26
+320,2,"0:07",7,7,"Noah Dickerson made Free Throw.",69,79,-10,0,1.7131575254286e-07,"Oregon State","Washington",1,4,0,0,3,"401087129",2019-01-26
+321,2,"0:07",7,7,"Noah Dickerson missed Free Throw.",69,79,-10,2,1.7131575254286e-07,"Oregon State","Washington",1,4,0,0,3,"401087129",2019-01-26
+322,2,"0:05",5,5,"Tres Tinkle Defensive Rebound.",69,79,-10,5,1.7131575254286e-07,"Oregon State","Washington",1,4,0,0,3,"401087129",2019-01-26
+323,2,"0:00",0,0,"Stephen Thompson Jr. missed Three Point Jumper.",69,79,-10,0,9.35224827230488e-85,"Oregon State","Washington",1,4,0,0,3,"401087129",2019-01-26
+324,2,"0:00",0,0,"Washington Defensive Rebound.",69,79,-10,0,9.35224827230488e-85,"Oregon State","Washington",1,4,0,0,3,"401087129",2019-01-26
+325,2,"0:00",0,0,"End of 2nd half",69,79,-10,0,9.35224827230488e-85,"Oregon State","Washington",1,4,0,0,3,"401087129",2019-01-26
+326,2,"0:00",0,0,"End of Game",69,79,-10,0,9.35224827230488e-85,"Oregon State","Washington",1,4,0,0,3,"401087129",2019-01-26

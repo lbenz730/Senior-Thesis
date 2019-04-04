@@ -1,0 +1,315 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.436327536274966,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+2,1,"19:27",2367,2367,"Alex Petrie missed Jumper.",0,0,0,0.441792168025143,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+3,1,"19:27",2367,2367,"Dana Batt Block.",0,0,0,0.441792168025143,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+4,1,"19:26",2366,2366,"Colgate Defensive Rebound.",0,0,0,0.441792168025143,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+5,1,"19:20",2360,2360,"Will Rayman missed Three Point Jumper.",0,0,0,0.441792168025143,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+6,1,"19:20",2360,2360,"Dana Batt Offensive Rebound.",0,0,0,0.441792168025143,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+7,1,"18:56",2336,2336,"Dana Batt missed Layup.",0,0,0,0.447907448748692,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+8,1,"18:56",2336,2336,"Matt Klinewski Defensive Rebound.",0,0,0,0.447907448748692,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+9,1,"18:42",2322,2322,"Foul on Dana Batt.",0,0,0,0.463710288396523,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+10,1,"18:42",2322,2322,"Matt Klinewski missed Free Throw.",0,0,0,0.463710288396523,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+11,1,"18:42",2322,2322,"Lafayette Deadball Team Rebound.",0,0,0,0.463710288396523,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+12,1,"18:42",2322,2322,"Matt Klinewski made Free Throw.",1,0,1,0.490639928882385,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+13,1,"18:29",2309,2309,"Will Rayman missed Three Point Jumper.",1,0,1,0.466977028863052,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+14,1,"18:29",2309,2309,"Lafayette Defensive Rebound.",1,0,1,0.466977028863052,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+15,1,"18:07",2287,2287,"Kyle Stout missed Three Point Jumper.",1,0,1,0.467315344115746,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+16,1,"18:07",2287,2287,"Jordan Burns Defensive Rebound.",1,0,1,0.467315344115746,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+17,1,"17:55",2275,2275,"Jordan Swopshire made Three Point Jumper. Assisted by Sean O'Brien.",1,3,-2,0.402434997421267,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+18,1,"17:36",2256,2256,"Paulius Zalys missed Layup.",1,3,-2,0.408618817546248,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+19,1,"17:36",2256,2256,"Will Rayman Defensive Rebound.",1,3,-2,0.408618817546248,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+20,1,"17:25",2245,2245,"Jordan Burns missed Layup.",1,3,-2,0.419862005957294,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+21,1,"17:25",2245,2245,"Matt Klinewski Defensive Rebound.",1,3,-2,0.419862005957294,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+22,1,"17:18",2238,2238,"Kyle Stout missed Three Point Jumper.",1,3,-2,0.395683357815145,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+23,1,"17:18",2238,2238,"Sean O'Brien Defensive Rebound.",1,3,-2,0.395683357815145,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+24,1,"17:08",2228,2228,"Jordan Burns missed Three Point Jumper.",1,3,-2,0.401184460839077,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+25,1,"17:08",2228,2228,"Alex Petrie Defensive Rebound.",1,3,-2,0.401184460839077,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+26,1,"16:58",2218,2218,"Paulius Zalys made Layup.",3,3,0,0.463155084881411,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+27,1,"16:45",2205,2205,"Jordan Swopshire missed Three Point Jumper.",3,3,0,0.453481204302239,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+28,1,"16:45",2205,2205,"Will Rayman Offensive Rebound.",3,3,0,0.453481204302239,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+29,1,"16:35",2195,2195,"Sean O'Brien Turnover.",3,3,0,0.46119177285412,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+30,1,"16:04",2164,2164,"Eric Stafford made Three Point Jumper.",6,3,3,0.532639306743281,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+31,1,"15:42",2142,2142,"Foul on Paulius Zalys.",6,3,3,0.532599607383351,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+32,1,"15:42",2142,2142,"Official TV Timeout",6,3,3,0.532599607383351,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+33,1,"15:30",2130,2130,"Jordan Swopshire made Three Point Jumper. Assisted by Jordan Burns.",6,6,0,0.445667016852909,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+34,1,"15:03",2103,2103,"Alex Petrie made Three Point Jumper. Assisted by Kyle Stout.",9,6,3,0.52955546071193,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+35,1,"14:47",2087,2087,"Dana Batt missed Jumper.",9,6,3,0.54150098992096,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+36,1,"14:47",2087,2087,"Alex Petrie Defensive Rebound.",9,6,3,0.54150098992096,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+37,1,"14:29",2069,2069,"Eric Stafford missed Three Point Jumper.",9,6,3,0.529011298988754,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+38,1,"14:29",2069,2069,"Will Rayman Defensive Rebound.",9,6,3,0.529011298988754,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+39,1,"14:18",2058,2058,"Jordan Burns missed Jumper.",9,6,3,0.519285293512061,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+40,1,"14:18",2058,2058,"Eric Stafford Block.",9,6,3,0.519285293512061,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+41,1,"14:16",2056,2056,"Eric Stafford Defensive Rebound.",9,6,3,0.519285293512061,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+42,1,"14:11",2051,2051,"Kyle Stout made Layup.",11,6,5,0.577249897521251,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+43,1,"13:51",2031,2031,"Sean O'Brien Turnover.",11,6,5,0.590151548251357,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+44,1,"13:49",2029,2029,"Alex Petrie Steal.",11,6,5,0.602661448997998,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+45,1,"13:46",2026,2026,"Foul on Will Rayman.",11,6,5,0.602661448997998,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+46,1,"13:46",2026,2026,"Alex Petrie made Free Throw.",12,6,6,0.633773999680922,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+47,1,"13:46",2026,2026,"Alex Petrie made Free Throw.",13,6,7,0.663809374081365,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+48,1,"13:32",2012,2012,"Foul on Justin Jaworski.",13,6,7,0.652061398822669,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+49,1,"13:14",1994,1994,"Jordan Robertson made Layup.",13,8,5,0.607191677770785,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+50,1,"12:46",1966,1966,"Myles Cherry made Jumper.",15,8,7,0.628666198293719,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+51,1,"12:17",1937,1937,"Will Rayman missed Three Point Jumper.",15,8,7,0.660634292575064,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+52,1,"12:17",1937,1937,"Malcolm Regisford Offensive Rebound.",15,8,7,0.660634292575064,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+53,1,"12:08",1928,1928,"Francisco Amiel Turnover.",15,8,7,0.647230245012511,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+54,1,"11:53",1913,1913,"Alex Petrie missed Layup.",15,8,7,0.685455745083572,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+55,1,"11:53",1913,1913,"Sean O'Brien Defensive Rebound.",15,8,7,0.685455745083572,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+56,1,"11:47",1907,1907,"Foul on E.J. Stephens.",15,8,7,0.644390434011201,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+57,1,"11:47",1907,1907,"Official TV Timeout",15,8,7,0.644390434011201,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+58,1,"11:47",1907,1907,"Jordan Robertson made Free Throw.",15,9,6,0.6171524536252,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+59,1,"11:47",1907,1907,"Jordan Robertson missed Free Throw.",15,9,6,0.6171524536252,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+60,1,"11:47",1907,1907,"Paulius Zalys Defensive Rebound.",15,9,6,0.6171524536252,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+61,1,"11:33",1893,1893,"Justin Jaworski missed Three Point Jumper.",15,9,6,0.657191103754799,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+62,1,"11:33",1893,1893,"Malcolm Regisford Defensive Rebound.",15,9,6,0.657191103754799,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+63,1,"11:21",1881,1881,"Sean O'Brien missed Layup.",15,9,6,0.621131060766147,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+64,1,"11:21",1881,1881,"Malcolm Regisford Offensive Rebound.",15,9,6,0.621131060766147,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+65,1,"11:18",1878,1878,"Malcolm Regisford missed Two Point Tip Shot.",15,9,6,0.630582157188792,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+66,1,"11:18",1878,1878,"Malcolm Regisford Offensive Rebound.",15,9,6,0.630582157188792,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+67,1,"11:14",1874,1874,"Malcolm Regisford missed Layup.",15,9,6,0.630582157188792,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+68,1,"11:14",1874,1874,"Alex Petrie Defensive Rebound.",15,9,6,0.630582157188792,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+69,1,"10:58",1858,1858,"E.J. Stephens made Three Point Jumper. Assisted by Paulius Zalys.",18,9,9,0.728872865893342,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+70,1,"10:38",1838,1838,"Malcolm Regisford made Layup. Assisted by Francisco Amiel.",18,11,7,0.673279536121633,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+71,1,"10:23",1823,1823,"Matt Klinewski missed Layup.",18,11,7,0.671966330702011,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+72,1,"10:23",1823,1823,"Sean O'Brien Defensive Rebound.",18,11,7,0.671966330702011,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+73,1,"10:16",1816,1816,"Will Rayman made Layup. Assisted by Sean O'Brien.",18,13,5,0.627980810761536,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+74,1,"10:05",1805,1805,"Paulius Zalys made Layup. Assisted by Alex Petrie.",20,13,7,0.6631396860742,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+75,1,"9:37",1777,1777,"Will Rayman made Layup.",20,15,5,0.587468246359089,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+76,1,"9:22",1762,1762,"Paulius Zalys made Layup. Assisted by Justin Jaworski.",22,15,7,0.669370854437873,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+77,1,"8:58",1738,1738,"Malcolm Regisford made Layup. Assisted by Will Rayman.",22,17,5,0.619579716612675,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+78,1,"8:48",1728,1728,"Matt Klinewski missed Three Point Jumper.",22,17,5,0.640164835853043,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+79,1,"8:48",1728,1728,"Sean O'Brien Defensive Rebound.",22,17,5,0.640164835853043,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+80,1,"8:34",1714,1714,"Jordan Robertson made Jumper.",22,19,3,0.549792838273197,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+81,1,"8:21",1701,1701,"Foul on Sean O'Brien.",22,19,3,0.536154244932441,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+82,1,"8:11",1691,1691,"Paulius Zalys missed Jumper.",22,19,3,0.572777377709228,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+83,1,"8:11",1691,1691,"Malcolm Regisford Defensive Rebound.",22,19,3,0.572777377709228,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+84,1,"7:58",1678,1678,"Malcolm Regisford made Layup. Assisted by Francisco Amiel.",22,21,1,0.489153028907827,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+85,1,"7:37",1657,1657,"Alex Petrie made Three Point Jumper.",25,21,4,0.59438602153191,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+86,1,"7:17",1637,1637,"Sean O'Brien missed Layup.",25,21,4,0.597964709595988,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+87,1,"7:17",1637,1637,"Paulius Zalys Block.",25,21,4,0.597964709595988,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+88,1,"7:15",1635,1635,"Eric Stafford Defensive Rebound.",25,21,4,0.597964709595988,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+89,1,"7:11",1631,1631,"Justin Jaworski missed Three Point Jumper.",25,21,4,0.597964709595988,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+90,1,"7:11",1631,1631,"Paulius Zalys Offensive Rebound.",25,21,4,0.597964709595988,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+91,1,"7:05",1625,1625,"Foul on Malcolm Regisford.",25,21,4,0.58662866265372,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+92,1,"7:05",1625,1625,"Official TV Timeout",25,21,4,0.58662866265372,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+93,1,"7:05",1625,1625,"Paulius Zalys missed Free Throw.",25,21,4,0.58662866265372,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+94,1,"7:05",1625,1625,"Lafayette Deadball Team Rebound.",25,21,4,0.58662866265372,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+95,1,"7:05",1625,1625,"Paulius Zalys made Free Throw.",26,21,5,0.62046736551672,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+96,1,"6:42",1602,1602,"Jordan Robertson missed Jumper.",26,21,5,0.604191815130481,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+97,1,"6:38",1598,1598,"Lukas Jarrett Block.",26,21,5,0.63965159260527,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+98,1,"6:37",1597,1597,"Lukas Jarrett Defensive Rebound.",26,21,5,0.63965159260527,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+99,1,"6:15",1575,1575,"Justin Jaworski made Three Point Jumper. Assisted by Kyle Stout.",29,21,8,0.745600705748111,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+100,1,"5:58",1558,1558,"Foul on Kyle Stout.",29,21,8,0.719151735252356,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+101,1,"5:58",1558,1558,"Jordan Swopshire made Free Throw.",29,22,7,0.689264645847469,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+102,1,"5:58",1558,1558,"Jordan Swopshire made Free Throw.",29,23,6,0.657710854291776,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+103,1,"5:58",1558,1558,"Jordan Swopshire made Free Throw.",29,24,5,0.624697563708024,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+104,1,"5:40",1540,1540,"Matt Klinewski missed Jumper.",29,24,5,0.626362031362427,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+105,1,"5:40",1540,1540,"Jordan Burns Defensive Rebound.",29,24,5,0.626362031362427,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+106,1,"5:25",1525,1525,"Dana Batt made Jumper.",29,26,3,0.563687858003401,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+107,1,"5:01",1501,1501,"Paulius Zalys missed Three Point Jumper.",29,26,3,0.560423003752138,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+108,1,"5:01",1501,1501,"Francisco Amiel Defensive Rebound.",29,26,3,0.560423003752138,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+109,1,"4:50",1490,1490,"Jordan Swopshire missed Three Point Jumper.",29,26,3,0.581851973553414,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+110,1,"4:50",1490,1490,"Alex Petrie Defensive Rebound.",29,26,3,0.581851973553414,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+111,1,"4:36",1476,1476,"Foul on Dana Batt.",29,26,3,0.559068159727263,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+112,1,"4:19",1459,1459,"E.J. Stephens made Three Point Jumper. Assisted by Justin Jaworski.",32,26,6,0.657462903532539,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+113,1,"3:59",1439,1439,"Jordan Burns made Layup.",32,28,4,0.620563932858896,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+114,1,"3:41",1421,1421,"Alex Petrie missed Three Point Jumper.",32,28,4,0.595239870398188,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+115,1,"3:41",1421,1421,"Will Rayman Defensive Rebound.",32,28,4,0.595239870398188,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+116,1,"3:30",1410,1410,"Jordan Swopshire missed Jumper.",32,28,4,0.610733283961373,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+117,1,"3:30",1410,1410,"Paulius Zalys Defensive Rebound.",32,28,4,0.610733283961373,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+118,1,"3:22",1402,1402,"Alex Petrie made Three Point Jumper. Assisted by Paulius Zalys.",35,28,7,0.724891261643135,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+119,1,"3:09",1389,1389,"Will Rayman made Layup.",35,30,5,0.650876421044303,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+120,1,"2:55",1375,1375,"Alex Petrie Turnover.",35,30,5,0.619650514291366,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+121,1,"2:54",1374,1374,"Francisco Amiel Steal.",35,30,5,0.619650514291366,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+122,1,"2:52",1372,1372,"Jordan Burns made Layup.",35,32,3,0.549674237985461,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+123,1,"2:52",1372,1372,"Foul on Justin Jaworski.",35,32,3,0.549674237985461,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+124,1,"2:52",1372,1372,"Official TV Timeout",35,32,3,0.549674237985461,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+125,1,"2:52",1372,1372,"Jordan Burns made Free Throw.",35,33,2,0.513746361532212,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+126,1,"2:39",1359,1359,"Paulius Zalys Turnover.",35,33,2,0.550840442669535,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+127,1,"2:38",1358,1358,"Will Rayman Steal.",35,33,2,0.550840442669535,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+128,1,"2:36",1356,1356,"Will Rayman missed Layup.",35,33,2,0.550840442669535,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+129,1,"2:36",1356,1356,"Alex Petrie Defensive Rebound.",35,33,2,0.550840442669535,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+130,1,"2:17",1337,1337,"Foul on Will Rayman.",35,33,2,0.524323050678685,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+131,1,"2:17",1337,1337,"Paulius Zalys made Free Throw.",36,33,3,0.562900485686325,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+132,1,"2:17",1337,1337,"Paulius Zalys made Free Throw.",37,33,4,0.600731719565152,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+133,1,"2:00",1320,1320,"Foul on Myles Cherry.",37,33,4,0.613212174121624,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+134,1,"2:00",1320,1320,"Jordan Swopshire made Free Throw.",37,34,3,0.575231793722255,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+135,1,"2:00",1320,1320,"Jordan Swopshire made Free Throw.",37,35,2,0.536341849543102,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+136,1,"1:46",1306,1306,"Foul on Jordan Burns.",37,35,2,0.544186846476057,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+137,1,"1:46",1306,1306,"Alex Petrie made Free Throw.",38,35,3,0.580378157112642,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+138,1,"1:46",1306,1306,"Alex Petrie made Free Throw.",39,35,4,0.61572505551498,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+139,1,"1:46",1306,1306,"Alex Petrie made Free Throw.",40,35,5,0.64989063120733,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+140,1,"1:31",1291,1291,"Francisco Amiel Turnover.",40,35,5,0.690347957841404,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+141,1,"1:06",1266,1266,"Eric Stafford made Layup. Assisted by Paulius Zalys.",42,35,7,0.732209440697862,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+142,1,"0:53",1253,1253,"Colgate  Timeout",42,35,7,0.714425812073054,"Lafayette","Colgate",3,4,1,0,-1.3,400992028,2018-01-31
+143,1,"0:49",1249,1249,"Jordan Swopshire made Three Point Jumper. Assisted by Jordan Burns.",42,38,4,0.610350619688435,"Lafayette","Colgate",3,4,1,0,-1.3,400992028,2018-01-31
+144,1,"0:42",1242,1242,"Lafayette  Timeout",42,38,4,0.610350619688435,"Lafayette","Colgate",3,3,1,1,-1.3,400992028,2018-01-31
+145,1,"0:25",1225,1225,"E.J. Stephens missed Three Point Jumper.",42,38,4,0.633275134048375,"Lafayette","Colgate",3,3,1,1,-1.3,400992028,2018-01-31
+146,1,"0:25",1225,1225,"Malcolm Regisford Defensive Rebound.",42,38,4,0.633275134048375,"Lafayette","Colgate",3,3,1,1,-1.3,400992028,2018-01-31
+147,1,"0:05",1205,1205,"Jordan Burns missed Layup.",42,38,4,0.616397093366745,"Lafayette","Colgate",3,3,1,1,-1.3,400992028,2018-01-31
+148,1,"0:05",1205,1205,"Eric Stafford Defensive Rebound.",42,38,4,0.616397093366745,"Lafayette","Colgate",3,3,1,1,-1.3,400992028,2018-01-31
+149,1,"0:01",1201,1201,"E.J. Stephens missed Three Point Jumper.",42,38,4,0.616397093366745,"Lafayette","Colgate",3,3,1,1,-1.3,400992028,2018-01-31
+150,1,"0:01",1201,1201,"Colgate Defensive Rebound.",42,38,4,0.616397093366745,"Lafayette","Colgate",3,3,1,1,-1.3,400992028,2018-01-31
+151,1,"0:00",1200,1200,"End of 1st half",42,38,4,0.616397093366745,"Lafayette","Colgate",3,3,1,1,-1.3,400992028,2018-01-31
+152,2,"20:00",1200,1200,"PLAY",42,38,4,0.616397093366745,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+153,2,"19:46",1186,1186,"Will Rayman missed Layup.",42,38,4,0.621238548193345,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+154,2,"19:46",1186,1186,"Kyle Stout Defensive Rebound.",42,38,4,0.621238548193345,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+155,2,"19:21",1161,1161,"Eric Stafford made Layup.",44,38,6,0.675978887543844,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+156,2,"19:02",1142,1142,"Jordan Swopshire missed Three Point Jumper.",44,38,6,0.7132306460221,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+157,2,"19:02",1142,1142,"Matt Klinewski Defensive Rebound.",44,38,6,0.7132306460221,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+158,2,"18:59",1139,1139,"Foul on Will Rayman.",44,38,6,0.698349299230274,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+159,2,"18:47",1127,1127,"Matt Klinewski made Jumper. Assisted by Eric Stafford.",46,38,8,0.788035847024782,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+160,2,"18:37",1117,1117,"Jordan Burns made Jumper.",46,40,6,0.718357996770134,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+161,2,"18:24",1104,1104,"Matt Klinewski made Three Point Jumper. Assisted by Eric Stafford.",49,40,9,0.787541957631178,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+162,2,"18:15",1095,1095,"Jordan Burns Turnover.",49,40,9,0.805980166315193,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+163,2,"18:13",1093,1093,"Eric Stafford Steal.",49,40,9,0.805980166315193,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+164,2,"18:01",1081,1081,"Matt Klinewski Turnover.",49,40,9,0.803645547698289,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+165,2,"18:00",1080,1080,"Jordan Swopshire Steal.",49,40,9,0.803645547698289,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+166,2,"17:58",1078,1078,"Jordan Swopshire missed Three Point Jumper.",49,40,9,0.808248523951127,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+167,2,"17:58",1078,1078,"Matt Klinewski Defensive Rebound.",49,40,9,0.808248523951127,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+168,2,"17:35",1055,1055,"Foul on Jordan Burns.",49,40,9,0.820025271453511,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+169,2,"17:27",1047,1047,"Matt Klinewski made Layup. Assisted by Eric Stafford.",51,40,11,0.864502584180397,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+170,2,"17:12",1032,1032,"Francisco Amiel missed Layup.",51,40,11,0.847151555222535,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+171,2,"17:12",1032,1032,"Paulius Zalys Defensive Rebound.",51,40,11,0.847151555222535,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+172,2,"17:07",1027,1027,"Matt Klinewski Turnover.",51,40,11,0.866564293145553,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+173,2,"17:05",1025,1025,"Francisco Amiel Steal.",51,40,11,0.866564293145553,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+174,2,"16:59",1019,1019,"Francisco Amiel Turnover.",51,40,11,0.855146924375204,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+175,2,"16:57",1017,1017,"Eric Stafford Steal.",51,40,11,0.855146924375204,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+176,2,"16:54",1014,1014,"Paulius Zalys made Layup. Assisted by Eric Stafford.",53,40,13,0.894812149551484,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+177,2,"16:33",993,993,"Sean O'Brien missed Layup.",53,40,13,0.893103407691957,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+178,2,"16:33",993,993,"Eric Stafford Block.",53,40,13,0.893103407691957,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+179,2,"16:31",991,991,"Eric Stafford Defensive Rebound.",53,40,13,0.893103407691957,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+180,2,"16:28",988,988,"Matt Klinewski made Layup. Assisted by Eric Stafford.",55,40,15,0.950527135131274,"Lafayette","Colgate",4,4,0,0,-1.3,400992028,2018-01-31
+181,2,"16:27",987,987,"Colgate  Timeout",55,40,15,0.950527135131274,"Lafayette","Colgate",3,4,1,0,-1.3,400992028,2018-01-31
+182,2,"16:06",966,966,"Francisco Amiel made Three Point Jumper. Assisted by Jordan Burns.",55,43,12,0.889054186159087,"Lafayette","Colgate",3,4,1,0,-1.3,400992028,2018-01-31
+183,2,"15:48",948,948,"E.J. Stephens missed Jumper.",55,43,12,0.90317961904128,"Lafayette","Colgate",3,4,1,0,-1.3,400992028,2018-01-31
+184,2,"15:48",948,948,"Myles Cherry Offensive Rebound.",55,43,12,0.90317961904128,"Lafayette","Colgate",3,4,1,0,-1.3,400992028,2018-01-31
+185,2,"15:46",946,946,"Myles Cherry missed Layup.",55,43,12,0.90317961904128,"Lafayette","Colgate",3,4,1,0,-1.3,400992028,2018-01-31
+186,2,"15:46",946,946,"Jordan Swopshire Defensive Rebound.",55,43,12,0.90317961904128,"Lafayette","Colgate",3,4,1,0,-1.3,400992028,2018-01-31
+187,2,"15:35",935,935,"Dana Batt made Jumper.",55,45,10,0.856004592682864,"Lafayette","Colgate",3,4,1,0,-1.3,400992028,2018-01-31
+188,2,"15:26",926,926,"Lafayette  Timeout",55,45,10,0.84741375265962,"Lafayette","Colgate",3,3,0,1,-1.3,400992028,2018-01-31
+189,2,"15:15",915,915,"Paulius Zalys missed Three Point Jumper.",55,45,10,0.856857743147034,"Lafayette","Colgate",3,3,0,1,-1.3,400992028,2018-01-31
+190,2,"15:15",915,915,"Jordan Swopshire Defensive Rebound.",55,45,10,0.856857743147034,"Lafayette","Colgate",3,3,0,1,-1.3,400992028,2018-01-31
+191,2,"14:56",896,896,"Foul on Matt Klinewski.",55,45,10,0.865771593530756,"Lafayette","Colgate",3,3,0,1,-1.3,400992028,2018-01-31
+192,2,"14:56",896,896,"Jordan Swopshire made Free Throw.",55,46,9,0.841547191819848,"Lafayette","Colgate",3,3,0,1,-1.3,400992028,2018-01-31
+193,2,"14:56",896,896,"Jordan Swopshire missed Free Throw.",55,46,9,0.841547191819848,"Lafayette","Colgate",3,3,0,1,-1.3,400992028,2018-01-31
+194,2,"14:56",896,896,"Colgate Deadball Team Rebound.",55,46,9,0.841547191819848,"Lafayette","Colgate",3,3,0,1,-1.3,400992028,2018-01-31
+195,2,"14:39",879,879,"Justin Jaworski missed Three Point Jumper.",55,46,9,0.835040634022581,"Lafayette","Colgate",3,3,0,1,-1.3,400992028,2018-01-31
+196,2,"14:39",879,879,"Jordan Burns Defensive Rebound.",55,46,9,0.835040634022581,"Lafayette","Colgate",3,3,0,1,-1.3,400992028,2018-01-31
+197,2,"14:27",867,867,"Foul on Justin Jaworski.",55,46,9,0.823417116132786,"Lafayette","Colgate",3,3,0,1,-1.3,400992028,2018-01-31
+198,2,"14:20",860,860,"Jordan Swopshire made Layup.",55,48,7,0.760694468167642,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+199,2,"13:53",833,833,"Eric Stafford made Jumper.",57,48,9,0.844873018496771,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+200,2,"13:46",826,826,"Jordan Burns Turnover.",57,48,9,0.824989374452603,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+201,2,"13:36",816,816,"Matt Klinewski made Three Point Jumper. Assisted by Eric Stafford.",60,48,12,0.893772928619192,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+202,2,"13:15",795,795,"Francisco Amiel missed Three Point Jumper.",60,48,12,0.923075989601168,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+203,2,"13:15",795,795,"Matt Klinewski Defensive Rebound.",60,48,12,0.923075989601168,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+204,2,"13:14",794,794,"Foul on Malcolm Regisford.",60,48,12,0.923075989601168,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+205,2,"13:08",788,788,"Paulius Zalys Turnover.",60,48,12,0.911921317855385,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+206,2,"13:08",788,788,"Foul on Paulius Zalys.",60,48,12,0.911921317855385,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+207,2,"12:52",772,772,"Sean O'Brien made Three Point Jumper. Assisted by Francisco Amiel.",60,51,9,0.854624108886313,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+208,2,"12:45",765,765,"Alex Petrie Turnover.",60,51,9,0.867373344915183,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+209,2,"12:43",763,763,"Sean O'Brien Steal.",60,51,9,0.867373344915183,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+210,2,"12:42",762,762,"Sean O'Brien made Jumper.",60,53,7,0.809400484817341,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+211,2,"12:18",738,738,"Alex Petrie missed Jumper.",60,53,7,0.807062270464377,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+212,2,"12:18",738,738,"Kyle Stout Offensive Rebound.",60,53,7,0.807062270464377,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+213,2,"12:08",728,728,"Myles Cherry missed Layup.",60,53,7,0.820907271099094,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+214,2,"12:08",728,728,"Will Rayman Defensive Rebound.",60,53,7,0.820907271099094,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+215,2,"11:55",715,715,"Malcolm Regisford made Layup.",60,55,5,0.702446895436874,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+216,2,"11:41",701,701,"Eric Stafford missed Three Point Jumper.",60,55,5,0.736662610842639,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+217,2,"11:41",701,701,"Sean O'Brien Defensive Rebound.",60,55,5,0.736662610842639,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+218,2,"11:29",689,689,"Will Rayman missed Three Point Jumper.",60,55,5,0.723870270371224,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+219,2,"11:29",689,689,"Eric Stafford Defensive Rebound.",60,55,5,0.723870270371224,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+220,2,"11:07",667,667,"Lukas Jarrett made Three Point Jumper. Assisted by Alex Petrie.",63,55,8,0.857851162204432,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+221,2,"10:52",652,652,"Francisco Amiel missed Three Point Jumper.",63,55,8,0.865759157929293,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+222,2,"10:52",652,652,"Alex Petrie Defensive Rebound.",63,55,8,0.865759157929293,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+223,2,"10:44",644,644,"Alex Petrie made Jumper.",65,55,10,0.911162478672813,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+224,2,"10:11",611,611,"Francisco Amiel missed Layup.",65,55,10,0.913481355144066,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+225,2,"10:11",611,611,"Kyle Stout Defensive Rebound.",65,55,10,0.913481355144066,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+226,2,"9:54",594,594,"Alex Petrie Turnover.",65,55,10,0.909339665283447,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+227,2,"9:54",594,594,"Official TV Timeout",65,55,10,0.909339665283447,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+228,2,"9:32",572,572,"Jordan Robertson made Layup.",65,57,8,0.885167419977486,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+229,2,"9:18",558,558,"Matt Klinewski missed Three Point Jumper.",65,57,8,0.874650687949244,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+230,2,"9:18",558,558,"Dana Batt Defensive Rebound.",65,57,8,0.874650687949244,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+231,2,"9:02",542,542,"Dana Batt made Layup.",65,59,6,0.810097694471583,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+232,2,"8:36",516,516,"E.J. Stephens made Three Point Jumper. Assisted by Matt Klinewski.",68,59,9,0.913415839571751,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+233,2,"8:20",500,500,"Foul on E.J. Stephens.",68,59,9,0.920662633757714,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+234,2,"8:20",500,500,"Dana Batt made Free Throw.",68,60,8,0.898485432529374,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+235,2,"8:20",500,500,"Dana Batt made Free Throw.",68,61,7,0.870977790300347,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+236,2,"8:08",488,488,"Alex Petrie made Three Point Jumper. Assisted by Paulius Zalys.",71,61,10,0.934378341654171,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+237,2,"7:47",467,467,"Will Rayman made Jumper.",71,63,8,0.894656941078152,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+238,2,"7:20",440,440,"Foul on Dana Batt.",71,63,8,0.898555225868106,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+239,2,"7:20",440,440,"Official TV Timeout",71,63,8,0.898555225868106,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+240,2,"7:07",427,427,"Justin Jaworski missed Layup.",71,63,8,0.904718789286549,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+241,2,"7:07",427,427,"Jordan Swopshire Defensive Rebound.",71,63,8,0.904718789286549,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+242,2,"6:59",419,419,"Jordan Robertson missed Three Point Jumper.",71,63,8,0.908639155033865,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+243,2,"6:59",419,419,"Alex Petrie Defensive Rebound.",71,63,8,0.908639155033865,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+244,2,"6:54",414,414,"Alex Petrie missed Jumper.",71,63,8,0.908639155033865,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+245,2,"6:54",414,414,"Matt Klinewski Offensive Rebound.",71,63,8,0.908639155033865,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+246,2,"6:54",414,414,"Matt Klinewski made Layup.",73,63,10,0.947837087291209,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+247,2,"6:54",414,414,"Foul on Will Rayman.",73,63,10,0.947837087291209,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+248,2,"6:54",414,414,"Matt Klinewski made Free Throw.",74,63,11,0.960877560709236,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+249,2,"6:28",388,388,"Foul on Justin Jaworski.",74,63,11,0.959993785533994,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+250,2,"6:28",388,388,"Jordan Swopshire made Free Throw.",74,64,10,0.946871375377732,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+251,2,"6:28",388,388,"Jordan Swopshire made Free Throw.",74,65,9,0.929759625719869,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+252,2,"6:03",363,363,"Eric Stafford Turnover.",74,65,9,0.945321098788621,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+253,2,"6:01",361,361,"Dana Batt Steal.",74,65,9,0.945321098788621,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+254,2,"5:53",353,353,"Will Rayman made Layup.",74,67,7,0.893117422655974,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+255,2,"5:33",333,333,"Matt Klinewski Turnover.",74,67,7,0.92208575234547,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+256,2,"5:32",332,332,"Foul on Matt Klinewski.",74,67,7,0.92208575234547,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+257,2,"5:16",316,316,"Sean O'Brien made Jumper.",74,69,5,0.859205617045824,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+258,2,"5:16",316,316,"Kyle Stout made Three Point Jumper. Assisted by Alex Petrie.",77,69,8,0.94826812295337,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+259,2,"5:16",316,316,"Sean O'Brien missed Layup.",77,69,8,0.94826812295337,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+260,2,"5:16",316,316,"Matt Klinewski Defensive Rebound.",77,69,8,0.94826812295337,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+261,2,"5:16",316,316,"Alex Petrie made Jumper. Assisted by Alex Petrie.",79,69,10,0.974464042540524,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+262,2,"4:38",278,278,"Sean O'Brien Turnover.",79,69,10,0.976246658889858,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+263,2,"4:38",278,278,"Paulius Zalys Steal.",79,69,10,0.976246658889858,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+264,2,"4:38",278,278,"Foul on Sean O'Brien.",79,69,10,0.976246658889858,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+265,2,"3:58",238,238,"Foul on Francisco Amiel.",79,69,10,0.983067329709601,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+266,2,"3:58",238,238,"Official TV Timeout",79,69,10,0.983067329709601,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+267,2,"3:58",238,238,"Alex Petrie made Free Throw.",80,69,11,0.988651258189247,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+268,2,"3:58",238,238,"Alex Petrie made Free Throw.",81,69,12,0.992407981727697,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+269,2,"3:41",221,221,"Jordan Robertson missed Three Point Jumper.",81,69,12,0.993541207635226,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+270,2,"3:41",221,221,"Lukas Jarrett Defensive Rebound.",81,69,12,0.993541207635226,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+271,2,"3:09",189,189,"E.J. Stephens made Three Point Jumper. Assisted by Eric Stafford.",84,69,15,0.999219651606077,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+272,2,"2:54",174,174,"Malcolm Regisford missed Layup.",84,69,15,0.999407023369713,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+273,2,"2:54",174,174,"Kyle Stout Defensive Rebound.",84,69,15,0.999407023369713,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+274,2,"2:33",153,153,"E.J. Stephens missed Three Point Jumper.",84,69,15,0.999703674472408,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+275,2,"2:33",153,153,"Sean O'Brien Defensive Rebound.",84,69,15,0.999703674472408,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+276,2,"2:20",140,140,"Foul on Myles Cherry.",84,69,15,0.999471632743549,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+277,2,"2:20",140,140,"Will Rayman made Free Throw.",84,70,14,0.999113238216165,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+278,2,"2:20",140,140,"Will Rayman made Free Throw.",84,71,13,0.998512104534354,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+279,2,"2:04",124,124,"Matt Klinewski made Layup.",86,71,15,0.999764130011878,"Lafayette","Colgate",3,3,0,0,-1.3,400992028,2018-01-31
+280,2,"1:54",114,114,"Will Rayman made Three Point Jumper. Assisted by Sean O'Brien.",86,74,12,0.999302580161174,"Lafayette","Colgate",3,3,1,0,-1.3,400992028,2018-01-31
+281,2,"1:54",114,114,"Colgate  Timeout",86,74,12,0.999302580161174,"Lafayette","Colgate",2,3,1,0,-1.3,400992028,2018-01-31
+282,2,"1:32",92,92,"Alex Petrie Turnover.",86,74,12,0.999461566624605,"Lafayette","Colgate",2,3,1,0,-1.3,400992028,2018-01-31
+283,2,"1:31",91,91,"Francisco Amiel Steal.",86,74,12,0.999461566624605,"Lafayette","Colgate",2,3,1,0,-1.3,400992028,2018-01-31
+284,2,"1:29",89,89,"Francisco Amiel Turnover.",86,74,12,0.999831222752269,"Lafayette","Colgate",2,3,1,0,-1.3,400992028,2018-01-31
+285,2,"1:27",87,87,"Alex Petrie Steal.",86,74,12,0.999831222752269,"Lafayette","Colgate",2,3,1,0,-1.3,400992028,2018-01-31
+286,2,"1:26",86,86,"Alex Petrie missed Layup.",86,74,12,0.999831222752269,"Lafayette","Colgate",2,3,1,0,-1.3,400992028,2018-01-31
+287,2,"1:26",86,86,"Matt Klinewski Offensive Rebound.",86,74,12,0.999831222752269,"Lafayette","Colgate",2,3,1,0,-1.3,400992028,2018-01-31
+288,2,"1:09",69,69,"Paulius Zalys made Dunk. Assisted by Matt Klinewski.",88,74,14,0.999964656834332,"Lafayette","Colgate",2,3,1,0,-1.3,400992028,2018-01-31
+289,2,"0:58",58,58,"Foul on Matt Klinewski.",88,74,14,0.999995945654208,"Lafayette","Colgate",2,3,1,0,-1.3,400992028,2018-01-31
+290,2,"0:58",58,58,"Sean O'Brien made Free Throw.",88,75,13,0.999990348787762,"Lafayette","Colgate",2,3,1,0,-1.3,400992028,2018-01-31
+291,2,"0:58",58,58,"Sean O'Brien made Free Throw.",88,76,12,0.999977025842693,"Lafayette","Colgate",2,3,1,0,-1.3,400992028,2018-01-31
+292,2,"0:53",53,53,"Foul on Jordan Swopshire.",88,76,12,0.999925434256709,"Lafayette","Colgate",2,3,0,0,-1.3,400992028,2018-01-31
+293,2,"0:53",53,53,"Matt Klinewski made Free Throw.",89,76,13,0.999966562813604,"Lafayette","Colgate",2,3,0,0,-1.3,400992028,2018-01-31
+294,2,"0:53",53,53,"Matt Klinewski made Free Throw.",90,76,14,0.999985006250591,"Lafayette","Colgate",2,3,0,0,-1.3,400992028,2018-01-31
+295,2,"0:45",45,45,"Will Rayman made Layup.",90,78,12,0.999944931723138,"Lafayette","Colgate",2,3,0,0,-1.3,400992028,2018-01-31
+296,2,"0:43",43,43,"Foul on Jordan Swopshire.",90,78,12,0.999978454724421,"Lafayette","Colgate",2,3,0,0,-1.3,400992028,2018-01-31
+297,2,"0:43",43,43,"Paulius Zalys missed Free Throw.",90,78,12,0.999978454724421,"Lafayette","Colgate",2,3,0,0,-1.3,400992028,2018-01-31
+298,2,"0:43",43,43,"Jordan Swopshire Defensive Rebound.",90,78,12,0.999978454724421,"Lafayette","Colgate",2,3,0,0,-1.3,400992028,2018-01-31
+299,2,"0:35",35,35,"Will Rayman made Three Point Jumper. Assisted by Sean O'Brien.",90,81,9,0.999429199623655,"Lafayette","Colgate",2,3,1,0,-1.3,400992028,2018-01-31
+300,2,"0:35",35,35,"Colgate  Timeout",90,81,9,0.999429199623655,"Lafayette","Colgate",1,3,1,0,-1.3,400992028,2018-01-31
+301,2,"0:32",32,32,"Foul on Sean O'Brien.",90,81,9,0.999962750341281,"Lafayette","Colgate",1,3,1,0,-1.3,400992028,2018-01-31
+302,2,"0:32",32,32,"Eric Stafford made Free Throw.",91,81,10,0.999988015112307,"Lafayette","Colgate",1,3,1,0,-1.3,400992028,2018-01-31
+303,2,"0:32",32,32,"Eric Stafford made Free Throw.",92,81,11,0.999996143989595,"Lafayette","Colgate",1,3,1,0,-1.3,400992028,2018-01-31
+304,2,"0:29",29,29,"Sean O'Brien made Layup.",92,83,9,0.999827108969429,"Lafayette","Colgate",1,3,1,1,-1.3,400992028,2018-01-31
+305,2,"0:29",29,29,"Foul on Jordan Robertson.",92,83,9,0.999827108969429,"Lafayette","Colgate",1,3,1,1,-1.3,400992028,2018-01-31
+306,2,"0:29",29,29,"Eric Stafford missed Free Throw.",92,83,9,0.999827108969429,"Lafayette","Colgate",1,3,1,1,-1.3,400992028,2018-01-31
+307,2,"0:29",29,29,"Lafayette Deadball Team Rebound.",92,83,9,0.999827108969429,"Lafayette","Colgate",1,3,1,1,-1.3,400992028,2018-01-31
+308,2,"0:29",29,29,"Eric Stafford made Free Throw.",93,83,10,0.999937044607281,"Lafayette","Colgate",1,3,1,1,-1.3,400992028,2018-01-31
+309,2,"0:29",29,29,"Lafayette  Timeout",93,83,10,0.999937044607281,"Lafayette","Colgate",1,2,1,1,-1.3,400992028,2018-01-31
+310,2,"0:14",14,14,"Sean O'Brien missed Three Point Jumper.",93,83,10,0.999999958746357,"Lafayette","Colgate",1,2,1,1,-1.3,400992028,2018-01-31
+311,2,"0:14",14,14,"Colgate Offensive Rebound.",93,83,10,0.999999958746357,"Lafayette","Colgate",1,2,1,1,-1.3,400992028,2018-01-31
+312,2,"0:09",9,9,"Jordan Robertson missed Three Point Jumper.",93,83,10,0.99999995212347,"Lafayette","Colgate",1,2,1,1,-1.3,400992028,2018-01-31
+313,2,"0:09",9,9,"Paulius Zalys Defensive Rebound.",93,83,10,0.99999995212347,"Lafayette","Colgate",1,2,1,1,-1.3,400992028,2018-01-31
+314,2,"0:00",0,0,"End of Game",93,83,10,1,"Lafayette","Colgate",1,2,1,1,-1.3,400992028,2018-01-31

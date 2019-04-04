@@ -1,0 +1,339 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.927603036110929,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+2,1,"20:00",2400,2400,"Jump Ball won by Villanova",0,0,0,0.927603036110929,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+3,1,"19:53",2393,2393,"Mikal Bridges made Jumper.",2,0,2,0.937401373159083,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+4,1,"19:23",2363,2363,"Joel Angus III made Jumper.",2,2,0,0.912126019665617,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+5,1,"19:03",2343,2343,"Eric Paschall missed Jumper.",2,2,0,0.91386204845524,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+6,1,"19:03",2343,2343,"Joel Angus III Defensive Rebound.",2,2,0,0.91386204845524,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+7,1,"18:54",2334,2334,"Justin Wright-Foreman made Three Point Jumper.",2,5,-3,0.893539106322575,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+8,1,"18:18",2298,2298,"Mikal Bridges made Layup.",4,5,-1,0.908966351593866,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+9,1,"17:50",2270,2270,"Kenny Wormley missed Layup.",4,5,-1,0.906986145164488,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+10,1,"17:50",2270,2270,"Kenny Wormley Offensive Rebound.",4,5,-1,0.906986145164488,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+11,1,"17:35",2255,2255,"Joel Angus III missed Layup.",4,5,-1,0.900793370549898,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+12,1,"17:35",2255,2255,"Eric Paschall Block.",4,5,-1,0.900793370549898,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+13,1,"17:35",2255,2255,"Kenny Wormley Offensive Rebound.",4,5,-1,0.900793370549898,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+14,1,"17:28",2248,2248,"Kenny Wormley missed Jumper.",4,5,-1,0.894497696673741,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+15,1,"17:28",2248,2248,"Kenny Wormley Offensive Rebound.",4,5,-1,0.894497696673741,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+16,1,"17:12",2232,2232,"Kenny Wormley made Jumper.",4,7,-3,0.882777400461999,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+17,1,"16:45",2205,2205,"Omari Spellman missed Three Point Jumper.",4,7,-3,0.87907841151111,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+18,1,"16:45",2205,2205,"Kenny Wormley Defensive Rebound.",4,7,-3,0.87907841151111,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+19,1,"16:36",2196,2196,"Justin Wright-Foreman missed Jumper.",4,7,-3,0.886189515369771,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+20,1,"16:36",2196,2196,"Omari Spellman Defensive Rebound.",4,7,-3,0.886189515369771,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+21,1,"16:28",2188,2188,"Jalen Brunson missed Three Point Jumper.",4,7,-3,0.880509974068089,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+22,1,"16:28",2188,2188,"Kenny Wormley Defensive Rebound.",4,7,-3,0.880509974068089,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+23,1,"16:14",2174,2174,"Justin Wright-Foreman missed Jumper.",4,7,-3,0.87763228321064,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+24,1,"16:14",2174,2174,"Omari Spellman Defensive Rebound.",4,7,-3,0.87763228321064,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+25,1,"16:03",2163,2163,"Phil Booth made Three Point Jumper.",7,7,0,0.907557945116471,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+26,1,"15:31",2131,2131,"Rokas Gustys made Layup. Assisted by Kenny Wormley.",7,9,-2,0.88787705577808,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+27,1,"15:10",2110,2110,"Phil Booth missed Layup.",7,9,-2,0.895953082860954,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+28,1,"15:10",2110,2110,"Justin Wright-Foreman Block.",7,9,-2,0.895953082860954,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+29,1,"15:10",2110,2110,"Villanova Offensive Rebound.",7,9,-2,0.895953082860954,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+30,1,"15:10",2110,2110,"Official TV Timeout",7,9,-2,0.895953082860954,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+31,1,"15:00",2100,2100,"Donte DiVincenzo missed Three Point Jumper.",7,9,-2,0.883992006778398,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+32,1,"15:00",2100,2100,"Omari Spellman Offensive Rebound.",7,9,-2,0.883992006778398,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+33,1,"14:53",2093,2093,"Donte DiVincenzo made Three Point Jumper. Assisted by Phil Booth.",10,9,1,0.911736608794137,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+34,1,"14:30",2070,2070,"Justin Wright-Foreman missed Three Point Jumper.",10,9,1,0.918610246431417,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+35,1,"14:30",2070,2070,"Hofstra Deadball Team Rebound.",10,9,1,0.918610246431417,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+36,1,"14:28",2068,2068,"Foul on Omari Spellman.",10,9,1,0.913269190933206,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+37,1,"14:25",2065,2065,"Rokas Gustys missed Layup.",10,9,1,0.913269190933206,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+38,1,"14:25",2065,2065,"Hofstra Deadball Team Rebound.",10,9,1,0.913269190933206,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+39,1,"14:22",2062,2062,"Eli Pemberton missed Jumper.",10,9,1,0.913269190933206,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+40,1,"14:22",2062,2062,"Omari Spellman Defensive Rebound.",10,9,1,0.913269190933206,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+41,1,"14:09",2049,2049,"Foul on Joel Angus III.",10,9,1,0.909416839228385,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+42,1,"14:01",2041,2041,"Mikal Bridges made Jumper.",12,9,3,0.926007274157822,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+43,1,"13:38",2018,2018,"Eli Pemberton made Jumper.",12,11,1,0.915530965913246,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+44,1,"13:18",1998,1998,"Omari Spellman made Jumper. Assisted by Donte DiVincenzo.",14,11,3,0.934347923654298,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+45,1,"12:56",1976,1976,"Foul on Jalen Brunson.",14,11,3,0.937064803383432,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+46,1,"12:56",1976,1976,"Justin Wright-Foreman made Free Throw.",14,12,2,0.929130771350169,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+47,1,"12:56",1976,1976,"Justin Wright-Foreman made Free Throw.",14,13,1,0.920281613058859,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+48,1,"12:46",1966,1966,"Omari Spellman made Three Point Jumper. Assisted by Mikal Bridges.",17,13,4,0.935314532671856,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+49,1,"12:25",1945,1945,"Eli Pemberton made Three Point Jumper. Assisted by Justin Wright-Foreman.",17,16,1,0.91149071469609,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+50,1,"11:52",1912,1912,"Phil Booth made Three Point Jumper. Assisted by Eric Paschall.",20,16,4,0.941541075216444,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+51,1,"11:26",1886,1886,"Desure Buie missed Jumper.",20,16,4,0.938133442851149,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+52,1,"11:26",1886,1886,"Omari Spellman Defensive Rebound.",20,16,4,0.938133442851149,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+53,1,"11:17",1877,1877,"Donte DiVincenzo missed Layup.",20,16,4,0.935138140982413,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+54,1,"11:17",1877,1877,"Justin Wright-Foreman Block.",20,16,4,0.935138140982413,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+55,1,"11:17",1877,1877,"Villanova Offensive Rebound.",20,16,4,0.935138140982413,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+56,1,"11:16",1876,1876,"Official TV Timeout",20,16,4,0.935138140982413,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+57,1,"11:09",1869,1869,"Jalen Brunson missed Jumper.",20,16,4,0.935541757711215,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+58,1,"11:09",1869,1869,"Eli Pemberton Defensive Rebound.",20,16,4,0.935541757711215,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+59,1,"10:50",1850,1850,"Desure Buie Turnover.",20,16,4,0.935612510017008,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+60,1,"10:50",1850,1850,"Mikal Bridges Steal.",20,16,4,0.935612510017008,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+61,1,"10:45",1845,1845,"Jalen Brunson missed Layup.",20,16,4,0.933614119467672,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+62,1,"10:45",1845,1845,"Villanova Offensive Rebound.",20,16,4,0.933614119467672,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+63,1,"10:42",1842,1842,"Foul on Stafford Trueheart.",20,16,4,0.933614119467672,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+64,1,"10:42",1842,1842,"Mikal Bridges made Free Throw.",21,16,5,0.940890538647358,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+65,1,"10:42",1842,1842,"Mikal Bridges made Free Throw.",22,16,6,0.947414326624066,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+66,1,"10:42",1842,1842,"Mikal Bridges made Free Throw.",23,16,7,0.95325387022228,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+67,1,"10:30",1830,1830,"Hofstra  Turnover.",23,16,7,0.953060686549989,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+68,1,"10:16",1816,1816,"Omari Spellman made Three Point Jumper. Assisted by Phil Booth.",26,16,10,0.972141093741798,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+69,1,"9:42",1782,1782,"Eli Pemberton Turnover.",26,16,10,0.966763868464924,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+70,1,"9:42",1782,1782,"Omari Spellman Steal.",26,16,10,0.966763868464924,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+71,1,"9:31",1771,1771,"Mikal Bridges missed Three Point Jumper.",26,16,10,0.964729517822061,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+72,1,"9:31",1771,1771,"Hunter Sabety Defensive Rebound.",26,16,10,0.964729517822061,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+73,1,"9:23",1763,1763,"Eli Pemberton missed Layup.",26,16,10,0.971701518182601,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+74,1,"9:23",1763,1763,"Mikal Bridges Block.",26,16,10,0.971701518182601,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+75,1,"9:23",1763,1763,"Omari Spellman Defensive Rebound.",26,16,10,0.971701518182601,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+76,1,"9:18",1758,1758,"Jalen Brunson made Layup.",28,16,12,0.978772595263252,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+77,1,"9:18",1758,1758,"Foul on Jalen Ray.",28,16,12,0.978772595263252,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+78,1,"9:18",1758,1758,"Jalen Brunson made Free Throw.",29,16,13,0.981496754728184,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+79,1,"8:59",1739,1739,"Foul on Dhamir Cosby-Roundtree.",29,16,13,0.980265779350745,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+80,1,"8:59",1739,1739,"Kenny Wormley made Free Throw.",29,17,12,0.977437354656243,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+81,1,"8:59",1739,1739,"Kenny Wormley made Free Throw.",29,18,11,0.97421420713199,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+82,1,"8:47",1727,1727,"Dhamir Cosby-Roundtree made Layup.",31,18,13,0.976733412085449,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+83,1,"8:47",1727,1727,"Foul on Rokas Gustys.",31,18,13,0.976733412085449,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+84,1,"8:47",1727,1727,"Dhamir Cosby-Roundtree missed Free Throw.",31,18,13,0.976733412085449,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+85,1,"8:47",1727,1727,"Justin Wright-Foreman Defensive Rebound.",31,18,13,0.976733412085449,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+86,1,"8:30",1710,1710,"Eli Pemberton missed Jumper.",31,18,13,0.980936608074085,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+87,1,"8:30",1710,1710,"Eric Paschall Defensive Rebound.",31,18,13,0.980936608074085,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+88,1,"8:20",1700,1700,"Donte DiVincenzo missed Layup.",31,18,13,0.976617784138223,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+89,1,"8:20",1700,1700,"Joel Angus III Defensive Rebound.",31,18,13,0.976617784138223,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+90,1,"8:11",1691,1691,"Justin Wright-Foreman made Three Point Jumper. Assisted by Kenny Wormley.",31,21,10,0.970295221687961,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+91,1,"7:43",1663,1663,"Donte DiVincenzo missed Three Point Jumper.",31,21,10,0.967275524580013,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+92,1,"7:43",1663,1663,"Omari Spellman Offensive Rebound.",31,21,10,0.967275524580013,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+93,1,"7:36",1656,1656,"Foul on Kenny Wormley.",31,21,10,0.966601916758154,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+94,1,"7:36",1656,1656,"Official TV Timeout",31,21,10,0.966601916758154,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+95,1,"7:29",1649,1649,"Omari Spellman made Jumper. Assisted by Mikal Bridges.",33,21,12,0.97757005909616,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+96,1,"7:09",1629,1629,"Eli Pemberton Turnover.",33,21,12,0.977238966263416,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+97,1,"6:58",1618,1618,"Phil Booth missed Three Point Jumper.",33,21,12,0.974189617704298,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+98,1,"6:58",1618,1618,"Eli Pemberton Defensive Rebound.",33,21,12,0.974189617704298,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+99,1,"6:49",1609,1609,"Kenny Wormley missed Jumper.",33,21,12,0.975335230251272,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+100,1,"6:49",1609,1609,"Rokas Gustys Offensive Rebound.",33,21,12,0.975335230251272,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+101,1,"6:39",1599,1599,"Foul on Rokas Gustys.",33,21,12,0.974179270281498,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+102,1,"6:39",1599,1599,"Rokas Gustys Turnover.",33,21,12,0.974179270281498,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+103,1,"6:22",1582,1582,"Omari Spellman made Jumper. Assisted by Jalen Brunson.",35,21,14,0.980893997806335,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+104,1,"5:45",1545,1545,"Justin Wright-Foreman missed Three Point Jumper.",35,21,14,0.982402852167803,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+105,1,"5:45",1545,1545,"Omari Spellman Defensive Rebound.",35,21,14,0.982402852167803,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+106,1,"5:41",1541,1541,"Jalen Brunson Turnover.",35,21,14,0.982402852167803,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+107,1,"5:26",1526,1526,"Justin Wright-Foreman made Jumper.",35,23,12,0.975612241049639,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+108,1,"5:04",1504,1504,"Foul on Hunter Sabety.",35,23,12,0.976199657583844,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+109,1,"5:04",1504,1504,"Omari Spellman made Free Throw.",36,23,13,0.979294736177415,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+110,1,"5:04",1504,1504,"Omari Spellman made Free Throw.",37,23,14,0.981994743785389,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+111,1,"4:47",1487,1487,"Joel Angus III missed Layup.",37,23,14,0.983277798096677,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+112,1,"4:47",1487,1487,"Mikal Bridges Block.",37,23,14,0.983277798096677,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+113,1,"4:47",1487,1487,"Hofstra Offensive Rebound.",37,23,14,0.983277798096677,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+114,1,"4:36",1476,1476,"Justin Wright-Foreman missed Three Point Jumper.",37,23,14,0.986549628148604,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+115,1,"4:36",1476,1476,"Villanova Deadball Team Rebound.",37,23,14,0.986549628148604,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+116,1,"4:21",1461,1461,"Eric Paschall made Layup.",39,23,16,0.983230579422593,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+117,1,"4:02",1442,1442,"Eli Pemberton Turnover.",39,23,16,0.988726513988664,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+118,1,"4:02",1442,1442,"Jalen Brunson Steal.",39,23,16,0.988726513988664,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+119,1,"4:01",1441,1441,"Official TV Timeout",39,23,16,0.988726513988664,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+120,1,"3:58",1438,1438,"Official TV Timeout",39,23,16,0.986552605629476,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+121,1,"3:39",1419,1419,"Donte DiVincenzo made Three Point Jumper.",42,23,19,0.991726150781061,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+122,1,"3:20",1400,1400,"Foul on Kenny Wormley.",42,23,19,0.993187305511379,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+123,1,"3:20",1400,1400,"Kenny Wormley Turnover.",42,23,19,0.993187305511379,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+124,1,"3:17",1397,1397,"Donte DiVincenzo missed Three Point Jumper.",42,23,19,0.99321049018715,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+125,1,"3:17",1397,1397,"Stafford Trueheart Defensive Rebound.",42,23,19,0.99321049018715,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+126,1,"2:58",1378,1378,"Desure Buie missed Three Point Jumper.",42,23,19,0.990574989057017,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+127,1,"2:58",1378,1378,"Jalen Brunson Defensive Rebound.",42,23,19,0.990574989057017,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+128,1,"2:51",1371,1371,"Donte DiVincenzo made Layup. Assisted by Jalen Brunson.",44,23,21,0.992921778473175,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+129,1,"2:23",1343,1343,"Justin Wright-Foreman made Layup. Assisted by Desure Buie.",44,25,19,0.991909173054632,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+130,1,"2:08",1328,1328,"Eric Paschall missed Three Point Jumper.",44,25,19,0.992573970905425,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+131,1,"2:08",1328,1328,"Stafford Trueheart Block.",44,25,19,0.992573970905425,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+132,1,"2:08",1328,1328,"Eli Pemberton Defensive Rebound.",44,25,19,0.992573970905425,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+133,1,"1:59",1319,1319,"Stafford Trueheart made Layup. Assisted by Eli Pemberton.",44,27,17,0.989996042928813,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+134,1,"1:38",1298,1298,"Donte DiVincenzo missed Three Point Jumper.",44,27,17,0.990702088814561,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+135,1,"1:38",1298,1298,"Jalen Brunson Offensive Rebound.",44,27,17,0.990702088814561,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+136,1,"1:21",1281,1281,"Foul on Stafford Trueheart.",44,27,17,0.98909498252972,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+137,1,"1:21",1281,1281,"Mikal Bridges made Free Throw.",45,27,18,0.990597715951202,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+138,1,"1:21",1281,1281,"Mikal Bridges made Free Throw.",46,27,19,0.991895066545215,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+139,1,"1:09",1269,1269,"Hunter Sabety made Dunk. Assisted by Desure Buie.",46,29,17,0.990689877838344,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+140,1,"0:52",1252,1252,"Jalen Brunson missed Three Point Jumper.",46,29,17,0.986987729731134,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+141,1,"0:52",1252,1252,"Eli Pemberton Defensive Rebound.",46,29,17,0.986987729731134,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+142,1,"0:50",1250,1250,"Foul on Donte DiVincenzo.",46,29,17,0.986987729731134,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+143,1,"0:28",1228,1228,"Hunter Sabety made Dunk. Assisted by Desure Buie.",46,31,15,0.987638000486102,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+144,1,"0:22",1222,1222,"Hofstra  Timeout",46,31,15,0.987638000486102,"Villanova","Hofstra",3,4,1,0,24.6,400988543,2017-12-22
+145,1,"0:18",1218,1218,"Mikal Bridges missed Dunk.",46,31,15,0.98585324837037,"Villanova","Hofstra",3,4,1,0,24.6,400988543,2017-12-22
+146,1,"0:18",1218,1218,"Hunter Sabety Block.",46,31,15,0.98585324837037,"Villanova","Hofstra",3,4,1,0,24.6,400988543,2017-12-22
+147,1,"0:18",1218,1218,"Phil Booth Offensive Rebound.",46,31,15,0.98585324837037,"Villanova","Hofstra",3,4,1,0,24.6,400988543,2017-12-22
+148,1,"0:12",1212,1212,"Phil Booth made Three Point Jumper. Assisted by Mikal Bridges.",49,31,18,0.991326067832128,"Villanova","Hofstra",3,4,1,0,24.6,400988543,2017-12-22
+149,1,"0:05",1205,1205,"Justin Wright-Foreman Turnover.",49,31,18,0.991081636144987,"Villanova","Hofstra",3,4,1,0,24.6,400988543,2017-12-22
+150,1,"0:01",1201,1201,"Villanova  Timeout",49,31,18,0.991081636144987,"Villanova","Hofstra",3,3,1,1,24.6,400988543,2017-12-22
+151,1,"0:01",1201,1201,"Phil Booth made Three Point Jumper. Assisted by Donte DiVincenzo.",52,31,21,0.994450244044446,"Villanova","Hofstra",3,3,1,1,24.6,400988543,2017-12-22
+152,1,"0:00",1200,1200,"End of 1st half",52,31,21,0.994450244044446,"Villanova","Hofstra",3,3,1,1,24.6,400988543,2017-12-22
+153,2,"20:00",1200,1200,"PLAY",52,31,21,0.994450244044446,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+154,2,"20:00",1200,1200,"Jump Ball won by Hofstra",52,31,21,0.994450244044446,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+155,2,"19:48",1188,1188,"Rokas Gustys made Layup.",52,33,19,0.993300610653172,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+156,2,"19:32",1172,1172,"Jalen Brunson missed Layup.",52,33,19,0.992380206163342,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+157,2,"19:32",1172,1172,"Rokas Gustys Defensive Rebound.",52,33,19,0.992380206163342,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+158,2,"19:20",1160,1160,"Rokas Gustys missed Layup.",52,33,19,0.993063670459101,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+159,2,"19:20",1160,1160,"Phil Booth Defensive Rebound.",52,33,19,0.993063670459101,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+160,2,"19:14",1154,1154,"Jalen Brunson made Jumper.",54,33,21,0.994221529841799,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+161,2,"18:48",1128,1128,"Kenny Wormley missed Layup.",54,33,21,0.996623466841527,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+162,2,"18:48",1128,1128,"Mikal Bridges Defensive Rebound.",54,33,21,0.996623466841527,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+163,2,"18:36",1116,1116,"Jalen Brunson made Three Point Jumper. Assisted by Eric Paschall.",57,33,24,0.99715427197192,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+164,2,"18:21",1101,1101,"Rokas Gustys missed Layup.",57,33,24,0.996894989614283,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+165,2,"18:17",1097,1097,"Jalen Brunson Defensive Rebound.",57,33,24,0.997421690419374,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+166,2,"18:17",1097,1097,"Foul on Kenny Wormley.",57,33,24,0.997421690419374,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+167,2,"18:12",1092,1092,"Foul on Justin Wright-Foreman.",57,33,24,0.997421690419374,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+168,2,"18:02",1082,1082,"Eric Paschall missed Layup.",57,33,24,0.997763323193276,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+169,2,"18:02",1082,1082,"Rokas Gustys Defensive Rebound.",57,33,24,0.997763323193276,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+170,2,"17:47",1067,1067,"Justin Wright-Foreman made Jumper.",57,35,22,0.995939891481634,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+171,2,"17:39",1059,1059,"Phil Booth made Layup. Assisted by Jalen Brunson.",59,35,24,0.997731417027287,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+172,2,"17:39",1059,1059,"Foul on Justin Wright-Foreman.",59,35,24,0.997731417027287,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+173,2,"17:39",1059,1059,"Phil Booth missed Free Throw.",59,35,24,0.997731417027287,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+174,2,"17:39",1059,1059,"Rokas Gustys Defensive Rebound.",59,35,24,0.997731417027287,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+175,2,"17:21",1041,1041,"Joel Angus III made Layup. Assisted by Eli Pemberton.",59,37,22,0.996553976412827,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+176,2,"17:10",1030,1030,"Foul on Eli Pemberton.",59,37,22,0.996003960687656,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+177,2,"17:10",1030,1030,"Foul on Eli Pemberton.",59,37,22,0.996003960687656,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+178,2,"17:04",1024,1024,"Jalen Brunson made Three Point Jumper.",62,37,25,0.998027789194527,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+179,2,"16:51",1011,1011,"Foul on Donte DiVincenzo.",62,37,25,0.997854337006434,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+180,2,"16:39",999,999,"Eli Pemberton made Jumper.",62,39,23,0.996870880234904,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+181,2,"16:14",974,974,"Jalen Brunson made Three Point Jumper. Assisted by Donte DiVincenzo.",65,39,26,0.998387199166891,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+182,2,"15:50",950,950,"Rokas Gustys made Jumper.",65,41,24,0.998244171759105,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+183,2,"15:33",933,933,"Jalen Brunson missed Three Point Jumper.",65,41,24,0.998013351600064,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+184,2,"15:33",933,933,"Hofstra Defensive Rebound.",65,41,24,0.998013351600064,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+185,2,"15:28",928,928,"Official TV Timeout",65,41,24,0.997902145180566,"Villanova","Hofstra",4,4,0,0,24.6,400988543,2017-12-22
+186,2,"15:07",907,907,"Hofstra  Timeout",65,41,24,0.997933608787982,"Villanova","Hofstra",3,4,1,0,24.6,400988543,2017-12-22
+187,2,"15:06",906,906,"Justin Wright-Foreman missed Three Point Jumper.",65,41,24,0.997933608787982,"Villanova","Hofstra",3,4,1,0,24.6,400988543,2017-12-22
+188,2,"15:06",906,906,"Eli Pemberton Offensive Rebound.",65,41,24,0.997933608787982,"Villanova","Hofstra",3,4,1,0,24.6,400988543,2017-12-22
+189,2,"14:57",897,897,"Eli Pemberton Turnover.",65,41,24,0.998164164931327,"Villanova","Hofstra",3,4,1,0,24.6,400988543,2017-12-22
+190,2,"14:44",884,884,"Eric Paschall missed Three Point Jumper.",65,41,24,0.996797824924588,"Villanova","Hofstra",3,4,1,0,24.6,400988543,2017-12-22
+191,2,"14:44",884,884,"Dhamir Cosby-Roundtree Offensive Rebound.",65,41,24,0.996797824924588,"Villanova","Hofstra",3,4,1,0,24.6,400988543,2017-12-22
+192,2,"14:36",876,876,"Dhamir Cosby-Roundtree made Layup.",67,41,26,0.998710557237002,"Villanova","Hofstra",3,4,1,0,24.6,400988543,2017-12-22
+193,2,"14:22",862,862,"Foul on Phil Booth.",67,41,26,0.998623844848753,"Villanova","Hofstra",3,4,1,0,24.6,400988543,2017-12-22
+194,2,"14:22",862,862,"Kenny Wormley missed Free Throw.",67,41,26,0.998623844848753,"Villanova","Hofstra",3,4,1,0,24.6,400988543,2017-12-22
+195,2,"14:22",862,862,"Hofstra Deadball Team Rebound.",67,41,26,0.998623844848753,"Villanova","Hofstra",3,4,1,0,24.6,400988543,2017-12-22
+196,2,"14:22",862,862,"Kenny Wormley missed Free Throw.",67,41,26,0.998623844848753,"Villanova","Hofstra",3,4,1,0,24.6,400988543,2017-12-22
+197,2,"14:22",862,862,"Eric Paschall Defensive Rebound.",67,41,26,0.998623844848753,"Villanova","Hofstra",3,4,1,0,24.6,400988543,2017-12-22
+198,2,"14:11",851,851,"Mikal Bridges missed Three Point Jumper.",67,41,26,0.999053585295503,"Villanova","Hofstra",3,4,1,0,24.6,400988543,2017-12-22
+199,2,"14:11",851,851,"Omari Spellman Offensive Rebound.",67,41,26,0.999053585295503,"Villanova","Hofstra",3,4,1,0,24.6,400988543,2017-12-22
+200,2,"14:04",844,844,"Eric Paschall missed Three Point Jumper.",67,41,26,0.999144738842004,"Villanova","Hofstra",3,4,0,0,24.6,400988543,2017-12-22
+201,2,"14:04",844,844,"Rokas Gustys Defensive Rebound.",67,41,26,0.999144738842004,"Villanova","Hofstra",3,4,0,0,24.6,400988543,2017-12-22
+202,2,"13:56",836,836,"Justin Wright-Foreman made Layup.",67,43,24,0.998779900651445,"Villanova","Hofstra",3,4,0,0,24.6,400988543,2017-12-22
+203,2,"13:40",820,820,"Mikal Bridges made Layup. Assisted by Jalen Brunson.",69,43,26,0.998569037532434,"Villanova","Hofstra",3,4,0,0,24.6,400988543,2017-12-22
+204,2,"13:32",812,812,"Eli Pemberton Turnover.",69,43,26,0.998832432085726,"Villanova","Hofstra",3,4,0,0,24.6,400988543,2017-12-22
+205,2,"13:32",812,812,"Jalen Brunson Steal.",69,43,26,0.998832432085726,"Villanova","Hofstra",3,4,0,0,24.6,400988543,2017-12-22
+206,2,"13:22",802,802,"Mikal Bridges missed Layup.",69,43,26,0.999069524547002,"Villanova","Hofstra",3,4,0,0,24.6,400988543,2017-12-22
+207,2,"13:22",802,802,"Mikal Bridges Offensive Rebound.",69,43,26,0.999069524547002,"Villanova","Hofstra",3,4,0,0,24.6,400988543,2017-12-22
+208,2,"13:22",802,802,"Mikal Bridges missed Two Point Tip Shot.",69,43,26,0.999069524547002,"Villanova","Hofstra",3,4,0,0,24.6,400988543,2017-12-22
+209,2,"13:22",802,802,"Kenny Wormley Defensive Rebound.",69,43,26,0.999069524547002,"Villanova","Hofstra",3,4,0,0,24.6,400988543,2017-12-22
+210,2,"13:03",783,783,"Rokas Gustys made Layup. Assisted by Eli Pemberton.",69,45,24,0.998529115286998,"Villanova","Hofstra",3,4,0,0,24.6,400988543,2017-12-22
+211,2,"12:41",761,761,"Donte DiVincenzo missed Jumper.",69,45,24,0.998990845779388,"Villanova","Hofstra",3,4,0,0,24.6,400988543,2017-12-22
+212,2,"12:41",761,761,"Omari Spellman Offensive Rebound.",69,45,24,0.998990845779388,"Villanova","Hofstra",3,4,0,0,24.6,400988543,2017-12-22
+213,2,"12:36",756,756,"Jalen Brunson Turnover.",69,45,24,0.998907299582167,"Villanova","Hofstra",3,4,0,0,24.6,400988543,2017-12-22
+214,2,"12:22",742,742,"Jalen Ray made Three Point Jumper. Assisted by Kenny Wormley.",69,48,21,0.998000226916648,"Villanova","Hofstra",3,4,0,0,24.6,400988543,2017-12-22
+215,2,"11:55",715,715,"Mikal Bridges missed Layup.",69,48,21,0.99781514954572,"Villanova","Hofstra",3,4,0,0,24.6,400988543,2017-12-22
+216,2,"11:55",715,715,"Stafford Trueheart Block.",69,48,21,0.99781514954572,"Villanova","Hofstra",3,4,0,0,24.6,400988543,2017-12-22
+217,2,"11:55",715,715,"Kenny Wormley Defensive Rebound.",69,48,21,0.99781514954572,"Villanova","Hofstra",3,4,0,0,24.6,400988543,2017-12-22
+218,2,"11:45",705,705,"Justin Wright-Foreman missed Dunk.",69,48,21,0.99726726182799,"Villanova","Hofstra",3,4,0,0,24.6,400988543,2017-12-22
+219,2,"11:45",705,705,"Hunter Sabety Offensive Rebound.",69,48,21,0.99726726182799,"Villanova","Hofstra",3,4,0,0,24.6,400988543,2017-12-22
+220,2,"11:36",696,696,"Hunter Sabety made Dunk.",69,50,19,0.997958512760161,"Villanova","Hofstra",3,4,0,0,24.6,400988543,2017-12-22
+221,2,"11:21",681,681,"Donte DiVincenzo made Three Point Jumper. Assisted by Jalen Brunson.",72,50,22,0.998355990374505,"Villanova","Hofstra",3,4,0,0,24.6,400988543,2017-12-22
+222,2,"11:11",671,671,"Justin Wright-Foreman made Three Point Jumper. Assisted by Kenny Wormley.",72,53,19,0.997304233604354,"Villanova","Hofstra",3,4,0,0,24.6,400988543,2017-12-22
+223,2,"11:06",666,666,"Hofstra  Timeout",72,53,19,0.996840192479979,"Villanova","Hofstra",2,4,1,0,24.6,400988543,2017-12-22
+224,2,"10:47",647,647,"Foul on Jalen Ray.",72,53,19,0.997500518887422,"Villanova","Hofstra",2,4,1,0,24.6,400988543,2017-12-22
+225,2,"10:42",642,642,"Omari Spellman missed Jumper.",72,53,19,0.997500518887422,"Villanova","Hofstra",2,4,1,0,24.6,400988543,2017-12-22
+226,2,"10:42",642,642,"Stafford Trueheart Defensive Rebound.",72,53,19,0.997500518887422,"Villanova","Hofstra",2,4,1,0,24.6,400988543,2017-12-22
+227,2,"10:34",634,634,"Justin Wright-Foreman missed Three Point Jumper.",72,53,19,0.996876757846667,"Villanova","Hofstra",2,4,1,0,24.6,400988543,2017-12-22
+228,2,"10:34",634,634,"Eric Paschall Defensive Rebound.",72,53,19,0.996876757846667,"Villanova","Hofstra",2,4,1,0,24.6,400988543,2017-12-22
+229,2,"10:22",622,622,"Mikal Bridges missed Layup.",72,53,19,0.998267303330445,"Villanova","Hofstra",2,4,1,0,24.6,400988543,2017-12-22
+230,2,"10:22",622,622,"Mikal Bridges Offensive Rebound.",72,53,19,0.998267303330445,"Villanova","Hofstra",2,4,1,0,24.6,400988543,2017-12-22
+231,2,"10:22",622,622,"Foul on Stafford Trueheart.",72,53,19,0.998267303330445,"Villanova","Hofstra",2,4,1,0,24.6,400988543,2017-12-22
+232,2,"10:22",622,622,"Mikal Bridges missed Free Throw.",72,53,19,0.998267303330445,"Villanova","Hofstra",2,4,1,0,24.6,400988543,2017-12-22
+233,2,"10:22",622,622,"Villanova Deadball Team Rebound.",72,53,19,0.998267303330445,"Villanova","Hofstra",2,4,1,0,24.6,400988543,2017-12-22
+234,2,"10:22",622,622,"Mikal Bridges made Free Throw.",73,53,20,0.998652007815942,"Villanova","Hofstra",2,4,1,0,24.6,400988543,2017-12-22
+235,2,"10:05",605,605,"Kenny Wormley made Layup.",73,55,18,0.997228836612165,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+236,2,"9:41",581,581,"Mikal Bridges made Three Point Jumper. Assisted by Eric Paschall.",76,55,21,0.9983328132221,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+237,2,"9:20",560,560,"Jalen Ray missed Three Point Jumper.",76,55,21,0.999073756554797,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+238,2,"9:20",560,560,"Donte DiVincenzo Defensive Rebound.",76,55,21,0.999073756554797,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+239,2,"9:11",551,551,"Donte DiVincenzo made Three Point Jumper. Assisted by Mikal Bridges.",79,55,24,0.999505913748139,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+240,2,"8:47",527,527,"Foul on Kenny Wormley.",79,55,24,0.999570952654399,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+241,2,"8:47",527,527,"Kenny Wormley Turnover.",79,55,24,0.999570952654399,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+242,2,"8:35",515,515,"Donte DiVincenzo missed Jumper.",79,55,24,0.999552182602839,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+243,2,"8:35",515,515,"Donte DiVincenzo Offensive Rebound.",79,55,24,0.999552182602839,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+244,2,"8:35",515,515,"Donte DiVincenzo missed Two Point Tip Shot.",79,55,24,0.999552182602839,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+245,2,"8:35",515,515,"Rokas Gustys Defensive Rebound.",79,55,24,0.999552182602839,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+246,2,"8:26",506,506,"Justin Wright-Foreman made Layup. Assisted by Eli Pemberton.",79,57,22,0.999338067261981,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+247,2,"8:03",483,483,"Foul on Phil Booth.",79,57,22,0.999339694842482,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+248,2,"8:03",483,483,"Phil Booth Turnover.",79,57,22,0.999339694842482,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+249,2,"8:03",483,483,"Official TV Timeout",79,57,22,0.999339694842482,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+250,2,"7:47",467,467,"Foul on Mikal Bridges.",79,57,22,0.999453365308155,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+251,2,"7:47",467,467,"Official TV Timeout",79,57,22,0.999453365308155,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+252,2,"7:47",467,467,"Rokas Gustys missed Free Throw.",79,57,22,0.999453365308155,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+253,2,"7:47",467,467,"Hofstra Deadball Team Rebound.",79,57,22,0.999453365308155,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+254,2,"7:47",467,467,"Rokas Gustys made Free Throw.",79,58,21,0.99927548518866,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+255,2,"7:36",456,456,"Mikal Bridges missed Layup.",79,58,21,0.999598157606375,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+256,2,"7:36",456,456,"Jalen Ray Defensive Rebound.",79,58,21,0.999598157606375,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+257,2,"7:18",438,438,"Eli Pemberton Turnover.",79,58,21,0.999597593599834,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+258,2,"7:18",438,438,"Phil Booth Steal.",79,58,21,0.999597593599834,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+259,2,"7:13",433,433,"Phil Booth made Layup.",81,58,23,0.999782450654146,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+260,2,"7:13",433,433,"Foul on Rokas Gustys.",81,58,23,0.999782450654146,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+261,2,"7:13",433,433,"Phil Booth made Free Throw.",82,58,24,0.999840048212316,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+262,2,"7:04",424,424,"Justin Wright-Foreman made Jumper.",82,60,22,0.999546672652101,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+263,2,"6:41",401,401,"Phil Booth Turnover.",82,60,22,0.999783037077806,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+264,2,"6:41",401,401,"Eli Pemberton Steal.",82,60,22,0.999783037077806,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+265,2,"6:35",395,395,"Jalen Ray missed Layup.",82,60,22,0.999696739975576,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+266,2,"6:35",395,395,"Hofstra Deadball Team Rebound.",82,60,22,0.999696739975576,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+267,2,"6:35",395,395,"Foul on Jalen Brunson.",82,60,22,0.999696739975576,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+268,2,"6:29",389,389,"Jalen Ray missed Three Point Jumper.",82,60,22,0.999622199406204,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+269,2,"6:29",389,389,"Eli Pemberton Offensive Rebound.",82,60,22,0.999622199406204,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+270,2,"6:22",382,382,"Eli Pemberton made Dunk.",82,62,20,0.999315321978798,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+271,2,"6:09",369,369,"Donte DiVincenzo missed Three Point Jumper.",82,62,20,0.9994886304537,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+272,2,"6:09",369,369,"Eric Paschall Offensive Rebound.",82,62,20,0.9994886304537,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+273,2,"6:00",360,360,"Foul on Eli Pemberton.",82,62,20,0.9994886304537,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+274,2,"6:00",360,360,"Eric Paschall missed Free Throw.",82,62,20,0.9994886304537,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+275,2,"6:00",360,360,"Villanova Deadball Team Rebound.",82,62,20,0.9994886304537,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+276,2,"6:00",360,360,"Eric Paschall made Free Throw.",83,62,21,0.999629668157982,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+277,2,"5:48",348,348,"Justin Wright-Foreman missed Three Point Jumper.",83,62,21,0.999694077698404,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+278,2,"5:48",348,348,"Hofstra Deadball Team Rebound.",83,62,21,0.999694077698404,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+279,2,"5:46",346,346,"Foul on Dhamir Cosby-Roundtree.",83,62,21,0.999694077698404,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+280,2,"5:39",339,339,"Foul on Eli Pemberton.",83,62,21,0.999820431194748,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+281,2,"5:39",339,339,"Eli Pemberton Turnover.",83,62,21,0.999820431194748,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+282,2,"5:24",324,324,"Eric Paschall Turnover.",83,62,21,0.999611472303803,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+283,2,"5:08",308,308,"Jump Ball won by Villanova",83,62,21,0.999709234711421,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+284,2,"5:08",308,308,"Rokas Gustys Turnover.",83,62,21,0.999709234711421,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+285,2,"5:08",308,308,"Eric Paschall Steal.",83,62,21,0.999709234711421,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+286,2,"4:56",296,296,"Eric Paschall Turnover.",83,62,21,0.99978897035642,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+287,2,"4:42",282,282,"Rokas Gustys missed Layup.",83,62,21,0.99980038786632,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+288,2,"4:42",282,282,"Donte DiVincenzo Defensive Rebound.",83,62,21,0.99980038786632,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+289,2,"4:36",276,276,"Dhamir Cosby-Roundtree made Dunk. Assisted by Jalen Brunson.",85,62,23,0.999955380193538,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+290,2,"4:18",258,258,"Foul on Jalen Brunson.",85,62,23,0.999977118785911,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+291,2,"4:18",258,258,"Rokas Gustys made Free Throw.",85,63,22,0.99996512827233,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+292,2,"4:18",258,258,"Rokas Gustys missed Free Throw.",85,63,22,0.99996512827233,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+293,2,"4:18",258,258,"Donte DiVincenzo Defensive Rebound.",85,63,22,0.99996512827233,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+294,2,"4:10",250,250,"Mikal Bridges made Three Point Jumper.",88,63,25,0.999990148882279,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+295,2,"3:48",228,228,"Rokas Gustys missed Layup.",88,63,25,0.99999270230633,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+296,2,"3:48",228,228,"Donte DiVincenzo Defensive Rebound.",88,63,25,0.99999270230633,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+297,2,"3:43",223,223,"Donte DiVincenzo made Layup. Assisted by Jalen Brunson.",90,63,27,0.999996871244971,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+298,2,"3:33",213,213,"Foul on Donte DiVincenzo.",90,63,27,0.999997411242341,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+299,2,"3:33",213,213,"Official TV Timeout",90,63,27,0.999997411242341,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+300,2,"3:33",213,213,"Justin Wright-Foreman made Free Throw.",90,64,26,0.999995983243066,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+301,2,"3:33",213,213,"Justin Wright-Foreman made Free Throw.",90,65,25,0.999993767541931,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+302,2,"3:26",206,206,"Omari Spellman made Jumper. Assisted by Mikal Bridges.",92,65,27,0.99999848006183,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+303,2,"3:07",187,187,"Eli Pemberton missed Three Point Jumper.",92,65,27,0.999999154811938,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+304,2,"3:07",187,187,"Mikal Bridges Block.",92,65,27,0.999999154811938,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+305,2,"3:07",187,187,"Jalen Brunson Defensive Rebound.",92,65,27,0.999999154811938,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+306,2,"3:07",187,187,"Jalen Brunson missed Jumper.",92,65,27,0.999999154811938,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+307,2,"3:07",187,187,"Jalen Ray Block.",92,65,27,0.999999154811938,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+308,2,"3:07",187,187,"Rokas Gustys Defensive Rebound.",92,65,27,0.999999154811938,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+309,2,"2:55",175,175,"Matija Radovic made Layup. Assisted by Eli Pemberton.",92,67,25,0.999998286294768,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+310,2,"2:37",157,157,"Mikal Bridges missed Three Point Jumper.",92,67,25,0.999999422406481,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+311,2,"2:37",157,157,"Justin Wright-Foreman Defensive Rebound.",92,67,25,0.999999422406481,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+312,2,"2:25",145,145,"Jump Ball won by Hofstra",92,67,25,0.999999174674029,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+313,2,"2:14",134,134,"Foul on Jermaine Samuels.",92,67,25,0.999999530384124,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+314,2,"2:14",134,134,"Rokas Gustys missed Free Throw.",92,67,25,0.999999530384124,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+315,2,"2:14",134,134,"Hofstra Deadball Team Rebound.",92,67,25,0.999999530384124,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+316,2,"2:14",134,134,"Rokas Gustys missed Free Throw.",92,67,25,0.999999530384124,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+317,2,"2:14",134,134,"Dhamir Cosby-Roundtree Defensive Rebound.",92,67,25,0.999999530384124,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+318,2,"1:55",115,115,"Omari Spellman made Three Point Jumper. Assisted by Eric Paschall.",95,67,28,0.999999979486029,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+319,2,"1:41",101,101,"Jalen Ray missed Three Point Jumper.",95,67,28,0.999999985781277,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+320,2,"1:41",101,101,"Rokas Gustys Offensive Rebound.",95,67,28,0.999999985781277,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+321,2,"1:38",98,98,"Foul on Eric Paschall.",95,67,28,0.999999987952178,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+322,2,"1:38",98,98,"Rokas Gustys missed Free Throw.",95,67,28,0.999999987952178,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+323,2,"1:38",98,98,"Hofstra Deadball Team Rebound.",95,67,28,0.999999987952178,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+324,2,"1:38",98,98,"Rokas Gustys made Free Throw.",95,68,27,0.999999977404891,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+325,2,"1:18",78,78,"Denny Grace missed Three Point Jumper.",95,68,27,0.999999998777964,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+326,2,"1:18",78,78,"Hunter Sabety Defensive Rebound.",95,68,27,0.999999998777964,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+327,2,"0:57",57,57,"Joel Angus III made Jumper. Assisted by Kenny Wormley.",95,70,25,0.999999999872827,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+328,2,"0:37",37,37,"Tom Leibig missed Three Point Jumper.",95,70,25,0.999999999935045,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+329,2,"0:37",37,37,"Hunter Sabety Defensive Rebound.",95,70,25,0.999999999935045,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+330,2,"0:33",33,33,"Hunter Sabety Turnover.",95,70,25,0.999999999999708,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+331,2,"0:33",33,33,"Tom Leibig Steal.",95,70,25,0.999999999999708,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+332,2,"0:08",8,8,"Tom Leibig Turnover.",95,70,25,1,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+333,2,"0:08",8,8,"Kenny Wormley Steal.",95,70,25,1,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+334,2,"0:03",3,3,"Foul on Denny Grace.",95,70,25,1,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+335,2,"0:03",3,3,"Kenny Wormley made Free Throw.",95,71,24,1,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+336,2,"0:03",3,3,"Kenny Wormley missed Free Throw.",95,71,24,1,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+337,2,"0:03",3,3,"Matt Kennedy Defensive Rebound.",95,71,24,1,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22
+338,2,"0:00",0,0,"End of Game",95,71,24,1,"Villanova","Hofstra",2,4,0,0,24.6,400988543,2017-12-22

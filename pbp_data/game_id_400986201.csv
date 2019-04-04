@@ -1,0 +1,355 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.735069594872722,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+2,1,"20:00",2400,2400,"Jump Ball won by Virginia Tech",0,0,0,0.735069594872722,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+3,1,"19:52",2392,2392,"Justin Robinson Turnover.",0,0,0,0.735069594872722,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+4,1,"19:52",2392,2392,"Quentin Snider Steal.",0,0,0,0.735069594872722,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+5,1,"19:46",2386,2386,"Quentin Snider missed Layup.",0,0,0,0.73187726689758,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+6,1,"19:46",2386,2386,"Ray Spalding Offensive Rebound.",0,0,0,0.73187726689758,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+7,1,"19:41",2381,2381,"Ray Spalding missed Layup.",0,0,0,0.73187726689758,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+8,1,"19:41",2381,2381,"Kerry Blackshear Jr. Defensive Rebound.",0,0,0,0.73187726689758,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+9,1,"19:29",2369,2369,"Kerry Blackshear Jr. missed Layup.",0,0,0,0.718456005559136,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+10,1,"19:29",2369,2369,"Ray Spalding Block.",0,0,0,0.718456005559136,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+11,1,"19:29",2369,2369,"Virginia Tech Offensive Rebound.",0,0,0,0.718456005559136,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+12,1,"19:19",2359,2359,"Justin Robinson missed Three Point Jumper.",0,0,0,0.739225757503418,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+13,1,"19:19",2359,2359,"V.J. King Defensive Rebound.",0,0,0,0.739225757503418,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+14,1,"18:49",2329,2329,"Quentin Snider missed Three Point Jumper.",0,0,0,0.734166973989882,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+15,1,"18:49",2329,2329,"Ahmed Hill Defensive Rebound.",0,0,0,0.734166973989882,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+16,1,"18:37",2317,2317,"Foul on Malik Williams.",0,0,0,0.712506712921599,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+17,1,"18:37",2317,2317,"Kerry Blackshear Jr. made Free Throw.",0,1,-1,0.691975003341207,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+18,1,"18:37",2317,2317,"Kerry Blackshear Jr. missed Free Throw.",0,1,-1,0.691975003341207,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+19,1,"18:37",2317,2317,"V.J. King Defensive Rebound.",0,1,-1,0.691975003341207,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+20,1,"18:26",2306,2306,"V.J. King made Layup. Assisted by Malik Williams.",2,1,1,0.735061654480501,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+21,1,"18:09",2289,2289,"Nickeil Alexander-Walker missed Three Point Jumper.",2,1,1,0.739774814708157,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+22,1,"18:09",2289,2289,"Deng Adel Defensive Rebound.",2,1,1,0.739774814708157,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+23,1,"17:56",2276,2276,"Deng Adel made Three Point Jumper. Assisted by Malik Williams.",5,1,4,0.801261496494806,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+24,1,"17:37",2257,2257,"Nickeil Alexander-Walker missed Three Point Jumper.",5,1,4,0.792011336160838,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+25,1,"17:37",2257,2257,"Deng Adel Defensive Rebound.",5,1,4,0.792011336160838,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+26,1,"17:22",2242,2242,"Deng Adel Turnover.",5,1,4,0.788805918734708,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+27,1,"17:22",2242,2242,"Nickeil Alexander-Walker Steal.",5,1,4,0.788805918734708,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+28,1,"17:15",2235,2235,"Justin Robinson made Layup.",5,3,2,0.766050889895392,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+29,1,"16:55",2215,2215,"Ray Spalding missed Jumper.",5,3,2,0.77290313939705,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+30,1,"16:55",2215,2215,"Kerry Blackshear Jr. Defensive Rebound.",5,3,2,0.77290313939705,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+31,1,"16:48",2208,2208,"Justin Robinson Turnover.",5,3,2,0.765184660873134,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+32,1,"16:48",2208,2208,"Malik Williams Steal.",5,3,2,0.765184660873134,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+33,1,"16:47",2207,2207,"Foul on Nickeil Alexander-Walker.",5,3,2,0.765184660873134,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+34,1,"16:38",2198,2198,"Quentin Snider missed Three Point Jumper.",5,3,2,0.77566018872428,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+35,1,"16:38",2198,2198,"Ray Spalding Offensive Rebound.",5,3,2,0.77566018872428,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+36,1,"16:32",2192,2192,"Ray Spalding made Dunk.",7,3,4,0.813580186143688,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+37,1,"16:08",2168,2168,"Nickeil Alexander-Walker made Three Point Jumper. Assisted by Justin Bibbs.",7,6,1,0.738849423987879,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+38,1,"15:43",2143,2143,"Deng Adel missed Layup.",7,6,1,0.745469078351428,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+39,1,"15:43",2143,2143,"Ahmed Hill Defensive Rebound.",7,6,1,0.745469078351428,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+40,1,"15:37",2137,2137,"Ahmed Hill missed Layup.",7,6,1,0.741438076098747,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+41,1,"15:37",2137,2137,"Nickeil Alexander-Walker Offensive Rebound.",7,6,1,0.741438076098747,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+42,1,"15:36",2136,2136,"Official TV Timeout",7,6,1,0.741438076098747,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+43,1,"15:35",2135,2135,"Justin Robinson Turnover.",7,6,1,0.741438076098747,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+44,1,"15:35",2135,2135,"V.J. King Steal.",7,6,1,0.741438076098747,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+45,1,"15:23",2123,2123,"Malik Williams Turnover.",7,6,1,0.73594930903354,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+46,1,"15:23",2123,2123,"Nickeil Alexander-Walker Steal.",7,6,1,0.73594930903354,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+47,1,"15:10",2110,2110,"Ahmed Hill made Jumper.",7,8,-1,0.696632556157647,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+48,1,"14:53",2093,2093,"Quentin Snider Turnover.",7,8,-1,0.683558116473184,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+49,1,"14:42",2082,2082,"Kerry Blackshear Jr. made Three Point Jumper. Assisted by Chris Clarke.",7,11,-4,0.620035823453911,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+50,1,"14:26",2066,2066,"Deng Adel made Three Point Jumper. Assisted by Ray Spalding.",10,11,-1,0.681795833839935,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+51,1,"14:01",2041,2041,"Justin Bibbs missed Three Point Jumper.",10,11,-1,0.678664105003891,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+52,1,"14:01",2041,2041,"Deng Adel Defensive Rebound.",10,11,-1,0.678664105003891,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+53,1,"13:47",2027,2027,"V.J. King missed Three Point Jumper.",10,11,-1,0.682452144581386,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+54,1,"13:47",2027,2027,"Dwayne Sutton Offensive Rebound.",10,11,-1,0.682452144581386,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+55,1,"13:41",2021,2021,"Deng Adel made Three Point Jumper. Assisted by Dwayne Sutton.",13,11,2,0.761457804069909,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+56,1,"13:29",2009,2009,"Ahmed Hill missed Three Point Jumper.",13,11,2,0.751697940561536,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+57,1,"13:29",2009,2009,"Kerry Blackshear Jr. Offensive Rebound.",13,11,2,0.751697940561536,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+58,1,"13:26",2006,2006,"Kerry Blackshear Jr. made Layup.",13,13,0,0.708267919521207,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+59,1,"13:26",2006,2006,"Foul on Quentin Snider.",13,13,0,0.708267919521207,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+60,1,"13:26",2006,2006,"Kerry Blackshear Jr. made Free Throw.",13,14,-1,0.684954555196886,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+61,1,"13:07",1987,1987,"V.J. King Turnover.",13,14,-1,0.670716652475707,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+62,1,"12:42",1962,1962,"Foul on Ray Spalding.",13,14,-1,0.689736136579548,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+63,1,"12:42",1962,1962,"Ahmed Hill made Free Throw.",13,15,-2,0.666613052984476,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+64,1,"12:42",1962,1962,"Ahmed Hill missed Free Throw.",13,15,-2,0.666613052984476,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+65,1,"12:42",1962,1962,"Dwayne Sutton Defensive Rebound.",13,15,-2,0.666613052984476,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+66,1,"12:24",1944,1944,"Anas Mahmoud Turnover.",13,15,-2,0.653706419937213,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+67,1,"12:02",1922,1922,"Justin Bibbs missed Jumper.",13,15,-2,0.654689565884146,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+68,1,"12:02",1922,1922,"Kerry Blackshear Jr. Offensive Rebound.",13,15,-2,0.654689565884146,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+69,1,"11:57",1917,1917,"Kerry Blackshear Jr. made Layup.",13,17,-4,0.609777556031659,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+70,1,"11:32",1892,1892,"Deng Adel Turnover.",13,17,-4,0.588953324487655,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+71,1,"11:32",1892,1892,"Nickeil Alexander-Walker Steal.",13,17,-4,0.588953324487655,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+72,1,"11:31",1891,1891,"Nickeil Alexander-Walker Turnover.",13,17,-4,0.588953324487655,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+73,1,"11:31",1891,1891,"Official TV Timeout",13,17,-4,0.588953324487655,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+74,1,"11:14",1874,1874,"Ryan McMahon Turnover.",13,17,-4,0.593096764379501,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+75,1,"10:56",1856,1856,"Foul on Dwayne Sutton.",13,17,-4,0.594757278023654,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+76,1,"10:56",1856,1856,"Nickeil Alexander-Walker made Free Throw.",13,18,-5,0.563573738817104,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+77,1,"10:56",1856,1856,"Nickeil Alexander-Walker made Free Throw.",13,19,-6,0.531879277252207,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+78,1,"10:40",1840,1840,"Darius Perry made Three Point Jumper. Assisted by Dwayne Sutton.",16,19,-3,0.610444233417591,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+79,1,"10:27",1827,1827,"Ahmed Hill Turnover.",16,19,-3,0.64796003016242,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+80,1,"10:27",1827,1827,"Ryan McMahon Steal.",16,19,-3,0.64796003016242,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+81,1,"10:23",1823,1823,"Ryan McMahon missed Layup.",16,19,-3,0.64796003016242,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+82,1,"10:23",1823,1823,"Darius Perry Offensive Rebound.",16,19,-3,0.64796003016242,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+83,1,"10:17",1817,1817,"Dwayne Sutton made Layup. Assisted by Darius Perry.",18,19,-1,0.678550542452592,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+84,1,"10:04",1804,1804,"Chris Clarke Turnover.",18,19,-1,0.675379790828852,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+85,1,"9:52",1792,1792,"Anas Mahmoud made Jumper. Assisted by Ryan McMahon.",20,19,1,0.721607349533662,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+86,1,"9:26",1766,1766,"Foul on Nickeil Alexander-Walker.",20,19,1,0.738211646707915,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+87,1,"9:26",1766,1766,"Nickeil Alexander-Walker Turnover.",20,19,1,0.738211646707915,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+88,1,"9:06",1746,1746,"Ryan McMahon made Three Point Jumper.",23,19,4,0.799030085043334,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+89,1,"8:54",1734,1734,"Justin Robinson made Layup.",23,21,2,0.756565498965029,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+90,1,"8:54",1734,1734,"Foul on Anas Mahmoud.",23,21,2,0.756565498965029,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+91,1,"8:54",1734,1734,"Justin Robinson made Free Throw.",23,22,1,0.730490029867185,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+92,1,"8:29",1709,1709,"Anas Mahmoud missed Jumper.",23,22,1,0.71916581758909,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+93,1,"8:29",1709,1709,"Kerry Blackshear Jr. Defensive Rebound.",23,22,1,0.71916581758909,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+94,1,"8:12",1692,1692,"Justin Bibbs made Layup.",23,24,-1,0.672702289133635,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+95,1,"7:56",1676,1676,"Dwayne Sutton made Dunk.",25,24,1,0.731578915699159,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+96,1,"7:38",1658,1658,"Justin Robinson missed Three Point Jumper.",25,24,1,0.727020744936638,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+97,1,"7:38",1658,1658,"Kerry Blackshear Jr. Offensive Rebound.",25,24,1,0.727020744936638,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+98,1,"7:33",1653,1653,"Official TV Timeout",25,24,1,0.727020744936638,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+99,1,"7:30",1650,1650,"Justin Bibbs made Jumper. Assisted by Chris Clarke.",25,26,-1,0.671378646879021,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+100,1,"7:06",1626,1626,"V.J. King missed Jumper.",25,26,-1,0.663441678092266,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+101,1,"7:06",1626,1626,"Ray Spalding Offensive Rebound.",25,26,-1,0.663441678092266,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+102,1,"7:04",1624,1624,"Foul on Ray Spalding.",25,26,-1,0.663441678092266,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+103,1,"7:04",1624,1624,"Ray Spalding Turnover.",25,26,-1,0.663441678092266,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+104,1,"6:48",1608,1608,"Chris Clarke Turnover.",25,26,-1,0.667477868904319,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+105,1,"6:48",1608,1608,"Dwayne Sutton Steal.",25,26,-1,0.667477868904319,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+106,1,"6:39",1599,1599,"Foul on Kerry Blackshear Jr..",25,26,-1,0.673466339603305,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+107,1,"6:39",1599,1599,"Anas Mahmoud missed Free Throw.",25,26,-1,0.673466339603305,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+108,1,"6:39",1599,1599,"Louisville Deadball Team Rebound.",25,26,-1,0.673466339603305,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+109,1,"6:39",1599,1599,"Anas Mahmoud missed Free Throw.",25,26,-1,0.673466339603305,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+110,1,"6:39",1599,1599,"Chris Clarke Defensive Rebound.",25,26,-1,0.673466339603305,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+111,1,"6:32",1592,1592,"Chris Clarke missed Layup.",25,26,-1,0.673466339603305,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+112,1,"6:32",1592,1592,"Anas Mahmoud Block.",25,26,-1,0.673466339603305,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+113,1,"6:32",1592,1592,"Ryan McMahon Defensive Rebound.",25,26,-1,0.673466339603305,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+114,1,"6:23",1583,1583,"V.J. King Turnover.",25,26,-1,0.658137126046926,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+115,1,"6:23",1583,1583,"Chris Clarke Steal.",25,26,-1,0.658137126046926,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+116,1,"6:17",1577,1577,"Justin Bibbs missed Jumper.",25,26,-1,0.666653216218415,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+117,1,"6:17",1577,1577,"Dwayne Sutton Defensive Rebound.",25,26,-1,0.666653216218415,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+118,1,"6:09",1569,1569,"Darius Perry Turnover.",25,26,-1,0.652620026376443,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+119,1,"6:06",1566,1566,"Foul on V.J. King.",25,26,-1,0.652620026376443,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+120,1,"6:06",1566,1566,"Kerry Blackshear Jr. made Free Throw.",25,27,-2,0.619686940163698,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+121,1,"6:06",1566,1566,"Kerry Blackshear Jr. made Free Throw.",25,28,-3,0.585614119446587,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+122,1,"5:51",1551,1551,"V.J. King made Three Point Jumper. Assisted by Anas Mahmoud.",28,28,0,0.683924526812584,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+123,1,"5:33",1533,1533,"Chris Clarke made Layup.",28,30,-2,0.637766431727916,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+124,1,"5:11",1511,1511,"Quentin Snider made Layup.",30,30,0,0.703506338061333,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+125,1,"4:50",1490,1490,"Kerry Blackshear Jr. made Layup. Assisted by Chris Clarke.",30,32,-2,0.646190544757894,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+126,1,"4:50",1490,1490,"Foul on Anas Mahmoud.",30,32,-2,0.646190544757894,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+127,1,"4:50",1490,1490,"Kerry Blackshear Jr. made Free Throw.",30,33,-3,0.61368548019177,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+128,1,"4:36",1476,1476,"Quentin Snider made Three Point Jumper. Assisted by V.J. King.",33,33,0,0.702629166559878,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+129,1,"4:21",1461,1461,"Devin Wilson Turnover.",33,33,0,0.687874841267182,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+130,1,"4:21",1461,1461,"V.J. King Steal.",33,33,0,0.687874841267182,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+131,1,"4:17",1457,1457,"Foul on Devin Wilson.",33,33,0,0.682787285342438,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+132,1,"4:17",1457,1457,"V.J. King made Free Throw.",34,33,1,0.713827407068357,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+133,1,"4:17",1457,1457,"V.J. King made Free Throw.",35,33,2,0.742973543848857,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+134,1,"3:50",1430,1430,"Justin Bibbs missed Jumper.",35,33,2,0.752115120251919,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+135,1,"3:50",1430,1430,"Malik Williams Defensive Rebound.",35,33,2,0.752115120251919,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+136,1,"3:42",1422,1422,"Malik Williams Turnover.",35,33,2,0.736653778447383,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+137,1,"3:42",1422,1422,"Justin Bibbs Steal.",35,33,2,0.736653778447383,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+138,1,"3:35",1415,1415,"Kerry Blackshear Jr. Turnover.",35,33,2,0.74162371544095,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+139,1,"3:35",1415,1415,"Official TV Timeout",35,33,2,0.74162371544095,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+140,1,"3:28",1408,1408,"Deng Adel missed Three Point Jumper.",35,33,2,0.763746329817978,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+141,1,"3:28",1408,1408,"Justin Bibbs Defensive Rebound.",35,33,2,0.763746329817978,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+142,1,"3:09",1389,1389,"Kerry Blackshear Jr. Turnover.",35,33,2,0.756240564568886,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+143,1,"3:09",1389,1389,"Malik Williams Steal.",35,33,2,0.756240564568886,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+144,1,"3:09",1389,1389,"Jump Ball won by Louisville",35,33,2,0.756240564568886,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+145,1,"2:56",1376,1376,"Ryan McMahon made Jumper.",37,33,4,0.789146480886343,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+146,1,"2:48",1368,1368,"Justin Robinson made Layup.",37,35,2,0.748621757538906,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+147,1,"2:33",1353,1353,"Malik Williams missed Three Point Jumper.",37,35,2,0.758460216859677,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+148,1,"2:33",1353,1353,"Justin Bibbs Defensive Rebound.",37,35,2,0.758460216859677,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+149,1,"2:22",1342,1342,"Chris Clarke Turnover.",37,35,2,0.739668460171414,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+150,1,"2:22",1342,1342,"Ryan McMahon Steal.",37,35,2,0.739668460171414,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+151,1,"2:16",1336,1336,"V.J. King made Layup. Assisted by Deng Adel.",39,35,4,0.79161319747085,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+152,1,"1:56",1316,1316,"Ahmed Hill made Layup.",39,37,2,0.758201154540599,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+153,1,"1:38",1298,1298,"Quentin Snider missed Three Point Jumper.",39,37,2,0.758495433372977,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+154,1,"1:38",1298,1298,"Justin Bibbs Defensive Rebound.",39,37,2,0.758495433372977,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+155,1,"1:26",1286,1286,"Virginia Tech  Timeout",39,37,2,0.748895935081238,"Louisville","Virginia Tech",3,4,1,0,4.5,400986201,2018-01-13
+156,1,"1:17",1277,1277,"Justin Robinson missed Three Point Jumper.",39,37,2,0.732350414754892,"Louisville","Virginia Tech",3,4,1,0,4.5,400986201,2018-01-13
+157,1,"1:17",1277,1277,"Quentin Snider Defensive Rebound.",39,37,2,0.732350414754892,"Louisville","Virginia Tech",3,4,1,0,4.5,400986201,2018-01-13
+158,1,"1:09",1269,1269,"V.J. King made Layup. Assisted by Quentin Snider.",41,37,4,0.814145066382871,"Louisville","Virginia Tech",3,4,1,0,4.5,400986201,2018-01-13
+159,1,"0:43",1243,1243,"Tyrie Jackson missed Three Point Jumper.",41,37,4,0.800844353466649,"Louisville","Virginia Tech",3,4,1,0,4.5,400986201,2018-01-13
+160,1,"0:43",1243,1243,"Deng Adel Defensive Rebound.",41,37,4,0.800844353466649,"Louisville","Virginia Tech",3,4,1,0,4.5,400986201,2018-01-13
+161,1,"0:20",1220,1220,"Malik Williams made Three Point Jumper. Assisted by Quentin Snider.",44,37,7,0.875695748594897,"Louisville","Virginia Tech",3,4,0,0,4.5,400986201,2018-01-13
+162,1,"0:01",1201,1201,"Ahmed Hill made Three Point Jumper. Assisted by Justin Robinson.",44,40,4,0.800135605611721,"Louisville","Virginia Tech",3,4,0,0,4.5,400986201,2018-01-13
+163,1,"0:00",1200,1200,"End of 1st half",44,40,4,0.800135605611721,"Louisville","Virginia Tech",3,4,0,0,4.5,400986201,2018-01-13
+164,2,"20:00",1200,1200,"PLAY",44,40,4,0.800135605611721,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+165,2,"20:00",1200,1200,"Jump Ball won by Virginia Tech",44,40,4,0.800135605611721,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+166,2,"19:50",1190,1190,"Justin Bibbs Turnover.",44,40,4,0.823296988747195,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+167,2,"19:32",1172,1172,"Foul on Ray Spalding.",44,40,4,0.79854315152336,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+168,2,"19:32",1172,1172,"Ray Spalding Turnover.",44,40,4,0.79854315152336,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+169,2,"19:22",1162,1162,"Foul on Justin Bibbs.",44,40,4,0.794821323563943,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+170,2,"19:22",1162,1162,"Justin Bibbs Turnover.",44,40,4,0.794821323563943,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+171,2,"19:11",1151,1151,"Deng Adel made Jumper.",46,40,6,0.845569260243454,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+172,2,"19:00",1140,1140,"Nickeil Alexander-Walker missed Three Point Jumper.",46,40,6,0.850513567139955,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+173,2,"19:00",1140,1140,"Justin Robinson Offensive Rebound.",46,40,6,0.850513567139955,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+174,2,"18:53",1133,1133,"Ahmed Hill made Three Point Jumper. Assisted by Justin Robinson.",46,43,3,0.779118019283988,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+175,2,"18:34",1114,1114,"Deng Adel missed Jumper.",46,43,3,0.775641652442215,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+176,2,"18:34",1114,1114,"Kerry Blackshear Jr. Defensive Rebound.",46,43,3,0.775641652442215,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+177,2,"18:24",1104,1104,"Justin Robinson missed Layup.",46,43,3,0.775483108467391,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+178,2,"18:24",1104,1104,"Ray Spalding Block.",46,43,3,0.775483108467391,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+179,2,"18:24",1104,1104,"Ray Spalding Defensive Rebound.",46,43,3,0.775483108467391,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+180,2,"18:18",1098,1098,"Deng Adel made Layup.",48,43,5,0.836270082506652,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+181,2,"18:09",1089,1089,"Nickeil Alexander-Walker missed Layup.",48,43,5,0.835750097761245,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+182,2,"18:09",1089,1089,"Ray Spalding Defensive Rebound.",48,43,5,0.835750097761245,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+183,2,"18:03",1083,1083,"Foul on Justin Robinson.",48,43,5,0.835750097761245,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+184,2,"18:03",1083,1083,"V.J. King missed Free Throw.",48,43,5,0.835750097761245,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+185,2,"18:03",1083,1083,"Louisville Deadball Team Rebound.",48,43,5,0.835750097761245,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+186,2,"18:03",1083,1083,"V.J. King made Free Throw.",49,43,6,0.858633837662569,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+187,2,"17:51",1071,1071,"Nickeil Alexander-Walker made Three Point Jumper. Assisted by Kerry Blackshear Jr..",49,46,3,0.775579722165341,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+188,2,"17:37",1057,1057,"Ray Spalding Turnover.",49,46,3,0.783384416852412,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+189,2,"17:37",1057,1057,"Foul on Ray Spalding.",49,46,3,0.783384416852412,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+190,2,"17:25",1045,1045,"Justin Bibbs missed Layup.",49,46,3,0.787499548544556,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+191,2,"17:25",1045,1045,"Anas Mahmoud Defensive Rebound.",49,46,3,0.787499548544556,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+192,2,"17:17",1037,1037,"Malik Williams missed Jumper.",49,46,3,0.770835419039544,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+193,2,"17:17",1037,1037,"Anas Mahmoud Offensive Rebound.",49,46,3,0.770835419039544,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+194,2,"17:11",1031,1031,"Malik Williams missed Three Point Jumper.",49,46,3,0.770835419039544,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+195,2,"17:11",1031,1031,"Deng Adel Offensive Rebound.",49,46,3,0.770835419039544,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+196,2,"16:53",1013,1013,"Quentin Snider made Three Point Jumper.",52,46,6,0.843605848591155,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+197,2,"16:22",982,982,"Ahmed Hill missed Jumper.",52,46,6,0.871364029310853,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+198,2,"16:22",982,982,"Anas Mahmoud Defensive Rebound.",52,46,6,0.871364029310853,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+199,2,"16:09",969,969,"Foul on Justin Robinson.",52,46,6,0.85112214722151,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+200,2,"16:09",969,969,"Deng Adel made Free Throw.",53,46,7,0.873134173260925,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+201,2,"16:09",969,969,"Deng Adel missed Free Throw.",53,46,7,0.873134173260925,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+202,2,"16:09",969,969,"Kerry Blackshear Jr. Defensive Rebound.",53,46,7,0.873134173260925,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+203,2,"15:54",954,954,"Foul on Dwayne Sutton.",53,46,7,0.882846246238635,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+204,2,"15:54",954,954,"Official TV Timeout",53,46,7,0.882846246238635,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+205,2,"15:54",954,954,"Chris Clarke missed Free Throw.",53,46,7,0.882846246238635,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+206,2,"15:54",954,954,"Virginia Tech Deadball Team Rebound.",53,46,7,0.882846246238635,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+207,2,"15:54",954,954,"Chris Clarke made Free Throw.",53,47,6,0.861574879080952,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+208,2,"15:41",941,941,"Quentin Snider made Three Point Jumper. Assisted by Deng Adel.",56,47,9,0.923882245908859,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+209,2,"15:10",910,910,"Justin Robinson made Three Point Jumper. Assisted by Chris Clarke.",56,50,6,0.868058077484766,"Louisville","Virginia Tech",4,4,0,0,4.5,400986201,2018-01-13
+210,2,"14:49",889,889,"Louisville  Timeout",56,50,6,0.842093574439402,"Louisville","Virginia Tech",4,3,0,1,4.5,400986201,2018-01-13
+211,2,"14:42",882,882,"Anas Mahmoud missed Jumper.",56,50,6,0.842093574439402,"Louisville","Virginia Tech",4,3,0,1,4.5,400986201,2018-01-13
+212,2,"14:42",882,882,"Chris Clarke Defensive Rebound.",56,50,6,0.842093574439402,"Louisville","Virginia Tech",4,3,0,1,4.5,400986201,2018-01-13
+213,2,"14:36",876,876,"Nickeil Alexander-Walker Turnover.",56,50,6,0.863255814889822,"Louisville","Virginia Tech",4,3,0,1,4.5,400986201,2018-01-13
+214,2,"14:36",876,876,"Dwayne Sutton Steal.",56,50,6,0.863255814889822,"Louisville","Virginia Tech",4,3,0,1,4.5,400986201,2018-01-13
+215,2,"14:30",870,870,"Quentin Snider Turnover.",56,50,6,0.863255814889822,"Louisville","Virginia Tech",4,3,0,1,4.5,400986201,2018-01-13
+216,2,"14:15",855,855,"Foul on Chris Clarke.",56,50,6,0.87453575673201,"Louisville","Virginia Tech",4,3,0,1,4.5,400986201,2018-01-13
+217,2,"14:15",855,855,"Chris Clarke Turnover.",56,50,6,0.87453575673201,"Louisville","Virginia Tech",4,3,0,1,4.5,400986201,2018-01-13
+218,2,"14:06",846,846,"Quentin Snider Turnover.",56,50,6,0.87062903554361,"Louisville","Virginia Tech",4,3,0,1,4.5,400986201,2018-01-13
+219,2,"14:06",846,846,"Kerry Blackshear Jr. Steal.",56,50,6,0.87062903554361,"Louisville","Virginia Tech",4,3,0,1,4.5,400986201,2018-01-13
+220,2,"13:54",834,834,"Kerry Blackshear Jr. made Layup. Assisted by Justin Robinson.",56,52,4,0.822957128733646,"Louisville","Virginia Tech",4,3,0,1,4.5,400986201,2018-01-13
+221,2,"13:43",823,823,"Deng Adel made Jumper.",58,52,6,0.858510556731705,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+222,2,"13:35",815,815,"Justin Robinson Turnover.",58,52,6,0.858942516061607,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+223,2,"13:35",815,815,"Anas Mahmoud Steal.",58,52,6,0.858942516061607,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+224,2,"13:29",809,809,"Anas Mahmoud missed Jumper.",58,52,6,0.875652588307776,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+225,2,"13:29",809,809,"Anas Mahmoud Offensive Rebound.",58,52,6,0.875652588307776,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+226,2,"13:23",803,803,"Foul on Justin Bibbs.",58,52,6,0.875652588307776,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+227,2,"13:23",803,803,"Anas Mahmoud missed Free Throw.",58,52,6,0.875652588307776,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+228,2,"13:23",803,803,"Louisville Deadball Team Rebound.",58,52,6,0.875652588307776,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+229,2,"13:23",803,803,"Anas Mahmoud made Free Throw.",59,52,7,0.896148618955872,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+230,2,"13:03",783,783,"Justin Robinson made Jumper.",59,54,5,0.841753647441327,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+231,2,"12:34",754,754,"Dwayne Sutton missed Layup.",59,54,5,0.850389495906999,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+232,2,"12:34",754,754,"Kerry Blackshear Jr. Defensive Rebound.",59,54,5,0.850389495906999,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+233,2,"12:25",745,745,"Nickeil Alexander-Walker made Layup.",59,56,3,0.781099898590476,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+234,2,"12:10",730,730,"Deng Adel missed Layup.",59,56,3,0.778244253045851,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+235,2,"12:10",730,730,"Justin Bibbs Defensive Rebound.",59,56,3,0.778244253045851,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+236,2,"12:00",720,720,"Foul on Darius Perry.",59,56,3,0.794439253211381,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+237,2,"12:00",720,720,"Official TV Timeout",59,56,3,0.794439253211381,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+238,2,"11:57",717,717,"Kerry Blackshear Jr. Turnover.",59,56,3,0.772474899912622,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+239,2,"11:57",717,717,"Foul on Kerry Blackshear Jr..",59,56,3,0.772474899912622,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+240,2,"11:47",707,707,"Ryan McMahon missed Three Point Jumper.",59,56,3,0.780917721194046,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+241,2,"11:47",707,707,"Chris Clarke Defensive Rebound.",59,56,3,0.780917721194046,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+242,2,"11:38",698,698,"Justin Robinson made Three Point Jumper.",59,59,0,0.664530037289139,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+243,2,"11:20",680,680,"Darius Perry missed Three Point Jumper.",59,59,0,0.64431901516108,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+244,2,"11:20",680,680,"Dwayne Sutton Offensive Rebound.",59,59,0,0.64431901516108,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+245,2,"10:56",656,656,"Anas Mahmoud made Layup. Assisted by Ryan McMahon.",61,59,2,0.754092530016995,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+246,2,"10:32",632,632,"Justin Bibbs made Layup. Assisted by Chris Clarke.",61,61,0,0.629541856150165,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+247,2,"10:24",624,624,"Deng Adel missed Three Point Jumper.",61,61,0,0.655793736334731,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+248,2,"10:24",624,624,"Ryan McMahon Offensive Rebound.",61,61,0,0.655793736334731,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+249,2,"10:11",611,611,"Darius Perry missed Layup.",61,61,0,0.631701303076074,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+250,2,"10:11",611,611,"Kerry Blackshear Jr. Defensive Rebound.",61,61,0,0.631701303076074,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+251,2,"9:52",592,592,"Devin Wilson missed Layup.",61,61,0,0.641949290406948,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+252,2,"9:52",592,592,"Anas Mahmoud Defensive Rebound.",61,61,0,0.641949290406948,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+253,2,"9:25",565,565,"Darius Perry missed Jumper.",61,61,0,0.661475049830689,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+254,2,"9:25",565,565,"Chris Clarke Defensive Rebound.",61,61,0,0.661475049830689,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+255,2,"9:13",553,553,"Justin Robinson Turnover.",61,61,0,0.632881085130383,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+256,2,"9:13",553,553,"Dwayne Sutton Steal.",61,61,0,0.632881085130383,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+257,2,"9:07",547,547,"Ryan McMahon made Layup. Assisted by Deng Adel.",63,61,2,0.736740095397219,"Louisville","Virginia Tech",4,3,0,0,4.5,400986201,2018-01-13
+258,2,"8:52",532,532,"Virginia Tech  Timeout",63,61,2,0.775566160578974,"Louisville","Virginia Tech",3,3,1,0,4.5,400986201,2018-01-13
+259,2,"8:46",526,526,"Chris Clarke made Jumper.",63,63,0,0.63480837066464,"Louisville","Virginia Tech",3,3,1,0,4.5,400986201,2018-01-13
+260,2,"8:46",526,526,"Foul on Deng Adel.",63,63,0,0.63480837066464,"Louisville","Virginia Tech",3,3,1,0,4.5,400986201,2018-01-13
+261,2,"8:46",526,526,"Chris Clarke made Free Throw.",63,64,-1,0.569683930348116,"Louisville","Virginia Tech",3,3,1,0,4.5,400986201,2018-01-13
+262,2,"8:29",509,509,"Deng Adel made Jumper.",65,64,1,0.710339073357724,"Louisville","Virginia Tech",3,3,1,0,4.5,400986201,2018-01-13
+263,2,"8:14",494,494,"Justin Robinson missed Layup.",65,64,1,0.709315897284889,"Louisville","Virginia Tech",3,3,1,0,4.5,400986201,2018-01-13
+264,2,"8:14",494,494,"Justin Robinson Offensive Rebound.",65,64,1,0.709315897284889,"Louisville","Virginia Tech",3,3,1,0,4.5,400986201,2018-01-13
+265,2,"8:14",494,494,"Foul on Ryan McMahon.",65,64,1,0.709315897284889,"Louisville","Virginia Tech",3,3,1,0,4.5,400986201,2018-01-13
+266,2,"8:14",494,494,"Justin Robinson made Free Throw.",65,65,0,0.650224404437733,"Louisville","Virginia Tech",3,3,1,0,4.5,400986201,2018-01-13
+267,2,"8:14",494,494,"Justin Robinson made Free Throw.",65,66,-1,0.586129500596905,"Louisville","Virginia Tech",3,3,1,0,4.5,400986201,2018-01-13
+268,2,"7:54",474,474,"Anas Mahmoud missed Jumper.",65,66,-1,0.565754744529409,"Louisville","Virginia Tech",3,3,1,0,4.5,400986201,2018-01-13
+269,2,"7:54",474,474,"Deng Adel Offensive Rebound.",65,66,-1,0.565754744529409,"Louisville","Virginia Tech",3,3,1,0,4.5,400986201,2018-01-13
+270,2,"7:54",474,474,"Deng Adel made Two Point Tip Shot.",67,66,1,0.699863517569651,"Louisville","Virginia Tech",3,3,1,0,4.5,400986201,2018-01-13
+271,2,"7:41",461,461,"Chris Clarke made Layup.",67,68,-1,0.562292244661843,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+272,2,"7:27",447,447,"V.J. King made Three Point Jumper.",70,68,2,0.73984775423975,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+273,2,"7:03",423,423,"Foul on Anas Mahmoud.",70,68,2,0.741155220565889,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+274,2,"7:03",423,423,"Official TV Timeout",70,68,2,0.741155220565889,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+275,2,"7:03",423,423,"Kerry Blackshear Jr. made Free Throw.",70,69,1,0.680202975964607,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+276,2,"7:03",423,423,"Kerry Blackshear Jr. made Free Throw.",70,70,0,0.61240384991985,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+277,2,"6:48",408,408,"V.J. King missed Jumper.",70,70,0,0.614829984336633,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+278,2,"6:48",408,408,"Justin Robinson Defensive Rebound.",70,70,0,0.614829984336633,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+279,2,"6:23",383,383,"Kerry Blackshear Jr. missed Layup.",70,70,0,0.635735177203317,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+280,2,"6:23",383,383,"Deng Adel Defensive Rebound.",70,70,0,0.635735177203317,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+281,2,"6:05",365,365,"Foul on Kerry Blackshear Jr..",70,70,0,0.617693104933427,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+282,2,"6:05",365,365,"Anas Mahmoud missed Free Throw.",70,70,0,0.617693104933427,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+283,2,"6:05",365,365,"Louisville Deadball Team Rebound.",70,70,0,0.617693104933427,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+284,2,"6:05",365,365,"Anas Mahmoud made Free Throw.",71,70,1,0.690530841841089,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+285,2,"5:53",353,353,"Chris Clarke missed Layup.",71,70,1,0.671402039183576,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+286,2,"5:53",353,353,"Quentin Snider Defensive Rebound.",71,70,1,0.671402039183576,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+287,2,"5:47",347,347,"V.J. King missed Layup.",71,70,1,0.66842671013137,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+288,2,"5:47",347,347,"Kerry Blackshear Jr. Defensive Rebound.",71,70,1,0.66842671013137,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+289,2,"5:41",341,341,"Chris Clarke missed Layup.",71,70,1,0.66842671013137,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+290,2,"5:41",341,341,"Ryan McMahon Block.",71,70,1,0.66842671013137,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+291,2,"5:41",341,341,"Justin Robinson Offensive Rebound.",71,70,1,0.66842671013137,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+292,2,"5:35",335,335,"Justin Robinson made Layup.",71,72,-1,0.544056839372621,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+293,2,"5:29",329,329,"Deng Adel made Three Point Jumper.",74,72,2,0.752205710881124,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+294,2,"5:13",313,313,"Justin Robinson missed Layup.",74,72,2,0.768769790213526,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+295,2,"5:13",313,313,"Ray Spalding Block.",74,72,2,0.768769790213526,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+296,2,"5:13",313,313,"Justin Bibbs Offensive Rebound.",74,72,2,0.768769790213526,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+297,2,"5:07",307,307,"Ahmed Hill made Layup.",74,74,0,0.61099100104456,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+298,2,"4:48",288,288,"Foul on Justin Bibbs.",74,74,0,0.607488314264504,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+299,2,"4:48",288,288,"Quentin Snider made Free Throw.",75,74,1,0.68773738869845,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+300,2,"4:48",288,288,"Quentin Snider made Free Throw.",76,74,2,0.758112384926018,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+301,2,"4:34",274,274,"Nickeil Alexander-Walker missed Three Point Jumper.",76,74,2,0.764622914334318,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+302,2,"4:34",274,274,"Ahmed Hill Offensive Rebound.",76,74,2,0.764622914334318,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+303,2,"4:26",266,266,"Ahmed Hill missed Three Point Jumper.",76,74,2,0.771674250252429,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+304,2,"4:26",266,266,"Ray Spalding Block.",76,74,2,0.771674250252429,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+305,2,"4:26",266,266,"Deng Adel Defensive Rebound.",76,74,2,0.771674250252429,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+306,2,"4:24",264,264,"Foul on Justin Robinson.",76,74,2,0.771674250252429,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+307,2,"4:24",264,264,"Deng Adel made Free Throw.",77,74,3,0.830762639348511,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+308,2,"4:24",264,264,"Deng Adel made Free Throw.",78,74,4,0.876996976997182,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+309,2,"4:14",254,254,"Foul on Ryan McMahon.",78,74,4,0.895237264117511,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+310,2,"4:14",254,254,"Ahmed Hill made Free Throw.",78,75,3,0.848645718125695,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+311,2,"4:14",254,254,"Ahmed Hill made Free Throw.",78,76,2,0.786280016117756,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+312,2,"3:47",227,227,"Deng Adel made Jumper.",80,76,4,0.903223761976608,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+313,2,"3:14",194,194,"Justin Bibbs missed Three Point Jumper.",80,76,4,0.898942117304281,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+314,2,"3:14",194,194,"Deng Adel Defensive Rebound.",80,76,4,0.898942117304281,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+315,2,"2:51",171,171,"Foul on Kerry Blackshear Jr..",80,76,4,0.919645211444422,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+316,2,"2:51",171,171,"Official TV Timeout",80,76,4,0.919645211444422,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+317,2,"2:51",171,171,"Ray Spalding made Free Throw.",81,76,5,0.949293309496842,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+318,2,"2:51",171,171,"Ray Spalding made Free Throw.",82,76,6,0.968378435496835,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+319,2,"2:41",161,161,"Foul on Deng Adel.",82,76,6,0.974562196190905,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+320,2,"2:41",161,161,"Kerry Blackshear Jr. missed Free Throw.",82,76,6,0.974562196190905,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+321,2,"2:41",161,161,"Virginia Tech Deadball Team Rebound.",82,76,6,0.974562196190905,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+322,2,"2:41",161,161,"Kerry Blackshear Jr. made Free Throw.",82,77,5,0.958191423184151,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+323,2,"2:32",152,152,"Ryan McMahon made Three Point Jumper. Assisted by Quentin Snider.",85,77,8,0.991167621757789,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+324,2,"2:17",137,137,"Justin Robinson made Layup.",85,79,6,0.977558001649114,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+325,2,"1:56",116,116,"Ray Spalding made Dunk. Assisted by Ryan McMahon.",87,79,8,0.994715469649197,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+326,2,"1:43",103,103,"Justin Robinson made Layup.",87,81,6,0.98091887126611,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+327,2,"1:21",81,81,"V.J. King Turnover.",87,81,6,0.99155922287353,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+328,2,"1:21",81,81,"Nickeil Alexander-Walker Steal.",87,81,6,0.99155922287353,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+329,2,"1:16",76,76,"Justin Robinson missed Layup.",87,81,6,0.990341349867992,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+330,2,"1:16",76,76,"Deng Adel Block.",87,81,6,0.990341349867992,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+331,2,"1:16",76,76,"Ryan McMahon Defensive Rebound.",87,81,6,0.990341349867992,"Louisville","Virginia Tech",3,3,0,0,4.5,400986201,2018-01-13
+332,2,"0:54",54,54,"Foul on Chris Clarke.",87,81,6,0.992480860912455,"Louisville","Virginia Tech",3,3,0,1,4.5,400986201,2018-01-13
+333,2,"0:54",54,54,"Quentin Snider made Free Throw.",88,81,7,0.996467363814773,"Louisville","Virginia Tech",3,3,0,1,4.5,400986201,2018-01-13
+334,2,"0:54",54,54,"Quentin Snider made Free Throw.",89,81,8,0.998343826518158,"Louisville","Virginia Tech",3,3,0,1,4.5,400986201,2018-01-13
+335,2,"0:54",54,54,"Louisville  Timeout",89,81,8,0.998343826518158,"Louisville","Virginia Tech",3,2,0,1,4.5,400986201,2018-01-13
+336,2,"0:49",49,49,"Kerry Blackshear Jr. missed Three Point Jumper.",89,81,8,0.999625787915447,"Louisville","Virginia Tech",3,2,0,1,4.5,400986201,2018-01-13
+337,2,"0:49",49,49,"Deng Adel Defensive Rebound.",89,81,8,0.999625787915447,"Louisville","Virginia Tech",3,2,0,1,4.5,400986201,2018-01-13
+338,2,"0:43",43,43,"Foul on Ahmed Hill.",89,81,8,0.999220862119313,"Louisville","Virginia Tech",3,2,0,1,4.5,400986201,2018-01-13
+339,2,"0:43",43,43,"Quentin Snider made Free Throw.",90,81,9,0.999684086516984,"Louisville","Virginia Tech",3,2,0,1,4.5,400986201,2018-01-13
+340,2,"0:43",43,43,"Quentin Snider made Free Throw.",91,81,10,0.999871943295538,"Louisville","Virginia Tech",3,2,0,1,4.5,400986201,2018-01-13
+341,2,"0:37",37,37,"Virginia Tech  Timeout",91,81,10,0.999922872999194,"Louisville","Virginia Tech",2,2,1,1,4.5,400986201,2018-01-13
+342,2,"0:33",33,33,"Ahmed Hill made Layup.",91,83,8,0.999908558291433,"Louisville","Virginia Tech",2,2,1,1,4.5,400986201,2018-01-13
+343,2,"0:33",33,33,"Foul on Justin Bibbs.",91,83,8,0.999908558291433,"Louisville","Virginia Tech",2,2,1,1,4.5,400986201,2018-01-13
+344,2,"0:33",33,33,"Quentin Snider made Free Throw.",92,83,9,0.999970578015211,"Louisville","Virginia Tech",2,2,1,1,4.5,400986201,2018-01-13
+345,2,"0:33",33,33,"Quentin Snider made Free Throw.",93,83,10,0.999990533676727,"Louisville","Virginia Tech",2,2,1,1,4.5,400986201,2018-01-13
+346,2,"0:30",30,30,"Virginia Tech  Timeout",93,83,10,0.999930522852301,"Louisville","Virginia Tech",1,2,1,1,4.5,400986201,2018-01-13
+347,2,"0:25",25,25,"Justin Bibbs made Three Point Jumper. Assisted by Kerry Blackshear Jr..",93,86,7,0.999909014397703,"Louisville","Virginia Tech",1,2,1,1,4.5,400986201,2018-01-13
+348,2,"0:23",23,23,"Foul on Ahmed Hill.",93,86,7,0.999898106279499,"Louisville","Virginia Tech",1,2,1,1,4.5,400986201,2018-01-13
+349,2,"0:23",23,23,"V.J. King made Free Throw.",94,86,8,0.999969857900898,"Louisville","Virginia Tech",1,2,1,1,4.5,400986201,2018-01-13
+350,2,"0:23",23,23,"V.J. King missed Free Throw.",94,86,8,0.999969857900898,"Louisville","Virginia Tech",1,2,1,1,4.5,400986201,2018-01-13
+351,2,"0:23",23,23,"Kerry Blackshear Jr. Defensive Rebound.",94,86,8,0.999969857900898,"Louisville","Virginia Tech",1,2,1,1,4.5,400986201,2018-01-13
+352,2,"0:11",11,11,"Ahmed Hill missed Three Point Jumper.",94,86,8,0.999986179442207,"Louisville","Virginia Tech",1,2,1,1,4.5,400986201,2018-01-13
+353,2,"0:11",11,11,"Deng Adel Defensive Rebound.",94,86,8,0.999986179442207,"Louisville","Virginia Tech",1,2,1,1,4.5,400986201,2018-01-13
+354,2,"0:00",0,0,"End of Game",94,86,8,1,"Louisville","Virginia Tech",1,2,1,1,4.5,400986201,2018-01-13

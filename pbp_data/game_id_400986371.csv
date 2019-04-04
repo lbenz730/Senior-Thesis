@@ -1,0 +1,403 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.930313370207913,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+2,1,"19:46",2386,2386,"Reggie Lynch missed Jumper.",0,0,0,0.926800501161295,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+3,1,"19:42",2382,2382,"Mike Amius Defensive Rebound.",0,0,0,0.926800501161295,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+4,1,"19:33",2373,2373,"Marc Gosselin missed Three Point Jumper.",0,0,0,0.922662635289851,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+5,1,"19:32",2372,2372,"Nate Mason Defensive Rebound.",0,0,0,0.922662635289851,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+6,1,"19:24",2364,2364,"Foul on Reggie Lynch.",0,0,0,0.915098624940923,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+7,1,"19:24",2364,2364,"Reggie Lynch Turnover.",0,0,0,0.915098624940923,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+8,1,"19:02",2342,2342,"Foul on Nate Mason.",0,0,0,0.916796675134991,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+9,1,"18:54",2334,2334,"Matt Halvorsen made Three Point Jumper. Assisted by Deriece Parks.",0,3,-3,0.89712951070219,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+10,1,"18:42",2322,2322,"Nate Mason made Three Point Jumper. Assisted by Reggie Lynch.",3,3,0,0.920194687881904,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+11,1,"18:29",2309,2309,"Mike Amius missed Jumper.",3,3,0,0.912100614974414,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+12,1,"18:29",2309,2309,"Reggie Lynch Block.",3,3,0,0.912100614974414,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+13,1,"18:28",2308,2308,"Reggie Lynch Defensive Rebound.",3,3,0,0.912100614974414,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+14,1,"18:17",2297,2297,"Jordan Murphy made Layup.",5,3,2,0.932858046753839,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+15,1,"17:54",2274,2274,"Marc Gosselin made Three Point Jumper. Assisted by Deriece Parks.",5,6,-1,0.910110054418683,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+16,1,"17:30",2250,2250,"Dupree McBrayer made Three Point Jumper. Assisted by Nate Mason.",8,6,2,0.926347030403134,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+17,1,"17:18",2238,2238,"Devin Peterson missed Jumper.",8,6,2,0.931886630493859,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+18,1,"17:18",2238,2238,"Reggie Lynch Block.",8,6,2,0.931886630493859,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+19,1,"17:16",2236,2236,"Reggie Lynch Defensive Rebound.",8,6,2,0.931886630493859,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+20,1,"17:12",2232,2232,"Jordan Murphy missed Jumper.",8,6,2,0.931886630493859,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+21,1,"17:12",2232,2232,"Mike Amius Block.",8,6,2,0.931886630493859,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+22,1,"17:09",2229,2229,"Amir Coffey Offensive Rebound.",8,6,2,0.931661322396309,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+23,1,"17:08",2228,2228,"Amir Coffey missed Three Point Jumper.",8,6,2,0.931661322396309,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+24,1,"17:05",2225,2225,"Deriece Parks Defensive Rebound.",8,6,2,0.931661322396309,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+25,1,"17:01",2221,2221,"Devin Peterson missed Jumper.",8,6,2,0.931661322396309,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+26,1,"17:00",2220,2220,"Nate Mason Defensive Rebound.",8,6,2,0.931661322396309,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+27,1,"17:00",2220,2220,"Foul on Mike Amius.",8,6,2,0.931661322396309,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+28,1,"16:53",2213,2213,"Nate Mason missed Three Point Jumper.",8,6,2,0.930320789993496,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+29,1,"16:48",2208,2208,"Deriece Parks Defensive Rebound.",8,6,2,0.929971153768834,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+30,1,"16:44",2204,2204,"Deriece Parks Turnover.",8,6,2,0.929971153768834,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+31,1,"16:44",2204,2204,"Marc Gosselin Steal.",8,6,2,0.929971153768834,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+32,1,"16:41",2201,2201,"Amir Coffey made Layup. Assisted by Jordan Murphy.",10,6,4,0.943350761833893,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+33,1,"16:41",2201,2201,"Foul on Devin Peterson.",10,6,4,0.943350761833893,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+34,1,"16:41",2201,2201,"Amir Coffey made Free Throw.",11,6,5,0.949103142532774,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+35,1,"16:28",2188,2188,"Foul on Charlendez Brooks.",11,6,5,0.947961986329454,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+36,1,"16:28",2188,2188,"Charlendez Brooks Turnover.",11,6,5,0.947961986329454,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+37,1,"16:17",2177,2177,"Foul on Devin Peterson.",11,6,5,0.946655613069503,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+38,1,"16:17",2177,2177,"Reggie Lynch made Free Throw.",12,6,6,0.951882700847626,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+39,1,"16:17",2177,2177,"Reggie Lynch made Free Throw.",13,6,7,0.956621069153587,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+40,1,"16:01",2161,2161,"Matt Halvorsen made Three Point Jumper. Assisted by Charlendez Brooks.",13,9,4,0.940634349706465,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+41,1,"15:45",2145,2145,"Dupree McBrayer made Three Point Jumper. Assisted by Nate Mason.",16,9,7,0.956628826457742,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+42,1,"15:23",2123,2123,"Matt Halvorsen made Three Point Jumper. Assisted by Marc Gosselin.",16,12,4,0.941364438170853,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+43,1,"15:01",2101,2101,"Reggie Lynch made Dunk. Assisted by Amir Coffey.",18,12,6,0.950903753830695,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+44,1,"14:49",2089,2089,"Devin Peterson Turnover.",18,12,6,0.949499414482417,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+45,1,"14:49",2089,2089,"Amir Coffey Steal.",18,12,6,0.949499414482417,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+46,1,"14:47",2087,2087,"Amir Coffey made Layup.",20,12,8,0.959058885208755,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+47,1,"14:47",2087,2087,"Official TV Timeout",20,12,8,0.959058885208755,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+48,1,"14:47",2087,2087,"Foul on Devin Peterson.",20,12,8,0.959058885208755,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+49,1,"14:47",2087,2087,"Amir Coffey made Free Throw.",21,12,9,0.9631641219379,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+50,1,"14:29",2069,2069,"Deriece Parks made Three Point Jumper.",21,15,6,0.952239347802326,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+51,1,"14:07",2047,2047,"Reggie Lynch missed Jumper.",21,15,6,0.947520194477322,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+52,1,"14:06",2046,2046,"Jordan Murphy Offensive Rebound.",21,15,6,0.947520194477322,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+53,1,"14:05",2045,2045,"Jordan Murphy missed Jumper.",21,15,6,0.947520194477322,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+54,1,"14:04",2044,2044,"Reggie Lynch Offensive Rebound.",21,15,6,0.947520194477322,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+55,1,"14:04",2044,2044,"Foul on Marc Gosselin.",21,15,6,0.947520194477322,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+56,1,"14:04",2044,2044,"Minnesota Deadball Team Rebound.",21,15,6,0.947520194477322,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+57,1,"14:04",2044,2044,"Reggie Lynch missed Free Throw.",21,15,6,0.947520194477322,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+58,1,"14:04",2044,2044,"Reggie Lynch missed Free Throw.",21,15,6,0.947520194477322,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+59,1,"14:04",2044,2044,"Marc Gosselin Defensive Rebound.",21,15,6,0.947520194477322,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+60,1,"13:47",2027,2027,"Foul on Dupree McBrayer.",21,15,6,0.956512137716881,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+61,1,"13:42",2022,2022,"Matt Halvorsen made Three Point Jumper.",21,18,3,0.936742038123692,"Minnesota","Western Carolina",4,4,0,0,30.5,400986371,2017-11-19
+62,1,"13:41",2021,2021,"Minnesota  Timeout",21,18,3,0.936742038123692,"Minnesota","Western Carolina",3,4,1,0,30.5,400986371,2017-11-19
+63,1,"13:19",1999,1999,"Amir Coffey missed Three Point Jumper.",21,18,3,0.936539111191703,"Minnesota","Western Carolina",3,4,1,0,30.5,400986371,2017-11-19
+64,1,"13:14",1994,1994,"Western Carolina Defensive Rebound.",21,18,3,0.936539111191703,"Minnesota","Western Carolina",3,4,1,0,30.5,400986371,2017-11-19
+65,1,"13:04",1984,1984,"Matt Halvorsen Turnover.",21,18,3,0.925949128760251,"Minnesota","Western Carolina",3,4,1,0,30.5,400986371,2017-11-19
+66,1,"12:45",1965,1965,"Amir Coffey missed Jumper.",21,18,3,0.930952218385462,"Minnesota","Western Carolina",3,4,1,0,30.5,400986371,2017-11-19
+67,1,"12:44",1964,1964,"Matt Halvorsen Defensive Rebound.",21,18,3,0.930952218385462,"Minnesota","Western Carolina",3,4,1,0,30.5,400986371,2017-11-19
+68,1,"12:35",1955,1955,"Matt Halvorsen missed Three Point Jumper.",21,18,3,0.930891291277176,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+69,1,"12:33",1953,1953,"Nate Mason Defensive Rebound.",21,18,3,0.930891291277176,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+70,1,"12:28",1948,1948,"Nate Mason missed Three Point Jumper.",21,18,3,0.932136675852649,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+71,1,"12:25",1945,1945,"Adam Sledd Defensive Rebound.",21,18,3,0.932136675852649,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+72,1,"12:15",1935,1935,"Marc Gosselin missed Jumper.",21,18,3,0.928764695849764,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+73,1,"12:13",1933,1933,"Amir Coffey Defensive Rebound.",21,18,3,0.928764695849764,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+74,1,"12:09",1929,1929,"Isaiah Washington missed Jumper.",21,18,3,0.937299412145823,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+75,1,"12:08",1928,1928,"Western Carolina Defensive Rebound.",21,18,3,0.937299412145823,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+76,1,"11:57",1917,1917,"Minnesota  Timeout",21,18,3,0.93614682943297,"Minnesota","Western Carolina",2,4,1,0,30.5,400986371,2017-11-19
+77,1,"11:36",1896,1896,"Western Carolina  Turnover.",21,18,3,0.930594827622809,"Minnesota","Western Carolina",2,4,1,0,30.5,400986371,2017-11-19
+78,1,"11:19",1879,1879,"Nate Mason made Jumper. Assisted by Bakary Konate.",23,18,5,0.944140565150265,"Minnesota","Western Carolina",2,4,1,0,30.5,400986371,2017-11-19
+79,1,"11:03",1863,1863,"Desmond Johnson missed Jumper.",23,18,5,0.94493189381356,"Minnesota","Western Carolina",2,4,1,0,30.5,400986371,2017-11-19
+80,1,"11:00",1860,1860,"Onno Steger Offensive Rebound.",23,18,5,0.94493189381356,"Minnesota","Western Carolina",2,4,1,0,30.5,400986371,2017-11-19
+81,1,"10:59",1859,1859,"Onno Steger missed Jumper.",23,18,5,0.944712341284814,"Minnesota","Western Carolina",2,4,1,0,30.5,400986371,2017-11-19
+82,1,"10:59",1859,1859,"Bakary Konate Block.",23,18,5,0.944712341284814,"Minnesota","Western Carolina",2,4,1,0,30.5,400986371,2017-11-19
+83,1,"10:56",1856,1856,"Desmond Johnson Offensive Rebound.",23,18,5,0.944712341284814,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+84,1,"10:43",1843,1843,"Haboubacar Mutombo made Jumper. Assisted by Maurice Smith.",23,20,3,0.927932632589273,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+85,1,"10:26",1826,1826,"Isaiah Washington missed Three Point Jumper.",23,20,3,0.935934572229536,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+86,1,"10:24",1824,1824,"Maurice Smith Defensive Rebound.",23,20,3,0.935934572229536,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+87,1,"10:15",1815,1815,"Maurice Smith Turnover.",23,20,3,0.931508054661385,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+88,1,"10:15",1815,1815,"Davonte Fitzgerald Steal.",23,20,3,0.931508054661385,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+89,1,"10:05",1805,1805,"Davonte Fitzgerald missed Jumper.",23,20,3,0.929616490685312,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+90,1,"10:03",1803,1803,"Davonte Fitzgerald Offensive Rebound.",23,20,3,0.929616490685312,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+91,1,"10:02",1802,1802,"Davonte Fitzgerald made Jumper.",25,20,5,0.94469309803452,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+92,1,"10:02",1802,1802,"Foul on Haboubacar Mutombo.",25,20,5,0.94469309803452,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+93,1,"10:02",1802,1802,"Davonte Fitzgerald missed Free Throw.",25,20,5,0.94469309803452,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+94,1,"10:02",1802,1802,"Marc Gosselin Defensive Rebound.",25,20,5,0.94469309803452,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+95,1,"9:43",1783,1783,"Onno Steger missed Jumper.",25,20,5,0.937710353846449,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+96,1,"9:41",1781,1781,"Mike Amius Offensive Rebound.",25,20,5,0.937710353846449,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+97,1,"9:41",1781,1781,"Foul on Davonte Fitzgerald.",25,20,5,0.937710353846449,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+98,1,"9:41",1781,1781,"Western Carolina Deadball Team Rebound.",25,20,5,0.937710353846449,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+99,1,"9:41",1781,1781,"Mike Amius missed Free Throw.",25,20,5,0.937710353846449,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+100,1,"9:41",1781,1781,"Mike Amius made Free Throw.",25,21,4,0.929126799427474,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+101,1,"9:35",1775,1775,"Isaiah Washington made Free Throw.",26,21,5,0.93883443120509,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+102,1,"9:35",1775,1775,"Isaiah Washington made Free Throw.",27,21,6,0.945497401013383,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+103,1,"9:35",1775,1775,"Foul on Deriece Parks.",25,21,4,0.93141599553549,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+104,1,"9:35",1775,1775,"Isaiah Washington made Free Throw.",26,21,5,0.93883443120509,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+105,1,"9:35",1775,1775,"Isaiah Washington made Free Throw.",27,21,6,0.945497401013383,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+106,1,"9:22",1762,1762,"Mike Amius missed Jumper.",27,21,6,0.954892795711375,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+107,1,"9:22",1762,1762,"Reggie Lynch Block.",27,21,6,0.954892795711375,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+108,1,"9:19",1759,1759,"Marc Gosselin Offensive Rebound.",27,21,6,0.953761305306952,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+109,1,"9:18",1758,1758,"Marc Gosselin missed Jumper.",27,21,6,0.953761305306952,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+110,1,"9:16",1756,1756,"Reggie Lynch Defensive Rebound.",27,21,6,0.953761305306952,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+111,1,"9:12",1752,1752,"Jamir Harris missed Layup.",27,21,6,0.953761305306952,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+112,1,"9:10",1750,1750,"Matt Halvorsen Defensive Rebound.",27,21,6,0.953761305306952,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+113,1,"8:58",1738,1738,"Mike Amius made Jumper. Assisted by Marc Gosselin.",27,23,4,0.937496388096772,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+114,1,"8:39",1719,1719,"Isaiah Washington made Jumper.",29,23,6,0.954418189051445,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+115,1,"8:21",1701,1701,"Mike Amius missed Jumper.",29,23,6,0.946447101323085,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+116,1,"8:21",1701,1701,"Davonte Fitzgerald Block.",29,23,6,0.946447101323085,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+117,1,"8:19",1699,1699,"Marc Gosselin Offensive Rebound.",29,23,6,0.950149698302695,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+118,1,"8:17",1697,1697,"Foul on Jamir Harris.",29,23,6,0.950149698302695,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+119,1,"8:02",1682,1682,"Mike Amius missed Jumper.",29,23,6,0.956766579974627,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+120,1,"8:01",1681,1681,"Mike Amius Offensive Rebound.",29,23,6,0.956766579974627,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+121,1,"8:00",1680,1680,"Mike Amius missed Jumper.",29,23,6,0.956766579974627,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+122,1,"7:58",1678,1678,"Official TV Timeout",29,23,6,0.951790247637409,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+123,1,"7:58",1678,1678,"Western Carolina Offensive Rebound.",29,23,6,0.951790247637409,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+124,1,"7:58",1678,1678,"Official TV Timeout",29,23,6,0.951790247637409,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+125,1,"7:39",1659,1659,"Marc Gosselin Turnover.",29,23,6,0.946192949651764,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+126,1,"7:30",1650,1650,"Foul on Reggie Lynch.",29,23,6,0.946192949651764,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+127,1,"7:30",1650,1650,"Reggie Lynch Turnover.",29,23,6,0.946192949651764,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+128,1,"7:20",1640,1640,"Foul on Marc Gosselin.",29,23,6,0.951303424605097,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+129,1,"7:20",1640,1640,"Marc Gosselin Turnover.",29,23,6,0.951303424605097,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+130,1,"6:55",1615,1615,"Nate Mason made Three Point Jumper. Assisted by Dupree McBrayer.",32,23,9,0.962331238505212,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+131,1,"6:25",1585,1585,"Deriece Parks made Layup. Assisted by Haboubacar Mutombo.",32,25,7,0.953603535686486,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+132,1,"6:03",1563,1563,"Davonte Fitzgerald missed Jumper.",32,25,7,0.953223312821719,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+133,1,"6:01",1561,1561,"Haboubacar Mutombo Defensive Rebound.",32,25,7,0.953223312821719,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+134,1,"5:47",1547,1547,"Marc Gosselin missed Jumper.",32,25,7,0.956174625072008,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+135,1,"5:47",1547,1547,"Jordan Murphy Block.",32,25,7,0.956174625072008,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+136,1,"5:44",1544,1544,"Deriece Parks Offensive Rebound.",32,25,7,0.956174625072008,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+137,1,"5:43",1543,1543,"Deriece Parks made Three Point Jumper.",32,28,4,0.934985688164651,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+138,1,"5:20",1520,1520,"Jordan Murphy Turnover.",32,28,4,0.929717408015957,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+139,1,"5:20",1520,1520,"Charlendez Brooks Steal.",32,28,4,0.929717408015957,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+140,1,"5:08",1508,1508,"Marc Gosselin made Layup. Assisted by Matt Halvorsen.",32,30,2,0.910619683799596,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+141,1,"4:47",1487,1487,"Amir Coffey missed Three Point Jumper.",32,30,2,0.909257037707817,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+142,1,"4:45",1485,1485,"Haboubacar Mutombo Defensive Rebound.",32,30,2,0.909257037707817,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+143,1,"4:31",1471,1471,"Deriece Parks missed Jumper.",32,30,2,0.923851320622187,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+144,1,"4:29",1469,1469,"Western Carolina Offensive Rebound.",32,30,2,0.895448209703735,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+145,1,"4:15",1455,1455,"Marc Gosselin Turnover.",32,30,2,0.908142248520844,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+146,1,"4:15",1455,1455,"Nate Mason Steal.",32,30,2,0.908142248520844,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+147,1,"4:11",1451,1451,"Nate Mason missed Jumper.",32,30,2,0.908142248520844,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+148,1,"4:08",1448,1448,"Jordan Murphy Offensive Rebound.",32,30,2,0.914860723194331,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+149,1,"4:08",1448,1448,"Jordan Murphy made Two Point Tip Shot.",34,30,4,0.935765444241265,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+150,1,"3:55",1435,1435,"Onno Steger missed Jumper.",34,30,4,0.926603174469375,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+151,1,"3:52",1432,1432,"Dupree McBrayer Defensive Rebound.",34,30,4,0.926603174469375,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+152,1,"3:43",1423,1423,"Bakary Konate made Dunk. Assisted by Nate Mason.",36,30,6,0.940203724544469,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+153,1,"3:19",1399,1399,"Desmond Johnson Turnover.",36,30,6,0.953094624116803,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+154,1,"3:19",1399,1399,"Amir Coffey Steal.",36,30,6,0.953094624116803,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+155,1,"3:16",1396,1396,"Amir Coffey made Dunk. Assisted by Dupree McBrayer.",38,30,8,0.96512343712497,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+156,1,"3:03",1383,1383,"Official TV Timeout",38,30,8,0.96111060451919,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+157,1,"3:03",1383,1383,"Foul on Nate Mason.",38,30,8,0.96111060451919,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+158,1,"3:03",1383,1383,"Matt Halvorsen made Free Throw.",38,31,7,0.955123213640817,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+159,1,"3:03",1383,1383,"Matt Halvorsen missed Free Throw.",38,31,7,0.955123213640817,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+160,1,"3:03",1383,1383,"Amir Coffey Defensive Rebound.",38,31,7,0.955123213640817,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+161,1,"2:47",1367,1367,"Dupree McBrayer missed Three Point Jumper.",38,31,7,0.953620948342494,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+162,1,"2:43",1363,1363,"Maurice Smith Defensive Rebound.",38,31,7,0.953620948342494,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+163,1,"2:15",1335,1335,"Mike Amius Turnover.",38,31,7,0.94984462057484,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+164,1,"2:15",1335,1335,"Bakary Konate Steal.",38,31,7,0.94984462057484,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+165,1,"1:55",1315,1315,"Dupree McBrayer made Jumper. Assisted by Amir Coffey.",40,31,9,0.966517280335381,"Minnesota","Western Carolina",2,4,0,0,30.5,400986371,2017-11-19
+166,1,"1:49",1309,1309,"Western Carolina  Timeout",40,31,9,0.958630360460429,"Minnesota","Western Carolina",2,3,0,1,30.5,400986371,2017-11-19
+167,1,"1:46",1306,1306,"Onno Steger Turnover.",40,31,9,0.958630360460429,"Minnesota","Western Carolina",2,3,0,1,30.5,400986371,2017-11-19
+168,1,"1:46",1306,1306,"Nate Mason Steal.",40,31,9,0.958630360460429,"Minnesota","Western Carolina",2,3,0,1,30.5,400986371,2017-11-19
+169,1,"1:43",1303,1303,"Nate Mason Turnover.",40,31,9,0.958630360460429,"Minnesota","Western Carolina",2,3,0,1,30.5,400986371,2017-11-19
+170,1,"1:43",1303,1303,"Matt Halvorsen Steal.",40,31,9,0.958630360460429,"Minnesota","Western Carolina",2,3,0,1,30.5,400986371,2017-11-19
+171,1,"1:24",1284,1284,"Mike Amius missed Jumper.",40,31,9,0.965796202259149,"Minnesota","Western Carolina",2,3,0,1,30.5,400986371,2017-11-19
+172,1,"1:22",1282,1282,"Nate Mason Defensive Rebound.",40,31,9,0.965796202259149,"Minnesota","Western Carolina",2,3,0,1,30.5,400986371,2017-11-19
+173,1,"1:13",1273,1273,"Jordan Murphy Turnover.",40,31,9,0.961353982747366,"Minnesota","Western Carolina",2,3,0,1,30.5,400986371,2017-11-19
+174,1,"1:13",1273,1273,"Mike Amius Steal.",40,31,9,0.961353982747366,"Minnesota","Western Carolina",2,3,0,1,30.5,400986371,2017-11-19
+175,1,"1:12",1272,1272,"Mike Amius made Free Throw.",40,32,8,0.955385673712189,"Minnesota","Western Carolina",2,3,0,1,30.5,400986371,2017-11-19
+176,1,"1:12",1272,1272,"Mike Amius made Free Throw.",40,33,7,0.948544980656385,"Minnesota","Western Carolina",2,3,0,1,30.5,400986371,2017-11-19
+177,1,"1:12",1272,1272,"Foul on Bakary Konate.",40,31,9,0.961353982747366,"Minnesota","Western Carolina",2,3,0,1,30.5,400986371,2017-11-19
+178,1,"1:12",1272,1272,"Mike Amius made Free Throw.",40,32,8,0.955385673712189,"Minnesota","Western Carolina",2,3,0,1,30.5,400986371,2017-11-19
+179,1,"1:12",1272,1272,"Mike Amius made Free Throw.",40,33,7,0.948544980656385,"Minnesota","Western Carolina",2,3,0,1,30.5,400986371,2017-11-19
+180,1,"0:57",1257,1257,"Jordan Murphy made Free Throw.",41,33,8,0.9522498049316,"Minnesota","Western Carolina",2,3,0,1,30.5,400986371,2017-11-19
+181,1,"0:57",1257,1257,"Jordan Murphy made Free Throw.",42,33,9,0.958686070114693,"Minnesota","Western Carolina",2,3,0,1,30.5,400986371,2017-11-19
+182,1,"0:57",1257,1257,"Foul on Mike Amius.",40,33,7,0.944868501641207,"Minnesota","Western Carolina",2,3,0,1,30.5,400986371,2017-11-19
+183,1,"0:57",1257,1257,"Jordan Murphy made Free Throw.",41,33,8,0.9522498049316,"Minnesota","Western Carolina",2,3,0,1,30.5,400986371,2017-11-19
+184,1,"0:57",1257,1257,"Jordan Murphy made Free Throw.",42,33,9,0.958686070114693,"Minnesota","Western Carolina",2,3,0,1,30.5,400986371,2017-11-19
+185,1,"0:38",1238,1238,"Matt Halvorsen missed Three Point Jumper.",42,33,9,0.962474096442127,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+186,1,"0:36",1236,1236,"Nate Mason Defensive Rebound.",42,33,9,0.962474096442127,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+187,1,"0:31",1231,1231,"Foul on Amir Coffey.",42,33,9,0.962474096442127,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+188,1,"0:31",1231,1231,"Amir Coffey Turnover.",42,33,9,0.962474096442127,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+189,1,"0:03",1203,1203,"Deriece Parks missed Jumper.",42,33,9,0.964661362770003,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+190,1,"0:02",1202,1202,"Onno Steger Offensive Rebound.",42,33,9,0.964661362770003,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+191,1,"0:01",1201,1201,"Onno Steger missed Jumper.",42,33,9,0.964661362770003,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+192,1,"0:01",1201,1201,"Nate Mason Defensive Rebound.",42,33,9,0.964661362770003,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+193,1,"0:00",1200,1200,"End of 1st half",42,33,9,0.964661362770003,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+194,2,"20:00",1200,1200,"PLAY",42,33,9,0.964661362770003,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+195,2,"19:51",1191,1191,"Foul on Reggie Lynch.",42,33,9,0.965936397226258,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+196,2,"19:42",1182,1182,"Mike Amius missed Jumper.",42,33,9,0.966854498875699,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+197,2,"19:42",1182,1182,"Reggie Lynch Block.",42,33,9,0.966854498875699,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+198,2,"19:39",1179,1179,"Nate Mason Defensive Rebound.",42,33,9,0.962717912590137,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+199,2,"19:35",1175,1175,"Foul on Jordan Murphy.",42,33,9,0.962717912590137,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+200,2,"19:35",1175,1175,"Jordan Murphy Turnover.",42,33,9,0.962717912590137,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+201,2,"19:21",1161,1161,"Deriece Parks made Three Point Jumper. Assisted by Matt Halvorsen.",42,36,6,0.945388596752423,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+202,2,"19:04",1144,1144,"Foul on Marc Gosselin.",42,36,6,0.94030767896515,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+203,2,"18:55",1135,1135,"Nate Mason made Three Point Jumper. Assisted by Dupree McBrayer.",45,36,9,0.966316279015931,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+204,2,"18:31",1111,1111,"Matt Halvorsen made Three Point Jumper. Assisted by Mike Amius.",45,39,6,0.941153858983089,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+205,2,"18:31",1111,1111,"Foul on Nate Mason.",45,39,6,0.941153858983089,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+206,2,"18:31",1111,1111,"Matt Halvorsen made Free Throw.",45,40,5,0.930811006850385,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+207,2,"18:25",1105,1105,"Foul on Nate Mason.",45,40,5,0.936397212034824,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+208,2,"18:25",1105,1105,"Nate Mason Turnover.",45,40,5,0.936397212034824,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+209,2,"18:05",1085,1085,"Mike Amius missed Jumper.",45,40,5,0.940832495813603,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+210,2,"18:05",1085,1085,"Reggie Lynch Block.",45,40,5,0.940832495813603,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+211,2,"18:02",1082,1082,"Reggie Lynch Defensive Rebound.",45,40,5,0.940832495813603,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+212,2,"17:59",1079,1079,"Jordan Murphy missed Jumper.",45,40,5,0.929307654034331,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+213,2,"17:57",1077,1077,"Marc Gosselin Defensive Rebound.",45,40,5,0.929307654034331,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+214,2,"17:52",1072,1072,"Devin Peterson missed Jumper.",45,40,5,0.929307654034331,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+215,2,"17:49",1069,1069,"Reggie Lynch Defensive Rebound.",45,40,5,0.930671803140962,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+216,2,"17:41",1061,1061,"Dupree McBrayer made Jumper. Assisted by Amir Coffey.",47,40,7,0.949879007378884,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+217,2,"17:23",1043,1043,"Foul on Marc Gosselin.",47,40,7,0.955504661280713,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+218,2,"17:23",1043,1043,"Marc Gosselin Turnover.",47,40,7,0.955504661280713,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+219,2,"17:03",1023,1023,"Foul on Maurice Smith.",47,40,7,0.953711079537189,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+220,2,"17:03",1023,1023,"Jordan Murphy made Free Throw.",48,40,8,0.961014541262105,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+221,2,"17:03",1023,1023,"Jordan Murphy made Free Throw.",49,40,9,0.967205288283859,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+222,2,"16:39",999,999,"Deriece Parks missed Layup.",49,40,9,0.964156015019355,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+223,2,"16:36",996,996,"Reggie Lynch Defensive Rebound.",49,40,9,0.964156015019355,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+224,2,"16:27",987,987,"Dupree McBrayer made Layup.",51,40,11,0.979002496079614,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+225,2,"16:09",969,969,"Foul on Reggie Lynch.",51,40,11,0.974053593453577,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+226,2,"16:09",969,969,"Devin Peterson missed Free Throw.",51,40,11,0.974053593453577,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+227,2,"16:09",969,969,"Western Carolina Deadball Team Rebound.",51,40,11,0.974053593453577,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+228,2,"16:09",969,969,"Devin Peterson made Free Throw.",51,41,10,0.968928609962648,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+229,2,"15:39",939,939,"Minnesota  Turnover.",51,41,10,0.972498939628856,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+230,2,"15:39",939,939,"Official TV Timeout",51,41,10,0.972498939628856,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+231,2,"15:20",920,920,"Devin Peterson missed Jumper.",51,41,10,0.970159150115587,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+232,2,"15:19",919,919,"Jordan Murphy Defensive Rebound.",51,41,10,0.976975709234742,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+233,2,"15:18",918,918,"Foul on Deriece Parks.",51,41,10,0.976975709234742,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+234,2,"15:18",918,918,"Isaiah Washington made Free Throw.",52,41,11,0.98099365212698,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+235,2,"15:18",918,918,"Isaiah Washington missed Free Throw.",52,41,11,0.98099365212698,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+236,2,"15:18",918,918,"Maurice Smith Defensive Rebound.",52,41,11,0.98099365212698,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+237,2,"14:58",898,898,"Matt Halvorsen Turnover.",52,41,11,0.97806939918737,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+238,2,"14:58",898,898,"Jordan Murphy Steal.",52,41,11,0.97806939918737,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+239,2,"14:53",893,893,"Isaiah Washington made Layup. Assisted by Dupree McBrayer.",54,41,13,0.985024981178428,"Minnesota","Western Carolina",3,4,0,0,30.5,400986371,2017-11-19
+240,2,"14:46",886,886,"Western Carolina  Timeout",54,41,13,0.979234676013459,"Minnesota","Western Carolina",3,3,0,1,30.5,400986371,2017-11-19
+241,2,"14:46",886,886,"Official TV Timeout",54,41,13,0.979234676013459,"Minnesota","Western Carolina",3,3,0,1,30.5,400986371,2017-11-19
+242,2,"14:21",861,861,"Deriece Parks Turnover.",54,41,13,0.984056070199474,"Minnesota","Western Carolina",3,3,0,1,30.5,400986371,2017-11-19
+243,2,"14:21",861,861,"Jordan Murphy Steal.",54,41,13,0.984056070199474,"Minnesota","Western Carolina",3,3,0,1,30.5,400986371,2017-11-19
+244,2,"14:20",860,860,"Foul on Maurice Smith.",54,41,13,0.984056070199474,"Minnesota","Western Carolina",3,3,0,1,30.5,400986371,2017-11-19
+245,2,"14:05",845,845,"Foul on Matt Halvorsen.",54,41,13,0.986963332069737,"Minnesota","Western Carolina",3,3,0,1,30.5,400986371,2017-11-19
+246,2,"14:05",845,845,"Isaiah Washington made Free Throw.",55,41,14,0.989431322062152,"Minnesota","Western Carolina",3,3,0,1,30.5,400986371,2017-11-19
+247,2,"14:05",845,845,"Isaiah Washington missed Free Throw.",55,41,14,0.989431322062152,"Minnesota","Western Carolina",3,3,0,1,30.5,400986371,2017-11-19
+248,2,"14:05",845,845,"Jordan Murphy Offensive Rebound.",55,41,14,0.989431322062152,"Minnesota","Western Carolina",3,3,0,1,30.5,400986371,2017-11-19
+249,2,"14:02",842,842,"Isaiah Washington missed Jumper.",55,41,14,0.989431322062152,"Minnesota","Western Carolina",3,3,0,1,30.5,400986371,2017-11-19
+250,2,"14:02",842,842,"Mike Amius Block.",55,41,14,0.989431322062152,"Minnesota","Western Carolina",3,3,0,1,30.5,400986371,2017-11-19
+251,2,"13:58",838,838,"Onno Steger Defensive Rebound.",55,41,14,0.990743863989791,"Minnesota","Western Carolina",3,3,0,1,30.5,400986371,2017-11-19
+252,2,"13:46",826,826,"Foul on Amir Coffey.",55,41,14,0.986809244432656,"Minnesota","Western Carolina",3,3,0,1,30.5,400986371,2017-11-19
+253,2,"13:25",805,805,"Western Carolina  Turnover.",55,41,14,0.989703924009673,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+254,2,"13:11",791,791,"Amir Coffey missed Jumper.",55,41,14,0.990632752431044,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+255,2,"13:09",789,789,"Amir Coffey Offensive Rebound.",55,41,14,0.988833215482341,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+256,2,"13:08",788,788,"Amir Coffey missed Jumper.",55,41,14,0.988833215482341,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+257,2,"13:08",788,788,"Jordan Murphy Offensive Rebound.",55,41,14,0.988833215482341,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+258,2,"13:08",788,788,"Foul on Marc Gosselin.",55,41,14,0.988833215482341,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+259,2,"13:08",788,788,"Jordan Murphy made Free Throw.",56,41,15,0.990894835705587,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+260,2,"13:08",788,788,"Jordan Murphy made Free Throw.",57,41,16,0.992578694620694,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+261,2,"12:57",777,777,"Mike Amius made Layup. Assisted by Deriece Parks.",57,43,14,0.989465911171365,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+262,2,"12:41",761,761,"Isaiah Washington made Layup.",59,43,16,0.994494305722776,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+263,2,"12:29",749,749,"Deriece Parks missed Three Point Jumper.",59,43,16,0.99407605602978,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+264,2,"12:27",747,747,"Bakary Konate Defensive Rebound.",59,43,16,0.99407605602978,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+265,2,"12:20",740,740,"Isaiah Washington missed Three Point Jumper.",59,43,16,0.99407605602978,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+266,2,"12:19",739,739,"Jordan Murphy Offensive Rebound.",59,43,16,0.992233966967604,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+267,2,"12:19",739,739,"Foul on Haboubacar Mutombo.",59,43,16,0.992233966967604,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+268,2,"12:19",739,739,"Jordan Murphy made Free Throw.",60,43,17,0.99371212907995,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+269,2,"12:19",739,739,"Jordan Murphy missed Free Throw.",60,43,17,0.99371212907995,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+270,2,"12:19",739,739,"Haboubacar Mutombo Defensive Rebound.",60,43,17,0.99371212907995,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+271,2,"11:56",716,716,"Official TV Timeout",60,43,17,0.994902753439143,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+272,2,"11:56",716,716,"Foul on Bakary Konate.",60,43,17,0.994902753439143,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+273,2,"11:56",716,716,"Mike Amius missed Free Throw.",60,43,17,0.994902753439143,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+274,2,"11:56",716,716,"Western Carolina Deadball Team Rebound.",60,43,17,0.994902753439143,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+275,2,"11:56",716,716,"Mike Amius made Free Throw.",60,44,16,0.993662921231976,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+276,2,"11:43",703,703,"Amir Coffey made Layup. Assisted by Jordan Murphy.",62,44,18,0.994949083182998,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+277,2,"11:43",703,703,"Foul on Devin Peterson.",62,44,18,0.994949083182998,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+278,2,"11:43",703,703,"Amir Coffey missed Free Throw.",62,44,18,0.994949083182998,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+279,2,"11:43",703,703,"Mike Amius Defensive Rebound.",62,44,18,0.994949083182998,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+280,2,"11:24",684,684,"Onno Steger made Layup. Assisted by Matt Halvorsen.",62,46,16,0.993890199043493,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+281,2,"11:13",673,673,"Michael Hurt missed Layup.",62,46,16,0.994728505044996,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+282,2,"11:13",673,673,"Onno Steger Block.",62,46,16,0.994728505044996,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+283,2,"11:12",672,672,"Minnesota Offensive Rebound.",62,46,16,0.994728505044996,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+284,2,"11:06",666,666,"Davonte Fitzgerald missed Jumper.",62,46,16,0.993921786593441,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+285,2,"11:02",662,662,"Mike Amius Defensive Rebound.",62,46,16,0.993921786593441,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+286,2,"10:57",657,657,"Haboubacar Mutombo missed Three Point Jumper.",62,46,16,0.994999424651185,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+287,2,"10:56",656,656,"Amir Coffey Defensive Rebound.",62,46,16,0.994999424651185,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+288,2,"10:56",656,656,"Foul on Jordan Murphy.",62,46,16,0.994999424651185,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+289,2,"10:56",656,656,"Foul on Mike Amius.",62,46,16,0.994999424651185,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+290,2,"10:43",643,643,"Michael Hurt made Layup.",64,46,18,0.996894042343399,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+291,2,"10:25",625,625,"Matt Halvorsen Turnover.",64,46,18,0.997828091351825,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+292,2,"10:25",625,625,"Isaiah Washington Steal.",64,46,18,0.997828091351825,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+293,2,"10:19",619,619,"Foul on Devin Peterson.",64,46,18,0.99728658996619,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+294,2,"10:19",619,619,"Jordan Murphy made Free Throw.",65,46,19,0.997887421194798,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+295,2,"10:19",619,619,"Jordan Murphy made Free Throw.",66,46,20,0.998355429570032,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+296,2,"9:58",598,598,"Foul on Yalim Olcay.",66,46,20,0.997990720978035,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+297,2,"9:58",598,598,"Yalim Olcay Turnover.",66,46,20,0.997990720978035,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+298,2,"9:42",582,582,"Michael Hurt missed Jumper.",66,46,20,0.997920687596564,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+299,2,"9:42",582,582,"Ashley Williams Block.",66,46,20,0.997920687596564,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+300,2,"9:39",579,579,"Onno Steger Defensive Rebound.",66,46,20,0.99860043435003,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+301,2,"9:32",572,572,"Onno Steger missed Three Point Jumper.",66,46,20,0.99860043435003,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+302,2,"9:28",568,568,"Jordan Murphy Defensive Rebound.",66,46,20,0.998829971556075,"Minnesota","Western Carolina",3,3,0,0,30.5,400986371,2017-11-19
+303,2,"9:20",560,560,"Foul on Michael Hurt.",66,46,20,0.998829971556075,"Minnesota","Western Carolina",3,3,1,0,30.5,400986371,2017-11-19
+304,2,"9:20",560,560,"Michael Hurt Turnover.",66,46,20,0.998829971556075,"Minnesota","Western Carolina",3,3,1,0,30.5,400986371,2017-11-19
+305,2,"9:20",560,560,"Minnesota  Timeout",66,46,20,0.998829971556075,"Minnesota","Western Carolina",2,3,1,0,30.5,400986371,2017-11-19
+306,2,"8:58",538,538,"Onno Steger made Three Point Jumper. Assisted by Desmond Johnson.",66,49,17,0.998127919181974,"Minnesota","Western Carolina",2,3,1,0,30.5,400986371,2017-11-19
+307,2,"8:38",518,518,"Isaiah Washington missed Jumper.",66,49,17,0.997087601151839,"Minnesota","Western Carolina",2,3,1,0,30.5,400986371,2017-11-19
+308,2,"8:36",516,516,"Jordan Murphy Offensive Rebound.",66,49,17,0.997087601151839,"Minnesota","Western Carolina",2,3,1,0,30.5,400986371,2017-11-19
+309,2,"8:35",515,515,"Jordan Murphy made Dunk.",68,49,19,0.998302575457954,"Minnesota","Western Carolina",2,3,1,0,30.5,400986371,2017-11-19
+310,2,"8:35",515,515,"Foul on Ashley Williams.",68,49,19,0.998302575457954,"Minnesota","Western Carolina",2,3,1,0,30.5,400986371,2017-11-19
+311,2,"8:35",515,515,"Jordan Murphy made Free Throw.",69,49,20,0.998704400938909,"Minnesota","Western Carolina",2,3,1,0,30.5,400986371,2017-11-19
+312,2,"8:10",490,490,"Desmond Johnson Turnover.",69,49,20,0.998858949458126,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+313,2,"8:10",490,490,"Michael Hurt Steal.",69,49,20,0.998858949458126,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+314,2,"8:08",488,488,"Isaiah Washington missed Jumper.",69,49,20,0.998882605655805,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+315,2,"8:08",488,488,"Ashley Williams Block.",69,49,20,0.998882605655805,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+316,2,"8:08",488,488,"Minnesota Offensive Rebound.",69,49,20,0.998882605655805,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+317,2,"8:00",480,480,"Amir Coffey made Jumper.",71,49,22,0.999352939901157,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+318,2,"8:00",480,480,"Official TV Timeout",71,49,22,0.999352939901157,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+319,2,"8:00",480,480,"Foul on Marcus Thomas.",71,49,22,0.999352939901157,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+320,2,"8:00",480,480,"Amir Coffey missed Free Throw.",71,49,22,0.999352939901157,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+321,2,"8:00",480,480,"Desmond Johnson Defensive Rebound.",71,49,22,0.999352939901157,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+322,2,"7:45",465,465,"Ashley Williams missed Jumper.",71,49,22,0.999464644155149,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+323,2,"7:45",465,465,"Jordan Murphy Block.",71,49,22,0.999464644155149,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+324,2,"7:44",464,464,"Western Carolina Offensive Rebound.",71,49,22,0.999464644155149,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+325,2,"7:36",456,456,"Marcus Thomas Turnover.",71,49,22,0.999712634359664,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+326,2,"7:36",456,456,"Davonte Fitzgerald Steal.",71,49,22,0.999712634359664,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+327,2,"7:19",439,439,"Dupree McBrayer made Free Throw.",72,49,23,0.999786865322567,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+328,2,"7:19",439,439,"Dupree McBrayer made Free Throw.",73,49,24,0.999843294252694,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+329,2,"7:19",439,439,"Foul on Desmond Johnson.",71,49,22,0.999710122517356,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+330,2,"7:19",439,439,"Dupree McBrayer made Free Throw.",72,49,23,0.999786865322567,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+331,2,"7:19",439,439,"Dupree McBrayer made Free Throw.",73,49,24,0.999843294252694,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+332,2,"6:55",415,415,"Desmond Johnson made Layup.",73,51,22,0.999641855385976,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+333,2,"6:40",400,400,"Amir Coffey made Three Point Jumper. Assisted by Jordan Murphy.",76,51,25,0.999920849100519,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+334,2,"6:27",387,387,"Desmond Johnson made Three Point Jumper.",76,54,22,0.999630026319027,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+335,2,"5:58",358,358,"Davonte Fitzgerald missed Jumper.",76,54,22,0.999823043996501,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+336,2,"5:57",357,357,"Jordan Murphy Offensive Rebound.",76,54,22,0.999823043996501,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+337,2,"5:57",357,357,"Foul on Adam Sledd.",76,54,22,0.999823043996501,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+338,2,"5:57",357,357,"Jordan Murphy made Free Throw.",77,54,23,0.999874075662132,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+339,2,"5:57",357,357,"Jordan Murphy missed Free Throw.",77,54,23,0.999874075662132,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+340,2,"5:57",357,357,"Marcus Thomas Defensive Rebound.",77,54,23,0.999874075662132,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+341,2,"5:33",333,333,"Onno Steger missed Three Point Jumper.",77,54,23,0.999913145985529,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+342,2,"5:29",329,329,"Onno Steger Offensive Rebound.",77,54,23,0.999796871940905,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+343,2,"5:22",322,322,"Maurice Smith missed Jumper.",77,54,23,0.999796871940905,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+344,2,"5:20",320,320,"Nate Mason Defensive Rebound.",77,54,23,0.999796871940905,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+345,2,"5:12",312,312,"Jamir Harris missed Three Point Jumper.",77,54,23,0.999925637903164,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+346,2,"5:09",309,309,"Jordan Murphy Offensive Rebound.",77,54,23,0.999854553016283,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+347,2,"5:08",308,308,"Jordan Murphy missed Free Throw.",77,54,23,0.999854553016283,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+348,2,"5:08",308,308,"Jordan Murphy missed Free Throw.",77,54,23,0.999854553016283,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+349,2,"5:08",308,308,"Foul on Onno Steger.",77,54,23,0.999854553016283,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+350,2,"5:08",308,308,"Minnesota Deadball Team Rebound.",77,54,23,0.999854553016283,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+351,2,"5:08",308,308,"Jordan Murphy missed Free Throw.",77,54,23,0.999854553016283,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+352,2,"5:08",308,308,"Jordan Murphy missed Free Throw.",77,54,23,0.999854553016283,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+353,2,"5:08",308,308,"Western Carolina Defensive Rebound.",77,54,23,0.999854553016283,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+354,2,"5:08",308,308,"Foul on Jamir Harris.",77,54,23,0.999854553016283,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+355,2,"5:08",308,308,"Western Carolina Deadball Team Rebound.",77,54,23,0.999854553016283,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+356,2,"5:08",308,308,"Maurice Smith missed Free Throw.",77,54,23,0.999854553016283,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+357,2,"5:08",308,308,"Maurice Smith missed Free Throw.",77,54,23,0.999854553016283,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+358,2,"5:07",307,307,"Western Carolina Offensive Rebound.",77,54,23,0.999854553016283,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+359,2,"5:04",304,304,"Jason McMillan missed Three Point Jumper.",77,54,23,0.999854553016283,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+360,2,"5:01",301,301,"Jamir Harris Defensive Rebound.",77,54,23,0.999854553016283,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+361,2,"4:53",293,293,"Jordan Murphy made Jumper. Assisted by Amir Coffey.",79,54,25,0.999947543570007,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+362,2,"4:32",272,272,"Adam Sledd missed Jumper.",79,54,25,0.999979852884295,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+363,2,"4:31",271,271,"Jordan Murphy Defensive Rebound.",79,54,25,0.999979852884295,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+364,2,"4:31",271,271,"Jordan Murphy made Free Throw.",80,54,26,0.999986337451831,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+365,2,"4:31",271,271,"Jordan Murphy made Free Throw.",81,54,27,0.999990734910366,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+366,2,"4:31",271,271,"Foul on Onno Steger.",79,54,25,0.999979852884295,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+367,2,"4:31",271,271,"Jordan Murphy made Free Throw.",80,54,26,0.999986337451831,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+368,2,"4:31",271,271,"Jordan Murphy made Free Throw.",81,54,27,0.999990734910366,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+369,2,"4:08",248,248,"Maurice Smith missed Three Point Jumper.",81,54,27,0.99999342810021,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+370,2,"4:06",246,246,"Reggie Lynch Defensive Rebound.",81,54,27,0.99999342810021,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+371,2,"3:58",238,238,"Official TV Timeout",81,54,27,0.999993446712926,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+372,2,"3:58",238,238,"Jordan Murphy made Free Throw.",82,54,28,0.999995632604259,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+373,2,"3:58",238,238,"Jordan Murphy made Free Throw.",83,54,29,0.999997089379508,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+374,2,"3:58",238,238,"Foul on Adam Sledd.",81,54,27,0.999993446712926,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+375,2,"3:58",238,238,"Jordan Murphy made Free Throw.",82,54,28,0.999995632604259,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+376,2,"3:58",238,238,"Jordan Murphy made Free Throw.",83,54,29,0.999997089379508,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+377,2,"3:37",217,217,"Devonte Fuller made Layup.",83,56,27,0.999997453258417,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+378,2,"3:21",201,201,"Reggie Lynch made Layup. Assisted by Jordan Murphy.",85,56,29,0.999999395351669,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+379,2,"3:03",183,183,"Devonte Fuller made Free Throw.",85,57,28,0.999999487542569,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+380,2,"3:03",183,183,"Devonte Fuller made Free Throw.",85,58,27,0.999999167094675,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+381,2,"3:03",183,183,"Foul on Jamir Harris.",85,56,29,0.999999684702956,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+382,2,"3:03",183,183,"Devonte Fuller made Free Throw.",85,57,28,0.999999487542569,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+383,2,"3:03",183,183,"Devonte Fuller made Free Throw.",85,58,27,0.999999167094675,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+384,2,"2:37",157,157,"Jamir Harris made Three Point Jumper. Assisted by Davonte Fitzgerald.",88,58,30,0.999999961748423,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+385,2,"2:27",147,147,"Adam Sledd made Jumper.",88,60,28,0.99999982883922,"Minnesota","Western Carolina",2,3,0,0,30.5,400986371,2017-11-19
+386,2,"2:13",133,133,"Michael Hurt made Layup. Assisted by Jamir Harris.",90,60,30,0.999999969958024,"Minnesota","Western Carolina",2,3,1,0,30.5,400986371,2017-11-19
+387,2,"2:13",133,133,"Minnesota  Timeout",90,60,30,0.999999969958024,"Minnesota","Western Carolina",1,3,1,0,30.5,400986371,2017-11-19
+388,2,"2:07",127,127,"Marcus Thomas missed Three Point Jumper.",90,60,30,0.999999981441055,"Minnesota","Western Carolina",1,3,1,0,30.5,400986371,2017-11-19
+389,2,"2:06",126,126,"Minnesota Defensive Rebound.",90,60,30,0.999999981441055,"Minnesota","Western Carolina",1,3,1,0,30.5,400986371,2017-11-19
+390,2,"1:52",112,112,"Jamir Harris Turnover.",90,60,30,0.999999993905349,"Minnesota","Western Carolina",1,3,1,0,30.5,400986371,2017-11-19
+391,2,"1:52",112,112,"Desmond Johnson Steal.",90,60,30,0.999999993905349,"Minnesota","Western Carolina",1,3,1,0,30.5,400986371,2017-11-19
+392,2,"1:49",109,109,"Desmond Johnson made Dunk.",90,62,28,0.999999985974441,"Minnesota","Western Carolina",1,3,1,0,30.5,400986371,2017-11-19
+393,2,"1:23",83,83,"Nate Mason made Free Throw.",91,62,29,0.999999999627355,"Minnesota","Western Carolina",1,3,1,0,30.5,400986371,2017-11-19
+394,2,"1:23",83,83,"Nate Mason made Free Throw.",92,62,30,0.999999999817972,"Minnesota","Western Carolina",1,3,1,0,30.5,400986371,2017-11-19
+395,2,"1:23",83,83,"Foul on Marcus Thomas.",90,62,28,0.999999999237126,"Minnesota","Western Carolina",1,3,1,0,30.5,400986371,2017-11-19
+396,2,"1:23",83,83,"Nate Mason made Free Throw.",91,62,29,0.999999999627355,"Minnesota","Western Carolina",1,3,1,0,30.5,400986371,2017-11-19
+397,2,"1:23",83,83,"Nate Mason made Free Throw.",92,62,30,0.999999999817972,"Minnesota","Western Carolina",1,3,1,0,30.5,400986371,2017-11-19
+398,2,"1:06",66,66,"Devonte Fuller made Jumper.",92,64,28,0.999999999333172,"Minnesota","Western Carolina",1,3,0,0,30.5,400986371,2017-11-19
+399,2,"0:39",39,39,"Davonte Fitzgerald Turnover.",92,64,28,0.999999999998479,"Minnesota","Western Carolina",1,3,0,0,30.5,400986371,2017-11-19
+400,2,"0:17",17,17,"Ashley Williams missed Three Point Jumper.",92,64,28,0.999999999999971,"Minnesota","Western Carolina",1,3,0,0,30.5,400986371,2017-11-19
+401,2,"0:14",14,14,"Bakary Konate Defensive Rebound.",92,64,28,1,"Minnesota","Western Carolina",1,3,0,0,30.5,400986371,2017-11-19
+402,2,"0:00",0,0,"End of Game",92,64,28,1,"Minnesota","Western Carolina",1,3,0,0,30.5,400986371,2017-11-19

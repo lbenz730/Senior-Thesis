@@ -1,0 +1,337 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.928806077460854,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+2,1,"19:37",2377,2377,"Kelan Martin missed Layup.",0,0,0,0.921114776030803,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+3,1,"19:37",2377,2377,"Naz Bohannon Defensive Rebound.",0,0,0,0.921114776030803,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+4,1,"19:18",2358,2358,"Tyree Robinson made Jumper. Assisted by Cameron Morse.",0,2,-2,0.910861287671925,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+5,1,"18:52",2332,2332,"Kamar Baldwin made Three Point Jumper.",3,2,1,0.92551571970489,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+6,1,"18:29",2309,2309,"Jaylen Benton Turnover.",3,2,1,0.918211123845675,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+7,1,"18:13",2293,2293,"Aaron Thompson Turnover.",3,2,1,0.925028683390276,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+8,1,"17:49",2269,2269,"Jaylen Benton missed Three Point Jumper.",3,2,1,0.929421560000024,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+9,1,"17:49",2269,2269,"Braun Hartfield Offensive Rebound.",3,2,1,0.929421560000024,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+10,1,"17:43",2263,2263,"Tyree Robinson made Dunk. Assisted by Braun Hartfield.",3,4,-1,0.91140506149222,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+11,1,"17:17",2237,2237,"Foul on Jaylen Benton.",3,4,-1,0.905449022844494,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+12,1,"17:05",2225,2225,"Nate Fowler made Layup. Assisted by Kamar Baldwin.",5,4,1,0.923377743105639,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+13,1,"16:44",2204,2204,"Naz Bohannon missed Three Point Jumper.",5,4,1,0.920744288801663,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+14,1,"16:44",2204,2204,"Paul Jorgensen Defensive Rebound.",5,4,1,0.920744288801663,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+15,1,"16:34",2194,2194,"Paul Jorgensen made Layup.",7,4,3,0.940895109692577,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+16,1,"16:17",2177,2177,"Jaylen Benton missed Jumper.",7,4,3,0.933281043311502,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+17,1,"16:17",2177,2177,"Kamar Baldwin Defensive Rebound.",7,4,3,0.933281043311502,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+18,1,"16:09",2169,2169,"Paul Jorgensen made Three Point Jumper. Assisted by Aaron Thompson.",10,4,6,0.950902375391728,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+19,1,"15:58",2158,2158,"Braun Hartfield made Three Point Jumper. Assisted by Naz Bohannon.",10,7,3,0.934810630432153,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+20,1,"15:45",2145,2145,"Foul on Braun Hartfield.",10,7,3,0.93509154625234,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+21,1,"15:45",2145,2145,"Official TV Timeout",10,7,3,0.93509154625234,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+22,1,"15:39",2139,2139,"Aaron Thompson made Layup.",12,7,5,0.949449411504425,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+23,1,"15:17",2117,2117,"Cameron Morse missed Jumper.",12,7,5,0.952337345206726,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+24,1,"15:17",2117,2117,"Henry Baddley Defensive Rebound.",12,7,5,0.952337345206726,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+25,1,"15:13",2113,2113,"Foul on Michael Akuchie.",12,7,5,0.952337345206726,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+26,1,"14:52",2092,2092,"Kelan Martin missed Layup.",12,7,5,0.945149677398387,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+27,1,"14:52",2092,2092,"Naz Bohannon Defensive Rebound.",12,7,5,0.945149677398387,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+28,1,"14:43",2083,2083,"Michael Akuchie missed Three Point Jumper.",12,7,5,0.942908220050013,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+29,1,"14:43",2083,2083,"Aaron Thompson Defensive Rebound.",12,7,5,0.942908220050013,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+30,1,"14:35",2075,2075,"Aaron Thompson made Jumper.",14,7,7,0.956181749456347,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+31,1,"14:35",2075,2075,"Foul on Jeremiah Ferguson.",14,7,7,0.956181749456347,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+32,1,"14:35",2075,2075,"Aaron Thompson missed Free Throw.",14,7,7,0.956181749456347,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+33,1,"14:35",2075,2075,"Naz Bohannon Defensive Rebound.",14,7,7,0.956181749456347,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+34,1,"14:21",2061,2061,"Cameron Morse missed Jumper.",14,7,7,0.956590786921927,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+35,1,"14:21",2061,2061,"Kelan Martin Defensive Rebound.",14,7,7,0.956590786921927,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+36,1,"14:07",2047,2047,"Butler  Timeout",14,7,7,0.951821729971844,"Butler","Youngstown State",3,4,1,0,26.5,400988519,2017-12-09
+37,1,"14:05",2045,2045,"Tyler Wideman Turnover.",14,7,7,0.951821729971844,"Butler","Youngstown State",3,4,1,0,26.5,400988519,2017-12-09
+38,1,"14:03",2043,2043,"Garrett Covington Steal.",14,7,7,0.951821729971844,"Butler","Youngstown State",3,4,1,0,26.5,400988519,2017-12-09
+39,1,"14:02",2042,2042,"Garrett Covington Turnover.",14,7,7,0.951821729971844,"Butler","Youngstown State",3,4,1,0,26.5,400988519,2017-12-09
+40,1,"13:47",2027,2027,"Kelan Martin missed Jumper.",14,7,7,0.960914485158418,"Butler","Youngstown State",3,4,1,0,26.5,400988519,2017-12-09
+41,1,"13:47",2027,2027,"Cameron Morse Defensive Rebound.",14,7,7,0.960914485158418,"Butler","Youngstown State",3,4,1,0,26.5,400988519,2017-12-09
+42,1,"13:38",2018,2018,"Cameron Morse made Layup.",14,9,5,0.94589951821915,"Butler","Youngstown State",3,4,1,0,26.5,400988519,2017-12-09
+43,1,"13:26",2006,2006,"Kamar Baldwin missed Layup.",14,9,5,0.941881803072783,"Butler","Youngstown State",3,4,1,0,26.5,400988519,2017-12-09
+44,1,"13:26",2006,2006,"Jeremiah Ferguson Defensive Rebound.",14,9,5,0.941881803072783,"Butler","Youngstown State",3,4,1,0,26.5,400988519,2017-12-09
+45,1,"13:20",2000,2000,"Garrett Covington missed Three Point Jumper.",14,9,5,0.941881803072783,"Butler","Youngstown State",3,4,1,0,26.5,400988519,2017-12-09
+46,1,"13:20",2000,2000,"Butler Defensive Rebound.",14,9,5,0.941881803072783,"Butler","Youngstown State",3,4,1,0,26.5,400988519,2017-12-09
+47,1,"13:02",1982,1982,"Paul Jorgensen missed Layup.",14,9,5,0.940261925955154,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+48,1,"13:02",1982,1982,"Kelan Martin Offensive Rebound.",14,9,5,0.940261925955154,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+49,1,"12:58",1978,1978,"Kelan Martin Turnover.",14,9,5,0.951265813853111,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+50,1,"12:40",1960,1960,"Michael Akuchie Turnover.",14,9,5,0.942305534866373,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+51,1,"12:28",1948,1948,"Kelan Martin made Three Point Jumper. Assisted by Henry Baddley.",17,9,8,0.96201162758461,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+52,1,"12:05",1925,1925,"Michael Akuchie Turnover.",17,9,8,0.96488150690933,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+53,1,"12:05",1925,1925,"Kelan Martin Steal.",17,9,8,0.96488150690933,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+54,1,"11:50",1910,1910,"Christian David made Layup. Assisted by Henry Baddley.",19,9,10,0.972567252336699,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+55,1,"11:21",1881,1881,"Garrett Covington Turnover.",19,9,10,0.970028626215747,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+56,1,"11:21",1881,1881,"Foul on Garrett Covington.",19,9,10,0.970028626215747,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+57,1,"11:21",1881,1881,"Official TV Timeout",19,9,10,0.970028626215747,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+58,1,"11:15",1875,1875,"Kamar Baldwin Turnover.",19,9,10,0.968586663759723,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+59,1,"11:13",1873,1873,"Naz Bohannon Steal.",19,9,10,0.968586663759723,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+60,1,"11:09",1869,1869,"Jaylen Benton missed Jumper.",19,9,10,0.970588290869727,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+61,1,"11:09",1869,1869,"Kamar Baldwin Defensive Rebound.",19,9,10,0.970588290869727,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+62,1,"10:40",1840,1840,"Kamar Baldwin made Layup.",21,9,12,0.974669711641531,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+63,1,"10:25",1825,1825,"Tyree Robinson missed Jumper.",21,9,12,0.976911201080342,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+64,1,"10:25",1825,1825,"Tyree Robinson Offensive Rebound.",21,9,12,0.976911201080342,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+65,1,"10:20",1820,1820,"Tyree Robinson made Layup.",21,11,10,0.970811038734349,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+66,1,"10:03",1803,1803,"Henry Baddley Turnover.",21,11,10,0.969566044488021,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+67,1,"10:01",1801,1801,"Braun Hartfield Steal.",21,11,10,0.969566044488021,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+68,1,"9:55",1795,1795,"Foul on Tyler Wideman.",21,11,10,0.967225128684066,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+69,1,"9:54",1794,1794,"Jaylen Benton missed Layup.",21,11,10,0.967225128684066,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+70,1,"9:54",1794,1794,"Youngstown State Offensive Rebound.",21,11,10,0.967225128684066,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+71,1,"9:51",1791,1791,"Cameron Morse missed Jumper.",21,11,10,0.967225128684066,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+72,1,"9:51",1791,1791,"Nate Fowler Defensive Rebound.",21,11,10,0.967225128684066,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+73,1,"9:40",1780,1780,"Aaron Thompson missed Layup.",21,11,10,0.967223912065356,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+74,1,"9:39",1779,1779,"Jaylen Benton Block.",21,11,10,0.965238822387531,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+75,1,"9:38",1778,1778,"Jaylen Benton Defensive Rebound.",21,11,10,0.965238822387531,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+76,1,"9:35",1775,1775,"Braun Hartfield missed Jumper.",21,11,10,0.965238822387531,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+77,1,"9:35",1775,1775,"Kelan Martin Defensive Rebound.",21,11,10,0.965238822387531,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+78,1,"9:25",1765,1765,"Kelan Martin made Jumper.",23,11,12,0.978366699844572,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+79,1,"9:17",1757,1757,"Cameron Morse Turnover.",23,11,12,0.979101996295784,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+80,1,"9:15",1755,1755,"Nate Fowler Steal.",23,11,12,0.979101996295784,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+81,1,"8:45",1725,1725,"Foul on Naz Bohannon.",23,11,12,0.973788621907912,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+82,1,"8:45",1725,1725,"Kelan Martin missed Free Throw.",23,11,12,0.973788621907912,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+83,1,"8:45",1725,1725,"Butler Deadball Team Rebound.",23,11,12,0.973788621907912,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+84,1,"8:45",1725,1725,"Kelan Martin made Free Throw.",24,11,13,0.977035058746627,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+85,1,"8:27",1707,1707,"Michael Akuchie missed Three Point Jumper.",24,11,13,0.976954746437686,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+86,1,"8:27",1707,1707,"Nate Fowler Defensive Rebound.",24,11,13,0.976954746437686,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+87,1,"8:16",1696,1696,"Kelan Martin missed Three Point Jumper.",24,11,13,0.980706664117792,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+88,1,"8:16",1696,1696,"Ryan Strollo Defensive Rebound.",24,11,13,0.980706664117792,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+89,1,"7:59",1679,1679,"Foul on Braun Hartfield.",24,11,13,0.980807912033052,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+90,1,"7:59",1679,1679,"Braun Hartfield Turnover.",24,11,13,0.980807912033052,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+91,1,"7:59",1679,1679,"Official TV Timeout",24,11,13,0.980807912033052,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+92,1,"7:40",1660,1660,"Jerald Gillens-Butler missed Three Point Jumper.",24,11,13,0.977890538686782,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+93,1,"7:40",1660,1660,"Nate Fowler Offensive Rebound.",24,11,13,0.977890538686782,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+94,1,"7:35",1655,1655,"Nate Fowler made Layup.",26,11,15,0.982744044329726,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+95,1,"7:18",1638,1638,"Michael Akuchie Turnover.",26,11,15,0.983030641335446,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+96,1,"7:14",1634,1634,"Kamar Baldwin made Layup.",28,11,17,0.986905543961056,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+97,1,"6:55",1615,1615,"Michael Akuchie Turnover.",28,11,17,0.987239604257904,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+98,1,"6:53",1613,1613,"Aaron Thompson Steal.",28,11,17,0.987239604257904,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+99,1,"6:51",1611,1611,"Aaron Thompson missed Layup.",28,11,17,0.987239604257904,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+100,1,"6:51",1611,1611,"Michael Akuchie Block.",28,11,17,0.987239604257904,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+101,1,"6:51",1611,1611,"Butler Offensive Rebound.",28,11,17,0.987239604257904,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+102,1,"6:50",1610,1610,"Youngstown State  Timeout",28,11,17,0.987239604257904,"Butler","Youngstown State",3,3,0,1,26.5,400988519,2017-12-09
+103,1,"6:46",1606,1606,"Nate Fowler made Layup.",30,11,19,0.990165711827967,"Butler","Youngstown State",3,3,0,1,26.5,400988519,2017-12-09
+104,1,"6:31",1591,1591,"Cameron Morse made Three Point Jumper. Assisted by Jaylen Benton.",30,14,16,0.984993921949352,"Butler","Youngstown State",3,3,0,1,26.5,400988519,2017-12-09
+105,1,"6:22",1582,1582,"Nate Fowler missed Layup.",30,14,16,0.985576262131709,"Butler","Youngstown State",3,3,0,1,26.5,400988519,2017-12-09
+106,1,"6:22",1582,1582,"Garrett Covington Block.",30,14,16,0.985576262131709,"Butler","Youngstown State",3,3,0,1,26.5,400988519,2017-12-09
+107,1,"6:22",1582,1582,"Butler Offensive Rebound.",30,14,16,0.985576262131709,"Butler","Youngstown State",3,3,0,1,26.5,400988519,2017-12-09
+108,1,"6:21",1581,1581,"Paul Jorgensen made Three Point Jumper. Assisted by Aaron Thompson.",33,14,19,0.990349634863875,"Butler","Youngstown State",3,3,0,1,26.5,400988519,2017-12-09
+109,1,"6:04",1564,1564,"Garrett Covington missed Layup.",33,14,19,0.991026761051273,"Butler","Youngstown State",3,3,0,1,26.5,400988519,2017-12-09
+110,1,"6:04",1564,1564,"Joey Brunk Defensive Rebound.",33,14,19,0.991026761051273,"Butler","Youngstown State",3,3,0,1,26.5,400988519,2017-12-09
+111,1,"5:49",1549,1549,"Joey Brunk made Layup. Assisted by Aaron Thompson.",35,14,21,0.993368781995623,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+112,1,"5:38",1538,1538,"Cameron Morse missed Three Point Jumper.",35,14,21,0.993378755724181,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+113,1,"5:38",1538,1538,"Joey Brunk Defensive Rebound.",35,14,21,0.993378755724181,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+114,1,"5:12",1512,1512,"Joey Brunk made Layup. Assisted by Paul Jorgensen.",37,14,23,0.996104201952766,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+115,1,"4:59",1499,1499,"Foul on Paul Jorgensen.",37,14,23,0.994860116167874,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+116,1,"4:52",1492,1492,"Braun Hartfield made Three Point Jumper. Assisted by Garrett Covington.",37,17,20,0.992209706898072,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+117,1,"4:33",1473,1473,"Paul Jorgensen missed Jumper.",37,17,20,0.994662022653708,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+118,1,"4:33",1473,1473,"Tyree Robinson Defensive Rebound.",37,17,20,0.994662022653708,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+119,1,"4:23",1463,1463,"Braun Hartfield made Layup.",37,19,18,0.987414146625653,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+120,1,"4:23",1463,1463,"Foul on Henry Baddley.",37,19,18,0.987414146625653,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+121,1,"4:23",1463,1463,"Braun Hartfield missed Free Throw.",37,19,18,0.987414146625653,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+122,1,"4:23",1463,1463,"Joey Brunk Defensive Rebound.",37,19,18,0.987414146625653,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+123,1,"3:58",1438,1438,"Kamar Baldwin missed Three Point Jumper.",37,19,18,0.990113003093833,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+124,1,"3:58",1438,1438,"Christian David Offensive Rebound.",37,19,18,0.990113003093833,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+125,1,"3:45",1425,1425,"Kelan Martin made Three Point Jumper.",40,19,21,0.992677704521998,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+126,1,"3:30",1410,1410,"Braun Hartfield missed Jumper.",40,19,21,0.993996722623276,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+127,1,"3:30",1410,1410,"Youngstown State Offensive Rebound.",40,19,21,0.993996722623276,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+128,1,"3:28",1408,1408,"Official TV Timeout",40,19,21,0.995062649076635,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+129,1,"3:24",1404,1404,"Michael Akuchie missed Three Point Jumper.",40,19,21,0.995062649076635,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+130,1,"3:24",1404,1404,"Kelan Martin Defensive Rebound.",40,19,21,0.995062649076635,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+131,1,"3:13",1393,1393,"Kelan Martin missed Layup.",40,19,21,0.995078420074718,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+132,1,"3:13",1393,1393,"Kelan Martin Offensive Rebound.",40,19,21,0.995078420074718,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+133,1,"3:11",1391,1391,"Foul on Michael Akuchie.",40,19,21,0.995078420074718,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+134,1,"3:11",1391,1391,"Kelan Martin made Free Throw.",41,19,22,0.995779706902754,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+135,1,"3:11",1391,1391,"Kelan Martin made Free Throw.",42,19,23,0.996381429201517,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+136,1,"2:32",1352,1352,"Naz Bohannon missed Three Point Jumper.",42,19,23,0.996043357875356,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+137,1,"2:32",1352,1352,"Garrett Covington Offensive Rebound.",42,19,23,0.996043357875356,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+138,1,"2:25",1345,1345,"Garrett Covington Turnover.",42,19,23,0.995736486121576,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+139,1,"2:24",1344,1344,"Kamar Baldwin Steal.",42,19,23,0.995736486121576,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+140,1,"2:22",1342,1342,"Kelan Martin missed Three Point Jumper.",42,19,23,0.995736486121576,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+141,1,"2:22",1342,1342,"Butler Offensive Rebound.",42,19,23,0.995736486121576,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+142,1,"1:59",1319,1319,"Tyler Wideman made Layup. Assisted by Aaron Thompson.",44,19,25,0.997181650903955,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+143,1,"1:28",1288,1288,"Foul on Tyler Wideman.",44,19,25,0.996729894818982,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+144,1,"1:28",1288,1288,"Jeremiah Ferguson missed Free Throw.",44,19,25,0.996729894818982,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+145,1,"1:28",1288,1288,"Youngstown State Deadball Team Rebound.",44,19,25,0.996729894818982,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+146,1,"1:28",1288,1288,"Jeremiah Ferguson made Free Throw.",44,20,24,0.996203489390055,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+147,1,"1:03",1263,1263,"Nate Fowler made Jumper.",46,20,26,0.997771979547548,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+148,1,"0:48",1248,1248,"Garrett Covington made Three Point Jumper.",46,23,23,0.99583487398741,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+149,1,"0:40",1240,1240,"Aaron Thompson Turnover.",46,23,23,0.99583487398741,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+150,1,"0:27",1227,1227,"Jaylen Benton Turnover.",46,23,23,0.996806913391037,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+151,1,"0:04",1204,1204,"Kelan Martin missed Three Point Jumper.",46,23,23,0.996009525337462,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+152,1,"0:04",1204,1204,"Kamar Baldwin Offensive Rebound.",46,23,23,0.996009525337462,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+153,1,"0:00",1200,1200,"Kamar Baldwin made Jumper.",48,23,25,0.997094812041864,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+154,1,"0:00",1200,1200,"End of 1st half",48,23,25,0.997094812041864,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+155,2,"20:00",1200,1200,"PLAY",48,23,25,0.997094812041864,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+156,2,"19:45",1185,1185,"Kamar Baldwin missed Three Point Jumper.",48,23,25,0.997540389225256,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+157,2,"19:45",1185,1185,"Jacob Brown Defensive Rebound.",48,23,25,0.997540389225256,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+158,2,"19:35",1175,1175,"Jacob Brown made Three Point Jumper. Assisted by Cameron Morse.",48,26,22,0.995390956203379,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+159,2,"19:25",1165,1165,"Kamar Baldwin made Layup.",50,26,24,0.996986817345058,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+160,2,"19:11",1151,1151,"Braun Hartfield Turnover.",50,26,24,0.996477783624268,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+161,2,"19:10",1150,1150,"Kelan Martin Steal.",50,26,24,0.996477783624268,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+162,2,"19:07",1147,1147,"Kelan Martin missed Layup.",50,26,24,0.997105044316549,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+163,2,"19:07",1147,1147,"Braun Hartfield Block.",50,26,24,0.997105044316549,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+164,2,"19:05",1145,1145,"Cameron Morse Defensive Rebound.",50,26,24,0.997105044316549,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+165,2,"19:00",1140,1140,"Garrett Covington missed Three Point Jumper.",50,26,24,0.997105044316549,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+166,2,"19:00",1140,1140,"Naz Bohannon Offensive Rebound.",50,26,24,0.997105044316549,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+167,2,"18:53",1133,1133,"Naz Bohannon made Jumper.",50,28,22,0.995748948114525,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+168,2,"18:32",1112,1112,"Foul on Jacob Brown.",50,28,22,0.996029138944259,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+169,2,"18:26",1106,1106,"Nate Fowler made Jumper. Assisted by Kamar Baldwin.",52,28,24,0.996934655283211,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+170,2,"18:23",1103,1103,"Foul on Aaron Thompson.",52,28,24,0.996934655283211,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+171,2,"18:10",1090,1090,"Braun Hartfield Turnover.",52,28,24,0.997453944519084,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+172,2,"18:09",1089,1089,"Aaron Thompson Steal.",52,28,24,0.997792354619462,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+173,2,"18:07",1087,1087,"Paul Jorgensen missed Three Point Jumper.",52,28,24,0.997792354619462,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+174,2,"18:07",1087,1087,"Cameron Morse Defensive Rebound.",52,28,24,0.997792354619462,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+175,2,"17:55",1075,1075,"Cameron Morse made Layup.",52,30,22,0.995612204411482,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+176,2,"17:44",1064,1064,"Foul on Jacob Brown.",52,30,22,0.995985339565183,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+177,2,"17:44",1064,1064,"Kamar Baldwin missed Free Throw.",52,30,22,0.995985339565183,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+178,2,"17:44",1064,1064,"Butler Deadball Team Rebound.",52,30,22,0.995985339565183,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+179,2,"17:44",1064,1064,"Kamar Baldwin made Free Throw.",53,30,23,0.996619008718324,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+180,2,"17:21",1041,1041,"Garrett Covington made Layup.",53,32,21,0.995946164870006,"Butler","Youngstown State",4,4,0,0,26.5,400988519,2017-12-09
+181,2,"17:15",1035,1035,"Butler  Timeout",53,32,21,0.995317607541227,"Butler","Youngstown State",3,4,1,0,26.5,400988519,2017-12-09
+182,2,"16:52",1012,1012,"Henry Baddley made Layup. Assisted by Kelan Martin.",55,32,23,0.996946732970866,"Butler","Youngstown State",3,4,1,0,26.5,400988519,2017-12-09
+183,2,"16:44",1004,1004,"Garrett Covington Turnover.",55,32,23,0.99726915679942,"Butler","Youngstown State",3,4,1,0,26.5,400988519,2017-12-09
+184,2,"16:37",997,997,"Foul on Braun Hartfield.",55,32,23,0.99690790231031,"Butler","Youngstown State",3,4,1,0,26.5,400988519,2017-12-09
+185,2,"16:37",997,997,"Henry Baddley made Free Throw.",56,32,24,0.997412069569724,"Butler","Youngstown State",3,4,1,0,26.5,400988519,2017-12-09
+186,2,"16:37",997,997,"Henry Baddley made Free Throw.",57,32,25,0.997834210828313,"Butler","Youngstown State",3,4,1,0,26.5,400988519,2017-12-09
+187,2,"16:28",988,988,"Cameron Morse missed Three Point Jumper.",57,32,25,0.998676001420631,"Butler","Youngstown State",3,4,1,0,26.5,400988519,2017-12-09
+188,2,"16:28",988,988,"Naz Bohannon Offensive Rebound.",57,32,25,0.998676001420631,"Butler","Youngstown State",3,4,1,0,26.5,400988519,2017-12-09
+189,2,"16:23",983,983,"Foul on Nate Fowler.",57,32,25,0.998676001420631,"Butler","Youngstown State",3,4,1,0,26.5,400988519,2017-12-09
+190,2,"16:23",983,983,"Garrett Covington missed Free Throw.",57,32,25,0.998676001420631,"Butler","Youngstown State",3,4,1,0,26.5,400988519,2017-12-09
+191,2,"16:23",983,983,"Youngstown State Deadball Team Rebound.",57,32,25,0.998676001420631,"Butler","Youngstown State",3,4,1,0,26.5,400988519,2017-12-09
+192,2,"16:23",983,983,"Garrett Covington made Free Throw.",57,33,24,0.99838365293443,"Butler","Youngstown State",3,4,1,0,26.5,400988519,2017-12-09
+193,2,"16:07",967,967,"Henry Baddley Turnover.",57,33,24,0.997584270352522,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+194,2,"16:00",960,960,"Braun Hartfield made Layup.",57,35,22,0.996502752938962,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+195,2,"15:49",949,949,"Kamar Baldwin made Layup.",59,35,24,0.998324111282886,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+196,2,"15:38",938,938,"Foul on Kamar Baldwin.",59,35,24,0.998035639746881,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+197,2,"15:38",938,938,"Official TV Timeout",59,35,24,0.998035639746881,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+198,2,"15:35",935,935,"Braun Hartfield Turnover.",59,35,24,0.998035639746881,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+199,2,"15:33",933,933,"Kamar Baldwin Steal.",59,35,24,0.998035639746881,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+200,2,"15:31",931,931,"Kamar Baldwin made Layup.",61,35,26,0.998659528958838,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+201,2,"15:31",931,931,"Foul on Braun Hartfield.",61,35,26,0.998659528958838,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+202,2,"15:31",931,931,"Kamar Baldwin made Free Throw.",62,35,27,0.998892761187872,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+203,2,"15:18",918,918,"Cameron Morse made Jumper.",62,37,25,0.998733579492906,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+204,2,"14:48",888,888,"Kelan Martin made Jumper.",64,37,27,0.998117635624795,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+205,2,"14:32",872,872,"Naz Bohannon made Layup.",64,39,25,0.998454601591919,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+206,2,"14:18",858,858,"Nate Fowler made Layup. Assisted by Kamar Baldwin.",66,39,27,0.999237262651315,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+207,2,"14:10",850,850,"Foul on Kamar Baldwin.",66,39,27,0.999237262651315,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+208,2,"14:10",850,850,"Cameron Morse missed Free Throw.",66,39,27,0.999237262651315,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+209,2,"14:10",850,850,"Youngstown State Deadball Team Rebound.",66,39,27,0.999237262651315,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+210,2,"14:10",850,850,"Cameron Morse made Free Throw.",66,40,26,0.999063769820332,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+211,2,"14:02",842,842,"Christian David made Layup. Assisted by Kelan Martin.",68,40,28,0.999446511312107,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+212,2,"13:48",828,828,"Naz Bohannon missed Jumper.",68,40,28,0.999028876767435,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+213,2,"13:48",828,828,"Garrett Covington Offensive Rebound.",68,40,28,0.999028876767435,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+214,2,"13:43",823,823,"Garrett Covington made Layup.",68,42,26,0.998585457711954,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+215,2,"13:28",808,808,"Kelan Martin missed Jumper.",68,42,26,0.999080016140726,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+216,2,"13:28",808,808,"Garrett Covington Defensive Rebound.",68,42,26,0.999080016140726,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+217,2,"13:21",801,801,"Garrett Covington made Layup.",68,44,24,0.998619217702499,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+218,2,"13:21",801,801,"Foul on Christian David.",68,44,24,0.998619217702499,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+219,2,"13:21",801,801,"Garrett Covington missed Free Throw.",68,44,24,0.998619217702499,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+220,2,"13:21",801,801,"Jerald Gillens-Butler Defensive Rebound.",68,44,24,0.998619217702499,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+221,2,"13:07",787,787,"Paul Jorgensen made Layup. Assisted by Aaron Thompson.",70,44,26,0.999036314114586,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+222,2,"12:56",776,776,"Cameron Morse missed Jumper.",70,44,26,0.999133699254323,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+223,2,"12:56",776,776,"Michael Akuchie Offensive Rebound.",70,44,26,0.999133699254323,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+224,2,"12:39",759,759,"Foul on Aaron Thompson.",70,44,26,0.999299984366631,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+225,2,"12:39",759,759,"Garrett Covington made Free Throw.",70,45,25,0.999130290926482,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+226,2,"12:39",759,759,"Garrett Covington made Free Throw.",70,46,24,0.998919505935367,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+227,2,"12:20",740,740,"Foul on Christian David.",70,46,24,0.998985703000821,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+228,2,"12:20",740,740,"Christian David Turnover.",70,46,24,0.998985703000821,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+229,2,"12:08",728,728,"Jacob Brown missed Three Point Jumper.",70,46,24,0.998924834264875,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+230,2,"12:08",728,728,"Jeremiah Ferguson Offensive Rebound.",70,46,24,0.998924834264875,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+231,2,"11:53",713,713,"Jacob Brown missed Layup.",70,46,24,0.998878812810162,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+232,2,"11:53",713,713,"Tyler Wideman Block.",70,46,24,0.998878812810162,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+233,2,"11:50",710,710,"Jerald Gillens-Butler Defensive Rebound.",70,46,24,0.998878812810162,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+234,2,"11:46",706,706,"Jerald Gillens-Butler missed Layup.",70,46,24,0.998567976368567,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+235,2,"11:46",706,706,"Jeremiah Ferguson Block.",70,46,24,0.998567976368567,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+236,2,"11:43",703,703,"Garrett Covington Defensive Rebound.",70,46,24,0.998567976368567,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+237,2,"11:34",694,694,"Garrett Covington missed Layup.",70,46,24,0.999384309564484,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+238,2,"11:34",694,694,"Tyler Wideman Defensive Rebound.",70,46,24,0.999384309564484,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+239,2,"11:26",686,686,"Aaron Thompson missed Layup.",70,46,24,0.998959129157772,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+240,2,"11:26",686,686,"Jerald Gillens-Butler Offensive Rebound.",70,46,24,0.998959129157772,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+241,2,"11:20",680,680,"Christian David made Dunk. Assisted by Jerald Gillens-Butler.",72,46,26,0.999334136665295,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+242,2,"10:59",659,659,"Garrett Covington missed Layup.",72,46,26,0.999528907719503,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+243,2,"10:59",659,659,"Christian David Defensive Rebound.",72,46,26,0.999528907719503,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+244,2,"10:52",652,652,"Tyler Wideman made Layup. Assisted by Aaron Thompson.",74,46,28,0.999707224531642,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+245,2,"10:34",634,634,"Jacob Brown missed Three Point Jumper.",74,46,28,0.999630042748445,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+246,2,"10:34",634,634,"Henry Baddley Defensive Rebound.",74,46,28,0.999630042748445,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+247,2,"10:25",625,625,"Aaron Thompson Turnover.",74,46,28,0.999821438373944,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+248,2,"10:23",623,623,"Jacob Brown Steal.",74,46,28,0.999821438373944,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+249,2,"10:19",619,619,"Foul on Henry Baddley.",74,46,28,0.999775935125027,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+250,2,"10:19",619,619,"Official TV Timeout",74,46,28,0.999775935125027,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+251,2,"10:19",619,619,"Jeremiah Ferguson made Free Throw.",74,47,27,0.999712054624662,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+252,2,"10:19",619,619,"Jeremiah Ferguson made Free Throw.",74,48,26,0.999629968646998,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+253,2,"9:48",588,588,"Kelan Martin missed Jumper.",74,48,26,0.999506853265896,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+254,2,"9:48",588,588,"Jacob Brown Defensive Rebound.",74,48,26,0.999506853265896,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+255,2,"9:18",558,558,"Jeremiah Ferguson missed Three Point Jumper.",74,48,26,0.999709207503134,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+256,2,"9:18",558,558,"Butler Deadball Team Rebound.",74,48,26,0.999709207503134,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+257,2,"8:54",534,534,"Kelan Martin made Jumper.",76,48,28,0.999914064334565,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+258,2,"8:29",509,509,"Jeremiah Ferguson missed Layup.",76,48,28,0.9998707465459,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+259,2,"8:29",509,509,"Joey Brunk Defensive Rebound.",76,48,28,0.9998707465459,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+260,2,"8:22",502,502,"Foul on Garrett Covington.",76,48,28,0.9998707465459,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+261,2,"8:22",502,502,"Paul Jorgensen made Free Throw.",77,48,29,0.999901413962421,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+262,2,"8:22",502,502,"Paul Jorgensen made Free Throw.",78,48,30,0.999924805598857,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+263,2,"8:07",487,487,"Michael Akuchie Turnover.",78,48,30,0.999926503942786,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+264,2,"8:05",485,485,"Kelan Martin Steal.",78,48,30,0.999926503942786,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+265,2,"8:00",480,480,"Kelan Martin Turnover.",78,48,30,0.999926503942786,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+266,2,"7:58",478,478,"Jeremiah Ferguson Steal.",78,48,30,0.999958458900453,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+267,2,"7:56",476,476,"Cameron Morse made Three Point Jumper. Assisted by Jeremiah Ferguson.",78,51,27,0.999900538501579,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+268,2,"7:43",463,463,"Kamar Baldwin missed Three Point Jumper.",78,51,27,0.999867639518398,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+269,2,"7:43",463,463,"Kelan Martin Offensive Rebound.",78,51,27,0.999867639518398,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+270,2,"7:26",446,446,"Jerald Gillens-Butler Turnover.",78,51,27,0.999810879366474,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+271,2,"7:26",446,446,"Michael Akuchie Steal.",78,51,27,0.999810879366474,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+272,2,"7:26",446,446,"Official TV Timeout",78,51,27,0.999810879366474,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+273,2,"7:08",428,428,"Naz Bohannon missed Layup.",78,51,27,0.999898271078205,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+274,2,"7:08",428,428,"Butler Defensive Rebound.",78,51,27,0.999898271078205,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+275,2,"6:45",405,405,"Paul Jorgensen made Three Point Jumper. Assisted by Kamar Baldwin.",81,51,30,0.999984618425234,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+276,2,"6:23",383,383,"Tyree Robinson made Layup. Assisted by Cameron Morse.",81,53,28,0.999937146343561,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+277,2,"6:04",364,364,"Kamar Baldwin made Jumper.",83,53,30,0.999979880822376,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+278,2,"5:57",357,357,"Jeremiah Ferguson Turnover.",83,53,30,0.999988232790787,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+279,2,"5:55",355,355,"Paul Jorgensen missed Layup.",83,53,30,0.999988232790787,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+280,2,"5:55",355,355,"Naz Bohannon Defensive Rebound.",83,53,30,0.999988232790787,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+281,2,"5:49",349,349,"Foul on Christian David.",83,53,30,0.999985061222676,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+282,2,"5:49",349,349,"Garrett Covington made Free Throw.",83,54,29,0.999979124916947,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+283,2,"5:49",349,349,"Garrett Covington made Free Throw.",83,55,28,0.99997082973693,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+284,2,"5:29",329,329,"Aaron Thompson made Layup.",85,55,30,0.999977164223812,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+285,2,"5:18",318,318,"Garrett Covington Turnover.",85,55,30,0.999994236370685,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+286,2,"5:17",317,317,"Christian David Steal.",85,55,30,0.999994236370685,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+287,2,"5:10",310,310,"Christian David made Layup.",87,55,32,0.999997231423138,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+288,2,"4:51",291,291,"Garrett Covington missed Layup.",87,55,32,0.999995189482875,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+289,2,"4:51",291,291,"Joey Brunk Defensive Rebound.",87,55,32,0.999995189482875,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+290,2,"4:44",284,284,"Henry Baddley made Layup. Assisted by Paul Jorgensen.",89,55,34,0.999997981649705,"Butler","Youngstown State",3,4,0,0,26.5,400988519,2017-12-09
+291,2,"4:43",283,283,"Youngstown State  Timeout",89,55,34,0.999997981649705,"Butler","Youngstown State",3,3,0,1,26.5,400988519,2017-12-09
+292,2,"4:26",266,266,"Foul on Henry Baddley.",89,55,34,0.999998976806648,"Butler","Youngstown State",3,3,0,1,26.5,400988519,2017-12-09
+293,2,"4:26",266,266,"Cameron Morse made Free Throw.",89,56,33,0.999998513862113,"Butler","Youngstown State",3,3,0,1,26.5,400988519,2017-12-09
+294,2,"4:26",266,266,"Cameron Morse made Free Throw.",89,57,32,0.999997841458456,"Butler","Youngstown State",3,3,0,1,26.5,400988519,2017-12-09
+295,2,"4:26",266,266,"Cameron Morse made Free Throw.",89,58,31,0.999996864826461,"Butler","Youngstown State",3,3,0,1,26.5,400988519,2017-12-09
+296,2,"4:13",253,253,"Aaron Thompson missed Jumper.",89,58,31,0.999999218809843,"Butler","Youngstown State",3,3,0,1,26.5,400988519,2017-12-09
+297,2,"4:13",253,253,"Naz Bohannon Defensive Rebound.",89,58,31,0.999999218809843,"Butler","Youngstown State",3,3,0,1,26.5,400988519,2017-12-09
+298,2,"3:59",239,239,"Jacob Brown missed Three Point Jumper.",89,58,31,0.999998697025595,"Butler","Youngstown State",3,3,0,1,26.5,400988519,2017-12-09
+299,2,"3:59",239,239,"Jerald Gillens-Butler Defensive Rebound.",89,58,31,0.999998697025595,"Butler","Youngstown State",3,3,0,1,26.5,400988519,2017-12-09
+300,2,"3:49",229,229,"Foul on Naz Bohannon.",89,58,31,0.999999429644933,"Butler","Youngstown State",3,3,0,1,26.5,400988519,2017-12-09
+301,2,"3:49",229,229,"Official TV Timeout",89,58,31,0.999999429644933,"Butler","Youngstown State",3,3,0,1,26.5,400988519,2017-12-09
+302,2,"3:49",229,229,"Jerald Gillens-Butler made Free Throw.",90,58,32,0.999999626545712,"Butler","Youngstown State",3,3,0,1,26.5,400988519,2017-12-09
+303,2,"3:49",229,229,"Jerald Gillens-Butler made Free Throw.",91,58,33,0.999999755471453,"Butler","Youngstown State",3,3,0,1,26.5,400988519,2017-12-09
+304,2,"3:39",219,219,"Cameron Morse missed Jumper.",91,58,33,0.999999815812456,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+305,2,"3:39",219,219,"Butler Deadball Team Rebound.",91,58,33,0.999999815812456,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+306,2,"3:38",218,218,"Foul on Naz Bohannon.",91,58,33,0.999999815812456,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+307,2,"3:38",218,218,"Jerald Gillens-Butler made Free Throw.",92,58,34,0.999999881293224,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+308,2,"3:38",218,218,"Jerald Gillens-Butler made Free Throw.",93,58,35,0.999999923494835,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+309,2,"3:22",202,202,"Foul on Jerald Gillens-Butler.",93,58,35,0.999999959456891,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+310,2,"3:22",202,202,"Braun Hartfield made Free Throw.",93,59,34,0.99999993628625,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+311,2,"3:22",202,202,"Braun Hartfield missed Free Throw.",93,59,34,0.99999993628625,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+312,2,"3:22",202,202,"Youngstown State Offensive Rebound.",93,59,34,0.99999993628625,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+313,2,"3:17",197,197,"Michael Akuchie Turnover.",93,59,34,0.9999999417929,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+314,2,"3:17",197,197,"Aaron Thompson Steal.",93,59,34,0.9999999417929,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+315,2,"3:17",197,197,"Foul on Cameron Morse.",93,59,34,0.9999999417929,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+316,2,"3:17",197,197,"Aaron Thompson missed Free Throw.",93,59,34,0.9999999417929,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+317,2,"3:17",197,197,"Youngstown State Defensive Rebound.",93,59,34,0.9999999417929,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+318,2,"2:59",179,179,"Braun Hartfield made Three Point Jumper. Assisted by Michael Akuchie.",93,62,31,0.999999911081783,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+319,2,"2:39",159,159,"Joey Brunk Turnover.",93,62,31,0.999999977566646,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+320,2,"2:27",147,147,"Ryan Strollo Turnover.",93,62,31,0.999999963450062,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+321,2,"2:21",141,141,"Christian David made Layup. Assisted by Jerald Gillens-Butler.",95,62,33,0.999999987033195,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+322,2,"2:13",133,133,"Ryan Strollo missed Three Point Jumper.",95,62,33,0.99999999415761,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+323,2,"2:13",133,133,"Christian David Defensive Rebound.",95,62,33,0.99999999415761,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+324,2,"2:04",124,124,"Campbell Donovan missed Three Point Jumper.",95,62,33,0.999999996581766,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+325,2,"2:04",124,124,"Joey Brunk Offensive Rebound.",95,62,33,0.999999996581766,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+326,2,"1:58",118,118,"Joey Brunk Turnover.",95,62,33,0.999999998988295,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+327,2,"1:54",114,114,"Braun Hartfield missed Three Point Jumper.",95,62,33,0.999999998988295,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+328,2,"1:54",114,114,"Naz Bohannon Offensive Rebound.",95,62,33,0.999999998988295,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+329,2,"1:50",110,110,"Cameron Morse missed Three Point Jumper.",95,62,33,0.999999998988295,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+330,2,"1:50",110,110,"Joey Brunk Defensive Rebound.",95,62,33,0.999999998988295,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+331,2,"1:22",82,82,"Jerald Gillens-Butler missed Three Point Jumper.",95,62,33,0.999999999978639,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+332,2,"1:22",82,82,"Youngstown State Defensive Rebound.",95,62,33,0.999999999978639,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+333,2,"1:02",62,62,"Michael Akuchie made Three Point Jumper. Assisted by Cameron Morse.",95,65,30,0.999999999848289,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+334,2,"0:38",38,38,"Christian David Turnover.",95,65,30,0.999999999999775,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+335,2,"0:29",29,29,"Braun Hartfield made Jumper. Assisted by Cameron Morse.",95,67,28,0.99999999999963,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09
+336,2,"0:00",0,0,"End of Game",95,67,28,1,"Butler","Youngstown State",3,3,0,0,26.5,400988519,2017-12-09

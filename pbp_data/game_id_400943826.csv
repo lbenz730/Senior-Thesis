@@ -1,0 +1,334 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.834331373184416,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+2,1,"19:40",2380,2380,"Foul on Marcus Keene.",0,0,0,0.830110427792434,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+3,1,"19:21",2361,2361,"Jaelan Sanford missed Three Point Jumper.",0,0,0,0.815103488131537,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+4,1,"19:21",2361,2361,"Cecil Williams Defensive Rebound.",0,0,0,0.815103488131537,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+5,1,"18:52",2332,2332,"Braylon Rayson missed Three Point Jumper.",0,0,0,0.823161177059261,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+6,1,"18:52",2332,2332,"Luke Knapke Defensive Rebound.",0,0,0,0.823161177059261,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+7,1,"18:44",2324,2324,"Jaelan Sanford made Layup.",2,0,2,0.854968000480151,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+8,1,"18:32",2312,2312,"Cecil Williams missed Jumper.",2,0,2,0.837476193811135,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+9,1,"18:32",2312,2312,"Luke Knapke Defensive Rebound.",2,0,2,0.837476193811135,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+10,1,"18:21",2301,2301,"Jaelan Sanford missed Layup.",2,0,2,0.840007848172387,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+11,1,"18:21",2301,2301,"Cecil Williams Defensive Rebound.",2,0,2,0.840007848172387,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+12,1,"18:12",2292,2292,"Luke Meyer Turnover.",2,0,2,0.849726594119128,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+13,1,"18:10",2290,2290,"Jordan Lauf Steal.",2,0,2,0.849726594119128,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+14,1,"18:07",2287,2287,"Jonathan Williams made Layup. Assisted by Jaelan Sanford.",4,0,4,0.87083536156064,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+15,1,"17:52",2272,2272,"Marcus Keene missed Three Point Jumper.",4,0,4,0.874345160366572,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+16,1,"17:52",2272,2272,"Jonathan Williams Defensive Rebound.",4,0,4,0.874345160366572,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+17,1,"17:42",2262,2262,"Jonathan Williams missed Jumper.",4,0,4,0.886327523301859,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+18,1,"17:42",2262,2262,"Marcus Keene Defensive Rebound.",4,0,4,0.886327523301859,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+19,1,"17:25",2245,2245,"Cecil Williams made Jumper.",4,2,2,0.836485131595927,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+20,1,"16:54",2214,2214,"Steve Taylor Jr. made Jumper. Assisted by Jaelan Sanford.",6,2,4,0.88134132001733,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+21,1,"16:44",2204,2204,"Foul on Jordan Lauf.",6,2,4,0.874434558963332,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+22,1,"16:36",2196,2196,"Braylon Rayson missed Three Point Jumper.",6,2,4,0.882533548847225,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+23,1,"16:36",2196,2196,"Steve Taylor Jr. Defensive Rebound.",6,2,4,0.882533548847225,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+24,1,"16:31",2191,2191,"Jordan Lauf made Layup.",8,2,6,0.904610393784084,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+25,1,"16:09",2169,2169,"Josh Kozinski missed Three Point Jumper.",8,2,6,0.892903046650732,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+26,1,"16:09",2169,2169,"Steve Taylor Jr. Defensive Rebound.",8,2,6,0.892903046650732,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+27,1,"15:51",2151,2151,"Luke Knapke made Layup. Assisted by Jaelan Sanford.",10,2,8,0.916777796944464,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+28,1,"15:40",2140,2140,"Marcus Keene missed Jumper.",10,2,8,0.910462220197251,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+29,1,"15:40",2140,2140,"Luke Knapke Block.",10,2,8,0.910462220197251,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+30,1,"15:38",2138,2138,"Luke Knapke Defensive Rebound.",10,2,8,0.919691680914436,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+31,1,"15:34",2134,2134,"Jonathan Williams missed Jumper.",10,2,8,0.919691680914436,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+32,1,"15:34",2134,2134,"Josh Kozinski Defensive Rebound.",10,2,8,0.919691680914436,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+33,1,"15:24",2124,2124,"Marcus Keene Turnover.",10,2,8,0.913825648774135,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+34,1,"15:23",2123,2123,"Luke Knapke Steal.",10,2,8,0.913825648774135,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+35,1,"15:05",2105,2105,"Jonathan Williams made Layup.",12,2,10,0.927774277281273,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+36,1,"15:01",2101,2101,"Central Michigan  Timeout",12,2,10,0.927774277281273,"Toledo","Central Michigan",3,4,1,0,8,400943826,2017-02-24
+37,1,"15:01",2101,2101,"Official TV Timeout",12,2,10,0.927774277281273,"Toledo","Central Michigan",3,4,1,0,8,400943826,2017-02-24
+38,1,"14:50",2090,2090,"Marcus Keene missed Jumper.",12,2,10,0.933870607311171,"Toledo","Central Michigan",3,4,1,0,8,400943826,2017-02-24
+39,1,"14:50",2090,2090,"Jaelan Sanford Defensive Rebound.",12,2,10,0.933870607311171,"Toledo","Central Michigan",3,4,1,0,8,400943826,2017-02-24
+40,1,"14:40",2080,2080,"Steve Taylor Jr. Turnover.",12,2,10,0.926839109531304,"Toledo","Central Michigan",3,4,1,0,8,400943826,2017-02-24
+41,1,"14:14",2054,2054,"Marcus Keene Turnover.",12,2,10,0.934777199491666,"Toledo","Central Michigan",3,4,1,0,8,400943826,2017-02-24
+42,1,"14:13",2053,2053,"Nate Navigato Steal.",12,2,10,0.934777199491666,"Toledo","Central Michigan",3,4,1,0,8,400943826,2017-02-24
+43,1,"14:04",2044,2044,"Jonathan Williams missed Layup.",12,2,10,0.922819272760836,"Toledo","Central Michigan",3,4,1,0,8,400943826,2017-02-24
+44,1,"14:04",2044,2044,"DaRohn Scott Defensive Rebound.",12,2,10,0.922819272760836,"Toledo","Central Michigan",3,4,1,0,8,400943826,2017-02-24
+45,1,"13:55",2035,2035,"Braylon Rayson made Layup.",12,4,8,0.918642815948472,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+46,1,"13:24",2004,2004,"Foul on DaRohn Scott.",12,4,8,0.90791194263695,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+47,1,"13:07",1987,1987,"Jaelan Sanford made Jumper.",14,4,10,0.929723914810973,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+48,1,"12:50",1970,1970,"Braylon Rayson missed Three Point Jumper.",14,4,10,0.939813678502812,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+49,1,"12:50",1970,1970,"Jaelan Sanford Block.",14,4,10,0.939813678502812,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+50,1,"12:47",1967,1967,"Steve Taylor Jr. Defensive Rebound.",14,4,10,0.923281870681928,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+51,1,"12:44",1964,1964,"Jaelan Sanford made Layup. Assisted by Jonathan Williams.",16,4,12,0.937012284700369,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+52,1,"12:37",1957,1957,"Marcus Keene Turnover.",16,4,12,0.948403457578878,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+53,1,"12:31",1951,1951,"Foul on DaRohn Scott.",16,4,12,0.948403457578878,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+54,1,"12:31",1951,1951,"Nate Navigato made Free Throw.",17,4,13,0.954190334195051,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+55,1,"12:31",1951,1951,"Nate Navigato missed Free Throw.",17,4,13,0.954190334195051,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+56,1,"12:31",1951,1951,"Braylon Rayson Defensive Rebound.",17,4,13,0.954190334195051,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+57,1,"12:17",1937,1937,"Luke Meyer made Three Point Jumper. Assisted by Marcus Keene.",17,7,10,0.933647337536919,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+58,1,"11:46",1906,1906,"Jonathan Williams made Layup.",19,7,12,0.943816889364895,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+59,1,"11:38",1898,1898,"Foul on Marcus Keene.",19,7,12,0.952638878775772,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+60,1,"11:38",1898,1898,"Marcus Keene Turnover.",19,7,12,0.952638878775772,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+61,1,"11:38",1898,1898,"Official TV Timeout",19,7,12,0.952638878775772,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+62,1,"11:21",1881,1881,"Luke Knapke made Jumper. Assisted by Jonathan Williams.",21,7,14,0.958255147126429,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+63,1,"11:06",1866,1866,"Braylon Rayson made Jumper.",21,9,12,0.952662181616942,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+64,1,"10:47",1847,1847,"Jordan Lauf missed Layup.",21,9,12,0.943972658096807,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+65,1,"10:47",1847,1847,"Matty Smith Block.",21,9,12,0.943972658096807,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+66,1,"10:44",1844,1844,"Jordan Lauf Offensive Rebound.",21,9,12,0.943972658096807,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+67,1,"10:37",1837,1837,"Jonathan Williams made Three Point Jumper. Assisted by Luke Knapke.",24,9,15,0.963239440962524,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+68,1,"10:21",1821,1821,"Foul on Luke Knapke.",24,9,15,0.96403246499877,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+69,1,"10:21",1821,1821,"Luke Meyer made Free Throw.",24,10,14,0.959618141199976,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+70,1,"10:21",1821,1821,"Luke Meyer missed Free Throw.",24,10,14,0.959618141199976,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+71,1,"10:21",1821,1821,"Nate Navigato Defensive Rebound.",24,10,14,0.959618141199976,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+72,1,"9:58",1798,1798,"Nate Navigato Turnover.",24,10,14,0.95808209891849,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+73,1,"9:34",1774,1774,"Braylon Rayson missed Jumper.",24,10,14,0.953415176335028,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+74,1,"9:34",1774,1774,"Luke Knapke Defensive Rebound.",24,10,14,0.953415176335028,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+75,1,"9:24",1764,1764,"Nate Navigato missed Three Point Jumper.",24,10,14,0.962433736170021,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+76,1,"9:24",1764,1764,"David DiLeo Defensive Rebound.",24,10,14,0.962433736170021,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+77,1,"9:02",1742,1742,"David DiLeo missed Three Point Jumper.",24,10,14,0.957183356010588,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+78,1,"9:02",1742,1742,"Luke Knapke Defensive Rebound.",24,10,14,0.957183356010588,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+79,1,"8:49",1729,1729,"Foul on Matty Smith.",24,10,14,0.960142922779365,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+80,1,"8:34",1714,1714,"Jonathan Williams made Layup.",26,10,16,0.971821314222156,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+81,1,"8:14",1694,1694,"Marcus Keene Turnover.",26,10,16,0.973723370129902,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+82,1,"8:13",1693,1693,"Justin Roberts Steal.",26,10,16,0.973723370129902,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+83,1,"8:13",1693,1693,"Foul on Marcus Keene.",26,10,16,0.973723370129902,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+84,1,"7:54",1674,1674,"Justin Roberts missed Three Point Jumper.",26,10,16,0.972604985561568,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+85,1,"7:54",1674,1674,"Taylor Adway Offensive Rebound.",26,10,16,0.972604985561568,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+86,1,"7:51",1671,1671,"Foul on Cecil Williams.",26,10,16,0.972604985561568,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+87,1,"7:51",1671,1671,"Official TV Timeout",26,10,16,0.972604985561568,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+88,1,"7:51",1671,1671,"Taylor Adway made Free Throw.",27,10,17,0.976064885815594,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+89,1,"7:51",1671,1671,"Taylor Adway missed Free Throw.",27,10,17,0.976064885815594,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+90,1,"7:51",1671,1671,"Luke Meyer Defensive Rebound.",27,10,17,0.976064885815594,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+91,1,"7:42",1662,1662,"Braylon Rayson made Jumper.",27,12,15,0.963476973417355,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+92,1,"7:15",1635,1635,"Foul on Luke Meyer.",27,12,15,0.964866554256343,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+93,1,"7:15",1635,1635,"Steve Taylor Jr. missed Free Throw.",27,12,15,0.964866554256343,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+94,1,"7:15",1635,1635,"Toledo Deadball Team Rebound.",27,12,15,0.964866554256343,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+95,1,"7:15",1635,1635,"Steve Taylor Jr. missed Free Throw.",27,12,15,0.964866554256343,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+96,1,"7:15",1635,1635,"Braylon Rayson Defensive Rebound.",27,12,15,0.964866554256343,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+97,1,"7:01",1621,1621,"Foul on Nate Navigato.",27,12,15,0.968515843213831,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+98,1,"7:01",1621,1621,"Cecil Williams made Free Throw.",27,13,14,0.963903443872556,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+99,1,"7:01",1621,1621,"Cecil Williams made Free Throw.",27,14,13,0.958644185408829,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+100,1,"6:43",1603,1603,"Steve Taylor Jr. made Layup. Assisted by Jaelan Sanford.",29,14,15,0.964244433289706,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+101,1,"6:27",1587,1587,"Foul on Nate Navigato.",29,14,15,0.964809523124803,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+102,1,"6:12",1572,1572,"Cecil Williams Turnover.",29,14,15,0.974637812325508,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+103,1,"5:50",1550,1550,"Taylor Adway made Layup. Assisted by Steve Taylor Jr..",31,14,17,0.97516533259544,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+104,1,"5:50",1550,1550,"Foul on David DiLeo.",31,14,17,0.97516533259544,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+105,1,"5:50",1550,1550,"Taylor Adway missed Free Throw.",31,14,17,0.97516533259544,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+106,1,"5:50",1550,1550,"Cecil Williams Defensive Rebound.",31,14,17,0.97516533259544,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+107,1,"5:41",1541,1541,"Braylon Rayson missed Three Point Jumper.",31,14,17,0.975605571813063,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+108,1,"5:41",1541,1541,"Steve Taylor Jr. Defensive Rebound.",31,14,17,0.975605571813063,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+109,1,"5:33",1533,1533,"Jordan Lauf made Three Point Jumper. Assisted by Steve Taylor Jr..",34,14,20,0.983878640922034,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+110,1,"5:31",1531,1531,"Foul on Braylon Rayson.",34,14,20,0.983878640922034,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+111,1,"5:31",1531,1531,"Jordan Lauf made Free Throw.",35,14,21,0.9859487156593,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+112,1,"5:16",1516,1516,"Cecil Williams made Three Point Jumper.",35,17,18,0.983047714147651,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+113,1,"4:43",1483,1483,"Steve Taylor Jr. made Layup.",37,17,20,0.985869534322604,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+114,1,"4:32",1472,1472,"David DiLeo missed Three Point Jumper.",37,17,20,0.988126875578277,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+115,1,"4:32",1472,1472,"Jordan Lauf Defensive Rebound.",37,17,20,0.988126875578277,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+116,1,"4:15",1455,1455,"Taylor Adway missed Jumper.",37,17,20,0.984960703900288,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+117,1,"4:15",1455,1455,"Blake Hibbitts Defensive Rebound.",37,17,20,0.984960703900288,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+118,1,"3:52",1432,1432,"Josh Kozinski made Three Point Jumper. Assisted by Cecil Williams.",37,20,17,0.977563071370483,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+119,1,"3:32",1412,1412,"Jonathan Williams missed Three Point Jumper.",37,20,17,0.978278308420377,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+120,1,"3:32",1412,1412,"Josh Kozinski Defensive Rebound.",37,20,17,0.978278308420377,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+121,1,"3:21",1401,1401,"Foul on Cecil Williams.",37,20,17,0.981213975080738,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+122,1,"3:21",1401,1401,"Cecil Williams Turnover.",37,20,17,0.981213975080738,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+123,1,"3:21",1401,1401,"Official TV Timeout",37,20,17,0.981213975080738,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+124,1,"3:03",1383,1383,"Jordan Lauf made Layup. Assisted by Luke Knapke.",39,20,19,0.984015077592849,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+125,1,"2:39",1359,1359,"Luke Meyer missed Three Point Jumper.",39,20,19,0.985362882963362,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+126,1,"2:39",1359,1359,"Jonathan Williams Defensive Rebound.",39,20,19,0.985362882963362,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+127,1,"2:26",1346,1346,"Foul on Luke Knapke.",39,20,19,0.984478572441918,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+128,1,"2:26",1346,1346,"Luke Knapke Turnover.",39,20,19,0.984478572441918,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+129,1,"2:14",1334,1334,"Braylon Rayson missed Three Point Jumper.",39,20,19,0.983709915594444,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+130,1,"2:14",1334,1334,"Steve Taylor Jr. Defensive Rebound.",39,20,19,0.983709915594444,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+131,1,"1:51",1311,1311,"Jaelan Sanford missed Three Point Jumper.",39,20,19,0.985888325723987,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+132,1,"1:51",1311,1311,"Central Michigan Defensive Rebound.",39,20,19,0.985888325723987,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+133,1,"1:29",1289,1289,"Josh Kozinski missed Three Point Jumper.",39,20,19,0.98360506853694,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+134,1,"1:29",1289,1289,"Jonathan Williams Defensive Rebound.",39,20,19,0.98360506853694,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+135,1,"1:25",1285,1285,"Foul on Cecil Williams.",39,20,19,0.98360506853694,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+136,1,"1:25",1285,1285,"Jonathan Williams made Free Throw.",40,20,20,0.985853503070324,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+137,1,"1:25",1285,1285,"Jonathan Williams missed Free Throw.",40,20,20,0.985853503070324,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+138,1,"1:25",1285,1285,"Luke Meyer Defensive Rebound.",40,20,20,0.985853503070324,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+139,1,"1:04",1264,1264,"David DiLeo missed Three Point Jumper.",40,20,20,0.988455946040403,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+140,1,"1:04",1264,1264,"Steve Taylor Jr. Defensive Rebound.",40,20,20,0.988455946040403,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+141,1,"0:57",1257,1257,"Taylor Adway missed Layup.",40,20,20,0.984515061633575,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+142,1,"0:57",1257,1257,"Jordan Lauf Offensive Rebound.",40,20,20,0.984515061633575,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+143,1,"0:44",1244,1244,"Jordan Lauf missed Layup.",40,20,20,0.986735806333784,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+144,1,"0:44",1244,1244,"David DiLeo Defensive Rebound.",40,20,20,0.986735806333784,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+145,1,"0:40",1240,1240,"Foul on Jonathan Williams.",40,20,20,0.986735806333784,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+146,1,"0:35",1235,1235,"Braylon Rayson missed Three Point Jumper.",40,20,20,0.987139838750586,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+147,1,"0:35",1235,1235,"Steve Taylor Jr. Defensive Rebound.",40,20,20,0.987139838750586,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+148,1,"0:13",1213,1213,"Toledo  Timeout",40,20,20,0.988138492622957,"Toledo","Central Michigan",3,3,0,1,8,400943826,2017-02-24
+149,1,"0:10",1210,1210,"Jonathan Williams missed Layup.",40,20,20,0.988138492622957,"Toledo","Central Michigan",3,3,0,1,8,400943826,2017-02-24
+150,1,"0:10",1210,1210,"Luke Meyer Defensive Rebound.",40,20,20,0.988138492622957,"Toledo","Central Michigan",3,3,0,1,8,400943826,2017-02-24
+151,1,"0:04",1204,1204,"Foul on Braylon Rayson.",40,20,20,0.987400799433511,"Toledo","Central Michigan",3,3,0,1,8,400943826,2017-02-24
+152,1,"0:04",1204,1204,"Braylon Rayson Turnover.",40,20,20,0.987400799433511,"Toledo","Central Michigan",3,3,0,1,8,400943826,2017-02-24
+153,1,"0:00",1200,1200,"End of 1st half",43,20,23,0.992148703946325,"Toledo","Central Michigan",3,3,0,1,8,400943826,2017-02-24
+154,2,"20:00",1200,1200,"PLAY",43,20,23,0.992148703946325,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+155,2,"19:45",1185,1185,"Marcus Keene missed Layup.",40,20,20,0.988927061967922,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+156,2,"19:45",1185,1185,"Luke Meyer Offensive Rebound.",40,20,20,0.988927061967922,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+157,2,"19:42",1182,1182,"Foul on Luke Knapke.",40,20,20,0.988927061967922,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+158,2,"19:42",1182,1182,"Luke Meyer made Free Throw.",40,21,19,0.986959525519715,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+159,2,"19:42",1182,1182,"Luke Meyer made Free Throw.",40,22,18,0.984647807354596,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+160,2,"19:30",1170,1170,"Jonathan Williams made Layup. Assisted by Steve Taylor Jr..",42,22,20,0.987979753935984,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+161,2,"19:19",1159,1159,"Braylon Rayson made Three Point Jumper. Assisted by Marcus Keene.",42,25,17,0.979717249351638,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+162,2,"18:55",1135,1135,"Jonathan Williams Turnover.",42,25,17,0.981371797298202,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+163,2,"18:54",1134,1134,"Luke Meyer Steal.",42,25,17,0.981371797298202,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+164,2,"18:51",1131,1131,"Cecil Williams made Layup. Assisted by Luke Meyer.",42,27,15,0.974386722641245,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+165,2,"18:36",1116,1116,"Jonathan Williams missed Three Point Jumper.",42,27,15,0.975881727239019,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+166,2,"18:36",1116,1116,"Jordan Lauf Offensive Rebound.",42,27,15,0.975881727239019,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+167,2,"18:31",1111,1111,"Jordan Lauf missed Layup.",42,27,15,0.975881727239019,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+168,2,"18:31",1111,1111,"Marcus Keene Defensive Rebound.",42,27,15,0.975881727239019,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+169,2,"18:28",1108,1108,"Marcus Keene Turnover.",42,27,15,0.974184492888356,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+170,2,"18:28",1108,1108,"Jaelan Sanford made Three Point Jumper. Assisted by Steve Taylor Jr..",45,27,18,0.984045461336163,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+171,2,"18:27",1107,1107,"Marcus Keene missed Three Point Jumper.",45,27,18,0.984045461336163,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+172,2,"18:27",1107,1107,"Jonathan Williams Defensive Rebound.",45,27,18,0.984045461336163,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+173,2,"18:13",1093,1093,"Steve Taylor Jr. made Jumper.",47,27,20,0.990237328623104,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+174,2,"17:47",1067,1067,"Marcus Keene made Layup.",47,29,18,0.985630424849712,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+175,2,"17:35",1055,1055,"Luke Knapke made Three Point Jumper. Assisted by Jaelan Sanford.",50,29,21,0.992785583545086,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+176,2,"17:24",1044,1044,"Cecil Williams missed Layup.",50,29,21,0.992340417877034,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+177,2,"17:24",1044,1044,"Luke Knapke Defensive Rebound.",50,29,21,0.992340417877034,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+178,2,"16:49",1009,1009,"Luke Knapke missed Three Point Jumper.",50,29,21,0.99274039881769,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+179,2,"16:49",1009,1009,"Braylon Rayson Defensive Rebound.",50,29,21,0.99274039881769,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+180,2,"16:32",992,992,"Cecil Williams made Jumper. Assisted by Marcus Keene.",50,31,19,0.988252815008794,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+181,2,"16:13",973,973,"Steve Taylor Jr. Turnover.",50,31,19,0.989572531043064,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+182,2,"16:11",971,971,"Braylon Rayson Steal.",50,31,19,0.989572531043064,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+183,2,"16:00",960,960,"Marcus Keene made Layup.",50,33,17,0.984425136215083,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+184,2,"15:31",931,931,"Foul on Luke Meyer.",50,33,17,0.986545298241821,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+185,2,"15:31",931,931,"Official TV Timeout",50,33,17,0.986545298241821,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+186,2,"15:31",931,931,"Steve Taylor Jr. missed Free Throw.",50,33,17,0.986545298241821,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+187,2,"15:31",931,931,"Toledo Deadball Team Rebound.",50,33,17,0.986545298241821,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+188,2,"15:31",931,931,"Steve Taylor Jr. missed Free Throw.",50,33,17,0.986545298241821,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+189,2,"15:31",931,931,"DaRohn Scott Defensive Rebound.",50,33,17,0.986545298241821,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+190,2,"15:15",915,915,"Marcus Keene missed Layup.",50,33,17,0.988440199074544,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+191,2,"15:15",915,915,"Jordan Lauf Defensive Rebound.",50,33,17,0.988440199074544,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+192,2,"15:00",900,900,"Jordan Lauf made Layup. Assisted by Steve Taylor Jr..",52,33,19,0.990559224608433,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+193,2,"14:45",885,885,"Braylon Rayson missed Three Point Jumper.",52,33,19,0.986603486627514,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+194,2,"14:45",885,885,"Jordan Lauf Defensive Rebound.",52,33,19,0.986603486627514,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+195,2,"14:29",869,869,"Jaelan Sanford missed Layup.",52,33,19,0.990531292706801,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+196,2,"14:29",869,869,"DaRohn Scott Block.",52,33,19,0.990531292706801,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+197,2,"14:29",869,869,"Toledo Offensive Rebound.",52,33,19,0.990531292706801,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+198,2,"14:27",867,867,"Jordan Lauf Turnover.",52,33,19,0.990531292706801,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+199,2,"14:25",865,865,"Marcus Keene Steal.",52,33,19,0.990531292706801,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+200,2,"14:24",864,864,"Foul on Justin Roberts.",52,33,19,0.990531292706801,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+201,2,"14:24",864,864,"DaRohn Scott Turnover.",52,33,19,0.990531292706801,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+202,2,"14:24",864,864,"Marcus Keene missed Free Throw.",52,33,19,0.990531292706801,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+203,2,"14:24",864,864,"Steve Taylor Jr. Defensive Rebound.",52,33,19,0.990531292706801,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+204,2,"14:13",853,853,"Foul on Josh Kozinski.",52,33,19,0.993076351279599,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+205,2,"14:04",844,844,"Foul on Jonathan Williams.",52,33,19,0.993449561579611,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+206,2,"14:04",844,844,"Jonathan Williams Turnover.",52,33,19,0.993449561579611,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+207,2,"13:58",838,838,"Marcus Keene made Three Point Jumper.",52,36,16,0.988098626481993,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+208,2,"13:47",827,827,"Nate Navigato Turnover.",52,36,16,0.983166206621458,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+209,2,"13:43",823,823,"David DiLeo Steal.",52,36,16,0.983166206621458,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+210,2,"13:30",810,810,"Marcus Keene made Layup.",52,38,14,0.977555332669958,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+211,2,"13:21",801,801,"Jonathan Williams missed Three Point Jumper.",52,38,14,0.98115962430614,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+212,2,"13:21",801,801,"Jordan Lauf Offensive Rebound.",52,38,14,0.98115962430614,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+213,2,"13:17",797,797,"Jordan Lauf made Layup.",54,38,16,0.989079115246879,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+214,2,"13:05",785,785,"Marcus Keene made Three Point Jumper.",54,41,13,0.975488625313837,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+215,2,"12:45",765,765,"Jonathan Williams made Layup. Assisted by Jaelan Sanford.",56,41,15,0.987405979206151,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+216,2,"12:37",757,757,"Josh Kozinski made Three Point Jumper. Assisted by Marcus Keene.",56,44,12,0.974158709739581,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+217,2,"12:13",733,733,"Steve Taylor Jr. made Layup. Assisted by Nate Navigato.",58,44,14,0.980344154600787,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+218,2,"12:04",724,724,"Foul on Jordan Lauf.",58,44,14,0.983764916976729,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+219,2,"11:59",719,719,"Marcus Keene missed Three Point Jumper.",58,44,14,0.982104311428342,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+220,2,"11:59",719,719,"Nate Navigato Defensive Rebound.",58,44,14,0.982104311428342,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+221,2,"11:29",689,689,"Jaelan Sanford missed Layup.",58,44,14,0.983263330747725,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+222,2,"11:29",689,689,"Luke Meyer Defensive Rebound.",58,44,14,0.983263330747725,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+223,2,"11:16",676,676,"Marcus Keene missed Layup.",58,44,14,0.985243590992644,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+224,2,"11:16",676,676,"Jordan Lauf Defensive Rebound.",58,44,14,0.985243590992644,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+225,2,"11:09",669,669,"Jordan Lauf Turnover.",58,44,14,0.984241992578422,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+226,2,"11:09",669,669,"Luke Meyer Steal.",58,44,14,0.984241992578422,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+227,2,"11:09",669,669,"Official TV Timeout",58,44,14,0.984241992578422,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+228,2,"11:07",667,667,"David DiLeo missed Three Point Jumper.",58,44,14,0.984241992578422,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+229,2,"11:07",667,667,"Braylon Rayson Offensive Rebound.",58,44,14,0.984241992578422,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+230,2,"10:56",656,656,"Foul on Justin Roberts.",58,44,14,0.986546451928231,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+231,2,"10:45",645,645,"Foul on Justin Roberts.",58,44,14,0.986480180289088,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+232,2,"10:41",641,641,"Foul on Braylon Rayson.",58,44,14,0.986480180289088,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+233,2,"10:41",641,641,"Braylon Rayson Turnover.",58,44,14,0.986480180289088,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+234,2,"10:18",618,618,"Foul on Josh Kozinski.",58,44,14,0.987569341086653,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+235,2,"10:18",618,618,"Luke Knapke made Free Throw.",59,44,15,0.990300939574061,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+236,2,"10:18",618,618,"Luke Knapke made Free Throw.",60,44,16,0.992436874808889,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+237,2,"10:06",606,606,"Luke Meyer made Jumper.",60,46,14,0.987652020872278,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+238,2,"9:43",583,583,"Nate Navigato made Jumper.",62,46,16,0.991108804312155,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+239,2,"9:25",565,565,"Marcus Keene made Layup.",62,48,14,0.990345087300405,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+240,2,"9:02",542,542,"Nate Navigato missed Layup.",62,48,14,0.989533647762931,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+241,2,"9:02",542,542,"Cecil Williams Block.",62,48,14,0.989533647762931,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+242,2,"8:57",537,537,"Josh Kozinski Defensive Rebound.",62,48,14,0.99280328420687,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+243,2,"8:49",529,529,"Marcus Keene missed Layup.",62,48,14,0.990287313134238,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+244,2,"8:49",529,529,"Jordan Lauf Defensive Rebound.",62,48,14,0.990287313134238,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+245,2,"8:20",500,500,"Jonathan Williams Turnover.",62,48,14,0.991027025592367,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+246,2,"8:19",499,499,"Josh Kozinski Steal.",62,48,14,0.990981781971325,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+247,2,"8:09",489,489,"Marcus Keene missed Three Point Jumper.",62,48,14,0.990751732175416,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+248,2,"8:09",489,489,"Jaelan Sanford Defensive Rebound.",62,48,14,0.990751732175416,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+249,2,"7:49",469,469,"Jaelan Sanford made Layup.",64,48,16,0.995253214917009,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+250,2,"7:49",469,469,"Foul on Cecil Williams.",64,48,16,0.995253214917009,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+251,2,"7:49",469,469,"Official TV Timeout",64,48,16,0.995253214917009,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+252,2,"7:49",469,469,"Jaelan Sanford missed Free Throw.",64,48,16,0.995253214917009,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+253,2,"7:49",469,469,"DaRohn Scott Defensive Rebound.",64,48,16,0.995253214917009,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+254,2,"7:37",457,457,"Marcus Keene Turnover.",64,48,16,0.997029221667805,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+255,2,"7:34",454,454,"Jordan Lauf Steal.",64,48,16,0.997029221667805,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+256,2,"7:30",450,450,"Nate Navigato missed Three Point Jumper.",64,48,16,0.997029221667805,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+257,2,"7:30",450,450,"David DiLeo Defensive Rebound.",64,48,16,0.997029221667805,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+258,2,"7:22",442,442,"Foul on Jaelan Sanford.",64,48,16,0.994237290523087,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+259,2,"7:22",442,442,"Braylon Rayson made Free Throw.",64,49,15,0.992420135852577,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+260,2,"7:22",442,442,"Braylon Rayson made Free Throw.",64,50,14,0.990035720617726,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+261,2,"7:19",439,439,"Jordan Lauf Turnover.",64,50,14,0.994503720446001,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+262,2,"7:10",430,430,"David DiLeo missed Three Point Jumper.",64,50,14,0.994503720446001,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+263,2,"7:10",430,430,"Nate Navigato Defensive Rebound.",64,50,14,0.994503720446001,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+264,2,"6:39",399,399,"Jordan Lauf made Layup. Assisted by Steve Taylor Jr..",66,50,16,0.997022012661211,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+265,2,"6:27",387,387,"Marcus Keene made Three Point Jumper.",66,53,13,0.99123027286755,"Toledo","Central Michigan",4,4,0,0,8,400943826,2017-02-24
+266,2,"6:24",384,384,"Central Michigan  Timeout",66,53,13,0.99123027286755,"Toledo","Central Michigan",3,4,1,0,8,400943826,2017-02-24
+267,2,"6:24",384,384,"Official TV Timeout",66,53,13,0.99123027286755,"Toledo","Central Michigan",3,4,1,0,8,400943826,2017-02-24
+268,2,"6:00",360,360,"Jaelan Sanford missed Three Point Jumper.",66,53,13,0.992800767965209,"Toledo","Central Michigan",3,4,1,0,8,400943826,2017-02-24
+269,2,"6:00",360,360,"Jordan Lauf Offensive Rebound.",66,53,13,0.992800767965209,"Toledo","Central Michigan",3,4,1,0,8,400943826,2017-02-24
+270,2,"5:31",331,331,"Nate Navigato made Three Point Jumper. Assisted by Jaelan Sanford.",69,53,16,0.998431527947907,"Toledo","Central Michigan",3,4,1,0,8,400943826,2017-02-24
+271,2,"5:07",307,307,"Marcus Keene made Jumper.",69,55,14,0.995585221163949,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+272,2,"4:35",275,275,"Jaelan Sanford missed Jumper.",69,55,14,0.997773380377707,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+273,2,"4:35",275,275,"Steve Taylor Jr. Offensive Rebound.",69,55,14,0.997773380377707,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+274,2,"4:31",271,271,"Steve Taylor Jr. missed Jumper.",69,55,14,0.997773380377707,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+275,2,"4:31",271,271,"DaRohn Scott Defensive Rebound.",69,55,14,0.997773380377707,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+276,2,"4:26",266,266,"Foul on Jaelan Sanford.",69,55,14,0.997374121602965,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+277,2,"4:26",266,266,"Marcus Keene made Free Throw.",69,56,13,0.996190565273229,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+278,2,"4:26",266,266,"Marcus Keene made Free Throw.",69,57,12,0.994476501563965,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+279,2,"4:17",257,257,"Nate Navigato missed Three Point Jumper.",69,57,12,0.996745083453154,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+280,2,"4:17",257,257,"Jordan Lauf Offensive Rebound.",69,57,12,0.996745083453154,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+281,2,"4:09",249,249,"Foul on Marcus Keene.",69,57,12,0.995901483753835,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+282,2,"4:09",249,249,"Steve Taylor Jr. made Free Throw.",70,57,13,0.997261213442747,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+283,2,"4:09",249,249,"Steve Taylor Jr. missed Free Throw.",70,57,13,0.997261213442747,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+284,2,"4:09",249,249,"Blake Hibbitts Defensive Rebound.",70,57,13,0.997261213442747,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+285,2,"4:07",247,247,"Foul on Nate Navigato.",70,57,13,0.997261213442747,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+286,2,"4:07",247,247,"Blake Hibbitts made Free Throw.",70,58,12,0.995901483753835,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+287,2,"4:07",247,247,"Blake Hibbitts missed Free Throw.",70,58,12,0.995901483753835,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+288,2,"4:07",247,247,"Jordan Lauf Defensive Rebound.",70,58,12,0.995901483753835,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+289,2,"3:54",234,234,"Jonathan Williams made Layup. Assisted by Steve Taylor Jr..",72,58,14,0.998214302698317,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+290,2,"3:42",222,222,"Blake Hibbitts missed Three Point Jumper.",72,58,14,0.998820635885028,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+291,2,"3:42",222,222,"Jaelan Sanford Defensive Rebound.",72,58,14,0.998820635885028,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+292,2,"3:09",189,189,"Jaelan Sanford missed Three Point Jumper.",72,58,14,0.99934926163614,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+293,2,"3:09",189,189,"Jordan Lauf Offensive Rebound.",72,58,14,0.99934926163614,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+294,2,"2:41",161,161,"Jaelan Sanford made Layup.",74,58,16,0.999884407013197,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+295,2,"2:30",150,150,"Official TV Timeout",74,58,16,0.999901159856945,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+296,2,"2:26",146,146,"Marcus Keene made Layup.",74,60,14,0.99962256493053,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+297,2,"2:13",133,133,"Steve Taylor Jr. made Dunk. Assisted by Nate Navigato.",76,60,16,0.999917582997351,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+298,2,"1:59",119,119,"Marcus Keene missed Layup.",76,60,16,0.999963524522625,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+299,2,"1:59",119,119,"Jonathan Williams Block.",76,60,16,0.999963524522625,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+300,2,"1:58",118,118,"Jordan Lauf Defensive Rebound.",76,60,16,0.999963524522625,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+301,2,"1:57",117,117,"Foul on Josh Kozinski.",76,60,16,0.999963524522625,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+302,2,"1:57",117,117,"Jordan Lauf made Free Throw.",77,60,17,0.999979998254857,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+303,2,"1:57",117,117,"Jordan Lauf missed Free Throw.",77,60,17,0.999979998254857,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+304,2,"1:57",117,117,"Josh Kozinski Defensive Rebound.",77,60,17,0.999979998254857,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+305,2,"1:47",107,107,"Braylon Rayson missed Jumper.",77,60,17,0.999982407584097,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+306,2,"1:47",107,107,"Steve Taylor Jr. Defensive Rebound.",77,60,17,0.999982407584097,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+307,2,"1:44",104,104,"Foul on David DiLeo.",77,60,17,0.999982407584097,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+308,2,"1:44",104,104,"Steve Taylor Jr. made Free Throw.",78,60,18,0.99999052732169,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+309,2,"1:44",104,104,"Steve Taylor Jr. made Free Throw.",79,60,19,0.999994899432883,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+310,2,"1:38",98,98,"Marcus Keene made Layup.",79,62,17,0.999984917141131,"Toledo","Central Michigan",3,4,0,0,8,400943826,2017-02-24
+311,2,"1:35",95,95,"Central Michigan  Timeout",79,62,17,0.999984917141131,"Toledo","Central Michigan",2,4,1,0,8,400943826,2017-02-24
+312,2,"1:33",93,93,"Foul on Blake Hibbitts.",79,62,17,0.999984917141131,"Toledo","Central Michigan",2,4,1,0,8,400943826,2017-02-24
+313,2,"1:33",93,93,"Nate Navigato missed Free Throw.",79,62,17,0.999984917141131,"Toledo","Central Michigan",2,4,1,0,8,400943826,2017-02-24
+314,2,"1:33",93,93,"Braylon Rayson Defensive Rebound.",79,62,17,0.999984917141131,"Toledo","Central Michigan",2,4,1,0,8,400943826,2017-02-24
+315,2,"1:26",86,86,"Marcus Keene made Layup.",79,64,15,0.999988703740827,"Toledo","Central Michigan",2,4,1,0,8,400943826,2017-02-24
+316,2,"1:24",84,84,"Central Michigan  Timeout",79,64,15,0.999988703740827,"Toledo","Central Michigan",1,4,1,0,8,400943826,2017-02-24
+317,2,"1:24",84,84,"Jonathan Williams made Layup. Assisted by Justin Roberts.",81,64,17,0.999997304594594,"Toledo","Central Michigan",1,4,1,0,8,400943826,2017-02-24
+318,2,"1:04",64,64,"Cecil Williams made Dunk. Assisted by Marcus Keene.",81,66,15,0.999987783143253,"Toledo","Central Michigan",1,4,1,0,8,400943826,2017-02-24
+319,2,"0:54",54,54,"Toledo  Timeout",81,66,15,0.999993244505898,"Toledo","Central Michigan",1,3,1,1,8,400943826,2017-02-24
+320,2,"0:43",43,43,"Foul on DaRohn Scott.",81,66,15,0.999998615272752,"Toledo","Central Michigan",1,3,1,1,8,400943826,2017-02-24
+321,2,"0:43",43,43,"Jordan Lauf missed Free Throw.",81,66,15,0.999998615272752,"Toledo","Central Michigan",1,3,1,1,8,400943826,2017-02-24
+322,2,"0:43",43,43,"Toledo Deadball Team Rebound.",81,66,15,0.999998615272752,"Toledo","Central Michigan",1,3,1,1,8,400943826,2017-02-24
+323,2,"0:43",43,43,"Jordan Lauf made Free Throw.",82,66,16,0.99999943880066,"Toledo","Central Michigan",1,3,1,1,8,400943826,2017-02-24
+324,2,"0:38",38,38,"Foul on Marcus Keene.",82,66,16,0.999999837279505,"Toledo","Central Michigan",1,3,1,1,8,400943826,2017-02-24
+325,2,"0:38",38,38,"Marcus Keene Turnover.",82,66,16,0.999999837279505,"Toledo","Central Michigan",1,3,1,1,8,400943826,2017-02-24
+326,2,"0:38",38,38,"Technical Foul on Marcus Keene.",82,66,16,0.999999837279505,"Toledo","Central Michigan",1,3,1,1,8,400943826,2017-02-24
+327,2,"0:38",38,38,"Jonathan Williams made Free Throw.",83,66,17,0.999999937504505,"Toledo","Central Michigan",1,3,1,1,8,400943826,2017-02-24
+328,2,"0:38",38,38,"Jonathan Williams made Free Throw.",84,66,18,0.999999975997574,"Toledo","Central Michigan",1,3,1,1,8,400943826,2017-02-24
+329,2,"0:38",38,38,"Marcus Keene Turnover.",84,66,18,0.999999975997574,"Toledo","Central Michigan",1,3,1,1,8,400943826,2017-02-24
+330,2,"0:16",16,16,"Luke Knapke made Three Point Jumper. Assisted by Justin Roberts.",87,66,21,1,"Toledo","Central Michigan",1,3,0,1,8,400943826,2017-02-24
+331,2,"0:05",5,5,"David DiLeo missed Three Point Jumper.",87,66,21,0.999999999999999,"Toledo","Central Michigan",1,3,0,1,8,400943826,2017-02-24
+332,2,"0:05",5,5,"Luke Knapke Defensive Rebound.",87,66,21,0.999999999999999,"Toledo","Central Michigan",1,3,0,1,8,400943826,2017-02-24
+333,2,"0:00",0,0,"End of Game",87,66,21,1,"Toledo","Central Michigan",1,3,0,1,8,400943826,2017-02-24

@@ -1,0 +1,390 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","play_length","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,19,0.888091376675671,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+2,1,"19:41",2381,2381,"Wesley Harris missed Three Point Jumper.",0,0,0,0,0.88396822034469,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+3,1,"19:41",2381,2381,"Stevie Jordan Defensive Rebound.",0,0,0,8,0.88396822034469,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+4,1,"19:33",2373,2373,"Foul on Wesley Harris.",0,0,0,0,0.880104026359134,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+5,1,"19:33",2373,2373,"Anthony Durham made Free Throw.",0,1,-1,0,0.869698077363371,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+6,1,"19:33",2373,2373,"Anthony Durham made Free Throw.",0,2,-2,8,0.85853415049129,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+7,1,"19:25",2365,2365,"James Bolden Turnover.",0,2,-2,1,0.862179761356977,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+8,1,"19:24",2364,2364,"Dimencio Vaughn Steal.",0,2,-2,2,0.862179761356977,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+9,1,"19:22",2362,2362,"Stevie Jordan made Layup. Assisted by Dimencio Vaughn.",0,4,-4,6,0.854018301919811,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+10,1,"19:16",2356,2356,"Foul on Anthony Durham.",0,4,-4,13,0.842901607462612,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+11,1,"19:03",2343,2343,"James Bolden missed Three Point Jumper.",0,4,-4,0,0.826485248605263,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+12,1,"19:03",2343,2343,"Wesley Harris Offensive Rebound.",0,4,-4,3,0.826485248605263,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+13,1,"19:00",2340,2340,"Wesley Harris missed Layup.",0,4,-4,0,0.826485248605263,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+14,1,"19:00",2340,2340,"Logan Routt Offensive Rebound.",0,4,-4,3,0.826485248605263,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+15,1,"18:57",2337,2337,"Logan Routt missed Layup.",0,4,-4,0,0.830142362956002,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+16,1,"18:57",2337,2337,"Esa Ahmad Offensive Rebound.",0,4,-4,6,0.830142362956002,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+17,1,"18:51",2331,2331,"Wesley Harris missed Layup.",0,4,-4,0,0.830142362956002,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+18,1,"18:51",2331,2331,"Dimencio Vaughn Block.",0,4,-4,0,0.830142362956002,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+19,1,"18:51",2331,2331,"Rider Defensive Rebound.",0,4,-4,13,0.830142362956002,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+20,1,"18:38",2318,2318,"Dimencio Vaughn made Dunk. Assisted by Stevie Jordan.",0,6,-6,20,0.779425210853181,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+21,1,"18:18",2298,2298,"Esa Ahmad missed Three Point Jumper.",0,6,-6,0,0.797677284286442,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+22,1,"18:18",2298,2298,"Logan Routt Offensive Rebound.",0,6,-6,5,0.797677284286442,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+23,1,"18:13",2293,2293,"Foul on Tyere Marshall.",0,6,-6,0,0.797677284286442,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+24,1,"18:13",2293,2293,"Logan Routt missed Free Throw.",0,6,-6,0,0.797677284286442,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+25,1,"18:13",2293,2293,"West Virginia Deadball Team Rebound.",0,6,-6,0,0.797677284286442,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+26,1,"18:13",2293,2293,"Logan Routt made Free Throw.",1,6,-5,18,0.812956495882773,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+27,1,"17:55",2275,2275,"Tyere Marshall Turnover.",1,6,-5,11,0.806107342721823,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+28,1,"17:44",2264,2264,"Technical Foul on Rider.",1,6,-5,0,0.797369592352451,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+29,1,"17:44",2264,2264,"Foul on Rider.",1,6,-5,0,0.797369592352451,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+30,1,"17:44",2264,2264,"James Bolden made Free Throw.",2,6,-4,0,0.816587615872098,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+31,1,"17:44",2264,2264,"James Bolden missed Free Throw.",2,6,-4,0,0.816587615872098,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+32,1,"17:44",2264,2264,"West Virginia Deadball Team Rebound.",2,6,-4,2,0.816587615872098,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+33,1,"17:42",2262,2262,"Esa Ahmad made Jumper. Assisted by James Bolden.",4,6,-2,11,0.850727976760764,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+34,1,"17:31",2251,2251,"Stevie Jordan missed Three Point Jumper.",4,6,-2,0,0.84374716258322,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+35,1,"17:31",2251,2251,"Logan Routt Defensive Rebound.",4,6,-2,17,0.84374716258322,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+36,1,"17:14",2234,2234,"James Bolden missed Three Point Jumper.",4,6,-2,0,0.844869326556312,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+37,1,"17:14",2234,2234,"West Virginia Offensive Rebound.",4,6,-2,4,0.844869326556312,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+38,1,"17:10",2230,2230,"James Bolden made Three Point Jumper. Assisted by Chase Harler.",7,6,1,26,0.883983642558387,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+39,1,"16:44",2204,2204,"Jordan Allen missed Layup.",7,6,1,0,0.881629816772761,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+40,1,"16:44",2204,2204,"Andrew Gordon Defensive Rebound.",7,6,1,12,0.881629816772761,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+41,1,"16:32",2192,2192,"Lamont West missed Three Point Jumper.",7,6,1,0,0.889109119568023,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+42,1,"16:32",2192,2192,"Esa Ahmad Offensive Rebound.",7,6,1,7,0.889109119568023,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+43,1,"16:25",2185,2185,"Lamont West missed Three Point Jumper.",7,6,1,0,0.880980151703049,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+44,1,"16:25",2185,2185,"James Bolden Offensive Rebound.",7,6,1,11,0.880980151703049,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+45,1,"16:14",2174,2174,"James Bolden made Layup. Assisted by Lamont West.",9,6,3,1,0.899493005543875,"West Virginia","Rider",4,4,0,0,12,"401083457",2018-11-28
+46,1,"16:13",2173,2173,"Rider  Timeout",9,6,3,16,0.899493005543875,"West Virginia","Rider",3,4,1,0,12,"401083457",2018-11-28
+47,1,"15:57",2157,2157,"Dimencio Vaughn missed Layup.",9,6,3,0,0.901441527261539,"West Virginia","Rider",3,4,1,0,12,"401083457",2018-11-28
+48,1,"15:57",2157,2157,"Lamont West Defensive Rebound.",9,6,3,18,0.901441527261539,"West Virginia","Rider",3,4,1,0,12,"401083457",2018-11-28
+49,1,"15:39",2139,2139,"Esa Ahmad missed Jumper.",9,6,3,0,0.904023489469854,"West Virginia","Rider",3,4,1,0,12,"401083457",2018-11-28
+50,1,"15:39",2139,2139,"Dimencio Vaughn Defensive Rebound.",9,6,3,9,0.904023489469854,"West Virginia","Rider",3,4,1,0,12,"401083457",2018-11-28
+51,1,"15:30",2130,2130,"Dimencio Vaughn made Layup.",9,8,1,29,0.880864033051273,"West Virginia","Rider",3,4,1,0,12,"401083457",2018-11-28
+52,1,"15:01",2101,2101,"James Bolden made Three Point Jumper.",12,8,4,29,0.907306891232268,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+53,1,"14:32",2072,2072,"Tyere Marshall missed Layup.",12,8,4,0,0.909483378818124,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+54,1,"14:32",2072,2072,"Lamont West Block.",12,8,4,2,0.909483378818124,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+55,1,"14:30",2070,2070,"Tyere Marshall Offensive Rebound.",12,8,4,2,0.909483378818124,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+56,1,"14:28",2068,2068,"Tyere Marshall made Layup.",12,10,2,9,0.88610111169564,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+57,1,"14:19",2059,2059,"Andrew Gordon missed Jumper.",12,10,2,0,0.896031437055151,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+58,1,"14:19",2059,2059,"Rider Defensive Rebound.",12,10,2,26,0.896031437055151,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+59,1,"13:53",2033,2033,"Frederick Scott missed Layup.",12,10,2,0,0.898126150751123,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+60,1,"13:53",2033,2033,"Logan Routt Defensive Rebound.",12,10,2,7,0.898126150751123,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+61,1,"13:46",2026,2026,"Chase Harler missed Three Point Jumper.",12,10,2,0,0.890800199307095,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+62,1,"13:46",2026,2026,"Anthony Durham Defensive Rebound.",12,10,2,8,0.890800199307095,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+63,1,"13:38",2018,2018,"Frederick Scott made Layup. Assisted by Dimencio Vaughn.",12,12,0,19,0.864074549308496,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+64,1,"13:19",1999,1999,"Emmitt Matthews Jr. missed Layup.",12,12,0,0,0.86329179179427,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+65,1,"13:19",1999,1999,"Tyere Marshall Defensive Rebound.",12,12,0,0,0.86329179179427,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+66,1,"13:19",1999,1999,"Foul on Logan Routt.",12,12,0,3,0.86329179179427,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+67,1,"13:16",1996,1996,"Anthony Durham missed Layup.",12,12,0,0,0.86329179179427,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+68,1,"13:16",1996,1996,"Emmitt Matthews Jr. Defensive Rebound.",12,12,0,10,0.86329179179427,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+69,1,"13:06",1986,1986,"James Bolden Turnover.",12,12,0,2,0.847654905946118,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+70,1,"13:04",1984,1984,"Dimencio Vaughn Steal.",12,12,0,5,0.847654905946118,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+71,1,"12:59",1979,1979,"Anthony Durham made Layup.",12,14,-2,29,0.836441730153482,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+72,1,"12:30",1950,1950,"Lamont West missed Three Point Jumper.",12,14,-2,0,0.823563390143977,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+73,1,"12:30",1950,1950,"Dimencio Vaughn Defensive Rebound.",12,14,-2,12,0.823563390143977,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+74,1,"12:18",1938,1938,"Tyere Marshall missed Layup.",12,14,-2,0,0.814614900570149,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+75,1,"12:18",1938,1938,"Tyere Marshall Offensive Rebound.",12,14,-2,2,0.814614900570149,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+76,1,"12:16",1936,1936,"Foul on Emmitt Matthews Jr..",12,14,-2,0,0.814614900570149,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+77,1,"12:16",1936,1936,"Tyere Marshall made Free Throw.",12,15,-3,0,0.794310946968125,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+78,1,"12:16",1936,1936,"Tyere Marshall made Free Throw.",12,16,-4,18,0.772404535822982,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+79,1,"11:58",1918,1918,"Wesley Harris missed Jumper.",12,16,-4,0,0.792523828401704,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+80,1,"11:58",1918,1918,"Dimencio Vaughn Defensive Rebound.",12,16,-4,14,0.792523828401704,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+81,1,"11:44",1904,1904,"Karamoko Cisse missed Jumper.",12,16,-4,0,0.793825042206472,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+82,1,"11:44",1904,1904,"Jermaine Haley Defensive Rebound.",12,16,-4,9,0.793825042206472,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+83,1,"11:35",1895,1895,"Foul on Karamoko Cisse.",12,16,-4,0,0.773160352204808,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+84,1,"11:35",1895,1895,"Official TV Timeout",12,16,-4,0,0.773160352204808,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+85,1,"11:35",1895,1895,"Wesley Harris made Free Throw.",13,16,-3,0,0.795862108387712,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+86,1,"11:35",1895,1895,"Wesley Harris made Free Throw.",14,16,-2,10,0.816830158789591,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+87,1,"11:25",1885,1885,"Dimencio Vaughn missed Layup.",14,16,-2,0,0.825591206444904,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+88,1,"11:25",1885,1885,"Karamoko Cisse Offensive Rebound.",14,16,-2,4,0.825591206444904,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+89,1,"11:21",1881,1881,"Frederick Scott made Three Point Jumper. Assisted by Karamoko Cisse.",14,19,-5,13,0.765587861954096,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+90,1,"11:08",1868,1868,"Brandon Knapper Turnover.",14,19,-5,1,0.746580630591606,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+91,1,"11:07",1867,1867,"Karamoko Cisse Steal.",14,19,-5,21,0.746580630591606,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+92,1,"10:46",1846,1846,"Jordan Allen Turnover.",14,19,-5,24,0.752732116840866,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+93,1,"10:22",1822,1822,"Brandon Knapper Turnover.",14,19,-5,1,0.781093644183605,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+94,1,"10:21",1821,1821,"Dimencio Vaughn Steal.",14,19,-5,3,0.781093644183605,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+95,1,"10:18",1818,1818,"Jordan Allen made Layup.",14,21,-7,20,0.686368879184579,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+96,1,"9:58",1798,1798,"Chase Harler missed Three Point Jumper.",14,21,-7,0,0.683186170676639,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+97,1,"9:58",1798,1798,"Devine Eke Defensive Rebound.",14,21,-7,21,0.683186170676639,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+98,1,"9:37",1777,1777,"Jordan Allen missed Three Point Jumper.",14,21,-7,0,0.695909163368436,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+99,1,"9:37",1777,1777,"Karamoko Cisse Offensive Rebound.",14,21,-7,3,0.695909163368436,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+100,1,"9:34",1774,1774,"Foul on Andrew Gordon.",14,21,-7,18,0.695909163368436,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+101,1,"9:16",1756,1756,"Tyere Marshall Turnover.",14,21,-7,1,0.678017886141876,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+102,1,"9:15",1755,1755,"Logan Routt Steal.",14,21,-7,5,0.678017886141876,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+103,1,"9:10",1750,1750,"Wesley Harris missed Layup.",14,21,-7,0,0.678017886141876,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+104,1,"9:10",1750,1750,"Devine Eke Block.",14,21,-7,1,0.678017886141876,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+105,1,"9:09",1749,1749,"Logan Routt Offensive Rebound.",14,21,-7,3,0.691744099083918,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+106,1,"9:06",1746,1746,"Esa Ahmad made Layup. Assisted by Logan Routt.",16,21,-5,10,0.742863761092112,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+107,1,"8:56",1736,1736,"Frederick Scott Turnover.",16,21,-5,12,0.740003505906358,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+108,1,"8:44",1724,1724,"Logan Routt made Layup. Assisted by Wesley Harris.",18,21,-3,21,0.770983561294987,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+109,1,"8:23",1703,1703,"Tyere Marshall Turnover.",18,21,-3,1,0.784926585339877,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+110,1,"8:22",1702,1702,"Logan Routt Steal.",18,21,-3,7,0.784926585339877,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+111,1,"8:15",1695,1695,"Chase Harler missed Three Point Jumper.",18,21,-3,0,0.778446208809665,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+112,1,"8:15",1695,1695,"West Virginia Offensive Rebound.",18,21,-3,6,0.778446208809665,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+113,1,"8:09",1689,1689,"James Bolden Turnover.",18,21,-3,1,0.793160022237046,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+114,1,"8:08",1688,1688,"Jordan Allen Steal.",18,21,-3,4,0.793160022237046,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+115,1,"8:04",1684,1684,"Dimencio Vaughn missed Dunk.",18,21,-3,0,0.793160022237046,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+116,1,"8:04",1684,1684,"Esa Ahmad Defensive Rebound.",18,21,-3,5,0.793160022237046,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+117,1,"7:59",1679,1679,"James Bolden made Three Point Jumper.",21,21,0,18,0.848797063175025,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+118,1,"7:41",1661,1661,"Kimar Williams made Layup.",21,23,-2,27,0.808872484433447,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+119,1,"7:14",1634,1634,"Esa Ahmad missed Jumper.",21,23,-2,0,0.807308753078867,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+120,1,"7:14",1634,1634,"Dimencio Vaughn Defensive Rebound.",21,23,-2,8,0.807308753078867,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+121,1,"7:06",1626,1626,"Kimar Williams made Layup.",21,25,-4,4,0.751588774416385,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+122,1,"7:02",1622,1622,"West Virginia  Timeout",21,25,-4,11,0.751588774416385,"West Virginia","Rider",3,3,0,1,12,"401083457",2018-11-28
+123,1,"6:51",1611,1611,"Wesley Harris missed Three Point Jumper.",21,25,-4,0,0.732364452306036,"West Virginia","Rider",3,3,0,1,12,"401083457",2018-11-28
+124,1,"6:51",1611,1611,"Kimar Williams Defensive Rebound.",21,25,-4,6,0.732364452306036,"West Virginia","Rider",3,3,0,1,12,"401083457",2018-11-28
+125,1,"6:45",1605,1605,"Jordan Allen made Three Point Jumper. Assisted by Kimar Williams.",21,28,-7,11,0.686300644519278,"West Virginia","Rider",3,3,0,1,12,"401083457",2018-11-28
+126,1,"6:34",1594,1594,"Jordan McCabe missed Jumper.",21,28,-7,0,0.66911460628972,"West Virginia","Rider",3,3,0,1,12,"401083457",2018-11-28
+127,1,"6:34",1594,1594,"Esa Ahmad Offensive Rebound.",21,28,-7,4,0.66911460628972,"West Virginia","Rider",3,3,0,1,12,"401083457",2018-11-28
+128,1,"6:30",1590,1590,"Esa Ahmad missed Layup.",21,28,-7,0,0.66911460628972,"West Virginia","Rider",3,3,0,1,12,"401083457",2018-11-28
+129,1,"6:30",1590,1590,"Esa Ahmad Offensive Rebound.",21,28,-7,4,0.66911460628972,"West Virginia","Rider",3,3,0,1,12,"401083457",2018-11-28
+130,1,"6:26",1586,1586,"Esa Ahmad missed Layup.",21,28,-7,0,0.668214583585368,"West Virginia","Rider",3,3,0,1,12,"401083457",2018-11-28
+131,1,"6:26",1586,1586,"Wesley Harris Offensive Rebound.",21,28,-7,2,0.668214583585368,"West Virginia","Rider",3,3,0,1,12,"401083457",2018-11-28
+132,1,"6:24",1584,1584,"Wesley Harris missed Layup.",21,28,-7,0,0.668214583585368,"West Virginia","Rider",3,3,0,1,12,"401083457",2018-11-28
+133,1,"6:24",1584,1584,"Lamont West Offensive Rebound.",21,28,-7,10,0.668214583585368,"West Virginia","Rider",3,3,0,1,12,"401083457",2018-11-28
+134,1,"6:14",1574,1574,"Esa Ahmad made Three Point Jumper. Assisted by Jordan McCabe.",24,28,-4,19,0.743156207819861,"West Virginia","Rider",3,3,0,1,12,"401083457",2018-11-28
+135,1,"5:55",1555,1555,"Foul on Jordan McCabe.",24,28,-4,1,0.731939171257462,"West Virginia","Rider",3,3,0,0,12,"401083457",2018-11-28
+136,1,"5:54",1554,1554,"Anthony Durham Turnover.",24,28,-4,2,0.731939171257462,"West Virginia","Rider",3,3,0,0,12,"401083457",2018-11-28
+137,1,"5:52",1552,1552,"Lamont West Steal.",24,28,-4,6,0.731939171257462,"West Virginia","Rider",3,3,0,0,12,"401083457",2018-11-28
+138,1,"5:46",1546,1546,"Lamont West made Three Point Jumper. Assisted by Jordan McCabe.",27,28,-1,31,0.825390046292702,"West Virginia","Rider",3,3,0,0,12,"401083457",2018-11-28
+139,1,"5:15",1515,1515,"Anthony Durham Turnover.",27,28,-1,0,0.818765066320718,"West Virginia","Rider",3,3,0,0,12,"401083457",2018-11-28
+140,1,"5:15",1515,1515,"Esa Ahmad Steal.",27,28,-1,16,0.818765066320718,"West Virginia","Rider",3,3,0,0,12,"401083457",2018-11-28
+141,1,"4:59",1499,1499,"Esa Ahmad missed Layup.",27,28,-1,0,0.823454477428797,"West Virginia","Rider",3,3,0,0,12,"401083457",2018-11-28
+142,1,"4:59",1499,1499,"Esa Ahmad Offensive Rebound.",27,28,-1,3,0.823454477428797,"West Virginia","Rider",3,3,0,0,12,"401083457",2018-11-28
+143,1,"4:56",1496,1496,"Esa Ahmad made Layup.",29,28,1,20,0.860438880792028,"West Virginia","Rider",3,3,0,0,12,"401083457",2018-11-28
+144,1,"4:36",1476,1476,"Dimencio Vaughn missed Three Point Jumper.",29,28,1,0,0.8701837176852,"West Virginia","Rider",3,3,0,0,12,"401083457",2018-11-28
+145,1,"4:36",1476,1476,"Jordan McCabe Defensive Rebound.",29,28,1,9,0.8701837176852,"West Virginia","Rider",3,3,0,0,12,"401083457",2018-11-28
+146,1,"4:27",1467,1467,"Lamont West made Three Point Jumper. Assisted by Jordan McCabe.",32,28,4,4,0.887891234397148,"West Virginia","Rider",3,3,0,0,12,"401083457",2018-11-28
+147,1,"4:23",1463,1463,"Rider  Timeout",32,28,4,20,0.887891234397148,"West Virginia","Rider",2,3,1,0,12,"401083457",2018-11-28
+148,1,"4:03",1443,1443,"Stevie Jordan made Layup.",32,30,2,1,0.879020478759518,"West Virginia","Rider",2,3,1,0,12,"401083457",2018-11-28
+149,1,"4:02",1442,1442,"Technical Foul on Stevie Jordan.",32,30,2,0,0.879020478759518,"West Virginia","Rider",2,3,1,0,12,"401083457",2018-11-28
+150,1,"4:02",1442,1442,"Foul on Stevie Jordan.",32,30,2,0,0.879020478759518,"West Virginia","Rider",2,3,1,0,12,"401083457",2018-11-28
+151,1,"4:02",1442,1442,"Chase Harler made Free Throw.",33,30,3,0,0.894292493719284,"West Virginia","Rider",2,3,1,0,12,"401083457",2018-11-28
+152,1,"4:02",1442,1442,"Chase Harler missed Free Throw.",33,30,3,0,0.894292493719284,"West Virginia","Rider",2,3,1,0,12,"401083457",2018-11-28
+153,1,"4:02",1442,1442,"West Virginia Deadball Team Rebound.",33,30,3,10,0.894292493719284,"West Virginia","Rider",2,3,1,0,12,"401083457",2018-11-28
+154,1,"3:52",1432,1432,"Esa Ahmad missed Jumper.",33,30,3,0,0.882181369102098,"West Virginia","Rider",2,3,1,0,12,"401083457",2018-11-28
+155,1,"3:52",1432,1432,"Jordan Allen Defensive Rebound.",33,30,3,10,0.882181369102098,"West Virginia","Rider",2,3,1,0,12,"401083457",2018-11-28
+156,1,"3:42",1422,1422,"Jordan Allen missed Layup.",33,30,3,0,0.87446271945441,"West Virginia","Rider",2,3,1,0,12,"401083457",2018-11-28
+157,1,"3:42",1422,1422,"Lamont West Defensive Rebound.",33,30,3,17,0.87446271945441,"West Virginia","Rider",2,3,1,0,12,"401083457",2018-11-28
+158,1,"3:25",1405,1405,"Lamont West missed Three Point Jumper.",33,30,3,0,0.894223639010336,"West Virginia","Rider",2,3,1,0,12,"401083457",2018-11-28
+159,1,"3:25",1405,1405,"Jordan McCabe Offensive Rebound.",33,30,3,4,0.894223639010336,"West Virginia","Rider",2,3,1,0,12,"401083457",2018-11-28
+160,1,"3:21",1401,1401,"Esa Ahmad made Layup. Assisted by Jordan McCabe.",35,30,5,0,0.920167336452453,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+161,1,"3:21",1401,1401,"Foul on Ahmad Gilbert.",35,30,5,0,0.920167336452453,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+162,1,"3:21",1401,1401,"Esa Ahmad made Free Throw.",36,30,6,19,0.930837105714634,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+163,1,"3:02",1382,1382,"Anthony Durham made Three Point Jumper. Assisted by Stevie Jordan.",36,33,3,8,0.887948659083045,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+164,1,"2:54",1374,1374,"Chase Harler made Dunk. Assisted by Jordan McCabe.",38,33,5,24,0.906163228441746,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+165,1,"2:30",1350,1350,"Anthony Durham missed Jumper.",38,33,5,0,0.915418598232018,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+166,1,"2:30",1350,1350,"Esa Ahmad Block.",38,33,5,2,0.915418598232018,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+167,1,"2:28",1348,1348,"Esa Ahmad Defensive Rebound.",38,33,5,5,0.905484368900288,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+168,1,"2:23",1343,1343,"Jordan McCabe missed Three Point Jumper.",38,33,5,0,0.905484368900288,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+169,1,"2:23",1343,1343,"Dimencio Vaughn Defensive Rebound.",38,33,5,25,0.905484368900288,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+170,1,"1:58",1318,1318,"Tyere Marshall missed Jumper.",38,33,5,0,0.913922127037319,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+171,1,"1:58",1318,1318,"Frederick Scott Offensive Rebound.",38,33,5,2,0.913922127037319,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+172,1,"1:56",1316,1316,"Frederick Scott made Layup.",38,35,3,14,0.885662809061407,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+173,1,"1:42",1302,1302,"James Bolden missed Jumper.",38,35,3,0,0.870643071864019,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+174,1,"1:42",1302,1302,"Dimencio Vaughn Defensive Rebound.",38,35,3,18,0.870643071864019,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+175,1,"1:24",1284,1284,"Kimar Williams Turnover.",38,35,3,1,0.885421920146595,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+176,1,"1:23",1283,1283,"James Bolden Steal.",38,35,3,4,0.885421920146595,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+177,1,"1:19",1279,1279,"Wesley Harris made Dunk. Assisted by Chase Harler.",40,35,5,9,0.903000111663237,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+178,1,"1:10",1270,1270,"Frederick Scott missed Three Point Jumper.",40,35,5,0,0.903000111663237,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+179,1,"1:10",1270,1270,"Wesley Harris Defensive Rebound.",40,35,5,28,0.903000111663237,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+180,1,"0:42",1242,1242,"James Bolden Turnover.",40,35,5,1,0.910726778254606,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+181,1,"0:41",1241,1241,"Stevie Jordan Steal.",40,35,5,0,0.910726778254606,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+182,1,"0:41",1241,1241,"Foul on James Bolden.",40,35,5,0,0.910726778254606,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+183,1,"0:41",1241,1241,"Frederick Scott missed Free Throw.",40,35,5,0,0.910726778254606,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+184,1,"0:41",1241,1241,"Rider Deadball Team Rebound.",40,35,5,0,0.910726778254606,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+185,1,"0:41",1241,1241,"Frederick Scott made Free Throw.",40,36,4,15,0.897311104499671,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+186,1,"0:26",1226,1226,"Esa Ahmad missed Layup.",40,36,4,0,0.899040480572416,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+187,1,"0:26",1226,1226,"Rider Defensive Rebound.",40,36,4,13,0.899040480572416,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+188,1,"0:13",1213,1213,"Frederick Scott missed Layup.",40,36,4,0,0.890779159995849,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+189,1,"0:13",1213,1213,"Logan Routt Defensive Rebound.",40,36,4,6,0.890779159995849,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+190,1,"0:07",1207,1207,"Lamont West made Three Point Jumper. Assisted by James Bolden.",43,36,7,7,0.931907700343736,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+191,1,"0:00",1200,1200,"End of 1st half",43,36,7,0,0.931907700343736,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+192,2,"20:00",1200,1200,"PLAY",43,36,7,21,0.931907700343736,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+193,2,"19:39",1179,1179,"Jordan Allen made Three Point Jumper. Assisted by Dimencio Vaughn.",43,39,4,25,0.88898492102998,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+194,2,"19:14",1154,1154,"Brandon Knapper made Three Point Jumper.",46,39,7,20,0.928474453747469,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+195,2,"18:54",1134,1134,"Anthony Durham missed Jumper.",46,39,7,0,0.934646569462709,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+196,2,"18:54",1134,1134,"Brandon Knapper Defensive Rebound.",46,39,7,27,0.934646569462709,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+197,2,"18:27",1107,1107,"Esa Ahmad made Layup.",48,39,9,23,0.951334080628643,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+198,2,"18:04",1084,1084,"Jordan Allen missed Jumper.",48,39,9,0,0.956783087679423,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+199,2,"18:04",1084,1084,"Anthony Durham Offensive Rebound.",48,39,9,11,0.956783087679423,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+200,2,"17:53",1073,1073,"Anthony Durham missed Layup.",48,39,9,0,0.94877597315835,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+201,2,"17:53",1073,1073,"Logan Routt Block.",48,39,9,1,0.94877597315835,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+202,2,"17:52",1072,1072,"Jordan Allen Offensive Rebound.",48,39,9,2,0.94877597315835,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+203,2,"17:50",1070,1070,"Jordan Allen missed Layup.",48,39,9,0,0.94877597315835,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+204,2,"17:50",1070,1070,"Brandon Knapper Defensive Rebound.",48,39,9,0,0.94877597315835,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+205,2,"17:50",1070,1070,"Foul on Anthony Durham.",48,39,9,0,0.94877597315835,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+206,2,"17:50",1070,1070,"Technical Foul on Anthony Durham.",48,39,9,0,0.94877597315835,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+207,2,"17:50",1070,1070,"Esa Ahmad missed Free Throw.",48,39,9,0,0.94877597315835,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+208,2,"17:50",1070,1070,"West Virginia Deadball Team Rebound.",48,39,9,0,0.94877597315835,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+209,2,"17:50",1070,1070,"Esa Ahmad made Free Throw.",49,39,10,23,0.956369164870882,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+210,2,"17:27",1047,1047,"Chase Harler made Three Point Jumper. Assisted by Esa Ahmad.",52,39,13,11,0.9774303013349,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+211,2,"17:16",1036,1036,"Stevie Jordan missed Layup.",52,39,13,0,0.974593694945241,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+212,2,"17:16",1036,1036,"Wesley Harris Defensive Rebound.",52,39,13,9,0.974593694945241,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+213,2,"17:07",1027,1027,"Logan Routt made Layup. Assisted by Brandon Knapper.",54,39,15,10,0.983988222857126,"West Virginia","Rider",3,4,0,0,12,"401083457",2018-11-28
+214,2,"16:57",1017,1017,"Rider  Timeout",54,39,15,11,0.982132526259084,"West Virginia","Rider",2,4,1,0,12,"401083457",2018-11-28
+215,2,"16:46",1006,1006,"Jordan Allen Turnover.",54,39,15,1,0.983574177236293,"West Virginia","Rider",2,4,1,0,12,"401083457",2018-11-28
+216,2,"16:45",1005,1005,"Brandon Knapper Steal.",54,39,15,5,0.983574177236293,"West Virginia","Rider",2,4,1,0,12,"401083457",2018-11-28
+217,2,"16:40",1000,1000,"Brandon Knapper missed Layup.",54,39,15,0,0.983574177236293,"West Virginia","Rider",2,4,1,0,12,"401083457",2018-11-28
+218,2,"16:40",1000,1000,"Logan Routt Offensive Rebound.",54,39,15,19,0.983574177236293,"West Virginia","Rider",2,4,1,0,12,"401083457",2018-11-28
+219,2,"16:21",981,981,"Foul on Tyere Marshall.",54,39,15,0,0.987047666608,"West Virginia","Rider",2,4,1,0,12,"401083457",2018-11-28
+220,2,"16:21",981,981,"Logan Routt made Free Throw.",55,39,16,0,0.989368520063596,"West Virginia","Rider",2,4,1,0,12,"401083457",2018-11-28
+221,2,"16:21",981,981,"Logan Routt made Free Throw.",56,39,17,16,0.99127718832835,"West Virginia","Rider",2,4,1,0,12,"401083457",2018-11-28
+222,2,"16:05",965,965,"Foul on Brandon Knapper.",56,39,17,6,0.988139966359717,"West Virginia","Rider",2,4,1,0,12,"401083457",2018-11-28
+223,2,"15:59",959,959,"Stevie Jordan made Layup.",56,41,15,7,0.986429204133284,"West Virginia","Rider",2,4,1,0,12,"401083457",2018-11-28
+224,2,"15:52",952,952,"Brandon Knapper Turnover.",56,41,15,0,0.986429204133284,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+225,2,"15:52",952,952,"Official TV Timeout",56,41,15,24,0.986429204133284,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+226,2,"15:28",928,928,"Foul on Esa Ahmad.",56,41,15,0,0.984112158267083,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+227,2,"15:28",928,928,"Frederick Scott missed Free Throw.",56,41,15,0,0.984112158267083,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+228,2,"15:28",928,928,"Rider Deadball Team Rebound.",56,41,15,0,0.984112158267083,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+229,2,"15:28",928,928,"Frederick Scott made Free Throw.",56,42,14,5,0.980785921548229,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+230,2,"15:23",923,923,"Foul on Tyere Marshall.",56,42,14,11,0.980785921548229,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+231,2,"15:12",912,912,"Foul on Stevie Jordan.",56,42,14,19,0.984838435522628,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+232,2,"14:53",893,893,"Lamont West missed Three Point Jumper.",56,42,14,0,0.983091464515257,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+233,2,"14:53",893,893,"Logan Routt Offensive Rebound.",56,42,14,5,0.983091464515257,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+234,2,"14:48",888,888,"Foul on Kimar Williams.",56,42,14,0,0.976075671017667,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+235,2,"14:48",888,888,"Lamont West made Free Throw.",57,42,15,0,0.979816474742288,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+236,2,"14:48",888,888,"Lamont West made Free Throw.",58,42,16,4,0.982982564741452,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+237,2,"14:44",884,884,"Foul on Esa Ahmad.",58,42,16,0,0.982982564741452,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+238,2,"14:44",884,884,"Kimar Williams made Free Throw.",58,43,15,0,0.979816474742288,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+239,2,"14:44",884,884,"Kimar Williams made Free Throw.",58,44,14,12,0.976075671017667,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+240,2,"14:32",872,872,"Wesley Harris missed Three Point Jumper.",58,44,14,0,0.982724989170169,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+241,2,"14:32",872,872,"Lamont West Offensive Rebound.",58,44,14,4,0.982724989170169,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+242,2,"14:28",868,868,"Lamont West made Layup.",60,44,16,21,0.98745211708977,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+243,2,"14:07",847,847,"Foul on Wesley Harris.",60,44,16,0,0.990574182467016,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+244,2,"14:07",847,847,"Dimencio Vaughn made Free Throw.",60,45,15,0,0.98836993542128,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+245,2,"14:07",847,847,"Dimencio Vaughn made Free Throw.",60,46,14,11,0.985657683966413,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+246,2,"13:56",836,836,"Foul on Stevie Jordan.",60,46,14,16,0.986842907023256,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+247,2,"13:40",820,820,"Jordan McCabe missed Three Point Jumper.",60,46,14,0,0.981692618699271,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+248,2,"13:40",820,820,"Dimencio Vaughn Defensive Rebound.",60,46,14,6,0.981692618699271,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+249,2,"13:34",814,814,"Dimencio Vaughn Turnover.",60,46,14,1,0.983340865572661,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+250,2,"13:33",813,813,"Esa Ahmad Steal.",60,46,14,1,0.983340865572661,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+251,2,"13:32",812,812,"Lamont West made Dunk. Assisted by Esa Ahmad.",62,46,16,15,0.98868487609502,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+252,2,"13:17",797,797,"Frederick Scott made Layup.",62,48,14,11,0.987180827669436,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+253,2,"13:06",786,786,"Esa Ahmad Turnover.",62,48,14,0,0.984736084651273,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+254,2,"13:06",786,786,"Foul on Esa Ahmad.",62,48,14,22,0.984736084651273,"West Virginia","Rider",2,4,0,0,12,"401083457",2018-11-28
+255,2,"12:44",764,764,"Dimencio Vaughn missed Layup.",62,48,14,0,0.988278655796365,"West Virginia","Rider",2,4,0,1,12,"401083457",2018-11-28
+256,2,"12:44",764,764,"West Virginia Defensive Rebound.",62,48,14,0,0.988278655796365,"West Virginia","Rider",2,4,0,1,12,"401083457",2018-11-28
+257,2,"12:44",764,764,"West Virginia  Timeout",62,48,14,17,0.988278655796365,"West Virginia","Rider",2,3,0,1,12,"401083457",2018-11-28
+258,2,"12:27",747,747,"Wesley Harris made Layup.",64,48,16,10,0.991898346797354,"West Virginia","Rider",2,3,0,1,12,"401083457",2018-11-28
+259,2,"12:17",737,737,"Foul on Wesley Harris.",64,48,16,0,0.989800947203879,"West Virginia","Rider",2,3,0,1,12,"401083457",2018-11-28
+260,2,"12:17",737,737,"Devine Eke missed Free Throw.",64,48,16,0,0.989800947203879,"West Virginia","Rider",2,3,0,1,12,"401083457",2018-11-28
+261,2,"12:17",737,737,"Rider Deadball Team Rebound.",64,48,16,0,0.989800947203879,"West Virginia","Rider",2,3,0,1,12,"401083457",2018-11-28
+262,2,"12:17",737,737,"Devine Eke missed Free Throw.",64,48,16,0,0.989800947203879,"West Virginia","Rider",2,3,0,1,12,"401083457",2018-11-28
+263,2,"12:17",737,737,"Wesley Harris Defensive Rebound.",64,48,16,26,0.989800947203879,"West Virginia","Rider",2,3,0,1,12,"401083457",2018-11-28
+264,2,"11:51",711,711,"Jermaine Haley missed Three Point Jumper.",64,48,16,0,0.991237798690083,"West Virginia","Rider",2,3,0,1,12,"401083457",2018-11-28
+265,2,"11:51",711,711,"Frederick Scott Defensive Rebound.",64,48,16,10,0.991237798690083,"West Virginia","Rider",2,3,0,1,12,"401083457",2018-11-28
+266,2,"11:41",701,701,"Anthony Durham made Three Point Jumper.",64,51,13,15,0.981064736738818,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+267,2,"11:26",686,686,"Emmitt Matthews Jr. made Dunk. Assisted by Jordan McCabe.",66,51,15,9,0.989680507766395,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+268,2,"11:17",677,677,"Kimar Williams Turnover.",66,51,15,3,0.990999540811209,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+269,2,"11:14",674,674,"Jordan McCabe Steal.",66,51,15,5,0.990999540811209,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+270,2,"11:09",669,669,"Foul on Kimar Williams.",66,51,15,0,0.99003474983693,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+271,2,"11:09",669,669,"Official TV Timeout",66,51,15,0,0.99003474983693,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+272,2,"11:09",669,669,"Jordan McCabe made Free Throw.",67,51,16,0,0.992036114487941,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+273,2,"11:09",669,669,"Jordan McCabe missed Free Throw.",67,51,16,0,0.992036114487941,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+274,2,"11:09",669,669,"Devine Eke Defensive Rebound.",67,51,16,24,0.992036114487941,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+275,2,"10:45",645,645,"Kimar Williams made Layup. Assisted by Anthony Durham.",67,53,14,17,0.989370916021752,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+276,2,"10:28",628,628,"Lamont West made Three Point Jumper. Assisted by Jordan McCabe.",70,53,17,3,0.996169516969354,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+277,2,"10:25",625,625,"Foul on Devine Eke.",70,53,17,0,0.996169516969354,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+278,2,"10:25",625,625,"Lamont West made Free Throw.",71,53,18,22,0.997018594465665,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+279,2,"10:03",603,603,"Dimencio Vaughn made Three Point Jumper. Assisted by Stevie Jordan.",71,56,15,20,0.992477678789074,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+280,2,"9:43",583,583,"Emmitt Matthews Jr. made Layup.",73,56,17,1,0.994432252902809,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+281,2,"9:42",582,582,"Foul on Anthony Durham.",73,56,17,0,0.994432252902809,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+282,2,"9:42",582,582,"Emmitt Matthews Jr. made Free Throw.",74,56,18,18,0.995623903617624,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+283,2,"9:24",564,564,"Dimencio Vaughn missed Three Point Jumper.",74,56,18,0,0.997345595510534,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+284,2,"9:24",564,564,"Lamont West Defensive Rebound.",74,56,18,4,0.997345595510534,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+285,2,"9:20",560,560,"Foul on Anthony Durham.",74,56,18,0,0.997345595510534,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+286,2,"9:20",560,560,"Lamont West made Free Throw.",75,56,19,0,0.997947893642088,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+287,2,"9:20",560,560,"Lamont West missed Free Throw.",75,56,19,0,0.997947893642088,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+288,2,"9:20",560,560,"Anthony Durham Defensive Rebound.",75,56,19,9,0.997947893642088,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+289,2,"9:11",551,551,"Tyere Marshall missed Layup.",75,56,19,0,0.997656875752106,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+290,2,"9:11",551,551,"Wesley Harris Defensive Rebound.",75,56,19,1,0.997656875752106,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+291,2,"9:10",550,550,"Technical Foul on Wesley Harris.",75,56,19,0,0.997656875752106,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+292,2,"9:10",550,550,"Technical Foul on Tyere Marshall.",75,56,19,0,0.997656875752106,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+293,2,"9:10",550,550,"Foul on Wesley Harris.",75,56,19,0,0.997656875752106,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+294,2,"9:10",550,550,"Foul on Tyere Marshall.",75,56,19,11,0.997656875752106,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+295,2,"8:59",539,539,"Jordan McCabe Turnover.",75,56,19,8,0.998601019188502,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+296,2,"8:51",531,531,"Dimencio Vaughn missed Layup.",75,56,19,0,0.998601019188502,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+297,2,"8:51",531,531,"Emmitt Matthews Jr. Defensive Rebound.",75,56,19,22,0.998601019188502,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+298,2,"8:29",509,509,"Lamont West missed Layup.",75,56,19,0,0.998124776686479,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+299,2,"8:29",509,509,"West Virginia Offensive Rebound.",75,56,19,4,0.998124776686479,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+300,2,"8:25",505,505,"Emmitt Matthews Jr. missed Jumper.",75,56,19,0,0.998124776686479,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+301,2,"8:25",505,505,"Dimencio Vaughn Defensive Rebound.",75,56,19,11,0.998124776686479,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+302,2,"8:14",494,494,"Dimencio Vaughn made Layup.",75,58,17,18,0.99673818568665,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+303,2,"7:56",476,476,"Foul on Frederick Scott.",75,58,17,0,0.997642278704522,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+304,2,"7:56",476,476,"Official TV Timeout",75,58,17,0,0.997642278704522,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+305,2,"7:56",476,476,"Emmitt Matthews Jr. made Free Throw.",76,58,18,0,0.998236601819915,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+306,2,"7:56",476,476,"Emmitt Matthews Jr. made Free Throw.",77,58,19,25,0.998681308830418,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+307,2,"7:31",451,451,"Frederick Scott missed Layup.",77,58,19,0,0.999061777010658,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+308,2,"7:31",451,451,"Frederick Scott Offensive Rebound.",77,58,19,2,0.999061777010658,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+309,2,"7:29",449,449,"Frederick Scott made Layup.",77,60,17,9,0.996357772020987,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+310,2,"7:20",440,440,"Jordan McCabe Turnover.",77,60,17,2,0.996357772020987,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+311,2,"7:18",438,438,"Jordan Allen Turnover.",77,60,17,14,0.998252881053451,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+312,2,"7:04",424,424,"Jermaine Haley made Layup. Assisted by Emmitt Matthews Jr..",79,60,19,11,0.998623923527534,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+313,2,"6:53",413,413,"Kimar Williams missed Jumper.",79,60,19,0,0.998854919395028,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+314,2,"6:53",413,413,"Frederick Scott Offensive Rebound.",79,60,19,2,0.998854919395028,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+315,2,"6:51",411,411,"Frederick Scott made Layup.",79,62,17,15,0.99790990751123,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+316,2,"6:36",396,396,"Lamont West missed Three Point Jumper.",79,62,17,0,0.998216514880178,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+317,2,"6:36",396,396,"Kimar Williams Defensive Rebound.",79,62,17,10,0.998216514880178,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+318,2,"6:26",386,386,"Frederick Scott missed Three Point Jumper.",79,62,17,0,0.997869545461413,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+319,2,"6:26",386,386,"West Virginia Defensive Rebound.",79,62,17,9,0.997869545461413,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+320,2,"6:17",377,377,"Jermaine Haley Turnover.",79,62,17,13,0.998047295891934,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+321,2,"6:04",364,364,"Stevie Jordan made Three Point Jumper.",79,65,14,32,0.995679491662451,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+322,2,"5:32",332,332,"Wesley Harris missed Three Point Jumper.",79,65,14,0,0.997374968634114,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+323,2,"5:32",332,332,"Rider Defensive Rebound.",79,65,14,21,0.997374968634114,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+324,2,"5:11",311,311,"Anthony Durham missed Layup.",79,65,14,0,0.997542749817777,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+325,2,"5:11",311,311,"Emmitt Matthews Jr. Defensive Rebound.",79,65,14,0,0.997542749817777,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+326,2,"5:11",311,311,"Foul on Dimencio Vaughn.",79,65,14,0,0.997542749817777,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+327,2,"5:11",311,311,"Emmitt Matthews Jr. made Free Throw.",80,65,15,0,0.998295658327052,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+328,2,"5:11",311,311,"Emmitt Matthews Jr. made Free Throw.",81,65,16,6,0.998818146825142,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+329,2,"5:05",305,305,"Stevie Jordan made Layup.",81,67,14,6,0.996281401864075,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+330,2,"4:59",299,299,"Foul on Anthony Durham.",81,67,14,0,0.997055892765875,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+331,2,"4:59",299,299,"Esa Ahmad missed Free Throw.",81,67,14,0,0.997055892765875,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+332,2,"4:59",299,299,"West Virginia Deadball Team Rebound.",81,67,14,0,0.997055892765875,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+333,2,"4:59",299,299,"Esa Ahmad made Free Throw.",82,67,15,5,0.997908856044466,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+334,2,"4:54",294,294,"Kimar Williams missed Layup.",82,67,15,0,0.997908856044466,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+335,2,"4:54",294,294,"Kimar Williams Offensive Rebound.",82,67,15,2,0.997908856044466,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+336,2,"4:52",292,292,"Frederick Scott Turnover.",82,67,15,0,0.997908856044466,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+337,2,"4:52",292,292,"Kimar Williams missed Layup.",82,67,15,0,0.997908856044466,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+338,2,"4:52",292,292,"Wesley Harris Block.",82,67,15,1,0.997908856044466,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+339,2,"4:51",291,291,"Frederick Scott Offensive Rebound.",82,67,15,18,0.997908856044466,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+340,2,"4:33",273,273,"Esa Ahmad Turnover.",82,67,15,2,0.998766066043661,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+341,2,"4:31",271,271,"Jordan Allen Steal.",82,67,15,1,0.998766066043661,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+342,2,"4:30",270,270,"Jordan Allen made Three Point Jumper.",82,70,12,7,0.996053946491655,"West Virginia","Rider",2,3,0,0,12,"401083457",2018-11-28
+343,2,"4:23",263,263,"West Virginia  Timeout",82,70,12,11,0.995406394072086,"West Virginia","Rider",2,2,0,1,12,"401083457",2018-11-28
+344,2,"4:12",252,252,"Esa Ahmad Turnover.",82,70,12,3,0.9972212324611,"West Virginia","Rider",2,2,0,1,12,"401083457",2018-11-28
+345,2,"4:09",249,249,"Stevie Jordan Steal.",82,70,12,27,0.99655305047905,"West Virginia","Rider",2,2,0,1,12,"401083457",2018-11-28
+346,2,"3:42",222,222,"Kimar Williams Turnover.",82,70,12,0,0.997769337427869,"West Virginia","Rider",2,2,0,1,12,"401083457",2018-11-28
+347,2,"3:42",222,222,"Esa Ahmad Steal.",82,70,12,0,0.997769337427869,"West Virginia","Rider",2,2,0,1,12,"401083457",2018-11-28
+348,2,"3:42",222,222,"Foul on Kimar Williams.",82,70,12,0,0.997769337427869,"West Virginia","Rider",2,2,0,1,12,"401083457",2018-11-28
+349,2,"3:42",222,222,"Esa Ahmad missed Free Throw.",82,70,12,0,0.997769337427869,"West Virginia","Rider",2,2,0,1,12,"401083457",2018-11-28
+350,2,"3:42",222,222,"West Virginia Deadball Team Rebound.",82,70,12,0,0.997769337427869,"West Virginia","Rider",2,2,0,1,12,"401083457",2018-11-28
+351,2,"3:42",222,222,"Esa Ahmad missed Free Throw.",82,70,12,0,0.997769337427869,"West Virginia","Rider",2,2,0,1,12,"401083457",2018-11-28
+352,2,"3:42",222,222,"Frederick Scott Defensive Rebound.",82,70,12,7,0.997769337427869,"West Virginia","Rider",2,2,0,1,12,"401083457",2018-11-28
+353,2,"3:35",215,215,"Stevie Jordan made Jumper.",82,72,10,16,0.994543148566221,"West Virginia","Rider",2,2,0,1,12,"401083457",2018-11-28
+354,2,"3:19",199,199,"Emmitt Matthews Jr. made Dunk. Assisted by Jordan McCabe.",84,72,12,10,0.998023626107508,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+355,2,"3:09",189,189,"Kimar Williams missed Layup.",84,72,12,0,0.998539371100395,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+356,2,"3:09",189,189,"West Virginia Defensive Rebound.",84,72,12,12,0.998539371100395,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+357,2,"2:57",177,177,"Wesley Harris made Dunk.",86,72,14,14,0.999549839411058,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+358,2,"2:43",163,163,"Jordan Allen missed Three Point Jumper.",86,72,14,0,0.999739448432632,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+359,2,"2:43",163,163,"Lamont West Defensive Rebound.",86,72,14,21,0.999739448432632,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+360,2,"2:22",142,142,"Jordan McCabe missed Layup.",86,72,14,0,0.999693282706572,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+361,2,"2:22",142,142,"Wesley Harris Offensive Rebound.",86,72,14,0,0.999693282706572,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+362,2,"2:22",142,142,"Foul on Kimar Williams.",86,72,14,0,0.999693282706572,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+363,2,"2:22",142,142,"Wesley Harris missed Free Throw.",86,72,14,0,0.999693282706572,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+364,2,"2:22",142,142,"West Virginia Deadball Team Rebound.",86,72,14,0,0.999693282706572,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+365,2,"2:22",142,142,"Wesley Harris made Free Throw.",87,72,15,11,0.999817288745198,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+366,2,"2:11",131,131,"Foul on Lamont West.",87,72,15,0,0.999873057848924,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+367,2,"2:11",131,131,"Dimencio Vaughn missed Free Throw.",87,72,15,0,0.999873057848924,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+368,2,"2:11",131,131,"Rider Deadball Team Rebound.",87,72,15,0,0.999873057848924,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+369,2,"2:11",131,131,"Dimencio Vaughn Turnover.",87,72,15,8,0.999873057848924,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+370,2,"2:03",123,123,"Chase Harler made Layup. Assisted by Emmitt Matthews Jr..",89,72,17,18,0.999965124028975,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+371,2,"1:45",105,105,"Frederick Scott made Layup. Assisted by Kimar Williams.",89,74,15,31,0.999947850172717,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+372,2,"1:14",74,74,"Jordan McCabe Turnover.",89,74,15,2,0.999990454965478,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+373,2,"1:12",72,72,"Dimencio Vaughn Steal.",89,74,15,2,0.999990454965478,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+374,2,"1:10",70,70,"Jordan Allen missed Three Point Jumper.",89,74,15,0,0.999990454965478,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+375,2,"1:10",70,70,"Wesley Harris Defensive Rebound.",89,74,15,3,0.999990454965478,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+376,2,"1:07",67,67,"Foul on Devine Eke.",89,74,15,0,0.999988696681381,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+377,2,"1:07",67,67,"Emmitt Matthews Jr. missed Free Throw.",89,74,15,0,0.999988696681381,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+378,2,"1:07",67,67,"West Virginia Deadball Team Rebound.",89,74,15,0,0.999988696681381,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+379,2,"1:07",67,67,"Emmitt Matthews Jr. missed Free Throw.",89,74,15,0,0.999988696681381,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+380,2,"1:07",67,67,"Kimar Williams Defensive Rebound.",89,74,15,5,0.999988696681381,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+381,2,"1:02",62,62,"Kimar Williams missed Jumper.",89,74,15,0,0.999988696681381,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+382,2,"1:02",62,62,"Devine Eke Offensive Rebound.",89,74,15,5,0.999988696681381,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+383,2,"0:57",57,57,"Devine Eke made Layup.",89,76,13,39,0.999994709922839,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+384,2,"0:18",18,18,"Chase Harler made Three Point Jumper. Assisted by Brandon Knapper.",92,76,16,7,0.999999976518824,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+385,2,"0:11",11,11,"Ajiri Ogemuno-Johnson made Layup. Assisted by Jordan Allen.",92,78,14,0,0.999999995355605,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+386,2,"0:11",11,11,"Foul on Emmitt Matthews Jr..",92,78,14,0,0.999999995355605,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+387,2,"0:11",11,11,"Ajiri Ogemuno-Johnson missed Free Throw.",92,78,14,0,0.999999995355605,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+388,2,"0:11",11,11,"Lamont West Defensive Rebound.",92,78,14,11,0.999999995355605,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28
+389,2,"0:00",0,0,"End of Game",92,78,14,0,1,"West Virginia","Rider",2,2,0,0,12,"401083457",2018-11-28

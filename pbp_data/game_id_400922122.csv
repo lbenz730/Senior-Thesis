@@ -1,0 +1,358 @@
+"play_id","half","time_remaining_half","secs_remaining","secs_remaining_absolute","description","home_score","away_score","score_diff","win_prob","home","away","home_time_out_remaining","away_time_out_remaining","home_timeout_ind","away_timeout_ind","home_favored_by","game_id","date"
+1,1,"20:00",2400,2400,"PLAY",0,0,0,0.5,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+2,1,"19:44",2384,2384,"Gilbert Talbot made Jumper.",0,2,-2,0.495602996769325,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+3,1,"19:34",2374,2374,"James Harvey Turnover.",0,2,-2,0.476753744864441,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+4,1,"19:31",2371,2371,"Brandon Ellis Steal.",0,2,-2,0.476753744864441,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+5,1,"19:24",2364,2364,"Jordin Williams Turnover.",0,2,-2,0.492801150425555,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+6,1,"18:58",2338,2338,"LaBarrius Hill missed Layup.",0,2,-2,0.470023074839075,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+7,1,"18:58",2338,2338,"Brian Sylvester Block.",0,2,-2,0.470023074839075,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+8,1,"18:56",2336,2336,"Brian Sylvester Defensive Rebound.",0,2,-2,0.470023074839075,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+9,1,"18:48",2328,2328,"Foul on LaBarrius Hill.",0,2,-2,0.477163756270389,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+10,1,"18:47",2327,2327,"Hayward Register missed Three Point Jumper.",0,2,-2,0.477163756270389,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+11,1,"18:47",2327,2327,"Brian Sylvester Offensive Rebound.",0,2,-2,0.477163756270389,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+12,1,"18:39",2319,2319,"Hayward Register made Layup.",0,4,-4,0.409626034636835,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+13,1,"18:29",2309,2309,"LaBarrius Hill made Jumper. Assisted by Jarren Greenwood.",2,4,-2,0.459371780952129,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+14,1,"18:05",2285,2285,"Jordin Williams missed Three Point Jumper.",2,4,-2,0.457070041443323,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+15,1,"18:05",2285,2285,"Gilbert Talbot Offensive Rebound.",2,4,-2,0.457070041443323,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+16,1,"18:00",2280,2280,"Gilbert Talbot made Layup.",2,6,-4,0.405686960021399,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+17,1,"17:48",2268,2268,"Jarren Greenwood made Jumper.",4,6,-2,0.458108061642548,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+18,1,"17:33",2253,2253,"Foul on James Harvey.",4,6,-2,0.473141818021543,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+19,1,"17:26",2246,2246,"Gilbert Talbot missed Layup.",4,6,-2,0.481735951316136,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+20,1,"17:26",2246,2246,"James Harvey Defensive Rebound.",4,6,-2,0.481735951316136,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+21,1,"17:11",2231,2231,"Jarren Greenwood made Jumper.",6,6,0,0.517609832086555,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+22,1,"17:01",2221,2221,"Brandon Ellis made Jumper. Assisted by Jordin Williams.",6,8,-2,0.467748499316181,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+23,1,"16:52",2212,2212,"Lance Potier made Three Point Jumper. Assisted by Jamaya Burr.",9,8,1,0.560060707068937,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+24,1,"16:20",2180,2180,"Brian Sylvester missed Jumper.",9,8,1,0.544992909230217,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+25,1,"16:20",2180,2180,"James Harvey Defensive Rebound.",9,8,1,0.544992909230217,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+26,1,"15:58",2158,2158,"Lance Potier missed Three Point Jumper.",9,8,1,0.534268526741651,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+27,1,"15:58",2158,2158,"Jordin Williams Defensive Rebound.",9,8,1,0.534268526741651,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+28,1,"15:52",2152,2152,"Foul on Lance Potier.",9,8,1,0.534268526741651,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+29,1,"15:52",2152,2152,"Official TV Timeout",9,8,1,0.534268526741651,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+30,1,"15:45",2145,2145,"Brian Sylvester missed Jumper.",9,8,1,0.548469513384562,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+31,1,"15:45",2145,2145,"Brian Sylvester Offensive Rebound.",9,8,1,0.548469513384562,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+32,1,"15:43",2143,2143,"Brian Sylvester made Layup.",9,10,-1,0.49796265494707,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+33,1,"15:43",2143,2143,"Brian Sylvester missed Free Throw.",9,10,-1,0.49796265494707,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+34,1,"15:43",2143,2143,"Lance Potier Defensive Rebound.",9,10,-1,0.49796265494707,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+35,1,"15:35",2135,2135,"Jarren Greenwood missed Three Point Jumper.",9,10,-1,0.482060298377712,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+36,1,"15:35",2135,2135,"Evan Smith Defensive Rebound.",9,10,-1,0.482060298377712,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+37,1,"15:28",2128,2128,"Matthew Thomas Jr. made Jumper. Assisted by Evan Smith.",9,12,-3,0.422858530446268,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+38,1,"14:53",2093,2093,"Jamaya Burr missed Three Point Jumper.",9,12,-3,0.420378242916589,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+39,1,"14:53",2093,2093,"Matthew Thomas Jr. Defensive Rebound.",9,12,-3,0.420378242916589,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+40,1,"14:47",2087,2087,"Evan Smith missed Layup.",9,12,-3,0.440488942724455,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+41,1,"14:47",2087,2087,"Jamaya Burr Defensive Rebound.",9,12,-3,0.440488942724455,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+42,1,"14:41",2081,2081,"Foul on Brandon Ellis.",9,12,-3,0.440488942724455,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+43,1,"14:41",2081,2081,"Jacob Ledoux made Free Throw.",10,12,-2,0.467733875695046,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+44,1,"14:41",2081,2081,"Jacob Ledoux made Free Throw.",11,12,-1,0.495172584026204,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+45,1,"13:57",2037,2037,"Brandon Moss missed Three Point Jumper.",11,12,-1,0.492870968576358,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+46,1,"13:57",2037,2037,"McNeese Defensive Rebound.",11,12,-1,0.492870968576358,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+47,1,"13:46",2026,2026,"Howard Thomas missed Layup.",11,12,-1,0.472591773302291,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+48,1,"13:46",2026,2026,"Gilbert Talbot Block.",11,12,-1,0.472591773302291,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+49,1,"13:44",2024,2024,"Chris Vickers Defensive Rebound.",11,12,-1,0.472591773302291,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+50,1,"13:38",2018,2018,"Chris Vickers made Layup.",11,14,-3,0.433143132775323,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+51,1,"13:08",1988,1988,"Howard Thomas missed Layup.",11,14,-3,0.411286197591642,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+52,1,"13:08",1988,1988,"Gilbert Talbot Block.",11,14,-3,0.411286197591642,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+53,1,"13:07",1987,1987,"Evan Smith Defensive Rebound.",11,14,-3,0.411286197591642,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+54,1,"13:02",1982,1982,"Brandon Moss missed Layup.",11,14,-3,0.411286197591642,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+55,1,"13:02",1982,1982,"McNeese Defensive Rebound.",11,14,-3,0.411286197591642,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+56,1,"12:56",1976,1976,"Adrian Brown made Layup.",13,14,-1,0.481471996831325,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+57,1,"12:56",1976,1976,"Foul on Gilbert Talbot.",13,14,-1,0.481471996831325,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+58,1,"12:56",1976,1976,"Adrian Brown made Free Throw.",14,14,0,0.513268818772614,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+59,1,"12:26",1946,1946,"Brandon Ellis missed Three Point Jumper.",14,14,0,0.511032082378721,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+60,1,"12:26",1946,1946,"Jacob Ledoux Defensive Rebound.",14,14,0,0.511032082378721,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+61,1,"12:15",1935,1935,"James Harvey missed Three Point Jumper.",14,14,0,0.503487501844829,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+62,1,"12:15",1935,1935,"Brandon Moss Defensive Rebound.",14,14,0,0.503487501844829,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+63,1,"12:06",1926,1926,"Brandon Ellis made Jumper.",14,16,-2,0.436487203388102,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+64,1,"11:48",1908,1908,"Foul on Jamaya Burr.",14,16,-2,0.450589438293892,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+65,1,"11:48",1908,1908,"Jamaya Burr Turnover.",14,16,-2,0.450589438293892,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+66,1,"11:48",1908,1908,"Official TV Timeout",14,16,-2,0.450589438293892,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+67,1,"11:36",1896,1896,"Brian Sylvester made Layup.",14,18,-4,0.38975023943401,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+68,1,"11:36",1896,1896,"Foul on Jamaya Burr.",14,18,-4,0.38975023943401,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+69,1,"11:36",1896,1896,"Brian Sylvester made Free Throw.",14,19,-5,0.358300218054578,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+70,1,"11:22",1882,1882,"Adrian Brown made Jumper.",16,19,-3,0.411521878082293,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+71,1,"11:11",1871,1871,"Hayward Register missed Three Point Jumper.",16,19,-3,0.418070943238361,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+72,1,"11:11",1871,1871,"Jacob Ledoux Defensive Rebound.",16,19,-3,0.418070943238361,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+73,1,"11:06",1866,1866,"Foul on Damian Goodwin.",16,19,-3,0.430570367627481,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+74,1,"10:55",1855,1855,"Jacob Ledoux Turnover.",16,19,-3,0.425344381710338,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+75,1,"10:53",1853,1853,"Brian Sylvester Steal.",16,19,-3,0.425344381710338,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+76,1,"10:41",1841,1841,"Jordin Williams made Three Point Jumper.",16,22,-6,0.315936966539948,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+77,1,"10:30",1830,1830,"Adrian Brown Turnover.",16,22,-6,0.334822276185168,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+78,1,"10:29",1829,1829,"Jordin Williams Steal.",16,22,-6,0.356036229408886,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+79,1,"10:18",1818,1818,"Damian Goodwin made Jumper. Assisted by Brian Sylvester.",16,24,-8,0.260532135664794,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+80,1,"10:02",1802,1802,"Jamaya Burr made Layup.",18,24,-6,0.32252426088463,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+81,1,"9:49",1789,1789,"Foul on James Harvey.",18,24,-6,0.300218674815982,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+82,1,"9:49",1789,1789,"Evan Smith made Free Throw.",18,25,-7,0.271989934705787,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+83,1,"9:49",1789,1789,"Evan Smith made Free Throw.",18,26,-8,0.24548434342831,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+84,1,"9:37",1777,1777,"Jarren Greenwood Turnover.",18,26,-8,0.270905702422321,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+85,1,"9:36",1776,1776,"Javante Walker Steal.",18,26,-8,0.270905702422321,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+86,1,"9:33",1773,1773,"Gilbert Talbot Steal.",18,26,-8,0.270905702422321,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+87,1,"9:30",1770,1770,"Hayward Register missed Three Point Jumper.",18,26,-8,0.270905702422321,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+88,1,"9:30",1770,1770,"Hayward Register Offensive Rebound.",18,26,-8,0.270905702422321,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+89,1,"9:25",1765,1765,"Hayward Register missed Jumper.",18,26,-8,0.272035165888222,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+90,1,"9:25",1765,1765,"Adrian Brown Defensive Rebound.",18,26,-8,0.272035165888222,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+91,1,"9:17",1757,1757,"Adrian Brown made Three Point Jumper. Assisted by Jarren Greenwood.",21,26,-5,0.316015148422408,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+92,1,"8:56",1736,1736,"Hayward Register made Layup. Assisted by Gilbert Talbot.",21,28,-7,0.287290638630409,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+93,1,"8:56",1736,1736,"Foul on James Harvey.",21,28,-7,0.287290638630409,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+94,1,"8:56",1736,1736,"Hayward Register made Free Throw.",21,29,-8,0.26010741803537,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+95,1,"8:46",1726,1726,"Kalob Ledoux made Three Point Jumper.",24,29,-5,0.363576843956641,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+96,1,"8:26",1706,1706,"Hayward Register missed Three Point Jumper.",24,29,-5,0.346958052149891,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+97,1,"8:26",1706,1706,"Chris Vickers Offensive Rebound.",24,29,-5,0.346958052149891,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+98,1,"8:24",1704,1704,"LaBarrius Hill missed Free Throw.",24,29,-5,0.346958052149891,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+99,1,"8:24",1704,1704,"Gilbert Talbot Defensive Rebound.",24,29,-5,0.346958052149891,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+100,1,"8:07",1687,1687,"Adrian Brown missed Jumper.",24,29,-5,0.335653541956351,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+101,1,"8:07",1687,1687,"Hayward Register Defensive Rebound.",24,29,-5,0.335653541956351,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+102,1,"8:01",1681,1681,"Chris Vickers missed Three Point Jumper.",24,29,-5,0.335653541956351,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+103,1,"8:01",1681,1681,"LaBarrius Hill Defensive Rebound.",24,29,-5,0.335653541956351,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+104,1,"7:52",1672,1672,"Jarren Greenwood missed Jumper.",24,29,-5,0.347141045681563,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+105,1,"7:52",1672,1672,"Gilbert Talbot Defensive Rebound.",24,29,-5,0.347141045681563,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+106,1,"7:44",1664,1664,"Brandon Moss made Dunk.",24,31,-7,0.297476175749846,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+107,1,"7:26",1646,1646,"Kalob Ledoux missed Three Point Jumper.",24,31,-7,0.29031592284905,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+108,1,"7:26",1646,1646,"Chris Vickers Defensive Rebound.",24,31,-7,0.29031592284905,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+109,1,"7:24",1644,1644,"Official TV Timeout",24,31,-7,0.29031592284905,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+110,1,"7:02",1622,1622,"Brian Sylvester made Jumper. Assisted by Gilbert Talbot.",24,33,-9,0.222969419372034,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+111,1,"6:37",1597,1597,"Lance Potier missed Three Point Jumper.",24,33,-9,0.250950045677188,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+112,1,"6:37",1597,1597,"Gilbert Talbot Defensive Rebound.",24,33,-9,0.250950045677188,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+113,1,"6:34",1594,1594,"Foul on Richard Laku.",24,33,-9,0.250950045677188,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+114,1,"6:34",1594,1594,"Gilbert Talbot made Free Throw.",24,34,-10,0.226427037670807,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+115,1,"6:34",1594,1594,"Gilbert Talbot made Free Throw.",24,35,-11,0.203648908942033,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+116,1,"6:11",1571,1571,"Lance Potier made Jumper. Assisted by Jamaya Burr.",26,35,-9,0.209768999417684,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+117,1,"5:57",1557,1557,"Foul on Jamaya Burr.",26,35,-9,0.218803990180004,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+118,1,"5:57",1557,1557,"Matthew Thomas Jr. missed Free Throw.",26,35,-9,0.218803990180004,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+119,1,"5:57",1557,1557,"Matthew Thomas Jr. made Free Throw.",26,36,-10,0.195254237083756,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+120,1,"5:43",1543,1543,"Jarren Greenwood missed Three Point Jumper.",26,36,-10,0.209337513963349,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+121,1,"5:43",1543,1543,"Gilbert Talbot Defensive Rebound.",26,36,-10,0.209337513963349,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+122,1,"5:34",1534,1534,"Jordin Williams missed Three Point Jumper.",26,36,-10,0.208686995995708,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+123,1,"5:34",1534,1534,"Lance Potier Defensive Rebound.",26,36,-10,0.208686995995708,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+124,1,"5:26",1526,1526,"Jamaya Burr missed Layup.",26,36,-10,0.203311001443719,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+125,1,"5:26",1526,1526,"Brian Sylvester Block.",26,36,-10,0.203311001443719,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+126,1,"5:26",1526,1526,"McNeese Offensive Rebound.",26,36,-10,0.203311001443719,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+127,1,"5:21",1521,1521,"LaBarrius Hill Turnover.",26,36,-10,0.203311001443719,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+128,1,"5:20",1520,1520,"Matthew Thomas Jr. Steal.",26,36,-10,0.203311001443719,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+129,1,"5:18",1518,1518,"Evan Smith missed Layup.",26,36,-10,0.197310391240306,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+130,1,"5:18",1518,1518,"Lance Potier Defensive Rebound.",26,36,-10,0.197310391240306,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+131,1,"5:12",1512,1512,"LaBarrius Hill made Layup.",28,36,-8,0.250067037924674,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+132,1,"4:41",1481,1481,"Brandon Moss made Dunk. Assisted by Matthew Thomas Jr..",28,38,-10,0.183827758563083,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+133,1,"4:31",1471,1471,"Lance Potier made Jumper. Assisted by Jamaya Burr.",30,38,-8,0.232791391509619,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+134,1,"4:08",1448,1448,"Brandon Ellis missed Three Point Jumper.",30,38,-8,0.256113971325617,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+135,1,"4:08",1448,1448,"Jamaya Burr Defensive Rebound.",30,38,-8,0.256113971325617,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+136,1,"4:01",1441,1441,"Foul on Damian Goodwin.",30,38,-8,0.256113971325617,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+137,1,"4:01",1441,1441,"Jamaya Burr made Free Throw.",31,38,-7,0.286162562270464,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+138,1,"4:01",1441,1441,"Jamaya Burr missed Free Throw.",31,38,-7,0.286162562270464,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+139,1,"4:01",1441,1441,"Chris Vickers Defensive Rebound.",31,38,-7,0.286162562270464,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+140,1,"3:50",1430,1430,"Damian Goodwin missed Layup.",31,38,-7,0.281862163201435,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+141,1,"3:50",1430,1430,"Chris Vickers Offensive Rebound.",31,38,-7,0.281862163201435,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+142,1,"3:47",1427,1427,"Chris Vickers missed Layup.",31,38,-7,0.270962127286627,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+143,1,"3:47",1427,1427,"Richard Laku Defensive Rebound.",31,38,-7,0.270962127286627,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+144,1,"3:47",1427,1427,"Foul on Evan Smith.",31,38,-7,0.270962127286627,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+145,1,"3:47",1427,1427,"Official TV Timeout",31,38,-7,0.270962127286627,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+146,1,"3:21",1401,1401,"Jarren Greenwood missed Jumper.",31,38,-7,0.274198849421895,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+147,1,"3:21",1401,1401,"Evan Smith Defensive Rebound.",31,38,-7,0.274198849421895,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+148,1,"2:57",1377,1377,"Hayward Register missed Jumper.",31,38,-7,0.265552891053459,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+149,1,"2:57",1377,1377,"Gilbert Talbot Offensive Rebound.",31,38,-7,0.265552891053459,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+150,1,"2:45",1365,1365,"Brandon Ellis missed Three Point Jumper.",31,38,-7,0.265609037486068,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+151,1,"2:45",1365,1365,"Chris Vickers Offensive Rebound.",31,38,-7,0.265609037486068,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+152,1,"2:34",1354,1354,"Jarren Greenwood missed Jumper.",31,38,-7,0.275341110652658,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+153,1,"2:34",1354,1354,"Brian Sylvester Defensive Rebound.",31,38,-7,0.275341110652658,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+154,1,"2:17",1337,1337,"Brian Sylvester made Jumper.",31,40,-9,0.198031678481658,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+155,1,"2:01",1321,1321,"Jamaya Burr missed Three Point Jumper.",31,40,-9,0.202761953919684,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+156,1,"2:01",1321,1321,"Evan Smith Defensive Rebound.",31,40,-9,0.202761953919684,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+157,1,"1:54",1314,1314,"Gilbert Talbot missed Layup.",31,40,-9,0.216267721409643,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+158,1,"1:54",1314,1314,"Lance Potier Defensive Rebound.",31,40,-9,0.216267721409643,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+159,1,"1:47",1307,1307,"Jarren Greenwood made Dunk. Assisted by Jamaya Burr.",33,40,-7,0.27987259535723,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+160,1,"1:19",1279,1279,"Foul on Jacob Ledoux.",33,40,-7,0.256453381871504,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+161,1,"1:19",1279,1279,"Gilbert Talbot made Free Throw.",33,41,-8,0.228936960593171,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+162,1,"1:19",1279,1279,"Gilbert Talbot made Free Throw.",33,42,-9,0.203564646670725,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+163,1,"1:00",1260,1260,"Jacob Ledoux made Jumper.",35,42,-7,0.271117216346304,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+164,1,"0:27",1227,1227,"Jordin Williams missed Jumper.",35,42,-7,0.249545700004641,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+165,1,"0:27",1227,1227,"Lance Potier Defensive Rebound.",35,42,-7,0.249545700004641,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+166,1,"0:00",1200,1200,"Howard Thomas made Layup. Assisted by Jacob Ledoux.",37,42,-5,0.321524795539272,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+167,1,"0:00",1200,1200,"Foul on Brian Sylvester.",37,42,-5,0.321524795539272,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+168,1,"0:00",1200,1200,"Howard Thomas made Free Throw.",38,42,-4,0.357203463759226,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+169,1,"0:00",1200,1200,"End of 1st half",38,42,-4,0.357203463759226,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+170,2,"20:00",1200,1200,"PLAY",38,42,-4,0.357203463759226,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+171,2,"19:32",1172,1172,"Gilbert Talbot missed Jumper.",38,42,-4,0.355508969917097,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+172,2,"19:32",1172,1172,"Lance Potier Defensive Rebound.",38,42,-4,0.355508969917097,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+173,2,"19:07",1147,1147,"Jamaya Burr missed Three Point Jumper.",38,42,-4,0.350093320499285,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+174,2,"19:07",1147,1147,"Hayward Register Defensive Rebound.",38,42,-4,0.350093320499285,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+175,2,"18:59",1139,1139,"Jordin Williams missed Three Point Jumper.",38,42,-4,0.359616138632416,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+176,2,"18:59",1139,1139,"LaBarrius Hill Defensive Rebound.",38,42,-4,0.359616138632416,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+177,2,"18:52",1132,1132,"LaBarrius Hill Turnover.",38,42,-4,0.359616138632416,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+178,2,"18:51",1131,1131,"Hayward Register Steal.",38,42,-4,0.359616138632416,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+179,2,"18:51",1131,1131,"Foul on Lance Potier.",38,42,-4,0.359616138632416,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+180,2,"18:51",1131,1131,"Brian Sylvester missed Free Throw.",38,42,-4,0.359616138632416,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+181,2,"18:51",1131,1131,"LSU-Alexandria Deadball Team Rebound.",38,42,-4,0.359616138632416,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+182,2,"18:51",1131,1131,"Brian Sylvester missed Free Throw.",38,42,-4,0.359616138632416,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+183,2,"18:51",1131,1131,"James Harvey Defensive Rebound.",38,42,-4,0.359616138632416,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+184,2,"18:31",1111,1111,"Foul on Brandon Ellis.",38,42,-4,0.353882924140126,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+185,2,"18:24",1104,1104,"LaBarrius Hill made Jumper. Assisted by Lance Potier.",40,42,-2,0.430629835279222,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+186,2,"18:04",1084,1084,"Brian Sylvester made Jumper.",40,44,-4,0.336894328911317,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+187,2,"17:56",1076,1076,"Jarren Greenwood missed Layup.",40,44,-4,0.363084147271446,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+188,2,"17:56",1076,1076,"Jarren Greenwood Offensive Rebound.",40,44,-4,0.363084147271446,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+189,2,"17:48",1068,1068,"Foul on Hayward Register.",40,44,-4,0.365458657972628,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+190,2,"17:43",1063,1063,"Lance Potier missed Layup.",40,44,-4,0.365458657972628,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+191,2,"17:43",1063,1063,"Brandon Moss Block.",40,44,-4,0.365458657972628,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+192,2,"17:43",1063,1063,"McNeese Offensive Rebound.",40,44,-4,0.365458657972628,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+193,2,"17:39",1059,1059,"Foul on Brandon Ellis.",40,44,-4,0.348075068577371,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+194,2,"17:39",1059,1059,"Jarren Greenwood made Free Throw.",41,44,-3,0.389980931176294,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+195,2,"17:39",1059,1059,"Jarren Greenwood made Free Throw.",42,44,-2,0.433576569242801,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+196,2,"17:27",1047,1047,"Brandon Moss missed Jumper.",42,44,-2,0.444045389379011,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+197,2,"17:27",1047,1047,"LaBarrius Hill Defensive Rebound.",42,44,-2,0.444045389379011,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+198,2,"17:12",1032,1032,"Jamaya Burr made Layup.",44,44,0,0.507102857919627,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+199,2,"17:05",1025,1025,"Foul on LaBarrius Hill.",44,44,0,0.523287754900863,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+200,2,"17:05",1025,1025,"Brandon Moss made Free Throw.",44,45,-1,0.478482245818187,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+201,2,"17:05",1025,1025,"Brandon Moss made Free Throw.",44,46,-2,0.434020304060468,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+202,2,"17:01",1021,1021,"James Harvey missed Three Point Jumper.",44,46,-2,0.434020304060468,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+203,2,"17:01",1021,1021,"LaBarrius Hill Offensive Rebound.",44,46,-2,0.434020304060468,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+204,2,"16:56",1016,1016,"LaBarrius Hill made Jumper.",46,46,0,0.489414571577248,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+205,2,"16:35",995,995,"Brian Sylvester made Three Point Jumper.",46,49,-3,0.368918625829629,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+206,2,"16:12",972,972,"LaBarrius Hill made Dunk. Assisted by Jamaya Burr.",48,49,-1,0.478932840730135,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+207,2,"15:43",943,943,"Brandon Moss missed Jumper.",48,49,-1,0.483742789175177,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+208,2,"15:43",943,943,"Lance Potier Defensive Rebound.",48,49,-1,0.483742789175177,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+209,2,"15:34",934,934,"Jamaya Burr missed Layup.",48,49,-1,0.465822939024148,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+210,2,"15:34",934,934,"Brandon Ellis Defensive Rebound.",48,49,-1,0.465822939024148,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+211,2,"15:28",928,928,"Hayward Register missed Three Point Jumper.",48,49,-1,0.442847824485219,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+212,2,"15:28",928,928,"Jordin Williams Offensive Rebound.",48,49,-1,0.442847824485219,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+213,2,"15:20",920,920,"Brandon Ellis made Jumper.",48,51,-3,0.350563827407337,"McNeese","LSU Alexandria",4,4,0,0,NA,400922122,2016-11-26
+214,2,"15:08",908,908,"McNeese  Timeout",48,51,-3,0.373344214727552,"McNeese","LSU Alexandria",3,4,1,0,NA,400922122,2016-11-26
+215,2,"14:49",889,889,"James Harvey made Three Point Jumper. Assisted by Jarren Greenwood.",51,51,0,0.507595452806939,"McNeese","LSU Alexandria",3,4,1,0,NA,400922122,2016-11-26
+216,2,"14:33",873,873,"Foul on Gilbert Talbot.",51,51,0,0.518450460503517,"McNeese","LSU Alexandria",3,4,1,0,NA,400922122,2016-11-26
+217,2,"14:33",873,873,"Gilbert Talbot Turnover.",51,51,0,0.518450460503517,"McNeese","LSU Alexandria",3,4,1,0,NA,400922122,2016-11-26
+218,2,"14:33",873,873,"Official TV Timeout",51,51,0,0.518450460503517,"McNeese","LSU Alexandria",3,4,1,0,NA,400922122,2016-11-26
+219,2,"14:11",851,851,"Jarren Greenwood made Layup.",53,51,2,0.630276596962855,"McNeese","LSU Alexandria",3,4,1,0,NA,400922122,2016-11-26
+220,2,"14:11",851,851,"Foul on Brian Sylvester.",53,51,2,0.630276596962855,"McNeese","LSU Alexandria",3,4,1,0,NA,400922122,2016-11-26
+221,2,"14:11",851,851,"Jarren Greenwood made Free Throw.",54,51,3,0.676673201112006,"McNeese","LSU Alexandria",3,4,1,0,NA,400922122,2016-11-26
+222,2,"13:48",828,828,"Evan Smith Turnover.",54,51,3,0.648134309870284,"McNeese","LSU Alexandria",3,4,1,0,NA,400922122,2016-11-26
+223,2,"13:48",828,828,"Jarren Greenwood Steal.",54,51,3,0.648134309870284,"McNeese","LSU Alexandria",3,4,1,0,NA,400922122,2016-11-26
+224,2,"13:48",828,828,"McNeese  Timeout",54,51,3,0.648134309870284,"McNeese","LSU Alexandria",2,4,1,0,NA,400922122,2016-11-26
+225,2,"13:35",815,815,"Kalob Ledoux made Layup.",56,51,5,0.722201924781463,"McNeese","LSU Alexandria",2,4,1,0,NA,400922122,2016-11-26
+226,2,"13:12",792,792,"Gilbert Talbot made Jumper.",56,53,3,0.665518474879858,"McNeese","LSU Alexandria",2,4,1,0,NA,400922122,2016-11-26
+227,2,"12:56",776,776,"Foul on Gilbert Talbot.",56,53,3,0.665909744411017,"McNeese","LSU Alexandria",2,4,1,0,NA,400922122,2016-11-26
+228,2,"12:50",770,770,"James Harvey missed Three Point Jumper.",56,53,3,0.665909744411017,"McNeese","LSU Alexandria",2,4,1,0,NA,400922122,2016-11-26
+229,2,"12:50",770,770,"Brandon Moss Defensive Rebound.",56,53,3,0.665909744411017,"McNeese","LSU Alexandria",2,4,1,0,NA,400922122,2016-11-26
+230,2,"12:39",759,759,"Brandon Moss missed Layup.",56,53,3,0.666596932794879,"McNeese","LSU Alexandria",2,4,0,0,NA,400922122,2016-11-26
+231,2,"12:39",759,759,"Adrian Brown Block.",56,53,3,0.666596932794879,"McNeese","LSU Alexandria",2,4,0,0,NA,400922122,2016-11-26
+232,2,"12:36",756,756,"James Harvey Defensive Rebound.",56,53,3,0.666596932794879,"McNeese","LSU Alexandria",2,4,0,0,NA,400922122,2016-11-26
+233,2,"12:33",753,753,"James Harvey made Layup.",58,53,5,0.755337549377184,"McNeese","LSU Alexandria",2,4,0,0,NA,400922122,2016-11-26
+234,2,"12:16",736,736,"Chris Vickers Turnover.",58,53,5,0.761818177265978,"McNeese","LSU Alexandria",2,4,0,1,NA,400922122,2016-11-26
+235,2,"12:16",736,736,"LSU-Alexandria  Timeout",58,53,5,0.761818177265978,"McNeese","LSU Alexandria",2,3,0,1,NA,400922122,2016-11-26
+236,2,"11:46",706,706,"Jamaya Burr missed Three Point Jumper.",58,53,5,0.765649561985316,"McNeese","LSU Alexandria",2,3,0,1,NA,400922122,2016-11-26
+237,2,"11:46",706,706,"Adrian Brown Offensive Rebound.",58,53,5,0.765649561985316,"McNeese","LSU Alexandria",2,3,0,1,NA,400922122,2016-11-26
+238,2,"11:43",703,703,"Foul on Gilbert Talbot.",58,53,5,0.765649561985316,"McNeese","LSU Alexandria",2,3,0,1,NA,400922122,2016-11-26
+239,2,"11:43",703,703,"Foul on Gilbert Talbot.",58,53,5,0.765649561985316,"McNeese","LSU Alexandria",2,3,0,1,NA,400922122,2016-11-26
+240,2,"11:43",703,703,"Foul on Adrian Brown.",58,53,5,0.765649561985316,"McNeese","LSU Alexandria",2,3,0,1,NA,400922122,2016-11-26
+241,2,"11:43",703,703,"Technical Foul on Donovan Thomas.",58,53,5,0.765649561985316,"McNeese","LSU Alexandria",2,3,0,1,NA,400922122,2016-11-26
+242,2,"11:43",703,703,"Foul on James Harvey.",58,53,5,0.765649561985316,"McNeese","LSU Alexandria",2,3,0,1,NA,400922122,2016-11-26
+243,2,"11:43",703,703,"Technical Foul on Evan Smith.",58,53,5,0.765649561985316,"McNeese","LSU Alexandria",2,3,0,1,NA,400922122,2016-11-26
+244,2,"11:43",703,703,"Adrian Brown made Free Throw.",59,53,6,0.801643662366696,"McNeese","LSU Alexandria",2,3,0,1,NA,400922122,2016-11-26
+245,2,"11:43",703,703,"Adrian Brown made Free Throw.",60,53,7,0.83331295818624,"McNeese","LSU Alexandria",2,3,0,1,NA,400922122,2016-11-26
+246,2,"11:43",703,703,"Foul on Gilbert Talbot.",60,53,7,0.83331295818624,"McNeese","LSU Alexandria",2,3,0,1,NA,400922122,2016-11-26
+247,2,"11:43",703,703,"Chris Vickers made Free Throw.",60,54,6,0.801643662366696,"McNeese","LSU Alexandria",2,3,0,1,NA,400922122,2016-11-26
+248,2,"11:43",703,703,"Chris Vickers made Free Throw.",60,55,5,0.765649561985316,"McNeese","LSU Alexandria",2,3,0,1,NA,400922122,2016-11-26
+249,2,"11:30",690,690,"Evan Smith missed Layup.",60,55,5,0.774917656018046,"McNeese","LSU Alexandria",2,3,0,1,NA,400922122,2016-11-26
+250,2,"11:30",690,690,"Adrian Brown Block.",60,55,5,0.774917656018046,"McNeese","LSU Alexandria",2,3,0,1,NA,400922122,2016-11-26
+251,2,"11:27",687,687,"Adrian Brown Defensive Rebound.",60,55,5,0.757249566924878,"McNeese","LSU Alexandria",2,3,0,1,NA,400922122,2016-11-26
+252,2,"11:11",671,671,"Adrian Brown Turnover.",60,55,5,0.765139002269441,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+253,2,"11:09",669,669,"Matthew Thomas Jr. Steal.",60,55,5,0.781457741758309,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+254,2,"11:02",662,662,"Chris Vickers made Three Point Jumper. Assisted by Matthew Thomas Jr..",60,58,2,0.644640336321599,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+255,2,"10:31",631,631,"Jarren Greenwood missed Jumper.",60,58,2,0.62855300896274,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+256,2,"10:31",631,631,"Brandon Moss Defensive Rebound.",60,58,2,0.62855300896274,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+257,2,"10:03",603,603,"Evan Smith missed Three Point Jumper.",60,58,2,0.636392215968877,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+258,2,"10:03",603,603,"Lance Potier Defensive Rebound.",60,58,2,0.636392215968877,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+259,2,"10:02",602,602,"Foul on Brandon Moss.",60,58,2,0.636392215968877,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+260,2,"10:02",602,602,"Lance Potier missed Free Throw.",60,58,2,0.636392215968877,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+261,2,"10:02",602,602,"Chris Vickers Defensive Rebound.",60,58,2,0.636392215968877,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+262,2,"9:42",582,582,"Evan Smith Turnover.",60,58,2,0.629568879853175,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+263,2,"9:24",564,564,"Kalob Ledoux made Three Point Jumper.",63,58,5,0.799877474673858,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+264,2,"9:06",546,546,"Damian Goodwin missed Layup.",63,58,5,0.791475732838382,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+265,2,"9:06",546,546,"Kalob Ledoux Defensive Rebound.",63,58,5,0.791475732838382,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+266,2,"8:59",539,539,"Kalob Ledoux Turnover.",63,58,5,0.828307625587047,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+267,2,"8:59",539,539,"Foul on Kalob Ledoux.",63,58,5,0.828307625587047,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+268,2,"8:37",517,517,"Brian Sylvester missed Jumper.",63,58,5,0.803922380105464,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+269,2,"8:37",517,517,"Brandon Moss Offensive Rebound.",63,58,5,0.803922380105464,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+270,2,"8:33",513,513,"Brandon Moss made Layup.",63,60,3,0.704726841373281,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+271,2,"8:09",489,489,"James Harvey made Layup.",65,60,5,0.807756905878013,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+272,2,"7:45",465,465,"Brian Sylvester missed Layup.",65,60,5,0.809109016307349,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+273,2,"7:45",465,465,"Brandon Moss Offensive Rebound.",65,60,5,0.809109016307349,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+274,2,"7:40",460,460,"Brandon Moss missed Layup.",65,60,5,0.809109016307349,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+275,2,"7:40",460,460,"Brandon Moss Offensive Rebound.",65,60,5,0.809109016307349,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+276,2,"7:35",455,455,"LaBarrius Hill Defensive Rebound.",65,60,5,0.835242090720123,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+277,2,"7:32",452,452,"Jarren Greenwood missed Layup.",65,60,5,0.835242090720123,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+278,2,"7:32",452,452,"Jarren Greenwood Offensive Rebound.",65,60,5,0.835242090720123,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+279,2,"7:30",450,450,"Foul on Brian Sylvester.",65,60,5,0.835242090720123,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+280,2,"7:30",450,450,"Official TV Timeout",65,60,5,0.835242090720123,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+281,2,"7:30",450,450,"Jarren Greenwood missed Free Throw.",65,60,5,0.835242090720123,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+282,2,"7:30",450,450,"McNeese Deadball Team Rebound.",65,60,5,0.835242090720123,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+283,2,"7:30",450,450,"Jarren Greenwood made Free Throw.",66,60,6,0.874383090457854,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+284,2,"7:19",439,439,"Brandon Moss Turnover.",66,60,6,0.875499328460762,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+285,2,"7:18",438,438,"Jarren Greenwood Steal.",66,60,6,0.875499328460762,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+286,2,"7:01",421,421,"Lance Potier Turnover.",66,60,6,0.857195486487981,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+287,2,"6:36",396,396,"Jordin Williams made Layup.",66,62,4,0.797171789866377,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+288,2,"6:29",389,389,"Jarren Greenwood Turnover.",66,62,4,0.776794773407128,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+289,2,"6:28",388,388,"Brian Sylvester Steal.",66,62,4,0.776794773407128,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+290,2,"6:21",381,381,"Brian Sylvester missed Jumper.",66,62,4,0.776794773407128,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+291,2,"6:21",381,381,"Jarren Greenwood Defensive Rebound.",66,62,4,0.776794773407128,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+292,2,"5:55",355,355,"Foul on Jordin Williams.",66,62,4,0.777188741052269,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+293,2,"5:55",355,355,"Jarren Greenwood made Free Throw.",67,62,5,0.830563917856205,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+294,2,"5:55",355,355,"Jarren Greenwood made Free Throw.",68,62,6,0.873238358702257,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+295,2,"5:47",347,347,"Foul on LaBarrius Hill.",68,62,6,0.872869967263557,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+296,2,"5:37",337,337,"Hayward Register missed Three Point Jumper.",68,62,6,0.90399625514026,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+297,2,"5:37",337,337,"Kalob Ledoux Defensive Rebound.",68,62,6,0.90399625514026,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+298,2,"5:16",316,316,"Kalob Ledoux made Jumper.",70,62,8,0.953604787442023,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+299,2,"5:06",306,306,"Hayward Register missed Layup.",70,62,8,0.942098067093988,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+300,2,"5:06",306,306,"LaBarrius Hill Block.",70,62,8,0.942098067093988,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+301,2,"5:06",306,306,"McNeese Defensive Rebound.",70,62,8,0.942098067093988,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+302,2,"4:42",282,282,"LaBarrius Hill missed Jumper.",70,62,8,0.944161234846263,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+303,2,"4:42",282,282,"Evan Smith Defensive Rebound.",70,62,8,0.944161234846263,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+304,2,"4:29",269,269,"Brandon Ellis missed Three Point Jumper.",70,62,8,0.955130485867494,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+305,2,"4:29",269,269,"LaBarrius Hill Defensive Rebound.",70,62,8,0.955130485867494,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+306,2,"4:06",246,246,"James Harvey missed Layup.",70,62,8,0.963485388462355,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+307,2,"4:06",246,246,"Brian Sylvester Block.",70,62,8,0.963485388462355,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+308,2,"4:04",244,244,"Evan Smith Defensive Rebound.",70,62,8,0.963485388462355,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+309,2,"4:00",240,240,"Brandon Moss made Dunk. Assisted by Brian Sylvester.",70,64,6,0.921571712506854,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+310,2,"3:50",230,230,"Jacob Ledoux Turnover.",70,64,6,0.926890546711518,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+311,2,"3:31",211,211,"Foul on LaBarrius Hill.",70,64,6,0.93334168681392,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+312,2,"3:31",211,211,"Brandon Moss made Free Throw.",70,65,5,0.900239938628869,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+313,2,"3:31",211,211,"Brandon Moss made Free Throw.",70,66,4,0.853284192832792,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+314,2,"3:00",180,180,"Kalob Ledoux missed Three Point Jumper.",70,66,4,0.871918045059517,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+315,2,"3:00",180,180,"Matthew Thomas Jr. Defensive Rebound.",70,66,4,0.871918045059517,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+316,2,"2:54",174,174,"Brian Sylvester Turnover.",70,66,4,0.892284983091715,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+317,2,"2:41",161,161,"Foul on Jordin Williams.",70,66,4,0.89617666814829,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+318,2,"2:41",161,161,"Kalob Ledoux made Free Throw.",71,66,5,0.935187751752901,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+319,2,"2:41",161,161,"Kalob Ledoux missed Free Throw.",71,66,5,0.935187751752901,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+320,2,"2:41",161,161,"Brandon Moss Defensive Rebound.",71,66,5,0.935187751752901,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+321,2,"2:31",151,151,"Foul on Adrian Brown.",71,66,5,0.943064241229727,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+322,2,"2:31",151,151,"Brian Sylvester made Free Throw.",71,67,4,0.906083023236075,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+323,2,"2:31",151,151,"Brian Sylvester made Free Throw.",71,68,3,0.848929398114651,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+324,2,"2:23",143,143,"Lance Potier missed Layup.",71,68,3,0.811975969504393,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+325,2,"2:23",143,143,"Brandon Moss Defensive Rebound.",71,68,3,0.811975969504393,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+326,2,"2:16",136,136,"Brandon Moss made Layup.",71,70,1,0.686924106704741,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+327,2,"1:46",106,106,"Lance Potier Turnover.",71,70,1,0.626718553390664,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+328,2,"1:27",87,87,"Chris Vickers missed Three Point Jumper.",71,70,1,0.709624533249609,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+329,2,"1:27",87,87,"Evan Smith Offensive Rebound.",71,70,1,0.709624533249609,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+330,2,"1:20",80,80,"Brandon Moss Turnover.",71,70,1,0.709624533249609,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+331,2,"1:18",78,78,"James Harvey Steal.",71,70,1,0.659746454592665,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+332,2,"1:15",75,75,"Foul on Chris Vickers.",71,70,1,0.659746454592665,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+333,2,"1:15",75,75,"Kalob Ledoux made Free Throw.",72,70,2,0.801733591113591,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+334,2,"1:15",75,75,"Kalob Ledoux made Free Throw.",73,70,3,0.893990359411676,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+335,2,"0:51",51,51,"Brandon Moss Turnover.",73,70,3,0.943132037556721,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+336,2,"0:50",50,50,"Kalob Ledoux Steal.",73,70,3,0.943132037556721,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+337,2,"0:48",48,48,"Foul on Brian Sylvester.",73,70,3,0.948581036450211,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+338,2,"0:48",48,48,"Jarren Greenwood made Free Throw.",74,70,4,0.9795013632328,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+339,2,"0:48",48,48,"Jarren Greenwood made Free Throw.",75,70,5,0.991985136048554,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+340,2,"0:41",41,41,"Foul on Kalob Ledoux.",75,70,5,0.991851999611509,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+341,2,"0:41",41,41,"Brandon Moss made Free Throw.",75,71,4,0.978139235912127,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+342,2,"0:41",41,41,"Brandon Moss made Free Throw.",75,72,3,0.942682082905607,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+343,2,"0:23",23,23,"Foul on Matthew Thomas Jr..",75,72,3,0.988218677729066,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+344,2,"0:23",23,23,"Jarren Greenwood made Free Throw.",76,72,4,0.996485957006655,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+345,2,"0:23",23,23,"Jarren Greenwood made Free Throw.",77,72,5,0.998957975293605,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+346,2,"0:15",15,15,"Jordin Williams missed Three Point Jumper.",77,72,5,0.999078083261759,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+347,2,"0:15",15,15,"Jarren Greenwood Defensive Rebound.",77,72,5,0.999078083261759,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+348,2,"0:06",6,6,"Foul on Hayward Register.",77,72,5,0.999840128029491,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+349,2,"0:06",6,6,"Lance Potier made Free Throw.",78,72,6,0.99996826960022,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+350,2,"0:06",6,6,"Lance Potier made Free Throw.",79,72,7,0.999993702993389,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+351,2,"0:02",2,2,"Brandon Ellis made Three Point Jumper.",79,75,4,0.997816163191826,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+352,2,"0:02",2,2,"Foul on Brandon Ellis.",79,75,4,0.997816163191826,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+353,2,"0:02",2,2,"Jarren Greenwood missed Free Throw.",79,75,4,0.997816163191826,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+354,2,"0:02",2,2,"McNeese Deadball Team Rebound.",79,75,4,0.997816163191826,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+355,2,"0:02",2,2,"Jarren Greenwood made Free Throw.",80,75,5,0.999609366948071,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+356,2,"0:00",0,0,"Brandon Moss made Three Point Jumper. Assisted by Jordin Williams.",80,78,2,1,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
+357,2,"0:00",0,0,"End of Game",80,78,2,1,"McNeese","LSU Alexandria",2,3,0,0,NA,400922122,2016-11-26
