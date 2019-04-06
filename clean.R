@@ -10,7 +10,7 @@
 ###   examine everything from the perspective of the home team. While 
 ###   home court advantage is implict in the favored_by column, we need to be
 ###   careful to ensure that we are not conflating important effects with 
-###   simplying being the home team.
+###   simply being the home team.
 
 library(dplyr)
 library(readr)

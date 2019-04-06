@@ -3,7 +3,6 @@
 
 library(dplyr)
 library(readr)
-library(ggplot2)
 
 ### Loss Functions
 log_loss <- function(x, y) {
