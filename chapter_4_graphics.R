@@ -1,4 +1,4 @@
-### Figure 3.1
+### Figure 4.1
 load("train_runs.rda")
 library(forcats)
 library(dplyr)
@@ -39,7 +39,7 @@ ggplot(non_tv, aes(x = as.factor(abs(run_interval)), y = score_run)) +
   scale_fill_manual(values = gg_color_hue(2), labels = c("Before Timeout", "After Timeout"))
 
 
-### Table 3.1
+### Table 4.1
 library(knitr)
 library(kableExtra)
 y <- group_by(non_tv, run_interval) %>%
@@ -59,13 +59,13 @@ cbind(round(y[1:5, 1:3], 2), round(y[10:6, 2:3],2))[5:1,c(1,2,4,3,5)] %>%
          "Post-Timeout Average Net Score Differential" = mean.1,
          "Pre-Timeout Net Score Differential Variance" = var,
          "Post-Timeout Net Score Differentual Variance" = var.1) %>%
-  kable(caption = "\\label{tab:3.1} Pre and Post Non-Media Timeout Summary Statistics", 
+  kable(caption = "\\label{tab:4.1} Pre and Post Non-Media Timeout Summary Statistics", 
         "latex",
         booktabs = T,
         row.names = F, align = "ccccc") %>%
   column_spec(2:5, width = "3cm")
 
-### Figure 3.2
+### Figure 4.2
 ggplot(tv, aes(x = as.factor(abs(run_interval)), y = score_run)) +
   geom_boxplot(aes(fill = run_interval > 0))  +
   theme_bw() +
@@ -80,7 +80,7 @@ ggplot(tv, aes(x = as.factor(abs(run_interval)), y = score_run)) +
        subtitle = "Media Timeouts") +
   scale_fill_manual(values = gg_color_hue(2), labels = c("Before Timeout", "After Timeout"))
 
-### Table 3.2
+### Table 4.2
 y <- group_by(tv, run_interval) %>%
   summarise("mean" = mean(score_run),
             "var" = var(score_run)) %>%
@@ -98,13 +98,13 @@ cbind(round(y[1:5, 1:3], 2), round(y[10:6, 2:3],2))[5:1,c(1,2,4,3,5)] %>%
          "Post-Timeout Average Net Score Differential" = mean.1,
          "Pre-Timeout Net Score Differential Variance" = var,
          "Post-Timeout Net Score Differentual Variance" = var.1) %>%
-  kable(caption = "\\label{tab:3.2} Pre and Post Media Timeout Summary Statistics (Home Team Perspective)", 
+  kable(caption = "\\label{tab:4.2} Pre and Post Media Timeout Summary Statistics (Home Team Perspective)", 
         "latex",
         booktabs = T,
         row.names = F, align = "ccccc") %>%
   column_spec(2:5, width = "3cm")
 
-### Figure 3.3
+### Figure 4.3
 pre_post_pairs <- inner_join(non_tv, 
                              select(non_tv, game_id, play_id, score_run, run_interval),
                              by = c("game_id", "play_id"),
@@ -131,7 +131,7 @@ ggplot(pre_post_pairs, aes(x = score_run_post - score_run_pre, y = ..density..))
   scale_x_continuous(limits = c(-35, 35), breaks = seq(-20, 20, 20)) +
   scale_y_continuous(limits = c(0, 0.12), breaks = seq(0, 0.12, 0.03))
 
-### Figure 3.4
+### Figure 4.4
 pre_post_pairs_tv <- inner_join(tv, 
                                 select(tv, game_id, play_id, score_run, run_interval),
                                 by = c("game_id", "play_id"),
@@ -158,7 +158,7 @@ ggplot(pre_post_pairs_tv, aes(x = score_run_post - score_run_pre, y = ..density.
   scale_x_continuous(limits = c(-35, 35), breaks = seq(-20, 20, 20)) +
   scale_y_continuous(limits = c(0, 0.12), breaks = seq(0, 0.12, 0.03))
 
-### Table 3.3
+### Table 4.3
 cbind(group_by(pre_post_pairs, run_interval_pre, run_interval_post) %>%
         summarise("non_media_delta" = round(mean(score_run_post - score_run_pre),2)) %>%
         ungroup() %>%
@@ -174,13 +174,13 @@ cbind(group_by(pre_post_pairs, run_interval_pre, run_interval_post) %>%
          "Post-Timeout Interval" = run_interval_post,
          "Mean Improvement (Non-Media Timeouts)" = non_media_delta,
          "Mean Improvement (Media Timeouts)" = media_delta) %>%
-  kable(caption = "\\label{tab:3.3} Summary Table of Post Timeout Improvement", 
+  kable(caption = "\\label{tab:4.3} Summary Table of Post Timeout Improvement", 
         "latex",
         booktabs = T,
         row.names = F, align = "ccccc") %>%
   column_spec(2:4, width = "3cm")
 
-### Figure 3.5
+### Figure 4.5
 ggplot(filter(pre_post_pairs, -run_interval_pre == run_interval_post),
        aes(x = secs_elapsed, y = score_run_post - score_run_pre)) +
   facet_wrap(~run_interval_post) +
@@ -197,7 +197,7 @@ ggplot(filter(pre_post_pairs, -run_interval_pre == run_interval_post),
        subtitle = "Non-Media Timeouts") +
   scale_x_continuous(breaks = seq(0, 2400, 600), limits = c(0, 2400))
 
-### Figure 3.6
+### Figure 4.6
 ggplot(filter(pre_post_pairs_tv, -run_interval_pre == run_interval_post),
        aes(x = secs_elapsed, y = score_run_post - score_run_pre)) +
   facet_wrap(~run_interval_post) +
@@ -215,13 +215,13 @@ ggplot(filter(pre_post_pairs_tv, -run_interval_pre == run_interval_post),
   scale_x_continuous(breaks = seq(0, 2400, 600), limits = c(0, 2400))
 
 
-### Figure 3.7
+### Figure 4.7
 library(sjPlot)
 tab_model(lmer.60, lmer.120, lmer.180, lmer.240, lmer.300,
           dv.labels = c("60 Sec", "120 Sec", "180 Sec", "240 Sec", "300 Sec"),
           show.ci = F)
 
-### Figure 3.8
+### Figure 4.8
 ### Points above expectation computed
 ### in pts_above_exp.R
 timeout_pairs <- mutate(timeout_pairs, 
@@ -243,7 +243,7 @@ ggplot(timeout_pairs,
         axis.title = element_text(size = 14),
         legend.position = "bottom")
 
-### Table 3.4
+### Table 4.4
 library(kableExtra)
 group_by(filter(timeout_pairs, timeout_taker != "Official TV"), run_interval_post) %>%
   summarise("mean_pae_ntv" = round(mean(pts_above_exp, na.rm = T), 3),
@@ -256,14 +256,14 @@ group_by(filter(timeout_pairs, timeout_taker != "Official TV"), run_interval_pos
          "Median PAE (Non-Media Timeouts)" = median_pae_ntv,
          "Mean PAE (Media Timeouts)" = mean_pae_tv,
          "Median PAE (Media Timeouts)" = median_pae_tv) %>%
-  kable(caption = "\\label{tab:3.4} Summary Table of Points Above Expectation", 
+  kable(caption = "\\label{tab:4.4} Summary Table of Points Above Expectation", 
         "latex",
         booktabs = T,
         row.names = F, align = "ccccc") %>%
   column_spec(2:5, width = "3cm")
 
 
-### Figure 3.9
+### Figure 4.9
 ggplot(filter(timeout_pairs, timeout_taker != "Official TV"), 
        aes(x = secs_elapsed, y = pts_above_exp)) +
   geom_smooth(col = gg_color_hue(2)[2]) +
@@ -279,7 +279,7 @@ ggplot(filter(timeout_pairs, timeout_taker != "Official TV"),
         legend.position = "bottom") +
   scale_x_continuous(breaks = seq(0, 2400, 600), limits = c(0, 2400))
 
-### Figure 3.10
+### Figure 4.10
 ggplot(filter(timeout_pairs, timeout_taker == "Official TV"), 
        aes(x = secs_elapsed, y = pts_above_exp)) +
   geom_smooth(col = gg_color_hue(2)[1]) +
@@ -295,7 +295,7 @@ ggplot(filter(timeout_pairs, timeout_taker == "Official TV"),
         legend.position = "bottom") +
   scale_x_continuous(breaks = seq(0, 2400, 600), limits = c(0, 2400))
 
-### Figure 3.11
+### Figure 4.11
 coeffs <- read.csv("model_coefficients/model_0_coeffs.csv", as.is = T) 
 score_diff_smooth <- 
   loess(estimate ~ max_time, 

@@ -1,4 +1,4 @@
-### Figure 2.1
+### Figure 3.1
 library(dplyr)
 library(ggplot2)
 gg_color_hue <- function(n) {
@@ -28,7 +28,7 @@ ggplot(z, aes(x = 2400 - max_time, y = estimate, group = coefficient)) +
   scale_x_continuous(breaks = seq(0, 2400, 400), limits = c(0, 2400)) +
   scale_color_manual(values = gg_color_hue(2)[2])
 
-### Figure 2.2
+### Figure 3.2
 z <- read.csv("model_coefficients/model_1_coeffs.csv", as.is = T) 
 ggplot(z, aes(x = 2400 - max_time, y = estimate, group = coefficient)) +
   facet_wrap(~coefficient, ncol = 2, scales = "free") +
@@ -51,7 +51,7 @@ ggplot(z, aes(x = 2400 - max_time, y = estimate, group = coefficient)) +
        subtitle = "Model 1") +
   scale_x_continuous(breaks = seq(0, 2400, 400), limits = c(0, 2400))
 
-### Figure 2.3
+### Figure 3.3
 results <- read.csv("testcv_results/results.csv", as.is = T)
 ggplot(results, aes(x = model, y = log_loss)) +
   geom_point(aes(color = span), size = 2) +
@@ -67,7 +67,7 @@ ggplot(results, aes(x = model, y = log_loss)) +
         legend.position = "bottom")
 
 
-### Figure 2.4
+### Figure 3.4
 time_results <-read.csv("testcv_results/time_results.csv", as.is = T)
 mutate(time_results, "model_id" = paste(model, span)) %>%
   filter(model_id %in% c("0 0.5",  "4 0.5"),
@@ -92,7 +92,7 @@ mutate(time_results, "model_id" = paste(model, span)) %>%
                                 "Timeout Indicator (Model 4)")) +
   scale_x_continuous(breaks = seq(0, 2400, 400), limits = c(0, 2400))
 
-### Figure 2.5
+### Figure 3.5
 z <- read.csv("model_coefficients/model_1_coeffs.csv", as.is = T) %>%
   filter(coefficient == "timeout_ind")
 p1 <-ggplot(z, aes(x = 2400 - max_time, y = estimate, group = coefficient)) +
