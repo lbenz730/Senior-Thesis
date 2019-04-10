@@ -3,7 +3,7 @@ library(ggplot2)
 load("cleaned_training_data.rda")
 train <- mutate(train, secs_elapsed = 2400 - secs_remaining)
 
-### Figure 1
+### Figure 1.1
 timeouts <- filter(train, grepl("Timeout", description))
 ggplot(timeouts, aes(x = secs_elapsed, y = ..density..)) +
   geom_histogram(bins = 100, fill = "orange") +
@@ -18,7 +18,7 @@ ggplot(timeouts, aes(x = secs_elapsed, y = ..density..)) +
   scale_x_continuous(breaks = seq(0, 2400, 400), 
                      limits = c(0, 2400))
 
-### Figure 2
+### Figure 1.2
 ggplot(filter(timeouts, description != "Official TV Timeout"), 
        aes(x = secs_elapsed, y = ..density..)) +
   geom_histogram(bins = 100, fill = "orange") +
