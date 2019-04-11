@@ -6,7 +6,7 @@ library(readr)
 library(dplyr)
 
 ### Fits Test win probability on 2018-19 season games
-files <- dir("test_pbp_data", full.names = T)
+files <- unlist(sapply(dir("test_pbp_data", full.names = T), dir, full.names = T))
 n <- length(files)
 
 ### Define Logit Function

@@ -16,7 +16,7 @@ library(dplyr)
 library(readr)
 
 ### Names of all ESPN files
-file_names <- dir("pbp_data", full.names = T)
+file_names <- unlist(sapply(dir("pbp_data", full.names = T), dir, full.names = T))
 n <- length(file_names)
 
 for(i in 1:n) {
