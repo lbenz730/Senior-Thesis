@@ -58,7 +58,7 @@ cbind(round(y[1:5, 1:3], 2), round(y[10:6, 2:3],2))[5:1,c(1,2,4,3,5)] %>%
          "Pre-Timeout Average Net Score Differential" = mean,
          "Post-Timeout Average Net Score Differential" = mean.1,
          "Pre-Timeout Net Score Differential Variance" = var,
-         "Post-Timeout Net Score Differentual Variance" = var.1) %>%
+         "Post-Timeout Net Score Differential Variance" = var.1) %>%
   kable(caption = "\\label{tab:4.1} Pre and Post Non-Media Timeout Summary Statistics", 
         "latex",
         booktabs = T,
@@ -251,7 +251,7 @@ group_by(filter(timeout_pairs, timeout_taker != "Official TV"), run_interval_pos
   inner_join(group_by(filter(timeout_pairs, timeout_taker == "Official TV"), run_interval_post) %>%
                summarise("mean_pae_tv" = round(mean(pts_above_exp, na.rm = T), 3),
                          "median_pae_tv" = round(median(pts_above_exp, na.rm = T), 3))) %>%
-  rename("Post-Timeout Interval Length" = run_interval_post,
+  rename("Post-Timeout Interval Length (Seconds)" = run_interval_post,
          "Mean PAE (Non-Media Timeouts)" = mean_pae_ntv,
          "Median PAE (Non-Media Timeouts)" = median_pae_ntv,
          "Mean PAE (Media Timeouts)" = mean_pae_tv,
