@@ -54,7 +54,7 @@ y <- rbind(
     mutate("to_relativity" = "After Timeout"))
 
 cbind(round(y[1:5, 1:3], 2), round(y[10:6, 2:3],2))[5:1,c(1,2,4,3,5)] %>%
-  rename("Interval (Seconds)" = run_interval,
+  rename("Interval Length (Seconds)" = run_interval,
          "Pre-Timeout Average Net Score Differential" = mean,
          "Post-Timeout Average Net Score Differential" = mean.1,
          "Pre-Timeout Net Score Differential Variance" = var,
@@ -63,7 +63,7 @@ cbind(round(y[1:5, 1:3], 2), round(y[10:6, 2:3],2))[5:1,c(1,2,4,3,5)] %>%
         "latex",
         booktabs = T,
         row.names = F, align = "ccccc") %>%
-  column_spec(2:5, width = "3cm")
+  column_spec(1:5, width = "3cm")
 
 ### Figure 4.2
 ggplot(tv, aes(x = as.factor(abs(run_interval)), y = score_run)) +
@@ -93,7 +93,7 @@ y <- rbind(
     mutate("to_relativity" = "After Timeout"))
 
 cbind(round(y[1:5, 1:3], 2), round(y[10:6, 2:3],2))[5:1,c(1,2,4,3,5)] %>%
-  rename("Interval (Seconds)" = run_interval,
+  rename("Interval Length (Seconds)" = run_interval,
          "Pre-Timeout Average Net Score Differential" = mean,
          "Post-Timeout Average Net Score Differential" = mean.1,
          "Pre-Timeout Net Score Differential Variance" = var,
@@ -102,7 +102,7 @@ cbind(round(y[1:5, 1:3], 2), round(y[10:6, 2:3],2))[5:1,c(1,2,4,3,5)] %>%
         "latex",
         booktabs = T,
         row.names = F, align = "ccccc") %>%
-  column_spec(2:5, width = "3cm")
+  column_spec(1:5, width = "3cm")
 
 ### Figure 4.3
 pre_post_pairs <- inner_join(non_tv, 
@@ -178,7 +178,7 @@ cbind(group_by(pre_post_pairs, run_interval_pre, run_interval_post) %>%
         "latex",
         booktabs = T,
         row.names = F, align = "ccccc") %>%
-  column_spec(2:4, width = "3cm")
+  column_spec(1:4, width = "3cm")
 
 ### Figure 4.5
 ggplot(filter(pre_post_pairs, -run_interval_pre == run_interval_post),
