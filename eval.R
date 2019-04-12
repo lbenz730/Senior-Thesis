@@ -1,5 +1,5 @@
 ### eval.R
-### Computes MSE and Log-Loss for different models
+### Computes MSE, Missclassification Rate and Log-Loss for different models
 
 library(dplyr)
 library(readr)
@@ -14,6 +14,10 @@ log_loss <- function(x, y) {
 
 mse <- function(x, y) {
   return(mean((x-y)^2))
+}
+
+misclass_rate <- function(x, y) {
+  return(mean(round(x) != y))
 }
 
 ### Recreate ggoplot2 colors
@@ -36,7 +40,8 @@ for(i in 1:length(files)) {
     "model" = model,
     "span" = span,
     "log_loss" = log_loss(test$win_prob, test$win),
-    "mse" = mse(test$win_prob, test$win)
+    "mse" = mse(test$win_prob, test$win),
+    "misclass_rate" = misclass_rate(test$win_prob, test$win)
   )
   
   if(i == 1) {
@@ -64,6 +69,7 @@ for(i in 1:length(files)) {
       "span" = span,
       "log_loss" = log_loss(x$win_prob, x$win),
       "mse" = mse(x$win_prob, x$win),
+      "misclass_rate" = misclass_rate(x$win_prob, x$win),
       "min_time" = min_times[j],
       "max_time" = max_times[j]
     )

@@ -9,11 +9,13 @@ gg_color_hue <- function(n) {
 z <- read.csv("model_coefficients/model_0_coeffs.csv", as.is = T) 
 ggplot(z, aes(x = 2400 - max_time, y = estimate, group = coefficient)) +
   facet_wrap(~coefficient, ncol = 2, scales = "free") +
-  geom_point(aes(col = (p_value < 0.05))) +
+  geom_ribbon(aes(ymax = estimate + 2 * std_error, ymin = estimate - 2 * std_error),
+              alpha = 0.8, fill = "skyblue") +
+  geom_point(size = 0.35, alpha = 0.2) +
   geom_smooth(data = filter(z, coefficient == "score_diff"), 
-              method = "loess", formula = "y~x", span = 0.1) +
+              method = "loess", formula = "y~x", span = 0.1, size = 0.7) +
   geom_smooth(data = filter(z, coefficient != "score_diff"), 
-              method = "loess", formula = "y~x", span = 0.4) +
+              method = "loess", formula = "y~x", span = 0.4, size = 0.7) +
   geom_hline(yintercept = 0, lty = 2) +
   theme_bw() +
   theme(legend.position  = "bottom",
@@ -23,20 +25,21 @@ ggplot(z, aes(x = 2400 - max_time, y = estimate, group = coefficient)) +
   labs(x = "Seconds Remaining",
        y = "Coefficient Estimate",
        title = "Win Probability Model Coefficients Over Time",
-       color = "Statistically Significant",
        subtitle = "Model 0") +
-  scale_x_continuous(breaks = seq(0, 2400, 400), limits = c(0, 2400)) +
-  scale_color_manual(values = gg_color_hue(2)[2])
+  scale_x_continuous(breaks = seq(0, 2400, 400), limits = c(0, 2400))
+
 
 ### Figure 3.2
 z <- read.csv("model_coefficients/model_1_coeffs.csv", as.is = T) 
 ggplot(z, aes(x = 2400 - max_time, y = estimate, group = coefficient)) +
   facet_wrap(~coefficient, ncol = 2, scales = "free") +
-  geom_point(aes(col = (p_value < 0.05))) +
+  geom_ribbon(aes(ymax = estimate + 2 * std_error, ymin = estimate - 2 * std_error),
+              alpha = 0.8, fill = "skyblue") +
+  geom_point(size = 0.35, alpha = 0.2) +
   geom_smooth(data = filter(z, coefficient == "favored_by"), 
-              method = "loess", formula = "y~x", span = 0.4) +
+              method = "loess", formula = "y~x", span = 0.4, size = 0.7) +
   geom_smooth(data = filter(z, coefficient != "favored_by"), 
-              method = "loess", formula = "y~x", span = 0.1) +
+              method = "loess", formula = "y~x", span = 0.1, size = 0.7) +
   geom_hline(yintercept = 0, lty = 2) +
   geom_hline(yintercept = 0, lty = 2) +
   theme_bw() +
@@ -47,9 +50,9 @@ ggplot(z, aes(x = 2400 - max_time, y = estimate, group = coefficient)) +
   labs(x = "Seconds Elapsed",
        y = "Coefficient Estimate",
        title = "Win Probability Model Coefficients Over Time",
-       color = "Statistically Significant",
        subtitle = "Model 1") +
   scale_x_continuous(breaks = seq(0, 2400, 400), limits = c(0, 2400))
+
 
 ### Figure 3.3
 results <- read.csv("testcv_results/results.csv", as.is = T)
@@ -68,14 +71,14 @@ ggplot(results, aes(x = model, y = log_loss)) +
 
 
 ### Figure 3.4
-time_results <-read.csv("testcv_results/time_results.csv", as.is = T)
+time_results <- read.csv("testcv_results/time_results.csv", as.is = T)
 mutate(time_results, "model_id" = paste(model, span)) %>%
   filter(model_id %in% c("0 0.5",  "4 0.5"),
          !is.na(log_loss)) %>%
   group_by(max_time) %>%
-  summarise("mse" = min(mse)) %>%
-  inner_join(time_results, by = c("max_time", "mse")) %>%
-  ggplot(aes(x = 2400 - max_time + 100, y = log_loss)) +
+  summarise("log_loss" = min(log_loss)) %>%
+  inner_join(time_results, by = c("max_time", "log_loss")) %>%
+  ggplot(aes(x = 2400 - max_time, y = log_loss)) +
   geom_point(aes(col = as.character(model))) +
   theme_bw() + 
   labs(x = "Seconds Elapsed",
@@ -93,10 +96,36 @@ mutate(time_results, "model_id" = paste(model, span)) %>%
   scale_x_continuous(breaks = seq(0, 2400, 400), limits = c(0, 2400))
 
 ### Figure 3.5
+time_results <- mutate(time_results, "model_id" = paste(model, span)) %>%
+  filter(model_id %in% c("0 0.5",  "4 0.5"),
+         !is.na(misclass_rate)) 
+group_by(time_results, max_time) %>%
+  summarise("misclass_rate" = min(misclass_rate)) %>%
+  inner_join(time_results, by = c("max_time", "misclass_rate")) %>%
+  ggplot(aes(x = 2400 - max_time, y = misclass_rate)) +
+  geom_point(aes(col = as.character(model))) +
+  theme_bw() + 
+  labs(x = "Seconds Elapsed",
+       y = "Minimum Misclassification Rate",
+       title = "Model Performance on Test Set Over Time",
+       subtitle = "Best Models Only",
+       color = "Model w/ Better Misclassification Rate") +
+  theme(plot.title = element_text(size = 16, hjust = 0.5),
+        plot.subtitle = element_text(size = 12, hjust = 0.5),
+        axis.title = element_text(size = 14),
+        legend.position = "bottom") + 
+  scale_color_manual(values = gg_color_hue(2), 
+                     labels = c("No Timeout Indicator (Model 0)",
+                                "Timeout Indicator (Model 4)")) +
+  scale_x_continuous(breaks = seq(0, 2400, 400), limits = c(0, 2400))
+
+### Figure 3.6
 z <- read.csv("model_coefficients/model_1_coeffs.csv", as.is = T) %>%
   filter(coefficient == "timeout_ind")
-p1 <-ggplot(z, aes(x = 2400 - max_time, y = estimate, group = coefficient)) +
-  geom_point(aes(col = (p_value < 0.05))) +
+p1 <- ggplot(z, aes(x = 2400 - max_time, y = estimate, group = coefficient)) +
+  geom_ribbon(aes(ymax = estimate + 2 * std_error, ymin = estimate - 2 * std_error),
+              alpha = 0.8, fill = "skyblue") +
+  geom_point(alpha = 0.2, size = 0.25) +
   geom_hline(yintercept = 0, lty = 2) +
   geom_hline(yintercept = 0, lty = 2) +
   theme_bw() +
@@ -106,16 +135,15 @@ p1 <-ggplot(z, aes(x = 2400 - max_time, y = estimate, group = coefficient)) +
         axis.title = element_text(size = 10)) +
   labs(x = "Seconds Elapsed",
        y = "Coefficient Estimate",
-       title = "Timeout Indicator Coefficient Estimate Over Time",
-       color = "Statistically Significant") +
+       title = "Timeout Indicator Coefficient Estimate Over Time") +
   scale_x_continuous(breaks = seq(0, 2400, 400), limits = c(0, 2400))
 p2 <- mutate(time_results, "model_id" = paste(model, span)) %>%
   filter(model_id %in% c("0 0.5",  "4 0.5"),
          !is.na(log_loss)) %>%
   group_by(max_time) %>%
-  summarise("mse" = min(mse)) %>%
-  inner_join(time_results, by = c("max_time", "mse")) %>%
-  ggplot(aes(x = 2400 - max_time + 100, y = log_loss)) +
+  summarise("log_loss" = min(log_loss)) %>%
+  inner_join(time_results, by = c("max_time", "log_loss")) %>%
+  ggplot(aes(x = 2400 - max_time, y = log_loss)) +
   geom_point(aes(col = as.character(model))) +
   theme_bw() + 
   labs(x = "Seconds Elapsed",
