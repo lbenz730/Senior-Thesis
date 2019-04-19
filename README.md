@@ -18,9 +18,9 @@ __clean.R:__ Cleans data. Due to GitHub size restrictions, the cleaned .rda obje
 
 __fit_model.R:__ Fits various win probability models discussed in Chapter 3.
 
-__model_cv.R:__ Predicts win probability models discussed in Chapter 3 on data in __test_pbp_data/__.
+__model_cv.R:__ Predicts win probability models discussed in Chapter 3 on data in __test_pbp_data/__. Stores results in __test_cv_results/__.
 
-__eval.R:__ Evaluates various win probability models discussed in Chapter 3.
+__eval.R:__ Evaluates various win probability models discussed in Chapter 3. Stores results in __test_cv_results/__.
 
 __score_runs.R:__ Computes net score differentials in intervals before and after each time stamp.
 
