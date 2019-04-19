@@ -15,4 +15,5 @@ ggplot(lines, aes(x = vegas_line, y = imputed_line)) +
        title = "Comparison of Point Spreads",
        subtitle = "Home Team Perspective") +
   xlim(c(-30, 40)) +
-  ylim(c(-30, 40)) 
+  ylim(c(-30, 40)) +
+  annotate(geom = "label", x = -20, y = 30, label = expression(R^2 == 0.87))

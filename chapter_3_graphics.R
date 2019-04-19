@@ -57,7 +57,8 @@ ggplot(z, aes(x = 2400 - max_time, y = estimate, group = coefficient)) +
 ### Figure 3.3
 results <- read.csv("testcv_results/results.csv", as.is = T)
 ggplot(results, aes(x = model, y = log_loss)) +
-  geom_point(aes(color = span), size = 2) +
+  geom_point(aes(color = as.character(span)), size = 2) +
+  geom_line(aes(color = as.character(span))) +
   theme_bw() + 
   labs(x = "Model",
        y = "Log Loss",
@@ -72,7 +73,7 @@ ggplot(results, aes(x = model, y = log_loss)) +
 
 ### Figure 3.4
 time_results <- read.csv("testcv_results/time_results.csv", as.is = T)
-mutate(time_results, "model_id" = paste(model, span)) %>%
+p1 <- mutate(time_results, "model_id" = paste(model, span)) %>%
   filter(model_id %in% c("0 0.5",  "4 0.5"),
          !is.na(log_loss)) %>%
   group_by(max_time) %>%
@@ -81,45 +82,42 @@ mutate(time_results, "model_id" = paste(model, span)) %>%
   ggplot(aes(x = 2400 - max_time, y = log_loss)) +
   geom_point(aes(col = as.character(model))) +
   theme_bw() + 
-  labs(x = "Seconds Elapsed",
-       y = "Minimum Log Loss",
+  labs(x = "",
+       y = "Log Loss",
        title = "Model Performance on Test Set Over Time",
-       subtitle = "Best Models Only",
-       color = "Model w/ Better Log Loss") +
+       subtitle = "Best Models Only") +
   theme(plot.title = element_text(size = 16, hjust = 0.5),
         plot.subtitle = element_text(size = 12, hjust = 0.5),
         axis.title = element_text(size = 14),
-        legend.position = "bottom") + 
-  scale_color_manual(values = gg_color_hue(2), 
-                     labels = c("No Timeout Indicator (Model 0)",
-                                "Timeout Indicator (Model 4)")) +
+        legend.position = "none") + 
+  scale_color_manual(values = gg_color_hue(2)) +
   scale_x_continuous(breaks = seq(0, 2400, 400), limits = c(0, 2400))
 
-### Figure 3.5
-time_results <- mutate(time_results, "model_id" = paste(model, span)) %>%
+time_results2 <- mutate(time_results, "model_id" = paste(model, span)) %>%
   filter(model_id %in% c("0 0.5",  "4 0.5"),
          !is.na(misclass_rate)) 
-group_by(time_results, max_time) %>%
+p2 <- group_by(time_results2, max_time) %>%
   summarise("misclass_rate" = min(misclass_rate)) %>%
-  inner_join(time_results, by = c("max_time", "misclass_rate")) %>%
+  inner_join(time_results2, by = c("max_time", "misclass_rate")) %>%
+  filter(!duplicated(max_time)) %>%
   ggplot(aes(x = 2400 - max_time, y = misclass_rate)) +
   geom_point(aes(col = as.character(model))) +
   theme_bw() + 
   labs(x = "Seconds Elapsed",
-       y = "Minimum Misclassification Rate",
-       title = "Model Performance on Test Set Over Time",
-       subtitle = "Best Models Only",
-       color = "Model w/ Better Misclassification Rate") +
+       y = "Misclassification Rate",
+       color = "Better Model") +
   theme(plot.title = element_text(size = 16, hjust = 0.5),
         plot.subtitle = element_text(size = 12, hjust = 0.5),
         axis.title = element_text(size = 14),
-        legend.position = "bottom") + 
+        legend.position = "bottom",
+        legend.title = element_text(size = 10)) + 
   scale_color_manual(values = gg_color_hue(2), 
                      labels = c("No Timeout Indicator (Model 0)",
                                 "Timeout Indicator (Model 4)")) +
   scale_x_continuous(breaks = seq(0, 2400, 400), limits = c(0, 2400))
+gridExtra::grid.arrange(p1, p2)
 
-### Figure 3.6
+### Figure 3.5
 z <- read.csv("model_coefficients/model_1_coeffs.csv", as.is = T) %>%
   filter(coefficient == "timeout_ind")
 p1 <- ggplot(z, aes(x = 2400 - max_time, y = estimate, group = coefficient)) +
@@ -136,21 +134,23 @@ p1 <- ggplot(z, aes(x = 2400 - max_time, y = estimate, group = coefficient)) +
   labs(x = "Seconds Elapsed",
        y = "Coefficient Estimate",
        title = "Timeout Indicator Coefficient Estimate Over Time") +
-  scale_x_continuous(breaks = seq(0, 2400, 400), limits = c(0, 2400))
-p2 <- mutate(time_results, "model_id" = paste(model, span)) %>%
-  filter(model_id %in% c("0 0.5",  "4 0.5"),
-         !is.na(log_loss)) %>%
-  group_by(max_time) %>%
-  summarise("log_loss" = min(log_loss)) %>%
-  inner_join(time_results, by = c("max_time", "log_loss")) %>%
-  ggplot(aes(x = 2400 - max_time, y = log_loss)) +
+  scale_x_continuous(breaks = seq(0, 2400, 400), limits = c(0, 2400)) +
+  geom_vline(xintercept = 2400 - c(2400, 2020, 1270, 400), 
+             lty = 2, col = "skyblue") +
+  geom_vline(xintercept = 2400 - c(2190, 1640, 1040), 
+             col = "red", lty = 2)
+p2 <- group_by(time_results2, max_time) %>%
+  summarise("misclass_rate" = min(misclass_rate)) %>%
+  inner_join(time_results2, by = c("max_time", "misclass_rate")) %>%
+  filter(!duplicated(max_time)) %>%
+  ggplot(aes(x = 2400 - max_time, y = misclass_rate)) +
   geom_point(aes(col = as.character(model))) +
   theme_bw() + 
   labs(x = "Seconds Elapsed",
-       y = "Minimum Log Loss",
+       y = "Minimum Misclassification Rate",
        title = "Model Performance on Test Set Over Time",
        subtitle = "Best Models Only",
-       color = "Model w/ Better Log Loss") +
+       color = "Model w/ Better Misclassification Rate") +
   theme(plot.title = element_text(size = 16, hjust = 0.5),
         plot.subtitle = element_text(size = 12, hjust = 0.5),
         axis.title = element_text(size = 10),
@@ -158,5 +158,9 @@ p2 <- mutate(time_results, "model_id" = paste(model, span)) %>%
   scale_color_manual(values = gg_color_hue(2), 
                      labels = c("No Timeout Indicator (Model 0)",
                                 "Timeout Indicator (Model 4)")) +
-  scale_x_continuous(breaks = seq(0, 2400, 400), limits = c(0, 2400))
+  scale_x_continuous(breaks = seq(0, 2400, 400), limits = c(0, 2400)) +
+  geom_vline(xintercept = 2400 - c(2400, 2020, 1270, 400), 
+             lty = 2, col = "skyblue") +
+  geom_vline(xintercept = 2400 - c(2190, 1640, 1040), 
+             col = "red", lty = 2)
 gridExtra::grid.arrange(p1, p2)
