@@ -287,7 +287,7 @@ group_by(filter(timeout_pairs, timeout_taker != "Official TV"), run_interval_pos
                          "median_pae_tv" = round(median(pts_above_exp, na.rm = T), 3),
                          "sd_tv" = round(sd(pts_above_exp, na.rm = T), 2))) %>%
   mutate("mean_pae_ntv" = paste0(mean_pae_ntv, " (\\pm", sd_ntv, ")"),
-         "mean_pae_tv" = paste0(mean_pae_ntv, " (\\pm", sd_tv, ")")) %>%
+         "mean_pae_tv" = paste0(mean_pae_tv, " (\\pm", sd_tv, ")")) %>%
   select(-sd_ntv, -sd_tv) %>%
   rename("Post-Timeout Interval Length (Seconds)" = run_interval_post,
          "Mean PAE (Non-Media Timeouts)" = mean_pae_ntv,
@@ -299,7 +299,7 @@ group_by(filter(timeout_pairs, timeout_taker != "Official TV"), run_interval_pos
         escape = F,
         booktabs = T,
         row.names = F, align = "ccccc") %>%
-  column_spec(1:4, width = "3cm")
+  column_spec(1:5, width = "3cm")
 
 
 ### Figure 4.10
